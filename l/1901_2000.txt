@@ -1,0 +1,100 @@
+leproso	adjetivo	le|[pro]|so
+leproso	nome masculino	le|[pro]|so
+leprosório	nome masculino	le|pro|[só]|ri|o
+leptálea	nome feminino	lep|[tá]|le|a
+leptandra	nome feminino	lep|[tan]|dra
+leptandrina	nome feminino	lep|tan|[dri]|na
+leptão	nome masculino	lep|[tão]
+leptídeo	nome masculino	lep|[tí]|de|o
+leptinite	nome feminino	lep|ti|[ni]|te
+leptíntico	adjetivo	lep|[tín]|ti|co
+leptitano	adjetivo	lep|ti|[ta]|no
+leptitano	nome masculino	lep|ti|[ta]|no
+lepto	nome masculino	[lep]|to
+leptocéfalo	adjetivo	lep|to|[cé]|fa|lo
+leptocéfalo	nome masculino	lep|to|[cé]|fa|lo
+leptóclase	nome feminino	lep|[tó]|cla|se
+leptócoma	nome feminino	lep|[tó]|co|ma
+leptodonte	adjetivo	lep|to|[don]|te
+leptodonte	nome masculino	lep|to|[don]|te
+leptofila	nome feminino	lep|to|[fi]|la
+leptologia	nome feminino	lep|to|lo|[gi]|a
+leptológico	adjetivo	lep|to|[ló]|gi|co
+leptomeninge	nome feminino	lep|to|me|[nin]|ge
+leptomórfico	adjetivo	lep|to|[mór]|fi|co
+leptorrinia	nome feminino	lep|tor|ri|[ni]|a
+leptorrino	adjetivo	lep|tor|[ri]|no
+leptospérmea	nome feminino	lep|tos|[pér]|me|a
+leptospira	nome feminino	lep|tos|[pi]|ra
+leptospiro	nome masculino	lep|tos|[pi]|ro
+leptospirose	nome feminino	lep|tos|pi|[ro]|se
+leptossômico	adjetivo	lep|tos|[sô]|mi|co
+leptossômico	nome masculino	lep|tos|[sô]|mi|co
+leptossómico	adjetivo	lep|tos|[só]|mi|co
+leptossómico	nome masculino	lep|tos|[só]|mi|co
+leptotério	nome masculino	lep|to|[té]|ri|o
+leptótrique	nome masculino	lep|[tó]|tri|que
+lepturíneo	nome masculino	lep|tu|[rí]|ne|o
+lepturo	nome masculino	lep|[tu]|ro
+leque	nome masculino	[le]|que
+leque-do-mar	nome masculino	le|que-do-mar
+lequieno	adjetivo	le|qui|[e]|no
+lequieno	nome masculino	le|qui|[e]|no
+léquio	adjetivo	[lé]|qui|o
+léquio	nome masculino	[lé]|qui|o
+ler	verbo	[ler]
+lerca	nome feminino	[ler]|ca
+lerdaço	adjetivo	ler|[da]|ço
+lerdamente	advérbio	ler|da|[men]|te
+lerdeador	adjetivo	ler|de|a|[dor]
+lerdeador	nome masculino	ler|de|a|[dor]
+lerdear	verbo	ler|de|[ar]
+lerdeza	nome feminino	ler|[de]|za
+lerdice	nome feminino	ler|[di]|ce
+lerdo	adjetivo	[ler]|do
+lereia	nome feminino	le|[rei]|a
+lergavonense	adjetivo	ler|ga|vo|[nen]|se
+lergavonense	nome masculino	ler|ga|vo|[nen]|se
+lergavonense	nome feminino	ler|ga|vo|[nen]|se
+léria	nome feminino	[lé]|ri|a
+léria	nome masculino	[lé]|ri|a
+leriar	verbo	le|ri|[ar]
+lérias	nome masculino	[lé]|ri|as
+lérias	nome feminino	[lé]|ri|as
+lerica	nome feminino	le|[ri]|ca
+lério	adjetivo	[lé]|ri|o
+lério	nome masculino	[lé]|ri|o
+lerista	nome masculino	le|[ris]|ta
+lerista	nome feminino	le|[ris]|ta
+lerna	nome feminino	[ler]|na
+lerneia	nome feminino	ler|[nei]|a
+lés	nome masculino	[lés]
+lés-nordeste	nome masculino	lés-nor|[des]|te
+lés-sueste	nome masculino	lés-su|[es]|te
+lesa-humanidade	nome feminino	le|sa-hu|ma|ni|[da]|de
+lesa-majestade	nome feminino	le|sa-ma|jes|[ta]|de
+lesa-pátria	nome feminino	le|sa-pá|tri|a
+lesado	adjetivo	le|[sa]|do
+lesado	nome masculino	le|[sa]|do
+lesador	adjetivo	le|sa|[dor]
+lesador	nome masculino	le|sa|[dor]
+lesante	adjetivo	le|[san]|te
+lesante	nome masculino	le|[san]|te
+lesante	nome feminino	le|[san]|te
+lesão	nome feminino	le|[são]
+lesar	verbo	le|[sar]
+lesável	adjetivo	le|[sá]|vel
+lésbia	nome feminino	[lés]|bi|a
+lesbíaco	adjetivo	les|[bí]|a|co
+lesbiana	nome feminino	les|bi|[a]|na
+lesbianismo	nome masculino	les|bi|a|[nis]|mo
+lesbiano	adjetivo	les|bi|[a]|no
+lesbiano	nome masculino	les|bi|[a]|no
+lésbica	nome feminino	[lés]|bi|ca
+lésbico	adjetivo	[lés]|bi|co
+lésbico	nome masculino	[lés]|bi|co
+lésbio	adjetivo	[lés]|bi|o
+lésbio	nome masculino	[lés]|bi|o
+leseira	nome feminino	le|[sei]|ra
+lésguico	adjetivo	[lés]|gui|co
+lésguico	nome masculino	[lés]|gui|co

@@ -1,0 +1,100 @@
+táquide	nome feminino	[tá]|qui|de
+taquidrite	nome feminino	ta|qui|[dri]|te
+taquidrômia	nome feminino	ta|qui|[drô]|mi|a
+taquidrómia	nome feminino	ta|qui|[dró]|mi|a
+taquifagia	nome feminino	ta|qui|fa|[gi]|a
+taquifrasia	nome feminino	ta|qui|fra|[si]|a
+taquigénese	nome feminino	ta|qui|[gé]|ne|se
+taquigênese	nome feminino	ta|qui|[gê]|ne|se
+taquígono	nome masculino	ta|[quí]|go|no
+taquigrafar	verbo	ta|qui|gra|[far]
+taquigrafia	nome feminino	ta|qui|gra|[fi]|a
+taquigraficamente	advérbio	ta|qui|gra|fi|ca|[men]|te
+taquigráfico	adjetivo	ta|qui|[grá]|fi|co
+taquígrafo	adjetivo	ta|[quí]|gra|fo
+taquígrafo	nome masculino	ta|[quí]|gra|fo
+taquilalia	nome feminino	ta|qui|la|[li]|a
+taquilálico	adjetivo	ta|qui|[lá]|li|co
+taquilálico	nome masculino	ta|qui|[lá]|li|co
+taquilha	nome feminino	ta|[qui]|lha
+taquílito	nome masculino	ta|[quí]|li|to
+taquimetria	nome feminino	ta|qui|me|[tri]|a
+taquimétrico	adjetivo	ta|qui|[mé]|tri|co
+taquímetro	nome masculino	ta|[quí]|me|tro
+taquiplóter	nome masculino	ta|qui|[pló]|ter
+taquipneia	nome feminino	ta|quip|[nei]|a
+taquipneico	adjetivo	ta|quip|[nei]|co
+taquípode	nome masculino	ta|[quí]|po|de
+taquíporo	nome masculino	ta|[quí]|po|ro
+taquipsiquia	nome feminino	ta|quip|si|[qui]|a
+taquirá	nome masculino	ta|qui|[rá]
+tara	nome feminino	[ta]|ra
+taracena	nome feminino	ta|ra|[ce]|na
+tarada	nome feminino	ta|[ra]|da
+tarado	nome masculino	ta|[ra]|do
+tarado	adjetivo	ta|[ra]|do
+taralhão	nome masculino	ta|ra|[lhão]
+taralhar	verbo	ta|ra|[lhar]
+taralheira	nome feminino	ta|ra|[lhei]|ra
+taralhoeira	nome feminino	ta|ra|lho|[ei]|ra
+taralhouco	adjetivo	ta|ra|[lhou]|co
+taramá	nome feminino	ta|ra|[má]
+taramá	nome masculino	ta|ra|[má]
+tarambecos	nome masculino	ta|ram|[be]|cos
+tarambola	nome feminino	ta|ram|[bo]|la
+tarambote	nome masculino	ta|ram|[bo]|te
+taramela	nome feminino	ta|ra|[me]|la
+taramela	adjetivo	ta|ra|[me]|la
+taramela	nome masculino	ta|ra|[me]|la
+taramelagem	nome feminino	ta|ra|me|[la]|gem
+taramelar	verbo	ta|ra|me|[lar]
+taramelear	verbo	ta|ra|me|le|[ar]
+tarameleira	nome feminino	ta|ra|me|[lei]|ra
+tarameleiro	adjetivo	ta|ra|me|[lei]|ro
+tarameleiro	nome masculino	ta|ra|me|[lei]|ro
+taramelice	nome feminino	ta|ra|me|[li]|ce
+taramelo	nome masculino	ta|ra|[me]|lo
+taramembé	adjetivo	ta|ra|mem|[bé]
+taramembé	nome masculino	ta|ra|mem|[bé]
+taramembé	nome feminino	ta|ra|mem|[bé]
+tarampabo	nome masculino	ta|ram|[pa]|bo
+tarampantão	nome masculino	ta|ram|pan|[tão]
+taranta	nome masculino	ta|[ran]|ta
+taranta	adjetivo	ta|[ran]|ta
+taranta	nome feminino	ta|[ran]|ta
+tarantela	nome feminino	ta|ran|[te]|la
+tarantela	nome masculino	ta|ran|[te]|la
+tarantismo	nome masculino	ta|ran|[tis]|mo
+tarântula	nome feminino	ta|[rân]|tu|la
+tarantulismo	nome masculino	ta|ran|tu|[lis]|mo
+tarapema	nome feminino	ta|ra|[pe]|ma
+tarapitinga	nome feminino	ta|ra|pi|[tin]|ga
+tarapoto	nome masculino	ta|ra|[po]|to
+tarar	verbo	ta|[rar]
+tarara	nome feminino	ta|[ra]|ra
+tarará	nome masculino	ta|ra|[rá]
+tararaçu	nome masculino	ta|ra|ra|[çu]
+tarária	nome feminino	ta|[rá]|ri|a
+tarasca	nome feminino	ta|[ras]|ca
+tarasco	nome masculino	ta|[ras]|co
+tarasco	adjetivo	ta|[ras]|co
+tarasquento	adjetivo	ta|ras|[quen]|to
+tarata	nome masculino	ta|[ra]|ta
+taratufo	nome masculino	ta|ra|[tu]|fo
+tarau	nome masculino	ta|[rau]
+taraucense	adjetivo	ta|rau|[cen]|se
+taraucense	nome masculino	ta|rau|[cen]|se
+taraucense	nome feminino	ta|rau|[cen]|se
+taráxaco	nome masculino	ta|[rá]|xa|co
+tarba	nome feminino	[tar]|ba
+tarbelo	adjetivo	tar|[be]|lo
+tarbelo	nome masculino	tar|[be]|lo
+tarca	nome feminino	[tar]|ca
+tardada	nome feminino	tar|[da]|da
+tardador	adjetivo	tar|da|[dor]
+tardador	nome masculino	tar|da|[dor]
+tardamento	nome masculino	tar|da|[men]|to
+tardança	nome feminino	tar|[dan]|ça
+tardão	adjetivo	tar|[dão]
+tardão	nome masculino	tar|[dão]
+tardar	verbo	tar|[dar]

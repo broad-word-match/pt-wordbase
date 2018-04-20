@@ -1,0 +1,100 @@
+acefálico	adjetivo	a|ce|[fá]|li|co
+acefalismo	nome masculino	a|ce|fa|[lis]|mo
+acefalista	adjetivo	a|ce|fa|[lis]|ta
+acefalista	nome masculino	a|ce|fa|[lis]|ta
+acefalista	nome feminino	a|ce|fa|[lis]|ta
+acefalita	adjetivo	a|ce|fa|[li]|ta
+acefalita	nome masculino	a|ce|fa|[li]|ta
+acefalita	nome feminino	a|ce|fa|[li]|ta
+acéfalo	adjetivo	a|[cé]|fa|lo
+acéfalo	nome masculino	a|[cé]|fa|lo
+acefalobraquia	nome feminino	a|ce|fa|lo|bra|[qui]|a
+acefalobráquio	adjetivo	a|ce|fa|lo|[brá]|qui|o
+acefalobráquio	nome masculino	a|ce|fa|lo|[brá]|qui|o
+acefalocardia	nome feminino	a|ce|fa|lo|car|[di]|a
+acefalocárdio	adjetivo	a|ce|fa|lo|[cár]|di|o
+acefalocárdio	nome masculino	a|ce|fa|lo|[cár]|di|o
+acefalópode	adjetivo	a|ce|fa|[ló]|po|de
+acefalópode	nome masculino	a|ce|fa|[ló]|po|de
+acefalopodia	nome feminino	a|ce|fa|lo|po|[di]|a
+acefaloquiria	nome feminino	a|ce|fa|lo|qui|[ri]|a
+acefaloquiro	adjetivo	a|ce|fa|lo|[qui]|ro
+acefaloquiro	nome masculino	a|ce|fa|lo|[qui]|ro
+acefalorraquia	nome feminino	a|ce|fa|lor|ra|[qui]|a
+acefalorráquio	adjetivo	a|ce|fa|lor|[rá]|qui|o
+acefalorráquio	nome masculino	a|ce|fa|lor|[rá]|qui|o
+acefalotoracia	nome feminino	a|ce|fa|lo|to|ra|[ci]|a
+acefalotorácico	adjetivo	a|ce|fa|lo|to|[rá]|ci|co
+acefalotorácico	nome masculino	a|ce|fa|lo|to|[rá]|ci|co
+aceifa	nome feminino	a|[cei]|fa
+aceifar	verbo	a|cei|[far]
+aceifões	nome masculino	a|cei|[fões]
+aceira	nome feminino	a|[cei]|ra
+aceiração	nome feminino	a|cei|ra|[ção]
+aceirado	adjetivo	a|cei|[ra]|do
+aceiramento	nome masculino	a|cei|ra|[men]|to
+aceirar	verbo	a|cei|[rar]
+aceiraria	nome feminino	a|cei|ra|[ri]|a
+aceiro	nome masculino	a|[cei]|ro
+aceiro	adjetivo	a|[cei]|ro
+aceitabilidade	nome feminino	a|cei|ta|bi|li|[da]|de
+aceitação	nome feminino	a|cei|ta|[ção]
+aceitador	adjetivo	a|cei|ta|[dor]
+aceitador	nome masculino	a|cei|ta|[dor]
+aceitamento	nome masculino	a|cei|ta|[men]|to
+aceitante	adjetivo	a|cei|[tan]|te
+aceitante	nome masculino	a|cei|[tan]|te
+aceitante	nome feminino	a|cei|[tan]|te
+aceitar	verbo	a|cei|[tar]
+aceitativo	adjetivo	a|cei|ta|[ti]|vo
+aceitável	adjetivo	a|cei|[tá]|vel
+aceitavelmente	advérbio	a|cei|ta|vel|[men]|te
+aceite	adjetivo	a|[cei]|te
+aceite	nome masculino	a|[cei]|te
+aceito	adjetivo	a|[cei]|to
+aceitosamente	advérbio	a|cei|to|sa|[men]|te
+aceitoso	adjetivo	a|cei|[to]|so
+aceleiramento	nome masculino	a|ce|lei|ra|[men]|to
+aceleirar	verbo	a|ce|lei|[rar]
+acelera	nome masculino	a|ce|[le]|ra
+acelera	nome feminino	a|ce|[le]|ra
+aceleração	nome feminino	a|ce|le|ra|[ção]
+aceleradamente	advérbio	a|ce|le|ra|da|[men]|te
+aceleradela	nome feminino	a|ce|le|ra|[de]|la
+acelerado	adjetivo	a|ce|le|[ra]|do
+acelerado	nome masculino	a|ce|le|[ra]|do
+acelerador	adjetivo	a|ce|le|ra|[dor]
+acelerador	nome masculino	a|ce|le|ra|[dor]
+aceleradora	nome feminino	a|ce|le|ra|[do]|ra
+aceleramento	nome masculino	a|ce|le|ra|[men]|to
+acelerando	nome masculino	a|ce|le|[ran]|do
+acelerante	adjetivo	a|ce|le|[ran]|te
+acelerar	verbo	a|ce|le|[rar]
+acelerativo	adjetivo	a|ce|le|ra|[ti]|vo
+aceleratório	adjetivo	a|ce|le|ra|[tó]|ri|o
+aceleratriz	nome feminino	a|ce|le|ra|[triz]
+acelerável	adjetivo	a|ce|le|[rá]|vel
+acelerográfico	adjetivo	a|ce|le|ro|[grá]|fi|co
+acelerógrafo	nome masculino	a|ce|le|[ró]|gra|fo
+acelerométrico	adjetivo	a|ce|le|ro|[mé]|tri|co
+acelerômetro	nome masculino	a|ce|le|[rô]|me|tro
+acelerómetro	nome masculino	a|ce|le|[ró]|me|tro
+aceleumar	verbo	a|ce|leu|[mar]
+acelga	nome feminino	a|[cel]|ga
+acelo	nome masculino	a|[ce]|lo
+acelomado	adjetivo	a|ce|lo|[ma]|do
+acelômato	adjetivo	a|ce|[lô]|ma|to
+acelômato	nome masculino	a|ce|[lô]|ma|to
+acelular	adjetivo	a|ce|lu|[lar]
+acém	nome masculino	a|[cém]
+acemia	nome feminino	a|ce|[mi]|a
+acenamento	nome masculino	a|ce|na|[men]|to
+acenar	verbo	a|ce|[nar]
+acendalha	nome feminino	a|cen|[da]|lha
+acendalho	nome masculino	a|cen|[da]|lho
+acende-candeia	nome feminino	a|cen|de-can|[dei]|a
+acendedor	nome masculino	a|cen|de|[dor]
+acendedor	adjetivo	a|cen|de|[dor]
+acendedora	nome feminino	a|cen|de|[do]|ra
+acendedura	nome feminino	a|cen|de|[du]|ra
+acender	verbo	a|cen|[der]

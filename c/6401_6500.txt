@@ -1,0 +1,100 @@
+cátodo	nome masculino	[cá]|to|do
+catodoluminescência	nome feminino	ca|to|do|lu|mi|nes|[cên]|ci|a
+catodonte	nome masculino	ca|to|[don]|te
+catolé	nome masculino	ca|to|[lé]
+católica	nome feminino	ca|[tó]|li|ca
+catolicamente	advérbio	ca|to|li|ca|[men]|te
+catolicão	nome masculino	ca|to|li|[cão]
+catolicidade	nome feminino	ca|to|li|ci|[da]|de
+catolicismo	nome masculino	ca|to|li|[cis]|mo
+catolicização	nome feminino	ca|to|li|ci|za|[ção]
+catolicizar	verbo	ca|to|li|ci|[zar]
+católico	nome masculino	ca|[tó]|li|co
+católico	adjetivo	ca|[tó]|li|co
+católico-apostólico-romano	adjetivo	ca|tó|li|co-a|pos|tó|li|co-ro|[ma]|no
+católito	nome masculino	ca|[tó]|li|to
+catolização	nome feminino	ca|to|li|za|[ção]
+catolizar	verbo	ca|to|li|[zar]
+catoma	nome masculino	ca|[to]|ma
+catombo	nome masculino	ca|[tom]|bo
+catoniano	adjetivo	ca|to|ni|[a]|no
+catônico	adjetivo	ca|[tô]|ni|co
+catónico	adjetivo	ca|[tó]|ni|co
+catonismo	nome masculino	ca|to|[nis]|mo
+catópode	nome masculino	ca|[tó]|po|de
+catóptrica	nome feminino	ca|[tóp]|tri|ca
+catóptrico	adjetivo	ca|[tóp]|tri|co
+catoptrofobia	nome feminino	ca|top|tro|fo|[bi]|a
+catoptrófobo	adjetivo	ca|top|[tró]|fo|bo
+catoptrófobo	nome masculino	ca|top|[tró]|fo|bo
+catoptromancia	nome feminino	ca|top|tro|man|[ci]|a
+catoptromante	nome masculino	ca|top|tro|[man]|te
+catoptromante	nome feminino	ca|top|tro|[man]|te
+catoptromântico	adjetivo	ca|top|tro|[mân]|ti|co
+catorra	nome feminino	ca|[tor]|ra
+catorrita	nome feminino	ca|tor|[ri]|ta
+catorze	número cardinal	ca|[tor]|ze
+catorze	adjetivo	ca|[tor]|ze
+catorze	nome masculino	ca|[tor]|ze
+catorzeno	adjetivo	ca|tor|[ze]|no
+catorzeno	nome masculino	ca|tor|[ze]|no
+catorzinha	nome feminino	ca|tor|[zi]|nha
+catoscópio	nome masculino	ca|tos|[có]|pi|o
+catota	nome feminino	ca|[to]|ta
+catotal	nome masculino	ca|to|[tal]
+catrabucha	nome feminino	ca|tra|[bu]|cha
+catraca	nome feminino	ca|[tra]|ca
+catracegar	verbo	ca|tra|ce|[gar]
+catracego	adjetivo	ca|tra|[ce]|go
+catracegueira	nome feminino	ca|tra|ce|[guei]|ra
+catraeiro	nome masculino	ca|tra|[ei]|ro
+catrafiar	verbo	ca|tra|fi|[ar]
+catrafilar	verbo	ca|tra|fi|[lar]
+catraia	nome feminino	ca|[trai]|a
+catraiar	verbo	ca|trai|[ar]
+catraieiro	nome masculino	ca|trai|[ei]|ro
+catraio	nome masculino	ca|[trai]|o
+catrâmbias	nome feminino	ca|[trâm]|bi|as
+catrâmbias	interjeição	ca|[trâm]|bi|as
+catrameço	nome masculino	ca|tra|[me]|ço
+catrapeanha	nome feminino	ca|tra|pe|[a]|nha
+catrapiscador	adjetivo	ca|tra|pis|ca|[dor]
+catrapiscar	verbo	ca|tra|pis|[car]
+catrapoço	nome masculino	ca|tra|[po]|ço
+catrapós	nome masculino	ca|tra|[pós]
+catrapós	interjeição	ca|tra|[pós]
+catrapus	nome masculino	ca|tra|[pus]
+catrapus	interjeição	ca|tra|[pus]
+catre	nome masculino	[ca]|tre
+catrefa	nome feminino	ca|[tre]|fa
+catrefada	nome feminino	ca|tre|[fa]|da
+catrozada	nome feminino	ca|tro|[za]|da
+catuá	nome feminino	ca|tu|[á]
+catuaba	nome masculino	ca|tu|[a]|ba
+catuaba	nome feminino	ca|tu|[a]|ba
+catual	nome masculino	ca|tu|[al]
+catualia	nome feminino	ca|tu|a|[li]|a
+catuca	interjeição	ca|[tu]|ca
+catucar	verbo	ca|tu|[car]
+catucazi	interjeição	ca|tu|ca|[zi]
+catuga	nome feminino	ca|[tu]|ga
+catuiti	nome masculino	ca|tui|[ti]
+catuituí	nome masculino	ca|tui|tu|[í]
+catuliano	adjetivo	ca|tu|li|[a]|no
+catulo	nome masculino	ca|[tu]|lo
+catumbi	nome masculino	ca|tum|[bi]
+catumua	nome masculino	ca|tu|[mu]|a
+catupá	nome masculino	ca|tu|[pá]
+catuqui	nome masculino	ca|tu|[qui]
+catuquina	adjetivo	ca|tu|[qui]|na
+catuquina	nome masculino	ca|tu|[qui]|na
+catuquina	nome feminino	ca|tu|[qui]|na
+catur	nome masculino	ca|[tur]
+catureiro	nome masculino	ca|tu|[rei]|ro
+catúrige	adjetivo	ca|[tú]|ri|ge
+catúrige	nome masculino	ca|[tú]|ri|ge
+catúrige	nome feminino	ca|[tú]|ri|ge
+caturra	adjetivo	ca|[tur]|ra
+caturra	nome masculino	ca|[tur]|ra
+caturra	nome feminino	ca|[tur]|ra
+caturrada	nome feminino	ca|tur|[ra]|da

@@ -1,0 +1,100 @@
+polissilogístico	adjetivo	po|lis|si|lo|[gís]|ti|co
+polissindáctilo	nome masculino	po|lis|sin|[dác]|ti|lo
+polissindátilo	nome masculino	po|lis|sin|[dá]|ti|lo
+polissíndeto	nome masculino	po|lis|[sín]|de|to
+polissíndeton	nome masculino	po|lis|[sín]|de|ton
+polissíntese	nome feminino	po|lis|[sín]|te|se
+polissintético	adjetivo	po|lis|sin|[té]|ti|co
+polissintetismo	nome masculino	po|lis|sin|te|[tis]|mo
+polissoma	nome masculino	po|lis|[so]|ma
+polissomático	adjetivo	po|lis|so|[má]|ti|co
+polissomo	nome masculino	po|lis|[so]|mo
+polistélico	adjetivo	po|lis|[té]|li|co
+polistémone	adjetivo	po|lis|[té]|mo|ne
+polistêmone	adjetivo	po|lis|[tê]|mo|ne
+polistilo	adjetivo	po|lis|[ti]|lo
+polistilo	nome masculino	po|lis|[ti]|lo
+polistireno	nome masculino	po|lis|ti|[re]|no
+polistómio	nome masculino	po|lis|[tó]|mi|o
+polistómio	adjetivo	po|lis|[tó]|mi|o
+polistrófico	adjetivo	po|lis|[tró]|fi|co
+politburo	nome masculino	po|lit|[bu]|ro
+politeama	nome masculino	po|li|te|[a]|ma
+politécnica	nome feminino	po|li|[téc]|ni|ca
+politecnicamente	advérbio	po|li|tec|ni|ca|[men]|te
+politécnico	nome masculino	po|li|[téc]|ni|co
+politécnico	adjetivo	po|li|[téc]|ni|co
+politeia	nome feminino	po|li|[tei]|a
+politeico	adjetivo	po|li|[tei]|co
+politeísmo	nome masculino	po|li|te|[ís]|mo
+politeísta	adjetivo	po|li|te|[ís]|ta
+politeísta	nome masculino	po|li|te|[ís]|ta
+politeísta	nome feminino	po|li|te|[ís]|ta
+politeístico	adjetivo	po|li|te|[ís]|ti|co
+politelia	nome feminino	po|li|te|[li]|a
+politelismo	nome masculino	po|li|te|[lis]|mo
+politeno	nome masculino	po|li|[te]|no
+políteo	adjetivo	po|[lí]|te|o
+política	nome feminino	po|[lí]|ti|ca
+politicagem	nome feminino	po|li|ti|[ca]|gem
+politicalha	nome feminino	po|li|ti|[ca]|lha
+politicalhão	nome masculino	po|li|ti|ca|[lhão]
+politicalheiro	adjetivo	po|li|ti|ca|[lhei]|ro
+politicalho	nome masculino	po|li|ti|[ca]|lho
+politicamente	advérbio	po|li|ti|ca|[men]|te
+politicante	adjetivo	po|li|ti|[can]|te
+politicante	nome masculino	po|li|ti|[can]|te
+politicante	nome feminino	po|li|ti|[can]|te
+politicão	nome masculino	po|li|ti|[cão]
+politicar	verbo	po|li|ti|[car]
+politicastro	nome masculino	po|li|ti|[cas]|tro
+político	nome masculino	po|[lí]|ti|co
+político	adjetivo	po|[lí]|ti|co
+político-administrativo	adjetivo	po|lí|ti|co-ad|mi|nis|tra|[ti]|vo
+político-diplomático	adjetivo	po|lí|ti|co-di|plo|[má]|ti|co
+político-económico	adjetivo	po|lí|ti|co-e|co|[nó]|mi|co
+político-econômico	adjetivo	po|lí|ti|co-e|co|[nô]|mi|co
+político-institucional	adjetivo	po|lí|ti|co-ins|ti|tu|ci|o|[nal]
+político-jurídico	adjetivo	po|lí|ti|co-ju|[rí]|di|co
+político-militar	adjetivo	po|lí|ti|co-mi|li|[tar]
+político-partidário	adjetivo	po|lí|ti|co-par|ti|[dá]|ri|o
+político-religioso	adjetivo	po|lí|ti|co-re|li|gi|[o]|so
+político-social	adjetivo	po|lí|ti|co-so|ci|[al]
+politicoide	adjetivo	po|li|ti|[coi]|de
+politicoide	nome masculino	po|li|ti|[coi]|de
+politicóloga	nome feminino	po|li|ti|[có]|lo|ga
+politicologia	nome feminino	po|li|ti|co|lo|[gi]|a
+politicológico	adjetivo	po|li|ti|co|[ló]|gi|co
+politicólogo	adjetivo	po|li|ti|[có]|lo|go
+politicólogo	nome masculino	po|li|ti|[có]|lo|go
+politicomania	nome feminino	po|li|ti|co|ma|[ni]|a
+politicomaníaco	adjetivo	po|li|ti|co|ma|[ní]|a|co
+politicomaníaco	nome masculino	po|li|ti|co|ma|[ní]|a|co
+politicómano	nome masculino	po|li|ti|[có]|ma|no
+politicômano	nome masculino	po|li|ti|[cô]|ma|no
+politicote	nome masculino	po|li|ti|[co]|te
+polítipo	adjetivo	po|[lí]|ti|po
+politiqueiro	nome masculino	po|li|ti|[quei]|ro
+politiquento	adjetivo	po|li|ti|[quen]|to
+politiquete	nome masculino	po|li|ti|[que]|te
+politiquice	nome feminino	po|li|ti|[qui]|ce
+politiquilho	nome masculino	po|li|ti|[qui]|lho
+politiquismo	nome masculino	po|li|ti|[quis]|mo
+politização	nome feminino	po|li|ti|za|[ção]
+politizado	adjetivo	po|li|ti|[za]|do
+politizar	verbo	po|li|ti|[zar]
+politizável	adjetivo	po|li|ti|[zá]|vel
+politologia	nome feminino	po|li|to|lo|[gi]|a
+politólogo	nome masculino	po|li|[tó]|lo|go
+politonal	adjetivo	po|li|to|[nal]
+politonalidade	nome feminino	po|li|to|na|li|[da]|de
+politraumatismo	nome masculino	po|li|trau|ma|[tis]|mo
+politraumatizado	adjetivo	po|li|trau|ma|ti|[za]|do
+politraumatizado	nome masculino	po|li|trau|ma|ti|[za]|do
+politricácea	nome feminino	po|li|tri|[cá]|ce|a
+polítrico	nome masculino	po|[lí]|tri|co
+politriquia	nome feminino	po|li|tri|[qui]|a
+politrofia	nome feminino	po|li|tro|[fi]|a
+politrófico	adjetivo	po|li|[tró]|fi|co
+polítrofo	adjetivo	po|[lí]|tro|fo
+politropia	nome feminino	po|li|tro|[pi]|a

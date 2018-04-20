@@ -1,0 +1,100 @@
+sigilo	nome masculino	si|[gi]|lo
+sigilografia	nome feminino	si|gi|lo|gra|[fi]|a
+sigilográfico	adjetivo	si|gi|lo|[grá]|fi|co
+sigilógrafo	nome masculino	si|gi|[ló]|gra|fo
+sigilosamente	advérbio	si|gi|lo|sa|[men]|te
+sigiloso	adjetivo	si|gi|[lo]|so
+sigla	nome feminino	[si]|gla
+siglação	nome feminino	si|gla|[ção]
+siglado	adjetivo	si|[gla]|do
+siglar	verbo	si|[glar]
+siglar	adjetivo	si|[glar]
+siglário	nome masculino	si|[glá]|ri|o
+siglatura	nome feminino	si|gla|[tu]|ra
+siglista	adjetivo	si|[glis]|ta
+siglista	nome masculino	si|[glis]|ta
+siglista	nome feminino	si|[glis]|ta
+siglística	nome feminino	si|[glís]|ti|ca
+siglístico	adjetivo	si|[glís]|ti|co
+siglizante	adjetivo	si|gli|[zan]|te
+siglizar	verbo	si|gli|[zar]
+siglógrafo	nome masculino	si|[gló]|gra|fo
+siglologia	nome feminino	si|glo|lo|[gi]|a
+siglológico	adjetivo	si|glo|[ló]|gi|co
+siglologista	adjetivo	si|glo|lo|[gis]|ta
+siglologista	nome masculino	si|glo|lo|[gis]|ta
+siglologista	nome feminino	si|glo|lo|[gis]|ta
+siglólogo	nome masculino	si|[gló]|lo|go
+siglomania	nome feminino	si|glo|ma|[ni]|a
+siglomaníaco	adjetivo	si|glo|ma|[ní]|a|co
+siglómano	adjetivo	si|[gló]|ma|no
+siglómano	nome masculino	si|[gló]|ma|no
+siglômano	adjetivo	si|[glô]|ma|no
+siglômano	nome masculino	si|[glô]|ma|no
+sigma	nome masculino	[sig]|ma
+sigmatela	nome feminino	sig|ma|[te]|la
+sigmático	adjetivo	sig|[má]|ti|co
+sigmatismo	nome masculino	sig|ma|[tis]|mo
+sigmatista	adjetivo	sig|ma|[tis]|ta
+sigmatista	nome masculino	sig|ma|[tis]|ta
+sigmatista	nome feminino	sig|ma|[tis]|ta
+sigmatístico	adjetivo	sig|ma|[tís]|ti|co
+sigmodonte	nome masculino	sig|mo|[don]|te
+sigmoide	adjetivo	sig|[moi]|de
+sigmoide	nome masculino	sig|[moi]|de
+sigmóideo	adjetivo	sig|[mói]|de|o
+sigmoidite	nome feminino	sig|moi|[di]|te
+sigmoidostomia	nome feminino	sig|moi|dos|to|[mi]|a
+signa	nome feminino	[sig]|na
+signáculo	nome masculino	sig|[ná]|cu|lo
+signatária	nome feminino	sig|na|[tá]|ri|a
+signatário	adjetivo	sig|na|[tá]|ri|o
+signatário	nome masculino	sig|na|[tá]|ri|o
+signífero	nome masculino	sig|[ní]|fe|ro
+significação	nome feminino	sig|ni|fi|ca|[ção]
+significado	nome masculino	sig|ni|fi|[ca]|do
+significador	adjetivo	sig|ni|fi|ca|[dor]
+significador	nome masculino	sig|ni|fi|ca|[dor]
+significadora	nome feminino	sig|ni|fi|ca|[do]|ra
+significância	nome feminino	sig|ni|fi|[cân]|ci|a
+significante	nome masculino	sig|ni|fi|[can]|te
+significante	adjetivo	sig|ni|fi|[can]|te
+significar	verbo	sig|ni|fi|[car]
+significativamente	advérbio	sig|ni|fi|ca|ti|va|[men]|te
+significativo	adjetivo	sig|ni|fi|ca|[ti]|vo
+significável	adjetivo	sig|ni|fi|[cá]|vel
+signino	adjetivo	sig|[ni]|no
+signino	nome masculino	sig|[ni]|no
+signo	nome masculino	[sig]|no
+signo-saimão	nome masculino	sig|no-sai|[mão]
+signo-salomão	nome masculino	sig|no-sa|lo|[mão]
+signo-samão	nome masculino	sig|no-sa|[mão]
+signografia	nome feminino	sig|no|gra|[fi]|a
+sigro	nome masculino	[si]|gro
+sikh	nome masculino	[sikh]
+sila	adjetivo	[si]|la
+sila	nome masculino	[si]|la
+sila	nome feminino	[si]|la
+sílaba	nome feminino	[sí]|la|ba
+silabação	nome feminino	si|la|ba|[ção]
+silabada	nome feminino	si|la|[ba]|da
+silabar	verbo	si|la|[bar]
+silabário	nome masculino	si|la|[bá]|ri|o
+silabicamente	advérbio	si|la|bi|ca|[men]|te
+silábico	adjetivo	si|[lá]|bi|co
+silabismo	nome masculino	si|la|[bis]|mo
+silabista	adjetivo	si|la|[bis]|ta
+silabista	nome masculino	si|la|[bis]|ta
+silabista	nome feminino	si|la|[bis]|ta
+sílabo	nome masculino	[sí]|la|bo
+silabograma	nome masculino	si|la|bo|[gra]|ma
+silagem	nome feminino	si|[la]|gem
+silano	nome masculino	si|[la]|no
+silbiano	adjetivo	sil|bi|[a]|no
+silbiano	nome masculino	sil|bi|[a]|no
+silena	nome feminino	si|[le]|na
+silenácea	nome feminino	si|le|[ná]|ce|a
+silenáceo	adjetivo	si|le|[ná]|ce|o
+silenciador	adjetivo	si|len|ci|a|[dor]
+silenciador	nome masculino	si|len|ci|a|[dor]
+silenciamento	nome masculino	si|len|ci|a|[men]|to

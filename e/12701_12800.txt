@@ -1,0 +1,100 @@
+eupétala	nome feminino	eu|[pé]|ta|la
+euplástico	adjetivo	eu|[plás]|ti|co
+euplero	nome masculino	eu|[ple]|ro
+euplócamo	adjetivo	eu|[pló]|ca|mo
+euplócamo	nome masculino	eu|[pló]|ca|mo
+euploide	adjetivo	eu|[ploi]|de
+euploidia	nome feminino	eu|ploi|[di]|a
+eupneia	nome feminino	eup|[nei]|a
+eupneico	adjetivo	eup|[nei]|co
+eupogónia	nome feminino	eu|po|[gó]|ni|a
+eupogônia	nome feminino	eu|po|[gô]|ni|a
+eupolideu	adjetivo	eu|po|li|[deu]
+eupolideu	nome masculino	eu|po|li|[deu]
+eupraxia	nome feminino	eu|pra|[xi]|a
+euquilia	nome feminino	eu|qui|[li]|a
+euquimo	nome masculino	eu|[qui]|mo
+euquinina	nome feminino	eu|qui|[ni]|na
+eurafricana	nome feminino	eu|ra|fri|[ca]|na
+eurafricano	adjetivo	eu|ra|fri|[ca]|no
+eurafricano	nome masculino	eu|ra|fri|[ca]|no
+euraliano	adjetivo	eu|ra|li|[a]|no
+euramericana	nome feminino	eu|ra|me|ri|[ca]|na
+euramericano	nome masculino	eu|ra|me|ri|[ca]|no
+euramericano	adjetivo	eu|ra|me|ri|[ca]|no
+euraquilão	nome masculino	eu|ra|qui|[lão]
+eurasiática	nome feminino	eu|ra|si|[á]|ti|ca
+eurasiático	adjetivo	eu|ra|si|[á]|ti|co
+eurasiático	nome masculino	eu|ra|si|[á]|ti|co
+eurásio	adjetivo	eu|[rá]|si|o
+eurásio	nome masculino	eu|[rá]|si|o
+euraustro	nome masculino	eu|[raus]|tro
+eureca	interjeição	eu|[re]|ca
+euribático	adjetivo	eu|ri|[bá]|ti|co
+euricefalia	nome feminino	eu|ri|ce|fa|[li]|a
+euricéfalo	adjetivo	eu|ri|[cé]|fa|lo
+eurícero	adjetivo	eu|[rí]|ce|ro
+eurignatismo	nome masculino	eu|rig|na|[tis]|mo
+eurígnato	adjetivo	eu|[ríg]|na|to
+êurino	adjetivo	[êu]|ri|no
+euriónico	adjetivo	eu|ri|[ó]|ni|co
+euriônico	adjetivo	eu|ri|[ô]|ni|co
+euripideu	adjetivo	eu|ri|pi|[deu]
+euripideu	nome masculino	eu|ri|pi|[deu]
+euripidiano	adjetivo	eu|ri|pi|di|[a]|no
+euripo	nome masculino	eu|[ri]|po
+euríptero	nome masculino	eu|[ríp]|te|ro
+eurístomo	adjetivo	eu|[rís]|to|mo
+euritermo	adjetivo	eu|ri|[ter]|mo
+euritermo	nome masculino	eu|ri|[ter]|mo
+euritmia	nome feminino	eu|rit|[mi]|a
+eurítmico	adjetivo	eu|[rít]|mi|co
+euro	nome masculino	[eu]|ro
+euro-africana	nome feminino	eu|ro-a|fri|[ca]|na
+euro-africano	adjetivo	eu|ro-a|fri|[ca]|no
+euro-africano	nome masculino	eu|ro-a|fri|[ca]|no
+euro-americana	nome feminino	eu|ro-a|me|ri|[ca]|na
+euro-americano	adjetivo	eu|ro-a|me|ri|[ca]|no
+euro-americano	nome masculino	eu|ro-a|me|ri|[ca]|no
+euro-asiática	nome feminino	eu|ro-a|si|[á]|ti|ca
+euro-asiático	adjetivo	eu|ro-a|si|[á]|ti|co
+euro-asiático	nome masculino	eu|ro-a|si|[á]|ti|co
+euro-atlântico	adjetivo	eu|ro-a|[tlân]|ti|co
+euro-austro	nome masculino	eu|ro-aus|tro
+euro-obrigação	nome feminino	eu|ro-o|bri|ga|[ção]
+euroaquilão	nome masculino	eu|ro|a|qui|[lão]
+euróboro	nome masculino	eu|[ró]|bo|ro
+eurocêntrico	adjetivo	eu|ro|[cên]|tri|co
+eurocentrismo	nome masculino	eu|ro|cen|[tris]|mo
+eurocéptica	nome feminino	eu|ro|[cép]|ti|ca
+eurocepticismo	nome masculino	eu|ro|cep|ti|[cis]|mo
+eurocéptico	adjetivo	eu|ro|[cép]|ti|co
+eurocéptico	nome masculino	eu|ro|[cép]|ti|co
+eurocética	nome feminino	eu|ro|[cé]|ti|ca
+euroceticismo	nome masculino	eu|ro|ce|ti|[cis]|mo
+eurocético	adjetivo	eu|ro|[cé]|ti|co
+eurocético	nome masculino	eu|ro|[cé]|ti|co
+eurocírcias	nome masculino	eu|ro|[cír]|ci|as
+eurocomunismo	nome masculino	eu|ro|co|mu|[nis]|mo
+eurocomunista	nome masculino	eu|ro|co|mu|[nis]|ta
+eurocomunista	adjetivo	eu|ro|co|mu|[nis]|ta
+eurocomunista	nome feminino	eu|ro|co|mu|[nis]|ta
+eurocracia	nome feminino	eu|ro|cra|[ci]|a
+eurocrata	nome masculino	eu|ro|[cra]|ta
+eurocrata	nome feminino	eu|ro|[cra]|ta
+eurodeputada	nome feminino	eu|ro|de|pu|[ta]|da
+eurodeputado	nome masculino	eu|ro|de|pu|[ta]|do
+eurodivisa	nome feminino	eu|ro|di|[vi]|sa
+eurodólar	nome masculino	eu|ro|[dó]|lar
+eurolândia	nome feminino	eu|ro|[lân]|di|a
+euromercado	nome masculino	eu|ro|mer|[ca]|do
+euromíssil	nome masculino	eu|ro|[mís]|sil
+eurónoto	nome masculino	eu|[ró]|no|to
+eurônoto	nome masculino	eu|[rô]|no|to
+europeia	nome feminino	eu|ro|[pei]|a
+europeísmo	nome masculino	eu|ro|pe|[ís]|mo
+europeísta	adjetivo	eu|ro|pe|[ís]|ta
+europeísta	nome masculino	eu|ro|pe|[ís]|ta
+europeísta	nome feminino	eu|ro|pe|[ís]|ta
+europeização	nome feminino	eu|ro|pei|za|[ção]
+europeizar	verbo	eu|ro|pei|[zar]

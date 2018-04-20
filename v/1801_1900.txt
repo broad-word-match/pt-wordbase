@@ -1,0 +1,100 @@
+vergonha	nome feminino	ver|[go]|nha
+vergonhaça	nome feminino	ver|go|[nha]|ça
+vergonhaço	nome masculino	ver|go|[nha]|ço
+vergonheira	nome feminino	ver|go|[nhei]|ra
+vergonhosa	nome feminino	ver|go|[nho]|sa
+vergonhosamente	advérbio	ver|go|nho|sa|[men]|te
+vergonhoso	adjetivo	ver|go|[nho]|so
+vergôntea	nome feminino	ver|[gôn]|te|a
+vergonteado	adjetivo	ver|gon|te|[a]|do
+vergontear	verbo	ver|gon|te|[ar]
+vergueiro	nome masculino	ver|[guei]|ro
+vergueiro	adjetivo	ver|[guei]|ro
+vergueta	nome feminino	ver|[gue]|ta
+verguinha	nome feminino	ver|[gui]|nha
+verguio	adjetivo	ver|[gui]|o
+verguno	adjetivo	ver|[gu]|no
+verguno	nome masculino	ver|[gu]|no
+veridicamente	advérbio	ve|ri|di|ca|[men]|te
+veridicidade	nome feminino	ve|ri|di|ci|[da]|de
+verídico	adjetivo	ve|[rí]|di|co
+verificabilidade	nome feminino	ve|ri|fi|ca|bi|li|[da]|de
+verificação	nome feminino	ve|ri|fi|ca|[ção]
+verificado	adjetivo	ve|ri|fi|[ca]|do
+verificador	adjetivo	ve|ri|fi|ca|[dor]
+verificador	nome masculino	ve|ri|fi|ca|[dor]
+verificadora	nome feminino	ve|ri|fi|ca|[do]|ra
+verificar	verbo	ve|ri|fi|[car]
+verificativo	adjetivo	ve|ri|fi|ca|[ti]|vo
+verificável	adjetivo	ve|ri|fi|[cá]|vel
+verisímil	adjetivo	ve|ri|[sí]|mil
+verisimilhança	nome feminino	ve|ri|si|mi|[lhan]|ça
+verisimilidade	nome feminino	ve|ri|si|mi|li|[da]|de
+verisimilitude	nome feminino	ve|ri|si|mi|li|[tu]|de
+verisimilmente	advérbio	ve|ri|si|mil|[men]|te
+verismo	nome masculino	ve|[ris]|mo
+verissímil	adjetivo	ve|ris|[sí]|mil
+verissimilidade	nome feminino	ve|ris|si|mi|li|[da]|de
+verissimilitude	nome feminino	ve|ris|si|mi|li|[tu]|de
+verissimilmente	advérbio	ve|ris|si|mil|[men]|te
+verista	adjetivo	ve|[ris]|ta
+verista	nome masculino	ve|[ris]|ta
+verista	nome feminino	ve|[ris]|ta
+verjoeiro	nome masculino	ver|jo|[ei]|ro
+verlete	nome masculino	ver|[le]|te
+verme	nome masculino	[ver]|me
+vermejoilo	adjetivo	ver|me|[joi]|lo
+vermelha	nome feminino	ver|[me]|lha
+vermelhaço	adjetivo	ver|me|[lha]|ço
+vermelhão	nome masculino	ver|me|[lhão]
+vermelhar	verbo	ver|me|[lhar]
+vermelhear	verbo	ver|me|lhe|[ar]
+vermelhecer	verbo	ver|me|lhe|[cer]
+vermelhejar	verbo	ver|me|lhe|[jar]
+vermelhiço	adjetivo	ver|me|[lhi]|ço
+vermelhidão	nome feminino	ver|me|lhi|[dão]
+vermelhinha	nome feminino	ver|me|[lhi]|nha
+vermelhinho	nome masculino	ver|me|[lhi]|nho
+vermelhinho	adjetivo	ver|me|[lhi]|nho
+vermelhíssimo	adjetivo	ver|me|[lhís]|si|mo
+vermelho	adjetivo	ver|[me]|lho
+vermelho	nome masculino	ver|[me]|lho
+vermelho-amarelado	nome masculino	ver|me|lho-a|ma|re|[la]|do
+vermelho-amarelado	adjetivo	ver|me|lho-a|ma|re|[la]|do
+vermelho-claro	nome masculino	ver|me|lho-cla|ro
+vermelho-claro	adjetivo	ver|me|lho-cla|ro
+vermelho-escuro	adjetivo	ver|me|lho-es|[cu]|ro
+vermelho-escuro	nome masculino	ver|me|lho-es|[cu]|ro
+vermelho-púrpura	adjetivo	ver|me|lho-púr|pu|ra
+vermelho-púrpura	nome masculino	ver|me|lho-púr|pu|ra
+vermelhoso	adjetivo	ver|me|[lho]|so
+vermelhuço	adjetivo	ver|me|[lhu]|ço
+vermelhusco	adjetivo	ver|me|[lhus]|co
+vermelhusco	nome masculino	ver|me|[lhus]|co
+vermem	nome masculino	[ver]|mem
+vermicida	adjetivo	ver|mi|[ci]|da
+vermicida	nome masculino	ver|mi|[ci]|da
+vérmico	adjetivo	[vér]|mi|co
+vermiculação	nome feminino	ver|mi|cu|la|[ção]
+vermiculado	adjetivo	ver|mi|cu|[la]|do
+vermicular	adjetivo	ver|mi|cu|[lar]
+vermicular	verbo	ver|mi|cu|[lar]
+vermiculária	nome feminino	ver|mi|cu|[lá]|ri|a
+vermiculita	nome feminino	ver|mi|cu|[li]|ta
+vermiculite	nome feminino	ver|mi|cu|[li]|te
+vermículo	nome masculino	ver|[mí]|cu|lo
+vermiculoso	adjetivo	ver|mi|cu|[lo]|so
+vermiculura	nome feminino	ver|mi|cu|[lu]|ra
+vermídeo	adjetivo	ver|[mí]|de|o
+vermídeo	nome masculino	ver|[mí]|de|o
+vermiforme	adjetivo	ver|mi|[for]|me
+vermífugo	adjetivo	ver|[mí]|fu|go
+vermífugo	nome masculino	ver|[mí]|fu|go
+vermilingue	nome masculino	ver|mi|[lin]|gue
+vermilingue	adjetivo	ver|mi|[lin]|gue
+vermilíngue	adjetivo	ver|mi|[lín]|gue
+vérmina	nome feminino	[vér]|mi|na
+verminação	nome feminino	ver|mi|na|[ção]
+verminado	adjetivo	ver|mi|[na]|do
+verminal	adjetivo	ver|mi|[nal]
+verminar	verbo	ver|mi|[nar]

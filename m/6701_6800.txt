@@ -1,0 +1,100 @@
+metópago	adjetivo	me|[tó]|pa|go
+metópago	nome masculino	me|[tó]|pa|go
+métope	nome feminino	[mé]|to|pe
+metópico	adjetivo	me|[tó]|pi|co
+metópio	nome masculino	me|[tó]|pi|o
+metópion	nome masculino	me|[tó]|pi|on
+metopismo	nome masculino	me|to|[pis]|mo
+metopopagia	nome feminino	me|to|po|pa|[gi]|a
+metopópago	adjetivo	me|to|[pó]|pa|go
+metopópago	nome masculino	me|to|[pó]|pa|go
+metoposcopia	nome feminino	me|to|pos|co|[pi]|a
+metoposcópico	adjetivo	me|to|pos|[có]|pi|co
+metopóscopo	nome masculino	me|to|[pós]|co|po
+metose	nome feminino	me|[to]|se
+metóxido	nome masculino	me|[tó]|xi|do
+metragem	nome feminino	me|[tra]|gem
+metralgia	nome feminino	me|tral|[gi]|a
+metrálgico	adjetivo	me|[trál]|gi|co
+metralha	nome feminino	me|[tra]|lha
+metralhada	nome feminino	me|tra|[lha]|da
+metralhador	adjetivo	me|tra|lha|[dor]
+metralhador	nome masculino	me|tra|lha|[dor]
+metralhadora	nome feminino	me|tra|lha|[do]|ra
+metralhar	verbo	me|tra|[lhar]
+metrar	verbo	me|[trar]
+metreta	nome feminino	me|[tre]|ta
+métrica	nome feminino	[mé]|tri|ca
+metricamente	advérbio	me|tri|ca|[men]|te
+métrico	adjetivo	[mé]|tri|co
+metrificação	nome feminino	me|tri|fi|ca|[ção]
+metrificador	adjetivo	me|tri|fi|ca|[dor]
+metrificador	nome masculino	me|tri|fi|ca|[dor]
+metrificadora	nome feminino	me|tri|fi|ca|[do]|ra
+metrificar	verbo	me|tri|fi|[car]
+metrificável	adjetivo	me|tri|fi|[cá]|vel
+metrífluo	adjetivo	me|[trí]|flu|o
+metriopatia	nome feminino	me|tri|o|pa|[ti]|a
+metriopático	adjetivo	me|tri|o|[pá]|ti|co
+metrite	nome feminino	me|[tri]|te
+metro	nome masculino	[me]|tro
+metrô	nome masculino	me|[trô]
+metróaco	adjetivo	me|[tró]|a|co
+metróbata	nome masculino	me|[tró]|ba|ta
+metrocampsia	nome feminino	me|tro|camp|[si]|a
+metrocâmptico	adjetivo	me|tro|[câmp]|ti|co
+metrocele	nome feminino	me|tro|[ce]|le
+metrodinia	nome feminino	me|tro|di|[ni]|a
+metrodínico	adjetivo	me|tro|[dí]|ni|co
+metroflebite	nome feminino	me|tro|fle|[bi]|te
+metrofotografia	nome feminino	me|tro|fo|to|gra|[fi]|a
+metrofotográfico	adjetivo	me|tro|fo|to|[grá]|fi|co
+metrografia	nome feminino	me|tro|gra|[fi]|a
+metrográfico	adjetivo	me|tro|[grá]|fi|co
+metrógrafo	nome masculino	me|[tró]|gra|fo
+metróloga	nome feminino	me|[tró]|lo|ga
+metrologia	nome feminino	me|tro|lo|[gi]|a
+metrológico	adjetivo	me|tro|[ló]|gi|co
+metrologista	nome masculino	me|tro|lo|[gis]|ta
+metrologista	nome feminino	me|tro|lo|[gis]|ta
+metrólogo	nome masculino	me|[tró]|lo|go
+metroloxia	nome feminino	me|tro|lo|[xi]|a
+metromania	nome feminino	me|tro|ma|[ni]|a
+metromaníaca	nome feminino	me|tro|ma|[ní]|a|ca
+metromaníaco	adjetivo	me|tro|ma|[ní]|a|co
+metromaníaco	nome masculino	me|tro|ma|[ní]|a|co
+metrómano	adjetivo	me|[tró]|ma|no
+metrómano	nome masculino	me|[tró]|ma|no
+metrômano	adjetivo	me|[trô]|ma|no
+metrômano	nome masculino	me|[trô]|ma|no
+metrométrico	adjetivo	me|tro|[mé]|tri|co
+metrómetro	nome masculino	me|[tró]|me|tro
+metrômetro	nome masculino	me|[trô]|me|tro
+metronímia	nome feminino	me|tro|[ní]|mi|a
+metronímico	adjetivo	me|tro|[ní]|mi|co
+metronímico	nome masculino	me|tro|[ní]|mi|co
+metronômico	adjetivo	me|tro|[nô]|mi|co
+metronómico	adjetivo	me|tro|[nó]|mi|co
+metrónomo	nome masculino	me|[tró]|no|mo
+metrônomo	nome masculino	me|[trô]|no|mo
+metropatia	nome feminino	me|tro|pa|[ti]|a
+metropático	adjetivo	me|tro|[pá]|ti|co
+metroperitonite	nome feminino	me|tro|pe|ri|to|[ni]|te
+metrópole	nome feminino	me|[tró]|po|le
+metropólipo	nome masculino	me|tro|[pó]|li|po
+metropolita	nome masculino	me|tro|po|[li]|ta
+metropolitano	nome masculino	me|tro|po|li|[ta]|no
+metropolitano	adjetivo	me|tro|po|li|[ta]|no
+metropolítico	adjetivo	me|tro|po|[lí]|ti|co
+metroptose	nome feminino	me|trop|[to]|se
+metrorragia	nome feminino	me|tror|ra|[gi]|a
+metrorrágico	adjetivo	me|tror|[rá]|gi|co
+metrorréctico	adjetivo	me|tror|[réc]|ti|co
+metrorreia	nome feminino	me|tror|[rei]|a
+metrorreico	adjetivo	me|tror|[rei]|co
+metrorrético	adjetivo	me|tror|[ré]|ti|co
+metrorrexia	nome feminino	me|tror|re|[xi]|a
+metroscopia	nome feminino	me|tros|co|[pi]|a
+metroscópico	adjetivo	me|tros|[có]|pi|co
+metroscópio	nome masculino	me|tros|[có]|pi|o
+metrossalpingite	nome feminino	me|tros|sal|pin|[gi]|te

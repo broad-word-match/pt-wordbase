@@ -1,0 +1,100 @@
+apaparicos	nome masculino	a|pa|pa|[ri]|cos
+apapeirar	verbo	a|pa|pei|[rar]
+apapoilado	adjetivo	a|pa|poi|[la]|do
+apapoulado	adjetivo	a|pa|pou|[la]|do
+apar	nome masculino	a|[par]
+apara	nome feminino	a|[pa]|ra
+apara-lápis	nome masculino	a|pa|ra-lá|pis
+aparabolar	verbo	a|pa|ra|bo|[lar]
+aparação	nome feminino	a|pa|ra|[ção]
+aparadeira	nome feminino	a|pa|ra|[dei]|ra
+aparadela	nome feminino	a|pa|ra|[de]|la
+aparado	adjetivo	a|pa|[ra]|do
+aparador	adjetivo	a|pa|ra|[dor]
+aparador	nome masculino	a|pa|ra|[dor]
+aparadora	nome feminino	a|pa|ra|[do]|ra
+aparafusamento	nome masculino	a|pa|ra|fu|sa|[men]|to
+aparafusar	verbo	a|pa|ra|fu|[sar]
+aparagem	nome feminino	a|pa|[ra]|gem
+aparaltar	verbo	a|pa|ral|[tar]
+aparamentar	verbo	a|pa|ra|men|[tar]
+aparamento	nome masculino	a|pa|ra|[men]|to
+aparamentoso	adjetivo	a|pa|ra|men|[to]|so
+aparar	verbo	a|pa|[rar]
+aparasitado	adjetivo	a|pa|ra|si|[ta]|do
+aparatar	verbo	a|pa|ra|[tar]
+aparato	nome masculino	a|pa|[ra]|to
+aparatosamente	advérbio	a|pa|ra|to|sa|[men]|te
+aparatoso	adjetivo	a|pa|ra|[to]|so
+aparável	adjetivo	a|pa|[rá]|vel
+aparcado	adjetivo	a|par|[ca]|do
+aparcamento	nome masculino	a|par|ca|[men]|to
+aparcar	verbo	a|par|[car]
+aparceirar	verbo	a|par|cei|[rar]
+aparcelado	adjetivo	a|par|ce|[la]|do
+aparcelamento	nome masculino	a|par|ce|la|[men]|to
+aparcelar	verbo	a|par|ce|[lar]
+apardaçado	adjetivo	a|par|da|[ça]|do
+apardaçar	verbo	a|par|da|[çar]
+apardado	adjetivo	a|par|[da]|do
+apardalado	adjetivo	a|par|da|[la]|do
+apardiscado	adjetivo	a|par|dis|[ca]|do
+aparecente	adjetivo	a|pa|re|[cen]|te
+aparecer	verbo	a|pa|re|[cer]
+aparecidense	adjetivo	a|pa|re|ci|[den]|se
+aparecidense	nome masculino	a|pa|re|ci|[den]|se
+aparecidense	nome feminino	a|pa|re|ci|[den]|se
+aparecido	nome masculino	a|pa|re|[ci]|do
+aparecimento	nome masculino	a|pa|re|ci|[men]|to
+aparelhado	adjetivo	a|pa|re|[lha]|do
+aparelhador	nome masculino	a|pa|re|lha|[dor]
+aparelhador	adjetivo	a|pa|re|lha|[dor]
+aparelhagem	nome feminino	a|pa|re|[lha]|gem
+aparelhamento	nome masculino	a|pa|re|lha|[men]|to
+aparelhar	verbo	a|pa|re|[lhar]
+aparelhável	adjetivo	a|pa|re|[lhá]|vel
+aparelhismo	nome masculino	a|pa|re|[lhis]|mo
+aparelho	nome masculino	a|pa|[re]|lho
+aparência	nome feminino	a|pa|[rên]|ci|a
+aparentado	adjetivo	a|pa|ren|[ta]|do
+aparentar	verbo	a|pa|ren|[tar]
+aparente	adjetivo	a|pa|[ren]|te
+aparentelar	verbo	a|pa|ren|te|[lar]
+aparentemente	advérbio	a|pa|ren|te|[men]|te
+aparição	nome feminino	a|pa|ri|[ção]
+aparina	nome feminino	a|pa|[ri]|na
+aparitmese	nome feminino	a|pa|rit|[me]|se
+aparo	nome masculino	a|[pa]|ro
+aparoquianar	verbo	a|pa|ro|qui|a|[nar]
+aparoquiar	verbo	a|pa|ro|qui|[ar]
+aparração	nome feminino	a|par|ra|[ção]
+aparrado	adjetivo	a|par|[ra]|do
+aparrar	verbo	a|par|[rar]
+aparreirado	adjetivo	a|par|rei|[ra]|do
+aparreirar	verbo	a|par|rei|[rar]
+apart-hotel	nome masculino	a|part-ho|[tel]
+aparta	nome feminino	a|[par]|ta
+apartação	nome feminino	a|par|ta|[ção]
+apartada	nome feminino	a|par|[ta]|da
+apartadamente	advérbio	a|par|ta|da|[men]|te
+apartadiço	adjetivo	a|par|ta|[di]|ço
+apartado	adjetivo	a|par|[ta]|do
+apartado	nome masculino	a|par|[ta]|do
+apartador	adjetivo	a|par|ta|[dor]
+apartador	nome masculino	a|par|ta|[dor]
+apartamento	nome masculino	a|par|ta|[men]|to
+apartano	adjetivo	a|par|[ta]|no
+apartano	nome masculino	a|par|[ta]|no
+apartar	verbo	a|par|[tar]
+apartável	adjetivo	a|par|[tá]|vel
+aparte	nome masculino	a|[par]|te
+aparteador	adjetivo	a|par|te|a|[dor]
+aparteador	nome masculino	a|par|te|a|[dor]
+aparteante	adjetivo	a|par|te|[an]|te
+aparteante	nome masculino	a|par|te|[an]|te
+aparteante	nome feminino	a|par|te|[an]|te
+apartear	verbo	a|par|te|[ar]
+aparteu	adjetivo	a|par|[teu]
+aparteu	nome masculino	a|par|[teu]
+apartheid	nome masculino	a|part|heid
+apartidário	adjetivo	a|par|ti|[dá]|ri|o

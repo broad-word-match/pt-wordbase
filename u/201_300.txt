@@ -1,0 +1,100 @@
+ugerno	adjetivo	u|[ger]|no
+ugerno	nome masculino	u|[ger]|no
+ugolinesco	adjetivo	u|go|li|[nes]|co
+ugolino	adjetivo	u|go|[li]|no
+úgrica	nome feminino	[ú]|gri|ca
+úgrico	adjetivo	[ú]|gri|co
+úgrico	nome masculino	[ú]|gri|co
+ugro	nome masculino	[u]|gro
+ugro	adjetivo	[u]|gro
+ugro-finês	nome masculino	u|gro-fi|[nês]
+ugro-finês	adjetivo	u|gro-fi|[nês]
+ugro-fínico	nome masculino	u|gro-fí|ni|co
+ugro-fínico	adjetivo	u|gro-fí|ni|co
+ugro-finlandês	nome masculino	u|gro-fin|lan|[dês]
+ugro-finlandês	adjetivo	u|gro-fin|lan|[dês]
+uh	interjeição	[uh]
+ui	interjeição	[ui]
+uiara	nome feminino	ui|[a]|ra
+uigure	nome masculino	ui|[gu]|re
+uigúrico	adjetivo	ui|[gú]|ri|co
+uinarana	nome feminino	ui|na|[ra]|na
+uiofilia	nome feminino	ui|o|fi|[li]|a
+uiofobia	nome feminino	ui|o|fo|[bi]|a
+uiqué	nome masculino	ui|[qué]
+uirá	nome masculino	ui|[rá]
+uirachué	nome masculino	ui|ra|chu|[é]
+uiramirim	nome masculino	ui|ra|mi|[rim]
+uirapuru	nome masculino	ui|ra|pu|[ru]
+uirari	nome masculino	ui|ra|[ri]
+uiraúna	nome feminino	ui|ra|[ú]|na
+uiruucotim	nome masculino	ui|ru|u|co|[tim]
+uiruuetê	nome masculino	ui|ru|u|e|[tê]
+uísque	nome masculino	u|[ís]|que
+uíste	nome masculino	u|[ís]|te
+uistiti	nome masculino	uis|ti|[ti]
+uivada	nome feminino	ui|[va]|da
+uivador	adjetivo	ui|va|[dor]
+uivador	nome masculino	ui|va|[dor]
+uivante	adjetivo	ui|[van]|te
+uivar	verbo	ui|[var]
+uivo	nome masculino	[ui]|vo
+uja	nome feminino	[u]|ja
+ujamanta	nome feminino	u|ja|[man]|ta
+uje	nome feminino	[u]|je
+ujem	nome feminino	[u]|jem
+ujica	nome feminino	u|[ji]|ca
+ujo	nome masculino	[u]|jo
+ula	nome feminino	[u]|la
+ulalgia	nome feminino	u|lal|[gi]|a
+ulano	nome masculino	u|[la]|no
+ulatrofia	nome feminino	u|la|tro|[fi]|a
+ulatrófico	adjetivo	u|la|[tró]|fi|co
+úlcera	nome feminino	[úl]|ce|ra
+ulceração	nome feminino	ul|ce|ra|[ção]
+ulcerado	adjetivo	ul|ce|[ra]|do
+ulcerador	adjetivo	ul|ce|ra|[dor]
+ulcerar	verbo	ul|ce|[rar]
+ulcerativo	adjetivo	ul|ce|ra|[ti]|vo
+ulcerável	adjetivo	ul|ce|[rá]|vel
+ulceroide	adjetivo	ul|ce|[roi]|de
+ulceroso	adjetivo	ul|ce|[ro]|so
+ulcoide	adjetivo	ul|[coi]|de
+ulemá	nome masculino	u|le|[má]
+ulema	nome masculino	u|[le]|ma
+ulemba	nome feminino	u|[lem]|ba
+uleritema	nome masculino	u|le|ri|[te]|ma
+ulfilano	adjetivo	ul|fi|[la]|no
+ulicina	nome feminino	u|li|[ci]|na
+ulicite	nome feminino	u|li|[ci]|te
+uliense	adjetivo	u|li|[en]|se
+uliense	nome masculino	u|li|[en]|se
+uliginário	adjetivo	u|li|gi|[ná]|ri|o
+uliginoso	adjetivo	u|li|gi|[no]|so
+ulisseu	adjetivo	u|lis|[seu]
+ulissiponense	adjetivo	u|lis|si|po|[nen]|se
+ulissiponense	nome masculino	u|lis|si|po|[nen]|se
+ulissiponense	nome feminino	u|lis|si|po|[nen]|se
+ulite	nome feminino	u|[li]|te
+ulmácea	nome feminino	ul|[má]|ce|a
+ulmáceo	adjetivo	ul|[má]|ce|o
+ulmanecte	adjetivo	ul|ma|[nec]|te
+ulmanecte	nome masculino	ul|ma|[nec]|te
+ulmanecte	nome feminino	ul|ma|[nec]|te
+ulmarena	nome feminino	ul|ma|[re]|na
+ulmária	nome feminino	ul|[má]|ri|a
+ulmárico	adjetivo	ul|[má]|ri|co
+ulmarina	nome feminino	ul|ma|[ri]|na
+ulmato	nome masculino	ul|[ma]|to
+ulmeira	nome feminino	ul|[mei]|ra
+ulmeiro	nome masculino	ul|[mei]|ro
+úlmico	adjetivo	[úl]|mi|co
+ulmina	nome feminino	ul|[mi]|na
+ulmo	nome masculino	[ul]|mo
+ulna	nome feminino	[ul]|na
+ulnal	adjetivo	ul|[nal]
+ulnar	adjetivo	ul|[nar]
+ulnar	nome masculino	ul|[nar]
+ulnário	adjetivo	ul|[ná]|ri|o
+ulnomanual	adjetivo	ul|no|ma|nu|[al]
+ulo	nome masculino	[u]|lo

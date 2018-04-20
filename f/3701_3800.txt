@@ -1,0 +1,100 @@
+flor-de-cera	nome feminino	flor-de-ce|ra
+flor-de-lagartixa	nome feminino	flor-de-la|gar|[ti]|xa
+flor-de-lis	nome feminino	[flor-de-lis]
+flor-de-pedra	nome feminino	flor-de-pe|dra
+flor-de-são-joão	nome feminino	flor-de-são-jo|ão
+flor-de-viúva	nome feminino	flor-de-vi|[ú]|va
+flor-do-cardeal	nome feminino	flor-do-car|de|[al]
+flor-dos-amores	nome feminino	flor-dos-a|[mo]|res
+flor-dos-macaquinhos-pendurados	nome feminino	flor-dos-ma|ca|qui|nhos-pen|du|[ra]|dos
+flor-dos-rapazinhos	nome feminino	flor-dos-ra|pa|[zi]|nhos
+flor-mel	nome feminino	[flor-mel]
+flor-seráfica	nome feminino	flor-se|[rá]|fi|ca
+flora	nome feminino	[flo]|ra
+floração	nome feminino	flo|ra|[ção]
+florada	nome feminino	flo|[ra]|da
+floral	adjetivo	flo|[ral]
+florão	nome masculino	flo|[rão]
+florar	verbo	flo|[rar]
+florário	nome masculino	flo|[rá]|ri|o
+floreado	adjetivo	flo|re|[a]|do
+floreado	nome masculino	flo|re|[a]|do
+floreador	adjetivo	flo|re|a|[dor]
+floreador	nome masculino	flo|re|a|[dor]
+floreal	adjetivo	flo|re|[al]
+floreante	adjetivo	flo|re|[an]|te
+florear	verbo	flo|re|[ar]
+floreio	nome masculino	flo|[rei]|o
+floreira	nome feminino	flo|[rei]|ra
+floreiro	nome masculino	flo|[rei]|ro
+florejante	adjetivo	flo|re|[jan]|te
+florejar	verbo	flo|re|[jar]
+florença	nome feminino	flo|[ren]|ça
+florência	nome feminino	flo|[rên]|ci|a
+florenciado	adjetivo	flo|ren|ci|[a]|do
+florense	nome masculino	flo|[ren]|se
+florense	adjetivo	flo|[ren]|se
+florense	nome feminino	flo|[ren]|se
+florente	adjetivo	flo|[ren]|te
+florentim	adjetivo	flo|ren|[tim]
+florentino	adjetivo	flo|ren|[ti]|no
+florentino	nome masculino	flo|ren|[ti]|no
+flóreo	adjetivo	[fló]|re|o
+flores-brancas	nome feminino	flo|res-bran|cas
+florescência	nome feminino	flo|res|[cên]|ci|a
+florescente	adjetivo	flo|res|[cen]|te
+florescer	verbo	flo|res|[cer]
+florescido	adjetivo	flo|res|[ci]|do
+florescimento	nome masculino	flo|res|ci|[men]|to
+floresta	nome feminino	flo|[res]|ta
+florestação	nome feminino	flo|res|ta|[ção]
+florestal	adjetivo	flo|res|[tal]
+florestalense	adjetivo	flo|res|ta|[len]|se
+florestalense	nome masculino	flo|res|ta|[len]|se
+florestalense	nome feminino	flo|res|ta|[len]|se
+florestamento	nome masculino	flo|res|ta|[men]|to
+florestar	verbo	flo|res|[tar]
+florestoso	adjetivo	flo|res|[to]|so
+floreta	nome feminino	flo|[re]|ta
+floretado	adjetivo	flo|re|[ta]|do
+floretato	nome masculino	flo|re|[ta]|to
+florete	nome masculino	flo|[re]|te
+floreteado	adjetivo	flo|re|te|[a]|do
+floretear	verbo	flo|re|te|[ar]
+floretista	nome masculino	flo|re|[tis]|ta
+floretista	nome feminino	flo|re|[tis]|ta
+florianesco	adjetivo	flo|ri|a|[nes]|co
+florianismo	nome masculino	flo|ri|a|[nis]|mo
+florianista	adjetivo	flo|ri|a|[nis]|ta
+florianista	nome masculino	flo|ri|a|[nis]|ta
+florianista	nome feminino	flo|ri|a|[nis]|ta
+florianopolitana	nome feminino	flo|ri|a|no|po|li|[ta]|na
+florianopolitano	adjetivo	flo|ri|a|no|po|li|[ta]|no
+florianopolitano	nome masculino	flo|ri|a|no|po|li|[ta]|no
+florícola	adjetivo	flo|[rí]|co|la
+floricoroado	adjetivo	flo|ri|co|ro|[a]|do
+florículo	nome masculino	flo|[rí]|cu|lo
+floricultor	nome masculino	flo|ri|cul|[tor]
+floricultor	adjetivo	flo|ri|cul|[tor]
+floricultora	nome feminino	flo|ri|cul|[to]|ra
+floricultura	nome feminino	flo|ri|cul|[tu]|ra
+florídea	nome feminino	flo|[rí]|de|a
+florídeo	adjetivo	flo|[rí]|de|o
+florido	adjetivo	flo|[ri]|do
+flórido	adjetivo	[fló]|ri|do
+florífago	adjetivo	flo|[rí]|fa|go
+florífero	adjetivo	flo|[rí]|fe|ro
+floriferto	nome masculino	flo|ri|[fer]|to
+floriforme	adjetivo	flo|ri|[for]|me
+florígero	adjetivo	flo|[rí]|ge|ro
+florilégio	nome masculino	flo|ri|[lé]|gi|o
+florim	nome masculino	flo|[rim]
+floríparo	adjetivo	flo|[rí]|pa|ro
+floripôndio	nome masculino	flo|ri|[pôn]|di|o
+florir	verbo	flo|[rir]
+florista	nome masculino	flo|[ris]|ta
+florista	nome feminino	flo|[ris]|ta
+florística	nome feminino	flo|[rís]|ti|ca
+florístico	adjetivo	flo|[rís]|ti|co
+florívoro	adjetivo	flo|[rí]|vo|ro
+floromania	nome feminino	flo|ro|ma|[ni]|a

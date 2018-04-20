@@ -1,0 +1,100 @@
+araruá	nome masculino	a|ra|ru|[á]
+araruá	nome feminino	a|ra|ru|[á]
+araruna	nome feminino	a|ra|[ru]|na
+araruta	nome feminino	a|ra|[ru]|ta
+arasão	nome feminino	a|ra|[são]
+arataca	nome feminino	a|ra|[ta]|ca
+aratanha	nome feminino	a|ra|[ta]|nha
+araticu	nome masculino	a|ra|ti|[cu]
+araticunzeiro	nome masculino	a|ra|ti|cun|[zei]|ro
+araticuzeiro	nome masculino	a|ra|ti|cu|[zei]|ro
+aratório	adjetivo	a|ra|[tó]|ri|o
+aratriforme	adjetivo	a|ra|tri|[for]|me
+aratu	nome masculino	a|ra|[tu]
+arau	nome masculino	a|[rau]
+arau-de-bico-rombudo	nome masculino	a|rau-de-bi|co-rom|[bu]|do
+arauá	adjetivo	a|rau|[á]
+arauá	nome masculino	a|rau|[á]
+arauá	nome feminino	a|rau|[á]
+araucana	nome feminino	a|rau|[ca]|na
+araucano	adjetivo	a|rau|[ca]|no
+araucano	nome masculino	a|rau|[ca]|no
+araucária	nome feminino	a|rau|[cá]|ri|a
+araucariácea	nome feminino	a|rau|ca|ri|[á]|ce|a
+araucariense	adjetivo	a|rau|ca|ri|[en]|se
+araucariense	nome masculino	a|rau|ca|ri|[en]|se
+araucariense	nome feminino	a|rau|ca|ri|[en]|se
+araucarita	nome feminino	a|rau|ca|[ri]|ta
+araueté	nome feminino	a|rau|e|[té]
+araueté	nome masculino	a|rau|e|[té]
+araueté	adjetivo	a|rau|e|[té]
+arauiri	nome masculino	a|rau|i|[ri]
+arauiti	adjetivo	a|rau|i|[ti]
+arauiti	nome masculino	a|rau|i|[ti]
+arauiti	nome feminino	a|rau|i|[ti]
+araúja	nome feminino	a|ra|[ú]|ja
+araújo	nome masculino	a|ra|[ú]|jo
+araúna	nome feminino	a|ra|[ú]|na
+arauto	nome masculino	a|[rau]|to
+arável	adjetivo	a|[rá]|vel
+aravela	nome feminino	a|ra|[ve]|la
+aravessa	nome feminino	a|ra|[ves]|sa
+aravia	nome feminino	a|ra|[vi]|a
+araviada	nome feminino	a|ra|vi|[a]|da
+araviado	adjetivo	a|ra|vi|[a]|do
+araviar	verbo	a|ra|vi|[ar]
+aravisco	adjetivo	a|ra|[vis]|co
+aravisco	nome masculino	a|ra|[vis]|co
+araxá	nome masculino	a|ra|[xá]
+araxixu	nome masculino	a|ra|xi|[xu]
+arazoia	nome feminino	a|ra|[zoi]|a
+arbaleta	nome feminino	ar|ba|[le]|ta
+arbelo	nome masculino	ar|[be]|lo
+arbi	nome masculino	ar|[bi]
+arbitrador	adjetivo	ar|bi|tra|[dor]
+arbitrador	nome masculino	ar|bi|tra|[dor]
+arbitragem	nome feminino	ar|bi|[tra]|gem
+arbitragista	adjetivo	ar|bi|tra|[gis]|ta
+arbitragista	nome masculino	ar|bi|tra|[gis]|ta
+arbitragista	nome feminino	ar|bi|tra|[gis]|ta
+arbitral	adjetivo	ar|bi|[tral]
+arbitralmente	advérbio	ar|bi|tral|[men]|te
+arbitramento	nome masculino	ar|bi|tra|[men]|to
+arbitrar	verbo	ar|bi|[trar]
+arbitrariamente	advérbio	ar|bi|tra|ri|a|[men]|te
+arbitrariedade	nome feminino	ar|bi|tra|ri|e|[da]|de
+arbitrário	adjetivo	ar|bi|[trá]|ri|o
+arbitrativo	adjetivo	ar|bi|tra|[ti]|vo
+arbitrável	adjetivo	ar|bi|[trá]|vel
+arbitreiro	nome masculino	ar|bi|[trei]|ro
+arbítrio	nome masculino	ar|[bí]|tri|o
+arbitrista	nome masculino	ar|bi|[tris]|ta
+arbitrista	nome feminino	ar|bi|[tris]|ta
+árbitro	adjetivo	[ár]|bi|tro
+árbitro	nome masculino	[ár]|bi|tro
+arbóis	nome masculino	ar|[bóis]
+arbóreo	adjetivo	ar|[bó]|re|o
+arborescência	nome feminino	ar|bo|res|[cên]|ci|a
+arborescente	adjetivo	ar|bo|res|[cen]|te
+arborescer	verbo	ar|bo|res|[cer]
+arboreto	nome masculino	ar|bo|[re]|to
+arboricida	adjetivo	ar|bo|ri|[ci]|da
+arboricida	nome masculino	ar|bo|ri|[ci]|da
+arboricida	nome feminino	ar|bo|ri|[ci]|da
+arborícola	adjetivo	ar|bo|[rí]|co|la
+arboricultor	adjetivo	ar|bo|ri|cul|[tor]
+arboricultor	nome masculino	ar|bo|ri|cul|[tor]
+arboricultora	nome feminino	ar|bo|ri|cul|[to]|ra
+arboricultura	nome feminino	ar|bo|ri|cul|[tu]|ra
+arboriforme	adjetivo	ar|bo|ri|[for]|me
+arborista	nome masculino	ar|bo|[ris]|ta
+arborista	nome feminino	ar|bo|[ris]|ta
+arborização	nome feminino	ar|bo|ri|za|[ção]
+arborizado	adjetivo	ar|bo|ri|[za]|do
+arborizador	adjetivo	ar|bo|ri|za|[dor]
+arborizador	nome masculino	ar|bo|ri|za|[dor]
+arborizar	verbo	ar|bo|ri|[zar]
+arborizável	adjetivo	ar|bo|ri|[zá]|vel
+arbovirose	nome feminino	ar|bo|vi|[ro]|se
+arbovírus	nome masculino	ar|bo|[ví]|rus
+arbúscula	nome feminino	ar|[bús]|cu|la

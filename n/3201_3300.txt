@@ -1,0 +1,100 @@
+nu	nome masculino	[nu]
+nu	adjetivo	[nu]
+nua	nome feminino	[nu]|a
+nuamente	advérbio	nu|a|[men]|te
+nuança	nome feminino	nu|[an]|ça
+nuance	nome feminino	nu|[an]|ce
+nuaruaque	adjetivo	nu|a|ru|[a]|que
+nuaruaque	nome masculino	nu|a|ru|[a]|que
+nuaruaque	nome feminino	nu|a|ru|[a]|que
+nubécula	nome feminino	nu|[bé]|cu|la
+nubente	adjetivo	nu|[ben]|te
+nubente	nome masculino	nu|[ben]|te
+nubente	nome feminino	nu|[ben]|te
+núbia	nome feminino	[nú]|bi|a
+nubiana	nome feminino	nu|bi|[a]|na
+nubiano	adjetivo	nu|bi|[a]|no
+nubiano	nome masculino	nu|bi|[a]|no
+nubiense	adjetivo	nu|bi|[en]|se
+nubiense	nome masculino	nu|bi|[en]|se
+nubiense	nome feminino	nu|bi|[en]|se
+nubífero	adjetivo	nu|[bí]|fe|ro
+nubífugo	adjetivo	nu|[bí]|fu|go
+nubígena	adjetivo	nu|[bí]|ge|na
+nubígeno	adjetivo	nu|[bí]|ge|no
+núbil	adjetivo	[nú]|bil
+nubilar	nome masculino	nu|bi|[lar]
+nubilário	nome masculino	nu|bi|[lá]|ri|o
+nubiliário	nome masculino	nu|bi|li|[á]|ri|o
+nubilidade	nome feminino	nu|bi|li|[da]|de
+núbilo	adjetivo	[nú]|bi|lo
+nubiloso	adjetivo	nu|bi|[lo]|so
+núbio	adjetivo	[nú]|bi|o
+núbio	nome masculino	[nú]|bi|o
+nubívago	adjetivo	nu|[bí]|va|go
+nublado	nome masculino	nu|[bla]|do
+nublado	adjetivo	nu|[bla]|do
+nublar	verbo	nu|[blar]
+nubloso	adjetivo	nu|[blo]|so
+nuca	nome feminino	[nu]|ca
+nucal	adjetivo	nu|[cal]
+nução	nome feminino	nu|[ção]
+núcego	adjetivo	[nú]|ce|go
+nucela	nome feminino	nu|[ce]|la
+nucelo	nome masculino	nu|[ce]|lo
+nucerino	adjetivo	nu|ce|[ri]|no
+nucerino	nome masculino	nu|ce|[ri]|no
+nucífero	adjetivo	nu|[cí]|fe|ro
+nuciforme	adjetivo	nu|ci|[for]|me
+nucífrago	adjetivo	nu|[cí]|fra|go
+nucina	nome feminino	nu|[ci]|na
+nucívoro	adjetivo	nu|[cí]|vo|ro
+nucleação	nome feminino	nu|cle|a|[ção]
+nucleado	adjetivo	nu|cle|[a]|do
+nucleal	adjetivo	nu|cle|[al]
+nucleão	nome masculino	nu|cle|[ão]
+nuclear	verbo	nu|cle|[ar]
+nuclear	adjetivo	nu|cle|[ar]
+nuclear	nome masculino	nu|cle|[ar]
+nucleário	adjetivo	nu|cle|[á]|ri|o
+nuclearização	nome feminino	nu|cle|a|ri|za|[ção]
+nuclearizador	adjetivo	nu|cle|a|ri|za|[dor]
+nuclearizador	nome masculino	nu|cle|a|ri|za|[dor]
+nuclearizar	verbo	nu|cle|a|ri|[zar]
+nuclearizável	adjetivo	nu|cle|a|ri|[zá]|vel
+nucleico	adjetivo	nu|[clei]|co
+nucleífero	adjetivo	nu|cle|[í]|fe|ro
+nucleiforme	adjetivo	nu|clei|[for]|me
+nucleína	nome feminino	nu|cle|[í]|na
+nucleínico	adjetivo	nu|cle|[í]|ni|co
+núcleo	nome masculino	[nú]|cle|o
+nucleobrânquio	nome masculino	nu|cle|o|[brân]|qui|o
+nucleofilamento	nome masculino	nu|cle|o|fi|la|[men]|to
+nucleófilo	nome masculino	nu|cle|[ó]|fi|lo
+nucleoide	nome masculino	nu|cle|[oi]|de
+nucléolo	nome masculino	nu|[clé]|o|lo
+nucleónica	nome feminino	nu|cle|[ó]|ni|ca
+nucleônica	nome feminino	nu|cle|[ô]|ni|ca
+nucleoplasma	nome masculino	nu|cle|o|[plas]|ma
+nucleoplasmático	adjetivo	nu|cle|o|plas|[má]|ti|co
+nucleose	nome feminino	nu|cle|[o]|se
+nucleosídeo	nome masculino	nu|cle|o|[sí]|de|o
+nucleósido	nome masculino	nu|cle|[ó]|si|do
+nucleossoma	nome masculino	nu|cle|os|[so]|ma
+nucleossomo	nome masculino	nu|cle|os|[so]|mo
+nucleótido	nome masculino	nu|cle|[ó]|ti|do
+nuclídeo	nome masculino	nu|[clí]|de|o
+nuclídeo	nome masculino	nu|[clí]|de|o
+nuclídio	nome masculino	nu|[clí]|di|o
+núcula	nome feminino	[nú]|cu|la
+nuculâneo	nome masculino	nu|cu|[lâ]|ne|o
+nuculano	nome masculino	nu|cu|[la]|no
+nucular	adjetivo	nu|cu|[lar]
+nuculídeo	adjetivo	nu|cu|[lí]|de|o
+nuculoso	adjetivo	nu|cu|[lo]|so
+nudá	nome masculino	nu|[dá]
+nudação	nome feminino	nu|da|[ção]
+nudária	nome feminino	nu|[dá]|ri|a
+nudez	nome feminino	nu|[dez]
+nudeza	nome feminino	nu|[de]|za
+nudibrânquio	adjetivo	nu|di|[brân]|qui|o

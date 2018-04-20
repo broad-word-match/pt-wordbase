@@ -1,0 +1,100 @@
+siquimense	adjetivo	si|qui|[men]|se
+siquimense	nome masculino	si|qui|[men]|se
+siquimense	nome feminino	si|qui|[men]|se
+siquismo	nome masculino	si|[quis]|mo
+sir	nome masculino	[sir]
+sira	nome feminino	[si]|ra
+síraco	adjetivo	[sí]|ra|co
+síraco	nome masculino	[sí]|ra|co
+siracusa	nome masculino	si|ra|[cu]|sa
+siracusana	nome feminino	si|ra|cu|[sa]|na
+siracusano	nome masculino	si|ra|cu|[sa]|no
+siracusano	adjetivo	si|ra|cu|[sa]|no
+sirage	nome masculino	si|[ra]|ge
+sire	nome masculino	[si]|re
+sirena	nome feminino	si|[re]|na
+sirene	nome feminino	si|[re]|ne
+sirénico	adjetivo	si|[ré]|ni|co
+sirênico	adjetivo	si|[rê]|ni|co
+sirénida	nome masculino	si|[ré]|ni|da
+sirênida	nome masculino	si|[rê]|ni|da
+sirenídeo	adjetivo	si|re|[ní]|de|o
+sirenídeo	nome masculino	si|re|[ní]|de|o
+sirenídeo	nome masculino	si|re|[ní]|de|o
+sirénio	nome masculino	si|[ré]|ni|o
+sirênio	nome masculino	si|[rê]|ni|o
+sirenômelo	nome masculino	si|re|[nô]|me|lo
+sirenómelo	nome masculino	si|re|[nó]|me|lo
+sirfídeo	adjetivo	sir|[fí]|de|o
+sirfídeo	nome masculino	sir|[fí]|de|o
+sirfo	nome masculino	[sir]|fo
+sirga	nome feminino	[sir]|ga
+sirgagem	nome feminino	sir|[ga]|gem
+sirgar	verbo	sir|[gar]
+sirgaria	nome feminino	sir|ga|[ri]|a
+sirgideira	nome feminino	sir|gi|[dei]|ra
+sirgo	nome masculino	[sir]|go
+sirgueiro	nome masculino	sir|[guei]|ro
+sirguilha	nome feminino	sir|[gui]|lha
+siri	nome masculino	si|[ri]
+síria	nome feminino	[sí]|ri|a
+siriacismo	nome masculino	si|ri|a|[cis]|mo
+siríaco	adjetivo	si|[rí]|a|co
+siríaco	nome masculino	si|[rí]|a|co
+siriarca	nome masculino	si|ri|[ar]|ca
+siriarquia	nome feminino	si|ri|ar|[qui]|a
+siríase	nome feminino	si|[rí]|a|se
+siricaia	nome feminino	si|ri|[cai]|a
+sirigaita	nome feminino	si|ri|[gai]|ta
+sirigaitar	verbo	si|ri|gai|[tar]
+siringa	nome feminino	si|[rin]|ga
+siringe	nome feminino	si|[rin]|ge
+siringina	nome feminino	si|rin|[gi]|na
+siringite	nome feminino	si|rin|[gi]|te
+siringodendro	nome masculino	si|rin|go|[den]|dro
+siringomielia	nome feminino	si|rin|go|mi|e|[li]|a
+siringomiélico	adjetivo	si|rin|go|mi|[é]|li|co
+siringotomia	nome feminino	si|rin|go|to|[mi]|a
+siringotómico	adjetivo	si|rin|go|[tó]|mi|co
+siringotômico	adjetivo	si|rin|go|[tô]|mi|co
+siringótomo	nome masculino	si|rin|[gó]|to|mo
+sirinhaense	adjetivo	si|ri|nha|[en]|se
+sirinhaense	nome masculino	si|ri|nha|[en]|se
+sirinhaense	nome feminino	si|ri|nha|[en]|se
+sírio	adjetivo	[sí]|ri|o
+sírio	nome masculino	[sí]|ri|o
+sírio-árabe	adjetivo	sí|ri|o-á|ra|be
+sírio-arábico	adjetivo	sí|ri|o-a|rá|bi|co
+sírio-caldaico	nome masculino	sí|ri|o-cal|dai|co
+sírio-caldaico	adjetivo	sí|ri|o-cal|dai|co
+sírio-egípcio	adjetivo	sí|ri|o-e|gíp|ci|o
+sírio-libanês	adjetivo	sí|ri|o-li|ba|nês
+sírio-libanês	nome masculino	sí|ri|o-li|ba|nês
+sírio-macedônico	adjetivo	sí|ri|o-ma|ce|dô|ni|co
+sírio-macedónico	adjetivo	sí|ri|o-ma|ce|dó|ni|co
+siripipi	nome masculino	si|ri|pi|[pi]
+siriri	nome masculino	si|ri|[ri]
+siriritinga	nome masculino	si|ri|ri|[tin]|ga
+sirirujá	nome masculino	si|ri|ru|[já]
+sirito	nome masculino	si|[ri]|to
+siriúba	nome feminino	si|ri|[ú]|ba
+sirixa	nome feminino	si|[ri]|xa
+sirma	nome masculino	[sir]|ma
+siro	adjetivo	[si]|ro
+siro	nome masculino	[si]|ro
+sirocílice	adjetivo	si|ro|[cí]|li|ce
+sirocílice	nome masculino	si|ro|[cí]|li|ce
+sirocílice	nome feminino	si|ro|[cí]|li|ce
+siroco	nome masculino	si|[ro]|co
+sirofenício	adjetivo	si|ro|fe|[ní]|ci|o
+sirofenício	nome masculino	si|ro|fe|[ní]|ci|o
+sirrizo	adjetivo	sir|[ri]|zo
+sirtes	nome feminino	[sir]|tes
+sírtico	adjetivo	[sír]|ti|co
+sirvente	nome masculino	sir|[ven]|te
+sirventês	nome feminino	sir|ven|[tês]
+sirventês	nome masculino	sir|ven|[tês]
+sirventesca	nome feminino	sir|ven|[tes]|ca
+sirventésio	adjetivo	sir|ven|[té]|si|o
+sisa	nome feminino	[si]|sa
+sisal	nome masculino	si|[sal]

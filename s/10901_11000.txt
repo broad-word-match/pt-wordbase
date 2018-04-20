@@ -1,0 +1,100 @@
+suspensoide	adjetivo	sus|pen|[soi]|de
+suspensor	adjetivo	sus|pen|[sor]
+suspensor	nome masculino	sus|pen|[sor]
+suspensório	nome masculino	sus|pen|[só]|ri|o
+suspensório	adjetivo	sus|pen|[só]|ri|o
+suspensórios	nome masculino	sus|pen|[só]|ri|os
+suspicácia	nome feminino	sus|pi|[cá]|ci|a
+suspicaz	adjetivo	sus|pi|[caz]
+suspicazmente	advérbio	sus|pi|caz|[men]|te
+suspiração	nome feminino	sus|pi|ra|[ção]
+suspiráculo	nome masculino	sus|pi|[rá]|cu|lo
+suspirado	adjetivo	sus|pi|[ra]|do
+suspirador	adjetivo	sus|pi|ra|[dor]
+suspirador	nome masculino	sus|pi|ra|[dor]
+suspirante	adjetivo	sus|pi|[ran]|te
+suspirar	verbo	sus|pi|[rar]
+suspiro	nome masculino	sus|[pi]|ro
+suspirosamente	advérbio	sus|pi|ro|sa|[men]|te
+suspiroso	adjetivo	sus|pi|[ro]|so
+susquedono	interjeição	sus|que|[do]|no
+susquir	verbo	sus|[quir]
+sussarra	nome feminino	sus|[sar]|ra
+sussurração	nome feminino	sus|sur|ra|[ção]
+sussurrante	adjetivo	sus|sur|[ran]|te
+sussurrantemente	advérbio	sus|sur|ran|te|[men]|te
+sussurrar	verbo	sus|sur|[rar]
+sussurro	nome masculino	sus|[sur]|ro
+sustação	nome feminino	sus|ta|[ção]
+sustância	nome feminino	sus|[tân]|ci|a
+sustancioso	adjetivo	sus|tan|ci|[o]|so
+sustar	verbo	sus|[tar]
+sustatório	adjetivo	sus|ta|[tó]|ri|o
+sustável	adjetivo	sus|[tá]|vel
+sustedor	adjetivo	sus|te|[dor]
+sustenido	nome masculino	sus|te|[ni]|do
+sustenido	adjetivo	sus|te|[ni]|do
+sustenizar	verbo	sus|te|ni|[zar]
+sustentabilidade	nome feminino	sus|ten|ta|bi|li|[da]|de
+sustentação	nome feminino	sus|ten|ta|[ção]
+sustentáculo	nome masculino	sus|ten|[tá]|cu|lo
+sustentado	adjetivo	sus|ten|[ta]|do
+sustentador	adjetivo	sus|ten|ta|[dor]
+sustentador	nome masculino	sus|ten|ta|[dor]
+sustentadora	nome feminino	sus|ten|ta|[do]|ra
+sustentamento	nome masculino	sus|ten|ta|[men]|to
+sustentante	adjetivo	sus|ten|[tan]|te
+sustentante	nome masculino	sus|ten|[tan]|te
+sustentante	nome feminino	sus|ten|[tan]|te
+sustentar	verbo	sus|ten|[tar]
+sustentável	adjetivo	sus|ten|[tá]|vel
+sustento	nome masculino	sus|[ten]|to
+suster	verbo	sus|[ter]
+sustimento	nome masculino	sus|ti|[men]|to
+sustinência	nome feminino	sus|ti|[nên]|ci|a
+sustinente	adjetivo	sus|ti|[nen]|te
+sustinentes	nome masculino	sus|ti|[nen]|tes
+susto	nome masculino	[sus]|to
+susuda	nome feminino	su|[su]|da
+susudo	adjetivo	su|[su]|do
+susudo	nome masculino	su|[su]|do
+susunu	nome masculino	su|su|[nu]
+suta	nome feminino	[su]|ta
+sutache	nome feminino	su|[ta]|che
+sutambaque	nome masculino	su|tam|[ba]|que
+sutamento	nome masculino	su|ta|[men]|to
+sutar	verbo	su|[tar]
+sutate	nome masculino	su|[ta]|te
+sutera	nome feminino	su|[te]|ra
+sutéria	nome feminino	su|[té]|ri|a
+sutherlândia	nome feminino	sut|her|[lân]|di|a
+sutiã	nome masculino	su|ti|[ã]
+sutil	adjetivo	su|[til]
+sútil	adjetivo	[sú]|til
+sutil	nome masculino	su|[til]
+sutileza	nome feminino	su|ti|[le]|za
+sutilidade	nome feminino	su|ti|li|[da]|de
+sutilização	nome feminino	su|ti|li|za|[ção]
+sutilizador	adjetivo	su|ti|li|za|[dor]
+sutilizador	nome masculino	su|ti|li|za|[dor]
+sutilizar	verbo	su|ti|li|[zar]
+sutilmente	advérbio	su|til|[men]|te
+sutinga	nome feminino	su|[tin]|ga
+suto	adjetivo	[su]|to
+suto	nome masculino	[su]|to
+sutra	nome feminino	[su]|tra
+sutrão	nome masculino	su|[trão]
+sutrino	adjetivo	su|[tri]|no
+sutrino	nome masculino	su|[tri]|no
+sútrio	adjetivo	[sú]|tri|o
+sútrio	nome masculino	[sú]|tri|o
+sutura	nome feminino	su|[tu]|ra
+suturação	nome feminino	su|tu|ra|[ção]
+sutural	adjetivo	su|tu|[ral]
+suturar	verbo	su|tu|[rar]
+suumba	nome feminino	su|[um]|ba
+suvão	nome masculino	su|[vão]
+suvel	nome feminino	su|[vel]
+suvino	nome masculino	su|[vi]|no
+suxar	verbo	su|[xar]
+suxo	adjetivo	[su]|xo

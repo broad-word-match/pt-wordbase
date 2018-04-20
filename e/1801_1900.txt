@@ -1,0 +1,100 @@
+emborcação	nome feminino	em|bor|ca|[ção]
+emborcadela	nome feminino	em|bor|ca|[de]|la
+emborcar	verbo	em|bor|[car]
+emborco	nome masculino	em|[bor]|co
+embornadeiro	nome masculino	em|bor|na|[dei]|ro
+embornal	nome masculino	em|bor|[nal]
+embornalar	verbo	em|bor|na|[lar]
+emborque	nome masculino	em|[bor]|que
+emborrachar	verbo	em|bor|ra|[char]
+emborrado	adjetivo	em|bor|[ra]|do
+emborrado	nome masculino	em|bor|[ra]|do
+emborrador	nome masculino	em|bor|ra|[dor]
+emborradura	nome feminino	em|bor|ra|[du]|ra
+emborralhar	verbo	em|bor|ra|[lhar]
+emborrar	verbo	em|bor|[rar]
+emborrascar	verbo	em|bor|ras|[car]
+emboscada	nome feminino	em|bos|[ca]|da
+emboscado	adjetivo	em|bos|[ca]|do
+emboscado	nome masculino	em|bos|[ca]|do
+emboscar	verbo	em|bos|[car]
+embosqueirado	adjetivo	em|bos|quei|[ra]|do
+embostar	verbo	em|bos|[tar]
+embostear	verbo	em|bos|te|[ar]
+embostelar	verbo	em|bos|te|[lar]
+embotadeira	nome feminino	em|bo|ta|[dei]|ra
+embotado	adjetivo	em|bo|[ta]|do
+embotador	adjetivo	em|bo|ta|[dor]
+embotadura	nome feminino	em|bo|ta|[du]|ra
+embotamento	nome masculino	em|bo|ta|[men]|to
+embotar	verbo	em|bo|[tar]
+embote	nome masculino	em|[bo]|te
+embotelhar	verbo	em|bo|te|[lhar]
+embotijamento	nome masculino	em|bo|ti|ja|[men]|to
+embotijar	verbo	em|bo|ti|[jar]
+embraçadeira	nome feminino	em|bra|ça|[dei]|ra
+embraçadura	nome feminino	em|bra|ça|[du]|ra
+embraçamento	nome masculino	em|bra|ça|[men]|to
+embraçar	verbo	em|bra|[çar]
+embrace	nome masculino	em|[bra]|ce
+embraceirar	verbo	em|bra|cei|[rar]
+embragar	verbo	em|bra|[gar]
+embrague	nome masculino	em|[bra]|gue
+embraiagem	nome feminino	em|brai|[a]|gem
+embraiar	verbo	em|brai|[ar]
+embramar	verbo	em|bra|[mar]
+embrancar	verbo	em|bran|[car]
+embrandecer	verbo	em|bran|de|[cer]
+embrandecimento	nome masculino	em|bran|de|ci|[men]|to
+embranquecer	verbo	em|bran|que|[cer]
+embranquecido	adjetivo	em|bran|que|[ci]|do
+embranquecimento	nome masculino	em|bran|que|ci|[men]|to
+embraseado	adjetivo	em|bra|se|[a]|do
+embravear	verbo	em|bra|ve|[ar]
+embravecer	verbo	em|bra|ve|[cer]
+embravecido	adjetivo	em|bra|ve|[ci]|do
+embravecimento	nome masculino	em|bra|ve|ci|[men]|to
+embreadura	nome feminino	em|bre|a|[du]|ra
+embreagem	nome feminino	em|bre|[a]|gem
+embrear	verbo	em|bre|[ar]
+embrechada	nome feminino	em|bre|[cha]|da
+embrechado	adjetivo	em|bre|[cha]|do
+embrechado	nome masculino	em|bre|[cha]|do
+embrechar	verbo	em|bre|[char]
+embrenhamento	nome masculino	em|bre|nha|[men]|to
+embrenhar	verbo	em|bre|[nhar]
+embretamento	nome masculino	em|bre|ta|[men]|to
+embretar	verbo	em|bre|[tar]
+embriagada	nome feminino	em|bri|a|[ga]|da
+embriagado	adjetivo	em|bri|a|[ga]|do
+embriagado	nome masculino	em|bri|a|[ga]|do
+embriagador	adjetivo	em|bri|a|ga|[dor]
+embriagamento	nome masculino	em|bri|a|ga|[men]|to
+embriagante	adjetivo	em|bri|a|[gan]|te
+embriagar	verbo	em|bri|a|[gar]
+embriagável	adjetivo	em|bri|a|[gá]|vel
+embriaguez	nome feminino	em|bri|a|[guez]
+embrião	nome masculino	em|bri|[ão]
+embridar	verbo	em|bri|[dar]
+embrincar	verbo	em|brin|[car]
+embriogénese	nome feminino	em|bri|o|[gé]|ne|se
+embriogênese	nome feminino	em|bri|o|[gê]|ne|se
+embriogenia	nome feminino	em|bri|o|ge|[ni]|a
+embriogénico	adjetivo	em|bri|o|[gé]|ni|co
+embriogênico	adjetivo	em|bri|o|[gê]|ni|co
+embriogenista	nome masculino	em|bri|o|ge|[nis]|ta
+embriogenista	nome feminino	em|bri|o|ge|[nis]|ta
+embriografia	nome feminino	em|bri|o|gra|[fi]|a
+embriográfico	adjetivo	em|bri|o|[grá]|fi|co
+embrioide	adjetivo	em|bri|[oi]|de
+embriolado	adjetivo	em|bri|o|[la]|do
+embrióloga	nome feminino	em|bri|[ó]|lo|ga
+embriologia	nome feminino	em|bri|o|lo|[gi]|a
+embriológico	adjetivo	em|bri|o|[ló]|gi|co
+embriologista	nome masculino	em|bri|o|lo|[gis]|ta
+embriologista	nome feminino	em|bri|o|lo|[gis]|ta
+embriólogo	nome masculino	em|bri|[ó]|lo|go
+embrionado	adjetivo	em|bri|o|[na]|do
+embrionariamente	advérbio	em|bri|o|na|ri|a|[men]|te
+embrionário	adjetivo	em|bri|o|[ná]|ri|o
+embrionífero	adjetivo	em|bri|o|[ní]|fe|ro

@@ -1,0 +1,100 @@
+ventrilho	nome masculino	ven|[tri]|lho
+ventríloqua	nome feminino	ven|[trí]|lo|qua
+ventriloquia	nome feminino	ven|tri|lo|[qui]|a
+ventriloquismo	nome masculino	ven|tri|lo|[quis]|mo
+ventriloquista	adjetivo	ven|tri|lo|[quis]|ta
+ventriloquista	nome masculino	ven|tri|lo|[quis]|ta
+ventriloquista	nome feminino	ven|tri|lo|[quis]|ta
+ventríloquo	nome masculino	ven|[trí]|lo|quo
+ventríloquo	adjetivo	ven|[trí]|lo|quo
+ventripotente	adjetivo	ven|tri|po|[ten]|te
+ventrisca	nome feminino	ven|[tris]|ca
+ventrosidade	nome feminino	ven|tro|si|[da]|de
+ventrudo	adjetivo	ven|[tru]|do
+ventrulho	nome masculino	ven|[tru]|lho
+vêntulo	nome masculino	[vên]|tu|lo
+ventura	nome feminino	ven|[tu]|ra
+venturar	verbo	ven|tu|[rar]
+ventureiro	nome masculino	ven|tu|[rei]|ro
+ventureiro	adjetivo	ven|tu|[rei]|ro
+venturina	nome feminino	ven|tu|[ri]|na
+venturo	adjetivo	ven|[tu]|ro
+venturosamente	advérbio	ven|tu|ro|sa|[men]|te
+venturoso	adjetivo	ven|tu|[ro]|so
+ventusa	nome feminino	ven|[tu]|sa
+vénula	nome feminino	[vé]|nu|la
+vênula	nome feminino	[vê]|nu|la
+venulado	adjetivo	ve|nu|[la]|do
+vénus	nome feminino	[vé]|nus
+venusiano	adjetivo	ve|nu|si|[a]|no
+venusino	adjetivo	ve|nu|[si]|no
+venusino	nome masculino	ve|nu|[si]|no
+venúsio	nome masculino	ve|[nú]|si|o
+venustade	nome feminino	ve|nus|[ta]|de
+venustidade	nome feminino	ve|nus|ti|[da]|de
+venusto	adjetivo	ve|[nus]|to
+vepre	nome masculino	[ve]|pre
+vepsa	nome masculino	[vep]|sa
+vequiá	interjeição	ve|qui|[á]
+ver	verbo	[ver]
+ver	nome masculino	[ver]
+ver-o-peso	nome masculino	ver-o-pe|so
+vera-cruzano	nome masculino	ve|ra-cru|[za]|no
+vera-cruzano	adjetivo	ve|ra-cru|[za]|no
+vera-cruzense	nome feminino	ve|ra-cru|[zen]|se
+vera-cruzense	nome masculino	ve|ra-cru|[zen]|se
+vera-cruzense	adjetivo	ve|ra-cru|[zen]|se
+vera-efígie	nome feminino	ve|ra-e|[fí]|gi|e
+veracidade	nome feminino	ve|ra|ci|[da]|de
+veracíssimo	adjetivo	ve|ra|[cís]|si|mo
+veragro	adjetivo	ve|[ra]|gro
+veragro	nome masculino	ve|[ra]|gro
+veramente	advérbio	ve|ra|[men]|te
+veraneante	adjetivo	ve|ra|ne|[an]|te
+veraneante	nome masculino	ve|ra|ne|[an]|te
+veraneante	nome feminino	ve|ra|ne|[an]|te
+veranear	verbo	ve|ra|ne|[ar]
+veranego	adjetivo	ve|ra|[ne]|go
+veraneio	nome masculino	ve|ra|[nei]|o
+veranico	nome masculino	ve|ra|[ni]|co
+veraniço	adjetivo	ve|ra|[ni]|ço
+veranil	adjetivo	ve|ra|[nil]
+veranista	adjetivo	ve|ra|[nis]|ta
+veranista	nome masculino	ve|ra|[nis]|ta
+veranista	nome feminino	ve|ra|[nis]|ta
+veranito	nome masculino	ve|ra|[ni]|to
+veranopolitano	adjetivo	ve|ra|no|po|li|[ta]|no
+veranopolitano	nome masculino	ve|ra|no|po|li|[ta]|no
+verão	nome masculino	ve|[rão]
+verãozinho	nome masculino	ve|[rão]|zi|nho
+veras	nome feminino	[ve]|ras
+verascópio	nome masculino	ve|ras|[có]|pi|o
+veratrácea	nome feminino	ve|ra|[trá]|ce|a
+verátrico	adjetivo	ve|[rá]|tri|co
+veratrina	nome feminino	ve|ra|[tri]|na
+veratrinato	nome masculino	ve|ra|tri|[na]|to
+veratrino	nome masculino	ve|ra|[tri]|no
+veratro	nome masculino	ve|[ra]|tro
+veraz	adjetivo	ve|[raz]
+verba	nome feminino	[ver]|ba
+verbal	adjetivo	ver|[bal]
+verbalismo	nome masculino	ver|ba|[lis]|mo
+verbalista	nome masculino	ver|ba|[lis]|ta
+verbalista	adjetivo	ver|ba|[lis]|ta
+verbalista	nome feminino	ver|ba|[lis]|ta
+verbalisticamente	advérbio	ver|ba|lis|ti|ca|[men]|te
+verbalístico	adjetivo	ver|ba|[lís]|ti|co
+verbalização	nome feminino	ver|ba|li|za|[ção]
+verbalizado	adjetivo	ver|ba|li|[za]|do
+verbalizador	adjetivo	ver|ba|li|za|[dor]
+verbalizador	nome masculino	ver|ba|li|za|[dor]
+verbalizar	verbo	ver|ba|li|[zar]
+verbalmente	advérbio	ver|bal|[men]|te
+verbasco	nome masculino	ver|[bas]|co
+verbena	nome feminino	ver|[be]|na
+verbenácea	nome feminino	ver|be|[ná]|ce|a
+verbenáceo	adjetivo	ver|be|[ná]|ce|o
+verbenado	adjetivo	ver|be|[na]|do
+verbenário	nome masculino	ver|be|[ná]|ri|o
+verberação	nome feminino	ver|be|ra|[ção]
+verberador	adjetivo	ver|be|ra|[dor]

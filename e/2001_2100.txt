@@ -1,0 +1,100 @@
+emeninecer	verbo	e|me|ni|ne|[cer]
+emeninecimento	nome masculino	e|me|ni|ne|ci|[men]|to
+emenologia	nome feminino	e|me|no|lo|[gi]|a
+emenológico	adjetivo	e|me|no|[ló]|gi|co
+ementa	nome feminino	e|[men]|ta
+ementar	verbo	e|men|[tar]
+ementário	nome masculino	e|men|[tá]|ri|o
+emergência	nome feminino	e|mer|[gên]|ci|a
+emergente	adjetivo	e|mer|[gen]|te
+emergir	verbo	e|mer|[gir]
+emeritamente	advérbio	e|me|ri|ta|[men]|te
+emeritano	adjetivo	e|me|ri|[ta]|no
+emeritano	nome masculino	e|me|ri|[ta]|no
+emeritense	nome masculino	e|me|ri|[ten]|se
+emeritense	adjetivo	e|me|ri|[ten]|se
+emeritense	nome feminino	e|me|ri|[ten]|se
+emérito	adjetivo	e|[mé]|ri|to
+emersão	nome feminino	e|mer|[são]
+emerso	adjetivo	e|[mer]|so
+emerujar	verbo	e|me|ru|[jar]
+emeticidade	nome feminino	e|me|ti|ci|[da]|de
+emético	nome masculino	e|[mé]|ti|co
+emético	adjetivo	e|[mé]|ti|co
+emetina	nome feminino	e|me|[ti]|na
+emetizante	adjetivo	e|me|ti|[zan]|te
+emetizar	verbo	e|me|ti|[zar]
+emetocatártico	adjetivo	e|me|to|ca|[tár]|ti|co
+emetologia	nome feminino	e|me|to|lo|[gi]|a
+emetológico	adjetivo	e|me|to|[ló]|gi|co
+emetrope	adjetivo	e|me|[tro]|pe
+emetropia	nome feminino	e|me|tro|[pi]|a
+emetrópico	adjetivo	e|me|[tró]|pi|co
+emidídeo	adjetivo	e|mi|[dí]|de|o
+emidídeo	nome masculino	e|mi|[dí]|de|o
+emigrabilidade	nome feminino	e|mi|gra|bi|li|[da]|de
+emigração	nome feminino	e|mi|gra|[ção]
+emigrada	nome feminino	e|mi|[gra]|da
+emigrado	nome masculino	e|mi|[gra]|do
+emigrado	adjetivo	e|mi|[gra]|do
+emigrador	adjetivo	e|mi|gra|[dor]
+emigrante	nome masculino	e|mi|[gran]|te
+emigrante	adjetivo	e|mi|[gran]|te
+emigrante	nome feminino	e|mi|[gran]|te
+emigrar	verbo	e|mi|[grar]
+emigratório	adjetivo	e|mi|gra|[tó]|ri|o
+emigrável	adjetivo	e|mi|[grá]|vel
+emília	nome feminino	e|[mí]|li|a
+emiliano	nome masculino	e|mi|li|[a]|no
+emiliano	adjetivo	e|mi|li|[a]|no
+emílico	adjetivo	e|[mí]|li|co
+eminência	nome feminino	e|mi|[nên]|ci|a
+eminencial	adjetivo	e|mi|nen|ci|[al]
+eminencialmente	advérbio	e|mi|nen|ci|al|[men]|te
+eminenciar	verbo	e|mi|nen|ci|[ar]
+eminente	adjetivo	e|mi|[nen]|te
+eminentemente	advérbio	e|mi|nen|te|[men]|te
+eminentíssimo	adjetivo	e|mi|nen|[tís]|si|mo
+emir	nome masculino	e|[mir]
+emirado	nome masculino	e|mi|[ra]|do
+emirato	nome masculino	e|mi|[ra]|to
+emiseno	adjetivo	e|mi|[se]|no
+emiseno	nome masculino	e|mi|[se]|no
+emissão	nome feminino	e|mis|[são]
+emissária	nome feminino	e|mis|[sá]|ri|a
+emissário	adjetivo	e|mis|[sá]|ri|o
+emissário	nome masculino	e|mis|[sá]|ri|o
+emissionismo	nome masculino	e|mis|si|o|[nis]|mo
+emissível	adjetivo	e|mis|[sí]|vel
+emissividade	nome feminino	e|mis|si|vi|[da]|de
+emissivo	adjetivo	e|mis|[si]|vo
+emissor	adjetivo	e|mis|[sor]
+emissor	nome masculino	e|mis|[sor]
+emissora	nome feminino	e|mis|[so]|ra
+emissório	adjetivo	e|mis|[só]|ri|o
+emitância	nome feminino	e|mi|[tân]|ci|a
+emitente	adjetivo	e|mi|[ten]|te
+emitente	nome masculino	e|mi|[ten]|te
+emitente	nome feminino	e|mi|[ten]|te
+emitir	verbo	e|mi|[tir]
+emmarouviado	adjetivo	em|ma|rou|vi|[a]|do
+emmastear	verbo	em|mas|te|[ar]
+emmeio	nome masculino	em|[mei]|o
+emmenthal	nome masculino	em|men|thal
+emoção	nome feminino	e|mo|[ção]
+emocionado	adjetivo	e|mo|ci|o|[na]|do
+emocional	adjetivo	e|mo|ci|o|[nal]
+emocionalmente	advérbio	e|mo|ci|o|nal|[men]|te
+emocionante	adjetivo	e|mo|ci|o|[nan]|te
+emocionar	verbo	e|mo|ci|o|[nar]
+emocionável	adjetivo	e|mo|ci|o|[ná]|vel
+emoirar	verbo	e|moi|[rar]
+emoldar	verbo	e|mol|[dar]
+emoldurar	verbo	e|mol|du|[rar]
+emoleirar	verbo	e|mo|lei|[rar]
+emolhar	verbo	e|mo|[lhar]
+emoliente	adjetivo	e|mo|li|[en]|te
+emoliente	nome masculino	e|mo|li|[en]|te
+emolir	verbo	e|mo|[lir]
+emolumento	nome masculino	e|mo|lu|[men]|to
+emonar	verbo	e|mo|[nar]

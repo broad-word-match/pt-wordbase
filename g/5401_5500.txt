@@ -1,0 +1,100 @@
+guicoxo	nome masculino	gui|[co]|xo
+guidão	nome masculino	gui|[dão]
+guieira	nome feminino	gui|[ei]|ra
+guieiro	adjetivo	gui|[ei]|ro
+guieiro	nome masculino	gui|[ei]|ro
+guienense	adjetivo	gui|e|[nen]|se
+guienense	nome masculino	gui|e|[nen]|se
+guienense	nome feminino	gui|e|[nen]|se
+guiga	nome feminino	[gui]|ga
+guigó	nome masculino	gui|[gó]
+guilda	nome feminino	[guil]|da
+guilha	nome feminino	[gui]|lha
+guilherme	nome masculino	gui|[lher]|me
+guilho	nome masculino	[gui]|lho
+guilhochador	nome masculino	gui|lho|cha|[dor]
+guilhochar	verbo	gui|lho|[char]
+guilhochê	nome masculino	gui|lho|[chê]
+guilhoché	nome masculino	gui|lho|[ché]
+guilhote	nome masculino	gui|[lho]|te
+guilhotina	nome feminino	gui|lho|[ti]|na
+guilhotinamento	nome masculino	gui|lho|ti|na|[men]|to
+guilhotinar	verbo	gui|lho|ti|[nar]
+guimba	nome feminino	[guim]|ba
+guimbarda	nome feminino	guim|[bar]|da
+guímel	nome masculino	[guí]|mel
+guina	nome feminino	[gui]|na
+guinada	nome feminino	gui|[na]|da
+guinalda	nome feminino	gui|[nal]|da
+guinaldeiro	adjetivo	gui|nal|[dei]|ro
+guinaldeiro	nome masculino	gui|nal|[dei]|ro
+guinaldice	nome feminino	gui|nal|[di]|ce
+guinaldo	nome masculino	gui|[nal]|do
+guinar	verbo	gui|[nar]
+guincha	nome feminino	[guin]|cha
+guinchada	nome feminino	guin|[cha]|da
+guinchadeira	nome feminino	guin|cha|[dei]|ra
+guinchado	nome masculino	guin|[cha]|do
+guinchador	adjetivo	guin|cha|[dor]
+guinchador	nome masculino	guin|cha|[dor]
+guinchante	adjetivo	guin|[chan]|te
+guinchar	verbo	guin|[char]
+guincheiro	nome masculino	guin|[chei]|ro
+guincho	nome masculino	[guin]|cho
+guincho-da-tainha	nome masculino	guin|cho-da-ta|[i]|nha
+guinda	nome feminino	[guin]|da
+guinda-amaina	nome feminino	guin|da-a|[mai]|na
+guindado	adjetivo	guin|[da]|do
+guindagem	nome feminino	guin|[da]|gem
+guindal	nome masculino	guin|[dal]
+guindaleta	nome feminino	guin|da|[le]|ta
+guindalete	nome masculino	guin|da|[le]|te
+guindamaina	nome feminino	guin|da|[mai]|na
+guindamento	nome masculino	guin|da|[men]|to
+guindar	verbo	guin|[dar]
+guindareza	nome feminino	guin|da|[re]|za
+guindaste	nome masculino	guin|[das]|te
+guinde	nome masculino	[guin]|de
+guindola	nome feminino	guin|[do]|la
+guiné	nome feminino	gui|[né]
+guineano	nome masculino	gui|ne|[a]|no
+guineano	adjetivo	gui|ne|[a]|no
+guineense	adjetivo	gui|ne|[en]|se
+guineense	nome masculino	gui|ne|[en]|se
+guineense	nome feminino	gui|ne|[en]|se
+guineensidade	nome feminino	gui|ne|en|si|[da]|de
+guineensismo	nome masculino	gui|ne|en|[sis]|mo
+guineia	nome feminino	gui|[nei]|a
+guines	nome masculino	[gui]|nes
+guinéu	adjetivo	gui|[néu]
+guinéu	nome masculino	gui|[néu]
+guinéu-equatoriano	nome masculino	gui|néu-e|qua|to|ri|[a]|no
+guinéu-equatoriano	adjetivo	gui|néu-e|qua|to|ri|[a]|no
+guingão	nome masculino	guin|[gão]
+guingueto	nome masculino	guin|[gue]|to
+guinhol	nome masculino	gui|[nhol]
+guinilha	nome feminino	gui|[ni]|lha
+guinolas	nome masculino	gui|[no]|las
+guinolas	nome feminino	gui|[no]|las
+guio	nome masculino	[gui]|o
+guionista	nome masculino	gui|o|[nis]|ta
+guionista	nome feminino	gui|o|[nis]|ta
+guipura	nome feminino	gui|[pu]|ra
+guipuscoano	adjetivo	gui|pus|co|[a]|no
+guipuscoano	nome masculino	gui|pus|co|[a]|no
+guira	nome feminino	[gui]|ra
+guiramembé	nome masculino	gui|ra|mem|[bé]
+guirantanga	nome feminino	gui|ran|[tan]|ga
+guiraponga	nome feminino	gui|ra|[pon]|ga
+guiraró	nome masculino	gui|ra|[ró]
+guiraru	nome masculino	gui|ra|[ru]
+guiratinga	nome feminino	gui|ra|[tin]|ga
+guiratirica	nome feminino	gui|ra|ti|[ri]|ca
+guiraundi	nome masculino	gui|ra|un|[di]
+guirlanda	nome feminino	guir|[lan]|da
+guirnalda	nome feminino	guir|[nal]|da
+guisa	nome feminino	[gui]|sa
+guisadeira	nome feminino	gui|sa|[dei]|ra
+guisado	nome masculino	gui|[sa]|do
+guisado	adjetivo	gui|[sa]|do
+guisamento	nome masculino	gui|sa|[men]|to

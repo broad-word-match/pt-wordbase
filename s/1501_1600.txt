@@ -1,0 +1,100 @@
+sangoé	nome masculino	san|go|[é]
+sangoma	nome masculino	san|[go]|ma
+sangoma	nome feminino	san|[go]|ma
+sangotim	nome masculino	san|go|[tim]
+sangra	nome feminino	[san]|gra
+sangra-língua	nome feminino	san|gra-lín|gua
+sangra-mocho	nome masculino	san|gra-mo|cho
+sangradeira	nome feminino	san|gra|[dei]|ra
+sangrado	adjetivo	san|[gra]|do
+sangradoiro	nome masculino	san|gra|[doi]|ro
+sangrador	adjetivo	san|gra|[dor]
+sangrador	nome masculino	san|gra|[dor]
+sangradora	nome feminino	san|gra|[do]|ra
+sangradouro	nome masculino	san|gra|[dou]|ro
+sangradura	nome feminino	san|gra|[du]|ra
+sangramento	nome masculino	san|gra|[men]|to
+sangrar	verbo	san|[grar]
+sangrável	adjetivo	san|[grá]|vel
+sangrentamente	advérbio	san|gren|ta|[men]|te
+sangrento	adjetivo	san|[gren]|to
+sangria	nome feminino	san|[gri]|a
+sangrinheiro	nome masculino	san|gri|[nhei]|ro
+sangrinho	nome masculino	san|[gri]|nho
+sanguão	nome masculino	san|gu|[ão]
+sangue	nome masculino	[san]|gue
+sangué	nome feminino	san|[gué]
+sanguê	nome feminino	san|[guê]
+sangue-de-boi	nome masculino	san|gue-de-boi
+sangue-de-dragão	nome masculino	san|gue-de-dra|[gão]
+sangue-de-drago	nome masculino	san|gue-de-dra|go
+sangue-frio	nome masculino	san|gue-fri|o
+sanguechuva	nome feminino	san|gue|[chu]|va
+sangueira	nome feminino	san|[guei]|ra
+sanguelar	verbo	san|gue|[lar]
+sanguentado	adjetivo	san|guen|[ta]|do
+sanguento	adjetivo	san|[guen]|to
+sanguessuga	nome feminino	san|gues|[su]|ga
+sanguessuga	nome masculino	san|gues|[su]|ga
+sanguexuga	nome feminino	san|gue|[xu]|ga
+sanguicel	nome masculino	san|gui|[cel]
+sanguícola	adjetivo	san|[guí]|co|la
+sanguífero	adjetivo	san|[guí]|fe|ro
+sanguificação	nome feminino	san|gui|fi|ca|[ção]
+sanguificar	verbo	san|gui|fi|[car]
+sanguificativo	adjetivo	san|gui|fi|ca|[ti]|vo
+sanguífico	adjetivo	san|[guí]|fi|co
+sanguimisto	nome masculino	san|gui|[mis]|to
+sanguina	nome feminino	san|[gui]|na
+sanguinação	nome feminino	san|gui|na|[ção]
+sanguinária	nome feminino	san|gui|[ná]|ri|a
+sanguinariamente	advérbio	san|gui|na|ri|a|[men]|te
+sanguinarina	nome feminino	san|gui|na|[ri]|na
+sanguinário	adjetivo	san|gui|[ná]|ri|o
+sanguinário	nome masculino	san|gui|[ná]|ri|o
+sanguínea	nome feminino	san|[guí]|ne|a
+sanguíneo	nome masculino	san|[guí]|ne|o
+sanguíneo	adjetivo	san|[guí]|ne|o
+sanguinha	nome feminino	san|[gui]|nha
+sanguinhal	nome masculino	san|gui|[nhal]
+sanguinheiro	nome masculino	san|gui|[nhei]|ro
+sanguinho	nome masculino	san|[gui]|nho
+sanguinho-das-sebes	nome masculino	san|gui|nho-das-se|bes
+sanguinidade	nome feminino	san|gui|ni|[da]|de
+sanguino	adjetivo	san|[gui]|no
+sanguino	nome masculino	san|[gui]|no
+sanguinolária	nome feminino	san|gui|no|[lá]|ri|a
+sanguinolência	nome feminino	san|gui|no|[lên]|ci|a
+sanguinolentamente	advérbio	san|gui|no|len|ta|[men]|te
+sanguinolento	adjetivo	san|gui|no|[len]|to
+sanguinoso	adjetivo	san|gui|[no]|so
+sanguissedento	adjetivo	san|guis|se|[den]|to
+sanguissorba	nome feminino	san|guis|[sor]|ba
+sanguissorbácea	nome feminino	san|guis|sor|[bá]|ce|a
+sanguívoro	adjetivo	san|[guí]|vo|ro
+sanha	nome feminino	[sa]|nha
+sanhaço	nome masculino	sa|[nha]|ço
+sanhaçu	nome masculino	sa|nha|[çu]
+sanharó	nome masculino	sa|nha|[ró]
+sanheiro	nome masculino	sa|[nhei]|ro
+sanhoaneira	nome feminino	sa|nho|a|[nei]|ra
+sanhoaneiro	adjetivo	sa|nho|a|[nei]|ro
+sanhoso	adjetivo	sa|[nho]|so
+sanhudamente	advérbio	sa|nhu|da|[men]|te
+sanhudo	adjetivo	sa|[nhu]|do
+sanicar	verbo	sa|ni|[car]
+sanícula	nome feminino	sa|[ní]|cu|la
+sanicúlea	nome feminino	sa|ni|[cú]|le|a
+sanidade	nome feminino	sa|ni|[da]|de
+sanidina	nome feminino	sa|ni|[di]|na
+sânie	nome feminino	[sâ]|ni|e
+sanificação	nome feminino	sa|ni|fi|ca|[ção]
+sanificador	adjetivo	sa|ni|fi|ca|[dor]
+sanificante	adjetivo	sa|ni|fi|[can]|te
+sanificar	verbo	sa|ni|fi|[car]
+saninho	nome masculino	sa|[ni]|nho
+sanioso	adjetivo	sa|ni|[o]|so
+sanisca	nome feminino	sa|[nis]|ca
+saníssimo	adjetivo	sa|[nís]|si|mo
+sanita	nome feminino	sa|[ni]|ta
+sanitariamente	advérbio	sa|ni|ta|ri|a|[men]|te

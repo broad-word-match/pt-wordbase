@@ -1,0 +1,100 @@
+despostigar	verbo	des|pos|ti|[gar]
+déspota	adjetivo	[dés]|po|ta
+déspota	nome masculino	[dés]|po|ta
+déspota	nome feminino	[dés]|po|ta
+despoticamente	advérbio	des|po|ti|ca|[men]|te
+despótico	adjetivo	des|[pó]|ti|co
+despotismo	nome masculino	des|po|[tis]|mo
+despovoação	nome feminino	des|po|vo|a|[ção]
+despovoado	nome masculino	des|po|vo|[a]|do
+despovoado	adjetivo	des|po|vo|[a]|do
+despovoador	adjetivo	des|po|vo|a|[dor]
+despovoador	nome masculino	des|po|vo|a|[dor]
+despovoamento	nome masculino	des|po|vo|a|[men]|to
+despovoar	verbo	des|po|vo|[ar]
+despratear	verbo	des|pra|te|[ar]
+desprazer	verbo	des|pra|[zer]
+desprazer	nome masculino	des|pra|[zer]
+desprazimento	nome masculino	des|pra|zi|[men]|to
+desprazível	adjetivo	des|pra|[zí]|vel
+desprecatadamente	advérbio	des|pre|ca|ta|da|[men]|te
+desprecatado	adjetivo	des|pre|ca|[ta]|do
+desprecatar	verbo	des|pre|ca|[tar]
+desprecaução	nome feminino	des|pre|cau|[ção]
+desprecaver	verbo	des|pre|ca|[ver]
+desprecavido	adjetivo	des|pre|ca|[vi]|do
+desprecavido	nome masculino	des|pre|ca|[vi]|do
+despreciar	verbo	des|pre|ci|[ar]
+despreconcebido	adjetivo	des|pre|con|ce|[bi]|do
+despreconceito	nome masculino	des|pre|con|[cei]|to
+despregado	adjetivo	des|pre|[ga]|do
+despregadura	nome feminino	des|pre|ga|[du]|ra
+despregar	verbo	des|pre|[gar]
+despreguiçar	verbo	des|pre|gui|[çar]
+despremiar	verbo	des|pre|mi|[ar]
+desprendado	adjetivo	des|pren|[da]|do
+desprendado	nome masculino	des|pren|[da]|do
+desprender	verbo	des|pren|[der]
+desprendidamente	advérbio	des|pren|di|da|[men]|te
+desprendido	adjetivo	des|pren|[di]|do
+desprendimento	nome masculino	des|pren|di|[men]|to
+desprenhar	verbo	des|pre|[nhar]
+despreocupação	nome feminino	des|pre|o|cu|pa|[ção]
+despreocupadamente	advérbio	des|pre|o|cu|pa|da|[men]|te
+despreocupado	adjetivo	des|pre|o|cu|[pa]|do
+despreocupar	verbo	des|pre|o|cu|[par]
+despreparado	adjetivo	des|pre|pa|[ra]|do
+despreparo	nome masculino	des|pre|[pa]|ro
+despresilhar	verbo	des|pre|si|[lhar]
+despressurização	nome feminino	des|pres|su|ri|za|[ção]
+despressurizar	verbo	des|pres|su|ri|[zar]
+desprestigiado	adjetivo	des|pres|ti|gi|[a]|do
+desprestigiador	adjetivo	des|pres|ti|gi|a|[dor]
+desprestigiador	nome masculino	des|pres|ti|gi|a|[dor]
+desprestigiante	adjetivo	des|pres|ti|gi|[an]|te
+desprestigiar	verbo	des|pres|ti|gi|[ar]
+desprestígio	nome masculino	des|pres|[tí]|gi|o
+despresumido	adjetivo	des|pre|su|[mi]|do
+despresunção	nome feminino	des|pre|sun|[ção]
+despretensão	nome feminino	des|pre|ten|[são]
+despretensiosamente	advérbio	des|pre|ten|si|o|sa|[men]|te
+despretensioso	adjetivo	des|pre|ten|si|[o]|so
+desprevenção	nome feminino	des|pre|ven|[ção]
+desprevenido	adjetivo	des|pre|ve|[ni]|do
+desprevenir	verbo	des|pre|ve|[nir]
+desprezado	adjetivo	des|pre|[za]|do
+desprezado	nome masculino	des|pre|[za]|do
+desprezador	adjetivo	des|pre|za|[dor]
+desprezador	nome masculino	des|pre|za|[dor]
+desprezadouro	adjetivo	des|pre|za|[dou]|ro
+desprezamento	nome masculino	des|pre|za|[men]|to
+desprezar	verbo	des|pre|[zar]
+desprezativo	adjetivo	des|pre|za|[ti]|vo
+desprezável	adjetivo	des|pre|[zá]|vel
+desprezibilidade	nome feminino	des|pre|zi|bi|li|[da]|de
+desprezível	adjetivo	des|pre|[zí]|vel
+desprezivelmente	advérbio	des|pre|zi|vel|[men]|te
+desprezo	nome masculino	des|[pre]|zo
+desprimor	nome masculino	des|pri|[mor]
+desprimorar	verbo	des|pri|mo|[rar]
+desprimorosamente	advérbio	des|pri|mo|ro|sa|[men]|te
+desprimoroso	adjetivo	des|pri|mo|[ro]|so
+desprivar	verbo	des|pri|[var]
+desprivilegiar	verbo	des|pri|vi|le|gi|[ar]
+desprofanar	verbo	des|pro|fa|[nar]
+desprograma	nome masculino	des|pro|[gra]|ma
+despromoção	nome feminino	des|pro|mo|[ção]
+despromover	verbo	des|pro|mo|[ver]
+despromovido	adjetivo	des|pro|mo|[vi]|do
+despronúncia	nome feminino	des|pro|[nún]|ci|a
+despronunciado	nome masculino	des|pro|nun|ci|[a]|do
+despronunciar	verbo	des|pro|nun|ci|[ar]
+desproporção	nome feminino	des|pro|por|[ção]
+desproporcionadamente	advérbio	des|pro|por|ci|o|na|da|[men]|te
+desproporcionado	adjetivo	des|pro|por|ci|o|[na]|do
+desproporcional	adjetivo	des|pro|por|ci|o|[nal]
+desproporcionalidade	nome feminino	des|pro|por|ci|o|na|li|[da]|de
+desproporcionalmente	advérbio	des|pro|por|ci|o|nal|[men]|te
+desproporcionar	verbo	des|pro|por|ci|o|[nar]
+despropositadamente	advérbio	des|pro|po|si|ta|da|[men]|te
+despropositado	adjetivo	des|pro|po|si|[ta]|do

@@ -1,0 +1,100 @@
+borrachudo	adjetivo	bor|ra|[chu]|do
+borrachudo	nome masculino	bor|ra|[chu]|do
+borrada	nome feminino	bor|[ra]|da
+borradela	nome feminino	bor|ra|[de]|la
+borrado	adjetivo	bor|[ra]|do
+borrador	nome masculino	bor|ra|[dor]
+borrador	adjetivo	bor|ra|[dor]
+borradora	nome feminino	bor|ra|[do]|ra
+borradura	nome feminino	bor|ra|[du]|ra
+borragem	nome feminino	bor|[ra]|gem
+borraginácea	nome feminino	bor|ra|gi|[ná]|ce|a
+borragíneo	adjetivo	bor|ra|[gí]|ne|o
+borraginoso	adjetivo	bor|ra|gi|[no]|so
+borraina	nome feminino	bor|[rai]|na
+borralha	nome feminino	bor|[ra]|lha
+borralheira	nome feminino	bor|ra|[lhei]|ra
+borralheiro	nome masculino	bor|ra|[lhei]|ro
+borralheiro	adjetivo	bor|ra|[lhei]|ro
+borralhento	adjetivo	bor|ra|[lhen]|to
+borralho	nome masculino	bor|[ra]|lho
+borralho	adjetivo	bor|[ra]|lho
+borrão	nome masculino	bor|[rão]
+borrar	verbo	bor|[rar]
+borrasca	nome feminino	bor|[ras]|ca
+borrascoso	adjetivo	bor|ras|[co]|so
+borrasqueiro	nome masculino	bor|ras|[quei]|ro
+borratada	nome feminino	bor|ra|[ta]|da
+borratão	nome masculino	bor|ra|[tão]
+borratar	verbo	bor|ra|[tar]
+borrazeira	nome feminino	bor|ra|[zei]|ra
+borrefa	nome feminino	bor|[re]|fa
+borrega	nome feminino	bor|[re]|ga
+borregada	nome feminino	bor|re|[ga]|da
+borregar	verbo	bor|re|[gar]
+borrego	nome masculino	bor|[re]|go
+borregueiro	nome masculino	bor|re|[guei]|ro
+borreguice	nome feminino	bor|re|[gui]|ce
+borreira	adjetivo	bor|[rei]|ra
+borreiro	nome masculino	bor|[rei]|ro
+borrejo	nome masculino	bor|[re]|jo
+borrelho	nome masculino	bor|[re]|lho
+borrento	adjetivo	bor|[ren]|to
+borréria	nome feminino	bor|[ré]|ri|a
+borriçar	verbo	bor|ri|[çar]
+borriceira	nome feminino	bor|ri|[cei]|ra
+borriceiro	nome masculino	bor|ri|[cei]|ro
+borriço	nome masculino	bor|[ri]|ço
+borrifadela	nome feminino	bor|ri|fa|[de]|la
+borrifado	adjetivo	bor|ri|[fa]|do
+borrifador	nome masculino	bor|ri|fa|[dor]
+borrifar	verbo	bor|ri|[far]
+borrifo	nome masculino	bor|[ri]|fo
+borriscada	nome feminino	bor|ris|[ca]|da
+borriscar	verbo	bor|ris|[car]
+borrisco	nome masculino	bor|[ris]|co
+borro	nome masculino	[bor]|ro
+borroso	adjetivo	bor|[ro]|so
+bort	nome masculino	[bort]
+borússico	adjetivo	bo|[rús]|si|co
+borusso	nome masculino	bo|[rus]|so
+borututu	nome masculino	bo|ru|tu|[tu]
+borzeguiada	nome feminino	bor|ze|gui|[a]|da
+borzeguieiro	nome masculino	bor|ze|gui|[ei]|ro
+borzeguim	nome masculino	bor|ze|[guim]
+borzeguineiro	nome masculino	bor|ze|gui|[nei]|ro
+bosão	nome masculino	bo|[são]
+bosboque	nome masculino	bos|[bo]|que
+bosca	nome feminino	[bos]|ca
+boscagem	nome feminino	bos|[ca]|gem
+boscarejo	adjetivo	bos|ca|[re]|jo
+bosense	adjetivo	bo|[sen]|se
+bosense	nome masculino	bo|[sen]|se
+bosense	nome feminino	bo|[sen]|se
+bosforano	adjetivo	bos|fo|[ra]|no
+bosforano	nome masculino	bos|fo|[ra]|no
+bosi	nome masculino	bo|[si]
+bosnense	nome masculino	bos|[nen]|se
+bosnense	nome feminino	bos|[nen]|se
+bosnense	adjetivo	bos|[nen]|se
+bósnia	nome feminino	[bós]|ni|a
+bosníaca	nome feminino	bos|[ní]|a|ca
+bosníaco	nome masculino	bos|[ní]|a|co
+bosníaco	adjetivo	bos|[ní]|a|co
+bosniana	nome feminino	bos|ni|[a]|na
+bosniano	adjetivo	bos|ni|[a]|no
+bosniano	nome masculino	bos|ni|[a]|no
+bosniense	nome masculino	bos|ni|[en]|se
+bosniense	nome feminino	bos|ni|[en]|se
+bosniense	adjetivo	bos|ni|[en]|se
+bósnio	nome masculino	[bós]|ni|o
+bósnio	adjetivo	[bós]|ni|o
+bosque	nome masculino	[bos]|que
+bosquedo	nome masculino	bos|[que]|do
+bosquejador	adjetivo	bos|que|ja|[dor]
+bosquejador	nome masculino	bos|que|ja|[dor]
+bosquejar	verbo	bos|que|[jar]
+bosquejo	nome masculino	bos|[que]|jo
+bosquete	nome masculino	bos|[que]|te
+bosquímana	nome feminino	bos|[quí]|ma|na
+bosquímano	adjetivo	bos|[quí]|ma|no

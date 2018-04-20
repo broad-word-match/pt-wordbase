@@ -1,0 +1,100 @@
+impulsiva	nome feminino	im|pul|[si]|va
+impulsivamente	advérbio	im|pul|si|va|[men]|te
+impulsividade	nome feminino	im|pul|si|vi|[da]|de
+impulsivismo	nome masculino	im|pul|si|[vis]|mo
+impulsivo	nome masculino	im|pul|[si]|vo
+impulsivo	adjetivo	im|pul|[si]|vo
+impulso	nome masculino	im|[pul]|so
+impulsor	adjetivo	im|pul|[sor]
+impulsor	nome masculino	im|pul|[sor]
+impulsora	nome feminino	im|pul|[so]|ra
+impune	adjetivo	im|[pu]|ne
+impunemente	advérbio	im|pu|ne|[men]|te
+impunibilidade	nome feminino	im|pu|ni|bi|li|[da]|de
+impunidade	nome feminino	im|pu|ni|[da]|de
+impunido	adjetivo	im|pu|[ni]|do
+impunidouros	nome masculino	im|pu|ni|[dou]|ros
+impunível	adjetivo	im|pu|[ní]|vel
+impuramente	advérbio	im|pu|ra|[men]|te
+impureza	nome feminino	im|pu|[re]|za
+impuridade	nome feminino	im|pu|ri|[da]|de
+impurificar	verbo	im|pu|ri|fi|[car]
+impuro	adjetivo	im|[pu]|ro
+imputabilidade	nome feminino	im|pu|ta|bi|li|[da]|de
+imputação	nome feminino	im|pu|ta|[ção]
+imputador	adjetivo	im|pu|ta|[dor]
+imputador	nome masculino	im|pu|ta|[dor]
+imputar	verbo	im|pu|[tar]
+imputativo	adjetivo	im|pu|ta|[ti]|vo
+imputável	adjetivo	im|pu|[tá]|vel
+imputrefação	nome feminino	im|pu|tre|fa|[ção]
+imputrefacção	nome feminino	im|pu|tre|fac|[ção]
+imputrescibilidade	nome feminino	im|pu|tres|ci|bi|li|[da]|de
+imputrescível	adjetivo	im|pu|tres|[cí]|vel
+imudável	adjetivo	i|mu|[dá]|vel
+imundamente	advérbio	i|mun|da|[men]|te
+imundice	nome feminino	i|mun|[di]|ce
+imundícia	nome feminino	i|mun|[dí]|ci|a
+imundície	nome feminino	i|mun|[dí]|ci|e
+imundo	adjetivo	i|[mun]|do
+imune	adjetivo	i|[mu]|ne
+imunidade	nome feminino	i|mu|ni|[da]|de
+imunitário	adjetivo	i|mu|ni|[tá]|ri|o
+imunização	nome feminino	i|mu|ni|za|[ção]
+imunizado	adjetivo	i|mu|ni|[za]|do
+imunizador	adjetivo	i|mu|ni|za|[dor]
+imunizador	nome masculino	i|mu|ni|za|[dor]
+imunizante	adjetivo	i|mu|ni|[zan]|te
+imunizar	verbo	i|mu|ni|[zar]
+imunizável	adjetivo	i|mu|ni|[zá]|vel
+imunocompetência	nome feminino	i|mu|no|com|pe|[tên]|ci|a
+imunocompetente	adjetivo	i|mu|no|com|pe|[ten]|te
+imunodeficiência	nome feminino	i|mu|no|de|fi|ci|[ên]|ci|a
+imunodeficiente	adjetivo	i|mu|no|de|fi|ci|[en]|te
+imunodepressão	nome feminino	i|mu|no|de|pres|[são]
+imunodepressor	adjetivo	i|mu|no|de|pres|[sor]
+imunodepressor	nome masculino	i|mu|no|de|pres|[sor]
+imunodeprimido	adjetivo	i|mu|no|de|pri|[mi]|do
+imunodeprimido	nome masculino	i|mu|no|de|pri|[mi]|do
+imunoelectroforese	nome feminino	i|mu|no|e|lec|tro|fo|[re]|se
+imunoeletroforese	nome feminino	i|mu|no|e|le|tro|fo|[re]|se
+imunofluorescência	nome feminino	i|mu|no|flu|o|res|[cên]|ci|a
+imunofluorescente	adjetivo	i|mu|no|flu|o|res|[cen]|te
+imunogenicidade	nome feminino	i|mu|no|ge|ni|ci|[da]|de
+imunogénico	adjetivo	i|mu|no|[gé]|ni|co
+imunogênico	adjetivo	i|mu|no|[gê]|ni|co
+imunoglobulina	nome feminino	i|mu|no|glo|bu|[li]|na
+imunologia	nome feminino	i|mu|no|lo|[gi]|a
+imunológico	adjetivo	i|mu|no|[ló]|gi|co
+imunologista	nome masculino	i|mu|no|lo|[gis]|ta
+imunologista	nome feminino	i|mu|no|lo|[gis]|ta
+imunólogo	nome masculino	i|mu|[nó]|lo|go
+imunopatologia	nome feminino	i|mu|no|pa|to|lo|[gi]|a
+imunopatológico	adjetivo	i|mu|no|pa|to|[ló]|gi|co
+imunopatologista	nome masculino	i|mu|no|pa|to|lo|[gis]|ta
+imunopatologista	nome feminino	i|mu|no|pa|to|lo|[gis]|ta
+imunoquímica	nome feminino	i|mu|no|[quí]|mi|ca
+imunoquímico	adjetivo	i|mu|no|[quí]|mi|co
+imunorreação	nome feminino	i|mu|nor|re|a|[ção]
+imunorreativo	adjetivo	i|mu|nor|re|a|[ti]|vo
+imunorregulação	nome feminino	i|mu|nor|re|gu|la|[ção]
+imunossupressão	nome feminino	i|mu|nos|su|pres|[são]
+imunossupressor	adjetivo	i|mu|nos|su|pres|[sor]
+imunossupressor	nome masculino	i|mu|nos|su|pres|[sor]
+imunoterapia	nome feminino	i|mu|no|te|ra|[pi]|a
+imunoterápico	adjetivo	i|mu|no|te|[rá]|pi|co
+imutabilidade	nome feminino	i|mu|ta|bi|li|[da]|de
+imutação	nome feminino	i|mu|ta|[ção]
+imutar	verbo	i|mu|[tar]
+imutável	adjetivo	i|mu|[tá]|vel
+imutavelmente	advérbio	i|mu|ta|vel|[men]|te
+in	advérbio	[in]
+in-fólio	nome masculino	in-fó|li|o
+in-fólio	adjetivo	in-fó|li|o
+in-octavo	adjetivo	in-oc|[ta]|vo
+in-octavo	nome masculino	in-oc|[ta]|vo
+in-quarto	nome masculino	in-quar|to
+in-quarto	adjetivo	in-quar|to
+inabalabilidade	nome feminino	i|na|ba|la|bi|li|[da]|de
+inabalado	adjetivo	i|na|ba|[la]|do
+inabalável	adjetivo	i|na|ba|[lá]|vel

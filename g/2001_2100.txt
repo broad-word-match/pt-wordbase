@@ -1,0 +1,100 @@
+genebra	nome feminino	ge|[ne]|bra
+genebrada	nome feminino	ge|ne|[bra]|da
+genebreiro	nome masculino	ge|ne|[brei]|ro
+genebrense	adjetivo	ge|ne|[bren]|se
+genebrense	nome masculino	ge|ne|[bren]|se
+genebrense	nome feminino	ge|ne|[bren]|se
+genebrês	adjetivo	ge|ne|[brês]
+genebrês	nome masculino	ge|ne|[brês]
+genebresa	nome feminino	ge|ne|[bre]|sa
+genebrina	nome feminino	ge|ne|[bri]|na
+genebrino	adjetivo	ge|ne|[bri]|no
+genebrino	nome masculino	ge|ne|[bri]|no
+genepi	nome masculino	ge|ne|[pi]
+genequim	adjetivo	ge|ne|[quim]
+genequim	nome masculino	ge|ne|[quim]
+generacionismo	nome masculino	ge|ne|ra|ci|o|[nis]|mo
+generacionista	adjetivo	ge|ne|ra|ci|o|[nis]|ta
+generacionista	nome masculino	ge|ne|ra|ci|o|[nis]|ta
+generacionista	nome feminino	ge|ne|ra|ci|o|[nis]|ta
+generacionístico	adjetivo	ge|ne|ra|ci|o|[nís]|ti|co
+general	adjetivo	ge|ne|[ral]
+general	nome masculino	ge|ne|[ral]
+general	nome feminino	ge|ne|[ral]
+generala	nome feminino	ge|ne|[ra]|la
+generalado	nome masculino	ge|ne|ra|[la]|do
+generalato	nome masculino	ge|ne|ra|[la]|to
+generalício	adjetivo	ge|ne|ra|[lí]|ci|o
+generalidade	nome feminino	ge|ne|ra|li|[da]|de
+generalíssimo	adjetivo	ge|ne|ra|[lís]|si|mo
+generalíssimo	nome masculino	ge|ne|ra|[lís]|si|mo
+generalista	adjetivo	ge|ne|ra|[lis]|ta
+generalização	nome feminino	ge|ne|ra|li|za|[ção]
+generalizadamente	advérbio	ge|ne|ra|li|za|da|[men]|te
+generalizador	adjetivo	ge|ne|ra|li|za|[dor]
+generalizador	nome masculino	ge|ne|ra|li|za|[dor]
+generalizadora	nome feminino	ge|ne|ra|li|za|[do]|ra
+generalizante	adjetivo	ge|ne|ra|li|[zan]|te
+generalizar	verbo	ge|ne|ra|li|[zar]
+generalizável	adjetivo	ge|ne|ra|li|[zá]|vel
+generante	adjetivo	ge|ne|[ran]|te
+generativo	adjetivo	ge|ne|ra|[ti]|vo
+generatriz	nome feminino	ge|ne|ra|[triz]
+generatriz	adjetivo	ge|ne|ra|[triz]
+genericamente	advérbio	ge|ne|ri|ca|[men]|te
+genérico	adjetivo	ge|[né]|ri|co
+genérico	nome masculino	ge|[né]|ri|co
+gênero	nome masculino	[gê]|ne|ro
+género	nome masculino	[gé]|ne|ro
+generosamente	advérbio	ge|ne|ro|sa|[men]|te
+generosidade	nome feminino	ge|ne|ro|si|[da]|de
+generosíssimo	adjetivo	ge|ne|ro|[sís]|si|mo
+generoso	adjetivo	ge|ne|[ro]|so
+generoso	nome masculino	ge|ne|[ro]|so
+genesareno	adjetivo	ge|ne|sa|[re]|no
+genesareno	nome masculino	ge|ne|sa|[re]|no
+gênese	nome feminino	[gê]|ne|se
+génese	nome feminino	[gé]|ne|se
+genesi	nome masculino	ge|ne|[si]
+genesíaco	adjetivo	ge|ne|[sí]|a|co
+genésico	adjetivo	ge|[né]|si|co
+génesis	nome feminino	[gé]|ne|sis
+gênesis	nome masculino	[gê]|ne|sis
+génesis	nome masculino	[gé]|ne|sis
+gênesis	nome feminino	[gê]|ne|sis
+geneta	nome feminino	ge|[ne]|ta
+genética	nome feminino	ge|[né]|ti|ca
+geneticamente	advérbio	ge|ne|ti|ca|[men]|te
+geneticista	nome masculino	ge|ne|ti|[cis]|ta
+geneticista	nome feminino	ge|ne|ti|[cis]|ta
+genético	adjetivo	ge|[né]|ti|co
+genetismo	nome masculino	ge|ne|[tis]|mo
+genetista	nome masculino	ge|ne|[tis]|ta
+genetista	nome feminino	ge|ne|[tis]|ta
+genetlíaca	nome feminino	ge|ne|[tlí]|a|ca
+genetlíaco	nome masculino	ge|ne|[tlí]|a|co
+genetlíaco	adjetivo	ge|ne|[tlí]|a|co
+genetliologia	nome feminino	ge|ne|tli|o|lo|[gi]|a
+genetliológico	adjetivo	ge|ne|tli|o|[ló]|gi|co
+genetriz	nome feminino	ge|ne|[triz]
+gengiberácea	nome feminino	gen|gi|be|[rá]|ce|a
+gengiberáceo	adjetivo	gen|gi|be|[rá]|ce|o
+gengibirra	nome feminino	gen|gi|[bir]|ra
+gengibre	nome masculino	gen|[gi]|bre
+gengiva	nome feminino	gen|[gi]|va
+gengival	adjetivo	gen|gi|[val]
+gengivalgia	nome feminino	gen|gi|val|[gi]|a
+gengivite	nome feminino	gen|gi|[vi]|te
+genial	adjetivo	ge|ni|[al]
+genialidade	nome feminino	ge|ni|a|li|[da]|de
+genialmente	advérbio	ge|ni|al|[men]|te
+geniano	adjetivo	ge|ni|[a]|no
+genica	nome feminino	ge|[ni]|ca
+génico	adjetivo	[gé]|ni|co
+gênico	adjetivo	[gê]|ni|co
+geniculação	nome feminino	ge|ni|cu|la|[ção]
+geniculado	adjetivo	ge|ni|cu|[la]|do
+genicular	adjetivo	ge|ni|cu|[lar]
+geniculifloro	adjetivo	ge|ni|cu|li|[flo]|ro
+gênio	nome masculino	[gê]|ni|o
+génio	nome masculino	[gé]|ni|o

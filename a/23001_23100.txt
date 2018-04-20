@@ -1,0 +1,100 @@
+axonema	nome masculino	a|xo|[ne]|ma
+axônio	nome masculino	a|[xô]|ni|o
+axónio	nome masculino	a|[xó]|ni|o
+axonometria	nome feminino	a|xo|no|me|[tri]|a
+axonométrico	adjetivo	a|xo|no|[mé]|tri|co
+axorar	verbo	a|xo|[rar]
+axorca	nome feminino	a|[xor]|ca
+axorcar	verbo	a|xor|[car]
+axótomo	adjetivo	a|[xó]|to|mo
+axuá	nome feminino	a|xu|[á]
+axuaju	nome masculino	a|xu|a|[ju]
+axumita	adjetivo	a|xu|[mi]|ta
+axumita	nome masculino	a|xu|[mi]|ta
+axumita	nome feminino	a|xu|[mi]|ta
+axúngia	nome feminino	a|[xún]|gi|a
+axungiar	verbo	a|xun|gi|[ar]
+ayatollah	nome masculino	a|ya|tol|lah
+az	nome masculino	[az]
+az	nome feminino	[az]
+azabumbado	adjetivo	a|za|bum|[ba]|do
+azabumbante	adjetivo	a|za|bum|[ban]|te
+azabumbar	verbo	a|za|bum|[bar]
+azado	adjetivo	a|[za]|do
+azador	adjetivo	a|za|[dor]
+azador	nome masculino	a|za|[dor]
+azáfama	nome feminino	a|[zá]|fa|ma
+azafamadamente	advérbio	a|za|fa|ma|da|[men]|te
+azafamado	adjetivo	a|za|fa|[ma]|do
+azafamar	verbo	a|za|fa|[mar]
+azagaia	nome feminino	a|za|[gai]|a
+azagaiada	nome feminino	a|za|gai|[a]|da
+azagaiar	verbo	a|za|gai|[ar]
+azagal	nome masculino	a|za|[gal]
+azagunchada	nome feminino	a|za|gun|[cha]|da
+azagunchar	verbo	a|za|gun|[char]
+azaina	nome feminino	a|[zai]|na
+azal	nome masculino	a|[zal]
+azálea	nome feminino	a|[zá]|le|a
+azaleína	nome feminino	a|za|le|[í]|na
+azálio	adjetivo	a|[zá]|li|o
+azálio	nome masculino	a|[zá]|li|o
+azamar	nome masculino	a|za|[mar]
+azamboado	adjetivo	a|zam|bo|[a]|do
+azamboamento	nome masculino	a|zam|bo|a|[men]|to
+azamboar	verbo	a|zam|bo|[ar]
+azambrado	adjetivo	a|zam|[bra]|do
+azambuja	nome feminino	a|zam|[bu]|ja
+azambujal	nome masculino	a|zam|bu|[jal]
+azambujeira	nome feminino	a|zam|bu|[jei]|ra
+azambujeiro	nome masculino	a|zam|bu|[jei]|ro
+azambujense	adjetivo	a|zam|bu|[jen]|se
+azambujense	nome masculino	a|zam|bu|[jen]|se
+azambujense	nome feminino	a|zam|bu|[jen]|se
+azambujino	adjetivo	a|zam|bu|[ji]|no
+azambujino	nome masculino	a|zam|bu|[ji]|no
+azambujo	nome masculino	a|zam|[bu]|jo
+azane	adjetivo	a|[za]|ne
+azane	nome masculino	a|[za]|ne
+azane	nome feminino	a|[za]|ne
+azanegue	adjetivo	a|za|[ne]|gue
+azanegue	nome masculino	a|za|[ne]|gue
+azanegue	nome feminino	a|za|[ne]|gue
+azangar	verbo	a|zan|[gar]
+azango	nome masculino	a|[zan]|go
+azaqui	nome masculino	a|za|[qui]
+azar	verbo	a|[zar]
+azar	nome masculino	a|[zar]
+azara	nome feminino	a|[za]|ra
+azarada	nome feminino	a|za|[ra]|da
+azarado	adjetivo	a|za|[ra]|do
+azarado	nome masculino	a|za|[ra]|do
+azaranzado	adjetivo	a|za|ran|[za]|do
+azaranzar	verbo	a|za|ran|[zar]
+azarar	verbo	a|za|[rar]
+azarcão	nome masculino	a|zar|[cão]
+azareiro	nome masculino	a|za|[rei]|ro
+azarenta	nome feminino	a|za|[ren]|ta
+azarento	adjetivo	a|za|[ren]|to
+azarento	nome masculino	a|za|[ren]|to
+azarnefe	nome masculino	a|zar|[ne]|fe
+azarola	nome feminino	a|za|[ro]|la
+azarolado	adjetivo	a|za|ro|[la]|do
+azaroleira	nome feminino	a|za|ro|[lei]|ra
+azaroleiro	nome masculino	a|za|ro|[lei]|ro
+azarolo	nome masculino	a|za|[ro]|lo
+azebrado	adjetivo	a|ze|[bra]|do
+azebrar	verbo	a|ze|[brar]
+azebre	nome masculino	a|[ze]|bre
+azebuado	adjetivo	a|ze|bu|[a]|do
+azeda	nome feminino	a|[ze]|da
+azeda-brava	nome feminino	a|ze|da-bra|va
+azeda-romana	nome feminino	a|ze|da-ro|[ma]|na
+azedado	adjetivo	a|ze|[da]|do
+azedador	adjetivo	a|ze|da|[dor]
+azedador	nome masculino	a|ze|da|[dor]
+azedamente	advérbio	a|ze|da|[men]|te
+azedamento	nome masculino	a|ze|da|[men]|to
+azedão	nome masculino	a|ze|[dão]
+azedar	verbo	a|ze|[dar]
+azedável	adjetivo	a|ze|[dá]|vel

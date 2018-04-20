@@ -1,0 +1,100 @@
+precaridade	nome feminino	pre|ca|ri|[da]|de
+precariedade	nome feminino	pre|ca|ri|e|[da]|de
+precário	adjetivo	pre|[cá]|ri|o
+preçário	nome masculino	pre|[çá]|ri|o
+precarização	nome feminino	pre|ca|ri|za|[ção]
+precarizar	verbo	pre|ca|ri|[zar]
+precatadamente	advérbio	pre|ca|ta|da|[men]|te
+precatado	adjetivo	pre|ca|[ta]|do
+precatar	verbo	pre|ca|[tar]
+precate	nome masculino	pre|[ca]|te
+precativo	adjetivo	pre|ca|[ti]|vo
+precatória	nome feminino	pre|ca|[tó]|ri|a
+precatoriamente	advérbio	pre|ca|to|ri|a|[men]|te
+precatório	adjetivo	pre|ca|[tó]|ri|o
+precatório	nome masculino	pre|ca|[tó]|ri|o
+precaução	nome feminino	pre|cau|[ção]
+precaucionado	adjetivo	pre|cau|ci|o|[na]|do
+precaucional	adjetivo	pre|cau|ci|o|[nal]
+precaucionar	verbo	pre|cau|ci|o|[nar]
+precaucioso	adjetivo	pre|cau|ci|[o]|so
+precautelar	verbo	pre|cau|te|[lar]
+precautório	adjetivo	pre|cau|[tó]|ri|o
+precaver	verbo	pre|ca|[ver]
+precavidamente	advérbio	pre|ca|vi|da|[men]|te
+precavido	adjetivo	pre|ca|[vi]|do
+prece	nome feminino	[pre]|ce
+precedência	nome feminino	pre|ce|[dên]|ci|a
+precedente	adjetivo	pre|ce|[den]|te
+precedente	nome masculino	pre|ce|[den]|te
+precedentemente	advérbio	pre|ce|den|te|[men]|te
+preceder	verbo	pre|ce|[der]
+precedido	adjetivo	pre|ce|[di]|do
+preceito	nome masculino	pre|[cei]|to
+preceitor	adjetivo	pre|cei|[tor]
+preceitor	nome masculino	pre|cei|[tor]
+preceituação	nome feminino	pre|cei|tu|a|[ção]
+preceituado	adjetivo	pre|cei|tu|[a]|do
+preceituador	adjetivo	pre|cei|tu|a|[dor]
+preceituador	nome masculino	pre|cei|tu|a|[dor]
+preceituar	verbo	pre|cei|tu|[ar]
+preceituário	nome masculino	pre|cei|tu|[á]|ri|o
+preceituável	adjetivo	pre|cei|tu|[á]|vel
+preceituoso	adjetivo	pre|cei|tu|[o]|so
+precentor	nome masculino	pre|cen|[tor]
+preceptista	nome masculino	pre|cep|[tis]|ta
+preceptista	nome feminino	pre|cep|[tis]|ta
+preceptivamente	advérbio	pre|cep|ti|va|[men]|te
+preceptivo	adjetivo	pre|cep|[ti]|vo
+preceptor	nome masculino	pre|cep|[tor]
+preceptora	nome feminino	pre|cep|[to]|ra
+preceptorado	nome masculino	pre|cep|to|[ra]|do
+preceptoral	adjetivo	pre|cep|to|[ral]
+preceptoria	nome feminino	pre|cep|to|[ri]|a
+preceptorial	adjetivo	pre|cep|to|ri|[al]
+precessão	nome feminino	pre|ces|[são]
+precetista	nome masculino	pre|ce|[tis]|ta
+precetista	nome feminino	pre|ce|[tis]|ta
+precetivamente	advérbio	pre|ce|ti|va|[men]|te
+precetivo	adjetivo	pre|ce|[ti]|vo
+precetor	nome masculino	pre|ce|[tor]
+precetora	nome feminino	pre|ce|[to]|ra
+precetorado	nome masculino	pre|ce|to|[ra]|do
+precetoral	adjetivo	pre|ce|to|[ral]
+precetoria	nome feminino	pre|ce|to|[ri]|a
+precetorial	adjetivo	pre|ce|to|ri|[al]
+précia	nome feminino	[pré]|ci|a
+preciano	adjetivo	pre|ci|[a]|no
+precidâneo	adjetivo	pre|ci|[dâ]|ne|o
+precificar	verbo	pre|ci|fi|[car]
+precinção	nome feminino	pre|cin|[ção]
+precingir	verbo	pre|cin|[gir]
+precinta	nome feminino	pre|[cin]|ta
+precintar	verbo	pre|cin|[tar]
+precinto	nome masculino	pre|[cin]|to
+preciosa	nome feminino	pre|ci|[o]|sa
+preciosamente	advérbio	pre|ci|o|sa|[men]|te
+preciosidade	nome feminino	pre|ci|o|si|[da]|de
+preciosismo	nome masculino	pre|ci|o|[sis]|mo
+preciosista	adjetivo	pre|ci|o|[sis]|ta
+preciosista	nome masculino	pre|ci|o|[sis]|ta
+preciosista	nome feminino	pre|ci|o|[sis]|ta
+preciosístico	adjetivo	pre|ci|o|[sís]|ti|co
+precioso	adjetivo	pre|ci|[o]|so
+precipício	nome masculino	pre|ci|[pí]|ci|o
+precipitação	nome feminino	pre|ci|pi|ta|[ção]
+precipitada	nome feminino	pre|ci|pi|[ta]|da
+precipitadamente	advérbio	pre|ci|pi|ta|da|[men]|te
+precipitado	adjetivo	pre|ci|pi|[ta]|do
+precipitado	nome masculino	pre|ci|pi|[ta]|do
+precipitante	nome masculino	pre|ci|pi|[tan]|te
+precipitante	adjetivo	pre|ci|pi|[tan]|te
+precipitar	verbo	pre|ci|pi|[tar]
+precipitável	adjetivo	pre|ci|pi|[tá]|vel
+precípite	adjetivo	pre|[cí]|pi|te
+precipitina	nome feminino	pre|ci|pi|[ti]|na
+precipitosamente	advérbio	pre|ci|pi|to|sa|[men]|te
+precipitoso	adjetivo	pre|ci|pi|[to]|so
+precipuamente	advérbio	pre|ci|pu|a|[men]|te
+precípuo	nome masculino	pre|[cí]|pu|o
+precípuo	adjetivo	pre|[cí]|pu|o

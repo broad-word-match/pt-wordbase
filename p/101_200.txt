@@ -1,0 +1,100 @@
+paçoca	nome feminino	pa|[ço]|ca
+pacolé	nome masculino	pa|co|[lé]
+pacométrico	adjetivo	pa|co|[mé]|tri|co
+pacômetro	nome masculino	pa|[cô]|me|tro
+pacómetro	nome masculino	pa|[có]|me|tro
+pacote	nome masculino	pa|[co]|te
+pacotilha	nome feminino	pa|co|[ti]|lha
+pacotilho	nome masculino	pa|co|[ti]|lho
+pacova	nome feminino	pa|[co]|va
+pacoval	nome masculino	pa|co|[val]
+pacoveira	nome feminino	pa|co|[vei]|ra
+pacóvia	nome feminino	pa|[có]|vi|a
+pacoviamente	advérbio	pa|co|vi|a|[men]|te
+pacovice	nome feminino	pa|co|[vi]|ce
+pacóvio	adjetivo	pa|[có]|vi|o
+pacóvio	nome masculino	pa|[có]|vi|o
+pactário	adjetivo	pac|[tá]|ri|o
+pactário	nome masculino	pac|[tá]|ri|o
+pactear	verbo	pac|te|[ar]
+pacto	nome masculino	[pac]|to
+pactolo	nome masculino	pac|[to]|lo
+pactuado	adjetivo	pac|tu|[a]|do
+pactuante	adjetivo	pac|tu|[an]|te
+pactuante	nome masculino	pac|tu|[an]|te
+pactuante	nome feminino	pac|tu|[an]|te
+pactuar	verbo	pac|tu|[ar]
+pactuária	nome feminino	pac|tu|[á]|ri|a
+pactuário	nome masculino	pac|tu|[á]|ri|o
+pacu	nome masculino	pa|[cu]
+pacuã	nome masculino	pa|cu|[ã]
+paçuará	nome masculino	pa|çu|a|[rá]
+pacuera	nome feminino	pa|cu|[e]|ra
+pacuguaçu	nome masculino	pa|cu|gua|[çu]
+pacupeba	nome feminino	pa|cu|[pe]|ba
+pacuri	nome masculino	pa|cu|[ri]
+pacutinga	nome feminino	pa|cu|[tin]|ga
+pacuviano	adjetivo	pa|cu|vi|[a]|no
+pada	nome feminino	[pa]|da
+padamarro	nome masculino	pa|da|[mar]|ro
+padaria	nome feminino	pa|da|[ri]|a
+padecedor	adjetivo	pa|de|ce|[dor]
+padecedor	nome masculino	pa|de|ce|[dor]
+padecedora	nome feminino	pa|de|ce|[do]|ra
+padecente	adjetivo	pa|de|[cen]|te
+padecente	nome masculino	pa|de|[cen]|te
+padecente	nome feminino	pa|de|[cen]|te
+padecer	verbo	pa|de|[cer]
+padecimento	nome masculino	pa|de|ci|[men]|to
+padeira	nome feminino	pa|[dei]|ra
+padeiral	adjetivo	pa|dei|[ral]
+padeiro	nome masculino	pa|[dei]|ro
+padejador	adjetivo	pa|de|ja|[dor]
+padejador	nome masculino	pa|de|ja|[dor]
+padejadora	nome feminino	pa|de|ja|[do]|ra
+padejar	verbo	pa|de|[jar]
+padejo	nome masculino	pa|[de]|jo
+padela	nome feminino	pa|[de]|la
+padês	nome masculino	pa|[dês]
+padeu	adjetivo	pa|[deu]
+padeu	nome masculino	pa|[deu]
+padida	nome feminino	pa|[di]|da
+padieira	nome feminino	pa|di|[ei]|ra
+padinate	adjetivo	pa|di|[na]|te
+padinate	nome masculino	pa|di|[na]|te
+padinate	nome feminino	pa|di|[na]|te
+padinha	nome feminino	pa|[di]|nha
+padiola	nome feminino	pa|di|[o]|la
+padioleiro	nome masculino	pa|di|o|[lei]|ro
+padixá	nome masculino	pa|di|[xá]
+padixato	nome masculino	pa|di|[xa]|to
+pado	nome masculino	[pa]|do
+padral	nome masculino	pa|[dral]
+padralhada	nome feminino	pa|dra|[lha]|da
+padrão	nome masculino	pa|[drão]
+padrar	verbo	pa|[drar]
+padraria	nome feminino	pa|dra|[ri]|a
+padrastal	adjetivo	pa|dras|[tal]
+padrasto	nome masculino	pa|[dras]|to
+padre	nome masculino	[pa]|dre
+padre-cura	nome masculino	pa|dre-cu|ra
+padre-mestre	nome masculino	pa|dre-mes|tre
+padre-nosso	nome masculino	pa|dre-nos|so
+padre-santo	nome masculino	pa|dre-san|to
+padreação	nome feminino	pa|dre|a|[ção]
+padreador	adjetivo	pa|dre|a|[dor]
+padreador	nome masculino	pa|dre|a|[dor]
+padrear	verbo	pa|dre|[ar]
+padreca	nome masculino	pa|[dre]|ca
+padreco	nome masculino	pa|[dre]|co
+padreiro	nome masculino	pa|[drei]|ro
+padresco	adjetivo	pa|[dres]|co
+padrice	nome feminino	pa|[dri]|ce
+padrinho	nome masculino	pa|[dri]|nho
+padrismo	nome masculino	pa|[dris]|mo
+padroádigo	nome masculino	pa|dro|[á]|di|go
+padroado	nome masculino	pa|dro|[a]|do
+padroeira	nome feminino	pa|dro|[ei]|ra
+padroeiro	adjetivo	pa|dro|[ei]|ro
+padroeiro	nome masculino	pa|dro|[ei]|ro
+padronização	nome feminino	pa|dro|ni|za|[ção]

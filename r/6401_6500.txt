@@ -1,0 +1,100 @@
+revimento	nome masculino	re|vi|[men]|to
+revinda	nome feminino	re|[vin]|da
+revindicação	nome feminino	re|vin|di|ca|[ção]
+revindicar	verbo	re|vin|di|[car]
+revindicta	nome feminino	re|vin|[dic]|ta
+revindita	nome feminino	re|vin|[di]|ta
+revindo	adjetivo	re|[vin]|do
+revindo	nome masculino	re|[vin]|do
+revingar	verbo	re|vin|[gar]
+revinhoso	adjetivo	re|vi|[nho]|so
+revir	verbo	re|[vir]
+revira	nome masculino	re|[vi]|ra
+revirado	adjetivo	re|vi|[ra]|do
+revirado	nome masculino	re|vi|[ra]|do
+reviralhista	nome masculino	re|vi|ra|[lhis]|ta
+reviralhista	nome feminino	re|vi|ra|[lhis]|ta
+reviralho	nome masculino	re|vi|[ra]|lho
+reviramento	nome masculino	re|vi|ra|[men]|to
+revirão	nome masculino	re|vi|[rão]
+revirar	verbo	re|vi|[rar]
+reviravolta	nome feminino	re|vi|ra|[vol]|ta
+reviravoltear	verbo	re|vi|ra|vol|te|[ar]
+revirete	nome masculino	re|vi|[re]|te
+revirginizar	verbo	re|vir|gi|ni|[zar]
+revisão	nome feminino	re|vi|[são]
+revisar	verbo	re|vi|[sar]
+revisável	adjetivo	re|vi|[sá]|vel
+revisceração	nome feminino	re|vis|ce|ra|[ção]
+revisibilidade	nome feminino	re|vi|si|bi|li|[da]|de
+revisionismo	nome masculino	re|vi|si|o|[nis]|mo
+revisionista	adjetivo	re|vi|si|o|[nis]|ta
+revisionista	nome masculino	re|vi|si|o|[nis]|ta
+revisionista	nome feminino	re|vi|si|o|[nis]|ta
+revisionístico	adjetivo	re|vi|si|o|[nís]|ti|co
+revisitação	nome feminino	re|vi|si|ta|[ção]
+revisitar	verbo	re|vi|si|[tar]
+revisível	adjetivo	re|vi|[sí]|vel
+revisor	adjetivo	re|vi|[sor]
+revisor	nome masculino	re|vi|[sor]
+revisora	nome feminino	re|vi|[so]|ra
+revisório	adjetivo	re|vi|[só]|ri|o
+revista	nome feminino	re|[vis]|ta
+revistador	adjetivo	re|vis|ta|[dor]
+revistador	nome masculino	re|vis|ta|[dor]
+revistar	verbo	re|vis|[tar]
+revistável	adjetivo	re|vis|[tá]|vel
+revisteca	nome feminino	re|vis|[te]|ca
+revisteiro	nome masculino	re|vis|[tei]|ro
+revisteiro	adjetivo	re|vis|[tei]|ro
+revisto	adjetivo	re|[vis]|to
+revitalização	nome feminino	re|vi|ta|li|za|[ção]
+revitalizador	adjetivo	re|vi|ta|li|za|[dor]
+revitalizador	nome masculino	re|vi|ta|li|za|[dor]
+revitalizante	adjetivo	re|vi|ta|li|[zan]|te
+revitalizar	verbo	re|vi|ta|li|[zar]
+revitalizável	adjetivo	re|vi|ta|li|[zá]|vel
+revivalismo	nome masculino	re|vi|va|[lis]|mo
+revivalista	adjetivo	re|vi|va|[lis]|ta
+revivalista	nome masculino	re|vi|va|[lis]|ta
+revivalista	nome feminino	re|vi|va|[lis]|ta
+revivência	nome feminino	re|vi|[vên]|ci|a
+revivente	adjetivo	re|vi|[ven]|te
+reviver	verbo	re|vi|[ver]
+revivescência	nome feminino	re|vi|ves|[cên]|ci|a
+revivescente	adjetivo	re|vi|ves|[cen]|te
+revivescer	verbo	re|vi|ves|[cer]
+revivescimento	nome masculino	re|vi|ves|ci|[men]|to
+revivescível	adjetivo	re|vi|ves|[cí]|vel
+revivificação	nome feminino	re|vi|vi|fi|ca|[ção]
+revivificador	adjetivo	re|vi|vi|fi|ca|[dor]
+revivificador	nome masculino	re|vi|vi|fi|ca|[dor]
+revivificar	verbo	re|vi|vi|fi|[car]
+revivificável	adjetivo	re|vi|vi|fi|[cá]|vel
+revivo	adjetivo	re|[vi]|vo
+revivo	nome masculino	re|[vi]|vo
+revoa	nome feminino	re|[vo]|a
+revoada	nome feminino	re|vo|[a]|da
+revoar	verbo	re|vo|[ar]
+revocação	nome feminino	re|vo|ca|[ção]
+revocar	verbo	re|vo|[car]
+revocatória	nome feminino	re|vo|ca|[tó]|ri|a
+revocatório	adjetivo	re|vo|ca|[tó]|ri|o
+revocável	adjetivo	re|vo|[cá]|vel
+revocavelmente	advérbio	re|vo|ca|vel|[men]|te
+revogabilidade	nome feminino	re|vo|ga|bi|li|[da]|de
+revogação	nome feminino	re|vo|ga|[ção]
+revogador	adjetivo	re|vo|ga|[dor]
+revogador	nome masculino	re|vo|ga|[dor]
+revogante	adjetivo	re|vo|[gan]|te
+revogar	verbo	re|vo|[gar]
+revogativo	adjetivo	re|vo|ga|[ti]|vo
+revogatória	nome feminino	re|vo|ga|[tó]|ri|a
+revogatório	adjetivo	re|vo|ga|[tó]|ri|o
+revogável	adjetivo	re|vo|[gá]|vel
+revogavelmente	advérbio	re|vo|ga|vel|[men]|te
+revolcar	verbo	re|vol|[car]
+revolitar	verbo	re|vo|li|[tar]
+revolta	nome feminino	re|[vol]|ta
+revoltada	nome feminino	re|vol|[ta]|da
+revoltado	adjetivo	re|vol|[ta]|do

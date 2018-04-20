@@ -1,0 +1,100 @@
+alemânico	nome masculino	a|le|[mâ]|ni|co
+alemânico	adjetivo	a|le|[mâ]|ni|co
+alemanismo	nome masculino	a|le|ma|[nis]|mo
+alemanista	adjetivo	a|le|ma|[nis]|ta
+alemanista	nome masculino	a|le|ma|[nis]|ta
+alemanista	nome feminino	a|le|ma|[nis]|ta
+alemanizar	verbo	a|le|ma|ni|[zar]
+alemanofilia	nome feminino	a|le|ma|no|fi|[li]|a
+alemanófilo	adjetivo	a|le|ma|[nó]|fi|lo
+alemanófilo	nome masculino	a|le|ma|[nó]|fi|lo
+alemanofobia	nome feminino	a|le|ma|no|fo|[bi]|a
+alemanófobo	adjetivo	a|le|ma|[nó]|fo|bo
+alemanófobo	nome masculino	a|le|ma|[nó]|fo|bo
+alemão	adjetivo	a|le|[mão]
+alemão	nome masculino	a|le|[mão]
+alemão-ocidental	adjetivo	a|le|mão-o|ci|den|[tal]
+alemão-ocidental	nome masculino	a|le|mão-o|ci|den|[tal]
+alemão-oriental	nome masculino	a|le|mão-o|ri|en|[tal]
+alemão-oriental	adjetivo	a|le|mão-o|ri|en|[tal]
+alembamento	nome masculino	a|lem|ba|[men]|to
+alembar	verbo	a|lem|[bar]
+alembrança	nome feminino	a|lem|[bran]|ça
+alembrar	verbo	a|lem|[brar]
+alenquerense	nome masculino	a|len|que|[ren]|se
+alenquerense	adjetivo	a|len|que|[ren]|se
+alenquerense	nome feminino	a|len|que|[ren]|se
+alentado	adjetivo	a|len|[ta]|do
+alentador	adjetivo	a|len|ta|[dor]
+alentador	nome masculino	a|len|ta|[dor]
+alentadora	nome feminino	a|len|ta|[do]|ra
+alentar	verbo	a|len|[tar]
+alentável	adjetivo	a|len|[tá]|vel
+alentecer	verbo	a|len|te|[cer]
+alentejana	nome feminino	a|len|te|[ja]|na
+alentejanismo	nome masculino	a|len|te|ja|[nis]|mo
+alentejanista	adjetivo	a|len|te|ja|[nis]|ta
+alentejanista	nome masculino	a|len|te|ja|[nis]|ta
+alentejanista	nome feminino	a|len|te|ja|[nis]|ta
+alentejano	adjetivo	a|len|te|[ja]|no
+alentejano	nome masculino	a|len|te|[ja]|no
+alentejão	nome masculino	a|len|te|[jão]
+alento	nome masculino	a|[len]|to
+aleócaro	nome masculino	a|le|[ó]|ca|ro
+aleonado	adjetivo	a|le|o|[na]|do
+aleonar	verbo	a|le|o|[nar]
+aleopardado	adjetivo	a|le|o|par|[da]|do
+aleose	nome feminino	a|le|[o]|se
+aleótico	adjetivo	a|le|[ó]|ti|co
+alepídea	nome feminino	a|le|[pí]|de|a
+alepidossauro	nome masculino	a|le|pi|dos|[sau]|ro
+alepidoto	adjetivo	a|le|pi|[do]|to
+alepidoto	nome masculino	a|le|pi|[do]|to
+alepina	nome feminino	a|le|[pi]|na
+alepino	nome masculino	a|le|[pi]|no
+alepino	adjetivo	a|le|[pi]|no
+alepiro	nome masculino	a|le|[pi]|ro
+alepocéfalo	adjetivo	a|le|po|[cé]|fa|lo
+aleptina	nome feminino	a|lep|[ti]|na
+alequeado	adjetivo	a|le|que|[a]|do
+alerce	nome masculino	a|[ler]|ce
+alerdar	verbo	a|ler|[dar]
+alergênico	adjetivo	a|ler|[gê]|ni|co
+alergénico	adjetivo	a|ler|[gé]|ni|co
+alergénio	nome masculino	a|ler|[gé]|ni|o
+alergênio	nome masculino	a|ler|[gê]|ni|o
+alérgeno	nome masculino	a|[lér]|ge|no
+alergia	nome feminino	a|ler|[gi]|a
+alérgica	nome feminino	a|[lér]|gi|ca
+alérgico	adjetivo	a|[lér]|gi|co
+alérgico	nome masculino	a|[lér]|gi|co
+alergina	nome feminino	a|ler|[gi]|na
+alergizante	adjetivo	a|ler|gi|[zan]|te
+alergizar	verbo	a|ler|gi|[zar]
+alergologia	nome feminino	a|ler|go|lo|[gi]|a
+alergológico	adjetivo	a|ler|go|[ló]|gi|co
+alergologista	nome masculino	a|ler|go|lo|[gis]|ta
+alergologista	nome feminino	a|ler|go|lo|[gis]|ta
+alerião	nome masculino	a|le|ri|[ão]
+alerta	nome masculino	a|[ler]|ta
+alerta	adjetivo	a|[ler]|ta
+alerta	advérbio	a|[ler]|ta
+alerta	interjeição	a|[ler]|ta
+alertador	adjetivo	a|ler|ta|[dor]
+alertador	nome masculino	a|ler|ta|[dor]
+alertar	verbo	a|ler|[tar]
+alesmar	verbo	a|les|[mar]
+alestar	verbo	a|les|[tar]
+alestesia	nome feminino	a|les|te|[si]|a
+aleta	nome feminino	a|[le]|ta
+aletargado	adjetivo	a|le|tar|[ga]|do
+aletargar	verbo	a|le|tar|[gar]
+aletino	nome masculino	a|le|[ti]|no
+aletino	adjetivo	a|le|[ti]|no
+aletófilo	adjetivo	a|le|[tó]|fi|lo
+aletologia	nome feminino	a|le|to|lo|[gi]|a
+aletológico	adjetivo	a|le|to|[ló]|gi|co
+aletoscópio	nome masculino	a|le|tos|[có]|pi|o
+aletradar	verbo	a|le|tra|[dar]
+aletria	nome feminino	a|le|[tri]|a
+aletriaria	nome feminino	a|le|tri|a|[ri]|a

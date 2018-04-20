@@ -1,0 +1,100 @@
+bichará	nome masculino	bi|cha|[rá]
+bicharada	nome feminino	bi|cha|[ra]|da
+bicharedo	nome masculino	bi|cha|[re]|do
+bicharengo	nome masculino	bi|cha|[ren]|go
+bicharia	nome feminino	bi|cha|[ri]|a
+bicharoco	nome masculino	bi|cha|[ro]|co
+bicharrão	nome masculino	bi|char|[rão]
+bicheira	nome feminino	bi|[chei]|ra
+bicheiro	adjetivo	bi|[chei]|ro
+bicheiro	nome masculino	bi|[chei]|ro
+bichento	adjetivo	bi|[chen]|to
+bicheza	nome feminino	bi|[che]|za
+bichice	nome feminino	bi|[chi]|ce
+bichinha	nome feminino	bi|[chi]|nha
+bichinha-gata	nome feminino	bi|chi|nha-ga|ta
+bichinho	nome masculino	bi|[chi]|nho
+bicho	nome masculino	[bi]|cho
+bicho de concha	nome masculino	[bi]|cho de con|cha
+bicho de mato	nome masculino	bi|cho de ma|to
+bicho de sete cabeças	nome masculino	[bi]|cho de se|te ca|be|ças
+bicho do buraco	nome masculino	[bi]|cho do bu|ra|co
+bicho do mato	nome masculino	[bi]|cho do ma|to
+bicho do ouvido	nome masculino	[bi]|cho do ou|vi|do
+bicho-cabeludo	nome masculino	bi|cho-ca|be|[lu]|do
+bicho-careta	nome masculino	bi|cho-ca|[re]|ta
+bicho-careto	nome masculino	bi|cho-ca|[re]|to
+bicho-carpinteiro	nome masculino	bi|cho-car|pin|[tei]|ro
+bicho-da-madeira	nome masculino	bi|cho-da-ma|[dei]|ra
+bicho-da-seda	nome masculino	bi|cho-da-se|da
+bicho-da-toca	nome masculino	bi|cho-da-to|ca
+bicho-de-conta	nome masculino	bi|cho-de-con|ta
+bicho-de-pé	nome masculino	bi|cho-de-pé
+bicho-do-pé	nome masculino	bi|cho-do-pé
+bicho-galo	nome masculino	bi|cho-ga|lo
+bicho-homem	nome masculino	bi|cho-ho|mem
+bicho-papão	nome masculino	bi|cho-pa|[pão]
+bichoca	nome feminino	bi|[cho]|ca
+bichoco	nome masculino	bi|[cho]|co
+bichoco	adjetivo	bi|[cho]|co
+bichoiro	nome masculino	bi|[choi]|ro
+bichoso	adjetivo	bi|[cho]|so
+bichouro	nome masculino	bi|[chou]|ro
+bicicleta	nome feminino	bi|ci|[cle]|ta
+bicicletada	nome feminino	bi|ci|cle|[ta]|da
+bicicletário	nome masculino	bi|ci|cle|[tá]|ri|o
+biciclismo	nome masculino	bi|ci|[clis]|mo
+biciclista	nome masculino	bi|ci|[clis]|ta
+biciclista	nome feminino	bi|ci|[clis]|ta
+biciclizar	verbo	bi|ci|cli|[zar]
+biciclo	nome masculino	bi|[ci]|clo
+bicínio	nome masculino	bi|[cí]|ni|o
+bicipitado	adjetivo	bi|ci|pi|[ta]|do
+bicipital	adjetivo	bi|ci|pi|[tal]
+bicípite	nome masculino	bi|[cí]|pi|te
+bicípite	adjetivo	bi|[cí]|pi|te
+bicircular	adjetivo	bi|cir|cu|[lar]
+biclínio	nome masculino	bi|[clí]|ni|o
+bico	nome masculino	[bi]|co
+bico	interjeição	[bi]|co
+bico de gás	nome masculino	[bi]|co de gás
+bico de gavião	nome masculino	[bi]|co de ga|vi|ão
+bico de mocho	nome masculino	[bi]|co de mo|cho
+bico de obra	nome masculino	[bi]|co de o|bra
+bico de papagaio	nome masculino	[bi]|co de pa|pa|gai|o
+bico de pato	nome masculino	[bi]|co de pa|to
+bico-cruzado	nome masculino	bi|co-cru|[za]|do
+bico-curto	nome masculino	bi|co-cur|to
+bico-de-cegonha	nome masculino	bi|co-de-ce|[go]|nha
+bico-de-corvo	nome masculino	bi|co-de-cor|vo
+bico-de-lacre	nome masculino	bi|co-de-la|cre
+bico-de-papagaio	nome masculino	bi|co-de-pa|pa|[gai]|o
+bico-de-pomba	nome masculino	bi|co-de-pom|ba
+bico-de-prata	nome masculino	bi|co-de-pra|ta
+bico-de-veludo	nome masculino	bi|co-de-ve|[lu]|do
+bico-doce	nome masculino	bi|co-do|ce
+bico-gordo	nome masculino	bi|co-gor|do
+bico-grosso	nome masculino	bi|co-gros|so
+bico-grossudo	nome masculino	bi|co-gros|[su]|do
+bico-rasteiro	nome masculino	bi|co-ras|[tei]|ro
+bico-revolto	nome masculino	bi|co-re|[vol]|to
+bico-tesoura	nome masculino	bi|co-te|[sou]|ra
+bico-vermelho	nome masculino	bi|co-ver|[me]|lho
+bicoco	adjetivo	bi|[co]|co
+bicolor	adjetivo	bi|co|[lor]
+biconcavidade	nome feminino	bi|con|ca|vi|[da]|de
+bicôncavo	adjetivo	bi|[côn]|ca|vo
+bicone	nome masculino	bi|[co]|ne
+bicónico	adjetivo	bi|[có]|ni|co
+bicônico	adjetivo	bi|[cô]|ni|co
+biconjugado	adjetivo	bi|con|ju|[ga]|do
+bicontornado	adjetivo	bi|con|tor|[na]|do
+biconvexo	adjetivo	bi|con|[ve]|xo
+bicorada	nome feminino	bi|co|[ra]|da
+bicorapiá	nome masculino	bi|co|ra|pi|[á]
+bicorcovado	adjetivo	bi|cor|co|[va]|do
+bicorne	adjetivo	bi|[cor]|ne
+bicorne	nome masculino	bi|[cor]|ne
+bicórneo	adjetivo	bi|[cór]|ne|o
+bicornígero	adjetivo	bi|cor|[ní]|ge|ro
+bicoroado	adjetivo	bi|co|ro|[a]|do

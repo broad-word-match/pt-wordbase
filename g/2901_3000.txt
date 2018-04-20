@@ -1,0 +1,100 @@
+girante	adjetivo	gi|[ran]|te
+girão	nome masculino	gi|[rão]
+girar	verbo	gi|[rar]
+girassol	nome masculino	gi|ras|[sol]
+girassol-batateiro	nome masculino	gi|ras|sol-ba|ta|[tei]|ro
+girata	nome feminino	gi|[ra]|ta
+giratório	adjetivo	gi|ra|[tó]|ri|o
+giravolta	nome feminino	gi|ra|[vol]|ta
+girencéfalo	adjetivo	gi|ren|[cé]|fa|lo
+gireza	nome feminino	gi|[re]|za
+girgolina	nome feminino	gir|go|[li]|na
+gíria	nome feminino	[gí]|ri|a
+gíria	nome masculino	[gí]|ri|a
+giribanda	nome feminino	gi|ri|[ban]|da
+girice	nome feminino	gi|[ri]|ce
+gírico	adjetivo	[gí]|ri|co
+girigote	adjetivo	gi|ri|[go]|te
+girigote	nome masculino	gi|ri|[go]|te
+girigotismo	nome masculino	gi|ri|go|[tis]|mo
+girigoto	adjetivo	gi|ri|[go]|to
+girigoto	nome masculino	gi|ri|[go]|to
+girinídeo	nome masculino	gi|ri|[ní]|de|o
+girino	nome masculino	gi|[ri]|no
+gírio	adjetivo	[gí]|ri|o
+giríssimo	adjetivo	gi|[rís]|si|mo
+girlsband	nome feminino	[girls]|band
+giro	adjetivo	[gi]|ro
+giro	nome masculino	[gi]|ro
+girocárpea	nome feminino	gi|ro|[cár]|pe|a
+girocarpo	nome masculino	gi|ro|[car]|po
+girofle	nome masculino	gi|[ro]|fle
+giróforo	nome masculino	gi|[ró]|fo|ro
+girogirar	verbo	gi|ro|gi|[rar]
+girolas	nome masculino	gi|[ro]|las
+girolas	nome feminino	gi|[ro]|las
+giroma	nome masculino	gi|[ro]|ma
+giromagnético	adjetivo	gi|ro|mag|[né]|ti|co
+giromancia	nome feminino	gi|ro|man|[ci]|a
+giromante	nome masculino	gi|ro|[man]|te
+giromante	nome feminino	gi|ro|[man]|te
+giromântico	adjetivo	gi|ro|[mân]|ti|co
+girómetro	nome masculino	gi|[ró]|me|tro
+girômetro	nome masculino	gi|[rô]|me|tro
+gironda	nome feminino	gi|[ron]|da
+girondina	nome feminino	gi|ron|[di]|na
+girondino	nome masculino	gi|ron|[di]|no
+giropiloto	nome masculino	gi|ro|pi|[lo]|to
+giroplano	nome masculino	gi|ro|[pla]|no
+giroscópico	adjetivo	gi|ros|[có]|pi|co
+giroscópio	nome masculino	gi|ros|[có]|pi|o
+girosela	nome feminino	gi|ro|[se]|la
+girospasmo	nome masculino	gi|ros|[pas]|mo
+girostática	nome feminino	gi|ros|[tá]|ti|ca
+girostático	adjetivo	gi|ros|[tá]|ti|co
+giróstato	nome masculino	gi|[rós]|ta|to
+girostémone	nome masculino	gi|ros|[té]|mo|ne
+girostêmone	nome masculino	gi|ros|[tê]|mo|ne
+girostemônea	nome feminino	gi|ros|te|[mô]|ne|a
+girostemónea	nome feminino	gi|ros|te|[mó]|ne|a
+girote	nome masculino	gi|[ro]|te
+giroto	adjetivo	gi|[ro]|to
+girovagar	verbo	gi|ro|va|[gar]
+giróvago	nome masculino	gi|[ró]|va|go
+gismondina	nome feminino	gis|mon|[di]|na
+gisnado	adjetivo	gis|[na]|do
+gita	nome feminino	[gi]|ta
+gitana	nome feminino	gi|[ta]|na
+gitanaria	nome feminino	gi|ta|na|[ri]|a
+gitano	nome masculino	gi|[ta]|no
+gitano	adjetivo	gi|[ta]|no
+gito	nome masculino	[gi]|to
+givetiano	adjetivo	gi|ve|ti|[a]|no
+giz	nome masculino	[giz]
+gizador	adjetivo	gi|za|[dor]
+gizador	nome masculino	gi|za|[dor]
+gizamento	nome masculino	gi|za|[men]|to
+gizar	verbo	gi|[zar]
+gizável	adjetivo	gi|[zá]|vel
+glabela	nome feminino	gla|[be]|la
+glabelar	adjetivo	gla|be|[lar]
+glabrescente	adjetivo	gla|bres|[cen]|te
+glabrifoliado	adjetivo	gla|bri|fo|li|[a]|do
+glabrismo	nome masculino	gla|[bris]|mo
+glabriúsculo	adjetivo	gla|bri|[ús]|cu|lo
+glabro	adjetivo	[gla]|bro
+glacé	nome masculino	gla|[cé]
+glace	nome feminino	[gla]|ce
+glacê	adjetivo	gla|[cê]
+glacê	nome masculino	gla|[cê]
+glacé	adjetivo	gla|[cé]
+glaciação	nome feminino	gla|ci|a|[ção]
+glacial	adjetivo	gla|ci|[al]
+glacialidade	nome feminino	gla|ci|a|li|[da]|de
+glacialmente	advérbio	gla|ci|al|[men]|te
+glaciar	nome masculino	gla|ci|[ar]
+glaciar	verbo	gla|ci|[ar]
+glaciário	adjetivo	gla|ci|[á]|ri|o
+glaciarista	nome masculino	gla|ci|a|[ris]|ta
+glaciarista	nome feminino	gla|ci|a|[ris]|ta
+glaciologia	nome feminino	gla|ci|o|lo|[gi]|a

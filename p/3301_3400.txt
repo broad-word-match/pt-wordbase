@@ -1,0 +1,100 @@
+pastoricida	nome feminino	pas|to|ri|[ci]|da
+pastoricídio	nome masculino	pas|to|ri|[cí]|di|o
+pastorício	adjetivo	pas|to|[rí]|ci|o
+pastoril	nome masculino	pas|to|[ril]
+pastoril	adjetivo	pas|to|[ril]
+pastorinha	nome feminino	pas|to|[ri]|nha
+pastorismo	nome masculino	pas|to|[ris]|mo
+pastosidade	nome feminino	pas|to|si|[da]|de
+pastoso	adjetivo	pas|[to]|so
+pastrano	adjetivo	pas|[tra]|no
+pastrano	nome masculino	pas|[tra]|no
+pastura	nome feminino	pas|[tu]|ra
+pastural	adjetivo	pas|tu|[ral]
+pata	nome feminino	[pa]|ta
+pata-choca	nome feminino	pa|ta-cho|ca
+pata-choca	nome masculino	pa|ta-cho|ca
+pata-de-cavalo	nome masculino	pa|ta-de-ca|[va]|lo
+pata-de-lobo	nome masculino	pa|ta-de-lo|bo
+pata-de-lobo	nome feminino	pa|ta-de-lo|bo
+pata-galharda	nome feminino	pa|ta-ga|[lhar]|da
+pata-roxa	nome feminino	pa|ta-ro|xa
+pataca	nome feminino	pa|[ta]|ca
+patacão	nome masculino	pa|ta|[cão]
+patacaria	nome feminino	pa|ta|ca|[ri]|a
+patachim	nome masculino	pa|ta|[chim]
+patacho	nome masculino	pa|[ta]|cho
+pataco	nome masculino	pa|[ta]|co
+patacoa	nome feminino	pa|ta|[co]|a
+patacoada	nome feminino	pa|ta|co|[a]|da
+patacoada	nome masculino	pa|ta|co|[a]|da
+patacudo	adjetivo	pa|ta|[cu]|do
+patada	nome feminino	pa|[ta]|da
+patado	adjetivo	pa|[ta]|do
+patagão	adjetivo	pa|ta|[gão]
+patagão	nome masculino	pa|ta|[gão]
+patagarro	nome masculino	pa|ta|[gar]|ro
+patágio	nome masculino	pa|[tá]|gi|o
+patagónia	nome feminino	pa|ta|[gó]|ni|a
+patagónico	adjetivo	pa|ta|[gó]|ni|co
+patagônico	adjetivo	pa|ta|[gô]|ni|co
+patagónio	adjetivo	pa|ta|[gó]|ni|o
+patagónio	nome masculino	pa|ta|[gó]|ni|o
+patagônio	adjetivo	pa|ta|[gô]|ni|o
+patagônio	nome masculino	pa|ta|[gô]|ni|o
+pataia	nome feminino	pa|[tai]|a
+patálio	adjetivo	pa|[tá]|li|o
+patálio	nome masculino	pa|[tá]|li|o
+patalitano	nome masculino	pa|ta|li|[ta]|no
+patalitano	adjetivo	pa|ta|li|[ta]|no
+pataloto	adjetivo	pa|ta|[lo]|to
+pataloto	nome masculino	pa|ta|[lo]|to
+pataluco	nome masculino	pa|ta|[lu]|co
+patamar	nome masculino	pa|ta|[mar]
+patamarim	nome masculino	pa|ta|ma|[rim]
+patamaz	nome masculino	pa|ta|[maz]
+patameira	nome feminino	pa|ta|[mei]|ra
+patameiro	nome masculino	pa|ta|[mei]|ro
+patana	nome feminino	pa|[ta]|na
+patane	adjetivo	pa|[ta]|ne
+patane	nome masculino	pa|[ta]|ne
+patane	nome feminino	pa|[ta]|ne
+patangatim	nome masculino	pa|tan|ga|[tim]
+patanisca	nome feminino	pa|ta|[nis]|ca
+patão	nome masculino	pa|[tão]
+pataqueira	nome feminino	pa|ta|[quei]|ra
+pataqueiro	adjetivo	pa|ta|[quei]|ro
+pataqueiro	nome masculino	pa|ta|[quei]|ro
+pataranha	nome masculino	pa|ta|[ra]|nha
+pataranha	nome feminino	pa|ta|[ra]|nha
+patarano	adjetivo	pa|ta|[ra]|no
+patarano	nome masculino	pa|ta|[ra]|no
+patarata	nome feminino	pa|ta|[ra]|ta
+patarata	adjetivo	pa|ta|[ra]|ta
+patarata	nome masculino	pa|ta|[ra]|ta
+pataratada	nome feminino	pa|ta|ra|[ta]|da
+pataratar	verbo	pa|ta|ra|[tar]
+pataratear	verbo	pa|ta|ra|te|[ar]
+patarateiro	adjetivo	pa|ta|ra|[tei]|ro
+patarateiro	nome masculino	pa|ta|ra|[tei]|ro
+pataratice	nome feminino	pa|ta|ra|[ti]|ce
+pataratismo	nome masculino	pa|ta|ra|[tis]|mo
+patareca	nome feminino	pa|ta|[re]|ca
+patareco	nome masculino	pa|ta|[re]|co
+patareu	adjetivo	pa|ta|[reu]
+patareu	nome masculino	pa|ta|[reu]
+pataréu	nome masculino	pa|ta|[réu]
+pataroca	nome feminino	pa|ta|[ro]|ca
+pataroco	adjetivo	pa|ta|[ro]|co
+pataroco	nome masculino	pa|ta|[ro]|co
+patarral	nome masculino	pa|tar|[ral]
+patarrás	nome masculino	pa|tar|[rás]
+patarreca	nome masculino	pa|tar|[re]|ca
+patarreca	nome feminino	pa|tar|[re]|ca
+patarreco	nome masculino	pa|tar|[re]|co
+patarrega	nome feminino	pa|tar|[re]|ga
+patarrego	nome masculino	pa|tar|[re]|go
+patassol	nome masculino	pa|tas|[sol]
+patativa	nome feminino	pa|ta|[ti]|va
+patativo	nome masculino	pa|ta|[ti]|vo
+patatrás	interjeição	pa|ta|[trás]

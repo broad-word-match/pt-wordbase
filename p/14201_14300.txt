@@ -1,0 +1,100 @@
+proscritor	adjetivo	pros|cri|[tor]
+proscritor	nome masculino	pros|cri|[tor]
+prosear	verbo	pro|se|[ar]
+proseirão	nome masculino	pro|sei|[rão]
+proselítico	adjetivo	pro|se|[lí]|ti|co
+proselitismo	nome masculino	pro|se|li|[tis]|mo
+proselitista	adjetivo	pro|se|li|[tis]|ta
+prosélito	nome masculino	pro|[sé]|li|to
+prosênquima	nome masculino	pro|[sên]|qui|ma
+proserpínia	nome feminino	pro|ser|[pí]|ni|a
+prósfise	nome feminino	[prós]|fi|se
+prosfisiectomia	nome feminino	pros|fi|si|ec|to|[mi]|a
+prosfisiectômico	adjetivo	pros|fi|si|ec|[tô]|mi|co
+prosfisiectómico	adjetivo	pros|fi|si|ec|[tó]|mi|co
+prósico	adjetivo	[pró]|si|co
+prosificação	nome feminino	pro|si|fi|ca|[ção]
+prosificar	verbo	pro|si|fi|[car]
+prosista	nome masculino	pro|[sis]|ta
+prosista	nome feminino	pro|[sis]|ta
+proslambanômeno	nome masculino	pros|lam|ba|[nô]|me|no
+proslambanómeno	nome masculino	pros|lam|ba|[nó]|me|no
+prosma	nome feminino	[pros]|ma
+prosmeiro	adjetivo	pros|[mei]|ro
+prosmeiro	nome masculino	pros|[mei]|ro
+prosmice	nome feminino	pros|[mi]|ce
+prosobrânquio	nome masculino	pro|so|[brân]|qui|o
+prosobrânquio	adjetivo	pro|so|[brân]|qui|o
+prosódia	nome feminino	pro|[só]|di|a
+prosodicamente	advérbio	pro|so|di|ca|[men]|te
+prosódico	adjetivo	pro|[só]|di|co
+prosodista	nome masculino	pro|so|[dis]|ta
+prosodista	nome feminino	pro|so|[dis]|ta
+prosonímia	nome feminino	pro|so|[ní]|mi|a
+prosonímico	adjetivo	pro|so|[ní]|mi|co
+prosônimo	nome masculino	pro|[sô]|ni|mo
+prosónimo	nome masculino	pro|[só]|ni|mo
+prosonomásia	nome feminino	pro|so|no|[má]|si|a
+prosopagnosia	nome feminino	pro|so|pag|no|[si]|a
+prosopalgia	nome feminino	pro|so|pal|[gi]|a
+prosopálgico	adjetivo	pro|so|[pál]|gi|co
+prosópide	nome feminino	pro|[só]|pi|de
+prosópio	nome masculino	pro|[só]|pi|o
+prosopite	nome feminino	pro|so|[pi]|te
+prosopografia	nome feminino	pro|so|po|gra|[fi]|a
+prosopográfico	adjetivo	pro|so|po|[grá]|fi|co
+prosopologia	nome feminino	pro|so|po|lo|[gi]|a
+prosopopaico	adjetivo	pro|so|po|[pai]|co
+prosopopeia	nome feminino	pro|so|po|[pei]|a
+prosopopeico	adjetivo	pro|so|po|[pei]|co
+prospálcio	adjetivo	pros|[pál]|ci|o
+prospálcio	nome masculino	pros|[pál]|ci|o
+prospeção	nome feminino	pros|pe|[ção]
+prospecção	nome feminino	pros|pec|[ção]
+prospectar	verbo	pros|pec|[tar]
+prospectiva	nome feminino	pros|pec|[ti]|va
+prospectivo	adjetivo	pros|pec|[ti]|vo
+prospecto	nome masculino	pros|[pec]|to
+prospector	nome masculino	pros|pec|[tor]
+prospectora	nome feminino	pros|pec|[to]|ra
+prosperador	adjetivo	pros|pe|ra|[dor]
+prosperamente	advérbio	pros|pe|ra|[men]|te
+prosperante	adjetivo	pros|pe|[ran]|te
+prosperar	verbo	pros|pe|[rar]
+prosperidade	nome feminino	pros|pe|ri|[da]|de
+prosperina	nome feminino	pros|pe|[ri]|na
+próspero	adjetivo	[prós]|pe|ro
+prosperrimamente	advérbio	pros|per|ri|ma|[men]|te
+prospérrimo	adjetivo	pros|[pér]|ri|mo
+prospetar	verbo	pros|pe|[tar]
+prospetiva	nome feminino	pros|pe|[ti]|va
+prospetivo	adjetivo	pros|pe|[ti]|vo
+prospeto	nome masculino	pros|[pe]|to
+prospetor	nome masculino	pros|pe|[tor]
+prospetora	nome feminino	pros|pe|[to]|ra
+prossector	nome masculino	pros|sec|[tor]
+prossectorado	nome masculino	pros|sec|to|[ra]|do
+prossecução	nome feminino	pros|se|cu|[ção]
+prossecutivo	adjetivo	pros|se|cu|[ti]|vo
+prossecutor	adjetivo	pros|se|cu|[tor]
+prossecutor	nome masculino	pros|se|cu|[tor]
+prosseguição	nome feminino	pros|se|gui|[ção]
+prosseguidor	adjetivo	pros|se|gui|[dor]
+prosseguidor	nome masculino	pros|se|gui|[dor]
+prosseguidora	nome feminino	pros|se|gui|[do]|ra
+prosseguimento	nome masculino	pros|se|gui|[men]|to
+prosseguir	verbo	pros|se|[guir]
+prossetor	nome masculino	pros|se|[tor]
+prossilogismo	nome masculino	pros|si|lo|[gis]|mo
+prossilogístico	adjetivo	pros|si|lo|[gís]|ti|co
+prossupor	verbo	pros|su|[por]
+prostaglandina	nome feminino	pros|ta|glan|[di]|na
+próstase	nome feminino	[prós]|ta|se
+próstata	nome feminino	[prós]|ta|ta
+prostatalgia	nome feminino	pros|ta|tal|[gi]|a
+prostatálgico	adjetivo	pros|ta|[tál]|gi|co
+prostatectomia	nome feminino	pros|ta|tec|to|[mi]|a
+prostatectômico	adjetivo	pros|ta|tec|[tô]|mi|co
+prostatectómico	adjetivo	pros|ta|tec|[tó]|mi|co
+prostático	adjetivo	pros|[tá]|ti|co
+prostatismo	nome masculino	pros|ta|[tis]|mo

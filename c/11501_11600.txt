@@ -1,0 +1,100 @@
+clorácido	nome masculino	clo|[rá]|ci|do
+clorado	adjetivo	clo|[ra]|do
+cloragem	nome feminino	clo|[ra]|gem
+cloral	nome masculino	clo|[ral]
+cloralismo	nome masculino	clo|ra|[lis]|mo
+cloralomania	nome feminino	clo|ra|lo|ma|[ni]|a
+cloralomaníaco	adjetivo	clo|ra|lo|ma|[ní]|a|co
+cloralomaníaco	nome masculino	clo|ra|lo|ma|[ní]|a|co
+cloralómano	nome masculino	clo|ra|[ló]|ma|no
+cloralômano	nome masculino	clo|ra|[lô]|ma|no
+clorantia	nome feminino	clo|ran|[ti]|a
+cloranto	adjetivo	clo|[ran]|to
+clorar	verbo	clo|[rar]
+clorato	nome masculino	clo|[ra]|to
+clorela	nome feminino	clo|[re]|la
+cloremia	nome feminino	clo|re|[mi]|a
+clorênquima	nome feminino	clo|[rên]|qui|ma
+cloretado	adjetivo	clo|re|[ta]|do
+cloretílico	adjetivo	clo|re|[tí]|li|co
+cloretilo	nome masculino	clo|re|[ti]|lo
+cloretização	nome feminino	clo|re|ti|za|[ção]
+cloretizar	verbo	clo|re|ti|[zar]
+cloreto	nome masculino	clo|[re]|to
+clórico	adjetivo	[cló]|ri|co
+cloridrato	nome masculino	clo|ri|[dra]|to
+cloridria	nome feminino	clo|ri|[dri]|a
+clorídrico	adjetivo	clo|[rí]|dri|co
+clorino	nome masculino	clo|[ri]|no
+clorita	nome feminino	clo|[ri]|ta
+clorite	nome feminino	clo|[ri]|te
+clorização	nome feminino	clo|ri|za|[ção]
+clorizar	verbo	clo|ri|[zar]
+cloro	nome masculino	[clo]|ro
+clorocarbonização	nome feminino	clo|ro|car|bo|ni|za|[ção]
+clorófano	adjetivo	clo|[ró]|fa|no
+clorófano	nome masculino	clo|[ró]|fa|no
+clorofícea	nome feminino	clo|ro|[fí]|ce|a
+clorofíceo	adjetivo	clo|ro|[fí]|ce|o
+clorofila	nome feminino	clo|ro|[fi]|la
+clorofilado	adjetivo	clo|ro|fi|[la]|do
+clorofilino	adjetivo	clo|ro|fi|[li]|no
+clorófito	nome masculino	clo|[ró]|fi|to
+clorofluorcarboneto	nome masculino	clo|ro|flu|or|car|bo|[ne]|to
+clorofórmico	adjetivo	clo|ro|[fór]|mi|co
+clorofórmio	nome masculino	clo|ro|[fór]|mi|o
+cloroformização	nome feminino	clo|ro|for|mi|za|[ção]
+cloroformizador	nome masculino	clo|ro|for|mi|za|[dor]
+cloroformizar	verbo	clo|ro|for|mi|[zar]
+cloroleucito	nome masculino	clo|ro|leu|[ci]|to
+clorometria	nome feminino	clo|ro|me|[tri]|a
+clorométrico	adjetivo	clo|ro|[mé]|tri|co
+clorómetro	nome masculino	clo|[ró]|me|tro
+clorômetro	nome masculino	clo|[rô]|me|tro
+cloromicetina	nome feminino	clo|ro|mi|ce|[ti]|na
+cloroplasta	nome masculino	clo|ro|[plas]|ta
+cloroplastídio	nome masculino	clo|ro|plas|[tí]|di|o
+cloroplasto	nome masculino	clo|ro|[plas]|to
+cloropreno	nome masculino	clo|ro|[pre]|no
+clorose	nome feminino	clo|[ro]|se
+cloroso	adjetivo	clo|[ro]|so
+clorótica	nome feminino	clo|[ró]|ti|ca
+clorótico	adjetivo	clo|[ró]|ti|co
+cloruremia	nome feminino	clo|ru|re|[mi]|a
+clorurémico	adjetivo	clo|ru|[ré]|mi|co
+clorurêmico	adjetivo	clo|ru|[rê]|mi|co
+close-up	nome masculino	clo|se-up
+clóstera	nome feminino	[clós]|te|ra
+clownesco	adjetivo	clow|[nes]|co
+club	nome masculino	[club]
+clube	nome masculino	[clu]|be
+clubismo	nome masculino	clu|[bis]|mo
+clubista	adjetivo	clu|[bis]|ta
+clubista	nome masculino	clu|[bis]|ta
+clubista	nome feminino	clu|[bis]|ta
+clubístico	adjetivo	clu|[bís]|ti|co
+clubite	nome feminino	clu|[bi]|te
+clunâmbulo	nome masculino	clu|[nâm]|bu|lo
+clundo	nome masculino	[clun]|do
+cluniacense	nome masculino	clu|ni|a|[cen]|se
+cluniacense	adjetivo	clu|ni|a|[cen]|se
+cluniense	adjetivo	clu|ni|[en]|se
+cluniense	nome masculino	clu|ni|[en]|se
+cluniense	nome feminino	clu|ni|[en]|se
+clunípede	nome masculino	clu|[ní]|pe|de
+clupeida	nome masculino	clu|[pei]|da
+clupeídeo	nome masculino	clu|pe|[í]|de|o
+clupeídeo	nome masculino	clu|pe|[í]|de|o
+clupeídeo	adjetivo	clu|pe|[í]|de|o
+clúsia	nome feminino	[clú]|si|a
+clusiácea	nome feminino	clu|si|[á]|ce|a
+clusiáceo	adjetivo	clu|si|[á]|ce|o
+clusino	adjetivo	clu|[si]|no
+clusino	nome masculino	clu|[si]|no
+cluster	nome masculino	clus|[ter]
+cnemalgia	nome feminino	cne|mal|[gi]|a
+cnêmide	nome feminino	[cnê]|mi|de
+cnémide	nome feminino	[cné]|mi|de
+cnico	nome masculino	[cni]|co
+cnidário	nome masculino	cni|[dá]|ri|o
+cnidário	adjetivo	cni|[dá]|ri|o

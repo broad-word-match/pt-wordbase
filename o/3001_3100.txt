@@ -1,0 +1,100 @@
+orquestídeo	nome masculino	or|ques|[tí]|de|o
+orquestra	nome feminino	or|[ques]|tra
+orquestração	nome feminino	or|ques|tra|[ção]
+orquestrador	nome masculino	or|ques|tra|[dor]
+orquestrador	adjetivo	or|ques|tra|[dor]
+orquestral	adjetivo	or|ques|[tral]
+orquestralmente	advérbio	or|ques|tral|[men]|te
+orquestrar	verbo	or|ques|[trar]
+orquestrável	adjetivo	or|ques|[trá]|vel
+orquestrino	nome masculino	or|ques|[tri]|no
+orquialgia	nome feminino	or|qui|al|[gi]|a
+orquiálgico	adjetivo	or|qui|[ál]|gi|co
+orquidácea	nome feminino	or|qui|[dá]|ce|a
+orquidáceo	adjetivo	or|qui|[dá]|ce|o
+orquidário	nome masculino	or|qui|[dá]|ri|o
+orquídea	nome feminino	or|[quí]|de|a
+orquidifloro	adjetivo	or|qui|di|[flo]|ro
+orquidofilia	nome feminino	or|qui|do|fi|[li]|a
+orquidófilo	adjetivo	or|qui|[dó]|fi|lo
+orquidófilo	nome masculino	or|qui|[dó]|fi|lo
+orquidopexia	nome feminino	or|qui|do|pe|[xi]|a
+orquiectomia	nome feminino	or|qui|ec|to|[mi]|a
+orquiectómico	adjetivo	or|qui|ec|[tó]|mi|co
+orquiectômico	adjetivo	or|qui|ec|[tô]|mi|co
+orquiepididimite	nome feminino	or|qui|e|pi|di|di|[mi]|te
+orquiocele	nome feminino	or|qui|o|[ce]|le
+orquiopéctico	adjetivo	or|qui|o|[péc]|ti|co
+orquiopético	adjetivo	or|qui|o|[pé]|ti|co
+orquiopexia	nome feminino	or|qui|o|pe|[xi]|a
+orquioterapia	nome feminino	or|qui|o|te|ra|[pi]|a
+orquioterápico	adjetivo	or|qui|o|te|[rá]|pi|co
+orquiotomia	nome feminino	or|qui|o|to|[mi]|a
+orquiotômico	adjetivo	or|qui|o|[tô]|mi|co
+orquiotómico	adjetivo	or|qui|o|[tó]|mi|co
+orquiótomo	nome masculino	or|qui|[ó]|to|mo
+orquípeda	nome feminino	or|[quí]|pe|da
+orquita	nome feminino	or|[qui]|ta
+orquite	nome feminino	or|[qui]|te
+orquítico	adjetivo	or|[quí]|ti|co
+orreiro	nome masculino	or|[rei]|ro
+orreta	nome feminino	or|[re]|ta
+orseta	nome feminino	or|[se]|ta
+orsínia	nome feminino	or|[sí]|ni|a
+ortagorisco	nome masculino	or|ta|go|[ris]|co
+ortantera	nome feminino	or|tan|[te]|ra
+ortaptodáctilo	nome masculino	or|tap|to|[dác]|ti|lo
+ortégia	nome feminino	or|[té]|gi|a
+orticonoscópio	nome masculino	or|ti|co|nos|[có]|pi|o
+ortiga	nome feminino	or|[ti]|ga
+ortiga-do-mar	nome feminino	or|ti|ga-do-mar
+ortigão	nome masculino	or|ti|[gão]
+ortigar	verbo	or|ti|[gar]
+ortígio	adjetivo	or|[tí]|gi|o
+ortita	nome feminino	or|[ti]|ta
+ortite	nome feminino	or|[ti]|te
+ortivo	adjetivo	or|[ti]|vo
+orto	nome masculino	[or]|to
+ortobárico	adjetivo	or|to|[bá]|ri|co
+ortobásico	adjetivo	or|to|[bá]|si|co
+ortobiose	nome feminino	or|to|bi|[o]|se
+ortobórico	nome masculino	or|to|[bó]|ri|co
+ortocéfalo	adjetivo	or|to|[cé]|fa|lo
+ortocêntrico	adjetivo	or|to|[cên]|tri|co
+ortocentro	nome masculino	or|to|[cen]|tro
+ortócera	nome feminino	or|[tó]|ce|ra
+ortóclase	nome feminino	or|[tó]|cla|se
+ortoclásio	nome masculino	or|to|[clá]|si|o
+ortocolimbo	nome masculino	or|to|co|[lim]|bo
+ortocolo	nome masculino	or|to|[co]|lo
+ortocólon	nome masculino	or|to|[có]|lon
+ortocromático	adjetivo	or|to|cro|[má]|ti|co
+ortocromatismo	nome masculino	or|to|cro|ma|[tis]|mo
+ortocromatização	nome feminino	or|to|cro|ma|ti|za|[ção]
+ortocromatizar	verbo	or|to|cro|ma|ti|[zar]
+ortodáctilo	adjetivo	or|to|[dác]|ti|lo
+ortodátilo	adjetivo	or|to|[dá]|ti|lo
+ortodiagonal	nome feminino	or|to|di|a|go|[nal]
+ortodoma	nome masculino	or|to|[do]|ma
+ortodonte	adjetivo	or|to|[don]|te
+ortodontia	nome feminino	or|to|don|[ti]|a
+ortodôntico	adjetivo	or|to|[dôn]|ti|co
+ortodontista	nome masculino	or|to|don|[tis]|ta
+ortodontista	nome feminino	or|to|don|[tis]|ta
+ortodontopedia	nome feminino	or|to|don|to|pe|[di]|a
+ortodoro	nome masculino	or|to|[do]|ro
+ortodoxa	nome feminino	or|to|[do]|xa
+ortodoxamente	advérbio	or|to|do|xa|[men]|te
+ortodoxia	nome feminino	or|to|do|[xi]|a
+ortodoxo	adjetivo	or|to|[do]|xo
+ortodoxo	nome masculino	or|to|[do]|xo
+ortodoxografia	nome feminino	or|to|do|xo|gra|[fi]|a
+ortodoxográfico	adjetivo	or|to|do|xo|[grá]|fi|co
+ortodoxógrafo	nome masculino	or|to|do|[xó]|gra|fo
+ortodromia	nome feminino	or|to|dro|[mi]|a
+ortodrómico	adjetivo	or|to|[dró]|mi|co
+ortodrômico	adjetivo	or|to|[drô]|mi|co
+ortoedria	nome feminino	or|to|e|[dri]|a
+ortoédrico	adjetivo	or|to|[é]|dri|co
+ortoépia	nome feminino	or|to|[é]|pi|a
+ortoepia	nome feminino	or|to|e|[pi]|a

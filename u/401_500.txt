@@ -1,0 +1,100 @@
+ultramoderno	adjetivo	ul|tra|mo|[der]|no
+ultramonárquico	adjetivo	ul|tra|mo|[nár]|qui|co
+ultramonárquico	nome masculino	ul|tra|mo|[nár]|qui|co
+ultramontana	nome feminino	ul|tra|mon|[ta]|na
+ultramontanismo	nome masculino	ul|tra|mon|ta|[nis]|mo
+ultramontanização	nome feminino	ul|tra|mon|ta|ni|za|[ção]
+ultramontanizar	verbo	ul|tra|mon|ta|ni|[zar]
+ultramontano	adjetivo	ul|tra|mon|[ta]|no
+ultramontano	nome masculino	ul|tra|mon|[ta]|no
+ultramundano	adjetivo	ul|tra|mun|[da]|no
+ultranacionalista	nome masculino	ul|tra|na|ci|o|na|[lis]|ta
+ultranacionalista	adjetivo	ul|tra|na|ci|o|na|[lis]|ta
+ultranacionalista	nome feminino	ul|tra|na|ci|o|na|[lis]|ta
+ultranatural	adjetivo	ul|tra|na|tu|[ral]
+ultraoceânico	adjetivo	ul|tra|o|ce|[â]|ni|co
+ultraortodoxo	adjetivo	ul|tra|or|to|[do]|xo
+ultraparadoxal	adjetivo	ul|tra|pa|ra|do|[xal]
+ultrapassado	adjetivo	ul|tra|pas|[sa]|do
+ultrapassagem	nome feminino	ul|tra|pas|[sa]|gem
+ultrapassante	adjetivo	ul|tra|pas|[san]|te
+ultrapassar	verbo	ul|tra|pas|[sar]
+ultrapassável	adjetivo	ul|tra|pas|[sá]|vel
+ultrapasteurizado	adjetivo	ul|tra|pas|teu|ri|[za]|do
+ultraperiférico	adjetivo	ul|tra|pe|ri|[fé]|ri|co
+ultrapressão	nome feminino	ul|tra|pres|[são]
+ultraprovar	verbo	ul|tra|pro|[var]
+ultraquímico	adjetivo	ul|tra|[quí]|mi|co
+ultrarradical	adjetivo	ul|trar|ra|di|[cal]
+ultrarrápido	adjetivo	ul|trar|[rá]|pi|do
+ultrarreação	nome feminino	ul|trar|re|a|[ção]
+ultrarreacionária	nome feminino	ul|trar|re|a|ci|o|[ná]|ri|a
+ultrarreacionário	adjetivo	ul|trar|re|a|ci|o|[ná]|ri|o
+ultrarreacionário	nome masculino	ul|trar|re|a|ci|o|[ná]|ri|o
+ultrarrealismo	nome masculino	ul|trar|re|a|[lis]|mo
+ultrarrealista	adjetivo	ul|trar|re|a|[lis]|ta
+ultrarrealista	nome masculino	ul|trar|re|a|[lis]|ta
+ultrarrealista	nome feminino	ul|trar|re|a|[lis]|ta
+ultrarrevolução	nome feminino	ul|trar|re|vo|lu|[ção]
+ultrarrevolucionária	nome feminino	ul|trar|re|vo|lu|ci|o|[ná]|ri|a
+ultrarrevolucionário	adjetivo	ul|trar|re|vo|lu|ci|o|[ná]|ri|o
+ultrarrevolucionário	nome masculino	ul|trar|re|vo|lu|ci|o|[ná]|ri|o
+ultrarrigoroso	adjetivo	ul|trar|ri|go|[ro]|so
+ultrarromântica	nome feminino	ul|trar|ro|[mân]|ti|ca
+ultrarromântico	adjetivo	ul|trar|ro|[mân]|ti|co
+ultrarromântico	nome masculino	ul|trar|ro|[mân]|ti|co
+ultrarromantismo	nome masculino	ul|trar|ro|man|[tis]|mo
+ultrarromantizar	verbo	ul|trar|ro|man|ti|[zar]
+ultrarroxo	adjetivo	ul|trar|[ro]|xo
+ultrassecreto	adjetivo	ul|tras|se|[cre]|to
+ultrassecular	adjetivo	ul|tras|se|cu|[lar]
+ultrassensível	adjetivo	ul|tras|sen|[sí]|vel
+ultrassofisticado	adjetivo	ul|tras|so|fis|ti|[ca]|do
+ultrassolar	adjetivo	ul|tras|so|[lar]
+ultrassom	nome masculino	ul|[tras]|som
+ultrassônico	adjetivo	ul|tras|[sô]|ni|co
+ultrassónico	adjetivo	ul|tras|[só]|ni|co
+ultrassonografia	nome feminino	ul|tras|so|no|gra|[fi]|a
+ultrassonográfico	adjetivo	ul|tras|so|no|[grá]|fi|co
+ultrassonógrafo	nome masculino	ul|tras|so|[nó]|gra|fo
+ultrassonoro	adjetivo	ul|tras|so|[no]|ro
+ultraterreno	adjetivo	ul|tra|ter|[re]|no
+ultraterrestre	adjetivo	ul|tra|ter|[res]|tre
+ultratumular	adjetivo	ul|tra|tu|mu|[lar]
+ultraveloz	adjetivo	ul|tra|ve|[loz]
+ultravermelho	adjetivo	ul|tra|ver|[me]|lho
+ultravioleta	adjetivo	ul|tra|vi|o|[le]|ta
+ultravioleta	nome masculino	ul|tra|vi|o|[le]|ta
+ultravírus	nome masculino	ul|tra|[ví]|rus
+ultrazodiacal	adjetivo	ul|tra|zo|di|a|[cal]
+ultrice	nome feminino	ul|[tri]|ce
+ultriz	nome feminino	ul|[triz]
+ultrôneo	adjetivo	ul|[trô]|ne|o
+ultróneo	adjetivo	ul|[tró]|ne|o
+úlua	nome feminino	[ú]|lu|a
+ulubrano	adjetivo	u|lu|[bra]|no
+ulubrano	nome masculino	u|lu|[bra]|no
+uluco	nome masculino	u|[lu]|co
+ululação	nome feminino	u|lu|la|[ção]
+ululador	adjetivo	u|lu|la|[dor]
+ululador	nome masculino	u|lu|la|[dor]
+ululante	adjetivo	u|lu|[lan]|te
+ulular	verbo	u|lu|[lar]
+ululato	nome masculino	u|lu|[la]|to
+ululo	nome masculino	u|[lu]|lo
+ulurtino	adjetivo	u|lur|[ti]|no
+ulurtino	nome masculino	u|lur|[ti]|no
+ulva	nome feminino	[ul]|va
+ulvácea	nome feminino	ul|[vá]|ce|a
+ulváceo	adjetivo	ul|[vá]|ce|o
+ulvina	nome feminino	ul|[vi]|na
+um	artigo indefinido	[um]
+um	nome masculino	[um]
+um	adjetivo	[um]
+um	pronome indefinido	[um]
+um	número cardinal	[um]
+uma	artigo indefinido	[u]|ma
+umã	nome masculino	u|[mã]
+umã	nome feminino	u|[mã]
+umação	nome feminino	u|ma|[ção]
+umar	verbo	u|[mar]

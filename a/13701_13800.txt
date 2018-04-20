@@ -1,0 +1,100 @@
+antiaglutinante	adjetivo	an|ti|a|glu|ti|[nan]|te
+antiagrário	adjetivo	an|ti|a|[grá]|ri|o
+antiagrícola	adjetivo	an|ti|a|[grí]|co|la
+antialcalino	adjetivo	an|ti|al|ca|[li]|no
+antialcoólico	adjetivo	an|ti|al|co|[ó]|li|co
+antialcoolismo	nome masculino	an|ti|al|co|o|[lis]|mo
+antialemão	adjetivo	an|ti|a|le|[mão]
+antialérgico	nome masculino	an|ti|a|[lér]|gi|co
+antialérgico	adjetivo	an|ti|a|[lér]|gi|co
+antialgésico	adjetivo	an|ti|al|[gé]|si|co
+antiálgico	adjetivo	an|ti|[ál]|gi|co
+antialienígena	adjetivo	an|ti|a|li|e|[ní]|ge|na
+antialienígena	nome masculino	an|ti|a|li|e|[ní]|ge|na
+antialienígena	nome feminino	an|ti|a|li|e|[ní]|ge|na
+antiamarílico	adjetivo	an|ti|a|ma|[rí]|li|co
+antiamericanismo	nome masculino	an|ti|a|me|ri|ca|[nis]|mo
+antiamericanista	adjetivo	an|ti|a|me|ri|ca|[nis]|ta
+antiamericanista	nome masculino	an|ti|a|me|ri|ca|[nis]|ta
+antiamericanista	nome feminino	an|ti|a|me|ri|ca|[nis]|ta
+antiamericano	adjetivo	an|ti|a|me|ri|[ca]|no
+antianglicano	adjetivo	an|ti|an|gli|[ca]|no
+antiapologético	adjetivo	an|ti|a|po|lo|[gé]|ti|co
+antiapologia	nome feminino	an|ti|a|po|lo|[gi]|a
+antiapopléctico	adjetivo	an|ti|a|po|[pléc]|ti|co
+antiapoplético	adjetivo	an|ti|a|po|[plé]|ti|co
+antiar	nome masculino	an|ti|[ar]
+antiarina	nome feminino	an|ti|a|[ri]|na
+antiaristocrata	adjetivo	an|ti|a|ris|to|[cra]|ta
+antiaristocrata	nome masculino	an|ti|a|ris|to|[cra]|ta
+antiaristocrata	nome feminino	an|ti|a|ris|to|[cra]|ta
+antiaristocraticamente	advérbio	an|ti|a|ris|to|cra|ti|ca|[men]|te
+antiaristocrático	adjetivo	an|ti|a|ris|to|[crá]|ti|co
+antiarrítmico	adjetivo	an|ti|ar|[rít]|mi|co
+antiartístico	adjetivo	an|ti|ar|[tís]|ti|co
+antiartrítico	adjetivo	an|ti|ar|[trí]|ti|co
+antiartrítico	nome masculino	an|ti|ar|[trí]|ti|co
+antiasfíctico	adjetivo	an|ti|as|[fíc]|ti|co
+antiasmático	adjetivo	an|ti|as|[má]|ti|co
+antiasmático	nome masculino	an|ti|as|[má]|ti|co
+antiatáctico	adjetivo	an|ti|a|[tác]|ti|co
+antiatático	adjetivo	an|ti|a|[tá]|ti|co
+antiatáxico	adjetivo	an|ti|a|[tá]|xi|co
+antiatómico	adjetivo	an|ti|a|[tó]|mi|co
+antiatômico	adjetivo	an|ti|a|[tô]|mi|co
+antiatrófico	adjetivo	an|ti|a|[tró]|fi|co
+antibacteriano	adjetivo	an|ti|bac|te|ri|[a]|no
+antibalístico	adjetivo	an|ti|ba|[lís]|ti|co
+antibáquico	adjetivo	an|ti|[bá]|qui|co
+antibaquio	adjetivo	an|ti|ba|[qui]|o
+antibaquio	nome masculino	an|ti|ba|[qui]|o
+antibíblico	adjetivo	an|ti|[bí]|bli|co
+antibilioso	adjetivo	an|ti|bi|li|[o]|so
+antibiograma	nome masculino	an|ti|bi|o|[gra]|ma
+antibionte	nome masculino	an|ti|bi|[on]|te
+antibiose	nome feminino	an|ti|bi|[o]|se
+antibioterapia	nome feminino	an|ti|bi|o|te|ra|[pi]|a
+antibiótico	adjetivo	an|ti|bi|[ó]|ti|co
+antibiótico	nome masculino	an|ti|bi|[ó]|ti|co
+antiblenorrágico	adjetivo	an|ti|ble|nor|[rá]|gi|co
+antibritânico	adjetivo	an|ti|bri|[tâ]|ni|co
+antibrómico	adjetivo	an|ti|[bró]|mi|co
+antibrômico	adjetivo	an|ti|[brô]|mi|co
+antibula	nome feminino	an|ti|[bu]|la
+antiburocrático	adjetivo	an|ti|bu|ro|[crá]|ti|co
+anticalcário	adjetivo	an|ti|cal|[cá]|ri|o
+anticancerígeno	adjetivo	an|ti|can|ce|[rí]|ge|no
+anticanceroso	adjetivo	an|ti|can|ce|[ro]|so
+anticanónico	adjetivo	an|ti|ca|[nó]|ni|co
+anticanônico	adjetivo	an|ti|ca|[nô]|ni|co
+anticapitalista	adjetivo	an|ti|ca|pi|ta|[lis]|ta
+anticaquético	adjetivo	an|ti|ca|[qué]|ti|co
+anticardeal	nome masculino	an|ti|car|de|[al]
+anticárdio	nome masculino	an|ti|[cár]|di|o
+anticarro	adjetivo	an|ti|[car]|ro
+anticaspa	adjetivo	an|ti|[cas]|pa
+anticastrista	adjetivo	an|ti|cas|[tris]|ta
+anticatarral	adjetivo	an|ti|ca|tar|[ral]
+anticatártico	adjetivo	an|ti|ca|[tár]|ti|co
+anticategoria	nome feminino	an|ti|ca|te|go|[ri]|a
+anticatódico	adjetivo	an|ti|ca|[tó]|di|co
+anticatódio	nome masculino	an|ti|ca|[tó]|di|o
+anticátodo	nome masculino	an|ti|[cá]|to|do
+anticatólica	nome feminino	an|ti|ca|[tó]|li|ca
+anticatolicismo	nome masculino	an|ti|ca|to|li|[cis]|mo
+anticatólico	adjetivo	an|ti|ca|[tó]|li|co
+anticatólico	nome masculino	an|ti|ca|[tó]|li|co
+anticáustico	adjetivo	an|ti|[cáus]|ti|co
+anticavaquismo	nome masculino	an|ti|ca|va|[quis]|mo
+anticefalálgico	adjetivo	an|ti|ce|fa|[lál]|gi|co
+anticepticismo	nome masculino	an|ti|cep|ti|[cis]|mo
+anticéptico	adjetivo	an|ti|[cép]|ti|co
+anticéptico	nome masculino	an|ti|[cép]|ti|co
+anticeticismo	nome masculino	an|ti|ce|ti|[cis]|mo
+anticético	adjetivo	an|ti|[cé]|ti|co
+anticético	nome masculino	an|ti|[cé]|ti|co
+antichoque	adjetivo	an|ti|[cho]|que
+anticiclone	nome masculino	an|ti|ci|[clo]|ne
+anticiclónico	adjetivo	an|ti|ci|[cló]|ni|co
+anticiclônico	adjetivo	an|ti|ci|[clô]|ni|co
+anticientífico	adjetivo	an|ti|ci|en|[tí]|fi|co

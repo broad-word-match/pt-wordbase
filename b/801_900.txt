@@ -1,0 +1,100 @@
+balcanizar	verbo	bal|ca|ni|[zar]
+balção	nome masculino	bal|[ção]
+balcão	nome masculino	bal|[cão]
+balcarriada	nome feminino	bal|car|ri|[a]|da
+balcedo	nome masculino	bal|[ce]|do
+balceira	nome feminino	bal|[cei]|ra
+balceiro	adjetivo	bal|[cei]|ro
+balceiro	nome masculino	bal|[cei]|ro
+balcelho	nome masculino	bal|[ce]|lho
+balchão	nome masculino	bal|[chão]
+balço	nome masculino	[bal]|ço
+balconista	nome masculino	bal|co|[nis]|ta
+balconista	nome feminino	bal|co|[nis]|ta
+balda	nome feminino	[bal]|da
+balda	nome masculino	[bal]|da
+baldada	nome feminino	bal|[da]|da
+baldadamente	advérbio	bal|da|da|[men]|te
+baldademente	advérbio	bal|da|de|[men]|te
+baldado	adjetivo	bal|[da]|do
+baldão	nome masculino	bal|[dão]
+baldaquim	nome masculino	bal|da|[quim]
+baldaquinado	adjetivo	bal|da|qui|[na]|do
+baldaquino	nome masculino	bal|da|[qui]|no
+baldar	verbo	bal|[dar]
+baldas	adjetivo	[bal]|das
+baldas	nome masculino	[bal]|das
+baldas	nome feminino	[bal]|das
+balde	nome masculino	[bal]|de
+baldeação	nome feminino	bal|de|a|[ção]
+baldeadeira	nome feminino	bal|de|a|[dei]|ra
+baldeador	adjetivo	bal|de|a|[dor]
+baldeador	nome masculino	bal|de|a|[dor]
+baldear	verbo	bal|de|[ar]
+baldeável	adjetivo	bal|de|[á]|vel
+baldeona	nome feminino	bal|de|[o]|na
+baldio	adjetivo	bal|[di]|o
+baldio	nome masculino	bal|[di]|o
+baldista	nome masculino	bal|[dis]|ta
+baldo	adjetivo	[bal]|do
+baldoador	adjetivo	bal|do|a|[dor]
+baldoador	nome masculino	bal|do|a|[dor]
+baldoar	verbo	bal|do|[ar]
+baldoeira	nome feminino	bal|do|[ei]|ra
+baldoeiro	nome masculino	bal|do|[ei]|ro
+baldona	nome feminino	bal|[do]|na
+baldoso	adjetivo	bal|[do]|so
+baldrame	nome masculino	bal|[dra]|me
+baldréu	nome masculino	bal|[dréu]
+baldroca	nome feminino	bal|[dro]|ca
+baldrocado	adjetivo	bal|dro|[ca]|do
+baldrocar	verbo	bal|dro|[car]
+baldroqueiro	nome masculino	bal|dro|[quei]|ro
+balé	nome masculino	ba|[lé]
+baleação	nome feminino	ba|le|a|[ção]
+baleado	adjetivo	ba|le|[a]|do
+baleal	nome masculino	ba|le|[al]
+balear	nome masculino	ba|le|[ar]
+balear	verbo	ba|le|[ar]
+balear	adjetivo	ba|le|[ar]
+balear	nome feminino	ba|le|[ar]
+baleárico	adjetivo	ba|le|[á]|ri|co
+baleárico	nome masculino	ba|le|[á]|ri|co
+baleato	nome masculino	ba|le|[a]|to
+balecar	verbo	ba|le|[car]
+baleeira	nome feminino	ba|le|[ei]|ra
+baleeiro	adjetivo	ba|le|[ei]|ro
+baleeiro	nome masculino	ba|le|[ei]|ro
+balegões	nome masculino	ba|le|[gões]
+baleia	nome feminino	ba|[lei]|a
+baleio	nome masculino	ba|[lei]|o
+baleira	nome feminino	ba|[lei]|ra
+baleiro	nome masculino	ba|[lei]|ro
+baleizão	nome masculino	ba|lei|[zão]
+balela	nome feminino	ba|[le]|la
+balema	nome feminino	ba|[le]|ma
+balenídeo	adjetivo	ba|le|[ní]|de|o
+balenídeo	nome masculino	ba|le|[ní]|de|o
+balenoptérida	nome masculino	ba|le|nop|[té]|ri|da
+balenopterídeo	nome masculino	ba|le|nop|te|[rí]|de|o
+balenopterídeo	adjetivo	ba|le|nop|te|[rí]|de|o
+baleota	nome feminino	ba|le|[o]|ta
+baleote	nome masculino	ba|le|[o]|te
+balestilha	nome feminino	ba|les|[ti]|lha
+balestra	nome feminino	ba|[les]|tra
+balestreiro	nome masculino	ba|les|[trei]|ro
+balestrilha	nome feminino	ba|les|[tri]|lha
+balha	nome feminino	[ba]|lha
+balhadeira	nome feminino	ba|lha|[dei]|ra
+balhadeiro	adjetivo	ba|lha|[dei]|ro
+balhado	nome masculino	ba|[lha]|do
+balhador	adjetivo	ba|lha|[dor]
+balhador	nome masculino	ba|lha|[dor]
+balhadouro	nome masculino	ba|lha|[dou]|ro
+balhana	nome feminino	ba|[lha]|na
+balhante	adjetivo	ba|[lhan]|te
+balhão	nome masculino	ba|[lhão]
+balhar	verbo	ba|[lhar]
+balharico	nome masculino	ba|lha|[ri]|co
+balharim	nome masculino	ba|lha|[rim]
+balharina	nome feminino	ba|lha|[ri]|na

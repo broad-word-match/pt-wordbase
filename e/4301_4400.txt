@@ -1,0 +1,100 @@
+engrumado	adjetivo	en|gru|[ma]|do
+engrumar	verbo	en|gru|[mar]
+engrunação	nome feminino	en|gru|na|[ção]
+engrunado	nome masculino	en|gru|[na]|do
+engrunhar	verbo	en|gru|[nhar]
+engrunhido	adjetivo	en|gru|[nhi]|do
+engrunhir	verbo	en|gru|[nhir]
+engrupir	verbo	en|gru|[pir]
+enguedelha	nome feminino	en|gue|[de]|lha
+enguedelhar	verbo	en|gue|de|[lhar]
+enguia	nome feminino	en|[gui]|a
+enguia-do-mar	nome feminino	en|gui|a-do-mar
+enguia-eléctrica	nome feminino	en|gui|a-e|[léc]|tri|ca
+enguia-elétrica	nome feminino	en|gui|a-e|[lé]|tri|ca
+enguiçado	adjetivo	en|gui|[ça]|do
+enguiçador	adjetivo	en|gui|ça|[dor]
+enguiçador	nome masculino	en|gui|ça|[dor]
+enguiçamento	nome masculino	en|gui|ça|[men]|to
+enguiçar	verbo	en|gui|[çar]
+enguiço	nome masculino	en|[gui]|ço
+enguino	adjetivo	en|[gui]|no
+enguino	nome masculino	en|[gui]|no
+enguizalhar	verbo	en|gui|za|[lhar]
+engulhamento	nome masculino	en|gu|lha|[men]|to
+engulhar	verbo	en|gu|[lhar]
+engulhento	adjetivo	en|gu|[lhen]|to
+engulho	nome masculino	en|[gu]|lho
+engulhoso	adjetivo	en|gu|[lho]|so
+engulipar	verbo	en|gu|li|[par]
+engulosinar	verbo	en|gu|lo|si|[nar]
+engunhar	verbo	en|gu|[nhar]
+enho	nome masculino	[e]|nho
+eníada	adjetivo	e|[ní]|a|da
+eníada	nome masculino	e|[ní]|a|da
+eníada	nome feminino	e|[ní]|a|da
+eniane	adjetivo	e|ni|[a]|ne
+eniane	nome masculino	e|ni|[a]|ne
+eniane	nome feminino	e|ni|[a]|ne
+enícola	adjetivo	e|[ní]|co|la
+enídride	nome feminino	e|[ní]|dri|de
+énidro	adjetivo	[é]|ni|dro
+ênidro	adjetivo	[ê]|ni|dro
+enigma	nome masculino	e|[nig]|ma
+enigmar	verbo	e|nig|[mar]
+enigmaticamente	advérbio	e|nig|ma|ti|ca|[men]|te
+enigmático	adjetivo	e|nig|[má]|ti|co
+enigmatista	nome masculino	e|nig|ma|[tis]|ta
+enigmatista	nome feminino	e|nig|ma|[tis]|ta
+enigmatite	nome feminino	e|nig|ma|[ti]|te
+enigmista	nome masculino	e|nig|[mis]|ta
+enigmista	nome feminino	e|nig|[mis]|ta
+enilema	nome masculino	e|ni|[le]|ma
+enino	adjetivo	e|[ni]|no
+enino	nome masculino	e|[ni]|no
+ênio	adjetivo	[ê]|ni|o
+énio	adjetivo	[é]|ni|o
+enio	nome masculino	e|[ni]|o
+enipo	adjetivo	e|[ni]|po
+enipo	nome masculino	e|[ni]|po
+enjambement	nome masculino	en|jam|be|ment
+enjambrar	verbo	en|jam|[brar]
+enjangar	verbo	en|jan|[gar]
+enjaulado	adjetivo	en|jau|[la]|do
+enjaulamento	nome masculino	en|jau|la|[men]|to
+enjaular	verbo	en|jau|[lar]
+enjeirar	verbo	en|jei|[rar]
+enjeitada	nome feminino	en|jei|[ta]|da
+enjeitado	adjetivo	en|jei|[ta]|do
+enjeitado	nome masculino	en|jei|[ta]|do
+enjeitador	adjetivo	en|jei|ta|[dor]
+enjeitador	nome masculino	en|jei|ta|[dor]
+enjeitamento	nome masculino	en|jei|ta|[men]|to
+enjeitar	verbo	en|jei|[tar]
+enjeitável	adjetivo	en|jei|[tá]|vel
+enjerido	adjetivo	en|je|[ri]|do
+enjerir	verbo	en|je|[rir]
+enjoada	nome feminino	en|jo|[a]|da
+enjoadiço	adjetivo	en|jo|a|[di]|ço
+enjoado	nome masculino	en|jo|[a]|do
+enjoado	adjetivo	en|jo|[a]|do
+enjoamento	nome masculino	en|jo|a|[men]|to
+enjoar	verbo	en|jo|[ar]
+enjoativamente	advérbio	en|jo|a|ti|va|[men]|te
+enjoativo	adjetivo	en|jo|a|[ti]|vo
+enjoiar	verbo	en|joi|[ar]
+enjoló	nome masculino	en|jo|[ló]
+enjoo	nome masculino	en|[jo]|o
+enjooso	adjetivo	en|jo|[o]|so
+enjorcada	nome feminino	en|jor|[ca]|da
+enjorcado	adjetivo	en|jor|[ca]|do
+enjorcar	verbo	en|jor|[car]
+enjugamento	nome masculino	en|ju|ga|[men]|to
+enjugar	verbo	en|ju|[gar]
+enjunçar	verbo	en|jun|[çar]
+enlabruscar	verbo	en|la|brus|[car]
+enlaçado	adjetivo	en|la|[ça]|do
+enlaçador	nome masculino	en|la|ça|[dor]
+enlaçadura	nome feminino	en|la|ça|[du]|ra
+enlaçamento	nome masculino	en|la|ça|[men]|to
+enlaçar	verbo	en|la|[çar]

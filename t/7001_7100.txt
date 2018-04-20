@@ -1,0 +1,100 @@
+transmeável	adjetivo	trans|me|[á]|vel
+transmediterrâneo	adjetivo	trans|me|di|ter|[râ]|ne|o
+transmigração	nome feminino	trans|mi|gra|[ção]
+transmigrador	adjetivo	trans|mi|gra|[dor]
+transmigrador	nome masculino	trans|mi|gra|[dor]
+transmigrante	adjetivo	trans|mi|[gran]|te
+transmigrar	verbo	trans|mi|[grar]
+transmigratório	adjetivo	trans|mi|gra|[tó]|ri|o
+transmissão	nome feminino	trans|mis|[são]
+transmissário	nome masculino	trans|mis|[sá]|ri|o
+transmissibilidade	nome feminino	trans|mis|si|bi|li|[da]|de
+transmissível	adjetivo	trans|mis|[sí]|vel
+transmissivelmente	advérbio	trans|mis|si|vel|[men]|te
+transmissividade	nome feminino	trans|mis|si|vi|[da]|de
+transmissivo	adjetivo	trans|mis|[si]|vo
+transmissor	adjetivo	trans|mis|[sor]
+transmissor	nome masculino	trans|mis|[sor]
+transmissora	nome feminino	trans|mis|[so]|ra
+transmissório	adjetivo	trans|mis|[só]|ri|o
+transmitendo	adjetivo	trans|mi|[ten]|do
+transmitente	adjetivo	trans|mi|[ten]|te
+transmitente	nome masculino	trans|mi|[ten]|te
+transmitente	nome feminino	trans|mi|[ten]|te
+transmitir	verbo	trans|mi|[tir]
+transmontana	nome feminino	trans|mon|[ta]|na
+transmontanismo	nome masculino	trans|mon|ta|[nis]|mo
+transmontano	nome masculino	trans|mon|[ta]|no
+transmontano	adjetivo	trans|mon|[ta]|no
+transmontar	verbo	trans|mon|[tar]
+transmonto	nome masculino	trans|[mon]|to
+transmover	verbo	trans|mo|[ver]
+transmudação	nome feminino	trans|mu|da|[ção]
+transmudamento	nome masculino	trans|mu|da|[men]|to
+transmudar	verbo	trans|mu|[dar]
+transmudável	adjetivo	trans|mu|[dá]|vel
+transmutabilidade	nome feminino	trans|mu|ta|bi|li|[da]|de
+transmutação	nome feminino	trans|mu|ta|[ção]
+transmutar	verbo	trans|mu|[tar]
+transmutativo	adjetivo	trans|mu|ta|[ti]|vo
+transmutável	adjetivo	trans|mu|[tá]|vel
+transnacional	adjetivo	trans|na|ci|o|[nal]
+transnadar	verbo	trans|na|[dar]
+transnavegar	verbo	trans|na|ve|[gar]
+transnoitar	verbo	trans|noi|[tar]
+transnominação	nome feminino	trans|no|mi|na|[ção]
+transnominar	verbo	trans|no|mi|[nar]
+transnúpcias	nome feminino	trans|[núp]|ci|as
+transobjectivo	adjetivo	tran|sob|jec|[ti]|vo
+transobjetivo	adjetivo	tran|sob|je|[ti]|vo
+transoceânico	adjetivo	tran|so|ce|[â]|ni|co
+transoceaniense	adjetivo	tran|so|ce|a|ni|[en]|se
+transónico	adjetivo	tran|[só]|ni|co
+transônico	adjetivo	tran|[sô]|ni|co
+transordinariamente	advérbio	tran|sor|di|na|ri|a|[men]|te
+transordinário	adjetivo	tran|sor|di|[ná]|ri|o
+transpadano	adjetivo	trans|pa|[da]|no
+transparecer	verbo	trans|pa|re|[cer]
+transparência	nome feminino	trans|pa|[rên]|ci|a
+transparentar	verbo	trans|pa|ren|[tar]
+transparente	nome masculino	trans|pa|[ren]|te
+transparente	adjetivo	trans|pa|[ren]|te
+transparentemente	advérbio	trans|pa|ren|te|[men]|te
+transpassação	nome feminino	trans|pas|sa|[ção]
+transpassamento	nome masculino	trans|pas|sa|[men]|to
+transpassar	verbo	trans|pas|[sar]
+transpasse	nome masculino	trans|[pas]|se
+transpiração	nome feminino	trans|pi|ra|[ção]
+transpiradeiro	nome masculino	trans|pi|ra|[dei]|ro
+transpirar	verbo	trans|pi|[rar]
+transpiratório	adjetivo	trans|pi|ra|[tó]|ri|o
+transpiratório	nome masculino	trans|pi|ra|[tó]|ri|o
+transpirável	adjetivo	trans|pi|[rá]|vel
+transpirenaico	adjetivo	trans|pi|re|[nai]|co
+transplantabilidade	nome feminino	trans|plan|ta|bi|li|[da]|de
+transplantação	nome feminino	trans|plan|ta|[ção]
+transplantador	nome masculino	trans|plan|ta|[dor]
+transplantador	adjetivo	trans|plan|ta|[dor]
+transplantar	verbo	trans|plan|[tar]
+transplantatório	adjetivo	trans|plan|ta|[tó]|ri|o
+transplantável	adjetivo	trans|plan|[tá]|vel
+transplante	nome feminino	trans|[plan]|te
+transplante	nome masculino	trans|[plan]|te
+transplantio	nome masculino	trans|plan|[ti]|o
+transplatino	adjetivo	trans|pla|[ti]|no
+transpolar	adjetivo	trans|po|[lar]
+transponibilidade	nome feminino	trans|po|ni|bi|li|[da]|de
+transponível	adjetivo	trans|po|[ní]|vel
+transpor	verbo	trans|[por]
+transportabilidade	nome feminino	trans|por|ta|bi|li|[da]|de
+transportação	nome feminino	trans|por|ta|[ção]
+transportador	nome masculino	trans|por|ta|[dor]
+transportador	adjetivo	trans|por|ta|[dor]
+transportadora	nome feminino	trans|por|ta|[do]|ra
+transportamento	nome masculino	trans|por|ta|[men]|to
+transportar	verbo	trans|por|[tar]
+transportável	adjetivo	trans|por|[tá]|vel
+transporte	nome masculino	trans|[por]|te
+transposição	nome feminino	trans|po|si|[ção]
+transpositivo	adjetivo	trans|po|si|[ti]|vo
+transpositor	adjetivo	trans|po|si|[tor]

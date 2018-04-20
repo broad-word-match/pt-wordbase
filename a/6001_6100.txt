@@ -1,0 +1,100 @@
+agamídeo	nome masculino	a|ga|[mí]|de|o
+agamídeo	adjetivo	a|ga|[mí]|de|o
+ágamo	adjetivo	[á]|ga|mo
+aganar	verbo	a|ga|[nar]
+agapanto	nome masculino	a|ga|[pan]|to
+ágape	nome masculino	[á]|ga|pe
+agapeta	nome feminino	a|ga|[pe]|ta
+agapeto	nome masculino	a|ga|[pe]|to
+agar	nome masculino	a|[gar]
+ágar	nome masculino	[á]|gar
+ágar-ágar	nome masculino	á|gar-á|gar
+agar-agar	nome masculino	a|gar-a|[gar]
+agareno	adjetivo	a|ga|[re]|no
+agareno	nome masculino	a|ga|[re]|no
+agargalado	adjetivo	a|gar|ga|[la]|do
+agaricácea	nome feminino	a|ga|ri|[cá]|ce|a
+agaricáceo	adjetivo	a|ga|ri|[cá]|ce|o
+agarícea	nome feminino	a|ga|[rí]|ce|a
+agaríceo	adjetivo	a|ga|[rí]|ce|o
+agaricícola	adjetivo	a|ga|ri|[cí]|co|la
+agaricina	nome feminino	a|ga|ri|[ci]|na
+agárico	nome masculino	a|[gá]|ri|co
+agaritano	adjetivo	a|ga|ri|[ta]|no
+agaritano	nome masculino	a|ga|ri|[ta]|no
+agarnachar	verbo	a|gar|na|[char]
+agarotadamente	advérbio	a|ga|ro|ta|da|[men]|te
+agarotado	adjetivo	a|ga|ro|[ta]|do
+agarotar	verbo	a|ga|ro|[tar]
+agarra	nome feminino	a|[gar]|ra
+agarra	interjeição	a|[gar]|ra
+agarra-pinto	nome masculino	a|gar|ra-pin|to
+agarração	nome feminino	a|gar|ra|[ção]
+agarradiço	adjetivo	a|gar|ra|[di]|ço
+agarrado	adjetivo	a|gar|[ra]|do
+agarrado	nome masculino	a|gar|[ra]|do
+agarrador	adjetivo	a|gar|ra|[dor]
+agarrador	nome masculino	a|gar|ra|[dor]
+agarradora	nome feminino	a|gar|ra|[do]|ra
+agarramento	nome masculino	a|gar|ra|[men]|to
+agarranado	adjetivo	a|gar|ra|[na]|do
+agarrar	verbo	a|gar|[rar]
+agarrável	adjetivo	a|gar|[rá]|vel
+agarrochar	verbo	a|gar|ro|[char]
+agarrotar	verbo	a|gar|ro|[tar]
+agarruchar	verbo	a|gar|ru|[char]
+agarrunchar	verbo	a|gar|run|[char]
+agasalhadeiro	adjetivo	a|ga|sa|lha|[dei]|ro
+agasalhado	nome masculino	a|ga|sa|[lha]|do
+agasalhado	adjetivo	a|ga|sa|[lha]|do
+agasalhador	adjetivo	a|ga|sa|lha|[dor]
+agasalhador	nome masculino	a|ga|sa|lha|[dor]
+agasalhados	nome masculino	a|ga|sa|[lha]|dos
+agasalhante	adjetivo	a|ga|sa|[lhan]|te
+agasalhar	verbo	a|ga|sa|[lhar]
+agasalhável	adjetivo	a|ga|sa|[lhá]|vel
+agasalheiro	adjetivo	a|ga|sa|[lhei]|ro
+agasalho	nome masculino	a|ga|[sa]|lho
+agastadamente	advérbio	a|gas|ta|da|[men]|te
+agastadiço	adjetivo	a|gas|ta|[di]|ço
+agastado	adjetivo	a|gas|[ta]|do
+agastadura	nome feminino	a|gas|ta|[du]|ra
+agastamento	nome masculino	a|gas|ta|[men]|to
+agastar	verbo	a|gas|[tar]
+agastável	adjetivo	a|gas|[tá]|vel
+agastria	nome feminino	a|gas|[tri]|a
+agástrico	adjetivo	a|[gás]|tri|co
+agasturas	nome feminino	a|gas|[tu]|ras
+ágata	nome feminino	[á]|ga|ta
+agatafunhar	verbo	a|ga|ta|fu|[nhar]
+agatanhadela	nome feminino	a|ga|ta|nha|[de]|la
+agatanhadura	nome feminino	a|ga|ta|nha|[du]|ra
+agatanhar	verbo	a|ga|ta|[nhar]
+agateado	adjetivo	a|ga|te|[a]|do
+agateia	nome feminino	a|ga|[tei]|a
+agatense	nome masculino	a|ga|[ten]|se
+agatense	adjetivo	a|ga|[ten]|se
+agatense	nome feminino	a|ga|[ten]|se
+agáteo	adjetivo	a|[gá]|te|o
+agati	nome masculino	a|ga|[ti]
+agatífero	adjetivo	a|ga|[tí]|fe|ro
+agatificar	verbo	a|ga|ti|fi|[car]
+agatinhar	verbo	a|ga|ti|[nhar]
+agatino	adjetivo	a|ga|[ti]|no
+agatino	nome masculino	a|ga|[ti]|no
+agatirso	adjetivo	a|ga|[tir]|so
+agatirso	nome masculino	a|ga|[tir]|so
+agatoide	adjetivo	a|ga|[toi]|de
+agatologia	nome feminino	a|ga|to|lo|[gi]|a
+agatológico	adjetivo	a|ga|to|[ló]|gi|co
+agatólogo	nome masculino	a|ga|[tó]|lo|go
+agatunado	adjetivo	a|ga|tu|[na]|do
+agatunar	verbo	a|ga|tu|[nar]
+agauchado	adjetivo	a|gau|[cha]|do
+agavácea	nome feminino	a|ga|[vá]|ce|a
+agave	nome feminino	a|[ga]|ve
+agavelar	verbo	a|ga|ve|[lar]
+agavetado	adjetivo	a|ga|ve|[ta]|do
+agavo	adjetivo	a|[ga]|vo
+agavo	nome masculino	a|[ga]|vo
+agazuado	adjetivo	a|ga|zu|[a]|do

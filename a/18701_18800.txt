@@ -1,0 +1,100 @@
+arregaçar	verbo	ar|re|ga|[çar]
+arregacha	nome feminino	ar|re|[ga]|cha
+arregaço	nome masculino	ar|re|[ga]|ço
+arregalado	adjetivo	ar|re|ga|[la]|do
+arregalar	verbo	ar|re|ga|[lar]
+arreganhada	nome feminino	ar|re|ga|[nha]|da
+arreganhado	adjetivo	ar|re|ga|[nha]|do
+arreganhamento	nome masculino	ar|re|ga|nha|[men]|to
+arreganhar	verbo	ar|re|ga|[nhar]
+arreganho	nome masculino	ar|re|[ga]|nho
+arregimentação	nome feminino	ar|re|gi|men|ta|[ção]
+arregimentado	adjetivo	ar|re|gi|men|[ta]|do
+arregimentador	adjetivo	ar|re|gi|men|ta|[dor]
+arregimentador	nome masculino	ar|re|gi|men|ta|[dor]
+arregimentar	verbo	ar|re|gi|men|[tar]
+arregimentável	adjetivo	ar|re|gi|men|[tá]|vel
+arregoar	verbo	ar|re|go|[ar]
+arregougado	adjetivo	ar|re|gou|[ga]|do
+arregrar	verbo	ar|re|[grar]
+arregueirar	verbo	ar|re|guei|[rar]
+arreguiço	nome masculino	ar|re|[gui]|ço
+arreguilar	verbo	ar|re|gui|[lar]
+arreia	nome feminino	ar|[rei]|a
+arreico	adjetivo	ar|[rei]|co
+arreigada	nome feminino	ar|rei|[ga]|da
+arreigadamente	advérbio	ar|rei|ga|da|[men]|te
+arreigado	adjetivo	ar|rei|[ga]|do
+arreigamento	nome masculino	ar|rei|ga|[men]|to
+arreigar	verbo	ar|rei|[gar]
+arreigável	adjetivo	ar|rei|[gá]|vel
+arreio	nome masculino	ar|[rei]|o
+arreitado	adjetivo	ar|rei|[ta]|do
+arreitamento	nome masculino	ar|rei|ta|[men]|to
+arreitar	verbo	ar|rei|[tar]
+arreiteta	nome feminino	ar|rei|[te]|ta
+arrejeitar	verbo	ar|re|jei|[tar]
+arrelampado	adjetivo	ar|re|lam|[pa]|do
+arrelampar	verbo	ar|re|lam|[par]
+arrelhada	nome feminino	ar|re|[lha]|da
+arrelhador	nome masculino	ar|re|lha|[dor]
+arrelhar	verbo	ar|re|[lhar]
+arrelia	nome feminino	ar|re|[li]|a
+arreliação	nome feminino	ar|re|li|a|[ção]
+arreliado	adjetivo	ar|re|li|[a]|do
+arreliador	nome masculino	ar|re|li|a|[dor]
+arreliador	adjetivo	ar|re|li|a|[dor]
+arreliadora	nome feminino	ar|re|li|a|[do]|ra
+arreliante	adjetivo	ar|re|li|[an]|te
+arreliar	verbo	ar|re|li|[ar]
+arreliativo	adjetivo	ar|re|li|a|[ti]|vo
+arreliável	adjetivo	ar|re|li|[á]|vel
+arreliento	adjetivo	ar|re|li|[en]|to
+arrelioso	adjetivo	ar|re|li|[o]|so
+arrelvar	verbo	ar|rel|[var]
+arremangar	verbo	ar|re|man|[gar]
+arremansar	verbo	ar|re|man|[sar]
+arrematação	nome feminino	ar|re|ma|ta|[ção]
+arrematado	adjetivo	ar|re|ma|[ta]|do
+arrematador	adjetivo	ar|re|ma|ta|[dor]
+arrematador	nome masculino	ar|re|ma|ta|[dor]
+arrematadora	nome feminino	ar|re|ma|ta|[do]|ra
+arrematante	adjetivo	ar|re|ma|[tan]|te
+arrematante	nome masculino	ar|re|ma|[tan]|te
+arrematante	nome feminino	ar|re|ma|[tan]|te
+arrematar	verbo	ar|re|ma|[tar]
+arrematável	adjetivo	ar|re|ma|[tá]|vel
+arremate	nome masculino	ar|re|[ma]|te
+arremeção	nome masculino	ar|re|me|[ção]
+arremedador	nome masculino	ar|re|me|da|[dor]
+arremedar	verbo	ar|re|me|[dar]
+arremedável	adjetivo	ar|re|me|[dá]|vel
+arremediar	verbo	ar|re|me|di|[ar]
+arremedilho	nome masculino	ar|re|me|[di]|lho
+arremedo	nome masculino	ar|re|[me]|do
+arremelgado	adjetivo	ar|re|mel|[ga]|do
+arremelgar	verbo	ar|re|mel|[gar]
+arremesquinhos	nome masculino	ar|re|mes|[qui]|nhos
+arremessadamente	advérbio	ar|re|mes|sa|da|[men]|te
+arremessado	adjetivo	ar|re|mes|[sa]|do
+arremessador	adjetivo	ar|re|mes|sa|[dor]
+arremessador	nome masculino	ar|re|mes|sa|[dor]
+arremessamento	nome masculino	ar|re|mes|sa|[men]|to
+arremessante	adjetivo	ar|re|mes|[san]|te
+arremessão	nome masculino	ar|re|mes|[são]
+arremessar	verbo	ar|re|mes|[sar]
+arremessável	adjetivo	ar|re|mes|[sá]|vel
+arremesso	nome masculino	ar|re|[mes]|so
+arremetedor	adjetivo	ar|re|me|te|[dor]
+arremetedor	nome masculino	ar|re|me|te|[dor]
+arremetedura	nome feminino	ar|re|me|te|[du]|ra
+arremetente	adjetivo	ar|re|me|[ten]|te
+arremetente	nome masculino	ar|re|me|[ten]|te
+arremetente	nome feminino	ar|re|me|[ten]|te
+arremeter	verbo	ar|re|me|[ter]
+arremetida	nome feminino	ar|re|me|[ti]|da
+arremetimento	nome masculino	ar|re|me|ti|[men]|to
+arreminação	nome feminino	ar|re|mi|na|[ção]
+arreminado	adjetivo	ar|re|mi|[na]|do
+arreminar	verbo	ar|re|mi|[nar]
+arrenátero	nome masculino	ar|re|[ná]|te|ro

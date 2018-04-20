@@ -1,0 +1,100 @@
+holópode	adjetivo	ho|[ló]|po|de
+holósido	nome masculino	ho|[ló]|si|do
+holósteo	adjetivo	ho|[lós]|te|o
+holóstomo	nome masculino	ho|[lós]|to|mo
+holótipo	nome masculino	ho|[ló]|ti|po
+holotomia	nome feminino	ho|lo|to|[mi]|a
+holotômico	adjetivo	ho|lo|[tô]|mi|co
+holotómico	adjetivo	ho|lo|[tó]|mi|co
+holotônico	adjetivo	ho|lo|[tô]|ni|co
+holotónico	adjetivo	ho|lo|[tó]|ni|co
+holótrico	adjetivo	ho|[ló]|tri|co
+holótrico	nome masculino	ho|[ló]|tri|co
+holotúria	nome feminino	ho|lo|[tú]|ri|a
+holoturídeo	nome masculino	ho|lo|tu|[rí]|de|o
+holoturioide	adjetivo	ho|lo|tu|ri|[oi]|de
+holoturioide	nome masculino	ho|lo|tu|ri|[oi]|de
+holozoico	adjetivo	ho|lo|[zoi]|co
+holozoico	nome masculino	ho|lo|[zoi]|co
+homalocéfalo	nome masculino	ho|ma|lo|[cé]|fa|lo
+homalofilo	adjetivo	ho|ma|lo|[fi]|lo
+homalográfico	adjetivo	ho|ma|lo|[grá]|fi|co
+homalógrafo	nome masculino	ho|ma|[ló]|gra|fo
+homaloidal	adjetivo	ho|ma|loi|[dal]
+homaloide	adjetivo	ho|ma|[loi]|de
+homalópode	adjetivo	ho|ma|[ló]|po|de
+homalópode	nome masculino	ho|ma|[ló]|po|de
+homalóptero	nome masculino	ho|ma|[lóp]|te|ro
+homana	nome masculino	ho|[ma]|na
+homba	nome feminino	[hom]|ba
+hombo	nome masculino	[hom]|bo
+hombridade	nome feminino	hom|bri|[da]|de
+homem	nome masculino	[ho]|mem
+homem	interjeição	[ho]|mem
+homem-bom	nome masculino	ho|mem-bom
+homem-galinha	nome masculino	ho|mem-ga|[li]|nha
+homem-hora	nome masculino	ho|mem-ho|ra
+homem-máquina	nome masculino	ho|mem-má|qui|na
+homem-rã	nome masculino	ho|mem-rã
+homenageada	nome feminino	ho|me|na|ge|[a]|da
+homenageado	adjetivo	ho|me|na|ge|[a]|do
+homenageado	nome masculino	ho|me|na|ge|[a]|do
+homenageador	adjetivo	ho|me|na|ge|a|[dor]
+homenageador	nome masculino	ho|me|na|ge|a|[dor]
+homenageante	adjetivo	ho|me|na|ge|[an]|te
+homenageante	nome masculino	ho|me|na|ge|[an]|te
+homenageante	nome feminino	ho|me|na|ge|[an]|te
+homenagear	verbo	ho|me|na|ge|[ar]
+homenagem	nome feminino	ho|me|[na]|gem
+homenzarrão	nome masculino	ho|men|zar|[rão]
+homenzinho	nome masculino	ho|men|[zi]|nho
+homeocataléctico	adjetivo	ho|me|o|ca|ta|[léc]|ti|co
+homeocatalecto	nome masculino	ho|me|o|ca|ta|[lec]|to
+homeocatalético	adjetivo	ho|me|o|ca|ta|[lé]|ti|co
+homeocataleto	nome masculino	ho|me|o|ca|ta|[le]|to
+homeocatalexia	nome feminino	ho|me|o|ca|ta|le|[xi]|a
+homeografia	nome feminino	ho|me|o|gra|[fi]|a
+homeográfico	adjetivo	ho|me|o|[grá]|fi|co
+homeógrafo	nome masculino	ho|me|[ó]|gra|fo
+homeómere	adjetivo	ho|me|[ó]|me|re
+homeomeria	nome feminino	ho|me|o|me|[ri]|a
+homeômero	adjetivo	ho|me|[ô]|me|ro
+homeómero	adjetivo	ho|me|[ó]|me|ro
+homeomerologia	nome feminino	ho|me|o|me|ro|lo|[gi]|a
+homeomerológico	adjetivo	ho|me|o|me|ro|[ló]|gi|co
+homeomorfismo	nome masculino	ho|me|o|mor|[fis]|mo
+homeomorfo	adjetivo	ho|me|o|[mor]|fo
+homeopata	nome masculino	ho|me|o|[pa]|ta
+homeopata	nome feminino	ho|me|o|[pa]|ta
+homeopatia	nome feminino	ho|me|o|pa|[ti]|a
+homeopático	adjetivo	ho|me|o|[pá]|ti|co
+homeoptoto	nome masculino	ho|me|op|[to]|to
+homeoptoto	adjetivo	ho|me|op|[to]|to
+homeoptóton	adjetivo	ho|me|op|[tó]|ton
+homeoptóton	nome masculino	ho|me|op|[tó]|ton
+homeose	nome feminino	ho|me|[o]|se
+homeostasia	nome feminino	ho|me|os|ta|[si]|a
+homeostático	adjetivo	ho|me|os|[tá]|ti|co
+homeoteleuto	nome masculino	ho|me|o|te|[leu]|to
+homeotelêuton	nome masculino	ho|me|o|te|[lêu]|ton
+homeotermia	nome feminino	ho|me|o|ter|[mi]|a
+homeotérmico	adjetivo	ho|me|o|[tér]|mi|co
+homeotermo	adjetivo	ho|me|o|[ter]|mo
+homeotropia	nome feminino	ho|me|o|tro|[pi]|a
+homeotrópico	adjetivo	ho|me|o|[tró]|pi|co
+homeótropo	adjetivo	ho|me|[ó]|tro|po
+homeozigia	nome feminino	ho|me|o|zi|[gi]|a
+homeozoico	adjetivo	ho|me|o|[zoi]|co
+homericamente	advérbio	ho|me|ri|ca|[men]|te
+homericidade	nome feminino	ho|me|ri|ci|[da]|de
+homericismo	nome masculino	ho|me|ri|[cis]|mo
+homérico	adjetivo	ho|[mé]|ri|co
+homérico	nome masculino	ho|[mé]|ri|co
+homérida	nome masculino	ho|[mé]|ri|da
+homerismo	nome masculino	ho|me|[ris]|mo
+homerização	nome feminino	ho|me|ri|za|[ção]
+homerizar	verbo	ho|me|ri|[zar]
+homessa	interjeição	ho|[mes]|sa
+homicida	adjetivo	ho|mi|[ci]|da
+homicida	nome masculino	ho|mi|[ci]|da
+homicida	nome feminino	ho|mi|[ci]|da

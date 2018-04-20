@@ -1,0 +1,100 @@
+infiel	adjetivo	in|fi|[el]
+infiel	nome feminino	in|fi|[el]
+infielmente	advérbio	in|fi|el|[men]|te
+infiltração	nome feminino	in|fil|tra|[ção]
+infiltrado	nome masculino	in|fil|[tra]|do
+infiltrador	adjetivo	in|fil|tra|[dor]
+infiltrador	nome masculino	in|fil|tra|[dor]
+infiltramento	nome masculino	in|fil|tra|[men]|to
+infiltrar	verbo	in|fil|[trar]
+infiltrativo	adjetivo	in|fil|tra|[ti]|vo
+infiltrável	adjetivo	in|fil|[trá]|vel
+infimidade	nome feminino	in|fi|mi|[da]|de
+ínfimo	adjetivo	[ín]|fi|mo
+ínfimo	nome masculino	[ín]|fi|mo
+infindamente	advérbio	in|fin|da|[men]|te
+infindável	adjetivo	in|fin|[dá]|vel
+infindavelmente	advérbio	in|fin|da|vel|[men]|te
+infindo	adjetivo	in|[fin]|do
+infinidade	nome feminino	in|fi|ni|[da]|de
+infinitamente	advérbio	in|fi|ni|ta|[men]|te
+infinitésima	nome feminino	in|fi|ni|[té]|si|ma
+infinitesimal	adjetivo	in|fi|ni|te|si|[mal]
+infinitesimalmente	advérbio	in|fi|ni|te|si|mal|[men]|te
+infinitésimo	nome masculino	in|fi|ni|[té]|si|mo
+infinitésimo	adjetivo	in|fi|ni|[té]|si|mo
+infinitismo	nome masculino	in|fi|ni|[tis]|mo
+infinitista	adjetivo	in|fi|ni|[tis]|ta
+infinitista	nome masculino	in|fi|ni|[tis]|ta
+infinitista	nome feminino	in|fi|ni|[tis]|ta
+infinitivo	nome masculino	in|fi|ni|[ti]|vo
+infinitivo	adjetivo	in|fi|ni|[ti]|vo
+infinito	adjetivo	in|fi|[ni]|to
+infinito	nome masculino	in|fi|[ni]|to
+infinitovismo	nome masculino	in|fi|ni|to|[vis]|mo
+infinitovista	adjetivo	in|fi|ni|to|[vis]|ta
+infinitovista	nome masculino	in|fi|ni|to|[vis]|ta
+infinitovista	nome feminino	in|fi|ni|to|[vis]|ta
+infirmar	verbo	in|fir|[mar]
+infirmativo	adjetivo	in|fir|ma|[ti]|vo
+infirmável	adjetivo	in|fir|[má]|vel
+infirme	adjetivo	in|[fir]|me
+infirmidade	nome feminino	in|fir|mi|[da]|de
+infixação	nome feminino	in|fi|xa|[ção]
+infixar	verbo	in|fi|[xar]
+infixável	adjetivo	in|fi|[xá]|vel
+infixidez	nome feminino	in|fi|xi|[dez]
+infixo	nome masculino	in|[fi]|xo
+infixo	adjetivo	in|[fi]|xo
+inflação	nome feminino	in|fla|[ção]
+inflacionado	adjetivo	in|fla|ci|o|[na]|do
+inflacional	adjetivo	in|fla|ci|o|[nal]
+inflacionamento	nome masculino	in|fla|ci|o|na|[men]|to
+inflacionante	adjetivo	in|fla|ci|o|[nan]|te
+inflacionar	verbo	in|fla|ci|o|[nar]
+inflacionário	adjetivo	in|fla|ci|o|[ná]|ri|o
+inflacionável	adjetivo	in|fla|ci|o|[ná]|vel
+inflacionismo	nome masculino	in|fla|ci|o|[nis]|mo
+inflacionista	nome masculino	in|fla|ci|o|[nis]|ta
+inflacionista	adjetivo	in|fla|ci|o|[nis]|ta
+inflacionista	nome feminino	in|fla|ci|o|[nis]|ta
+inflado	adjetivo	in|[fla]|do
+inflador	adjetivo	in|fla|[dor]
+inflador	nome masculino	in|fla|[dor]
+inflamabilidade	nome feminino	in|fla|ma|bi|li|[da]|de
+inflamação	nome feminino	in|fla|ma|[ção]
+inflamadamente	advérbio	in|fla|ma|da|[men]|te
+inflamado	adjetivo	in|fla|[ma]|do
+inflamador	adjetivo	in|fla|ma|[dor]
+inflamador	nome masculino	in|fla|ma|[dor]
+inflamante	adjetivo	in|fla|[man]|te
+inflamar	verbo	in|fla|[mar]
+inflamativo	adjetivo	in|fla|ma|[ti]|vo
+inflamatório	adjetivo	in|fla|ma|[tó]|ri|o
+inflamável	adjetivo	in|fla|[má]|vel
+inflar	verbo	in|[flar]
+inflativo	adjetivo	in|fla|[ti]|vo
+inflatório	adjetivo	in|fla|[tó]|ri|o
+inflável	adjetivo	in|[flá]|vel
+inflectir	verbo	in|flec|[tir]
+infletir	verbo	in|fle|[tir]
+inflexão	nome feminino	in|fle|[xão]
+inflexibilidade	nome feminino	in|fle|xi|bi|li|[da]|de
+inflexionar	verbo	in|fle|xi|o|[nar]
+inflexível	adjetivo	in|fle|[xí]|vel
+inflexivelmente	advérbio	in|fle|xi|vel|[men]|te
+inflexivo	adjetivo	in|fle|[xi]|vo
+inflexo	adjetivo	in|[fle]|xo
+inflição	nome feminino	in|fli|[ção]
+inflicção	nome feminino	in|flic|[ção]
+infligidor	adjetivo	in|fli|gi|[dor]
+infligidor	nome masculino	in|fli|gi|[dor]
+infligir	verbo	in|fli|[gir]
+inflorescência	nome feminino	in|flo|res|[cên]|ci|a
+inflorescente	adjetivo	in|flo|res|[cen]|te
+influença	nome feminino	in|flu|[en]|ça
+influência	nome feminino	in|flu|[ên]|ci|a
+influenciação	nome feminino	in|flu|en|ci|a|[ção]
+influenciador	adjetivo	in|flu|en|ci|a|[dor]
+influenciador	nome masculino	in|flu|en|ci|a|[dor]
+influenciadora	nome feminino	in|flu|en|ci|a|[do]|ra

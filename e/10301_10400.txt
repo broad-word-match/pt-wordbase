@@ -1,0 +1,100 @@
+esqualeno	nome masculino	es|qua|[le]|no
+esquálida	nome feminino	es|[quá]|li|da
+esqualídeo	nome masculino	es|qua|[lí]|de|o
+esqualídeo	adjetivo	es|qua|[lí]|de|o
+esqualidez	nome feminino	es|qua|li|[dez]
+esquálido	adjetivo	es|[quá]|li|do
+esqualo	nome masculino	es|[qua]|lo
+esqualor	nome masculino	es|qua|[lor]
+esquamipene	nome masculino	es|qua|mi|[pe]|ne
+esquamodermo	nome masculino	es|qua|mo|[der]|mo
+esquarroso	adjetivo	es|quar|[ro]|so
+esquartejado	adjetivo	es|quar|te|[ja]|do
+esquartejador	adjetivo	es|quar|te|ja|[dor]
+esquartejador	nome masculino	es|quar|te|ja|[dor]
+esquartejadora	nome feminino	es|quar|te|ja|[do]|ra
+esquartejadouro	nome masculino	es|quar|te|ja|[dou]|ro
+esquartejamento	nome masculino	es|quar|te|ja|[men]|to
+esquartejar	verbo	es|quar|te|[jar]
+esquartejo	nome masculino	es|quar|[te]|jo
+esquarteladura	nome feminino	es|quar|te|la|[du]|ra
+esquartelamento	nome masculino	es|quar|te|la|[men]|to
+esquartelar	verbo	es|quar|te|[lar]
+esquartilhar	verbo	es|quar|ti|[lhar]
+esquatina	nome feminino	es|qua|[ti]|na
+esquatinídeo	nome masculino	es|qua|ti|[ní]|de|o
+esquebra	nome feminino	es|[que]|bra
+esquecediço	adjetivo	es|que|ce|[di]|ço
+esquecedor	adjetivo	es|que|ce|[dor]
+esquecedor	nome masculino	es|que|ce|[dor]
+esquecer	verbo	es|que|[cer]
+esquecida	nome feminino	es|que|[ci]|da
+esquecido	adjetivo	es|que|[ci]|do
+esquecido	nome masculino	es|que|[ci]|do
+esquecimento	nome masculino	es|que|ci|[men]|to
+esquecível	adjetivo	es|que|[cí]|vel
+esqueletal	adjetivo	es|que|le|[tal]
+esqueleticamente	advérbio	es|que|le|ti|ca|[men]|te
+esquelético	adjetivo	es|que|[lé]|ti|co
+esqueleto	nome masculino	es|que|[le]|to
+esqueletologia	nome feminino	es|que|le|to|lo|[gi]|a
+esqueletológico	adjetivo	es|que|le|to|[ló]|gi|co
+esqueletologista	nome masculino	es|que|le|to|lo|[gis]|ta
+esqueletologista	nome feminino	es|que|le|to|lo|[gis]|ta
+esqueletólogo	nome masculino	es|que|le|[tó]|lo|go
+esquema	nome masculino	es|[que]|ma
+esquematicamente	advérbio	es|que|ma|ti|ca|[men]|te
+esquemático	adjetivo	es|que|[má]|ti|co
+esquematismo	nome masculino	es|que|ma|[tis]|mo
+esquematização	nome feminino	es|que|ma|ti|za|[ção]
+esquematizador	adjetivo	es|que|ma|ti|za|[dor]
+esquematizar	verbo	es|que|ma|ti|[zar]
+esquematográfico	adjetivo	es|que|ma|to|[grá]|fi|co
+esquematógrafo	nome masculino	es|que|ma|[tó]|gra|fo
+esquenanto	nome masculino	es|que|[nan]|to
+esquenta	nome feminino	es|[quen]|ta
+esquentação	nome feminino	es|quen|ta|[ção]
+esquentada	nome feminino	es|quen|[ta]|da
+esquentadiço	adjetivo	es|quen|ta|[di]|ço
+esquentado	adjetivo	es|quen|[ta]|do
+esquentador	nome masculino	es|quen|ta|[dor]
+esquentador	adjetivo	es|quen|ta|[dor]
+esquentamento	nome masculino	es|quen|ta|[men]|to
+esquentar	verbo	es|quen|[tar]
+esquentável	adjetivo	es|quen|[tá]|vel
+esquerda	nome feminino	es|[quer]|da
+esquerdar	verbo	es|quer|[dar]
+esquerdear	verbo	es|quer|de|[ar]
+esquerdino	adjetivo	es|quer|[di]|no
+esquerdismo	nome masculino	es|quer|[dis]|mo
+esquerdista	nome masculino	es|quer|[dis]|ta
+esquerdista	adjetivo	es|quer|[dis]|ta
+esquerdista	nome feminino	es|quer|[dis]|ta
+esquerdo	adjetivo	es|[quer]|do
+esqui	nome masculino	es|[qui]
+esquia	nome feminino	es|[qui]|a
+esquiação	nome feminino	es|qui|a|[ção]
+esquiador	nome masculino	es|qui|a|[dor]
+esquiar	verbo	es|qui|[ar]
+esquiça	nome feminino	es|[qui]|ça
+esquiçar	verbo	es|qui|[çar]
+esquiço	nome masculino	es|[qui]|ço
+esquifado	adjetivo	es|qui|[fa]|do
+esquifamento	nome masculino	es|qui|fa|[men]|to
+esquifar	verbo	es|qui|[far]
+esquife	nome masculino	es|[qui]|fe
+esquila	nome feminino	es|[qui]|la
+esquilão	nome masculino	es|qui|[lão]
+esquilar	verbo	es|qui|[lar]
+esquilha	nome feminino	es|[qui]|lha
+esquiliano	adjetivo	es|qui|li|[a]|no
+esquilo	nome masculino	es|[qui]|lo
+esquimó	adjetivo	es|qui|[mó]
+esquimó	nome masculino	es|qui|[mó]
+esquimó	nome feminino	es|qui|[mó]
+esquina	nome feminino	es|[qui]|na
+esquinado	adjetivo	es|qui|[na]|do
+esquinal	adjetivo	es|qui|[nal]
+esquinante	adjetivo	es|qui|[nan]|te
+esquinante	nome masculino	es|qui|[nan]|te
+esquinar	verbo	es|qui|[nar]

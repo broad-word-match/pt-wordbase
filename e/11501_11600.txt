@@ -1,0 +1,100 @@
+estômato	nome masculino	es|[tô]|ma|to
+estómato	nome masculino	es|[tó]|ma|to
+estomatologia	nome feminino	es|to|ma|to|lo|[gi]|a
+estomatológico	adjetivo	es|to|ma|to|[ló]|gi|co
+estomatologista	nome masculino	es|to|ma|to|lo|[gis]|ta
+estomatologista	nome feminino	es|to|ma|to|lo|[gis]|ta
+estomatólogo	nome masculino	es|to|ma|[tó]|lo|go
+estomatomicose	nome feminino	es|to|ma|to|mi|[co]|se
+estomatópode	adjetivo	es|to|ma|[tó]|po|de
+estomatópode	nome masculino	es|to|ma|[tó]|po|de
+estomatoscópico	adjetivo	es|to|ma|tos|[có]|pi|co
+estomatoscópio	nome masculino	es|to|ma|tos|[có]|pi|o
+estomentar	verbo	es|to|men|[tar]
+estomoterapeuta	nome masculino	es|to|mo|te|ra|[peu]|ta
+estomoterapeuta	nome feminino	es|to|mo|te|ra|[peu]|ta
+estona	nome feminino	es|[to]|na
+estonador	nome masculino	es|to|na|[dor]
+estonadura	nome feminino	es|to|na|[du]|ra
+estonamento	nome masculino	es|to|na|[men]|to
+estonar	verbo	es|to|[nar]
+estónia	nome feminino	es|[tó]|ni|a
+estoniana	nome feminino	es|to|ni|[a]|na
+estoniano	adjetivo	es|to|ni|[a]|no
+estoniano	nome masculino	es|to|ni|[a]|no
+estónico	nome masculino	es|[tó]|ni|co
+estónico	adjetivo	es|[tó]|ni|co
+estônico	adjetivo	es|[tô]|ni|co
+estônico	nome masculino	es|[tô]|ni|co
+estónio	nome masculino	es|[tó]|ni|o
+estónio	adjetivo	es|[tó]|ni|o
+estônio	adjetivo	es|[tô]|ni|o
+estônio	nome masculino	es|[tô]|ni|o
+estontar	verbo	es|ton|[tar]
+estonteação	nome feminino	es|ton|te|a|[ção]
+estonteada	nome feminino	es|ton|te|[a]|da
+estonteado	nome masculino	es|ton|te|[a]|do
+estonteado	adjetivo	es|ton|te|[a]|do
+estonteador	adjetivo	es|ton|te|a|[dor]
+estonteamento	nome masculino	es|ton|te|a|[men]|to
+estonteante	adjetivo	es|ton|te|[an]|te
+estontear	verbo	es|ton|te|[ar]
+estontecer	verbo	es|ton|te|[cer]
+estopa	nome feminino	es|[to]|pa
+estopa-boi	nome masculino	es|to|pa-boi
+estopada	nome feminino	es|to|[pa]|da
+estopador	adjetivo	es|to|pa|[dor]
+estopador	nome masculino	es|to|pa|[dor]
+estopante	adjetivo	es|to|[pan]|te
+estopão	nome masculino	es|to|[pão]
+estopar	adjetivo	es|to|[par]
+estopar	verbo	es|to|[par]
+estopeiro	nome masculino	es|to|[pei]|ro
+estopento	adjetivo	es|to|[pen]|to
+estopeta	nome feminino	es|to|[pe]|ta
+estopetar	verbo	es|to|pe|[tar]
+estopim	nome masculino	es|to|[pim]
+estopinha	nome feminino	es|to|[pi]|nha
+estoposo	adjetivo	es|to|[po]|so
+estoque	nome masculino	es|[to]|que
+estoqueadura	nome feminino	es|to|que|a|[du]|ra
+estoquear	verbo	es|to|que|[ar]
+estoqueio	nome masculino	es|to|[quei]|o
+estoraque	nome masculino	es|to|[ra]|que
+estoraque	nome feminino	es|to|[ra]|que
+estorcegadela	nome feminino	es|tor|ce|ga|[de]|la
+estorcegadura	nome feminino	es|tor|ce|ga|[du]|ra
+estorcegão	nome masculino	es|tor|ce|[gão]
+estorcegar	verbo	es|tor|ce|[gar]
+estorcer	verbo	es|tor|[cer]
+estorcicar	verbo	es|tor|ci|[car]
+estorcimento	nome masculino	es|tor|ci|[men]|to
+estorço	nome masculino	es|[tor]|ço
+estore	nome masculino	es|to|re
+estorga	nome feminino	es|[tor]|ga
+estorgada	nome feminino	es|tor|[ga]|da
+estória	nome feminino	es|[tó]|ri|a
+estornado	adjetivo	es|tor|[na]|do
+estornar	verbo	es|tor|[nar]
+estornicada	nome feminino	es|tor|ni|[ca]|da
+estornicar	verbo	es|tor|ni|[car]
+estornídeo	nome masculino	es|tor|[ní]|de|o
+estorninho	nome masculino	es|tor|[ni]|nho
+estorninho	adjetivo	es|tor|[ni]|nho
+estorno	nome masculino	es|[tor]|no
+estorrejar	verbo	es|tor|re|[jar]
+estorricado	adjetivo	es|tor|ri|[ca]|do
+estorricamento	nome masculino	es|tor|ri|ca|[men]|to
+estorricar	verbo	es|tor|ri|[car]
+estorroar	verbo	es|tor|ro|[ar]
+estortegada	nome feminino	es|tor|te|[ga]|da
+estortegadela	nome feminino	es|tor|te|ga|[de]|la
+estortegadura	nome feminino	es|tor|te|ga|[du]|ra
+estortegar	verbo	es|tor|te|[gar]
+estorturar	verbo	es|tor|tu|[rar]
+estorva	nome feminino	es|[tor]|va
+estorvador	adjetivo	es|tor|va|[dor]
+estorvador	nome masculino	es|tor|va|[dor]
+estorvamento	nome masculino	es|tor|va|[men]|to
+estorvante	adjetivo	es|tor|[van]|te
+estorvar	verbo	es|tor|[var]

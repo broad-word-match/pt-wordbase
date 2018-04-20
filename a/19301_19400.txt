@@ -1,0 +1,100 @@
+artigalho	nome masculino	ar|ti|[ga]|lho
+artigo	nome masculino	ar|[ti]|go
+artigueiro	nome masculino	ar|ti|[guei]|ro
+artiguelho	nome masculino	ar|ti|[gue]|lho
+artiguete	nome masculino	ar|ti|[gue]|te
+artilhado	adjetivo	ar|ti|[lha]|do
+artilhamento	nome masculino	ar|ti|lha|[men]|to
+artilhar	verbo	ar|ti|[lhar]
+artilharia	nome feminino	ar|ti|lha|[ri]|a
+artilheira	nome feminino	ar|ti|[lhei]|ra
+artilheiro	nome masculino	ar|ti|[lhei]|ro
+artilheiro	adjetivo	ar|ti|[lhei]|ro
+artilheria	nome feminino	ar|ti|lhe|[ri]|a
+artimanha	nome feminino	ar|ti|[ma]|nha
+artimanhoso	adjetivo	ar|ti|ma|[nho]|so
+artimão	nome masculino	ar|ti|[mão]
+artingraxa	nome masculino	ar|tin|[gra]|xa
+artiodáctilo	adjetivo	ar|ti|o|[dác]|ti|lo
+artiodáctilo	nome masculino	ar|ti|o|[dác]|ti|lo
+artiodátilo	adjetivo	ar|ti|o|[dá]|ti|lo
+artiodátilo	nome masculino	ar|ti|o|[dá]|ti|lo
+artiozoário	adjetivo	ar|ti|o|zo|[á]|ri|o
+artiozoário	nome masculino	ar|ti|o|zo|[á]|ri|o
+artista	nome masculino	ar|[tis]|ta
+artista	adjetivo	ar|[tis]|ta
+artista	nome feminino	ar|[tis]|ta
+artisticamente	advérbio	ar|tis|ti|ca|[men]|te
+artístico	adjetivo	ar|[tís]|ti|co
+artístico-cultural	adjetivo	ar|tís|ti|co-cul|tu|[ral]
+artocarpácea	nome feminino	ar|to|car|[pá]|ce|a
+artocarpo	nome masculino	ar|to|[car]|po
+artócopo	nome masculino	ar|[tó]|co|po
+artófago	adjetivo	ar|[tó]|fa|go
+artófago	nome masculino	ar|[tó]|fa|go
+artóforo	nome masculino	ar|[tó]|fo|ro
+artola	nome masculino	ar|[to]|la
+artola	nome feminino	ar|[to]|la
+artola	adjetivo	ar|[to]|la
+artolar	verbo	ar|to|[lar]
+artolas	nome masculino	ar|[to]|las
+artólatra	nome masculino	ar|[tó]|la|tra
+artólatra	nome feminino	ar|[tó]|la|tra
+artólatra	adjetivo	ar|[tó]|la|tra
+artolatria	nome feminino	ar|to|la|[tri]|a
+artolátrico	adjetivo	ar|to|[lá]|tri|co
+artolice	nome feminino	ar|to|[li]|ce
+artólito	nome masculino	ar|[tó]|li|to
+artomel	nome masculino	ar|to|[mel]
+artonomia	nome feminino	ar|to|no|[mi]|a
+artonômico	adjetivo	ar|to|[nô]|mi|co
+artonómico	adjetivo	ar|to|[nó]|mi|co
+artopta	nome masculino	ar|[top]|ta
+artotirita	adjetivo	ar|to|ti|[ri]|ta
+artotirita	nome masculino	ar|to|ti|[ri]|ta
+artotirita	nome feminino	ar|to|ti|[ri]|ta
+artralgia	nome feminino	ar|tral|[gi]|a
+artrálgico	adjetivo	ar|[trál]|gi|co
+artrectomia	nome feminino	ar|trec|to|[mi]|a
+artrectómico	adjetivo	ar|trec|[tó]|mi|co
+artrectômico	adjetivo	ar|trec|[tô]|mi|co
+artrite	nome feminino	ar|[tri]|te
+artrítica	nome feminino	ar|[trí]|ti|ca
+artrítico	nome masculino	ar|[trí]|ti|co
+artrítico	adjetivo	ar|[trí]|ti|co
+artritismo	nome masculino	ar|tri|[tis]|mo
+artrobrânquia	nome feminino	ar|tro|[brân]|qui|a
+artrocéfalo	adjetivo	ar|tro|[cé]|fa|lo
+artrocele	nome feminino	ar|tro|[ce]|le
+artródia	nome feminino	ar|[tró]|di|a
+artrodial	adjetivo	ar|tro|di|[al]
+artrodinia	nome feminino	ar|tro|di|[ni]|a
+artrografia	nome feminino	ar|tro|gra|[fi]|a
+artrográfico	adjetivo	ar|tro|[grá]|fi|co
+artróidea	nome feminino	ar|[trói]|de|a
+artróideo	nome masculino	ar|[trói]|de|o
+artrologia	nome feminino	ar|tro|lo|[gi]|a
+artrológico	adjetivo	ar|tro|[ló]|gi|co
+artrologista	nome masculino	ar|tro|lo|[gis]|ta
+artrologista	nome feminino	ar|tro|lo|[gis]|ta
+artrólogo	nome masculino	ar|[tró]|lo|go
+artromérico	adjetivo	ar|tro|[mé]|ri|co
+artrômero	nome masculino	ar|[trô]|me|ro
+artrómero	nome masculino	ar|[tró]|me|ro
+artropatia	nome feminino	ar|tro|pa|[ti]|a
+artropático	adjetivo	ar|tro|[pá]|ti|co
+artropiose	nome feminino	ar|tro|pi|[o]|se
+artrópode	nome masculino	ar|[tró]|po|de
+artrópode	adjetivo	ar|[tró]|po|de
+artropogão	nome masculino	ar|tro|po|[gão]
+artroscopia	nome feminino	ar|tros|co|[pi]|a
+artroscópico	adjetivo	ar|tros|[có]|pi|co
+artroscópio	nome masculino	ar|tros|[có]|pi|o
+artrose	nome feminino	ar|[tro]|se
+artrotomia	nome feminino	ar|tro|to|[mi]|a
+artrozoário	nome masculino	ar|tro|zo|[á]|ri|o
+artrozoário	adjetivo	ar|tro|zo|[á]|ri|o
+arturiano	adjetivo	ar|tu|ri|[a]|no
+aru	nome masculino	a|[ru]
+aruã	adjetivo	a|ru|[ã]
+aruá	nome masculino	a|ru|[á]

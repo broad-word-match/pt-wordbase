@@ -1,0 +1,100 @@
+galopim	nome masculino	ga|lo|[pim]
+galopinagem	nome feminino	ga|lo|pi|[na]|gem
+galopinar	verbo	ga|lo|pi|[nar]
+galpão	nome masculino	gal|[pão]
+galra	nome feminino	[gal]|ra
+galracho	nome masculino	gal|[ra]|cho
+galrão	adjetivo	gal|[rão]
+galrão	nome masculino	gal|[rão]
+galrar	verbo	gal|[rar]
+galreador	adjetivo	gal|re|a|[dor]
+galreador	nome masculino	gal|re|a|[dor]
+galreadora	nome feminino	gal|re|a|[do]|ra
+galrear	verbo	gal|re|[ar]
+galreio	nome masculino	gal|[rei]|o
+galreiro	adjetivo	gal|[rei]|ro
+galrejador	adjetivo	gal|re|ja|[dor]
+galrejador	nome masculino	gal|re|ja|[dor]
+galrejar	verbo	gal|re|[jar]
+galricho	nome masculino	gal|[ri]|cho
+galriço	nome masculino	gal|[ri]|ço
+galripa	nome feminino	gal|[ri]|pa
+galripas	nome feminino	gal|[ri]|pas
+galripo	nome masculino	gal|[ri]|po
+galrito	nome masculino	gal|[ri]|to
+galuchada	nome feminino	ga|lu|[cha]|da
+galucho	nome masculino	ga|[lu]|cho
+galula	nome feminino	ga|[lu]|la
+galúmpio	nome masculino	ga|[lúm]|pi|o
+galvânico	adjetivo	gal|[vâ]|ni|co
+galvanismo	nome masculino	gal|va|[nis]|mo
+galvanização	nome feminino	gal|va|ni|za|[ção]
+galvanizado	adjetivo	gal|va|ni|[za]|do
+galvanizador	adjetivo	gal|va|ni|za|[dor]
+galvanizador	nome masculino	gal|va|ni|za|[dor]
+galvanizadora	nome feminino	gal|va|ni|za|[do]|ra
+galvanizagem	nome feminino	gal|va|ni|[za]|gem
+galvanizante	adjetivo	gal|va|ni|[zan]|te
+galvanizar	verbo	gal|va|ni|[zar]
+galvanizável	adjetivo	gal|va|ni|[zá]|vel
+galvanocáustica	nome feminino	gal|va|no|[cáus]|ti|ca
+galvanocáustico	adjetivo	gal|va|no|[cáus]|ti|co
+galvanocautério	nome masculino	gal|va|no|cau|[té]|ri|o
+galvanocauterização	nome feminino	gal|va|no|cau|te|ri|za|[ção]
+galvanocauterizar	verbo	gal|va|no|cau|te|ri|[zar]
+galvanoglifia	nome feminino	gal|va|no|gli|[fi]|a
+galvanoglífico	adjetivo	gal|va|no|[glí]|fi|co
+galvanografia	nome feminino	gal|va|no|gra|[fi]|a
+galvanográfico	adjetivo	gal|va|no|[grá]|fi|co
+galvanogravura	nome feminino	gal|va|no|gra|[vu]|ra
+galvanólise	nome feminino	gal|va|[nó]|li|se
+galvanolítico	adjetivo	gal|va|no|[lí]|ti|co
+galvanoluminescência	nome feminino	gal|va|no|lu|mi|nes|[cên]|ci|a
+galvanomagnético	adjetivo	gal|va|no|mag|[né]|ti|co
+galvanomagnetismo	nome masculino	gal|va|no|mag|ne|[tis]|mo
+galvanometria	nome feminino	gal|va|no|me|[tri]|a
+galvanométrico	adjetivo	gal|va|no|[mé]|tri|co
+galvanómetro	nome masculino	gal|va|[nó]|me|tro
+galvanômetro	nome masculino	gal|va|[nô]|me|tro
+galvanoplastia	nome feminino	gal|va|no|plas|[ti]|a
+galvanoplástica	nome feminino	gal|va|no|[plás]|ti|ca
+galvanoplástico	adjetivo	gal|va|no|[plás]|ti|co
+galvanopunctura	nome feminino	gal|va|no|punc|[tu]|ra
+galvanopuntura	nome feminino	gal|va|no|pun|[tu]|ra
+galvanoscópico	adjetivo	gal|va|nos|[có]|pi|co
+galvanoscópio	nome masculino	gal|va|nos|[có]|pi|o
+galvanostegia	nome feminino	gal|va|nos|te|[gi]|a
+galvanotáctico	adjetivo	gal|va|no|[tác]|ti|co
+galvanotático	adjetivo	gal|va|no|[tá]|ti|co
+galvanotaxia	nome feminino	gal|va|no|ta|[xi]|a
+galvanoterapia	nome feminino	gal|va|no|te|ra|[pi]|a
+galvanoterápico	adjetivo	gal|va|no|te|[rá]|pi|co
+galvanotipar	verbo	gal|va|no|ti|[par]
+galvanotipia	nome feminino	gal|va|no|ti|[pi]|a
+galvanotípico	adjetivo	gal|va|no|[tí]|pi|co
+galvanotropia	nome feminino	gal|va|no|tro|[pi]|a
+galvanotrópico	adjetivo	gal|va|no|[tró]|pi|co
+galvanotropismo	nome masculino	gal|va|no|tro|[pis]|mo
+galveta	nome feminino	gal|[ve]|ta
+gama	nome masculino	[ga]|ma
+gama	nome feminino	[ga]|ma
+gamacismo	nome masculino	ga|ma|[cis]|mo
+gamado	adjetivo	ga|[ma]|do
+gamaglobulina	nome feminino	ga|ma|glo|bu|[li]|na
+gamagrafia	nome feminino	ga|ma|gra|[fi]|a
+gamagráfico	adjetivo	ga|ma|[grá]|fi|co
+gamanço	nome masculino	ga|[man]|ço
+gamão	nome masculino	ga|[mão]
+gamar	verbo	ga|[mar]
+gamarografia	nome feminino	ga|ma|ro|gra|[fi]|a
+gamarográfico	adjetivo	ga|ma|ro|[grá]|fi|co
+gamarógrafo	nome masculino	ga|ma|[ró]|gra|fo
+gamarólito	nome masculino	ga|ma|[ró]|li|to
+gamarologia	nome feminino	ga|ma|ro|lo|[gi]|a
+gamarológico	adjetivo	ga|ma|ro|[ló]|gi|co
+gamarólogo	nome masculino	ga|ma|[ró]|lo|go
+gamarra	nome feminino	ga|[mar]|ra
+gamarrilha	nome feminino	ga|mar|[ri]|lha
+gamba	nome feminino	[gam]|ba
+gambá	nome masculino	gam|[bá]
+gambadonas	nome feminino	gam|ba|[do]|nas

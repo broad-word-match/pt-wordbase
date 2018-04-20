@@ -1,0 +1,100 @@
+arquigeronte	nome masculino	ar|qui|ge|[ron]|te
+arquilaúde	nome masculino	ar|qui|la|[ú]|de
+arquilevita	nome masculino	ar|qui|le|[vi]|ta
+arquilexema	nome masculino	ar|qui|le|[xe]|ma
+arquilho	nome masculino	ar|[qui]|lho
+arquilinfático	adjetivo	ar|qui|lin|[fá]|ti|co
+arquiloquiano	adjetivo	ar|qui|lo|qui|[a]|no
+arquilóquio	adjetivo	ar|qui|[ló]|qui|o
+arquilóquio	nome masculino	ar|qui|[ló]|qui|o
+arquimagiro	nome masculino	ar|qui|ma|[gi]|ro
+arquimago	nome masculino	ar|qui|[ma]|go
+arquimandrita	nome masculino	ar|qui|man|[dri]|ta
+arquimandritado	nome masculino	ar|qui|man|dri|[ta]|do
+arquimandritato	nome masculino	ar|qui|man|dri|[ta]|to
+arquimártir	nome masculino	ar|qui|[már]|tir
+arquimilionário	adjetivo	ar|qui|mi|li|o|[ná]|ri|o
+arquimilionário	nome masculino	ar|qui|mi|li|o|[ná]|ri|o
+arquimimo	nome masculino	ar|qui|[mi]|mo
+arquiministro	nome masculino	ar|qui|mi|[nis]|tro
+arquimorto	adjetivo	ar|qui|[mor]|to
+arquimosteiro	nome masculino	ar|qui|mos|[tei]|ro
+arquinauta	nome masculino	ar|qui|[nau]|ta
+arquinave	nome feminino	ar|qui|[na]|ve
+arquineanisco	nome masculino	ar|qui|ne|a|[nis]|co
+arquinha	nome feminino	ar|[qui]|nha
+arquinho	nome masculino	ar|[qui]|nho
+arquinhos	nome masculino	ar|[qui]|nhos
+arquinotário	nome masculino	ar|qui|no|[tá]|ri|o
+arquiparafonista	nome masculino	ar|qui|pa|ra|fo|[nis]|ta
+arquipelágico	adjetivo	ar|qui|pe|[lá]|gi|co
+arquipélago	nome masculino	ar|qui|[pé]|la|go
+arquipélago-estado	nome masculino	ar|qui|pé|la|go-es|[ta]|do
+arquipiloto	nome masculino	ar|qui|pi|[lo]|to
+arquipirata	nome masculino	ar|qui|pi|[ra]|ta
+arquipirático	adjetivo	ar|qui|pi|[rá]|ti|co
+arquipope	nome masculino	ar|qui|[po]|pe
+arquipotente	adjetivo	ar|qui|po|[ten]|te
+arquipresbítero	nome masculino	ar|qui|pres|[bí]|te|ro
+arquiprior	nome masculino	ar|qui|pri|[or]
+arquipriorado	nome masculino	ar|qui|pri|o|[ra]|do
+arquipriorato	nome masculino	ar|qui|pri|o|[ra]|to
+arquiprofeta	nome masculino	ar|qui|pro|[fe]|ta
+arquíptero	nome masculino	ar|[quíp]|te|ro
+arquirrabino	nome masculino	ar|quir|ra|[bi]|no
+arquirrival	adjetivo	ar|quir|ri|[val]
+arquirrival	nome masculino	ar|quir|ri|[val]
+arquirrival	nome feminino	ar|quir|ri|[val]
+arquirrivalidade	nome feminino	ar|quir|ri|va|li|[da]|de
+arquissacerdote	nome masculino	ar|quis|sa|cer|[do]|te
+arquissão	adjetivo	ar|quis|[são]
+arquissátrapa	nome masculino	ar|quis|[sá]|tra|pa
+arquissecular	adjetivo	ar|quis|se|cu|[lar]
+arquissenescal	nome masculino	ar|quis|se|nes|[cal]
+arquissinagoga	nome feminino	ar|quis|si|na|[go]|ga
+arquissinagogo	nome masculino	ar|quis|si|na|[go]|go
+arquissistro	nome masculino	ar|quis|[sis]|tro
+arquissofista	nome masculino	ar|quis|so|[fis]|ta
+arquistratego	nome masculino	ar|quis|tra|[te]|go
+arquitão	nome masculino	ar|qui|[tão]
+arquitaria	nome feminino	ar|qui|ta|[ri]|a
+arquitesoureiro	nome masculino	ar|qui|te|sou|[rei]|ro
+arquiteta	nome feminino	ar|qui|[te]|ta
+arquitetação	nome feminino	ar|qui|te|ta|[ção]
+arquitetar	verbo	ar|qui|te|[tar]
+arquitetável	adjetivo	ar|qui|te|[tá]|vel
+arquiteto	nome masculino	ar|qui|[te]|to
+arquitetônica	nome feminino	ar|qui|te|[tô]|ni|ca
+arquitetónica	nome feminino	ar|qui|te|[tó]|ni|ca
+arquitetonicamente	advérbio	ar|qui|te|to|ni|ca|[men]|te
+arquitetônico	adjetivo	ar|qui|te|[tô]|ni|co
+arquitetónico	adjetivo	ar|qui|te|[tó]|ni|co
+arquitetonografia	nome feminino	ar|qui|te|to|no|gra|[fi]|a
+arquitetonográfico	adjetivo	ar|qui|te|to|no|[grá]|fi|co
+arquitetonógrafo	nome masculino	ar|qui|te|to|[nó]|gra|fo
+arquitetor	nome masculino	ar|qui|te|[tor]
+arquitetravô	nome masculino	ar|qui|te|tra|[vô]
+arquitetura	nome feminino	ar|qui|te|[tu]|ra
+arquitetural	adjetivo	ar|qui|te|tu|[ral]
+arquiteturismo	nome masculino	ar|qui|te|tu|[ris]|mo
+arquiteturista	nome masculino	ar|qui|te|tu|[ris]|ta
+arquiteturista	nome feminino	ar|qui|te|tu|[ris]|ta
+arquitolo	adjetivo	ar|qui|[to]|lo
+arquitolo	nome masculino	ar|qui|[to]|lo
+arquitravada	nome feminino	ar|qui|tra|[va]|da
+arquitravado	adjetivo	ar|qui|tra|[va]|do
+arquitrave	nome feminino	ar|qui|[tra]|ve
+arquitriclínio	nome masculino	ar|qui|tri|[clí]|ni|o
+arquitriclino	nome masculino	ar|qui|tri|[cli]|no
+arquitrovão	nome masculino	ar|qui|tro|[vão]
+arquivado	adjetivo	ar|qui|[va]|do
+arquivador	nome masculino	ar|qui|va|[dor]
+arquivamento	nome masculino	ar|qui|va|[men]|to
+arquivar	verbo	ar|qui|[var]
+arquivável	adjetivo	ar|qui|[vá]|vel
+arquiviota	nome feminino	ar|qui|vi|[o]|ta
+arquivista	nome masculino	ar|qui|[vis]|ta
+arquivista	adjetivo	ar|qui|[vis]|ta
+arquivista	nome feminino	ar|qui|[vis]|ta
+arquivística	nome feminino	ar|qui|[vís]|ti|ca
+arquivisticamente	advérbio	ar|qui|vis|ti|ca|[men]|te

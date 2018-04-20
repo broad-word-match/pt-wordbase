@@ -1,0 +1,100 @@
+requerer	verbo	re|que|[rer]
+requerido	adjetivo	re|que|[ri]|do
+requerimentarista	adjetivo	re|que|ri|men|ta|[ris]|ta
+requerimentarista	nome masculino	re|que|ri|men|ta|[ris]|ta
+requerimentarista	nome feminino	re|que|ri|men|ta|[ris]|ta
+requerimento	nome masculino	re|que|ri|[men]|to
+requerível	adjetivo	re|que|[rí]|vel
+requesta	nome feminino	re|[ques]|ta
+requestado	adjetivo	re|ques|[ta]|do
+requestador	adjetivo	re|ques|ta|[dor]
+requestador	nome masculino	re|ques|ta|[dor]
+requestadora	nome feminino	re|ques|ta|[do]|ra
+requestar	verbo	re|ques|[tar]
+requesto	nome masculino	re|[ques]|to
+réquia	nome feminino	[ré]|qui|a
+réquie	nome masculino	[ré]|qui|e
+réquie	nome feminino	[ré]|qui|e
+requiem	nome masculino	re|[qui]|em
+réquiem	nome masculino	[ré]|qui|em
+requieto	adjetivo	re|qui|[e]|to
+requietório	nome masculino	re|qui|e|[tó]|ri|o
+requietude	nome feminino	re|qui|e|[tu]|de
+requife	nome masculino	re|[qui]|fe
+requifeiro	nome masculino	re|qui|[fei]|ro
+requim	nome masculino	re|[quim]
+requinta	nome masculino	re|[quin]|ta
+requinta	nome feminino	re|[quin]|ta
+requintadamente	advérbio	re|quin|ta|da|[men]|te
+requintado	adjetivo	re|quin|[ta]|do
+requintar	verbo	re|quin|[tar]
+requinte	nome masculino	re|[quin]|te
+requintista	nome masculino	re|quin|[tis]|ta
+requintista	nome feminino	re|quin|[tis]|ta
+requirição	nome feminino	re|qui|ri|[ção]
+requisição	nome feminino	re|qui|si|[ção]
+requisitado	adjetivo	re|qui|si|[ta]|do
+requisitante	adjetivo	re|qui|si|[tan]|te
+requisitante	nome masculino	re|qui|si|[tan]|te
+requisitante	nome feminino	re|qui|si|[tan]|te
+requisitar	verbo	re|qui|si|[tar]
+requisito	adjetivo	re|qui|[si]|to
+requisito	nome masculino	re|qui|[si]|to
+requisitório	nome masculino	re|qui|si|[tó]|ri|o
+requisitório	adjetivo	re|qui|si|[tó]|ri|o
+rer	verbo	[rer]
+rerietê	nome masculino	re|ri|e|[tê]
+rés	adjetivo	[rés]
+rés	advérbio	[rés]
+rês	nome feminino	[rês]
+rés do chão	nome masculino	rés do chão
+resalgar	nome masculino	re|sal|[gar]
+resalgário	nome masculino	re|sal|[gá]|ri|o
+resbordo	nome masculino	res|[bor]|do
+resbunar	verbo	res|bu|[nar]
+resbuno	nome masculino	res|[bu]|no
+resbuto	adjetivo	res|[bu]|to
+resbuto	nome masculino	res|[bu]|to
+rescaldamento	nome masculino	res|cal|da|[men]|to
+rescaldar	verbo	res|cal|[dar]
+rescaldeiro	nome masculino	res|cal|[dei]|ro
+rescaldo	nome masculino	res|[cal]|do
+rescendência	nome feminino	res|cen|[dên]|ci|a
+rescendente	adjetivo	res|cen|[den]|te
+rescender	verbo	res|cen|[der]
+rescindência	nome feminino	res|cin|[dên]|ci|a
+rescindimento	nome masculino	res|cin|di|[men]|to
+rescindir	verbo	res|cin|[dir]
+rescindível	adjetivo	res|cin|[dí]|vel
+rescisão	nome feminino	res|ci|[são]
+rescisor	adjetivo	res|ci|[sor]
+rescisor	nome masculino	res|ci|[sor]
+rescisora	nome feminino	res|ci|[so]|ra
+rescisório	adjetivo	res|ci|[só]|ri|o
+rescrever	verbo	res|cre|[ver]
+rescrição	nome feminino	res|cri|[ção]
+rescrito	nome masculino	res|[cri]|to
+research	nome feminino	re|se|arch
+reseda	nome feminino	re|[se]|da
+reseda	adjetivo	re|[se]|da
+resedácea	nome feminino	re|se|[dá]|ce|a
+resedáceo	adjetivo	re|se|[dá]|ce|o
+resedal	nome masculino	re|se|[dal]
+resedínea	nome feminino	re|se|[dí]|ne|a
+resendense	adjetivo	re|sen|[den]|se
+resendense	nome masculino	re|sen|[den]|se
+resendense	nome feminino	re|sen|[den]|se
+resendiano	adjetivo	re|sen|di|[a]|no
+resenha	nome feminino	re|[se]|nha
+resenhar	verbo	re|se|[nhar]
+resenho	nome masculino	re|[se]|nho
+resentadura	nome feminino	re|sen|ta|[du]|ra
+reserpina	nome feminino	re|ser|[pi]|na
+reserva	nome feminino	re|[ser]|va
+reserva	nome masculino	re|[ser]|va
+reserva-ouro	nome feminino	[re]
+reservação	nome feminino	re|ser|va|[ção]
+reservadamente	advérbio	re|ser|va|da|[men]|te
+reservadíssimo	adjetivo	re|ser|va|[dís]|si|mo
+reservado	adjetivo	re|ser|[va]|do
+reservado	nome masculino	re|ser|[va]|do

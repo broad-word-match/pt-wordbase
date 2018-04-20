@@ -1,0 +1,100 @@
+cascar	verbo	cas|[car]
+cáscara	nome feminino	[cás]|ca|ra
+cáscara-sagrada	nome feminino	cás|ca|ra-sa|[gra]|da
+cascareja	nome feminino	cas|ca|[re]|ja
+cascarejo	nome masculino	cas|ca|[re]|jo
+cascarejo	adjetivo	cas|ca|[re]|jo
+cascaria	nome feminino	cas|ca|[ri]|a
+cascarilha	nome feminino	cas|ca|[ri]|lha
+cascarina	nome feminino	cas|ca|[ri]|na
+cascarna	nome feminino	cas|[car]|na
+cascarnoso	adjetivo	cas|car|[no]|so
+cascaroso	adjetivo	cas|ca|[ro]|so
+cascarra	nome feminino	cas|[car]|ra
+cascarrão	nome masculino	cas|car|[rão]
+cascarria	nome feminino	cas|car|[ri]|a
+cascarrilha	nome feminino	cas|car|[ri]|lha
+cascarrolho	nome masculino	cas|car|[ro]|lho
+cascata	nome feminino	cas|[ca]|ta
+cascatar	verbo	cas|ca|[tar]
+cascateante	adjetivo	cas|ca|te|[an]|te
+cascatear	verbo	cas|ca|te|[ar]
+cascavel	nome feminino	cas|ca|[vel]
+cascavel	nome masculino	cas|ca|[vel]
+cascavel	adjetivo	cas|ca|[vel]
+cascavelar	verbo	cas|ca|ve|[lar]
+cascaveleira	nome feminino	cas|ca|ve|[lei]|ra
+cascavelense	adjetivo	cas|ca|ve|[len]|se
+cascavelense	nome masculino	cas|ca|ve|[len]|se
+cascavelense	nome feminino	cas|ca|ve|[len]|se
+cascavilhar	verbo	cas|ca|vi|[lhar]
+casco	nome masculino	[cas]|co
+cascol	nome masculino	cas|[col]
+cascoso	adjetivo	cas|[co]|so
+cascudo	nome masculino	cas|[cu]|do
+cascudo	adjetivo	cas|[cu]|do
+casculho	nome masculino	cas|[cu]|lho
+case-study	nome masculino	ca|se-stu|dy
+caseação	nome feminino	ca|se|a|[ção]
+caseadeira	nome feminino	ca|se|a|[dei]|ra
+caseado	nome masculino	ca|se|[a]|do
+caseado	adjetivo	ca|se|[a]|do
+casear	verbo	ca|se|[ar]
+casease	nome feminino	ca|se|[a]|se
+casebeque	nome masculino	ca|se|[be]|que
+casebre	nome masculino	ca|[se]|bre
+caseificação	nome feminino	ca|sei|fi|ca|[ção]
+caseificar	verbo	ca|sei|fi|[car]
+caseiforme	adjetivo	ca|sei|[for]|me
+caseína	nome feminino	ca|se|[í]|na
+caseinato	nome masculino	ca|sei|[na]|to
+caseínico	adjetivo	ca|se|[í]|ni|co
+caseinogénico	adjetivo	ca|sei|no|[gé]|ni|co
+caseinogênico	adjetivo	ca|sei|no|[gê]|ni|co
+caseinogênio	nome masculino	ca|sei|no|[gê]|ni|o
+caseinogénio	nome masculino	ca|sei|no|[gé]|ni|o
+caseira	nome feminino	ca|[sei]|ra
+caseiro	nome masculino	ca|[sei]|ro
+caseiro	adjetivo	ca|[sei]|ro
+caseogênio	nome masculino	ca|se|o|[gê]|ni|o
+caseogénio	nome masculino	ca|se|o|[gé]|ni|o
+caseoso	adjetivo	ca|se|[o]|so
+caserna	nome feminino	ca|[ser]|na
+casernal	adjetivo	ca|ser|[nal]
+casernaria	nome feminino	ca|ser|na|[ri]|a
+caserneiral	adjetivo	ca|ser|nei|[ral]
+caserneiro	adjetivo	ca|ser|[nei]|ro
+caserneiro	nome masculino	ca|ser|[nei]|ro
+cash	nome masculino	[cash]
+cash-and-carry	nome masculino	cash-and-car|ry
+cash-flow	nome masculino	[cash-flow]
+cási	advérbio	[cá]|si
+casibeque	nome masculino	ca|si|[be]|que
+cásico	adjetivo	[cá]|si|co
+cásico	nome masculino	[cá]|si|co
+casificação	nome feminino	ca|si|fi|ca|[ção]
+casificar	verbo	ca|si|fi|[car]
+casimira	nome feminino	ca|si|[mi]|ra
+casimireta	nome feminino	ca|si|mi|[re]|ta
+casinate	adjetivo	ca|si|[na]|te
+casinate	nome masculino	ca|si|[na]|te
+casinate	nome feminino	ca|si|[na]|te
+casinha	nome feminino	ca|[si]|nha
+casinhola	nome feminino	ca|si|[nho]|la
+casinholo	nome masculino	ca|si|[nho]|lo
+casinhota	nome feminino	ca|si|[nho]|ta
+casinhoto	nome masculino	ca|si|[nho]|to
+casino	nome masculino	ca|[si]|no
+cásio	adjetivo	[cá]|si|o
+cásio	nome masculino	[cá]|si|o
+casitéu	nome masculino	ca|si|[téu]
+casmurra	nome feminino	cas|[mur]|ra
+casmurrada	nome feminino	cas|mur|[ra]|da
+casmurral	adjetivo	cas|mur|[ral]
+casmurrar	verbo	cas|mur|[rar]
+casmurrice	nome feminino	cas|mur|[ri]|ce
+casmurro	adjetivo	cas|[mur]|ro
+casmurro	nome masculino	cas|[mur]|ro
+caso	nome masculino	[ca]|so
+caso	conjunção	[ca]|so
+casola	nome feminino	ca|[so]|la

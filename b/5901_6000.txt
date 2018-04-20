@@ -1,0 +1,100 @@
+bordelês	nome masculino	bor|de|[lês]
+bordelesa	nome feminino	bor|de|[le]|sa
+bordelete	nome masculino	bor|de|[le]|te
+bordéus	nome masculino	bor|[déus]
+bordô	adjetivo	bor|[dô]
+bordô	nome masculino	bor|[dô]
+bordo	nome masculino	[bor]|do
+bordoada	nome feminino	bor|do|[a]|da
+bordoado	adjetivo	bor|do|[a]|do
+bordoeira	nome feminino	bor|do|[ei]|ra
+boré	nome masculino	bo|[ré]
+boreal	adjetivo	bo|re|[al]
+bóreas	nome masculino	[bó]|re|as
+boreste	nome masculino	bo|[res]|te
+borga	nome feminino	[bor]|ga
+borgonha	nome masculino	bor|[go]|nha
+borgonhão	nome masculino	bor|go|[nhão]
+borgonhês	adjetivo	bor|go|[nhês]
+borgonhês	nome masculino	bor|go|[nhês]
+borgonhesa	nome feminino	bor|go|[nhe]|sa
+borguinhão	adjetivo	bor|gui|[nhão]
+borguinhão	nome masculino	bor|gui|[nhão]
+borguinhona	nome feminino	bor|gui|[nho]|na
+borguinhota	nome feminino	bor|gui|[nho]|ta
+borguista	nome masculino	bor|[guis]|ta
+borguista	adjetivo	bor|[guis]|ta
+borguista	nome feminino	bor|[guis]|ta
+bori	nome masculino	bo|[ri]
+boricado	adjetivo	bo|ri|[ca]|do
+boricina	nome feminino	bo|ri|[ci]|na
+bórico	adjetivo	[bó]|ri|co
+borismo	nome masculino	bo|[ris]|mo
+boristénida	adjetivo	bo|ris|[té]|ni|da
+boristénida	nome masculino	bo|ris|[té]|ni|da
+boristénida	nome feminino	bo|ris|[té]|ni|da
+boristênida	nome feminino	bo|ris|[tê]|ni|da
+boristênida	nome masculino	bo|ris|[tê]|ni|da
+boristênida	adjetivo	bo|ris|[tê]|ni|da
+borja	nome masculino	[bor]|ja
+borla	nome feminino	[bor]|la
+borlado	adjetivo	bor|[la]|do
+borleado	adjetivo	bor|le|[a]|do
+borleta	nome feminino	bor|[le]|ta
+borlista	nome masculino	bor|[lis]|ta
+borlista	nome feminino	bor|[lis]|ta
+borlista	adjetivo	bor|[lis]|ta
+bormano	adjetivo	bor|[ma]|no
+bormano	nome masculino	bor|[ma]|no
+bornaceira	nome feminino	bor|na|[cei]|ra
+bornal	nome masculino	bor|[nal]
+borne	nome masculino	[bor]|ne
+borneano	nome masculino	bor|ne|[a]|no
+borneano	adjetivo	bor|ne|[a]|no
+bornear	verbo	bor|ne|[ar]
+borneio	nome masculino	bor|[nei]|o
+borneira	nome feminino	bor|[nei]|ra
+borneira	adjetivo	bor|[nei]|ra
+borneiro	adjetivo	bor|[nei]|ro
+borneiro	nome masculino	bor|[nei]|ro
+borneol	nome masculino	bor|ne|[ol]
+bornéu	adjetivo	bor|[néu]
+bornéu	nome masculino	bor|[néu]
+bornita	nome feminino	bor|[ni]|ta
+bornite	nome feminino	bor|[ni]|te
+borno	adjetivo	[bor]|no
+boro	nome masculino	[bo]|ro
+boroa	nome feminino	bo|[ro]|a
+boroa	nome masculino	bo|[ro]|a
+borocotó	nome masculino	bo|ro|co|[tó]
+boroeiro	adjetivo	bo|ro|[ei]|ro
+boroeiro	nome masculino	bo|ro|[ei]|ro
+boromagnesite	nome feminino	bo|ro|mag|ne|[si]|te
+bororé	nome masculino	bo|ro|[ré]
+bororo	nome masculino	bo|[ro]|ro
+bororo	nome feminino	bo|[ro]|ro
+bororo	adjetivo	bo|[ro]|ro
+borra	nome feminino	[bor]|ra
+borra-botas	nome masculino	bor|ra-bo|tas
+borra-botas	nome feminino	bor|ra-bo|tas
+borra-papéis	nome masculino	bor|ra-pa|[péis]
+borra-papéis	nome feminino	bor|ra-pa|[péis]
+borraça	nome feminino	bor|[ra]|ça
+borraçal	nome masculino	bor|ra|[çal]
+borraçar	verbo	bor|ra|[çar]
+borraceira	nome feminino	bor|ra|[cei]|ra
+borraceiro	adjetivo	bor|ra|[cei]|ro
+borraceiro	nome masculino	bor|ra|[cei]|ro
+borracha	nome feminino	bor|[ra]|cha
+borrachada	nome feminino	bor|ra|[cha]|da
+borrachão	nome masculino	bor|ra|[chão]
+borracheira	nome feminino	bor|ra|[chei]|ra
+borracheiro	nome masculino	bor|ra|[chei]|ro
+borrachice	nome feminino	bor|ra|[chi]|ce
+borrachífero	adjetivo	bor|ra|[chí]|fe|ro
+borrachinha	nome feminino	bor|ra|[chi]|nha
+borracho	nome masculino	bor|[ra]|cho
+borracho	adjetivo	bor|[ra]|cho
+borracho	nome feminino	bor|[ra]|cho
+borrachona	nome feminino	bor|ra|[cho]|na
+borrachuda	nome feminino	bor|ra|[chu]|da

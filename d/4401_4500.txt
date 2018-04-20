@@ -1,0 +1,100 @@
+desempoeiradamente	advérbio	de|sem|po|ei|ra|da|[men]|te
+desempoeirado	adjetivo	de|sem|po|ei|[ra]|do
+desempoeiramento	nome masculino	de|sem|po|ei|ra|[men]|to
+desempoeirar	verbo	de|sem|po|ei|[rar]
+desempoladeira	nome feminino	de|sem|po|la|[dei]|ra
+desempolamento	nome masculino	de|sem|po|la|[men]|to
+desempolar	verbo	de|sem|po|[lar]
+desempoleirar	verbo	de|sem|po|lei|[rar]
+desempolgadura	nome feminino	de|sem|pol|ga|[du]|ra
+desempolgamento	nome masculino	de|sem|pol|ga|[men]|to
+desempolgar	verbo	de|sem|pol|[gar]
+desempolhar	verbo	de|sem|po|[lhar]
+desempossar	verbo	de|sem|pos|[sar]
+desempregada	nome feminino	de|sem|pre|[ga]|da
+desempregado	nome masculino	de|sem|pre|[ga]|do
+desempregado	adjetivo	de|sem|pre|[ga]|do
+desempregar	verbo	de|sem|pre|[gar]
+desemprego	nome masculino	de|sem|[pre]|go
+desemprenhar	verbo	de|sem|pre|[nhar]
+desemproar	verbo	de|sem|pro|[ar]
+desempunhar	verbo	de|sem|pu|[nhar]
+desemudecer	verbo	de|se|mu|de|[cer]
+desemudecimento	nome masculino	de|se|mu|de|ci|[men]|to
+desemulsificação	nome feminino	de|se|mul|si|fi|ca|[ção]
+desemulsificar	verbo	de|se|mul|si|fi|[car]
+desenamorar	verbo	de|se|na|mo|[rar]
+desenastrar	verbo	de|se|nas|[trar]
+desenatar	verbo	de|se|na|[tar]
+desencabar	verbo	de|sen|ca|[bar]
+desencabeçar	verbo	de|sen|ca|be|[çar]
+desencabelar	verbo	de|sen|ca|be|[lar]
+desencabrestadamente	advérbio	de|sen|ca|bres|ta|da|[men]|te
+desencabrestado	adjetivo	de|sen|ca|bres|[ta]|do
+desencabrestar	verbo	de|sen|ca|bres|[tar]
+desencabritar	verbo	de|sen|ca|bri|[tar]
+desencachar	verbo	de|sen|ca|[char]
+desencadeamento	nome masculino	de|sen|ca|de|a|[men]|to
+desencadear	verbo	de|sen|ca|de|[ar]
+desencadernação	nome feminino	de|sen|ca|der|na|[ção]
+desencadernadamente	advérbio	de|sen|ca|der|na|da|[men]|te
+desencadernado	adjetivo	de|sen|ca|der|[na]|do
+desencadernar	verbo	de|sen|ca|der|[nar]
+desencaiporar	verbo	de|sen|cai|po|[rar]
+desencaixadura	nome feminino	de|sen|cai|xa|[du]|ra
+desencaixamento	nome masculino	de|sen|cai|xa|[men]|to
+desencaixar	verbo	de|sen|cai|[xar]
+desencaixe	nome masculino	de|sen|[cai]|xe
+desencaixilhação	nome feminino	de|sen|cai|xi|lha|[ção]
+desencaixilhar	verbo	de|sen|cai|xi|[lhar]
+desencaixotamento	nome masculino	de|sen|cai|xo|ta|[men]|to
+desencaixotar	verbo	de|sen|cai|xo|[tar]
+desencalacração	nome feminino	de|sen|ca|la|cra|[ção]
+desencalacrar	verbo	de|sen|ca|la|[crar]
+desencalhar	verbo	de|sen|ca|[lhar]
+desencalhe	nome masculino	de|sen|[ca]|lhe
+desencalmar	verbo	de|sen|cal|[mar]
+desencambar	verbo	de|sen|cam|[bar]
+desencaminhado	adjetivo	de|sen|ca|mi|[nha]|do
+desencaminhador	adjetivo	de|sen|ca|mi|nha|[dor]
+desencaminhador	nome masculino	de|sen|ca|mi|nha|[dor]
+desencaminhadora	nome feminino	de|sen|ca|mi|nha|[do]|ra
+desencaminhamento	nome masculino	de|sen|ca|mi|nha|[men]|to
+desencaminhar	verbo	de|sen|ca|mi|[nhar]
+desencamisar	verbo	de|sen|ca|mi|[sar]
+desencampar	verbo	de|sen|cam|[par]
+desencanar	verbo	de|sen|ca|[nar]
+desencanastrar	verbo	de|sen|ca|nas|[trar]
+desencandador	adjetivo	de|sen|can|da|[dor]
+desencangalhar	verbo	de|sen|can|ga|[lhar]
+desencangar	verbo	de|sen|can|[gar]
+desencantação	nome feminino	de|sen|can|ta|[ção]
+desencantado	adjetivo	de|sen|can|[ta]|do
+desencantador	nome masculino	de|sen|can|ta|[dor]
+desencantadora	nome feminino	de|sen|can|ta|[do]|ra
+desencantadoramente	advérbio	de|sen|can|ta|do|ra|[men]|te
+desencantamento	nome masculino	de|sen|can|ta|[men]|to
+desencantar	verbo	de|sen|can|[tar]
+desencantável	adjetivo	de|sen|can|[tá]|vel
+desencanto	nome masculino	de|sen|[can]|to
+desencantoar	verbo	de|sen|can|to|[ar]
+desencanudar	verbo	de|sen|ca|nu|[dar]
+desencapar	verbo	de|sen|ca|[par]
+desencapelar	verbo	de|sen|ca|pe|[lar]
+desencapoeirar	verbo	de|sen|ca|po|ei|[rar]
+desencapotar	verbo	de|sen|ca|po|[tar]
+desencaracolar	verbo	de|sen|ca|ra|co|[lar]
+desencarapelar	verbo	de|sen|ca|ra|pe|[lar]
+desencarapinhar	verbo	de|sen|ca|ra|pi|[nhar]
+desencarapuçar	verbo	de|sen|ca|ra|pu|[çar]
+desencarceramento	nome masculino	de|sen|car|ce|ra|[men]|to
+desencarcerar	verbo	de|sen|car|ce|[rar]
+desencardideira	nome feminino	de|sen|car|di|[dei]|ra
+desencardido	adjetivo	de|sen|car|[di]|do
+desencardimento	nome masculino	de|sen|car|di|[men]|to
+desencardir	verbo	de|sen|car|[dir]
+desencarecer	verbo	de|sen|ca|re|[cer]
+desencargo	nome masculino	de|sen|[car]|go
+desencarnação	nome feminino	de|sen|car|na|[ção]
+desencarnar	verbo	de|sen|car|[nar]
+desencarquilhar	verbo	de|sen|car|qui|[lhar]

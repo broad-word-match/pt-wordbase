@@ -1,0 +1,100 @@
+abendiçoador	nome masculino	a|ben|di|ço|a|[dor]
+abendiçoante	adjetivo	a|ben|di|ço|[an]|te
+abendiçoante	nome masculino	a|ben|di|ço|[an]|te
+abendiçoante	nome feminino	a|ben|di|ço|[an]|te
+abendiçoar	verbo	a|ben|di|ço|[ar]
+abengalado	adjetivo	a|ben|ga|[la]|do
+abengalar	verbo	a|ben|ga|[lar]
+abentesma	nome masculino	a|ben|[tes]|ma
+abentesma	nome feminino	a|ben|[tes]|ma
+aberém	nome masculino	a|be|[rém]
+aberingelado	adjetivo	a|be|rin|ge|[la]|do
+aberlindado	adjetivo	a|ber|lin|[da]|do
+aberração	nome feminino	a|ber|ra|[ção]
+aberrante	adjetivo	a|ber|[ran]|te
+aberrar	verbo	a|ber|[rar]
+aberrativamente	advérbio	a|ber|ra|ti|va|[men]|te
+aberrativo	adjetivo	a|ber|ra|[ti]|vo
+aberratoriamente	advérbio	a|ber|ra|to|ri|a|[men]|te
+aberratório	adjetivo	a|ber|ra|[tó]|ri|o
+aberta	nome feminino	a|[ber]|ta
+abertamente	advérbio	a|ber|ta|[men]|te
+abertiço	adjetivo	a|ber|[ti]|ço
+abertíssimo	adjetivo	a|ber|[tís]|si|mo
+abertivo	adjetivo	a|ber|[ti]|vo
+abertivo	nome masculino	a|ber|[ti]|vo
+aberto	adjetivo	a|[ber]|to
+aberto	nome masculino	a|[ber]|to
+abertoiras	nome feminino	a|ber|[toi]|ras
+abertona	nome feminino	a|ber|[to]|na
+abertouras	nome feminino	a|ber|[tou]|ras
+abertura	nome feminino	a|ber|[tu]|ra
+abesantar	verbo	a|be|san|[tar]
+abeselgado	adjetivo	a|be|sel|[ga]|do
+abesoirar	verbo	a|be|soi|[rar]
+abesourar	verbo	a|be|sou|[rar]
+abespinhadamente	advérbio	a|bes|pi|nha|da|[men]|te
+abespinhadiço	adjetivo	a|bes|pi|nha|[di]|ço
+abespinhado	adjetivo	a|bes|pi|[nha]|do
+abespinhamento	nome masculino	a|bes|pi|nha|[men]|to
+abespinhar	verbo	a|bes|pi|[nhar]
+abespinhável	adjetivo	a|bes|pi|[nhá]|vel
+abessana	nome feminino	a|bes|[sa]|na
+abessim	adjetivo	a|bes|[sim]
+abessim	nome masculino	a|bes|[sim]
+abessim	nome feminino	a|bes|[sim]
+abessino	adjetivo	a|bes|[si]|no
+abessino	nome masculino	a|bes|[si]|no
+abestalhado	adjetivo	a|bes|ta|[lha]|do
+abestalhar	verbo	a|bes|ta|[lhar]
+abestamento	nome masculino	a|bes|ta|[men]|to
+abestiar	verbo	a|bes|ti|[ar]
+abestruz	nome masculino	a|bes|[truz]
+abestruz	nome feminino	a|bes|[truz]
+abeta	nome feminino	a|[be]|ta
+abetarda	nome feminino	a|be|[tar]|da
+abetarda-pequena	nome feminino	a|be|tar|da-pe|[que]|na
+abetardado	adjetivo	a|be|tar|[da]|do
+abetardinha	nome feminino	a|be|tar|[di]|nha
+abete	nome masculino	a|[be]|te
+abeterno	advérbio	a|be|[ter]|no
+abetesgado	adjetivo	a|be|tes|[ga]|do
+abeto	nome masculino	a|[be]|to
+abetoira	nome feminino	a|be|[toi]|ra
+abetoiro	nome masculino	a|be|[toi]|ro
+abetoninha	nome feminino	a|be|to|[ni]|nha
+abetoura	nome feminino	a|be|[tou]|ra
+abetouro	nome masculino	a|be|[tou]|ro
+abetumado	adjetivo	a|be|tu|[ma]|do
+abetumador	adjetivo	a|be|tu|ma|[dor]
+abetumador	nome masculino	a|be|tu|ma|[dor]
+abetumar	verbo	a|be|tu|[mar]
+abevacuação	nome feminino	a|be|va|cu|a|[ção]
+abeverar	verbo	a|be|ve|[rar]
+abexigar	verbo	a|be|xi|[gar]
+abexim	adjetivo	a|be|[xim]
+abexim	nome masculino	a|be|[xim]
+abexim	nome feminino	a|be|[xim]
+abezerrado	adjetivo	a|be|zer|[ra]|do
+abibe	nome masculino	a|[bi]|be
+abibe	nome feminino	a|[bi]|be
+abibliotecar	verbo	a|bi|bli|o|te|[car]
+abicadouro	nome masculino	a|bi|ca|[dou]|ro
+abicar	verbo	a|bi|[car]
+abichado	adjetivo	a|bi|[cha]|do
+abichar	verbo	a|bi|[char]
+abichornar	verbo	a|bi|chor|[nar]
+abichorno	nome masculino	a|bi|[chor]|no
+abideno	adjetivo	a|bi|[de]|no
+abideno	nome masculino	a|bi|[de]|no
+abidense	adjetivo	a|bi|[den]|se
+abidense	nome masculino	a|bi|[den]|se
+abidense	nome feminino	a|bi|[den]|se
+abiegna	nome feminino	a|bi|[eg]|na
+abiegno	adjetivo	a|bi|[eg]|no
+abieiro	nome masculino	a|bi|[ei]|ro
+abietato	nome masculino	a|bi|e|[ta]|to
+abiético	adjetivo	a|bi|[é]|ti|co
+abietina	nome feminino	a|bi|e|[ti]|na
+abietínea	nome feminino	a|bi|e|[tí]|ne|a
+abietíneo	adjetivo	a|bi|e|[tí]|ne|o

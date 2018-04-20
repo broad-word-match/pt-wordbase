@@ -1,0 +1,100 @@
+inglês	nome masculino	in|[glês]
+inglês	adjetivo	in|[glês]
+inglesa	nome feminino	in|[gle]|sa
+inglesada	nome feminino	in|gle|[sa]|da
+inglesado	adjetivo	in|gle|[sa]|do
+inglesar	verbo	in|gle|[sar]
+inglesia	nome feminino	in|gle|[si]|a
+inglesice	nome feminino	in|gle|[si]|ce
+inglesinho	nome masculino	in|gle|[si]|nho
+inglesismo	nome masculino	in|gle|[sis]|mo
+inglesmente	advérbio	in|gles|[men]|te
+ingloriamente	advérbio	in|glo|ri|a|[men]|te
+inglório	adjetivo	in|[gló]|ri|o
+ingloriosamente	advérbio	in|glo|ri|o|sa|[men]|te
+inglorioso	adjetivo	in|glo|ri|[o]|so
+inglúvia	nome feminino	in|[glú]|vi|a
+ingluvial	adjetivo	in|glu|vi|[al]
+ingluviosamente	advérbio	in|glu|vi|o|sa|[men]|te
+ingluvioso	adjetivo	in|glu|vi|[o]|so
+ingluvite	nome feminino	in|glu|[vi]|te
+ingombota	nome feminino	in|gom|[bo]|ta
+ingonha	nome feminino	in|[go]|nha
+ingovernabilidade	nome feminino	in|go|ver|na|bi|li|[da]|de
+ingovernável	adjetivo	in|go|ver|[ná]|vel
+ingraciosamente	advérbio	in|gra|ci|o|sa|[men]|te
+ingracioso	adjetivo	in|gra|ci|[o]|so
+ingramaticabilidade	nome feminino	in|gra|ma|ti|ca|bi|li|[da]|de
+ingramatical	adjetivo	in|gra|ma|ti|[cal]
+ingramaticalidade	nome feminino	in|gra|ma|ti|ca|li|[da]|de
+ingramaticável	adjetivo	in|gra|ma|ti|[cá]|vel
+ingranzéu	nome masculino	in|gran|[zéu]
+ingrão	nome masculino	in|[grão]
+ingrata	nome feminino	in|[gra]|ta
+ingratamente	advérbio	in|gra|ta|[men]|te
+ingratão	nome masculino	in|gra|[tão]
+ingratatão	nome masculino	in|gra|ta|[tão]
+ingratidão	nome feminino	in|gra|ti|[dão]
+ingrato	adjetivo	in|[gra]|to
+ingrato	nome masculino	in|[gra]|to
+ingre	nome masculino	[in]|gre
+ingre	adjetivo	[in]|gre
+ingrediente	nome masculino	in|gre|di|[en]|te
+íngreme	adjetivo	[ín]|gre|me
+ingreme	adjetivo	in|[gre]|me
+ingremidade	nome feminino	in|gre|mi|[da]|de
+ingremidez	nome feminino	in|gre|mi|[dez]
+ingrês	adjetivo	in|[grês]
+ingrês	nome masculino	in|[grês]
+ingresia	nome feminino	in|gre|[si]|a
+ingressão	nome feminino	in|gres|[são]
+ingressar	verbo	in|gres|[sar]
+ingressivo	adjetivo	in|gres|[si]|vo
+ingresso	nome masculino	in|[gres]|so
+ingrime	adjetivo	in|[gri]|me
+íngua	nome feminino	[ín]|gua
+inguaçu	nome masculino	in|gua|[çu]
+inguinabdominal	adjetivo	in|gui|nab|do|mi|[nal]
+inguinação	nome feminino	in|gui|na|[ção]
+inguinal	adjetivo	in|gui|[nal]
+inguinocutâneo	adjetivo	in|gui|no|cu|[tâ]|ne|o
+inguinoscrotal	adjetivo	in|gui|nos|cro|[tal]
+ingurgitação	nome feminino	in|gur|gi|ta|[ção]
+ingurgitador	adjetivo	in|gur|gi|ta|[dor]
+ingurgitamento	nome masculino	in|gur|gi|ta|[men]|to
+ingurgitar	verbo	in|gur|gi|[tar]
+ingurgitável	adjetivo	in|gur|gi|[tá]|vel
+ingurunga	nome feminino	in|gu|[run]|ga
+inhaca	nome feminino	i|[nha]|ca
+inhaca	nome masculino	i|[nha]|ca
+inhacoco	nome masculino	i|nha|[co]|co
+inhaíba	nome feminino	i|nha|[í]|ba
+inhame	nome masculino	i|[nha]|me
+inhame-de-lagartixa	nome masculino	i|nha|me-de-la|gar|[ti]|xa
+inhanga	nome masculino	i|[nhan]|ga
+inhapa	nome feminino	i|[nha]|pa
+inhapecanga	nome feminino	i|nha|pe|[can]|ga
+inhatium	nome masculino	i|nha|ti|[um]
+inhé	nome masculino	i|[nhé]
+inhé-bobô	nome masculino	i|nhé-bo|[bô]
+inhé-dóxi	nome masculino	i|nhé-dó|xi
+inhé-muela	nome masculino	i|nhé-mu|[e]|la
+inhé-preto	nome masculino	i|nhé-pre|to
+inhenha	nome masculino	i|[nhe]|nha
+inhenho	adjetivo	i|[nhe]|nho
+inhenho	nome masculino	i|[nhe]|nho
+inhor	nome masculino	i|[nhor]
+iniala	nome feminino	i|ni|[a]|la
+inibição	nome feminino	i|ni|bi|[ção]
+inibido	adjetivo	i|ni|[bi]|do
+inibido	nome masculino	i|ni|[bi]|do
+inibidor	nome masculino	i|ni|bi|[dor]
+inibidor	adjetivo	i|ni|bi|[dor]
+inibir	verbo	i|ni|[bir]
+inibitivamente	advérbio	i|ni|bi|ti|va|[men]|te
+inibitivo	adjetivo	i|ni|bi|[ti]|vo
+inibitória	nome feminino	i|ni|bi|[tó]|ri|a
+inibitoriamente	advérbio	i|ni|bi|to|ri|a|[men]|te
+inibitório	adjetivo	i|ni|bi|[tó]|ri|o
+iniciação	nome feminino	i|ni|ci|a|[ção]
+iniciada	nome feminino	i|ni|ci|[a]|da

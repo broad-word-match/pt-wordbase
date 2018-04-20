@@ -1,0 +1,100 @@
+apendicular	adjetivo	a|pen|di|cu|[lar]
+apendiculário	nome masculino	a|pen|di|cu|[lá]|ri|o
+apendiculário	adjetivo	a|pen|di|cu|[lá]|ri|o
+apendículo	nome masculino	a|pen|[dí]|cu|lo
+apendoamento	nome masculino	a|pen|do|a|[men]|to
+apendoar	verbo	a|pen|do|[ar]
+apenedado	adjetivo	a|pe|ne|[da]|do
+apenhado	adjetivo	a|pe|[nha]|do
+apenhascado	adjetivo	a|pe|nhas|[ca]|do
+apenhoramento	nome masculino	a|pe|nho|ra|[men]|to
+apenhorar	verbo	a|pe|nho|[rar]
+apeninsulado	adjetivo	a|pe|nin|su|[la]|do
+apensa	nome feminino	a|[pen]|sa
+apensação	nome feminino	a|pen|sa|[ção]
+apensão	nome feminino	a|pen|[são]
+apensar	verbo	a|pen|[sar]
+apensionado	adjetivo	a|pen|si|o|[na]|do
+apensionar	verbo	a|pen|si|o|[nar]
+apenso	adjetivo	a|[pen]|so
+apenso	nome masculino	a|[pen]|so
+apenulado	adjetivo	a|pe|nu|[la]|do
+apenumbrar	verbo	a|pe|num|[brar]
+apepinação	nome feminino	a|pe|pi|na|[ção]
+apepinado	adjetivo	a|pe|pi|[na]|do
+apepinador	adjetivo	a|pe|pi|na|[dor]
+apepinador	nome masculino	a|pe|pi|na|[dor]
+apepinar	verbo	a|pe|pi|[nar]
+apepsia	nome feminino	a|pep|[si]|a
+apéptico	adjetivo	a|[pép]|ti|co
+apequenado	adjetivo	a|pe|que|[na]|do
+apequenar	verbo	a|pe|que|[nar]
+apequenitar	verbo	a|pe|que|ni|[tar]
+aperaltado	adjetivo	a|pe|ral|[ta]|do
+aperaltar	verbo	a|pe|ral|[tar]
+aperalvilhado	adjetivo	a|pe|ral|vi|[lha]|do
+aperalvilhar	verbo	a|pe|ral|vi|[lhar]
+aperanto	adjetivo	a|pe|[ran]|to
+aperanto	nome masculino	a|pe|[ran]|to
+aperar	verbo	a|pe|[rar]
+aperceber	verbo	a|per|ce|[ber]
+apercebimento	nome masculino	a|per|ce|bi|[men]|to
+apercebível	adjetivo	a|per|ce|[bí]|vel
+aperceção	nome feminino	a|per|ce|[ção]
+apercepção	nome feminino	a|per|cep|[ção]
+aperceptibilidade	nome feminino	a|per|cep|ti|bi|li|[da]|de
+aperceptível	adjetivo	a|per|cep|[tí]|vel
+aperceptivo	adjetivo	a|per|cep|[ti]|vo
+apercetibilidade	nome feminino	a|per|ce|ti|bi|li|[da]|de
+apercetível	adjetivo	a|per|ce|[tí]|vel
+apercetivo	adjetivo	a|per|ce|[ti]|vo
+apereá	nome masculino	a|pe|re|[á]
+aperema	nome masculino	a|pe|[re]|ma
+aperfeiçoadamente	advérbio	a|per|fei|ço|a|da|[men]|te
+aperfeiçoado	adjetivo	a|per|fei|ço|[a]|do
+aperfeiçoador	adjetivo	a|per|fei|ço|a|[dor]
+aperfeiçoador	nome masculino	a|per|fei|ço|a|[dor]
+aperfeiçoamento	nome masculino	a|per|fei|ço|a|[men]|to
+aperfeiçoar	verbo	a|per|fei|ço|[ar]
+aperfeiçoável	adjetivo	a|per|fei|ço|[á]|vel
+aperfiar	verbo	a|per|fi|[ar]
+aperfilhado	adjetivo	a|per|fi|[lha]|do
+aperfilhar	verbo	a|per|fi|[lhar]
+apergaminhado	adjetivo	a|per|ga|mi|[nha]|do
+apergaminhar	verbo	a|per|ga|mi|[nhar]
+aperiantácea	nome feminino	a|pe|ri|an|[tá]|ce|a
+aperiantáceo	adjetivo	a|pe|ri|an|[tá]|ce|o
+aperiantado	adjetivo	a|pe|ri|an|[ta]|do
+apericárpico	adjetivo	a|pe|ri|[cár]|pi|co
+apericarpo	adjetivo	a|pe|ri|[car]|po
+aperiente	adjetivo	a|pe|ri|[en]|te
+aperiódico	adjetivo	a|pe|ri|[ó]|di|co
+aperispérmico	adjetivo	a|pe|ris|[pér]|mi|co
+aperitivo	nome masculino	a|pe|ri|[ti]|vo
+aperitivo	adjetivo	a|pe|ri|[ti]|vo
+aperitório	nome masculino	a|pe|ri|[tó]|ri|o
+apernadeira	nome feminino	a|per|na|[dei]|ra
+apernamento	nome masculino	a|per|na|[men]|to
+apernar	verbo	a|per|[nar]
+aperolado	adjetivo	a|pe|ro|[la]|do
+aperolar	verbo	a|pe|ro|[lar]
+aperrar	verbo	a|per|[rar]
+aperreação	nome feminino	a|per|re|a|[ção]
+aperreadamente	advérbio	a|per|re|a|da|[men]|te
+aperreado	adjetivo	a|per|re|[a]|do
+aperreador	adjetivo	a|per|re|a|[dor]
+aperreador	nome masculino	a|per|re|a|[dor]
+aperreamento	nome masculino	a|per|re|a|[men]|to
+aperrear	verbo	a|per|re|[ar]
+aperreio	nome masculino	a|per|[rei]|o
+aperrunhar	verbo	a|per|ru|[nhar]
+aperta-livros	nome masculino	a|per|ta-li|vros
+aperta-luvas	nome masculino	a|per|ta-lu|vas
+aperta-papéis	nome masculino	a|per|ta-pa|[péis]
+apertada	nome feminino	a|per|[ta]|da
+apertadamente	advérbio	a|per|ta|da|[men]|te
+apertadeira	nome feminino	a|per|ta|[dei]|ra
+apertadela	nome feminino	a|per|ta|[de]|la
+apertadilho	nome masculino	a|per|ta|[di]|lho
+apertado	adjetivo	a|per|[ta]|do
+apertado	nome masculino	a|per|[ta]|do

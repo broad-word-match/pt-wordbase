@@ -1,0 +1,100 @@
+definhador	nome masculino	de|fi|nha|[dor]
+definhamento	nome masculino	de|fi|nha|[men]|to
+definhante	adjetivo	de|fi|[nhan]|te
+definhar	verbo	de|fi|[nhar]
+definibilidade	nome feminino	de|fi|ni|bi|li|[da]|de
+definição	nome feminino	de|fi|ni|[ção]
+definidamente	advérbio	de|fi|ni|da|[men]|te
+definido	nome masculino	de|fi|[ni]|do
+definido	adjetivo	de|fi|[ni]|do
+definidor	nome masculino	de|fi|ni|[dor]
+definidor	adjetivo	de|fi|ni|[dor]
+definidora	nome feminino	de|fi|ni|[do]|ra
+definir	verbo	de|fi|[nir]
+definitivamente	advérbio	de|fi|ni|ti|va|[men]|te
+definitivo	adjetivo	de|fi|ni|[ti]|vo
+definito	adjetivo	de|fi|[ni]|to
+definito	nome masculino	de|fi|[ni]|to
+definitório	nome masculino	de|fi|ni|[tó]|ri|o
+definível	adjetivo	de|fi|[ní]|vel
+deflação	nome feminino	de|fla|[ção]
+deflacionabilidade	nome feminino	de|fla|ci|o|na|bi|li|[da]|de
+deflacionar	verbo	de|fla|ci|o|[nar]
+deflacionário	adjetivo	de|fla|ci|o|[ná]|ri|o
+deflacionável	adjetivo	de|fla|ci|o|[ná]|vel
+deflacionismo	nome masculino	de|fla|ci|o|[nis]|mo
+deflacionista	adjetivo	de|fla|ci|o|[nis]|ta
+deflacionista	nome masculino	de|fla|ci|o|[nis]|ta
+deflacionista	nome feminino	de|fla|ci|o|[nis]|ta
+deflagração	nome feminino	de|fla|gra|[ção]
+deflagrado	adjetivo	de|fla|[gra]|do
+deflagrador	nome masculino	de|fla|gra|[dor]
+deflagrante	adjetivo	de|fla|[gran]|te
+deflagrar	verbo	de|fla|[grar]
+deflator	nome masculino	de|fla|[tor]
+deflator	adjetivo	de|fla|[tor]
+deflectir	verbo	de|flec|[tir]
+deflectível	adjetivo	de|flec|[tí]|vel
+deflectográfico	adjetivo	de|flec|to|[grá]|fi|co
+deflectógrafo	nome masculino	de|flec|[tó]|gra|fo
+deflectométrico	adjetivo	de|flec|to|[mé]|tri|co
+deflectômetro	nome masculino	de|flec|[tô]|me|tro
+deflector	adjetivo	de|flec|[tor]
+deflector	nome masculino	de|flec|[tor]
+deflegmação	nome feminino	de|fleg|ma|[ção]
+deflegmador	nome masculino	de|fleg|ma|[dor]
+deflegmador	adjetivo	de|fleg|ma|[dor]
+deflegmar	verbo	de|fleg|[mar]
+defletir	verbo	de|fle|[tir]
+defletível	adjetivo	de|fle|[tí]|vel
+defletográfico	adjetivo	de|fle|to|[grá]|fi|co
+defletógrafo	nome masculino	de|fle|[tó]|gra|fo
+defletométrico	adjetivo	de|fle|to|[mé]|tri|co
+defletómetro	nome masculino	de|fle|[tó]|me|tro
+defletômetro	nome masculino	de|fle|[tô]|me|tro
+defletor	adjetivo	de|fle|[tor]
+defletor	nome masculino	de|fle|[tor]
+deflexão	nome feminino	de|fle|[xão]
+defloração	nome feminino	de|flo|ra|[ção]
+deflorado	adjetivo	de|flo|[ra]|do
+deflorador	adjetivo	de|flo|ra|[dor]
+deflorador	nome masculino	de|flo|ra|[dor]
+defloramento	nome masculino	de|flo|ra|[men]|to
+deflorar	verbo	de|flo|[rar]
+deflorestação	nome feminino	de|flo|res|ta|[ção]
+defluência	nome feminino	de|flu|[ên]|ci|a
+defluente	adjetivo	de|flu|[en]|te
+defluir	verbo	de|flu|[ir]
+deflúvio	nome masculino	de|[flú]|vi|o
+defluxão	nome feminino	de|flu|[xão]
+defluxeira	nome feminino	de|flu|[xei]|ra
+defluxo	nome masculino	de|[flu]|xo
+deforete	nome masculino	de|fo|[re]|te
+deformabilidade	nome feminino	de|for|ma|bi|li|[da]|de
+deformação	nome feminino	de|for|ma|[ção]
+deformado	adjetivo	de|for|[ma]|do
+deformador	adjetivo	de|for|ma|[dor]
+deformador	nome masculino	de|for|ma|[dor]
+deformadora	nome feminino	de|for|ma|[do]|ra
+deformante	adjetivo	de|for|[man]|te
+deformar	verbo	de|for|[mar]
+deformatório	adjetivo	de|for|ma|[tó]|ri|o
+deformável	adjetivo	de|for|[má]|vel
+deforme	adjetivo	de|[for]|me
+deformidade	nome feminino	de|for|mi|[da]|de
+defraudação	nome feminino	de|frau|da|[ção]
+defraudador	adjetivo	de|frau|da|[dor]
+defraudador	nome masculino	de|frau|da|[dor]
+defraudamento	nome masculino	de|frau|da|[men]|to
+defraudante	adjetivo	de|frau|[dan]|te
+defraudar	verbo	de|frau|[dar]
+defraudável	adjetivo	de|frau|[dá]|vel
+defraudo	nome masculino	de|[frau]|do
+defrontação	nome feminino	de|fron|ta|[ção]
+defrontante	adjetivo	de|fron|[tan]|te
+defrontar	verbo	de|fron|[tar]
+defronte	advérbio	de|[fron]|te
+defumação	nome feminino	de|fu|ma|[ção]
+defumadela	nome feminino	de|fu|ma|[de]|la
+defumado	adjetivo	de|fu|[ma]|do
+defumadoiro	nome masculino	de|fu|ma|[doi]|ro

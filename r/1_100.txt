@@ -1,0 +1,100 @@
+rã	nome feminino	[rã]
+rá	nome masculino	[rá]
+rabaça	nome feminino	ra|[ba]|ça
+rabaça	nome masculino	ra|[ba]|ça
+rabaçal	nome masculino	ra|ba|[çal]
+rabaçal	adjetivo	ra|ba|[çal]
+rabaçaria	nome feminino	ra|ba|ça|[ri]|a
+rabaceiro	adjetivo	ra|ba|[cei]|ro
+rabachola	nome masculino	ra|ba|[cho]|la
+rabachola	nome feminino	ra|ba|[cho]|la
+rabaço	nome masculino	ra|[ba]|ço
+rabada	nome feminino	ra|[ba]|da
+rabadão	nome masculino	ra|ba|[dão]
+rabadela	nome feminino	ra|ba|[de]|la
+rabadilha	nome feminino	ra|ba|[di]|lha
+rabado	nome masculino	ra|[ba]|do
+rabado	adjetivo	ra|[ba]|do
+rabadoquim	nome masculino	ra|ba|do|[quim]
+rabal	nome masculino	ra|[bal]
+rabalva	nome feminino	ra|[bal]|va
+rabalvo	adjetivo	ra|[bal]|vo
+rabana	nome feminino	ra|[ba]|na
+rabanada	nome feminino	ra|ba|[na]|da
+rabanador	nome masculino	ra|ba|na|[dor]
+rabanal	nome masculino	ra|ba|[nal]
+rabanar	verbo	ra|ba|[nar]
+rabanca	adjetivo	ra|[ban]|ca
+rabaneação	nome feminino	ra|ba|ne|a|[ção]
+rabaneadeira	nome feminino	ra|ba|ne|a|[dei]|ra
+rabanear	verbo	ra|ba|ne|[ar]
+rabanejo	nome masculino	ra|ba|[ne]|jo
+rabanete	nome masculino	ra|ba|[ne]|te
+rabanho	nome masculino	ra|[ba]|nho
+rábano	nome masculino	[rá]|ba|no
+rábano-bastardo	nome masculino	rá|ba|no-bas|[tar]|do
+rábano-silvestre	nome masculino	rá|ba|no-sil|[ves]|tre
+rabão	nome masculino	ra|[bão]
+rábão	nome masculino	[rá]|bão
+rabão	adjetivo	ra|[bão]
+rabastel	nome masculino	ra|bas|[tel]
+rabavento	adjetivo	ra|ba|[ven]|to
+rabaz	adjetivo	ra|[baz]
+rabdite	nome feminino	rab|[di]|te
+rabditiforme	adjetivo	rab|di|ti|[for]|me
+rabditoide	adjetivo	rab|di|[toi]|de
+rabdocéleo	nome masculino	rab|do|[cé]|le|o
+rabdofânio	nome masculino	rab|do|[fâ]|ni|o
+rabdoide	adjetivo	rab|[doi]|de
+rabdologia	nome feminino	rab|do|lo|[gi]|a
+rabdológico	adjetivo	rab|do|[ló]|gi|co
+rabdomancia	nome feminino	rab|do|man|[ci]|a
+rabdomante	nome masculino	rab|do|[man]|te
+rabdomante	nome feminino	rab|do|[man]|te
+rabdomântico	adjetivo	rab|do|[mân]|ti|co
+rabdomioma	nome masculino	rab|do|mi|[o]|ma
+rabdomiossarcoma	nome masculino	rab|do|mi|os|sar|[co]|ma
+rabdoscopia	nome feminino	rab|dos|co|[pi]|a
+rabdoscópico	adjetivo	rab|dos|[có]|pi|co
+rabdossoma	nome masculino	rab|dos|[so]|ma
+rabdoteca	nome feminino	rab|do|[te]|ca
+rabeador	adjetivo	ra|be|a|[dor]
+rabeador	nome masculino	ra|be|a|[dor]
+rabeadouro	nome masculino	ra|be|a|[dou]|ro
+rabeadura	nome feminino	ra|be|a|[du]|ra
+rabear	verbo	ra|be|[ar]
+rabeca	nome feminino	ra|[be]|ca
+rabeca	nome masculino	ra|[be]|ca
+rabecada	nome feminino	ra|be|[ca]|da
+rabecão	nome masculino	ra|be|[cão]
+rabeco	nome masculino	ra|[be]|co
+rabeio	nome masculino	ra|[bei]|o
+rabeira	nome feminino	ra|[bei]|ra
+rabeirada	nome feminino	ra|bei|[ra]|da
+rabeiro	nome masculino	ra|[bei]|ro
+rabeiro	adjetivo	ra|[bei]|ro
+rabeja	nome feminino	ra|[be]|ja
+rabejador	adjetivo	ra|be|ja|[dor]
+rabejador	nome masculino	ra|be|ja|[dor]
+rabejar	verbo	ra|be|[jar]
+rabel	nome masculino	ra|[bel]
+rabela	nome feminino	ra|[be]|la
+rabelaico	adjetivo	ra|be|[lai]|co
+rabelaisiana	nome feminino	ra|be|lai|si|[a]|na
+rabelaisiano	adjetivo	ra|be|lai|si|[a]|no
+rabelaisiano	nome masculino	ra|be|lai|si|[a]|no
+rabelho	nome masculino	ra|[be]|lho
+rabelo	adjetivo	ra|[be]|lo
+rabelo	nome masculino	ra|[be]|lo
+rabequear	verbo	ra|be|que|[ar]
+rabequinha	nome feminino	ra|be|[qui]|nha
+rabequista	adjetivo	ra|be|[quis]|ta
+rabequista	nome masculino	ra|be|[quis]|ta
+rabequista	nome feminino	ra|be|[quis]|ta
+rabeta	nome masculino	ra|[be]|ta
+rabeta	nome feminino	ra|[be]|ta
+rabeta	adjetivo	ra|[be]|ta
+rabeto	adjetivo	ra|[be]|to
+rabi	nome masculino	ra|[bi]
+rabi	adjetivo	ra|[bi]
+rábia	nome feminino	[rá]|bi|a

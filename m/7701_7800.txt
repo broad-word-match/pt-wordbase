@@ -1,0 +1,100 @@
+minche	nome masculino	[min]|che
+minderico	adjetivo	min|de|[ri]|co
+minderico	nome masculino	min|de|[ri]|co
+mindinho	nome masculino	min|[di]|nho
+mindinho	adjetivo	min|[di]|nho
+míndio	adjetivo	[mín]|di|o
+míndio	nome masculino	[mín]|di|o
+mindjam	nome masculino	[mind]|jam
+minduba	nome feminino	min|[du]|ba
+mineapolitano	adjetivo	mi|ne|a|po|li|[ta]|no
+mineapolitano	nome masculino	mi|ne|a|po|li|[ta]|no
+mineira	nome feminino	mi|[nei]|ra
+mineiro	nome masculino	mi|[nei]|ro
+mineiro	adjetivo	mi|[nei]|ro
+minense	nome masculino	mi|[nen]|se
+minense	adjetivo	mi|[nen]|se
+minense	nome feminino	mi|[nen]|se
+mineração	nome feminino	mi|ne|ra|[ção]
+minerador	adjetivo	mi|ne|ra|[dor]
+minerador	nome masculino	mi|ne|ra|[dor]
+mineral	adjetivo	mi|ne|[ral]
+mineral	nome masculino	mi|ne|[ral]
+mineralidade	nome feminino	mi|ne|ra|li|[da]|de
+mineralização	nome feminino	mi|ne|ra|li|za|[ção]
+mineralizado	adjetivo	mi|ne|ra|li|[za]|do
+mineralizador	adjetivo	mi|ne|ra|li|za|[dor]
+mineralizador	nome masculino	mi|ne|ra|li|za|[dor]
+mineralizante	adjetivo	mi|ne|ra|li|[zan]|te
+mineralizante	nome masculino	mi|ne|ra|li|[zan]|te
+mineralizar	verbo	mi|ne|ra|li|[zar]
+mineralizável	adjetivo	mi|ne|ra|li|[zá]|vel
+mineralogia	nome feminino	mi|ne|ra|lo|[gi]|a
+mineralogicamente	advérbio	mi|ne|ra|lo|gi|ca|[men]|te
+mineralógico	adjetivo	mi|ne|ra|[ló]|gi|co
+mineralogista	nome masculino	mi|ne|ra|lo|[gis]|ta
+mineralogista	nome feminino	mi|ne|ra|lo|[gis]|ta
+mineraloide	adjetivo	mi|ne|ra|[loi]|de
+mineralurgia	nome feminino	mi|ne|ra|lur|[gi]|a
+mineralúrgico	adjetivo	mi|ne|ra|[lúr]|gi|co
+mineralurgista	adjetivo	mi|ne|ra|lur|[gis]|ta
+mineralurgista	nome masculino	mi|ne|ra|lur|[gis]|ta
+mineralurgista	nome feminino	mi|ne|ra|lur|[gis]|ta
+minerar	verbo	mi|ne|[rar]
+minerário	adjetivo	mi|ne|[rá]|ri|o
+minério	nome masculino	mi|[né]|ri|o
+minerogenia	nome feminino	mi|ne|ro|ge|[ni]|a
+minerógrafa	nome feminino	mi|ne|[ró]|gra|fa
+minerografia	nome feminino	mi|ne|ro|gra|[fi]|a
+minerográfico	adjetivo	mi|ne|ro|[grá]|fi|co
+minerógrafo	nome masculino	mi|ne|[ró]|gra|fo
+mineromedicinal	adjetivo	mi|ne|ro|me|di|ci|[nal]
+minerva	nome feminino	mi|[ner]|va
+minerval	adjetivo	mi|ner|[val]
+minerval	nome masculino	mi|ner|[val]
+minervas	nome feminino	mi|[ner]|vas
+minestra	nome feminino	mi|[nes]|tra
+minestre	nome masculino	mi|[nes]|tre
+minete	nome masculino	mi|[ne]|te
+mineu	adjetivo	mi|[neu]
+mineu	nome masculino	mi|[neu]
+minga	nome feminino	[min]|ga
+mingacho	nome masculino	min|[ga]|cho
+mingança	nome feminino	min|[gan]|ça
+mingar	verbo	min|[gar]
+mingau	nome masculino	min|[gau]
+mingolas	nome masculino	min|[go]|las
+mingolas	nome feminino	min|[go]|las
+mingrélico	adjetivo	min|[gré]|li|co
+mingrélico	nome masculino	min|[gré]|li|co
+mingrélio	adjetivo	min|[gré]|li|o
+mingrélio	nome masculino	min|[gré]|li|o
+mingu	nome masculino	min|[gu]
+míngua	nome feminino	[mín]|gua
+minguadamente	advérbio	min|gua|da|[men]|te
+minguado	adjetivo	min|[gua]|do
+minguador	adjetivo	min|gua|[dor]
+minguamento	nome masculino	min|gua|[men]|to
+minguante	nome masculino	min|[guan]|te
+minguante	adjetivo	min|[guan]|te
+minguante	nome feminino	min|[guan]|te
+minguar	verbo	min|[guar]
+minguarda	nome feminino	min|[guar]|da
+minguta	adjetivo	min|[gu]|ta
+minhafre	nome masculino	mi|[nha]|fre
+minhangolo	nome masculino	mi|nhan|[go]|lo
+minheiro	adjetivo	mi|[nhei]|ro
+minhoca	nome feminino	mi|[nho]|ca
+minhocada	nome feminino	mi|nho|[ca]|da
+minhocal	nome masculino	mi|nho|[cal]
+minhocão	nome masculino	mi|nho|[cão]
+minhocário	nome masculino	mi|nho|[cá]|ri|o
+minhocas	nome masculino	mi|[nho]|cas
+minhocas	nome feminino	mi|[nho]|cas
+minhococultura	nome feminino	mi|nho|co|cul|[tu]|ra
+minhoneta	nome feminino	mi|nho|[ne]|ta
+minhoquices	nome feminino	mi|nho|[qui]|ces
+minhota	nome feminino	mi|[nho]|ta
+minhoteira	nome feminino	mi|nho|[tei]|ra
+minhoteiro	adjetivo	mi|nho|[tei]|ro
+minhoteiro	nome masculino	mi|nho|[tei]|ro

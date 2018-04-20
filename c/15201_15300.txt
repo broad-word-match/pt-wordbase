@@ -1,0 +1,100 @@
+construtor	nome masculino	cons|tru|[tor]
+construtor	adjetivo	cons|tru|[tor]
+construtora	nome feminino	cons|tru|[to]|ra
+construtura	nome feminino	cons|tru|[tu]|ra
+consubstanciação	nome feminino	con|subs|tan|ci|a|[ção]
+consubstanciado	adjetivo	con|subs|tan|ci|[a]|do
+consubstancial	adjetivo	con|subs|tan|ci|[al]
+consubstancialidade	nome feminino	con|subs|tan|ci|a|li|[da]|de
+consubstancialismo	nome masculino	con|subs|tan|ci|a|[lis]|mo
+consubstancialista	adjetivo	con|subs|tan|ci|a|[lis]|ta
+consubstancialista	nome masculino	con|subs|tan|ci|a|[lis]|ta
+consubstancialista	nome feminino	con|subs|tan|ci|a|[lis]|ta
+consubstancialmente	advérbio	con|subs|tan|ci|al|[men]|te
+consubstanciar	verbo	con|subs|tan|ci|[ar]
+consueto	adjetivo	con|su|[e]|to
+consuetudinariamente	advérbio	con|su|e|tu|di|na|ri|a|[men]|te
+consuetudinário	adjetivo	con|su|e|tu|di|[ná]|ri|o
+consuetudinário	nome masculino	con|su|e|tu|di|[ná]|ri|o
+consuetudinarismo	nome masculino	con|su|e|tu|di|na|[ris]|mo
+cônsul	nome masculino	[côn]|sul
+cônsul-geral	nome masculino	côn|sul-ge|[ral]
+consulado	nome masculino	con|su|[la]|do
+consulagem	nome feminino	con|su|[la]|gem
+consular	adjetivo	con|su|[lar]
+consularmente	advérbio	con|su|lar|[men]|te
+consulente	adjetivo	con|su|[len]|te
+consulente	nome masculino	con|su|[len]|te
+consulente	nome feminino	con|su|[len]|te
+consulesa	nome feminino	con|su|[le]|sa
+consulta	nome feminino	con|[sul]|ta
+consultação	nome feminino	con|sul|ta|[ção]
+consultador	adjetivo	con|sul|ta|[dor]
+consultador	nome masculino	con|sul|ta|[dor]
+consultadoria	nome feminino	con|sul|ta|do|[ri]|a
+consultante	adjetivo	con|sul|[tan]|te
+consultante	nome masculino	con|sul|[tan]|te
+consultante	nome feminino	con|sul|[tan]|te
+consultar	verbo	con|sul|[tar]
+consultável	adjetivo	con|sul|[tá]|vel
+consultivo	adjetivo	con|sul|[ti]|vo
+consulto	nome masculino	con|[sul]|to
+consultor	nome masculino	con|sul|[tor]
+consultora	nome feminino	con|sul|[to]|ra
+consultoria	nome feminino	con|sul|to|[ri]|a
+consultório	nome masculino	con|sul|[tó]|ri|o
+consumação	nome feminino	con|su|ma|[ção]
+consumadamente	advérbio	con|su|ma|da|[men]|te
+consumado	adjetivo	con|su|[ma]|do
+consumador	nome masculino	con|su|ma|[dor]
+consumar	verbo	con|su|[mar]
+consumável	adjetivo	con|su|[má]|vel
+consumerismo	nome masculino	con|su|me|[ris]|mo
+consumibilidade	nome feminino	con|su|mi|bi|li|[da]|de
+consumição	nome feminino	con|su|mi|[ção]
+consumido	adjetivo	con|su|[mi]|do
+consumidor	nome masculino	con|su|mi|[dor]
+consumidor	adjetivo	con|su|mi|[dor]
+consumidora	nome feminino	con|su|mi|[do]|ra
+consumir	verbo	con|su|[mir]
+consumismo	nome masculino	con|su|[mis]|mo
+consumista	nome masculino	con|su|[mis]|ta
+consumista	adjetivo	con|su|[mis]|ta
+consumista	nome feminino	con|su|[mis]|ta
+consumível	adjetivo	con|su|[mí]|vel
+consumível	nome masculino	con|su|[mí]|vel
+consumo	nome masculino	con|[su]|mo
+consumpção	nome feminino	con|sump|[ção]
+consumptibilidade	nome feminino	con|sump|ti|bi|li|[da]|de
+consumptível	adjetivo	con|sump|[tí]|vel
+consumptivo	adjetivo	con|sump|[ti]|vo
+consumpto	adjetivo	con|[sump]|to
+consumptor	adjetivo	con|sump|[tor]
+consunção	nome feminino	con|sun|[ção]
+consuntibilidade	nome feminino	con|sun|ti|bi|li|[da]|de
+consuntível	adjetivo	con|sun|[tí]|vel
+consuntivo	adjetivo	con|sun|[ti]|vo
+consunto	adjetivo	con|[sun]|to
+consuntor	adjetivo	con|sun|[tor]
+consútil	adjetivo	con|[sú]|til
+conta	nome feminino	[con]|ta
+conta-corrente	nome feminino	con|ta-cor|[ren]|te
+conta-correntista	nome masculino	con|ta-cor|ren|[tis]|ta
+conta-fios	nome masculino	con|ta-fi|os
+conta-gotas	nome masculino	con|ta-go|tas
+conta-passos	nome masculino	con|ta-pas|sos
+conta-poupança	nome feminino	con|ta-pou|[pan]|ça
+conta-quilômetros	nome masculino	con|ta-qui|[lô]|me|tros
+conta-quilómetros	nome masculino	con|ta-qui|[ló]|me|tros
+conta-rotações	nome masculino	con|ta-ro|ta|[ções]
+conta-voltas	nome masculino	con|ta-vol|tas
+contabescência	nome feminino	con|ta|bes|[cên]|ci|a
+contabescente	adjetivo	con|ta|bes|[cen]|te
+contabescer	verbo	con|ta|bes|[cer]
+contábil	adjetivo	con|[tá]|bil
+contabilidade	nome feminino	con|ta|bi|li|[da]|de
+contabilista	nome masculino	con|ta|bi|[lis]|ta
+contabilista	nome feminino	con|ta|bi|[lis]|ta
+contabilístico	adjetivo	con|ta|bi|[lís]|ti|co
+contabilização	nome feminino	con|ta|bi|li|za|[ção]
+contabilizar	verbo	con|ta|bi|li|[zar]

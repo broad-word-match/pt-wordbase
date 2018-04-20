@@ -1,0 +1,100 @@
+proustiano	adjetivo	prous|ti|[a]|no
+proustiano	nome masculino	prous|ti|[a]|no
+proustita	nome feminino	prous|[ti]|ta
+proustite	nome feminino	prous|[ti]|te
+prova	nome feminino	[pro]|va
+provação	nome feminino	pro|va|[ção]
+provadamente	advérbio	pro|va|da|[men]|te
+provado	adjetivo	pro|[va]|do
+provador	nome masculino	pro|va|[dor]
+provador	adjetivo	pro|va|[dor]
+provadora	nome feminino	pro|va|[do]|ra
+provadura	nome feminino	pro|va|[du]|ra
+provança	nome feminino	pro|[van]|ça
+provante	adjetivo	pro|[van]|te
+provar	verbo	pro|[var]
+provará	nome masculino	pro|va|[rá]
+provatório	adjetivo	pro|va|[tó]|ri|o
+provável	adjetivo	pro|[vá]|vel
+provavelmente	advérbio	pro|va|vel|[men]|te
+prove	adjetivo	[pro]|ve
+prove	nome masculino	[pro]|ve
+prove	nome feminino	[pro]|ve
+provecto	adjetivo	pro|[vec]|to
+provedor	nome masculino	pro|ve|[dor]
+provedor-mor	nome masculino	pro|ve|dor-mor
+provedora	nome feminino	pro|ve|[do]|ra
+provedoral	adjetivo	pro|ve|do|[ral]
+provedoria	nome feminino	pro|ve|do|[ri]|a
+proveito	nome masculino	pro|[vei]|to
+proveitosamente	advérbio	pro|vei|to|sa|[men]|te
+proveitoso	adjetivo	pro|vei|[to]|so
+provençal	nome masculino	pro|ven|[çal]
+provençal	adjetivo	pro|ven|[çal]
+provençal	nome feminino	pro|ven|[çal]
+provençalesco	adjetivo	pro|ven|ça|[les]|co
+provençalismo	nome masculino	pro|ven|ça|[lis]|mo
+provençalista	adjetivo	pro|ven|ça|[lis]|ta
+provençalista	nome masculino	pro|ven|ça|[lis]|ta
+provençalista	nome feminino	pro|ven|ça|[lis]|ta
+proveniência	nome feminino	pro|ve|ni|[ên]|ci|a
+proveniente	adjetivo	pro|ve|ni|[en]|te
+provento	nome masculino	pro|[ven]|to
+proventrículo	nome masculino	pro|ven|[trí]|cu|lo
+prover	verbo	pro|[ver]
+proverbial	adjetivo	pro|ver|bi|[al]
+proverbializar	verbo	pro|ver|bi|a|li|[zar]
+proverbialmente	advérbio	pro|ver|bi|al|[men]|te
+proverbiar	verbo	pro|ver|bi|[ar]
+provérbio	nome masculino	pro|[vér]|bi|o
+provernal	adjetivo	pro|ver|[nal]
+proversão	nome feminino	pro|ver|[são]
+proveta	nome feminino	pro|[ve]|ta
+provete	nome masculino	pro|[ve]|te
+providamente	advérbio	pro|vi|da|[men]|te
+providência	nome feminino	pro|vi|[dên]|ci|a
+providencial	adjetivo	pro|vi|den|ci|[al]
+providencialidade	nome feminino	pro|vi|den|ci|a|li|[da]|de
+providencialismo	nome masculino	pro|vi|den|ci|a|[lis]|mo
+providencialista	nome masculino	pro|vi|den|ci|a|[lis]|ta
+providencialista	nome feminino	pro|vi|den|ci|a|[lis]|ta
+providencialmente	advérbio	pro|vi|den|ci|al|[men]|te
+providenciar	verbo	pro|vi|den|ci|[ar]
+providente	adjetivo	pro|vi|[den]|te
+providentemente	advérbio	pro|vi|den|te|[men]|te
+próvido	adjetivo	[pró]|vi|do
+provido	adjetivo	pro|[vi]|do
+provigário	nome masculino	pro|vi|[gá]|ri|o
+provimento	nome masculino	pro|vi|[men]|to
+província	nome feminino	pro|[vín]|ci|a
+provincial	nome masculino	pro|vin|ci|[al]
+provincial	adjetivo	pro|vin|ci|[al]
+provincialado	nome masculino	pro|vin|ci|a|[la]|do
+provincialato	nome masculino	pro|vin|ci|a|[la]|to
+provincialismo	nome masculino	pro|vin|ci|a|[lis]|mo
+provincialização	nome feminino	pro|vin|ci|a|li|za|[ção]
+provincializador	adjetivo	pro|vin|ci|a|li|za|[dor]
+provincializar	verbo	pro|vin|ci|a|li|[zar]
+provincialmente	advérbio	pro|vin|ci|al|[men]|te
+provinciana	nome feminino	pro|vin|ci|[a]|na
+provincianamente	advérbio	pro|vin|ci|a|na|[men]|te
+provincianismo	nome masculino	pro|vin|ci|a|[nis]|mo
+provincianizar	verbo	pro|vin|ci|a|ni|[zar]
+provinciano	adjetivo	pro|vin|ci|[a]|no
+provinciano	nome masculino	pro|vin|ci|[a]|no
+provinco	nome masculino	pro|[vin]|co
+provindo	adjetivo	pro|[vin]|do
+provir	verbo	pro|[vir]
+provisão	nome feminino	pro|vi|[são]
+proviscar	verbo	pro|vis|[car]
+provisional	adjetivo	pro|vi|si|o|[nal]
+provisionalmente	advérbio	pro|vi|si|o|nal|[men]|te
+provisionar	verbo	pro|vi|si|o|[nar]
+provisioneiro	nome masculino	pro|vi|si|o|[nei]|ro
+provisor	nome masculino	pro|vi|[sor]
+provisor	adjetivo	pro|vi|[sor]
+provisora	nome feminino	pro|vi|[so]|ra
+provisorado	nome masculino	pro|vi|so|[ra]|do
+provisoria	nome feminino	pro|vi|so|[ri]|a
+provisoriamente	advérbio	pro|vi|so|ri|a|[men]|te
+provisoriedade	nome feminino	pro|vi|so|ri|e|[da]|de

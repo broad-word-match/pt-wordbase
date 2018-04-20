@@ -1,0 +1,100 @@
+carpogenético	adjetivo	car|po|ge|[né]|ti|co
+carpogônio	nome masculino	car|po|[gô]|ni|o
+carpogónio	nome masculino	car|po|[gó]|ni|o
+carpólito	nome masculino	car|[pó]|li|to
+carpologia	nome feminino	car|po|lo|[gi]|a
+carpológico	adjetivo	car|po|[ló]|gi|co
+carpologista	nome masculino	car|po|lo|[gis]|ta
+carpologista	nome feminino	car|po|lo|[gis]|ta
+carpólogo	nome masculino	car|[pó]|lo|go
+carpomania	nome feminino	car|po|ma|[ni]|a
+carpomorfo	adjetivo	car|po|[mor]|fo
+carpósporo	nome masculino	car|[pós]|po|ro
+carptor	nome masculino	carp|[tor]
+carqueja	nome feminino	car|[que]|ja
+carquejal	nome masculino	car|que|[jal]
+carquejar	verbo	car|que|[jar]
+carquejeira	nome feminino	car|que|[jei]|ra
+carquejeiro	nome masculino	car|que|[jei]|ro
+carquilha	nome feminino	car|[qui]|lha
+carrabouça	nome feminino	car|ra|[bou]|ça
+carrabouçal	nome masculino	car|ra|bou|[çal]
+carraca	nome feminino	car|[ra]|ca
+carraça	nome feminino	car|[ra]|ça
+carração	nome masculino	car|ra|[ção]
+carraçaria	nome feminino	car|ra|ça|[ri]|a
+carraceira	nome feminino	car|ra|[cei]|ra
+carraceno	adjetivo	car|ra|[ce]|no
+carracha	nome feminino	car|[ra]|cha
+carrachinha	nome feminino	car|ra|[chi]|nha
+carracho	nome masculino	car|[ra]|cho
+carrachola	nome feminino	car|ra|[cho]|la
+carracismo	nome masculino	car|ra|[cis]|mo
+carraço	nome masculino	car|[ra]|ço
+carrada	nome feminino	car|[ra]|da
+carrajó	nome masculino	car|ra|[jó]
+carral	adjetivo	car|[ral]
+carrança	adjetivo	car|[ran]|ça
+carrança	nome masculino	car|[ran]|ça
+carranca	nome feminino	car|[ran]|ca
+carrança	nome feminino	car|[ran]|ça
+carrancada	nome feminino	car|ran|[ca]|da
+carranchas	nome feminino	car|[ran]|chas
+carranchinhas	nome feminino	car|ran|[chi]|nhas
+carrancho	nome masculino	car|[ran]|cho
+carrancholas	nome feminino	car|ran|[cho]|las
+carrancismo	nome masculino	car|ran|[cis]|mo
+carrancudamente	advérbio	car|ran|cu|da|[men]|te
+carrancudo	adjetivo	car|ran|[cu]|do
+carranha	nome feminino	car|[ra]|nha
+carranhoso	adjetivo	car|ra|[nho]|so
+carranquear	verbo	car|ran|que|[ar]
+carrão	nome masculino	car|[rão]
+carrapata	nome feminino	car|ra|[pa]|ta
+carrapatal	nome masculino	car|ra|pa|[tal]
+carrapate	nome masculino	car|ra|[pa]|te
+carrapatear	verbo	car|ra|pa|te|[ar]
+carrapateira	nome feminino	car|ra|pa|[tei]|ra
+carrapateiro	nome masculino	car|ra|pa|[tei]|ro
+carrapateiro	adjetivo	car|ra|pa|[tei]|ro
+carrapaticida	adjetivo	car|ra|pa|ti|[ci]|da
+carrapaticida	nome masculino	car|ra|pa|ti|[ci]|da
+carrapato	nome masculino	car|ra|[pa]|to
+carrapeta	nome feminino	car|ra|[pe]|ta
+carrapeto	nome masculino	car|ra|[pe]|to
+carrapicheiro	nome masculino	car|ra|pi|[chei]|ro
+carrapichinho	nome masculino	car|ra|pi|[chi]|nho
+carrapicho	nome masculino	car|ra|[pi]|cho
+carrapiço	nome masculino	car|ra|[pi]|ço
+carrapita	nome feminino	car|ra|[pi]|ta
+carrapitano	adjetivo	car|ra|pi|[ta]|no
+carrapitas	nome feminino	car|ra|[pi]|tas
+carrapito	nome masculino	car|ra|[pi]|to
+carrar	verbo	car|[rar]
+carrara	nome masculino	car|[ra]|ra
+carrarense	nome masculino	car|ra|[ren]|se
+carrarense	adjetivo	car|ra|[ren]|se
+carrarense	nome feminino	car|ra|[ren]|se
+carraria	nome feminino	car|ra|[ri]|a
+carrasca	nome feminino	car|[ras]|ca
+carrascal	nome masculino	car|ras|[cal]
+carrascão	adjetivo	car|ras|[cão]
+carrascão	nome masculino	car|ras|[cão]
+carrascaria	nome feminino	car|ras|ca|[ri]|a
+carrasco	nome masculino	car|[ras]|co
+carrascoso	adjetivo	car|ras|[co]|so
+carraspana	nome feminino	car|ras|[pa]|na
+carraspeira	nome feminino	car|ras|[pei]|ra
+carraspuda	adjetivo	car|ras|[pu]|da
+carrasqueira	nome feminino	car|ras|[quei]|ra
+carrasqueiral	nome masculino	car|ras|quei|[ral]
+carrasqueiro	nome masculino	car|ras|[quei]|ro
+carrasquenha	nome feminino	car|ras|[que]|nha
+carrasquenho	adjetivo	car|ras|[que]|nho
+carrasquento	adjetivo	car|ras|[quen]|to
+carrasquinha	nome feminino	car|ras|[qui]|nha
+carrasquinho	adjetivo	car|ras|[qui]|nho
+carrazedense	nome masculino	car|ra|ze|[den]|se
+carrazedense	adjetivo	car|ra|ze|[den]|se
+carrazedense	nome feminino	car|ra|ze|[den]|se
+carré	nome masculino	car|[ré]

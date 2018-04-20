@@ -1,0 +1,100 @@
+pungarecos	nome masculino	pun|ga|[re]|cos
+pungência	nome feminino	pun|[gên]|ci|a
+pungente	adjetivo	pun|[gen]|te
+pungentemente	advérbio	pun|gen|te|[men]|te
+pungibarba	nome masculino	pun|gi|[bar]|ba
+pungidor	adjetivo	pun|gi|[dor]
+pungidor	nome masculino	pun|gi|[dor]
+pungimento	nome masculino	pun|gi|[men]|to
+pungir	verbo	pun|[gir]
+pungitivo	adjetivo	pun|gi|[ti]|vo
+pungo	nome masculino	[pun]|go
+pungo	adjetivo	[pun]|go
+pungo	nome feminino	[pun]|go
+punguismo	nome masculino	pun|[guis]|mo
+punguista	nome masculino	pun|[guis]|ta
+punguixi	nome masculino	pun|gui|[xi]
+punhada	nome feminino	pu|[nha]|da
+punhado	nome masculino	pu|[nha]|do
+punhal	nome masculino	pu|[nhal]
+punhalada	nome feminino	pu|nha|[la]|da
+punheta	nome feminino	pu|[nhe]|ta
+punhete	nome masculino	pu|[nhe]|te
+punho	nome masculino	[pu]|nho
+punho-real	nome masculino	pu|nho-re|[al]
+punibilidade	nome feminino	pu|ni|bi|li|[da]|de
+púnica	nome feminino	[pú]|ni|ca
+punicácea	nome feminino	pu|ni|[cá]|ce|a
+punicáceo	adjetivo	pu|ni|[cá]|ce|o
+punição	nome feminino	pu|ni|[ção]
+punicear	verbo	pu|ni|ce|[ar]
+puníceo	adjetivo	pu|[ní]|ce|o
+punicina	nome feminino	pu|ni|[ci]|na
+púnico	adjetivo	[pú]|ni|co
+púnico	nome masculino	[pú]|ni|co
+punido	adjetivo	pu|[ni]|do
+punidor	adjetivo	pu|ni|[dor]
+punidor	nome masculino	pu|ni|[dor]
+punidora	nome feminino	pu|ni|[do]|ra
+punilha	nome feminino	pu|[ni]|lha
+punir	verbo	pu|[nir]
+punitivo	adjetivo	pu|ni|[ti]|vo
+punível	adjetivo	pu|[ní]|vel
+punivelmente	advérbio	pu|ni|vel|[men]|te
+punja	nome masculino	[pun]|ja
+punja	nome feminino	[pun]|ja
+punk	nome masculino	[punk]
+punk	adjetivo	[punk]
+punk	nome feminino	[punk]
+puntiforme	adjetivo	pun|ti|[for]|me
+puntura	nome feminino	pun|[tu]|ra
+pupa	nome feminino	[pu]|pa
+pupália	nome feminino	pu|[pá]|li|a
+pupar	verbo	pu|[par]
+pupila	nome feminino	pu|[pi]|la
+pupilado	adjetivo	pu|pi|[la]|do
+pupilagem	nome feminino	pu|pi|[la]|gem
+pupilar	verbo	pu|pi|[lar]
+pupilar	adjetivo	pu|pi|[lar]
+pupilaridade	nome feminino	pu|pi|la|ri|[da]|de
+pupilo	nome masculino	pu|[pi]|lo
+pupilómetro	nome masculino	pu|pi|[ló]|me|tro
+pupilômetro	nome masculino	pu|pi|[lô]|me|tro
+pupiloscopia	nome feminino	pu|pi|los|co|[pi]|a
+pupiloscópico	adjetivo	pu|pi|los|[có]|pi|co
+pupiniense	nome masculino	pu|pi|ni|[en]|se
+pupiniense	adjetivo	pu|pi|ni|[en]|se
+pupiniense	nome feminino	pu|pi|ni|[en]|se
+pupinização	nome feminino	pu|pi|ni|za|[ção]
+pupinizar	verbo	pu|pi|ni|[zar]
+pupíparo	adjetivo	pu|[pí]|pa|ro
+pupu	nome masculino	pu|[pu]
+pupunha	nome feminino	pu|[pu]|nha
+pupunharana	nome feminino	pu|pu|nha|[ra]|na
+pupunheira	nome feminino	pu|pu|[nhei]|ra
+pupunheiro	nome masculino	pu|pu|[nhei]|ro
+pura	nome feminino	[pu]|ra
+puramente	advérbio	pu|ra|[men]|te
+purânico	adjetivo	pu|[râ]|ni|co
+puré	nome masculino	pu|[ré]
+purê	nome masculino	pu|[rê]
+pureia	nome feminino	pu|[rei]|a
+pureza	nome feminino	pu|[re]|za
+purga	nome feminino	[pur]|ga
+purga-de-caboclo	nome feminino	pur|ga-de-ca|[bo]|clo
+purgação	nome feminino	pur|ga|[ção]
+purgado	adjetivo	pur|[ga]|do
+purgador	adjetivo	pur|ga|[dor]
+purgador	nome masculino	pur|ga|[dor]
+purgante	adjetivo	pur|[gan]|te
+purgante	nome masculino	pur|[gan]|te
+purgar	verbo	pur|[gar]
+purgativo	adjetivo	pur|ga|[ti]|vo
+purgatório	nome masculino	pur|ga|[tó]|ri|o
+purgatório	adjetivo	pur|ga|[tó]|ri|o
+purgável	adjetivo	pur|[gá]|vel
+purgueira	nome feminino	pur|[guei]|ra
+puri	adjetivo	pu|[ri]
+puri	nome masculino	pu|[ri]
+puri	nome feminino	pu|[ri]
+púrico	adjetivo	[pú]|ri|co

@@ -1,0 +1,100 @@
+dextrínico	adjetivo	dex|[trí]|ni|co
+dextrinúria	nome feminino	dex|tri|[nú]|ri|a
+dextrinúrico	adjetivo	dex|tri|[nú]|ri|co
+dextrivolúvel	adjetivo	dex|tri|vo|[lú]|vel
+dextrocardia	nome feminino	dex|tro|car|[di]|a
+dextrocardíaco	adjetivo	dex|tro|car|[dí]|a|co
+dextrogiro	adjetivo	dex|tro|[gi]|ro
+dextrorso	adjetivo	dex|[tror]|so
+dextrose	nome feminino	dex|[tro]|se
+dextrossinistro	adjetivo	dex|tros|si|[nis]|tro
+dextrosúria	nome feminino	dex|tro|[sú]|ri|a
+dextrovolúvel	adjetivo	dex|tro|vo|[lú]|vel
+dez	número cardinal	[dez]
+dez	nome masculino	[dez]
+dez	adjetivo	[dez]
+dez-e-um	nome masculino	[dez-e-um]
+dez-réis	nome masculino	[dez-réis]
+dezanove	número cardinal	de|za|[no]|ve
+dezanove	nome masculino	de|za|[no]|ve
+dezanove	adjetivo	de|za|[no]|ve
+dezanovena	nome feminino	de|za|no|[ve]|na
+dezasseis	número cardinal	de|zas|[seis]
+dezasseis	adjetivo	de|zas|[seis]
+dezasseis	nome masculino	de|zas|[seis]
+dezassete	nome masculino	de|zas|[se]|te
+dezassete	número cardinal	de|zas|[se]|te
+dezassete	adjetivo	de|zas|[se]|te
+dezembrino	adjetivo	de|zem|[bri]|no
+dezembrismo	nome masculino	de|zem|[bris]|mo
+dezembrista	adjetivo	de|zem|[bris]|ta
+dezembrista	nome masculino	de|zem|[bris]|ta
+dezembrista	nome feminino	de|zem|[bris]|ta
+dezembro	nome masculino	de|[zem]|bro
+dezena	nome feminino	de|[ze]|na
+dezenove	adjetivo	de|ze|[no]|ve
+dezenove	número cardinal	de|ze|[no]|ve
+dezenove	nome masculino	de|ze|[no]|ve
+dezesseis	adjetivo	de|zes|[seis]
+dezesseis	número cardinal	de|zes|[seis]
+dezesseis	nome masculino	de|zes|[seis]
+dezessete	número cardinal	de|zes|[se]|te
+dezessete	nome masculino	de|zes|[se]|te
+dezessete	adjetivo	de|zes|[se]|te
+dezoito	nome masculino	de|[zoi]|to
+dezoito	número cardinal	de|[zoi]|to
+dezoito	adjetivo	de|[zoi]|to
+di-hibridismo	nome masculino	di-hi|bri|[dis]|mo
+di-híbrido	adjetivo	di-hí|bri|do
+di-hídrico	adjetivo	di-hí|dri|co
+di-hidrite	nome feminino	di-hi|[dri]|te
+dia	nome masculino	[di]|a
+dia a dia	nome masculino	[di]|a a di|a
+dia-santo	nome masculino	di|a-san|to
+diaba	nome feminino	di|[a]|ba
+diabada	nome feminino	di|a|[ba]|da
+diábase	nome feminino	di|[á]|ba|se
+diabásio	nome masculino	di|a|[bá]|si|o
+diábatro	nome masculino	di|[á]|ba|tro
+diabelha	nome feminino	di|a|[be]|lha
+diabeta	nome masculino	di|a|[be]|ta
+diabete	nome feminino	di|a|[be]|te
+diabetes	nome feminino	di|a|[be]|tes
+diabetes	nome masculino	di|a|[be]|tes
+diabética	nome feminino	di|a|[bé]|ti|ca
+diabético	nome masculino	di|a|[bé]|ti|co
+diabético	adjetivo	di|a|[bé]|ti|co
+diabetologia	nome feminino	di|a|be|to|lo|[gi]|a
+diabetológico	adjetivo	di|a|be|to|[ló]|gi|co
+diabetologista	adjetivo	di|a|be|to|lo|[gis]|ta
+diabetologista	nome masculino	di|a|be|to|lo|[gis]|ta
+diabetologista	nome feminino	di|a|be|to|lo|[gis]|ta
+diabetólogo	nome masculino	di|a|be|[tó]|lo|go
+diabetometria	nome feminino	di|a|be|to|me|[tri]|a
+diabetométrico	adjetivo	di|a|be|to|[mé]|tri|co
+diabetómetro	nome masculino	di|a|be|[tó]|me|tro
+diabetômetro	nome masculino	di|a|be|[tô]|me|tro
+diablinte	adjetivo	di|a|[blin]|te
+diablinte	nome masculino	di|a|[blin]|te
+diablinte	nome feminino	di|a|[blin]|te
+diabo	nome masculino	di|[a]|bo
+diabo	interjeição	di|[a]|bo
+diabo-alma	nome masculino	di|a|bo-al|ma
+diáboa	nome feminino	di|[á]|bo|a
+diabolicamente	advérbio	di|a|bo|li|ca|[men]|te
+diabólico	adjetivo	di|a|[bó]|li|co
+diabolismo	nome masculino	di|a|bo|[lis]|mo
+diabolização	nome feminino	di|a|bo|li|za|[ção]
+diabolizar	verbo	di|a|bo|li|[zar]
+diabótano	nome masculino	di|a|[bó]|ta|no
+diabrete	nome masculino	di|a|[bre]|te
+diabril	adjetivo	di|a|[bril]
+diabrilmente	advérbio	di|a|bril|[men]|te
+diabrino	adjetivo	di|a|[bri]|no
+diabrose	nome feminino	di|a|[bro]|se
+diabrótico	adjetivo	di|a|[bró]|ti|co
+diabrura	nome feminino	di|a|[bru]|ra
+diacálase	nome feminino	di|a|[cá]|la|se
+diacanto	nome masculino	di|a|[can]|to
+diacatolicão	nome masculino	di|a|ca|to|li|[cão]
+diacáustico	adjetivo	di|a|[cáus]|ti|co

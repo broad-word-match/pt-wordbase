@@ -1,0 +1,100 @@
+vindicativo	adjetivo	vin|di|ca|[ti]|vo
+víndice	nome masculino	[vín]|di|ce
+víndice	adjetivo	[vín]|di|ce
+víndice	nome feminino	[vín]|di|ce
+vindícia	nome feminino	vin|[dí]|ci|a
+vindiço	adjetivo	vin|[di]|ço
+vindicta	nome feminino	vin|[dic]|ta
+vindima	nome feminino	vin|[di]|ma
+vindimadeira	nome feminino	vin|di|ma|[dei]|ra
+vindimadeiro	adjetivo	vin|di|ma|[dei]|ro
+vindimadeiro	nome masculino	vin|di|ma|[dei]|ro
+vindimado	adjetivo	vin|di|[ma]|do
+vindimador	nome masculino	vin|di|ma|[dor]
+vindimador	adjetivo	vin|di|ma|[dor]
+vindimadora	nome feminino	vin|di|ma|[do]|ra
+vindimadura	nome feminino	vin|di|ma|[du]|ra
+vindimal	adjetivo	vin|di|[mal]
+vindimar	verbo	vin|di|[mar]
+vindimável	adjetivo	vin|di|[má]|vel
+vindimeira	nome feminino	vin|di|[mei]|ra
+vindimeiro	adjetivo	vin|di|[mei]|ro
+vindimeiro	nome masculino	vin|di|[mei]|ro
+vindimo	adjetivo	vin|[di]|mo
+vindimo	nome masculino	vin|[di]|mo
+vindinate	adjetivo	vin|di|[na]|te
+vindinate	nome masculino	vin|di|[na]|te
+vindinate	nome feminino	vin|di|[na]|te
+vindita	nome feminino	vin|[di]|ta
+vindo	adjetivo	[vin]|do
+vindobonense	adjetivo	vin|do|bo|[nen]|se
+vindobonense	nome masculino	vin|do|bo|[nen]|se
+vindobonense	nome feminino	vin|do|bo|[nen]|se
+vindoboniano	adjetivo	vin|do|bo|ni|[a]|no
+vindoira	nome feminino	vin|[doi]|ra
+vindoiro	adjetivo	vin|[doi]|ro
+vindoiro	nome masculino	vin|[doi]|ro
+vindoura	nome feminino	vin|[dou]|ra
+vindouro	nome masculino	vin|[dou]|ro
+vindouro	adjetivo	vin|[dou]|ro
+vínea	nome feminino	[ví]|ne|a
+víneo	adjetivo	[ví]|ne|o
+vinga	nome feminino	[vin]|ga
+vingação	nome feminino	vin|ga|[ção]
+vingador	adjetivo	vin|ga|[dor]
+vingador	nome masculino	vin|ga|[dor]
+vingadora	nome feminino	vin|ga|[do]|ra
+vingança	nome feminino	vin|[gan]|ça
+vingar	verbo	vin|[gar]
+vingativamente	advérbio	vin|ga|ti|va|[men]|te
+vingativo	adjetivo	vin|ga|[ti]|vo
+vingável	adjetivo	vin|[gá]|vel
+vingue	adjetivo	[vin]|gue
+vinha	nome feminino	[vi]|nha
+vinha-d'alhos	nome feminino	vi|nha-d´a|lhos
+vinha-virgem	nome feminino	vi|nha-vir|gem
+vinhaça	nome feminino	vi|[nha]|ça
+vinháceo	adjetivo	vi|[nhá]|ce|o
+vinhaço	nome masculino	vi|[nha]|ço
+vinhádego	nome masculino	vi|[nhá]|de|go
+vinhadeiro	nome masculino	vi|nha|[dei]|ro
+vinhado	nome masculino	vi|[nha]|do
+vinhaense	adjetivo	vi|nha|[en]|se
+vinhaense	nome masculino	vi|nha|[en]|se
+vinhaense	nome feminino	vi|nha|[en]|se
+vinhagem	nome feminino	vi|[nha]|gem
+vinhago	nome masculino	vi|[nha]|go
+vinhal	nome masculino	vi|[nhal]
+vinhalense	adjetivo	vi|nha|[len]|se
+vinhalense	nome masculino	vi|nha|[len]|se
+vinhalense	nome feminino	vi|nha|[len]|se
+vinhame	nome masculino	vi|[nha]|me
+vinhão	nome masculino	vi|[nhão]
+vinharrão	nome masculino	vi|nhar|[rão]
+vinhataria	nome feminino	vi|nha|ta|[ri]|a
+vinhateira	nome feminino	vi|nha|[tei]|ra
+vinhateiro	nome masculino	vi|nha|[tei]|ro
+vinhateiro	adjetivo	vi|nha|[tei]|ro
+vinhático	nome masculino	vi|[nhá]|ti|co
+vinhático-das-ilhas	nome masculino	vi|nhá|ti|co-das-i|lhas
+vinhedo	nome masculino	vi|[nhe]|do
+vinheiro	nome masculino	vi|[nhei]|ro
+vinhento	adjetivo	vi|[nhen]|to
+vinheta	nome feminino	vi|[nhe]|ta
+vinhetagem	nome feminino	vi|nhe|[ta]|gem
+vinhete	nome masculino	vi|[nhe]|te
+vinhetista	nome masculino	vi|nhe|[tis]|ta
+vinhetista	nome feminino	vi|nhe|[tis]|ta
+vinho	nome masculino	[vi]|nho
+vinho de caju	nome masculino	[vi]|nho de ca|ju
+vinho de cheiro	nome masculino	[vi]|nho de chei|ro
+vinho de maçã	nome masculino	[vi]|nho de ma|çã
+vinho de maçãs	nome masculino	[vi]|nho de ma|çãs
+vinho de palma	nome masculino	[vi]|nho de pal|ma
+vinho-judeu	nome masculino	vi|nho-ju|[deu]
+vinho-surdo	nome masculino	vi|nho-sur|do
+vinhoca	nome feminino	vi|[nho]|ca
+vinhoneira	nome feminino	vi|nho|[nei]|ra
+vinhoso	adjetivo	vi|[nho]|so
+vinhoso	nome masculino	vi|[nho]|so
+vinhote	nome masculino	vi|[nho]|te

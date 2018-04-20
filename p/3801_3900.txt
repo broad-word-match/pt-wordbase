@@ -1,0 +1,100 @@
+paulificação	nome feminino	pau|li|fi|ca|[ção]
+paulificante	adjetivo	pau|li|fi|[can]|te
+paulificante	nome masculino	pau|li|fi|[can]|te
+paulificante	nome feminino	pau|li|fi|[can]|te
+paulificar	verbo	pau|li|fi|[car]
+paulina	nome feminino	pau|[li]|na
+paulínia	nome feminino	pau|[lí]|ni|a
+paulista	adjetivo	pau|[lis]|ta
+paulista	nome masculino	pau|[lis]|ta
+paulista	nome feminino	pau|[lis]|ta
+paulistana	nome feminino	pau|lis|[ta]|na
+paulistano	adjetivo	pau|lis|[ta]|no
+paulistano	nome masculino	pau|lis|[ta]|no
+paulitada	nome feminino	pau|li|[ta]|da
+pauliteiro	nome masculino	pau|li|[tei]|ro
+paulito	nome masculino	pau|[li]|to
+paúlo	nome masculino	pa|[ú]|lo
+paupeíra	nome feminino	pau|pe|[í]|ra
+paupérie	nome feminino	pau|[pé]|ri|e
+pauperismo	nome masculino	pau|pe|[ris]|mo
+pauperização	nome feminino	pau|pe|ri|za|[ção]
+pauperizado	adjetivo	pau|pe|ri|[za]|do
+pauperizador	adjetivo	pau|pe|ri|za|[dor]
+pauperizante	adjetivo	pau|pe|ri|[zan]|te
+pauperizar	verbo	pau|pe|ri|[zar]
+paupérrimo	adjetivo	pau|[pér]|ri|mo
+pausa	nome feminino	[pau]|sa
+pausadamente	advérbio	pau|sa|da|[men]|te
+pausado	adjetivo	pau|[sa]|do
+pausagem	nome feminino	pau|[sa]|gem
+pausar	verbo	pau|[sar]
+páusia	nome feminino	[páu]|si|a
+pausulano	adjetivo	pau|su|[la]|no
+pausulano	nome masculino	pau|su|[la]|no
+pausulense	adjetivo	pau|su|[len]|se
+pausulense	nome masculino	pau|su|[len]|se
+pausulense	nome feminino	pau|su|[len]|se
+pauta	nome feminino	[pau]|ta
+pautação	nome feminino	pau|ta|[ção]
+pautado	adjetivo	pau|[ta]|do
+pautado	nome masculino	pau|[ta]|do
+pautador	nome masculino	pau|ta|[dor]
+pautal	adjetivo	pau|[tal]
+pautar	verbo	pau|[tar]
+pauteação	nome feminino	pau|te|a|[ção]
+pautear	verbo	pau|te|[ar]
+pauteiro	nome masculino	pau|[tei]|ro
+pauto	nome masculino	[pau]|to
+pauxiana	adjetivo	pau|xi|[a]|na
+pauxiana	nome masculino	pau|xi|[a]|na
+pauxiana	nome feminino	pau|xi|[a]|na
+pauzeiro	nome masculino	pau|[zei]|ro
+pauzinho	nome masculino	pau|[zi]|nho
+pavana	nome feminino	pa|[va]|na
+pavão	nome masculino	pa|[vão]
+paveia	nome feminino	pa|[vei]|a
+pavejar	verbo	pa|ve|[jar]
+pavês	nome masculino	pa|[vês]
+pavesada	nome feminino	pa|ve|[sa]|da
+pavesado	adjetivo	pa|ve|[sa]|do
+pavesadura	nome feminino	pa|ve|sa|[du]|ra
+pavesar	verbo	pa|ve|[sar]
+pavia	nome feminino	pa|[vi]|a
+pavidamente	advérbio	pa|vi|da|[men]|te
+pavidez	nome feminino	pa|vi|[dez]
+pávido	adjetivo	[pá]|vi|do
+pavieira	nome feminino	pa|vi|[ei]|ra
+pavilhão	nome masculino	pa|vi|[lhão]
+pavimentação	nome feminino	pa|vi|men|ta|[ção]
+pavimentado	adjetivo	pa|vi|men|[ta]|do
+pavimentadora	nome feminino	pa|vi|men|ta|[do]|ra
+pavimentar	verbo	pa|vi|men|[tar]
+pavimento	nome masculino	pa|vi|[men]|to
+pavio	nome masculino	pa|[vi]|o
+paviola	nome feminino	pa|vi|[o]|la
+pavloviano	adjetivo	pa|vlo|vi|[a]|no
+pavloviano	nome masculino	pa|vlo|vi|[a]|no
+pavo	nome masculino	[pa]|vo
+pavoa	nome feminino	pa|[vo]|a
+pavona	nome feminino	pa|[vo]|na
+pavonaço	adjetivo	pa|vo|[na]|ço
+pavonada	nome feminino	pa|vo|[na]|da
+pavonado	adjetivo	pa|vo|[na]|do
+pavoncinho	nome masculino	pa|von|[ci]|nho
+pavoncino	nome masculino	pa|von|[ci]|no
+pavoneamento	nome masculino	pa|vo|ne|a|[men]|to
+pavonear	verbo	pa|vo|ne|[ar]
+pavoneio	nome masculino	pa|vo|[nei]|o
+pavónia	nome feminino	pa|[vó]|ni|a
+pavônia	nome feminino	pa|[vô]|ni|a
+pavor	nome masculino	pa|[vor]
+pavório	nome masculino	pa|[vó]|ri|o
+pavorosa	nome feminino	pa|vo|[ro]|sa
+pavorosamente	advérbio	pa|vo|ro|sa|[men]|te
+pavoroso	adjetivo	pa|vo|[ro]|so
+pavuna	nome feminino	pa|[vu]|na
+pax-vóbis	nome masculino	pax-vó|bis
+paxá	nome masculino	pa|[xá]
+paxalato	nome masculino	pa|xa|[la]|to
+paxalique	nome masculino	pa|xa|[li]|que

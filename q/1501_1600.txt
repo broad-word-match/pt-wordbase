@@ -1,0 +1,100 @@
+quirera	nome feminino	qui|[re]|ra
+quirguistanês	adjetivo	quir|guis|ta|[nês]
+quirguistanês	nome masculino	quir|guis|ta|[nês]
+quirguistanesa	nome feminino	quir|guis|ta|[ne]|sa
+quirguiz	nome masculino	quir|[guiz]
+quirguiz	adjetivo	quir|[guiz]
+quirguiz	nome feminino	quir|[guiz]
+quiri	nome masculino	qui|[ri]
+quiriba	nome feminino	qui|[ri]|ba
+quiribatiano	adjetivo	qui|ri|ba|ti|[a]|no
+quiribatiano	nome masculino	qui|ri|ba|ti|[a]|no
+quírie	nome masculino	[quí]|ri|e
+quirielêison	nome masculino	qui|ri|e|[lêi]|son
+quirina	nome feminino	qui|[ri]|na
+quirinopolitano	adjetivo	qui|ri|no|po|li|[ta]|no
+quirinopolitano	nome masculino	qui|ri|no|po|li|[ta]|no
+quírios	nome masculino	[quí]|ri|os
+quiriquiri	nome masculino	qui|ri|qui|[ri]
+quiriri	nome masculino	qui|ri|[ri]
+quiriripitá	nome feminino	qui|ri|ri|pi|[tá]
+quiriru	nome masculino	qui|ri|[ru]
+quiritário	adjetivo	qui|ri|[tá]|ri|o
+quirite	adjetivo	qui|[ri]|te
+quirite	nome masculino	qui|[ri]|te
+quirite	nome feminino	qui|[ri]|te
+quirites	nome masculino	qui|[ri]|tes
+quiroga	nome feminino	qui|[ro]|ga
+quiroginasta	nome masculino	qui|ro|gi|[nas]|ta
+quirografar	verbo	qui|ro|gra|[far]
+quirografário	adjetivo	qui|ro|gra|[fá]|ri|o
+quirográfico	adjetivo	qui|ro|[grá]|fi|co
+quirógrafo	nome masculino	qui|[ró]|gra|fo
+quirologia	nome feminino	qui|ro|lo|[gi]|a
+quirológico	adjetivo	qui|ro|[ló]|gi|co
+quirólogo	nome masculino	qui|[ró]|lo|go
+quiromancia	nome feminino	qui|ro|man|[ci]|a
+quiromante	nome masculino	qui|ro|[man]|te
+quiromante	nome feminino	qui|ro|[man]|te
+quiromântico	adjetivo	qui|ro|[mân]|ti|co
+quirométrico	adjetivo	qui|ro|[mé]|tri|co
+quirómetro	nome masculino	qui|[ró]|me|tro
+quirômetro	nome masculino	qui|[rô]|me|tro
+quiromiídeo	nome masculino	qui|ro|mi|[í]|de|o
+quironecta	nome masculino	qui|ro|[nec]|ta
+quironectídeo	nome masculino	qui|ro|nec|[tí]|de|o
+quironeu	adjetivo	qui|ro|[neu]
+quironomia	nome feminino	qui|ro|no|[mi]|a
+quironômico	adjetivo	qui|ro|[nô]|mi|co
+quironómico	adjetivo	qui|ro|[nó]|mi|co
+quironómida	nome masculino	qui|ro|[nó]|mi|da
+quironomídeo	nome masculino	qui|ro|no|[mí]|de|o
+quironomídeo	adjetivo	qui|ro|no|[mí]|de|o
+quirônomo	nome masculino	qui|[rô]|no|mo
+quirónomo	nome masculino	qui|[ró]|no|mo
+quiroplasto	nome masculino	qui|ro|[plas]|to
+quiropodia	nome feminino	qui|ro|po|[di]|a
+quiropodista	nome masculino	qui|ro|po|[dis]|ta
+quiropodista	nome feminino	qui|ro|po|[dis]|ta
+quiroprática	nome feminino	qui|ro|[prá]|ti|ca
+quiroprático	nome masculino	qui|ro|[prá]|ti|co
+quiroprático	adjetivo	qui|ro|[prá]|ti|co
+quiropraxia	nome feminino	qui|ro|pra|[xi]|a
+quiróptero	nome masculino	qui|[róp]|te|ro
+quiróptero	adjetivo	qui|[róp]|te|ro
+quiroscopia	nome feminino	qui|ros|co|[pi]|a
+quiroscópico	adjetivo	qui|ros|[có]|pi|co
+quiroteca	nome feminino	qui|ro|[te]|ca
+quirotonia	nome feminino	qui|ro|to|[ni]|a
+quirotônico	adjetivo	qui|ro|[tô]|ni|co
+quirotónico	adjetivo	qui|ro|[tó]|ni|co
+quirotribia	nome feminino	qui|ro|tri|[bi]|a
+quisacá	nome feminino	qui|sa|[cá]
+quíscalo	nome masculino	[quís]|ca|lo
+quisimussi	nome masculino	qui|si|mus|[si]
+quispá	nome masculino	quis|[pá]
+quissanga	nome feminino	quis|[san]|ga
+quissange	nome masculino	quis|[san]|ge
+quissângua	nome feminino	quis|[sân]|gua
+quissanguela	nome feminino	quis|san|[gue]|la
+quissanje	nome masculino	quis|[san]|je
+quissapo	nome masculino	quis|[sa]|po
+quissarro	nome masculino	quis|[sar]|ro
+quissassa	nome feminino	quis|[sas]|sa
+quissemo	nome masculino	quis|[se]|mo
+quissende	nome masculino	quis|[sen]|de
+quissoco	nome masculino	quis|[so]|co
+quissonde	nome masculino	quis|[son]|de
+quissongo	nome masculino	quis|[son]|go
+quissuaíli	nome masculino	quis|su|a|[í]|li
+quissunzo	nome masculino	quis|[sun]|zo
+quisto	nome masculino	[quis]|to
+quisto	adjetivo	[quis]|to
+quistoso	adjetivo	quis|[to]|so
+quita	nome feminino	[qui]|ta
+quita-merenda	nome feminino	qui|ta-me|[ren]|da
+quita-sol	nome masculino	qui|ta-sol
+quitaba	nome feminino	qui|[ta]|ba
+quitabo	nome masculino	qui|[ta]|bo
+quitaca	nome feminino	qui|[ta]|ca
+quitacamba	nome feminino	qui|ta|[cam]|ba

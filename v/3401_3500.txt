@@ -1,0 +1,100 @@
+visor	nome masculino	vi|[sor]
+visório	adjetivo	vi|[só]|ri|o
+vispar	verbo	vis|[par]
+víspere	interjeição	[vís]|pe|re
+víspora	nome feminino	[vís]|po|ra
+visporar	verbo	vis|po|[rar]
+visqueira	nome feminino	vis|[quei]|ra
+visqueiro	nome masculino	vis|[quei]|ro
+vissarga	nome masculino	vis|[sar]|ga
+vista	nome feminino	[vis]|ta
+vistão	nome masculino	vis|[tão]
+visto	adjetivo	[vis]|to
+visto	nome masculino	[vis]|to
+visto	preposição	[vis]|to
+vistor	adjetivo	vis|[tor]
+vistor	nome masculino	vis|[tor]
+vistora	nome feminino	vis|[to]|ra
+vistoria	nome feminino	vis|to|[ri]|a
+vistoriador	adjetivo	vis|to|ri|a|[dor]
+vistoriador	nome masculino	vis|to|ri|a|[dor]
+vistoriadora	nome feminino	vis|to|ri|a|[do]|ra
+vistoriar	verbo	vis|to|ri|[ar]
+vistorizar	verbo	vis|to|ri|[zar]
+vistosamente	advérbio	vis|to|sa|[men]|te
+vistoso	adjetivo	vis|[to]|so
+visual	adjetivo	vi|su|[al]
+visual	nome masculino	vi|su|[al]
+visualidade	nome feminino	vi|su|a|li|[da]|de
+visualização	nome feminino	vi|su|a|li|za|[ção]
+visualizar	verbo	vi|su|a|li|[zar]
+visualizável	adjetivo	vi|su|a|li|[zá]|vel
+visualmente	advérbio	vi|su|al|[men]|te
+visvassi	nome masculino	vis|vas|[si]
+vitácea	nome feminino	vi|[tá]|ce|a
+vitáceo	nome masculino	vi|[tá]|ce|o
+vitadínia-das-floristas	nome feminino	vi|ta|dí|ni|a-das-flo|[ris]|tas
+vital	adjetivo	vi|[tal]
+vital	nome masculino	vi|[tal]
+vitaliciamente	advérbio	vi|ta|li|ci|a|[men]|te
+vitaliciedade	nome feminino	vi|ta|li|ci|e|[da]|de
+vitalício	adjetivo	vi|ta|[lí]|ci|o
+vitalidade	nome feminino	vi|ta|li|[da]|de
+vitalífero	adjetivo	vi|ta|[lí]|fe|ro
+vitalina	nome feminino	vi|ta|[li]|na
+vitalismo	nome masculino	vi|ta|[lis]|mo
+vitalista	nome masculino	vi|ta|[lis]|ta
+vitalista	adjetivo	vi|ta|[lis]|ta
+vitalista	nome feminino	vi|ta|[lis]|ta
+vitalização	nome feminino	vi|ta|li|za|[ção]
+vitalizado	adjetivo	vi|ta|li|[za]|do
+vitalizador	adjetivo	vi|ta|li|za|[dor]
+vitalizador	nome masculino	vi|ta|li|za|[dor]
+vitalizadora	nome feminino	vi|ta|li|za|[do]|ra
+vitalizante	adjetivo	vi|ta|li|[zan]|te
+vitalizante	nome masculino	vi|ta|li|[zan]|te
+vitalizante	nome feminino	vi|ta|li|[zan]|te
+vitalizar	verbo	vi|ta|li|[zar]
+vitalizável	adjetivo	vi|ta|li|[zá]|vel
+vitalmente	advérbio	vi|tal|[men]|te
+vitamina	nome feminino	vi|ta|[mi]|na
+vitamina	nome masculino	vi|ta|[mi]|na
+vitaminação	nome feminino	vi|ta|mi|na|[ção]
+vitaminado	adjetivo	vi|ta|mi|[na]|do
+vitaminar	verbo	vi|ta|mi|[nar]
+vitamínico	adjetivo	vi|ta|[mí]|ni|co
+vitaminizar	verbo	vi|ta|mi|ni|[zar]
+vitaminologia	nome feminino	vi|ta|mi|no|lo|[gi]|a
+vitaminose	nome feminino	vi|ta|mi|[no]|se
+vitaminoterapia	nome feminino	vi|ta|mi|no|te|ra|[pi]|a
+vitando	adjetivo	vi|[tan]|do
+vitatório	adjetivo	vi|ta|[tó]|ri|o
+vitável	adjetivo	vi|[tá]|vel
+vitela	nome feminino	vi|[te]|la
+vitelária	nome feminino	vi|te|[lá]|ri|a
+vítele	nome masculino	[ví]|te|le
+viteleira	nome feminino	vi|te|[lei]|ra
+viteleiro	nome masculino	vi|te|[lei]|ro
+vitelense	adjetivo	vi|te|[len]|se
+vitelense	nome masculino	vi|te|[len]|se
+vitelense	nome feminino	vi|te|[len]|se
+viteliano	adjetivo	vi|te|li|[a]|no
+viteliduto	nome masculino	vi|te|li|[du]|to
+vitelífero	adjetivo	vi|te|[lí]|fe|ro
+vitelina	nome feminino	vi|te|[li]|na
+vitelino	adjetivo	vi|te|[li]|no
+vitelo	nome masculino	vi|[te]|lo
+viteloduto	nome masculino	vi|te|lo|[du]|to
+vitelogéneo	adjetivo	vi|te|lo|[gé]|ne|o
+vitelogénese	nome feminino	vi|te|lo|[gé]|ne|se
+vitelogênese	nome feminino	vi|te|lo|[gê]|ne|se
+vitelógeno	adjetivo	vi|te|[ló]|ge|no
+viticácea	nome feminino	vi|ti|[cá]|ce|a
+vitícola	adjetivo	vi|[tí]|co|la
+vitícola	nome masculino	vi|[tí]|co|la
+vitícola	nome feminino	vi|[tí]|co|la
+viticomado	adjetivo	vi|ti|co|[ma]|do
+viticultor	adjetivo	vi|ti|cul|[tor]
+viticultor	nome masculino	vi|ti|cul|[tor]
+viticultora	nome feminino	vi|ti|cul|[to]|ra
+viticultura	nome feminino	vi|ti|cul|[tu]|ra

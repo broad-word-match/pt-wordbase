@@ -1,0 +1,100 @@
+estralho	nome masculino	es|[tra]|lho
+estramangueira	nome feminino	es|tra|man|[guei]|ra
+estrambalhar	verbo	es|tram|ba|[lhar]
+estrambelhar	verbo	es|tram|be|[lhar]
+estrambelho	nome masculino	es|tram|[be]|lho
+estrambólico	adjetivo	es|tram|[bó]|li|co
+estrambote	nome masculino	es|tram|[bo]|te
+estrambótico	adjetivo	es|tram|[bó]|ti|co
+estramboto	nome masculino	es|tram|[bo]|to
+estrame	nome masculino	es|[tra]|me
+estramento	nome masculino	es|tra|[men]|to
+estramonina	nome feminino	es|tra|mo|[ni]|na
+estramônio	nome masculino	es|tra|[mô]|ni|o
+estramónio	nome masculino	es|tra|[mó]|ni|o
+estramontado	adjetivo	es|tra|mon|[ta]|do
+estrampalhar	verbo	es|tram|pa|[lhar]
+estrampalho	nome masculino	es|tram|[pa]|lho
+estrançar	verbo	es|tran|[çar]
+estrancilhar	verbo	es|tran|ci|[lhar]
+estrancinhar	verbo	es|tran|ci|[nhar]
+estranfoliar	verbo	es|tran|fo|li|[ar]
+estrangalhar	verbo	es|tran|ga|[lhar]
+estrangedura	nome feminino	es|tran|ge|[du]|ra
+estrangeira	nome feminino	es|tran|[gei]|ra
+estrangeirada	nome feminino	es|tran|gei|[ra]|da
+estrangeiradamente	advérbio	es|tran|gei|ra|da|[men]|te
+estrangeirado	nome masculino	es|tran|gei|[ra]|do
+estrangeirado	adjetivo	es|tran|gei|[ra]|do
+estrangeiramento	nome masculino	es|tran|gei|ra|[men]|to
+estrangeirar	verbo	es|tran|gei|[rar]
+estrangeirice	nome feminino	es|tran|gei|[ri]|ce
+estrangeirinha	nome feminino	es|tran|gei|[ri]|nha
+estrangeirismo	nome masculino	es|tran|gei|[ris]|mo
+estrangeirista	nome masculino	es|tran|gei|[ris]|ta
+estrangeirista	nome feminino	es|tran|gei|[ris]|ta
+estrangeiro	nome masculino	es|tran|[gei]|ro
+estrangeiro	adjetivo	es|tran|[gei]|ro
+estrangulação	nome feminino	es|tran|gu|la|[ção]
+estrangulado	adjetivo	es|tran|gu|[la]|do
+estrangulador	adjetivo	es|tran|gu|la|[dor]
+estrangulador	nome masculino	es|tran|gu|la|[dor]
+estranguladora	nome feminino	es|tran|gu|la|[do]|ra
+estrangulamento	nome masculino	es|tran|gu|la|[men]|to
+estrangular	verbo	es|tran|gu|[lar]
+estrangulatório	adjetivo	es|tran|gu|la|[tó]|ri|o
+estrangúria	nome feminino	es|tran|[gú]|ri|a
+estrangúrico	adjetivo	es|tran|[gú]|ri|co
+estranha	nome feminino	es|[tra]|nha
+estranhamente	advérbio	es|tra|nha|[men]|te
+estranhamento	nome masculino	es|tra|nha|[men]|to
+estranhão	adjetivo	es|tra|[nhão]
+estranhão	nome masculino	es|tra|[nhão]
+estranhar	verbo	es|tra|[nhar]
+estranhável	adjetivo	es|tra|[nhá]|vel
+estranhez	nome feminino	es|tra|[nhez]
+estranheza	nome feminino	es|tra|[nhe]|za
+estranhíssimo	adjetivo	es|tra|[nhís]|si|mo
+estranho	nome masculino	es|[tra]|nho
+estranho	adjetivo	es|[tra]|nho
+estranja	nome feminino	es|[tran]|ja
+estranja	adjetivo	es|[tran]|ja
+estranja	nome masculino	es|[tran]|ja
+estransir	verbo	es|tran|[sir]
+estrapada	nome feminino	es|tra|[pa]|da
+estrapassado	adjetivo	es|tra|pas|[sa]|do
+estrar	verbo	es|[trar]
+estrasburguês	adjetivo	es|tras|bur|[guês]
+estrasburguês	nome masculino	es|tras|bur|[guês]
+estratagema	nome masculino	es|tra|ta|[ge]|ma
+estratagemático	adjetivo	es|tra|ta|ge|[má]|ti|co
+estratarca	nome masculino	es|tra|[tar]|ca
+estratarquia	nome feminino	es|tra|tar|[qui]|a
+estratárquico	adjetivo	es|tra|[tár]|qui|co
+estratega	nome masculino	es|tra|[te]|ga
+estratega	nome feminino	es|tra|[te]|ga
+estratégia	nome feminino	es|tra|[té]|gi|a
+estrategicamente	advérbio	es|tra|te|gi|ca|[men]|te
+estratégico	adjetivo	es|tra|[té]|gi|co
+estrategista	nome masculino	es|tra|te|[gis]|ta
+estrategista	nome feminino	es|tra|te|[gis]|ta
+estratego	nome masculino	es|tra|[te]|go
+estratificação	nome feminino	es|tra|ti|fi|ca|[ção]
+estratificado	adjetivo	es|tra|ti|fi|[ca]|do
+estratificador	adjetivo	es|tra|ti|fi|ca|[dor]
+estratificar	verbo	es|tra|ti|fi|[car]
+estratificável	adjetivo	es|tra|ti|fi|[cá]|vel
+estratiforme	adjetivo	es|tra|ti|[for]|me
+estratigrafia	nome feminino	es|tra|ti|gra|[fi]|a
+estratigráfico	adjetivo	es|tra|ti|[grá]|fi|co
+estratígrafo	nome masculino	es|tra|[tí]|gra|fo
+estrato	nome masculino	es|[tra]|to
+estratocracia	nome feminino	es|tra|to|cra|[ci]|a
+estratocrata	nome masculino	es|tra|to|[cra]|ta
+estratocrático	adjetivo	es|tra|to|[crá]|ti|co
+estratocúmulo	nome masculino	es|tra|to|[cú]|mu|lo
+estratografia	nome feminino	es|tra|to|gra|[fi]|a
+estratográfico	adjetivo	es|tra|to|[grá]|fi|co
+estratonauta	nome masculino	es|tra|to|[nau]|ta
+estratonáutica	nome feminino	es|tra|to|[náu]|ti|ca
+estratonáutico	adjetivo	es|tra|to|[náu]|ti|co

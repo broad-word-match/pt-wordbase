@@ -1,0 +1,100 @@
+multívoco	adjetivo	mul|[tí]|vo|co
+multívolo	adjetivo	mul|[tí]|vo|lo
+mulumba	nome feminino	mu|[lum]|ba
+mulundo	nome masculino	mu|[lun]|do
+mulungo	nome masculino	mu|[lun]|go
+mulungu	nome masculino	mu|lun|[gu]
+mulunguzeiro	nome masculino	mu|lun|gu|[zei]|ro
+mumbaca	nome feminino	mum|[ba]|ca
+mumbamba	nome feminino	mum|[bam]|ba
+mumbanda	nome feminino	mum|[ban]|da
+mumbava	nome masculino	mum|[ba]|va
+mumbavo	nome masculino	mum|[ba]|vo
+mumbica	nome masculino	mum|[bi]|ca
+mumbo	adjetivo	[mum]|bo
+mumbo	nome masculino	[mum]|bo
+mumbuca	nome feminino	mum|[bu]|ca
+mumbula	nome feminino	mum|[bu]|la
+mumbulo	nome masculino	mum|[bu]|lo
+múmia	nome feminino	[mú]|mi|a
+mumificação	nome feminino	mu|mi|fi|ca|[ção]
+mumificado	adjetivo	mu|mi|fi|[ca]|do
+mumificador	adjetivo	mu|mi|fi|ca|[dor]
+mumificador	nome masculino	mu|mi|fi|ca|[dor]
+mumificante	adjetivo	mu|mi|fi|[can]|te
+mumificar	verbo	mu|mi|fi|[car]
+mumificável	adjetivo	mu|mi|fi|[cá]|vel
+mumo	nome masculino	[mu]|mo
+mumonha	adjetivo	mu|[mo]|nha
+mumono	nome masculino	mu|[mo]|no
+mumuca	nome feminino	mu|[mu]|ca
+munano	adjetivo	mu|[na]|no
+munano	nome masculino	mu|[na]|no
+munda	nome masculino	[mun]|da
+munda	adjetivo	[mun]|da
+munda	nome feminino	[mun]|da
+mundana	nome feminino	mun|[da]|na
+mundanal	adjetivo	mun|da|[nal]
+mundanalidade	nome feminino	mun|da|na|li|[da]|de
+mundanalmente	advérbio	mun|da|nal|[men]|te
+mundanamente	advérbio	mun|da|na|[men]|te
+mundanário	adjetivo	mun|da|[ná]|ri|o
+mundanidade	nome feminino	mun|da|ni|[da]|de
+mundanismo	nome masculino	mun|da|[nis]|mo
+mundanizar	verbo	mun|da|ni|[zar]
+mundano	adjetivo	mun|[da]|no
+mundano	nome masculino	mun|[da]|no
+mundão	nome masculino	mun|[dão]
+mundaréu	nome masculino	mun|da|[réu]
+mundaú	nome masculino	mun|da|[ú]
+mundável	adjetivo	mun|[dá]|vel
+mundé	nome masculino	mun|[dé]
+mundéu	nome masculino	mun|[déu]
+múndia	nome feminino	[mún]|di|a
+mundial	nome masculino	mun|di|[al]
+mundial	adjetivo	mun|di|[al]
+mundialização	nome feminino	mun|di|a|li|za|[ção]
+mundializar	verbo	mun|di|a|li|[zar]
+mundialmente	advérbio	mun|di|al|[men]|te
+mundianhoca	nome feminino	mun|di|a|[nho]|ca
+mundícia	nome feminino	mun|[dí]|ci|a
+mundície	nome feminino	mun|[dí]|ci|e
+mundificação	nome feminino	mun|di|fi|ca|[ção]
+mundificador	adjetivo	mun|di|fi|ca|[dor]
+mundificador	nome masculino	mun|di|fi|ca|[dor]
+mundificante	adjetivo	mun|di|fi|[can]|te
+mundificar	verbo	mun|di|fi|[car]
+mundificativo	adjetivo	mun|di|fi|ca|[ti]|vo
+mundinóvi	nome masculino	mun|di|[nó]|vi
+mundividência	nome feminino	mun|di|vi|[dên]|ci|a
+mundividente	adjetivo	mun|di|vi|[den]|te
+mundivisão	nome feminino	mun|di|vi|[são]
+mundo	nome masculino	[mun]|do
+mundo	adjetivo	[mun]|do
+mundombe	adjetivo	mun|[dom]|be
+mundombe	nome masculino	mun|[dom]|be
+mundombe	nome feminino	mun|[dom]|be
+mundongo	nome masculino	mun|[don]|go
+mundongueira	nome feminino	mun|don|[guei]|ra
+mundongueiro	nome masculino	mun|don|[guei]|ro
+mundovisão	nome feminino	mun|do|vi|[são]
+mundrunga	nome feminino	mun|[drun]|ga
+munduri	nome masculino	mun|du|[ri]
+mundurucu	nome masculino	mun|du|ru|[cu]
+mundurucu	adjetivo	mun|du|ru|[cu]
+mundurucu	nome feminino	mun|du|ru|[cu]
+munerário	nome masculino	mu|ne|[rá]|ri|o
+munganga	nome feminino	mun|[gan]|ga
+mungangueiro	nome masculino	mun|gan|[guei]|ro
+munganje	nome masculino	mun|[gan]|je
+mungida	nome feminino	mun|[gi]|da
+mungido	adjetivo	mun|[gi]|do
+mungidor	adjetivo	mun|gi|[dor]
+mungidor	nome masculino	mun|gi|[dor]
+mungidura	nome feminino	mun|gi|[du]|ra
+mungil	nome masculino	mun|[gil]
+mungimento	nome masculino	mun|gi|[men]|to
+mungir	verbo	mun|[gir]
+mungo	nome masculino	[mun]|go
+mungolo	nome masculino	mun|[go]|lo
+mungoma	nome masculino	mun|[go]|ma

@@ -1,0 +1,100 @@
+hermetista	nome feminino	her|me|[tis]|ta
+hermetístico	adjetivo	her|me|[tís]|ti|co
+hérmia	nome feminino	[hér]|mi|a
+hermiano	adjetivo	her|mi|[a]|no
+hermiano	nome masculino	her|mi|[a]|no
+hermínio	nome masculino	her|[mí]|ni|o
+hermínio	adjetivo	her|[mí]|ni|o
+herminismo	nome masculino	her|mi|[nis]|mo
+herminista	nome masculino	her|mi|[nis]|ta
+herminista	nome feminino	her|mi|[nis]|ta
+hermíone	adjetivo	her|[mí]|o|ne
+hermíone	nome masculino	her|[mí]|o|ne
+hermíone	nome feminino	her|[mí]|o|ne
+hermioneu	adjetivo	her|mi|o|[neu]
+hermioneu	nome masculino	her|mi|o|[neu]
+hermismo	nome masculino	her|[mis]|mo
+hermista	adjetivo	her|[mis]|ta
+hermista	nome masculino	her|[mis]|ta
+hermista	nome feminino	her|[mis]|ta
+hermodáctilo	nome masculino	her|mo|[dác]|ti|lo
+hermogeniano	adjetivo	her|mo|ge|ni|[a]|no
+hermogeniano	nome masculino	her|mo|ge|ni|[a]|no
+hermografia	nome feminino	her|mo|gra|[fi]|a
+hermográfico	adjetivo	her|mo|[grá]|fi|co
+hermógrafo	nome masculino	her|[mó]|gra|fo
+hermopolitano	adjetivo	her|mo|po|li|[ta]|no
+hermopolitano	nome masculino	her|mo|po|li|[ta]|no
+hermúnduro	adjetivo	her|[mún]|du|ro
+hermúnduro	nome masculino	her|[mún]|du|ro
+hernândia	nome feminino	her|[nân]|di|a
+hernandiácea	nome feminino	her|nan|di|[á]|ce|a
+hérnia	nome feminino	[hér]|ni|a
+herniação	nome feminino	her|ni|a|[ção]
+herniada	nome feminino	her|ni|[a]|da
+herniado	adjetivo	her|ni|[a]|do
+herniado	nome masculino	her|ni|[a]|do
+hernial	adjetivo	her|ni|[al]
+herniária	nome feminino	her|ni|[á]|ri|a
+herniário	adjetivo	her|ni|[á]|ri|o
+hérnico	adjetivo	[hér]|ni|co
+hérnico	nome masculino	[hér]|ni|co
+herníola	nome feminino	her|[ní]|o|la
+hernioplastia	nome feminino	her|ni|o|plas|[ti]|a
+herniorrafia	nome feminino	her|ni|or|ra|[fi]|a
+herniosa	nome feminino	her|ni|[o]|sa
+hernioso	adjetivo	her|ni|[o]|so
+hernioso	nome masculino	her|ni|[o]|so
+herniotomia	nome feminino	her|ni|o|to|[mi]|a
+herniotômico	adjetivo	her|ni|o|[tô]|mi|co
+herniotómico	adjetivo	her|ni|o|[tó]|mi|co
+hernutismo	nome masculino	her|nu|[tis]|mo
+hernuto	adjetivo	her|[nu]|to
+hernuto	nome masculino	her|[nu]|to
+herodes	nome masculino	he|[ro]|des
+herodiano	adjetivo	he|ro|di|[a]|no
+herodiano	nome masculino	he|ro|di|[a]|no
+herodoteu	adjetivo	he|ro|do|[teu]
+herói	nome masculino	he|[rói]
+heroicamente	advérbio	he|roi|ca|[men]|te
+heroicidade	nome feminino	he|roi|ci|[da]|de
+heroicizar	verbo	he|roi|ci|[zar]
+heroico	adjetivo	he|[roi]|co
+heroide	nome feminino	he|[roi]|de
+heroificado	adjetivo	he|roi|fi|[ca]|do
+heroificar	verbo	he|roi|fi|[car]
+heroína	nome feminino	he|ro|[í]|na
+heroinómana	nome feminino	he|roi|[nó]|ma|na
+heroinomania	nome feminino	he|roi|no|ma|[ni]|a
+heroinómano	adjetivo	he|roi|[nó]|ma|no
+heroinómano	nome masculino	he|roi|[nó]|ma|no
+heroinômano	adjetivo	he|roi|[nô]|ma|no
+heroinômano	nome masculino	he|roi|[nô]|ma|no
+heroísmo	nome masculino	he|ro|[ís]|mo
+heroístico	adjetivo	he|ro|[ís]|ti|co
+heroo	nome masculino	he|[ro]|o
+heróon	nome masculino	he|[ró]|on
+heroopolitano	adjetivo	he|ro|o|po|li|[ta]|no
+heroopolitano	nome masculino	he|ro|o|po|li|[ta]|no
+herpes	nome masculino	[her]|pes
+herpete	nome masculino	her|[pe]|te
+herpética	nome feminino	her|[pé]|ti|ca
+herpético	nome masculino	her|[pé]|ti|co
+herpético	adjetivo	her|[pé]|ti|co
+herpetiforme	adjetivo	her|pe|ti|[for]|me
+herpetismo	nome masculino	her|pe|[tis]|mo
+herpetografia	nome feminino	her|pe|to|gra|[fi]|a
+herpetográfico	adjetivo	her|pe|to|[grá]|fi|co
+herpetógrafo	nome masculino	her|pe|[tó]|gra|fo
+herpetóloga	nome feminino	her|pe|[tó]|lo|ga
+herpetologia	nome feminino	her|pe|to|lo|[gi]|a
+herpetológico	adjetivo	her|pe|to|[ló]|gi|co
+herpetologista	nome masculino	her|pe|to|lo|[gis]|ta
+herpetologista	nome feminino	her|pe|to|lo|[gis]|ta
+herpetólogo	nome masculino	her|pe|[tó]|lo|go
+hertz	nome masculino	[hertz]
+hertziano	adjetivo	hert|zi|[a]|no
+hérulo	adjetivo	[hé]|ru|lo
+hérulo	nome masculino	[hé]|ru|lo
+herzegóvino	nome masculino	her|ze|[gó]|vi|no
+herzegóvino	adjetivo	her|ze|[gó]|vi|no

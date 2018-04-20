@@ -1,0 +1,100 @@
+quebrachina	nome feminino	que|bra|[chi]|na
+quebracho	nome masculino	que|[bra]|cho
+quebrada	nome feminino	que|[bra]|da
+quebradamente	advérbio	que|bra|da|[men]|te
+quebradeira	nome feminino	que|bra|[dei]|ra
+quebradela	nome feminino	que|bra|[de]|la
+quebradiço	adjetivo	que|bra|[di]|ço
+quebrado	nome masculino	que|[bra]|do
+quebrado	adjetivo	que|[bra]|do
+quebrador	adjetivo	que|bra|[dor]
+quebrador	nome masculino	que|bra|[dor]
+quebradouro	nome masculino	que|bra|[dou]|ro
+quebradura	nome feminino	que|bra|[du]|ra
+quebralhão	nome masculino	que|bra|[lhão]
+quebralhão	adjetivo	que|bra|[lhão]
+quebramento	nome masculino	que|bra|[men]|to
+quebrança	nome feminino	que|[bran]|ça
+quebrançoso	adjetivo	que|bran|[ço]|so
+quebrantado	adjetivo	que|bran|[ta]|do
+quebrantador	adjetivo	que|bran|ta|[dor]
+quebrantador	nome masculino	que|bran|ta|[dor]
+quebrantadura	nome feminino	que|bran|ta|[du]|ra
+quebrantamento	nome masculino	que|bran|ta|[men]|to
+quebrantar	verbo	que|bran|[tar]
+quebrantável	adjetivo	que|bran|[tá]|vel
+quebranto	nome masculino	que|[bran]|to
+quebrar	verbo	que|[brar]
+quebratura	nome feminino	que|bra|[tu]|ra
+quebrável	adjetivo	que|[brá]|vel
+quebreira	nome feminino	que|[brei]|ra
+quebro	nome masculino	[que]|bro
+queca	nome feminino	[que]|ca
+queche	nome masculino	[que]|che
+quéchua	nome masculino	[qué]|chu|a
+quéchua	nome feminino	[qué]|chu|a
+quéchua	adjetivo	[qué]|chu|a
+queda	nome feminino	[que]|da
+queda-d'água	nome feminino	que|da-d´á|gua
+quedamento	nome masculino	que|da|[men]|to
+quedano	nome masculino	que|[da]|no
+quedar	verbo	que|[dar]
+quede	advérbio	[que]|de
+quedes	nome masculino	[que]|des
+quediva	nome masculino	que|[di]|va
+quedivato	nome masculino	que|di|[va]|to
+quedive	nome masculino	que|[di]|ve
+quedo	adjetivo	[que]|do
+quefazer	nome masculino	que|fa|[zer]
+quefazeres	nome masculino	que|fa|[ze]|res
+quefir	nome masculino	que|[fir]
+quefirina	nome feminino	que|fi|[ri]|na
+quefiroterapia	nome feminino	que|fi|ro|te|ra|[pi]|a
+quefiroterápico	adjetivo	que|fi|ro|te|[rá]|pi|co
+queguelequeze	nome masculino	que|gue|le|[que]|ze
+queijada	nome feminino	quei|[ja]|da
+queijadeiro	adjetivo	quei|ja|[dei]|ro
+queijadeiro	nome masculino	quei|ja|[dei]|ro
+queijadilho	nome masculino	quei|ja|[di]|lho
+queijadinha	nome feminino	quei|ja|[di]|nha
+queijar	verbo	quei|[jar]
+queijaria	nome feminino	quei|ja|[ri]|a
+queijeira	nome feminino	quei|[jei]|ra
+queijeiro	nome masculino	quei|[jei]|ro
+queijeiro	adjetivo	quei|[jei]|ro
+queijinho	nome masculino	quei|[ji]|nho
+queijinho do céu	nome masculino	quei|[ji]|nho do céu
+queijo	nome masculino	[quei]|jo
+queijoso	adjetivo	quei|[jo]|so
+queilite	nome feminino	quei|[li]|te
+queilodiptérida	nome masculino	quei|lo|dip|[té]|ri|da
+queilodipterídeo	nome masculino	quei|lo|dip|te|[rí]|de|o
+queilodipterídeo	nome masculino	quei|lo|dip|te|[rí]|de|o
+queilodipterídeo	adjetivo	quei|lo|dip|te|[rí]|de|o
+queima	nome feminino	[quei]|ma
+queima	nome masculino	[quei]|ma
+queima-roupa	nome feminino	quei|ma-rou|pa
+queimação	nome feminino	quei|ma|[ção]
+queimada	nome feminino	quei|[ma]|da
+queimadeira	nome feminino	quei|ma|[dei]|ra
+queimadeiro	nome masculino	quei|ma|[dei]|ro
+queimadela	nome feminino	quei|ma|[de]|la
+queimado	adjetivo	quei|[ma]|do
+queimado	nome masculino	quei|[ma]|do
+queimadoiro	nome masculino	quei|ma|[doi]|ro
+queimador	nome masculino	quei|ma|[dor]
+queimador	adjetivo	quei|ma|[dor]
+queimadora	nome feminino	quei|ma|[do]|ra
+queimadouro	nome masculino	quei|ma|[dou]|ro
+queimadura	nome feminino	quei|ma|[du]|ra
+queimamento	nome masculino	quei|ma|[men]|to
+queimante	adjetivo	quei|[man]|te
+queimante	nome masculino	quei|[man]|te
+queimão	nome masculino	quei|[mão]
+queimão	adjetivo	quei|[mão]
+queimar	verbo	quei|[mar]
+queimarço	nome masculino	quei|[mar]|ço
+queimável	adjetivo	quei|[má]|vel
+queimo	nome masculino	[quei]|mo
+queimor	nome masculino	quei|[mor]
+queimoso	adjetivo	quei|[mo]|so

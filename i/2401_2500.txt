@@ -1,0 +1,100 @@
+incomodante	adjetivo	in|co|mo|[dan]|te
+incomodar	verbo	in|co|mo|[dar]
+incomodativamente	advérbio	in|co|mo|da|ti|va|[men]|te
+incomodativo	adjetivo	in|co|mo|da|[ti]|vo
+incomodável	adjetivo	in|co|mo|[dá]|vel
+incomodidade	nome feminino	in|co|mo|di|[da]|de
+incômodo	adjetivo	in|[cô]|mo|do
+incômodo	nome masculino	in|[cô]|mo|do
+incómodo	adjetivo	in|[có]|mo|do
+incómodo	nome masculino	in|[có]|mo|do
+incompactidade	nome feminino	in|com|pac|ti|[da]|de
+incomparabilidade	nome feminino	in|com|pa|ra|bi|li|[da]|de
+incomparável	adjetivo	in|com|pa|[rá]|vel
+incomparavelmente	advérbio	in|com|pa|ra|vel|[men]|te
+incompassível	adjetivo	in|com|pas|[sí]|vel
+incompassividade	nome feminino	in|com|pas|si|vi|[da]|de
+incompassivo	adjetivo	in|com|pas|[si]|vo
+incompatibilidade	nome feminino	in|com|pa|ti|bi|li|[da]|de
+incompatibilização	nome feminino	in|com|pa|ti|bi|li|za|[ção]
+incompatibilizado	adjetivo	in|com|pa|ti|bi|li|[za]|do
+incompatibilizador	adjetivo	in|com|pa|ti|bi|li|za|[dor]
+incompatibilizar	verbo	in|com|pa|ti|bi|li|[zar]
+incompatibilizável	adjetivo	in|com|pa|ti|bi|li|[zá]|vel
+incompatível	adjetivo	in|com|pa|[tí]|vel
+incompensado	adjetivo	in|com|pen|[sa]|do
+incompensável	adjetivo	in|com|pen|[sá]|vel
+incompetência	nome feminino	in|com|pe|[tên]|ci|a
+incompetente	adjetivo	in|com|pe|[ten]|te
+incompetente	nome masculino	in|com|pe|[ten]|te
+incompetente	nome feminino	in|com|pe|[ten]|te
+incompetentemente	advérbio	in|com|pe|ten|te|[men]|te
+incomplacência	nome feminino	in|com|pla|[cên]|ci|a
+incomplacente	adjetivo	in|com|pla|[cen]|te
+incompleição	nome feminino	in|com|plei|[ção]
+incompletamente	advérbio	in|com|ple|ta|[men]|te
+incompleto	adjetivo	in|com|[ple]|to
+incompletude	nome feminino	in|com|ple|[tu]|de
+incomplexidade	nome feminino	in|com|ple|xi|[da]|de
+incomplexivo	adjetivo	in|com|ple|[xi]|vo
+incomplexo	adjetivo	in|com|[ple]|xo
+incomponível	adjetivo	in|com|po|[ní]|vel
+incomportabilidade	nome feminino	in|com|por|ta|bi|li|[da]|de
+incomportável	adjetivo	in|com|por|[tá]|vel
+incomportavelmente	advérbio	in|com|por|ta|vel|[men]|te
+incompossibilidade	nome feminino	in|com|pos|si|bi|li|[da]|de
+incompossível	adjetivo	in|com|pos|[sí]|vel
+incomposto	adjetivo	in|com|[pos]|to
+incompreendida	nome feminino	in|com|pre|en|[di]|da
+incompreendido	adjetivo	in|com|pre|en|[di]|do
+incompreendido	nome masculino	in|com|pre|en|[di]|do
+incompreensão	nome feminino	in|com|pre|en|[são]
+incompreensíbil	adjetivo	in|com|pre|en|[sí]|bil
+incompreensíbil	nome masculino	in|com|pre|en|[sí]|bil
+incompreensibilidade	nome feminino	in|com|pre|en|si|bi|li|[da]|de
+incompreensível	adjetivo	in|com|pre|en|[sí]|vel
+incompreensível	nome masculino	in|com|pre|en|[sí]|vel
+incompreensivelmente	advérbio	in|com|pre|en|si|vel|[men]|te
+incompreensivo	adjetivo	in|com|pre|en|[si]|vo
+incompressibilidade	nome feminino	in|com|pres|si|bi|li|[da]|de
+incompressível	adjetivo	in|com|pres|[sí]|vel
+incomprimido	adjetivo	in|com|pri|[mi]|do
+incomprimível	adjetivo	in|com|pri|[mí]|vel
+incomprovado	adjetivo	in|com|pro|[va]|do
+incompto	adjetivo	in|[comp]|to
+incomputabilidade	nome feminino	in|com|pu|ta|bi|li|[da]|de
+incomputável	adjetivo	in|com|pu|[tá]|vel
+incomum	adjetivo	in|co|[mum]
+incomunicabilidade	nome feminino	in|co|mu|ni|ca|bi|li|[da]|de
+incomunicação	nome feminino	in|co|mu|ni|ca|[ção]
+incomunicante	adjetivo	in|co|mu|ni|[can]|te
+incomunicar	verbo	in|co|mu|ni|[car]
+incomunicativo	adjetivo	in|co|mu|ni|ca|[ti]|vo
+incomunicável	adjetivo	in|co|mu|ni|[cá]|vel
+incomunicavelmente	advérbio	in|co|mu|ni|ca|vel|[men]|te
+incomutabilidade	nome feminino	in|co|mu|ta|bi|li|[da]|de
+incomutável	adjetivo	in|co|mu|[tá]|vel
+incomutavelmente	advérbio	in|co|mu|ta|vel|[men]|te
+inconcebível	nome masculino	in|con|ce|[bí]|vel
+inconcebível	adjetivo	in|con|ce|[bí]|vel
+inconcebivelmente	advérbio	in|con|ce|bi|vel|[men]|te
+inconceptível	adjetivo	in|con|cep|[tí]|vel
+inconcepto	adjetivo	in|con|[cep]|to
+inconcessibilidade	nome feminino	in|con|ces|si|bi|li|[da]|de
+inconcessível	adjetivo	in|con|ces|[sí]|vel
+inconcesso	adjetivo	in|con|[ces]|so
+inconciliabilidade	nome feminino	in|con|ci|li|a|bi|li|[da]|de
+inconciliação	nome feminino	in|con|ci|li|a|[ção]
+inconciliado	adjetivo	in|con|ci|li|[a]|do
+inconciliante	adjetivo	in|con|ci|li|[an]|te
+inconciliável	adjetivo	in|con|ci|li|[á]|vel
+inconciliavelmente	advérbio	in|con|ci|li|a|vel|[men]|te
+inconcludência	nome feminino	in|con|clu|[dên]|ci|a
+inconcludente	adjetivo	in|con|clu|[den]|te
+inconclusividade	nome feminino	in|con|clu|si|vi|[da]|de
+inconclusivo	adjetivo	in|con|clu|[si]|vo
+inconcluso	adjetivo	in|con|[clu]|so
+inconcordável	adjetivo	in|con|cor|[dá]|vel
+inconcussamente	advérbio	in|con|cus|sa|[men]|te
+inconcusso	adjetivo	in|con|[cus]|so
+inconcutível	adjetivo	in|con|cu|[tí]|vel

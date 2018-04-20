@@ -1,0 +1,100 @@
+apolejador	nome masculino	a|po|le|ja|[dor]
+apolejar	verbo	a|po|le|[jar]
+apolentar	verbo	a|po|len|[tar]
+apolezar	verbo	a|po|le|[zar]
+apólice	nome feminino	a|[pó]|li|ce
+apolinar	adjetivo	a|po|li|[nar]
+apolinário	adjetivo	a|po|li|[ná]|ri|o
+apolinarismo	nome masculino	a|po|li|na|[ris]|mo
+apolinarista	nome masculino	a|po|li|na|[ris]|ta
+apolinarista	nome feminino	a|po|li|na|[ris]|ta
+apolíneo	adjetivo	a|po|[lí]|ne|o
+apolínico	adjetivo	a|po|[lí]|ni|co
+apólise	nome feminino	a|[pó]|li|se
+apolisina	nome feminino	a|po|li|[si]|na
+apolitana	nome feminino	a|po|li|[ta]|na
+apolítico	adjetivo	a|po|[lí]|ti|co
+apolítico	nome masculino	a|po|[lí]|ti|co
+apolitismo	nome masculino	a|po|li|[tis]|mo
+apolo	nome masculino	a|[po]|lo
+apologal	adjetivo	a|po|lo|[gal]
+apologética	nome feminino	a|po|lo|[gé]|ti|ca
+apologeticamente	advérbio	a|po|lo|ge|ti|ca|[men]|te
+apologético	adjetivo	a|po|lo|[gé]|ti|co
+apologia	nome feminino	a|po|lo|[gi]|a
+apológico	adjetivo	a|po|[ló]|gi|co
+apologismo	nome masculino	a|po|lo|[gis]|mo
+apologista	nome masculino	a|po|lo|[gis]|ta
+apologista	adjetivo	a|po|lo|[gis]|ta
+apologista	nome feminino	a|po|lo|[gis]|ta
+apologístico	adjetivo	a|po|lo|[gís]|ti|co
+apologizar	verbo	a|po|lo|gi|[zar]
+apólogo	nome masculino	a|[pó]|lo|go
+apoloniata	adjetivo	a|po|lo|ni|[a]|ta
+apoloniata	nome masculino	a|po|lo|ni|[a]|ta
+apoloniata	nome feminino	a|po|lo|ni|[a]|ta
+apolônico	adjetivo	a|po|[lô]|ni|co
+apolónico	nome masculino	a|po|[ló]|ni|co
+apolônico	nome masculino	a|po|[lô]|ni|co
+apolónico	adjetivo	a|po|[ló]|ni|co
+apolônio	nome masculino	a|po|[lô]|ni|o
+apolónio	nome masculino	a|po|[ló]|ni|o
+apoltronar	verbo	a|pol|tro|[nar]
+apolvilhante	adjetivo	a|pol|vi|[lhan]|te
+apolvilhar	verbo	a|pol|vi|[lhar]
+apómaco	adjetivo	a|[pó]|ma|co
+apômaco	adjetivo	a|[pô]|ma|co
+apomecometria	nome feminino	a|po|me|co|me|[tri]|a
+apomecométrico	adjetivo	a|po|me|co|[mé]|tri|co
+apomecómetro	nome masculino	a|po|me|[có]|me|tro
+apomecômetro	nome masculino	a|po|me|[cô]|me|tro
+apomíctico	adjetivo	a|po|[míc]|ti|co
+apomítico	adjetivo	a|po|[mí]|ti|co
+apomixia	nome feminino	a|po|mi|[xi]|a
+apomorfina	nome feminino	a|po|mor|[fi]|na
+apompar	verbo	a|pom|[par]
+aponeurologia	nome feminino	a|po|neu|ro|lo|[gi]|a
+aponeurológico	adjetivo	a|po|neu|ro|[ló]|gi|co
+aponeurose	nome feminino	a|po|neu|[ro]|se
+aponeurótico	adjetivo	a|po|neu|[ró]|ti|co
+aponeurotomia	nome feminino	a|po|neu|ro|to|[mi]|a
+aponeurotômico	adjetivo	a|po|neu|ro|[tô]|mi|co
+aponeurotómico	adjetivo	a|po|neu|ro|[tó]|mi|co
+aponeurótomo	nome masculino	a|po|neu|[ró]|to|mo
+aponevrologia	nome feminino	a|po|ne|vro|lo|[gi]|a
+aponevrológico	adjetivo	a|po|ne|vro|[ló]|gi|co
+aponevrose	nome feminino	a|po|ne|[vro]|se
+aponevrótico	adjetivo	a|po|ne|[vró]|ti|co
+aponitrose	nome feminino	a|po|ni|[tro]|se
+apontadamente	advérbio	a|pon|ta|da|[men]|te
+apontado	adjetivo	a|pon|[ta]|do
+apontador	nome masculino	a|pon|ta|[dor]
+apontadora	nome feminino	a|pon|ta|[do]|ra
+apontamento	nome masculino	a|pon|ta|[men]|to
+apontar	verbo	a|pon|[tar]
+apontável	adjetivo	a|pon|[tá]|vel
+aponteador	adjetivo	a|pon|te|a|[dor]
+aponteador	nome masculino	a|pon|te|a|[dor]
+aponteamento	nome masculino	a|pon|te|a|[men]|to
+apontear	verbo	a|pon|te|[ar]
+apontoado	nome masculino	a|pon|to|[a]|do
+apontoar	verbo	a|pon|to|[ar]
+apopléctico	adjetivo	a|po|[pléc]|ti|co
+apoplético	adjetivo	a|po|[plé]|ti|co
+apoplexia	nome feminino	a|po|ple|[xi]|a
+apoptose	nome feminino	a|pop|[to]|se
+apoquentação	nome feminino	a|po|quen|ta|[ção]
+apoquentadamente	advérbio	a|po|quen|ta|da|[men]|te
+apoquentado	adjetivo	a|po|quen|[ta]|do
+apoquentador	adjetivo	a|po|quen|ta|[dor]
+apoquentador	nome masculino	a|po|quen|ta|[dor]
+apoquentar	verbo	a|po|quen|[tar]
+apoquentável	adjetivo	a|po|quen|[tá]|vel
+apor	verbo	a|[por]
+aporema	nome masculino	a|po|[re]|ma
+aporética	nome feminino	a|po|[ré]|ti|ca
+aporético	adjetivo	a|po|[ré]|ti|co
+aporfiar	verbo	a|por|fi|[ar]
+aporia	nome feminino	a|po|[ri]|a
+aporisma	nome masculino	a|po|[ris]|ma
+aporismar	verbo	a|po|ris|[mar]

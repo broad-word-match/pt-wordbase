@@ -1,0 +1,100 @@
+cebídeo	nome masculino	ce|[bí]|de|o
+cebídeo	adjetivo	ce|[bí]|de|o
+cebo	nome masculino	[ce]|bo
+cebocefalia	nome feminino	ce|bo|ce|fa|[li]|a
+cebocéfalo	adjetivo	ce|bo|[cé]|fa|lo
+cebocéfalo	nome masculino	ce|bo|[cé]|fa|lo
+cebola	nome feminino	ce|[bo]|la
+cebola-albarrã	nome feminino	ce|bo|la-al|bar|[rã]
+cebolada	nome feminino	ce|bo|[la]|da
+cebolal	nome masculino	ce|bo|[lal]
+cebolão	nome masculino	ce|bo|[lão]
+ceboleira	nome feminino	ce|bo|[lei]|ra
+ceboleiro	adjetivo	ce|bo|[lei]|ro
+cebolinha	nome feminino	ce|bo|[li]|nha
+cebolinho	nome masculino	ce|bo|[li]|nho
+cebolo	nome masculino	ce|[bo]|lo
+cebolório	interjeição	ce|bo|[ló]|ri|o
+ceboloso	adjetivo	ce|bo|[lo]|so
+cebruno	adjetivo	ce|[bru]|no
+cecal	adjetivo	ce|[cal]
+cecé	nome feminino	ce|[cé]
+ceceadura	nome feminino	ce|ce|a|[du]|ra
+cecear	verbo	ce|ce|[ar]
+ceceio	nome masculino	ce|[cei]|o
+cecém	nome feminino	ce|[cém]
+ceceoso	adjetivo	ce|ce|[o]|so
+cecídia	nome feminino	ce|[cí]|di|a
+cecidologia	nome feminino	ce|ci|do|lo|[gi]|a
+cecidológico	adjetivo	ce|ci|do|[ló]|gi|co
+cecidólogo	nome masculino	ce|ci|[dó]|lo|go
+cecidômia	nome feminino	ce|ci|[dô]|mi|a
+cecidomia	nome feminino	ce|ci|do|[mi]|a
+cecidómia	nome feminino	ce|ci|[dó]|mi|a
+cecília	nome feminino	ce|[cí]|li|a
+ceciliano	adjetivo	ce|ci|li|[a]|no
+ceco	nome masculino	[ce]|co
+cecocolostomia	nome feminino	ce|co|co|los|to|[mi]|a
+cecografia	nome feminino	ce|co|gra|[fi]|a
+cecográfico	adjetivo	ce|co|[grá]|fi|co
+cecógrafo	nome masculino	ce|[có]|gra|fo
+cecotomia	nome feminino	ce|co|to|[mi]|a
+cecotômico	adjetivo	ce|co|[tô]|mi|co
+cecotómico	adjetivo	ce|co|[tó]|mi|co
+cecrópia	nome feminino	ce|[cró]|pi|a
+cecrópida	adjetivo	ce|[cró]|pi|da
+cecrópida	nome masculino	ce|[cró]|pi|da
+cecrópida	nome feminino	ce|[cró]|pi|da
+cecrópio	adjetivo	ce|[cró]|pi|o
+cécubo	nome masculino	[cé]|cu|bo
+cécum	nome masculino	[cé]|cum
+ceda	nome feminino	[ce]|da
+cedeiro	adjetivo	ce|[dei]|ro
+cedência	nome feminino	ce|[dên]|ci|a
+cedente	adjetivo	ce|[den]|te
+cedente	nome masculino	ce|[den]|te
+cedente	nome feminino	ce|[den]|te
+ceder	verbo	ce|[der]
+cedi	nome masculino	ce|[di]
+cediço	adjetivo	ce|[di]|ço
+cedido	adjetivo	ce|[di]|do
+cedilha	nome feminino	ce|[di]|lha
+cedilhado	adjetivo	ce|di|[lha]|do
+cedilhar	verbo	ce|di|[lhar]
+cedimento	nome masculino	ce|di|[men]|to
+cedinho	advérbio	ce|[di]|nho
+cedível	adjetivo	ce|[dí]|vel
+cedo	advérbio	[ce]|do
+cedo	nome masculino	[ce]|do
+cedo-vem	nome masculino	ce|do-vem
+cédrão	nome masculino	[cé]|drão
+cedrela	nome feminino	ce|[dre]|la
+cedrelácea	nome feminino	ce|dre|[lá]|ce|a
+cedreláceo	adjetivo	ce|dre|[lá]|ce|o
+cedrense	adjetivo	ce|[dren]|se
+cedrense	nome masculino	ce|[dren]|se
+cedrense	nome feminino	ce|[dren]|se
+cédria	nome feminino	[cé]|dri|a
+cedrino	adjetivo	ce|[dri]|no
+cedrita	nome masculino	ce|[dri]|ta
+cedrita	nome feminino	ce|[dri]|ta
+cedro	nome masculino	[ce]|dro
+cedro-bastardo	nome masculino	ce|dro-bas|[tar]|do
+cedro-das-barracas	nome masculino	ce|dro-das-bar|[ra]|cas
+cedro-de-espanha	nome masculino	ce|dro-de-es|[pa]|nha
+cedro-de-goa	nome masculino	ce|dro-de-go|a
+cedro-do-buçaco	nome masculino	ce|dro-do-bu|[ça]|co
+cedronela	nome feminino	ce|dro|[ne]|la
+cedronha	nome feminino	ce|[dro]|nha
+cedrosta	nome feminino	ce|[dros]|ta
+cédula	nome feminino	[cé]|du|la
+cedular	adjetivo	ce|du|[lar]
+ceeiro	nome masculino	ce|[ei]|ro
+céfala	nome feminino	[cé]|fa|la
+cefalado	adjetivo	ce|fa|[la]|do
+cefalagra	nome feminino	ce|fa|[la]|gra
+cefalalgia	nome feminino	ce|fa|lal|[gi]|a
+cefalálgico	adjetivo	ce|fa|[lál]|gi|co
+cefalandra	nome feminino	ce|fa|[lan]|dra
+cefalanto	nome masculino	ce|fa|[lan]|to
+cefalão	nome masculino	ce|fa|[lão]

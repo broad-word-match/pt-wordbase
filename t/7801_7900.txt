@@ -1,0 +1,100 @@
+trepa	nome feminino	[tre]|pa
+trepa-gato	nome masculino	tre|pa-ga|to
+trepa-moleque	nome masculino	tre|pa-mo|[le]|que
+trepa-pinheiros	nome masculino	tre|pa-pi|[nhei]|ros
+trepação	nome feminino	tre|pa|[ção]
+trepada	nome feminino	tre|[pa]|da
+trepadeira	nome feminino	tre|pa|[dei]|ra
+trepadeira-azul	nome feminino	tre|pa|dei|ra-a|[zul]
+trepadeira-dos-muros	nome feminino	tre|pa|dei|ra-dos-mu|ros
+trepadoiro	nome masculino	tre|pa|[doi]|ro
+trepador	adjetivo	tre|pa|[dor]
+trepador	nome masculino	tre|pa|[dor]
+trepadora	nome feminino	tre|pa|[do]|ra
+trepadouro	nome masculino	tre|pa|[dou]|ro
+trepanação	nome feminino	tre|pa|na|[ção]
+trepanar	verbo	tre|pa|[nar]
+trépano	nome masculino	[tré]|pa|no
+trepante	adjetivo	tre|[pan]|te
+trepar	verbo	tre|[par]
+trepável	adjetivo	tre|[pá]|vel
+trepe	nome masculino	[tre]|pe
+trepeira	nome feminino	tre|[pei]|ra
+trepicar	verbo	tre|pi|[car]
+trepida	nome feminino	tre|[pi]|da
+trepidação	nome feminino	tre|pi|da|[ção]
+trepidamente	advérbio	tre|pi|da|[men]|te
+trepidante	adjetivo	tre|pi|[dan]|te
+trepidantemente	advérbio	tre|pi|dan|te|[men]|te
+trepidar	verbo	tre|pi|[dar]
+trepidez	nome feminino	tre|pi|[dez]
+trépido	adjetivo	[tré]|pi|do
+trepidométrico	adjetivo	tre|pi|do|[mé]|tri|co
+trepidômetro	nome masculino	tre|pi|[dô]|me|tro
+trepidómetro	nome masculino	tre|pi|[dó]|me|tro
+tréplica	nome feminino	[tré]|pli|ca
+treplicar	verbo	tre|pli|[car]
+treplos	nome masculino	[tre]|plos
+trepo	nome masculino	[tre]|po
+trepola	nome feminino	tre|[po]|la
+treponema	nome masculino	tre|po|[ne]|ma
+treponemíase	nome feminino	tre|po|ne|[mí]|a|se
+treponemo	nome masculino	tre|po|[ne]|mo
+treponemose	nome feminino	tre|po|ne|[mo]|se
+treposta	nome feminino	tre|[pos]|ta
+treptodonte	nome masculino	trep|to|[don]|te
+trêpulos	nome masculino	[trê]|pu|los
+trequedipno	nome masculino	tre|que|[dip]|no
+trere	adjetivo	[tre]|re
+trere	nome masculino	[tre]|re
+trere	nome feminino	[tre]|re
+três	adjetivo	[três]
+três	número cardinal	[três]
+três	nome masculino	[três]
+três-ao-prato	nome feminino	três-a|o-pra|to
+três-ao-prato	adjetivo	três-a|o-pra|to
+três-em-conca	nome feminino	três-em-con|ca
+três-em-conca	adjetivo	três-em-con|ca
+três-em-prato	nome feminino	três-em-pra|to
+três-estrelinhas	nome feminino	três-es|tre|[li]|nhas
+três-folhas	nome feminino	três-fo|lhas
+três-irmãos	nome masculino	três-ir|[mãos]
+três-marias	nome feminino	três-ma|[ri]|as
+três-por-dois	nome masculino	[três-por-dois]
+três-portas	nome feminino	três-por|tas
+três-potes	nome masculino	três-po|tes
+três-quartos	nome masculino	três-quar|tos
+três-quartos	adjetivo	três-quar|tos
+três-setes	nome masculino	três-se|tes
+tresalvo	adjetivo	tre|[sal]|vo
+tresandante	adjetivo	tre|san|[dan]|te
+tresandar	verbo	tre|san|[dar]
+tresantontem	advérbio	tre|san|[ton]|tem
+tresavô	nome masculino	tre|sa|[vô]
+tresavó	nome feminino	tre|sa|[vó]
+tresbisavô	nome masculino	tres|bi|sa|[vô]
+trescalância	nome feminino	tres|ca|[lân]|ci|a
+trescalante	adjetivo	tres|ca|[lan]|te
+trescalar	verbo	tres|ca|[lar]
+trescâmara	nome feminino	tres|[câ]|ma|ra
+tresdobradamente	advérbio	tres|do|bra|da|[men]|te
+tresdobrado	adjetivo	tres|do|[bra]|do
+tresdobradura	nome feminino	tres|do|bra|[du]|ra
+tresdobrar	verbo	tres|do|[brar]
+tresdobre	nome masculino	tres|[do]|bre
+tresdobre	adjetivo	tres|[do]|bre
+tresdobre	nome feminino	tres|[do]|bre
+tresdobro	número multiplicativo	tres|[do]|bro
+tresdobro	nome masculino	tres|[do]|bro
+tresdobro	adjetivo	tres|[do]|bro
+tresfegar	verbo	tres|fe|[gar]
+tresfiar	verbo	tres|fi|[ar]
+tresfogueiro	nome masculino	tres|fo|[guei]|ro
+tresfolegar	verbo	tres|fo|le|[gar]
+tresfôlego	nome masculino	tres|[fô]|le|go
+tresfolgar	verbo	tres|fol|[gar]
+tresfolgo	nome masculino	tres|[fol]|go
+tresfoliar	verbo	tres|fo|li|[ar]
+tresgastador	adjetivo	tres|gas|ta|[dor]
+tresgastador	nome masculino	tres|gas|ta|[dor]
+tresgastar	verbo	tres|gas|[tar]

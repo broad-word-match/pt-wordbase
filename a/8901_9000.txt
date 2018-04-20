@@ -1,0 +1,100 @@
+almácego	nome masculino	al|[má]|ce|go
+almaço	adjetivo	al|[ma]|ço
+almaço	nome masculino	al|[ma]|ço
+almádena	nome feminino	al|[má]|de|na
+almadense	adjetivo	al|ma|[den]|se
+almadense	nome masculino	al|ma|[den]|se
+almadense	nome feminino	al|ma|[den]|se
+almadia	nome feminino	al|ma|[di]|a
+almadra	nome feminino	al|[ma]|dra
+almadraba	nome feminino	al|ma|[dra]|ba
+almadrabeiro	nome masculino	al|ma|dra|[bei]|ro
+almadrabilha	nome feminino	al|ma|dra|[bi]|lha
+almadraque	nome masculino	al|ma|[dra]|que
+almadraqueiro	nome masculino	al|ma|dra|[quei]|ro
+almadraquexa	nome feminino	al|ma|dra|[que]|xa
+almadrava	nome feminino	al|ma|[dra]|va
+almadraveiro	nome masculino	al|ma|dra|[vei]|ro
+almáfega	nome feminino	al|[má]|fe|ga
+almáfego	nome masculino	al|[má]|fe|go
+almafre	nome masculino	al|[ma]|fre
+almafreixe	nome masculino	al|ma|[frei]|xe
+almagra	nome feminino	al|[ma]|gra
+almagral	nome masculino	al|ma|[gral]
+almagrar	verbo	al|ma|[grar]
+almagre	nome masculino	al|[ma]|gre
+almagreira	nome feminino	al|ma|[grei]|ra
+almagro	nome masculino	al|[ma]|gro
+almainha	nome feminino	al|ma|[i]|nha
+almajarra	nome feminino	al|ma|[jar]|ra
+almajarrar	verbo	al|ma|jar|[rar]
+almalaguês	adjetivo	al|ma|la|[guês]
+almalha	nome feminino	al|[ma]|lha
+almalho	nome masculino	al|[ma]|lho
+almanaque	nome masculino	al|ma|[na]|que
+almanaqueiro	nome masculino	al|ma|na|[quei]|ro
+almança	nome feminino	al|[man]|ça
+almandina	nome feminino	al|man|[di]|na
+almandita	nome feminino	al|man|[di]|ta
+almandite	nome feminino	al|man|[di]|te
+almandra	nome feminino	al|[man]|dra
+almandrilha	nome feminino	al|man|[dri]|lha
+almanicha	nome masculino	al|ma|[ni]|cha
+almanjarra	nome feminino	al|man|[jar]|ra
+almanjarrar	verbo	al|man|jar|[rar]
+almanxar	nome masculino	al|man|[xar]
+almarado	adjetivo	al|ma|[ra]|do
+almaraz	nome masculino	al|ma|[raz]
+almarcova	nome feminino	al|mar|[co]|va
+almareado	adjetivo	al|ma|re|[a]|do
+almarear	verbo	al|ma|re|[ar]
+almárfega	nome feminino	al|[már]|fe|ga
+almarge	nome masculino	al|[mar]|ge
+almargeado	adjetivo	al|mar|ge|[a]|do
+almargeal	nome masculino	al|mar|ge|[al]
+almargem	nome masculino	al|[mar]|gem
+almargem	nome feminino	al|[mar]|gem
+almargémia	nome feminino	al|mar|[gé]|mi|a
+almargio	adjetivo	al|mar|[gi]|o
+almarjal	nome masculino	al|mar|[jal]
+almarraxa	nome feminino	al|mar|[ra]|xa
+almártaga	nome feminino	al|[már]|ta|ga
+almártega	nome feminino	al|[már]|te|ga
+almástica	nome feminino	al|[más]|ti|ca
+almátega	nome feminino	al|[má]|te|ga
+almatrá	nome masculino	al|ma|[trá]
+almatrixa	nome feminino	al|ma|[tri]|xa
+almatrixar	verbo	al|ma|tri|[xar]
+almaxar	nome masculino	al|ma|[xar]
+almazém	nome masculino	al|ma|[zém]
+almece	nome masculino	al|[me]|ce
+almécega	nome feminino	al|[mé]|ce|ga
+almécega do brasil	nome feminino	al|[mé]|ce|ga do bra|sil
+almecegado	adjetivo	al|me|ce|[ga]|do
+almecegar	verbo	al|me|ce|[gar]
+almecegueira	nome feminino	al|me|ce|[guei]|ra
+almedina	nome feminino	al|me|[di]|na
+almegue	nome masculino	al|[me]|gue
+almeia	nome feminino	al|[mei]|a
+almeice	nome masculino	al|[mei]|ce
+almeida	nome feminino	al|[mei]|da
+almeida	nome masculino	al|[mei]|da
+almeidense	adjetivo	al|mei|[den]|se
+almeidense	nome masculino	al|mei|[den]|se
+almeidense	nome feminino	al|mei|[den]|se
+almeidina	nome feminino	al|mei|[di]|na
+almeidismo	nome masculino	al|mei|[dis]|mo
+almeidista	adjetivo	al|mei|[dis]|ta
+almeidista	nome masculino	al|mei|[dis]|ta
+almeidista	nome feminino	al|mei|[dis]|ta
+almeirão	nome masculino	al|mei|[rão]
+almeirinense	adjetivo	al|mei|ri|[nen]|se
+almeirinense	nome masculino	al|mei|ri|[nen]|se
+almeirinense	nome feminino	al|mei|ri|[nen]|se
+almeiro	nome masculino	al|[mei]|ro
+almeiroa	nome feminino	al|mei|[ro]|a
+almêitega	nome feminino	al|[mêi]|te|ga
+almêitiga	nome feminino	al|[mêi]|ti|ga
+almeixar	nome masculino	al|mei|[xar]
+almejado	adjetivo	al|me|[ja]|do
+almejante	adjetivo	al|me|[jan]|te

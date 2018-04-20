@@ -1,0 +1,100 @@
+despinça	nome feminino	des|[pin]|ça
+despinçadeira	nome feminino	des|pin|ça|[dei]|ra
+despinçar	verbo	des|pin|[çar]
+despintar	verbo	des|pin|[tar]
+despiolhação	nome feminino	des|pi|o|lha|[ção]
+despiolhamento	nome masculino	des|pi|o|lha|[men]|to
+despiolhar	verbo	des|pi|o|[lhar]
+despique	nome masculino	des|[pi]|que
+despir	verbo	des|[pir]
+despirocado	adjetivo	des|pi|ro|[ca]|do
+despistada	nome feminino	des|pis|[ta]|da
+despistado	adjetivo	des|pis|[ta]|do
+despistado	nome masculino	des|pis|[ta]|do
+despistador	adjetivo	des|pis|ta|[dor]
+despistador	nome masculino	des|pis|ta|[dor]
+despistagem	nome feminino	des|pis|[ta]|gem
+despistamento	nome masculino	des|pis|ta|[men]|to
+despistar	verbo	des|pis|[tar]
+despiste	nome masculino	des|[pis]|te
+despitorrado	adjetivo	des|pi|tor|[ra]|do
+desplantar	verbo	des|plan|[tar]
+desplante	nome masculino	des|[plan]|te
+desplumar	verbo	des|plu|[mar]
+despoético	adjetivo	des|po|[é]|ti|co
+despoetização	nome feminino	des|po|e|ti|za|[ção]
+despoetizado	adjetivo	des|po|e|ti|[za]|do
+despoetizador	adjetivo	des|po|e|ti|za|[dor]
+despoetizador	nome masculino	des|po|e|ti|za|[dor]
+despoetizar	verbo	des|po|e|ti|[zar]
+despois	advérbio	des|[pois]
+despojadamente	advérbio	des|po|ja|da|[men]|te
+despojado	adjetivo	des|po|[ja]|do
+despojador	adjetivo	des|po|ja|[dor]
+despojador	nome masculino	des|po|ja|[dor]
+despojamento	nome masculino	des|po|ja|[men]|to
+despojar	verbo	des|po|[jar]
+despojável	adjetivo	des|po|[já]|vel
+despojo	nome masculino	des|[po]|jo
+despolarização	nome feminino	des|po|la|ri|za|[ção]
+despolarizador	adjetivo	des|po|la|ri|za|[dor]
+despolarizador	nome masculino	des|po|la|ri|za|[dor]
+despolarizante	adjetivo	des|po|la|ri|[zan]|te
+despolarizar	verbo	des|po|la|ri|[zar]
+despoletar	verbo	des|po|le|[tar]
+despolidez	nome feminino	des|po|li|[dez]
+despolimento	nome masculino	des|po|li|[men]|to
+despolimerização	nome feminino	des|po|li|me|ri|za|[ção]
+despolimerizar	verbo	des|po|li|me|ri|[zar]
+despolir	verbo	des|po|[lir]
+despolitização	nome feminino	des|po|li|ti|za|[ção]
+despolitizar	verbo	des|po|li|ti|[zar]
+despolpa	nome feminino	des|[pol]|pa
+despolpador	adjetivo	des|pol|pa|[dor]
+despolpador	nome masculino	des|pol|pa|[dor]
+despolpamento	nome masculino	des|pol|pa|[men]|to
+despolpar	verbo	des|pol|[par]
+despoluição	nome feminino	des|po|lu|i|[ção]
+despoluído	adjetivo	des|po|lu|[í]|do
+despoluimento	nome masculino	des|po|lui|[men]|to
+despoluir	verbo	des|po|lu|[ir]
+desponderar	verbo	des|pon|de|[rar]
+despongar	verbo	des|pon|[gar]
+desponsório	nome masculino	des|pon|[só]|ri|o
+desponta	nome feminino	des|[pon]|ta
+despontador	adjetivo	des|pon|ta|[dor]
+despontador	nome masculino	des|pon|ta|[dor]
+despontadora	nome feminino	des|pon|ta|[do]|ra
+despontante	adjetivo	des|pon|[tan]|te
+despontar	verbo	des|pon|[tar]
+desponte	nome masculino	des|[pon]|te
+despontual	adjetivo	des|pon|tu|[al]
+despontualidade	nome feminino	des|pon|tu|a|li|[da]|de
+despontuar	verbo	des|pon|tu|[ar]
+despopularização	nome feminino	des|po|pu|la|ri|za|[ção]
+despopularizar	verbo	des|po|pu|la|ri|[zar]
+despor	verbo	des|[por]
+desporte	nome masculino	des|[por]|te
+desportilhar	verbo	des|por|ti|[lhar]
+desportismo	nome masculino	des|por|[tis]|mo
+desportista	adjetivo	des|por|[tis]|ta
+desportista	nome masculino	des|por|[tis]|ta
+desportista	nome feminino	des|por|[tis]|ta
+desportivamente	advérbio	des|por|ti|va|[men]|te
+desportivismo	nome masculino	des|por|ti|[vis]|mo
+desportivo	adjetivo	des|por|[ti]|vo
+desportivo	nome masculino	des|por|[ti]|vo
+desporto	nome masculino	des|[por]|to
+desporto-rei	nome masculino	des|por|to-rei
+desportuguês	adjetivo	des|por|tu|[guês]
+desportuguesamento	nome masculino	des|por|tu|gue|sa|[men]|to
+desportuguesar	verbo	des|por|tu|gue|[sar]
+despós	preposição	des|[pós]
+desposar	verbo	des|po|[sar]
+desposável	adjetivo	des|po|[sá]|vel
+desposório	nome masculino	des|po|[só]|ri|o
+despossar	verbo	des|pos|[sar]
+despossessão	nome feminino	des|pos|ses|[são]
+despossesso	adjetivo	des|pos|[ses]|so
+despossuir	verbo	des|pos|su|[ir]
+despostiçar	verbo	des|pos|ti|[çar]

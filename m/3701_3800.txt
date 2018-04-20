@@ -1,0 +1,100 @@
+marso	adjetivo	[mar]|so
+marso	nome masculino	[mar]|so
+marsopa	nome feminino	mar|[so]|pa
+marsuíno	nome masculino	mar|su|[í]|no
+marsupial	adjetivo	mar|su|pi|[al]
+marsupial	nome masculino	mar|su|pi|[al]
+marsupialidade	nome feminino	mar|su|pi|a|li|[da]|de
+marsupialização	nome feminino	mar|su|pi|a|li|za|[ção]
+marsúpio	nome masculino	mar|[sú]|pi|o
+marta	nome feminino	[mar]|ta
+martagão	nome masculino	mar|ta|[gão]
+martaranho	nome masculino	mar|ta|[ra]|nho
+marte	nome masculino	[mar]|te
+marteirar	verbo	mar|tei|[rar]
+marteiro	nome masculino	mar|[tei]|ro
+martelada	nome feminino	mar|te|[la]|da
+martelado	adjetivo	mar|te|[la]|do
+martelador	adjetivo	mar|te|la|[dor]
+martelador	nome masculino	mar|te|la|[dor]
+marteladora	nome feminino	mar|te|la|[do]|ra
+martelagem	nome feminino	mar|te|[la]|gem
+martelamento	nome masculino	mar|te|la|[men]|to
+martelão	nome masculino	mar|te|[lão]
+martelar	verbo	mar|te|[lar]
+marteleiro	nome masculino	mar|te|[lei]|ro
+martelejar	verbo	mar|te|le|[jar]
+martelete	nome masculino	mar|te|[le]|te
+martelinho	nome masculino	mar|te|[li]|nho
+martelo	nome masculino	mar|[te]|lo
+martelo-pilão	nome masculino	mar|te|lo-pi|[lão]
+martensite	nome feminino	mar|ten|[si]|te
+martígena	adjetivo	mar|[tí]|ge|na
+martilhar	verbo	mar|ti|[lhar]
+martilho	nome masculino	mar|[ti]|lho
+martim-gil	nome masculino	mar|tim-gil
+martim-gravata	nome masculino	mar|tim-gra|[va]|ta
+martim-gravato	nome masculino	mar|tim-gra|[va]|to
+martim-pescador	nome masculino	mar|tim-pes|ca|[dor]
+martimenga	nome feminino	mar|ti|[men]|ga
+martinense	adjetivo	mar|ti|[nen]|se
+martinense	nome masculino	mar|ti|[nen]|se
+martinense	nome feminino	mar|ti|[nen]|se
+martinete	nome masculino	mar|ti|[ne]|te
+martinézia	nome feminino	mar|ti|[né]|zi|a
+martinho	nome masculino	mar|[ti]|nho
+martinho-pescador	nome masculino	mar|ti|nho-pes|ca|[dor]
+martinica	nome feminino	mar|ti|[ni]|ca
+martinicana	nome feminino	mar|ti|ni|[ca]|na
+martinicano	adjetivo	mar|ti|ni|[ca]|no
+martinicano	nome masculino	mar|ti|ni|[ca]|no
+martinopolitano	adjetivo	mar|ti|no|po|li|[ta]|no
+martinopolitano	nome masculino	mar|ti|no|po|li|[ta]|no
+mártir	nome masculino	[már]|tir
+mártir	nome feminino	[már]|tir
+mártir	adjetivo	[már]|tir
+mártire	nome masculino	[már]|ti|re
+martírio	nome masculino	mar|[tí]|ri|o
+martirização	nome feminino	mar|ti|ri|za|[ção]
+martirizador	adjetivo	mar|ti|ri|za|[dor]
+martirizador	nome masculino	mar|ti|ri|za|[dor]
+martirizante	adjetivo	mar|ti|ri|[zan]|te
+martirizar	verbo	mar|ti|ri|[zar]
+martirológico	adjetivo	mar|ti|ro|[ló]|gi|co
+martirológio	nome masculino	mar|ti|ro|[ló]|gi|o
+martirologista	nome masculino	mar|ti|ro|lo|[gis]|ta
+martirologista	nome feminino	mar|ti|ro|lo|[gis]|ta
+martirólogo	nome masculino	mar|ti|[ró]|lo|go
+martita	nome feminino	mar|[ti]|ta
+martite	nome feminino	mar|[ti]|te
+marto	nome masculino	[mar]|to
+martrindinde	nome masculino	mar|trin|[din]|de
+marubá	nome masculino	ma|ru|[bá]
+maruca	nome feminino	ma|[ru]|ca
+marufle	nome masculino	ma|[ru]|fle
+marufo	nome masculino	ma|[ru]|fo
+marugem	nome feminino	ma|[ru]|gem
+maruí	nome masculino	ma|ru|[í]
+maruim	nome masculino	ma|ru|[im]
+maruja	nome feminino	ma|[ru]|ja
+marujada	nome feminino	ma|ru|[ja]|da
+marujal	adjetivo	ma|ru|[jal]
+marujar	verbo	ma|ru|[jar]
+marujinha	nome feminino	ma|ru|[ji]|nha
+marujo	nome masculino	ma|[ru]|jo
+marulhada	nome feminino	ma|ru|[lha]|da
+marulhado	adjetivo	ma|ru|[lha]|do
+marulhante	adjetivo	ma|ru|[lhan]|te
+marulhar	verbo	ma|ru|[lhar]
+marulheiro	adjetivo	ma|ru|[lhei]|ro
+marulhento	adjetivo	ma|ru|[lhen]|to
+marulho	nome masculino	ma|[ru]|lho
+marulhoso	adjetivo	ma|ru|[lho]|so
+maruorana	nome feminino	ma|ru|o|[ra]|na
+marupá	nome masculino	ma|ru|[pá]
+marupá-mirim	nome masculino	ma|ru|pá-mi|[rim]
+marupaúba	nome feminino	ma|ru|pa|[ú]|ba
+maruru	nome masculino	ma|ru|[ru]
+maruta	nome feminino	ma|[ru]|ta
+marvanense	adjetivo	mar|va|[nen]|se
+marvanense	nome masculino	mar|va|[nen]|se

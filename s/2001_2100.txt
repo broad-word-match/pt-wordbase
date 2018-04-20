@@ -1,0 +1,100 @@
+sapotácea	nome feminino	sa|po|[tá]|ce|a
+sapotáceo	adjetivo	sa|po|[tá]|ce|o
+sapoti	nome masculino	sa|po|[ti]
+sapotilha	nome feminino	sa|po|[ti]|lha
+sapotizeiro	nome masculino	sa|po|ti|[zei]|ro
+saprema	nome feminino	sa|[pre]|ma
+sapremar	verbo	sa|pre|[mar]
+sapremia	nome feminino	sa|pre|[mi]|a
+saprino	nome masculino	sa|[pri]|no
+sapróbio	adjetivo	sa|[pró]|bi|o
+sapróbio	nome masculino	sa|[pró]|bi|o
+saprobiose	nome feminino	sa|pro|bi|[o]|se
+saprobiótico	adjetivo	sa|pro|bi|[ó]|ti|co
+saprocola	nome feminino	sa|pro|[co]|la
+saprófago	adjetivo	sa|[pró]|fa|go
+saprófago	nome masculino	sa|[pró]|fa|go
+saprófilo	adjetivo	sa|[pró]|fi|lo
+saprófita	adjetivo	sa|[pró]|fi|ta
+saprófita	nome feminino	sa|[pró]|fi|ta
+saprofitia	nome feminino	sa|pro|fi|[ti]|a
+saprófito	adjetivo	sa|[pró]|fi|to
+saprófito	nome masculino	sa|[pró]|fi|to
+saprogênico	adjetivo	sa|pro|[gê]|ni|co
+saprogénico	adjetivo	sa|pro|[gé]|ni|co
+saprógeno	adjetivo	sa|[pró]|ge|no
+saprolégnia	nome feminino	sa|pro|[lég]|ni|a
+saprolegniácea	nome feminino	sa|pro|leg|ni|[á]|ce|a
+sapropel	nome masculino	sa|pro|[pel]
+sapropélico	adjetivo	sa|pro|[pé]|li|co
+sapropelito	nome masculino	sa|pro|pe|[li]|to
+saprosma	nome feminino	sa|[pros]|ma
+saproxilóbio	adjetivo	sa|pro|xi|[ló]|bi|o
+saprozoário	adjetivo	sa|pro|zo|[á]|ri|o
+saprozoário	nome masculino	sa|pro|zo|[á]|ri|o
+saprozoico	adjetivo	sa|pro|[zoi]|co
+sapu	nome masculino	sa|[pu]
+sapuá	nome masculino	sa|pu|[á]
+sapucaia	nome feminino	sa|pu|[cai]|a
+sapucaiamirim	nome feminino	sa|pu|cai|a|mi|[rim]
+sapucaieira	nome feminino	sa|pu|cai|[ei]|ra
+sapucainha	nome feminino	sa|pu|ca|[i]|nha
+sapucairana	nome feminino	sa|pu|cai|[ra]|na
+sapuche	nome masculino	sa|[pu]|che
+sapudo	adjetivo	sa|[pu]|do
+sapujuba	nome masculino	sa|pu|[ju]|ba
+sapupira	nome feminino	sa|pu|[pi]|ra
+sapupo	nome masculino	sa|[pu]|po
+saputá	nome masculino	sa|pu|[tá]
+sapuva	nome feminino	sa|[pu]|va
+sapuvuçu	nome feminino	sa|pu|vu|[çu]
+saquarema	nome masculino	sa|qua|[re]|ma
+saque	nome masculino	[sa]|que
+saqué	nome masculino	sa|[qué]
+saquê	nome masculino	sa|[quê]
+saqueador	adjetivo	sa|que|a|[dor]
+saqueador	nome masculino	sa|que|a|[dor]
+saqueadora	nome feminino	sa|que|a|[do]|ra
+saquear	verbo	sa|que|[ar]
+saqueio	nome masculino	sa|[quei]|o
+saqueiro	nome masculino	sa|[quei]|ro
+saquelar	verbo	sa|que|[lar]
+saquete	nome masculino	sa|[que]|te
+saqui	nome masculino	sa|[qui]
+saquiada	nome feminino	sa|qui|[a]|da
+saquiforme	adjetivo	sa|qui|[for]|me
+saquilada	nome feminino	sa|qui|[la]|da
+saquilhão	nome masculino	sa|qui|[lhão]
+saquim	nome masculino	sa|[quim]
+saquinho	nome masculino	sa|[qui]|nho
+saquista	nome masculino	sa|[quis]|ta
+saquista	nome feminino	sa|[quis]|ta
+saquitaria	nome feminino	sa|qui|ta|[ri]|a
+saquiteiro	nome masculino	sa|qui|[tei]|ro
+saquitel	nome masculino	sa|qui|[tel]
+saquitéu	nome masculino	sa|qui|[téu]
+saquito	nome masculino	sa|[qui]|to
+sará	adjetivo	sa|[rá]
+sará	nome masculino	sa|[rá]
+sarã	nome masculino	sa|[rã]
+sará	nome feminino	sa|[rá]
+sará-sará	nome masculino	sa|rá-sa|[rá]
+sarabanda	nome feminino	sa|ra|[ban]|da
+sarabandear	verbo	sa|ra|ban|de|[ar]
+sarabarita	nome masculino	sa|ra|ba|[ri]|ta
+sarabatana	nome feminino	sa|ra|ba|[ta]|na
+sarabulha	nome feminino	sa|ra|[bu]|lha
+sarabulhento	adjetivo	sa|ra|bu|[lhen]|to
+sarabulho	nome masculino	sa|ra|[bu]|lho
+sarabulhoso	adjetivo	sa|ra|bu|[lho]|so
+saraça	nome feminino	sa|[ra]|ça
+saraça	nome masculino	sa|[ra]|ça
+saraças	nome feminino	sa|[ra]|ças
+saracenária	nome feminino	sa|ra|ce|[ná]|ri|a
+saraço	nome masculino	sa|[ra]|ço
+saracolé	nome masculino	sa|ra|co|[lé]
+saracolé	nome feminino	sa|ra|co|[lé]
+saracote	nome masculino	sa|ra|[co]|te
+saracoteado	nome masculino	sa|ra|co|te|[a]|do
+saracoteador	adjetivo	sa|ra|co|te|a|[dor]
+saracoteador	nome masculino	sa|ra|co|te|a|[dor]

@@ -1,0 +1,100 @@
+frisado	adjetivo	fri|[sa]|do
+frisado	nome masculino	fri|[sa]|do
+frisador	nome masculino	fri|sa|[dor]
+frisador	adjetivo	fri|sa|[dor]
+frisadora	nome feminino	fri|sa|[do]|ra
+frisagem	nome feminino	fri|[sa]|gem
+frisante	adjetivo	fri|[san]|te
+frisão	nome masculino	fri|[são]
+frisão	adjetivo	fri|[são]
+frisar	verbo	fri|[sar]
+frísia	nome feminino	[frí]|si|a
+frísico	adjetivo	[frí]|si|co
+frísico	nome masculino	[frí]|si|co
+frísio	adjetivo	[frí]|si|o
+frísio	nome masculino	[frí]|si|o
+friso	nome masculino	[fri]|so
+frita	nome feminino	[fri]|ta
+fritada	nome feminino	fri|[ta]|da
+fritadeira	nome feminino	fri|ta|[dei]|ra
+fritagem	nome feminino	fri|[ta]|gem
+fritalhada	nome feminino	fri|ta|[lha]|da
+fritambá	nome masculino	fri|tam|[bá]
+fritangada	nome feminino	fri|tan|[ga]|da
+fritar	verbo	fri|[tar]
+fritido	nome masculino	fri|[ti]|do
+fritilária	nome feminino	fri|ti|[lá]|ri|a
+fritilário	adjetivo	fri|ti|[lá]|ri|o
+fritilo	nome masculino	fri|[ti]|lo
+frito	nome masculino	[fri]|to
+frito	adjetivo	[fri]|to
+fritura	nome feminino	fri|[tu]|ra
+friulano	adjetivo	friu|[la]|no
+friulano	nome masculino	friu|[la]|no
+friúra	nome feminino	fri|[ú]|ra
+frívola	nome feminino	[frí]|vo|la
+frivolamente	advérbio	fri|vo|la|[men]|te
+frivoleza	nome feminino	fri|vo|[le]|za
+frivolidade	nome feminino	fri|vo|li|[da]|de
+frívolo	adjetivo	[frí]|vo|lo
+frívolo	nome masculino	[frí]|vo|lo
+frixeu	adjetivo	fri|[xeu]
+frixeu	nome masculino	fri|[xeu]
+frízer	nome masculino	[frí]|zer
+fröbeliano	adjetivo	fröbe|li|[a]|no
+frocado	nome masculino	fro|[ca]|do
+frocado	adjetivo	fro|[ca]|do
+frocadura	nome feminino	fro|ca|[du]|ra
+frocar	verbo	fro|[car]
+froco	nome masculino	[fro]|co
+froixa	nome feminino	[froi]|xa
+froixamente	advérbio	froi|xa|[men]|te
+froixar	verbo	froi|[xar]
+froixel	nome masculino	froi|[xel]
+froixelado	adjetivo	froi|xe|[la]|do
+froixeleiro	adjetivo	froi|xe|[lei]|ro
+froixeza	nome feminino	froi|[xe]|za
+froixidade	nome feminino	froi|xi|[da]|de
+froixidão	nome feminino	froi|xi|[dão]
+froixo	adjetivo	[froi]|xo
+froixo	nome masculino	[froi]|xo
+frol	nome feminino	[frol]
+frolhó	nome masculino	fro|[lhó]
+fronças	nome feminino	[fron]|ças
+fronda	nome feminino	[fron]|da
+frondar	verbo	fron|[dar]
+fronde	nome feminino	[fron]|de
+frondear	verbo	fron|de|[ar]
+frondejante	adjetivo	fron|de|[jan]|te
+frondejar	verbo	fron|de|[jar]
+frondente	adjetivo	fron|[den]|te
+frôndeo	adjetivo	[frôn]|de|o
+frondescência	nome feminino	fron|des|[cên]|ci|a
+frondescente	adjetivo	fron|des|[cen]|te
+frondescer	verbo	fron|des|[cer]
+frondícola	adjetivo	fron|[dí]|co|la
+frondífero	adjetivo	fron|[dí]|fe|ro
+frondíparo	adjetivo	fron|[dí]|pa|ro
+frondista	adjetivo	fron|[dis]|ta
+frondista	nome masculino	fron|[dis]|ta
+frondista	nome feminino	fron|[dis]|ta
+frondosidade	nome feminino	fron|do|si|[da]|de
+frondoso	adjetivo	fron|[do]|so
+frôndula	nome feminino	[frôn]|du|la
+fronema	nome masculino	fro|[ne]|ma
+froneta	nome masculino	fro|[ne]|ta
+fronha	nome feminino	[fro]|nha
+fronho	nome masculino	[fro]|nho
+fronho	adjetivo	[fro]|nho
+frontaberto	adjetivo	fron|ta|[ber]|to
+frontada	nome feminino	fron|[ta]|da
+frontal	nome masculino	fron|[tal]
+frontal	adjetivo	fron|[tal]
+frontaleira	nome feminino	fron|ta|[lei]|ra
+frontalidade	nome feminino	fron|ta|li|[da]|de
+frontalmente	advérbio	fron|tal|[men]|te
+frontão	nome masculino	fron|[tão]
+frontaria	nome feminino	fron|ta|[ri]|a
+fronte	nome feminino	[fron]|te
+frontear	verbo	fron|te|[ar]
+fronteira	nome feminino	fron|[tei]|ra

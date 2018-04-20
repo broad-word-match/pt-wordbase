@@ -1,0 +1,100 @@
+fissidáctilo	nome masculino	fis|si|[dác]|ti|lo
+fissidáctilo	adjetivo	fis|si|[dác]|ti|lo
+fissidentácea	nome feminino	fis|si|den|[tá]|ce|a
+fissidentado	nome masculino	fis|si|den|[ta]|do
+fissidente	adjetivo	fis|si|[den]|te
+fissifloro	adjetivo	fis|si|[flo]|ro
+fissiforme	adjetivo	fis|si|[for]|me
+físsil	adjetivo	[fís]|sil
+fissilidade	nome feminino	fis|si|li|[da]|de
+fissilingue	adjetivo	fis|si|[lin]|gue
+fissilingue	nome masculino	fis|si|[lin]|gue
+fissional	adjetivo	fis|si|o|[nal]
+fissionar	verbo	fis|si|o|[nar]
+fissionável	adjetivo	fis|si|o|[ná]|vel
+fissiparidade	nome feminino	fis|si|pa|ri|[da]|de
+fissíparo	adjetivo	fis|[sí]|pa|ro
+fissípede	adjetivo	fis|[sí]|pe|de
+fissípede	nome masculino	fis|[sí]|pe|de
+fissipene	adjetivo	fis|si|[pe]|ne
+fissirrostro	adjetivo	fis|sir|[ros]|tro
+fissirrostro	nome masculino	fis|sir|[ros]|tro
+fissura	nome feminino	fis|[su]|ra
+fissuração	nome feminino	fis|su|ra|[ção]
+fissurado	adjetivo	fis|su|[ra]|do
+fissural	adjetivo	fis|su|[ral]
+fissuramento	nome masculino	fis|su|ra|[men]|to
+fissurar	verbo	fis|su|[rar]
+fistor	nome masculino	fis|[tor]
+fistorice	nome feminino	fis|to|[ri]|ce
+fístula	nome feminino	[fís]|tu|la
+fistulação	nome feminino	fis|tu|la|[ção]
+fistulado	adjetivo	fis|tu|[la]|do
+fistular	adjetivo	fis|tu|[lar]
+fistular	verbo	fis|tu|[lar]
+fistulivalve	adjetivo	fis|tu|li|[val]|ve
+fistuloso	adjetivo	fis|tu|[lo]|so
+fita	nome feminino	[fi]|ta
+fita-cola	nome feminino	fi|ta-co|la
+fita-do-mar	nome masculino	fi|ta-do-mar
+fitáceo	adjetivo	fi|[tá]|ce|o
+fitamente	advérbio	fi|ta|[men]|te
+fitança	nome feminino	fi|[tan]|ça
+fitar	verbo	fi|[tar]
+fitaria	nome feminino	fi|ta|[ri]|a
+fiteira	nome feminino	fi|[tei]|ra
+fiteiro	adjetivo	fi|[tei]|ro
+fiteiro	nome masculino	fi|[tei]|ro
+fítico	adjetivo	[fí]|ti|co
+fítico	nome masculino	[fí]|ti|co
+fitilha	nome feminino	fi|[ti]|lha
+fitilho	nome masculino	fi|[ti]|lho
+fitina	nome feminino	fi|[ti]|na
+fitinha	nome feminino	fi|[ti]|nha
+fitínico	adjetivo	fi|[tí]|ni|co
+fitness	nome feminino	[fit]|ness
+fito	nome masculino	[fi]|to
+fito	adjetivo	[fi]|to
+fitobiologia	nome feminino	fi|to|bi|o|lo|[gi]|a
+fitobiológico	adjetivo	fi|to|bi|o|[ló]|gi|co
+fitocecídia	nome feminino	fi|to|ce|[cí]|di|a
+fitoclorina	nome feminino	fi|to|clo|[ri]|na
+fitofagia	nome feminino	fi|to|fa|[gi]|a
+fitofágico	adjetivo	fi|to|[fá]|gi|co
+fitófago	adjetivo	fi|[tó]|fa|go
+fitófago	nome masculino	fi|[tó]|fa|go
+fitofarmacêutico	adjetivo	fi|to|far|ma|[cêu]|ti|co
+fitofármaco	nome masculino	fi|to|[fár]|ma|co
+fitofarmacologia	nome feminino	fi|to|far|ma|co|lo|[gi]|a
+fitófilo	adjetivo	fi|[tó]|fi|lo
+fitófilo	nome masculino	fi|[tó]|fi|lo
+fitofisiologia	nome feminino	fi|to|fi|si|o|lo|[gi]|a
+fitofisiológico	adjetivo	fi|to|fi|si|o|[ló]|gi|co
+fitogêneo	adjetivo	fi|to|[gê]|ne|o
+fitogéneo	adjetivo	fi|to|[gé]|ne|o
+fitogénese	nome feminino	fi|to|[gé]|ne|se
+fitogênese	nome feminino	fi|to|[gê]|ne|se
+fitogenésico	adjetivo	fi|to|ge|[né]|si|co
+fitogenético	adjetivo	fi|to|ge|[né]|ti|co
+fitogenia	nome feminino	fi|to|ge|[ni]|a
+fitogênico	adjetivo	fi|to|[gê]|ni|co
+fitogénico	adjetivo	fi|to|[gé]|ni|co
+fitogeografia	nome feminino	fi|to|ge|o|gra|[fi]|a
+fitogeográfico	adjetivo	fi|to|ge|o|[grá]|fi|co
+fitognomonia	nome feminino	fi|tog|no|mo|[ni]|a
+fitognomônica	nome feminino	fi|tog|no|[mô]|ni|ca
+fitognomónica	nome feminino	fi|tog|no|[mó]|ni|ca
+fitognomônico	adjetivo	fi|tog|no|[mô]|ni|co
+fitognomónico	adjetivo	fi|tog|no|[mó]|ni|co
+fitografia	nome feminino	fi|to|gra|[fi]|a
+fitográfico	adjetivo	fi|to|[grá]|fi|co
+fitógrafo	nome masculino	fi|[tó]|gra|fo
+fitoide	adjetivo	fi|[toi]|de
+fitolaca	nome feminino	fi|to|[la]|ca
+fitolacácea	nome feminino	fi|to|la|[cá]|ce|a
+fitolacáceo	adjetivo	fi|to|la|[cá]|ce|o
+fitólito	nome masculino	fi|[tó]|li|to
+fitolitologia	nome feminino	fi|to|li|to|lo|[gi]|a
+fitolitológico	adjetivo	fi|to|li|to|[ló]|gi|co
+fitologia	nome feminino	fi|to|lo|[gi]|a
+fitológico	adjetivo	fi|to|[ló]|gi|co

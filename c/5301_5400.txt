@@ -1,0 +1,100 @@
+carroçaria	nome feminino	car|ro|ça|[ri]|a
+carroçável	adjetivo	car|ro|[çá]|vel
+carroceira	nome feminino	car|ro|[cei]|ra
+carroceiro	nome masculino	car|ro|[cei]|ro
+carrocel	nome masculino	car|ro|[cel]
+carroceria	nome feminino	car|ro|ce|[ri]|a
+carrocha	nome feminino	car|[ro]|cha
+carrocim	nome masculino	car|ro|[cim]
+carrossel	nome masculino	car|ros|[sel]
+carruageiro	nome masculino	car|ru|a|[gei]|ro
+carruagem	nome feminino	car|ru|[a]|gem
+carruagem-bar	nome feminino	car|ru|a|gem-bar
+carruagem-cama	nome feminino	car|ru|a|gem-ca|ma
+carruagem-restaurante	nome feminino	car|ru|a|gem-res|tau|[ran]|te
+carruagem-salão	nome feminino	car|ru|a|gem-sa|[lão]
+carruajar	verbo	car|ru|a|[jar]
+carruca	nome feminino	car|[ru]|ca
+carrulo	nome masculino	car|[ru]|lo
+carseolano	adjetivo	car|se|o|[la]|no
+carseolano	nome masculino	car|se|o|[la]|no
+cársico	adjetivo	[cár]|si|co
+cárstico	adjetivo	[cárs]|ti|co
+carta	nome feminino	[car]|ta
+carta de prego	nome feminino	[car]|ta de pre|go
+carta-bilhete	nome feminino	car|ta-bi|[lhe]|te
+carta-branca	nome feminino	car|ta-bran|ca
+carta-postal	nome feminino	car|ta-pos|[tal]
+cartabuxa	nome feminino	car|ta|[bu]|xa
+cartabuxar	verbo	car|ta|bu|[xar]
+cartáceo	adjetivo	car|[tá]|ce|o
+cartada	nome feminino	car|[ta]|da
+cartaginense	adjetivo	car|ta|gi|[nen]|se
+cartaginense	nome masculino	car|ta|gi|[nen]|se
+cartaginense	nome feminino	car|ta|gi|[nen]|se
+cartaginês	nome masculino	car|ta|gi|[nês]
+cartaginês	adjetivo	car|ta|gi|[nês]
+cartaginesa	nome feminino	car|ta|gi|[ne]|sa
+cartaloxo	nome masculino	car|ta|[lo]|xo
+cártamo	nome masculino	[cár]|ta|mo
+cartão	nome masculino	car|[tão]
+cartão de visita	nome masculino	car|tão de vi|si|ta
+cartão-pedra	nome feminino	car|tão-pe|dra
+cartão-pedra	nome masculino	car|tão-pe|dra
+cartão-postal	nome masculino	car|tão-pos|[tal]
+cartapácio	nome masculino	car|ta|[pá]|ci|o
+cartapaço	nome masculino	car|ta|[pa]|ço
+cartapé	nome masculino	car|ta|[pé]
+cartapele	nome feminino	car|ta|[pe]|le
+cartar	verbo	car|[tar]
+cartário	nome masculino	car|[tá]|ri|o
+cartaxeira	nome feminino	car|ta|[xei]|ra
+cartaxeiro	adjetivo	car|ta|[xei]|ro
+cartaxeiro	nome masculino	car|ta|[xei]|ro
+cartaxense	adjetivo	car|ta|[xen]|se
+cartaxense	nome masculino	car|ta|[xen]|se
+cartaxense	nome feminino	car|ta|[xen]|se
+cartaxo	nome masculino	car|[ta]|xo
+cartaz	nome masculino	car|[taz]
+cartazeiro	nome masculino	car|ta|[zei]|ro
+cartazista	nome masculino	car|ta|[zis]|ta
+cartazista	nome feminino	car|ta|[zis]|ta
+carte	nome masculino	[car]|te
+carteado	adjetivo	car|te|[a]|do
+carteamento	nome masculino	car|te|a|[men]|to
+cartear	verbo	car|te|[ar]
+carteiano	adjetivo	car|tei|[a]|no
+carteiano	nome masculino	car|tei|[a]|no
+carteio	nome masculino	car|[tei]|o
+carteira	nome feminino	car|[tei]|ra
+carteirista	nome masculino	car|tei|[ris]|ta
+carteirista	nome feminino	car|tei|[ris]|ta
+carteiro	nome masculino	car|[tei]|ro
+cartel	nome masculino	car|[tel]
+cartela	nome feminino	car|[te]|la
+cartelhana	nome feminino	car|te|[lha]|na
+cartelista	adjetivo	car|te|[lis]|ta
+cartelista	nome masculino	car|te|[lis]|ta
+cartelista	nome feminino	car|te|[lis]|ta
+cartelização	nome feminino	car|te|li|za|[ção]
+cartelizar	verbo	car|te|li|[zar]
+cárter	nome masculino	[cár]|ter
+cartesiana	nome feminino	car|te|si|[a]|na
+cartesianismo	nome masculino	car|te|si|a|[nis]|mo
+cartesianista	adjetivo	car|te|si|a|[nis]|ta
+cartesianista	nome masculino	car|te|si|a|[nis]|ta
+cartesianista	nome feminino	car|te|si|a|[nis]|ta
+cartesianístico	adjetivo	car|te|si|a|[nís]|ti|co
+cartesiano	adjetivo	car|te|si|[a]|no
+cartesiano	nome masculino	car|te|si|[a]|no
+carteu	adjetivo	car|[teu]
+carteu	nome masculino	car|[teu]
+cartícula	nome feminino	car|[tí]|cu|la
+cartilagem	nome feminino	car|ti|[la]|gem
+cartilagíneo	adjetivo	car|ti|la|[gí]|ne|o
+cartilaginoso	adjetivo	car|ti|la|gi|[no]|so
+cartilha	nome feminino	car|[ti]|lha
+cartimitano	nome masculino	car|ti|mi|[ta]|no
+cartimitano	adjetivo	car|ti|mi|[ta]|no
+cartismo	nome masculino	car|[tis]|mo
+cartista	adjetivo	car|[tis]|ta

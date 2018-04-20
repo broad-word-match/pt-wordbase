@@ -1,0 +1,100 @@
+carnallita	nome feminino	car|nal|[li]|ta
+carnar	verbo	car|[nar]
+carnário	nome masculino	car|[ná]|ri|o
+carnaúba	nome feminino	car|na|[ú]|ba
+carnaubal	nome masculino	car|nau|[bal]
+carnaubeira	nome feminino	car|nau|[bei]|ra
+carnaval	nome masculino	car|na|[val]
+carnavalescamente	advérbio	car|na|va|les|ca|[men]|te
+carnavalesco	adjetivo	car|na|va|[les]|co
+carnavalizar	verbo	car|na|va|li|[zar]
+carnaz	nome masculino	car|[naz]
+carne	nome feminino	[car]|ne
+carné	nome masculino	car|[né]
+carnê	nome masculino	car|[nê]
+carne de sol	nome masculino	[car]|ne de sol
+carneação	nome feminino	car|ne|a|[ção]
+carneador	nome masculino	car|ne|a|[dor]
+carnear	verbo	car|ne|[ar]
+carnecoita	nome feminino	car|ne|[coi]|ta
+carneeiro	adjetivo	car|ne|[ei]|ro
+carnegão	nome masculino	car|ne|[gão]
+carneira	nome feminino	car|[nei]|ra
+carneirada	nome feminino	car|nei|[ra]|da
+carneirar	verbo	car|nei|[rar]
+carneireiro	nome masculino	car|nei|[rei]|ro
+carneirinho	nome masculino	car|nei|[ri]|nho
+carneiro	nome masculino	car|[nei]|ro
+carneirum	adjetivo	car|nei|[rum]
+carnejão	nome masculino	car|ne|[jão]
+cárneo	adjetivo	[cár]|ne|o
+carnéola	nome feminino	car|[né]|o|la
+carnet	nome masculino	car|net
+carniano	adjetivo	car|ni|[a]|no
+carniça	nome feminino	car|[ni]|ça
+carniçal	adjetivo	car|ni|[çal]
+carnicão	nome masculino	car|ni|[cão]
+carniçaria	nome feminino	car|ni|ça|[ri]|a
+carniceira	nome feminino	car|ni|[cei]|ra
+carniceiramente	advérbio	car|ni|cei|ra|[men]|te
+carniceiro	adjetivo	car|ni|[cei]|ro
+carniceiro	nome masculino	car|ni|[cei]|ro
+carnicento	adjetivo	car|ni|[cen]|to
+cárnico	adjetivo	[cár]|ni|co
+carnifazer	verbo	car|ni|fa|[zer]
+carnificação	nome feminino	car|ni|fi|ca|[ção]
+carnificar	verbo	car|ni|fi|[car]
+carnífice	adjetivo	car|[ní]|fi|ce
+carnífice	nome masculino	car|[ní]|fi|ce
+carnífice	nome feminino	car|[ní]|fi|ce
+carnificina	nome feminino	car|ni|fi|[ci]|na
+carniforme	adjetivo	car|ni|[for]|me
+carnigão	nome masculino	car|ni|[gão]
+carninga	nome feminino	car|[nin]|ga
+carniola	nome feminino	car|ni|[o]|la
+carnismo	nome masculino	car|[nis]|mo
+carnista	adjetivo	car|[nis]|ta
+carnista	nome masculino	car|[nis]|ta
+carnista	nome feminino	car|[nis]|ta
+carnivoridade	nome feminino	car|ni|vo|ri|[da]|de
+carnivorismo	nome masculino	car|ni|vo|[ris]|mo
+carnívoro	nome masculino	car|[ní]|vo|ro
+carnívoro	adjetivo	car|[ní]|vo|ro
+carnização	nome feminino	car|ni|za|[ção]
+carno	adjetivo	[car]|no
+carno	nome masculino	[car]|no
+carnosidade	nome feminino	car|no|si|[da]|de
+carnoso	adjetivo	car|[no]|so
+carnotita	nome feminino	car|no|[ti]|ta
+carnotite	nome feminino	car|no|[ti]|te
+carnuça	nome feminino	car|[nu]|ça
+carnudo	adjetivo	car|[nu]|do
+carnute	adjetivo	car|[nu]|te
+carnute	nome masculino	car|[nu]|te
+carnute	nome feminino	car|[nu]|te
+caro	advérbio	[ca]|ro
+caro	adjetivo	[ca]|ro
+caro	nome masculino	[ca]|ro
+caró	nome masculino	ca|[ró]
+caroá	adjetivo	ca|ro|[á]
+caroá	nome masculino	ca|ro|[á]
+caroá	nome feminino	ca|ro|[á]
+caroatá	nome masculino	ca|ro|a|[tá]
+caroável	adjetivo	ca|ro|[á]|vel
+caroazal	nome masculino	ca|ro|a|[zal]
+caroba	nome feminino	ca|[ro]|ba
+carobinha	nome feminino	ca|ro|[bi]|nha
+caroca	nome feminino	ca|[ro]|ca
+caroça	nome feminino	ca|[ro]|ça
+caroçama	nome feminino	ca|ro|[ça]|ma
+caroçame	nome masculino	ca|ro|[ça]|me
+carocar	verbo	ca|ro|[car]
+caroceiro	nome masculino	ca|ro|[cei]|ro
+carocha	nome masculino	ca|[ro]|cha
+carocha	nome feminino	ca|[ro]|cha
+carochinha	nome feminino	ca|ro|[chi]|nha
+carocho	adjetivo	ca|[ro]|cho
+carocho	nome masculino	ca|[ro]|cho
+caroço	nome masculino	ca|[ro]|ço
+carocoroca	nome feminino	ca|ro|co|[ro]|ca
+caroçudo	adjetivo	ca|ro|[çu]|do

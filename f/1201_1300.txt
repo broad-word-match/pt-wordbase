@@ -1,0 +1,100 @@
+fascistoide	nome feminino	fas|cis|[toi]|de
+fascite	nome feminino	fas|[ci]|te
+fasco	nome masculino	[fas]|co
+fascolarctídeo	nome masculino	fas|co|larc|[tí]|de|o
+fascolarcto	nome masculino	fas|co|[larc]|to
+fascólomo	nome masculino	fas|[có]|lo|mo
+fase	nome feminino	[fa]|se
+faseado	adjetivo	fa|se|[a]|do
+faseamento	nome masculino	fa|se|a|[men]|to
+fasear	verbo	fa|se|[ar]
+faselita	adjetivo	fa|se|[li]|ta
+faselita	nome masculino	fa|se|[li]|ta
+faselita	nome feminino	fa|se|[li]|ta
+faseolácea	nome feminino	fa|se|o|[lá]|ce|a
+faseolar	adjetivo	fa|se|o|[lar]
+faseólea	nome feminino	fa|se|[ó]|le|a
+faseólico	adjetivo	fa|se|[ó]|li|co
+faseolina	nome feminino	fa|se|o|[li]|na
+faséolo	nome masculino	fa|[sé]|o|lo
+fasiânida	nome masculino	fa|si|[â]|ni|da
+fasiânida	nome masculino	fa|si|[â]|ni|da
+fasianídea	nome feminino	fa|si|a|[ní]|de|a
+fasianídeo	nome masculino	fa|si|a|[ní]|de|o
+fasianídeo	adjetivo	fa|si|a|[ní]|de|o
+fasianídeo	nome masculino	fa|si|a|[ní]|de|o
+fasimétrico	adjetivo	fa|si|[mé]|tri|co
+fasímetro	nome masculino	fa|[sí]|me|tro
+fasitrão	nome masculino	fa|si|[trão]
+fasma	nome masculino	[fas]|ma
+fasmídeo	nome masculino	fas|[mí]|de|o
+fasmídeo	adjetivo	fas|[mí]|de|o
+fasmídeo	nome masculino	fas|[mí]|de|o
+fasquia	nome feminino	fas|[qui]|a
+fasquiado	nome masculino	fas|qui|[a]|do
+fasquiado	adjetivo	fas|qui|[a]|do
+fasquiador	nome masculino	fas|qui|a|[dor]
+fasquiar	verbo	fas|qui|[ar]
+fasquieiro	nome masculino	fas|qui|[ei]|ro
+fasquio	nome masculino	fas|[qui]|o
+fastento	adjetivo	fas|[ten]|to
+fastento	nome masculino	fas|[ten]|to
+fastento	nome feminino	fas|[ten]|to
+fastídio	nome masculino	fas|[tí]|di|o
+fastidiosamente	advérbio	fas|ti|di|o|sa|[men]|te
+fastidioso	adjetivo	fas|ti|di|[o]|so
+fastiento	adjetivo	fas|ti|[en]|to
+fastigiado	adjetivo	fas|ti|gi|[a]|do
+fastigiária	nome feminino	fas|ti|gi|[á]|ri|a
+fastígio	nome masculino	fas|[tí]|gi|o
+fastigioso	adjetivo	fas|ti|gi|[o]|so
+fastio	nome masculino	fas|[ti]|o
+fastioso	adjetivo	fas|ti|[o]|so
+fasto	adjetivo	[fas]|to
+fasto	nome masculino	[fas]|to
+fastos	nome masculino	[fas]|tos
+fastoso	adjetivo	fas|[to]|so
+fastuoso	adjetivo	fas|tu|[o]|so
+fata	nome feminino	[fa]|ta
+fataça	nome feminino	fa|[ta]|ça
+fatacaz	nome masculino	fa|ta|[caz]
+fatada	nome feminino	fa|[ta]|da
+fatagear	verbo	fa|ta|ge|[ar]
+fatagem	nome feminino	fa|[ta]|gem
+fatal	adjetivo	fa|[tal]
+fatalidade	nome feminino	fa|ta|li|[da]|de
+fatalismo	nome masculino	fa|ta|[lis]|mo
+fatalista	adjetivo	fa|ta|[lis]|ta
+fatalista	nome masculino	fa|ta|[lis]|ta
+fatalista	nome feminino	fa|ta|[lis]|ta
+fatalístico	adjetivo	fa|ta|[lís]|ti|co
+fatalmente	advérbio	fa|tal|[men]|te
+fatana	nome feminino	fa|[ta]|na
+fatanisca	nome feminino	fa|ta|[nis]|ca
+fatanisco	nome masculino	fa|ta|[nis]|co
+fatão	nome masculino	fa|[tão]
+fatãozeiro	nome masculino	fa|[tão]|zei|ro
+fateco	nome masculino	fa|[te]|co
+fateiro	adjetivo	fa|[tei]|ro
+fateiro	nome masculino	fa|[tei]|ro
+fateixa	nome feminino	fa|[tei]|xa
+fateixar	verbo	fa|tei|[xar]
+fatejar	verbo	fa|te|[jar]
+fatela	adjetivo	fa|[te]|la
+fateusim	adjetivo	fa|teu|[sim]
+fateusim	nome masculino	fa|teu|[sim]
+fatia	nome feminino	fa|[ti]|a
+fatiar	verbo	fa|ti|[ar]
+faticano	adjetivo	fa|ti|[ca]|no
+faticeira	nome feminino	fa|ti|[cei]|ra
+fatício	adjetivo	fa|[tí]|ci|o
+fático	adjetivo	[fá]|ti|co
+fatidicamente	advérbio	fa|ti|di|ca|[men]|te
+fatídico	adjetivo	fa|[tí]|di|co
+fatífero	adjetivo	fa|[tí]|fe|ro
+fatiga	nome feminino	fa|[ti]|ga
+fatigador	adjetivo	fa|ti|ga|[dor]
+fatigador	nome masculino	fa|ti|ga|[dor]
+fatigante	adjetivo	fa|ti|[gan]|te
+fatigantemente	advérbio	fa|ti|gan|te|[men]|te
+fatigar	verbo	fa|ti|[gar]

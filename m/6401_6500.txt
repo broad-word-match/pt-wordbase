@@ -1,0 +1,100 @@
+metáfise	nome feminino	me|[tá]|fi|se
+metafísica	nome feminino	me|ta|[fí]|si|ca
+metafisicamente	advérbio	me|ta|fi|si|ca|[men]|te
+metafisicar	verbo	me|ta|fi|si|[car]
+metafisicismo	nome masculino	me|ta|fi|si|[cis]|mo
+metafísico	nome masculino	me|ta|[fí]|si|co
+metafísico	adjetivo	me|ta|[fí]|si|co
+metafloema	nome masculino	me|ta|flo|[e]|ma
+metafonia	nome feminino	me|ta|fo|[ni]|a
+metafonicamente	advérbio	me|ta|fo|ni|ca|[men]|te
+metafônico	adjetivo	me|ta|[fô]|ni|co
+metafónico	adjetivo	me|ta|[fó]|ni|co
+metáfora	nome feminino	me|[tá]|fo|ra
+metaforicamente	advérbio	me|ta|fo|ri|ca|[men]|te
+metafórico	adjetivo	me|ta|[fó]|ri|co
+metaforismo	nome masculino	me|ta|fo|[ris]|mo
+metaforista	nome feminino	me|ta|fo|[ris]|ta
+metaforista	nome masculino	me|ta|fo|[ris]|ta
+metaforizar	verbo	me|ta|fo|ri|[zar]
+metafosfato	nome masculino	me|ta|fos|[fa]|to
+metafosfórico	adjetivo	me|ta|fos|[fó]|ri|co
+metafragma	nome masculino	me|ta|[frag]|ma
+metafragmático	adjetivo	me|ta|frag|[má]|ti|co
+metáfrase	nome feminino	me|[tá]|fra|se
+metafrasta	nome masculino	me|ta|[fras]|ta
+metafrasta	nome feminino	me|ta|[fras]|ta
+metafrástico	adjetivo	me|ta|[frás]|ti|co
+metagaláctico	adjetivo	me|ta|ga|[lác]|ti|co
+metagalato	nome masculino	me|ta|ga|[la]|to
+metagaláxia	nome feminino	me|ta|ga|[lá]|xi|a
+metagálico	adjetivo	me|ta|[gá]|li|co
+metagênese	nome feminino	me|ta|[gê]|ne|se
+metagénese	nome feminino	me|ta|[gé]|ne|se
+metagenético	adjetivo	me|ta|ge|[né]|ti|co
+metageometria	nome feminino	me|ta|ge|o|me|[tri]|a
+metageométrico	adjetivo	me|ta|ge|o|[mé]|tri|co
+metagoge	nome feminino	me|ta|[go]|ge
+metagógico	adjetivo	me|ta|[gó]|gi|co
+metagrafar	verbo	me|ta|gra|[far]
+metagrama	nome masculino	me|ta|[gra]|ma
+metal	nome masculino	me|[tal]
+metalbumina	nome feminino	me|tal|bu|[mi]|na
+metaldeído	nome masculino	me|tal|de|[í]|do
+metaleiro	nome masculino	me|ta|[lei]|ro
+metalepse	nome feminino	me|ta|[lep]|se
+metalepsia	nome feminino	me|ta|lep|[si]|a
+metaléptico	adjetivo	me|ta|[lép]|ti|co
+metalescência	nome feminino	me|ta|les|[cên]|ci|a
+metalescente	adjetivo	me|ta|les|[cen]|te
+metalético	adjetivo	me|ta|[lé]|ti|co
+metalicamente	advérbio	me|ta|li|ca|[men]|te
+metalicidade	nome feminino	me|ta|li|ci|[da]|de
+metálico	adjetivo	me|[tá]|li|co
+metálico	nome masculino	me|[tá]|li|co
+metalífero	adjetivo	me|ta|[lí]|fe|ro
+metalificação	nome feminino	me|ta|li|fi|ca|[ção]
+metaliforme	adjetivo	me|ta|li|[for]|me
+metalinense	nome masculino	me|ta|li|[nen]|se
+metalinense	adjetivo	me|ta|li|[nen]|se
+metalinense	nome feminino	me|ta|li|[nen]|se
+metalíngua	nome feminino	me|ta|[lín]|gua
+metalinguagem	nome feminino	me|ta|lin|[gua]|gem
+metalinguística	nome feminino	me|ta|lin|[guís]|ti|ca
+metalinguístico	adjetivo	me|ta|lin|[guís]|ti|co
+metalino	adjetivo	me|ta|[li]|no
+metalismo	nome masculino	me|ta|[lis]|mo
+metalista	nome masculino	me|ta|[lis]|ta
+metalista	nome feminino	me|ta|[lis]|ta
+metalização	nome feminino	me|ta|li|za|[ção]
+metalizado	adjetivo	me|ta|li|[za]|do
+metalizante	adjetivo	me|ta|li|[zan]|te
+metalizar	verbo	me|ta|li|[zar]
+metalizável	adjetivo	me|ta|li|[zá]|vel
+metalocromia	nome feminino	me|ta|lo|cro|[mi]|a
+metalocrômico	adjetivo	me|ta|lo|[crô]|mi|co
+metalocrómico	adjetivo	me|ta|lo|[cró]|mi|co
+metalocromista	nome masculino	me|ta|lo|cro|[mis]|ta
+metalocromista	nome feminino	me|ta|lo|cro|[mis]|ta
+metalofobia	nome feminino	me|ta|lo|fo|[bi]|a
+metalófobo	adjetivo	me|ta|[ló]|fo|bo
+metalófobo	nome masculino	me|ta|[ló]|fo|bo
+metalogenia	nome feminino	me|ta|lo|ge|[ni]|a
+metalogénico	adjetivo	me|ta|lo|[gé]|ni|co
+metalogênico	adjetivo	me|ta|lo|[gê]|ni|co
+metalógica	nome feminino	me|ta|[ló]|gi|ca
+metalografia	nome feminino	me|ta|lo|gra|[fi]|a
+metalográfico	adjetivo	me|ta|lo|[grá]|fi|co
+metalógrafo	nome masculino	me|ta|[ló]|gra|fo
+metaloide	adjetivo	me|ta|[loi]|de
+metaloide	nome masculino	me|ta|[loi]|de
+metalologia	nome feminino	me|ta|lo|lo|[gi]|a
+metalológico	adjetivo	me|ta|lo|[ló]|gi|co
+metalologista	nome masculino	me|ta|lo|lo|[gis]|ta
+metalologista	nome feminino	me|ta|lo|lo|[gis]|ta
+metalólogo	nome masculino	me|ta|[ló]|lo|go
+metalomecânica	nome feminino	me|ta|lo|me|[câ]|ni|ca
+metalomecânico	adjetivo	me|ta|lo|me|[câ]|ni|co
+metalomecânico	nome masculino	me|ta|lo|me|[câ]|ni|co
+metaloplastia	nome feminino	me|ta|lo|plas|[ti]|a
+metaloplástico	adjetivo	me|ta|lo|[plás]|ti|co

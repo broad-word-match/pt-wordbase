@@ -1,0 +1,100 @@
+nantuate	nome feminino	nan|tu|[a]|te
+nanzuque	nome masculino	nan|[zu]|que
+não	advérbio	[não]
+não	nome masculino	[não]
+não-me-deixes	nome masculino	não-me-dei|xes
+não-me-esqueças	nome masculino	não-me-es|[que]|ças
+não-me-toques	nome masculino	não-me-to|ques
+não-me-toques	nome feminino	não-me-to|ques
+não-me-toques	adjetivo	não-me-to|ques
+não-sei-que-diga	nome masculino	não-sei-que-di|ga
+não-te-esqueças	nome masculino	não-te-es|[que]|ças
+naos	nome masculino	[naos]
+napa	nome feminino	[na]|pa
+napáceo	adjetivo	na|[pá]|ce|o
+napalm	nome masculino	na|palm
+napeia	nome feminino	na|[pei]|a
+napeiro	adjetivo	na|[pei]|ro
+napelina	nome feminino	na|pe|[li]|na
+napelo	nome masculino	na|[pe]|lo
+naperão	nome masculino	na|pe|[rão]
+naperon	nome masculino	na|pe|[ron]
+napeu	adjetivo	na|[peu]
+napeu	nome masculino	na|[peu]
+napeva	adjetivo	na|[pe]|va
+napiforme	adjetivo	na|pi|[for]|me
+napocense	nome masculino	na|po|[cen]|se
+napocense	adjetivo	na|po|[cen]|se
+napocense	nome feminino	na|po|[cen]|se
+napófito	nome masculino	na|[pó]|fi|to
+napoleão	nome masculino	na|po|le|[ão]
+napoleónia	nome feminino	na|po|le|[ó]|ni|a
+napoleônia	nome feminino	na|po|le|[ô]|ni|a
+napoleónica	nome feminino	na|po|le|[ó]|ni|ca
+napoleonicamente	advérbio	na|po|le|o|ni|ca|[men]|te
+napoleónico	nome masculino	na|po|le|[ó]|ni|co
+napoleônico	adjetivo	na|po|le|[ô]|ni|co
+napoleônico	nome masculino	na|po|le|[ô]|ni|co
+napoleónico	adjetivo	na|po|le|[ó]|ni|co
+napoleonismo	nome masculino	na|po|le|o|[nis]|mo
+napoleonista	nome masculino	na|po|le|o|[nis]|ta
+napoleonista	nome feminino	na|po|le|o|[nis]|ta
+napoleonite	nome feminino	na|po|le|o|[ni]|te
+napolitana	nome feminino	na|po|li|[ta]|na
+napolitano	adjetivo	na|po|li|[ta]|no
+napolitano	nome masculino	na|po|li|[ta]|no
+napperon	nome masculino	nap|pe|ron
+naquele	contração	na|[que]|le
+naqueloutro	contração	na|que|[lou]|tro
+naquilo	contração	na|[qui]|lo
+naraz	nome masculino	na|[raz]
+narbonense	adjetivo	nar|bo|[nen]|se
+narbonense	nome masculino	nar|bo|[nen]|se
+narbonense	nome feminino	nar|bo|[nen]|se
+narbonês	nome masculino	nar|bo|[nês]
+narbonês	adjetivo	nar|bo|[nês]
+narcafto	nome masculino	nar|[caf]|to
+narcarnim	nome masculino	nar|car|[nim]
+narceína	nome feminino	nar|ce|[í]|na
+narceja	nome feminino	nar|[ce]|ja
+narcejão	nome masculino	nar|ce|[jão]
+narcina	nome feminino	nar|[ci]|na
+narcisácea	nome feminino	nar|ci|[sá]|ce|a
+narcisamento	nome masculino	nar|ci|sa|[men]|to
+narcisar	verbo	nar|ci|[sar]
+narcísea	nome feminino	nar|[cí]|se|a
+narcísico	adjetivo	nar|[cí]|si|co
+narcisina	nome feminino	nar|ci|[si]|na
+narcisismo	nome masculino	nar|ci|[sis]|mo
+narcisista	adjetivo	nar|ci|[sis]|ta
+narcisista	nome masculino	nar|ci|[sis]|ta
+narcisista	nome feminino	nar|ci|[sis]|ta
+narcisístico	adjetivo	nar|ci|[sís]|ti|co
+narciso	nome masculino	nar|[ci]|so
+narciso-de-inverno	nome masculino	nar|ci|so-de-in|[ver]|no
+narcisoide	adjetivo	nar|ci|[soi]|de
+narcisso	nome masculino	nar|[cis]|so
+narcoanálise	nome feminino	nar|co|a|[ná]|li|se
+narcodólares	nome masculino	nar|co|[dó]|la|res
+narcoipnose	nome feminino	nar|coip|[no]|se
+narcolepsia	nome feminino	nar|co|lep|[si]|a
+narcoléptico	adjetivo	nar|co|[lép]|ti|co
+narcolético	adjetivo	nar|co|[lé]|ti|co
+narcómana	nome feminino	nar|[có]|ma|na
+narcomania	nome feminino	nar|co|ma|[ni]|a
+narcomaníaca	nome feminino	nar|co|ma|[ní]|a|ca
+narcomaníaco	nome masculino	nar|co|ma|[ní]|a|co
+narcomaníaco	adjetivo	nar|co|ma|[ní]|a|co
+narcómano	nome masculino	nar|[có]|ma|no
+narcômano	nome masculino	nar|[cô]|ma|no
+narcornim	nome masculino	nar|cor|[nim]
+narcose	nome feminino	nar|[co]|se
+narcossíntese	nome feminino	nar|cos|[sín]|te|se
+narcoterapia	nome feminino	nar|co|te|ra|[pi]|a
+narcótico	nome masculino	nar|[có]|ti|co
+narcótico	adjetivo	nar|[có]|ti|co
+narcotina	nome feminino	nar|co|[ti]|na
+narcotismo	nome masculino	nar|co|[tis]|mo
+narcotização	nome feminino	nar|co|ti|za|[ção]
+narcotizador	adjetivo	nar|co|ti|za|[dor]
+narcotizador	nome masculino	nar|co|ti|za|[dor]

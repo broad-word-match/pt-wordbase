@@ -1,0 +1,100 @@
+colhereira	nome feminino	co|lhe|[rei]|ra
+colhereiro	nome masculino	co|lhe|[rei]|ro
+colherete	nome masculino	co|lhe|[re]|te
+colheril	nome masculino	co|lhe|[ril]
+colherim	nome masculino	co|lhe|[rim]
+colhida	nome feminino	co|[lhi]|da
+colhimento	nome masculino	co|lhi|[men]|to
+cóli	nome masculino	[có]|li
+coliâmbico	adjetivo	co|li|[âm]|bi|co
+coliambo	nome masculino	co|li|[am]|bo
+colibacilar	adjetivo	co|li|ba|ci|[lar]
+colibacilo	nome masculino	co|li|ba|[ci]|lo
+colibacilose	nome feminino	co|li|ba|ci|[lo]|se
+colibri	nome masculino	co|li|[bri]
+cólica	nome feminino	[có]|li|ca
+colicativo	adjetivo	co|li|ca|[ti]|vo
+colicitante	nome masculino	co|li|ci|[tan]|te
+colicitante	nome feminino	co|li|ci|[tan]|te
+cólico	adjetivo	[có]|li|co
+colidir	verbo	co|li|[dir]
+colífero	adjetivo	co|[lí]|fe|ro
+colífios	nome masculino	co|[lí]|fi|os
+coliforme	nome masculino	co|li|[for]|me
+coliforme	adjetivo	co|li|[for]|me
+coligação	nome feminino	co|li|ga|[ção]
+coligar	verbo	co|li|[gar]
+coligativo	adjetivo	co|li|ga|[ti]|vo
+coligido	adjetivo	co|li|[gi]|do
+coligir	verbo	co|li|[gir]
+coligível	adjetivo	co|li|[gí]|vel
+cólima	nome feminino	[có]|li|ma
+colimação	nome feminino	co|li|ma|[ção]
+colimador	nome masculino	co|li|ma|[dor]
+colimar	verbo	co|li|[mar]
+colímbida	nome masculino	co|[lím]|bi|da
+colimbídeo	nome masculino	co|lim|[bí]|de|o
+colimbídeo	adjetivo	co|lim|[bí]|de|o
+colimbídeo	nome masculino	co|lim|[bí]|de|o
+colimbo	nome masculino	co|[lim]|bo
+colimbriense	adjetivo	co|lim|bri|[en]|se
+colimbriense	nome masculino	co|lim|bri|[en]|se
+colimbriense	nome feminino	co|lim|bri|[en]|se
+colimitação	nome feminino	co|li|mi|ta|[ção]
+colimitar	verbo	co|li|mi|[tar]
+colina	nome feminino	co|[li]|na
+colineação	nome feminino	co|li|ne|a|[ção]
+colinear	verbo	co|li|ne|[ar]
+colinear	adjetivo	co|li|ne|[ar]
+colinérgico	adjetivo	co|li|[nér]|gi|co
+colino	adjetivo	co|[li]|no
+colino	nome masculino	co|[li]|no
+colinoso	adjetivo	co|li|[no]|so
+cólio	nome masculino	[có]|li|o
+coliponense	nome masculino	co|li|po|[nen]|se
+coliponense	adjetivo	co|li|po|[nen]|se
+coliponense	nome feminino	co|li|po|[nen]|se
+coliquação	nome feminino	co|li|qua|[ção]
+coliquante	adjetivo	co|li|[quan]|te
+coliquar	verbo	co|li|[quar]
+coliquativo	adjetivo	co|li|qua|[ti]|vo
+colírio	nome masculino	co|[lí]|ri|o
+colirrostro	nome masculino	co|lir|[ros]|tro
+colisão	nome feminino	co|li|[são]
+coliseu	nome masculino	co|li|[seu]
+colite	nome feminino	co|[li]|te
+colitigação	nome feminino	co|li|ti|ga|[ção]
+colitigante	adjetivo	co|li|ti|[gan]|te
+colitigante	nome masculino	co|li|ti|[gan]|te
+colitigante	nome feminino	co|li|ti|[gan]|te
+colitigar	verbo	co|li|ti|[gar]
+collants	nome masculino	[col]|lants
+collinsónia	nome feminino	col|lin|[só]|ni|a
+collinsônia	nome feminino	col|lin|[sô]|ni|a
+colmaça	adjetivo	col|[ma]|ça
+colmaça	nome feminino	col|[ma]|ça
+colmaçar	verbo	col|ma|[çar]
+colmaço	nome masculino	col|[ma]|ço
+colmado	nome masculino	col|[ma]|do
+colmagem	nome feminino	col|[ma]|gem
+colmar	verbo	col|[mar]
+colmar	adjetivo	col|[mar]
+colmata	nome feminino	col|[ma]|ta
+colmatagem	nome feminino	col|ma|[ta]|gem
+colmatar	verbo	col|ma|[tar]
+colmeal	nome masculino	col|me|[al]
+colmeeiro	nome masculino	col|me|[ei]|ro
+colmeia	nome feminino	col|[mei]|a
+colmeiforme	adjetivo	col|mei|[for]|me
+colmeiro	nome masculino	col|[mei]|ro
+colmífero	adjetivo	col|[mí]|fe|ro
+colmilho	nome masculino	col|[mi]|lho
+colmilhoso	adjetivo	col|mi|[lho]|so
+colmilhudo	adjetivo	col|mi|[lhu]|do
+colmo	nome masculino	[col]|mo
+colo	nome masculino	[co]|lo
+colobacilar	adjetivo	co|lo|ba|ci|[lar]
+colobacilo	nome masculino	co|lo|ba|[ci]|lo
+colobacilose	nome feminino	co|lo|ba|ci|[lo]|se
+colóbio	nome masculino	co|[ló]|bi|o
+colocação	nome feminino	co|lo|ca|[ção]

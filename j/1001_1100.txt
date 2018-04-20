@@ -1,0 +1,100 @@
+jorgense	adjetivo	jor|[gen]|se
+jorgense	nome feminino	jor|[gen]|se
+jorna	nome feminino	[jor]|na
+jornada	nome feminino	jor|[na]|da
+jornadeante	adjetivo	jor|na|de|[an]|te
+jornadeante	nome masculino	jor|na|de|[an]|te
+jornadeante	nome feminino	jor|na|de|[an]|te
+jornadear	verbo	jor|na|de|[ar]
+jornal	nome masculino	jor|[nal]
+jornalada	nome feminino	jor|na|[la]|da
+jornaleco	nome masculino	jor|na|[le]|co
+jornaleira	nome feminino	jor|na|[lei]|ra
+jornaleiro	adjetivo	jor|na|[lei]|ro
+jornaleiro	nome masculino	jor|na|[lei]|ro
+jornalismo	nome masculino	jor|na|[lis]|mo
+jornalista	nome masculino	jor|na|[lis]|ta
+jornalista	nome feminino	jor|na|[lis]|ta
+jornalisticamente	advérbio	jor|na|lis|ti|ca|[men]|te
+jornalístico	adjetivo	jor|na|[lís]|ti|co
+jorné	nome feminino	jor|[né]
+jórnea	nome feminino	[jór]|ne|a
+jorneia	nome feminino	jor|[nei]|a
+joropa	nome feminino	jo|[ro]|pa
+jorra	nome feminino	[jor]|ra
+jorramento	nome masculino	jor|ra|[men]|to
+jorrante	adjetivo	jor|[ran]|te
+jorrão	nome masculino	jor|[rão]
+jorrar	verbo	jor|[rar]
+jorreiro	nome masculino	jor|[rei]|ro
+jorro	nome masculino	[jor]|ro
+joseense	adjetivo	jo|se|[en]|se
+joseense	nome masculino	jo|se|[en]|se
+joseense	nome feminino	jo|se|[en]|se
+josefino	nome masculino	jo|se|[fi]|no
+josefino	adjetivo	jo|se|[fi]|no
+josefismo	nome masculino	jo|se|[fis]|mo
+josefista	adjetivo	jo|se|[fis]|ta
+josefista	nome masculino	jo|se|[fis]|ta
+josefista	nome feminino	jo|se|[fis]|ta
+josezinho	nome masculino	jo|se|[zi]|nho
+jota	nome masculino	[jo]|ta
+jota	nome feminino	[jo]|ta
+jotniano	adjetivo	jot|ni|[a]|no
+joule	nome masculino	[jou]|le
+jovem	nome masculino	[jo]|vem
+jovem	adjetivo	[jo]|vem
+jovem	nome feminino	[jo]|vem
+jovial	adjetivo	jo|vi|[al]
+jovialidade	nome feminino	jo|vi|a|li|[da]|de
+jovializante	adjetivo	jo|vi|a|li|[zan]|te
+jovializar	verbo	jo|vi|a|li|[zar]
+jovialmente	advérbio	jo|vi|al|[men]|te
+joviano	adjetivo	jo|vi|[a]|no
+joviano	nome masculino	jo|vi|[a]|no
+jóvio	adjetivo	[jó]|vi|o
+jóvio	nome masculino	[jó]|vi|o
+joystick	nome masculino	joy|stick
+juá	nome masculino	ju|[á]
+juatubense	adjetivo	ju|a|tu|[ben]|se
+juatubense	nome masculino	ju|a|tu|[ben]|se
+juatubense	nome feminino	ju|a|tu|[ben]|se
+juazeiro	nome masculino	ju|a|[zei]|ro
+juba	nome feminino	[ju]|ba
+jubado	adjetivo	ju|[ba]|do
+jubaí	nome masculino	ju|ba|[í]
+jubanete	nome masculino	ju|ba|[ne]|te
+jubão	nome masculino	ju|[bão]
+jubeba	nome feminino	ju|[be]|ba
+jubeia	nome feminino	ju|[bei]|a
+jubeu	nome masculino	ju|[beu]
+jubilação	nome feminino	ju|bi|la|[ção]
+jubilado	nome masculino	ju|bi|[la]|do
+jubilado	adjetivo	ju|bi|[la]|do
+jubilante	adjetivo	ju|bi|[lan]|te
+jubilar	verbo	ju|bi|[lar]
+jubilar	adjetivo	ju|bi|[lar]
+jubilatório	adjetivo	ju|bi|la|[tó]|ri|o
+jubileu	nome masculino	ju|bi|[leu]
+júbilo	nome masculino	[jú]|bi|lo
+jubilosamente	advérbio	ju|bi|lo|sa|[men]|te
+jubiloso	adjetivo	ju|bi|[lo]|so
+juboso	adjetivo	ju|[bo]|so
+jucá	nome masculino	ju|[cá]
+jucá	nome feminino	ju|[cá]
+juçapé	nome masculino	ju|ça|[pé]
+juçara	nome feminino	ju|[ça]|ra
+juçaral	nome masculino	ju|ça|[ral]
+juçareira	nome feminino	ju|ça|[rei]|ra
+juciri	nome masculino	ju|ci|[ri]
+jucu	nome masculino	ju|[cu]
+jucubaúba	nome masculino	ju|cu|ba|[ú]|ba
+jucunda	nome feminino	ju|[cun]|da
+jucundamente	advérbio	ju|cun|da|[men]|te
+jucundidade	nome feminino	ju|cun|di|[da]|de
+jucundo	adjetivo	ju|[cun]|do
+jucuri	nome masculino	ju|cu|[ri]
+jucuru	nome masculino	ju|cu|[ru]
+jucurutu	nome masculino	ju|cu|ru|[tu]
+judaicamente	advérbio	ju|dai|ca|[men]|te
+judaico	adjetivo	ju|[dai]|co

@@ -1,0 +1,100 @@
+amenorreia	nome feminino	a|me|nor|[rei]|a
+amenorreica	nome feminino	a|me|nor|[rei]|ca
+amenorreico	adjetivo	a|me|nor|[rei]|co
+amenoso	adjetivo	a|me|[no]|so
+amenta	nome feminino	a|[men]|ta
+amentácea	nome feminino	a|men|[tá]|ce|a
+amentáceo	adjetivo	a|men|[tá]|ce|o
+amentador	nome masculino	a|men|ta|[dor]
+amentar	verbo	a|men|[tar]
+amente	adjetivo	a|[men]|te
+amentífero	adjetivo	a|men|[tí]|fe|ro
+amentiforme	adjetivo	a|men|ti|[for]|me
+amentilho	nome masculino	a|men|[ti]|lho
+amento	nome masculino	a|[men]|to
+amerceador	adjetivo	a|mer|ce|a|[dor]
+amerceador	nome masculino	a|mer|ce|a|[dor]
+amerceamento	nome masculino	a|mer|ce|a|[men]|to
+amercear	verbo	a|mer|ce|[ar]
+amerceável	adjetivo	a|mer|ce|[á]|vel
+amergulhar	verbo	a|mer|gu|[lhar]
+americana	nome feminino	a|me|ri|[ca]|na
+americana	nome feminino	a|me|ri|[ca]|na
+americanada	nome feminino	a|me|ri|ca|[na]|da
+americanamente	advérbio	a|me|ri|ca|na|[men]|te
+americanice	nome feminino	a|me|ri|ca|[ni]|ce
+americanidade	nome feminino	a|me|ri|ca|ni|[da]|de
+americanismo	nome masculino	a|me|ri|ca|[nis]|mo
+americanista	nome masculino	a|me|ri|ca|[nis]|ta
+americanista	adjetivo	a|me|ri|ca|[nis]|ta
+americanista	nome feminino	a|me|ri|ca|[nis]|ta
+americanite	nome feminino	a|me|ri|ca|[ni]|te
+americanização	nome feminino	a|me|ri|ca|ni|za|[ção]
+americanizar	verbo	a|me|ri|ca|ni|[zar]
+americano	adjetivo	a|me|ri|[ca]|no
+americano	nome masculino	a|me|ri|[ca]|no
+americano-soviético	adjetivo	a|me|ri|ca|no-so|vi|[é]|ti|co
+americanófila	nome feminino	a|me|ri|ca|[nó]|fi|la
+americanofilia	nome feminino	a|me|ri|ca|no|fi|[li]|a
+americanófilo	adjetivo	a|me|ri|ca|[nó]|fi|lo
+americanófilo	nome masculino	a|me|ri|ca|[nó]|fi|lo
+americanófoba	nome feminino	a|me|ri|ca|[nó]|fo|ba
+americanofobia	nome feminino	a|me|ri|ca|no|fo|[bi]|a
+americanófobo	adjetivo	a|me|ri|ca|[nó]|fo|bo
+americanófobo	nome masculino	a|me|ri|ca|[nó]|fo|bo
+americanologia	nome feminino	a|me|ri|ca|no|lo|[gi]|a
+americanológico	adjetivo	a|me|ri|ca|no|[ló]|gi|co
+americanólogo	nome masculino	a|me|ri|ca|[nó]|lo|go
+americanomania	nome feminino	a|me|ri|ca|no|ma|[ni]|a
+americanomaníaco	adjetivo	a|me|ri|ca|no|ma|[ní]|a|co
+americanomaníaco	nome masculino	a|me|ri|ca|no|ma|[ní]|a|co
+americanómano	nome masculino	a|me|ri|ca|[nó]|ma|no
+americanômano	nome masculino	a|me|ri|ca|[nô]|ma|no
+amerício	nome masculino	a|me|[rí]|ci|o
+américo	adjetivo	a|[mé]|ri|co
+américo-campista	adjetivo	a|mé|ri|co-cam|[pis]|ta
+américo-campista	nome masculino	a|mé|ri|co-cam|[pis]|ta
+américo-campista	nome feminino	a|mé|ri|co-cam|[pis]|ta
+américo-central	adjetivo	a|mé|ri|co-cen|[tral]
+américo-meridional	adjetivo	a|mé|ri|co-me|ri|di|o|[nal]
+américo-setentrional	adjetivo	a|mé|ri|co-se|ten|tri|o|[nal]
+americofilia	nome feminino	a|me|ri|co|fi|[li]|a
+americófilo	adjetivo	a|me|ri|[có]|fi|lo
+americófilo	nome masculino	a|me|ri|[có]|fi|lo
+americofobia	nome feminino	a|me|ri|co|fo|[bi]|a
+americófobo	adjetivo	a|me|ri|[có]|fo|bo
+americófobo	nome masculino	a|me|ri|[có]|fo|bo
+americologia	nome feminino	a|me|ri|co|lo|[gi]|a
+americológico	adjetivo	a|me|ri|co|[ló]|gi|co
+americólogo	nome masculino	a|me|ri|[có]|lo|go
+americomania	nome feminino	a|me|ri|co|ma|[ni]|a
+americomaníaco	adjetivo	a|me|ri|co|ma|[ní]|a|co
+americomaníaco	nome masculino	a|me|ri|co|ma|[ní]|a|co
+americómano	nome masculino	a|me|ri|[có]|ma|no
+americômano	nome masculino	a|me|ri|[cô]|ma|no
+amerim	nome feminino	a|me|[rim]
+ameríndia	nome feminino	a|me|[rín]|di|a
+ameríndio	adjetivo	a|me|[rín]|di|o
+ameríndio	nome masculino	a|me|[rín]|di|o
+amerino	adjetivo	a|me|[ri]|no
+amerino	nome masculino	a|me|[ri]|no
+amerissar	verbo	a|me|ris|[sar]
+amerita	nome feminino	a|me|[ri]|ta
+amerstia	nome feminino	a|mers|[ti]|a
+amerujar	verbo	a|me|ru|[jar]
+amesendar	verbo	a|me|sen|[dar]
+amesendrar	verbo	a|me|sen|[drar]
+amesquinhador	adjetivo	a|mes|qui|nha|[dor]
+amesquinhador	nome masculino	a|mes|qui|nha|[dor]
+amesquinhamento	nome masculino	a|mes|qui|nha|[men]|to
+amesquinhar	verbo	a|mes|qui|[nhar]
+amesquinhável	adjetivo	a|mes|qui|[nhá]|vel
+amesterdanês	adjetivo	a|mes|ter|da|[nês]
+amesterdanês	nome masculino	a|mes|ter|da|[nês]
+amesterdanesa	nome feminino	a|mes|ter|da|[ne]|sa
+amestradamente	advérbio	a|mes|tra|da|[men]|te
+amestrado	adjetivo	a|mes|[tra]|do
+amestrador	adjetivo	a|mes|tra|[dor]
+amestrador	nome masculino	a|mes|tra|[dor]
+amestramento	nome masculino	a|mes|tra|[men]|to
+amestrar	verbo	a|mes|[trar]

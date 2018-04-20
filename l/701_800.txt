@@ -1,0 +1,100 @@
+lanceiro	nome masculino	lan|[cei]|ro
+lanceiros	nome masculino	lan|[cei]|ros
+lanceolado	adjetivo	lan|ce|o|[la]|do
+lanceolar	adjetivo	lan|ce|o|[lar]
+lanceta	nome feminino	lan|[ce]|ta
+lancetada	nome feminino	lan|ce|[ta]|da
+lancetar	verbo	lan|ce|[tar]
+lanceteira	nome feminino	lan|ce|[tei]|ra
+lancha	nome feminino	[lan]|cha
+lanchada	nome feminino	lan|[cha]|da
+lanchai	nome masculino	lan|[chai]
+lanchal	nome masculino	lan|[chal]
+lanchão	nome masculino	lan|[chão]
+lanchar	verbo	lan|[char]
+lanche	nome masculino	[lan]|che
+lancheira	nome feminino	lan|[chei]|ra
+lancheiro	nome masculino	lan|[chei]|ro
+lancheta	nome feminino	lan|[che]|ta
+lanchô	nome feminino	lan|[chô]
+lanchonete	nome feminino	lan|cho|[ne]|te
+lanciforme	adjetivo	lan|ci|[for]|me
+lancil	nome masculino	lan|[cil]
+lancinante	adjetivo	lan|ci|[nan]|te
+lancinar	verbo	lan|ci|[nar]
+lanço	nome masculino	[lan]|ço
+landa	nome feminino	[lan]|da
+landaina	nome feminino	lan|[dai]|na
+landau	nome masculino	lan|[dau]
+lande	nome feminino	[lan]|de
+landeiliano	adjetivo	lan|dei|li|[a]|no
+landeira	nome feminino	lan|[dei]|ra
+landeiral	nome masculino	lan|dei|[ral]
+landeiro	adjetivo	lan|[dei]|ro
+landeniano	adjetivo	lan|de|ni|[a]|no
+landês	adjetivo	lan|[dês]
+landês	nome masculino	lan|[dês]
+landgrave	nome masculino	land|[gra]|ve
+landgrávio	nome masculino	land|[grá]|vi|o
+landim	nome masculino	lan|[dim]
+landim	adjetivo	lan|[dim]
+landim	nome feminino	lan|[dim]
+landino	adjetivo	lan|[di]|no
+landisco	nome masculino	lan|[dis]|co
+landó	nome masculino	lan|[dó]
+landô	nome masculino	lan|[dô]
+lândoa	nome feminino	[lân]|do|a
+landoveriano	adjetivo	lan|do|ve|ri|[a]|no
+landra	nome feminino	[lan]|dra
+landre	nome feminino	[lan]|dre
+landreiro	nome masculino	lan|[drei]|ro
+landro	nome masculino	[lan]|dro
+laneiro	nome masculino	la|[nei]|ro
+langará	nome masculino	lan|ga|[rá]
+langaré	nome masculino	lan|ga|[ré]
+langarear	verbo	lan|ga|re|[ar]
+langonha	nome masculino	lan|[go]|nha
+langonha	nome feminino	lan|[go]|nha
+langor	nome masculino	lan|[gor]
+langoroso	adjetivo	lan|go|[ro]|so
+lângua	nome feminino	[lân]|gua
+languana	adjetivo	lan|[gua]|na
+languçar	verbo	lan|gu|[çar]
+languedociano	nome masculino	lan|gue|do|ci|[a]|no
+languedociano	adjetivo	lan|gue|do|ci|[a]|no
+languedor	nome masculino	lan|gue|[dor]
+langueirão	nome masculino	lan|guei|[rão]
+languento	adjetivo	lan|[guen]|to
+languescente	adjetivo	lan|gues|[cen]|te
+languescer	verbo	lan|gues|[cer]
+languidamente	advérbio	lan|gui|da|[men]|te
+languidescer	verbo	lan|gui|des|[cer]
+languidez	nome feminino	lan|gui|[dez]
+lânguido	adjetivo	[lân]|gui|do
+languinhento	adjetivo	lan|gui|[nhen]|to
+languir	verbo	lan|[guir]
+lanha	nome feminino	[la]|nha
+lanhaço	nome masculino	la|[nha]|ço
+lanhadela	nome feminino	la|nha|[de]|la
+lanhado	adjetivo	la|[nha]|do
+lanhar	verbo	la|[nhar]
+lanho	nome masculino	[la]|nho
+lanhosense	nome masculino	la|nho|[sen]|se
+lanhosense	adjetivo	la|nho|[sen]|se
+lanhosense	nome feminino	la|nho|[sen]|se
+lanífero	adjetivo	la|[ní]|fe|ro
+lanifício	nome masculino	la|ni|[fí]|ci|o
+lanígero	adjetivo	la|[ní]|ge|ro
+laníida	nome masculino	la|[ní]|i|da
+laniídeo	nome masculino	la|ni|[í]|de|o
+laniídeo	adjetivo	la|ni|[í]|de|o
+lanolina	nome feminino	la|no|[li]|na
+lanosidade	nome feminino	la|no|si|[da]|de
+lanoso	adjetivo	la|[no]|so
+lansquenê	nome masculino	lans|que|[nê]
+lansquené	nome masculino	lans|que|[né]
+lansquenete	nome masculino	lans|que|[ne]|te
+lantana	nome feminino	lan|[ta]|na
+lantanídeo	nome masculino	lan|ta|[ní]|de|o
+lantânio	nome masculino	lan|[tâ]|ni|o
+lantejoila	nome feminino	lan|te|[joi]|la

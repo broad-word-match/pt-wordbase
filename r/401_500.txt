@@ -1,0 +1,100 @@
+radiemissão	nome feminino	ra|di|e|mis|[são]
+radiemissor	nome masculino	ra|di|e|mis|[sor]
+radiemissor	adjetivo	ra|di|e|mis|[sor]
+radiemissora	nome feminino	ra|di|e|mis|[so]|ra
+radiemitir	verbo	ra|di|e|mi|[tir]
+radiestesia	nome feminino	ra|di|es|te|[si]|a
+radiestésico	adjetivo	ra|di|es|[té]|si|co
+radiestesista	nome masculino	ra|di|es|te|[sis]|ta
+radiestesista	nome feminino	ra|di|es|te|[sis]|ta
+radiestético	adjetivo	ra|di|es|[té]|ti|co
+radífero	adjetivo	ra|[dí]|fe|ro
+radiisótopo	nome masculino	ra|di|i|[só]|to|po
+radinocarpo	nome masculino	ra|di|no|[car]|po
+rádio	nome masculino	[rá]|di|o
+rádio	nome feminino	[rá]|di|o
+rádio-despertador	nome masculino	rá|di|o-des|per|ta|[dor]
+rádio-gravador	nome masculino	rá|di|o-gra|va|[dor]
+rádio-opaco	adjetivo	rá|di|o-o|[pa]|co
+rádio-pirata	nome feminino	rá|di|o-pi|ra|ta
+radioamador	nome masculino	ra|di|o|a|ma|[dor]
+radioamadora	nome feminino	ra|di|o|a|ma|[do]|ra
+radioamadorismo	nome masculino	ra|di|o|a|ma|do|[ris]|mo
+radioastronomia	nome feminino	ra|di|o|as|tro|no|[mi]|a
+radioatividade	nome feminino	ra|di|o|a|ti|vi|[da]|de
+radioativo	adjetivo	ra|di|o|a|[ti]|vo
+radiobiologia	nome feminino	ra|di|o|bi|o|lo|[gi]|a
+radiobiológico	adjetivo	ra|di|o|bi|o|[ló]|gi|co
+radiocarbono	nome masculino	ra|di|o|car|[bo]|no
+radiocárpico	adjetivo	ra|di|o|[cár]|pi|co
+radiocobalto	nome masculino	ra|di|o|co|[bal]|to
+radiocomunicação	nome feminino	ra|di|o|co|mu|ni|ca|[ção]
+radiocondutibilidade	nome feminino	ra|di|o|con|du|ti|bi|li|[da]|de
+radiocondutível	adjetivo	ra|di|o|con|du|[tí]|vel
+radiocondutividade	nome feminino	ra|di|o|con|du|ti|vi|[da]|de
+radiocondutivo	adjetivo	ra|di|o|con|du|[ti]|vo
+radiocondutor	nome masculino	ra|di|o|con|du|[tor]
+radiocondutor	adjetivo	ra|di|o|con|du|[tor]
+radiocubital	adjetivo	ra|di|o|cu|bi|[tal]
+radiocultura	nome feminino	ra|di|o|cul|[tu]|ra
+radiodermite	nome feminino	ra|di|o|der|[mi]|te
+radiodiagnóstico	nome masculino	ra|di|o|di|ag|[nós]|ti|co
+radiodifundir	verbo	ra|di|o|di|fun|[dir]
+radiodifusão	nome feminino	ra|di|o|di|fu|[são]
+radiodifusor	nome masculino	ra|di|o|di|fu|[sor]
+radiodifusor	adjetivo	ra|di|o|di|fu|[sor]
+radiodifusora	nome feminino	ra|di|o|di|fu|[so]|ra
+radioecologia	nome feminino	ra|di|o|e|co|lo|[gi]|a
+radioecológico	adjetivo	ra|di|o|e|co|[ló]|gi|co
+radioeléctrico	adjetivo	ra|di|o|e|[léc]|tri|co
+radioelectrônico	adjetivo	ra|di|o|e|lec|[trô]|ni|co
+radioelemento	nome masculino	ra|di|o|e|le|[men]|to
+radioeletricidade	nome feminino	ra|di|o|e|le|tri|ci|[da]|de
+radioelétrico	adjetivo	ra|di|o|e|[lé]|tri|co
+radioeletrónico	adjetivo	ra|di|o|e|le|[tró]|ni|co
+radioeletrônico	adjetivo	ra|di|o|e|le|[trô]|ni|co
+radioemissão	nome feminino	ra|di|o|e|mis|[são]
+radioemissor	nome masculino	ra|di|o|e|mis|[sor]
+radioemissor	adjetivo	ra|di|o|e|mis|[sor]
+radioemissora	nome feminino	ra|di|o|e|mis|[so]|ra
+radioemitir	verbo	ra|di|o|e|mi|[tir]
+radioestesia	nome feminino	ra|di|o|es|te|[si]|a
+radioestésico	adjetivo	ra|di|o|es|[té]|si|co
+radioestesista	nome masculino	ra|di|o|es|te|[sis]|ta
+radioestesista	nome feminino	ra|di|o|es|te|[sis]|ta
+radiofarol	nome masculino	ra|di|o|fa|[rol]
+radiofilia	nome feminino	ra|di|o|fi|[li]|a
+radiófilo	adjetivo	ra|di|[ó]|fi|lo
+radiófilo	nome masculino	ra|di|[ó]|fi|lo
+radiofone	nome masculino	ra|di|o|[fo]|ne
+radiofonia	nome feminino	ra|di|o|fo|[ni]|a
+radiofonicamente	advérbio	ra|di|o|fo|ni|ca|[men]|te
+radiofónico	adjetivo	ra|di|o|[fó]|ni|co
+radiofônico	adjetivo	ra|di|o|[fô]|ni|co
+radiofonizar	verbo	ra|di|o|fo|ni|[zar]
+radiofotografia	nome feminino	ra|di|o|fo|to|gra|[fi]|a
+radiofotográfico	adjetivo	ra|di|o|fo|to|[grá]|fi|co
+radiofrequência	nome feminino	ra|di|o|fre|[quên]|ci|a
+radiofundir	verbo	ra|di|o|fun|[dir]
+radiofusão	nome feminino	ra|di|o|fu|[são]
+radiogênico	adjetivo	ra|di|o|[gê]|ni|co
+radiogénico	adjetivo	ra|di|o|[gé]|ni|co
+radiogoniometria	nome feminino	ra|di|o|go|ni|o|me|[tri]|a
+radiogoniométrico	adjetivo	ra|di|o|go|ni|o|[mé]|tri|co
+radiogoniômetro	nome masculino	ra|di|o|go|ni|[ô]|me|tro
+radiogoniómetro	nome masculino	ra|di|o|go|ni|[ó]|me|tro
+radiografar	verbo	ra|di|o|gra|[far]
+radiografia	nome feminino	ra|di|o|gra|[fi]|a
+radiograficamente	advérbio	ra|di|o|gra|fi|ca|[men]|te
+radiográfico	adjetivo	ra|di|o|[grá]|fi|co
+radiografista	nome masculino	ra|di|o|gra|[fis]|ta
+radiografista	nome feminino	ra|di|o|gra|[fis]|ta
+radiógrafo	nome masculino	ra|di|[ó]|gra|fo
+radiograma	nome masculino	ra|di|o|[gra]|ma
+radioisótopo	nome masculino	ra|di|oi|[só]|to|po
+radiola	nome feminino	ra|di|[o]|la
+radíola	nome feminino	ra|[dí]|o|la
+radiolário	nome masculino	ra|di|o|[lá]|ri|o
+radiolário	adjetivo	ra|di|o|[lá]|ri|o
+radiolarito	nome masculino	ra|di|o|la|[ri]|to
+radiólise	nome feminino	ra|di|[ó]|li|se

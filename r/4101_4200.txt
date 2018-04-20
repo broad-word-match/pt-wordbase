@@ -1,0 +1,100 @@
+remadora	nome feminino	re|ma|[do]|ra
+remadura	nome feminino	re|ma|[du]|ra
+remagnetizar	verbo	re|mag|ne|ti|[zar]
+remake	nome masculino	re|ma|ke
+remaléfico	adjetivo	re|ma|[lé]|fi|co
+remalhar	verbo	re|ma|[lhar]
+remanchão	adjetivo	re|man|[chão]
+remanchão	nome masculino	re|man|[chão]
+remanchar	verbo	re|man|[char]
+remancho	nome masculino	re|[man]|cho
+remancipação	nome feminino	re|man|ci|pa|[ção]
+remandar	verbo	re|man|[dar]
+remanejar	verbo	re|ma|ne|[jar]
+remanejável	adjetivo	re|ma|ne|[já]|vel
+remanejo	nome masculino	re|ma|[ne]|jo
+remanência	nome feminino	re|ma|[nên]|ci|a
+remanente	adjetivo	re|ma|[nen]|te
+remanescência	nome feminino	re|ma|nes|[cên]|ci|a
+remanescente	nome masculino	re|ma|nes|[cen]|te
+remanescente	adjetivo	re|ma|nes|[cen]|te
+remanescer	verbo	re|ma|nes|[cer]
+remangão	adjetivo	re|man|[gão]
+remangar	verbo	re|man|[gar]
+remanipular	verbo	re|ma|ni|pu|[lar]
+remaniscar	verbo	re|ma|nis|[car]
+remanisco	nome masculino	re|ma|[nis]|co
+remansadamente	advérbio	re|man|sa|da|[men]|te
+remansado	adjetivo	re|man|[sa]|do
+remansão	nome masculino	re|man|[são]
+remansão	adjetivo	re|man|[são]
+remansar	verbo	re|man|[sar]
+remansear	verbo	re|man|se|[ar]
+remanso	nome masculino	re|[man]|so
+remansosamente	advérbio	re|man|so|sa|[men]|te
+remansoso	adjetivo	re|man|[so]|so
+remanusear	verbo	re|ma|nu|se|[ar]
+remar	verbo	re|[mar]
+remarcação	nome feminino	re|mar|ca|[ção]
+remarcar	verbo	re|mar|[car]
+remaridar	verbo	re|ma|ri|[dar]
+remartelar	verbo	re|mar|te|[lar]
+remascar	verbo	re|mas|[car]
+remasse	nome masculino	re|[mas]|se
+remasterização	nome feminino	re|mas|te|ri|za|[ção]
+remasterizar	nome feminino	re|mas|te|ri|[zar]
+remastigação	nome feminino	re|mas|ti|ga|[ção]
+remastigar	verbo	re|mas|ti|[gar]
+rematação	nome feminino	re|ma|ta|[ção]
+rematadamente	advérbio	re|ma|ta|da|[men]|te
+rematado	adjetivo	re|ma|[ta]|do
+rematador	adjetivo	re|ma|ta|[dor]
+rematador	nome masculino	re|ma|ta|[dor]
+rematadora	nome feminino	re|ma|ta|[do]|ra
+rematar	verbo	re|ma|[tar]
+rematável	adjetivo	re|ma|[tá]|vel
+remate	nome masculino	re|[ma]|te
+remático	adjetivo	re|[má]|ti|co
+remau	adjetivo	re|[mau]
+rembrandtesco	adjetivo	rem|brand|[tes]|co
+remear	verbo	re|me|[ar]
+remeção	nome masculino	re|me|[ção]
+remedar	verbo	re|me|[dar]
+remedeio	nome masculino	re|me|[dei]|o
+remediada	nome feminino	re|me|di|[a]|da
+remediadamente	advérbio	re|me|di|a|da|[men]|te
+remediado	adjetivo	re|me|di|[a]|do
+remediado	nome masculino	re|me|di|[a]|do
+remediador	adjetivo	re|me|di|a|[dor]
+remediador	nome masculino	re|me|di|a|[dor]
+remediar	verbo	re|me|di|[ar]
+remediativo	adjetivo	re|me|di|a|[ti]|vo
+remediável	adjetivo	re|me|di|[á]|vel
+remediavelmente	advérbio	re|me|di|a|vel|[men]|te
+remedição	nome feminino	re|me|di|[ção]
+remédio	nome masculino	re|[mé]|di|o
+remédio-do-vaqueiro	nome masculino	re|mé|di|o-do-va|quei|ro
+remedir	verbo	re|me|[dir]
+remedo	nome masculino	re|[me]|do
+remeia	nome feminino	re|[mei]|a
+remeira	nome feminino	re|[mei]|ra
+remeiro	nome masculino	re|[mei]|ro
+remeiro	adjetivo	re|[mei]|ro
+remel	nome masculino	re|[mel]
+remela	nome feminino	re|[me]|la
+remelada	nome feminino	re|me|[la]|da
+remelado	adjetivo	re|me|[la]|do
+remelado	nome masculino	re|me|[la]|do
+remelão	adjetivo	re|me|[lão]
+remelão	nome masculino	re|me|[lão]
+remelar	verbo	re|me|[lar]
+remeleiro	adjetivo	re|me|[lei]|ro
+remeleixo	nome masculino	re|me|[lei]|xo
+remelenta	nome feminino	re|me|[len]|ta
+remelento	adjetivo	re|me|[len]|to
+remelento	nome masculino	re|me|[len]|to
+remelga	nome feminino	re|[mel]|ga
+remelgado	adjetivo	re|mel|[ga]|do
+remelgueira	nome feminino	re|mel|[guei]|ra
+remelgueiro	nome masculino	re|mel|[guei]|ro
+remelhor	adjetivo	re|me|[lhor]

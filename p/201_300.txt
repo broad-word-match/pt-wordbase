@@ -1,0 +1,100 @@
+padronizado	adjetivo	pa|dro|ni|[za]|do
+padronizador	adjetivo	pa|dro|ni|za|[dor]
+padronizador	nome masculino	pa|dro|ni|za|[dor]
+padronizar	verbo	pa|dro|ni|[zar]
+padronizável	adjetivo	pa|dro|ni|[zá]|vel
+padu	nome masculino	pa|[du]
+paduana	nome feminino	pa|du|[a]|na
+paduano	nome masculino	pa|du|[a]|no
+paduano	adjetivo	pa|du|[a]|no
+paelha	nome feminino	pa|[e]|lha
+paella	nome feminino	pa|el|la
+páfia	nome feminino	[pá]|fi|a
+páfio	adjetivo	[pá]|fi|o
+páfio	nome masculino	[pá]|fi|o
+pafioso	adjetivo	pa|fi|[o]|so
+paflagônio	adjetivo	pa|fla|[gô]|ni|o
+paflagônio	nome masculino	pa|fla|[gô]|ni|o
+paflagónio	adjetivo	pa|fla|[gó]|ni|o
+paflagónio	nome masculino	pa|fla|[gó]|ni|o
+pafúncio	nome masculino	pa|[fún]|ci|o
+paga	nome feminino	[pa]|ga
+pagã	nome feminino	pa|[gã]
+pagá-devê	nome masculino	pa|gá-de|[vê]
+pagabilidade	nome feminino	pa|ga|bi|li|[da]|de
+pagadilhos	nome masculino	pa|ga|[di]|lhos
+pagador	nome masculino	pa|ga|[dor]
+pagador	adjetivo	pa|ga|[dor]
+pagadora	nome feminino	pa|ga|[do]|ra
+pagadoria	nome feminino	pa|ga|do|[ri]|a
+pagaga	nome feminino	pa|[ga]|ga
+pagaia	nome feminino	pa|[gai]|a
+pagaiar	verbo	pa|gai|[ar]
+pagamento	nome masculino	pa|ga|[men]|to
+paganal	adjetivo	pa|ga|[nal]
+paganel	nome masculino	pa|ga|[nel]
+paganismo	nome masculino	pa|ga|[nis]|mo
+paganização	nome feminino	pa|ga|ni|za|[ção]
+paganizado	adjetivo	pa|ga|ni|[za]|do
+paganizador	adjetivo	pa|ga|ni|za|[dor]
+paganizador	nome masculino	pa|ga|ni|za|[dor]
+paganizante	adjetivo	pa|ga|ni|[zan]|te
+paganizar	verbo	pa|ga|ni|[zar]
+paganizável	adjetivo	pa|ga|ni|[zá]|vel
+pagante	adjetivo	pa|[gan]|te
+pagante	nome masculino	pa|[gan]|te
+pagante	nome feminino	pa|[gan]|te
+pagão	adjetivo	pa|[gão]
+pagão	nome masculino	pa|[gão]
+pagapato	nome masculino	pa|ga|[pa]|to
+pagar	verbo	pa|[gar]
+pagará	nome masculino	pa|ga|[rá]
+pagastina	nome feminino	pa|gas|[ti]|na
+pagastinas	nome feminino	pa|gas|[ti]|nas
+pagável	adjetivo	pa|[gá]|vel
+pagela	nome feminino	pa|[ge]|la
+pager	nome masculino	[pa]|ger
+pageu	adjetivo	pa|[geu]
+pageu	nome masculino	pa|[geu]
+página	nome feminino	[pá]|gi|na
+paginação	nome feminino	pa|gi|na|[ção]
+paginado	adjetivo	pa|gi|[na]|do
+paginador	nome masculino	pa|gi|na|[dor]
+paginadora	nome feminino	pa|gi|na|[do]|ra
+paginar	verbo	pa|gi|[nar]
+paginável	adjetivo	pa|gi|[ná]|vel
+pago	nome masculino	[pa]|go
+pago	adjetivo	[pa]|go
+pagode	nome masculino	pa|[go]|de
+pagodear	verbo	pa|go|de|[ar]
+pagodeira	nome feminino	pa|go|[dei]|ra
+pagodeiro	adjetivo	pa|go|[dei]|ro
+pagodeiro	nome masculino	pa|go|[dei]|ro
+pagodice	nome feminino	pa|go|[di]|ce
+pagodismo	nome masculino	pa|go|[dis]|mo
+pagodista	nome masculino	pa|go|[dis]|ta
+pagodista	nome feminino	pa|go|[dis]|ta
+pagodite	nome feminino	pa|go|[di]|te
+pagoscópio	nome masculino	pa|gos|[có]|pi|o
+paguê	nome masculino	pa|[guê]
+paguel	nome masculino	pa|[guel]
+paguer	nome masculino	pa|[guer]
+paguilha	nome masculino	pa|[gui]|lha
+paguilha	nome feminino	pa|[gui]|lha
+paguim	nome masculino	pa|[guim]
+paguma	nome feminino	pa|[gu]|ma
+pagurídeo	nome masculino	pa|gu|[rí]|de|o
+pagurídeo	adjetivo	pa|gu|[rí]|de|o
+paguro	nome masculino	pa|[gu]|ro
+pahoehoe	nome feminino	pa|ho|e|[ho]|e
+pai	nome masculino	[pai]
+pai de meninos	nome masculino	pai de me|ni|nos
+pai de santo	nome masculino	pai de san|to
+pai de todos	nome masculino	pai de to|dos
+pai de velhacos	nome masculino	pai de ve|lha|cos
+pai-avô	nome masculino	pai-a|[vô]
+pai-mãe	nome masculino	[pai-mãe]
+pai-nobre	nome masculino	pai-no|bre
+pai-nosso	nome masculino	pai-nos|so
+pai-velho	nome masculino	pai-ve|lho
+paiá	nome masculino	pai|[á]

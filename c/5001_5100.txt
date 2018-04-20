@@ -1,0 +1,100 @@
+caroé	nome masculino	ca|ro|[é]
+carófita	nome feminino	ca|[ró]|fi|ta
+carola	nome feminino	ca|[ro]|la
+carola	nome masculino	ca|[ro]|la
+carola	adjetivo	ca|[ro]|la
+carolada	nome feminino	ca|ro|[la]|da
+carolice	nome feminino	ca|ro|[li]|ce
+carolim	nome masculino	ca|ro|[lim]
+carolina	nome feminino	ca|ro|[li]|na
+carolinense	adjetivo	ca|ro|li|[nen]|se
+carolinense	nome masculino	ca|ro|li|[nen]|se
+carolinense	nome feminino	ca|ro|li|[nen]|se
+carolíngio	adjetivo	ca|ro|[lín]|gi|o
+carolino	adjetivo	ca|ro|[li]|no
+carolino	nome masculino	ca|ro|[li]|no
+carolismo	nome masculino	ca|ro|[lis]|mo
+carolo	nome masculino	ca|[ro]|lo
+carona	nome feminino	ca|[ro]|na
+carona	nome masculino	ca|[ro]|na
+caronaço	nome masculino	ca|ro|[na]|ço
+caronada	nome feminino	ca|ro|[na]|da
+caronear	verbo	ca|ro|ne|[ar]
+caropa	nome feminino	ca|[ro]|pa
+carote	adjetivo	ca|[ro]|te
+caroteno	nome masculino	ca|ro|[te]|no
+carotenoide	nome masculino	ca|ro|te|[noi]|de
+carótico	adjetivo	ca|[ró]|ti|co
+carótida	nome feminino	ca|[ró]|ti|da
+carótide	nome feminino	ca|[ró]|ti|de
+carotídeo	adjetivo	ca|ro|[tí]|de|o
+carotidiano	adjetivo	ca|ro|ti|di|[a]|no
+carotina	nome feminino	ca|ro|[ti]|na
+carotinemia	nome feminino	ca|ro|ti|ne|[mi]|a
+carpa	nome feminino	[car]|pa
+carpaccio	nome masculino	car|pac|[ci]|o
+carpal	adjetivo	car|[pal]
+carpanel	nome masculino	car|pa|[nel]
+carpanta	nome feminino	car|[pan]|ta
+carpanto	nome masculino	car|[pan]|to
+carpar	verbo	car|[par]
+carpático	adjetivo	car|[pá]|ti|co
+carpático	nome masculino	car|[pá]|ti|co
+carpátio	adjetivo	car|[pá]|ti|o
+carpátio	nome masculino	car|[pá]|ti|o
+carpeada	nome feminino	car|pe|[a]|da
+carpeadela	nome feminino	car|pe|a|[de]|la
+carpeador	nome masculino	car|pe|a|[dor]
+carpeadura	nome feminino	car|pe|a|[du]|ra
+carpear	verbo	car|pe|[ar]
+carpectomia	nome feminino	car|pec|to|[mi]|a
+carpectômico	adjetivo	car|pec|[tô]|mi|co
+carpectómico	adjetivo	car|pec|[tó]|mi|co
+carpela	nome feminino	car|[pe]|la
+carpelar	verbo	car|pe|[lar]
+carpelar	adjetivo	car|pe|[lar]
+carpelo	nome masculino	car|[pe]|lo
+carpento	nome masculino	car|[pen]|to
+cárpeo	adjetivo	[cár]|pe|o
+carpeta	nome feminino	car|[pe]|ta
+carpetado	adjetivo	car|pe|[ta]|do
+carpetano	adjetivo	car|pe|[ta]|no
+carpetano	nome masculino	car|pe|[ta]|no
+carpetar	verbo	car|pe|[tar]
+carpete	nome feminino	car|[pe]|te
+carpetear	verbo	car|pe|te|[ar]
+carpiano	adjetivo	car|pi|[a]|no
+carpição	nome feminino	car|pi|[ção]
+cárpico	adjetivo	[cár]|pi|co
+carpideira	nome feminino	car|pi|[dei]|ra
+carpido	nome masculino	car|[pi]|do
+carpido	adjetivo	car|[pi]|do
+carpidor	adjetivo	car|pi|[dor]
+carpidor	nome masculino	car|pi|[dor]
+carpidura	nome feminino	car|pi|[du]|ra
+carpim	nome masculino	car|[pim]
+carpimento	nome masculino	car|pi|[men]|to
+carpino	nome masculino	car|[pi]|no
+carpintaria	nome feminino	car|pin|ta|[ri]|a
+carpinteiração	nome feminino	car|pin|tei|ra|[ção]
+carpinteiragem	nome feminino	car|pin|tei|[ra]|gem
+carpinteirar	verbo	car|pin|tei|[rar]
+carpinteiro	nome masculino	car|pin|[tei]|ro
+carpintejar	verbo	car|pin|te|[jar]
+carpinzeira	nome feminino	car|pin|[zei]|ra
+carpir	verbo	car|[pir]
+carpo	nome masculino	[car]|po
+carpobálsamo	nome masculino	car|po|[bál]|sa|mo
+carpóbolo	nome masculino	car|[pó]|bo|lo
+carpócero	nome masculino	car|[pó]|ce|ro
+carpocraciano	adjetivo	car|po|cra|ci|[a]|no
+carpocraciano	nome masculino	car|po|cra|ci|[a]|no
+carpofagia	nome feminino	car|po|fa|[gi]|a
+carpófago	adjetivo	car|[pó]|fa|go
+carpófago	nome masculino	car|[pó]|fa|go
+carpofilo	nome masculino	car|po|[fi]|lo
+carpófilo	adjetivo	car|[pó]|fi|lo
+carpóforo	nome masculino	car|[pó]|fo|ro
+carpogênese	nome feminino	car|po|[gê]|ne|se
+carpogénese	nome feminino	car|po|[gé]|ne|se
+carpogenésico	adjetivo	car|po|ge|[né]|si|co

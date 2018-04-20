@@ -1,0 +1,100 @@
+antimédico	adjetivo	an|ti|[mé]|di|co
+antimefítico	adjetivo	an|ti|me|[fí]|ti|co
+antimelancólico	adjetivo	an|ti|me|lan|[có]|li|co
+antimelodicamente	advérbio	an|ti|me|lo|di|ca|[men]|te
+antimelódico	adjetivo	an|ti|me|[ló]|di|co
+antimérico	adjetivo	an|ti|[mé]|ri|co
+antímero	adjetivo	an|[tí]|me|ro
+antímero	nome masculino	an|[tí]|me|ro
+antimetábole	nome feminino	an|ti|me|[tá]|bo|le
+antimetabólico	adjetivo	an|ti|me|ta|[bó]|li|co
+antimetalepse	nome feminino	an|ti|me|ta|[lep]|se
+antimetaléptico	adjetivo	an|ti|me|ta|[lép]|ti|co
+antimetalético	adjetivo	an|ti|me|ta|[lé]|ti|co
+antimetátese	nome feminino	an|ti|me|[tá]|te|se
+antimetatético	adjetivo	an|ti|me|ta|[té]|ti|co
+antimiasmático	adjetivo	an|ti|mi|as|[má]|ti|co
+antimicótico	adjetivo	an|ti|mi|[có]|ti|co
+antimicótico	nome masculino	an|ti|mi|[có]|ti|co
+antimicrobiano	adjetivo	an|ti|mi|cro|bi|[a]|no
+antimilitar	adjetivo	an|ti|mi|li|[tar]
+antimilitarismo	nome masculino	an|ti|mi|li|ta|[ris]|mo
+antimilitarista	adjetivo	an|ti|mi|li|ta|[ris]|ta
+antimilitarista	nome masculino	an|ti|mi|li|ta|[ris]|ta
+antimilitarista	nome feminino	an|ti|mi|li|ta|[ris]|ta
+antimilitarístico	adjetivo	an|ti|mi|li|ta|[rís]|ti|co
+antiministerial	adjetivo	an|ti|mi|nis|te|ri|[al]
+antimíssil	adjetivo	an|ti|[mís]|sil
+antimíssil	nome masculino	an|ti|[mís]|sil
+antimnésia	nome feminino	an|tim|[né]|si|a
+antimonacal	adjetivo	an|ti|mo|na|[cal]
+antimonárquica	nome feminino	an|ti|mo|[nár]|qui|ca
+antimonárquico	adjetivo	an|ti|mo|[nár]|qui|co
+antimonárquico	nome masculino	an|ti|mo|[nár]|qui|co
+antimonarquismo	nome masculino	an|ti|mo|nar|[quis]|mo
+antimonarquista	adjetivo	an|ti|mo|nar|[quis]|ta
+antimonarquista	nome masculino	an|ti|mo|nar|[quis]|ta
+antimonarquista	nome feminino	an|ti|mo|nar|[quis]|ta
+antimonástico	adjetivo	an|ti|mo|[nás]|ti|co
+antimoniado	adjetivo	an|ti|mo|ni|[a]|do
+antimonial	adjetivo	an|ti|mo|ni|[al]
+antimonial	nome masculino	an|ti|mo|ni|[al]
+antimoniato	nome masculino	an|ti|mo|ni|[a]|to
+antimónico	adjetivo	an|ti|[mó]|ni|co
+antimônico	adjetivo	an|ti|[mô]|ni|co
+antimonieto	nome masculino	an|ti|mo|ni|[e]|to
+antimonífero	adjetivo	an|ti|mo|[ní]|fe|ro
+antimónio	nome masculino	an|ti|[mó]|ni|o
+antimônio	nome masculino	an|ti|[mô]|ni|o
+antimonioso	adjetivo	an|ti|mo|ni|[o]|so
+antimonióxido	nome masculino	an|ti|mo|ni|[ó]|xi|do
+antimoníquel	nome masculino	an|ti|mo|[ní]|quel
+antimonita	nome feminino	an|ti|mo|[ni]|ta
+antimonite	nome feminino	an|ti|mo|[ni]|te
+antimonítico	adjetivo	an|ti|mo|[ní]|ti|co
+antimonopolista	adjetivo	an|ti|mo|no|po|[lis]|ta
+antimonopolista	nome feminino	an|ti|mo|no|po|[lis]|ta
+antimonopolista	nome masculino	an|ti|mo|no|po|[lis]|ta
+antimoral	adjetivo	an|ti|mo|[ral]
+antimoralismo	nome masculino	an|ti|mo|ra|[lis]|mo
+antimormoso	adjetivo	an|ti|mor|[mo]|so
+antimotim	adjetivo	an|ti|mo|[tim]
+antimotins	adjetivo	an|ti|mo|[tins]
+antinacional	adjetivo	an|ti|na|ci|o|[nal]
+antinacionalismo	nome masculino	an|ti|na|ci|o|na|[lis]|mo
+antinacionalista	adjetivo	an|ti|na|ci|o|na|[lis]|ta
+antinacionalista	nome masculino	an|ti|na|ci|o|na|[lis]|ta
+antinacionalista	nome feminino	an|ti|na|ci|o|na|[lis]|ta
+antinacionalístico	adjetivo	an|ti|na|ci|o|na|[lís]|ti|co
+antinarcótico	adjetivo	an|ti|nar|[có]|ti|co
+antinarcótico	nome masculino	an|ti|nar|[có]|ti|co
+antinatural	adjetivo	an|ti|na|tu|[ral]
+antinazi	adjetivo	an|ti|na|[zi]
+antinazi	nome masculino	an|ti|na|[zi]
+antinazi	nome feminino	an|ti|na|[zi]
+antinazismo	nome masculino	an|ti|na|[zis]|mo
+antinazista	adjetivo	an|ti|na|[zis]|ta
+antinefrítico	adjetivo	an|ti|ne|[frí]|ti|co
+antineoplásico	adjetivo	an|ti|ne|o|[plá]|si|co
+antineoplásico	nome masculino	an|ti|ne|o|[plá]|si|co
+antinervoso	adjetivo	an|ti|ner|[vo]|so
+antineurálgico	adjetivo	an|ti|neu|[rál]|gi|co
+antineurótico	adjetivo	an|ti|neu|[ró]|ti|co
+antineutrão	nome masculino	an|ti|neu|[trão]
+antineutrino	nome masculino	an|ti|neu|[tri]|no
+antinevoeiro	adjetivo	an|ti|ne|vo|[ei]|ro
+antinevrálgico	adjetivo	an|ti|ne|[vrál]|gi|co
+antinevrótico	adjetivo	an|ti|ne|[vró]|ti|co
+antinha	nome feminino	an|[ti]|nha
+ântino	adjetivo	[ân]|ti|no
+antinobiliário	adjetivo	an|ti|no|bi|li|[á]|ri|o
+antinodal	adjetivo	an|ti|no|[dal]
+antinodo	nome masculino	an|ti|[no]|do
+antinódoa	nome feminino	an|ti|[nó]|do|a
+antinoíta	adjetivo	an|ti|no|[í]|ta
+antinoíta	nome masculino	an|ti|no|[í]|ta
+antinoíta	nome feminino	an|ti|no|[í]|ta
+antinomia	nome feminino	an|ti|no|[mi]|a
+antinomiano	nome masculino	an|ti|no|mi|[a]|no
+antinomicamente	advérbio	an|ti|no|mi|ca|[men]|te
+antinómico	adjetivo	an|ti|[nó]|mi|co

@@ -1,0 +1,100 @@
+majoritário	nome masculino	ma|jo|ri|[tá]|ri|o
+maju	nome masculino	ma|[ju]
+majuba	nome feminino	ma|[ju]|ba
+maka	nome feminino	[ma]|ka
+make-up	nome masculino	ma|ke-up
+mal	conjunção	[mal]
+mal	advérbio	[mal]
+mal	nome masculino	[mal]
+mal-acabado	adjetivo	mal-a|ca|[ba]|do
+mal-acompleicionado	adjetivo	mal-a|com|plei|ci|o|[na]|do
+mal-acompleiçoado	adjetivo	mal-a|com|plei|ço|[a]|do
+mal-acomplexionado	adjetivo	mal-a|com|ple|xi|o|[na]|do
+mal-acompreiçoado	adjetivo	mal-a|com|prei|ço|[a]|do
+mal-acondicionado	adjetivo	mal-a|con|di|ci|o|[na]|do
+mal-acondiçoado	adjetivo	mal-a|con|di|ço|[a]|do
+mal-aconselhado	adjetivo	mal-a|con|se|[lha]|do
+mal-acostumado	adjetivo	mal-a|cos|tu|[ma]|do
+mal-adaptado	adjetivo	mal-a|dap|[ta]|do
+mal-afeiçoado	adjetivo	mal-a|fei|ço|[a]|do
+mal-afortunadamente	advérbio	mal-a|for|tu|na|da|[men]|te
+mal-afortunado	adjetivo	mal-a|for|tu|[na]|do
+mal-agradecida	nome feminino	mal-a|gra|de|[ci]|da
+mal-agradecido	adjetivo	mal-a|gra|de|[ci]|do
+mal-agradecido	nome masculino	mal-a|gra|de|[ci]|do
+mal-ajambrado	adjetivo	mal-a|jam|[bra]|do
+mal-ajeitadamente	advérbio	mal-a|jei|ta|da|[men]|te
+mal-ajeitado	adjetivo	mal-a|jei|[ta]|do
+mal-ajorcado	adjetivo	mal-a|jor|[ca]|do
+mal-amanhado	adjetivo	mal-a|ma|[nha]|do
+mal-andança	nome feminino	mal-an|[dan]|ça
+mal-andante	adjetivo	mal-an|[dan]|te
+mal-apessoado	adjetivo	mal-a|pes|so|[a]|do
+mal-armado	adjetivo	mal-ar|[ma]|do
+mal-arrumado	adjetivo	mal-ar|ru|[ma]|do
+mal-arrumado	nome masculino	mal-ar|ru|[ma]|do
+mal-asado	adjetivo	mal-a|[sa]|do
+mal-assada	nome feminino	mal-as|[sa]|da
+mal-assombrada	nome feminino	mal-as|som|[bra]|da
+mal-assombradamente	advérbio	mal-as|som|bra|da|[men]|te
+mal-assombrado	adjetivo	mal-as|som|[bra]|do
+mal-assombrado	nome masculino	mal-as|som|[bra]|do
+mal-assombramento	nome masculino	mal-as|som|bra|[men]|to
+mal-avença	nome feminino	mal-a|[ven]|ça
+mal-aventurada	nome feminino	mal-a|ven|tu|[ra]|da
+mal-aventuradamente	advérbio	mal-a|ven|tu|ra|da|[men]|te
+mal-aventurado	adjetivo	mal-a|ven|tu|[ra]|do
+mal-aventurado	nome masculino	mal-a|ven|tu|[ra]|do
+mal-avindo	adjetivo	mal-a|[vin]|do
+mal-avinhado	adjetivo	mal-a|vi|[nha]|do
+mal-avisado	adjetivo	mal-a|vi|[sa]|do
+mal-azado	adjetivo	mal-a|[za]|do
+mal-educada	nome feminino	mal-e|du|[ca]|da
+mal-educadamente	advérbio	mal-e|du|ca|da|[men]|te
+mal-educado	adjetivo	mal-e|du|[ca]|do
+mal-educado	nome masculino	mal-e|du|[ca]|do
+mal-encaradamente	advérbio	mal-en|ca|ra|da|[men]|te
+mal-encarado	adjetivo	mal-en|ca|[ra]|do
+mal-enganado	adjetivo	mal-en|ga|[na]|do
+mal-engraçado	adjetivo	mal-en|gra|[ça]|do
+mal-enjorcado	adjetivo	mal-en|jor|[ca]|do
+mal-ensinado	adjetivo	mal-en|si|[na]|do
+mal-entendido	nome masculino	mal-en|ten|[di]|do
+mal-entendido	adjetivo	mal-en|ten|[di]|do
+mal-entrada	nome feminino	mal-en|[tra]|da
+mal-estar	nome masculino	mal-es|[tar]
+mal-estreado	adjetivo	mal-es|tre|[a]|do
+mal-humoradamente	advérbio	mal-hu|mo|ra|da|[men]|te
+mal-humorado	adjetivo	mal-hu|mo|[ra]|do
+mal-intencionadamente	advérbio	mal-in|ten|ci|o|na|da|[men]|te
+mal-intencionado	adjetivo	mal-in|ten|ci|o|[na]|do
+mal-intencionado	nome masculino	mal-in|ten|ci|o|[na]|do
+mal-logrado	adjetivo	mal-lo|[gra]|do
+mal-lograr	verbo	mal-lo|[grar]
+mal-mal	advérbio	[mal-mal]
+mal-usar	verbo	mal-u|[sar]
+mala	nome feminino	[ma]|la
+mala-posta	nome feminino	ma|la-pos|ta
+mala-ventura	nome feminino	ma|la-ven|[tu]|ra
+malabar	nome masculino	ma|la|[bar]
+malabar	adjetivo	ma|la|[bar]
+malabar	nome feminino	ma|la|[bar]
+malabarense	nome masculino	ma|la|ba|[ren]|se
+malabarense	adjetivo	ma|la|ba|[ren]|se
+malabarense	nome feminino	ma|la|ba|[ren]|se
+malabaresco	adjetivo	ma|la|ba|[res]|co
+malabárico	adjetivo	ma|la|[bá]|ri|co
+malabárico	nome masculino	ma|la|[bá]|ri|co
+malabarismo	nome masculino	ma|la|ba|[ris]|mo
+malabarista	adjetivo	ma|la|ba|[ris]|ta
+malabarista	nome masculino	ma|la|ba|[ris]|ta
+malabarista	nome feminino	ma|la|ba|[ris]|ta
+malabarístico	adjetivo	ma|la|ba|[rís]|ti|co
+malabo	nome masculino	ma|[la]|bo
+malabruto	nome masculino	ma|la|[bru]|to
+malaca	nome masculino	ma|[la]|ca
+malaca	nome feminino	ma|[la]|ca
+malacacheta	nome feminino	ma|la|ca|[che]|ta
+malacafento	adjetivo	ma|la|ca|[fen]|to
+malacão	nome masculino	ma|la|[cão]
+malacara	adjetivo	ma|la|[ca]|ra

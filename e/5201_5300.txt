@@ -1,0 +1,100 @@
+entono	nome masculino	en|[to]|no
+entontar	verbo	en|ton|[tar]
+entontecedor	adjetivo	en|ton|te|ce|[dor]
+entontecer	verbo	en|ton|te|[cer]
+entontecimento	nome masculino	en|ton|te|ci|[men]|to
+entoparasito	nome masculino	en|to|pa|ra|[si]|to
+entopogão	nome masculino	en|to|po|[gão]
+entóptico	adjetivo	en|[tóp]|ti|co
+entorna	nome feminino	en|[tor]|na
+entornado	adjetivo	en|tor|[na]|do
+entornadura	nome feminino	en|tor|na|[du]|ra
+entornar	verbo	en|tor|[nar]
+entorneiro	nome masculino	en|tor|[nei]|ro
+entorno	nome masculino	en|[tor]|no
+entorpecedor	adjetivo	en|tor|pe|ce|[dor]
+entorpecente	nome masculino	en|tor|pe|[cen]|te
+entorpecente	adjetivo	en|tor|pe|[cen]|te
+entorpecer	verbo	en|tor|pe|[cer]
+entorpecido	adjetivo	en|tor|pe|[ci]|do
+entorpecimento	nome masculino	en|tor|pe|ci|[men]|to
+entorroar	verbo	en|tor|ro|[ar]
+entorse	nome feminino	en|[tor]|se
+entortadura	nome feminino	en|tor|ta|[du]|ra
+entortar	verbo	en|tor|[tar]
+entótico	adjetivo	en|[tó]|ti|co
+entouçar	verbo	en|tou|[çar]
+entoucar	verbo	en|tou|[car]
+entouceirar	verbo	en|tou|cei|[rar]
+entourado	adjetivo	en|tou|[ra]|do
+entourage	nome feminino	en|tou|ra|ge
+entourar	verbo	en|tou|[rar]
+entouriçado	adjetivo	en|tou|ri|[ça]|do
+entourido	adjetivo	en|tou|[ri]|do
+entourir	verbo	en|tou|[rir]
+entozoário	nome masculino	en|to|zo|[á]|ri|o
+entozoário	adjetivo	en|to|zo|[á]|ri|o
+entozoologia	nome feminino	en|to|zo|o|lo|[gi]|a
+entozoológico	adjetivo	en|to|zo|o|[ló]|gi|co
+entrada	nome feminino	en|[tra]|da
+entrado	adjetivo	en|[tra]|do
+entradote	adjetivo	en|tra|[do]|te
+entrajar	verbo	en|tra|[jar]
+entraje	nome masculino	en|[tra]|je
+entralhação	nome feminino	en|tra|lha|[ção]
+entralhar	verbo	en|tra|[lhar]
+entralho	nome masculino	en|[tra]|lho
+entralhoada	nome feminino	en|tra|lho|[a]|da
+entramado	nome masculino	en|tra|[ma]|do
+entrambelicar	verbo	en|tram|be|li|[car]
+entrambicar	verbo	en|tram|bi|[car]
+entrança	nome feminino	en|[tran]|ça
+entrançado	adjetivo	en|tran|[ça]|do
+entrançado	nome masculino	en|tran|[ça]|do
+entrançador	adjetivo	en|tran|ça|[dor]
+entrançador	nome masculino	en|tran|ça|[dor]
+entrançadura	nome feminino	en|tran|ça|[du]|ra
+entrançamento	nome masculino	en|tran|ça|[men]|to
+entrançar	verbo	en|tran|[çar]
+entrância	nome feminino	en|[trân]|ci|a
+entranha	nome feminino	en|[tra]|nha
+entranhadamente	advérbio	en|tra|nha|da|[men]|te
+entranhado	adjetivo	en|tra|[nha]|do
+entranhado	nome masculino	en|tra|[nha]|do
+entranhar	verbo	en|tra|[nhar]
+entranhável	adjetivo	en|tra|[nhá]|vel
+entranqueirar	verbo	en|tran|quei|[rar]
+entrante	adjetivo	en|[tran]|te
+entrapado	adjetivo	en|tra|[pa]|do
+entrapar	verbo	en|tra|[par]
+entrar	verbo	en|[trar]
+entrasgado	adjetivo	en|tras|[ga]|do
+entrastamento	nome masculino	en|tras|ta|[men]|to
+entrastar	verbo	en|tras|[tar]
+entravador	adjetivo	en|tra|va|[dor]
+entravador	nome masculino	en|tra|va|[dor]
+entraval	nome masculino	en|tra|[val]
+entravamento	nome masculino	en|tra|va|[men]|to
+entravar	verbo	en|tra|[var]
+entrave	nome masculino	en|[tra]|ve
+entre	preposição	[en]|tre
+entre-hostil	adjetivo	en|tre-hos|[til]
+entreaberta	nome feminino	en|tre|a|[ber]|ta
+entreaberto	adjetivo	en|tre|a|[ber]|to
+entreabrir	verbo	en|tre|a|[brir]
+entreadivinhar	verbo	en|tre|a|di|vi|[nhar]
+entreajuda	nome feminino	en|tre|a|[ju]|da
+entreajudar	verbo	en|tre|a|ju|[dar]
+entreaparecer	verbo	en|tre|a|pa|re|[cer]
+entreato	nome masculino	en|tre|[a]|to
+entrebanho	nome masculino	en|tre|[ba]|nho
+entrebater	verbo	en|tre|ba|[ter]
+entrebeijar	verbo	en|tre|bei|[jar]
+entrebranco	adjetivo	en|tre|[bran]|co
+entrecabo	nome masculino	en|tre|[ca]|bo
+entrecambado	adjetivo	en|tre|cam|[ba]|do
+entrecana	nome feminino	en|tre|[ca]|na
+entrecarga	nome feminino	en|tre|[car]|ga
+entrecasca	nome feminino	en|tre|[cas]|ca
+entrecasco	nome masculino	en|tre|[cas]|co
+entrecena	nome feminino	en|tre|[ce]|na

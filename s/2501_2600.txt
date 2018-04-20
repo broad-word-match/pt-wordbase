@@ -1,0 +1,100 @@
+satanismo	nome masculino	sa|ta|[nis]|mo
+satanista	nome masculino	sa|ta|[nis]|ta
+satanista	nome feminino	sa|ta|[nis]|ta
+satanizar	verbo	sa|ta|ni|[zar]
+satarca	adjetivo	sa|[tar]|ca
+satarca	nome masculino	sa|[tar]|ca
+satarca	nome feminino	sa|[tar]|ca
+satária	nome feminino	sa|[tá]|ri|a
+satelício	nome masculino	sa|te|[lí]|ci|o
+satélite	nome masculino	sa|[té]|li|te
+satélite	adjetivo	sa|[té]|li|te
+satelitismo	nome masculino	sa|te|li|[tis]|mo
+satelização	nome feminino	sa|te|li|za|[ção]
+satelizar	verbo	sa|te|li|[zar]
+satelizável	adjetivo	sa|te|li|[zá]|vel
+satense	adjetivo	sa|[ten]|se
+satense	nome masculino	sa|[ten]|se
+satense	nome feminino	sa|[ten]|se
+sati	nome masculino	sa|[ti]
+sati	nome feminino	sa|[ti]
+saticulano	adjetivo	sa|ti|cu|[la]|no
+saticulano	nome masculino	sa|ti|cu|[la]|no
+satilha	nome feminino	sa|[ti]|lha
+sátira	nome feminino	[sá]|ti|ra
+satiresco	adjetivo	sa|ti|[res]|co
+satirião	nome masculino	sa|ti|ri|[ão]
+satirião-bastardo	nome masculino	sa|ti|ri|ão-bas|[tar]|do
+satirião-macho	nome masculino	sa|ti|ri|ão-ma|cho
+satirião-menor	nome masculino	sa|ti|ri|ão-me|[nor]
+satiríase	nome feminino	sa|ti|[rí]|a|se
+satiriasmo	nome masculino	sa|ti|ri|[as]|mo
+satiricamente	advérbio	sa|ti|ri|ca|[men]|te
+satírico	adjetivo	sa|[tí]|ri|co
+satírico	nome masculino	sa|[tí]|ri|co
+satirídeo	nome masculino	sa|ti|[rí]|de|o
+satírio	nome masculino	sa|[tí]|ri|o
+satírio-bastardo	nome masculino	sa|tí|ri|o-bas|tar|do
+satírio-macho	nome masculino	sa|tí|ri|o-ma|cho
+satírio-menor	nome masculino	sa|tí|ri|o-me|nor
+satirista	nome masculino	sa|ti|[ris]|ta
+satirista	nome feminino	sa|ti|[ris]|ta
+satirização	nome feminino	sa|ti|ri|za|[ção]
+satirizador	adjetivo	sa|ti|ri|za|[dor]
+satirizador	nome masculino	sa|ti|ri|za|[dor]
+satirizante	adjetivo	sa|ti|ri|[zan]|te
+satirizar	verbo	sa|ti|ri|[zar]
+satirizável	adjetivo	sa|ti|ri|[zá]|vel
+sátiro	nome masculino	[sá]|ti|ro
+satirografia	nome feminino	sa|ti|ro|gra|[fi]|a
+satirográfico	adjetivo	sa|ti|ro|[grá]|fi|co
+satirógrafo	nome masculino	sa|ti|[ró]|gra|fo
+satiromania	nome feminino	sa|ti|ro|ma|[ni]|a
+satisdação	nome feminino	sa|tis|da|[ção]
+satisdar	verbo	sa|tis|[dar]
+satisfação	nome feminino	sa|tis|fa|[ção]
+satisfatoriamente	advérbio	sa|tis|fa|to|ri|a|[men]|te
+satisfatório	adjetivo	sa|tis|fa|[tó]|ri|o
+satisfazer	verbo	sa|tis|fa|[zer]
+satisfazível	adjetivo	sa|tis|fa|[zí]|vel
+satisfeito	adjetivo	sa|tis|[fei]|to
+sativo	adjetivo	sa|[ti]|vo
+sato	nome masculino	[sa]|to
+satra	adjetivo	[sa]|tra
+satra	nome masculino	[sa]|tra
+satra	nome feminino	[sa]|tra
+sátrapa	nome masculino	[sá]|tra|pa
+satrapear	verbo	sa|tra|pe|[ar]
+satrapeno	adjetivo	sa|tra|[pe]|no
+satrapeno	nome masculino	sa|tra|[pe]|no
+satrapia	nome feminino	sa|tra|[pi]|a
+satrápico	adjetivo	sa|[trá]|pi|co
+satrapismo	nome masculino	sa|tra|[pis]|mo
+satricano	adjetivo	sa|tri|[ca]|no
+satricano	nome masculino	sa|tri|[ca]|no
+sátura	nome feminino	[sá]|tu|ra
+saturabilidade	nome feminino	sa|tu|ra|bi|li|[da]|de
+saturação	nome feminino	sa|tu|ra|[ção]
+saturado	adjetivo	sa|tu|[ra]|do
+saturador	adjetivo	sa|tu|ra|[dor]
+saturador	nome masculino	sa|tu|ra|[dor]
+saturagem	nome feminino	sa|tu|[ra]|gem
+saturamento	nome masculino	sa|tu|ra|[men]|to
+saturante	adjetivo	sa|tu|[ran]|te
+saturar	verbo	sa|tu|[rar]
+saturável	adjetivo	sa|tu|[rá]|vel
+satureiano	adjetivo	sa|tu|rei|[a]|no
+satureiano	nome masculino	sa|tu|rei|[a]|no
+saturnal	nome feminino	sa|tur|[nal]
+saturnal	adjetivo	sa|tur|[nal]
+saturniano	nome masculino	sa|tur|ni|[a]|no
+saturniano	adjetivo	sa|tur|ni|[a]|no
+saturnina	nome feminino	sa|tur|[ni]|na
+saturnino	adjetivo	sa|tur|[ni]|no
+saturnino	nome masculino	sa|tur|[ni]|no
+satúrnio	adjetivo	sa|[túr]|ni|o
+satúrnio	nome masculino	sa|[túr]|ni|o
+saturnismo	nome masculino	sa|tur|[nis]|mo
+saturnite	nome feminino	sa|tur|[ni]|te
+saturno	nome masculino	sa|[tur]|no
+sauaçu	nome masculino	sau|a|[çu]

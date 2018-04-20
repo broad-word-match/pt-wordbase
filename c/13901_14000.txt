@@ -1,0 +1,100 @@
+conceptualístico	adjetivo	con|cep|tu|a|[lís]|ti|co
+conceptualização	nome feminino	con|cep|tu|a|li|za|[ção]
+conceptualizar	verbo	con|cep|tu|a|li|[zar]
+conceptualmente	advérbio	con|cep|tu|al|[men]|te
+concernência	nome feminino	con|cer|[nên]|ci|a
+concernente	adjetivo	con|cer|[nen]|te
+concernir	verbo	con|cer|[nir]
+concertação	nome feminino	con|cer|ta|[ção]
+concertadamente	advérbio	con|cer|ta|da|[men]|te
+concertado	adjetivo	con|cer|[ta]|do
+concertador	nome masculino	con|cer|ta|[dor]
+concertamento	nome masculino	con|cer|ta|[men]|to
+concertante	nome masculino	con|cer|[tan]|te
+concertante	adjetivo	con|cer|[tan]|te
+concertante	nome feminino	con|cer|[tan]|te
+concertar	verbo	con|cer|[tar]
+concertável	adjetivo	con|cer|[tá]|vel
+concertina	nome feminino	con|cer|[ti]|na
+concertino	nome masculino	con|cer|[ti]|no
+concertista	adjetivo	con|cer|[tis]|ta
+concertista	nome masculino	con|cer|[tis]|ta
+concertista	nome feminino	con|cer|[tis]|ta
+concerto	nome masculino	con|[cer]|to
+concessão	nome feminino	con|ces|[são]
+concessionar	verbo	con|ces|si|o|[nar]
+concessionária	nome feminino	con|ces|si|o|[ná]|ri|a
+concessionário	nome masculino	con|ces|si|o|[ná]|ri|o
+concessionário	adjetivo	con|ces|si|o|[ná]|ri|o
+concessiva	nome feminino	con|ces|[si]|va
+concessivamente	advérbio	con|ces|si|va|[men]|te
+concessível	adjetivo	con|ces|[sí]|vel
+concessivo	adjetivo	con|ces|[si]|vo
+concessor	nome masculino	con|ces|[sor]
+concessório	adjetivo	con|ces|[só]|ri|o
+concetaculífero	adjetivo	con|ce|ta|cu|[lí]|fe|ro
+concetáculo	nome masculino	con|ce|[tá]|cu|lo
+concetibilidade	nome feminino	con|ce|ti|bi|li|[da]|de
+concetismo	nome masculino	con|ce|[tis]|mo
+concetista	nome feminino	con|ce|[tis]|ta
+concetista	nome masculino	con|ce|[tis]|ta
+concetista	adjetivo	con|ce|[tis]|ta
+concetístico	adjetivo	con|ce|[tís]|ti|co
+concetiva	nome feminino	con|ce|[ti]|va
+concetível	adjetivo	con|ce|[tí]|vel
+concetividade	nome feminino	con|ce|ti|vi|[da]|de
+concetivo	adjetivo	con|ce|[ti]|vo
+concetual	adjetivo	con|ce|tu|[al]
+concetualismo	nome masculino	con|ce|tu|a|[lis]|mo
+concetualista	nome feminino	con|ce|tu|a|[lis]|ta
+concetualista	nome masculino	con|ce|tu|a|[lis]|ta
+concetualista	adjetivo	con|ce|tu|a|[lis]|ta
+concetualístico	adjetivo	con|ce|tu|a|[lís]|ti|co
+concetualização	nome feminino	con|ce|tu|a|li|za|[ção]
+concetualizar	verbo	con|ce|tu|a|li|[zar]
+concetualmente	advérbio	con|ce|tu|al|[men]|te
+concha	nome feminino	[con]|cha
+conchada	nome feminino	con|[cha]|da
+conchado	adjetivo	con|[cha]|do
+conchalim	nome masculino	con|cha|[lim]
+conchar	verbo	con|[char]
+conchar	nome masculino	con|[char]
+concharia	nome feminino	con|cha|[ri]|a
+conchavador	adjetivo	con|cha|va|[dor]
+conchavador	nome masculino	con|cha|va|[dor]
+conchavar	verbo	con|cha|[var]
+conchavo	nome masculino	con|[cha]|vo
+concheado	adjetivo	con|che|[a]|do
+conchear	verbo	con|che|[ar]
+conchegado	adjetivo	con|che|[ga]|do
+conchegar	verbo	con|che|[gar]
+conchegativo	adjetivo	con|che|ga|[ti]|vo
+conchego	nome masculino	con|[che]|go
+concheiro	nome masculino	con|[chei]|ro
+conchelo	nome masculino	con|[che]|lo
+conchífero	adjetivo	con|[chí]|fe|ro
+concho	nome masculino	[con]|cho
+concho	adjetivo	[con]|cho
+conchoide	adjetivo	con|[choi]|de
+conchoso	adjetivo	con|[cho]|so
+conchudo	adjetivo	con|[chu]|do
+concidadã	nome feminino	con|ci|da|[dã]
+concidadania	nome feminino	con|ci|da|da|[ni]|a
+concidadão	nome masculino	con|ci|da|[dão]
+conciliabilidade	nome feminino	con|ci|li|a|bi|li|[da]|de
+conciliábulo	nome masculino	con|ci|li|[á]|bu|lo
+conciliação	nome feminino	con|ci|li|a|[ção]
+conciliador	adjetivo	con|ci|li|a|[dor]
+conciliador	nome masculino	con|ci|li|a|[dor]
+conciliadora	nome feminino	con|ci|li|a|[do]|ra
+conciliante	adjetivo	con|ci|li|[an]|te
+conciliar	adjetivo	con|ci|li|[ar]
+conciliar	verbo	con|ci|li|[ar]
+conciliário	adjetivo	con|ci|li|[á]|ri|o
+conciliativamente	advérbio	con|ci|li|a|ti|va|[men]|te
+conciliativo	adjetivo	con|ci|li|a|[ti]|vo
+conciliatoriamente	advérbio	con|ci|li|a|to|ri|a|[men]|te
+conciliatório	adjetivo	con|ci|li|a|[tó]|ri|o
+conciliável	adjetivo	con|ci|li|[á]|vel
+concílio	nome masculino	con|[cí]|li|o
+concional	adjetivo	con|ci|o|[nal]

@@ -1,0 +1,100 @@
+gancheta	nome feminino	gan|[che]|ta
+ganchinho	nome masculino	gan|[chi]|nho
+gancho	nome masculino	[gan]|cho
+ganchorra	nome feminino	gan|[chor]|ra
+ganchoso	adjetivo	gan|[cho]|so
+ganchudo	adjetivo	gan|[chu]|do
+ganço	nome masculino	[gan]|ço
+ganda	nome feminino	[gan]|da
+gandaeiro	adjetivo	gan|da|[ei]|ro
+gandaeiro	nome masculino	gan|da|[ei]|ro
+gandaia	nome feminino	gan|[dai]|a
+gandaiar	verbo	gan|dai|[ar]
+gandaíce	nome feminino	gan|da|[í]|ce
+gandaieiro	adjetivo	gan|dai|[ei]|ro
+gandaieiro	nome masculino	gan|dai|[ei]|ro
+gandaiice	nome feminino	gan|dai|[i]|ce
+gandar	nome masculino	gan|[dar]
+gândara	nome feminino	[gân]|da|ra
+gandarês	adjetivo	gan|da|[rês]
+gandares	nome masculino	gan|[da]|res
+gandarinha	nome feminino	gan|da|[ri]|nha
+gandaru	nome masculino	gan|da|[ru]
+gandear	verbo	gan|de|[ar]
+gandeona	nome feminino	gan|de|[o]|na
+gando	nome masculino	[gan]|do
+gandola	nome feminino	gan|[do]|la
+gandra	nome feminino	[gan]|dra
+gandrense	adjetivo	gan|[dren]|se
+gandrense	nome masculino	gan|[dren]|se
+gandrense	nome feminino	gan|[dren]|se
+gandu	nome masculino	gan|[du]
+gandula	adjetivo	gan|[du]|la
+gandula	nome masculino	gan|[du]|la
+gandula	nome feminino	gan|[du]|la
+gandulagem	nome feminino	gan|du|[la]|gem
+gandular	verbo	gan|du|[lar]
+gandulo	adjetivo	gan|[du]|lo
+gandulo	nome masculino	gan|[du]|lo
+ganeira	nome feminino	ga|[nei]|ra
+ganeiro	nome masculino	ga|[nei]|ro
+ganense	adjetivo	ga|[nen]|se
+ganense	nome masculino	ga|[nen]|se
+ganense	nome feminino	ga|[nen]|se
+ganês	adjetivo	ga|[nês]
+ganês	nome masculino	ga|[nês]
+ganforina	nome feminino	gan|fo|[ri]|na
+gang	nome masculino	[gang]
+ganga	nome masculino	[gan]|ga
+ganga	nome feminino	[gan]|ga
+gangana	nome feminino	gan|[ga]|na
+gangão	nome masculino	gan|[gão]
+gangáride	adjetivo	gan|[gá]|ri|de
+gangáride	nome masculino	gan|[gá]|ri|de
+gangáride	nome feminino	gan|[gá]|ri|de
+gangético	adjetivo	gan|[gé]|ti|co
+gangliforme	adjetivo	gan|gli|[for]|me
+gânglio	nome masculino	[gân]|gli|o
+ganglioma	nome masculino	gan|gli|[o]|ma
+gangliomorfo	adjetivo	gan|gli|o|[mor]|fo
+ganglionado	adjetivo	gan|gli|o|[na]|do
+ganglionar	adjetivo	gan|gli|o|[nar]
+ganglionite	nome feminino	gan|gli|o|[ni]|te
+ganglite	nome feminino	gan|[gli]|te
+gangolino	nome masculino	gan|go|[li]|no
+gangoncu	nome masculino	gan|gon|[cu]
+gangorra	nome feminino	gan|[gor]|ra
+gangorrear	verbo	gan|gor|re|[ar]
+gangosa	nome feminino	gan|[go]|sa
+gangoso	adjetivo	gan|[go]|so
+gangrena	nome feminino	gan|[gre]|na
+gangrenado	adjetivo	gan|gre|[na]|do
+gangrenamento	nome masculino	gan|gre|na|[men]|to
+gangrenar	verbo	gan|gre|[nar]
+gangrenismo	nome masculino	gan|gre|[nis]|mo
+gangrenoso	adjetivo	gan|gre|[no]|so
+gângster	nome masculino	[gângs]|ter
+gangster	nome masculino	[gang]|ster
+gangsterismo	nome masculino	gangs|te|[ris]|mo
+gangsterístico	adjetivo	gangs|te|[rís]|ti|co
+gangue	nome masculino	[gan]|gue
+ganguela	nome masculino	gan|[gue]|la
+ganguela	adjetivo	gan|[gue]|la
+ganguela	nome feminino	gan|[gue]|la
+ganguissar	verbo	gan|guis|[sar]
+ganha-dinheiro	nome masculino	ga|nha-di|[nhei]|ro
+ganha-pão	nome masculino	ga|nha-pão
+ganha-perde	nome masculino	ga|nha-per|de
+ganhadeiro	adjetivo	ga|nha|[dei]|ro
+ganhadeiro	nome masculino	ga|nha|[dei]|ro
+ganhadiço	adjetivo	ga|nha|[di]|ço
+ganhador	adjetivo	ga|nha|[dor]
+ganhador	nome masculino	ga|nha|[dor]
+ganhamento	nome masculino	ga|nha|[men]|to
+ganhança	nome feminino	ga|[nhan]|ça
+ganhão	nome masculino	ga|[nhão]
+ganhar	verbo	ga|[nhar]
+ganharia	nome feminino	ga|nha|[ri]|a
+ganhável	adjetivo	ga|[nhá]|vel
+ganho	adjetivo	[ga]|nho
+ganho	nome masculino	[ga]|nho

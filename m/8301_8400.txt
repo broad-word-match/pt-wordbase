@@ -1,0 +1,100 @@
+misófobo	nome masculino	mi|[só]|fo|bo
+misófobo	adjetivo	mi|[só]|fo|bo
+misógama	nome feminino	mi|[só]|ga|ma
+misogamia	nome feminino	mi|so|ga|[mi]|a
+misógamo	adjetivo	mi|[só]|ga|mo
+misógamo	nome masculino	mi|[só]|ga|mo
+misógina	nome feminino	mi|[só]|gi|na
+misoginia	nome feminino	mi|so|gi|[ni]|a
+misógino	adjetivo	mi|[só]|gi|no
+misógino	nome masculino	mi|[só]|gi|no
+misóloga	nome feminino	mi|[só]|lo|ga
+misologia	nome feminino	mi|so|lo|[gi]|a
+misológico	adjetivo	mi|so|[ló]|gi|co
+misólogo	nome masculino	mi|[só]|lo|go
+misomacédone	adjetivo	mi|so|ma|[cé]|do|ne
+misomacédone	nome masculino	mi|so|ma|[cé]|do|ne
+misomacédone	nome feminino	mi|so|ma|[cé]|do|ne
+misoneico	adjetivo	mi|so|[nei]|co
+misoneísmo	nome masculino	mi|so|ne|[ís]|mo
+misoneísta	adjetivo	mi|so|ne|[ís]|ta
+misoneísta	nome masculino	mi|so|ne|[ís]|ta
+misoneísta	nome feminino	mi|so|ne|[ís]|ta
+misongué	nome masculino	mi|son|[gué]
+misopedia	nome feminino	mi|so|pe|[di]|a
+misopédico	adjetivo	mi|so|[pé]|di|co
+misosofia	nome feminino	mi|so|so|[fi]|a
+misósofo	nome masculino	mi|[só]|so|fo
+mispíquel	nome masculino	mis|[pí]|quel
+miss	nome feminino	[miss]
+missa	nome feminino	[mis]|sa
+missa-cantante	nome masculino	mis|sa-can|[tan]|te
+missado	adjetivo	mis|[sa]|do
+missagra	nome feminino	mis|[sa]|gra
+missal	nome masculino	mis|[sal]
+missanga	nome feminino	mis|[san]|ga
+missão	nome feminino	mis|[são]
+missar	verbo	mis|[sar]
+misse	nome feminino	[mis]|se
+misseiro	adjetivo	mis|[sei]|ro
+misseiro	nome masculino	mis|[sei]|ro
+missício	nome masculino	mis|[sí]|ci|o
+míssil	adjetivo	[mís]|sil
+míssil	nome masculino	[mís]|sil
+missilhão	nome masculino	mis|si|[lhão]
+missilística	nome feminino	mis|si|[lís]|ti|ca
+missilístico	adjetivo	mis|si|[lís]|ti|co
+missiografia	nome feminino	mis|si|o|gra|[fi]|a
+missiográfico	adjetivo	mis|si|o|[grá]|fi|co
+missiologia	nome feminino	mis|si|o|lo|[gi]|a
+missiológico	adjetivo	mis|si|o|[ló]|gi|co
+missiólogo	nome masculino	mis|si|[ó]|lo|go
+missionação	nome feminino	mis|si|o|na|[ção]
+missionar	verbo	mis|si|o|[nar]
+missionária	nome feminino	mis|si|o|[ná]|ri|a
+missionário	adjetivo	mis|si|o|[ná]|ri|o
+missionário	nome masculino	mis|si|o|[ná]|ri|o
+missionarismo	nome masculino	mis|si|o|na|[ris]|mo
+missioneiro	adjetivo	mis|si|o|[nei]|ro
+missioneiro	nome masculino	mis|si|o|[nei]|ro
+mississipiano	adjetivo	mis|sis|si|pi|[a]|no
+missiva	nome feminino	mis|[si]|va
+missivista	nome masculino	mis|si|[vis]|ta
+missivista	nome feminino	mis|si|[vis]|ta
+missivo	adjetivo	mis|[si]|vo
+missó-cristão	nome masculino	mis|só-cris|[tão]
+missoilo	nome masculino	mis|[soi]|lo
+missoira	nome feminino	mis|[soi]|ra
+missonco	nome masculino	mis|[son]|co
+missongo	nome masculino	mis|[son]|go
+missório	adjetivo	mis|[só]|ri|o
+missosso	nome masculino	mis|[sos]|so
+missuri	adjetivo	mis|su|[ri]
+missuri	nome masculino	mis|su|[ri]
+missuri	nome feminino	mis|su|[ri]
+mista	nome masculino	[mis]|ta
+mistagogia	nome feminino	mis|ta|go|[gi]|a
+mistagógico	adjetivo	mis|ta|[gó]|gi|co
+mistagogo	nome masculino	mis|ta|[go]|go
+mistão	nome masculino	mis|[tão]
+mistela	nome feminino	mis|[te]|la
+míster	nome masculino	[mís]|ter
+mister	nome masculino	mis|[ter]
+mistério	nome masculino	mis|[té]|ri|o
+misteriosamente	advérbio	mis|te|ri|o|sa|[men]|te
+misterioso	adjetivo	mis|te|ri|[o]|so
+mistibinário	adjetivo	mis|ti|bi|[ná]|ri|o
+mistibisunitário	adjetivo	mis|ti|bi|su|ni|[tá]|ri|o
+mística	nome feminino	[mís]|ti|ca
+misticamente	advérbio	mis|ti|ca|[men]|te
+misticeto	nome masculino	mis|ti|[ce]|to
+misticeto	adjetivo	mis|ti|[ce]|to
+misticidade	nome feminino	mis|ti|ci|[da]|de
+misticismo	nome masculino	mis|ti|[cis]|mo
+místico	nome masculino	[mís]|ti|co
+místico	adjetivo	[mís]|ti|co
+místico	nome feminino	[mís]|ti|co
+mistida	nome feminino	mis|[ti]|da
+mistificação	nome feminino	mis|ti|fi|ca|[ção]
+mistificado	adjetivo	mis|ti|fi|[ca]|do
+mistificador	adjetivo	mis|ti|fi|ca|[dor]

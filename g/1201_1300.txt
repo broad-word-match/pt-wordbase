@@ -1,0 +1,100 @@
+gárgula	nome feminino	[gár]|gu|la
+garguleira	nome feminino	gar|gu|[lei]|ra
+gari	nome masculino	ga|[ri]
+gari	nome feminino	ga|[ri]
+garibalda	nome feminino	ga|ri|[bal]|da
+garibalde	nome masculino	ga|ri|[bal]|de
+garibáldi	nome masculino	ga|ri|[bál]|di
+garibaldino	adjetivo	ga|ri|bal|[di]|no
+garibaldino	nome masculino	ga|ri|bal|[di]|no
+garidela	nome feminino	ga|ri|[de]|la
+garimpa	nome feminino	ga|[rim]|pa
+garimpagem	nome feminino	ga|rim|[pa]|gem
+garimpar	verbo	ga|rim|[par]
+garimpeiro	nome masculino	ga|rim|[pei]|ro
+garimpo	nome masculino	ga|[rim]|po
+garina	nome feminino	ga|[ri]|na
+garinar	verbo	ga|ri|[nar]
+garino	nome masculino	ga|[ri]|no
+gariteiro	nome masculino	ga|ri|[tei]|ro
+garito	nome masculino	ga|[ri]|to
+garlindéu	nome masculino	gar|lin|[déu]
+garlopa	nome feminino	gar|[lo]|pa
+garnacha	nome feminino	gar|[na]|cha
+garnacha	nome masculino	gar|[na]|cha
+garnachão	adjetivo	gar|na|[chão]
+garnachão	nome masculino	gar|na|[chão]
+garnachice	nome feminino	gar|na|[chi]|ce
+garnacho	nome masculino	gar|[na]|cho
+garnear	verbo	gar|ne|[ar]
+garnela	nome feminino	gar|[ne]|la
+garnierita	nome feminino	gar|ni|e|[ri]|ta
+garnierite	nome feminino	gar|ni|e|[ri]|te
+garnimento	nome masculino	gar|ni|[men]|to
+garnisé	nome masculino	gar|ni|[sé]
+garnisé	adjetivo	gar|ni|[sé]
+garo	nome masculino	[ga]|ro
+garoa	nome feminino	ga|[ro]|a
+garoar	verbo	ga|ro|[ar]
+garoento	adjetivo	ga|ro|[en]|to
+garota	nome feminino	ga|[ro]|ta
+garotada	nome feminino	ga|ro|[ta]|da
+garotagem	nome feminino	ga|ro|[ta]|gem
+garotal	adjetivo	ga|ro|[tal]
+garotar	verbo	ga|ro|[tar]
+garotear	verbo	ga|ro|te|[ar]
+garotelha	nome feminino	ga|ro|[te]|lha
+garotelho	nome masculino	ga|ro|[te]|lho
+garotete	nome masculino	ga|ro|[te]|te
+garotice	nome feminino	ga|ro|[ti]|ce
+garotil	nome masculino	ga|ro|[til]
+garotito	nome masculino	ga|ro|[ti]|to
+garoto	nome masculino	ga|[ro]|to
+garoto	adjetivo	ga|[ro]|to
+garotote	nome masculino	ga|ro|[to]|te
+garoupa	nome feminino	ga|[rou]|pa
+garoupa-preta	nome feminino	ga|rou|pa-pre|ta
+garoupeira	nome feminino	ga|rou|[pei]|ra
+garra	nome feminino	[gar]|ra
+garra	adjetivo	[gar]|ra
+garrafa	nome feminino	gar|[ra]|fa
+garrafa-termo	nome feminino	gar|ra|fa-ter|mo
+garrafada	nome feminino	gar|ra|[fa]|da
+garrafal	adjetivo	gar|ra|[fal]
+garrafão	nome masculino	gar|ra|[fão]
+garrafaria	nome feminino	gar|ra|fa|[ri]|a
+garrafeira	nome feminino	gar|ra|[fei]|ra
+garrafeiro	adjetivo	gar|ra|[fei]|ro
+garrafeiro	nome masculino	gar|ra|[fei]|ro
+garrafinha	nome feminino	gar|ra|[fi]|nha
+garragina	nome feminino	gar|ra|[gi]|na
+garraiada	nome feminino	gar|rai|[a]|da
+garraio	nome masculino	gar|[rai]|o
+garrana	nome feminino	gar|[ra]|na
+garrancha	nome feminino	gar|[ran]|cha
+garranchada	nome feminino	gar|ran|[cha]|da
+garranchar	verbo	gar|ran|[char]
+garrancho	nome masculino	gar|[ran]|cho
+garranchoso	adjetivo	gar|ran|[cho]|so
+garranito	nome masculino	gar|ra|[ni]|to
+garrano	nome masculino	gar|[ra]|no
+garranto	nome masculino	gar|[ran]|to
+garrão	nome masculino	gar|[rão]
+garrar	verbo	gar|[rar]
+garrau	nome masculino	gar|[rau]
+garraz	nome masculino	gar|[raz]
+garré	interjeição	gar|[ré]
+garrear	verbo	gar|re|[ar]
+garrenta	adjetivo	gar|[ren]|ta
+garrento	adjetivo	gar|[ren]|to
+garrento	nome masculino	gar|[ren]|to
+garrettiana	nome feminino	gar|ret|ti|a|na
+garrettiano	adjetivo	gar|ret|ti|a|no
+garrettiano	nome masculino	gar|ret|ti|a|no
+garrettismo	nome masculino	gar|ret|[tis]|mo
+garrettista	adjetivo	gar|ret|[tis]|ta
+garrettista	nome masculino	gar|ret|[tis]|ta
+garrettista	nome feminino	gar|ret|[tis]|ta
+garriça	nome feminino	gar|[ri]|ça
+garriço	nome masculino	gar|[ri]|ço
+garrida	nome feminino	gar|[ri]|da

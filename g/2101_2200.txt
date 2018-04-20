@@ -1,0 +1,100 @@
+geniofaríngeo	adjetivo	ge|ni|o|fa|[rín]|ge|o
+genioglosso	adjetivo	ge|ni|o|[glos]|so
+genioplastia	nome feminino	ge|ni|o|plas|[ti]|a
+genioplástico	adjetivo	ge|ni|o|[plás]|ti|co
+genioso	adjetivo	ge|ni|[o]|so
+genital	adjetivo	ge|ni|[tal]
+genitália	nome feminino	ge|ni|[tá]|li|a
+genitivo	adjetivo	ge|ni|[ti]|vo
+genitivo	nome masculino	ge|ni|[ti]|vo
+gênito	adjetivo	[gê]|ni|to
+génito	adjetivo	[gé]|ni|to
+génito	nome masculino	[gé]|ni|to
+gênito	nome masculino	[gê]|ni|to
+genitocrural	adjetivo	ge|ni|to|cru|[ral]
+genitor	nome masculino	ge|ni|[tor]
+genitospinal	adjetivo	ge|ni|tos|pi|[nal]
+genitura	nome feminino	ge|ni|[tu]|ra
+geniturinário	adjetivo	ge|ni|tu|ri|[ná]|ri|o
+genocida	nome masculino	ge|no|[ci]|da
+genocida	adjetivo	ge|no|[ci]|da
+genocida	nome feminino	ge|no|[ci]|da
+genocídio	nome masculino	ge|no|[cí]|di|o
+genoês	adjetivo	ge|no|[ês]
+genoês	nome masculino	ge|no|[ês]
+genologia	nome feminino	ge|no|lo|[gi]|a
+genológico	adjetivo	ge|no|[ló]|gi|co
+genoma	nome masculino	ge|[no]|ma
+genómica	nome feminino	ge|[nó]|mi|ca
+genômica	nome feminino	ge|[nô]|mi|ca
+genómico	adjetivo	ge|[nó]|mi|co
+genômico	adjetivo	ge|[nô]|mi|co
+genopatia	nome feminino	ge|no|pa|[ti]|a
+genoplastia	nome feminino	ge|no|plas|[ti]|a
+genoplástico	adjetivo	ge|no|[plás]|ti|co
+genotexto	nome masculino	ge|no|[tex]|to
+genótipo	nome masculino	ge|[nó]|ti|po
+genovense	adjetivo	ge|no|[ven]|se
+genovês	nome masculino	ge|no|[vês]
+genovês	adjetivo	ge|no|[vês]
+genovisco	adjetivo	ge|no|[vis]|co
+genovisco	nome masculino	ge|no|[vis]|co
+genreador	adjetivo	gen|re|a|[dor]
+genrear	verbo	gen|re|[ar]
+genro	nome masculino	[gen]|ro
+gentaça	nome feminino	gen|[ta]|ça
+gentalha	nome feminino	gen|[ta]|lha
+gentama	nome feminino	gen|[ta]|ma
+gentarada	nome feminino	gen|ta|[ra]|da
+gente	nome feminino	[gen]|te
+gentiaga	nome feminino	gen|ti|[a]|ga
+gentil	adjetivo	gen|[til]
+gentil	nome masculino	gen|[til]
+gentil-homem	nome masculino	gen|til-ho|mem
+gentil-homem	adjetivo	gen|til-ho|mem
+gentileza	nome feminino	gen|ti|[le]|za
+gentilicamente	advérbio	gen|ti|li|ca|[men]|te
+gentilício	adjetivo	gen|ti|[lí]|ci|o
+gentílico	nome masculino	gen|[tí]|li|co
+gentílico	adjetivo	gen|[tí]|li|co
+gentilidade	nome feminino	gen|ti|li|[da]|de
+gentilismo	nome masculino	gen|ti|[lis]|mo
+gentilizar	verbo	gen|ti|li|[zar]
+gentilmente	advérbio	gen|til|[men]|te
+gentinha	nome feminino	gen|[ti]|nha
+gentio	adjetivo	gen|[ti]|o
+gentio	nome masculino	gen|[ti]|o
+gentleman	nome masculino	[gen]|tle|man
+genuense	adjetivo	ge|nu|[en]|se
+genuense	nome masculino	ge|nu|[en]|se
+genuense	nome feminino	ge|nu|[en]|se
+genuflectir	verbo	ge|nu|flec|[tir]
+genuflector	adjetivo	ge|nu|flec|[tor]
+genuflector	nome masculino	ge|nu|flec|[tor]
+genuflectora	nome feminino	ge|nu|flec|[to]|ra
+genufletir	verbo	ge|nu|fle|[tir]
+genufletor	adjetivo	ge|nu|fle|[tor]
+genufletor	nome masculino	ge|nu|fle|[tor]
+genufletora	nome feminino	ge|nu|fle|[to]|ra
+genuflexão	nome feminino	ge|nu|fle|[xão]
+genuflexo	adjetivo	ge|nu|[fle]|xo
+genuflexório	nome masculino	ge|nu|fle|[xó]|ri|o
+genuinamente	advérbio	ge|nu|i|na|[men]|te
+genuinidade	nome feminino	ge|nu|i|ni|[da]|de
+genuíno	adjetivo	ge|nu|[í]|no
+genusino	adjetivo	ge|nu|[si]|no
+genusino	nome masculino	ge|nu|[si]|no
+geo-história	nome feminino	ge|o-his|[tó]|ri|a
+geoanticlinal	nome masculino	ge|o|an|ti|cli|[nal]
+geobiologia	nome feminino	ge|o|bi|o|lo|[gi]|a
+geobiológico	adjetivo	ge|o|bi|o|[ló]|gi|co
+geobotânica	nome feminino	ge|o|bo|[tâ]|ni|ca
+geobotânico	nome masculino	ge|o|bo|[tâ]|ni|co
+geobotânico	adjetivo	ge|o|bo|[tâ]|ni|co
+geocarpia	nome feminino	ge|o|car|[pi]|a
+geocêntrico	adjetivo	ge|o|[cên]|tri|co
+geocentrismo	nome masculino	ge|o|cen|[tris]|mo
+geocentrista	nome masculino	ge|o|cen|[tris]|ta
+geocentrista	nome feminino	ge|o|cen|[tris]|ta
+geocíclico	adjetivo	ge|o|[cí]|cli|co
+geociência	nome feminino	ge|o|ci|[ên]|ci|a

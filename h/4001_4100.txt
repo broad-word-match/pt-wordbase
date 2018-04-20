@@ -1,0 +1,100 @@
+horripilação	nome feminino	hor|ri|pi|la|[ção]
+horripilado	adjetivo	hor|ri|pi|[la]|do
+horripilador	nome masculino	hor|ri|pi|la|[dor]
+horripilante	adjetivo	hor|ri|pi|[lan]|te
+horripilantemente	advérbio	hor|ri|pi|lan|te|[men]|te
+horripilar	verbo	hor|ri|pi|[lar]
+horrissonante	adjetivo	hor|ris|so|[nan]|te
+horríssono	adjetivo	hor|[rís]|so|no
+horristridente	adjetivo	hor|ris|tri|[den]|te
+horritroante	adjetivo	hor|ri|tro|[an]|te
+horrível	adjetivo	hor|[rí]|vel
+horrivelmente	advérbio	hor|ri|vel|[men]|te
+horror	nome masculino	hor|[ror]
+horrorífico	adjetivo	hor|ro|[rí]|fi|co
+horrorizado	adjetivo	hor|ro|ri|[za]|do
+horrorizar	verbo	hor|ro|ri|[zar]
+horrorosamente	advérbio	hor|ro|ro|sa|[men]|te
+horroroso	adjetivo	hor|ro|[ro]|so
+hors-d'oeuvre	nome masculino	hors-d´oeu|vre
+horsa	nome feminino	[hor]|sa
+horseball	nome masculino	hor|se|ball
+horsepower	nome masculino	hor|se|po|wer
+horta	nome feminino	[hor]|ta
+hortaliça	nome feminino	hor|ta|[li]|ça
+hortaliceiro	nome masculino	hor|ta|li|[cei]|ro
+hortaliceiro	adjetivo	hor|ta|li|[cei]|ro
+hortar	verbo	hor|[tar]
+hortativo	adjetivo	hor|ta|[ti]|vo
+hortejar	verbo	hor|te|[jar]
+hortejo	nome masculino	hor|[te]|jo
+hortelã	nome feminino	hor|te|[lã]
+hortelã-de-cheiro	nome feminino	hor|te|lã-de-chei|ro
+hortelã-francesa	nome feminino	hor|te|lã-fran|[ce]|sa
+hortelã-pimenta	nome feminino	hor|te|lã-pi|[men]|ta
+hortelão	nome masculino	hor|te|[lão]
+horteloa	nome feminino	hor|te|[lo]|a
+hortelona	nome feminino	hor|te|[lo]|na
+hortense	adjetivo	hor|[ten]|se
+hortense	nome masculino	hor|[ten]|se
+hortense	nome feminino	hor|[ten]|se
+hortênsia	nome feminino	hor|[tên]|si|a
+hortícola	adjetivo	hor|[tí]|co|la
+horticultar	verbo	hor|ti|cul|[tar]
+horticultor	nome masculino	hor|ti|cul|[tor]
+horticultor	adjetivo	hor|ti|cul|[tor]
+horticultora	nome feminino	hor|ti|cul|[to]|ra
+horticultura	nome feminino	hor|ti|cul|[tu]|ra
+hortifruticultura	nome feminino	hor|ti|fru|ti|cul|[tu]|ra
+hortifrutigranjeiro	adjetivo	hor|ti|fru|ti|gran|[jei]|ro
+hortifrutigranjeiro	nome masculino	hor|ti|fru|ti|gran|[jei]|ro
+horto	nome masculino	[hor]|to
+hortofloricultura	nome feminino	hor|to|flo|ri|cul|[tu]|ra
+hortulana	nome feminino	hor|tu|[la]|na
+hosana	nome masculino	ho|[sa]|na
+hosana	interjeição	ho|[sa]|na
+hosco	adjetivo	[hos]|co
+hósi	nome masculino	[hó]|si
+hospedador	adjetivo	hos|pe|da|[dor]
+hospedador	nome masculino	hos|pe|da|[dor]
+hospedagem	nome feminino	hos|pe|[da]|gem
+hospedal	adjetivo	hos|pe|[dal]
+hospedamento	nome masculino	hos|pe|da|[men]|to
+hospedança	nome feminino	hos|pe|[dan]|ça
+hospedar	verbo	hos|pe|[dar]
+hospedaria	nome feminino	hos|pe|da|[ri]|a
+hospedável	adjetivo	hos|pe|[dá]|vel
+hóspede	nome masculino	[hós]|pe|de
+hóspede	adjetivo	[hós]|pe|de
+hóspede	nome feminino	[hós]|pe|de
+hospedeira	nome feminino	hos|pe|[dei]|ra
+hospedeiro	nome masculino	hos|pe|[dei]|ro
+hospedeiro	adjetivo	hos|pe|[dei]|ro
+hospedoso	adjetivo	hos|pe|[do]|so
+hospício	nome masculino	hos|[pí]|ci|o
+hospitação	nome feminino	hos|pi|ta|[ção]
+hospital	nome masculino	hos|pi|[tal]
+hospitalar	adjetivo	hos|pi|ta|[lar]
+hospitalário	adjetivo	hos|pi|ta|[lá]|ri|o
+hospitalário	nome masculino	hos|pi|ta|[lá]|ri|o
+hospitaleira	nome feminino	hos|pi|ta|[lei]|ra
+hospitaleiramente	advérbio	hos|pi|ta|lei|ra|[men]|te
+hospitaleiro	adjetivo	hos|pi|ta|[lei]|ro
+hospitaleiro	nome masculino	hos|pi|ta|[lei]|ro
+hospitalidade	nome feminino	hos|pi|ta|li|[da]|de
+hospitalização	nome feminino	hos|pi|ta|li|za|[ção]
+hospitalizado	adjetivo	hos|pi|ta|li|[za]|do
+hospitalizar	verbo	hos|pi|ta|li|[zar]
+hospitalizável	adjetivo	hos|pi|ta|li|[zá]|vel
+hospodar	nome masculino	hos|po|[dar]
+hospodarato	nome masculino	hos|po|da|[ra]|to
+hossana	nome masculino	hos|[sa]|na
+hossana	interjeição	hos|[sa]|na
+hóssi	nome masculino	[hós]|si
+hoste	nome feminino	[hos]|te
+hoste	nome masculino	[hos]|te
+hóstia	nome feminino	[hós]|ti|a
+hostiário	nome masculino	hos|ti|[á]|ri|o
+hostil	adjetivo	hos|[til]
+hostilidade	nome feminino	hos|ti|li|[da]|de
+hostilização	nome feminino	hos|ti|li|za|[ção]

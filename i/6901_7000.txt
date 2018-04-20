@@ -1,0 +1,100 @@
+ismaelismo	nome masculino	is|ma|e|[lis]|mo
+ismaelita	adjetivo	is|ma|e|[li]|ta
+ismaelita	nome masculino	is|ma|e|[li]|ta
+ismaelita	nome feminino	is|ma|e|[li]|ta
+ismaelítico	adjetivo	is|ma|e|[lí]|ti|co
+ismárico	adjetivo	is|[má]|ri|co
+ismário	adjetivo	is|[má]|ri|o
+isménia	nome feminino	is|[mé]|ni|a
+ismênia	nome feminino	is|[mê]|ni|a
+isnáquia	nome feminino	is|[ná]|qui|a
+isnárdia	nome feminino	is|[nár]|di|a
+isoalina	nome feminino	i|so|a|[li]|na
+isoáxico	adjetivo	i|so|[á]|xi|co
+isobafia	nome feminino	i|so|ba|[fi]|a
+isóbara	nome feminino	i|[só]|ba|ra
+isóbare	adjetivo	i|[só]|ba|re
+isobárica	nome feminino	i|so|[bá]|ri|ca
+isobárico	adjetivo	i|so|[bá]|ri|co
+isóbaro	adjetivo	i|[só]|ba|ro
+isobarométrico	adjetivo	i|so|ba|ro|[mé]|tri|co
+isóbata	nome feminino	i|[só]|ba|ta
+isobático	adjetivo	i|so|[bá]|ti|co
+isocárdio	nome masculino	i|so|[cár]|di|o
+isocarpo	adjetivo	i|so|[car]|po
+isocilíndrico	adjetivo	i|so|ci|[lín]|dri|co
+isoclasite	nome feminino	i|so|cla|[si]|te
+isoclinal	adjetivo	i|so|cli|[nal]
+isoclínico	adjetivo	i|so|[clí]|ni|co
+isóclino	adjetivo	i|[só]|cli|no
+isocolo	adjetivo	i|so|[co]|lo
+isócolo	adjetivo	i|[só]|co|lo
+isocolo	nome masculino	i|so|[co]|lo
+isocoloide	nome masculino	i|so|co|[loi]|de
+isocólon	adjetivo	i|so|[có]|lon
+isocólon	nome masculino	i|so|[có]|lon
+isocórico	adjetivo	i|so|[có]|ri|co
+isócoro	adjetivo	i|[só]|co|ro
+isócoro	nome masculino	i|[só]|co|ro
+isocrista	adjetivo	i|so|[cris]|ta
+isocrista	nome masculino	i|so|[cris]|ta
+isocrista	nome feminino	i|so|[cris]|ta
+isocromático	adjetivo	i|so|cro|[má]|ti|co
+isocromia	nome feminino	i|so|cro|[mi]|a
+isocrómico	adjetivo	i|so|[cró]|mi|co
+isocrômico	adjetivo	i|so|[crô]|mi|co
+isocromo	adjetivo	i|so|[cro]|mo
+isócromo	adjetivo	i|[só]|cro|mo
+isocronamente	advérbio	i|so|cro|na|[men]|te
+isocronicamente	advérbio	i|so|cro|ni|ca|[men]|te
+isocrônico	adjetivo	i|so|[crô]|ni|co
+isocrónico	adjetivo	i|so|[cró]|ni|co
+isocronismo	nome masculino	i|so|cro|[nis]|mo
+isocronização	nome feminino	i|so|cro|ni|za|[ção]
+isocronizar	verbo	i|so|cro|ni|[zar]
+isócrono	adjetivo	i|[só]|cro|no
+isodactilia	nome feminino	i|so|dac|ti|[li]|a
+isodáctilo	adjetivo	i|so|[dác]|ti|lo
+isodatilia	nome feminino	i|so|da|ti|[li]|a
+isodátilo	adjetivo	i|so|[dá]|ti|lo
+isodiáforo	adjetivo	i|so|di|[á]|fo|ro
+isódico	adjetivo	i|[só]|di|co
+isodinamia	nome feminino	i|so|di|na|[mi]|a
+isodinâmico	adjetivo	i|so|di|[nâ]|mi|co
+isódomo	adjetivo	i|[só]|do|mo
+isodonte	adjetivo	i|so|[don]|te
+isoédrico	adjetivo	i|so|[é]|dri|co
+isoeléctrico	adjetivo	i|so|e|[léc]|tri|co
+isoelectrônico	adjetivo	i|so|e|lec|[trô]|ni|co
+isoelétrico	adjetivo	i|so|e|[lé]|tri|co
+isoeletrónico	adjetivo	i|so|e|le|[tró]|ni|co
+isoeletrônico	adjetivo	i|so|e|le|[trô]|ni|co
+isoetácea	nome feminino	i|so|e|[tá]|ce|a
+isoete	nome masculino	i|so|[e]|te
+isófago	nome masculino	i|[só]|fa|go
+isofilia	nome feminino	i|so|fi|[li]|a
+isofílico	adjetivo	i|so|[fí]|li|co
+isofilo	adjetivo	i|so|[fi]|lo
+isófilo	adjetivo	i|[só]|fi|lo
+isofónico	adjetivo	i|so|[fó]|ni|co
+isofônico	adjetivo	i|so|[fô]|ni|co
+isófono	adjetivo	i|[só]|fo|no
+isofótico	adjetivo	i|so|[fó]|ti|co
+isogamia	nome feminino	i|so|ga|[mi]|a
+isogâmico	adjetivo	i|so|[gâ]|mi|co
+isógamo	adjetivo	i|[só]|ga|mo
+isógeno	adjetivo	i|[só]|ge|no
+isogeoterma	nome feminino	i|so|ge|o|[ter]|ma
+isogeotérmico	adjetivo	i|so|ge|o|[tér]|mi|co
+isogeotermo	adjetivo	i|so|ge|o|[ter]|mo
+isógino	adjetivo	i|[só]|gi|no
+isoglossa	nome feminino	i|so|[glos]|sa
+isoglóssico	adjetivo	i|so|[glós]|si|co
+isoglosso	adjetivo	i|so|[glos]|so
+isogonal	adjetivo	i|so|go|[nal]
+isogónico	adjetivo	i|so|[gó]|ni|co
+isogônico	adjetivo	i|so|[gô]|ni|co
+isogonismo	nome masculino	i|so|go|[nis]|mo
+isógono	adjetivo	i|[só]|go|no
+isografia	nome feminino	i|so|gra|[fi]|a
+isográfico	adjetivo	i|so|[grá]|fi|co

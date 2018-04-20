@@ -1,0 +1,100 @@
+desconjunção	nome feminino	des|con|jun|[ção]
+desconjuntado	adjetivo	des|con|jun|[ta]|do
+desconjuntamento	nome masculino	des|con|jun|ta|[men]|to
+desconjuntar	verbo	des|con|jun|[tar]
+desconjunto	adjetivo	des|con|[jun]|to
+desconjuntura	nome feminino	des|con|jun|[tu]|ra
+desconjurar	verbo	des|con|ju|[rar]
+desconsagração	nome feminino	des|con|sa|gra|[ção]
+desconsagrar	verbo	des|con|sa|[grar]
+desconsciência	nome feminino	des|cons|ci|[ên]|ci|a
+desconseguir	verbo	des|con|se|[guir]
+desconsentimento	nome masculino	des|con|sen|ti|[men]|to
+desconsentir	verbo	des|con|sen|[tir]
+desconsertado	adjetivo	des|con|ser|[ta]|do
+desconsertador	adjetivo	des|con|ser|ta|[dor]
+desconsertador	nome masculino	des|con|ser|ta|[dor]
+desconsertar	verbo	des|con|ser|[tar]
+desconserto	nome masculino	des|con|[ser]|to
+desconsideração	nome feminino	des|con|si|de|ra|[ção]
+desconsiderado	adjetivo	des|con|si|de|[ra]|do
+desconsiderador	adjetivo	des|con|si|de|ra|[dor]
+desconsiderador	nome masculino	des|con|si|de|ra|[dor]
+desconsiderar	verbo	des|con|si|de|[rar]
+desconsolação	nome feminino	des|con|so|la|[ção]
+desconsoladamente	advérbio	des|con|so|la|da|[men]|te
+desconsolado	adjetivo	des|con|so|[la]|do
+desconsolador	adjetivo	des|con|so|la|[dor]
+desconsolador	nome masculino	des|con|so|la|[dor]
+desconsoladoramente	advérbio	des|con|so|la|do|ra|[men]|te
+desconsolar	verbo	des|con|so|[lar]
+desconsolativo	adjetivo	des|con|so|la|[ti]|vo
+desconsolável	adjetivo	des|con|so|[lá]|vel
+desconsolo	nome masculino	des|con|[so]|lo
+desconsoloso	adjetivo	des|con|so|[lo]|so
+desconstitucional	adjetivo	des|cons|ti|tu|ci|o|[nal]
+desconstitucionalizar	verbo	des|cons|ti|tu|ci|o|na|li|[zar]
+desconstranger	verbo	des|cons|tran|[ger]
+desconstrangido	adjetivo	des|cons|tran|[gi]|do
+desconstrução	nome feminino	des|cons|tru|[ção]
+desconstruído	adjetivo	des|cons|tru|[í]|do
+desconstruir	verbo	des|cons|tru|[ir]
+descontagiar	verbo	des|con|ta|gi|[ar]
+descontaminação	nome feminino	des|con|ta|mi|na|[ção]
+descontaminar	verbo	des|con|ta|mi|[nar]
+descontar	verbo	des|con|[tar]
+descontável	adjetivo	des|con|[tá]|vel
+descontentadiço	adjetivo	des|con|ten|ta|[di]|ço
+descontentador	adjetivo	des|con|ten|ta|[dor]
+descontentamento	nome masculino	des|con|ten|ta|[men]|to
+descontentar	verbo	des|con|ten|[tar]
+descontentativo	adjetivo	des|con|ten|ta|[ti]|vo
+descontente	adjetivo	des|con|[ten]|te
+descontente	nome masculino	des|con|[ten]|te
+descontente	nome feminino	des|con|[ten]|te
+descontentorizar	verbo	des|con|ten|to|ri|[zar]
+descontextualizado	adjetivo	des|con|tex|tu|a|li|[za]|do
+descontextualizar	verbo	des|con|tex|tu|a|li|[zar]
+descontextuar	verbo	des|con|tex|tu|[ar]
+descontinência	nome feminino	des|con|ti|[nên]|ci|a
+descontinuação	nome feminino	des|con|ti|nu|a|[ção]
+descontinuador	adjetivo	des|con|ti|nu|a|[dor]
+descontinuador	nome masculino	des|con|ti|nu|a|[dor]
+descontinuar	verbo	des|con|ti|nu|[ar]
+descontinuidade	nome feminino	des|con|ti|nu|i|[da]|de
+descontínuo	adjetivo	des|con|[tí]|nu|o
+desconto	nome masculino	des|[con]|to
+descontração	nome feminino	des|con|tra|[ção]
+descontraidamente	advérbio	des|con|trai|da|[men]|te
+descontraído	adjetivo	des|con|tra|[í]|do
+descontrair	verbo	des|con|tra|[ir]
+descontratar	verbo	des|con|tra|[tar]
+descontrolado	adjetivo	des|con|tro|[la]|do
+descontrolar	verbo	des|con|tro|[lar]
+descontrole	nome masculino	des|con|[tro]|le
+descontrolo	nome masculino	des|con|[tro]|lo
+desconvencer	verbo	des|con|ven|[cer]
+desconveniência	nome feminino	des|con|ve|ni|[ên]|ci|a
+desconveniente	adjetivo	des|con|ve|ni|[en]|te
+desconversação	nome feminino	des|con|ver|sa|[ção]
+desconversão	nome feminino	des|con|ver|[são]
+desconversar	verbo	des|con|ver|[sar]
+desconversável	adjetivo	des|con|ver|[sá]|vel
+desconverter	verbo	des|con|ver|[ter]
+desconvidar	verbo	des|con|vi|[dar]
+desconvidativo	adjetivo	des|con|vi|da|[ti]|vo
+desconvinhável	adjetivo	des|con|vi|[nhá]|vel
+desconvir	verbo	des|con|[vir]
+desconvivência	nome feminino	des|con|vi|[vên]|ci|a
+desconvizinhança	nome feminino	des|con|vi|zi|[nhan]|ça
+desconvizinho	adjetivo	des|con|vi|[zi]|nho
+desconvocar	verbo	des|con|vo|[car]
+descoordenação	nome feminino	des|co|or|de|na|[ção]
+descoordenadamente	advérbio	des|co|or|de|na|da|[men]|te
+descoordenado	adjetivo	des|co|or|de|[na]|do
+descoordenar	verbo	des|co|or|de|[nar]
+descopado	adjetivo	des|co|[pa]|do
+descor	nome feminino	des|[cor]
+descoraçoado	adjetivo	des|co|ra|ço|[a]|do
+descoraçoador	nome masculino	des|co|ra|ço|a|[dor]
+descoraçoador	adjetivo	des|co|ra|ço|a|[dor]

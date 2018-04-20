@@ -1,0 +1,100 @@
+procrastinador	adjetivo	pro|cras|ti|na|[dor]
+procrastinador	nome masculino	pro|cras|ti|na|[dor]
+procrastinar	verbo	pro|cras|ti|[nar]
+procrastinatório	adjetivo	pro|cras|ti|na|[tó]|ri|o
+procrastinável	adjetivo	pro|cras|ti|[ná]|vel
+procriação	nome feminino	pro|cri|a|[ção]
+procriador	nome masculino	pro|cri|a|[dor]
+procriador	adjetivo	pro|cri|a|[dor]
+procriadora	nome feminino	pro|cri|a|[do]|ra
+procriar	verbo	pro|cri|[ar]
+procriável	adjetivo	pro|cri|[á]|vel
+procronismo	nome masculino	pro|cro|[nis]|mo
+procrustiano	adjetivo	pro|crus|ti|[a]|no
+proctal	adjetivo	proc|[tal]
+proctalgia	nome feminino	proc|tal|[gi]|a
+proctálgico	adjetivo	proc|[tál]|gi|co
+proctite	nome feminino	proc|[ti]|te
+proctocele	nome feminino	proc|to|[ce]|le
+proctologia	nome feminino	proc|to|lo|[gi]|a
+proctológico	adjetivo	proc|to|[ló]|gi|co
+proctólogo	nome masculino	proc|[tó]|lo|go
+proctopéctico	adjetivo	proc|to|[péc]|ti|co
+proctopético	adjetivo	proc|to|[pé]|ti|co
+proctopexia	nome feminino	proc|to|pe|[xi]|a
+proctoplastia	nome feminino	proc|to|plas|[ti]|a
+proctoplástico	adjetivo	proc|to|[plás]|ti|co
+proctoptose	nome feminino	proc|top|[to]|se
+proctoptótico	adjetivo	proc|top|[tó]|ti|co
+proctorragia	nome feminino	proc|tor|ra|[gi]|a
+proctorrágico	adjetivo	proc|tor|[rá]|gi|co
+proctorreia	nome feminino	proc|tor|[rei]|a
+proctorreico	adjetivo	proc|tor|[rei]|co
+proctoscopia	nome feminino	proc|tos|co|[pi]|a
+proctoscópico	adjetivo	proc|tos|[có]|pi|co
+proctoscópio	nome masculino	proc|tos|[có]|pi|o
+proctotomia	nome feminino	proc|to|to|[mi]|a
+proctotômico	adjetivo	proc|to|[tô]|mi|co
+proctotómico	adjetivo	proc|to|[tó]|mi|co
+proctótomo	nome masculino	proc|[tó]|to|mo
+proculiano	adjetivo	pro|cu|li|[a]|no
+proculiano	nome masculino	pro|cu|li|[a]|no
+procumbir	verbo	pro|cum|[bir]
+procura	nome feminino	pro|[cu]|ra
+procuração	nome feminino	pro|cu|ra|[ção]
+procuradeira	nome feminino	pro|cu|ra|[dei]|ra
+procurador	adjetivo	pro|cu|ra|[dor]
+procurador	nome masculino	pro|cu|ra|[dor]
+procurador-geral	nome masculino	pro|cu|ra|dor-ge|[ral]
+procuradora	nome feminino	pro|cu|ra|[do]|ra
+procuradora-geral	nome feminino	pro|cu|ra|do|ra-ge|[ral]
+procuradoria	nome feminino	pro|cu|ra|do|[ri]|a
+procuradoria-geral	nome feminino	pro|cu|ra|do|ri|a-ge|[ral]
+procurar	verbo	pro|cu|[rar]
+procuratoria	nome feminino	pro|cu|ra|to|[ri]|a
+procuratório	adjetivo	pro|cu|ra|[tó]|ri|o
+procuratura	nome feminino	pro|cu|ra|[tu]|ra
+procurável	adjetivo	pro|cu|[rá]|vel
+procústeo	adjetivo	pro|[cús]|te|o
+procustiano	adjetivo	pro|cus|ti|[a]|no
+procuto	adjetivo	pro|[cu]|to
+procuto	nome masculino	pro|[cu]|to
+prodiagnóstico	nome masculino	pro|di|ag|[nós]|ti|co
+prodição	nome feminino	pro|di|[ção]
+prodigalidade	nome feminino	pro|di|ga|li|[da]|de
+prodigalíssimo	adjetivo	pro|di|ga|[lís]|si|mo
+prodigalizador	adjetivo	pro|di|ga|li|za|[dor]
+prodigalizador	nome masculino	pro|di|ga|li|za|[dor]
+prodigalizadora	nome feminino	pro|di|ga|li|za|[do]|ra
+prodigalizar	verbo	pro|di|ga|li|[zar]
+prodigalizável	adjetivo	pro|di|ga|li|[zá]|vel
+prodigamente	advérbio	pro|di|ga|[men]|te
+prodigar	verbo	pro|di|[gar]
+prodígio	nome masculino	pro|[dí]|gi|o
+prodigiosamente	advérbio	pro|di|gi|o|sa|[men]|te
+prodigioso	adjetivo	pro|di|gi|[o]|so
+pródigo	adjetivo	[pró]|di|go
+pródigo	nome masculino	[pró]|di|go
+proditor	nome masculino	pro|di|[tor]
+proditório	adjetivo	pro|di|[tó]|ri|o
+prodrômico	adjetivo	pro|[drô]|mi|co
+prodrómico	adjetivo	pro|[dró]|mi|co
+pródromo	nome masculino	[pró]|dro|mo
+produção	nome feminino	pro|du|[ção]
+producente	adjetivo	pro|du|[cen]|te
+produtibilidade	nome feminino	pro|du|ti|bi|li|[da]|de
+produtivamente	advérbio	pro|du|ti|va|[men]|te
+produtível	adjetivo	pro|du|[tí]|vel
+produtividade	nome feminino	pro|du|ti|vi|[da]|de
+produtivismo	nome masculino	pro|du|ti|[vis]|mo
+produtivista	adjetivo	pro|du|ti|[vis]|ta
+produtivista	nome masculino	pro|du|ti|[vis]|ta
+produtivista	nome feminino	pro|du|ti|[vis]|ta
+produtivo	adjetivo	pro|du|[ti]|vo
+produto	nome masculino	pro|[du]|to
+produtor	adjetivo	pro|du|[tor]
+produtor	nome masculino	pro|du|[tor]
+produtora	nome feminino	pro|du|[to]|ra
+produtriz	nome feminino	pro|du|[triz]
+produzido	adjetivo	pro|du|[zi]|do
+produzidor	adjetivo	pro|du|zi|[dor]

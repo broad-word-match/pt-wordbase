@@ -1,0 +1,100 @@
+encontrão	nome masculino	en|con|[trão]
+encontrar	verbo	en|con|[trar]
+encontrável	adjetivo	en|con|[trá]|vel
+encontro	nome masculino	en|[con]|tro
+encontro-convívio	nome masculino	en|con|tro-con|[ví]|vi|o
+encontroada	nome feminino	en|con|tro|[a]|da
+encontroar	verbo	en|con|tro|[ar]
+encopar	verbo	en|co|[par]
+encoprose	nome feminino	en|co|[pro]|se
+encoquinar	verbo	en|co|qui|[nar]
+encoquinhar	verbo	en|co|qui|[nhar]
+encora	nome feminino	en|[co]|ra
+encorajador	adjetivo	en|co|ra|ja|[dor]
+encorajador	nome masculino	en|co|ra|ja|[dor]
+encorajadora	nome feminino	en|co|ra|ja|[do]|ra
+encorajamento	nome masculino	en|co|ra|ja|[men]|to
+encorajante	adjetivo	en|co|ra|[jan]|te
+encorajar	verbo	en|co|ra|[jar]
+encoramento	nome masculino	en|co|ra|[men]|to
+encorar	verbo	en|co|[rar]
+encórdio	nome masculino	en|[cór]|di|o
+encordoação	nome feminino	en|cor|do|a|[ção]
+encordoamento	nome masculino	en|cor|do|a|[men]|to
+encordoar	verbo	en|cor|do|[ar]
+encore	nome masculino	en|co|re
+encornanço	nome masculino	en|cor|[nan]|ço
+encornar	verbo	en|cor|[nar]
+encornetar	verbo	en|cor|ne|[tar]
+encoronhado	adjetivo	en|co|ro|[nha]|do
+encoronhar	verbo	en|co|ro|[nhar]
+encorpado	adjetivo	en|cor|[pa]|do
+encorpadura	nome feminino	en|cor|pa|[du]|ra
+encorpamento	nome masculino	en|cor|pa|[men]|to
+encorpar	verbo	en|cor|[par]
+encorreadura	nome feminino	en|cor|re|a|[du]|ra
+encorreamento	nome masculino	en|cor|re|a|[men]|to
+encorrear	verbo	en|cor|re|[ar]
+encorricar	verbo	en|cor|ri|[car]
+encorrilha	nome feminino	en|cor|[ri]|lha
+encorrilhado	adjetivo	en|cor|ri|[lha]|do
+encorrilhar	verbo	en|cor|ri|[lhar]
+encortelhar	verbo	en|cor|te|[lhar]
+encortiçar	verbo	en|cor|ti|[çar]
+encortinar	verbo	en|cor|ti|[nar]
+encorujado	adjetivo	en|co|ru|[ja]|do
+encorujar	verbo	en|co|ru|[jar]
+encosamentos	nome masculino	en|co|sa|[men]|tos
+encoscoramento	nome masculino	en|cos|co|ra|[men]|to
+encoscorar	verbo	en|cos|co|[rar]
+encospas	nome feminino	en|[cos]|pas
+encospiar	verbo	en|cos|pi|[ar]
+encóspias	nome feminino	en|[cós]|pi|as
+encosta	nome feminino	en|[cos]|ta
+encostada	nome feminino	en|cos|[ta]|da
+encostadela	nome feminino	en|cos|ta|[de]|la
+encostadiço	adjetivo	en|cos|ta|[di]|ço
+encostado	adjetivo	en|cos|[ta]|do
+encostado	nome masculino	en|cos|[ta]|do
+encostador	adjetivo	en|cos|ta|[dor]
+encostador	nome masculino	en|cos|ta|[dor]
+encostalar	verbo	en|cos|ta|[lar]
+encostamento	nome masculino	en|cos|ta|[men]|to
+encostar	verbo	en|cos|[tar]
+encostelado	adjetivo	en|cos|te|[la]|do
+encostes	nome masculino	en|[cos]|tes
+encosto	nome masculino	en|[cos]|to
+encouchar	verbo	en|cou|[char]
+encouraçado	nome masculino	en|cou|ra|[ça]|do
+encouraçar	verbo	en|cou|ra|[çar]
+encourado	adjetivo	en|cou|[ra]|do
+encourado	nome masculino	en|cou|[ra]|do
+encourar	verbo	en|cou|[rar]
+encoutar	verbo	en|cou|[tar]
+encouteiro	nome masculino	en|cou|[tei]|ro
+encouto	nome masculino	en|[cou]|to
+encovado	adjetivo	en|co|[va]|do
+encovado	nome masculino	en|co|[va]|do
+encovar	verbo	en|co|[var]
+encovilar	verbo	en|co|vi|[lar]
+encoxilhado	adjetivo	en|co|xi|[lha]|do
+encramouçar	verbo	en|cra|mou|[çar]
+encratismo	nome masculino	en|cra|[tis]|mo
+encratita	nome masculino	en|cra|[ti]|ta
+encratita	nome feminino	en|cra|[ti]|ta
+encrava	nome feminino	en|[cra]|va
+encravação	nome feminino	en|cra|va|[ção]
+encravado	adjetivo	en|cra|[va]|do
+encravadouro	nome masculino	en|cra|va|[dou]|ro
+encravadura	nome feminino	en|cra|va|[du]|ra
+encravamento	nome masculino	en|cra|va|[men]|to
+encravar	verbo	en|cra|[var]
+encrave	nome masculino	en|[cra]|ve
+encravelhação	nome feminino	en|cra|ve|lha|[ção]
+encravelhar	verbo	en|cra|ve|[lhar]
+encravilhar	verbo	en|cra|vi|[lhar]
+encravo	nome masculino	en|[cra]|vo
+encrenca	nome masculino	en|[cren]|ca
+encrenca	nome feminino	en|[cren]|ca
+encrencado	adjetivo	en|cren|[ca]|do
+encrencador	nome masculino	en|cren|ca|[dor]

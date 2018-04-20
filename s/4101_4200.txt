@@ -1,0 +1,100 @@
+senoniano	nome masculino	se|no|ni|[a]|no
+senoniano	adjetivo	se|no|ni|[a]|no
+senônico	adjetivo	se|[nô]|ni|co
+senónico	adjetivo	se|[nó]|ni|co
+senopterina	nome feminino	se|nop|te|[ri]|na
+senouro	adjetivo	se|[nou]|ro
+senoute	nome feminino	se|[nou]|te
+senra	nome feminino	[sen]|ra
+senrada	nome feminino	sen|[ra]|da
+sensabor	adjetivo	sen|sa|[bor]
+sensabor	nome masculino	sen|sa|[bor]
+sensabor	nome feminino	sen|sa|[bor]
+sensaborão	nome masculino	sen|sa|bo|[rão]
+sensaborão	adjetivo	sen|sa|bo|[rão]
+sensaboria	nome feminino	sen|sa|bo|[ri]|a
+sensaborizar	verbo	sen|sa|bo|ri|[zar]
+sensaborona	nome feminino	sen|sa|bo|[ro]|na
+sensaboronamente	advérbio	sen|sa|bo|ro|na|[men]|te
+sensação	nome feminino	sen|sa|[ção]
+sensacional	adjetivo	sen|sa|ci|o|[nal]
+sensacionalismo	nome masculino	sen|sa|ci|o|na|[lis]|mo
+sensacionalista	adjetivo	sen|sa|ci|o|na|[lis]|ta
+sensacionalista	nome masculino	sen|sa|ci|o|na|[lis]|ta
+sensacionalista	nome feminino	sen|sa|ci|o|na|[lis]|ta
+sensacionalmente	advérbio	sen|sa|ci|o|nal|[men]|te
+sensacionismo	nome masculino	sen|sa|ci|o|[nis]|mo
+sensacionista	nome masculino	sen|sa|ci|o|[nis]|ta
+sensacionista	adjetivo	sen|sa|ci|o|[nis]|ta
+sensacionista	nome feminino	sen|sa|ci|o|[nis]|ta
+sensatamente	advérbio	sen|sa|ta|[men]|te
+sensatez	nome feminino	sen|sa|[tez]
+sensato	adjetivo	sen|[sa]|to
+sensíbil	adjetivo	sen|[sí]|bil
+sensíbil	nome masculino	sen|[sí]|bil
+sensibilidade	nome feminino	sen|si|bi|li|[da]|de
+sensibilismo	nome masculino	sen|si|bi|[lis]|mo
+sensibilização	nome feminino	sen|si|bi|li|za|[ção]
+sensibilizado	adjetivo	sen|si|bi|li|[za]|do
+sensibilizador	adjetivo	sen|si|bi|li|za|[dor]
+sensibilizador	nome masculino	sen|si|bi|li|za|[dor]
+sensibilizadoramente	advérbio	sen|si|bi|li|za|do|ra|[men]|te
+sensibilizante	adjetivo	sen|si|bi|li|[zan]|te
+sensibilizar	verbo	sen|si|bi|li|[zar]
+sensibilizável	adjetivo	sen|si|bi|li|[zá]|vel
+sensificar	verbo	sen|si|fi|[car]
+sênsil	adjetivo	[sên]|sil
+sensila	nome feminino	sen|[si]|la
+sensismo	nome masculino	sen|[sis]|mo
+sensista	nome masculino	sen|[sis]|ta
+sensista	nome feminino	sen|[sis]|ta
+sensitiva	nome feminino	sen|si|[ti]|va
+sensitividade	nome feminino	sen|si|ti|vi|[da]|de
+sensitivo	adjetivo	sen|si|[ti]|vo
+sensitivo	nome masculino	sen|si|[ti]|vo
+sensitivo-motor	adjetivo	sen|si|ti|vo-mo|[tor]
+sensitivo-sensorial	adjetivo	sen|si|ti|vo-sen|so|ri|[al]
+sensitometria	nome feminino	sen|si|to|me|[tri]|a
+sensitométrico	adjetivo	sen|si|to|[mé]|tri|co
+sensível	adjetivo	sen|[sí]|vel
+sensível	nome feminino	sen|[sí]|vel
+sensível	nome masculino	sen|[sí]|vel
+sensivelmente	advérbio	sen|si|vel|[men]|te
+sensivo	adjetivo	sen|[si]|vo
+senso	nome masculino	[sen]|so
+sensor	nome masculino	sen|[sor]
+sensorial	adjetivo	sen|so|ri|[al]
+sensorialismo	nome masculino	sen|so|ri|a|[lis]|mo
+sensorialmente	advérbio	sen|so|ri|al|[men]|te
+sensorimetria	nome feminino	sen|so|ri|me|[tri]|a
+sensório	adjetivo	sen|[só]|ri|o
+sensório	nome masculino	sen|[só]|ri|o
+sensoriomotor	adjetivo	sen|so|ri|o|mo|[tor]
+sensual	adjetivo	sen|su|[al]
+sensual	nome masculino	sen|su|[al]
+sensual	nome feminino	sen|su|[al]
+sensualidade	nome feminino	sen|su|a|li|[da]|de
+sensualismo	nome masculino	sen|su|a|[lis]|mo
+sensualista	adjetivo	sen|su|a|[lis]|ta
+sensualista	nome masculino	sen|su|a|[lis]|ta
+sensualista	nome feminino	sen|su|a|[lis]|ta
+sensualização	nome feminino	sen|su|a|li|za|[ção]
+sensualizar	verbo	sen|su|a|li|[zar]
+sensualmente	advérbio	sen|su|al|[men]|te
+sentada	nome feminino	sen|[ta]|da
+sentador	adjetivo	sen|ta|[dor]
+sentar	verbo	sen|[tar]
+sentença	nome feminino	sen|[ten]|ça
+sentenciada	nome feminino	sen|ten|ci|[a]|da
+sentenciado	adjetivo	sen|ten|ci|[a]|do
+sentenciado	nome masculino	sen|ten|ci|[a]|do
+sentenciador	adjetivo	sen|ten|ci|a|[dor]
+sentenciador	nome masculino	sen|ten|ci|a|[dor]
+sentenciadora	nome feminino	sen|ten|ci|a|[do]|ra
+sentenciar	verbo	sen|ten|ci|[ar]
+sentenciosamente	advérbio	sen|ten|ci|o|sa|[men]|te
+sentencioso	adjetivo	sen|ten|ci|[o]|so
+sentenciúncula	nome feminino	sen|ten|ci|[ún]|cu|la
+sentidamente	advérbio	sen|ti|da|[men]|te
+sentido	adjetivo	sen|[ti]|do
+sentido	nome masculino	sen|[ti]|do

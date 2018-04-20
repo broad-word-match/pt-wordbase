@@ -1,0 +1,100 @@
+trompaço	nome masculino	trom|[pa]|ço
+trompada	nome feminino	trom|[pa]|da
+trompão	nome masculino	trom|[pão]
+trompar	verbo	trom|[par]
+trompázio	nome masculino	trom|[pá]|zi|o
+trompear	verbo	trom|pe|[ar]
+trompejar	verbo	trom|pe|[jar]
+trompeta	nome feminino	trom|[pe]|ta
+trompeta	nome masculino	trom|[pe]|ta
+trompetada	nome feminino	trom|pe|[ta]|da
+trompete	nome masculino	trom|[pe]|te
+trompete	nome feminino	trom|[pe]|te
+trompetista	nome masculino	trom|pe|[tis]|ta
+trompetista	nome feminino	trom|pe|[tis]|ta
+trompicar	verbo	trom|pi|[car]
+trompilhar	verbo	trom|pi|[lhar]
+trompim	nome masculino	trom|[pim]
+trompista	nome masculino	trom|[pis]|ta
+trompista	nome feminino	trom|[pis]|ta
+tronante	adjetivo	tro|[nan]|te
+tronar	verbo	tro|[nar]
+tronca	nome feminino	[tron]|ca
+troncácia	nome feminino	tron|[cá]|ci|a
+troncado	adjetivo	tron|[ca]|do
+troncagem	nome feminino	tron|[ca]|gem
+troncal	adjetivo	tron|[cal]
+troncar	verbo	tron|[car]
+troncaria	nome feminino	tron|ca|[ri]|a
+troncha	nome feminino	[tron]|cha
+tronchada	nome feminino	tron|[cha]|da
+tronchadura	nome feminino	tron|cha|[du]|ra
+tronchar	verbo	tron|[char]
+troncho	nome masculino	[tron]|cho
+troncho	adjetivo	[tron]|cho
+tronchuda	nome feminino	tron|[chu]|da
+tronchudo	nome masculino	tron|[chu]|do
+tronchudo	adjetivo	tron|[chu]|do
+tronco	adjetivo	[tron]|co
+tronco	nome masculino	[tron]|co
+troncocónico	adjetivo	tron|co|[có]|ni|co
+troncocônico	adjetivo	tron|co|[cô]|ni|co
+troncudo	adjetivo	tron|[cu]|do
+troncular	adjetivo	tron|cu|[lar]
+trônculo	nome masculino	[trôn]|cu|lo
+tronda	nome feminino	[tron]|da
+trondão	nome masculino	tron|[dão]
+tronear	verbo	tro|ne|[ar]
+troneira	nome feminino	tro|[nei]|ra
+tronejar	verbo	tro|ne|[jar]
+tronejo	nome masculino	tro|[ne]|jo
+troneto	nome masculino	tro|[ne]|to
+tronga	nome feminino	[tron]|ga
+trónio	nome masculino	[tró]|ni|o
+trônio	nome masculino	[trô]|ni|o
+trono	nome masculino	[tro]|no
+tronqueira	nome feminino	tron|[quei]|ra
+tronqueirada	nome feminino	tron|quei|[ra]|da
+tronqueirão	nome masculino	tron|quei|[rão]
+tronqueiro	nome masculino	tron|[quei]|ro
+tronqueiro-mor	nome masculino	tron|quei|ro-mor
+tropa	nome masculino	[tro]|pa
+tropa	nome feminino	[tro]|pa
+tropa-fandanga	nome feminino	tro|pa-fan|[dan]|ga
+tropário	nome masculino	tro|[pá]|ri|o
+tropeada	nome feminino	tro|pe|[a]|da
+tropear	verbo	tro|pe|[ar]
+tropeçamento	nome masculino	tro|pe|ça|[men]|to
+tropeçante	adjetivo	tro|pe|[çan]|te
+tropeção	nome masculino	tro|pe|[ção]
+tropeção	adjetivo	tro|pe|[ção]
+tropeçar	verbo	tro|pe|[çar]
+tropecelha	nome feminino	tro|pe|[ce]|lha
+tropecilho	nome masculino	tro|pe|[ci]|lho
+tropecina	nome feminino	tro|pe|[ci]|na
+tropeço	nome masculino	tro|[pe]|ço
+tropeço	nome feminino	tro|[pe]|ço
+tropeçudo	adjetivo	tro|pe|[çu]|do
+tropegamente	advérbio	tro|pe|ga|[men]|te
+trôpego	adjetivo	[trô]|pe|go
+tropeirada	nome feminino	tro|pei|[ra]|da
+tropeiro	nome masculino	tro|[pei]|ro
+tropejar	verbo	tro|pe|[jar]
+tropel	nome masculino	tro|[pel]
+tropelão	adjetivo	tro|pe|[lão]
+tropelha	nome feminino	tro|[pe]|lha
+tropelia	nome feminino	tro|pe|[li]|a
+tropeliar	verbo	tro|pe|li|[ar]
+tropeolácea	nome feminino	tro|pe|o|[lá]|ce|a
+tropeoláceo	adjetivo	tro|pe|o|[lá]|ce|o
+tropeólea	nome feminino	tro|pe|[ó]|le|a
+tropia	nome feminino	tro|[pi]|a
+tropicada	nome feminino	tro|pi|[ca]|da
+tropical	adjetivo	tro|pi|[cal]
+tropicalismo	nome masculino	tro|pi|ca|[lis]|mo
+tropicalista	adjetivo	tro|pi|ca|[lis]|ta
+tropicalista	nome masculino	tro|pi|ca|[lis]|ta
+tropicalista	nome feminino	tro|pi|ca|[lis]|ta
+tropicão	nome masculino	tro|pi|[cão]
+tropicar	verbo	tro|pi|[car]
+trópico	nome masculino	[tró]|pi|co

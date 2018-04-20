@@ -1,0 +1,100 @@
+treçolho	nome masculino	tre|[ço]|lho
+trécula	nome feminino	[tré]|cu|la
+tredamente	advérbio	tre|da|[men]|te
+tredecénio	nome masculino	tre|de|[cé]|ni|o
+tredecimal	adjetivo	tre|de|ci|[mal]
+tredécimo	nome masculino	tre|[dé]|ci|mo
+tredécimo	número ordinal	tre|[dé]|ci|mo
+tredice	nome feminino	tre|[di]|ce
+tredo	adjetivo	[tre]|do
+tredor	nome masculino	tre|[dor]
+tredoramente	advérbio	tre|do|ra|[men]|te
+tredorice	nome feminino	tre|do|[ri]|ce
+trédoro	adjetivo	[tré]|do|ro
+tredro	adjetivo	[tre]|dro
+trefegamente	advérbio	tre|fe|ga|[men]|te
+trefegar	verbo	tre|fe|[gar]
+trêfego	adjetivo	[trê]|fe|go
+trefilado	nome masculino	tre|fi|[la]|do
+trefilagem	nome feminino	tre|fi|[la]|gem
+trefilamento	nome masculino	tre|fi|la|[men]|to
+trefilar	verbo	tre|fi|[lar]
+trefilaria	nome feminino	tre|fi|la|[ri]|a
+trefo	adjetivo	[tre]|fo
+trégua	nome feminino	[tré]|gua
+treição	nome feminino	trei|[ção]
+treício	adjetivo	tre|[í]|ci|o
+treiense	adjetivo	trei|[en]|se
+treiense	nome masculino	trei|[en]|se
+treiense	nome feminino	trei|[en]|se
+treiler	nome masculino	trei|[ler]
+treina	nome feminino	[trei]|na
+treinado	adjetivo	trei|[na]|do
+treinado	nome masculino	trei|[na]|do
+treinador	adjetivo	trei|na|[dor]
+treinador	nome masculino	trei|na|[dor]
+treinador-adjunto	nome masculino	trei|na|dor-ad|[jun]|to
+treinadora	nome feminino	trei|na|[do]|ra
+treinagem	nome feminino	trei|[na]|gem
+treinamento	nome masculino	trei|na|[men]|to
+treinar	verbo	trei|[nar]
+treinável	adjetivo	trei|[ná]|vel
+treino	nome masculino	[trei]|no
+treita	nome feminino	[trei]|ta
+treitar	verbo	trei|[tar]
+treiteiro	adjetivo	trei|[tei]|ro
+treitento	adjetivo	trei|[ten]|to
+treito	adjetivo	[trei]|to
+treito	nome masculino	[trei]|to
+treitoira	nome feminino	trei|[toi]|ra
+treitoura	nome feminino	trei|[tou]|ra
+treixa	nome feminino	[trei]|xa
+treixada	nome feminino	trei|[xa]|da
+trejeitador	adjetivo	tre|jei|ta|[dor]
+trejeitador	nome masculino	tre|jei|ta|[dor]
+trejeitar	verbo	tre|jei|[tar]
+trejeitear	verbo	tre|jei|te|[ar]
+trejeiteiro	adjetivo	tre|jei|[tei]|ro
+trejeito	nome masculino	tre|[jei]|to
+trejeitoso	adjetivo	tre|jei|[to]|so
+trejugado	adjetivo	tre|ju|[ga]|do
+trejurar	verbo	tre|ju|[rar]
+trela	nome feminino	[tre]|la
+treladar	verbo	tre|la|[dar]
+trelado	nome masculino	tre|[la]|do
+treleado	adjetivo	tre|le|[a]|do
+trelear	verbo	tre|le|[ar]
+trelência	nome feminino	tre|[lên]|ci|a
+trelente	nome masculino	tre|[len]|te
+trelente	nome feminino	tre|[len]|te
+trelho	nome masculino	[tre]|lho
+treliça	nome feminino	tre|[li]|ça
+trem	nome masculino	[trem]
+trem	adjetivo	[trem]
+trema	nome masculino	[tre]|ma
+tremado	adjetivo	tre|[ma]|do
+tremadociano	adjetivo	tre|ma|do|ci|[a]|no
+tremandra	nome feminino	tre|[man]|dra
+tremandrácea	nome feminino	tre|man|[drá]|ce|a
+tremão	nome masculino	tre|[mão]
+tremar	verbo	tre|[mar]
+tremate	nome masculino	tre|[ma]|te
+trematode	adjetivo	tre|ma|[to]|de
+trematode	nome masculino	tre|ma|[to]|de
+trematódeo	nome masculino	tre|ma|[tó]|de|o
+trematódeo	adjetivo	tre|ma|[tó]|de|o
+trembleque	adjetivo	trem|[ble]|que
+treme-mão	nome masculino	tre|me-mão
+treme-treme	nome masculino	tre|me-tre|me
+tremebundo	adjetivo	tre|me|[bun]|do
+tremecém	adjetivo	tre|me|[cém]
+tremedal	nome masculino	tre|me|[dal]
+tremedal	adjetivo	tre|me|[dal]
+tremedeira	nome feminino	tre|me|[dei]|ra
+tremedoiro	nome masculino	tre|me|[doi]|ro
+tremedor	adjetivo	tre|me|[dor]
+tremedor	nome masculino	tre|me|[dor]
+tremedouro	nome masculino	tre|me|[dou]|ro
+tremedura	nome feminino	tre|me|[du]|ra
+tremela	nome feminino	tre|[me]|la
+tremelácea	nome feminino	tre|me|[lá]|ce|a

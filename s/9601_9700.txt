@@ -1,0 +1,100 @@
+subtendente	nome feminino	sub|ten|[den]|te
+subtender	verbo	sub|ten|[der]
+subtenente	nome masculino	sub|te|[nen]|te
+subtenente	nome feminino	sub|te|[nen]|te
+subtensa	nome feminino	sub|[ten]|sa
+subtensão	nome feminino	sub|ten|[são]
+subtenso	adjetivo	sub|[ten]|so
+subterfluente	adjetivo	sub|ter|flu|[en]|te
+subterfugiar	verbo	sub|ter|fu|gi|[ar]
+subterfúgio	nome masculino	sub|ter|[fú]|gi|o
+subterfugioso	adjetivo	sub|ter|fu|gi|[o]|so
+subterfugir	verbo	sub|ter|fu|[gir]
+subterminal	adjetivo	sub|ter|mi|[nal]
+subterraneamente	advérbio	sub|ter|ra|ne|a|[men]|te
+subterrâneo	nome masculino	sub|ter|[râ]|ne|o
+subterrâneo	adjetivo	sub|ter|[râ]|ne|o
+subterrar	verbo	sub|ter|[rar]
+subtérreo	adjetivo	sub|[tér]|re|o
+subterritório	nome masculino	sub|ter|ri|[tó]|ri|o
+subtil	adjetivo	sub|[til]
+subtil	nome masculino	sub|[til]
+subtileza	nome feminino	sub|ti|[le]|za
+subtilidade	nome feminino	sub|ti|li|[da]|de
+subtilifólio	adjetivo	sub|ti|li|[fó]|li|o
+subtilíssimo	adjetivo	sub|ti|[lís]|si|mo
+subtilização	nome feminino	sub|ti|li|za|[ção]
+subtilizador	adjetivo	sub|ti|li|za|[dor]
+subtilizador	nome masculino	sub|ti|li|za|[dor]
+subtilizar	verbo	sub|ti|li|[zar]
+subtilmente	advérbio	sub|til|[men]|te
+subtipo	nome masculino	sub|[ti]|po
+subtirano	nome masculino	sub|ti|[ra]|no
+subtítulo	nome masculino	sub|[tí]|tu|lo
+subtónica	nome feminino	sub|[tó]|ni|ca
+subtônica	nome feminino	sub|[tô]|ni|ca
+subtotal	nome masculino	sub|to|[tal]
+subtração	nome feminino	sub|tra|[ção]
+subtraendo	adjetivo	sub|tra|[en]|do
+subtraendo	nome masculino	sub|tra|[en]|do
+subtraído	adjetivo	sub|tra|[í]|do
+subtraidor	adjetivo	sub|trai|[dor]
+subtraidor	nome masculino	sub|trai|[dor]
+subtrair	verbo	sub|tra|[ir]
+subtraível	adjetivo	sub|tra|[í]|vel
+subtrativamente	advérbio	sub|tra|ti|va|[men]|te
+subtrativo	adjetivo	sub|tra|[ti]|vo
+subtrativo	nome masculino	sub|tra|[ti]|vo
+subtrator	adjetivo	sub|tra|[tor]
+subtrator	nome masculino	sub|tra|[tor]
+subtratora	nome feminino	sub|tra|[to]|ra
+subtribo	nome feminino	sub|[tri]|bo
+subtrígono	adjetivo	sub|[trí]|go|no
+subtríplice	adjetivo	sub|[trí]|pli|ce
+subtriplo	adjetivo	sub|[tri]|plo
+subtrocanteriano	adjetivo	sub|tro|can|te|ri|[a]|no
+subtrocantiniano	adjetivo	sub|tro|can|ti|ni|[a]|no
+subtropical	adjetivo	sub|tro|pi|[cal]
+subtutor	nome masculino	sub|tu|[tor]
+súbula	nome feminino	[sú]|bu|la
+subulado	adjetivo	su|bu|[la]|do
+subulão	nome masculino	su|bu|[lão]
+subulária	nome feminino	su|bu|[lá]|ri|a
+subulifoliado	adjetivo	su|bu|li|fo|li|[a]|do
+subulipalpo	nome masculino	su|bu|li|[pal]|po
+subulípede	adjetivo	su|bu|[lí]|pe|de
+subulirrostro	adjetivo	su|bu|lir|[ros]|tro
+subumbilical	adjetivo	su|bum|bi|li|[cal]
+subungueal	adjetivo	su|bun|gue|[al]
+subunguiculado	adjetivo	su|bun|gui|cu|[la]|do
+subungulado	adjetivo	su|bun|gu|[la]|do
+subunidade	nome feminino	su|bu|ni|[da]|de
+suburano	adjetivo	su|bu|[ra]|no
+suburbana	nome feminino	su|bur|[ba]|na
+suburbanização	nome feminino	su|bur|ba|ni|za|[ção]
+suburbanizado	adjetivo	su|bur|ba|ni|[za]|do
+suburbanizador	adjetivo	su|bur|ba|ni|za|[dor]
+suburbanizador	nome masculino	su|bur|ba|ni|za|[dor]
+suburbanizante	adjetivo	su|bur|ba|ni|[zan]|te
+suburbanizar	verbo	su|bur|ba|ni|[zar]
+suburbanizável	adjetivo	su|bur|ba|ni|[zá]|vel
+suburbano	adjetivo	su|bur|[ba]|no
+suburbano	nome masculino	su|bur|[ba]|no
+suburbicário	adjetivo	su|bur|bi|[cá]|ri|o
+subúrbio	nome masculino	su|[búr]|bi|o
+suburitano	adjetivo	su|bu|ri|[ta]|no
+suburitano	nome masculino	su|bu|ri|[ta]|no
+subutilização	nome feminino	su|bu|ti|li|za|[ção]
+subutilizar	verbo	su|bu|ti|li|[zar]
+subutraquista	adjetivo	su|bu|tra|[quis]|ta
+subutraquista	nome masculino	su|bu|tra|[quis]|ta
+subutraquista	nome feminino	su|bu|tra|[quis]|ta
+subvalorização	nome feminino	sub|va|lo|ri|za|[ção]
+subvalorizado	adjetivo	sub|va|lo|ri|[za]|do
+subvalorizar	verbo	sub|va|lo|ri|[zar]
+subvassalagem	nome feminino	sub|vas|sa|[la]|gem
+subvassalo	nome masculino	sub|vas|[sa]|lo
+subvenção	nome feminino	sub|ven|[ção]
+subvencionado	adjetivo	sub|ven|ci|o|[na]|do
+subvencionador	adjetivo	sub|ven|ci|o|na|[dor]
+subvencionador	nome masculino	sub|ven|ci|o|na|[dor]

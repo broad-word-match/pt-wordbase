@@ -1,0 +1,100 @@
+amortizar	verbo	a|mor|ti|[zar]
+amortizável	adjetivo	a|mor|ti|[zá]|vel
+amoruda	nome feminino	a|mo|[ru]|da
+amorudo	adjetivo	a|mo|[ru]|do
+amorudo	nome masculino	a|mo|[ru]|do
+amorujar	verbo	a|mo|ru|[jar]
+amorzeiro	adjetivo	a|mor|[zei]|ro
+amossadela	nome feminino	a|mos|sa|[de]|la
+amossar	verbo	a|mos|[sar]
+amossegar	verbo	a|mos|se|[gar]
+amostado	adjetivo	a|mos|[ta]|do
+amostardado	adjetivo	a|mos|tar|[da]|do
+amostardar	verbo	a|mos|tar|[dar]
+amostra	nome feminino	a|[mos]|tra
+amostração	nome feminino	a|mos|tra|[ção]
+amostradiço	adjetivo	a|mos|tra|[di]|ço
+amostragem	nome feminino	a|mos|[tra]|gem
+amostrar	verbo	a|mos|[trar]
+amostrinha	nome feminino	a|mos|[tri]|nha
+amota	nome feminino	a|[mo]|ta
+amotar	verbo	a|mo|[tar]
+amotinação	nome feminino	a|mo|ti|na|[ção]
+amotinado	nome masculino	a|mo|ti|[na]|do
+amotinado	adjetivo	a|mo|ti|[na]|do
+amotinador	adjetivo	a|mo|ti|na|[dor]
+amotinador	nome masculino	a|mo|ti|na|[dor]
+amotinadora	nome feminino	a|mo|ti|na|[do]|ra
+amotinar	verbo	a|mo|ti|[nar]
+amotinável	adjetivo	a|mo|ti|[ná]|vel
+amotolia	nome feminino	a|mo|to|[li]|a
+amoucado	adjetivo	a|mou|[ca]|do
+amoucar	verbo	a|mou|[car]
+amouco	nome masculino	a|[mou]|co
+amourar	verbo	a|mou|[rar]
+amouriscado	adjetivo	a|mou|ris|[ca]|do
+amouriscar	verbo	a|mou|ris|[car]
+amouroar	verbo	a|mou|ro|[ar]
+amoutar	verbo	a|mou|[tar]
+amouxar	verbo	a|mou|[xar]
+amover	verbo	a|mo|[ver]
+amovíbil	adjetivo	a|mo|[ví]|bil
+amovibilidade	nome feminino	a|mo|vi|bi|li|[da]|de
+amovível	adjetivo	a|mo|[ví]|vel
+amoxamar	verbo	a|mo|xa|[mar]
+amoxia	nome feminino	a|mo|[xi]|a
+amparador	adjetivo	am|pa|ra|[dor]
+amparador	nome masculino	am|pa|ra|[dor]
+amparamento	nome masculino	am|pa|ra|[men]|to
+amparar	verbo	am|pa|[rar]
+amparável	adjetivo	am|pa|[rá]|vel
+amparo	nome masculino	am|[pa]|ro
+ampélida	nome masculino	am|[pé]|li|da
+ampelidácea	nome feminino	am|pe|li|[dá]|ce|a
+ampelídea	nome feminino	am|pe|[lí]|de|a
+ampelídeo	nome masculino	am|pe|[lí]|de|o
+ampelídeo	adjetivo	am|pe|[lí]|de|o
+ampelina	nome feminino	am|pe|[li]|na
+ampelite	nome feminino	am|pe|[li]|te
+ampelito	nome masculino	am|pe|[li]|to
+ampelofagia	nome feminino	am|pe|lo|fa|[gi]|a
+ampelófago	adjetivo	am|pe|[ló]|fa|go
+ampelógrafa	nome feminino	am|pe|[ló]|gra|fa
+ampelografia	nome feminino	am|pe|lo|gra|[fi]|a
+ampelográfico	adjetivo	am|pe|lo|[grá]|fi|co
+ampelógrafo	nome masculino	am|pe|[ló]|gra|fo
+ampelologia	nome feminino	am|pe|lo|lo|[gi]|a
+ampelológico	adjetivo	am|pe|lo|[ló]|gi|co
+ampelólogo	nome masculino	am|pe|[ló]|lo|go
+ampeloterapia	nome feminino	am|pe|lo|te|ra|[pi]|a
+ampeloterápico	adjetivo	am|pe|lo|te|[rá]|pi|co
+amperagem	nome feminino	am|pe|[ra]|gem
+ampere	nome masculino	am|[pe]|re
+ampere-espira	nome masculino	am|pe|re-es|[pi]|ra
+ampere-hora	nome masculino	am|pe|re-ho|ra
+amperímetro	nome masculino	am|pe|[rí]|me|tro
+ampério	nome masculino	am|[pé]|ri|o
+ampério-hora	nome masculino	am|pé|ri|o-ho|ra
+amperómetro	nome masculino	am|pe|[ró]|me|tro
+amperômetro	nome masculino	am|pe|[rô]|me|tro
+amplamente	advérbio	am|pla|[men]|te
+amplectivo	adjetivo	am|plec|[ti]|vo
+ampletivo	adjetivo	am|ple|[ti]|vo
+amplexicaude	adjetivo	am|ple|xi|[cau]|de
+amplexicaule	adjetivo	am|ple|xi|[cau]|le
+amplexifloro	adjetivo	am|ple|xi|[flo]|ro
+amplexifólio	adjetivo	am|ple|xi|[fó]|li|o
+amplexivo	adjetivo	am|ple|[xi]|vo
+amplexo	nome masculino	am|[ple]|xo
+ampliação	nome feminino	am|pli|a|[ção]
+ampliado	adjetivo	am|pli|[a]|do
+ampliador	adjetivo	am|pli|a|[dor]
+ampliador	nome masculino	am|pli|a|[dor]
+ampliadora	nome feminino	am|pli|a|[do]|ra
+ampliamento	nome masculino	am|pli|a|[men]|to
+ampliar	verbo	am|pli|[ar]
+ampliatifloro	adjetivo	am|pli|a|ti|[flo]|ro
+ampliatifólio	adjetivo	am|pli|a|ti|[fó]|li|o
+ampliatiforme	adjetivo	am|pli|a|ti|[for]|me
+ampliativo	adjetivo	am|pli|a|[ti]|vo
+ampliatório	adjetivo	am|pli|a|[tó]|ri|o

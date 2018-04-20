@@ -1,0 +1,100 @@
+embaciável	adjetivo	em|ba|ci|[á]|vel
+embagar	verbo	em|ba|[gar]
+embaidor	adjetivo	em|bai|[dor]
+embaidor	nome masculino	em|bai|[dor]
+embaimento	nome masculino	em|bai|[men]|to
+embainhar	verbo	em|ba|i|[nhar]
+embair	verbo	em|ba|[ir]
+embaixada	nome feminino	em|bai|[xa]|da
+embaixador	nome masculino	em|bai|xa|[dor]
+embaixadora	nome feminino	em|bai|xa|[do]|ra
+embaixatriz	nome feminino	em|bai|xa|[triz]
+embala	nome feminino	em|[ba]|la
+embaladeira	nome feminino	em|ba|la|[dei]|ra
+embaladeiras	nome feminino	em|ba|la|[dei]|ras
+embalado	adjetivo	em|ba|[la]|do
+embalador	adjetivo	em|ba|la|[dor]
+embalador	nome masculino	em|ba|la|[dor]
+embaladora	nome feminino	em|ba|la|[do]|ra
+embalagem	nome feminino	em|ba|[la]|gem
+embalançar	verbo	em|ba|lan|[çar]
+embalanço	nome masculino	em|ba|[lan]|ço
+embalançoso	adjetivo	em|ba|lan|[ço]|so
+embalar	verbo	em|ba|[lar]
+embalçar	verbo	em|bal|[çar]
+embalde	advérbio	em|[bal]|de
+embalete	nome masculino	em|ba|[le]|te
+embalhestado	adjetivo	em|ba|lhes|[ta]|do
+embalo	nome masculino	em|[ba]|lo
+embalo	adjetivo	em|[ba]|lo
+embalouçar	verbo	em|ba|lou|[çar]
+embalsamação	nome feminino	em|bal|sa|ma|[ção]
+embalsamado	adjetivo	em|bal|sa|[ma]|do
+embalsamador	adjetivo	em|bal|sa|ma|[dor]
+embalsamador	nome masculino	em|bal|sa|ma|[dor]
+embalsamadora	nome feminino	em|bal|sa|ma|[do]|ra
+embalsamamento	nome masculino	em|bal|sa|ma|[men]|to
+embalsamante	adjetivo	em|bal|sa|[man]|te
+embalsamar	verbo	em|bal|sa|[mar]
+embalsamento	nome masculino	em|bal|sa|[men]|to
+embalsar	verbo	em|bal|[sar]
+embanar	verbo	em|ba|[nar]
+embandar	verbo	em|ban|[dar]
+embandeiramento	nome masculino	em|ban|dei|ra|[men]|to
+embandeirar	verbo	em|ban|dei|[rar]
+embaraçadamente	advérbio	em|ba|ra|ça|da|[men]|te
+embaraçado	adjetivo	em|ba|ra|[ça]|do
+embaraçador	adjetivo	em|ba|ra|ça|[dor]
+embaraçador	nome masculino	em|ba|ra|ça|[dor]
+embaraçadora	nome feminino	em|ba|ra|ça|[do]|ra
+embaraçamento	nome masculino	em|ba|ra|ça|[men]|to
+embaraçante	adjetivo	em|ba|ra|[çan]|te
+embaraçar	verbo	em|ba|ra|[çar]
+embaraçável	adjetivo	em|ba|ra|[çá]|vel
+embaracilho	nome masculino	em|ba|ra|[ci]|lho
+embaraço	nome masculino	em|ba|[ra]|ço
+embaraçosamente	advérbio	em|ba|ra|ço|sa|[men]|te
+embaraçoso	adjetivo	em|ba|ra|[ço]|so
+embarafustar	verbo	em|ba|ra|fus|[tar]
+embaralhação	nome feminino	em|ba|ra|lha|[ção]
+embaralhamento	nome masculino	em|ba|ra|lha|[men]|to
+embaralhar	verbo	em|ba|ra|[lhar]
+embaratecer	verbo	em|ba|ra|te|[cer]
+embaratecimento	nome masculino	em|ba|ra|te|ci|[men]|to
+embarbar	verbo	em|bar|[bar]
+embarbascamento	nome masculino	em|bar|bas|ca|[men]|to
+embarbascar	verbo	em|bar|bas|[car]
+embarbecer	verbo	em|bar|be|[cer]
+embarbelar	verbo	em|bar|be|[lar]
+embarbilhado	adjetivo	em|bar|bi|[lha]|do
+embarbilhar	verbo	em|bar|bi|[lhar]
+embarcação	nome feminino	em|bar|ca|[ção]
+embarcadiço	adjetivo	em|bar|ca|[di]|ço
+embarcadiço	nome masculino	em|bar|ca|[di]|ço
+embarcado	adjetivo	em|bar|[ca]|do
+embarcadoiro	nome masculino	em|bar|ca|[doi]|ro
+embarcadouro	nome masculino	em|bar|ca|[dou]|ro
+embarcamento	nome masculino	em|bar|ca|[men]|to
+embarcar	verbo	em|bar|[car]
+embarcável	adjetivo	em|bar|[cá]|vel
+embardar	verbo	em|bar|[dar]
+embargada	nome feminino	em|bar|[ga]|da
+embargado	adjetivo	em|bar|[ga]|do
+embargado	nome masculino	em|bar|[ga]|do
+embargador	adjetivo	em|bar|ga|[dor]
+embargador	nome masculino	em|bar|ga|[dor]
+embargadora	nome feminino	em|bar|ga|[do]|ra
+embargamento	nome masculino	em|bar|ga|[men]|to
+embargante	adjetivo	em|bar|[gan]|te
+embargante	nome masculino	em|bar|[gan]|te
+embargante	nome feminino	em|bar|[gan]|te
+embargar	verbo	em|bar|[gar]
+embargável	adjetivo	em|bar|[gá]|vel
+embargo	nome masculino	em|[bar]|go
+embarque	nome masculino	em|[bar]|que
+embarração	nome feminino	em|bar|ra|[ção]
+embarracar	verbo	em|bar|ra|[car]
+embarrado	nome masculino	em|bar|[ra]|do
+embarrador	adjetivo	em|bar|ra|[dor]
+embarrador	nome masculino	em|bar|ra|[dor]
+embarramento	nome masculino	em|bar|ra|[men]|to

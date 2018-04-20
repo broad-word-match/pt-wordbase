@@ -1,0 +1,100 @@
+roupudo	nome masculino	rou|[pu]|do
+rouqueira	nome feminino	rou|[quei]|ra
+rouquejante	adjetivo	rou|que|[jan]|te
+rouquejar	verbo	rou|que|[jar]
+rouquenho	adjetivo	rou|[que]|nho
+rouquento	adjetivo	rou|[quen]|to
+rouquice	nome feminino	rou|[qui]|ce
+rouquidão	nome feminino	rou|qui|[dão]
+rouquido	nome masculino	rou|[qui]|do
+roussar	verbo	rous|[sar]
+roussinol	nome masculino	rous|si|[nol]
+roussinolear	verbo	rous|si|no|le|[ar]
+rousso	nome masculino	[rous]|so
+router	nome masculino	[rou]|ter
+rouxinol	nome masculino	rou|xi|[nol]
+rouxinol-do-mato	nome masculino	rou|xi|nol-do-ma|to
+rouxinol-dos-pântanos	nome masculino	rou|xi|nol-dos-pân|ta|nos
+rouxinol-dos-pauis	nome masculino	rou|xi|nol-dos-pau|[is]
+rouxinol-pequeno-das-caniças	nome masculino	rou|xi|nol-pe|que|no-das-ca|[ni]|ças
+rouxinolear	verbo	rou|xi|no|le|[ar]
+roxa	nome feminino	[ro]|xa
+roxbúrghia	nome feminino	rox|[búrg]|hi|a
+roxburghiácea	nome feminino	rox|burg|hi|[á]|ce|a
+roxear	verbo	ro|xe|[ar]
+roxeta	nome feminino	ro|[xe]|ta
+roxidão	nome feminino	ro|xi|[dão]
+roxinho	nome masculino	ro|[xi]|nho
+roxo	nome masculino	[ro]|xo
+roxo	adjetivo	[ro]|xo
+roxo-claro	nome masculino	ro|xo-cla|ro
+roxo-claro	adjetivo	ro|xo-cla|ro
+roxo-escuro	nome masculino	ro|xo-es|[cu]|ro
+roxo-escuro	adjetivo	ro|xo-es|[cu]|ro
+roxo-rei	nome masculino	ro|xo-rei
+roxo-terra	nome masculino	ro|xo-ter|ra
+roxolano	adjetivo	ro|xo|[la]|no
+roxolano	nome masculino	ro|xo|[la]|no
+roxura	nome feminino	ro|[xu]|ra
+rozeimo	nome masculino	ro|[zei]|mo
+rua	nome feminino	[ru]|a
+rua	interjeição	[ru]|a
+ruandês	nome masculino	ru|an|[dês]
+ruandês	adjetivo	ru|an|[dês]
+ruandesa	nome feminino	ru|an|[de]|sa
+ruano	adjetivo	ru|[a]|no
+ruano	nome masculino	ru|[a]|no
+ruante	adjetivo	ru|[an]|te
+ruão	nome masculino	ru|[ão]
+ruão	adjetivo	ru|[ão]
+rubago	nome masculino	ru|[ba]|go
+rubato	adjetivo	ru|[ba]|to
+rubato	nome masculino	ru|[ba]|to
+rubefação	nome feminino	ru|be|fa|[ção]
+rubefaciente	adjetivo	ru|be|fa|ci|[en]|te
+rubefaciente	nome masculino	ru|be|fa|ci|[en]|te
+rubejante	adjetivo	ru|be|[jan]|te
+rubejar	verbo	ru|be|[jar]
+rubelana	nome feminino	ru|be|[la]|na
+rubelita	nome feminino	ru|be|[li]|ta
+rubelite	nome feminino	ru|be|[li]|te
+rubente	adjetivo	ru|[ben]|te
+rúbeo	adjetivo	[rú]|be|o
+rubéola	nome feminino	ru|[bé]|o|la
+rubescência	nome feminino	ru|bes|[cên]|ci|a
+rubescente	adjetivo	ru|bes|[cen]|te
+rubescer	verbo	ru|bes|[cer]
+rubeta	nome feminino	ru|[be]|ta
+rubi	nome masculino	ru|[bi]
+rubi-topázio	nome masculino	[ru]
+rubiácea	nome feminino	ru|bi|[á]|ce|a
+rubiáceo	adjetivo	ru|bi|[á]|ce|o
+rubiânico	adjetivo	ru|bi|[â]|ni|co
+rubianina	nome feminino	ru|bi|a|[ni]|na
+rubião	nome masculino	ru|bi|[ão]
+rubicano	adjetivo	ru|bi|[ca]|no
+rubicão	nome masculino	ru|bi|[cão]
+rubicundo	adjetivo	ru|bi|[cun]|do
+rubidez	nome feminino	ru|bi|[dez]
+rubídio	nome masculino	ru|[bí]|di|o
+rúbido	adjetivo	[rú]|bi|do
+rubieva	nome feminino	ru|bi|[e]|va
+rubificação	nome feminino	ru|bi|fi|ca|[ção]
+rubificante	adjetivo	ru|bi|fi|[can]|te
+rubificar	verbo	ru|bi|fi|[car]
+rubiforme	adjetivo	ru|bi|[for]|me
+rubigal	adjetivo	ru|bi|[gal]
+rubigem	nome feminino	ru|[bi]|gem
+rubiginoso	adjetivo	ru|bi|gi|[no]|so
+rubim	nome masculino	ru|[bim]
+rubina	nome feminino	ru|[bi]|na
+rubinéctar	nome masculino	ru|bi|[néc]|tar
+rubirretina	nome feminino	ru|bir|re|[ti]|na
+rubirrostro	adjetivo	ru|bir|[ros]|tro
+rublo	nome masculino	[ru]|blo
+rubo	nome masculino	[ru]|bo
+rubor	nome masculino	ru|[bor]
+ruborescer	verbo	ru|bo|res|[cer]
+ruborização	nome feminino	ru|bo|ri|za|[ção]
+ruborizador	adjetivo	ru|bo|ri|za|[dor]
+ruborizar	verbo	ru|bo|ri|[zar]

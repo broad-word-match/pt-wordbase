@@ -1,0 +1,100 @@
+besoural	adjetivo	be|sou|[ral]
+besourar	verbo	be|sou|[rar]
+besouro	nome masculino	be|[sou]|ro
+bespa	nome feminino	[bes]|pa
+bessana	nome feminino	bes|[sa]|na
+bessangana	nome feminino	bes|san|[ga]|na
+bessarábio	adjetivo	bes|sa|[rá]|bi|o
+bessarábio	nome masculino	bes|sa|[rá]|bi|o
+besso	adjetivo	[bes]|so
+besso	nome masculino	[bes]|so
+best-seller	nome masculino	best-sel|ler
+besta	nome feminino	[bes]|ta
+besta	adjetivo	[bes]|ta
+besta-fera	nome feminino	bes|ta-fe|ra
+bestagem	nome feminino	bes|[ta]|gem
+bestalhão	nome masculino	bes|ta|[lhão]
+bestalho	nome masculino	bes|[ta]|lho
+bestalhona	nome feminino	bes|ta|[lho]|na
+bestar	verbo	bes|[tar]
+bestaria	nome feminino	bes|ta|[ri]|a
+bestearia	nome feminino	bes|te|a|[ri]|a
+besteira	nome feminino	bes|[tei]|ra
+besteiro	nome masculino	bes|[tei]|ro
+béstia	nome feminino	[bés]|ti|a
+bestiaga	nome feminino	bes|ti|[a]|ga
+bestiagem	nome feminino	bes|ti|[a]|gem
+bestial	adjetivo	bes|ti|[al]
+bestialidade	nome feminino	bes|ti|a|li|[da]|de
+bestialização	nome feminino	bes|ti|a|li|za|[ção]
+bestializado	adjetivo	bes|ti|a|li|[za]|do
+bestializador	adjetivo	bes|ti|a|li|za|[dor]
+bestializador	nome masculino	bes|ti|a|li|za|[dor]
+bestializar	verbo	bes|ti|a|li|[zar]
+bestialmente	advérbio	bes|ti|al|[men]|te
+bestiame	nome masculino	bes|ti|[a]|me
+bestiário	nome masculino	bes|ti|[á]|ri|o
+bestice	nome feminino	bes|[ti]|ce
+bestidade	nome feminino	bes|ti|[da]|de
+bestificação	nome feminino	bes|ti|fi|ca|[ção]
+bestificado	adjetivo	bes|ti|fi|[ca]|do
+bestificador	adjetivo	bes|ti|fi|ca|[dor]
+bestificador	nome masculino	bes|ti|fi|ca|[dor]
+bestificante	adjetivo	bes|ti|fi|[can]|te
+bestificar	verbo	bes|ti|fi|[car]
+bestilha	nome feminino	bes|[ti]|lha
+bestiola	nome feminino	bes|ti|[o]|la
+bestiologia	nome feminino	bes|ti|o|lo|[gi]|a
+bestiológico	adjetivo	bes|ti|o|[ló]|gi|co
+bestuntar	verbo	bes|tun|[tar]
+bestuntaria	nome feminino	bes|tun|ta|[ri]|a
+bestunto	nome masculino	bes|[tun]|to
+besugo	nome masculino	be|[su]|go
+besuntadela	nome feminino	be|sun|ta|[de]|la
+besuntão	nome masculino	be|sun|[tão]
+besuntar	verbo	be|sun|[tar]
+besunto	nome masculino	be|[sun]|to
+besuntona	nome feminino	be|sun|[to]|na
+beta	nome feminino	[be]|ta
+beta	nome masculino	[be]|ta
+beta-tester	nome masculino	be|ta-tes|[ter]
+betabloqueador	adjetivo	be|ta|blo|que|a|[dor]
+betabloqueador	nome masculino	be|ta|blo|que|a|[dor]
+betacaroteno	nome masculino	be|ta|ca|ro|[te]|no
+betacismo	nome masculino	be|ta|[cis]|mo
+betado	adjetivo	be|[ta]|do
+betaemissor	adjetivo	be|ta|e|mis|[sor]
+betaemissor	nome masculino	be|ta|e|mis|[sor]
+betaína	nome feminino	be|ta|[í]|na
+betão	nome masculino	be|[tão]
+betar	verbo	be|[tar]
+betarda	nome feminino	be|[tar]|da
+betarda-pequena	nome feminino	be|tar|da-pe|[que]|na
+betásio	adjetivo	be|[tá]|si|o
+betásio	nome masculino	be|[tá]|si|o
+betatrão	nome masculino	be|ta|[trão]
+bete	nome masculino	[be]|te
+betecar	verbo	be|te|[car]
+bétel	nome masculino	[bé]|tel
+bétele	nome masculino	[bé]|te|le
+beterraba	nome feminino	be|ter|[ra]|ba
+beterrabal	nome masculino	be|ter|ra|[bal]
+beterrabeiro	nome masculino	be|ter|ra|[bei]|ro
+beterrense	adjetivo	be|ter|[ren]|se
+beterrense	nome masculino	be|ter|[ren]|se
+beterrense	nome feminino	be|ter|[ren]|se
+betesga	nome feminino	be|[tes]|ga
+bética	nome feminino	[bé]|ti|ca
+bético	adjetivo	[bé]|ti|co
+bético	nome masculino	[bé]|ti|co
+betilho	nome masculino	be|[ti]|lho
+bétilo	nome masculino	[bé]|ti|lo
+betinho	nome masculino	be|[ti]|nho
+betinho	adjetivo	be|[ti]|nho
+betle	nome masculino	[be]|tle
+betlemita	nome masculino	be|tle|[mi]|ta
+betlemita	adjetivo	be|tle|[mi]|ta
+betlemita	nome feminino	be|tle|[mi]|ta
+betlemítico	adjetivo	be|tle|[mí]|ti|co
+beto	nome masculino	[be]|to
+beto	adjetivo	[be]|to

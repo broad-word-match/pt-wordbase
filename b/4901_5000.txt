@@ -1,0 +1,100 @@
+blasfêmia	nome feminino	blas|[fê]|mi|a
+blasfemo	nome masculino	blas|[fe]|mo
+blasfemo	adjetivo	blas|[fe]|mo
+blasonador	adjetivo	bla|so|na|[dor]
+blasonador	nome masculino	bla|so|na|[dor]
+blasonadora	nome feminino	bla|so|na|[do]|ra
+blasonar	verbo	bla|so|[nar]
+blasonaria	nome feminino	bla|so|na|[ri]|a
+blasonear	verbo	bla|so|ne|[ar]
+blasônico	adjetivo	bla|[sô]|ni|co
+blasónico	adjetivo	bla|[só]|ni|co
+blastema	nome masculino	blas|[te]|ma
+blastemático	adjetivo	blas|te|[má]|ti|co
+blasto	nome masculino	[blas]|to
+blastocardia	nome feminino	blas|to|car|[di]|a
+blastocárdico	adjetivo	blas|to|[cár]|di|co
+blastocarpo	adjetivo	blas|to|[car]|po
+blastocele	nome masculino	blas|to|[ce]|le
+blastocele	nome feminino	blas|to|[ce]|le
+blastocélio	nome masculino	blas|to|[cé]|li|o
+blastocisto	nome masculino	blas|to|[cis]|to
+blastoderma	nome masculino	blas|to|[der]|ma
+blastoderme	nome feminino	blas|to|[der]|me
+blastodérmico	adjetivo	blas|to|[dér]|mi|co
+blastóforo	nome masculino	blas|[tó]|fo|ro
+blastoftoria	nome feminino	blas|tof|to|[ri]|a
+blastogênese	nome feminino	blas|to|[gê]|ne|se
+blastogénese	nome feminino	blas|to|[gé]|ne|se
+blastoides	nome masculino	blas|[toi]|des
+blastomérico	adjetivo	blas|to|[mé]|ri|co
+blastómero	nome masculino	blas|[tó]|me|ro
+blastômero	nome masculino	blas|[tô]|me|ro
+blastomicete	nome masculino	blas|to|mi|[ce]|te
+blastomicético	adjetivo	blas|to|mi|[cé]|ti|co
+blastomiceto	nome masculino	blas|to|mi|[ce]|to
+blastomicose	nome feminino	blas|to|mi|[co]|se
+blastomicótico	adjetivo	blas|to|mi|[có]|ti|co
+blastóporo	nome masculino	blas|[tó]|po|ro
+blástula	nome feminino	[blás]|tu|la
+blatária	nome feminino	bla|[tá]|ri|a
+blateração	nome feminino	bla|te|ra|[ção]
+blaterar	verbo	bla|te|[rar]
+blátida	nome masculino	[blá]|ti|da
+blátida	adjetivo	[blá]|ti|da
+blatídeo	nome masculino	bla|[tí]|de|o
+blatídeo	nome masculino	bla|[tí]|de|o
+blatídeo	adjetivo	bla|[tí]|de|o
+blau	adjetivo	[blau]
+blau	nome masculino	[blau]
+blaudénio	nome masculino	blau|[dé]|ni|o
+blaudénio	adjetivo	blau|[dé]|ni|o
+blazer	nome masculino	[bla]|zer
+blecaute	nome masculino	ble|[cau]|te
+blefar	verbo	ble|[far]
+blefaradenite	nome feminino	ble|fa|ra|de|[ni]|te
+blefárico	adjetivo	ble|[fá]|ri|co
+blefarite	nome feminino	ble|fa|[ri]|te
+blefarofimose	nome feminino	ble|fa|ro|fi|[mo]|se
+blefaroncose	nome feminino	ble|fa|ron|[co]|se
+blefaroplasta	nome masculino	ble|fa|ro|[plas]|ta
+blefaroplastia	nome feminino	ble|fa|ro|plas|[ti]|a
+blefaroplástico	adjetivo	ble|fa|ro|[plás]|ti|co
+blefaroplasto	nome masculino	ble|fa|ro|[plas]|to
+blefaroplegia	nome feminino	ble|fa|ro|ple|[gi]|a
+blefaroplégico	adjetivo	ble|fa|ro|[plé]|gi|co
+blefaroptose	nome feminino	ble|fa|rop|[to]|se
+blefarorrafia	nome feminino	ble|fa|ror|ra|[fi]|a
+blefarorráfico	adjetivo	ble|fa|ror|[rá]|fi|co
+blefarospasmo	nome masculino	ble|fa|ros|[pas]|mo
+blefarospasmódico	adjetivo	ble|fa|ros|pas|[mó]|di|co
+blefaróstato	nome masculino	ble|fa|[rós]|ta|to
+blefarostenose	nome feminino	ble|fa|ros|te|[no]|se
+blefaroxisto	nome masculino	ble|fa|ro|[xis]|to
+blefe	nome masculino	[ble]|fe
+blefista	adjetivo	ble|[fis]|ta
+blefista	nome masculino	ble|[fis]|ta
+blefista	nome feminino	ble|[fis]|ta
+bleima	nome feminino	[blei]|ma
+blêiser	nome masculino	[blêi]|ser
+blêizer	nome masculino	[blêi]|zer
+blematómetro	nome masculino	ble|ma|[tó]|me|tro
+blémie	adjetivo	[blé]|mi|e
+blémie	nome masculino	[blé]|mi|e
+blémie	nome feminino	[blé]|mi|e
+blêmie	adjetivo	[blê]|mi|e
+blêmie	nome masculino	[blê]|mi|e
+blêmie	nome feminino	[blê]|mi|e
+blemômetro	nome masculino	ble|[mô]|me|tro
+blemómetro	nome masculino	ble|[mó]|me|tro
+blenadenite	nome feminino	ble|na|de|[ni]|te
+blenda	nome feminino	[blen]|da
+bleníida	nome masculino	ble|[ní]|i|da
+bleniídeo	nome masculino	ble|ni|[í]|de|o
+bleniídeo	nome masculino	ble|ni|[í]|de|o
+bleniídeo	adjetivo	ble|ni|[í]|de|o
+blénio	nome masculino	[blé]|ni|o
+blênio	nome masculino	[blê]|ni|o
+blenocistite	nome feminino	ble|no|cis|[ti]|te
+blenorragia	nome feminino	ble|nor|ra|[gi]|a
+blenorrágico	adjetivo	ble|nor|[rá]|gi|co

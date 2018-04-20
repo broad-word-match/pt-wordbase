@@ -1,0 +1,100 @@
+caturrar	verbo	ca|tur|[rar]
+caturreira	nome feminino	ca|tur|[rei]|ra
+caturrenho	adjetivo	ca|tur|[re]|nho
+caturrice	nome feminino	ca|tur|[ri]|ce
+caturrismo	nome masculino	ca|tur|[ris]|mo
+caturro	nome feminino	ca|[tur]|ro
+catuzado	adjetivo	ca|tu|[za]|do
+cau	nome masculino	[cau]
+cauã	nome masculino	cau|[ã]
+cauã	nome feminino	cau|[ã]
+cauaba	nome feminino	cau|[a]|ba
+cauaçu	nome masculino	cau|a|[çu]
+cauauã	nome feminino	cau|au|[ã]
+caucaiense	adjetivo	cau|cai|[en]|se
+caucaiense	nome masculino	cau|cai|[en]|se
+caucaiense	nome feminino	cau|cai|[en]|se
+caucálide	nome feminino	cau|[cá]|li|de
+caucalídea	nome feminino	cau|ca|[lí]|de|a
+caução	nome feminino	cau|[ção]
+caucasiano	nome masculino	cau|ca|si|[a]|no
+caucasiano	adjetivo	cau|ca|si|[a]|no
+caucásico	adjetivo	cau|[cá]|si|co
+caucásio	adjetivo	cau|[cá]|si|o
+caucásio	nome masculino	cau|[cá]|si|o
+cauchal	nome masculino	cau|[chal]
+caucheiro	nome masculino	cau|[chei]|ro
+caucho	nome masculino	[cau]|cho
+cauchu	nome masculino	cau|[chu]
+cauchutar	verbo	cau|chu|[tar]
+caucionante	adjetivo	cau|ci|o|[nan]|te
+caucionante	nome masculino	cau|ci|o|[nan]|te
+caucionante	nome feminino	cau|ci|o|[nan]|te
+caucionar	verbo	cau|ci|o|[nar]
+caucionário	adjetivo	cau|ci|o|[ná]|ri|o
+caucionário	nome masculino	cau|ci|o|[ná]|ri|o
+caucionável	adjetivo	cau|ci|o|[ná]|vel
+cauco	adjetivo	[cau]|co
+cauco	nome masculino	[cau]|co
+cauda	nome feminino	[cau]|da
+caudado	adjetivo	cau|[da]|do
+caudal	adjetivo	cau|[dal]
+caudal	nome masculino	cau|[dal]
+caudalosamente	advérbio	cau|da|lo|sa|[men]|te
+caudalosidade	nome feminino	cau|da|lo|si|[da]|de
+caudaloso	adjetivo	cau|da|[lo]|so
+caudatária	nome feminino	cau|da|[tá]|ri|a
+caudatário	nome masculino	cau|da|[tá]|ri|o
+caudato	adjetivo	cau|[da]|to
+caudel	nome masculino	cau|[del]
+caudel-mor	nome masculino	cau|del-mor
+caudelaria	nome feminino	cau|de|la|[ri]|a
+cáudex	nome masculino	[cáu]|dex
+caudicária	nome feminino	cau|di|[cá]|ri|a
+caudicário	nome masculino	cau|di|[cá]|ri|o
+cáudice	nome masculino	[cáu]|di|ce
+caudiciforme	adjetivo	cau|di|ci|[for]|me
+caudículo	nome masculino	cau|[dí]|cu|lo
+caudífero	adjetivo	cau|[dí]|fe|ro
+caudilhamento	nome masculino	cau|di|lha|[men]|to
+caudilhar	verbo	cau|di|[lhar]
+caudilheiro	adjetivo	cau|di|[lhei]|ro
+caudilhesco	adjetivo	cau|di|[lhes]|co
+caudilhismo	nome masculino	cau|di|[lhis]|mo
+caudilho	nome masculino	cau|[di]|lho
+caudillo	nome masculino	cau|dil|lo
+caudímano	adjetivo	cau|[dí]|ma|no
+caudinas	nome feminino	cau|[di]|nas
+caudino	adjetivo	cau|[di]|no
+caudino	nome masculino	cau|[di]|no
+cauila	nome masculino	cau|[i]|la
+cauila	adjetivo	cau|[i]|la
+cauila	nome feminino	cau|[i]|la
+cauim	nome masculino	cau|[im]
+cauintau	nome masculino	cau|in|[tau]
+cauira	adjetivo	cau|[i]|ra
+cauira	nome masculino	cau|[i]|ra
+cauira	nome feminino	cau|[i]|ra
+cauixi	nome masculino	cau|i|[xi]
+caule	nome masculino	[cau]|le
+cauleoso	adjetivo	cau|le|[o]|so
+caulescência	nome feminino	cau|les|[cên]|ci|a
+caulescente	adjetivo	cau|les|[cen]|te
+caulícola	adjetivo	cau|[lí]|co|la
+caulículo	nome masculino	cau|[lí]|cu|lo
+caulífero	adjetivo	cau|[lí]|fe|ro
+caulificação	nome feminino	cau|li|fi|ca|[ção]
+caulificar	verbo	cau|li|fi|[car]
+caulifloro	adjetivo	cau|li|[flo]|ro
+cauliforme	adjetivo	cau|li|[for]|me
+caulim	nome masculino	cau|[lim]
+caulinar	adjetivo	cau|li|[nar]
+caulínia	nome feminino	cau|[lí]|ni|a
+caulinita	nome feminino	cau|li|[ni]|ta
+caulinita	nome masculino	cau|li|[ni]|ta
+caulinite	nome feminino	cau|li|[ni]|te
+caulinização	nome feminino	cau|li|ni|za|[ção]
+caulinizar	verbo	cau|li|ni|[zar]
+caulino	adjetivo	cau|[li]|no
+caulino	nome masculino	cau|[li]|no
+cauliodonte	nome masculino	cau|li|o|[don]|te

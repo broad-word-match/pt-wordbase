@@ -1,0 +1,100 @@
+helmintagogo	adjetivo	hel|min|ta|[go]|go
+helminte	nome masculino	hel|[min]|te
+helmíntia	nome feminino	hel|[mín]|ti|a
+helmintíase	nome feminino	hel|min|[tí]|a|se
+helminticida	adjetivo	hel|min|ti|[ci]|da
+helminticida	nome masculino	hel|min|ti|[ci]|da
+helmíntico	adjetivo	hel|[mín]|ti|co
+helminto	nome masculino	hel|[min]|to
+helmintoide	adjetivo	hel|min|[toi]|de
+helmintólito	nome masculino	hel|min|[tó]|li|to
+helmintologia	nome feminino	hel|min|to|lo|[gi]|a
+helmintológico	adjetivo	hel|min|to|[ló]|gi|co
+helmintologista	nome masculino	hel|min|to|lo|[gis]|ta
+helmintologista	nome feminino	hel|min|to|lo|[gis]|ta
+helmintólogo	nome masculino	hel|min|[tó]|lo|go
+helócero	adjetivo	he|[ló]|ce|ro
+helófito	nome masculino	he|[ló]|fi|to
+hélope	adjetivo	[hé]|lo|pe
+helope	nome masculino	he|[lo]|pe
+hélope	nome masculino	[hé]|lo|pe
+hélope	nome feminino	[hé]|lo|pe
+helopiano	nome masculino	he|lo|pi|[a]|no
+helopiteco	nome masculino	he|lo|pi|[te]|co
+helosciádio	nome masculino	he|los|ci|[á]|di|o
+helsimburguês	adjetivo	hel|sim|bur|[guês]
+helsimburguês	nome masculino	hel|sim|bur|[guês]
+helsinquiano	adjetivo	hel|sin|qui|[a]|no
+helsinquiano	nome masculino	hel|sin|qui|[a]|no
+helvécia	nome feminino	hel|[vé]|ci|a
+helveciano	adjetivo	hel|ve|ci|[a]|no
+helvécio	nome masculino	hel|[vé]|ci|o
+helvécio	adjetivo	hel|[vé]|ci|o
+helvética	nome feminino	hel|[vé]|ti|ca
+helvético	nome masculino	hel|[vé]|ti|co
+helvético	adjetivo	hel|[vé]|ti|co
+helvetismo	nome masculino	hel|ve|[tis]|mo
+helvidiano	adjetivo	hel|vi|di|[a]|no
+helvidiano	nome masculino	hel|vi|di|[a]|no
+hélvio	adjetivo	[hél]|vi|o
+hélvio	nome masculino	[hél]|vi|o
+hem	interjeição	[hem]
+hemácia	nome feminino	he|[má]|ci|a
+hemaglutinação	nome feminino	he|ma|glu|ti|na|[ção]
+hemagogo	adjetivo	he|ma|[go]|go
+hemagogo	nome masculino	he|ma|[go]|go
+hemal	adjetivo	he|[mal]
+hemalopia	nome feminino	he|ma|lo|[pi]|a
+hemalópico	adjetivo	he|ma|[ló]|pi|co
+hemangioma	nome masculino	he|man|gi|[o]|ma
+hemanto	nome masculino	he|[man]|to
+hemartrose	nome feminino	he|mar|[tro]|se
+hemateína	nome feminino	he|ma|te|[í]|na
+hematêmese	nome feminino	he|ma|[tê]|me|se
+hematémese	nome feminino	he|ma|[té]|me|se
+hematemético	adjetivo	he|ma|te|[mé]|ti|co
+hematia	nome feminino	he|ma|[ti]|a
+hemático	adjetivo	he|[má]|ti|co
+hematidrose	nome feminino	he|ma|ti|[dro]|se
+hematimetria	nome feminino	he|ma|ti|me|[tri]|a
+hematímetro	nome masculino	he|ma|[tí]|me|tro
+hematina	nome feminino	he|ma|[ti]|na
+hematita	nome feminino	he|ma|[ti]|ta
+hematite	nome feminino	he|ma|[ti]|te
+hematóbio	nome masculino	he|ma|[tó]|bi|o
+hematoblasto	nome masculino	he|ma|to|[blas]|to
+hematocarpo	nome masculino	he|ma|to|[car]|po
+hematocarpo	adjetivo	he|ma|to|[car]|po
+hematocele	nome feminino	he|ma|to|[ce]|le
+hematocolpo	nome masculino	he|ma|to|[col]|po
+hematócrito	nome masculino	he|ma|[tó]|cri|to
+hematofagia	nome feminino	he|ma|to|fa|[gi]|a
+hematófago	adjetivo	he|ma|[tó]|fa|go
+hematófago	nome masculino	he|ma|[tó]|fa|go
+hematofilia	nome feminino	he|ma|to|fi|[li]|a
+hematofilo	adjetivo	he|ma|to|[fi]|lo
+hematófilo	adjetivo	he|ma|[tó]|fi|lo
+hematófilo	nome masculino	he|ma|[tó]|fi|lo
+hematofobia	nome feminino	he|ma|to|fo|[bi]|a
+hematófobo	adjetivo	he|ma|[tó]|fo|bo
+hematófobo	nome masculino	he|ma|[tó]|fo|bo
+hematografia	nome feminino	he|ma|to|gra|[fi]|a
+hematográfico	adjetivo	he|ma|to|[grá]|fi|co
+hematógrafo	nome masculino	he|ma|[tó]|gra|fo
+hematoide	adjetivo	he|ma|[toi]|de
+hematólise	nome feminino	he|ma|[tó]|li|se
+hematolítico	adjetivo	he|ma|to|[lí]|ti|co
+hematóloga	nome feminino	he|ma|[tó]|lo|ga
+hematologia	nome feminino	he|ma|to|lo|[gi]|a
+hematológico	adjetivo	he|ma|to|[ló]|gi|co
+hematologista	nome masculino	he|ma|to|lo|[gis]|ta
+hematologista	nome feminino	he|ma|to|lo|[gis]|ta
+hematólogo	nome masculino	he|ma|[tó]|lo|go
+hematoma	nome masculino	he|ma|[to]|ma
+hematometria	nome feminino	he|ma|to|me|[tri]|a
+hematométrio	nome masculino	he|ma|to|[mé]|tri|o
+hematônfalo	nome masculino	he|ma|[tôn]|fa|lo
+hematópode	nome masculino	he|ma|[tó]|po|de
+hematopoese	nome feminino	he|ma|to|po|[e]|se
+hematopoético	adjetivo	he|ma|to|po|[é]|ti|co
+hematopoiese	nome feminino	he|ma|to|poi|[e]|se

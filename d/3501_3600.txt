@@ -1,0 +1,100 @@
+descante	nome masculino	des|[can]|te
+descantear	verbo	des|can|te|[ar]
+descapacitação	nome feminino	des|ca|pa|ci|ta|[ção]
+descapacitar	verbo	des|ca|pa|ci|[tar]
+descapelada	nome feminino	des|ca|pe|[la]|da
+descapelar	verbo	des|ca|pe|[lar]
+descapitalização	nome feminino	des|ca|pi|ta|li|za|[ção]
+descapitalizado	adjetivo	des|ca|pi|ta|li|[za]|do
+descapitalizar	verbo	des|ca|pi|ta|li|[zar]
+descapitalizável	adjetivo	des|ca|pi|ta|li|[zá]|vel
+descapotar	verbo	des|ca|po|[tar]
+descapotável	adjetivo	des|ca|po|[tá]|vel
+descapotável	nome masculino	des|ca|po|[tá]|vel
+descapsulação	nome feminino	des|cap|su|la|[ção]
+descapsular	verbo	des|cap|su|[lar]
+descaracterização	nome feminino	des|ca|rac|te|ri|za|[ção]
+descaracterizado	adjetivo	des|ca|rac|te|ri|[za]|do
+descaracterizar	verbo	des|ca|rac|te|ri|[zar]
+descarada	nome feminino	des|ca|[ra]|da
+descaradamente	advérbio	des|ca|ra|da|[men]|te
+descarado	adjetivo	des|ca|[ra]|do
+descarado	nome masculino	des|ca|[ra]|do
+descaramento	nome masculino	des|ca|ra|[men]|to
+descarapuçar	verbo	des|ca|ra|pu|[çar]
+descarar	verbo	des|ca|[rar]
+descaraterização	nome feminino	des|ca|ra|te|ri|za|[ção]
+descaraterizado	adjetivo	des|ca|ra|te|ri|[za]|do
+descaraterizar	verbo	des|ca|ra|te|ri|[zar]
+descarbonar	verbo	des|car|bo|[nar]
+descarbonatação	nome feminino	des|car|bo|na|ta|[ção]
+descarbonatar	verbo	des|car|bo|na|[tar]
+descarbonização	nome feminino	des|car|bo|ni|za|[ção]
+descarbonizar	verbo	des|car|bo|ni|[zar]
+descarboxilação	nome feminino	des|car|bo|xi|la|[ção]
+descarboxilar	verbo	des|car|bo|xi|[lar]
+descarboxílase	nome feminino	des|car|bo|[xí]|la|se
+descarda	nome feminino	des|[car]|da
+descarecer	verbo	des|ca|re|[cer]
+descarecido	adjetivo	des|ca|re|[ci]|do
+descarga	nome feminino	des|[car]|ga
+descargo	nome masculino	des|[car]|go
+descaridade	nome feminino	des|ca|ri|[da]|de
+descaridosamente	advérbio	des|ca|ri|do|sa|[men]|te
+descaridoso	adjetivo	des|ca|ri|[do]|so
+descarinho	nome masculino	des|ca|[ri]|nho
+descarinhosamente	advérbio	des|ca|ri|nho|sa|[men]|te
+descarinhoso	adjetivo	des|ca|ri|[nho]|so
+descaritativo	adjetivo	des|ca|ri|ta|[ti]|vo
+descarnado	adjetivo	des|car|[na]|do
+descarnador	nome masculino	des|car|na|[dor]
+descarnador	adjetivo	des|car|na|[dor]
+descarnadura	nome feminino	des|car|na|[du]|ra
+descarnagem	nome feminino	des|car|[na]|gem
+descarnamento	nome masculino	des|car|na|[men]|to
+descarnar	verbo	des|car|[nar]
+descaro	nome masculino	des|[ca]|ro
+descaroável	adjetivo	des|ca|ro|[á]|vel
+descaroçado	adjetivo	des|ca|ro|[ça]|do
+descaroçador	nome masculino	des|ca|ro|ça|[dor]
+descaroçador	adjetivo	des|ca|ro|ça|[dor]
+descaroçamento	nome masculino	des|ca|ro|ça|[men]|to
+descaroçar	verbo	des|ca|ro|[çar]
+descarolador	nome masculino	des|ca|ro|la|[dor]
+descarolador	adjetivo	des|ca|ro|la|[dor]
+descarolar	verbo	des|ca|ro|[lar]
+descarrascador	adjetivo	des|car|ras|ca|[dor]
+descarrascador	nome masculino	des|car|ras|ca|[dor]
+descarrascagem	nome feminino	des|car|ras|[ca]|gem
+descarrascar	verbo	des|car|ras|[car]
+descarrasque	nome masculino	des|car|[ras]|que
+descarrega	nome feminino	des|car|[re]|ga
+descarregadeira	nome feminino	des|car|re|ga|[dei]|ra
+descarregado	adjetivo	des|car|re|[ga]|do
+descarregadoiro	nome masculino	des|car|re|ga|[doi]|ro
+descarregador	nome masculino	des|car|re|ga|[dor]
+descarregador	adjetivo	des|car|re|ga|[dor]
+descarregadora	nome feminino	des|car|re|ga|[do]|ra
+descarregadouro	nome masculino	des|car|re|ga|[dou]|ro
+descarregamento	nome masculino	des|car|re|ga|[men]|to
+descarregar	verbo	des|car|re|[gar]
+descarrego	nome masculino	des|car|[re]|go
+descarreirar	verbo	des|car|rei|[rar]
+descarretar	verbo	des|car|re|[tar]
+descarreto	nome masculino	des|car|[re]|to
+descarrilamento	nome masculino	des|car|ri|la|[men]|to
+descarrilar	verbo	des|car|ri|[lar]
+descarrilhamento	nome masculino	des|car|ri|lha|[men]|to
+descarrilhar	verbo	des|car|ri|[lhar]
+descartar	verbo	des|car|[tar]
+descartável	adjetivo	des|car|[tá]|vel
+descarte	nome masculino	des|[car]|te
+descartelização	nome feminino	des|car|te|li|za|[ção]
+descartelizar	verbo	des|car|te|li|[zar]
+descasalar	verbo	des|ca|sa|[lar]
+descasamento	nome masculino	des|ca|sa|[men]|to
+descasar	verbo	des|ca|[sar]
+descasável	adjetivo	des|ca|[sá]|vel
+descasca	nome feminino	des|[cas]|ca
+descascação	nome feminino	des|cas|ca|[ção]
+descascadeira	nome feminino	des|cas|ca|[dei]|ra

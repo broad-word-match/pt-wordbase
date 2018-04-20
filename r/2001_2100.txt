@@ -1,0 +1,100 @@
+recandidatura	nome feminino	re|can|di|da|[tu]|ra
+recantação	nome feminino	re|can|ta|[ção]
+recantar	verbo	re|can|[tar]
+recanto	nome masculino	re|[can]|to
+reção	nome feminino	re|[ção]
+recapacitar	verbo	re|ca|pa|ci|[tar]
+recapeação	nome feminino	re|ca|pe|a|[ção]
+recapear	verbo	re|ca|pe|[ar]
+recapeável	adjetivo	re|ca|pe|[á]|vel
+recapitalizar	verbo	re|ca|pi|ta|li|[zar]
+recapitulação	nome feminino	re|ca|pi|tu|la|[ção]
+recapitulado	adjetivo	re|ca|pi|tu|[la]|do
+recapitulador	adjetivo	re|ca|pi|tu|la|[dor]
+recapitulador	nome masculino	re|ca|pi|tu|la|[dor]
+recapitulante	adjetivo	re|ca|pi|tu|[lan]|te
+recapitulante	nome masculino	re|ca|pi|tu|[lan]|te
+recapitulante	nome feminino	re|ca|pi|tu|[lan]|te
+recapitular	verbo	re|ca|pi|tu|[lar]
+recapitulativo	adjetivo	re|ca|pi|tu|la|[ti]|vo
+recapitulável	adjetivo	re|ca|pi|tu|[lá]|vel
+recaptura	nome feminino	re|cap|[tu]|ra
+recapturado	adjetivo	re|cap|tu|[ra]|do
+recapturador	adjetivo	re|cap|tu|ra|[dor]
+recapturador	nome masculino	re|cap|tu|ra|[dor]
+recapturar	verbo	re|cap|tu|[rar]
+recapturável	adjetivo	re|cap|tu|[rá]|vel
+recar	verbo	re|[car]
+recarbonatação	nome feminino	re|car|bo|na|ta|[ção]
+recarbonatar	verbo	re|car|bo|na|[tar]
+recarbonetação	nome feminino	re|car|bo|ne|ta|[ção]
+recarbonetar	verbo	re|car|bo|ne|[tar]
+recarbonização	nome feminino	re|car|bo|ni|za|[ção]
+recarbonizar	verbo	re|car|bo|ni|[zar]
+recardar	verbo	re|car|[dar]
+recarga	nome feminino	re|[car]|ga
+recargar	verbo	re|car|[gar]
+recarregado	adjetivo	re|car|re|[ga]|do
+recarregamento	nome masculino	re|car|re|ga|[men]|to
+recarregar	verbo	re|car|re|[gar]
+recarregável	adjetivo	re|car|re|[gá]|vel
+recartilha	nome feminino	re|car|[ti]|lha
+recartilhar	verbo	re|car|ti|[lhar]
+recasar	verbo	re|ca|[sar]
+recata	nome feminino	re|[ca]|ta
+recatada	nome feminino	re|ca|[ta]|da
+recatadamente	advérbio	re|ca|ta|da|[men]|te
+recatado	adjetivo	re|ca|[ta]|do
+recatado	nome masculino	re|ca|[ta]|do
+recatar	verbo	re|ca|[tar]
+recativar	verbo	re|ca|ti|[var]
+recativo	adjetivo	re|ca|[ti]|vo
+recativo	nome masculino	re|ca|[ti]|vo
+recato	nome masculino	re|[ca]|to
+recauchutado	adjetivo	re|cau|chu|[ta]|do
+recauchutagem	nome feminino	re|cau|chu|[ta]|gem
+recauchutar	verbo	re|cau|chu|[tar]
+recaucionar	verbo	re|cau|ci|o|[nar]
+recaucionável	adjetivo	re|cau|ci|o|[ná]|vel
+recavado	adjetivo	re|ca|[va]|do
+recavar	verbo	re|ca|[var]
+recavém	nome masculino	re|ca|[vém]
+recavo	adjetivo	re|[ca]|vo
+recção	nome feminino	rec|[ção]
+receado	adjetivo	re|ce|[a]|do
+recear	verbo	re|ce|[ar]
+receável	adjetivo	re|ce|[á]|vel
+recebedor	adjetivo	re|ce|be|[dor]
+recebedor	nome masculino	re|ce|be|[dor]
+recebedora	nome feminino	re|ce|be|[do]|ra
+recebedoria	nome feminino	re|ce|be|do|[ri]|a
+receber	verbo	re|ce|[ber]
+recebido	adjetivo	re|ce|[bi]|do
+recebimento	nome masculino	re|ce|bi|[men]|to
+recebível	adjetivo	re|ce|[bí]|vel
+receção	nome feminino	re|ce|[ção]
+rececionado	adjetivo	re|ce|ci|o|[na]|do
+rececionamento	nome masculino	re|ce|ci|o|na|[men]|to
+rececionante	adjetivo	re|ce|ci|o|[nan]|te
+rececionar	verbo	re|ce|ci|o|[nar]
+rececionável	adjetivo	re|ce|ci|o|[ná]|vel
+rececionista	adjetivo	re|ce|ci|o|[nis]|ta
+rececionista	nome feminino	re|ce|ci|o|[nis]|ta
+rececionista	nome masculino	re|ce|ci|o|[nis]|ta
+receio	nome masculino	re|[cei]|o
+receita	nome feminino	re|[cei]|ta
+receitado	adjetivo	re|cei|[ta]|do
+receitante	adjetivo	re|cei|[tan]|te
+receitante	nome masculino	re|cei|[tan]|te
+receitante	nome feminino	re|cei|[tan]|te
+receitar	verbo	re|cei|[tar]
+receitário	nome masculino	re|cei|[tá]|ri|o
+receitável	adjetivo	re|cei|[tá]|vel
+receituário	nome masculino	re|cei|tu|[á]|ri|o
+recém	advérbio	re|[cém]
+recém-admitido	adjetivo	re|cém-ad|mi|[ti]|do
+recém-adquirido	adjetivo	re|cém-ad|qui|[ri]|do
+recém-casada	nome feminino	re|cém-ca|[sa]|da
+recém-casado	adjetivo	re|cém-ca|[sa]|do
+recém-casado	nome masculino	re|cém-ca|[sa]|do
+recém-chegada	nome feminino	re|cém-che|[ga]|da

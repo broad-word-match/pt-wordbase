@@ -1,0 +1,100 @@
+sárdio	nome masculino	[sár]|di|o
+sardo	adjetivo	[sar]|do
+sardo	nome masculino	[sar]|do
+sardoalense	adjetivo	sar|do|a|[len]|se
+sardoalense	nome masculino	sar|do|a|[len]|se
+sardoalense	nome feminino	sar|do|a|[len]|se
+sardoeira	nome feminino	sar|do|[ei]|ra
+sardónia	nome feminino	sar|[dó]|ni|a
+sardônia	nome feminino	sar|[dô]|ni|a
+sardónica	nome feminino	sar|[dó]|ni|ca
+sardônica	nome feminino	sar|[dô]|ni|ca
+sardonicamente	advérbio	sar|do|ni|ca|[men]|te
+sardónico	adjetivo	sar|[dó]|ni|co
+sardônico	adjetivo	sar|[dô]|ni|co
+sardónio	adjetivo	sar|[dó]|ni|o
+sardónio	nome masculino	sar|[dó]|ni|o
+sardônio	adjetivo	sar|[dô]|ni|o
+sardônio	nome masculino	sar|[dô]|ni|o
+sardonisca	nome feminino	sar|do|[nis]|ca
+sardonismo	nome masculino	sar|do|[nis]|mo
+sardoso	adjetivo	sar|[do]|so
+sarense	adjetivo	sa|[ren]|se
+sarense	nome masculino	sa|[ren]|se
+sarense	nome feminino	sa|[ren]|se
+sarga	nome feminino	[sar]|ga
+sargaça	nome feminino	sar|[ga]|ça
+sargaçal	nome masculino	sar|ga|[çal]
+sargaceira	nome feminino	sar|ga|[cei]|ra
+sargaceiro	nome masculino	sar|ga|[cei]|ro
+sargacinha	nome feminino	sar|ga|[ci]|nha
+sargaço	nome masculino	sar|[ga]|ço
+sargenta	nome feminino	sar|[gen]|ta
+sargentaria-mor	nome feminino	sar|gen|ta|ri|a-mor
+sargente	nome masculino	sar|[gen]|te
+sargente	nome feminino	sar|[gen]|te
+sargenteante	adjetivo	sar|gen|te|[an]|te
+sargentear	verbo	sar|gen|te|[ar]
+sargento	nome masculino	sar|[gen]|to
+sargento-ajudante	nome masculino	sar|gen|to-a|ju|[dan]|te
+sargento-chefe	nome masculino	sar|gen|to-che|fe
+sargento-mor	nome masculino	sar|gen|to-mor
+sargentola	nome masculino	sar|gen|[to]|la
+sargo	nome masculino	[sar]|go
+sargo-bicudo	nome masculino	sar|go-bi|[cu]|do
+sargo-veado	nome masculino	sar|go-ve|[a]|do
+sargola	nome feminino	sar|[go]|la
+sargueta	nome feminino	sar|[gue]|ta
+sarguete	nome masculino	sar|[gue]|te
+sari	nome masculino	sa|[ri]
+sariana	nome feminino	sa|ri|[a]|na
+sariano	adjetivo	sa|ri|[a]|no
+sariano	nome masculino	sa|ri|[a]|no
+saribanda	nome feminino	sa|ri|[ban]|da
+sárico	adjetivo	[sá]|ri|co
+saricoté	nome masculino	sa|ri|co|[té]
+sariema	nome feminino	sa|ri|[e]|ma
+sariguê	nome masculino	sa|ri|[guê]
+sarigué	nome masculino	sa|ri|[gué]
+sarigueia	nome feminino	sa|ri|[guei]|a
+sarilhar	verbo	sa|ri|[lhar]
+sarilho	nome masculino	sa|[ri]|lho
+sarissa	nome feminino	sa|[ris]|sa
+sarissóforo	nome masculino	sa|ris|[só]|fo|ro
+sarja	nome feminino	[sar]|ja
+sarjação	nome feminino	sar|ja|[ção]
+sarjadeira	nome feminino	sar|ja|[dei]|ra
+sarjado	adjetivo	sar|[ja]|do
+sarjador	adjetivo	sar|ja|[dor]
+sarjador	nome masculino	sar|ja|[dor]
+sarjadura	nome feminino	sar|ja|[du]|ra
+sarjão	nome masculino	sar|[jão]
+sarjar	verbo	sar|[jar]
+sarjel	nome masculino	sar|[jel]
+sarjeta	nome feminino	sar|[je]|ta
+sarmaciano	adjetivo	sar|ma|ci|[a]|no
+sarmão	nome masculino	sar|[mão]
+sármata	adjetivo	[sár]|ma|ta
+sármata	nome masculino	[sár]|ma|ta
+sármata	nome feminino	[sár]|ma|ta
+sarmático	adjetivo	sar|[má]|ti|co
+sarmático	nome masculino	sar|[má]|ti|co
+sarmenho	nome masculino	sar|[me]|nho
+sarmentácea	nome feminino	sar|men|[tá]|ce|a
+sarmentáceo	adjetivo	sar|men|[tá]|ce|o
+sarmentício	adjetivo	sar|men|[tí]|ci|o
+sarmentífero	adjetivo	sar|men|[tí]|fe|ro
+sarmento	nome masculino	sar|[men]|to
+sarmentoso	adjetivo	sar|men|[to]|so
+sarna	nome feminino	[sar]|na
+sarna	nome masculino	[sar]|na
+sarnambi	nome masculino	sar|nam|[bi]
+sarnão	nome masculino	sar|[não]
+sarnar	verbo	sar|[nar]
+sarné	nome masculino	sar|[né]
+sarnento	adjetivo	sar|[nen]|to
+sarnento	nome masculino	sar|[nen]|to
+sarnícula	nome masculino	sar|[ní]|cu|la
+sarnir	verbo	sar|[nir]
+sarnoso	adjetivo	sar|[no]|so
+saro	nome masculino	[sa]|ro

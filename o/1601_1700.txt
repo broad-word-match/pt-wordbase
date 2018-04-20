@@ -1,0 +1,100 @@
+omani	nome feminino	o|ma|[ni]
+omaniano	adjetivo	o|ma|ni|[a]|no
+omaniano	nome masculino	o|ma|ni|[a]|no
+omarismo	nome masculino	o|ma|[ris]|mo
+omarista	adjetivo	o|ma|[ris]|ta
+omarista	nome masculino	o|ma|[ris]|ta
+omarista	nome feminino	o|ma|[ris]|ta
+omaso	nome masculino	o|[ma]|so
+omatídio	nome masculino	o|ma|[tí]|di|o
+omatolampo	nome masculino	o|ma|to|[lam]|po
+omatopleia	nome feminino	o|ma|to|[plei]|a
+ombanda	nome feminino	om|[ban]|da
+ombrear	verbo	om|bre|[ar]
+ombreira	nome feminino	om|[brei]|ra
+ombro	nome masculino	[om]|bro
+ombrofilia	nome feminino	om|bro|fi|[li]|a
+ombrófilo	adjetivo	om|[bró]|fi|lo
+ombrofobia	nome feminino	om|bro|fo|[bi]|a
+ombrófobo	adjetivo	om|[bró]|fo|bo
+ombrometria	nome feminino	om|bro|me|[tri]|a
+ombrométrico	adjetivo	om|bro|[mé]|tri|co
+ombrómetro	nome masculino	om|[bró]|me|tro
+ombrômetro	nome masculino	om|[brô]|me|tro
+ombudsman	nome masculino	om|buds|man
+ómega	nome masculino	[ó]|me|ga
+ômega	nome masculino	[ô]|me|ga
+omeleta	nome feminino	o|me|[le]|ta
+omelete	nome feminino	o|me|[le]|te
+omental	adjetivo	o|men|[tal]
+omento	nome masculino	o|[men]|to
+omertà	nome feminino	o|mer|tà
+omíada	adjetivo	o|[mí]|a|da
+omíada	nome masculino	o|[mí]|a|da
+omíada	nome feminino	o|[mí]|a|da
+ómicro	nome masculino	[ó]|mi|cro
+ómicron	nome masculino	[ó]|mi|cron
+ômicron	nome masculino	[ô]|mi|cron
+ominar	verbo	o|mi|[nar]
+ominosamente	advérbio	o|mi|no|sa|[men]|te
+ominoso	adjetivo	o|mi|[no]|so
+omiométrico	adjetivo	o|mi|o|[mé]|tri|co
+omiômetro	nome masculino	o|mi|[ô]|me|tro
+omiómetro	nome masculino	o|mi|[ó]|me|tro
+omiri	nome masculino	o|mi|[ri]
+omissão	nome feminino	o|mis|[são]
+omissível	adjetivo	o|mis|[sí]|vel
+omisso	adjetivo	o|[mis]|so
+omissor	adjetivo	o|mis|[sor]
+omissório	adjetivo	o|mis|[só]|ri|o
+omitir	verbo	o|mi|[tir]
+omitível	adjetivo	o|mi|[tí]|vel
+omnicolor	adjetivo	om|ni|co|[lor]
+omnicriador	adjetivo	om|ni|cri|a|[dor]
+omnicriador	nome masculino	om|ni|cri|a|[dor]
+omnidirecional	adjetivo	om|ni|di|re|ci|o|[nal]
+omniforme	adjetivo	om|ni|[for]|me
+omnifulgente	adjetivo	om|ni|ful|[gen]|te
+omnigénero	adjetivo	om|ni|[gé]|ne|ro
+omnigênero	nome masculino	om|ni|[gê]|ne|ro
+omnigénero	nome masculino	om|ni|[gé]|ne|ro
+omnigênero	adjetivo	om|ni|[gê]|ne|ro
+omnígeno	adjetivo	om|[ní]|ge|no
+omnilingue	adjetivo	om|ni|[lin]|gue
+omnimodamente	advérbio	om|ni|mo|da|[men]|te
+omnímodo	adjetivo	om|[ní]|mo|do
+omniparente	adjetivo	om|ni|pa|[ren]|te
+omníparo	adjetivo	om|[ní]|pa|ro
+omnipatente	adjetivo	om|ni|pa|[ten]|te
+omnipessoal	adjetivo	om|ni|pes|so|[al]
+omnipotência	nome feminino	om|ni|po|[tên]|ci|a
+omnipotente	adjetivo	om|ni|po|[ten]|te
+omnipotentemente	advérbio	om|ni|po|ten|te|[men]|te
+omnipresença	nome feminino	om|ni|pre|[sen]|ça
+omnipresente	adjetivo	om|ni|pre|[sen]|te
+omnisciência	nome feminino	om|nis|ci|[ên]|ci|a
+omnisciente	adjetivo	om|nis|ci|[en]|te
+omníscio	adjetivo	om|[nís]|ci|o
+omníssono	adjetivo	om|[nís]|so|no
+omnitônico	adjetivo	om|ni|[tô]|ni|co
+omnitónico	adjetivo	om|ni|[tó]|ni|co
+omnividência	nome feminino	om|ni|vi|[dên]|ci|a
+omnividente	adjetivo	om|ni|vi|[den]|te
+omnívomo	adjetivo	om|[ní]|vo|mo
+omnivoridade	nome feminino	om|ni|vo|ri|[da]|de
+omnívoro	adjetivo	om|[ní]|vo|ro
+omoclavicular	adjetivo	o|mo|cla|vi|cu|[lar]
+omocótila	nome feminino	o|mo|[có]|ti|la
+omofagia	nome feminino	o|mo|fa|[gi]|a
+omófago	adjetivo	o|[mó]|fa|go
+omófago	nome masculino	o|[mó]|fa|go
+omóforo	nome masculino	o|[mó]|fo|ro
+omoide	adjetivo	o|[moi]|de
+omoide	nome masculino	o|[moi]|de
+omoplata	nome feminino	o|mo|[pla]|ta
+omoplatoscopia	nome feminino	o|mo|pla|tos|co|[pi]|a
+omoplatoscópico	adjetivo	o|mo|pla|tos|[có]|pi|co
+omosterno	nome masculino	o|mos|[ter]|no
+omotocia	nome feminino	o|mo|to|[ci]|a
+omotraquélio	adjetivo	o|mo|tra|[qué]|li|o
+ompeque	nome masculino	om|[pe]|que

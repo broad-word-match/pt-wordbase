@@ -1,0 +1,100 @@
+peritomia	nome feminino	pe|ri|to|[mi]|a
+peritômico	adjetivo	pe|ri|[tô]|mi|co
+peritómico	adjetivo	pe|ri|[tó]|mi|co
+peritomista	nome masculino	pe|ri|to|[mis]|ta
+peritoneal	adjetivo	pe|ri|to|ne|[al]
+peritonealgia	nome feminino	pe|ri|to|ne|al|[gi]|a
+peritoneálgico	adjetivo	pe|ri|to|ne|[ál]|gi|co
+peritoneu	nome masculino	pe|ri|to|[neu]
+peritônio	nome masculino	pe|ri|[tô]|ni|o
+peritónio	nome masculino	pe|ri|[tó]|ni|o
+peritonismo	nome masculino	pe|ri|to|[nis]|mo
+peritonite	nome feminino	pe|ri|to|[ni]|te
+peritorácico	adjetivo	pe|ri|to|[rá]|ci|co
+perítrico	nome masculino	pe|[rí]|tri|co
+peritrófico	adjetivo	pe|ri|[tró]|fi|co
+perítropo	adjetivo	pe|[rí]|tro|po
+perituro	adjetivo	pe|ri|[tu]|ro
+periurbanização	nome feminino	pe|ri|ur|ba|ni|za|[ção]
+periurbano	adjetivo	pe|ri|ur|[ba]|no
+periuterino	adjetivo	pe|riu|te|[ri]|no
+perivaginite	nome feminino	pe|ri|va|gi|[ni]|te
+perivascular	adjetivo	pe|ri|vas|cu|[lar]
+perivesical	adjetivo	pe|ri|ve|si|[cal]
+perjura	nome feminino	per|[ju]|ra
+perjuramente	advérbio	per|ju|ra|[men]|te
+perjurar	verbo	per|ju|[rar]
+perjúrio	nome masculino	per|[jú]|ri|o
+perjuro	adjetivo	per|[ju]|ro
+perjuro	nome masculino	per|[ju]|ro
+perkinismo	nome masculino	per|ki|[nis]|mo
+perla	nome feminino	[per]|la
+perlado	adjetivo	per|[la]|do
+perlar	verbo	per|[lar]
+perlasso	adjetivo	per|[las]|so
+perlasso	nome masculino	per|[las]|so
+perlavar	verbo	per|la|[var]
+perlenda	nome feminino	per|[len]|da
+perlenga	nome feminino	per|[len]|ga
+perlengada	nome feminino	per|len|[ga]|da
+perlengar	verbo	per|len|[gar]
+perleúdo	adjetivo	per|le|[ú]|do
+perlífero	adjetivo	per|[lí]|fe|ro
+perlimpimpim	nome masculino	per|lim|pim|[pim]
+perlincafuzes	nome masculino	per|lin|ca|[fu]|zes
+perliqueto	adjetivo	per|li|[que]|to
+perliquitete	adjetivo	per|li|qui|[te]|te
+perliquitetes	adjetivo	per|li|qui|[te]|tes
+perliquiteto	adjetivo	per|li|qui|[te]|to
+perlite	nome feminino	per|[li]|te
+perlítico	adjetivo	per|[lí]|ti|co
+perlocução	nome feminino	per|lo|cu|[ção]
+perlocucionário	adjetivo	per|lo|cu|ci|o|[ná]|ri|o
+perlocutivo	adjetivo	per|lo|cu|[ti]|vo
+perlocutório	adjetivo	per|lo|cu|[tó]|ri|o
+perlonga	nome feminino	per|[lon]|ga
+perlongante	adjetivo	per|lon|[gan]|te
+perlongar	verbo	per|lon|[gar]
+perlongo	nome masculino	per|[lon]|go
+perluí	nome masculino	per|lu|[í]
+perluís	nome masculino	per|lu|[ís]
+perlustração	nome feminino	per|lus|tra|[ção]
+perlustrador	adjetivo	per|lus|tra|[dor]
+perlustrador	nome masculino	per|lus|tra|[dor]
+perlustrar	verbo	per|lus|[trar]
+perluxidade	nome feminino	per|lu|xi|[da]|de
+perluxo	adjetivo	per|[lu]|xo
+perluxoso	adjetivo	per|lu|[xo]|so
+perluzir	verbo	per|lu|[zir]
+permacultura	nome feminino	per|ma|cul|[tu]|ra
+permacultural	adjetivo	per|ma|cul|tu|[ral]
+permanecente	adjetivo	per|ma|ne|[cen]|te
+permanecer	verbo	per|ma|ne|[cer]
+permanência	nome feminino	per|ma|[nên]|ci|a
+permanente	adjetivo	per|ma|[nen]|te
+permanente	nome feminino	per|ma|[nen]|te
+permanente	nome masculino	per|ma|[nen]|te
+permanentemente	advérbio	per|ma|nen|te|[men]|te
+permanganato	nome masculino	per|man|ga|[na]|to
+permangânico	adjetivo	per|man|[gâ]|ni|co
+permanganização	nome feminino	per|man|ga|ni|za|[ção]
+permanganizar	verbo	per|man|ga|ni|[zar]
+permansividade	nome feminino	per|man|si|vi|[da]|de
+permansivo	adjetivo	per|man|[si]|vo
+permeabilidade	nome feminino	per|me|a|bi|li|[da]|de
+permeabilímetro	nome masculino	per|me|a|bi|[lí]|me|tro
+permeabilização	nome feminino	per|me|a|bi|li|za|[ção]
+permeabilizador	adjetivo	per|me|a|bi|li|za|[dor]
+permeabilizar	verbo	per|me|a|bi|li|[zar]
+permeabilizável	adjetivo	per|me|a|bi|li|[zá]|vel
+permeação	nome feminino	per|me|a|[ção]
+permeâmetro	nome masculino	per|me|[â]|me|tro
+permeância	nome feminino	per|me|[ân]|ci|a
+permear	verbo	per|me|[ar]
+perméase	nome feminino	per|[mé]|a|se
+permease	nome feminino	per|me|[a]|se
+permeável	adjetivo	per|me|[á]|vel
+permeio	advérbio	per|[mei]|o
+permeio	nome masculino	per|[mei]|o
+permiano	adjetivo	per|mi|[a]|no
+permiano	nome masculino	per|mi|[a]|no

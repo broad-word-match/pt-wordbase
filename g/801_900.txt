@@ -1,0 +1,100 @@
+gambarra	nome feminino	gam|[bar]|ra
+gambelar	verbo	gam|be|[lar]
+gambelo	nome masculino	gam|[be]|lo
+gambérria	nome feminino	gam|[bér]|ri|a
+gambeta	nome feminino	gam|[be]|ta
+gambeta	adjetivo	gam|[be]|ta
+gambeta	nome masculino	gam|[be]|ta
+gambeteador	nome masculino	gam|be|te|a|[dor]
+gambetear	verbo	gam|be|te|[ar]
+gambeteiro	nome masculino	gam|be|[tei]|ro
+gâmbia	nome feminino	[gâm]|bi|a
+gambiana	nome feminino	gam|bi|[a]|na
+gambiano	adjetivo	gam|bi|[a]|no
+gambiano	nome masculino	gam|bi|[a]|no
+gambiar	verbo	gam|bi|[ar]
+gambiarra	nome feminino	gam|bi|[ar]|ra
+gambito	nome masculino	gam|[bi]|to
+gambo	nome masculino	[gam]|bo
+gambo	adjetivo	[gam]|bo
+gamboa	nome feminino	gam|[bo]|a
+gamboeira	nome feminino	gam|bo|[ei]|ra
+gamboeiro	nome masculino	gam|bo|[ei]|ro
+gamboína	nome feminino	gam|bo|[í]|na
+gambota	nome feminino	gam|[bo]|ta
+gambozino	nome masculino	gam|bo|[zi]|no
+gameiro	adjetivo	ga|[mei]|ro
+gamela	nome feminino	ga|[me]|la
+gamela	nome masculino	ga|[me]|la
+gamelada	nome feminino	ga|me|[la]|da
+gamelão	nome masculino	ga|me|[lão]
+gameleira	nome feminino	ga|me|[lei]|ra
+gameleiro	adjetivo	ga|me|[lei]|ro
+gameleiro	nome masculino	ga|me|[lei]|ro
+gamelo	nome masculino	ga|[me]|lo
+gamelório	nome masculino	ga|me|[ló]|ri|o
+gamelote	nome masculino	ga|me|[lo]|te
+gamenhar	verbo	ga|me|[nhar]
+gamenhice	nome feminino	ga|me|[nhi]|ce
+gamenho	nome masculino	ga|[me]|nho
+gâmeta	nome masculino	[gâ]|me|ta
+gameta	nome feminino	ga|[me]|ta
+gametângio	nome masculino	ga|me|[tân]|gi|o
+gametófita	nome feminino	ga|me|[tó]|fi|ta
+gametofítico	adjetivo	ga|me|to|[fí]|ti|co
+gametófito	nome masculino	ga|me|[tó]|fi|to
+gametófito	adjetivo	ga|me|[tó]|fi|to
+gametóforo	nome masculino	ga|me|[tó]|fo|ro
+gametogênese	nome feminino	ga|me|to|[gê]|ne|se
+gametogénese	nome feminino	ga|me|to|[gé]|ne|se
+gamo	nome masculino	[ga]|mo
+gamofilia	nome feminino	ga|mo|fi|[li]|a
+gamofilo	adjetivo	ga|mo|[fi]|lo
+gamofobia	nome feminino	ga|mo|fo|[bi]|a
+gamogástreo	adjetivo	ga|mo|[gás]|tre|o
+gamologia	nome feminino	ga|mo|lo|[gi]|a
+gamológico	adjetivo	ga|mo|[ló]|gi|co
+gamomania	nome feminino	ga|mo|ma|[ni]|a
+gamomaníaco	adjetivo	ga|mo|ma|[ní]|a|co
+gamomaníaco	nome masculino	ga|mo|ma|[ní]|a|co
+gamómano	nome masculino	ga|[mó]|ma|no
+gamômano	nome masculino	ga|[mô]|ma|no
+gamopetalia	nome feminino	ga|mo|pe|ta|[li]|a
+gamopétalo	adjetivo	ga|mo|[pé]|ta|lo
+gamossepalia	nome feminino	ga|mos|se|pa|[li]|a
+gamossépalo	adjetivo	ga|mos|[sé]|pa|lo
+gamostilo	adjetivo	ga|mos|[ti]|lo
+gamote	nome masculino	ga|[mo]|te
+gamotepalia	nome feminino	ga|mo|te|pa|[li]|a
+gamotépalo	adjetivo	ga|mo|[té]|pa|lo
+gamozoário	nome masculino	ga|mo|zo|[á]|ri|o
+gamozoide	adjetivo	ga|mo|[zoi]|de
+gamut	nome masculino	[ga]|mut
+gamuta	nome feminino	ga|[mu]|ta
+gamute	nome masculino	ga|[mu]|te
+gamúti	nome masculino	ga|[mú]|ti
+gana	nome feminino	[ga]|na
+ganacha	nome feminino	ga|[na]|cha
+ganachado	adjetivo	ga|na|[cha]|do
+ganadaria	nome feminino	ga|na|da|[ri]|a
+ganadeiro	nome masculino	ga|na|[dei]|ro
+ganância	nome feminino	ga|[nân]|ci|a
+gananciar	verbo	ga|nan|ci|[ar]
+gananciosa	nome feminino	ga|nan|ci|[o]|sa
+gananciosamente	advérbio	ga|nan|ci|o|sa|[men]|te
+ganancioso	adjetivo	ga|nan|ci|[o]|so
+ganancioso	nome masculino	ga|nan|ci|[o]|so
+ganapa	nome feminino	ga|[na]|pa
+ganapada	nome feminino	ga|na|[pa]|da
+ganapão	nome masculino	ga|na|[pão]
+ganapo	nome masculino	ga|[na]|po
+ganau	nome masculino	ga|[nau]
+gança	nome feminino	[gan]|ça
+gancar	nome masculino	gan|[car]
+gancaria	nome feminino	gan|ca|[ri]|a
+gancarial	adjetivo	gan|ca|ri|[al]
+gancarismo	nome masculino	gan|ca|[ris]|mo
+gancha	nome feminino	[gan]|cha
+ganchar	verbo	gan|[char]
+gancheado	adjetivo	gan|che|[a]|do
+ganchear	verbo	gan|che|[ar]

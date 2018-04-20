@@ -1,0 +1,100 @@
+irrequieto	adjetivo	ir|re|qui|[e]|to
+irrequietude	nome feminino	ir|re|qui|e|[tu]|de
+irrescindibilidade	nome feminino	ir|res|cin|di|bi|li|[da]|de
+irrescindível	adjetivo	ir|res|cin|[dí]|vel
+irresgatabilidade	nome feminino	ir|res|ga|ta|bi|li|[da]|de
+irresgatável	adjetivo	ir|res|ga|[tá]|vel
+irresignável	adjetivo	ir|re|sig|[ná]|vel
+irresilibilidade	nome feminino	ir|re|si|li|bi|li|[da]|de
+irresilível	adjetivo	ir|re|si|[lí]|vel
+irresistência	nome feminino	ir|re|sis|[tên]|ci|a
+irresistente	adjetivo	ir|re|sis|[ten]|te
+irresistibilidade	nome feminino	ir|re|sis|ti|bi|li|[da]|de
+irresistível	adjetivo	ir|re|sis|[tí]|vel
+irresistivelmente	advérbio	ir|re|sis|ti|vel|[men]|te
+irresolução	nome feminino	ir|re|so|lu|[ção]
+irresolutamente	advérbio	ir|re|so|lu|ta|[men]|te
+irresoluto	adjetivo	ir|re|so|[lu]|to
+irresolúvel	adjetivo	ir|re|so|[lú]|vel
+irresolvido	adjetivo	ir|re|sol|[vi]|do
+irresolvível	adjetivo	ir|re|sol|[ví]|vel
+irrespeitável	adjetivo	ir|res|pei|[tá]|vel
+irrespeito	nome masculino	ir|res|[pei]|to
+irrespeitosamente	advérbio	ir|res|pei|to|sa|[men]|te
+irrespeitoso	adjetivo	ir|res|pei|[to]|so
+irrespirabilidade	nome feminino	ir|res|pi|ra|bi|li|[da]|de
+irrespirável	adjetivo	ir|res|pi|[rá]|vel
+irrespondível	adjetivo	ir|res|pon|[dí]|vel
+irrespondivelmente	advérbio	ir|res|pon|di|vel|[men]|te
+irresponsabilidade	nome feminino	ir|res|pon|sa|bi|li|[da]|de
+irresponsabilizável	adjetivo	ir|res|pon|sa|bi|li|[zá]|vel
+irresponsável	adjetivo	ir|res|pon|[sá]|vel
+irresponsável	nome masculino	ir|res|pon|[sá]|vel
+irresponsável	nome feminino	ir|res|pon|[sá]|vel
+irresponsavelmente	advérbio	ir|res|pon|sa|vel|[men]|te
+irrestaurável	adjetivo	ir|res|tau|[rá]|vel
+irrestringível	adjetivo	ir|res|trin|[gí]|vel
+irrestritamente	advérbio	ir|res|tri|ta|[men]|te
+irrestrito	adjetivo	ir|res|[tri]|to
+irretardável	adjetivo	ir|re|tar|[dá]|vel
+irretirável	adjetivo	ir|re|ti|[rá]|vel
+irretocável	adjetivo	ir|re|to|[cá]|vel
+irretorquível	adjetivo	ir|re|tor|[quí]|vel
+irretratável	adjetivo	ir|re|tra|[tá]|vel
+irretratavelmente	advérbio	ir|re|tra|ta|vel|[men]|te
+irretribuível	adjetivo	ir|re|tri|bu|[í]|vel
+irretroatividade	nome feminino	ir|re|tro|a|ti|vi|[da]|de
+irretroativo	adjetivo	ir|re|tro|a|[ti]|vo
+irrevelado	adjetivo	ir|re|ve|[la]|do
+irrevelável	adjetivo	ir|re|ve|[lá]|vel
+irreverência	nome feminino	ir|re|ve|[rên]|ci|a
+irreverenciar	verbo	ir|re|ve|ren|ci|[ar]
+irreverenciosamente	advérbio	ir|re|ve|ren|ci|o|sa|[men]|te
+irreverencioso	adjetivo	ir|re|ve|ren|ci|[o]|so
+irreverente	adjetivo	ir|re|ve|[ren]|te
+irreverente	nome feminino	ir|re|ve|[ren]|te
+irreverente	nome masculino	ir|re|ve|[ren]|te
+irreverentemente	advérbio	ir|re|ve|ren|te|[men]|te
+irreversibilidade	nome feminino	ir|re|ver|si|bi|li|[da]|de
+irreversível	adjetivo	ir|re|ver|[sí]|vel
+irreversivelmente	advérbio	ir|re|ver|si|vel|[men]|te
+irrevisibilidade	nome feminino	ir|re|vi|si|bi|li|[da]|de
+irrevisível	adjetivo	ir|re|vi|[sí]|vel
+irrevivescível	adjetivo	ir|re|vi|ves|[cí]|vel
+irrevocabilidade	nome feminino	ir|re|vo|ca|bi|li|[da]|de
+irrevocável	adjetivo	ir|re|vo|[cá]|vel
+irrevogabilidade	nome feminino	ir|re|vo|ga|bi|li|[da]|de
+irrevogável	adjetivo	ir|re|vo|[gá]|vel
+irrevogavelmente	advérbio	ir|re|vo|ga|vel|[men]|te
+irridente	adjetivo	ir|ri|[den]|te
+irrigação	nome feminino	ir|ri|ga|[ção]
+irrigador	nome masculino	ir|ri|ga|[dor]
+irrigador	adjetivo	ir|ri|ga|[dor]
+irrigar	verbo	ir|ri|[gar]
+irrigatório	adjetivo	ir|ri|ga|[tó]|ri|o
+irrigável	adjetivo	ir|ri|[gá]|vel
+irríguo	adjetivo	ir|[rí]|guo
+irríguo	nome feminino	ir|[rí]|guo
+irrisão	nome feminino	ir|ri|[são]
+irrisor	adjetivo	ir|ri|[sor]
+irrisor	nome masculino	ir|ri|[sor]
+irrisoriamente	advérbio	ir|ri|so|ri|a|[men]|te
+irrisório	adjetivo	ir|ri|[só]|ri|o
+irritabilidade	nome feminino	ir|ri|ta|bi|li|[da]|de
+irritabilismo	nome masculino	ir|ri|ta|bi|[lis]|mo
+irritabilista	nome feminino	ir|ri|ta|bi|[lis]|ta
+irritabilista	nome masculino	ir|ri|ta|bi|[lis]|ta
+irritabilista	adjetivo	ir|ri|ta|bi|[lis]|ta
+irritação	nome feminino	ir|ri|ta|[ção]
+irritadiço	adjetivo	ir|ri|ta|[di]|ço
+irritado	adjetivo	ir|ri|[ta]|do
+irritador	adjetivo	ir|ri|ta|[dor]
+irritador	nome masculino	ir|ri|ta|[dor]
+irritadora	nome feminino	ir|ri|ta|[do]|ra
+irritamente	advérbio	ir|ri|ta|[men]|te
+irritamento	nome masculino	ir|ri|ta|[men]|to
+irritante	adjetivo	ir|ri|[tan]|te
+irritante	nome masculino	ir|ri|[tan]|te
+irritantemente	advérbio	ir|ri|tan|te|[men]|te
+irritar	verbo	ir|ri|[tar]
+irritativo	adjetivo	ir|ri|ta|[ti]|vo

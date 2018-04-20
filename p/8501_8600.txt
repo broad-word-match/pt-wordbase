@@ -1,0 +1,100 @@
+pirusta	nome masculino	pi|[rus]|ta
+pirusta	nome feminino	pi|[rus]|ta
+piruvato	nome masculino	pi|ru|[va]|to
+pirúvico	adjetivo	pi|[rú]|vi|co
+pisa	nome feminino	[pi]|sa
+pisa-flores	nome masculino	pi|sa-flo|res
+pisa-mansinho	adjetivo	pi|sa-man|[si]|nho
+pisa-mansinho	nome masculino	pi|sa-man|[si]|nho
+pisa-mansinho	nome feminino	pi|sa-man|[si]|nho
+pisa-papéis	nome masculino	pi|sa-pa|[péis]
+pisa-verde	nome masculino	pi|sa-ver|de
+pisa-verdes	nome masculino	pi|sa-ver|des
+pisada	nome feminino	pi|[sa]|da
+pisadeira	nome feminino	pi|sa|[dei]|ra
+pisadela	nome feminino	pi|sa|[de]|la
+pisado	adjetivo	pi|[sa]|do
+pisador	adjetivo	pi|sa|[dor]
+pisador	nome masculino	pi|sa|[dor]
+pisadura	nome feminino	pi|sa|[du]|ra
+pisamento	nome masculino	pi|sa|[men]|to
+pisana	nome feminino	pi|[sa]|na
+pisano	adjetivo	pi|[sa]|no
+pisano	nome masculino	pi|[sa]|no
+pisão	nome masculino	pi|[são]
+pisar	verbo	pi|[sar]
+pisaurense	adjetivo	pi|sau|[ren]|se
+pisaurense	nome masculino	pi|sau|[ren]|se
+pisaurense	nome feminino	pi|sau|[ren]|se
+pisável	adjetivo	pi|[sá]|vel
+pisca	nome masculino	[pis]|ca
+pisca	nome feminino	[pis]|ca
+pisca-pisca	nome masculino	pis|ca-pis|ca
+pisca-pisca	nome feminino	pis|ca-pis|ca
+piscação	nome feminino	pis|ca|[ção]
+piscadela	nome feminino	pis|ca|[de]|la
+piscamento	nome masculino	pis|ca|[men]|to
+piscante	adjetivo	pis|[can]|te
+piscar	verbo	pis|[car]
+piscatória	nome feminino	pis|ca|[tó]|ri|a
+piscatório	adjetivo	pis|ca|[tó]|ri|o
+písceo	adjetivo	[pís]|ce|o
+pisciano	adjetivo	pis|ci|[a]|no
+pisciano	nome masculino	pis|ci|[a]|no
+piscicaptura	nome feminino	pis|ci|cap|[tu]|ra
+piscícola	adjetivo	pis|[cí]|co|la
+piscículo	nome masculino	pis|[cí]|cu|lo
+piscicultor	nome masculino	pis|ci|cul|[tor]
+piscicultora	nome feminino	pis|ci|cul|[to]|ra
+piscicultura	nome feminino	pis|ci|cul|[tu]|ra
+piscídia-eritrina	nome feminino	pis|cí|di|a-e|ri|tri|na
+pisciforme	adjetivo	pis|ci|[for]|me
+piscina	nome feminino	pis|[ci]|na
+piscinal	adjetivo	pis|ci|[nal]
+piscívoro	adjetivo	pis|[cí]|vo|ro
+pisco	adjetivo	[pis]|co
+pisco	nome masculino	[pis]|co
+pisco-azul	nome masculino	pis|co-a|[zul]
+pisco-chilreiro	nome masculino	pis|co-chil|[rei]|ro
+pisco-de-peito-azul	nome masculino	pis|co-de-pei|to-a|[zul]
+pisco-de-peito-ruivo	nome masculino	pis|co-de-pei|to-rui|vo
+pisco-ferreiro	nome masculino	pis|co-fer|[rei]|ro
+pisco-ribeiro	nome masculino	pis|co-ri|[bei]|ro
+piscola	nome feminino	pis|[co]|la
+piscoso	adjetivo	pis|[co]|so
+píseo	nome masculino	[pí]|se|o
+piseu	nome masculino	pi|[seu]
+piseu	adjetivo	pi|[seu]
+pisgar	verbo	pis|[gar]
+pisida	nome masculino	pi|[si]|da
+pisida	adjetivo	pi|[si]|da
+pisida	nome feminino	pi|[si]|da
+pisiforme	adjetivo	pi|si|[for]|me
+pisiforme	nome masculino	pi|si|[for]|me
+piso	nome masculino	[pi]|so
+pisoada	nome feminino	pi|so|[a]|da
+pisoador	nome masculino	pi|so|a|[dor]
+pisoagem	nome feminino	pi|so|[a]|gem
+pisoamento	nome masculino	pi|so|a|[men]|to
+pisoar	verbo	pi|so|[ar]
+pisoeiro	nome masculino	pi|so|[ei]|ro
+pisolítico	adjetivo	pi|so|[lí]|ti|co
+pisólito	nome masculino	pi|[só]|li|to
+pisónia	nome feminino	pi|[só]|ni|a
+pisônia	nome feminino	pi|[sô]|ni|a
+pisorga	nome feminino	pi|[sor]|ga
+pisoteado	adjetivo	pi|so|te|[a]|do
+pisoteador	adjetivo	pi|so|te|a|[dor]
+pisoteador	nome masculino	pi|so|te|a|[dor]
+pisotear	verbo	pi|so|te|[ar]
+pisoteio	nome masculino	pi|so|[tei]|o
+pispineta	nome feminino	pis|pi|[ne]|ta
+pispirreta	nome feminino	pis|pir|[re]|ta
+pisqueira	nome feminino	pis|[quei]|ra
+pisqueiro	adjetivo	pis|[quei]|ro
+pisquila	nome masculino	pis|[qui]|la
+pisquila	nome feminino	pis|[qui]|la
+pissa	nome feminino	[pis]|sa
+pissandó	nome masculino	pis|san|[dó]
+pissasfáltico	adjetivo	pis|sas|[fál]|ti|co
+pissasfalto	nome masculino	pis|sas|[fal]|to

@@ -1,0 +1,100 @@
+aruã	nome masculino	a|ru|[ã]
+aruã	nome feminino	a|ru|[ã]
+aruaná	adjetivo	a|ru|a|[ná]
+aruaná	nome masculino	a|ru|a|[ná]
+aruanã	nome masculino	a|ru|a|[nã]
+aruaná	nome feminino	a|ru|a|[ná]
+aruaque	nome masculino	a|ru|[a]|que
+aruaque	adjetivo	a|ru|[a]|que
+aruaque	nome feminino	a|ru|[a]|que
+aruba	nome feminino	a|[ru]|ba
+arubana	nome feminino	a|ru|[ba]|na
+arubano	adjetivo	a|ru|[ba]|no
+arubano	nome masculino	a|ru|[ba]|no
+arubê	nome masculino	a|ru|[bê]
+arucuiana	adjetivo	a|ru|cui|[a]|na
+arucuiana	nome masculino	a|ru|cui|[a]|na
+arucuiana	nome feminino	a|ru|cui|[a]|na
+aruga	nome feminino	a|[ru]|ga
+arujo	nome masculino	a|[ru]|jo
+árula	nome feminino	[á]|ru|la
+árum	nome masculino	[á]|rum
+arumã	nome masculino	a|ru|[mã]
+arumã-açu	nome masculino	a|ru|mã-a|[çu]
+arumã-mirim	nome masculino	a|ru|mã-mi|[rim]
+arunco	nome masculino	a|[run]|co
+arundífero	adjetivo	a|run|[dí]|fe|ro
+arundinácea	nome feminino	a|run|di|[ná]|ce|a
+arundináceo	adjetivo	a|run|di|[ná]|ce|o
+arúndine	nome feminino	a|[rún]|di|ne
+arundínea	nome feminino	a|run|[dí]|ne|a
+arundinela	nome feminino	a|run|di|[ne]|la
+arundíneo	adjetivo	a|run|[dí]|ne|o
+arundinoso	adjetivo	a|run|di|[no]|so
+arupino	adjetivo	a|ru|[pi]|no
+arupino	nome masculino	a|ru|[pi]|no
+arurão	nome masculino	a|ru|[rão]
+arusnate	adjetivo	a|rus|[na]|te
+arusnate	nome masculino	a|rus|[na]|te
+arusnate	nome feminino	a|rus|[na]|te
+aruspicação	nome feminino	a|rus|pi|ca|[ção]
+aruspicatório	adjetivo	a|rus|pi|ca|[tó]|ri|o
+arúspice	nome masculino	a|[rús]|pi|ce
+aruspicina	nome feminino	a|rus|pi|[ci]|na
+aruspicino	adjetivo	a|rus|pi|[ci]|no
+aruspício	nome masculino	a|rus|[pí]|ci|o
+aruspicismo	nome masculino	a|rus|pi|[cis]|mo
+arval	nome masculino	ar|[val]
+arval	adjetivo	ar|[val]
+arvela	nome feminino	ar|[ve]|la
+arvelas	nome feminino	ar|[ve]|las
+arvelhana	nome feminino	ar|ve|[lha]|na
+arvéloa	nome feminino	ar|[vé]|lo|a
+arvense	adjetivo	ar|[ven]|se
+arvéola	nome feminino	ar|[vé]|o|la
+arverno	adjetivo	ar|[ver]|no
+arverno	nome masculino	ar|[ver]|no
+arvião	nome masculino	ar|vi|[ão]
+arvícola	nome masculino	ar|[ví]|co|la
+arvícola	adjetivo	ar|[ví]|co|la
+arvícola	nome feminino	ar|[ví]|co|la
+arvicolídeo	adjetivo	ar|vi|co|[lí]|de|o
+arvicolídeo	nome masculino	ar|vi|co|[lí]|de|o
+arvicolídeo	nome masculino	ar|vi|co|[lí]|de|o
+arvicultor	adjetivo	ar|vi|cul|[tor]
+arvicultor	nome masculino	ar|vi|cul|[tor]
+arvicultura	nome feminino	ar|vi|cul|[tu]|ra
+arvingel	nome masculino	ar|vin|[gel]
+arvoamento	nome masculino	ar|vo|a|[men]|to
+arvoar	verbo	ar|vo|[ar]
+arvorada	nome feminino	ar|vo|[ra]|da
+arvorado	adjetivo	ar|vo|[ra]|do
+arvorado	nome masculino	ar|vo|[ra]|do
+arvoragem	nome feminino	ar|vo|[ra]|gem
+arvorar	verbo	ar|vo|[rar]
+árvore	nome feminino	[ár]|vo|re
+árvore da vida	nome feminino	[ár]|vo|re da vi|da
+árvore-da-borracha	nome feminino	ár|vo|re-da-bor|[ra]|cha
+árvore-da-castidade	nome feminino	ár|vo|re-da-cas|ti|[da]|de
+árvore-da-judeia	nome feminino	ár|vo|re-da-ju|[dei]|a
+árvore-da-morte	nome feminino	ár|vo|re-da-mor|te
+árvore-da-preguiça	nome feminino	ár|vo|re-da-pre|[gui]|ça
+árvore-de-gralha	nome feminino	ár|vo|re-de-gra|lha
+árvore-de-raspa	nome feminino	ár|vo|re-de-ras|pa
+árvore-do-pão	nome feminino	ár|vo|re-do-pão
+arvorecência	nome feminino	ar|vo|re|[cên]|ci|a
+arvorecente	adjetivo	ar|vo|re|[cen]|te
+arvoredo	nome masculino	ar|vo|[re]|do
+arvorejar	verbo	ar|vo|re|[jar]
+arvoreta	nome feminino	ar|vo|[re]|ta
+arxar	verbo	ar|[xar]
+arzanefe	nome masculino	ar|za|[ne]|fe
+arzegaia	nome feminino	ar|ze|[gai]|a
+arzel	adjetivo	ar|[zel]
+arzila	nome feminino	ar|[zi]|la
+arzola	nome feminino	ar|[zo]|la
+ás	nome masculino	[ás]
+asa	nome feminino	[a]|sa
+asa-branca	nome feminino	a|sa-bran|ca
+asa-delta	nome feminino	a|sa-del|ta
+asa-negra	nome masculino	a|sa-ne|gra

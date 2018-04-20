@@ -1,0 +1,100 @@
+fenomenismo	nome masculino	fe|no|me|[nis]|mo
+fenomenista	adjetivo	fe|no|me|[nis]|ta
+fenomenista	nome masculino	fe|no|me|[nis]|ta
+fenomenista	nome feminino	fe|no|me|[nis]|ta
+fenomenístico	adjetivo	fe|no|me|[nís]|ti|co
+fenomenização	nome feminino	fe|no|me|ni|za|[ção]
+fenomenizar	verbo	fe|no|me|ni|[zar]
+fenómeno	nome masculino	fe|[nó]|me|no
+fenômeno	nome masculino	fe|[nô]|me|no
+fenomenologia	nome feminino	fe|no|me|no|lo|[gi]|a
+fenomenológico	adjetivo	fe|no|me|no|[ló]|gi|co
+fenomenologista	nome masculino	fe|no|me|no|lo|[gis]|ta
+fenomenologista	nome feminino	fe|no|me|no|lo|[gis]|ta
+fenomenólogo	nome masculino	fe|no|me|[nó]|lo|go
+fenotexto	nome masculino	fe|no|[tex]|to
+fenotípico	adjetivo	fe|no|[tí]|pi|co
+fenótipo	nome masculino	fe|[nó]|ti|po
+fentanha	nome feminino	fen|[ta]|nha
+fêntão	nome masculino	[fên]|tão
+fentelha	nome feminino	fen|[te]|lha
+fentilho	nome masculino	fen|[ti]|lho
+fentograma	nome masculino	fen|to|[gra]|ma
+fentómetro	nome masculino	fen|[tó]|me|tro
+fentômetro	nome masculino	fen|[tô]|me|tro
+feocromocitoma	nome masculino	fe|o|cro|mo|ci|[to]|ma
+feodário	nome masculino	fe|o|[dá]|ri|o
+feofícea	nome feminino	fe|o|[fí]|ce|a
+feofíceo	nome masculino	fe|o|[fí]|ce|o
+fera	nome feminino	[fe]|ra
+ferace	adjetivo	fe|[ra]|ce
+feracidade	nome feminino	fe|ra|ci|[da]|de
+feracíssimo	adjetivo	fe|ra|[cís]|si|mo
+feral	adjetivo	fe|[ral]
+feramente	advérbio	fe|ra|[men]|te
+feramina	nome feminino	fe|ra|[mi]|na
+feraz	adjetivo	fe|[raz]
+ferberita	nome feminino	fer|be|[ri]|ta
+ferberite	nome feminino	fer|be|[ri]|te
+férculo	nome masculino	[fér]|cu|lo
+ferdinanda	nome feminino	fer|di|[nan]|da
+fere-folha	nome masculino	fe|re-fo|lha
+fere-folha	nome feminino	fe|re-fo|lha
+ferecrácio	adjetivo	fe|re|[crá]|ci|o
+ferecrácio	nome masculino	fe|re|[crá]|ci|o
+ferecrateu	adjetivo	fe|re|cra|[teu]
+ferecrateu	nome masculino	fe|re|cra|[teu]
+ferecrático	adjetivo	fe|re|[crá]|ti|co
+ferecrático	nome masculino	fe|re|[crá]|ti|co
+ferentário	nome masculino	fe|ren|[tá]|ri|o
+ferentinate	adjetivo	fe|ren|ti|[na]|te
+ferentinate	nome masculino	fe|ren|ti|[na]|te
+ferentinate	nome feminino	fe|ren|ti|[na]|te
+ferentino	adjetivo	fe|ren|[ti]|no
+ferentino	nome masculino	fe|ren|[ti]|no
+féretro	nome feminino	[fé]|re|tro
+féretro	nome masculino	[fé]|re|tro
+fereu	adjetivo	fe|[reu]
+fereu	nome masculino	fe|[reu]
+fereza	nome feminino	fe|[re]|za
+féria	nome feminino	[fé]|ri|a
+feriado	adjetivo	fe|ri|[a]|do
+feriado	nome masculino	fe|ri|[a]|do
+ferial	adjetivo	fe|ri|[al]
+feriar	verbo	fe|ri|[ar]
+feriável	adjetivo	fe|ri|[á]|vel
+ferida	nome feminino	fe|[ri]|da
+feridade	nome feminino	fe|ri|[da]|de
+ferido	nome masculino	fe|[ri]|do
+ferido	adjetivo	fe|[ri]|do
+feridor	adjetivo	fe|ri|[dor]
+feridor	nome masculino	fe|ri|[dor]
+ferifoga	nome feminino	fe|ri|[fo]|ga
+ferifolha	nome feminino	fe|ri|[fo]|lha
+ferimento	nome masculino	fe|ri|[men]|to
+ferino	adjetivo	fe|[ri]|no
+ferir	verbo	fe|[rir]
+fermata	nome feminino	fer|[ma]|ta
+fermentação	nome feminino	fer|men|ta|[ção]
+fermentáceo	adjetivo	fer|men|[tá]|ce|o
+fermentador	adjetivo	fer|men|ta|[dor]
+fermentador	nome masculino	fer|men|ta|[dor]
+fermentante	adjetivo	fer|men|[tan]|te
+fermentar	verbo	fer|men|[tar]
+fermentário	nome masculino	fer|men|[tá]|ri|o
+fermentativo	adjetivo	fer|men|ta|[ti]|vo
+fermentável	adjetivo	fer|men|[tá]|vel
+fermentescência	nome feminino	fer|men|tes|[cên]|ci|a
+fermentescente	adjetivo	fer|men|tes|[cen]|te
+fermentescibilidade	nome feminino	fer|men|tes|ci|bi|li|[da]|de
+fermentescível	adjetivo	fer|men|tes|[cí]|vel
+fermento	nome masculino	fer|[men]|to
+fermentoso	adjetivo	fer|men|[to]|so
+fermi	nome masculino	fer|[mi]
+fermião	nome masculino	fer|mi|[ão]
+férmio	nome masculino	[fér]|mi|o
+fermoso	adjetivo	fer|[mo]|so
+fermosura	nome feminino	fer|mo|[su]|ra
+fernandézia	nome feminino	fer|nan|[dé]|zi|a
+fernandina	nome feminino	fer|nan|[di]|na
+fernandino	adjetivo	fer|nan|[di]|no

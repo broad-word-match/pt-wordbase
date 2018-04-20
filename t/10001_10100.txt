@@ -1,0 +1,100 @@
+tupistra	nome feminino	tu|[pis]|tra
+tupixaba	nome feminino	tu|pi|[xa]|ba
+tupperware	nome masculino	tup|pe|rwa|re
+tupurapo	nome masculino	tu|pu|[ra]|po
+tuquianês	adjetivo	tu|qui|a|[nês]
+tuquianês	nome masculino	tu|qui|a|[nês]
+tuquira	nome feminino	tu|[qui]|ra
+tura	nome feminino	[tu]|ra
+turaco	nome masculino	tu|[ra]|co
+turânia	nome feminino	tu|[râ]|ni|a
+turaniana	nome feminino	tu|ra|ni|[a]|na
+turaniano	nome masculino	tu|ra|ni|[a]|no
+turaniano	adjetivo	tu|ra|ni|[a]|no
+turânico	adjetivo	tu|[râ]|ni|co
+turânio	adjetivo	tu|[râ]|ni|o
+turânio	nome masculino	tu|[râ]|ni|o
+turari	nome feminino	tu|ra|[ri]
+turari	nome masculino	tu|ra|[ri]
+turba	nome feminino	[tur]|ba
+turbação	nome feminino	tur|ba|[ção]
+turbador	adjetivo	tur|ba|[dor]
+turbador	nome masculino	tur|ba|[dor]
+turbamento	nome masculino	tur|ba|[men]|to
+turbamulta	nome feminino	tur|ba|[mul]|ta
+turbante	nome masculino	tur|[ban]|te
+turbão	nome masculino	tur|[bão]
+turbar	verbo	tur|[bar]
+turbativo	adjetivo	tur|ba|[ti]|vo
+turbável	adjetivo	tur|[bá]|vel
+turbela	nome feminino	tur|[be]|la
+turbelariado	adjetivo	tur|be|la|ri|[a]|do
+turbelariado	nome masculino	tur|be|la|ri|[a]|do
+turbelário	adjetivo	tur|be|[lá]|ri|o
+turbelário	nome masculino	tur|be|[lá]|ri|o
+turbidez	nome feminino	tur|bi|[dez]
+turbidimetria	nome feminino	tur|bi|di|me|[tri]|a
+turbidimétrico	adjetivo	tur|bi|di|[mé]|tri|co
+túrbido	adjetivo	[túr]|bi|do
+turbidometria	nome feminino	tur|bi|do|me|[tri]|a
+turbidométrico	adjetivo	tur|bi|do|[mé]|tri|co
+turbilhão	nome masculino	tur|bi|[lhão]
+turbilho	nome masculino	tur|[bi]|lho
+turbilhonamento	nome masculino	tur|bi|lho|na|[men]|to
+turbilhonante	adjetivo	tur|bi|lho|[nan]|te
+turbilhonar	verbo	tur|bi|lho|[nar]
+turbina	nome feminino	tur|[bi]|na
+turbinação	nome feminino	tur|bi|na|[ção]
+turbináceo	nome masculino	tur|bi|[ná]|ce|o
+turbinado	adjetivo	tur|bi|[na]|do
+turbinado	nome masculino	tur|bi|[na]|do
+turbinal	adjetivo	tur|bi|[nal]
+turbinar	verbo	tur|bi|[nar]
+turbinária	nome feminino	tur|bi|[ná]|ri|a
+turbinectomia	nome feminino	tur|bi|nec|to|[mi]|a
+turbinela	nome feminino	tur|bi|[ne]|la
+turbíneo	adjetivo	tur|[bí]|ne|o
+turbinídeo	nome masculino	tur|bi|[ní]|de|o
+turbinideo	adjetivo	tur|bi|ni|[de]|o
+turbinifloro	adjetivo	tur|bi|ni|[flo]|ro
+turbiniforme	adjetivo	tur|bi|ni|[for]|me
+turbinímetro	nome masculino	tur|bi|[ní]|me|tro
+turbinólia	nome feminino	tur|bi|[nó]|li|a
+turbinosfenoide	nome masculino	tur|bi|nos|fe|[noi]|de
+turbinosfenoideo	adjetivo	tur|bi|nos|fe|noi|[de]|o
+turbinoso	adjetivo	tur|bi|[no]|so
+turbinótomo	nome masculino	tur|bi|[nó]|to|mo
+turbito	nome masculino	tur|[bi]|to
+turbo	nome masculino	[tur]|bo
+turbo	adjetivo	[tur]|bo
+turbo-diesel	nome masculino	tur|bo-die|sel
+turboalternador	nome masculino	tur|bo|al|ter|na|[dor]
+turbocompressor	nome masculino	tur|bo|com|pres|[sor]
+turbodínamo	nome masculino	tur|bo|[dí]|na|mo
+turbogerador	nome masculino	tur|bo|ge|ra|[dor]
+turbomáquina	nome feminino	tur|bo|[má]|qui|na
+turbomotor	nome masculino	tur|bo|mo|[tor]
+turbopropulsor	nome masculino	tur|bo|pro|pul|[sor]
+turbor	nome masculino	tur|[bor]
+turborreator	nome masculino	tur|bor|re|a|[tor]
+turboventoinha	nome feminino	tur|bo|ven|to|[i]|nha
+turbulência	nome feminino	tur|bu|[lên]|ci|a
+turbulenta	nome feminino	tur|bu|[len]|ta
+turbulentamente	advérbio	tur|bu|len|ta|[men]|te
+turbulento	adjetivo	tur|bu|[len]|to
+turbulento	nome masculino	tur|bu|[len]|to
+turca	nome feminino	[tur]|ca
+turcalhada	nome feminino	tur|ca|[lha]|da
+turcamente	advérbio	tur|ca|[men]|te
+túrcica	adjetivo	[túr]|ci|ca
+túrcico	adjetivo	[túr]|ci|co
+turco	nome masculino	[tur]|co
+turco	adjetivo	[tur]|co
+turco-árabe	adjetivo	tur|co-á|ra|be
+turco-asiático	adjetivo	tur|co-a|si|[á]|ti|co
+turco-europeu	adjetivo	tur|co-eu|ro|[peu]
+turco-tártaro	adjetivo	tur|co-tár|ta|ro
+turcofilia	nome feminino	tur|co|fi|[li]|a
+turcófilo	adjetivo	tur|[có]|fi|lo
+turcófilo	nome masculino	tur|[có]|fi|lo
+turcofobia	nome feminino	tur|co|fo|[bi]|a

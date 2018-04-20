@@ -1,0 +1,100 @@
+mandriar	verbo	man|dri|[ar]
+mandriice	nome feminino	man|dri|[i]|ce
+mandril	nome masculino	man|[dril]
+mandrilador	nome masculino	man|dri|la|[dor]
+mandrilagem	nome feminino	man|dri|[la]|gem
+mandrilar	verbo	man|dri|[lar]
+mandrilho	nome masculino	man|[dri]|lho
+mandriona	nome feminino	man|dri|[o]|na
+mandrionar	verbo	man|dri|o|[nar]
+mandronga	nome feminino	man|[dron]|ga
+mandronguice	nome feminino	man|dron|[gui]|ce
+mandropolitano	adjetivo	man|dro|po|li|[ta]|no
+mandropolitano	nome masculino	man|dro|po|li|[ta]|no
+mandu	adjetivo	man|[du]
+mandu	nome masculino	man|[du]
+mandu	nome feminino	man|[du]
+manduba	nome feminino	man|[du]|ba
+mandubi	nome masculino	man|du|[bi]
+mandúbio	adjetivo	man|[dú]|bi|o
+mandúbio	nome masculino	man|[dú]|bi|o
+manducação	nome feminino	man|du|ca|[ção]
+manducar	verbo	man|du|[car]
+manducativo	adjetivo	man|du|ca|[ti]|vo
+manducável	adjetivo	man|du|[cá]|vel
+manduco	nome masculino	man|[du]|co
+mandupitiú	nome masculino	man|du|pi|ti|[ú]
+manduquiar	verbo	man|du|qui|[ar]
+mandureba	nome feminino	man|du|[re]|ba
+manduri	nome feminino	man|du|[ri]
+mandurria	nome feminino	man|dur|[ri]|a
+manduruva	nome feminino	man|du|[ru]|va
+mané	adjetivo	ma|[né]
+mané	nome masculino	ma|[né]
+mané-coco	adjetivo	ma|né-co|co
+mané-coco	nome masculino	ma|né-co|co
+maneabilidade	nome feminino	ma|ne|a|bi|li|[da]|de
+maneador	nome masculino	ma|ne|a|[dor]
+manear	verbo	ma|ne|[ar]
+maneável	adjetivo	ma|ne|[á]|vel
+manega	nome feminino	ma|[ne]|ga
+manegar	verbo	ma|ne|[gar]
+maneia	nome feminino	ma|[nei]|a
+maneio	nome masculino	ma|[nei]|o
+maneira	nome feminino	ma|[nei]|ra
+maneirado	adjetivo	ma|nei|[ra]|do
+maneirinho	adjetivo	ma|nei|[ri]|nho
+maneirismo	nome masculino	ma|nei|[ris]|mo
+maneirista	adjetivo	ma|nei|[ris]|ta
+maneirista	nome masculino	ma|nei|[ris]|ta
+maneirista	nome feminino	ma|nei|[ris]|ta
+maneiro	adjetivo	ma|[nei]|ro
+maneiroso	adjetivo	ma|nei|[ro]|so
+manejador	adjetivo	ma|ne|ja|[dor]
+manejador	nome masculino	ma|ne|ja|[dor]
+manejar	verbo	ma|ne|[jar]
+manejável	adjetivo	ma|ne|[já]|vel
+manejo	nome masculino	ma|[ne]|jo
+manelo	nome masculino	ma|[ne]|lo
+manema	adjetivo	ma|[ne]|ma
+manema	nome masculino	ma|[ne]|ma
+manema	nome feminino	ma|[ne]|ma
+manembro	nome masculino	ma|[nem]|bro
+manente	adjetivo	ma|[nen]|te
+manequim	nome masculino	ma|ne|[quim]
+manequim	nome feminino	ma|ne|[quim]
+maneria	nome feminino	ma|ne|[ri]|a
+manês	adjetivo	ma|[nês]
+manês	nome masculino	ma|[nês]
+manes	nome masculino	[ma]|nes
+manes	nome masculino	[ma]|nes
+maneta	adjetivo	ma|[ne]|ta
+maneta	nome masculino	ma|[ne]|ta
+maneta	nome feminino	ma|[ne]|ta
+manete	nome feminino	ma|[ne]|te
+manette	nome feminino	ma|net|te
+manfafa	nome feminino	man|[fa]|fa
+manfarrico	nome masculino	man|far|[ri]|co
+manga	nome feminino	[man]|ga
+manga de alpaca	nome masculino	[man]|ga de al|pa|ca
+manga de eixo	nome feminino	[man]|ga de ei|xo
+mangaba	nome feminino	man|[ga]|ba
+mangabal	nome masculino	man|ga|[bal]
+mangabarana	nome feminino	man|ga|ba|[ra]|na
+mangabeira	nome feminino	man|ga|[bei]|ra
+mangabinha	nome feminino	man|ga|[bi]|nha
+mangação	nome feminino	man|ga|[ção]
+mangada	nome feminino	man|[ga]|da
+mangador	adjetivo	man|ga|[dor]
+mangador	nome masculino	man|ga|[dor]
+mangadora	nome feminino	man|ga|[do]|ra
+mangagá	adjetivo	man|ga|[gá]
+mangaíba	nome feminino	man|ga|[í]|ba
+mangal	nome masculino	man|[gal]
+mangala	nome masculino	man|[ga]|la
+mangalaça	nome feminino	man|ga|[la]|ça
+mangalaço	nome masculino	man|ga|[la]|ço
+mangalala	nome feminino	man|ga|[la]|la
+mangalhão	nome masculino	man|ga|[lhão]
+mangalô	nome masculino	man|ga|[lô]
+manganato	nome masculino	man|ga|[na]|to

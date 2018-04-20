@@ -1,0 +1,100 @@
+coleira	nome feminino	co|[lei]|ra
+coleirado	adjetivo	co|lei|[ra]|do
+coleirinha	nome feminino	co|lei|[ri]|nha
+coleirinho	adjetivo	co|lei|[ri]|nho
+coleiro	nome masculino	co|[lei]|ro
+coleitor	nome masculino	co|lei|[tor]
+coleja	nome feminino	co|[le]|ja
+colelitíase	nome feminino	co|le|li|[tí]|a|se
+colélito	nome masculino	co|[lé]|li|to
+colelitomia	nome feminino	co|le|li|to|[mi]|a
+colelitotripsia	nome feminino	co|le|li|to|trip|[si]|a
+colelogia	nome feminino	co|le|lo|[gi]|a
+colelógico	adjetivo	co|le|[ló]|gi|co
+colema	nome masculino	co|[le]|ma
+colémese	nome feminino	co|[lé]|me|se
+colêmese	nome feminino	co|[lê]|me|se
+colemia	nome feminino	co|le|[mi]|a
+colémico	adjetivo	co|[lé]|mi|co
+colêmico	adjetivo	co|[lê]|mi|co
+colendo	adjetivo	co|[len]|do
+colênquima	nome masculino	co|[lên]|qui|ma
+colentino	adjetivo	co|len|[ti]|no
+colentino	nome masculino	co|len|[ti]|no
+cóleo	nome masculino	[có]|le|o
+coleodermo	adjetivo	co|le|o|[der]|mo
+coleofila	nome feminino	co|le|o|[fi]|la
+coleófito	nome masculino	co|le|[ó]|fi|to
+coleópode	adjetivo	co|le|[ó]|po|de
+coleóptero	nome masculino	co|le|[óp]|te|ro
+coleóptero	adjetivo	co|le|[óp]|te|ro
+coleopterologia	nome feminino	co|le|op|te|ro|lo|[gi]|a
+coleopterológico	adjetivo	co|le|op|te|ro|[ló]|gi|co
+coleopterólogo	nome masculino	co|le|op|te|[ró]|lo|go
+coleoptose	nome feminino	co|le|op|[to]|se
+coleorrexia	nome feminino	co|le|or|re|[xi]|a
+coleorriza	nome feminino	co|le|or|[ri]|za
+cólera	nome feminino	[có]|le|ra
+cólera-morbo	nome feminino	có|le|ra-mor|bo
+colerético	adjetivo	co|le|[ré]|ti|co
+colérica	nome feminino	co|[lé]|ri|ca
+colericamente	advérbio	co|le|ri|ca|[men]|te
+colérico	adjetivo	co|[lé]|ri|co
+colérico	nome masculino	co|[lé]|ri|co
+coleriforme	adjetivo	co|le|ri|[for]|me
+colerígeno	adjetivo	co|le|[rí]|ge|no
+colerina	nome feminino	co|le|[ri]|na
+colerínico	adjetivo	co|le|[rí]|ni|co
+colerínico	nome masculino	co|le|[rí]|ni|co
+colestase	nome feminino	co|les|[ta]|se
+colesteatoma	nome masculino	co|les|te|a|[to]|ma
+colesterato	nome masculino	co|les|te|[ra]|to
+colestérico	adjetivo	co|les|[té]|ri|co
+colesterina	nome feminino	co|les|te|[ri]|na
+colesterol	nome masculino	co|les|te|[rol]
+coleta	nome feminino	co|[le]|ta
+coletânea	nome feminino	co|le|[tâ]|ne|a
+coletâneo	adjetivo	co|le|[tâ]|ne|o
+coletar	verbo	co|le|[tar]
+coletário	nome masculino	co|le|[tá]|ri|o
+coletável	adjetivo	co|le|[tá]|vel
+colete	nome masculino	co|[le]|te
+colete	nome feminino	co|[le]|te
+colete de forças	nome masculino	co|[le]|te de for|ças
+coleteiro	nome masculino	co|le|[tei]|ro
+coletício	adjetivo	co|le|[tí]|ci|o
+colético	adjetivo	co|[lé]|ti|co
+coletivamente	advérbio	co|le|ti|va|[men]|te
+coletividade	nome feminino	co|le|ti|vi|[da]|de
+coletivismo	nome masculino	co|le|ti|[vis]|mo
+coletivista	adjetivo	co|le|ti|[vis]|ta
+coletivista	nome masculino	co|le|ti|[vis]|ta
+coletivista	nome feminino	co|le|ti|[vis]|ta
+coletivístico	adjetivo	co|le|ti|[vís]|ti|co
+coletivização	nome feminino	co|le|ti|vi|za|[ção]
+coletivizar	verbo	co|le|ti|vi|[zar]
+coletivo	adjetivo	co|le|[ti]|vo
+coletivo	nome masculino	co|le|[ti]|vo
+coletor	adjetivo	co|le|[tor]
+coletor	nome masculino	co|le|[tor]
+coletora	nome feminino	co|le|[to]|ra
+coletoria	nome feminino	co|le|to|[ri]|a
+colexa	nome feminino	co|[le]|xa
+colgado	adjetivo	col|[ga]|do
+colgadura	nome feminino	col|ga|[du]|ra
+colgalho	nome masculino	col|[ga]|lho
+colgar	verbo	col|[gar]
+colha	nome feminino	[co]|lha
+colhada	nome feminino	co|[lha]|da
+colhão	nome masculino	co|[lhão]
+colhedeira	nome feminino	co|lhe|[dei]|ra
+colhedor	adjetivo	co|lhe|[dor]
+colhedor	nome masculino	co|lhe|[dor]
+colheira	nome feminino	co|[lhei]|ra
+colheita	nome feminino	co|[lhei]|ta
+colheiteiro	nome masculino	co|lhei|[tei]|ro
+colher	verbo	co|[lher]
+colher	nome feminino	co|[lher]
+colheraça	nome feminino	co|lhe|[ra]|ça
+colherada	nome feminino	co|lhe|[ra]|da
+colherão	nome masculino	co|lhe|[rão]

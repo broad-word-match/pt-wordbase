@@ -1,0 +1,100 @@
+pseudoiônico	adjetivo	pseu|doi|[ô]|ni|co
+pseudoiónico	adjetivo	pseu|doi|[ó]|ni|co
+pseudoiónico	nome masculino	pseu|doi|[ó]|ni|co
+pseudoiônico	nome masculino	pseu|doi|[ô]|ni|co
+pseudoionismo	nome masculino	pseu|doi|o|[nis]|mo
+pseudoleucite	nome feminino	pseu|do|leu|[ci]|te
+pseudólito	nome masculino	pseu|[dó]|li|to
+pseudomalaquite	nome feminino	pseu|do|ma|la|[qui]|te
+pseudomembrana	nome feminino	pseu|do|mem|[bra]|na
+pseudomeningite	nome feminino	pseu|do|me|nin|[gi]|te
+pseudomnesia	nome feminino	pseu|dom|ne|[si]|a
+pseudomnésico	adjetivo	pseu|dom|[né]|si|co
+pseudomnéstico	adjetivo	pseu|dom|[nés]|ti|co
+pseudomônade	nome feminino	pseu|do|[mô]|na|de
+pseudomónade	nome feminino	pseu|do|[mó]|na|de
+pseudomorfismo	nome masculino	pseu|do|mor|[fis]|mo
+pseudomorfo	adjetivo	pseu|do|[mor]|fo
+pseudomorfose	nome feminino	pseu|do|mor|[fo]|se
+pseudonefelina	nome feminino	pseu|do|ne|fe|[li]|na
+pseudonefrite	nome feminino	pseu|do|ne|[fri]|te
+pseudoneuróptero	nome masculino	pseu|do|neu|[róp]|te|ro
+pseudonevróptero	nome masculino	pseu|do|ne|[vróp]|te|ro
+pseudonimamente	advérbio	pseu|do|ni|ma|[men]|te
+pseudonímia	nome feminino	pseu|do|[ní]|mi|a
+pseudonímico	adjetivo	pseu|do|[ní]|mi|co
+pseudónimo	nome masculino	pseu|[dó]|ni|mo
+pseudônimo	adjetivo	pseu|[dô]|ni|mo
+pseudônimo	nome masculino	pseu|[dô]|ni|mo
+pseudónimo	adjetivo	pseu|[dó]|ni|mo
+pseudoparênquima	nome masculino	pseu|do|pa|[rên]|qui|ma
+pseudópode	nome masculino	pseu|[dó]|po|de
+pseudopódico	adjetivo	pseu|do|[pó]|di|co
+pseudoprofecia	nome feminino	pseu|do|pro|fe|[ci]|a
+pseudoprofeta	nome masculino	pseu|do|pro|[fe]|ta
+pseudoprofético	adjetivo	pseu|do|pro|[fé]|ti|co
+pseudoprofetisa	nome feminino	pseu|do|pro|fe|[ti]|sa
+pseudorréctico	adjetivo	pseu|dor|[réc]|ti|co
+pseudorrético	adjetivo	pseu|dor|[ré]|ti|co
+pseudorrevelação	nome feminino	pseu|dor|re|ve|la|[ção]
+pseudorrexia	nome feminino	pseu|dor|re|[xi]|a
+pseudoscopia	nome feminino	pseu|dos|co|[pi]|a
+pseudoscópico	adjetivo	pseu|dos|[có]|pi|co
+pseudoscópio	nome masculino	pseu|dos|[có]|pi|o
+pseudosmia	nome feminino	pseu|dos|[mi]|a
+pseudósmico	adjetivo	pseu|[dós]|mi|co
+pseudosofia	nome feminino	pseu|do|so|[fi]|a
+pseudosófico	adjetivo	pseu|do|[só]|fi|co
+pseudospermo	adjetivo	pseu|dos|[per]|mo
+pseudossábio	nome masculino	pseu|dos|[sá]|bi|o
+pseudossínodo	nome masculino	pseu|dos|[sí]|no|do
+pseudosteose	nome feminino	pseu|dos|te|[o]|se
+pseudotecido	nome masculino	pseu|do|te|[ci]|do
+pseudotopázio	nome masculino	pseu|do|to|[pá]|zi|o
+pseudotoxina	nome feminino	pseu|do|to|[xi]|na
+pseudotridimite	nome feminino	pseu|do|tri|di|[mi]|te
+pseudotuberculose	nome feminino	pseu|do|tu|ber|cu|[lo]|se
+pseudozoário	adjetivo	pseu|do|zo|[á]|ri|o
+psi	nome masculino	[psi]
+psiádia	nome feminino	psi|[á]|di|a
+psicadélico	adjetivo	psi|ca|[dé]|li|co
+psicadelismo	nome masculino	psi|ca|de|[lis]|mo
+psicagogia	nome feminino	psi|ca|go|[gi]|a
+psicagógico	adjetivo	psi|ca|[gó]|gi|co
+psicagogo	nome masculino	psi|ca|[go]|go
+psicalgia	nome feminino	psi|cal|[gi]|a
+psicálgico	adjetivo	psi|[cál]|gi|co
+psicanalisado	adjetivo	psi|ca|na|li|[sa]|do
+psicanalisado	nome masculino	psi|ca|na|li|[sa]|do
+psicanalisar	verbo	psi|ca|na|li|[sar]
+psicanálise	nome feminino	psi|ca|[ná]|li|se
+psicanalista	adjetivo	psi|ca|na|[lis]|ta
+psicanalista	nome masculino	psi|ca|na|[lis]|ta
+psicanalista	nome feminino	psi|ca|na|[lis]|ta
+psicanalítico	adjetivo	psi|ca|na|[lí]|ti|co
+psicastenia	nome feminino	psi|cas|te|[ni]|a
+psicasténico	adjetivo	psi|cas|[té]|ni|co
+psicasténico	nome masculino	psi|cas|[té]|ni|co
+psicastênico	adjetivo	psi|cas|[tê]|ni|co
+psicastênico	nome masculino	psi|cas|[tê]|ni|co
+psiché	nome masculino	psi|[ché]
+psichê	nome masculino	psi|[chê]
+psicoativo	adjetivo	psi|co|a|[ti]|vo
+psicobiologia	nome feminino	psi|co|bi|o|lo|[gi]|a
+psicobiológico	adjetivo	psi|co|bi|o|[ló]|gi|co
+psicobiologista	adjetivo	psi|co|bi|o|lo|[gis]|ta
+psicobiologista	nome masculino	psi|co|bi|o|lo|[gis]|ta
+psicobiologista	nome feminino	psi|co|bi|o|lo|[gis]|ta
+psicobiólogo	nome masculino	psi|co|bi|[ó]|lo|go
+psicochoque	nome masculino	psi|co|[cho]|que
+psicocirurgia	nome feminino	psi|co|ci|rur|[gi]|a
+psicocirurgião	nome masculino	psi|co|ci|rur|gi|[ão]
+psicocirúrgico	adjetivo	psi|co|ci|[rúr]|gi|co
+psicocrítica	nome feminino	psi|co|[crí]|ti|ca
+psicodelismo	nome masculino	psi|co|de|[lis]|mo
+psicodiagnóstico	nome masculino	psi|co|di|ag|[nós]|ti|co
+psicodinâmica	nome feminino	psi|co|di|[nâ]|mi|ca
+psicodinâmico	adjetivo	psi|co|di|[nâ]|mi|co
+psicodinamismo	nome masculino	psi|co|di|na|[mis]|mo
+psicodisléptico	nome masculino	psi|co|dis|[lép]|ti|co
+psicodisléptico	adjetivo	psi|co|dis|[lép]|ti|co

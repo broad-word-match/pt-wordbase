@@ -1,0 +1,100 @@
+formalidade	nome feminino	for|ma|li|[da]|de
+formalina	nome feminino	for|ma|[li]|na
+formálio	nome masculino	for|[má]|li|o
+formalismo	nome masculino	for|ma|[lis]|mo
+formalista	nome masculino	for|ma|[lis]|ta
+formalista	adjetivo	for|ma|[lis]|ta
+formalista	nome feminino	for|ma|[lis]|ta
+formalística	nome feminino	for|ma|[lís]|ti|ca
+formalístico	adjetivo	for|ma|[lís]|ti|co
+formalização	nome feminino	for|ma|li|za|[ção]
+formalizado	adjetivo	for|ma|li|[za]|do
+formalizar	verbo	for|ma|li|[zar]
+formalizável	adjetivo	for|ma|li|[zá]|vel
+formalmente	advérbio	for|mal|[men]|te
+formalote	nome masculino	for|ma|[lo]|te
+formando	nome masculino	for|[man]|do
+formão	nome masculino	for|[mão]
+formar	verbo	for|[mar]
+formaria	nome feminino	for|ma|[ri]|a
+formatação	nome feminino	for|ma|ta|[ção]
+formatado	adjetivo	for|ma|[ta]|do
+formatar	verbo	for|ma|[tar]
+formativamente	advérbio	for|ma|ti|va|[men]|te
+formativo	adjetivo	for|ma|[ti]|vo
+formato	nome masculino	for|[ma]|to
+formatura	nome feminino	for|ma|[tu]|ra
+formável	adjetivo	for|[má]|vel
+formeiro	nome masculino	for|[mei]|ro
+formena	nome feminino	for|[me]|na
+forménico	adjetivo	for|[mé]|ni|co
+formênico	adjetivo	for|[mê]|ni|co
+formeno	nome masculino	for|[me]|no
+formenofone	nome masculino	for|me|no|[fo]|ne
+formiano	adjetivo	for|mi|[a]|no
+formiano	nome masculino	for|mi|[a]|no
+formiato	nome masculino	for|mi|[a]|to
+fórmica	nome feminino	[fór]|mi|ca
+formica	nome feminino	for|[mi]|ca
+formicação	nome feminino	for|mi|ca|[ção]
+formicante	adjetivo	for|mi|[can]|te
+formicarídeo	nome masculino	for|mi|ca|[rí]|de|o
+formicariídeo	adjetivo	for|mi|ca|ri|[í]|de|o
+formicariídeo	nome masculino	for|mi|ca|ri|[í]|de|o
+formicário	adjetivo	for|mi|[cá]|ri|o
+formicário	nome masculino	for|mi|[cá]|ri|o
+formícida	nome masculino	for|[mí]|ci|da
+formicida	nome masculino	for|mi|[ci]|da
+formicida	adjetivo	for|mi|[ci]|da
+formicídeo	nome masculino	for|mi|[cí]|de|o
+formicídeo	adjetivo	for|mi|[cí]|de|o
+formicídeo	nome masculino	for|mi|[cí]|de|o
+formicídio	nome masculino	for|mi|[cí]|di|o
+formicívoro	adjetivo	for|mi|[cí]|vo|ro
+fórmico	adjetivo	[fór]|mi|co
+formicular	adjetivo	for|mi|cu|[lar]
+formidando	adjetivo	for|mi|[dan]|do
+formidável	adjetivo	for|mi|[dá]|vel
+formidavelmente	advérbio	for|mi|da|vel|[men]|te
+formídio	nome masculino	for|[mí]|di|o
+formidolosamente	advérbio	for|mi|do|lo|sa|[men]|te
+formidoloso	adjetivo	for|mi|do|[lo]|so
+formiga	nome feminino	for|[mi]|ga
+formiga	adjetivo	for|[mi]|ga
+formiga-branca	nome feminino	for|mi|ga-bran|ca
+formiga-de-fogo	nome feminino	for|mi|ga-de-fo|go
+formiga-leão	nome feminino	for|mi|ga-le|[ão]
+formigal	nome masculino	for|mi|[gal]
+formigame	nome masculino	for|mi|[ga]|me
+formigamento	nome masculino	for|mi|ga|[men]|to
+formigante	adjetivo	for|mi|[gan]|te
+formigão	adjetivo	for|mi|[gão]
+formigão	nome masculino	for|mi|[gão]
+formigar	verbo	for|mi|[gar]
+formigo	nome masculino	for|[mi]|go
+formiguedo	nome masculino	for|mi|[gue]|do
+formigueira	nome feminino	for|mi|[guei]|ra
+formigueirinho	nome masculino	for|mi|guei|[ri]|nho
+formigueiro	nome masculino	for|mi|[guei]|ro
+formigueiro	adjetivo	for|mi|[guei]|ro
+formiguejar	verbo	for|mi|gue|[jar]
+formiguilho	nome masculino	for|mi|[gui]|lho
+formilha	nome feminino	for|[mi]|lha
+formilhão	nome masculino	for|mi|[lhão]
+formilhar	verbo	for|mi|[lhar]
+formilho	nome masculino	for|[mi]|lho
+forminha	nome feminino	for|[mi]|nha
+fórmio	nome masculino	[fór]|mi|o
+formista	nome masculino	for|[mis]|ta
+formista	nome feminino	for|[mis]|ta
+formol	nome masculino	for|[mol]
+formolizador	nome masculino	for|mo|li|za|[dor]
+formolizar	verbo	for|mo|li|[zar]
+formosa	nome feminino	for|[mo]|sa
+formosa-de-um-dia	nome feminino	for|mo|sa-de-um-di|a
+formosa-sem-dote	nome feminino	for|mo|sa-sem-do|te
+formosamente	advérbio	for|mo|sa|[men]|te
+formosana	nome feminino	for|mo|[sa]|na
+formosano	adjetivo	for|mo|[sa]|no
+formosano	nome masculino	for|mo|[sa]|no
+formosear	verbo	for|mo|se|[ar]

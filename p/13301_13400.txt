@@ -1,0 +1,100 @@
+prisma	nome masculino	[pris]|ma
+prismado	adjetivo	pris|[ma]|do
+prismática	nome feminino	pris|[má]|ti|ca
+prismático	adjetivo	pris|[má]|ti|co
+prismatina	nome feminino	pris|ma|[ti]|na
+prismatização	nome feminino	pris|ma|ti|za|[ção]
+prismatizar	verbo	pris|ma|ti|[zar]
+prismatoide	adjetivo	pris|ma|[toi]|de
+prísmeo	adjetivo	[prís]|me|o
+prismoide	adjetivo	pris|[moi]|de
+prisoeira	nome feminino	pri|so|[ei]|ra
+prisoneira	nome feminino	pri|so|[nei]|ra
+prisoneiro	adjetivo	pri|so|[nei]|ro
+prisoneiro	nome masculino	pri|so|[nei]|ro
+prista	nome masculino	[pris]|ta
+priste	nome feminino	[pris]|te
+pristídeo	adjetivo	pris|[tí]|de|o
+prístino	adjetivo	[prís]|ti|no
+pristiopomídeo	nome masculino	pris|ti|o|po|[mí]|de|o
+pristiopomo	nome masculino	pris|ti|o|[po]|mo
+prítane	nome masculino	[prí]|ta|ne
+pritaneu	nome masculino	pri|ta|[neu]
+prítica	nome feminino	[prí]|ti|ca
+prítico	nome masculino	[prí]|ti|co
+prítiga	nome feminino	[prí]|ti|ga
+privação	nome feminino	pri|va|[ção]
+privacidade	nome feminino	pri|va|ci|[da]|de
+privada	nome feminino	pri|[va]|da
+privadamente	advérbio	pri|va|da|[men]|te
+privado	adjetivo	pri|[va]|do
+privado	nome masculino	pri|[va]|do
+privança	nome feminino	pri|[van]|ça
+privar	verbo	pri|[var]
+privatístico	adjetivo	pri|va|[tís]|ti|co
+privativamente	advérbio	pri|va|ti|va|[men]|te
+privativo	adjetivo	pri|va|[ti]|vo
+privatização	nome feminino	pri|va|ti|za|[ção]
+privatizado	adjetivo	pri|va|ti|[za]|do
+privatizar	verbo	pri|va|ti|[zar]
+privável	adjetivo	pri|[vá]|vel
+privernate	adjetivo	pri|ver|[na]|te
+privernate	nome masculino	pri|ver|[na]|te
+privernate	nome feminino	pri|ver|[na]|te
+privilegiada	nome feminino	pri|vi|le|gi|[a]|da
+privilegiadamente	advérbio	pri|vi|le|gi|a|da|[men]|te
+privilegiado	adjetivo	pri|vi|le|gi|[a]|do
+privilegiado	nome masculino	pri|vi|le|gi|[a]|do
+privilegiar	verbo	pri|vi|le|gi|[ar]
+privilégio	nome masculino	pri|vi|[lé]|gi|o
+prize-money	nome masculino	pri|ze-mo|ney
+pró	nome masculino	[pró]
+pró	preposição	[pró]
+pró	advérbio	[pró]
+pró	contração	[pró]
+pró-aborto	nome masculino	pró-a|[bor]|to
+pró-aborto	adjetivo	pró-a|[bor]|to
+pró-americana	nome feminino	pró-a|me|ri|[ca]|na
+pró-americano	nome masculino	pró-a|me|ri|[ca]|no
+pró-americano	adjetivo	pró-a|me|ri|[ca]|no
+pró-ativo	adjetivo	pró-a|[ti]|vo
+pró-britânico	adjetivo	pró-bri|[tâ]|ni|co
+pró-democracia	adjetivo	pró-de|mo|cra|[ci]|a
+pró-escolha	adjetivo	pró-es|[co]|lha
+pró-europeu	adjetivo	pró-eu|ro|[peu]
+pró-forma	nome masculino	pró-for|ma
+pró-forma	adjetivo	pró-for|ma
+pró-germânico	adjetivo	pró-ger|[mâ]|ni|co
+pró-governamental	adjetivo	pró-go|ver|na|men|[tal]
+pró-homem	nome masculino	pró-ho|mem
+pró-israelita	adjetivo	pró-is|ra|e|[li]|ta
+pró-ocidental	adjetivo	pró-o|ci|den|[tal]
+pró-reitor	nome masculino	pró-rei|[tor]
+pró-russo	adjetivo	pró-rus|so
+pró-sírio	adjetivo	pró-sí|ri|o
+pró-soviético	adjetivo	pró-so|vi|[é]|ti|co
+pró-vida	adjetivo	pró-vi|da
+proa	nome feminino	[pro]|a
+proa	nome masculino	[pro]|a
+proada	nome feminino	pro|[a]|da
+proágoro	nome masculino	pro|[á]|go|ro
+proar	verbo	pro|[ar]
+probabilidade	nome feminino	pro|ba|bi|li|[da]|de
+probabiliorismo	nome masculino	pro|ba|bi|li|o|[ris]|mo
+probabiliorista	adjetivo	pro|ba|bi|li|o|[ris]|ta
+probabiliorista	nome masculino	pro|ba|bi|li|o|[ris]|ta
+probabiliorista	nome feminino	pro|ba|bi|li|o|[ris]|ta
+probabilismo	nome masculino	pro|ba|bi|[lis]|mo
+probabilista	adjetivo	pro|ba|bi|[lis]|ta
+probabilista	nome masculino	pro|ba|bi|[lis]|ta
+probabilista	nome feminino	pro|ba|bi|[lis]|ta
+probabilístico	adjetivo	pro|ba|bi|[lís]|ti|co
+probabilizar	verbo	pro|ba|bi|li|[zar]
+probamente	advérbio	pro|ba|[men]|te
+probante	adjetivo	pro|[ban]|te
+probático	adjetivo	pro|[bá]|ti|co
+probatório	adjetivo	pro|ba|[tó]|ri|o
+probidade	nome feminino	pro|bi|[da]|de
+problema	nome masculino	pro|[ble]|ma
+problemática	nome feminino	pro|ble|[má]|ti|ca
+problematicamente	advérbio	pro|ble|ma|ti|ca|[men]|te

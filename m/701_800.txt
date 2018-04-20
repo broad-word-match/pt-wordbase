@@ -1,0 +1,100 @@
+madjonidjoni	nome masculino	mad|jo|nid|jo|[ni]
+madjuba	nome masculino	mad|[ju]|ba
+madoda	nome masculino	ma|[do]|da
+madona	nome feminino	ma|[do]|na
+madonna	nome feminino	ma|don|na
+madorna	nome feminino	ma|[dor]|na
+madorneira	nome feminino	ma|dor|[nei]|ra
+madornento	adjetivo	ma|dor|[nen]|to
+madornice	nome feminino	ma|dor|[ni]|ce
+madorra	nome feminino	ma|[dor]|ra
+madorrar	verbo	ma|dor|[rar]
+madorrento	adjetivo	ma|dor|[ren]|to
+madraça	nome feminino	ma|[dra]|ça
+madraçal	nome masculino	ma|dra|[çal]
+madraçar	verbo	ma|dra|[çar]
+madraçaria	nome feminino	ma|dra|ça|[ri]|a
+madraceador	adjetivo	ma|dra|ce|a|[dor]
+madraceador	nome masculino	ma|dra|ce|a|[dor]
+madracear	verbo	ma|dra|ce|[ar]
+madraceira	nome feminino	ma|dra|[cei]|ra
+madraceirão	adjetivo	ma|dra|cei|[rão]
+madraceirão	nome masculino	ma|dra|cei|[rão]
+madraceirar	verbo	ma|dra|cei|[rar]
+madraceiro	adjetivo	ma|dra|[cei]|ro
+madraceiro	nome masculino	ma|dra|[cei]|ro
+madracice	nome feminino	ma|dra|[ci]|ce
+madraço	adjetivo	ma|[dra]|ço
+madraço	nome masculino	ma|[dra]|ço
+madrafaxão	nome masculino	ma|dra|fa|[xão]
+madragoa	nome feminino	ma|dra|[go]|a
+madrassa	nome feminino	ma|[dras]|sa
+madrasta	nome feminino	ma|[dras]|ta
+madrasta	adjetivo	ma|[dras]|ta
+madrasto	nome masculino	ma|[dras]|to
+madrasto	adjetivo	ma|[dras]|to
+madre	nome feminino	[ma]|dre
+madre-deuense	nome masculino	ma|dre-deu|[en]|se
+madre-deuense	nome feminino	ma|dre-deu|[en]|se
+madre-deusense	adjetivo	ma|dre-deu|[sen]|se
+madrecravo	nome feminino	ma|dre|[cra]|vo
+madrefila	nome feminino	ma|dre|[fi]|la
+madrepérola	nome feminino	ma|dre|[pé]|ro|la
+madreperolado	adjetivo	ma|dre|pe|ro|[la]|do
+madrépora	nome feminino	ma|[dré]|po|ra
+madreporário	adjetivo	ma|dre|po|[rá]|ri|o
+madreporário	nome masculino	ma|dre|po|[rá]|ri|o
+madrepórico	adjetivo	ma|dre|[pó]|ri|co
+madrepórida	nome masculino	ma|dre|[pó]|ri|da
+madreporídeo	nome masculino	ma|dre|po|[rí]|de|o
+madreporídeo	adjetivo	ma|dre|po|[rí]|de|o
+madreporífero	adjetivo	ma|dre|po|[rí]|fe|ro
+madreporiforme	adjetivo	ma|dre|po|ri|[for]|me
+madreporita	nome feminino	ma|dre|po|[ri]|ta
+madreporite	nome feminino	ma|dre|po|[ri]|te
+madressilva	nome feminino	ma|dres|[sil]|va
+madria	nome feminino	ma|[dri]|a
+madrigal	nome masculino	ma|dri|[gal]
+madrigalesco	adjetivo	ma|dri|ga|[les]|co
+madrigalete	nome masculino	ma|dri|ga|[le]|te
+madrigálico	adjetivo	ma|dri|[gá]|li|co
+madrigalista	nome masculino	ma|dri|ga|[lis]|ta
+madrigalista	nome feminino	ma|dri|ga|[lis]|ta
+madrigalizar	verbo	ma|dri|ga|li|[zar]
+madrigaz	nome masculino	ma|dri|[gaz]
+madrigoa	nome feminino	ma|dri|[go]|a
+madrigueira	nome feminino	ma|dri|[guei]|ra
+madrija	nome feminino	ma|[dri]|ja
+madrijo	nome masculino	ma|[dri]|jo
+madrilena	nome feminino	ma|dri|[le]|na
+madrileno	nome masculino	ma|dri|[le]|no
+madrileno	adjetivo	ma|dri|[le]|no
+madrilense	adjetivo	ma|dri|[len]|se
+madrilense	nome masculino	ma|dri|[len]|se
+madrilense	nome feminino	ma|dri|[len]|se
+madrilês	adjetivo	ma|dri|[lês]
+madrilês	nome masculino	ma|dri|[lês]
+madrilheira	nome feminino	ma|dri|[lhei]|ra
+madrinha	nome feminino	ma|[dri]|nha
+madrinhado	nome masculino	ma|dri|[nha]|do
+madrinheiro	nome masculino	ma|dri|[nhei]|ro
+madriz	nome feminino	ma|[driz]
+madrugada	nome feminino	ma|dru|[ga]|da
+madrugador	adjetivo	ma|dru|ga|[dor]
+madrugador	nome masculino	ma|dru|ga|[dor]
+madrugadora	nome feminino	ma|dru|ga|[do]|ra
+madrugar	verbo	ma|dru|[gar]
+maduateno	adjetivo	ma|du|a|[te]|no
+maduateno	nome masculino	ma|du|a|[te]|no
+madura	nome feminino	ma|[du]|ra
+maduração	nome feminino	ma|du|ra|[ção]
+madurador	adjetivo	ma|du|ra|[dor]
+madural	nome feminino	ma|du|[ral]
+maduramente	advérbio	ma|du|ra|[men]|te
+madurão	adjetivo	ma|du|[rão]
+madurão	nome masculino	ma|du|[rão]
+madurar	verbo	ma|du|[rar]
+madurecer	verbo	ma|du|re|[cer]
+madureiro	nome masculino	ma|du|[rei]|ro
+madurês	nome masculino	ma|du|[rês]
+madurês	adjetivo	ma|du|[rês]

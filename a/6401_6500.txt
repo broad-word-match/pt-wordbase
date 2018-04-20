@@ -1,0 +1,100 @@
+agravante	nome feminino	a|gra|[van]|te
+agravante	adjetivo	a|gra|[van]|te
+agravar	verbo	a|gra|[var]
+agravativo	adjetivo	a|gra|va|[ti]|vo
+agravatório	adjetivo	a|gra|va|[tó]|ri|o
+agravável	adjetivo	a|gra|[vá]|vel
+agraviar	verbo	a|gra|vi|[ar]
+agravista	nome masculino	a|gra|[vis]|ta
+agravo	nome masculino	a|[gra]|vo
+agravonita	adjetivo	a|gra|vo|[ni]|ta
+agravonita	nome masculino	a|gra|vo|[ni]|ta
+agravonita	nome feminino	a|gra|vo|[ni]|ta
+agravoso	adjetivo	a|gra|[vo]|so
+agraz	adjetivo	a|[graz]
+agraz	nome masculino	a|[graz]
+agre	adjetivo	[a]|gre
+agredida	nome feminino	a|gre|[di]|da
+agredido	adjetivo	a|gre|[di]|do
+agredido	nome masculino	a|gre|[di]|do
+agredir	verbo	a|gre|[dir]
+agregação	nome feminino	a|gre|ga|[ção]
+agregada	nome feminino	a|gre|[ga]|da
+agregado	adjetivo	a|gre|[ga]|do
+agregado	nome masculino	a|gre|[ga]|do
+agregador	adjetivo	a|gre|ga|[dor]
+agregador	nome masculino	a|gre|ga|[dor]
+agregar	verbo	a|gre|[gar]
+agregativo	adjetivo	a|gre|ga|[ti]|vo
+agregável	adjetivo	a|gre|[gá]|vel
+agreira	nome feminino	a|[grei]|ra
+agrela	nome feminino	a|[gre]|la
+agrément	nome masculino	a|gré|ment
+agremente	advérbio	a|gre|[men]|te
+agremiação	nome feminino	a|gre|mi|a|[ção]
+agremiada	nome feminino	a|gre|mi|[a]|da
+agremiadamente	advérbio	a|gre|mi|a|da|[men]|te
+agremiado	adjetivo	a|gre|mi|[a]|do
+agremiado	nome masculino	a|gre|mi|[a]|do
+agremiador	adjetivo	a|gre|mi|a|[dor]
+agremiador	nome masculino	a|gre|mi|a|[dor]
+agremiar	verbo	a|gre|mi|[ar]
+agremiativo	adjetivo	a|gre|mi|a|[ti]|vo
+agremiável	adjetivo	a|gre|mi|[á]|vel
+agressão	nome feminino	a|gres|[são]
+agressina	nome feminino	a|gres|[si]|na
+agressivamente	advérbio	a|gres|si|va|[men]|te
+agressividade	nome feminino	a|gres|si|vi|[da]|de
+agressivo	adjetivo	a|gres|[si]|vo
+agressor	adjetivo	a|gres|[sor]
+agressor	nome masculino	a|gres|[sor]
+agressora	nome feminino	a|gres|[so]|ra
+agressório	adjetivo	a|gres|[só]|ri|o
+agresta	nome feminino	a|[gres]|ta
+agreste	adjetivo	a|[gres]|te
+agreste	nome masculino	a|[gres]|te
+agrestemente	advérbio	a|gres|te|[men]|te
+agrestia	nome feminino	a|gres|[ti]|a
+agrestice	nome feminino	a|gres|[ti]|ce
+agrestidade	nome feminino	a|gres|ti|[da]|de
+agreu	adjetivo	a|[greu]
+agreu	nome masculino	a|[greu]
+agrial	nome masculino	a|gri|[al]
+agriane	adjetivo	a|gri|[a]|ne
+agriane	nome masculino	a|gri|[a]|ne
+agriane	nome feminino	a|gri|[a]|ne
+agrião	nome masculino	a|gri|[ão]
+agrião-do-brasil	nome masculino	a|gri|ão-do-bra|[sil]
+agrião-do-pará	nome masculino	a|gri|ão-do-pa|[rá]
+agriçar	verbo	a|gri|[çar]
+agrícola	adjetivo	a|[grí]|co|la
+agrícola	nome masculino	a|[grí]|co|la
+agricolamente	advérbio	a|gri|co|la|[men]|te
+agricultar	verbo	a|gri|cul|[tar]
+agricultável	adjetivo	a|gri|cul|[tá]|vel
+agricultor	nome masculino	a|gri|cul|[tor]
+agricultor	adjetivo	a|gri|cul|[tor]
+agricultora	nome feminino	a|gri|cul|[to]|ra
+agricultura	nome feminino	a|gri|cul|[tu]|ra
+agridoce	nome masculino	a|gri|[do]|ce
+agridoce	nome feminino	a|gri|[do]|ce
+agridoce	adjetivo	a|gri|[do]|ce
+agrigentino	adjetivo	a|gri|gen|[ti]|no
+agrigentino	nome masculino	a|gri|gen|[ti]|no
+agrilhetar	verbo	a|gri|lhe|[tar]
+agrilhoado	adjetivo	a|gri|lho|[a]|do
+agrilhoador	adjetivo	a|gri|lho|a|[dor]
+agrilhoador	nome masculino	a|gri|lho|a|[dor]
+agrilhoamento	nome masculino	a|gri|lho|a|[men]|to
+agrilhoar	verbo	a|gri|lho|[ar]
+agrilhoável	adjetivo	a|gri|lho|[á]|vel
+agrimar	verbo	a|gri|[mar]
+agrimensão	nome feminino	a|gri|men|[são]
+agrimensar	verbo	a|gri|men|[sar]
+agrimensor	nome masculino	a|gri|men|[sor]
+agrimensório	adjetivo	a|gri|men|[só]|ri|o
+agrimensura	nome feminino	a|gri|men|[su]|ra
+agrimónia	nome feminino	a|gri|[mó]|ni|a
+agrimônia	nome feminino	a|gri|[mô]|ni|a
+agrimusa	nome feminino	a|gri|[mu]|sa
+agrinaldar	verbo	a|gri|nal|[dar]

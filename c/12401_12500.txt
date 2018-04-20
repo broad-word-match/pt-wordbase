@@ -1,0 +1,100 @@
+colchão	nome masculino	col|[chão]
+colcheia	nome feminino	col|[chei]|a
+colcheiro	nome masculino	col|[chei]|ro
+colcheta	nome feminino	col|[che]|ta
+colchetar	verbo	col|che|[tar]
+colchete	nome masculino	col|[che]|te
+colchetear	verbo	col|che|te|[ar]
+colchoar	verbo	col|cho|[ar]
+colchoaria	nome feminino	col|cho|a|[ri]|a
+colchoeira	nome feminino	col|cho|[ei]|ra
+colchoeiro	nome masculino	col|cho|[ei]|ro
+colco	adjetivo	[col]|co
+colco	nome masculino	[col]|co
+colcotar	nome masculino	col|co|[tar]
+coldre	nome masculino	[col]|dre
+coleado	adjetivo	co|le|[a]|do
+coleamento	nome masculino	co|le|a|[men]|to
+coleante	adjetivo	co|le|[an]|te
+colear	verbo	co|le|[ar]
+coleção	nome feminino	co|le|[ção]
+colecionação	nome feminino	co|le|ci|o|na|[ção]
+colecionador	adjetivo	co|le|ci|o|na|[dor]
+colecionador	nome masculino	co|le|ci|o|na|[dor]
+colecionadora	nome feminino	co|le|ci|o|na|[do]|ra
+colecionar	verbo	co|le|ci|o|[nar]
+colecionável	adjetivo	co|le|ci|o|[ná]|vel
+colecionismo	nome masculino	co|le|ci|o|[nis]|mo
+colecionista	nome masculino	co|le|ci|o|[nis]|ta
+colecionista	nome feminino	co|le|ci|o|[nis]|ta
+colecionístico	adjetivo	co|le|ci|o|[nís]|ti|co
+coleciste	nome feminino	co|le|[cis]|te
+colecistectomia	nome feminino	co|le|cis|tec|to|[mi]|a
+colecistectómico	adjetivo	co|le|cis|tec|[tó]|mi|co
+colecistectômico	adjetivo	co|le|cis|tec|[tô]|mi|co
+colecistiectasia	nome feminino	co|le|cis|ti|ec|ta|[si]|a
+colecistiectomia	nome feminino	co|le|cis|ti|ec|to|[mi]|a
+colecistienterostomia	nome feminino	co|le|cis|ti|en|te|ros|to|[mi]|a
+colecistiocele	nome feminino	co|le|cis|ti|o|[ce]|le
+colecistiografia	nome feminino	co|le|cis|ti|o|gra|[fi]|a
+colecistiolitotripsia	nome feminino	co|le|cis|ti|o|li|to|trip|[si]|a
+colecistiopexia	nome feminino	co|le|cis|ti|o|pe|[xi]|a
+colecistioptose	nome feminino	co|le|cis|ti|op|[to]|se
+colecistiorrafia	nome feminino	co|le|cis|ti|or|ra|[fi]|a
+colecistiostomia	nome feminino	co|le|cis|ti|os|to|[mi]|a
+colecistiotomia	nome feminino	co|le|cis|ti|o|to|[mi]|a
+colecistite	nome feminino	co|le|cis|[ti]|te
+colecistografar	verbo	co|le|cis|to|gra|[far]
+colecistografia	nome feminino	co|le|cis|to|gra|[fi]|a
+colecistográfico	adjetivo	co|le|cis|to|[grá]|fi|co
+colecistotomia	nome feminino	co|le|cis|to|to|[mi]|a
+colecta	nome feminino	co|[lec]|ta
+colectânea	nome feminino	co|lec|[tâ]|ne|a
+colectâneo	adjetivo	co|lec|[tâ]|ne|o
+colectar	verbo	co|lec|[tar]
+colectário	nome masculino	co|lec|[tá]|ri|o
+colectasia	nome feminino	co|lec|ta|[si]|a
+colectável	adjetivo	co|lec|[tá]|vel
+colectício	adjetivo	co|lec|[tí]|ci|o
+colectivamente	advérbio	co|lec|ti|va|[men]|te
+colectividade	nome feminino	co|lec|ti|vi|[da]|de
+colectivismo	nome masculino	co|lec|ti|[vis]|mo
+colectivista	nome masculino	co|lec|ti|[vis]|ta
+colectivista	adjetivo	co|lec|ti|[vis]|ta
+colectivista	nome feminino	co|lec|ti|[vis]|ta
+colectivístico	adjetivo	co|lec|ti|[vís]|ti|co
+colectivização	nome feminino	co|lec|ti|vi|za|[ção]
+colectivizar	verbo	co|lec|ti|vi|[zar]
+colectivo	adjetivo	co|lec|[ti]|vo
+colectivo	nome masculino	co|lec|[ti]|vo
+colectomia	nome feminino	co|lec|to|[mi]|a
+colector	nome masculino	co|lec|[tor]
+colector	adjetivo	co|lec|[tor]
+colectora	nome feminino	co|lec|[to]|ra
+colectoria	nome feminino	co|lec|to|[ri]|a
+colédoco	nome masculino	co|[lé]|do|co
+coledocolitotripsia	nome feminino	co|le|do|co|li|to|trip|[si]|a
+coledocoplastia	nome feminino	co|le|do|co|plas|[ti]|a
+coledocoplástico	adjetivo	co|le|do|co|[plás]|ti|co
+coledocotomia	nome feminino	co|le|do|co|to|[mi]|a
+coledocotômico	adjetivo	co|le|do|co|[tô]|mi|co
+coledocotómico	adjetivo	co|le|do|co|[tó]|mi|co
+coledoquite	nome feminino	co|le|do|[qui]|te
+colega	nome masculino	co|[le]|ga
+colega	nome feminino	co|[le]|ga
+colegado	nome masculino	co|le|[ga]|do
+colegar	verbo	co|le|[gar]
+colegatária	nome feminino	co|le|ga|[tá]|ri|a
+colegatário	nome masculino	co|le|ga|[tá]|ri|o
+colegiada	nome feminino	co|le|gi|[a]|da
+colegial	adjetivo	co|le|gi|[al]
+colegial	nome masculino	co|le|gi|[al]
+colegial	nome feminino	co|le|gi|[al]
+colegialidade	nome feminino	co|le|gi|a|li|[da]|de
+colegialmente	advérbio	co|le|gi|al|[men]|te
+colegiatura	nome feminino	co|le|gi|a|[tu]|ra
+colégio	nome masculino	co|[lé]|gi|o
+colégio-liceu	nome masculino	co|lé|gi|o-li|[ceu]
+colegislativo	adjetivo	co|le|gis|la|[ti]|vo
+coleguismo	nome masculino	co|le|[guis]|mo
+coleio	nome masculino	co|[lei]|o

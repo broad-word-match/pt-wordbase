@@ -1,0 +1,100 @@
+deslodo	nome masculino	des|[lo]|do
+deslograr	verbo	des|lo|[grar]
+deslombar	verbo	des|lom|[bar]
+desloucar	verbo	des|lou|[car]
+deslouvar	verbo	des|lou|[var]
+deslouvor	nome masculino	des|lou|[vor]
+deslumbrado	adjetivo	des|lum|[bra]|do
+deslumbrador	adjetivo	des|lum|bra|[dor]
+deslumbrador	nome masculino	des|lum|bra|[dor]
+deslumbramento	nome masculino	des|lum|bra|[men]|to
+deslumbrante	adjetivo	des|lum|[bran]|te
+deslumbrantemente	advérbio	des|lum|bran|te|[men]|te
+deslumbrar	verbo	des|lum|[brar]
+deslumbrativo	adjetivo	des|lum|bra|[ti]|vo
+deslumbrável	adjetivo	des|lum|[brá]|vel
+deslumbre	nome masculino	des|[lum]|bre
+deslumbroso	adjetivo	des|lum|[bro]|so
+deslustrador	adjetivo	des|lus|tra|[dor]
+deslustrador	nome masculino	des|lus|tra|[dor]
+deslustral	adjetivo	des|lus|[tral]
+deslustrar	verbo	des|lus|[trar]
+deslustre	nome masculino	des|[lus]|tre
+deslustro	nome masculino	des|[lus]|tro
+deslustroso	adjetivo	des|lus|[tro]|so
+desluvado	adjetivo	des|lu|[va]|do
+desluzidamente	advérbio	des|lu|zi|da|[men]|te
+desluzido	adjetivo	des|lu|[zi]|do
+desluzidor	adjetivo	des|lu|zi|[dor]
+desluzidor	nome masculino	des|lu|zi|[dor]
+desluzimento	nome masculino	des|lu|zi|[men]|to
+desluzir	verbo	des|lu|[zir]
+desmacular	verbo	des|ma|cu|[lar]
+desmadeirar	verbo	des|ma|dei|[rar]
+desmaginar	verbo	des|ma|gi|[nar]
+desmagnetização	nome feminino	des|mag|ne|ti|za|[ção]
+desmagnetizador	adjetivo	des|mag|ne|ti|za|[dor]
+desmagnetizador	nome masculino	des|mag|ne|ti|za|[dor]
+desmagnetizante	adjetivo	des|mag|ne|ti|[zan]|te
+desmagnetizar	verbo	des|mag|ne|ti|[zar]
+desmaiadamente	advérbio	des|mai|a|da|[men]|te
+desmaiado	adjetivo	des|mai|[a]|do
+desmaiado	nome masculino	des|mai|[a]|do
+desmaiar	verbo	des|mai|[ar]
+desmaio	nome masculino	des|[mai]|o
+desmalhar	verbo	des|ma|[lhar]
+desmalhe	nome masculino	des|[ma]|lhe
+desmalhetar	verbo	des|ma|lhe|[tar]
+desmaliciado	adjetivo	des|ma|li|ci|[a]|do
+desmalicioso	adjetivo	des|ma|li|ci|[o]|so
+desmaltas	nome feminino	des|[mal]|tas
+desmama	nome feminino	des|[ma]|ma
+desmamação	nome feminino	des|ma|ma|[ção]
+desmamadeira	nome feminino	des|ma|ma|[dei]|ra
+desmamamento	nome masculino	des|ma|ma|[men]|to
+desmamar	verbo	des|ma|[mar]
+desmame	nome masculino	des|[ma]|me
+desmamentar	verbo	des|ma|men|[tar]
+desmamo	nome masculino	des|[ma]|mo
+desmanar	verbo	des|ma|[nar]
+desmancha	nome feminino	des|[man]|cha
+desmancha-prazeres	nome masculino	des|man|cha-pra|[ze]|res
+desmancha-prazeres	adjetivo	des|man|cha-pra|[ze]|res
+desmancha-prazeres	nome feminino	des|man|cha-pra|[ze]|res
+desmanchadão	nome masculino	des|man|cha|[dão]
+desmanchadão	adjetivo	des|man|cha|[dão]
+desmanchadeira	nome feminino	des|man|cha|[dei]|ra
+desmanchadela	nome feminino	des|man|cha|[de]|la
+desmanchadiço	adjetivo	des|man|cha|[di]|ço
+desmanchadona	nome feminino	des|man|cha|[do]|na
+desmanchar	verbo	des|man|[char]
+desmanchável	adjetivo	des|man|[chá]|vel
+desmancho	nome masculino	des|[man]|cho
+desmandado	adjetivo	des|man|[da]|do
+desmandamento	nome masculino	des|man|da|[men]|to
+desmandar	verbo	des|man|[dar]
+desmandibulação	nome feminino	des|man|di|bu|la|[ção]
+desmandibulado	adjetivo	des|man|di|bu|[la]|do
+desmandibular	verbo	des|man|di|bu|[lar]
+desmando	nome masculino	des|[man]|do
+desmanear	verbo	des|ma|ne|[ar]
+desmanhoso	adjetivo	des|ma|[nho]|so
+desmanilhar	verbo	des|ma|ni|[lhar]
+desmaninhar	verbo	des|ma|ni|[nhar]
+desmanivar	verbo	des|ma|ni|[var]
+desmantadela	nome feminino	des|man|ta|[de]|la
+desmantar	verbo	des|man|[tar]
+desmantelado	adjetivo	des|man|te|[la]|do
+desmantelador	adjetivo	des|man|te|la|[dor]
+desmantelador	nome masculino	des|man|te|la|[dor]
+desmantelamento	nome masculino	des|man|te|la|[men]|to
+desmantelar	verbo	des|man|te|[lar]
+desmantelável	adjetivo	des|man|te|[lá]|vel
+desmantelo	nome masculino	des|man|[te]|lo
+desmanto	nome masculino	des|[man]|to
+desmaquilhante	adjetivo	des|ma|qui|[lhan]|te
+desmaquilhante	nome masculino	des|ma|qui|[lhan]|te
+desmaquilhar	verbo	des|ma|qui|[lhar]
+desmaranhar	verbo	des|ma|ra|[nhar]
+desmaranho	nome masculino	des|ma|[ra]|nho
+desmarcadamente	advérbio	des|mar|ca|da|[men]|te

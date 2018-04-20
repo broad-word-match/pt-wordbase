@@ -1,0 +1,100 @@
+peregrinador	nome masculino	pe|re|gri|na|[dor]
+peregrinagem	nome feminino	pe|re|gri|[na]|gem
+peregrinamente	advérbio	pe|re|gri|na|[men]|te
+peregrinante	adjetivo	pe|re|gri|[nan]|te
+peregrinante	nome masculino	pe|re|gri|[nan]|te
+peregrinante	nome feminino	pe|re|gri|[nan]|te
+peregrinar	verbo	pe|re|gri|[nar]
+peregrinismo	nome masculino	pe|re|gri|[nis]|mo
+peregrino	nome masculino	pe|re|[gri]|no
+peregrino	adjetivo	pe|re|[gri]|no
+pereiópode	nome masculino	pe|rei|[ó]|po|de
+pereiorá	nome masculino	pe|rei|o|[rá]
+pereiorina	nome feminino	pe|rei|o|[ri]|na
+pereira	nome feminino	pe|[rei]|ra
+pereiral	nome masculino	pe|rei|[ral]
+pereiro	nome masculino	pe|[rei]|ro
+perelite	nome feminino	pe|re|[li]|te
+perempção	nome feminino	pe|remp|[ção]
+perempto	adjetivo	pe|[remp]|to
+peremptoriamente	advérbio	pe|remp|to|ri|a|[men]|te
+peremptoriedade	nome feminino	pe|remp|to|ri|e|[da]|de
+peremptório	adjetivo	pe|remp|[tó]|ri|o
+perenal	adjetivo	pe|re|[nal]
+perenalmente	advérbio	pe|re|nal|[men]|te
+perenção	nome feminino	pe|ren|[ção]
+perendengues	nome masculino	pe|ren|[den]|gues
+perene	adjetivo	pe|[re]|ne
+perenemente	advérbio	pe|re|ne|[men]|te
+perenibrânquio	nome masculino	pe|re|ni|[brân]|qui|o
+perenibrânquio	adjetivo	pe|re|ni|[brân]|qui|o
+perenidade	nome feminino	pe|re|ni|[da]|de
+perenifólio	adjetivo	pe|re|ni|[fó]|li|o
+perenizar	verbo	pe|re|ni|[zar]
+perento	adjetivo	pe|[ren]|to
+perentoriamente	advérbio	pe|ren|to|ri|a|[men]|te
+perentoriedade	nome feminino	pe|ren|to|ri|e|[da]|de
+perentório	adjetivo	pe|ren|[tó]|ri|o
+perequação	nome feminino	pe|re|qua|[ção]
+perequeté	adjetivo	pe|re|que|[té]
+perereca	adjetivo	pe|re|[re]|ca
+perereca	nome feminino	pe|re|[re]|ca
+perereca	nome masculino	pe|re|[re]|ca
+pererecar	verbo	pe|re|re|[car]
+perereco	nome masculino	pe|re|[re]|co
+pererento	adjetivo	pe|re|[ren]|to
+perestroika	nome feminino	pe|res|troi|ka
+pereva	nome feminino	pe|[re]|va
+perfazer	verbo	per|fa|[zer]
+perfazimento	nome masculino	per|fa|zi|[men]|to
+perfeccional	adjetivo	per|fec|ci|o|[nal]
+perfeccionismo	nome masculino	per|fec|ci|o|[nis]|mo
+perfeccionista	nome masculino	per|fec|ci|o|[nis]|ta
+perfeccionista	nome feminino	per|fec|ci|o|[nis]|ta
+perfeccionístico	adjetivo	per|fec|ci|o|[nís]|ti|co
+perfecional	adjetivo	per|fe|ci|o|[nal]
+perfecionismo	nome masculino	per|fe|ci|o|[nis]|mo
+perfecionista	nome feminino	per|fe|ci|o|[nis]|ta
+perfecionista	nome masculino	per|fe|ci|o|[nis]|ta
+perfecionístico	adjetivo	per|fe|ci|o|[nís]|ti|co
+perfectibilidade	nome feminino	per|fec|ti|bi|li|[da]|de
+perfectibilismo	nome masculino	per|fec|ti|bi|[lis]|mo
+perfectibilista	adjetivo	per|fec|ti|bi|[lis]|ta
+perfectibilista	nome masculino	per|fec|ti|bi|[lis]|ta
+perfectibilista	nome feminino	per|fec|ti|bi|[lis]|ta
+perfectibilizar	verbo	per|fec|ti|bi|li|[zar]
+perfectivação	nome feminino	per|fec|ti|va|[ção]
+perfectível	adjetivo	per|fec|[tí]|vel
+perfectividade	nome feminino	per|fec|ti|vi|[da]|de
+perfectivo	adjetivo	per|fec|[ti]|vo
+perfeição	nome feminino	per|fei|[ção]
+perfeiçoar	verbo	per|fei|ço|[ar]
+perfeitaço	adjetivo	per|fei|[ta]|ço
+perfeitamente	advérbio	per|fei|ta|[men]|te
+perfeito	adjetivo	per|[fei]|to
+perfeito	nome masculino	per|[fei]|to
+perfetibilidade	nome feminino	per|fe|ti|bi|li|[da]|de
+perfetibilismo	nome masculino	per|fe|ti|bi|[lis]|mo
+perfetibilista	nome masculino	per|fe|ti|bi|[lis]|ta
+perfetibilista	adjetivo	per|fe|ti|bi|[lis]|ta
+perfetibilista	nome feminino	per|fe|ti|bi|[lis]|ta
+perfetibilizar	verbo	per|fe|ti|bi|li|[zar]
+perfetivação	nome feminino	per|fe|ti|va|[ção]
+perfetível	adjetivo	per|fe|[tí]|vel
+perfetividade	nome feminino	per|fe|ti|vi|[da]|de
+perfetivo	adjetivo	per|fe|[ti]|vo
+perficiente	adjetivo	per|fi|ci|[en]|te
+pérfida	nome feminino	[pér]|fi|da
+perfidamente	advérbio	per|fi|da|[men]|te
+perfídia	nome feminino	per|[fí]|di|a
+pérfido	adjetivo	[pér]|fi|do
+pérfido	nome masculino	[pér]|fi|do
+perfil	nome masculino	per|[fil]
+perfilado	adjetivo	per|fi|[la]|do
+perfilar	verbo	per|fi|[lar]
+perfilhação	nome feminino	per|fi|lha|[ção]
+perfilhada	nome feminino	per|fi|[lha]|da
+perfilhado	adjetivo	per|fi|[lha]|do
+perfilhado	nome masculino	per|fi|[lha]|do
+perfilhador	adjetivo	per|fi|lha|[dor]
+perfilhador	nome masculino	per|fi|lha|[dor]

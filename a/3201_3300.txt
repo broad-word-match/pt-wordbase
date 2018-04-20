@@ -1,0 +1,100 @@
+acmonense	nome feminino	ac|mo|[nen]|se
+acna	nome feminino	[ac]|na
+acne	nome feminino	[ac]|ne
+acneiforme	adjetivo	ac|nei|[for]|me
+acnemia	nome feminino	ac|ne|[mi]|a
+acnemo	adjetivo	ac|[ne]|mo
+acnemo	nome masculino	ac|[ne]|mo
+acnidário	adjetivo	ac|ni|[dá]|ri|o
+acnidário	nome masculino	ac|ni|[dá]|ri|o
+acnoso	adjetivo	ac|[no]|so
+ácnua	nome feminino	[ác]|nu|a
+aço	nome masculino	[a]|ço
+aço	adjetivo	[a]|ço
+acoalhar	verbo	a|co|a|[lhar]
+acobardadamente	advérbio	a|co|bar|da|da|[men]|te
+acobardado	adjetivo	a|co|bar|[da]|do
+acobardador	adjetivo	a|co|bar|da|[dor]
+acobardador	nome masculino	a|co|bar|da|[dor]
+acobardamento	nome masculino	a|co|bar|da|[men]|to
+acobardar	verbo	a|co|bar|[dar]
+acobertado	adjetivo	a|co|ber|[ta]|do
+acobertado	nome masculino	a|co|ber|[ta]|do
+acobertador	adjetivo	a|co|ber|ta|[dor]
+acobertador	nome masculino	a|co|ber|ta|[dor]
+acobertamento	nome masculino	a|co|ber|ta|[men]|to
+acobertar	verbo	a|co|ber|[tar]
+acobertável	adjetivo	a|co|ber|[tá]|vel
+acobilhar	verbo	a|co|bi|[lhar]
+acobreação	nome feminino	a|co|bre|a|[ção]
+acobreado	nome masculino	a|co|bre|[a]|do
+acobreado	adjetivo	a|co|bre|[a]|do
+acobreamento	nome masculino	a|co|bre|a|[men]|to
+acobrear	verbo	a|co|bre|[ar]
+acocado	adjetivo	a|co|[ca]|do
+acocar	verbo	a|co|[car]
+acochado	adjetivo	a|co|[cha]|do
+acochar	verbo	a|co|[char]
+acochichar	verbo	a|co|chi|[char]
+acocho	nome masculino	a|[co]|cho
+acocoração	nome feminino	a|co|co|ra|[ção]
+acocorado	adjetivo	a|co|co|[ra]|do
+acocoramento	nome masculino	a|co|co|ra|[men]|to
+acocorar	verbo	a|co|co|[rar]
+açodadamente	advérbio	a|ço|da|da|[men]|te
+açodado	adjetivo	a|ço|[da]|do
+açodamento	nome masculino	a|ço|da|[men]|to
+açodar	verbo	a|ço|[dar]
+açôfar	nome masculino	a|[çô]|far
+açofeifa	nome feminino	a|ço|[fei]|fa
+açofeifeira	nome feminino	a|ço|fei|[fei]|ra
+acofiar	verbo	a|co|fi|[ar]
+açofra	nome feminino	a|[ço]|fra
+acognosia	nome feminino	a|cog|no|[si]|a
+acognóstico	adjetivo	a|cog|[nós]|ti|co
+acogombrado	adjetivo	a|co|gom|[bra]|do
+acoguladamente	advérbio	a|co|gu|la|da|[men]|te
+acogulado	adjetivo	a|co|gu|[la]|do
+acoguladura	nome feminino	a|co|gu|la|[du]|ra
+acogular	verbo	a|co|gu|[lar]
+acogumelado	adjetivo	a|co|gu|me|[la]|do
+açoiaba	nome feminino	a|çoi|[a]|ba
+acoiçar	verbo	a|coi|[çar]
+acoiceador	adjetivo	a|coi|ce|a|[dor]
+acoiceador	nome masculino	a|coi|ce|a|[dor]
+acoiceamento	nome masculino	a|coi|ce|a|[men]|to
+acoicear	verbo	a|coi|ce|[ar]
+acoimado	adjetivo	a|coi|[ma]|do
+acoimador	adjetivo	a|coi|ma|[dor]
+acoimador	nome masculino	a|coi|ma|[dor]
+acoimamento	nome masculino	a|coi|ma|[men]|to
+acoimar	verbo	a|coi|[mar]
+acoimável	adjetivo	a|coi|[má]|vel
+acoiraçado	adjetivo	a|coi|ra|[ça]|do
+acoiraçar	verbo	a|coi|ra|[çar]
+acoirado	adjetivo	a|coi|[ra]|do
+acoirelado	adjetivo	a|coi|re|[la]|do
+acoirelamento	nome masculino	a|coi|re|la|[men]|to
+acoirelar	verbo	a|coi|re|[lar]
+açoita-cavalos	nome masculino	a|çoi|ta-ca|[va]|los
+acoitadar	verbo	a|coi|ta|[dar]
+açoitadiço	adjetivo	a|çoi|ta|[di]|ço
+açoitado	adjetivo	a|çoi|[ta]|do
+acoitado	adjetivo	a|coi|[ta]|do
+acoitador	adjetivo	a|coi|ta|[dor]
+acoitador	nome masculino	a|coi|ta|[dor]
+açoitador	adjetivo	a|çoi|ta|[dor]
+açoitador	nome masculino	a|çoi|ta|[dor]
+acoitadura	nome feminino	a|coi|ta|[du]|ra
+açoitadura	nome feminino	a|çoi|ta|[du]|ra
+acoitamento	nome masculino	a|coi|ta|[men]|to
+açoitamento	nome masculino	a|çoi|ta|[men]|to
+acoitar	verbo	a|coi|[tar]
+açoitar	verbo	a|çoi|[tar]
+acoitável	adjetivo	a|coi|[tá]|vel
+açoite	nome masculino	a|[çoi]|te
+açoiteira	nome feminino	a|çoi|[tei]|ra
+acoito	nome masculino	a|[coi]|to
+acolá	advérbio	a|co|[lá]
+acola	nome feminino	a|[co]|la
+acolada	nome feminino	a|co|[la]|da

@@ -1,0 +1,100 @@
+incorrutível	adjetivo	in|cor|ru|[tí]|vel
+incorrutível	nome masculino	in|cor|ru|[tí]|vel
+incorrutível	nome feminino	in|cor|ru|[tí]|vel
+incorrutivo	adjetivo	in|cor|ru|[ti]|vo
+incorruto	adjetivo	in|cor|[ru]|to
+incotejável	adjetivo	in|co|te|[já]|vel
+incrassante	adjetivo	in|cras|[san]|te
+incrassar	verbo	in|cras|[sar]
+incredibilidade	nome feminino	in|cre|di|bi|li|[da]|de
+incredível	adjetivo	in|cre|[dí]|vel
+incrédula	nome feminino	in|[cré]|du|la
+incredulamente	advérbio	in|cre|du|la|[men]|te
+incredulidade	nome feminino	in|cre|du|li|[da]|de
+incrédulo	adjetivo	in|[cré]|du|lo
+incrédulo	nome masculino	in|[cré]|du|lo
+increia	nome feminino	in|[crei]|a
+incrementação	nome feminino	in|cre|men|ta|[ção]
+incrementado	adjetivo	in|cre|men|[ta]|do
+incrementador	adjetivo	in|cre|men|ta|[dor]
+incrementador	nome masculino	in|cre|men|ta|[dor]
+incremental	adjetivo	in|cre|men|[tal]
+incrementar	verbo	in|cre|men|[tar]
+incrementício	adjetivo	in|cre|men|[tí]|ci|o
+incremento	nome masculino	in|cre|[men]|to
+increpação	nome feminino	in|cre|pa|[ção]
+increpador	adjetivo	in|cre|pa|[dor]
+increpador	nome masculino	in|cre|pa|[dor]
+increpamento	nome masculino	in|cre|pa|[men]|to
+increpante	adjetivo	in|cre|[pan]|te
+increpar	verbo	in|cre|[par]
+increpável	adjetivo	in|cre|[pá]|vel
+increr	verbo	in|[crer]
+incréu	nome masculino	in|[créu]
+incriado	adjetivo	in|cri|[a]|do
+incriado	nome masculino	in|cri|[a]|do
+incriável	adjetivo	in|cri|[á]|vel
+incriminabilidade	nome feminino	in|cri|mi|na|bi|li|[da]|de
+incriminação	nome feminino	in|cri|mi|na|[ção]
+incriminador	adjetivo	in|cri|mi|na|[dor]
+incriminador	nome masculino	in|cri|mi|na|[dor]
+incriminar	verbo	in|cri|mi|[nar]
+incriminativo	adjetivo	in|cri|mi|na|[ti]|vo
+incriminatório	adjetivo	in|cri|mi|na|[tó]|ri|o
+incriminável	adjetivo	in|cri|mi|[ná]|vel
+incrinar	verbo	in|cri|[nar]
+incristalizável	adjetivo	in|cris|ta|li|[zá]|vel
+incriterioso	adjetivo	in|cri|te|ri|[o]|so
+incriticável	adjetivo	in|cri|ti|[cá]|vel
+incrível	adjetivo	in|[crí]|vel
+incrivelmente	advérbio	in|cri|vel|[men]|te
+incruentamente	advérbio	in|cru|en|ta|[men]|te
+incruento	adjetivo	in|cru|[en]|to
+incrustação	nome feminino	in|crus|ta|[ção]
+incrustado	adjetivo	in|crus|[ta]|do
+incrustador	adjetivo	in|crus|ta|[dor]
+incrustador	nome masculino	in|crus|ta|[dor]
+incrustante	adjetivo	in|crus|[tan]|te
+incrustar	verbo	in|crus|[tar]
+incrustável	adjetivo	in|crus|[tá]|vel
+incubação	nome feminino	in|cu|ba|[ção]
+incubador	adjetivo	in|cu|ba|[dor]
+incubador	nome masculino	in|cu|ba|[dor]
+incubadora	nome feminino	in|cu|ba|[do]|ra
+incubar	verbo	in|cu|[bar]
+incubato	nome masculino	in|cu|[ba]|to
+íncubo	adjetivo	[ín]|cu|bo
+íncubo	nome masculino	[ín]|cu|bo
+incude	nome feminino	in|[cu]|de
+incúdico	adjetivo	in|[cú]|di|co
+inculca	nome masculino	in|[cul]|ca
+inculca	nome feminino	in|[cul]|ca
+inculcabilidade	nome feminino	in|cul|ca|bi|li|[da]|de
+inculcação	nome feminino	in|cul|ca|[ção]
+inculcadeira	nome feminino	in|cul|ca|[dei]|ra
+inculcador	adjetivo	in|cul|ca|[dor]
+inculcador	nome masculino	in|cul|ca|[dor]
+inculcadora	nome feminino	in|cul|ca|[do]|ra
+inculcar	verbo	in|cul|[car]
+inculcável	adjetivo	in|cul|[cá]|vel
+inculpabilidade	nome feminino	in|cul|pa|bi|li|[da]|de
+inculpação	nome feminino	in|cul|pa|[ção]
+inculpada	nome feminino	in|cul|[pa]|da
+inculpado	adjetivo	in|cul|[pa]|do
+inculpado	nome masculino	in|cul|[pa]|do
+inculpar	verbo	in|cul|[par]
+inculpável	adjetivo	in|cul|[pá]|vel
+inculpavelmente	advérbio	in|cul|pa|vel|[men]|te
+inculposamente	advérbio	in|cul|po|sa|[men]|te
+inculposo	adjetivo	in|cul|[po]|so
+inculta	nome feminino	in|[cul]|ta
+incultamente	advérbio	in|cul|ta|[men]|te
+incultivável	adjetivo	in|cul|ti|[vá]|vel
+incultivo	nome masculino	in|cul|[ti]|vo
+inculto	adjetivo	in|[cul]|to
+inculto	nome masculino	in|[cul]|to
+incultura	nome feminino	in|cul|[tu]|ra
+incumbência	nome feminino	in|cum|[bên]|ci|a
+incumbente	adjetivo	in|cum|[ben]|te
+incumbir	verbo	in|cum|[bir]
+incumplicidade	nome feminino	in|cum|pli|ci|[da]|de

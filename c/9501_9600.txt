@@ -1,0 +1,100 @@
+chumbeiro	nome masculino	chum|[bei]|ro
+chumberga	nome feminino	chum|[ber]|ga
+chumbergar	verbo	chum|ber|[gar]
+chumbo	nome masculino	[chum]|bo
+chumbutar	verbo	chum|bu|[tar]
+chumear	verbo	chu|me|[ar]
+chúmeas	nome feminino	[chú]|me|as
+chumeco	nome masculino	chu|[me]|co
+chumela	nome feminino	chu|[me]|la
+chumiço	nome masculino	chu|[mi]|ço
+chuna	nome feminino	[chu]|na
+chunambo	nome masculino	chu|[nam]|bo
+chuname	nome masculino	chu|[na]|me
+chunga	adjetivo	[chun]|ga
+chungaria	nome feminino	chun|ga|[ri]|a
+chungoso	adjetivo	chun|[go]|so
+chupa	nome masculino	[chu]|pa
+chupa	nome feminino	[chu]|pa
+chupa-caldo	nome masculino	chu|pa-cal|do
+chupa-chupa	nome masculino	chu|pa-chu|pa
+chupa-flor	nome masculino	chu|pa-flor
+chupa-galhetas	nome masculino	chu|pa-ga|[lhe]|tas
+chupa-jantares	nome masculino	chu|pa-jan|[ta]|res
+chupa-mel	nome masculino	chu|pa-mel
+chupa-tinta	nome masculino	chu|pa-tin|ta
+chupadeira	nome feminino	chu|pa|[dei]|ra
+chupadela	nome feminino	chu|pa|[de]|la
+chupado	adjetivo	chu|[pa]|do
+chupadoiro	nome masculino	chu|pa|[doi]|ro
+chupador	nome masculino	chu|pa|[dor]
+chupador	adjetivo	chu|pa|[dor]
+chupadora	nome feminino	chu|pa|[do]|ra
+chupadouro	nome masculino	chu|pa|[dou]|ro
+chupadura	nome feminino	chu|pa|[du]|ra
+chupamento	nome masculino	chu|pa|[men]|to
+chupante	adjetivo	chu|[pan]|te
+chupão	adjetivo	chu|[pão]
+chupão	nome masculino	chu|[pão]
+chupar	verbo	chu|[par]
+chupável	adjetivo	chu|[pá]|vel
+chupeta	nome feminino	chu|[pe]|ta
+chupim	nome masculino	chu|[pim]
+chupim-do-brejo	nome masculino	chu|pim-do-bre|jo
+chupismo	nome masculino	chu|[pis]|mo
+chupista	adjetivo	chu|[pis]|ta
+chupista	nome masculino	chu|[pis]|ta
+chupista	nome feminino	chu|[pis]|ta
+chupitar	verbo	chu|pi|[tar]
+chupo	nome masculino	[chu]|po
+churdo	adjetivo	[chur]|do
+churdo	nome masculino	[chur]|do
+chureta	nome feminino	chu|[re]|ta
+churmigueira	nome feminino	chur|mi|[guei]|ra
+churrascada	nome feminino	chur|ras|[ca]|da
+churrascaria	nome feminino	chur|ras|ca|[ri]|a
+churrasco	nome masculino	chur|[ras]|co
+churrasqueada	nome feminino	chur|ras|que|[a]|da
+churrasqueador	adjetivo	chur|ras|que|a|[dor]
+churrasqueador	nome masculino	chur|ras|que|a|[dor]
+churrasquear	verbo	chur|ras|que|[ar]
+churrasqueira	nome feminino	chur|ras|[quei]|ra
+churreca	nome feminino	chur|[re]|ca
+churreu	nome masculino	chur|[reu]
+churriado	adjetivo	chur|ri|[a]|do
+churrião	nome masculino	chur|ri|[ão]
+churro	nome masculino	[chur]|ro
+churro	adjetivo	[chur]|ro
+chus	advérbio	[chus]
+chusma	nome feminino	[chus]|ma
+chusmar	verbo	chus|[mar]
+chuta	interjeição	[chu]|ta
+chutador	adjetivo	chu|ta|[dor]
+chutador	nome masculino	chu|ta|[dor]
+chutar	verbo	chu|[tar]
+chute	nome masculino	[chu]|te
+chuteira	nome feminino	chu|[tei]|ra
+chutney	nome masculino	[chut]|ney
+chuto	nome masculino	[chu]|to
+chuva	nome feminino	[chu]|va
+chuva-de-ouro	nome feminino	chu|va-de-ou|ro
+chuvada	nome feminino	chu|[va]|da
+chuvão	nome masculino	chu|[vão]
+chuvarada	nome feminino	chu|va|[ra]|da
+chuvasco	nome masculino	chu|[vas]|co
+chuveirinho	nome masculino	chu|vei|[ri]|nho
+chuveiro	nome masculino	chu|[vei]|ro
+chuveniscar	verbo	chu|ve|nis|[car]
+chuvenisco	nome masculino	chu|ve|[nis]|co
+chuvilhar	verbo	chu|vi|[lhar]
+chuvilho	nome masculino	chu|[vi]|lho
+chuvinha	nome feminino	chu|[vi]|nha
+chuvinhar	verbo	chu|vi|[nhar]
+chuviscar	verbo	chu|vis|[car]
+chuvisco	nome masculino	chu|[vis]|co
+chuviscoso	adjetivo	chu|vis|[co]|so
+chuvisqueiro	nome masculino	chu|vis|[quei]|ro
+chuvoso	adjetivo	chu|[vo]|so
+ci-achirima	nome masculino	ci-a|chi|[ri]|ma
+ci-iao	nome masculino	ci-i|[a]|o
+ci-sena	nome masculino	ci-se|na

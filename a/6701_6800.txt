@@ -1,0 +1,100 @@
+agudelho	nome masculino	a|gu|[de]|lho
+agudense	nome masculino	a|gu|[den]|se
+agudense	adjetivo	a|gu|[den]|se
+agudense	nome feminino	a|gu|[den]|se
+agudez	nome feminino	a|gu|[dez]
+agudeza	nome feminino	a|gu|[de]|za
+agúdia	nome feminino	a|[gú]|di|a
+agudíssimo	adjetivo	a|gu|[dís]|si|mo
+agudização	nome feminino	a|gu|di|za|[ção]
+agudizar	verbo	a|gu|di|[zar]
+agudo	adjetivo	a|[gu]|do
+agudo	nome masculino	a|[gu]|do
+aguedense	nome masculino	a|gue|[den]|se
+aguedense	adjetivo	a|gue|[den]|se
+aguedense	nome feminino	a|gue|[den]|se
+agueira	nome feminino	a|[guei]|ra
+agueirar	verbo	a|guei|[rar]
+agueiro	nome masculino	a|[guei]|ro
+aguentador	adjetivo	a|guen|ta|[dor]
+aguentador	nome masculino	a|guen|ta|[dor]
+aguentar	verbo	a|guen|[tar]
+aguentável	adjetivo	a|guen|[tá]|vel
+aguerreação	nome feminino	a|guer|re|a|[ção]
+aguerrear	verbo	a|guer|re|[ar]
+aguerreirar	verbo	a|guer|rei|[rar]
+aguerridamente	advérbio	a|guer|ri|da|[men]|te
+aguerrido	adjetivo	a|guer|[ri]|do
+aguerrilhar	verbo	a|guer|ri|[lhar]
+aguerrimento	nome masculino	a|guer|ri|[men]|to
+aguerrir	verbo	a|guer|[rir]
+águia	nome feminino	[á]|gui|a
+aguião	nome masculino	a|gui|[ão]
+aguiar	verbo	a|gui|[ar]
+aguiarense	nome masculino	a|gui|a|[ren]|se
+aguiarense	nome feminino	a|gui|a|[ren]|se
+aguiarense	adjetivo	a|gui|a|[ren]|se
+aguieirado	adjetivo	a|gui|ei|[ra]|do
+aguieiro	nome masculino	a|gui|[ei]|ro
+aguieta	nome feminino	a|gui|[e]|ta
+águila	nome feminino	[á]|gui|la
+aguilhada	nome feminino	a|gui|[lha]|da
+aguilhão	nome masculino	a|gui|[lhão]
+aguilhar	verbo	a|gui|[lhar]
+aguilhó	nome masculino	a|gui|[lhó]
+aguilhoada	nome feminino	a|gui|lho|[a]|da
+aguilhoadela	nome feminino	a|gui|lho|a|[de]|la
+aguilhoador	adjetivo	a|gui|lho|a|[dor]
+aguilhoador	nome masculino	a|gui|lho|a|[dor]
+aguilhoamento	nome masculino	a|gui|lho|a|[men]|to
+aguilhoar	verbo	a|gui|lho|[ar]
+aguilhoeiro	nome masculino	a|gui|lho|[ei]|ro
+aguioto	nome masculino	a|gui|[o]|to
+aguisamento	nome masculino	a|gui|sa|[men]|to
+aguisar	verbo	a|gui|[sar]
+aguista	adjetivo	a|[guis]|ta
+aguista	nome masculino	a|[guis]|ta
+aguista	nome feminino	a|[guis]|ta
+aguitarrado	adjetivo	a|gui|tar|[ra]|do
+aguitarrar	verbo	a|gui|tar|[rar]
+aguizalhado	adjetivo	a|gui|za|[lha]|do
+aguizalhar	verbo	a|gui|za|[lhar]
+agulha	nome feminino	a|[gu]|lha
+agulha-de-mato	nome feminino	a|gu|lha-de-ma|to
+agulha-de-pastor	nome feminino	a|gu|lha-de-pas|[tor]
+agulha-de-pastor-moscada	nome feminino	a|gu|lha-de-pas|tor-mos|[ca]|da
+agulha-ferrugenta	nome feminino	a|gu|lha-fer|ru|[gen]|ta
+agulhada	nome feminino	a|gu|[lha]|da
+agulhadoiro	nome masculino	a|gu|lha|[doi]|ro
+agulhadouro	nome masculino	a|gu|lha|[dou]|ro
+agulhagem	nome feminino	a|gu|[lha]|gem
+agulhão	nome masculino	a|gu|[lhão]
+agulhar	verbo	a|gu|[lhar]
+agulheado	adjetivo	a|gu|lhe|[a]|do
+agulheira	nome feminino	a|gu|[lhei]|ra
+agulheiro	nome masculino	a|gu|[lhei]|ro
+agulhento	adjetivo	a|gu|[lhen]|to
+agulheta	nome feminino	a|gu|[lhe]|ta
+agulheta	nome masculino	a|gu|[lhe]|ta
+agulheteiro	nome masculino	a|gu|lhe|[tei]|ro
+agustia	nome feminino	a|gus|[ti]|a
+ah	interjeição	[ah]
+ai	nome masculino	[ai]
+aí	advérbio	a|[í]
+ai	interjeição	[ai]
+aí	nome masculino	a|[í]
+aí	interjeição	a|[í]
+ai-ai	interjeição	[ai-ai]
+ai-jesu	nome masculino	ai-je|[su]
+ai-jesus	interjeição	ai-je|[sus]
+ai-jesus	nome masculino	ai-je|[sus]
+aí-mirim	nome masculino	a|í-mi|[rim]
+aia	nome feminino	[ai]|a
+aiala	nome feminino	ai|[a]|la
+aiapana	nome feminino	ai|a|[pa]|na
+aiar	verbo	ai|[ar]
+aiatola	nome masculino	ai|a|[to]|la
+aide-mémoire	nome masculino	ai|de-mé|moi|re
+aidético	adjetivo	ai|[dé]|ti|co
+aidético	nome masculino	ai|[dé]|ti|co
+aido	nome masculino	[ai]|do

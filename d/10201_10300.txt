@@ -1,0 +1,100 @@
+doutrinável	adjetivo	dou|tri|[ná]|vel
+doutrineiro	adjetivo	dou|tri|[nei]|ro
+doutrineiro	nome masculino	dou|tri|[nei]|ro
+doutro	contração	[dou]|tro
+doutrora	contração	dou|[tro]|ra
+downhill	nome masculino	dow|nhill
+download	nome masculino	down|load
+downsizing	nome masculino	down|si|zing
+downtoniano	adjetivo	down|to|ni|[a]|no
+downtown	adjetivo	down|town
+dóxico	adjetivo	[dó]|xi|co
+doxografia	nome feminino	do|xo|gra|[fi]|a
+doxográfico	adjetivo	do|xo|[grá]|fi|co
+doxógrafo	nome masculino	do|[xó]|gra|fo
+doxologia	nome feminino	do|xo|lo|[gi]|a
+doxológico	adjetivo	do|xo|[ló]|gi|co
+doxólogo	nome masculino	do|[xó]|lo|go
+doxomania	nome feminino	do|xo|ma|[ni]|a
+doxomaníaco	adjetivo	do|xo|ma|[ní]|a|co
+doxomaníaco	nome masculino	do|xo|ma|[ní]|a|co
+doxómano	nome masculino	do|[xó]|ma|no
+doxômano	nome masculino	do|[xô]|ma|no
+doxometria	nome feminino	do|xo|me|[tri]|a
+dozão	nome masculino	do|[zão]
+doze	adjetivo	[do]|ze
+doze	número cardinal	[do]|ze
+doze	nome masculino	[do]|ze
+dozena	nome feminino	do|[ze]|na
+drácar	nome masculino	[drá]|car
+dracar	nome masculino	dra|[car]
+dracena	nome feminino	dra|[ce]|na
+dracina	nome feminino	dra|[ci]|na
+dracma	nome feminino	[drac]|ma
+dracocéfalo	nome masculino	dra|co|[cé]|fa|lo
+dracogrifo	nome masculino	dra|co|[gri]|fo
+draconário	nome masculino	dra|co|[ná]|ri|o
+draconianamente	advérbio	dra|co|ni|a|na|[men]|te
+draconiano	adjetivo	dra|co|ni|[a]|no
+draconígena	adjetivo	dra|co|[ní]|ge|na
+draconina	nome feminino	dra|co|[ni]|na
+draconita	nome masculino	dra|co|[ni]|ta
+draconítico	adjetivo	dra|co|[ní]|ti|co
+draconteia	nome feminino	dra|con|[tei]|a
+dracontíase	nome feminino	dra|con|[tí]|a|se
+dracôntico	adjetivo	dra|[côn]|ti|co
+dracontite	nome feminino	dra|con|[ti]|te
+dracontocéfalo	adjetivo	dra|con|to|[cé]|fa|lo
+dracontossomo	nome masculino	dra|con|tos|[so]|mo
+dracúnculo	nome masculino	dra|[cún]|cu|lo
+dracunculose	nome feminino	dra|cun|cu|[lo]|se
+dracunculósico	adjetivo	dra|cun|cu|[ló]|si|co
+dracunculótico	adjetivo	dra|cun|cu|[ló]|ti|co
+draga	nome feminino	[dra]|ga
+draga-minas	nome masculino	dra|ga-mi|nas
+dragador	adjetivo	dra|ga|[dor]
+dragador	nome masculino	dra|ga|[dor]
+dragagem	nome feminino	dra|[ga]|gem
+dragalina	nome feminino	dra|ga|[li]|na
+drágana	adjetivo	[drá]|ga|na
+drágana	nome masculino	[drá]|ga|na
+drágana	nome feminino	[drá]|ga|na
+dragão	nome masculino	dra|[gão]
+dragão-de-komodo	nome masculino	dra|gão-de-ko|[mo]|do
+dragão-marinho	nome masculino	dra|gão-ma|[ri]|nho
+dragar	verbo	dra|[gar]
+drágea	nome feminino	[drá]|ge|a
+drageia	nome feminino	dra|[gei]|a
+drago	nome masculino	[dra]|go
+dragoa	nome feminino	dra|[go]|a
+dragoeira	nome feminino	dra|go|[ei]|ra
+dragoeiro	nome masculino	dra|go|[ei]|ro
+dragomano	nome masculino	dra|go|[ma]|no
+dragona	nome feminino	dra|[go]|na
+dragonada	nome feminino	dra|go|[na]|da
+dragonado	adjetivo	dra|go|[na]|do
+dragonete	nome masculino	dra|go|[ne]|te
+dragonteia	nome feminino	dra|gon|[tei]|a
+dragontino	adjetivo	dra|gon|[ti]|no
+draino	nome masculino	[drai]|no
+draiva	nome feminino	[drai]|va
+dram	nome masculino	[dram]
+drama	nome masculino	[dra]|ma
+dramadeira	nome feminino	dra|ma|[dei]|ra
+dramalhão	nome masculino	dra|ma|[lhão]
+dramática	nome feminino	dra|[má]|ti|ca
+dramaticamente	advérbio	dra|ma|ti|ca|[men]|te
+dramaticidade	nome feminino	dra|ma|ti|ci|[da]|de
+dramático	nome masculino	dra|[má]|ti|co
+dramático	adjetivo	dra|[má]|ti|co
+dramatismo	nome masculino	dra|ma|[tis]|mo
+dramatização	nome feminino	dra|ma|ti|za|[ção]
+dramatizado	adjetivo	dra|ma|ti|[za]|do
+dramatizador	adjetivo	dra|ma|ti|za|[dor]
+dramatizador	nome masculino	dra|ma|ti|za|[dor]
+dramatizar	verbo	dra|ma|ti|[zar]
+dramatizável	adjetivo	dra|ma|ti|[zá]|vel
+dramatologia	nome feminino	dra|ma|to|lo|[gi]|a
+dramatológico	adjetivo	dra|ma|to|[ló]|gi|co
+dramaturga	nome feminino	dra|ma|[tur]|ga
+dramaturgia	nome feminino	dra|ma|tur|[gi]|a

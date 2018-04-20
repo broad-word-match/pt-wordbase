@@ -1,0 +1,100 @@
+profissional	nome masculino	pro|fis|si|o|[nal]
+profissional	adjetivo	pro|fis|si|o|[nal]
+profissional	nome feminino	pro|fis|si|o|[nal]
+profissionalismo	nome masculino	pro|fis|si|o|na|[lis]|mo
+profissionalização	nome feminino	pro|fis|si|o|na|li|za|[ção]
+profissionalizado	adjetivo	pro|fis|si|o|na|li|[za]|do
+profissionalizante	adjetivo	pro|fis|si|o|na|li|[zan]|te
+profissionalizar	verbo	pro|fis|si|o|na|li|[zar]
+profissionalmente	advérbio	pro|fis|si|o|nal|[men]|te
+profitente	adjetivo	pro|fi|[ten]|te
+profiterole	nome masculino	pro|fi|te|[ro]|le
+profligação	nome feminino	pro|fli|ga|[ção]
+profligador	adjetivo	pro|fli|ga|[dor]
+profligador	nome masculino	pro|fli|ga|[dor]
+profligar	verbo	pro|fli|[gar]
+profluente	adjetivo	pro|flu|[en]|te
+proflúvio	nome masculino	pro|[flú]|vi|o
+profragma	nome masculino	pro|[frag]|ma
+prófugo	adjetivo	[pró]|fu|go
+prófugo	nome masculino	[pró]|fu|go
+profundação	nome feminino	pro|fun|da|[ção]
+profundador	adjetivo	pro|fun|da|[dor]
+profundador	nome masculino	pro|fun|da|[dor]
+profundamente	advérbio	pro|fun|da|[men]|te
+profundar	verbo	pro|fun|[dar]
+profundas	nome feminino	pro|[fun]|das
+profundável	adjetivo	pro|fun|[dá]|vel
+profundez	nome feminino	pro|fun|[dez]
+profundeza	nome feminino	pro|fun|[de]|za
+profundidade	nome feminino	pro|fun|di|[da]|de
+profundíssimo	adjetivo	pro|fun|[dís]|si|mo
+profundo	adjetivo	pro|[fun]|do
+profundo	advérbio	pro|[fun]|do
+profundo	nome masculino	pro|[fun]|do
+profundura	nome feminino	pro|fun|[du]|ra
+profusamente	advérbio	pro|fu|sa|[men]|te
+profusão	nome feminino	pro|fu|[são]
+profuso	adjetivo	pro|[fu]|so
+progamia	nome feminino	pro|ga|[mi]|a
+progâmico	adjetivo	pro|[gâ]|mi|co
+progênie	nome feminino	pro|[gê]|ni|e
+progénie	nome feminino	pro|[gé]|ni|e
+progênito	adjetivo	pro|[gê]|ni|to
+progénito	adjetivo	pro|[gé]|ni|to
+progénito	nome masculino	pro|[gé]|ni|to
+progênito	nome masculino	pro|[gê]|ni|to
+progenitor	nome masculino	pro|ge|ni|[tor]
+progenitora	nome feminino	pro|ge|ni|[to]|ra
+progenitura	nome feminino	pro|ge|ni|[tu]|ra
+progéria	nome feminino	pro|[gé]|ri|a
+progeria	nome feminino	pro|ge|[ri]|a
+progestativo	adjetivo	pro|ges|ta|[ti]|vo
+progestativo	nome masculino	pro|ges|ta|[ti]|vo
+progesterona	nome feminino	pro|ges|te|[ro]|na
+proginasma	nome masculino	pro|gi|[nas]|ma
+proglote	nome feminino	pro|[glo]|te
+proglótide	nome feminino	pro|[gló]|ti|de
+prognata	nome masculino	prog|[na]|ta
+prognata	adjetivo	prog|[na]|ta
+prognatismo	nome masculino	prog|na|[tis]|mo
+prógnato	adjetivo	[próg]|na|to
+prógnato	nome masculino	[próg]|na|to
+progne	nome feminino	[prog]|ne
+prognose	nome feminino	prog|[no]|se
+prognosticação	nome feminino	prog|nos|ti|ca|[ção]
+prognosticador	adjetivo	prog|nos|ti|ca|[dor]
+prognosticador	nome masculino	prog|nos|ti|ca|[dor]
+prognosticadora	nome feminino	prog|nos|ti|ca|[do]|ra
+prognosticar	verbo	prog|nos|ti|[car]
+prognosticável	adjetivo	prog|nos|ti|[cá]|vel
+prognóstico	adjetivo	prog|[nós]|ti|co
+prognóstico	nome masculino	prog|[nós]|ti|co
+programa	nome masculino	pro|[gra]|ma
+programação	nome feminino	pro|gra|ma|[ção]
+programado	adjetivo	pro|gra|[ma]|do
+programador	nome masculino	pro|gra|ma|[dor]
+programador	adjetivo	pro|gra|ma|[dor]
+programadora	nome feminino	pro|gra|ma|[do]|ra
+programar	verbo	pro|gra|[mar]
+programaticamente	advérbio	pro|gra|ma|ti|ca|[men]|te
+programático	adjetivo	pro|gra|[má]|ti|co
+programatizar	verbo	pro|gra|ma|ti|[zar]
+programável	adjetivo	pro|gra|[má]|vel
+progredimento	nome masculino	pro|gre|di|[men]|to
+progredir	verbo	pro|gre|[dir]
+progressão	nome feminino	pro|gres|[são]
+progressismo	nome masculino	pro|gres|[sis]|mo
+progressista	nome masculino	pro|gres|[sis]|ta
+progressista	adjetivo	pro|gres|[sis]|ta
+progressista	nome feminino	pro|gres|[sis]|ta
+progressivamente	advérbio	pro|gres|si|va|[men]|te
+progressividade	nome feminino	pro|gres|si|vi|[da]|de
+progressivo	adjetivo	pro|gres|[si]|vo
+progresso	nome masculino	pro|[gres]|so
+proibição	nome feminino	proi|bi|[ção]
+proibicionismo	nome masculino	proi|bi|ci|o|[nis]|mo
+proibicionista	nome masculino	proi|bi|ci|o|[nis]|ta
+proibicionista	adjetivo	proi|bi|ci|o|[nis]|ta
+proibicionista	nome feminino	proi|bi|ci|o|[nis]|ta
+proibido	adjetivo	proi|[bi]|do

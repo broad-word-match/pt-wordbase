@@ -1,0 +1,100 @@
+mandador	adjetivo	man|da|[dor]
+mandador	nome masculino	man|da|[dor]
+mandadora	nome feminino	man|da|[do]|ra
+mandaguari	nome feminino	man|da|gua|[ri]
+mandala	nome masculino	man|[da]|la
+mandalete	nome masculino	man|da|[le]|te
+mandamento	nome masculino	man|da|[men]|to
+mandande	nome masculino	man|[dan]|de
+mandano	adjetivo	man|[da]|no
+mandano	nome masculino	man|[da]|no
+mandante	nome masculino	man|[dan]|te
+mandante	adjetivo	man|[dan]|te
+mandante	nome feminino	man|[dan]|te
+mandão	adjetivo	man|[dão]
+mandão	nome masculino	man|[dão]
+mandapuá	nome feminino	man|da|pu|[á]
+mandapuçá	nome masculino	man|da|pu|[çá]
+mandaque	nome masculino	man|[da]|que
+mandar	verbo	man|[dar]
+mandaravé	nome feminino	man|da|ra|[vé]
+mandareco	nome masculino	man|da|[re]|co
+mandarete	nome masculino	man|da|[re]|te
+mandarim	nome masculino	man|da|[rim]
+mandarina	nome feminino	man|da|[ri]|na
+mandarinado	nome masculino	man|da|ri|[na]|do
+mandarinato	nome masculino	man|da|ri|[na]|to
+mandarinesco	adjetivo	man|da|ri|[nes]|co
+mandarinete	nome masculino	man|da|ri|[ne]|te
+mandarínico	adjetivo	man|da|[rí]|ni|co
+mandarinismo	nome masculino	man|da|ri|[nis]|mo
+mandarino	nome masculino	man|da|[ri]|no
+mandarová	nome masculino	man|da|ro|[vá]
+mandatar	verbo	man|da|[tar]
+mandatário	nome masculino	man|da|[tá]|ri|o
+mandato	nome masculino	man|[da]|to
+mandável	adjetivo	man|[dá]|vel
+mandeu	adjetivo	man|[deu]
+mandeu	nome masculino	man|[deu]
+mandi	nome masculino	man|[di]
+mandiba	nome feminino	man|[di]|ba
+mandibé	nome masculino	man|di|[bé]
+mandibi	nome masculino	man|di|[bi]
+mandíbula	nome feminino	man|[dí]|bu|la
+mandibulação	nome feminino	man|di|bu|la|[ção]
+mandibulado	adjetivo	man|di|bu|[la]|do
+mandibular	verbo	man|di|bu|[lar]
+mandibular	adjetivo	man|di|bu|[lar]
+mandibuliforme	adjetivo	man|di|bu|li|[for]|me
+mandibulióideo	adjetivo	man|di|bu|li|[ói]|de|o
+mandibulolabial	adjetivo	man|di|bu|lo|la|bi|[al]
+mandiguaru	nome masculino	man|di|gua|[ru]
+mandiguera	nome masculino	man|di|[gue]|ra
+mandil	nome masculino	man|[dil]
+mandil	adjetivo	man|[dil]
+mandil	nome feminino	man|[dil]
+mandileiro	nome masculino	man|di|[lei]|ro
+mandilete	nome masculino	man|di|[le]|te
+mandinga	nome masculino	man|[din]|ga
+mandinga	nome feminino	man|[din]|ga
+mandinga	adjetivo	man|[din]|ga
+mandingar	verbo	man|din|[gar]
+mandingaria	nome feminino	man|din|ga|[ri]|a
+mandingueiro	nome masculino	man|din|[guei]|ro
+mandinguento	adjetivo	man|din|[guen]|to
+mandioca	nome feminino	man|di|[o]|ca
+mandiocaba	nome feminino	man|di|o|[ca]|ba
+mandiocal	nome masculino	man|di|o|[cal]
+mandioqueira	nome feminino	man|di|o|[quei]|ra
+mandioqueiro	nome masculino	man|di|o|[quei]|ro
+mandioquinha-do-campo	nome feminino	man|di|o|qui|nha-do-cam|po
+mandiple	nome masculino	man|[di]|ple
+mandíple	nome feminino	man|[dí]|ple
+mandiva	nome feminino	man|[di]|va
+mando	nome masculino	[man]|do
+mandó	nome masculino	man|[dó]
+mandola	nome feminino	man|[do]|la
+mandolim	nome masculino	man|do|[lim]
+mandolina	nome feminino	man|do|[li]|na
+mandolinata	nome feminino	man|do|li|[na]|ta
+mandolinete	nome masculino	man|do|li|[ne]|te
+mandona	nome feminino	man|[do]|na
+mandonguice	nome feminino	man|don|[gui]|ce
+mandonismo	nome masculino	man|do|[nis]|mo
+mandora	nome feminino	man|[do]|ra
+mandovi	nome masculino	man|do|[vi]
+mandovim	nome masculino	man|do|[vim]
+mandraca	nome feminino	man|[dra]|ca
+mandraço	nome masculino	man|[dra]|ço
+mandraço	adjetivo	man|[dra]|ço
+mandrágora	nome feminino	man|[drá]|go|ra
+mandrana	nome masculino	man|[dra]|na
+mandrana	nome feminino	man|[dra]|na
+mandranice	nome feminino	man|dra|[ni]|ce
+mandraqueiro	adjetivo	man|dra|[quei]|ro
+mandraqueiro	nome masculino	man|dra|[quei]|ro
+mândria	nome feminino	[mân]|dri|a
+mandriagem	nome feminino	man|dri|[a]|gem
+mandrianar	verbo	man|dri|a|[nar]
+mandrião	nome masculino	man|dri|[ão]
+mandrião	adjetivo	man|dri|[ão]

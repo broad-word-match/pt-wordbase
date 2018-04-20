@@ -1,0 +1,100 @@
+alvaroca	nome feminino	al|va|[ro]|ca
+alvaroco	nome masculino	al|va|[ro]|co
+alvarrã	adjetivo	al|var|[rã]
+alvarrã	nome feminino	al|var|[rã]
+alvarral	adjetivo	al|var|[ral]
+alvarral	nome masculino	al|var|[ral]
+alvarraz	nome masculino	al|var|[raz]
+alvarudão	nome masculino	al|va|ru|[dão]
+alvazelha	nome feminino	al|va|[ze]|lha
+alvazil	nome masculino	al|va|[zil]
+alvazir	nome masculino	al|va|[zir]
+alveador	nome masculino	al|ve|a|[dor]
+alveamento	nome masculino	al|ve|a|[men]|to
+alvear	verbo	al|ve|[ar]
+alveário	nome masculino	al|ve|[á]|ri|o
+alvedrio	nome masculino	al|ve|[dri]|o
+alveirar	verbo	al|vei|[rar]
+alveiro	adjetivo	al|[vei]|ro
+alveiro	nome masculino	al|[vei]|ro
+alveitar	verbo	al|vei|[tar]
+alveitar	nome masculino	al|vei|[tar]
+alveitar-mor	nome masculino	al|vei|tar-mor
+alveitarar	verbo	al|vei|ta|[rar]
+alveitaria	nome feminino	al|vei|ta|[ri]|a
+alvejado	adjetivo	al|ve|[ja]|do
+alvejante	nome masculino	al|ve|[jan]|te
+alvejante	adjetivo	al|ve|[jan]|te
+alvejar	verbo	al|ve|[jar]
+alvela	nome feminino	al|[ve]|la
+alveliço	nome masculino	al|ve|[li]|ço
+alvéloa	nome feminino	al|[vé]|lo|a
+alvéloa-amarela	nome feminino	al|vé|lo|a-a|ma|re|la
+alvenaria	nome feminino	al|ve|na|[ri]|a
+alveneiro	nome masculino	al|ve|[nei]|ro
+alvenel	nome masculino	al|ve|[nel]
+alvener	nome masculino	al|ve|[ner]
+alvenéu	nome masculino	al|ve|[néu]
+alvense	nome masculino	al|[ven]|se
+alvense	nome feminino	al|[ven]|se
+alvense	adjetivo	al|[ven]|se
+álveo	nome masculino	[ál]|ve|o
+alvéola	nome feminino	al|[vé]|o|la
+alveoladamente	advérbio	al|ve|o|la|da|[men]|te
+alveolado	adjetivo	al|ve|o|[la]|do
+alveolar	adjetivo	al|ve|o|[lar]
+alveolar	nome feminino	al|ve|o|[lar]
+alveolífero	adjetivo	al|ve|o|[lí]|fe|ro
+alveoliforme	adjetivo	al|ve|o|li|[for]|me
+alveolite	nome feminino	al|ve|o|[li]|te
+alvéolo	nome masculino	al|[vé]|o|lo
+alveolodental	adjetivo	al|ve|o|lo|den|[tal]
+alveolodental	nome masculino	al|ve|o|lo|den|[tal]
+alveololabial	adjetivo	al|ve|o|lo|la|bi|[al]
+alveololabial	nome masculino	al|ve|o|lo|la|bi|[al]
+alveolonasal	adjetivo	al|ve|o|lo|na|[sal]
+alveolonasal	nome masculino	al|ve|o|lo|na|[sal]
+alverca	nome feminino	al|[ver]|ca
+alvercada	nome feminino	al|ver|[ca]|da
+alvergue	nome masculino	al|[ver]|gue
+alverquense	adjetivo	al|ver|[quen]|se
+alverquense	nome masculino	al|ver|[quen]|se
+alverquense	nome feminino	al|ver|[quen]|se
+alvescente	adjetivo	al|ves|[cen]|te
+alvescer	verbo	al|ves|[cer]
+alvião	nome masculino	al|vi|[ão]
+alvidração	nome feminino	al|vi|dra|[ção]
+alvidrador	adjetivo	al|vi|dra|[dor]
+alvidrador	nome masculino	al|vi|dra|[dor]
+alvidramento	nome masculino	al|vi|dra|[men]|to
+alvidrar	verbo	al|vi|[drar]
+álvidro	nome masculino	[ál]|vi|dro
+alviduco	nome masculino	al|vi|[du]|co
+alvidúlcido	adjetivo	al|vi|[dúl]|ci|do
+alvilactescente	adjetivo	al|vi|lac|tes|[cen]|te
+alvilha	nome feminino	al|[vi]|lha
+alvilumíneo	adjetivo	al|vi|lu|[mí]|ne|o
+alviluzente	adjetivo	al|vi|lu|[zen]|te
+alvíneo	adjetivo	al|[ví]|ne|o
+alvinitência	nome feminino	al|vi|ni|[tên]|ci|a
+alvinitente	adjetivo	al|vi|ni|[ten]|te
+alvinitentemente	advérbio	al|vi|ni|ten|te|[men]|te
+alvino	adjetivo	al|[vi]|no
+alvinopolitano	adjetivo	al|vi|no|po|li|[ta]|no
+alvinopolitano	nome masculino	al|vi|no|po|li|[ta]|no
+alvirrubro	adjetivo	al|vir|[ru]|bro
+alvissarar	verbo	al|vis|sa|[rar]
+alvíssaras	nome feminino	al|[vís]|sa|ras
+alvíssaras	interjeição	al|[vís]|sa|ras
+alvissareira	nome feminino	al|vis|sa|[rei]|ra
+alvissareiro	adjetivo	al|vis|sa|[rei]|ro
+alvissareiro	nome masculino	al|vis|sa|[rei]|ro
+alvitana	nome feminino	al|vi|[ta]|na
+alvitanado	adjetivo	al|vi|ta|[na]|do
+alvitense	nome masculino	al|vi|[ten]|se
+alvitense	adjetivo	al|vi|[ten]|se
+alvitense	nome feminino	al|vi|[ten]|se
+alvitorácico	adjetivo	al|vi|to|[rá]|ci|co
+alvitórax	adjetivo	al|vi|[tó]|rax
+alvitrador	adjetivo	al|vi|tra|[dor]
+alvitrador	nome masculino	al|vi|tra|[dor]

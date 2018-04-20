@@ -1,0 +1,100 @@
+cálamo	nome masculino	[cá]|la|mo
+calamocada	nome feminino	ca|la|mo|[ca]|da
+calamocar	verbo	ca|la|mo|[car]
+calamoide	adjetivo	ca|la|[moi]|de
+calamute	nome masculino	ca|la|[mu]|te
+calândar	nome masculino	ca|[lân]|dar
+calandra	nome feminino	ca|[lan]|dra
+calandragem	nome feminino	ca|lan|[dra]|gem
+calandrar	verbo	ca|lan|[drar]
+calandreiro	nome masculino	ca|lan|[drei]|ro
+calandrínia	nome feminino	ca|lan|[drí]|ni|a
+calanga	nome feminino	ca|[lan]|ga
+calango	nome masculino	ca|[lan]|go
+calanja	nome feminino	ca|[lan]|ja
+calanje	nome masculino	ca|[lan]|je
+calântica	nome feminino	ca|[lân]|ti|ca
+calão	adjetivo	ca|[lão]
+calão	nome masculino	ca|[lão]
+calapada	nome feminino	ca|la|[pa]|da
+calar	verbo	ca|[lar]
+calaritano	adjetivo	ca|la|ri|[ta]|no
+calaritano	nome masculino	ca|la|ri|[ta]|no
+calasia	nome feminino	ca|la|[si]|a
+calasiodermia	nome feminino	ca|la|si|o|der|[mi]|a
+calástico	adjetivo	ca|[lás]|ti|co
+calátide	nome feminino	ca|[lá]|ti|de
+calatiforme	adjetivo	ca|la|ti|[for]|me
+calatino	adjetivo	ca|la|[ti]|no
+calatino	nome masculino	ca|la|[ti]|no
+calatra	nome feminino	ca|[la]|tra
+calatrão	nome masculino	ca|la|[trão]
+calatrava	nome feminino	ca|la|[tra]|va
+calatravense	nome masculino	ca|la|tra|[ven]|se
+calatravense	adjetivo	ca|la|tra|[ven]|se
+calatravense	nome feminino	ca|la|tra|[ven]|se
+calatravo	nome masculino	ca|la|[tra]|vo
+calau	nome masculino	ca|[lau]
+calaveira	adjetivo	ca|la|[vei]|ra
+calaveira	nome masculino	ca|la|[vei]|ra
+calaveira	nome feminino	ca|la|[vei]|ra
+calaveirada	nome feminino	ca|la|vei|[ra]|da
+calaverita	nome feminino	ca|la|ve|[ri]|ta
+calaverite	nome feminino	ca|la|ve|[ri]|te
+calavonte	nome feminino	ca|la|[von]|te
+calaza	nome feminino	ca|[la]|za
+calazar	nome masculino	ca|la|[zar]
+calázio	nome masculino	ca|[lá]|zi|o
+calazóforo	adjetivo	ca|la|[zó]|fo|ro
+calbásio	adjetivo	cal|[bá]|si|o
+calbásio	nome masculino	cal|[bá]|si|o
+calça	nome feminino	[cal]|ça
+calca-mar	nome masculino	cal|ca-mar
+calca-mares	nome masculino	cal|ca-ma|res
+calça-púcaros	nome masculino	cal|ça-pú|ca|ros
+calca-tripa	nome feminino	cal|ca-tri|pa
+calçada	nome feminino	cal|[ça]|da
+calcada	nome feminino	cal|[ca]|da
+calçadão	nome masculino	cal|ça|[dão]
+calçadeira	nome feminino	cal|ça|[dei]|ra
+calcadeira	nome feminino	cal|ca|[dei]|ra
+calcadela	nome feminino	cal|ca|[de]|la
+calçado	adjetivo	cal|[ça]|do
+calçado	nome masculino	cal|[ça]|do
+calcadoiro	nome masculino	cal|ca|[doi]|ro
+calcador	adjetivo	cal|ca|[dor]
+calçador	nome masculino	cal|ça|[dor]
+calcador	nome masculino	cal|ca|[dor]
+calcadora	nome feminino	cal|ca|[do]|ra
+calcadouro	nome masculino	cal|ca|[dou]|ro
+calçadura	nome feminino	cal|ça|[du]|ra
+calcadura	nome feminino	cal|ca|[du]|ra
+calcagem	nome feminino	cal|[ca]|gem
+calcalho	nome masculino	cal|[ca]|lho
+calcamento	nome masculino	cal|ca|[men]|to
+calçamento	nome masculino	cal|ça|[men]|to
+calcaneano	adjetivo	cal|ca|ne|[a]|no
+calcâneo	nome masculino	cal|[câ]|ne|o
+calcâneo	adjetivo	cal|[câ]|ne|o
+calcanha	nome feminino	cal|[ca]|nha
+calcanhar	nome masculino	cal|ca|[nhar]
+calcanheira	nome feminino	cal|ca|[nhei]|ra
+calcanho	nome masculino	cal|[ca]|nho
+calcante	nome masculino	cal|[can]|te
+calção	nome masculino	cal|[ção]
+calcão	nome masculino	cal|[cão]
+calçar	verbo	cal|[çar]
+calcar	verbo	cal|[car]
+calcaré	nome masculino	cal|ca|[ré]
+calcarífero	adjetivo	cal|ca|[rí]|fe|ro
+calcário	nome masculino	cal|[cá]|ri|o
+calcário	adjetivo	cal|[cá]|ri|o
+calcarização	nome feminino	cal|ca|ri|za|[ção]
+calcarizar	verbo	cal|ca|ri|[zar]
+calças	nome feminino	[cal]|ças
+calcável	adjetivo	cal|[cá]|vel
+calçável	adjetivo	cal|[çá]|vel
+calce	nome masculino	[cal]|ce
+calcedonense	adjetivo	cal|ce|do|[nen]|se
+calcedonense	nome masculino	cal|ce|do|[nen]|se
+calcedonense	nome feminino	cal|ce|do|[nen]|se

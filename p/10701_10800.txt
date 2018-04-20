@@ -1,0 +1,100 @@
+ponda	nome feminino	[pon]|da
+ponderabilidade	nome feminino	pon|de|ra|bi|li|[da]|de
+ponderação	nome feminino	pon|de|ra|[ção]
+ponderadamente	advérbio	pon|de|ra|da|[men]|te
+ponderado	adjetivo	pon|de|[ra]|do
+ponderador	adjetivo	pon|de|ra|[dor]
+ponderador	nome masculino	pon|de|ra|[dor]
+ponderadora	nome feminino	pon|de|ra|[do]|ra
+ponderal	adjetivo	pon|de|[ral]
+ponderar	verbo	pon|de|[rar]
+ponderativo	adjetivo	pon|de|ra|[ti]|vo
+ponderável	adjetivo	pon|de|[rá]|vel
+ponderosamente	advérbio	pon|de|ro|sa|[men]|te
+ponderoso	adjetivo	pon|de|[ro]|so
+pondo	nome masculino	[pon]|do
+pondo	adjetivo	[pon]|do
+pondoro	nome masculino	pon|[do]|ro
+pondra	nome feminino	[pon]|dra
+pónei	nome masculino	[pó]|nei
+pônei	nome masculino	[pô]|nei
+ponente	adjetivo	po|[nen]|te
+ponente	nome masculino	po|[nen]|te
+ponfólige	nome feminino	pon|[fó]|li|ge
+ponga	nome feminino	[pon]|ga
+pongar	verbo	pon|[gar]
+pongé	nome masculino	pon|[gé]
+pongídeo	nome masculino	pon|[gí]|de|o
+pongídeo	adjetivo	pon|[gí]|de|o
+pongo	nome masculino	[pon]|go
+ponjê	nome masculino	pon|[jê]
+ponjé	nome masculino	pon|[jé]
+ponjó	adjetivo	pon|[jó]
+ponofobia	nome feminino	po|no|fo|[bi]|a
+ponófobo	adjetivo	po|[nó]|fo|bo
+ponófobo	nome masculino	po|[nó]|fo|bo
+ponogéneo	adjetivo	po|no|[gé]|ne|o
+ponogêneo	adjetivo	po|no|[gê]|ne|o
+ponometria	nome feminino	po|no|me|[tri]|a
+ponométrico	adjetivo	po|no|[mé]|tri|co
+ponose	nome feminino	po|[no]|se
+ponta	nome feminino	[pon]|ta
+ponta de lança	nome masculino	[pon]|ta de lan|ça
+ponta de lança	nome feminino	[pon]|ta de lan|ça
+ponta-delgadense	nome masculino	pon|ta-del|ga|[den]|se
+ponta-delgadense	adjetivo	pon|ta-del|ga|[den]|se
+ponta-delgadense	nome feminino	pon|ta-del|ga|[den]|se
+ponta-direita	nome masculino	pon|ta-di|[rei]|ta
+ponta-direita	nome feminino	pon|ta-di|[rei]|ta
+ponta-esquerda	nome masculino	pon|ta-es|[quer]|da
+ponta-esquerda	nome feminino	pon|ta-es|[quer]|da
+ponta-seca	nome feminino	pon|ta-se|ca
+ponta-solense	adjetivo	pon|ta-so|[len]|se
+ponta-solense	nome masculino	pon|ta-so|[len]|se
+ponta-solense	nome feminino	pon|ta-so|[len]|se
+pontaço	nome masculino	pon|[ta]|ço
+pontada	nome feminino	pon|[ta]|da
+pontada	nome masculino	pon|[ta]|da
+pontado	adjetivo	pon|[ta]|do
+pontal	nome masculino	pon|[tal]
+pontal	adjetivo	pon|[tal]
+pontaletar	verbo	pon|ta|le|[tar]
+pontalete	nome masculino	pon|ta|[le]|te
+pontão	nome masculino	pon|[tão]
+pontapé	nome masculino	pon|ta|[pé]
+pontapear	verbo	pon|ta|pe|[ar]
+pontar	verbo	pon|[tar]
+pontarelo	nome masculino	pon|ta|[re]|lo
+pontaria	nome feminino	pon|ta|[ri]|a
+pontavante	nome feminino	pon|ta|[van]|te
+ponte	nome feminino	[pon]|te
+ponte-açude	nome masculino	pon|te-a|[çu]|de
+ponte-cais	nome feminino	pon|te-cais
+ponte-limense	nome masculino	pon|te-li|[men]|se
+ponte-limense	adjetivo	pon|te-li|[men]|se
+ponte-limense	nome feminino	pon|te-li|[men]|se
+ponte-sorense	nome masculino	pon|te-so|[ren]|se
+ponte-sorense	adjetivo	pon|te-so|[ren]|se
+ponte-sorense	nome feminino	pon|te-so|[ren]|se
+ponteado	nome masculino	pon|te|[a]|do
+ponteado	adjetivo	pon|te|[a]|do
+pontear	verbo	pon|te|[ar]
+ponteco	nome masculino	pon|[te]|co
+pontedéria	nome feminino	pon|te|[dé]|ri|a
+pontederiácea	nome feminino	pon|te|de|ri|[á]|ce|a
+ponteira	nome feminino	pon|[tei]|ra
+ponteiro	nome masculino	pon|[tei]|ro
+ponteiro	adjetivo	pon|[tei]|ro
+pontel	nome masculino	pon|[tel]
+pontevedrina	nome feminino	pon|te|ve|[dri]|na
+pontevedrino	nome masculino	pon|te|ve|[dri]|no
+pontevedrino	adjetivo	pon|te|ve|[dri]|no
+pontiagudo	adjetivo	pon|ti|a|[gu]|do
+pontiano	adjetivo	pon|ti|[a]|no
+ponticidade	nome feminino	pon|ti|ci|[da]|de
+pôntico	adjetivo	[pôn]|ti|co
+pontícula	nome feminino	pon|[tí]|cu|la
+ponticular	verbo	pon|ti|cu|[lar]
+pontículo	nome masculino	pon|[tí]|cu|lo
+pontificação	nome feminino	pon|ti|fi|ca|[ção]
+pontificado	nome masculino	pon|ti|fi|[ca]|do

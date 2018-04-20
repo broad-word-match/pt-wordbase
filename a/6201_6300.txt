@@ -1,0 +1,100 @@
+aglomerado	nome masculino	a|glo|me|[ra]|do
+aglomerador	adjetivo	a|glo|me|ra|[dor]
+aglomerador	nome masculino	a|glo|me|ra|[dor]
+aglomerante	adjetivo	a|glo|me|[ran]|te
+aglomerante	nome masculino	a|glo|me|[ran]|te
+aglomerar	verbo	a|glo|me|[rar]
+aglomerável	adjetivo	a|glo|me|[rá]|vel
+aglossia	nome feminino	a|glos|[si]|a
+aglosso	nome masculino	a|[glos]|so
+aglosso	adjetivo	a|[glos]|so
+aglutição	nome feminino	a|glu|ti|[ção]
+aglutinabilidade	nome feminino	a|glu|ti|na|bi|li|[da]|de
+aglutinação	nome feminino	a|glu|ti|na|[ção]
+aglutinadamente	advérbio	a|glu|ti|na|da|[men]|te
+aglutinado	adjetivo	a|glu|ti|[na]|do
+aglutinador	adjetivo	a|glu|ti|na|[dor]
+aglutinador	nome masculino	a|glu|ti|na|[dor]
+aglutinamento	nome masculino	a|glu|ti|na|[men]|to
+aglutinante	adjetivo	a|glu|ti|[nan]|te
+aglutinante	nome masculino	a|glu|ti|[nan]|te
+aglutinar	verbo	a|glu|ti|[nar]
+aglutinativo	adjetivo	a|glu|ti|na|[ti]|vo
+aglutinável	adjetivo	a|glu|ti|[ná]|vel
+aglutinina	nome feminino	a|glu|ti|[ni]|na
+aglutinogénio	nome masculino	a|glu|ti|no|[gé]|ni|o
+aglutinogênio	nome masculino	a|glu|ti|no|[gê]|ni|o
+agma	nome masculino	[ag]|ma
+agmatologia	nome feminino	ag|ma|to|lo|[gi]|a
+agmatológico	adjetivo	ag|ma|to|[ló]|gi|co
+agmatólogo	nome masculino	ag|ma|[tó]|lo|go
+agnação	nome feminino	ag|na|[ção]
+agnado	nome masculino	ag|[na]|do
+agnatia	nome feminino	ag|na|[ti]|a
+agnatício	adjetivo	ag|na|[tí]|ci|o
+agnático	adjetivo	ag|[ná]|ti|co
+ágnato	adjetivo	[ág]|na|to
+ágnato	nome masculino	[ág]|na|to
+agnato	nome masculino	ag|[na]|to
+agnatóstomos	nome masculino	ag|na|[tós]|to|mos
+agnelina	nome feminino	ag|ne|[li]|na
+agnelino	adjetivo	ag|ne|[li]|no
+agnição	nome feminino	ag|ni|[ção]
+agnocasto	nome masculino	ag|no|[cas]|to
+agnome	nome masculino	ag|[no]|me
+agnominação	nome feminino	ag|no|mi|na|[ção]
+agnosia	nome feminino	ag|no|[si]|a
+agnóstica	nome feminino	ag|[nós]|ti|ca
+agnosticamente	advérbio	ag|nos|ti|ca|[men]|te
+agnosticismo	nome masculino	ag|nos|ti|[cis]|mo
+agnosticista	adjetivo	ag|nos|ti|[cis]|ta
+agnosticista	nome masculino	ag|nos|ti|[cis]|ta
+agnosticista	nome feminino	ag|nos|ti|[cis]|ta
+agnóstico	nome masculino	ag|[nós]|ti|co
+agnóstico	adjetivo	ag|[nós]|ti|co
+agnostozoico	adjetivo	ag|nos|to|[zoi]|co
+ago	nome masculino	[a]|go
+agô-mato	nome feminino	a|gô-ma|to
+agógico	adjetivo	a|[gó]|gi|co
+agogô	nome masculino	a|go|[gô]
+agoiral	adjetivo	a|goi|[ral]
+agoirar	verbo	a|goi|[rar]
+agoireira	nome feminino	a|goi|[rei]|ra
+agoireiro	adjetivo	a|goi|[rei]|ro
+agoireiro	nome masculino	a|goi|[rei]|ro
+agoirentar	verbo	a|goi|ren|[tar]
+agoirento	adjetivo	a|goi|[ren]|to
+agoiro	nome masculino	a|[goi]|ro
+agolfinhado	adjetivo	a|gol|fi|[nha]|do
+agolpear	verbo	a|gol|pe|[ar]
+agomã	nome masculino	a|go|[mã]
+agomar	verbo	a|go|[mar]
+agomia	nome feminino	a|go|[mi]|a
+agomiada	nome feminino	a|go|mi|[a]|da
+agomil	nome masculino	a|go|[mil]
+agomilado	adjetivo	a|go|mi|[la]|do
+agonfíase	nome feminino	a|gon|[fí]|a|se
+agonfose	nome feminino	a|gon|[fo]|se
+agongorado	adjetivo	a|gon|go|[ra]|do
+agongorar	verbo	a|gon|go|[rar]
+agonia	nome feminino	a|go|[ni]|a
+agoniação	nome feminino	a|go|ni|a|[ção]
+agoniada	nome feminino	a|go|ni|[a]|da
+agoniadamente	advérbio	a|go|ni|a|da|[men]|te
+agoniado	adjetivo	a|go|ni|[a]|do
+agoniante	adjetivo	a|go|ni|[an]|te
+agoniar	verbo	a|go|ni|[ar]
+agónico	adjetivo	a|[gó]|ni|co
+agônico	adjetivo	a|[gô]|ni|co
+agónida	nome masculino	a|[gó]|ni|da
+agonídeo	nome masculino	a|go|[ní]|de|o
+agonídeo	adjetivo	a|go|[ní]|de|o
+agônio	nome masculino	a|[gô]|ni|o
+agónio	nome masculino	a|[gó]|ni|o
+agonista	nome masculino	a|go|[nis]|ta
+agonistarca	nome masculino	a|go|nis|[tar]|ca
+agonística	nome feminino	a|go|[nís]|ti|ca
+agonisticamente	advérbio	a|go|nis|ti|ca|[men]|te
+agonístico	adjetivo	a|go|[nís]|ti|co
+agonizante	nome masculino	a|go|ni|[zan]|te
+agonizante	adjetivo	a|go|ni|[zan]|te

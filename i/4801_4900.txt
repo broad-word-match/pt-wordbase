@@ -1,0 +1,100 @@
+instantâneo	adjetivo	ins|tan|[tâ]|ne|o
+instantâneo	nome masculino	ins|tan|[tâ]|ne|o
+instante	nome masculino	ins|[tan]|te
+instante	adjetivo	ins|[tan]|te
+instantemente	advérbio	ins|tan|te|[men]|te
+instar	verbo	ins|[tar]
+instauração	nome feminino	ins|tau|ra|[ção]
+instaurador	adjetivo	ins|tau|ra|[dor]
+instaurador	nome masculino	ins|tau|ra|[dor]
+instauradora	nome feminino	ins|tau|ra|[do]|ra
+instaurar	verbo	ins|tau|[rar]
+instaurativo	adjetivo	ins|tau|ra|[ti]|vo
+instaurável	adjetivo	ins|tau|[rá]|vel
+instável	adjetivo	ins|[tá]|vel
+instavelmente	advérbio	ins|ta|vel|[men]|te
+instigação	nome feminino	ins|ti|ga|[ção]
+instigador	nome masculino	ins|ti|ga|[dor]
+instigador	adjetivo	ins|ti|ga|[dor]
+instigadora	nome feminino	ins|ti|ga|[do]|ra
+instigante	adjetivo	ins|ti|[gan]|te
+instigar	verbo	ins|ti|[gar]
+instigável	adjetivo	ins|ti|[gá]|vel
+instilação	nome feminino	ins|ti|la|[ção]
+instilador	adjetivo	ins|ti|la|[dor]
+instilador	nome masculino	ins|ti|la|[dor]
+instilar	verbo	ins|ti|[lar]
+instilável	adjetivo	ins|ti|[lá]|vel
+instintivamente	advérbio	ins|tin|ti|va|[men]|te
+instintividade	nome feminino	ins|tin|ti|vi|[da]|de
+instintivo	adjetivo	ins|tin|[ti]|vo
+instinto	nome masculino	ins|[tin]|to
+institor	nome masculino	ins|ti|[tor]
+institório	adjetivo	ins|ti|[tó]|ri|o
+institucional	adjetivo	ins|ti|tu|ci|o|[nal]
+institucionalismo	nome masculino	ins|ti|tu|ci|o|na|[lis]|mo
+institucionalista	adjetivo	ins|ti|tu|ci|o|na|[lis]|ta
+institucionalista	nome masculino	ins|ti|tu|ci|o|na|[lis]|ta
+institucionalista	nome feminino	ins|ti|tu|ci|o|na|[lis]|ta
+institucionalização	nome feminino	ins|ti|tu|ci|o|na|li|za|[ção]
+institucionalizado	adjetivo	ins|ti|tu|ci|o|na|li|[za]|do
+institucionalizar	verbo	ins|ti|tu|ci|o|na|li|[zar]
+institucionalmente	advérbio	ins|ti|tu|ci|o|nal|[men]|te
+instituição	nome feminino	ins|ti|tu|i|[ção]
+instituído	adjetivo	ins|ti|tu|[í]|do
+instituidor	adjetivo	ins|ti|tu|i|[dor]
+instituidor	nome masculino	ins|ti|tu|i|[dor]
+instituidora	nome feminino	ins|ti|tu|i|[do]|ra
+instituir	verbo	ins|ti|tu|[ir]
+instituível	adjetivo	ins|ti|tu|[í]|vel
+institutário	nome masculino	ins|ti|tu|[tá]|ri|o
+instituto	nome masculino	ins|ti|[tu]|to
+instrução	nome feminino	ins|tru|[ção]
+instruenda	nome feminino	ins|tru|[en]|da
+instruendo	nome masculino	ins|tru|[en]|do
+instruendo	adjetivo	ins|tru|[en]|do
+instruída	nome feminino	ins|tru|[í]|da
+instruído	adjetivo	ins|tru|[í]|do
+instruído	nome masculino	ins|tru|[í]|do
+instruidor	adjetivo	ins|tru|i|[dor]
+instruidor	nome masculino	ins|tru|i|[dor]
+instruidora	nome feminino	ins|tru|i|[do]|ra
+instruir	verbo	ins|tru|[ir]
+instruível	adjetivo	ins|tru|[í]|vel
+instrumentação	nome feminino	ins|tru|men|ta|[ção]
+instrumental	nome masculino	ins|tru|men|[tal]
+instrumental	adjetivo	ins|tru|men|[tal]
+instrumentalismo	nome masculino	ins|tru|men|ta|[lis]|mo
+instrumentalista	adjetivo	ins|tru|men|ta|[lis]|ta
+instrumentalista	nome masculino	ins|tru|men|ta|[lis]|ta
+instrumentalista	nome feminino	ins|tru|men|ta|[lis]|ta
+instrumentalístico	adjetivo	ins|tru|men|ta|[lís]|ti|co
+instrumentalização	nome feminino	ins|tru|men|ta|li|za|[ção]
+instrumentalizado	adjetivo	ins|tru|men|ta|li|[za]|do
+instrumentalizar	verbo	ins|tru|men|ta|li|[zar]
+instrumentalizável	adjetivo	ins|tru|men|ta|li|[zá]|vel
+instrumentalmente	advérbio	ins|tru|men|tal|[men]|te
+instrumentar	verbo	ins|tru|men|[tar]
+instrumentária	nome feminino	ins|tru|men|[tá]|ri|a
+instrumentário	adjetivo	ins|tru|men|[tá]|ri|o
+instrumentativo	adjetivo	ins|tru|men|ta|[ti]|vo
+instrumentismo	nome masculino	ins|tru|men|[tis]|mo
+instrumentista	nome masculino	ins|tru|men|[tis]|ta
+instrumentista	nome feminino	ins|tru|men|[tis]|ta
+instrumentista	adjetivo	ins|tru|men|[tis]|ta
+instrumento	nome masculino	ins|tru|[men]|to
+instrutivamente	advérbio	ins|tru|ti|va|[men]|te
+instrutivo	adjetivo	ins|tru|[ti]|vo
+instruto	adjetivo	ins|[tru]|to
+instrutor	adjetivo	ins|tru|[tor]
+instrutor	nome masculino	ins|tru|[tor]
+instrutor-geral	nome masculino	ins|tru|tor-ge|[ral]
+instrutora	nome feminino	ins|tru|[to]|ra
+instrutório	adjetivo	ins|tru|[tó]|ri|o
+instrutura	nome feminino	ins|tru|[tu]|ra
+ínsua	nome feminino	[ín]|su|a
+insuave	adjetivo	in|su|[a]|ve
+insuavidade	nome feminino	in|su|a|vi|[da]|de
+insubjugado	adjetivo	in|sub|ju|[ga]|do
+insubjugável	adjetivo	in|sub|ju|[gá]|vel
+insubmergibilidade	nome feminino	in|sub|mer|gi|bi|li|[da]|de

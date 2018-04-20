@@ -1,0 +1,100 @@
+essénio	nome masculino	es|[sé]|ni|o
+essénios	nome masculino	es|[sé]|ni|os
+essênios	nome masculino	es|[sê]|ni|os
+essivo	adjetivo	es|[si]|vo
+essivo	nome masculino	es|[si]|vo
+essonite	nome feminino	es|so|[ni]|te
+essoutro	artigo demostrativo	es|[sou]|tro
+essoutro	contração	es|[sou]|tro
+éssuo	adjetivo	[és]|su|o
+éssuo	nome masculino	[és]|su|o
+estabalhoadamente	advérbio	es|ta|ba|lho|a|da|[men]|te
+estabalhoado	adjetivo	es|ta|ba|lho|[a]|do
+estabanado	adjetivo	es|ta|ba|[na]|do
+estabareda	adjetivo	es|ta|ba|[re]|da
+estabareda	nome masculino	es|ta|ba|[re]|da
+estabareda	nome feminino	es|ta|ba|[re]|da
+estabelecedor	adjetivo	es|ta|be|le|ce|[dor]
+estabelecedor	nome masculino	es|ta|be|le|ce|[dor]
+estabelecedora	nome feminino	es|ta|be|le|ce|[do]|ra
+estabelecer	verbo	es|ta|be|le|[cer]
+estabelecido	nome masculino	es|ta|be|le|[ci]|do
+estabelecido	adjetivo	es|ta|be|le|[ci]|do
+estabelecimento	nome masculino	es|ta|be|le|ci|[men]|to
+estabiano	adjetivo	es|ta|bi|[a]|no
+estabiano	nome masculino	es|ta|bi|[a]|no
+estabilidade	nome feminino	es|ta|bi|li|[da]|de
+estabilização	nome feminino	es|ta|bi|li|za|[ção]
+estabilizador	adjetivo	es|ta|bi|li|za|[dor]
+estabilizador	nome masculino	es|ta|bi|li|za|[dor]
+estabilizante	adjetivo	es|ta|bi|li|[zan]|te
+estabilizar	verbo	es|ta|bi|li|[zar]
+estabilizável	adjetivo	es|ta|bi|li|[zá]|vel
+establishment	nome masculino	es|ta|blish|ment
+estabulação	nome feminino	es|ta|bu|la|[ção]
+estabular	verbo	es|ta|bu|[lar]
+estabular	adjetivo	es|ta|bu|[lar]
+estábulo	nome masculino	es|[tá]|bu|lo
+estaca	nome feminino	es|[ta]|ca
+estacada	nome feminino	es|ta|[ca]|da
+estacado	nome masculino	es|ta|[ca]|do
+estacagem	nome feminino	es|ta|[ca]|gem
+estacal	nome masculino	es|ta|[cal]
+estação	nome feminino	es|ta|[ção]
+estacão	nome masculino	es|ta|[cão]
+estacar	verbo	es|ta|[car]
+estacaria	nome feminino	es|ta|ca|[ri]|a
+estacielate	adjetivo	es|ta|ci|e|[la]|te
+estacielate	nome masculino	es|ta|ci|e|[la]|te
+estacielate	nome feminino	es|ta|ci|e|[la]|te
+estacional	adjetivo	es|ta|ci|o|[nal]
+estacionamento	nome masculino	es|ta|ci|o|na|[men]|to
+estacionar	verbo	es|ta|ci|o|[nar]
+estacionariamente	advérbio	es|ta|ci|o|na|ri|a|[men]|te
+estacionário	adjetivo	es|ta|ci|o|[ná]|ri|o
+estacionário	nome masculino	es|ta|ci|o|[ná]|ri|o
+estacionável	adjetivo	es|ta|ci|o|[ná]|vel
+estacoadela	nome feminino	es|ta|co|a|[de]|la
+estacoar	verbo	es|ta|co|[ar]
+estada	nome feminino	es|[ta]|da
+estadal	nome masculino	es|ta|[dal]
+estadão	nome masculino	es|ta|[dão]
+estadeação	nome feminino	es|ta|de|a|[ção]
+estadeador	adjetivo	es|ta|de|a|[dor]
+estadeador	nome masculino	es|ta|de|a|[dor]
+estadear	verbo	es|ta|de|[ar]
+estadeiro	nome masculino	es|ta|[dei]|ro
+estádia	nome feminino	es|[tá]|di|a
+estadia	nome feminino	es|ta|[di]|a
+estádio	nome masculino	es|[tá]|di|o
+estadiométrico	adjetivo	es|ta|di|o|[mé]|tri|co
+estadiómetro	nome masculino	es|ta|di|[ó]|me|tro
+estadiômetro	nome masculino	es|ta|di|[ô]|me|tro
+estadismo	nome masculino	es|ta|[dis]|mo
+estadista	nome masculino	es|ta|[dis]|ta
+estadista	adjetivo	es|ta|[dis]|ta
+estadista	nome feminino	es|ta|[dis]|ta
+estadística	nome feminino	es|ta|[dís]|ti|ca
+estadisticamente	advérbio	es|ta|dis|ti|ca|[men]|te
+estadístico	adjetivo	es|ta|[dís]|ti|co
+estado	nome masculino	es|[ta]|do
+estado-maior	nome masculino	es|ta|do-mai|[or]
+estado-providência	nome masculino	es|ta|do-pro|vi|[dên]|ci|a
+estado-tampão	nome masculino	es|ta|do-tam|[pão]
+estado-unidense	adjetivo	es|ta|do-u|ni|[den]|se
+estado-unidense	nome masculino	es|ta|do-u|ni|[den]|se
+estado-unidense	nome feminino	es|ta|do-u|ni|[den]|se
+estadual	adjetivo	es|ta|du|[al]
+estadualização	nome feminino	es|ta|du|a|li|za|[ção]
+estadualizar	verbo	es|ta|du|a|li|[zar]
+estadulho	nome masculino	es|ta|[du]|lho
+estafa	nome feminino	es|[ta]|fa
+estafadeira	nome feminino	es|ta|fa|[dei]|ra
+estafadela	nome feminino	es|ta|fa|[de]|la
+estafado	adjetivo	es|ta|[fa]|do
+estafador	adjetivo	es|ta|fa|[dor]
+estafador	nome masculino	es|ta|fa|[dor]
+estafamento	nome masculino	es|ta|fa|[men]|to
+estafanéforo	nome masculino	es|ta|fa|[né]|fo|ro
+estafante	adjetivo	es|ta|[fan]|te
+estafar	verbo	es|ta|[far]

@@ -1,0 +1,100 @@
+voile	nome masculino	[voi]|le
+voivoda	nome masculino	voi|[vo]|da
+voivodia	nome feminino	voi|vo|[di]|a
+volanta	nome feminino	vo|[lan]|ta
+volante	nome masculino	vo|[lan]|te
+volante	adjetivo	vo|[lan]|te
+volante	nome feminino	vo|[lan]|te
+volanteira	nome feminino	vo|lan|[tei]|ra
+volantim	nome masculino	vo|lan|[tim]
+volantina	nome feminino	vo|lan|[ti]|na
+volapé	nome masculino	vo|la|[pé]
+volapuque	nome masculino	vo|la|[pu]|que
+volapuquista	adjetivo	vo|la|pu|[quis]|ta
+volapuquista	nome masculino	vo|la|pu|[quis]|ta
+volapuquista	nome feminino	vo|la|pu|[quis]|ta
+volata	nome feminino	vo|[la]|ta
+volataria	nome feminino	vo|la|ta|[ri]|a
+volateante	adjetivo	vo|la|te|[an]|te
+volatear	verbo	vo|la|te|[ar]
+volaterrano	adjetivo	vo|la|ter|[ra]|no
+volaterrano	nome masculino	vo|la|ter|[ra]|no
+volátil	adjetivo	vo|[lá]|til
+volátil	nome masculino	vo|[lá]|til
+volátil	nome feminino	vo|[lá]|til
+volatilidade	nome feminino	vo|la|ti|li|[da]|de
+volatilização	nome feminino	vo|la|ti|li|za|[ção]
+volatilizante	adjetivo	vo|la|ti|li|[zan]|te
+volatilizar	verbo	vo|la|ti|li|[zar]
+volatilizável	adjetivo	vo|la|ti|li|[zá]|vel
+volatim	nome masculino	vo|la|[tim]
+volatina	nome feminino	vo|la|[ti]|na
+volatório	adjetivo	vo|la|[tó]|ri|o
+volca	adjetivo	[vol]|ca
+volca	nome masculino	[vol]|ca
+volca	nome feminino	[vol]|ca
+volcânico	adjetivo	vol|[câ]|ni|co
+volcentino	adjetivo	vol|cen|[ti]|no
+volcentino	nome masculino	vol|cen|[ti]|no
+volciano	adjetivo	vol|ci|[a]|no
+volciano	nome masculino	vol|ci|[a]|no
+volciente	adjetivo	vol|ci|[en]|te
+volciente	nome masculino	vol|ci|[en]|te
+volciente	nome feminino	vol|ci|[en]|te
+vólei	nome masculino	[vó]|lei
+vôlei	nome masculino	[vô]|lei
+voleibol	nome masculino	vo|lei|[bol]
+voleibolista	adjetivo	vo|lei|bo|[lis]|ta
+voleibolista	nome masculino	vo|lei|bo|[lis]|ta
+voleibolista	nome feminino	vo|lei|bo|[lis]|ta
+volentina	nome feminino	vo|len|[ti]|na
+volframato	nome masculino	vol|fra|[ma]|to
+volfrâmico	adjetivo	vol|[frâ]|mi|co
+volfrâmio	nome masculino	vol|[frâ]|mi|o
+volframista	nome masculino	vol|fra|[mis]|ta
+volframista	nome feminino	vol|fra|[mis]|ta
+volframita	nome feminino	vol|fra|[mi]|ta
+volframite	nome feminino	vol|fra|[mi]|te
+volição	nome feminino	vo|li|[ção]
+volitante	adjetivo	vo|li|[tan]|te
+volitante	nome masculino	vo|li|[tan]|te
+volitar	verbo	vo|li|[tar]
+volitivo	adjetivo	vo|li|[ti]|vo
+volível	adjetivo	vo|[lí]|vel
+volley	nome masculino	[vol]|ley
+volo	nome masculino	[vo]|lo
+volofo	nome masculino	vo|[lo]|fo
+volovã	nome masculino	vo|lo|[vã]
+volsciano	adjetivo	vols|ci|[a]|no
+volsciano	nome masculino	vols|ci|[a]|no
+volsco	adjetivo	[vols]|co
+volsco	nome masculino	[vols]|co
+volt	nome masculino	[volt]
+volt-ampere	nome masculino	volt-am|[pe]|re
+volt-amperímetro	nome masculino	volt-am|pe|[rí]|me|tro
+volta	nome feminino	[vol]|ta
+volta no meio	nome feminino	[vol]|ta no mei|o
+volta no meio	nome masculino	[vol]|ta no mei|o
+volta-aiveca	nome feminino	vol|ta-ai|[ve]|ca
+volta-cara	nome feminino	vol|ta-ca|ra
+volta-face	nome feminino	vol|ta-fa|ce
+volta-redondense	adjetivo	vol|ta-re|don|[den]|se
+volta-redondense	nome masculino	vol|ta-re|don|[den]|se
+volta-redondense	nome feminino	vol|ta-re|don|[den]|se
+voltagem	nome feminino	vol|[ta]|gem
+voltaico	adjetivo	vol|[tai]|co
+voltairianismo	nome masculino	vol|tai|ri|a|[nis]|mo
+voltairianista	nome masculino	vol|tai|ri|a|[nis]|ta
+voltairianista	nome feminino	vol|tai|ri|a|[nis]|ta
+voltairiano	adjetivo	vol|tai|ri|[a]|no
+voltaísmo	nome masculino	vol|ta|[ís]|mo
+voltaíte	nome feminino	vol|ta|[í]|te
+voltaização	nome feminino	vol|tai|za|[ção]
+voltamétrico	adjetivo	vol|ta|[mé]|tri|co
+voltâmetro	nome masculino	vol|[tâ]|me|tro
+voltar	verbo	vol|[tar]
+voltarete	nome masculino	vol|ta|[re]|te
+voltaretista	nome masculino	vol|ta|re|[tis]|ta
+voltaretista	nome feminino	vol|ta|re|[tis]|ta
+voltário	adjetivo	vol|[tá]|ri|o
+volte	nome masculino	[vol]|te

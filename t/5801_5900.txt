@@ -1,0 +1,100 @@
+torénia	nome feminino	to|[ré]|ni|a
+torênia	nome feminino	to|[rê]|ni|a
+tóreta	adjetivo	[tó]|re|ta
+tóreta	nome masculino	[tó]|re|ta
+tóreta	nome feminino	[tó]|re|ta
+toreumatografia	nome feminino	to|reu|ma|to|gra|[fi]|a
+toreumatográfico	adjetivo	to|reu|ma|to|[grá]|fi|co
+toreumatógrafo	nome masculino	to|reu|ma|[tó]|gra|fo
+toreuta	nome masculino	to|[reu]|ta
+torêutica	nome feminino	to|[rêu]|ti|ca
+torêutico	adjetivo	to|[rêu]|ti|co
+torga	nome feminino	[tor]|ga
+torgainha	nome feminino	tor|ga|[i]|nha
+torgal	nome masculino	tor|[gal]
+torgalho	nome masculino	tor|[ga]|lho
+torgão	nome masculino	tor|[gão]
+torgueira	nome feminino	tor|[guei]|ra
+torguiano	adjetivo	tor|gui|[a]|no
+tori	nome masculino	[to]|ri
+tóri	adjetivo	[tó]|ri
+tóri	nome masculino	[tó]|ri
+tóri	nome feminino	[tó]|ri
+torianita	nome feminino	to|ri|a|[ni]|ta
+torianite	nome feminino	to|ri|a|[ni]|te
+toríbio	nome masculino	to|[rí]|bi|o
+toríbios	nome masculino	to|[rí]|bi|os
+torilo	nome masculino	to|[ri]|lo
+tórino	adjetivo	[tó]|ri|no
+tórino	nome masculino	[tó]|ri|no
+tório	nome masculino	[tó]|ri|o
+torique	nome masculino	to|[ri]|que
+torita	nome feminino	to|[ri]|ta
+torite	nome feminino	to|[ri]|te
+tormenta	nome feminino	tor|[men]|ta
+tormentaria	nome feminino	tor|men|ta|[ri]|a
+tormentelho	nome masculino	tor|men|[te]|lho
+tormentelo	nome masculino	tor|men|[te]|lo
+tormentila	nome feminino	tor|men|[ti]|la
+tormentilha	nome feminino	tor|men|[ti]|lha
+tormentina	nome feminino	tor|men|[ti]|na
+tormento	nome masculino	tor|[men]|to
+tormentório	adjetivo	tor|men|[tó]|ri|o
+tormentosamente	advérbio	tor|men|to|sa|[men]|te
+tormentoso	adjetivo	tor|men|[to]|so
+torna	nome feminino	[tor]|na
+torna-boda	nome feminino	tor|na-bo|da
+torna-boi	nome feminino	tor|na-boi
+torna-e-torna	nome feminino	tor|na-e-tor|na
+torna-fio	nome masculino	tor|na-fi|o
+torna-jeira	nome feminino	tor|na-jei|ra
+torna-torna	nome feminino	tor|na-tor|na
+torna-vaca	nome feminino	tor|na-va|ca
+torna-viagem	nome feminino	tor|na-vi|[a]|gem
+torna-viagem	adjetivo	tor|na-vi|[a]|gem
+torna-viagem	nome masculino	tor|na-vi|[a]|gem
+tornada	nome feminino	tor|[na]|da
+tornadiço	adjetivo	tor|na|[di]|ço
+tornado	nome masculino	tor|[na]|do
+tornadoira	nome feminino	tor|na|[doi]|ra
+tornadoiro	nome masculino	tor|na|[doi]|ro
+tornador	adjetivo	tor|na|[dor]
+tornador	nome masculino	tor|na|[dor]
+tornadoura	nome feminino	tor|na|[dou]|ra
+tornadouro	nome masculino	tor|na|[dou]|ro
+tornadura	nome feminino	tor|na|[du]|ra
+tornamento	nome masculino	tor|na|[men]|to
+tornar	verbo	tor|[nar]
+tornassol	nome masculino	tor|nas|[sol]
+torneado	nome masculino	tor|ne|[a]|do
+torneado	adjetivo	tor|ne|[a]|do
+torneador	nome masculino	tor|ne|a|[dor]
+torneador	adjetivo	tor|ne|a|[dor]
+torneamento	nome masculino	tor|ne|a|[men]|to
+torneante	adjetivo	tor|ne|[an]|te
+tornear	verbo	tor|ne|[ar]
+tornearia	nome feminino	tor|ne|a|[ri]|a
+torneável	adjetivo	tor|ne|[á]|vel
+torneio	nome masculino	tor|[nei]|o
+torneira	nome feminino	tor|[nei]|ra
+torneira	adjetivo	tor|[nei]|ra
+torneirinha	nome feminino	tor|nei|[ri]|nha
+torneiro	nome masculino	tor|[nei]|ro
+torneja	nome feminino	tor|[ne]|ja
+tornejamento	nome masculino	tor|ne|ja|[men]|to
+tornejante	adjetivo	tor|ne|[jan]|te
+tornejão	nome masculino	tor|ne|[jão]
+tornejar	verbo	tor|ne|[jar]
+tornel	nome masculino	tor|[nel]
+tornês	nome masculino	tor|[nês]
+tornesol	nome masculino	tor|ne|[sol]
+tornessol	nome masculino	tor|nes|[sol]
+tornete	nome masculino	tor|[ne]|te
+tornilheiro	adjetivo	tor|ni|[lhei]|ro
+tornilho	nome masculino	tor|[ni]|lho
+torninho	nome masculino	tor|[ni]|nho
+torniquete	nome masculino	tor|ni|[que]|te
+torno	nome masculino	[tor]|no
+tornozelo	nome masculino	tor|no|[ze]|lo
+toro	nome masculino	[to]|ro
+toró	nome masculino	to|[ró]

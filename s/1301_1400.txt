@@ -1,0 +1,100 @@
+sambarca	nome feminino	sam|[bar]|ca
+sambarcar	verbo	sam|bar|[car]
+sambarco	nome masculino	sam|[bar]|co
+sambear	verbo	sam|be|[ar]
+sambenitar	verbo	sam|be|ni|[tar]
+sambenito	nome masculino	sam|be|[ni]|to
+sambiquira	nome feminino	sam|bi|[qui]|ra
+sambista	adjetivo	sam|[bis]|ta
+sambista	nome masculino	sam|[bis]|ta
+sambista	nome feminino	sam|[bis]|ta
+sambladura	nome feminino	sam|bla|[du]|ra
+samblagem	nome feminino	sam|[bla]|gem
+samblar	verbo	sam|[blar]
+sambo	nome masculino	[sam]|bo
+sambódromo	nome masculino	sam|[bó]|dro|mo
+sambongo	nome masculino	sam|[bon]|go
+sambrás	nome feminino	sam|[brás]
+sambuca	nome feminino	sam|[bu]|ca
+sambúcea	nome feminino	sam|[bú]|ce|a
+sambúceo	adjetivo	sam|[bú]|ce|o
+sambucina	nome feminino	sam|bu|[ci]|na
+sambúcina	nome feminino	sam|[bú]|ci|na
+sambucístria	nome feminino	sam|bu|[cís]|tri|a
+sambuco	nome masculino	sam|[bu]|co
+samburá	nome masculino	sam|bu|[rá]
+samear	verbo	sa|me|[ar]
+sameira	nome feminino	sa|[mei]|ra
+samelo	nome masculino	sa|[me]|lo
+sãmente	advérbio	sã|[men]|te
+sâmeque	nome masculino	[sâ]|me|que
+sameu	nome masculino	sa|[meu]
+sameu	adjetivo	sa|[meu]
+samiana	adjetivo	sa|mi|[a]|na
+samiana	nome feminino	sa|mi|[a]|na
+samica	nome masculino	sa|[mi]|ca
+samicar	verbo	sa|mi|[car]
+samicas	adjetivo	sa|[mi]|cas
+samicas	nome masculino	sa|[mi]|cas
+samicas	advérbio	sa|[mi]|cas
+sâmico	adjetivo	[sâ]|mi|co
+sâmico	nome masculino	[sâ]|mi|co
+samidácea	nome feminino	sa|mi|[dá]|ce|a
+samintar	verbo	sa|min|[tar]
+sâmio	adjetivo	[sâ]|mi|o
+sâmio	nome masculino	[sâ]|mi|o
+samite	nome masculino	sa|[mi]|te
+samito	nome masculino	sa|[mi]|to
+samnita	nome masculino	sam|[ni]|ta
+samnita	adjetivo	sam|[ni]|ta
+samnita	nome feminino	sam|[ni]|ta
+samnítico	adjetivo	sam|[ní]|ti|co
+samo	nome masculino	[sa]|mo
+samoana	nome feminino	sa|mo|[a]|na
+samoano	nome masculino	sa|mo|[a]|no
+samoano	adjetivo	sa|mo|[a]|no
+samoco	nome masculino	sa|[mo]|co
+samoieda	nome feminino	sa|moi|[e]|da
+samoiédico	adjetivo	sa|moi|[é]|di|co
+samoiedo	adjetivo	sa|moi|[e]|do
+samoiedo	nome masculino	sa|moi|[e]|do
+samólea	nome feminino	sa|[mó]|le|a
+sâmolo	nome masculino	[sâ]|mo|lo
+samorá	nome feminino	sa|mo|[rá]
+samorano	adjetivo	sa|mo|[ra]|no
+samorano	nome masculino	sa|mo|[ra]|no
+samorense	adjetivo	sa|mo|[ren]|se
+samorense	nome masculino	sa|mo|[ren]|se
+samorense	nome feminino	sa|mo|[ren]|se
+samorim	nome masculino	sa|mo|[rim]
+samosatense	adjetivo	sa|mo|sa|[ten]|se
+samosatense	nome masculino	sa|mo|sa|[ten]|se
+samosatense	nome feminino	sa|mo|sa|[ten]|se
+samotraceno	nome masculino	sa|mo|tra|[ce]|no
+samotraceno	adjetivo	sa|mo|tra|[ce]|no
+samotrácio	adjetivo	sa|mo|[trá]|ci|o
+samotrácio	nome masculino	sa|mo|[trá]|ci|o
+samotraco	adjetivo	sa|mo|[tra]|co
+samotraco	nome masculino	sa|mo|[tra]|co
+samouco	nome masculino	sa|[mou]|co
+samovar	nome masculino	sa|mo|[var]
+sampadjuda	nome feminino	sam|pad|[ju]|da
+sampadjudo	nome masculino	sam|pad|[ju]|do
+sampaísmo	nome masculino	sam|pa|[ís]|mo
+sampana	nome feminino	sam|[pa]|na
+sampar	verbo	sam|[par]
+sampé	nome feminino	sam|[pé]
+sampetersburguês	adjetivo	sam|pe|ters|bur|[guês]
+sampetersburguês	nome masculino	sam|pe|ters|bur|[guês]
+sâmpi	nome masculino	[sâm]|pi
+sample	nome masculino	[sam]|ple
+sampler	nome masculino	[sam]|pler
+samurai	nome masculino	sa|mu|[rai]
+saná	nome feminino	sa|[ná]
+sanabilidade	nome feminino	sa|na|bi|li|[da]|de
+sanação	nome feminino	sa|na|[ção]
+sanador	adjetivo	sa|na|[dor]
+sanador	nome masculino	sa|na|[dor]
+sanagense	adjetivo	sa|na|[gen]|se
+sanagense	nome masculino	sa|na|[gen]|se
+sanagense	nome feminino	sa|na|[gen]|se

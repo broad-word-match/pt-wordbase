@@ -1,0 +1,100 @@
+ofensor	nome masculino	o|fen|[sor]
+ofensora	nome feminino	o|fen|[so]|ra
+oferecedor	adjetivo	o|fe|re|ce|[dor]
+oferecedor	nome masculino	o|fe|re|ce|[dor]
+oferecedora	nome feminino	o|fe|re|ce|[do]|ra
+oferecer	verbo	o|fe|re|[cer]
+oferecido	adjetivo	o|fe|re|[ci]|do
+oferecimento	nome masculino	o|fe|re|ci|[men]|to
+oferenda	nome feminino	o|fe|[ren]|da
+oferendar	verbo	o|fe|ren|[dar]
+oferente	adjetivo	o|fe|[ren]|te
+oferente	nome masculino	o|fe|[ren]|te
+oferente	nome feminino	o|fe|[ren]|te
+oferta	nome feminino	o|[fer]|ta
+ofertamento	nome masculino	o|fer|ta|[men]|to
+ofertante	adjetivo	o|fer|[tan]|te
+ofertante	nome masculino	o|fer|[tan]|te
+ofertante	nome feminino	o|fer|[tan]|te
+ofertar	verbo	o|fer|[tar]
+ofertável	adjetivo	o|fer|[tá]|vel
+oferteira	nome feminino	o|fer|[tei]|ra
+ofertório	nome masculino	o|fer|[tó]|ri|o
+off-line	adjetivo	off-li|ne
+office-boy	nome masculino	of|fi|ce-boy
+offline	advérbio	of|fli|ne
+offline	adjetivo	of|[fli]|ne
+offset	nome masculino	off|set
+offshore	adjetivo	off|sho|re
+offshore	nome masculino	off|sho|re
+ofíase	nome feminino	o|[fí]|a|se
+oficiador	adjetivo	o|fi|ci|a|[dor]
+oficiador	nome masculino	o|fi|ci|a|[dor]
+oficial	nome masculino	o|fi|ci|[al]
+oficial	adjetivo	o|fi|ci|[al]
+oficial	nome feminino	o|fi|ci|[al]
+oficial às ordens	nome masculino	o|fi|ci|al às or|dens
+oficial-de-sala	nome masculino	o|fi|ci|al-de-sa|la
+oficial-mor	nome masculino	o|fi|ci|al-mor
+oficialato	nome masculino	o|fi|ci|a|[la]|to
+oficialidade	nome feminino	o|fi|ci|a|li|[da]|de
+oficialismo	nome masculino	o|fi|ci|a|[lis]|mo
+oficialização	nome feminino	o|fi|ci|a|li|za|[ção]
+oficializado	adjetivo	o|fi|ci|a|li|[za]|do
+oficializador	adjetivo	o|fi|ci|a|li|za|[dor]
+oficializador	nome masculino	o|fi|ci|a|li|za|[dor]
+oficializar	verbo	o|fi|ci|a|li|[zar]
+oficializável	adjetivo	o|fi|ci|a|li|[zá]|vel
+oficialmente	advérbio	o|fi|ci|al|[men]|te
+oficiante	adjetivo	o|fi|ci|[an]|te
+oficiante	nome masculino	o|fi|ci|[an]|te
+oficiante	nome feminino	o|fi|ci|[an]|te
+oficiar	verbo	o|fi|ci|[ar]
+oficina	nome feminino	o|fi|[ci]|na
+oficinal	adjetivo	o|fi|ci|[nal]
+ofício	nome masculino	o|[fí]|ci|o
+oficiosamente	advérbio	o|fi|ci|o|sa|[men]|te
+oficiosidade	nome feminino	o|fi|ci|o|si|[da]|de
+oficioso	adjetivo	o|fi|ci|[o]|so
+oficioso	nome masculino	o|fi|ci|[o]|so
+oficleide	nome masculino	o|fi|[clei]|de
+oficlide	nome masculino	o|fi|[cli]|de
+ofidiário	nome masculino	o|fi|di|[á]|ri|o
+ofídico	adjetivo	o|[fí]|di|co
+ofidídeo	nome masculino	o|fi|[dí]|de|o
+ofídio	nome masculino	o|[fí]|di|o
+ofídio	adjetivo	o|[fí]|di|o
+ofidiofobia	nome feminino	o|fi|di|o|fo|[bi]|a
+ofidismo	nome masculino	o|fi|[dis]|mo
+ofieu	adjetivo	o|fi|[eu]
+ofieu	nome masculino	o|fi|[eu]
+ofiocéfalo	adjetivo	o|fi|o|[cé]|fa|lo
+ofiocéfalo	nome masculino	o|fi|o|[cé]|fa|lo
+ofiodonte	nome masculino	o|fi|o|[don]|te
+ofiofagia	nome feminino	o|fi|o|fa|[gi]|a
+ofiofágico	adjetivo	o|fi|o|[fá]|gi|co
+ofiófago	adjetivo	o|fi|[ó]|fa|go
+ofiófago	nome masculino	o|fi|[ó]|fa|go
+ofiofobia	nome feminino	o|fi|o|fo|[bi]|a
+ofiófobo	adjetivo	o|fi|[ó]|fo|bo
+ofiófobo	nome masculino	o|fi|[ó]|fo|bo
+ofioftalmo	nome masculino	o|fi|of|[tal]|mo
+ofiógene	adjetivo	o|fi|[ó]|ge|ne
+ofiógene	nome masculino	o|fi|[ó]|ge|ne
+ofiógene	nome feminino	o|fi|[ó]|ge|ne
+ofioglossácea	nome feminino	o|fi|o|glos|[sá]|ce|a
+ofioglosso	nome masculino	o|fi|o|[glos]|so
+ofiografia	nome feminino	o|fi|o|gra|[fi]|a
+ofiográfico	adjetivo	o|fi|o|[grá]|fi|co
+ofiógrafo	nome masculino	o|fi|[ó]|gra|fo
+ofioide	adjetivo	o|fi|[oi]|de
+ofióideo	adjetivo	o|fi|[ói]|de|o
+ofiólatra	adjetivo	o|fi|[ó]|la|tra
+ofiólatra	nome masculino	o|fi|[ó]|la|tra
+ofiólatra	nome feminino	o|fi|[ó]|la|tra
+ofiolatria	nome feminino	o|fi|o|la|[tri]|a
+ofiolátrico	adjetivo	o|fi|o|[lá]|tri|co
+ofiolítico	adjetivo	o|fi|o|[lí]|ti|co
+ofiólito	nome masculino	o|fi|[ó]|li|to
+ofiologia	nome feminino	o|fi|o|lo|[gi]|a
+ofiológico	adjetivo	o|fi|o|[ló]|gi|co

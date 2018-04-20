@@ -1,0 +1,100 @@
+propolização	nome feminino	pro|po|li|za|[ção]
+propolizar	verbo	pro|po|li|[zar]
+proponente	adjetivo	pro|po|[nen]|te
+proponente	nome masculino	pro|po|[nen]|te
+proponente	nome feminino	pro|po|[nen]|te
+propor	verbo	pro|[por]
+proporção	nome feminino	pro|por|[ção]
+proporcionadamente	advérbio	pro|por|ci|o|na|da|[men]|te
+proporcionado	adjetivo	pro|por|ci|o|[na]|do
+proporcionador	adjetivo	pro|por|ci|o|na|[dor]
+proporcionador	nome masculino	pro|por|ci|o|na|[dor]
+proporcionadora	nome feminino	pro|por|ci|o|na|[do]|ra
+proporcional	adjetivo	pro|por|ci|o|[nal]
+proporcionalidade	nome feminino	pro|por|ci|o|na|li|[da]|de
+proporcionalizar	verbo	pro|por|ci|o|na|li|[zar]
+proporcionalmente	advérbio	pro|por|ci|o|nal|[men]|te
+proporcionar	verbo	pro|por|ci|o|[nar]
+proporcionável	adjetivo	pro|por|ci|o|[ná]|vel
+proposição	nome feminino	pro|po|si|[ção]
+proposicional	adjetivo	pro|po|si|ci|o|[nal]
+propositadamente	advérbio	pro|po|si|ta|da|[men]|te
+propositado	adjetivo	pro|po|si|[ta]|do
+proposital	adjetivo	pro|po|si|[tal]
+propositalmente	advérbio	pro|po|si|tal|[men]|te
+propósito	nome masculino	pro|[pó]|si|to
+propositura	nome feminino	pro|po|si|[tu]|ra
+proposta	nome feminino	pro|[pos]|ta
+proposto	nome masculino	pro|[pos]|to
+propriador	nome masculino	pro|pri|a|[dor]
+propriagem	nome feminino	pro|pri|[a]|gem
+propriamente	advérbio	pro|pri|a|[men]|te
+propriedade	nome feminino	pro|pri|e|[da]|de
+proprietária	nome feminino	pro|pri|e|[tá]|ri|a
+proprietariado	nome masculino	pro|pri|e|ta|ri|[a]|do
+proprietário	nome masculino	pro|pri|e|[tá]|ri|o
+proprietário	adjetivo	pro|pri|e|[tá]|ri|o
+proprietarismo	nome masculino	pro|pri|e|ta|[ris]|mo
+propriíssimo	adjetivo	pro|pri|[ís]|si|mo
+próprio	nome masculino	[pró]|pri|o
+próprio	adjetivo	[pró]|pri|o
+próprio	artigo demostrativo	[pró]|pri|o
+próprio	pronome demostrativo	[pró]|pri|o
+proprioceptivo	adjetivo	pro|pri|o|cep|[ti]|vo
+proprioceptor	nome masculino	pro|pri|o|cep|[tor]
+propriocetivo	adjetivo	pro|pri|o|ce|[ti]|vo
+propriocetor	nome masculino	pro|pri|o|ce|[tor]
+proprioplástico	adjetivo	pro|pri|o|[plás]|ti|co
+propterígio	nome masculino	prop|te|[rí]|gi|o
+próptero	nome masculino	[próp]|te|ro
+proptoma	nome masculino	prop|[to]|ma
+proptose	nome feminino	prop|[to]|se
+propugnação	nome feminino	pro|pug|na|[ção]
+propugnáculo	nome masculino	pro|pug|[ná]|cu|lo
+propugnador	adjetivo	pro|pug|na|[dor]
+propugnador	nome masculino	pro|pug|na|[dor]
+propugnadora	nome feminino	pro|pug|na|[do]|ra
+propugnar	verbo	pro|pug|[nar]
+propulsão	nome feminino	pro|pul|[são]
+propulsar	verbo	pro|pul|[sar]
+propulsionador	adjetivo	pro|pul|si|o|na|[dor]
+propulsionador	nome masculino	pro|pul|si|o|na|[dor]
+propulsionar	verbo	pro|pul|si|o|[nar]
+propulsivo	adjetivo	pro|pul|[si]|vo
+propulsor	adjetivo	pro|pul|[sor]
+propulsor	nome masculino	pro|pul|[sor]
+proquestor	nome masculino	pro|ques|[tor]
+proquestura	nome feminino	pro|ques|[tu]|ra
+prorroga	nome feminino	pror|[ro]|ga
+prorrogabilidade	nome feminino	pror|ro|ga|bi|li|[da]|de
+prorrogação	nome feminino	pror|ro|ga|[ção]
+prorrogador	nome masculino	pror|ro|ga|[dor]
+prorrogadora	nome feminino	pror|ro|ga|[do]|ra
+prorrogar	verbo	pror|ro|[gar]
+prorrogativo	adjetivo	pror|ro|ga|[ti]|vo
+prorrogatório	adjetivo	pror|ro|ga|[tó]|ri|o
+prorrogável	adjetivo	pror|ro|[gá]|vel
+prorromper	verbo	pror|rom|[per]
+prorrompimento	nome masculino	pror|rom|pi|[men]|to
+prosa	nome masculino	[pro]|sa
+prosa	nome feminino	[pro]|sa
+prosador	nome masculino	pro|sa|[dor]
+prosadora	nome feminino	pro|sa|[do]|ra
+prosaicamente	advérbio	pro|sai|ca|[men]|te
+prosaicíssimo	adjetivo	pro|sai|[cís]|si|mo
+prosaico	adjetivo	pro|[sai]|co
+prosaísmo	nome masculino	pro|sa|[ís]|mo
+prosaísta	nome masculino	pro|sa|[ís]|ta
+prosaísta	nome feminino	pro|sa|[ís]|ta
+prosápia	nome feminino	pro|[sá]|pi|a
+prosapódose	nome feminino	pro|sa|[pó]|do|se
+prosar	verbo	pro|[sar]
+proscénio	nome masculino	pros|[cé]|ni|o
+proscênio	nome masculino	pros|[cê]|ni|o
+proscólio	nome masculino	pros|[có]|li|o
+proscrever	verbo	pros|cre|[ver]
+proscrição	nome feminino	pros|cri|[ção]
+proscrita	nome feminino	pros|[cri]|ta
+proscritivo	adjetivo	pros|cri|[ti]|vo
+proscrito	nome masculino	pros|[cri]|to
+proscrito	adjetivo	pros|[cri]|to

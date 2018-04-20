@@ -1,0 +1,100 @@
+cassoiro	nome masculino	cas|[soi]|ro
+cassouro	nome masculino	cas|[sou]|ro
+cassumbular	verbo	cas|sum|bu|[lar]
+cassuneira	nome feminino	cas|su|[nei]|ra
+cassungo	nome masculino	cas|[sun]|go
+cast	nome masculino	[cast]
+casta	nome feminino	[cas]|ta
+castálide	nome feminino	cas|[tá]|li|de
+castálio	adjetivo	cas|[tá]|li|o
+castamente	advérbio	cas|ta|[men]|te
+castaneácea	nome feminino	cas|ta|ne|[á]|ce|a
+castaneífero	adjetivo	cas|ta|ne|[í]|fe|ro
+castâneo	adjetivo	cas|[tâ]|ne|o
+castanha	nome feminino	cas|[ta]|nha
+castanha-de-caju	nome feminino	cas|ta|nha-de-ca|[ju]
+castanha-do-maranhão	nome feminino	cas|ta|nha-do-ma|ra|[nhão]
+castanha-do-pará	nome feminino	cas|ta|nha-do-pa|[rá]
+castanhada	nome feminino	cas|ta|[nha]|da
+castanhal	nome masculino	cas|ta|[nhal]
+castanhedo	nome masculino	cas|ta|[nhe]|do
+castanheira	nome feminino	cas|ta|[nhei]|ra
+castanheirense	adjetivo	cas|ta|nhei|[ren]|se
+castanheirense	nome masculino	cas|ta|nhei|[ren]|se
+castanheirense	nome feminino	cas|ta|nhei|[ren]|se
+castanheiro	nome masculino	cas|ta|[nhei]|ro
+castanheiro-da-índia	nome masculino	cas|ta|nhei|ro-da-ín|di|a
+castanheta	nome feminino	cas|ta|[nhe]|ta
+castanhetas	nome feminino	cas|ta|[nhe]|tas
+castanhetear	verbo	cas|ta|nhe|te|[ar]
+castanho	nome masculino	cas|[ta]|nho
+castanho	adjetivo	cas|[ta]|nho
+castanho-claro	nome masculino	cas|ta|nho-cla|ro
+castanho-claro	adjetivo	cas|ta|nho-cla|ro
+castanho-escuro	nome masculino	cas|ta|nho-es|[cu]|ro
+castanho-escuro	adjetivo	cas|ta|nho-es|[cu]|ro
+castanhol	nome masculino	cas|ta|[nhol]
+castanholar	verbo	cas|ta|nho|[lar]
+castanholas	nome feminino	cas|ta|[nho]|las
+castanhoso	adjetivo	cas|ta|[nho]|so
+castanite	nome feminino	cas|ta|[ni]|te
+castão	nome masculino	cas|[tão]
+castear	verbo	cas|te|[ar]
+castelã	nome feminino	cas|te|[lã]
+castelada	nome feminino	cas|te|[la]|da
+castelania	nome feminino	cas|te|la|[ni]|a
+castelão	adjetivo	cas|te|[lão]
+castelão	nome masculino	cas|te|[lão]
+castelaria	nome feminino	cas|te|la|[ri]|a
+castelário	nome masculino	cas|te|[lá]|ri|o
+castelático	adjetivo	cas|te|[lá]|ti|co
+casteleiro	adjetivo	cas|te|[lei]|ro
+casteleiro	nome masculino	cas|te|[lei]|ro
+castelejo	nome masculino	cas|te|[le]|jo
+casteleta	nome feminino	cas|te|[le]|ta
+castelete	nome masculino	cas|te|[le]|te
+castelhana	nome feminino	cas|te|[lha]|na
+castelhanada	nome feminino	cas|te|lha|[na]|da
+castelhanamente	advérbio	cas|te|lha|na|[men]|te
+castelhanismo	nome masculino	cas|te|lha|[nis]|mo
+castelhanista	adjetivo	cas|te|lha|[nis]|ta
+castelhanista	nome masculino	cas|te|lha|[nis]|ta
+castelhanista	nome feminino	cas|te|lha|[nis]|ta
+castelhanização	nome feminino	cas|te|lha|ni|za|[ção]
+castelhanizar	verbo	cas|te|lha|ni|[zar]
+castelhano	adjetivo	cas|te|[lha]|no
+castelhano	nome masculino	cas|te|[lha]|no
+castelo	nome masculino	cas|[te]|lo
+castelo-vidense	adjetivo	cas|te|lo-vi|[den]|se
+castelo-vidense	nome masculino	cas|te|lo-vi|[den]|se
+castelo-vidense	nome feminino	cas|te|lo-vi|[den]|se
+casteloa	nome feminino	cas|te|[lo]|a
+castelório	nome masculino	cas|te|[ló]|ri|o
+castendense	adjetivo	cas|ten|[den]|se
+castendense	nome masculino	cas|ten|[den]|se
+castendense	nome feminino	cas|ten|[den]|se
+castiça	nome feminino	cas|[ti]|ça
+castiçal	nome masculino	cas|ti|[çal]
+castiçamente	advérbio	cas|ti|ça|[men]|te
+castiçar	verbo	cas|ti|[çar]
+casticidade	nome feminino	cas|ti|ci|[da]|de
+casticismo	nome masculino	cas|ti|[cis]|mo
+casticista	adjetivo	cas|ti|[cis]|ta
+casticista	nome masculino	cas|ti|[cis]|ta
+casticista	nome feminino	cas|ti|[cis]|ta
+castiço	adjetivo	cas|[ti]|ço
+castiço	nome masculino	cas|[ti]|ço
+castidade	nome feminino	cas|ti|[da]|de
+castificação	nome feminino	cas|ti|fi|ca|[ção]
+castificar	verbo	cas|ti|fi|[car]
+castigação	nome feminino	cas|ti|ga|[ção]
+castigador	adjetivo	cas|ti|ga|[dor]
+castigador	nome masculino	cas|ti|ga|[dor]
+castigar	verbo	cas|ti|[gar]
+castigável	adjetivo	cas|ti|[gá]|vel
+castigo	nome masculino	cas|[ti]|go
+castigueira	nome feminino	cas|ti|[guei]|ra
+castilha	nome feminino	cas|[ti]|lha
+castilhiano	adjetivo	cas|ti|lhi|[a]|no
+castilhismo	nome masculino	cas|ti|[lhis]|mo
+castilhista	adjetivo	cas|ti|[lhis]|ta

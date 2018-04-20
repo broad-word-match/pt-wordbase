@@ -1,0 +1,100 @@
+insofríbil	adjetivo	in|so|[frí]|bil
+insofridamente	advérbio	in|so|fri|da|[men]|te
+insofrido	adjetivo	in|so|[fri]|do
+insofrimento	nome masculino	in|so|fri|[men]|to
+insofrível	adjetivo	in|so|[frí]|vel
+insofrivelmente	advérbio	in|so|fri|vel|[men]|te
+insolação	nome feminino	in|so|la|[ção]
+insolar	verbo	in|so|[lar]
+insoldável	adjetivo	in|sol|[dá]|vel
+insolência	nome feminino	in|so|[lên]|ci|a
+insolente	nome masculino	in|so|[len]|te
+insolente	adjetivo	in|so|[len]|te
+insolente	nome feminino	in|so|[len]|te
+insolentemente	advérbio	in|so|len|te|[men]|te
+insolidariedade	nome feminino	in|so|li|da|ri|e|[da]|de
+insolidário	adjetivo	in|so|li|[dá]|ri|o
+insolitamente	advérbio	in|so|li|ta|[men]|te
+insólito	adjetivo	in|[só]|li|to
+insolubilidade	nome feminino	in|so|lu|bi|li|[da]|de
+insolubilizar	verbo	in|so|lu|bi|li|[zar]
+insolúvel	adjetivo	in|so|[lú]|vel
+insoluvelmente	advérbio	in|so|lu|vel|[men]|te
+insolvabilidade	nome feminino	in|sol|va|bi|li|[da]|de
+insolvência	nome feminino	in|sol|[vên]|ci|a
+insolvente	adjetivo	in|sol|[ven]|te
+insolvente	nome masculino	in|sol|[ven]|te
+insolvente	nome feminino	in|sol|[ven]|te
+insolvibilidade	nome feminino	in|sol|vi|bi|li|[da]|de
+insolvível	adjetivo	in|sol|[ví]|vel
+insondabilidade	nome feminino	in|son|da|bi|li|[da]|de
+insondado	adjetivo	in|son|[da]|do
+insondável	adjetivo	in|son|[dá]|vel
+insondavelmente	advérbio	in|son|da|vel|[men]|te
+insone	adjetivo	in|[so]|ne
+insonhado	adjetivo	in|so|[nha]|do
+insonhável	adjetivo	in|so|[nhá]|vel
+insónia	nome feminino	in|[só]|ni|a
+insônia	nome feminino	in|[sô]|ni|a
+insonioso	adjetivo	in|so|ni|[o]|so
+insonolência	nome feminino	in|so|no|[lên]|ci|a
+insonoridade	nome feminino	in|so|no|ri|[da]|de
+insonorização	nome feminino	in|so|no|ri|za|[ção]
+insonorizar	verbo	in|so|no|ri|[zar]
+insonoro	adjetivo	in|so|[no]|ro
+insonsamente	advérbio	in|son|sa|[men]|te
+insonso	adjetivo	in|[son]|so
+insonte	adjetivo	in|[son]|te
+insopesável	adjetivo	in|so|pe|[sá]|vel
+insopitado	adjetivo	in|so|pi|[ta]|do
+insopitável	adjetivo	in|so|pi|[tá]|vel
+insossamente	advérbio	in|sos|sa|[men]|te
+insossar	verbo	in|sos|[sar]
+insossego	nome masculino	in|sos|[se]|go
+insosso	adjetivo	in|[sos]|so
+inspeção	nome feminino	ins|pe|[ção]
+inspeção-geral	nome feminino	ins|pe|ção-ge|[ral]
+inspecionador	nome masculino	ins|pe|ci|o|na|[dor]
+inspecionamento	nome masculino	ins|pe|ci|o|na|[men]|to
+inspecionar	verbo	ins|pe|ci|o|[nar]
+inspecionável	adjetivo	ins|pe|ci|o|[ná]|vel
+inspectivo	adjetivo	ins|pec|[ti]|vo
+inspetar	verbo	ins|pe|[tar]
+inspetivo	adjetivo	ins|pe|[ti]|vo
+inspetor	adjetivo	ins|pe|[tor]
+inspetor	nome masculino	ins|pe|[tor]
+inspetor-adjunto	nome masculino	ins|pe|tor-ad|[jun]|to
+inspetor-geral	nome masculino	ins|pe|tor-ge|[ral]
+inspetor-orientador	nome masculino	ins|pec|tor-o|ri|en|ta|[dor]
+inspetora	nome feminino	ins|pe|[to]|ra
+inspetora-geral	nome feminino	ins|pe|to|ra-ge|[ral]
+inspetorado	nome masculino	ins|pe|to|[ra]|do
+inspetoria	nome feminino	ins|pe|to|[ri]|a
+inspetório	adjetivo	ins|pe|[tó]|ri|o
+inspiração	nome feminino	ins|pi|ra|[ção]
+inspirada	nome feminino	ins|pi|[ra]|da
+inspiradamente	advérbio	ins|pi|ra|da|[men]|te
+inspirado	adjetivo	ins|pi|[ra]|do
+inspirado	nome masculino	ins|pi|[ra]|do
+inspirador	nome masculino	ins|pi|ra|[dor]
+inspirador	adjetivo	ins|pi|ra|[dor]
+inspiradora	nome feminino	ins|pi|ra|[do]|ra
+inspirar	verbo	ins|pi|[rar]
+inspirativo	adjetivo	ins|pi|ra|[ti]|vo
+inspiratório	adjetivo	ins|pi|ra|[tó]|ri|o
+inspirável	adjetivo	ins|pi|[rá]|vel
+inspissação	nome feminino	ins|pis|sa|[ção]
+inspissamento	nome masculino	ins|pis|sa|[men]|to
+inspissar	verbo	ins|pis|[sar]
+instábil	adjetivo	ins|[tá]|bil
+instabilidade	nome feminino	ins|ta|bi|li|[da]|de
+instalação	nome feminino	ins|ta|la|[ção]
+instalador	adjetivo	ins|ta|la|[dor]
+instalador	nome masculino	ins|ta|la|[dor]
+instaladora	nome feminino	ins|ta|la|[do]|ra
+instalar	verbo	ins|ta|[lar]
+instalável	adjetivo	ins|ta|[lá]|vel
+instaminado	adjetivo	ins|ta|mi|[na]|do
+instância	nome feminino	ins|[tân]|ci|a
+instantaneamente	advérbio	ins|tan|ta|ne|a|[men]|te
+instantaneidade	nome feminino	ins|tan|ta|nei|[da]|de

@@ -1,0 +1,100 @@
+dopagem	nome feminino	do|[pa]|gem
+dopamina	nome feminino	do|pa|[mi]|na
+dopante	nome masculino	do|[pan]|te
+dopante	adjetivo	do|[pan]|te
+dopar	verbo	do|[par]
+dope	nome masculino	[do]|pe
+doping	nome masculino	[do]|ping
+doppler	nome masculino	[dop]|pler
+dor	nome feminino	[dor]
+dora	nome feminino	[do]|ra
+doravante	advérbio	do|ra|[van]|te
+dórcade	nome feminino	[dór]|ca|de
+dóri	nome masculino	[dó]|ri
+dória	nome feminino	[dó]|ri|a
+dorial	adjetivo	do|ri|[al]
+dórica	nome feminino	[dó]|ri|ca
+doricamente	advérbio	do|ri|ca|[men]|te
+doricidade	nome feminino	do|ri|ci|[da]|de
+doricismo	nome masculino	do|ri|[cis]|mo
+dórico	adjetivo	[dó]|ri|co
+dórico	nome masculino	[dó]|ri|co
+doridamente	advérbio	do|ri|da|[men]|te
+doridídeo	nome masculino	do|ri|[dí]|de|o
+doridídeo	adjetivo	do|ri|[dí]|de|o
+doridídeo	nome masculino	do|ri|[dí]|de|o
+dorido	nome masculino	do|[ri]|do
+dorido	adjetivo	do|[ri]|do
+dorífora	nome feminino	do|[rí]|fo|ra
+doríforo	adjetivo	do|[rí]|fo|ro
+doríforo	nome masculino	do|[rí]|fo|ro
+dório	adjetivo	[dó]|ri|o
+dório	nome masculino	[dó]|ri|o
+dorisco	adjetivo	do|[ris]|co
+dorisco	nome masculino	do|[ris]|co
+dorismo	nome masculino	do|[ris]|mo
+dorização	nome feminino	do|ri|za|[ção]
+dorizar	verbo	do|ri|[zar]
+dorme-maria	nome feminino	dor|me-ma|[ri]|a
+dormência	nome feminino	dor|[mên]|ci|a
+dormente	nome masculino	dor|[men]|te
+dormente	adjetivo	dor|[men]|te
+dormente	nome feminino	dor|[men]|te
+dormião	nome masculino	dor|mi|[ão]
+dormida	nome feminino	dor|[mi]|da
+dormideira	nome feminino	dor|mi|[dei]|ra
+dormido	adjetivo	dor|[mi]|do
+dormido	nome masculino	dor|[mi]|do
+dormidor	adjetivo	dor|mi|[dor]
+dormidor	nome masculino	dor|mi|[dor]
+dormidouro	nome masculino	dor|mi|[dou]|ro
+dorminhão	adjetivo	dor|mi|[nhão]
+dorminhoca	nome feminino	dor|mi|[nho]|ca
+dorminhoco	adjetivo	dor|mi|[nho]|co
+dorminhoco	nome masculino	dor|mi|[nho]|co
+dorminte	adjetivo	dor|[min]|te
+dormir	verbo	dor|[mir]
+dormir	nome masculino	dor|[mir]
+dormitação	nome feminino	dor|mi|ta|[ção]
+dormitar	verbo	dor|mi|[tar]
+dormitivo	adjetivo	dor|mi|[ti]|vo
+dormitório	nome masculino	dor|mi|[tó]|ri|o
+dorna	nome feminino	[dor]|na
+dornacho	nome masculino	dor|[na]|cho
+dornada	nome feminino	dor|[na]|da
+dornão	nome masculino	dor|[não]
+dorneira	nome feminino	dor|[nei]|ra
+dorónico	nome masculino	do|[ró]|ni|co
+dorônico	nome masculino	do|[rô]|ni|co
+doroteia	nome feminino	do|ro|[tei]|a
+dorsal	adjetivo	dor|[sal]
+dorsal	nome feminino	dor|[sal]
+dorsal	nome masculino	dor|[sal]
+dorsalgia	nome feminino	dor|sal|[gi]|a
+dorsálgico	adjetivo	dor|[sál]|gi|co
+dorsífero	adjetivo	dor|[sí]|fe|ro
+dorsifixo	adjetivo	dor|si|[fi]|xo
+dorsiventral	adjetivo	dor|si|ven|[tral]
+dorso	nome masculino	[dor]|so
+dorso-dental	adjetivo	dor|so-den|[tal]
+dorsocostal	adjetivo	dor|so|cos|[tal]
+dorsodinia	nome feminino	dor|so|di|[ni]|a
+dorsolingual	adjetivo	dor|so|lin|[gual]
+dorsopalatal	adjetivo	dor|so|pa|la|[tal]
+dorsopalatal	nome feminino	dor|so|pa|la|[tal]
+dorsovelar	adjetivo	dor|so|ve|[lar]
+dorsovelar	nome feminino	dor|so|ve|[lar]
+dorsoventral	adjetivo	dor|so|ven|[tral]
+dôs	adjetivo	[dôs]
+dosa	nome feminino	[do]|sa
+dosagem	nome feminino	do|[sa]|gem
+dosar	verbo	do|[sar]
+dose	nome feminino	[do]|se
+doseador	nome masculino	do|se|a|[dor]
+doseador	adjetivo	do|se|a|[dor]
+doseamento	nome masculino	do|se|a|[men]|to
+dosear	verbo	do|se|[ar]
+doseável	adjetivo	do|se|[á]|vel
+dosificar	verbo	do|si|fi|[car]
+dosimetria	nome feminino	do|si|me|[tri]|a
+dosimétrico	adjetivo	do|si|[mé]|tri|co

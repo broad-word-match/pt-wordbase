@@ -1,0 +1,100 @@
+fernandopolitano	adjetivo	fer|nan|do|po|li|[ta]|no
+fernandopolitano	nome masculino	fer|nan|do|po|li|[ta]|no
+fernão-pires	nome masculino	fer|não-pi|res
+fernão-queimado	nome masculino	fer|não-quei|[ma]|do
+fernélia	nome feminino	fer|[né]|li|a
+fero	adjetivo	[fe]|ro
+feroce	adjetivo	fe|[ro]|ce
+ferócia	nome feminino	fe|[ró]|ci|a
+ferocidade	nome feminino	fe|ro|ci|[da]|de
+ferocíssimo	adjetivo	fe|ro|[cís]|si|mo
+feromona	nome feminino	fe|ro|[mo]|na
+feroz	adjetivo	fe|[roz]
+ferozmente	advérbio	fe|roz|[men]|te
+ferrã	nome feminino	fer|[rã]
+ferra	nome feminino	[fer]|ra
+ferrabrás	adjetivo	fer|ra|[brás]
+ferrabrás	nome masculino	fer|ra|[brás]
+ferraça	nome feminino	fer|[ra]|ça
+ferração	nome feminino	fer|ra|[ção]
+ferrada	nome feminino	fer|[ra]|da
+ferradela	nome feminino	fer|ra|[de]|la
+ferrado	nome masculino	fer|[ra]|do
+ferrado	adjetivo	fer|[ra]|do
+ferrador	nome masculino	fer|ra|[dor]
+ferradoria	nome feminino	fer|ra|do|[ri]|a
+ferradura	nome feminino	fer|ra|[du]|ra
+ferradurina	nome feminino	fer|ra|du|[ri]|na
+ferrageiro	nome masculino	fer|ra|[gei]|ro
+ferragem	nome feminino	fer|[ra]|gem
+ferragial	nome masculino	fer|ra|gi|[al]
+ferragista	nome masculino	fer|ra|[gis]|ta
+ferragista	nome feminino	fer|ra|[gis]|ta
+ferragoilo	nome masculino	fer|ra|[goi]|lo
+ferragoulo	nome masculino	fer|ra|[gou]|lo
+ferraguso	nome masculino	fer|ra|[gu]|so
+ferrajaria	nome feminino	fer|ra|ja|[ri]|a
+ferral	adjetivo	fer|[ral]
+ferral	nome masculino	fer|[ral]
+ferralumínio	nome masculino	fer|ra|lu|[mí]|ni|o
+ferramenta	nome feminino	fer|ra|[men]|ta
+ferramental	nome masculino	fer|ra|men|[tal]
+ferramenteiro	nome masculino	fer|ra|men|[tei]|ro
+ferranchão	nome masculino	fer|ran|[chão]
+ferrancho	nome masculino	fer|[ran]|cho
+ferranha	nome feminino	fer|[ra]|nha
+ferranho	nome masculino	fer|[ra]|nho
+ferrão	nome masculino	fer|[rão]
+ferrar	verbo	fer|[rar]
+ferraria	nome feminino	fer|ra|[ri]|a
+ferrato	nome masculino	fer|[ra]|to
+ferreamente	advérbio	fer|re|a|[men]|te
+ferregial	nome masculino	fer|re|gi|[al]
+ferreira	nome feminino	fer|[rei]|ra
+ferreirense	adjetivo	fer|rei|[ren]|se
+ferreirense	nome masculino	fer|rei|[ren]|se
+ferreirense	nome feminino	fer|rei|[ren]|se
+ferreirinha	nome feminino	fer|rei|[ri]|nha
+ferreirinho	nome masculino	fer|rei|[ri]|nho
+ferreiro	adjetivo	fer|[rei]|ro
+ferreiro	nome masculino	fer|[rei]|ro
+ferrejar	verbo	fer|re|[jar]
+ferrejo	nome masculino	fer|[re]|jo
+ferreletricidade	nome feminino	fer|re|le|tri|ci|[da]|de
+ferrelétrico	adjetivo	fer|re|[lé]|tri|co
+ferrelha	nome feminino	fer|[re]|lha
+ferrenho	adjetivo	fer|[re]|nho
+ferrense	adjetivo	fer|[ren]|se
+ferrense	nome masculino	fer|[ren]|se
+ferrense	nome feminino	fer|[ren]|se
+férreo	adjetivo	[fér]|re|o
+ferreta	nome feminino	fer|[re]|ta
+ferretar	verbo	fer|re|[tar]
+ferrete	adjetivo	fer|[re]|te
+ferrete	nome masculino	fer|[re]|te
+ferreteamento	nome masculino	fer|re|te|a|[men]|to
+ferreteante	adjetivo	fer|re|te|[an]|te
+ferretear	verbo	fer|re|te|[ar]
+ferretoada	nome feminino	fer|re|to|[a]|da
+ferretoar	verbo	fer|re|to|[ar]
+ferribote	nome masculino	fer|ri|[bo]|te
+ferricálcico	adjetivo	fer|ri|[cál]|ci|co
+ferricianeto	nome masculino	fer|ri|ci|a|[ne]|to
+ferricianídrico	adjetivo	fer|ri|ci|a|[ní]|dri|co
+férrico	adjetivo	[fér]|ri|co
+ferricoque	nome masculino	fer|ri|[co]|que
+ferrídeo	nome masculino	fer|[rí]|de|o
+ferridoxina	nome feminino	fer|ri|do|[xi]|na
+ferrieléctrico	adjetivo	fer|ri|e|[léc]|tri|co
+ferrieletricidade	nome feminino	fer|ri|e|le|tri|ci|[da]|de
+ferrielétrico	adjetivo	fer|ri|e|[lé]|tri|co
+ferrífero	adjetivo	fer|[rí]|fe|ro
+ferrificação	nome feminino	fer|ri|fi|ca|[ção]
+ferrimagnético	adjetivo	fer|ri|mag|[né]|ti|co
+ferrimagnetismo	nome masculino	fer|ri|mag|ne|[tis]|mo
+ferrinho	nome masculino	fer|[ri]|nho
+ferrinhos	nome masculino	fer|[ri]|nhos
+ferripirina	nome feminino	fer|ri|pi|[ri]|na
+ferrita	nome feminino	fer|[ri]|ta
+ferrite	nome feminino	fer|[ri]|te
+ferrítico	adjetivo	fer|[rí]|ti|co

@@ -1,0 +1,100 @@
+vilipendiadora	nome feminino	vi|li|pen|di|a|[do]|ra
+vilipendiar	verbo	vi|li|pen|di|[ar]
+vilipêndio	nome masculino	vi|li|[pên]|di|o
+vilipendiosamante	advérbio	vi|li|pen|di|o|sa|[man]|te
+vilipendiosamente	advérbio	vi|li|pen|di|o|sa|[men]|te
+vilipendioso	adjetivo	vi|li|pen|di|[o]|so
+vilmente	advérbio	vil|[men]|te
+viló	nome masculino	vi|[ló]
+viloamente	advérbio	vi|lo|a|[men]|te
+vilória	nome feminino	vi|[ló]|ri|a
+vilório	nome masculino	vi|[ló]|ri|o
+vilosidade	nome feminino	vi|lo|si|[da]|de
+viloso	adjetivo	vi|[lo]|so
+vilota	nome feminino	vi|[lo]|ta
+vilta	nome feminino	[vil]|ta
+viltança	nome feminino	vil|[tan]|ça
+viltar	verbo	vil|[tar]
+viltoso	adjetivo	vil|[to]|so
+vílula	nome feminino	[ví]|lu|la
+vim-vim	nome masculino	[vim-vim]
+vima	nome feminino	[vi]|ma
+vimar	verbo	vi|[mar]
+vimaranense	adjetivo	vi|ma|ra|[nen]|se
+vimaranense	nome masculino	vi|ma|ra|[nen]|se
+vimaranense	nome feminino	vi|ma|ra|[nen]|se
+vimba	nome feminino	[vim]|ba
+vime	nome masculino	[vi]|me
+vímea	nome feminino	[ví]|me|a
+vimeiro	nome masculino	vi|[mei]|ro
+vimeiro-amarelo	nome masculino	vi|mei|ro-a|ma|[re]|lo
+vimeiro-branco	nome masculino	vi|mei|ro-bran|co
+vimeiro-francês	nome masculino	vi|mei|ro-fran|[cês]
+vimial	nome masculino	vi|mi|[al]
+vimieiro	nome masculino	vi|mi|[ei]|ro
+viminária	nome feminino	vi|mi|[ná]|ri|a
+vimíneo	adjetivo	vi|[mí]|ne|o
+viminoso	adjetivo	vi|mi|[no]|so
+vimiosense	nome masculino	vi|mi|o|[sen]|se
+vimiosense	adjetivo	vi|mi|o|[sen]|se
+vimiosense	nome feminino	vi|mi|o|[sen]|se
+vimitelária	nome feminino	vi|mi|te|[lá]|ri|a
+vimitelário	adjetivo	vi|mi|te|[lá]|ri|o
+vimitelário	nome masculino	vi|mi|te|[lá]|ri|o
+vimitelaro	adjetivo	vi|mi|te|[la]|ro
+vimitelaro	nome masculino	vi|mi|te|[la]|ro
+vimoso	adjetivo	vi|[mo]|so
+vina	nome feminino	[vi]|na
+vináceo	adjetivo	vi|[ná]|ce|o
+vinagem	nome feminino	vi|[na]|gem
+vinagrada	nome feminino	vi|na|[gra]|da
+vinagrar	verbo	vi|na|[grar]
+vinagre	nome masculino	vi|[na]|gre
+vinagre	adjetivo	vi|[na]|gre
+vinagreira	nome feminino	vi|na|[grei]|ra
+vinagreiro	nome masculino	vi|na|[grei]|ro
+vinagrento	adjetivo	vi|na|[gren]|to
+vinagreta	nome feminino	vi|na|[gre]|ta
+vinagrete	nome masculino	vi|na|[gre]|te
+vinagrinho	nome masculino	vi|na|[gri]|nho
+vinagrista	adjetivo	vi|na|[gris]|ta
+vinagrista	nome masculino	vi|na|[gris]|ta
+vinagrista	nome feminino	vi|na|[gris]|ta
+vinaigrette	nome feminino	vi|nai|gret|te
+vinário	adjetivo	vi|[ná]|ri|o
+vinca	nome feminino	[vin]|ca
+vinca-pervinca	nome feminino	vin|ca-per|[vin]|ca
+vincada	nome feminino	vin|[ca]|da
+vincadamente	advérbio	vin|ca|da|[men]|te
+vincado	adjetivo	vin|[ca]|do
+vincagem	nome feminino	vin|[ca]|gem
+vincar	verbo	vin|[car]
+vincelho	nome masculino	vin|[ce]|lho
+vincendo	adjetivo	vin|[cen]|do
+vincetóxico	nome masculino	vin|ce|[tó]|xi|co
+vincilho	nome masculino	vin|[ci]|lho
+vincípede	adjetivo	vin|[cí]|pe|de
+vincituro	adjetivo	vin|ci|[tu]|ro
+vinco	nome masculino	[vin]|co
+vinculação	nome feminino	vin|cu|la|[ção]
+vinculadamente	advérbio	vin|cu|la|da|[men]|te
+vinculado	adjetivo	vin|cu|[la]|do
+vinculador	adjetivo	vin|cu|la|[dor]
+vinculador	nome masculino	vin|cu|la|[dor]
+vinculadora	nome feminino	vin|cu|la|[do]|ra
+vincular	verbo	vin|cu|[lar]
+vincular	adjetivo	vin|cu|[lar]
+vinculativo	adjetivo	vin|cu|la|[ti]|vo
+vinculatório	adjetivo	vin|cu|la|[tó]|ri|o
+vinculável	adjetivo	vin|cu|[lá]|vel
+vínculo	nome masculino	[vín]|cu|lo
+vinda	nome feminino	[vin]|da
+vindecaá	nome masculino	vin|de|ca|[á]
+vindélico	adjetivo	vin|[dé]|li|co
+vindélico	nome masculino	vin|[dé]|li|co
+vindicação	nome feminino	vin|di|ca|[ção]
+vindicador	adjetivo	vin|di|ca|[dor]
+vindicador	nome masculino	vin|di|ca|[dor]
+vindicadora	nome feminino	vin|di|ca|[do]|ra
+vindicar	verbo	vin|di|[car]
+vindicativamente	advérbio	vin|di|ca|ti|va|[men]|te

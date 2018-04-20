@@ -1,0 +1,100 @@
+desenevoar	verbo	de|se|ne|vo|[ar]
+desenfadadiço	adjetivo	de|sen|fa|da|[di]|ço
+desenfadamento	nome masculino	de|sen|fa|da|[men]|to
+desenfadar	verbo	de|sen|fa|[dar]
+desenfado	nome masculino	de|sen|[fa]|do
+desenfaixar	verbo	de|sen|fai|[xar]
+desenfardamento	nome masculino	de|sen|far|da|[men]|to
+desenfardar	verbo	de|sen|far|[dar]
+desenfardelar	verbo	de|sen|far|de|[lar]
+desenfardo	nome masculino	de|sen|[far]|do
+desenfarpelar	verbo	de|sen|far|pe|[lar]
+desenfarruscar	verbo	de|sen|far|rus|[car]
+desenfartar	verbo	de|sen|far|[tar]
+desenfastiadamente	advérbio	de|sen|fas|ti|a|da|[men]|te
+desenfastiadiço	adjetivo	de|sen|fas|ti|a|[di]|ço
+desenfastiador	adjetivo	de|sen|fas|ti|a|[dor]
+desenfastiar	verbo	de|sen|fas|ti|[ar]
+desenfastioso	adjetivo	de|sen|fas|ti|[o]|so
+desenfeitar	verbo	de|sen|fei|[tar]
+desenfeite	nome masculino	de|sen|[fei]|te
+desenfeitiçamento	nome masculino	de|sen|fei|ti|ça|[men]|to
+desenfeitiçar	verbo	de|sen|fei|ti|[çar]
+desenfeixar	verbo	de|sen|fei|[xar]
+desenfermar	verbo	de|sen|fer|[mar]
+desenferrujado	adjetivo	de|sen|fer|ru|[ja]|do
+desenferrujar	verbo	de|sen|fer|ru|[jar]
+desenfestado	adjetivo	de|sen|fes|[ta]|do
+desenfestar	verbo	de|sen|fes|[tar]
+desenfeudação	nome feminino	de|sen|feu|da|[ção]
+desenfeudar	verbo	de|sen|feu|[dar]
+desenfezar	verbo	de|sen|fe|[zar]
+desenfiamento	nome masculino	de|sen|fi|a|[men]|to
+desenfiar	verbo	de|sen|fi|[ar]
+desenfileirar	verbo	de|sen|fi|lei|[rar]
+desenflorar	verbo	de|sen|flo|[rar]
+desenforcar	verbo	de|sen|for|[car]
+desenforjar	verbo	de|sen|for|[jar]
+desenformação	nome feminino	de|sen|for|ma|[ção]
+desenformado	adjetivo	de|sen|for|[ma]|do
+desenformar	verbo	de|sen|for|[mar]
+desenfornagem	nome feminino	de|sen|for|[na]|gem
+desenfornamento	nome masculino	de|sen|for|na|[men]|to
+desenfornar	verbo	de|sen|for|[nar]
+desenfrascar	verbo	de|sen|fras|[car]
+desenfreadamente	advérbio	de|sen|fre|a|da|[men]|te
+desenfreado	adjetivo	de|sen|fre|[a]|do
+desenfreamento	nome masculino	de|sen|fre|a|[men]|to
+desenfrear	verbo	de|sen|fre|[ar]
+desenfrechar	verbo	de|sen|fre|[char]
+desenfreio	nome masculino	de|sen|[frei]|o
+desenfronhar	verbo	de|sen|fro|[nhar]
+desenfueirar	verbo	de|sen|fu|ei|[rar]
+desenfunação	nome feminino	de|sen|fu|na|[ção]
+desenfunar	verbo	de|sen|fu|[nar]
+desenfurecer	verbo	de|sen|fu|re|[cer]
+desenfurnar	verbo	de|sen|fur|[nar]
+desenfuscar	verbo	de|sen|fus|[car]
+desengaçadeira	nome feminino	de|sen|ga|ça|[dei]|ra
+desengaçador	nome masculino	de|sen|ga|ça|[dor]
+desengaçar	verbo	de|sen|ga|[çar]
+desengace	nome masculino	de|sen|[ga]|ce
+desengaço	nome masculino	de|sen|[ga]|ço
+desengaiolar	verbo	de|sen|gai|o|[lar]
+desengajar	verbo	de|sen|ga|[jar]
+desengalfinhar	verbo	de|sen|gal|fi|[nhar]
+desenganadamente	advérbio	de|sen|ga|na|da|[men]|te
+desenganado	adjetivo	de|sen|ga|[na]|do
+desenganador	adjetivo	de|sen|ga|na|[dor]
+desenganador	nome masculino	de|sen|ga|na|[dor]
+desenganadora	nome feminino	de|sen|ga|na|[do]|ra
+desenganar	verbo	de|sen|ga|[nar]
+desenganchar	verbo	de|sen|gan|[char]
+desengano	nome masculino	de|sen|[ga]|no
+desengarrafamento	nome masculino	de|sen|gar|ra|fa|[men]|to
+desengarrafar	verbo	de|sen|gar|ra|[far]
+desengasgar	verbo	de|sen|gas|[gar]
+desengasgue	nome masculino	de|sen|[gas]|gue
+desengastalhar	verbo	de|sen|gas|ta|[lhar]
+desengastar	verbo	de|sen|gas|[tar]
+desengatar	verbo	de|sen|ga|[tar]
+desengate	nome masculino	de|sen|[ga]|te
+desengatilhamento	nome masculino	de|sen|ga|ti|lha|[men]|to
+desengatilhar	verbo	de|sen|ga|ti|[lhar]
+desengavetamento	nome masculino	de|sen|ga|ve|ta|[men]|to
+desengavetar	verbo	de|sen|ga|ve|[tar]
+desengelhar	verbo	de|sen|ge|[lhar]
+desengenhosamente	advérbio	de|sen|ge|nho|sa|[men]|te
+desengenhoso	adjetivo	de|sen|ge|[nho]|so
+desenglobar	verbo	de|sen|glo|[bar]
+desengodar	verbo	de|sen|go|[dar]
+desengolfar	verbo	de|sen|gol|[far]
+desengolir	verbo	de|sen|go|[lir]
+desengomar	verbo	de|sen|go|[mar]
+desengonçadamente	advérbio	de|sen|gon|ça|da|[men]|te
+desengonçado	adjetivo	de|sen|gon|[ça]|do
+desengonçador	adjetivo	de|sen|gon|ça|[dor]
+desengonçar	verbo	de|sen|gon|[çar]
+desengonço	nome masculino	de|sen|[gon]|ço
+desengordamento	nome masculino	de|sen|gor|da|[men]|to
+desengordar	verbo	de|sen|gor|[dar]

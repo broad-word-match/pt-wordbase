@@ -1,0 +1,100 @@
+cuno	nome masculino	[cu]|no
+cuno	adjetivo	[cu]|no
+cunônia	nome feminino	cu|[nô]|ni|a
+cunónia	nome feminino	cu|[nó]|ni|a
+cunoniácea	nome feminino	cu|no|ni|[á]|ce|a
+cunoniáceo	adjetivo	cu|no|ni|[á]|ce|o
+cunquate	nome masculino	cun|[qua]|te
+cunqueiro	nome masculino	cun|[quei]|ro
+cunques	nome masculino	[cun]|ques
+cuntango	nome masculino	cun|[tan]|go
+cuntatório	adjetivo	cun|ta|[tó]|ri|o
+cununo	adjetivo	cu|[nu]|no
+cuozar	verbo	cu|o|[zar]
+cup	nome masculino	[cup]
+cupá	nome masculino	cu|[pá]
+cupânia	nome feminino	cu|[pâ]|ni|a
+cupão	nome masculino	cu|[pão]
+cupaurana	nome feminino	cu|pau|[ra]|na
+cupê	nome masculino	cu|[pê]
+cupé	nome masculino	cu|[pé]
+cupez	nome masculino	cu|[pez]
+cupidamente	advérbio	cu|pi|da|[men]|te
+cupidez	nome feminino	cu|pi|[dez]
+cupidíneo	adjetivo	cu|pi|[dí]|ne|o
+cupidinosamente	advérbio	cu|pi|di|no|sa|[men]|te
+cupidinoso	adjetivo	cu|pi|di|[no]|so
+cupido	nome masculino	cu|[pi]|do
+cúpido	adjetivo	[cú]|pi|do
+cupiforme	adjetivo	cu|pi|[for]|me
+cupim	nome masculino	cu|[pim]
+cupineira	nome feminino	cu|pi|[nei]|ra
+cupinudo	adjetivo	cu|pi|[nu]|do
+cupinzeiro	nome masculino	cu|pin|[zei]|ro
+cupio	nome masculino	cu|[pi]|o
+cupira	nome feminino	cu|[pi]|ra
+cupiúba	nome feminino	cu|pi|[ú]|ba
+cupon	nome masculino	cu|[pon]
+cuprato	nome masculino	cu|[pra]|to
+cupressácea	nome feminino	cu|pres|[sá]|ce|a
+cupressáceo	adjetivo	cu|pres|[sá]|ce|o
+cupréssea	nome feminino	cu|[prés]|se|a
+cupressifoliado	adjetivo	cu|pres|si|fo|li|[a]|do
+cupressiforme	adjetivo	cu|pres|si|[for]|me
+cupressínea	nome feminino	cu|pres|[sí]|ne|a
+cupressíneo	adjetivo	cu|pres|[sí]|ne|o
+cupressino	adjetivo	cu|pres|[si]|no
+cupressita	nome masculino	cu|pres|[si]|ta
+cúprico	adjetivo	[cú]|pri|co
+cuprífero	adjetivo	cu|[prí]|fe|ro
+cuprino	adjetivo	cu|[pri]|no
+cupripene	adjetivo	cu|pri|[pe]|ne
+cuprirrostro	adjetivo	cu|prir|[ros]|tro
+cuprita	nome feminino	cu|[pri]|ta
+cuprite	nome feminino	cu|[pri]|te
+cuprolítico	adjetivo	cu|pro|[lí]|ti|co
+cuproníquel	nome masculino	cu|pro|[ní]|quel
+cuproso	adjetivo	cu|[pro]|so
+cupróxido	nome masculino	cu|[pró]|xi|do
+cupu	nome masculino	cu|[pu]
+cupuaçu	nome masculino	cu|pu|a|[çu]
+cupuaí	nome masculino	cu|pu|a|[í]
+cupuaú	nome masculino	cu|pu|a|[ú]
+cupuim	nome masculino	cu|pu|[im]
+cúpula	nome feminino	[cú]|pu|la
+cupulado	adjetivo	cu|pu|[la]|do
+cupulífera	nome feminino	cu|pu|[lí]|fe|ra
+cupulífero	adjetivo	cu|pu|[lí]|fe|ro
+cupuliforme	adjetivo	cu|pu|li|[for]|me
+cupulim	nome masculino	cu|pu|[lim]
+cuque	nome masculino	[cu]|que
+cuquear	verbo	cu|que|[ar]
+cuquiada	nome feminino	cu|qui|[a]|da
+cura	nome feminino	[cu]|ra
+cura	nome masculino	[cu]|ra
+curabi	nome masculino	cu|ra|[bi]
+curabilidade	nome feminino	cu|ra|bi|li|[da]|de
+curaçau	nome masculino	cu|ra|[çau]
+curadá	nome masculino	cu|ra|[dá]
+curadeira	nome feminino	cu|ra|[dei]|ra
+curadia	nome feminino	cu|ra|[di]|a
+curado	nome masculino	cu|[ra]|do
+curado	adjetivo	cu|[ra]|do
+curador	nome masculino	cu|ra|[dor]
+curador-geral	nome masculino	cu|ra|dor-ge|[ral]
+curadora	nome feminino	cu|ra|[do]|ra
+curadoria	nome feminino	cu|ra|do|[ri]|a
+curadoria-geral	nome feminino	cu|ra|do|ri|a-ge|[ral]
+curairi	nome masculino	cu|rai|[ri]
+curandeira	nome feminino	cu|ran|[dei]|ra
+curandeirismo	nome masculino	cu|ran|dei|[ris]|mo
+curandeirista	adjetivo	cu|ran|dei|[ris]|ta
+curandeirista	nome masculino	cu|ran|dei|[ris]|ta
+curandeirista	nome feminino	cu|ran|dei|[ris]|ta
+curandeirístico	adjetivo	cu|ran|dei|[rís]|ti|co
+curandeiro	nome masculino	cu|ran|[dei]|ro
+curandice	nome feminino	cu|ran|[di]|ce
+curar	verbo	cu|[rar]
+curare	nome masculino	cu|[ra]|re
+curarina	nome feminino	cu|ra|[ri]|na
+curarização	nome feminino	cu|ra|ri|za|[ção]

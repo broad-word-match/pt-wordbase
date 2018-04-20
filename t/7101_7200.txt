@@ -1,0 +1,100 @@
+transposto	adjetivo	trans|[pos]|to
+transpredicativo	adjetivo	trans|pre|di|ca|[ti]|vo
+transrenano	adjetivo	trans|re|[na]|no
+transtagano	adjetivo	trans|ta|[ga]|no
+transtiberino	adjetivo	trans|ti|be|[ri]|no
+transtiberino	nome masculino	trans|ti|be|[ri]|no
+transtornação	nome feminino	trans|tor|na|[ção]
+transtornado	adjetivo	trans|tor|[na]|do
+transtornador	adjetivo	trans|tor|na|[dor]
+transtornador	nome masculino	trans|tor|na|[dor]
+transtornamento	nome masculino	trans|tor|na|[men]|to
+transtornar	verbo	trans|tor|[nar]
+transtornável	adjetivo	trans|tor|[ná]|vel
+transtorno	nome masculino	trans|[tor]|no
+transtravado	adjetivo	trans|tra|[va]|do
+transtrocar	verbo	trans|tro|[car]
+transubstanciação	nome feminino	tran|subs|tan|ci|a|[ção]
+transubstancial	adjetivo	tran|subs|tan|ci|[al]
+transubstanciar	verbo	tran|subs|tan|ci|[ar]
+transudação	nome feminino	tran|su|da|[ção]
+transudado	nome masculino	tran|su|[da]|do
+transudar	verbo	tran|su|[dar]
+transudato	nome masculino	tran|su|[da]|to
+transumanar	verbo	tran|su|ma|[nar]
+transumância	nome feminino	tran|su|[mân]|ci|a
+transumano	adjetivo	tran|su|[ma]|no
+transumante	adjetivo	tran|su|[man]|te
+transumante	nome masculino	tran|su|[man]|te
+transumante	nome feminino	tran|su|[man]|te
+transumar	verbo	tran|su|[mar]
+transumir	verbo	tran|su|[mir]
+transunto	nome masculino	tran|[sun]|to
+transuraniano	adjetivo	tran|su|ra|ni|[a]|no
+transurânico	adjetivo	tran|su|[râ]|ni|co
+transvaliano	adjetivo	trans|va|li|[a]|no
+transvaliano	nome masculino	trans|va|li|[a]|no
+transvasamento	nome masculino	trans|va|sa|[men]|to
+transvasar	verbo	trans|va|[sar]
+transvase	nome masculino	trans|[va]|se
+transvazar	verbo	trans|va|[zar]
+transverberação	nome feminino	trans|ver|be|ra|[ção]
+transverberar	verbo	trans|ver|be|[rar]
+transversal	adjetivo	trans|ver|[sal]
+transversal	nome masculino	trans|ver|[sal]
+transversal	nome feminino	trans|ver|[sal]
+transversalidade	nome feminino	trans|ver|sa|li|[da]|de
+transversalmente	advérbio	trans|ver|sal|[men]|te
+transversamente	advérbio	trans|ver|sa|[men]|te
+transversão	nome feminino	trans|ver|[são]
+transversário	adjetivo	trans|ver|[sá]|ri|o
+transversário	nome masculino	trans|ver|[sá]|ri|o
+transversilíaco	adjetivo	trans|ver|si|[lí]|a|co
+transverso	adjetivo	trans|[ver]|so
+transverso	nome masculino	trans|[ver]|so
+transversoccipital	adjetivo	trans|ver|soc|ci|pi|[tal]
+transversocostal	adjetivo	trans|ver|so|cos|[tal]
+transverter	verbo	trans|ver|[ter]
+transvesical	adjetivo	trans|ve|si|[cal]
+transviada	nome feminino	trans|vi|[a]|da
+transviado	adjetivo	trans|vi|[a]|do
+transviado	nome masculino	trans|vi|[a]|do
+transviador	adjetivo	trans|vi|a|[dor]
+transviador	nome masculino	trans|vi|a|[dor]
+transviamento	nome masculino	trans|vi|a|[men]|to
+transviar	verbo	trans|vi|[ar]
+transviável	adjetivo	trans|vi|[á]|vel
+transvio	nome masculino	trans|[vi]|o
+transvisual	adjetivo	trans|vi|su|[al]
+transvoar	verbo	trans|vo|[ar]
+transvoo	nome masculino	trans|[vo]|o
+transvorar	verbo	trans|vo|[rar]
+transzambeziano	adjetivo	trans|zam|be|zi|[a]|no
+trantanas	nome feminino	tran|[ta]|nas
+tranvia	nome feminino	tran|[vi]|a
+tranvia	nome masculino	tran|[vi]|a
+trapa	nome feminino	[tra]|pa
+trapaça	nome feminino	tra|[pa]|ça
+trapaçador	adjetivo	tra|pa|ça|[dor]
+trapaçador	nome masculino	tra|pa|ça|[dor]
+trapaçaria	nome feminino	tra|pa|ça|[ri]|a
+trapaceador	adjetivo	tra|pa|ce|a|[dor]
+trapaceador	nome masculino	tra|pa|ce|a|[dor]
+trapacear	verbo	tra|pa|ce|[ar]
+trapaceira	nome feminino	tra|pa|[cei]|ra
+trapaceiro	adjetivo	tra|pa|[cei]|ro
+trapaceiro	nome masculino	tra|pa|[cei]|ro
+trapacento	adjetivo	tra|pa|[cen]|to
+trapacento	nome masculino	tra|pa|[cen]|to
+trapacice	nome feminino	tra|pa|[ci]|ce
+trapada	nome feminino	tra|[pa]|da
+trapagem	nome feminino	tra|[pa]|gem
+trápala	nome feminino	[trá]|pa|la
+trapalhada	nome feminino	tra|pa|[lha]|da
+trapalhado	adjetivo	tra|pa|[lha]|do
+trapalhão	adjetivo	tra|pa|[lhão]
+trapalhão	nome masculino	tra|pa|[lhão]
+trapalhice	nome feminino	tra|pa|[lhi]|ce
+trapalho	nome masculino	tra|[pa]|lho
+trapalhona	nome feminino	tra|pa|[lho]|na
+traparia	nome feminino	tra|pa|[ri]|a

@@ -1,0 +1,100 @@
+orelhuda	nome feminino	o|re|[lhu]|da
+orelhudo	adjetivo	o|re|[lhu]|do
+orelhudo	nome masculino	o|re|[lhu]|do
+orélia	nome feminino	o|[ré]|li|a
+orelina	nome feminino	o|re|[li]|na
+oremanau	adjetivo	o|re|ma|[nau]
+oremanau	nome masculino	o|re|ma|[nau]
+oremanau	nome feminino	o|re|ma|[nau]
+oreóbolo	nome masculino	o|re|[ó]|bo|lo
+oreófila	nome feminino	o|re|[ó]|fi|la
+oreóforo	nome masculino	o|re|[ó]|fo|ro
+oreopiteco	nome masculino	o|re|o|pi|[te]|co
+oressa	nome feminino	o|[res]|sa
+oresta	adjetivo	o|[res]|ta
+oresta	nome masculino	o|[res]|ta
+oresta	nome feminino	o|[res]|ta
+oresteu	adjetivo	o|res|[teu]
+oretano	adjetivo	o|re|[ta]|no
+oretano	nome masculino	o|re|[ta]|no
+oreu	adjetivo	o|[reu]
+oreu	nome masculino	o|[reu]
+orexia	nome feminino	o|re|[xi]|a
+orexina	nome feminino	o|re|[xi]|na
+orexomania	nome feminino	o|re|xo|ma|[ni]|a
+órfã	nome feminino	[ór]|fã
+orfanado	nome masculino	or|fa|[na]|do
+orfanar	verbo	or|fa|[nar]
+orfanato	nome masculino	or|fa|[na]|to
+orfandade	nome feminino	or|fan|[da]|de
+orfanologia	nome feminino	or|fa|no|lo|[gi]|a
+orfanológico	adjetivo	or|fa|no|[ló]|gi|co
+orfanotrófio	nome masculino	or|fa|no|[tró]|fi|o
+órfão	nome masculino	[ór]|fão
+órfão	adjetivo	[ór]|fão
+orfeão	nome masculino	or|fe|[ão]
+orfeico	adjetivo	or|[fei]|co
+orfeónico	adjetivo	or|fe|[ó]|ni|co
+orfeônico	adjetivo	or|fe|[ô]|ni|co
+orfeonista	nome masculino	or|fe|o|[nis]|ta
+orfeonista	nome feminino	or|fe|o|[nis]|ta
+orfeonista	adjetivo	or|fe|o|[nis]|ta
+orfeonístico	adjetivo	or|fe|o|[nís]|ti|co
+orfeotelesta	nome masculino	or|fe|o|te|[les]|ta
+órfia	nome feminino	[ór]|fi|a
+órficas	nome feminino	[ór]|fi|cas
+órfico	adjetivo	[ór]|fi|co
+órfico	nome masculino	[ór]|fi|co
+orfindade	nome feminino	or|fin|[da]|de
+orfismo	nome masculino	or|[fis]|mo
+orfista	adjetivo	or|[fis]|ta
+orfista	nome masculino	or|[fis]|ta
+orfista	nome feminino	or|[fis]|ta
+orfístico	adjetivo	or|[fís]|ti|co
+orfneia	nome feminino	orf|[nei]|a
+orgada	nome feminino	or|[ga]|da
+orgadura	nome feminino	or|ga|[du]|ra
+organdi	nome masculino	or|gan|[di]
+organeiro	nome masculino	or|ga|[nei]|ro
+organelo	nome masculino	or|ga|[ne]|lo
+orgânica	nome feminino	or|[gâ]|ni|ca
+organicamente	advérbio	or|ga|ni|ca|[men]|te
+organicismo	nome masculino	or|ga|ni|[cis]|mo
+organicista	nome masculino	or|ga|ni|[cis]|ta
+organicista	adjetivo	or|ga|ni|[cis]|ta
+organicista	nome feminino	or|ga|ni|[cis]|ta
+orgânico	adjetivo	or|[gâ]|ni|co
+organigrama	nome masculino	or|ga|ni|[gra]|ma
+organismo	nome masculino	or|ga|[nis]|mo
+organista	adjetivo	or|ga|[nis]|ta
+organista	nome masculino	or|ga|[nis]|ta
+organista	nome feminino	or|ga|[nis]|ta
+organito	nome masculino	or|ga|[ni]|to
+organização	nome feminino	or|ga|ni|za|[ção]
+organizacional	adjetivo	or|ga|ni|za|ci|o|[nal]
+organizadamente	advérbio	or|ga|ni|za|da|[men]|te
+organizado	adjetivo	or|ga|ni|[za]|do
+organizador	adjetivo	or|ga|ni|za|[dor]
+organizador	nome masculino	or|ga|ni|za|[dor]
+organizadora	nome feminino	or|ga|ni|za|[do]|ra
+organizar	verbo	or|ga|ni|[zar]
+organizativo	adjetivo	or|ga|ni|za|[ti]|vo
+organizável	adjetivo	or|ga|ni|[zá]|vel
+organodinamia	nome feminino	or|ga|no|di|na|[mi]|a
+organodinâmico	adjetivo	or|ga|no|di|[nâ]|mi|co
+organofosfato	nome masculino	or|ga|no|fos|[fa]|to
+organogênese	nome feminino	or|ga|no|[gê]|ne|se
+organogénese	nome feminino	or|ga|no|[gé]|ne|se
+organogenesia	nome feminino	or|ga|no|ge|ne|[si]|a
+organogenésico	adjetivo	or|ga|no|ge|[né]|si|co
+organogenético	adjetivo	or|ga|no|ge|[né]|ti|co
+organogenia	nome feminino	or|ga|no|ge|[ni]|a
+organogénico	adjetivo	or|ga|no|[gé]|ni|co
+organogênico	adjetivo	or|ga|no|[gê]|ni|co
+organografia	nome feminino	or|ga|no|gra|[fi]|a
+organográfico	adjetivo	or|ga|no|[grá]|fi|co
+organograma	nome masculino	or|ga|no|[gra]|ma
+organoide	adjetivo	or|ga|[noi]|de
+organoléptico	adjetivo	or|ga|no|[lép]|ti|co
+organolético	adjetivo	or|ga|no|[lé]|ti|co
+organologia	nome feminino	or|ga|no|lo|[gi]|a

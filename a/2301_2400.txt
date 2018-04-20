@@ -1,0 +1,100 @@
+acarotóxico	adjetivo	a|ca|ro|[tó]|xi|co
+acarpelado	adjetivo	a|car|pe|[la]|do
+acarpetado	adjetivo	a|car|pe|[ta]|do
+acarpetar	verbo	a|car|pe|[tar]
+acarpia	nome feminino	a|car|[pi]|a
+acárpico	adjetivo	a|[cár]|pi|co
+acarpo	adjetivo	a|[car]|po
+acarquilhar	verbo	a|car|qui|[lhar]
+acarraçado	adjetivo	a|car|ra|[ça]|do
+acarração	nome feminino	a|car|ra|[ção]
+acarraçar	verbo	a|car|ra|[çar]
+acarradoiro	nome masculino	a|car|ra|[doi]|ro
+acarradouro	nome masculino	a|car|ra|[dou]|ro
+acarrancado	adjetivo	a|car|ran|[ca]|do
+acarrancar	verbo	a|car|ran|[car]
+acarrapatado	adjetivo	a|car|ra|pa|[ta]|do
+acarrapatar	verbo	a|car|ra|pa|[tar]
+acarrar	verbo	a|car|[rar]
+acarrear	verbo	a|car|re|[ar]
+acarreio	nome masculino	a|car|[rei]|o
+acarreja	nome feminino	a|car|[re]|ja
+acarrejar	verbo	a|car|re|[jar]
+acarreta-papéis	nome masculino	a|car|re|ta-pa|[péis]
+acarretadeira	nome feminino	a|car|re|ta|[dei]|ra
+acarretador	adjetivo	a|car|re|ta|[dor]
+acarretador	nome masculino	a|car|re|ta|[dor]
+acarretadora	nome feminino	a|car|re|ta|[do]|ra
+acarretadura	nome feminino	a|car|re|ta|[du]|ra
+acarretamento	nome masculino	a|car|re|ta|[men]|to
+acarretar	verbo	a|car|re|[tar]
+acarretável	adjetivo	a|car|re|[tá]|vel
+acarreto	nome masculino	a|car|[re]|to
+acarro	nome masculino	a|[car]|ro
+acarta	nome feminino	a|[car]|ta
+acartador	adjetivo	a|car|ta|[dor]
+acartador	nome masculino	a|car|ta|[dor]
+acartadura	nome feminino	a|car|ta|[du]|ra
+acartamento	nome masculino	a|car|ta|[men]|to
+acartar	verbo	a|car|[tar]
+acartável	adjetivo	a|car|[tá]|vel
+acartolado	adjetivo	a|car|to|[la]|do
+acartolar	verbo	a|car|to|[lar]
+acartonado	adjetivo	a|car|to|[na]|do
+acartonar	verbo	a|car|to|[nar]
+acartuchado	adjetivo	a|car|tu|[cha]|do
+acartuchar	verbo	a|car|tu|[char]
+acarunchado	adjetivo	a|ca|run|[cha]|do
+acarunchar	verbo	a|ca|run|[char]
+acarvoar	verbo	a|car|vo|[ar]
+acasacado	adjetivo	a|ca|sa|[ca]|do
+acasacar	verbo	a|ca|sa|[car]
+acasalação	nome feminino	a|ca|sa|la|[ção]
+acasalado	adjetivo	a|ca|sa|[la]|do
+acasalamento	nome masculino	a|ca|sa|la|[men]|to
+acasalar	verbo	a|ca|sa|[lar]
+acasamatar	verbo	a|ca|sa|ma|[tar]
+acascarrilhado	adjetivo	a|cas|car|ri|[lha]|do
+acaseadeira	nome feminino	a|ca|se|a|[dei]|ra
+acasear	verbo	a|ca|se|[ar]
+acasernado	adjetivo	a|ca|ser|[na]|do
+acasernar	verbo	a|ca|ser|[nar]
+acasmurrado	adjetivo	a|cas|mur|[ra]|do
+acaso	advérbio	a|[ca]|so
+acaso	nome masculino	a|[ca]|so
+acasquilhado	adjetivo	a|cas|qui|[lha]|do
+acasquilhar	verbo	a|cas|qui|[lhar]
+acastanhado	nome masculino	a|cas|ta|[nha]|do
+acastanhado	adjetivo	a|cas|ta|[nha]|do
+acastanhar	verbo	a|cas|ta|[nhar]
+acasteladamente	advérbio	a|cas|te|la|da|[men]|te
+acastelado	adjetivo	a|cas|te|[la]|do
+acastelagem	nome feminino	a|cas|te|[la]|gem
+acastelamento	nome masculino	a|cas|te|la|[men]|to
+acastelar	verbo	a|cas|te|[lar]
+acastelhanado	adjetivo	a|cas|te|lha|[na]|do
+acastelhanar	verbo	a|cas|te|lha|[nar]
+acastiçado	adjetivo	a|cas|ti|[ça]|do
+acastiçar	verbo	a|cas|ti|[çar]
+acasto	nome masculino	a|[cas]|to
+acastoar	verbo	a|cas|to|[ar]
+acastorado	adjetivo	a|cas|to|[ra]|do
+acastorar	verbo	a|cas|to|[rar]
+acasulado	adjetivo	a|ca|su|[la]|do
+acasulador	adjetivo	a|ca|su|la|[dor]
+acasulador	nome masculino	a|ca|su|la|[dor]
+acasular	verbo	a|ca|su|[lar]
+acatado	adjetivo	a|ca|[ta]|do
+acatador	adjetivo	a|ca|ta|[dor]
+acatador	nome masculino	a|ca|ta|[dor]
+acatadora	nome feminino	a|ca|ta|[do]|ra
+acatadura	nome feminino	a|ca|ta|[du]|ra
+acatafasia	nome feminino	a|ca|ta|fa|[si]|a
+acatafásico	adjetivo	a|ca|ta|[fá]|si|co
+acatafático	adjetivo	a|ca|ta|[fá]|ti|co
+acataléctico	adjetivo	a|ca|ta|[léc]|ti|co
+acatalecto	adjetivo	a|ca|ta|[lec]|to
+acatalepsia	nome feminino	a|ca|ta|lep|[si]|a
+acataléptica	nome feminino	a|ca|ta|[lép]|ti|ca
+acataléptico	nome masculino	a|ca|ta|[lép]|ti|co
+acataléptico	adjetivo	a|ca|ta|[lép]|ti|co

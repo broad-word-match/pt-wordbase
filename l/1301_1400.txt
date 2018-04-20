@@ -1,0 +1,100 @@
+lavratura	nome feminino	la|vra|[tu]|ra
+lawrêncio	nome masculino	law|[rên]|ci|o
+laxação	nome feminino	la|xa|[ção]
+laxante	adjetivo	la|[xan]|te
+laxante	nome masculino	la|[xan]|te
+laxar	verbo	la|[xar]
+laxativo	adjetivo	la|xa|[ti]|vo
+laxativo	nome masculino	la|xa|[ti]|vo
+laxidão	nome feminino	la|xi|[dão]
+laxifloro	adjetivo	la|xi|[flo]|ro
+laxismo	nome masculino	la|[xis]|mo
+laxista	adjetivo	la|[xis]|ta
+laxista	nome masculino	la|[xis]|ta
+laxista	nome feminino	la|[xis]|ta
+laxístico	adjetivo	la|[xís]|ti|co
+laxo	adjetivo	[la]|xo
+layout	nome masculino	lay|out
+lazão	nome masculino	la|[zão]
+lázara	nome feminino	[lá]|za|ra
+lazarar	verbo	la|za|[rar]
+lazarenta	nome feminino	la|za|[ren]|ta
+lazarento	adjetivo	la|za|[ren]|to
+lazarento	nome masculino	la|za|[ren]|to
+lazareto	nome masculino	la|za|[re]|to
+lazarina	nome feminino	la|za|[ri]|na
+lazarista	nome masculino	la|za|[ris]|ta
+lazarista	nome feminino	la|za|[ris]|ta
+lázaro	nome masculino	[lá]|za|ro
+lazarone	nome masculino	la|za|[ro]|ne
+lãzeira	nome feminino	[lã]|zei|ra
+lazeira	nome feminino	la|[zei]|ra
+lazeirar	verbo	la|zei|[rar]
+lazeirento	adjetivo	la|zei|[ren]|to
+lazer	nome masculino	la|[zer]
+lazerar	verbo	la|ze|[rar]
+lãzinha	nome feminino	lã|[zi]|nha
+lãzuda	nome feminino	[lã]|zu|da
+lãzudo	adjetivo	[lã]|zu|do
+lãzudo	nome masculino	[lã]|zu|do
+lazúli	nome masculino	la|[zú]|li
+lazulita	nome feminino	la|zu|[li]|ta
+lazulite	nome feminino	la|zu|[li]|te
+lazurita	nome feminino	la|zu|[ri]|ta
+lazurite	nome feminino	la|zu|[ri]|te
+lê	nome masculino	[lê]
+lé	nome masculino	[lé]
+lead	nome masculino	[le]|ad
+leader	nome masculino	[lea]|der
+leal	adjetivo	le|[al]
+leal	nome masculino	le|[al]
+lealdação	nome feminino	le|al|da|[ção]
+lealdade	nome feminino	le|al|[da]|de
+lealdado	adjetivo	le|al|[da]|do
+lealdador	nome masculino	le|al|da|[dor]
+lealdamento	nome masculino	le|al|da|[men]|to
+lealdar	verbo	le|al|[dar]
+lealdoso	adjetivo	le|al|[do]|so
+lealismo	nome masculino	le|a|[lis]|mo
+lealíssimo	adjetivo	le|a|[lís]|si|mo
+lealmente	advérbio	le|al|[men]|te
+leão	nome masculino	le|[ão]
+leão-americano	nome masculino	le|ão-a|me|ri|[ca]|no
+leão-do-mar	nome masculino	le|ão-do-mar
+leão-marinho	nome masculino	le|ão-ma|[ri]|nho
+leãozete	nome masculino	le|[ão]|ze|te
+leasing	nome feminino	[lea]|sing
+leasing	nome masculino	[lea]|sing
+leborinho	nome masculino	le|bo|[ri]|nho
+lebracho	nome masculino	le|[bra]|cho
+lebrada	nome feminino	le|[bra]|da
+lebrão	nome masculino	le|[brão]
+lebre	nome masculino	[le]|bre
+lebre	nome feminino	[le]|bre
+lebré	adjetivo	le|[bré]
+lebré	nome masculino	le|[bré]
+lebre-da-patagônia	nome feminino	le|bre-da-pa|ta|[gô]|ni|a
+lebre-da-patagónia	nome feminino	le|bre-da-pa|ta|[gó]|ni|a
+lebre-das-pampas	nome feminino	le|bre-das-pam|pas
+lebre-do-mar	nome feminino	le|bre-do-mar
+lebreiro	nome masculino	le|[brei]|ro
+lebreiro	adjetivo	le|[brei]|ro
+lebrel	nome masculino	le|[brel]
+lebréu	nome masculino	le|[bréu]
+leca	nome feminino	[le]|ca
+lecanomancia	nome feminino	le|ca|no|man|[ci]|a
+lecanomante	nome masculino	le|ca|no|[man]|te
+lecanomante	nome feminino	le|ca|no|[man]|te
+lecanomântico	adjetivo	le|ca|no|[mân]|ti|co
+leccionação	nome feminino	lec|ci|o|na|[ção]
+leccionador	nome masculino	lec|ci|o|na|[dor]
+leccionador	adjetivo	lec|ci|o|na|[dor]
+leccionando	nome masculino	lec|ci|o|[nan]|do
+leccionar	verbo	lec|ci|o|[nar]
+leccionário	nome masculino	lec|ci|o|[ná]|ri|o
+leccionável	adjetivo	lec|ci|o|[ná]|vel
+leccionista	nome masculino	lec|ci|o|[nis]|ta
+leccionista	nome feminino	lec|ci|o|[nis]|ta
+leceiro	nome feminino	le|[cei]|ro
+leceiro	nome masculino	le|[cei]|ro
+leceiro	adjetivo	le|[cei]|ro

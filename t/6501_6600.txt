@@ -1,0 +1,100 @@
+trágia	nome feminino	[trá]|gi|a
+tragiano	adjetivo	tra|gi|[a]|no
+trágica	nome feminino	[trá]|gi|ca
+tragicamente	advérbio	tra|gi|ca|[men]|te
+tragicidade	nome feminino	tra|gi|ci|[da]|de
+trágico	adjetivo	[trá]|gi|co
+trágico	nome masculino	[trá]|gi|co
+trágico-marítimo	adjetivo	trá|gi|co-ma|[rí]|ti|mo
+tragicomédia	nome feminino	tra|gi|co|[mé]|di|a
+tragicomicamente	advérbio	tra|gi|co|mi|ca|[men]|te
+tragicómico	adjetivo	tra|gi|[có]|mi|co
+tragicômico	adjetivo	tra|gi|[cô]|mi|co
+tragifarsa	nome feminino	tra|gi|[far]|sa
+trago	nome masculino	[tra]|go
+tragócero	nome masculino	tra|[gó]|ce|ro
+tragocutâneo	adjetivo	tra|go|cu|[tâ]|ne|o
+tragopana	nome feminino	tra|go|[pa]|na
+tragor	nome masculino	tra|[gor]
+traguear	verbo	tra|gue|[ar]
+trágula	nome feminino	[trá]|gu|la
+tragulário	nome masculino	tra|gu|[lá]|ri|o
+tragúlida	nome masculino	tra|[gú]|li|da
+tragulídeo	nome masculino	tra|gu|[lí]|de|o
+tragulídeo	adjetivo	tra|gu|[lí]|de|o
+trágulo	nome masculino	[trá]|gu|lo
+trágus	nome masculino	[trá]|gus
+traição	nome feminino	trai|[ção]
+traiçoeiramente	advérbio	trai|ço|ei|ra|[men]|te
+traiçoeiro	adjetivo	trai|ço|[ei]|ro
+traído	adjetivo	tra|[í]|do
+traidor	nome masculino	trai|[dor]
+traidor	adjetivo	trai|[dor]
+traidora	nome feminino	trai|[do]|ra
+trailer	nome masculino	[trai]|ler
+traimento	nome masculino	trai|[men]|to
+traina	nome feminino	[trai]|na
+trainar	verbo	trai|[nar]
+traineira	nome feminino	trai|[nei]|ra
+trainel	nome masculino	trai|[nel]
+training	nome masculino	[trai]|ning
+trair	verbo	tra|[ir]
+traíra	nome feminino	tra|[í]|ra
+trairamboia	nome feminino	trai|ram|[boi]|a
+traita	nome feminino	[trai]|ta
+traite	nome masculino	[trai]|te
+traites	nome masculino	[trai]|tes
+traito	nome masculino	[trai]|to
+trajado	adjetivo	tra|[ja]|do
+trajadura	nome feminino	tra|ja|[du]|ra
+trajanopolitano	adjetivo	tra|ja|no|po|li|[ta]|no
+trajanopolitano	nome masculino	tra|ja|no|po|li|[ta]|no
+trajar	nome masculino	tra|[jar]
+trajar	verbo	tra|[jar]
+traje	nome masculino	[tra]|je
+trajeto	nome masculino	tra|[je]|to
+trajetor	adjetivo	tra|je|[tor]
+trajetor	nome masculino	tra|je|[tor]
+trajetória	nome feminino	tra|je|[tó]|ri|a
+trajo	nome masculino	[tra]|jo
+traladar	verbo	tra|la|[dar]
+tralha	nome feminino	[tra]|lha
+tralhadouro	nome masculino	tra|lha|[dou]|ro
+tralhão	nome masculino	tra|[lhão]
+tralhar	verbo	tra|[lhar]
+tralharão	nome masculino	tra|lha|[rão]
+tralhas-malhas	nome feminino	tra|lhas-ma|lhas
+tralheta	nome feminino	tra|[lhe]|ta
+tralho	nome masculino	[tra]|lho
+tralhoada	nome feminino	tra|lho|[a]|da
+tralhoto	nome masculino	tra|[lho]|to
+traliano	adjetivo	tra|li|[a]|no
+traliano	nome masculino	tra|li|[a]|no
+trama	nome feminino	[tra]|ma
+trama	nome masculino	[tra]|ma
+tramação	nome feminino	tra|ma|[ção]
+tramado	adjetivo	tra|[ma]|do
+tramador	adjetivo	tra|ma|[dor]
+tramador	nome masculino	tra|ma|[dor]
+tramaga	nome feminino	tra|[ma]|ga
+tramagal	nome masculino	tra|ma|[gal]
+tramagueira	nome feminino	tra|ma|[guei]|ra
+tramanzola	nome masculino	tra|man|[zo]|la
+tramanzola	nome feminino	tra|man|[zo]|la
+tramar	verbo	tra|[mar]
+tramável	adjetivo	tra|[má]|vel
+tramazeira	nome feminino	tra|ma|[zei]|ra
+trâmbalas-águas	nome masculino	trâm|ba|las-á|guas
+trambalazana	nome masculino	tram|ba|la|[za]|na
+trambalazana	nome feminino	tram|ba|la|[za]|na
+trambalhar	verbo	tram|ba|[lhar]
+trambecar	verbo	tram|be|[car]
+trambelho	nome masculino	tram|[be]|lho
+trambicar	verbo	tram|bi|[car]
+trambique	nome masculino	tram|[bi]|que
+trambola	nome feminino	tram|[bo]|la
+trambolhada	nome feminino	tram|bo|[lha]|da
+trambolhão	nome masculino	tram|bo|[lhão]
+trambolhar	verbo	tram|bo|[lhar]
+trambolhia	nome feminino	tram|bo|[lhi]|a
+trambolho	nome masculino	tram|[bo]|lho

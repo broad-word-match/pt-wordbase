@@ -1,0 +1,100 @@
+encachoeiramento	nome masculino	en|ca|cho|ei|ra|[men]|to
+encachoeirar	verbo	en|ca|cho|ei|[rar]
+encacholar	verbo	en|ca|cho|[lar]
+encadeação	nome feminino	en|ca|de|a|[ção]
+encadeado	adjetivo	en|ca|de|[a]|do
+encadeador	adjetivo	en|ca|de|a|[dor]
+encadeador	nome masculino	en|ca|de|a|[dor]
+encadeamento	nome feminino	en|ca|de|a|[men]|to
+encadeamento	nome masculino	en|ca|de|a|[men]|to
+encadear	verbo	en|ca|de|[ar]
+encadeável	adjetivo	en|ca|de|[á]|vel
+encadeirado	nome masculino	en|ca|dei|[ra]|do
+encadeirar	verbo	en|ca|dei|[rar]
+encadernação	nome feminino	en|ca|der|na|[ção]
+encadernado	adjetivo	en|ca|der|[na]|do
+encadernador	adjetivo	en|ca|der|na|[dor]
+encadernador	nome masculino	en|ca|der|na|[dor]
+encadernadora	nome feminino	en|ca|der|na|[do]|ra
+encadernar	verbo	en|ca|der|[nar]
+encadernável	adjetivo	en|ca|der|[ná]|vel
+encafifado	adjetivo	en|ca|fi|[fa]|do
+encafifar	verbo	en|ca|fi|[far]
+encafuar	verbo	en|ca|fu|[ar]
+encafurnar	verbo	en|ca|fur|[nar]
+encaibramento	nome masculino	en|cai|bra|[men]|to
+encaibrar	verbo	en|cai|[brar]
+encaiporar	verbo	en|cai|po|[rar]
+encaixado	adjetivo	en|cai|[xa]|do
+encaixamento	nome masculino	en|cai|xa|[men]|to
+encaixante	adjetivo	en|cai|[xan]|te
+encaixar	verbo	en|cai|[xar]
+encaixaria	nome feminino	en|cai|xa|[ri]|a
+encaixe	nome masculino	en|[cai]|xe
+encaixe-ouro	nome masculino	en|cai|xe-ou|ro
+encaixilhado	adjetivo	en|cai|xi|[lha]|do
+encaixilhar	verbo	en|cai|xi|[lhar]
+encaixo	nome masculino	en|[cai]|xo
+encaixotado	adjetivo	en|cai|xo|[ta]|do
+encaixotador	adjetivo	en|cai|xo|ta|[dor]
+encaixotador	nome masculino	en|cai|xo|ta|[dor]
+encaixotadora	nome feminino	en|cai|xo|ta|[do]|ra
+encaixotamento	nome masculino	en|cai|xo|ta|[men]|to
+encaixotar	verbo	en|cai|xo|[tar]
+encalacração	nome feminino	en|ca|la|cra|[ção]
+encalacradela	nome feminino	en|ca|la|cra|[de]|la
+encalacrado	adjetivo	en|ca|la|[cra]|do
+encalacrador	adjetivo	en|ca|la|cra|[dor]
+encalacrador	nome masculino	en|ca|la|cra|[dor]
+encalacrar	verbo	en|ca|la|[crar]
+encalamentos	nome masculino	en|ca|la|[men]|tos
+encalamistrar	verbo	en|ca|la|mis|[trar]
+encalamoucar	verbo	en|ca|la|mou|[car]
+encalar	verbo	en|ca|[lar]
+encalcadeira	nome feminino	en|cal|ca|[dei]|ra
+encalçar	verbo	en|cal|[çar]
+encalço	nome masculino	en|[cal]|ço
+encaldar	verbo	en|cal|[dar]
+encaldeiração	nome feminino	en|cal|dei|ra|[ção]
+encaldeirar	verbo	en|cal|dei|[rar]
+encalecer	verbo	en|ca|le|[cer]
+encaleirar	verbo	en|ca|lei|[rar]
+encalhação	nome feminino	en|ca|lha|[ção]
+encalhado	adjetivo	en|ca|[lha]|do
+encalhamento	nome masculino	en|ca|lha|[men]|to
+encalhar	verbo	en|ca|[lhar]
+encalhe	nome masculino	en|[ca]|lhe
+encalho	nome masculino	en|[ca]|lho
+encaliçar	verbo	en|ca|li|[çar]
+encalidela	nome feminino	en|ca|li|[de]|la
+encalir	verbo	en|ca|[lir]
+encalistação	nome feminino	en|ca|lis|ta|[ção]
+encalistamento	nome masculino	en|ca|lis|ta|[men]|to
+encalistar	verbo	en|ca|lis|[tar]
+encalistramento	nome masculino	en|ca|lis|tra|[men]|to
+encalistrar	verbo	en|ca|lis|[trar]
+encalmadiço	adjetivo	en|cal|ma|[di]|ço
+encalmado	adjetivo	en|cal|[ma]|do
+encalmamento	nome masculino	en|cal|ma|[men]|to
+encalmar	verbo	en|cal|[mar]
+encalombamento	nome masculino	en|ca|lom|ba|[men]|to
+encalombar	verbo	en|ca|lom|[bar]
+encalque	nome masculino	en|[cal]|que
+encalvecer	verbo	en|cal|ve|[cer]
+encama	nome feminino	en|[ca]|ma
+encamar	verbo	en|ca|[mar]
+encamarotar	verbo	en|ca|ma|ro|[tar]
+encambar	verbo	en|cam|[bar]
+encambeirar	verbo	en|cam|bei|[rar]
+encambitar	verbo	en|cam|bi|[tar]
+encamboar	verbo	en|cam|bo|[ar]
+encambulhada	nome feminino	en|cam|bu|[lha]|da
+encambulhar	verbo	en|cam|bu|[lhar]
+encame	nome masculino	en|[ca]|me
+encaminhado	adjetivo	en|ca|mi|[nha]|do
+encaminhador	adjetivo	en|ca|mi|nha|[dor]
+encaminhador	nome masculino	en|ca|mi|nha|[dor]
+encaminhamento	nome masculino	en|ca|mi|nha|[men]|to
+encaminhar	verbo	en|ca|mi|[nhar]
+encaminhável	adjetivo	en|ca|mi|[nhá]|vel
+encamisada	nome feminino	en|ca|mi|[sa]|da

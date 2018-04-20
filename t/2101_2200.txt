@@ -1,0 +1,100 @@
+tecidular	adjetivo	te|ci|du|[lar]
+tecimento	nome masculino	te|ci|[men]|to
+tecível	adjetivo	te|[cí]|vel
+tecla	nome feminino	[te]|cla
+tecladista	nome masculino	te|cla|[dis]|ta
+tecladista	nome feminino	te|cla|[dis]|ta
+teclado	nome masculino	te|[cla]|do
+teclar	verbo	te|[clar]
+teclista	nome masculino	te|[clis]|ta
+teclista	nome feminino	te|[clis]|ta
+tecnécio	nome masculino	tec|[né]|ci|o
+técnica	nome feminino	[téc]|ni|ca
+tecnicalidade	nome feminino	tec|ni|ca|li|[da]|de
+tecnicamente	advérbio	tec|ni|ca|[men]|te
+tecnicidade	nome feminino	tec|ni|ci|[da]|de
+tecnicismo	nome masculino	tec|ni|[cis]|mo
+tecnicista	adjetivo	tec|ni|[cis]|ta
+tecnicista	nome masculino	tec|ni|[cis]|ta
+tecnicista	nome feminino	tec|ni|[cis]|ta
+tecnicístico	adjetivo	tec|ni|[cís]|ti|co
+tecnicização	nome feminino	tec|ni|ci|za|[ção]
+tecnicizar	verbo	tec|ni|ci|[zar]
+tecnicizável	adjetivo	tec|ni|ci|[zá]|vel
+técnico	adjetivo	[téc]|ni|co
+técnico	nome masculino	[téc]|ni|co
+técnico-adjunto	nome masculino	téc|ni|co-ad|[jun]|to
+técnico-administrativo	adjetivo	téc|ni|co-ad|mi|nis|tra|[ti]|vo
+técnico-científico	adjetivo	téc|ni|co-ci|en|[tí]|fi|co
+técnico-táctico	adjetivo	téc|ni|co-tác|ti|co
+técnico-táctico	nome masculino	téc|ni|co-tác|ti|co
+técnico-tático	nome masculino	téc|ni|co-tá|ti|co
+técnico-tático	adjetivo	téc|ni|co-tá|ti|co
+tecnicolor	nome masculino	tec|ni|co|[lor]
+tecnicólor	nome masculino	tec|ni|[có]|lor
+tecnismo	nome masculino	tec|[nis]|mo
+tecnita	nome masculino	tec|[ni]|ta
+tecno	nome masculino	[tec]|no
+tecnocientífico	adjetivo	tec|no|ci|en|[tí]|fi|co
+tecnocracia	nome feminino	tec|no|cra|[ci]|a
+tecnocrata	nome masculino	tec|no|[cra]|ta
+tecnocrata	nome feminino	tec|no|[cra]|ta
+tecnocrático	adjetivo	tec|no|[crá]|ti|co
+tecnocratismo	nome masculino	tec|no|cra|[tis]|mo
+tecnocratizar	verbo	tec|no|cra|ti|[zar]
+tecnoestrutura	nome feminino	tec|no|es|tru|[tu]|ra
+tecnofobia	nome feminino	tec|no|fo|[bi]|a
+tecnografia	nome feminino	tec|no|gra|[fi]|a
+tecnográfico	adjetivo	tec|no|[grá]|fi|co
+tecnógrafo	nome masculino	tec|[nó]|gra|fo
+tecnolectal	adjetivo	tec|no|lec|[tal]
+tecnolecto	nome masculino	tec|no|[lec]|to
+tecnoletal	adjetivo	tec|no|le|[tal]
+tecnoleto	nome masculino	tec|no|[le]|to
+tecnóloga	nome feminino	tec|[nó]|lo|ga
+tecnologia	nome feminino	tec|no|lo|[gi]|a
+tecnologicamente	advérbio	tec|no|lo|gi|ca|[men]|te
+tecnológico	adjetivo	tec|no|[ló]|gi|co
+tecnologista	nome masculino	tec|no|lo|[gis]|ta
+tecnologista	nome feminino	tec|no|lo|[gis]|ta
+tecnologizar	verbo	tec|no|lo|gi|[zar]
+tecnólogo	nome masculino	tec|[nó]|lo|go
+tecnopsicologia	nome feminino	tec|nop|si|co|lo|[gi]|a
+teco	nome masculino	[te]|co
+tecó	nome masculino	te|[có]
+tecó	advérbio	te|[có]
+teco-teco	nome masculino	te|co-te|co
+tecodonte	nome masculino	te|co|[don]|te
+tecodonte	adjetivo	te|co|[don]|te
+tecodontossauro	nome masculino	te|co|don|tos|[sau]|ro
+tecóforo	adjetivo	te|[có]|fo|ro
+tecóforo	nome masculino	te|[có]|fo|ro
+tecólito	nome masculino	te|[có]|li|to
+tecoma	nome masculino	te|[co]|ma
+tecoma	nome feminino	te|[co]|ma
+tecomina	nome feminino	te|co|[mi]|na
+tecópode	nome masculino	te|[có]|po|de
+tecorretina	nome feminino	te|cor|re|[ti]|na
+tecospóreo	nome masculino	te|cos|[pó]|re|o
+tecossomo	adjetivo	te|cos|[so]|mo
+tectepitelial	adjetivo	tec|te|pi|te|li|[al]
+tecticite	nome feminino	tec|ti|[ci]|te
+tectiforme	adjetivo	tec|ti|[for]|me
+tectipene	nome masculino	tec|ti|[pe]|ne
+tectito	nome masculino	tec|[ti]|to
+tecto	nome masculino	[tec]|to
+tectoepitelial	adjetivo	tec|to|e|pi|te|li|[al]
+tectogénese	nome feminino	tec|to|[gé]|ne|se
+tectogênese	nome feminino	tec|to|[gê]|ne|se
+tectona	nome feminino	tec|[to]|na
+tectónica	nome feminino	tec|[tó]|ni|ca
+tectônica	nome feminino	tec|[tô]|ni|ca
+tectónico	adjetivo	tec|[tó]|ni|co
+tectônico	adjetivo	tec|[tô]|ni|co
+tectônio	adjetivo	tec|[tô]|ni|o
+tectónio	adjetivo	tec|[tó]|ni|o
+tectonito	nome masculino	tec|to|[ni]|to
+tectonização	nome feminino	tec|to|ni|za|[ção]
+tectonizar	verbo	tec|to|ni|[zar]
+tectonofísica	nome feminino	tec|to|no|[fí]|si|ca
+tectósage	adjetivo	tec|[tó]|sa|ge

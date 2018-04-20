@@ -1,0 +1,100 @@
+garaveto	nome masculino	ga|ra|[ve]|to
+garavim	nome masculino	ga|ra|[vim]
+garbo	nome masculino	[gar]|bo
+garbosamente	advérbio	gar|bo|sa|[men]|te
+garbosidade	nome feminino	gar|bo|si|[da]|de
+garboso	adjetivo	gar|[bo]|so
+garça	nome feminino	[gar]|ça
+garça-boieira	nome feminino	gar|ça-boi|[ei]|ra
+garça-real	nome feminino	gar|ça-re|[al]
+garça-ribeirinha	nome feminino	gar|ça-ri|bei|[ri]|nha
+garção	nome masculino	gar|[ção]
+garceiro	adjetivo	gar|[cei]|ro
+garceiro	nome masculino	gar|[cei]|ro
+garceja	nome feminino	gar|[ce]|ja
+garcenha	nome feminino	gar|[ce]|nha
+garcenho	nome masculino	gar|[ce]|nho
+garcês	nome masculino	gar|[cês]
+garceta	nome feminino	gar|[ce]|ta
+garcina	nome feminino	gar|[ci]|na
+garciote	nome masculino	gar|ci|[o]|te
+garço	adjetivo	[gar]|ço
+garçola	nome feminino	gar|[ço]|la
+garçolo	nome masculino	gar|[ço]|lo
+garçom	nome masculino	[gar]|çom
+garçon	nome masculino	[gar]|çon
+garçone	nome feminino	gar|[ço]|ne
+garçonete	nome feminino	gar|ço|[ne]|te
+garçonne	nome feminino	gar|çon|ne
+garçota	nome feminino	gar|[ço]|ta
+garçote	nome masculino	gar|[ço]|te
+gardênia	nome feminino	gar|[dê]|ni|a
+gardénia	nome feminino	gar|[dé]|ni|a
+gardingato	nome masculino	gar|din|[ga]|to
+gardingo	nome masculino	gar|[din]|go
+gardinhola	nome feminino	gar|di|[nho]|la
+gardunha	nome feminino	gar|[du]|nha
+gardunho	nome masculino	gar|[du]|nho
+gare	nome feminino	[ga]|re
+garela	nome feminino	ga|[re]|la
+garepe	nome masculino	ga|[re]|pe
+garera	nome feminino	ga|[re]|ra
+garete	nome masculino	ga|[re]|te
+garfa	nome feminino	[gar]|fa
+garfada	nome feminino	gar|[fa]|da
+garfado	nome masculino	gar|[fa]|do
+garfar	verbo	gar|[far]
+garfeira	nome feminino	gar|[fei]|ra
+garfeiro	nome masculino	gar|[fei]|ro
+garfejar	verbo	gar|fe|[jar]
+garfete	nome masculino	gar|[fe]|te
+garfilha	nome feminino	gar|[fi]|lha
+garfo	nome masculino	[gar]|fo
+garfuana	nome feminino	gar|fu|[a]|na
+garga	nome feminino	[gar]|ga
+gargajola	nome masculino	gar|ga|[jo]|la
+gargalaçada	nome feminino	gar|ga|la|[ça]|da
+gargalaçar	verbo	gar|ga|la|[çar]
+gargaleira	nome feminino	gar|ga|[lei]|ra
+gargaleiro	adjetivo	gar|ga|[lei]|ro
+gargaleiro	nome masculino	gar|ga|[lei]|ro
+gargalejar	verbo	gar|ga|le|[jar]
+gargalejo	nome masculino	gar|ga|[le]|jo
+gargalhada	nome feminino	gar|ga|[lha]|da
+gargalhar	verbo	gar|ga|[lhar]
+gargalheira	nome feminino	gar|ga|[lhei]|ra
+gargalho	nome masculino	gar|[ga]|lho
+gargalicho	nome masculino	gar|ga|[li]|cho
+gargalo	nome masculino	gar|[ga]|lo
+gargaludo	adjetivo	gar|ga|[lu]|do
+garganeiro	adjetivo	gar|ga|[nei]|ro
+garganeiro	nome masculino	gar|ga|[nei]|ro
+garganhol	nome masculino	gar|ga|[nhol]
+garganice	nome feminino	gar|ga|[ni]|ce
+garganta	nome feminino	gar|[gan]|ta
+garganta	nome masculino	gar|[gan]|ta
+gargantão	adjetivo	gar|gan|[tão]
+gargantão	nome masculino	gar|gan|[tão]
+garganteação	nome feminino	gar|gan|te|a|[ção]
+garganteado	nome masculino	gar|gan|te|[a]|do
+garganteado	adjetivo	gar|gan|te|[a]|do
+garganteador	adjetivo	gar|gan|te|a|[dor]
+garganteador	nome masculino	gar|gan|te|a|[dor]
+gargantear	verbo	gar|gan|te|[ar]
+garganteio	nome masculino	gar|gan|[tei]|o
+gargantilha	nome feminino	gar|gan|[ti]|lha
+gargantilho	adjetivo	gar|gan|[ti]|lho
+gargantoíce	nome feminino	gar|gan|to|[í]|ce
+gargântua	nome masculino	gar|[gân]|tu|a
+gargantudo	adjetivo	gar|gan|[tu]|do
+gargantudo	nome masculino	gar|gan|[tu]|do
+gargantuesco	adjetivo	gar|gan|tu|[es]|co
+gargarejamento	nome masculino	gar|ga|re|ja|[men]|to
+gargarejar	verbo	gar|ga|re|[jar]
+gargarejo	nome masculino	gar|ga|[re]|jo
+gargaúba	nome feminino	gar|ga|[ú]|ba
+gargeia	nome feminino	gar|[gei]|a
+gargétio	adjetivo	gar|[gé]|ti|o
+gargétio	nome masculino	gar|[gé]|ti|o
+gargó	nome masculino	gar|[gó]
+gargueiro	nome masculino	gar|[guei]|ro

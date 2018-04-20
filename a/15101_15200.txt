@@ -1,0 +1,100 @@
+apalache	nome feminino	a|pa|[la]|che
+apalachina	nome feminino	a|pa|la|[chi]|na
+apalacianado	adjetivo	a|pa|la|ci|a|[na]|do
+apalacianar	verbo	a|pa|la|ci|a|[nar]
+apaladado	adjetivo	a|pa|la|[da]|do
+apaladar	verbo	a|pa|la|[dar]
+apálage	nome feminino	a|[pá]|la|ge
+apalancamento	nome masculino	a|pa|lan|ca|[men]|to
+apalancar	verbo	a|pa|lan|[car]
+apalátoa	nome feminino	a|pa|[lá]|to|a
+apalavrado	adjetivo	a|pa|la|[vra]|do
+apalavramento	nome masculino	a|pa|la|vra|[men]|to
+apalavrar	verbo	a|pa|la|[vrar]
+apaleação	nome feminino	a|pa|le|a|[ção]
+apaleador	adjetivo	a|pa|le|a|[dor]
+apaleador	nome masculino	a|pa|le|a|[dor]
+apaleamento	nome masculino	a|pa|le|a|[men]|to
+apalear	verbo	a|pa|le|[ar]
+apalermadamente	advérbio	a|pa|ler|ma|da|[men]|te
+apalermado	adjetivo	a|pa|ler|[ma]|do
+apalermar	verbo	a|pa|ler|[mar]
+apalestrar	verbo	a|pa|les|[trar]
+apalhaçadamente	advérbio	a|pa|lha|ça|da|[men]|te
+apalhaçado	adjetivo	a|pa|lha|[ça]|do
+apalhaçar	verbo	a|pa|lha|[çar]
+apalhetado	adjetivo	a|pa|lhe|[ta]|do
+apalmado	adjetivo	a|pal|[ma]|do
+apalmar	verbo	a|pal|[mar]
+apalmatoar	verbo	a|pal|ma|to|[ar]
+apalpação	nome feminino	a|pal|pa|[ção]
+apalpadeira	nome feminino	a|pal|pa|[dei]|ra
+apalpadela	nome feminino	a|pal|pa|[de]|la
+apalpador	nome masculino	a|pal|pa|[dor]
+apalpador	adjetivo	a|pal|pa|[dor]
+apalpamento	nome masculino	a|pal|pa|[men]|to
+apalpão	nome masculino	a|pal|[pão]
+apalpar	verbo	a|pal|[par]
+apalpável	adjetivo	a|pal|[pá]|vel
+apalpo	nome masculino	a|[pal]|po
+apaludado	adjetivo	a|pa|lu|[da]|do
+apamense	adjetivo	a|pa|[men]|se
+apamense	nome masculino	a|pa|[men]|se
+apamense	nome feminino	a|pa|[men]|se
+apamestino	adjetivo	a|pa|mes|[ti]|no
+apamestino	nome masculino	a|pa|mes|[ti]|no
+apameu	adjetivo	a|pa|[meu]
+apameu	nome masculino	a|pa|[meu]
+apanágio	nome masculino	a|pa|[ná]|gi|o
+apanagista	nome masculino	a|pa|na|[gis]|ta
+apanagista	nome feminino	a|pa|na|[gis]|ta
+apanascado	adjetivo	a|pa|nas|[ca]|do
+apancadado	adjetivo	a|pan|ca|[da]|do
+apancado	adjetivo	a|pan|[ca]|do
+apancamento	nome masculino	a|pan|ca|[men]|to
+apancanado	adjetivo	a|pan|ca|[na]|do
+apancar	verbo	a|pan|[car]
+apandar	verbo	a|pan|[dar]
+apandilhar	verbo	a|pan|di|[lhar]
+apandria	nome feminino	a|pan|[dri]|a
+apanha	nome feminino	a|[pa]|nha
+apanha	nome masculino	a|[pa]|nha
+apanha-bolas	nome masculino	a|pa|nha-bo|las
+apanha-bolas	nome feminino	a|pa|nha-bo|las
+apanha-moscas	nome feminino	a|pa|nha-mos|cas
+apanha-moscas	nome masculino	a|pa|nha-mos|cas
+apanhação	nome feminino	a|pa|nha|[ção]
+apanhada	nome feminino	a|pa|[nha]|da
+apanhadeira	nome feminino	a|pa|nha|[dei]|ra
+apanhadiço	adjetivo	a|pa|nha|[di]|ço
+apanhado	nome masculino	a|pa|[nha]|do
+apanhado	adjetivo	a|pa|[nha]|do
+apanhador	nome masculino	a|pa|nha|[dor]
+apanhadouro	nome masculino	a|pa|nha|[dou]|ro
+apanhadura	nome feminino	a|pa|nha|[du]|ra
+apanhamento	nome masculino	a|pa|nha|[men]|to
+apanhar	verbo	a|pa|[nhar]
+apanhável	adjetivo	a|pa|[nhá]|vel
+apanhia	nome feminino	a|pa|[nhi]|a
+apanho	nome masculino	a|[pa]|nho
+apanicar	verbo	a|pa|ni|[car]
+apaniguada	nome feminino	a|pa|ni|[gua]|da
+apaniguado	adjetivo	a|pa|ni|[gua]|do
+apaniguado	nome masculino	a|pa|ni|[gua]|do
+apaniguamento	nome masculino	a|pa|ni|gua|[men]|to
+apaniguar	verbo	a|pa|ni|[guar]
+apantismo	nome masculino	a|pan|[tis]|mo
+apantomancia	nome feminino	a|pan|to|man|[ci]|a
+apantomante	nome masculino	a|pan|to|[man]|te
+apantomante	nome feminino	a|pan|to|[man]|te
+apantomântico	adjetivo	a|pan|to|[mân]|ti|co
+apantropia	nome feminino	a|pan|tro|[pi]|a
+apantrópico	adjetivo	a|pan|[tró]|pi|co
+apantropo	nome masculino	a|pan|[tro]|po
+apantufado	adjetivo	a|pan|tu|[fa]|do
+apantufar	verbo	a|pan|tu|[far]
+apapá	nome masculino	a|pa|[pá]
+apapagaiado	adjetivo	a|pa|pa|gai|[a]|do
+apaparicado	adjetivo	a|pa|pa|ri|[ca]|do
+apaparicamento	nome masculino	a|pa|pa|ri|ca|[men]|to
+apaparicar	verbo	a|pa|pa|ri|[car]

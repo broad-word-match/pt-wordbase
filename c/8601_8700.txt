@@ -1,0 +1,100 @@
+charadear	verbo	cha|ra|de|[ar]
+charadicida	adjetivo	cha|ra|di|[ci]|da
+charadicida	nome masculino	cha|ra|di|[ci]|da
+charadicida	nome feminino	cha|ra|di|[ci]|da
+charadismo	nome masculino	cha|ra|[dis]|mo
+charadista	nome masculino	cha|ra|[dis]|ta
+charadista	adjetivo	cha|ra|[dis]|ta
+charadista	nome feminino	cha|ra|[dis]|ta
+charadisticamente	advérbio	cha|ra|dis|ti|ca|[men]|te
+charadístico	adjetivo	cha|ra|[dís]|ti|co
+charadomaníaco	adjetivo	cha|ra|do|ma|[ní]|a|co
+charadomaníaco	nome masculino	cha|ra|do|ma|[ní]|a|co
+charamba	nome feminino	cha|[ram]|ba
+charamela	nome feminino	cha|ra|[me]|la
+charameleira	nome feminino	cha|ra|me|[lei]|ra
+charameleiro	nome masculino	cha|ra|me|[lei]|ro
+charanga	nome feminino	cha|[ran]|ga
+charangueiro	nome masculino	cha|ran|[guei]|ro
+charão	nome masculino	cha|[rão]
+charapa	nome feminino	cha|[ra]|pa
+charavasca	nome feminino	cha|ra|[vas]|ca
+charavascal	nome masculino	cha|ra|vas|[cal]
+charavasco	nome masculino	cha|ra|[vas]|co
+charavasqueiro	nome masculino	cha|ra|vas|[quei]|ro
+charaviscal	nome masculino	cha|ra|vis|[cal]
+charaviscar	verbo	cha|ra|vis|[car]
+charca	nome feminino	[char]|ca
+charcada	nome feminino	char|[ca]|da
+charco	nome masculino	[char]|co
+charcoso	adjetivo	char|[co]|so
+charcutaria	nome feminino	char|cu|ta|[ri]|a
+charcuteiro	nome masculino	char|cu|[tei]|ro
+charela	nome feminino	cha|[re]|la
+charge	nome feminino	[char]|ge
+charguaço	nome masculino	char|[gua]|ço
+charivari	nome masculino	cha|ri|va|[ri]
+charla	nome feminino	[char]|la
+charlador	nome masculino	char|la|[dor]
+charlar	verbo	char|[lar]
+charlatã	nome feminino	char|la|[tã]
+charlata	nome masculino	char|[la]|ta
+charlatanaria	nome feminino	char|la|ta|na|[ri]|a
+charlatanear	verbo	char|la|ta|ne|[ar]
+charlatanesco	adjetivo	char|la|ta|[nes]|co
+charlatanice	nome feminino	char|la|ta|[ni]|ce
+charlatânico	adjetivo	char|la|[tâ]|ni|co
+charlatanismo	nome masculino	char|la|ta|[nis]|mo
+charlatão	nome masculino	char|la|[tão]
+charlatão	adjetivo	char|la|[tão]
+charlataria	nome feminino	char|la|ta|[ri]|a
+charlateira	nome feminino	char|la|[tei]|ra
+charlatona	nome feminino	char|la|[to]|na
+charleston	nome masculino	[char]|les|ton
+charlota	nome feminino	char|[lo]|ta
+charlote	nome feminino	char|[lo]|te
+charme	nome masculino	[char]|me
+charmontiano	adjetivo	char|mon|ti|[a]|no
+charmoso	adjetivo	char|[mo]|so
+charneca	nome feminino	char|[ne]|ca
+charneco	nome masculino	char|[ne]|co
+charneira	nome feminino	char|[nei]|ra
+charnequeiro	adjetivo	char|ne|[quei]|ro
+charnequenho	adjetivo	char|ne|[que]|nho
+charnequenho	nome masculino	char|ne|[que]|nho
+charoar	verbo	cha|ro|[ar]
+charola	nome feminino	cha|[ro]|la
+charoleiro	nome masculino	cha|ro|[lei]|ro
+charpa	nome feminino	[char]|pa
+charque	nome masculino	[char]|que
+charqueação	nome feminino	char|que|a|[ção]
+charqueada	nome feminino	char|que|[a]|da
+charqueador	nome masculino	char|que|a|[dor]
+charquear	verbo	char|que|[ar]
+charqueio	nome masculino	char|[quei]|o
+charqueiro	nome masculino	char|[quei]|ro
+charrafusca	nome feminino	char|ra|[fus]|ca
+charramente	advérbio	char|ra|[men]|te
+charrana	nome feminino	char|[ra]|na
+charrano	nome masculino	char|[ra]|no
+charrasca	nome feminino	char|[ras]|ca
+charrasco	nome masculino	char|[ras]|co
+charrasqueira	nome feminino	char|ras|[quei]|ra
+charravascal	nome masculino	char|ra|vas|[cal]
+charrela	nome feminino	char|[re]|la
+charrete	nome feminino	char|[re]|te
+charreu	nome masculino	char|[reu]
+charriscar	verbo	char|ris|[car]
+charro	adjetivo	[char]|ro
+charro	nome masculino	[char]|ro
+charrua	nome feminino	char|[ru]|a
+charrua	nome masculino	char|[ru]|a
+charruação	nome feminino	char|ru|a|[ção]
+charruada	nome feminino	char|ru|[a]|da
+charruadeira	nome feminino	char|ru|a|[dei]|ra
+charruadela	nome feminino	char|ru|a|[de]|la
+charruar	verbo	char|ru|[ar]
+charrueco	nome masculino	char|ru|[e]|co
+chárter	nome masculino	[chár]|ter
+charter	nome masculino	[char]|ter
+chartreuse	nome masculino	char|treu|se

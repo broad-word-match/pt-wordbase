@@ -1,0 +1,100 @@
+cristícola	nome masculino	cris|[tí]|co|la
+cristícola	nome feminino	cris|[tí]|co|la
+cristífero	adjetivo	cris|[tí]|fe|ro
+cristificação	nome feminino	cris|ti|fi|ca|[ção]
+cristificar	verbo	cris|ti|fi|[car]
+cristinapolitano	adjetivo	cris|ti|na|po|li|[ta]|no
+cristinapolitano	nome masculino	cris|ti|na|po|li|[ta]|no
+cristino	adjetivo	cris|[ti]|no
+cristino	nome masculino	cris|[ti]|no
+cristo	nome masculino	[cris]|to
+cristofania	nome feminino	cris|to|fa|[ni]|a
+cristofle	nome masculino	cris|[to]|fle
+cristologia	nome feminino	cris|to|lo|[gi]|a
+cristológico	adjetivo	cris|to|[ló]|gi|co
+critério	nome masculino	cri|[té]|ri|o
+criteriologia	nome feminino	cri|te|ri|o|lo|[gi]|a
+criteriológico	adjetivo	cri|te|ri|o|[ló]|gi|co
+criteriosamente	advérbio	cri|te|ri|o|sa|[men]|te
+criterioso	adjetivo	cri|te|ri|[o]|so
+crítica	nome feminino	[crí]|ti|ca
+criticabilidade	nome feminino	cri|ti|ca|bi|li|[da]|de
+criticador	nome masculino	cri|ti|ca|[dor]
+criticamente	advérbio	cri|ti|ca|[men]|te
+criticante	nome masculino	cri|ti|[can]|te
+criticante	nome feminino	cri|ti|[can]|te
+criticante	adjetivo	cri|ti|[can]|te
+criticar	verbo	cri|ti|[car]
+criticaria	nome feminino	cri|ti|ca|[ri]|a
+criticastro	nome masculino	cri|ti|[cas]|tro
+criticável	adjetivo	cri|ti|[cá]|vel
+criticismo	nome masculino	cri|ti|[cis]|mo
+criticista	nome masculino	cri|ti|[cis]|ta
+criticista	adjetivo	cri|ti|[cis]|ta
+criticista	nome feminino	cri|ti|[cis]|ta
+crítico	nome masculino	[crí]|ti|co
+crítico	adjetivo	[crí]|ti|co
+crítico-literário	adjetivo	crí|ti|co-li|te|[rá]|ri|o
+crítico-social	adjetivo	crí|ti|co-so|ci|[al]
+criticofobia	nome feminino	cri|ti|co|fo|[bi]|a
+criticófobo	adjetivo	cri|ti|[có]|fo|bo
+criticófobo	nome masculino	cri|ti|[có]|fo|bo
+criticoide	nome masculino	cri|ti|[coi]|de
+criticoide	nome feminino	cri|ti|[coi]|de
+critiqueiro	nome masculino	cri|ti|[quei]|ro
+critiquice	nome feminino	cri|ti|[qui]|ce
+critófago	adjetivo	cri|[tó]|fa|go
+critomancia	nome feminino	cri|to|man|[ci]|a
+critomante	nome masculino	cri|to|[man]|te
+critomante	nome feminino	cri|to|[man]|te
+critomântico	adjetivo	cri|to|[mân]|ti|co
+criúva	nome feminino	cri|[ú]|va
+criva	nome feminino	[cri]|va
+crivação	nome feminino	cri|va|[ção]
+crivado	adjetivo	cri|[va]|do
+crivagem	nome feminino	cri|[va]|gem
+crivar	verbo	cri|[var]
+criveira	nome feminino	cri|[vei]|ra
+criveiro	nome masculino	cri|[vei]|ro
+crível	adjetivo	[crí]|vel
+criviforme	adjetivo	cri|vi|[for]|me
+crivo	nome masculino	[cri]|vo
+crivo-traqueano	adjetivo	cri|vo-tra|que|[a]|no
+crivoso	adjetivo	cri|[vo]|so
+crixá	adjetivo	cri|[xá]
+crixá	nome masculino	cri|[xá]
+cró	nome masculino	[cró]
+croá	nome masculino	cro|[á]
+croácia	nome feminino	cro|[á]|ci|a
+croácio	adjetivo	cro|[á]|ci|o
+croácio	nome masculino	cro|[á]|ci|o
+croata	nome masculino	cro|[a]|ta
+croata	adjetivo	cro|[a]|ta
+croata	nome feminino	cro|[a]|ta
+croático	nome masculino	cro|[á]|ti|co
+croça	nome feminino	[cro]|ça
+croca	nome feminino	[cro]|ca
+crocal	nome masculino	cro|[cal]
+crocálide	nome feminino	cro|[cá]|li|de
+crocante	adjetivo	cro|[can]|te
+croceína	nome feminino	cro|ce|[í]|na
+cróceo	adjetivo	[cró]|ce|o
+crochê	nome masculino	cro|[chê]
+croché	nome masculino	cro|[ché]
+crochet	nome masculino	cro|chet
+crócico	adjetivo	[cró]|ci|co
+crocidismo	nome masculino	cro|ci|[dis]|mo
+crocidolita	nome feminino	cro|ci|do|[li]|ta
+crocidolite	nome feminino	cro|ci|do|[li]|te
+crócino	adjetivo	[cró]|ci|no
+crocípede	adjetivo	cro|[cí]|pe|de
+crocitante	adjetivo	cro|ci|[tan]|te
+crocitar	verbo	cro|ci|[tar]
+crocito	nome masculino	cro|[ci]|to
+croco	nome masculino	[cro]|co
+crocodílida	nome masculino	cro|co|[dí]|li|da
+crocodílida	nome feminino	cro|co|[dí]|li|da
+crocodilídeo	adjetivo	cro|co|di|[lí]|de|o
+crocodilídeo	nome masculino	cro|co|di|[lí]|de|o
+crocodilídeo	nome masculino	cro|co|di|[lí]|de|o
+crocodilino	nome masculino	cro|co|di|[li]|no

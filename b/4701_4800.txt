@@ -1,0 +1,100 @@
+bispote	nome masculino	bis|[po]|te
+bispotear	verbo	bis|po|te|[ar]
+bispoteira	nome feminino	bis|po|[tei]|ra
+bisqueiro	nome masculino	bis|[quei]|ro
+bisquite	nome feminino	bis|[qui]|te
+bissa	nome feminino	[bis]|sa
+bissáceo	adjetivo	bis|[sá]|ce|o
+bissagó	adjetivo	bis|sa|[gó]
+bissagó	nome masculino	bis|sa|[gó]
+bissagó	nome feminino	bis|sa|[gó]
+bissanense	nome masculino	bis|sa|[nen]|se
+bissanense	adjetivo	bis|sa|[nen]|se
+bissanense	nome feminino	bis|sa|[nen]|se
+bissapa	nome feminino	bis|[sa]|pa
+bissauense	adjetivo	bis|sau|[en]|se
+bissauense	nome masculino	bis|sau|[en]|se
+bissauense	nome feminino	bis|sau|[en]|se
+bisseção	nome feminino	bis|se|[ção]
+bissecção	nome feminino	bis|sec|[ção]
+bissectar	verbo	bis|sec|[tar]
+bissector	adjetivo	bis|sec|[tor]
+bissector	nome masculino	bis|sec|[tor]
+bissectriz	nome feminino	bis|sec|[triz]
+bissecular	adjetivo	bis|se|cu|[lar]
+bissegmentação	nome feminino	bis|seg|men|ta|[ção]
+bissegmentado	adjetivo	bis|seg|men|[ta]|do
+bissegmentar	verbo	bis|seg|men|[tar]
+bissel	nome masculino	bis|[sel]
+bissélio	nome masculino	bis|[sé]|li|o
+bissemanal	adjetivo	bis|se|ma|[nal]
+bissemanalmente	advérbio	bis|se|ma|nal|[men]|te
+bissemanário	nome masculino	bis|se|ma|[ná]|ri|o
+bissemestral	adjetivo	bis|se|mes|[tral]
+bissemestralmente	advérbio	bis|se|mes|tral|[men]|te
+bisseriado	adjetivo	bis|se|ri|[a]|do
+bisseriar	verbo	bis|se|ri|[ar]
+bissetar	verbo	bis|se|[tar]
+bissetor	adjetivo	bis|se|[tor]
+bissetor	nome masculino	bis|se|[tor]
+bissetoso	adjetivo	bis|se|[to]|so
+bissetriz	nome feminino	bis|se|[triz]
+bissexo	adjetivo	bis|[se]|xo
+bissextil	adjetivo	bis|sex|[til]
+bissexto	nome masculino	bis|[sex]|to
+bissexto	adjetivo	bis|[sex]|to
+bissexuado	adjetivo	bis|se|xu|[a]|do
+bissexual	adjetivo	bis|se|xu|[al]
+bissexual	nome masculino	bis|se|xu|[al]
+bissexual	nome feminino	bis|se|xu|[al]
+bissexualidade	nome feminino	bis|se|xu|a|li|[da]|de
+bissexualmente	advérbio	bis|se|xu|al|[men]|te
+bissílabo	adjetivo	bis|[sí]|la|bo
+bissílabo	nome masculino	bis|[sí]|la|bo
+bissilão	nome masculino	bis|si|[lão]
+bissilicato	nome masculino	bis|si|li|[ca]|to
+bissinose	nome feminino	bis|si|[no]|se
+bissinuado	adjetivo	bis|si|nu|[a]|do
+bisso	nome masculino	[bis]|so
+bissógeno	adjetivo	bis|[só]|ge|no
+bissoide	adjetivo	bis|[soi]|de
+bíssono	adjetivo	[bís]|so|no
+bissulcado	adjetivo	bis|sul|[ca]|do
+bissulco	adjetivo	bis|[sul]|co
+bissulfato	nome masculino	bis|sul|[fa]|to
+bissulfito	nome masculino	bis|sul|[fi]|to
+bissulfureto	nome masculino	bis|sul|fu|[re]|to
+bissultor	nome masculino	bis|sul|[tor]
+bisteca	nome feminino	bis|[te]|ca
+bístone	adjetivo	[bís]|to|ne
+bístone	nome masculino	[bís]|to|ne
+bístone	nome feminino	[bís]|to|ne
+bistônio	adjetivo	bis|[tô]|ni|o
+bistónio	adjetivo	bis|[tó]|ni|o
+bistorta	nome feminino	bis|[tor]|ta
+bistrado	adjetivo	bis|[tra]|do
+bistre	nome masculino	[bis]|tre
+bisturi	nome masculino	bis|tu|[ri]
+bisturizar	verbo	bis|tu|ri|[zar]
+bit	nome masculino	[bit]
+bita	nome feminino	[bi]|ta
+bitacaia	nome feminino	bi|ta|[cai]|a
+bitácula	nome feminino	bi|[tá]|cu|la
+bitafe	nome masculino	bi|[ta]|fe
+bitar	verbo	bi|[tar]
+bite-bite	nome masculino	bi|te-bi|te
+bitegumentado	adjetivo	bi|te|gu|men|[ta]|do
+biteiro	nome masculino	bi|[tei]|ro
+bitemporal	adjetivo	bi|tem|po|[ral]
+bitêmpore	adjetivo	bi|[têm]|po|re
+biternado	adjetivo	bi|ter|[na]|do
+bitínio	adjetivo	bi|[tí]|ni|o
+bitínio	nome masculino	bi|[tí]|ni|o
+bitmap	nome masculino	[bit]|map
+bitocles	nome masculino	bi|[to]|cles
+bitola	nome feminino	bi|[to]|la
+bitolado	adjetivo	bi|to|[la]|do
+bitolar	verbo	bi|to|[lar]
+bitonal	adjetivo	bi|to|[nal]
+bitonalidade	nome feminino	bi|to|na|li|[da]|de
+bitonga	adjetivo	bi|[ton]|ga

@@ -1,0 +1,100 @@
+anapolino	adjetivo	a|na|po|[li]|no
+anapolitano	adjetivo	a|na|po|li|[ta]|no
+anapolitano	nome masculino	a|na|po|li|[ta]|no
+anaptíctico	adjetivo	a|nap|[tíc]|ti|co
+anaptisia	nome feminino	a|nap|ti|[si]|a
+anaptítico	adjetivo	a|nap|[tí]|ti|co
+anaptixe	nome feminino	a|nap|[ti]|xe
+anarca	adjetivo	a|[nar]|ca
+anarca	nome masculino	a|[nar]|ca
+anarca	nome feminino	a|[nar]|ca
+anarcossindicalismo	nome masculino	a|nar|cos|sin|di|ca|[lis]|mo
+anarcossindicalista	adjetivo	a|nar|cos|sin|di|ca|[lis]|ta
+anarcossindicalista	nome masculino	a|nar|cos|sin|di|ca|[lis]|ta
+anarcossindicalista	nome feminino	a|nar|cos|sin|di|ca|[lis]|ta
+anarcotina	nome feminino	a|nar|co|[ti]|na
+anárico	adjetivo	a|[ná]|ri|co
+anarmonicamente	advérbio	a|nar|mo|ni|ca|[men]|te
+anarmónico	adjetivo	a|nar|[mó]|ni|co
+anarmônico	adjetivo	a|nar|[mô]|ni|co
+anarmóstico	adjetivo	a|nar|[mós]|ti|co
+anarquia	nome feminino	a|nar|[qui]|a
+anarquicamente	advérbio	a|nar|qui|ca|[men]|te
+anárquico	adjetivo	a|[nár]|qui|co
+anarquismo	nome masculino	a|nar|[quis]|mo
+anarquista	adjetivo	a|nar|[quis]|ta
+anarquista	nome masculino	a|nar|[quis]|ta
+anarquista	nome feminino	a|nar|[quis]|ta
+anarquização	nome feminino	a|nar|qui|za|[ção]
+anarquizador	adjetivo	a|nar|qui|za|[dor]
+anarquizador	nome masculino	a|nar|qui|za|[dor]
+anarquizante	adjetivo	a|nar|qui|[zan]|te
+anarquizar	verbo	a|nar|qui|[zar]
+anarquizável	adjetivo	a|nar|qui|[zá]|vel
+anarreia	nome feminino	a|nar|[rei]|a
+anarreico	adjetivo	a|nar|[rei]|co
+anárrico	nome masculino	a|[nár]|ri|co
+anarte	adjetivo	a|[nar]|te
+anarte	nome masculino	a|[nar]|te
+anarte	nome feminino	a|[nar]|te
+anartria	nome feminino	a|nar|[tri]|a
+anartro	adjetivo	a|[nar]|tro
+anasarca	nome feminino	a|na|[sar]|ca
+anasárcico	adjetivo	a|na|[sár]|ci|co
+anasarco	adjetivo	a|na|[sar]|co
+anastaciana	nome feminino	a|nas|ta|ci|[a]|na
+anastaciano	nome masculino	a|nas|ta|ci|[a]|no
+anastaciano	adjetivo	a|nas|ta|ci|[a]|no
+anastácio	nome masculino	a|nas|[tá]|ci|o
+anastáltico	adjetivo	a|nas|[tál]|ti|co
+anastáltico	nome masculino	a|nas|[tál]|ti|co
+anástase	nome feminino	a|[nás]|ta|se
+anastaticamente	advérbio	a|nas|ta|ti|ca|[men]|te
+anastático	adjetivo	a|nas|[tá]|ti|co
+anastémone	nome feminino	a|nas|[té]|mo|ne
+anastêmone	nome feminino	a|nas|[tê]|mo|ne
+anastigmático	adjetivo	a|nas|tig|[má]|ti|co
+anastigmatismo	nome masculino	a|nas|tig|ma|[tis]|mo
+anástomo	adjetivo	a|[nás]|to|mo
+anástomo	nome masculino	a|[nás]|to|mo
+anastomosar	verbo	a|nas|to|mo|[sar]
+anastomose	nome feminino	a|nas|to|[mo]|se
+anastomótico	adjetivo	a|nas|to|[mó]|ti|co
+anástrofe	nome feminino	a|[nás]|tro|fe
+anastrofia	nome feminino	a|nas|tro|[fi]|a
+anastroficamente	advérbio	a|nas|tro|fi|ca|[men]|te
+anastrófico	adjetivo	a|nas|[tró]|fi|co
+anata	nome feminino	a|[na]|ta
+anatar	verbo	a|na|[tar]
+anátase	nome feminino	a|[ná]|ta|se
+anatásio	nome masculino	a|na|[tá]|si|o
+anateirado	adjetivo	a|na|tei|[ra]|do
+anateirar	verbo	a|na|tei|[rar]
+anátema	nome masculino	a|[ná]|te|ma
+anátema	adjetivo	a|[ná]|te|ma
+anatemático	adjetivo	a|na|te|[má]|ti|co
+anatematismo	nome masculino	a|na|te|ma|[tis]|mo
+anatematização	nome feminino	a|na|te|ma|ti|za|[ção]
+anatematizador	adjetivo	a|na|te|ma|ti|za|[dor]
+anatematizador	nome masculino	a|na|te|ma|ti|za|[dor]
+anatematizar	verbo	a|na|te|ma|ti|[zar]
+anatematizável	adjetivo	a|na|te|ma|ti|[zá]|vel
+anatexia	nome feminino	a|na|te|[xi]|a
+anátida	nome masculino	a|[ná]|ti|da
+anátida	adjetivo	a|[ná]|ti|da
+anátide	nome feminino	a|[ná]|ti|de
+anatídeo	nome masculino	a|na|[tí]|de|o
+anatídeo	adjetivo	a|na|[tí]|de|o
+anatílio	nome masculino	a|na|[tí]|li|o
+anatílio	adjetivo	a|na|[tí]|li|o
+anato	nome masculino	a|[na]|to
+anatocismo	nome masculino	a|na|to|[cis]|mo
+anatoliano	adjetivo	a|na|to|li|[a]|no
+anatoliano	nome masculino	a|na|to|li|[a]|no
+anatólico	adjetivo	a|na|[tó]|li|co
+anatólico	nome masculino	a|na|[tó]|li|co
+anatólio	adjetivo	a|na|[tó]|li|o
+anatólio	nome masculino	a|na|[tó]|li|o
+anatomia	nome feminino	a|na|to|[mi]|a
+anatómica	nome feminino	a|na|[tó]|mi|ca
+anatomicamente	advérbio	a|na|to|mi|ca|[men]|te

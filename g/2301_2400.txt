@@ -1,0 +1,100 @@
+geometrografia	nome feminino	ge|o|me|tro|gra|[fi]|a
+geometrográfico	adjetivo	ge|o|me|tro|[grá]|fi|co
+geomiídeo	nome masculino	ge|o|mi|[í]|de|o
+geomiídeo	nome masculino	ge|o|mi|[í]|de|o
+geomiídeo	adjetivo	ge|o|mi|[í]|de|o
+geomis	nome masculino	ge|o|[mis]
+geomofologia	nome feminino	ge|o|mo|fo|lo|[gi]|a
+geomorfogenia	nome feminino	ge|o|mor|fo|ge|[ni]|a
+geomorfogênico	adjetivo	ge|o|mor|fo|[gê]|ni|co
+geomorfogénico	adjetivo	ge|o|mor|fo|[gé]|ni|co
+geomorfografia	nome feminino	ge|o|mor|fo|gra|[fi]|a
+geomorfográfico	adjetivo	ge|o|mor|fo|[grá]|fi|co
+geomorfologia	nome feminino	ge|o|mor|fo|lo|[gi]|a
+geomorfológico	adjetivo	ge|o|mor|fo|[ló]|gi|co
+geomorfologista	nome masculino	ge|o|mor|fo|lo|[gis]|ta
+geomorfologista	nome feminino	ge|o|mor|fo|lo|[gis]|ta
+geomorfólogo	nome masculino	ge|o|mor|[fó]|lo|go
+geonemia	nome feminino	ge|o|ne|[mi]|a
+geonímia	nome feminino	ge|o|[ní]|mi|a
+geonímico	adjetivo	ge|o|[ní]|mi|co
+geônimo	nome masculino	ge|[ô]|ni|mo
+geónimo	nome masculino	ge|[ó]|ni|mo
+geonomástica	nome feminino	ge|o|no|[más]|ti|ca
+geonomia	nome feminino	ge|o|no|[mi]|a
+geonômico	adjetivo	ge|o|[nô]|mi|co
+geonómico	adjetivo	ge|o|[nó]|mi|co
+geoparque	nome masculino	ge|o|[par]|que
+geopiteco	nome masculino	ge|o|pi|[te]|co
+geoplanetologia	nome feminino	ge|o|pla|ne|to|lo|[gi]|a
+geoplanetológico	adjetivo	ge|o|pla|ne|to|[ló]|gi|co
+geopolítica	nome feminino	ge|o|po|[lí]|ti|ca
+geopolítico	adjetivo	ge|o|po|[lí]|ti|co
+geoponia	nome feminino	ge|o|po|[ni]|a
+geopônico	adjetivo	ge|o|[pô]|ni|co
+geopónico	adjetivo	ge|o|[pó]|ni|co
+geopsicologia	nome feminino	ge|op|si|co|lo|[gi]|a
+geoquímica	nome feminino	ge|o|[quí]|mi|ca
+geoquímico	adjetivo	ge|o|[quí]|mi|co
+georama	nome masculino	ge|o|[ra]|ma
+georgiana	nome feminino	ge|or|gi|[a]|na
+georgiano	nome masculino	ge|or|gi|[a]|no
+georgiano	adjetivo	ge|or|gi|[a]|no
+geórgica	nome feminino	ge|[ór]|gi|ca
+geórgico	adjetivo	ge|[ór]|gi|co
+georgina	nome feminino	ge|or|[gi]|na
+georgo	adjetivo	ge|[or]|go
+georgo	nome masculino	ge|[or]|go
+georreferência	nome feminino	ge|or|re|fe|[rên]|ci|a
+georreferenciação	nome feminino	ge|or|re|fe|ren|ci|a|[ção]
+georreferenciar	nome feminino	ge|or|re|fe|ren|ci|[ar]
+geoscopia	nome feminino	ge|os|co|[pi]|a
+geoscópico	adjetivo	ge|os|[có]|pi|co
+geóscopo	nome masculino	ge|[ós]|co|po
+geosfera	nome feminino	ge|os|[fe]|ra
+geosférico	adjetivo	ge|os|[fé]|ri|co
+geoso	adjetivo	ge|[o]|so
+geossauro	nome masculino	ge|os|[sau]|ro
+geossinclinal	nome masculino	ge|os|sin|cli|[nal]
+geossinclínico	adjetivo	ge|os|sin|[clí]|ni|co
+geostacionário	adjetivo	ge|os|ta|ci|o|[ná]|ri|o
+geostática	nome feminino	ge|os|[tá]|ti|ca
+geostático	adjetivo	ge|os|[tá]|ti|co
+geostratégia	nome feminino	ge|os|tra|[té]|gi|a
+geostratégico	adjetivo	ge|os|tra|[té]|gi|co
+geostrófico	adjetivo	ge|os|[tró]|fi|co
+geotáctico	adjetivo	ge|o|[tác]|ti|co
+geotactismo	nome masculino	ge|o|tac|[tis]|mo
+geotático	adjetivo	ge|o|[tá]|ti|co
+geotaxia	nome feminino	ge|o|ta|[xi]|a
+geotecnia	nome feminino	ge|o|tec|[ni]|a
+geotécnico	adjetivo	ge|o|[téc]|ni|co
+geotectônica	nome feminino	ge|o|tec|[tô]|ni|ca
+geotectónica	nome feminino	ge|o|tec|[tó]|ni|ca
+geotectônico	adjetivo	ge|o|tec|[tô]|ni|co
+geotectónico	adjetivo	ge|o|tec|[tó]|ni|co
+geotermal	adjetivo	ge|o|ter|[mal]
+geotermia	nome feminino	ge|o|ter|[mi]|a
+geotérmico	adjetivo	ge|o|[tér]|mi|co
+geotermismo	nome masculino	ge|o|ter|[mis]|mo
+geotermómetro	nome masculino	ge|o|ter|[mó]|me|tro
+geotermômetro	nome masculino	ge|o|ter|[mô]|me|tro
+geotrópico	adjetivo	ge|o|[tró]|pi|co
+geotropismo	nome masculino	ge|o|tro|[pis]|mo
+geótropo	nome masculino	ge|[ó]|tro|po
+geoxênio	nome masculino	ge|o|[xê]|ni|o
+geoxénio	nome masculino	ge|o|[xé]|ni|o
+gépida	adjetivo	[gé]|pi|da
+gépida	nome masculino	[gé]|pi|da
+gépida	nome feminino	[gé]|pi|da
+gepídico	adjetivo	ge|[pí]|di|co
+gera	nome feminino	[ge]|ra
+geração	nome feminino	ge|ra|[ção]
+geracional	adjetivo	ge|ra|ci|o|[nal]
+geradoiro	nome masculino	ge|ra|[doi]|ro
+gerador	adjetivo	ge|ra|[dor]
+gerador	nome masculino	ge|ra|[dor]
+geradora	nome feminino	ge|ra|[do]|ra
+geradouro	nome masculino	ge|ra|[dou]|ro
+geral	nome masculino	ge|[ral]
+geral	adjetivo	ge|[ral]

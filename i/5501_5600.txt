@@ -1,0 +1,100 @@
+internacionalidade	nome feminino	in|ter|na|ci|o|na|li|[da]|de
+internacionalismo	nome masculino	in|ter|na|ci|o|na|[lis]|mo
+internacionalista	nome masculino	in|ter|na|ci|o|na|[lis]|ta
+internacionalista	adjetivo	in|ter|na|ci|o|na|[lis]|ta
+internacionalista	nome feminino	in|ter|na|ci|o|na|[lis]|ta
+internacionalização	nome feminino	in|ter|na|ci|o|na|li|za|[ção]
+internacionalizador	adjetivo	in|ter|na|ci|o|na|li|za|[dor]
+internacionalizador	nome masculino	in|ter|na|ci|o|na|li|za|[dor]
+internacionalizar	verbo	in|ter|na|ci|o|na|li|[zar]
+internacionalizável	adjetivo	in|ter|na|ci|o|na|li|[zá]|vel
+internacionalmente	advérbio	in|ter|na|ci|o|nal|[men]|te
+internada	nome feminino	in|ter|[na]|da
+internado	adjetivo	in|ter|[na]|do
+internado	nome masculino	in|ter|[na]|do
+internalização	nome feminino	in|ter|na|li|za|[ção]
+internamente	advérbio	in|ter|na|[men]|te
+internamento	nome masculino	in|ter|na|[men]|to
+internar	verbo	in|ter|[nar]
+internato	nome masculino	in|ter|[na]|to
+internauta	nome masculino	in|ter|[nau]|ta
+internauta	nome feminino	in|ter|[nau]|ta
+internável	adjetivo	in|ter|[ná]|vel
+internet	nome feminino	in|ter|net
+internista	adjetivo	in|ter|[nis]|ta
+internista	nome masculino	in|ter|[nis]|ta
+internista	nome feminino	in|ter|[nis]|ta
+interno	adjetivo	in|[ter]|no
+interno	nome masculino	in|[ter]|no
+internodial	adjetivo	in|ter|no|di|[al]
+internódio	nome masculino	in|ter|[nó]|di|o
+internuclear	adjetivo	in|ter|nu|cle|[ar]
+internunciatura	nome feminino	in|ter|nun|ci|a|[tu]|ra
+internúncio	nome masculino	in|ter|[nún]|ci|o
+íntero-inferior	adjetivo	ín|te|ro-in|fe|ri|[or]
+íntero-posterior	adjetivo	ín|te|ro-pos|te|ri|[or]
+íntero-superior	adjetivo	ín|te|ro-su|pe|ri|[or]
+interoceânico	adjetivo	in|te|ro|ce|[â]|ni|co
+interoceptivo	adjetivo	in|te|ro|cep|[ti]|vo
+interoceptor	nome masculino	in|te|ro|cep|[tor]
+interocular	adjetivo	in|te|ro|cu|[lar]
+interoperabilidade	nome feminino	in|te|ro|pe|ra|bi|li|[da]|de
+interoposição	nome feminino	in|te|ro|po|si|[ção]
+interorgânico	adjetivo	in|te|ror|[gâ]|ni|co
+interósseo	adjetivo	in|te|[rós]|se|o
+interparietal	adjetivo	in|ter|pa|ri|e|[tal]
+interparlamentar	adjetivo	in|ter|par|la|men|[tar]
+interpartidário	adjetivo	in|ter|par|ti|[dá]|ri|o
+interpeciolar	adjetivo	in|ter|pe|ci|o|[lar]
+interpelação	nome feminino	in|ter|pe|la|[ção]
+interpelado	adjetivo	in|ter|pe|[la]|do
+interpelado	nome masculino	in|ter|pe|[la]|do
+interpelador	adjetivo	in|ter|pe|la|[dor]
+interpelador	nome masculino	in|ter|pe|la|[dor]
+interpeladora	nome feminino	in|ter|pe|la|[do]|ra
+interpelante	adjetivo	in|ter|pe|[lan]|te
+interpelante	nome masculino	in|ter|pe|[lan]|te
+interpelante	nome feminino	in|ter|pe|[lan]|te
+interpelar	verbo	in|ter|pe|[lar]
+interpelativo	adjetivo	in|ter|pe|la|[ti]|vo
+interpelável	adjetivo	in|ter|pe|[lá]|vel
+interpenetração	nome feminino	in|ter|pe|ne|tra|[ção]
+interpenetrar	verbo	in|ter|pe|ne|[trar]
+interpenetrável	adjetivo	in|ter|pe|ne|[trá]|vel
+interpeninsular	adjetivo	in|ter|pe|nin|su|[lar]
+interpersonalogia	nome feminino	in|ter|per|so|na|lo|[gi]|a
+interpessoal	adjetivo	in|ter|pes|so|[al]
+interpicar	verbo	in|ter|pi|[car]
+interplanetário	adjetivo	in|ter|pla|ne|[tá]|ri|o
+interpolação	nome feminino	in|ter|po|la|[ção]
+interpoladamente	advérbio	in|ter|po|la|da|[men]|te
+interpolado	adjetivo	in|ter|po|[la]|do
+interpolador	adjetivo	in|ter|po|la|[dor]
+interpolador	nome masculino	in|ter|po|la|[dor]
+interpolamento	nome masculino	in|ter|po|la|[men]|to
+interpolar	adjetivo	in|ter|po|[lar]
+interpolar	verbo	in|ter|po|[lar]
+interpolável	adjetivo	in|ter|po|[lá]|vel
+interponível	adjetivo	in|ter|po|[ní]|vel
+interpontuação	nome feminino	in|ter|pon|tu|a|[ção]
+interpor	verbo	in|ter|[por]
+interporto	nome masculino	in|ter|[por]|to
+interposição	nome feminino	in|ter|po|si|[ção]
+interpositiva	nome feminino	in|ter|po|si|[ti]|va
+interpositivo	adjetivo	in|ter|po|si|[ti]|vo
+interposto	adjetivo	in|ter|[pos]|to
+interposto	nome masculino	in|ter|[pos]|to
+interpotente	adjetivo	in|ter|po|[ten]|te
+interprender	verbo	in|ter|pren|[der]
+interpresa	nome feminino	in|ter|[pre]|sa
+interpresar	verbo	in|ter|pre|[sar]
+interpretação	nome feminino	in|ter|pre|ta|[ção]
+interpretador	adjetivo	in|ter|pre|ta|[dor]
+interpretador	nome masculino	in|ter|pre|ta|[dor]
+interpretadora	nome feminino	in|ter|pre|ta|[do]|ra
+interpretante	nome masculino	in|ter|pre|[tan]|te
+interpretante	adjetivo	in|ter|pre|[tan]|te
+interpretante	nome feminino	in|ter|pre|[tan]|te
+interpretar	verbo	in|ter|pre|[tar]
+interpretativamente	advérbio	in|ter|pre|ta|ti|va|[men]|te
+interpretativo	adjetivo	in|ter|pre|ta|[ti]|vo

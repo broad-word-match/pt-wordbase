@@ -1,0 +1,100 @@
+cenófobo	adjetivo	ce|[nó]|fo|bo
+cenófobo	nome masculino	ce|[nó]|fo|bo
+cenogastro	nome masculino	ce|no|[gas]|tro
+cenogénese	nome feminino	ce|no|[gé]|ne|se
+cenogênese	nome feminino	ce|no|[gê]|ne|se
+cenógono	adjetivo	ce|[nó]|go|no
+cenógrafa	nome feminino	ce|[nó]|gra|fa
+cenografia	nome feminino	ce|no|gra|[fi]|a
+cenograficamente	advérbio	ce|no|gra|fi|ca|[men]|te
+cenográfico	adjetivo	ce|no|[grá]|fi|co
+cenógrafo	nome masculino	ce|[nó]|gra|fo
+cenoira	nome feminino	ce|[noi]|ra
+cenologia	nome feminino	ce|no|lo|[gi]|a
+cenológico	adjetivo	ce|no|[ló]|gi|co
+cenomaniano	adjetivo	ce|no|ma|ni|[a]|no
+cenomano	adjetivo	ce|no|[ma]|no
+cenomano	nome masculino	ce|no|[ma]|no
+cenópode	nome masculino	ce|[nó]|po|de
+cenosárcio	nome masculino	ce|no|[sár]|ci|o
+cenoscópico	adjetivo	ce|nos|[có]|pi|co
+cenosidade	nome feminino	ce|no|si|[da]|de
+cenoso	adjetivo	ce|[no]|so
+cenossarco	nome masculino	ce|nos|[sar]|co
+cenotáfio	nome masculino	ce|no|[tá]|fi|o
+cenotoxina	nome feminino	ce|no|to|[xi]|na
+cenoura	nome feminino	ce|[nou]|ra
+cenoura	nome masculino	ce|[nou]|ra
+cenoura	adjetivo	ce|[nou]|ra
+cenozoico	adjetivo	ce|no|[zoi]|co
+cenrada	nome feminino	cen|[ra]|da
+cenradeiro	nome masculino	cen|ra|[dei]|ro
+cenreira	nome feminino	cen|[rei]|ra
+censatário	adjetivo	cen|sa|[tá]|ri|o
+censatário	nome masculino	cen|sa|[tá]|ri|o
+censionário	adjetivo	cen|si|o|[ná]|ri|o
+censionário	nome masculino	cen|si|o|[ná]|ri|o
+censitário	adjetivo	cen|si|[tá]|ri|o
+censitário	nome masculino	cen|si|[tá]|ri|o
+censítico	adjetivo	cen|[sí]|ti|co
+censo	nome masculino	[cen]|so
+censor	nome masculino	cen|[sor]
+censoria	nome feminino	cen|so|[ri]|a
+censorino	adjetivo	cen|so|[ri]|no
+censório	adjetivo	cen|[só]|ri|o
+censual	adjetivo	cen|su|[al]
+censual	nome masculino	cen|su|[al]
+censualista	nome masculino	cen|su|a|[lis]|ta
+censualmente	advérbio	cen|su|al|[men]|te
+censuário	nome masculino	cen|su|[á]|ri|o
+censuário	adjetivo	cen|su|[á]|ri|o
+censuísta	nome masculino	cen|su|[ís]|ta
+censuísta	nome feminino	cen|su|[ís]|ta
+censura	nome feminino	cen|[su]|ra
+censurabilidade	nome feminino	cen|su|ra|bi|li|[da]|de
+censurador	adjetivo	cen|su|ra|[dor]
+censurador	nome masculino	cen|su|ra|[dor]
+censurar	verbo	cen|su|[rar]
+censurável	adjetivo	cen|su|[rá]|vel
+cent	nome masculino	[cent]
+centafolho	nome masculino	cen|ta|[fo]|lho
+centão	nome masculino	cen|[tão]
+centáurea	nome feminino	cen|[táu]|re|a
+centáurea-maior	nome feminino	cen|táu|re|a-mai|or
+centáurea-menor	nome feminino	cen|táu|re|a-me|nor
+centáurea-menor-perfolhada	nome feminino	cen|táu|re|a-me|nor-per|fo|lha|da
+centáureo	adjetivo	cen|[táu]|re|o
+centáurico	adjetivo	cen|[táu]|ri|co
+centaurina	nome feminino	cen|tau|[ri]|na
+centauro	nome masculino	cen|[tau]|ro
+centavo	nome masculino	cen|[ta]|vo
+centeal	nome masculino	cen|te|[al]
+centeeira	adjetivo	cen|te|[ei]|ra
+centeeira	nome feminino	cen|te|[ei]|ra
+centeeiro	adjetivo	cen|te|[ei]|ro
+centeeiro	nome masculino	cen|te|[ei]|ro
+centeio	adjetivo	cen|[tei]|o
+centeio	nome masculino	cen|[tei]|o
+centelha	nome feminino	cen|[te]|lha
+centelhante	adjetivo	cen|te|[lhan]|te
+centelhar	verbo	cen|te|[lhar]
+centena	nome feminino	cen|[te]|na
+centenar	adjetivo	cen|te|[nar]
+centenar	nome masculino	cen|te|[nar]
+centenária	nome feminino	cen|te|[ná]|ri|a
+centenário	nome masculino	cen|te|[ná]|ri|o
+centenário	adjetivo	cen|te|[ná]|ri|o
+centenarista	adjetivo	cen|te|na|[ris]|ta
+centenarista	nome masculino	cen|te|na|[ris]|ta
+centenarista	nome feminino	cen|te|na|[ris]|ta
+centenilha	nome feminino	cen|te|[ni]|lha
+centenilho	nome masculino	cen|te|[ni]|lho
+centeninho	nome masculino	cen|te|[ni]|nho
+centénio	nome masculino	cen|[té]|ni|o
+centênio	nome masculino	cen|[tê]|ni|o
+centenoso	adjetivo	cen|te|[no]|so
+centesimal	adjetivo	cen|te|si|[mal]
+centésimo	número fraccional	cen|[té]|si|mo
+centésimo	nome masculino	cen|[té]|si|mo
+centésimo	número ordinal	cen|[té]|si|mo
+centésimo	adjetivo	cen|[té]|si|mo

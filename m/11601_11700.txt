@@ -1,0 +1,100 @@
+murraça	nome feminino	mur|[ra]|ça
+murre-murre	nome masculino	mur|re-mur|re
+múrrino	adjetivo	[múr]|ri|no
+murro	nome masculino	[mur]|ro
+murrondo	nome masculino	mur|[ron]|do
+murta	nome feminino	[mur]|ta
+murtáceo	adjetivo	mur|[tá]|ce|o
+murtal	nome masculino	mur|[tal]
+murtefuge	nome masculino	mur|te|[fu]|ge
+murteira	nome feminino	mur|[tei]|ra
+murteiro	nome masculino	mur|[tei]|ro
+murtila	nome feminino	mur|[ti]|la
+murtinheira	nome feminino	mur|ti|[nhei]|ra
+murtinho	nome masculino	mur|[ti]|nho
+murtoseira	nome feminino	mur|to|[sei]|ra
+murtoseiro	adjetivo	mur|to|[sei]|ro
+murtoseiro	nome masculino	mur|to|[sei]|ro
+murtosense	adjetivo	mur|to|[sen]|se
+murtosense	nome masculino	mur|to|[sen]|se
+murtosense	nome feminino	mur|to|[sen]|se
+muru	nome masculino	mu|[ru]
+muruanha	nome feminino	mu|ru|[a]|nha
+muruca	nome feminino	mu|[ru]|ca
+murucu	nome masculino	mu|ru|[cu]
+muruçuca	nome feminino	mu|ru|[çu]|ca
+murucucu	nome masculino	mu|ru|cu|[cu]
+murucututu	nome masculino	mu|ru|cu|tu|[tu]
+murugem	nome feminino	mu|[ru]|gem
+murum	adjetivo	mu|[rum]
+murumuru	nome masculino	mu|ru|mu|[ru]
+murumuxaua	nome masculino	mu|ru|mu|[xau]|a
+murundu	nome masculino	mu|run|[du]
+murupamiri	nome masculino	mu|ru|pa|mi|[ri]
+murupaúba	nome feminino	mu|ru|pa|[ú]|ba
+murupi	nome masculino	mu|ru|[pi]
+mururé	nome masculino	mu|ru|[ré]
+mururu	nome masculino	mu|ru|[ru]
+muruti	nome masculino	mu|ru|[ti]
+murutizeiro	nome masculino	mu|ru|ti|[zei]|ro
+murutucu	nome masculino	mu|ru|tu|[cu]
+murzá	nome masculino	mur|[zá]
+murzela	nome feminino	mur|[ze]|la
+murzelo	nome masculino	mur|[ze]|lo
+murzelo	adjetivo	mur|[ze]|lo
+mus	nome masculino	[mus]
+musa	nome feminino	[mu]|sa
+musácea	nome feminino	mu|[sá]|ce|a
+musáceo	adjetivo	mu|[sá]|ce|o
+muságeta	adjetivo	mu|[sá]|ge|ta
+musal	adjetivo	mu|[sal]
+musaranho	nome masculino	mu|sa|[ra]|nho
+muscadínea	nome feminino	mus|ca|[dí]|ne|a
+muscardina	nome feminino	mus|car|[di]|na
+muscardínico	adjetivo	mus|car|[dí]|ni|co
+muscari	nome masculino	mus|ca|[ri]
+muscarina	nome feminino	mus|ca|[ri]|na
+muscarínico	adjetivo	mus|ca|[rí]|ni|co
+muscicápida	nome masculino	mus|ci|[cá]|pi|da
+muscicápida	nome masculino	mus|ci|[cá]|pi|da
+muscicapídeo	adjetivo	mus|ci|ca|[pí]|de|o
+muscicapídeo	nome masculino	mus|ci|ca|[pí]|de|o
+muscicapídeo	nome masculino	mus|ci|ca|[pí]|de|o
+muscícola	adjetivo	mus|[cí]|co|la
+múscida	nome masculino	[mús]|ci|da
+múscida	nome masculino	[mús]|ci|da
+muscídeo	adjetivo	mus|[cí]|de|o
+muscídeo	nome masculino	mus|[cí]|de|o
+muscídeo	nome masculino	mus|[cí]|de|o
+musciforme	adjetivo	mus|ci|[for]|me
+muscínea	nome feminino	mus|[cí]|ne|a
+muscíneo	adjetivo	mus|[cí]|ne|o
+muscívoro	adjetivo	mus|[cí]|vo|ro
+musco	nome masculino	[mus]|co
+muscófilo	adjetivo	mus|[có]|fi|lo
+muscoide	adjetivo	mus|[coi]|de
+muscologia	nome feminino	mus|co|lo|[gi]|a
+muscológico	adjetivo	mus|co|[ló]|gi|co
+muscologista	nome masculino	mus|co|lo|[gis]|ta
+muscologista	nome feminino	mus|co|lo|[gis]|ta
+muscólogo	nome masculino	mus|[có]|lo|go
+muscoso	adjetivo	mus|[co]|so
+muscovita	nome feminino	mus|co|[vi]|ta
+musculação	nome feminino	mus|cu|la|[ção]
+musculado	adjetivo	mus|cu|[la]|do
+muscular	verbo	mus|cu|[lar]
+muscular	adjetivo	mus|cu|[lar]
+muscularidade	nome feminino	mus|cu|la|ri|[da]|de
+muscularmente	advérbio	mus|cu|lar|[men]|te
+musculatura	nome feminino	mus|cu|la|[tu]|ra
+musculina	nome feminino	mus|cu|[li]|na
+músculo	nome masculino	[mús]|cu|lo
+musculoadiposo	adjetivo	mus|cu|lo|a|di|[po]|so
+musculocartilaginoso	adjetivo	mus|cu|lo|car|ti|la|gi|[no]|so
+musculodérmico	adjetivo	mus|cu|lo|[dér]|mi|co
+musculomembranoso	adjetivo	mus|cu|lo|mem|bra|[no]|so
+musculosidade	nome feminino	mus|cu|lo|si|[da]|de
+musculoso	adjetivo	mus|cu|[lo]|so
+musculosquelético	adjetivo	mus|cu|los|que|[lé]|ti|co
+musealização	nome feminino	mu|se|a|li|za|[ção]
+musealizado	adjetivo	mu|se|a|li|[za]|do

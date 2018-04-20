@@ -1,0 +1,100 @@
+i	advérbio	[i]
+iá	nome masculino	i|[á]
+iaçá	nome masculino	i|a|[çá]
+iaca	nome feminino	i|[a]|ca
+iacu	nome masculino	i|a|[cu]
+iacuto	adjetivo	i|a|[cu]|to
+iacuto	nome masculino	i|a|[cu]|to
+iaga	nome feminino	i|[a]|ga
+iaiá	nome feminino	i|ai|[á]
+iam-chá	nome masculino	i|am-chá
+iambelegíaco	adjetivo	i|am|be|le|[gí]|a|co
+iâmbico	adjetivo	i|[âm]|bi|co
+iâmbico-trocaico	adjetivo	i|âm|bi|co-tro|[cai]|co
+iambo	nome masculino	i|[am]|bo
+iambográfico	adjetivo	i|am|bo|[grá]|fi|co
+iambógrafo	nome masculino	i|am|[bó]|gra|fo
+iamologia	nome feminino	i|a|mo|lo|[gi]|a
+iamológico	adjetivo	i|a|mo|[ló]|gi|co
+iamotecnia	nome feminino	i|a|mo|tec|[ni]|a
+iamotécnico	adjetivo	i|a|mo|[téc]|ni|co
+ianomâmi	nome feminino	i|a|no|[mâ]|mi
+ianomâmi	nome masculino	i|a|no|[mâ]|mi
+ianomâmi	adjetivo	i|a|no|[mâ]|mi
+ianque	adjetivo	i|[an]|que
+ianque	nome masculino	i|[an]|que
+ianque	nome feminino	i|[an]|que
+ianquismo	nome masculino	i|an|[quis]|mo
+iântino	adjetivo	i|[ân]|ti|no
+iantra	nome masculino	i|[an]|tra
+ião	nome masculino	i|[ão]
+iao	nome masculino	i|[ao]
+iápide	adjetivo	i|[á]|pi|de
+iápide	nome masculino	i|[á]|pi|de
+iápide	nome feminino	i|[á]|pi|de
+iapígio	adjetivo	i|a|[pí]|gi|o
+iapígio	nome masculino	i|a|[pí]|gi|o
+iapoque	nome masculino	i|a|[po]|que
+iapu	nome masculino	i|a|[pu]
+iapuçá	nome masculino	i|a|pu|[çá]
+iaque	nome masculino	i|[a]|que
+iara	nome feminino	i|[a]|ra
+iássio	adjetivo	i|[ás]|si|o
+iássio	nome masculino	i|[ás]|si|o
+iatagã	nome masculino	i|a|ta|[gã]
+iataí	nome masculino	i|a|ta|[í]
+iatai	nome masculino	i|a|[tai]
+iate	nome masculino	i|[a]|te
+iatismo	nome masculino	i|a|[tis]|mo
+iatista	adjetivo	i|a|[tis]|ta
+iatista	nome masculino	i|a|[tis]|ta
+iatista	nome feminino	i|a|[tis]|ta
+iatralipta	nome masculino	i|a|tra|[lip]|ta
+iatralipta	nome feminino	i|a|tra|[lip]|ta
+iatralíptica	nome feminino	i|a|tra|[líp]|ti|ca
+iatralíptico	adjetivo	i|a|tra|[líp]|ti|co
+iatreu	nome masculino	i|a|[treu]
+iatria	nome feminino	i|a|[tri]|a
+iátrica	nome feminino	i|[á]|tri|ca
+iátrico	adjetivo	i|[á]|tri|co
+iatrofísica	nome feminino	i|a|tro|[fí]|si|ca
+iatrofísico	adjetivo	i|a|tro|[fí]|si|co
+iatrofísico	nome masculino	i|a|tro|[fí]|si|co
+iatrogenia	nome feminino	i|a|tro|ge|[ni]|a
+iatrogénico	adjetivo	i|a|tro|[gé]|ni|co
+iatrogênico	adjetivo	i|a|tro|[gê]|ni|co
+iatrografia	nome feminino	i|a|tro|gra|[fi]|a
+iatrográfico	adjetivo	i|a|tro|[grá]|fi|co
+iatrógrafo	nome masculino	i|a|[tró]|gra|fo
+iatrologia	nome feminino	i|a|tro|lo|[gi]|a
+iatrológico	adjetivo	i|a|tro|[ló]|gi|co
+iatromancia	nome feminino	i|a|tro|man|[ci]|a
+iatromante	nome masculino	i|a|tro|[man]|te
+iatromante	nome feminino	i|a|tro|[man]|te
+iatromântico	adjetivo	i|a|tro|[mân]|ti|co
+iatromatemática	nome feminino	i|a|tro|ma|te|[má]|ti|ca
+iatromatemático	adjetivo	i|a|tro|ma|te|[má]|ti|co
+iatromecânica	nome feminino	i|a|tro|me|[câ]|ni|ca
+iatromecânico	adjetivo	i|a|tro|me|[câ]|ni|co
+iatromecanismo	nome masculino	i|a|tro|me|ca|[nis]|mo
+iatroquímica	nome feminino	i|a|tro|[quí]|mi|ca
+iatroquímico	nome masculino	i|a|tro|[quí]|mi|co
+iatroquímico	adjetivo	i|a|tro|[quí]|mi|co
+iaveísta	adjetivo	i|a|ve|[ís]|ta
+iaveísta	nome masculino	i|a|ve|[ís]|ta
+iaveísta	nome feminino	i|a|ve|[ís]|ta
+iaxâmata	adjetivo	i|a|[xâ]|ma|ta
+iaxâmata	nome masculino	i|a|[xâ]|ma|ta
+iaxâmata	nome feminino	i|a|[xâ]|ma|ta
+iazele	adjetivo	i|a|[ze]|le
+iázige	adjetivo	i|[á]|zi|ge
+iázige	nome masculino	i|[á]|zi|ge
+iázige	nome feminino	i|[á]|zi|ge
+iba	nome feminino	[i]|ba
+ibabiraba	nome feminino	i|ba|bi|[ra]|ba
+ibacurupari	nome feminino	i|ba|cu|ru|pa|[ri]
+ibapuringa	nome feminino	i|ba|pu|[rin]|ga
+ibera	nome feminino	i|[be]|ra
+ibéria	nome feminino	i|[bé]|ri|a
+iberíaco	adjetivo	i|be|[rí]|a|co
+ibérica	nome feminino	i|[bé]|ri|ca

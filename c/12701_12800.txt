@@ -1,0 +1,100 @@
+colocado	adjetivo	co|lo|[ca]|do
+colocador	nome masculino	co|lo|ca|[dor]
+colocadora	nome feminino	co|lo|ca|[do]|ra
+colocar	verbo	co|lo|[car]
+colocásia	nome feminino	co|lo|[cá]|si|a
+colocável	adjetivo	co|lo|[cá]|vel
+colocíntida	nome feminino	co|lo|[cín]|ti|da
+colocíntide	nome feminino	co|lo|[cín]|ti|de
+colocutor	nome masculino	co|lo|cu|[tor]
+colódio	nome masculino	co|[ló]|di|o
+colofanite	nome feminino	co|lo|fa|[ni]|te
+colofão	nome masculino	co|lo|[fão]
+cólofon	nome masculino	[có]|lo|fon
+colofônia	nome feminino	co|lo|[fô]|ni|a
+colofónia	nome feminino	co|lo|[fó]|ni|a
+colofônio	nome masculino	co|lo|[fô]|ni|o
+colofônio	adjetivo	co|lo|[fô]|ni|o
+colofónio	adjetivo	co|lo|[fó]|ni|o
+colofónio	nome masculino	co|lo|[fó]|ni|o
+cologaritmo	nome masculino	co|lo|ga|[rit]|mo
+coloidal	adjetivo	co|loi|[dal]
+coloide	nome masculino	co|[loi]|de
+coloide	adjetivo	co|[loi]|de
+coloidina	nome feminino	co|loi|[di]|na
+colombense	nome masculino	co|lom|[ben]|se
+colombense	adjetivo	co|lom|[ben]|se
+colombense	nome feminino	co|lom|[ben]|se
+colombiana	nome feminino	co|lom|bi|[a]|na
+colombiano	adjetivo	co|lom|bi|[a]|no
+colombiano	nome masculino	co|lom|bi|[a]|no
+colombina	nome feminino	co|lom|[bi]|na
+colombino	adjetivo	co|lom|[bi]|no
+colômbio	nome masculino	co|[lôm]|bi|o
+colombo	nome masculino	co|[lom]|bo
+colombro	nome masculino	co|[lom]|bro
+colometria	nome feminino	co|lo|me|[tri]|a
+colométrico	adjetivo	co|lo|[mé]|tri|co
+colomi	nome masculino	co|lo|[mi]
+colón	nome masculino	co|[lón]
+cólon	nome masculino	[có]|lon
+colon	nome masculino	co|[lon]
+colona	nome feminino	co|[lo]|na
+colonato	nome masculino	co|lo|[na]|to
+colondro	nome masculino	co|[lon]|dro
+coloneu	nome masculino	co|lo|[neu]
+coloneu	adjetivo	co|lo|[neu]
+colônia	nome feminino	co|[lô]|ni|a
+colónia	nome feminino	co|[ló]|ni|a
+colonia	nome feminino	co|lo|[ni]|a
+colonial	nome masculino	co|lo|ni|[al]
+colonial	adjetivo	co|lo|ni|[al]
+colonial	nome feminino	co|lo|ni|[al]
+colonialismo	nome masculino	co|lo|ni|a|[lis]|mo
+colonialista	adjetivo	co|lo|ni|a|[lis]|ta
+colonialista	nome masculino	co|lo|ni|a|[lis]|ta
+colonialista	nome feminino	co|lo|ni|a|[lis]|ta
+colonialístico	adjetivo	co|lo|ni|a|[lís]|ti|co
+colonialmente	advérbio	co|lo|ni|al|[men]|te
+coloniana	nome feminino	co|lo|ni|[a]|na
+coloniano	adjetivo	co|lo|ni|[a]|no
+coloniano	nome masculino	co|lo|ni|[a]|no
+colônico	adjetivo	co|[lô]|ni|co
+colónico	adjetivo	co|[ló]|ni|co
+colonismo	nome masculino	co|lo|[nis]|mo
+colonista	nome masculino	co|lo|[nis]|ta
+colonista	nome feminino	co|lo|[nis]|ta
+colonizabilidade	nome feminino	co|lo|ni|za|bi|li|[da]|de
+colonização	nome feminino	co|lo|ni|za|[ção]
+colonizador	adjetivo	co|lo|ni|za|[dor]
+colonizador	nome masculino	co|lo|ni|za|[dor]
+colonizadora	nome feminino	co|lo|ni|za|[do]|ra
+colonizante	adjetivo	co|lo|ni|[zan]|te
+colonizar	verbo	co|lo|ni|[zar]
+colonizável	adjetivo	co|lo|ni|[zá]|vel
+colono	nome masculino	co|[lo]|no
+colonoscopia	nome feminino	co|lo|nos|co|[pi]|a
+colonoscópico	adjetivo	co|lo|nos|[có]|pi|co
+colonoscópio	nome masculino	co|lo|nos|[có]|pi|o
+colopatia	nome feminino	co|lo|pa|[ti]|a
+colopático	adjetivo	co|lo|[pá]|ti|co
+colopéctico	adjetivo	co|lo|[péc]|ti|co
+colopético	adjetivo	co|lo|[pé]|ti|co
+colopexia	nome feminino	co|lo|pe|[xi]|a
+colopéxico	adjetivo	co|lo|[pé]|xi|co
+coloquial	adjetivo	co|lo|qui|[al]
+coloquialidade	nome feminino	co|lo|qui|a|li|[da]|de
+coloquialismo	nome masculino	co|lo|qui|a|[lis]|mo
+coloquialista	adjetivo	co|lo|qui|a|[lis]|ta
+coloquialista	nome masculino	co|lo|qui|a|[lis]|ta
+coloquialista	nome feminino	co|lo|qui|a|[lis]|ta
+coloquialístico	adjetivo	co|lo|qui|a|[lís]|ti|co
+coloquiar	verbo	co|lo|qui|[ar]
+coloquíntide	nome feminino	co|lo|[quín]|ti|de
+colóquio	nome masculino	co|[ló]|qui|o
+color	nome masculino	co|[lor]
+coloração	nome feminino	co|lo|ra|[ção]
+colorado	adjetivo	co|lo|[ra]|do
+colorante	adjetivo	co|lo|[ran]|te
+colorar	verbo	co|lo|[rar]
+coloratura	nome feminino	co|lo|ra|tu|ra

@@ -1,0 +1,100 @@
+viandar	verbo	vi|an|[dar]
+viandeira	nome feminino	vi|an|[dei]|ra
+viandeiro	adjetivo	vi|an|[dei]|ro
+viandeiro	nome masculino	vi|an|[dei]|ro
+vianense	adjetivo	vi|a|[nen]|se
+vianense	nome masculino	vi|a|[nen]|se
+vianense	nome feminino	vi|a|[nen]|se
+vianês	adjetivo	vi|a|[nês]
+vianês	nome masculino	vi|a|[nês]
+vianesa	nome feminino	vi|a|[ne]|sa
+vianinha	nome feminino	vi|a|[ni]|nha
+viante	nome masculino	vi|[an]|te
+viário	adjetivo	vi|[á]|ri|o
+viário	nome masculino	vi|[á]|ri|o
+viasca	nome feminino	vi|[as]|ca
+viaticação	nome feminino	vi|a|ti|ca|[ção]
+viaticar	verbo	vi|a|ti|[car]
+viático	nome masculino	vi|[á]|ti|co
+viatório	adjetivo	vi|a|[tó]|ri|o
+viatura	nome feminino	vi|a|[tu]|ra
+viável	adjetivo	vi|[á]|vel
+viba	nome feminino	[vi]|ba
+vibice	nome feminino	vi|[bi]|ce
+vibinate	adjetivo	vi|bi|[na]|te
+vibinate	nome masculino	vi|bi|[na]|te
+vibinate	nome feminino	vi|bi|[na]|te
+vibonense	adjetivo	vi|bo|[nen]|se
+vibonense	nome masculino	vi|bo|[nen]|se
+vibonense	nome feminino	vi|bo|[nen]|se
+víbora	nome feminino	[ví]|bo|ra
+víbora-cornuda	nome feminino	ví|bo|ra-cor|[nu]|da
+vibordo	nome masculino	vi|[bor]|do
+vibração	nome feminino	vi|bra|[ção]
+vibrador	nome masculino	vi|bra|[dor]
+vibrador	adjetivo	vi|bra|[dor]
+vibrafone	nome masculino	vi|bra|[fo]|ne
+vibrafonista	adjetivo	vi|bra|fo|[nis]|ta
+vibrafonista	nome masculino	vi|bra|fo|[nis]|ta
+vibrafonista	nome feminino	vi|bra|fo|[nis]|ta
+vibrante	nome feminino	vi|[bran]|te
+vibrante	adjetivo	vi|[bran]|te
+vibrantemente	advérbio	vi|bran|te|[men]|te
+vibrar	verbo	vi|[brar]
+vibrátil	adjetivo	vi|[brá]|til
+vibratilidade	nome feminino	vi|bra|ti|li|[da]|de
+vibrato	nome masculino	vi|[bra]|to
+vibratoriamente	advérbio	vi|bra|to|ri|a|[men]|te
+vibratório	adjetivo	vi|bra|[tó]|ri|o
+vibrável	adjetivo	vi|[brá]|vel
+vibrião	nome masculino	vi|bri|[ão]
+vibrioniano	adjetivo	vi|bri|o|ni|[a]|no
+vibrissa	nome feminino	vi|[bris]|sa
+vibrissas	nome feminino	vi|[bris]|sas
+vibroscópico	adjetivo	vi|bros|[có]|pi|co
+vibroscópio	nome masculino	vi|bros|[có]|pi|o
+viburguês	adjetivo	vi|bur|[guês]
+viburguês	nome masculino	vi|bur|[guês]
+viburnácea	nome feminino	vi|bur|[ná]|ce|a
+vibúrnea	nome feminino	vi|[búr]|ne|a
+viburnina	nome feminino	vi|bur|[ni]|na
+viburno	nome masculino	vi|[bur]|no
+vicácia	nome feminino	vi|[cá]|ci|a
+viçar	verbo	vi|[çar]
+vicarial	adjetivo	vi|ca|ri|[al]
+vicariante	adjetivo	vi|ca|ri|[an]|te
+vicariato	nome masculino	vi|ca|ri|[a]|to
+vicariedade	nome feminino	vi|ca|ri|e|[da]|de
+vicário	adjetivo	vi|[cá]|ri|o
+vicário	nome masculino	vi|[cá]|ri|o
+vice-almirantado	nome masculino	vi|ce-al|mi|ran|[ta]|do
+vice-almirante	nome masculino	vi|ce-al|mi|[ran]|te
+vice-almirante	nome feminino	vi|ce-al|mi|[ran]|te
+vice-bailio	nome masculino	vi|ce-bai|[li]|o
+vice-camarlengo	nome masculino	vi|ce-ca|mar|[len]|go
+vice-campeã	nome feminino	vi|ce-cam|pe|[ã]
+vice-campeão	adjetivo	vi|ce-cam|pe|[ão]
+vice-campeão	nome masculino	vi|ce-cam|pe|[ão]
+vice-campeonato	nome masculino	vi|ce-cam|pe|o|[na]|to
+vice-cerimoniário	nome masculino	vi|ce-ce|ri|mo|ni|[á]|ri|o
+vice-chanceler	nome masculino	vi|ce-chan|ce|[ler]
+vice-chanceler	nome feminino	vi|ce-chan|ce|[ler]
+vice-chefe	nome masculino	vi|ce-che|fe
+vice-chefe	nome feminino	vi|ce-che|fe
+vice-chefia	nome feminino	vi|ce-che|[fi]|a
+vice-colector	nome masculino	vi|ce-co|lec|[tor]
+vice-coletor	nome masculino	vi|ce-co|le|[tor]
+vice-comandante	nome masculino	vi|ce-co|man|[dan]|te
+vice-comandante	nome feminino	vi|ce-co|man|[dan]|te
+vice-comissária	nome feminino	vi|ce-co|mis|[sá]|ri|a
+vice-comissariado	nome masculino	vi|ce-co|mis|sa|ri|[a]|do
+vice-comissário	nome masculino	vi|ce-co|mis|[sá]|ri|o
+vice-cônsul	nome masculino	vi|ce-côn|sul
+vice-cônsul	nome feminino	vi|ce-côn|sul
+vice-consulado	nome masculino	vi|ce-con|su|[la]|do
+vice-consular	adjetivo	vi|ce-con|su|[lar]
+vice-consulesa	nome feminino	vi|ce-con|su|[le]|sa
+vice-decano	nome masculino	vi|ce-de|[ca]|no
+vice-direção	nome feminino	vi|ce-di|re|[ção]
+vice-diretor	nome masculino	vi|ce-di|re|[tor]
+vice-diretora	nome feminino	vi|ce-di|re|[to]|ra

@@ -1,0 +1,100 @@
+lambedela	nome feminino	lam|be|[de]|la
+lambedor	adjetivo	lam|be|[dor]
+lambedor	nome masculino	lam|be|[dor]
+lambedora	nome feminino	lam|be|[do]|ra
+lambedura	nome feminino	lam|be|[du]|ra
+lambefe	nome masculino	lam|[be]|fe
+lambeiro	adjetivo	lam|[bei]|ro
+lambeiro	nome masculino	lam|[bei]|ro
+lambel	nome masculino	lam|[bel]
+lamber	verbo	lam|[ber]
+lambert	nome masculino	lam|bert
+lambeta	nome feminino	lam|[be]|ta
+lambida	nome feminino	lam|[bi]|da
+lambidela	nome feminino	lam|bi|[de]|la
+lambido	adjetivo	lam|[bi]|do
+lambiscar	verbo	lam|bis|[car]
+lambisco	nome masculino	lam|[bis]|co
+lambisgoia	nome feminino	lam|bis|[goi]|a
+lambisqueira	nome feminino	lam|bis|[quei]|ra
+lambisqueiro	adjetivo	lam|bis|[quei]|ro
+lambisqueiro	nome masculino	lam|bis|[quei]|ro
+lambona	nome feminino	lam|[bo]|na
+lambrequim	nome masculino	lam|bre|[quim]
+lambrequinado	adjetivo	lam|bre|qui|[na]|do
+lambreta	nome feminino	lam|[bre]|ta
+lambri	nome masculino	lam|[bri]
+lambril	nome masculino	lam|[bril]
+lambrim	nome masculino	lam|[brim]
+lambrizar	verbo	lam|bri|[zar]
+lambuça	nome feminino	lam|[bu]|ça
+lambuçadela	nome feminino	lam|bu|ça|[de]|la
+lambuçar	verbo	lam|bu|[çar]
+lambugem	nome feminino	lam|[bu]|gem
+lambuja	nome feminino	lam|[bu]|ja
+lambujar	verbo	lam|bu|[jar]
+lambujeira	nome feminino	lam|bu|[jei]|ra
+lambujeiro	adjetivo	lam|bu|[jei]|ro
+lambujeiro	nome masculino	lam|bu|[jei]|ro
+lambujem	nome feminino	lam|[bu]|jem
+lambuzada	nome feminino	lam|bu|[za]|da
+lambuzadela	nome feminino	lam|bu|za|[de]|la
+lambuzado	adjetivo	lam|bu|[za]|do
+lambuzar	verbo	lam|bu|[zar]
+lamê	adjetivo	la|[mê]
+lamê	nome masculino	la|[mê]
+lamé	nome masculino	la|mé
+lamé	adjetivo	la|[mé]
+lamecense	nome masculino	la|me|[cen]|se
+lamecense	adjetivo	la|me|[cen]|se
+lamecense	nome feminino	la|me|[cen]|se
+lamecha	adjetivo	la|[me]|cha
+lamecha	nome masculino	la|[me]|cha
+lamecha	nome feminino	la|[me]|cha
+lamechar	verbo	la|me|[char]
+lamechice	nome feminino	la|me|[chi]|ce
+lamechismo	nome masculino	la|me|[chis]|mo
+lamego	nome masculino	la|[me]|go
+lamegueiro	nome masculino	la|me|[guei]|ro
+lameira	nome feminino	la|[mei]|ra
+lameiral	nome masculino	la|mei|[ral]
+lameirão	nome masculino	la|mei|[rão]
+lameirento	adjetivo	la|mei|[ren]|to
+lameirinha	nome feminino	la|mei|[ri]|nha
+lameiro	nome masculino	la|[mei]|ro
+lamela	nome feminino	la|[me]|la
+lamelação	nome feminino	la|me|la|[ção]
+lamelado	adjetivo	la|me|[la]|do
+lamelar	adjetivo	la|me|[lar]
+lamelar	verbo	la|me|[lar]
+lamelibrânquio	nome masculino	la|me|li|[brân]|qui|o
+lamelibrânquio	adjetivo	la|me|li|[brân]|qui|o
+lamelicórneo	adjetivo	la|me|li|[cór]|ne|o
+lamelicórneo	nome masculino	la|me|li|[cór]|ne|o
+lamelífero	adjetivo	la|me|[lí]|fe|ro
+lameliforme	adjetivo	la|me|li|[for]|me
+lamelípede	adjetivo	la|me|[lí]|pe|de
+lamelirrostro	nome masculino	la|me|lir|[ros]|tro
+lamelirrostro	adjetivo	la|me|lir|[ros]|tro
+lameloso	adjetivo	la|me|[lo]|so
+lamentação	nome feminino	la|men|ta|[ção]
+lamentado	adjetivo	la|men|[ta]|do
+lamentador	adjetivo	la|men|ta|[dor]
+lamentador	nome masculino	la|men|ta|[dor]
+lamentadora	nome feminino	la|men|ta|[do]|ra
+lamentar	verbo	la|men|[tar]
+lamentável	adjetivo	la|men|[tá]|vel
+lamentavelmente	advérbio	la|men|ta|vel|[men]|te
+lamento	nome masculino	la|[men]|to
+lamentoso	adjetivo	la|men|[to]|so
+lâmia	nome feminino	[lâ]|mi|a
+lamiácea	nome feminino	la|mi|[á]|ce|a
+lamieira	nome feminino	la|mi|[ei]|ra
+lamieiro	nome masculino	la|mi|[ei]|ro
+lâmina	nome feminino	[lâ]|mi|na
+lâmina	nome masculino	[lâ]|mi|na
+laminação	nome feminino	la|mi|na|[ção]
+laminado	adjetivo	la|mi|[na]|do
+laminado	nome masculino	la|mi|[na]|do
+laminador	nome masculino	la|mi|na|[dor]
+laminagem	nome feminino	la|mi|[na]|gem

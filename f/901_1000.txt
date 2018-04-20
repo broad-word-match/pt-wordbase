@@ -1,0 +1,100 @@
+farfalheira	nome feminino	far|fa|[lhei]|ra
+farfalheiro	adjetivo	far|fa|[lhei]|ro
+farfalhento	adjetivo	far|fa|[lhen]|to
+farfalhice	nome feminino	far|fa|[lhi]|ce
+farfalho	nome masculino	far|[fa]|lho
+farfalhoso	adjetivo	far|fa|[lho]|so
+farfalhuda	nome feminino	far|fa|[lhu]|da
+farfalhudo	adjetivo	far|fa|[lhu]|do
+farfalinar	verbo	far|fa|li|[nar]
+farfana	nome feminino	far|[fa]|na
+farfância	nome feminino	far|[fân]|ci|a
+farfantão	adjetivo	far|fan|[tão]
+farfantão	nome masculino	far|fan|[tão]
+farfante	adjetivo	far|[fan]|te
+farfante	nome masculino	far|[fan]|te
+farfante	nome feminino	far|[fan]|te
+farfantear	verbo	far|fan|te|[ar]
+fárfara	nome feminino	[fár]|fa|ra
+farfária	nome feminino	far|[fá]|ri|a
+fária	nome feminino	[fá]|ri|a
+faricoco	nome masculino	fa|ri|[co]|co
+farilhão	nome masculino	fa|ri|[lhão]
+farinação	nome feminino	fa|ri|na|[ção]
+farináceo	adjetivo	fa|ri|[ná]|ce|o
+farináceo	nome masculino	fa|ri|[ná]|ce|o
+farinar	verbo	fa|ri|[nar]
+faringe	nome feminino	fa|[rin]|ge
+faringectomia	nome feminino	fa|rin|gec|to|[mi]|a
+faringectómico	adjetivo	fa|rin|gec|[tó]|mi|co
+faringectômico	adjetivo	fa|rin|gec|[tô]|mi|co
+faríngeo	adjetivo	fa|[rín]|ge|o
+faríngico	adjetivo	fa|[rín]|gi|co
+faringismo	nome masculino	fa|rin|[gis]|mo
+faringite	nome feminino	fa|rin|[gi]|te
+faringocele	nome feminino	fa|rin|go|[ce]|le
+faringografia	nome feminino	fa|rin|go|gra|[fi]|a
+faringográfico	adjetivo	fa|rin|go|[grá]|fi|co
+faringolaringite	nome feminino	fa|rin|go|la|rin|[gi]|te
+faringologia	nome feminino	fa|rin|go|lo|[gi]|a
+faringológico	adjetivo	fa|rin|go|[ló]|gi|co
+faringoplegia	nome feminino	fa|rin|go|ple|[gi]|a
+faringoplégico	adjetivo	fa|rin|go|[plé]|gi|co
+faringorragia	nome feminino	fa|rin|gor|ra|[gi]|a
+faringorrágico	adjetivo	fa|rin|gor|[rá]|gi|co
+faringoscopia	nome feminino	fa|rin|gos|co|[pi]|a
+faringoscópico	adjetivo	fa|rin|gos|[có]|pi|co
+faringoscópio	nome masculino	fa|rin|gos|[có]|pi|o
+faringossalpingite	nome feminino	fa|rin|gos|sal|pin|[gi]|te
+faringotomia	nome feminino	fa|rin|go|to|[mi]|a
+faringotômico	adjetivo	fa|rin|go|[tô]|mi|co
+faringotómico	adjetivo	fa|rin|go|[tó]|mi|co
+faringótomo	nome masculino	fa|rin|[gó]|to|mo
+farinha	nome feminino	fa|[ri]|nha
+farinha de pau	nome feminino	fa|[ri]|nha de pau
+farinha-flor	nome feminino	fa|ri|nha-flor
+farinhada	nome feminino	fa|ri|[nha]|da
+farinhata	nome feminino	fa|ri|[nha]|ta
+farinhato	nome masculino	fa|ri|[nha]|to
+farinheira	nome feminino	fa|ri|[nhei]|ra
+farinheiro	nome masculino	fa|ri|[nhei]|ro
+farinhento	adjetivo	fa|ri|[nhen]|to
+farinhoso	adjetivo	fa|ri|[nho]|so
+farinhota	nome feminino	fa|ri|[nho]|ta
+farinhoto	nome masculino	fa|ri|[nho]|to
+farinhudo	adjetivo	fa|ri|[nhu]|do
+farinite	nome feminino	fa|ri|[ni]|te
+farinógrafo	nome masculino	fa|ri|[nó]|gra|fo
+farinose	nome feminino	fa|ri|[no]|se
+fário	adjetivo	[fá]|ri|o
+fário	nome masculino	[fá]|ri|o
+farisaicamente	advérbio	fa|ri|sai|ca|[men]|te
+farisaico	adjetivo	fa|ri|[sai]|co
+farisaísmo	nome masculino	fa|ri|sa|[ís]|mo
+fariscadeira	nome feminino	fa|ris|ca|[dei]|ra
+fariscador	adjetivo	fa|ris|ca|[dor]
+fariscador	nome masculino	fa|ris|ca|[dor]
+fariscante	adjetivo	fa|ris|[can]|te
+fariscar	verbo	fa|ris|[car]
+farisco	nome masculino	fa|[ris]|co
+fariseia	nome feminino	fa|ri|[sei]|a
+fariseu	nome masculino	fa|ri|[seu]
+farita	adjetivo	fa|[ri]|ta
+farita	nome masculino	fa|[ri]|ta
+farita	nome feminino	fa|[ri]|ta
+farmaceuta	nome masculino	far|ma|[ceu]|ta
+farmaceuta	nome feminino	far|ma|[ceu]|ta
+farmacêutica	nome feminino	far|ma|[cêu]|ti|ca
+farmacêutico	nome masculino	far|ma|[cêu]|ti|co
+farmacêutico	adjetivo	far|ma|[cêu]|ti|co
+farmácia	nome feminino	far|[má]|ci|a
+fármaco	nome masculino	[fár]|ma|co
+farmacocalcite	nome feminino	far|ma|co|cal|[ci]|te
+farmacocinética	nome feminino	far|ma|co|ci|[né]|ti|ca
+farmacodinamia	nome feminino	far|ma|co|di|na|[mi]|a
+farmacodinâmica	nome feminino	far|ma|co|di|[nâ]|mi|ca
+farmacodinâmico	adjetivo	far|ma|co|di|[nâ]|mi|co
+farmacofísica	nome feminino	far|ma|co|[fí]|si|ca
+farmacofísico	adjetivo	far|ma|co|[fí]|si|co
+farmacognosia	nome feminino	far|ma|cog|no|[si]|a
+farmacognóstico	adjetivo	far|ma|cog|[nós]|ti|co

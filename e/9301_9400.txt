@@ -1,0 +1,100 @@
+espanejar	verbo	es|pa|ne|[jar]
+espanhol	nome masculino	es|pa|[nhol]
+espanhol	adjetivo	es|pa|[nhol]
+espanhola	nome feminino	es|pa|[nho]|la
+espanholada	nome feminino	es|pa|nho|[la]|da
+espanholado	adjetivo	es|pa|nho|[la]|do
+espanholar	verbo	es|pa|nho|[lar]
+espanholismo	nome masculino	es|pa|nho|[lis]|mo
+espanholização	nome feminino	es|pa|nho|li|za|[ção]
+espanholizar	verbo	es|pa|nho|li|[zar]
+espanopneia	nome feminino	es|pa|nop|[nei]|a
+espanopneico	adjetivo	es|pa|nop|[nei]|co
+espanquear	verbo	es|pan|que|[ar]
+espanta-boiada	nome masculino	es|pan|ta-boi|[a]|da
+espanta-coió	nome masculino	es|pan|ta-coi|[ó]
+espanta-lobos	nome masculino	es|pan|ta-lo|bos
+espanta-pardais	nome masculino	es|pan|ta-par|[dais]
+espanta-patrulha	nome masculino	es|pan|ta-pa|[tru]|lha
+espanta-ratos	nome masculino	es|pan|ta-ra|tos
+espantadiço	adjetivo	es|pan|ta|[di]|ço
+espantado	adjetivo	es|pan|[ta]|do
+espantador	adjetivo	es|pan|ta|[dor]
+espantador	nome masculino	es|pan|ta|[dor]
+espantalho	nome masculino	es|pan|[ta]|lho
+espantar	verbo	es|pan|[tar]
+espantável	adjetivo	es|pan|[tá]|vel
+espanto	nome masculino	es|[pan]|to
+espantosamente	advérbio	es|pan|to|sa|[men]|te
+espantoso	adjetivo	es|pan|[to]|so
+espapaçado	adjetivo	es|pa|pa|[ça]|do
+espapaçar	verbo	es|pa|pa|[çar]
+espapar	verbo	es|pa|[par]
+espaparrado	adjetivo	es|pa|par|[ra]|do
+esparadrapeiro	nome masculino	es|pa|ra|dra|[pei]|ro
+esparadrapo	nome masculino	es|pa|ra|[dra]|po
+esparavão	nome masculino	es|pa|ra|[vão]
+esparavel	nome masculino	es|pa|ra|[vel]
+esparavela	nome feminino	es|pa|ra|[ve]|la
+esparaveleiro	nome masculino	es|pa|ra|ve|[lei]|ro
+esparavonado	adjetivo	es|pa|ra|vo|[na]|do
+esparçal	nome masculino	es|par|[çal]
+esparceta	nome masculino	es|par|[ce]|ta
+esparceta	nome feminino	es|par|[ce]|ta
+esparceto	nome masculino	es|par|[ce]|to
+esparciata	adjetivo	es|par|ci|[a]|ta
+esparciata	nome masculino	es|par|ci|[a]|ta
+esparciata	nome feminino	es|par|ci|[a]|ta
+espardeque	nome masculino	es|par|[de]|que
+esparela	nome feminino	es|pa|[re]|la
+espargal	nome masculino	es|par|[gal]
+esparganiácea	nome feminino	es|par|ga|ni|[á]|ce|a
+esparganiáceo	adjetivo	es|par|ga|ni|[á]|ce|o
+espargânio	nome masculino	es|par|[gâ]|ni|o
+espargata	nome feminino	es|par|[ga]|ta
+espargidor	adjetivo	es|par|gi|[dor]
+espargimento	nome masculino	es|par|gi|[men]|to
+espargir	verbo	es|par|[gir]
+espargível	adjetivo	es|par|[gí]|vel
+espargo	nome masculino	es|[par]|go
+espargueira	nome feminino	es|par|[guei]|ra
+esparguete	nome masculino	es|par|[gue]|te
+esparguta	nome feminino	es|par|[gu]|ta
+espárida	nome masculino	es|[pá]|ri|da
+esparídeo	nome masculino	es|pa|[rí]|de|o
+esparídeo	adjetivo	es|pa|[rí]|de|o
+esparolado	adjetivo	es|pa|ro|[la]|do
+esparra	nome feminino	es|[par]|ra
+esparragão	nome masculino	es|par|ra|[gão]
+esparragueira	nome feminino	es|par|ra|[guei]|ra
+esparragueiro	nome masculino	es|par|ra|[guei]|ro
+esparralhar	verbo	es|par|ra|[lhar]
+esparramar	verbo	es|par|ra|[mar]
+esparrame	nome masculino	es|par|[ra]|me
+esparramo	nome masculino	es|par|[ra]|mo
+esparrar	verbo	es|par|[rar]
+esparregado	nome masculino	es|par|re|[ga]|do
+esparregar	verbo	es|par|re|[gar]
+esparrela	nome feminino	es|par|[re]|la
+esparrimar	verbo	es|par|ri|[mar]
+esparrinhar	verbo	es|par|ri|[nhar]
+esparsa	nome feminino	es|[par]|sa
+esparsamente	advérbio	es|par|sa|[men]|te
+esparsifloro	adjetivo	es|par|si|[flo]|ro
+esparsifólio	adjetivo	es|par|si|[fó]|li|o
+esparso	adjetivo	es|[par]|so
+espartal	nome masculino	es|par|[tal]
+espartana	nome feminino	es|par|[ta]|na
+espartanismo	nome masculino	es|par|ta|[nis]|mo
+espartano	adjetivo	es|par|[ta]|no
+espartano	nome masculino	es|par|[ta]|no
+espartão	nome masculino	es|par|[tão]
+espartaria	nome feminino	es|par|ta|[ri]|a
+esparteína	nome feminino	es|par|te|[í]|na
+esparteira	nome feminino	es|par|[tei]|ra
+esparteiro	nome masculino	es|par|[tei]|ro
+espartejar	verbo	es|par|te|[jar]
+espartenhas	nome feminino	es|par|[te]|nhas
+espartéolo	nome masculino	es|par|[té]|o|lo
+espartilhado	adjetivo	es|par|ti|[lha]|do
+espartilhamento	nome masculino	es|par|ti|lha|[men]|to

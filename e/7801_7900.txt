@@ -1,0 +1,100 @@
+escavador	adjetivo	es|ca|va|[dor]
+escavadora	nome feminino	es|ca|va|[do]|ra
+escavadura	nome feminino	es|ca|va|[du]|ra
+escavaloar	verbo	es|ca|va|lo|[ar]
+escavar	verbo	es|ca|[var]
+escavável	adjetivo	es|ca|[vá]|vel
+escaveirado	adjetivo	es|ca|vei|[ra]|do
+escaveirar	verbo	es|ca|vei|[rar]
+escavinar	verbo	es|ca|vi|[nar]
+escazonte	adjetivo	es|ca|[zon]|te
+escazonte	nome masculino	es|ca|[zon]|te
+esclarecedor	adjetivo	es|cla|re|ce|[dor]
+esclarecedor	nome masculino	es|cla|re|ce|[dor]
+esclarecedora	nome feminino	es|cla|re|ce|[do]|ra
+esclarecer	verbo	es|cla|re|[cer]
+esclarecidamente	advérbio	es|cla|re|ci|da|[men]|te
+esclarecido	adjetivo	es|cla|re|[ci]|do
+esclarecimento	nome masculino	es|cla|re|ci|[men]|to
+esclareia	nome feminino	es|cla|[rei]|a
+esclavagismo	nome masculino	es|cla|va|[gis]|mo
+esclavagista	nome masculino	es|cla|va|[gis]|ta
+esclavagista	adjetivo	es|cla|va|[gis]|ta
+esclavagista	nome feminino	es|cla|va|[gis]|ta
+esclavão	adjetivo	es|cla|[vão]
+esclavão	nome masculino	es|cla|[vão]
+esclavina	nome feminino	es|cla|[vi]|na
+esclavo	nome masculino	es|[cla]|vo
+esclavo	adjetivo	es|[cla]|vo
+esclavónico	adjetivo	es|cla|[vó]|ni|co
+esclavônico	adjetivo	es|cla|[vô]|ni|co
+esclavónico	nome masculino	es|cla|[vó]|ni|co
+esclavônico	nome masculino	es|cla|[vô]|ni|co
+esclavônio	adjetivo	es|cla|[vô]|ni|o
+esclavônio	nome masculino	es|cla|[vô]|ni|o
+esclavónio	adjetivo	es|cla|[vó]|ni|o
+esclavónio	nome masculino	es|cla|[vó]|ni|o
+escleral	adjetivo	es|cle|[ral]
+esclerectomia	nome feminino	es|cle|rec|to|[mi]|a
+esclerectômico	adjetivo	es|cle|rec|[tô]|mi|co
+esclerectómico	adjetivo	es|cle|rec|[tó]|mi|co
+esclerênquima	nome masculino	es|cle|[rên]|qui|ma
+escleria	nome feminino	es|cle|[ri]|a
+esclerito	nome masculino	es|cle|[ri]|to
+esclerócio	nome masculino	es|cle|[ró]|ci|o
+esclerodermia	nome feminino	es|cle|ro|der|[mi]|a
+esclerodérmico	adjetivo	es|cle|ro|[dér]|mi|co
+esclerodermo	adjetivo	es|cle|ro|[der]|mo
+esclerodermo	nome masculino	es|cle|ro|[der]|mo
+esclerodonte	nome masculino	es|cle|ro|[don]|te
+esclerofilo	adjetivo	es|cle|ro|[fi]|lo
+esclerófito	nome masculino	es|cle|[ró]|fi|to
+escleroftalmia	nome feminino	es|cle|rof|tal|[mi]|a
+escleroftálmico	adjetivo	es|cle|rof|[tál]|mi|co
+esclerógeno	adjetivo	es|cle|[ró]|ge|no
+esclerólise	nome feminino	es|cle|[ró]|li|se
+esclerolítico	adjetivo	es|cle|ro|[lí]|ti|co
+escleroma	nome masculino	es|cle|[ro]|ma
+escleroproteína	nome feminino	es|cle|ro|pro|te|[í]|na
+escleroptéria	nome feminino	es|cle|rop|[té]|ri|a
+esclerosado	adjetivo	es|cle|ro|[sa]|do
+esclerosamento	nome masculino	es|cle|ro|sa|[men]|to
+esclerosar	verbo	es|cle|ro|[sar]
+esclerose	nome feminino	es|cle|[ro]|se
+escleroso	adjetivo	es|cle|[ro]|so
+esclerote	nome feminino	es|cle|[ro]|te
+escleroterapia	nome feminino	es|cle|ro|te|ra|[pi]|a
+esclerótica	nome feminino	es|cle|[ró]|ti|ca
+esclerótico	adjetivo	es|cle|[ró]|ti|co
+escleroticotomia	nome feminino	es|cle|ro|ti|co|to|[mi]|a
+escleroticotômico	adjetivo	es|cle|ro|ti|co|[tô]|mi|co
+escleroticotómico	adjetivo	es|cle|ro|ti|co|[tó]|mi|co
+esclerotite	nome feminino	es|cle|ro|[ti]|te
+escleroto	nome masculino	es|cle|[ro]|to
+esclerótomo	nome masculino	es|cle|[ró]|to|mo
+escloque	adjetivo	es|[clo]|que
+escoa	nome feminino	es|[co]|a
+escoação	nome feminino	es|co|a|[ção]
+escoada	nome feminino	es|co|[a]|da
+escoadeira	nome feminino	es|co|a|[dei]|ra
+escoadoiro	nome masculino	es|co|a|[doi]|ro
+escoador	adjetivo	es|co|a|[dor]
+escoador	nome masculino	es|co|a|[dor]
+escoadouro	nome masculino	es|co|a|[dou]|ro
+escoadura	nome feminino	es|co|a|[du]|ra
+escoalha	nome feminino	es|co|[a]|lha
+escoamento	nome masculino	es|co|a|[men]|to
+escoante	nome masculino	es|co|[an]|te
+escoante	adjetivo	es|co|[an]|te
+escoar	verbo	es|co|[ar]
+escocar	verbo	es|co|[car]
+escocês	adjetivo	es|co|[cês]
+escocês	nome masculino	es|co|[cês]
+escocesa	nome feminino	es|co|[ce]|sa
+escochar	verbo	es|co|[char]
+escochinar	verbo	es|co|chi|[nar]
+escócia	nome masculino	es|[có]|ci|a
+escócia	nome feminino	es|[có]|ci|a
+escócio	adjetivo	es|[có]|ci|o
+escoda	nome feminino	es|[co]|da
+escodar	verbo	es|co|[dar]

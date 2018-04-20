@@ -1,0 +1,100 @@
+auricular	adjetivo	au|ri|cu|[lar]
+auriculária	nome feminino	au|ri|cu|[lá]|ri|a
+auriculariácea	nome feminino	au|ri|cu|la|ri|[á]|ce|a
+auriculídeo	nome masculino	au|ri|cu|[lí]|de|o
+auriculífero	adjetivo	au|ri|cu|[lí]|fe|ro
+auriculiforme	adjetivo	au|ri|cu|li|[for]|me
+auriculista	nome masculino	au|ri|cu|[lis]|ta
+auriculista	adjetivo	au|ri|cu|[lis]|ta
+auriculista	nome feminino	au|ri|cu|[lis]|ta
+aurículo	nome masculino	au|[rí]|cu|lo
+auriculoso	adjetivo	au|ri|cu|[lo]|so
+auriculoventricular	adjetivo	au|ri|cu|lo|ven|tri|cu|[lar]
+auridulce	adjetivo	au|ri|[dul]|ce
+auriense	adjetivo	au|ri|[en]|se
+auriense	nome masculino	au|ri|[en]|se
+auriense	nome feminino	au|ri|[en]|se
+aurifactório	adjetivo	au|ri|fac|[tó]|ri|o
+aurifatório	adjetivo	au|ri|fa|[tó]|ri|o
+aurífero	adjetivo	au|[rí]|fe|ro
+auriferrífero	adjetivo	au|ri|fer|[rí]|fe|ro
+aurificação	nome feminino	au|ri|fi|ca|[ção]
+aurificar	verbo	au|ri|fi|[car]
+aurífice	nome masculino	au|[rí]|fi|ce
+aurífice	nome feminino	au|[rí]|fi|ce
+aurifícia	nome feminino	au|ri|[fí]|ci|a
+aurifício	adjetivo	au|ri|[fí]|ci|o
+aurífico	adjetivo	au|[rí]|fi|co
+auriflama	nome feminino	au|ri|[fla]|ma
+auriflamado	adjetivo	au|ri|fla|[ma]|do
+auriflamante	adjetivo	au|ri|fla|[man]|te
+auriflavo	adjetivo	au|ri|[fla]|vo
+aurífluo	adjetivo	au|[rí]|flu|o
+auriforme	adjetivo	au|ri|[for]|me
+aurifrigiado	adjetivo	au|ri|fri|gi|[a]|do
+aurifrigiato	adjetivo	au|ri|fri|gi|[a]|to
+aurifrígio	nome masculino	au|ri|[frí]|gi|o
+aurifrísio	nome masculino	au|ri|[frí]|si|o
+aurifulgente	adjetivo	au|ri|ful|[gen]|te
+aurifúlgido	adjetivo	au|ri|[fúl]|gi|do
+auriga	nome masculino	au|[ri]|ga
+aurigário	nome masculino	au|ri|[gá]|ri|o
+aurigástreo	adjetivo	au|ri|[gás]|tre|o
+aurigastro	adjetivo	au|ri|[gas]|tro
+aurígeno	nome masculino	au|[rí]|ge|no
+aurígero	adjetivo	au|[rí]|ge|ro
+aurígia	nome feminino	au|[rí]|gi|a
+aurígico	adjetivo	au|[rí]|gi|co
+auriginoso	adjetivo	au|ri|gi|[no]|so
+aurigo	nome masculino	au|[ri]|go
+aurilavrado	adjetivo	au|ri|la|[vra]|do
+auriluzente	adjetivo	au|ri|lu|[zen]|te
+auriluzir	verbo	au|ri|lu|[zir]
+aurimesclado	adjetivo	au|ri|mes|[cla]|do
+aurinhacense	nome feminino	au|ri|nha|[cen]|se
+aurinhacense	nome masculino	au|ri|nha|[cen]|se
+aurínia	nome feminino	au|[rí]|ni|a
+aurino	adjetivo	au|[ri]|no
+aurino	nome masculino	au|[ri]|no
+auripene	adjetivo	au|ri|[pe]|ne
+auripigmento	nome masculino	au|ri|pig|[men]|to
+auripurpúreo	adjetivo	au|ri|pur|[pú]|re|o
+aurir	verbo	au|[rir]
+aurirrosado	adjetivo	au|rir|ro|[sa]|do
+aurirróseo	adjetivo	au|rir|[ró]|se|o
+aurirroxo	adjetivo	au|rir|[ro]|xo
+aurirrubro	adjetivo	au|rir|[ru]|bro
+auriscálpio	nome masculino	au|ris|[cál]|pi|o
+aurisplendente	adjetivo	au|ris|plen|[den]|te
+auriterapia	nome feminino	au|ri|te|ra|[pi]|a
+aurito	adjetivo	au|[ri]|to
+auritrémulo	adjetivo	au|ri|[tré]|mu|lo
+auritrêmulo	adjetivo	au|ri|[trê]|mu|lo
+auriverde	adjetivo	au|ri|[ver]|de
+aurívoro	adjetivo	au|[rí]|vo|ro
+aurónia	nome feminino	au|[ró]|ni|a
+aurônia	nome feminino	au|[rô]|ni|a
+auroque	nome masculino	au|[ro]|que
+aurora	nome feminino	au|[ro]|ra
+auroral	adjetivo	au|ro|[ral]
+aurorar	verbo	au|ro|[rar]
+auroreal	adjetivo	au|ro|re|[al]
+aurorear	verbo	au|ro|re|[ar]
+aurorejar	verbo	au|ro|re|[jar]
+aurorescente	adjetivo	au|ro|res|[cen]|te
+aurorescer	verbo	au|ro|res|[cer]
+auroso	adjetivo	au|[ro]|so
+aurunco	adjetivo	au|[run]|co
+aurunco	nome masculino	au|[run]|co
+ausco	adjetivo	[aus]|co
+ausco	nome masculino	[aus]|co
+auscultação	nome feminino	aus|cul|ta|[ção]
+auscultador	adjetivo	aus|cul|ta|[dor]
+auscultador	nome masculino	aus|cul|ta|[dor]
+auscultadora	nome feminino	aus|cul|ta|[do]|ra
+auscultar	verbo	aus|cul|[tar]
+auscultável	adjetivo	aus|cul|[tá]|vel
+ausência	nome feminino	au|[sên]|ci|a
+ausentar	verbo	au|sen|[tar]
+ausente	adjetivo	au|[sen]|te
+ausente	nome masculino	au|[sen]|te

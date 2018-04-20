@@ -1,0 +1,100 @@
+pleurobrânquia	nome feminino	pleu|ro|[brân]|qui|a
+pleurocele	nome feminino	pleu|ro|[ce]|le
+pleuroclásio	nome masculino	pleu|ro|[clá]|si|o
+pleurodinia	nome feminino	pleu|ro|di|[ni]|a
+pleurodínico	adjetivo	pleu|ro|[dí]|ni|co
+pleurodiscal	adjetivo	pleu|ro|dis|[cal]
+pleurodonte	adjetivo	pleu|ro|[don]|te
+pleuroma	nome masculino	pleu|[ro]|ma
+pleuromeiácea	nome feminino	pleu|ro|mei|[á]|ce|a
+pleuronecta	nome masculino	pleu|ro|[nec]|ta
+pleuronéctida	nome masculino	pleu|ro|[néc]|ti|da
+pleuronectídeo	nome masculino	pleu|ro|nec|[tí]|de|o
+pleuronectídeo	adjetivo	pleu|ro|nec|[tí]|de|o
+pleurônio	nome masculino	pleu|[rô]|ni|o
+pleurônio	adjetivo	pleu|[rô]|ni|o
+pleurónio	adjetivo	pleu|[ró]|ni|o
+pleurónio	nome masculino	pleu|[ró]|ni|o
+pleuropatia	nome feminino	pleu|ro|pa|[ti]|a
+pleuropático	adjetivo	pleu|ro|[pá]|ti|co
+pleuropericardite	nome feminino	pleu|ro|pe|ri|car|[di]|te
+pleuropiose	nome feminino	pleu|ro|pi|[o]|se
+pleuropneumonia	nome feminino	pleu|rop|neu|mo|[ni]|a
+pleuropneumônico	adjetivo	pleu|rop|neu|[mô]|ni|co
+pleuropneumónico	adjetivo	pleu|rop|neu|[mó]|ni|co
+pleurorragia	nome feminino	pleu|ror|ra|[gi]|a
+pleurorrágico	adjetivo	pleu|ror|[rá]|gi|co
+pleurorreia	nome feminino	pleu|ror|[rei]|a
+pleurorrizo	adjetivo	pleu|ror|[ri]|zo
+pleurose	nome feminino	pleu|[ro]|se
+pleurospermo	nome masculino	pleu|ros|[per]|mo
+pleurossomo	nome masculino	pleu|ros|[so]|mo
+pleuroto	nome masculino	pleu|[ro]|to
+pleurotomia	nome feminino	pleu|ro|to|[mi]|a
+pleurotômico	adjetivo	pleu|ro|[tô]|mi|co
+pleurotómico	adjetivo	pleu|ro|[tó]|mi|co
+pleurotótono	nome masculino	pleu|ro|[tó]|to|no
+plexiforme	adjetivo	ple|xi|[for]|me
+plexímetro	nome masculino	ple|[xí]|me|tro
+plexo	nome masculino	[ple]|xo
+plia	nome feminino	[pli]|a
+plica	nome feminino	[pli]|ca
+plicar	verbo	pli|[car]
+plicativo	adjetivo	pli|ca|[ti]|vo
+plicatura	nome feminino	pli|ca|[tu]|ra
+plidar	verbo	pli|[dar]
+pliensbachiano	adjetivo	pli|ens|ba|chi|[a]|no
+plínia	nome feminino	[plí]|ni|a
+pliniano	adjetivo	pli|ni|[a]|no
+plinto	nome masculino	[plin]|to
+pliocénico	adjetivo	pli|o|[cé]|ni|co
+pliocênico	adjetivo	pli|o|[cê]|ni|co
+plioceno	adjetivo	pli|o|[ce]|no
+plioceno	nome masculino	pli|o|[ce]|no
+pliópode	nome masculino	pli|[ó]|po|de
+pliotropia	nome feminino	pli|o|tro|[pi]|a
+pliotrópico	adjetivo	pli|o|[tró]|pi|co
+pliotropismo	nome masculino	pli|o|tro|[pis]|mo
+plissado	adjetivo	plis|[sa]|do
+plissado	nome masculino	plis|[sa]|do
+plissador	nome masculino	plis|sa|[dor]
+plissadora	nome feminino	plis|sa|[do]|ra
+plissagem	nome feminino	plis|[sa]|gem
+plissar	verbo	plis|[sar]
+plissê	nome masculino	plis|sê
+plistocénico	adjetivo	plis|to|[cé]|ni|co
+plistoceno	adjetivo	plis|to|[ce]|no
+plistoceno	nome masculino	plis|to|[ce]|no
+plócama	nome feminino	[pló]|ca|ma
+plocandra	nome feminino	plo|[can]|dra
+ploce	nome feminino	[plo]|ce
+ploceídeo	nome masculino	plo|ce|[í]|de|o
+ploceídeo	nome masculino	plo|ce|[í]|de|o
+ploceídeo	adjetivo	plo|ce|[í]|de|o
+plóceo	nome masculino	[pló]|ce|o
+plócia	nome feminino	[pló]|ci|a
+plogófora	nome feminino	plo|[gó]|fo|ra
+plombagina	nome feminino	plom|ba|[gi]|na
+plorim	nome masculino	plo|[rim]
+plosão	nome feminino	plo|[são]
+plosiva	nome feminino	plo|[si]|va
+plosivo	adjetivo	plo|[si]|vo
+plotinopolitano	adjetivo	plo|ti|no|po|li|[ta]|no
+plotinopolitano	nome masculino	plo|ti|no|po|li|[ta]|no
+pluma	nome feminino	[plu]|ma
+plumaceiro	nome masculino	plu|ma|[cei]|ro
+plumacho	nome masculino	plu|[ma]|cho
+plumaço	nome masculino	plu|[ma]|ço
+plumada	nome feminino	plu|[ma]|da
+plumagem	nome feminino	plu|[ma]|gem
+plumão	nome masculino	plu|[mão]
+plumar	verbo	plu|[mar]
+plumário	adjetivo	plu|[má]|ri|o
+plumário	nome masculino	plu|[má]|ri|o
+plumbada	nome feminino	plum|[ba]|da
+plumbagem	nome feminino	plum|[ba]|gem
+plumbagina	nome feminino	plum|ba|[gi]|na
+plumbaginácea	nome feminino	plum|ba|gi|[ná]|ce|a
+plumbagíneo	adjetivo	plum|ba|[gí]|ne|o
+plumbaginoso	adjetivo	plum|ba|gi|[no]|so
+plumbago	nome masculino	plum|[ba]|go

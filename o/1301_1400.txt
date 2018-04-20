@@ -1,0 +1,100 @@
+oleossulfúrico	adjetivo	o|le|os|sul|[fú]|ri|co
+oleráceo	adjetivo	o|le|[rá]|ce|o
+olericultor	adjetivo	o|le|ri|cul|[tor]
+olericultor	nome masculino	o|le|ri|cul|[tor]
+olericultura	nome feminino	o|le|ri|cul|[tu]|ra
+oleroso	adjetivo	o|le|[ro]|so
+oleula	nome feminino	o|[leu]|la
+oleulado	adjetivo	o|leu|[la]|do
+olêulico	adjetivo	o|[lêu]|li|co
+olfação	nome feminino	ol|fa|[ção]
+olfacção	nome feminino	ol|fac|[ção]
+olfactar	verbo	ol|fac|[tar]
+olfáctica	nome feminino	ol|[fác]|ti|ca
+olfáctico	adjetivo	ol|[fác]|ti|co
+olfactivamente	advérbio	ol|fac|ti|va|[men]|te
+olfactivo	adjetivo	ol|fac|[ti]|vo
+olfacto	nome masculino	ol|[fac]|to
+olfactometria	nome feminino	ol|fac|to|me|[tri]|a
+olfactométrico	adjetivo	ol|fac|to|[mé]|tri|co
+olfactômetro	nome masculino	ol|fac|[tô]|me|tro
+olfactório	adjetivo	ol|fac|[tó]|ri|o
+olfatar	verbo	ol|fa|[tar]
+olfática	nome feminino	ol|[fá]|ti|ca
+olfático	adjetivo	ol|[fá]|ti|co
+olfativamente	advérbio	ol|fa|ti|va|[men]|te
+olfativo	adjetivo	ol|fa|[ti]|vo
+olfato	nome masculino	ol|[fa]|to
+olfatometria	nome feminino	ol|fa|to|me|[tri]|a
+olfatométrico	adjetivo	ol|fa|to|[mé]|tri|co
+olfatômetro	nome masculino	ol|fa|[tô]|me|tro
+olfatómetro	nome masculino	ol|fa|[tó]|me|tro
+olfatório	adjetivo	ol|fa|[tó]|ri|o
+olga	nome feminino	[ol]|ga
+olha	nome feminino	[o]|lha
+olha-a-água	nome masculino	o|lha-a-á|gua
+olha-podrida	nome feminino	o|lha-po|[dri]|da
+olhada	nome feminino	o|[lha]|da
+olhadela	nome feminino	o|lha|[de]|la
+olhado	nome masculino	o|[lha]|do
+olhado	adjetivo	o|[lha]|do
+olhador	adjetivo	o|lha|[dor]
+olhador	nome masculino	o|lha|[dor]
+olhadura	nome feminino	o|lha|[du]|ra
+olhal	nome masculino	o|[lhal]
+olhalegre	adjetivo	o|lha|[le]|gre
+olhalva	nome feminino	o|[lhal]|va
+olhalvo	adjetivo	o|[lhal]|vo
+olhalvo	nome masculino	o|[lhal]|vo
+olhamento	nome masculino	o|lha|[men]|to
+olhandilhas	nome masculino	o|lhan|[di]|lhas
+olhanense	nome masculino	o|lha|[nen]|se
+olhanense	adjetivo	o|lha|[nen]|se
+olhanense	nome feminino	o|lha|[nen]|se
+olhante	nome masculino	o|[lhan]|te
+olhante	nome feminino	o|[lhan]|te
+olhapim	nome masculino	o|lha|[pim]
+olhar	verbo	o|[lhar]
+olhar	nome masculino	o|[lhar]
+olharapo	nome masculino	o|lha|[ra]|po
+olhe	interjeição	[o]|lhe
+olheira	nome feminino	o|[lhei]|ra
+olheirada	nome feminino	o|lhei|[ra]|da
+olheirado	adjetivo	o|lhei|[ra]|do
+olheirão	nome masculino	o|lhei|[rão]
+olheiras	nome feminino	o|[lhei]|ras
+olheirento	adjetivo	o|lhei|[ren]|to
+olheiro	nome masculino	o|[lhei]|ro
+olhento	adjetivo	o|[lhen]|to
+olhetado	nome masculino	o|lhe|[ta]|do
+olhete	nome masculino	o|[lhe]|te
+olhiagudo	adjetivo	o|lhi|a|[gu]|do
+olhibranco	adjetivo	o|lhi|[bran]|co
+olhica	nome masculino	o|[lhi]|ca
+olhimanco	adjetivo	o|lhi|[man]|co
+olhimanco	nome masculino	o|lhi|[man]|co
+olhinegro	adjetivo	o|lhi|[ne]|gro
+olhinho	nome masculino	o|[lhi]|nho
+olhipreto	adjetivo	o|lhi|[pre]|to
+olhirridente	adjetivo	o|lhir|ri|[den]|te
+olhizaino	adjetivo	o|lhi|[zai]|no
+olhizaino	nome masculino	o|lhi|[zai]|no
+olhizarco	adjetivo	o|lhi|[zar]|co
+olho	nome masculino	[o]|lho
+olho	interjeição	[o]|lho
+olho de mosquito	nome masculino	[o]|lho de mos|qui|to
+olho de sogra	nome masculino	[o]|lho de so|gra
+olho de tigre	nome masculino	[o]|lho de ti|gre
+olho-branco	nome masculino	o|lho-bran|co
+olho-d'água	nome masculino	o|lho-d'á|gua
+olho-de-boi	nome masculino	o|lho-de-boi
+olho-de-cabra	nome masculino	o|lho-de-ca|bra
+olho-de-chede	nome masculino	o|lho-de-che|de
+olho-de-galo	nome masculino	o|lho-de-ga|lo
+olho-de-gato	nome masculino	o|lho-de-ga|to
+olho-de-lebre	nome masculino	o|lho-de-le|bre
+olho-de-mocho	nome masculino	o|lho-de-mo|cho
+olho-de-perdigão	nome masculino	o|lho-de-per|di|[gão]
+olho-de-perdiz	nome masculino	o|lho-de-per|[diz]
+olho-de-pombo	nome masculino	o|lho-de-pom|bo
+olho-de-sapo	nome masculino	o|lho-de-sa|po

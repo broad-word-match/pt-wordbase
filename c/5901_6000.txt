@@ -1,0 +1,100 @@
+castilhista	nome masculino	cas|ti|[lhis]|ta
+castilhista	nome feminino	cas|ti|[lhis]|ta
+castina	nome feminino	cas|[ti]|na
+castinçal	nome masculino	cas|tin|[çal]
+castinceira	nome feminino	cas|tin|[cei]|ra
+castinceiro	nome masculino	cas|tin|[cei]|ro
+castinço	nome masculino	cas|[tin]|ço
+casting	nome masculino	[cas]|ting
+castinheiro	nome masculino	cas|ti|[nhei]|ro
+casto	adjetivo	[cas]|to
+castor	nome masculino	cas|[tor]
+castorato	nome masculino	cas|to|[ra]|to
+castorenho	adjetivo	cas|to|[re]|nho
+castorenho	nome masculino	cas|to|[re]|nho
+castóreo	nome masculino	cas|[tó]|re|o
+castórico	adjetivo	cas|[tó]|ri|co
+castórida	nome masculino	cas|[tó]|ri|da
+castórida	adjetivo	cas|[tó]|ri|da
+castórida	nome masculino	cas|[tó]|ri|da
+castorídeo	adjetivo	cas|to|[rí]|de|o
+castorídeo	nome masculino	cas|to|[rí]|de|o
+castorídeo	nome masculino	cas|to|[rí]|de|o
+castorina	nome feminino	cas|to|[ri]|na
+castra	nome feminino	[cas]|tra
+castração	nome feminino	cas|tra|[ção]
+castrada	nome feminino	cas|[tra]|da
+castrado	adjetivo	cas|[tra]|do
+castrado	nome masculino	cas|[tra]|do
+castrador	adjetivo	cas|tra|[dor]
+castrador	nome masculino	cas|tra|[dor]
+castraleucense	adjetivo	cas|tra|leu|[cen]|se
+castraleucense	nome masculino	cas|tra|leu|[cen]|se
+castraleucense	nome feminino	cas|tra|leu|[cen]|se
+castramento	nome masculino	cas|tra|[men]|to
+castrametação	nome feminino	cas|tra|me|ta|[ção]
+castrametar	verbo	cas|tra|me|[tar]
+castrante	adjetivo	cas|[tran]|te
+castrar	verbo	cas|[trar]
+castreja	nome feminino	cas|[tre]|ja
+castrejo	nome masculino	cas|[tre]|jo
+castrejo	adjetivo	cas|[tre]|jo
+castrelo	nome masculino	cas|[tre]|lo
+castrense	nome masculino	cas|[tren]|se
+castrense	adjetivo	cas|[tren]|se
+castrense	nome feminino	cas|[tren]|se
+castrismo	nome masculino	cas|[tris]|mo
+castrista	nome masculino	cas|[tris]|ta
+castrista	nome feminino	cas|[tris]|ta
+castrista	adjetivo	cas|[tris]|ta
+castro	nome masculino	[cas]|tro
+castro-alvense	adjetivo	cas|tro-al|[ven]|se
+castro-daire	nome feminino	cas|tro-dai|re
+castro-marinense	nome masculino	cas|tro-ma|ri|[nen]|se
+castro-marinense	adjetivo	cas|tro-ma|ri|[nen]|se
+castro-marinense	nome feminino	cas|tro-ma|ri|[nen]|se
+castro-verdense	adjetivo	cas|tro-ver|[den]|se
+castro-verdense	nome masculino	cas|tro-ver|[den]|se
+castro-verdense	nome feminino	cas|tro-ver|[den]|se
+castro-verdiano	nome masculino	cas|tro-ver|di|[a]|no
+castro-verdiano	adjetivo	cas|tro-ver|di|[a]|no
+casual	adjetivo	ca|su|[al]
+casualidade	nome feminino	ca|su|a|li|[da]|de
+casualismo	nome masculino	ca|su|a|[lis]|mo
+casualista	adjetivo	ca|su|a|[lis]|ta
+casualista	nome masculino	ca|su|a|[lis]|ta
+casualista	nome feminino	ca|su|a|[lis]|ta
+casualístico	adjetivo	ca|su|a|[lís]|ti|co
+casualização	nome feminino	ca|su|a|li|za|[ção]
+casualmente	advérbio	ca|su|al|[men]|te
+casuar	nome masculino	ca|su|[ar]
+casuárida	nome masculino	ca|su|[á]|ri|da
+casuarídeo	nome masculino	ca|su|a|[rí]|de|o
+casuarídeo	nome masculino	ca|su|a|[rí]|de|o
+casuarídeo	adjetivo	ca|su|a|[rí]|de|o
+casuarina	nome feminino	ca|su|a|[ri]|na
+casuarinácea	nome feminino	ca|su|a|ri|[ná]|ce|a
+casuarináceo	adjetivo	ca|su|a|ri|[ná]|ce|o
+casuário	adjetivo	ca|su|[á]|ri|o
+casuário	nome masculino	ca|su|[á]|ri|o
+casucha	nome feminino	ca|[su]|cha
+casuco	nome masculino	ca|[su]|co
+casuísmo	nome masculino	ca|su|[ís]|mo
+casuísta	nome masculino	ca|su|[ís]|ta
+casuísta	nome feminino	ca|su|[ís]|ta
+casuísta	adjetivo	ca|su|[ís]|ta
+casuística	nome feminino	ca|su|[ís]|ti|ca
+casuisticamente	advérbio	ca|suis|ti|ca|[men]|te
+casuístico	adjetivo	ca|su|[ís]|ti|co
+casula	nome feminino	ca|[su]|la
+casulo	nome masculino	ca|[su]|lo
+casuloso	adjetivo	ca|su|[lo]|so
+cata	nome feminino	[ca]|ta
+cata-grande	nome feminino	ca|ta-gran|de
+cata-vento	nome masculino	ca|ta-ven|to
+catabaptismo	nome masculino	ca|ta|bap|[tis]|mo
+catabaptista	nome masculino	ca|ta|bap|[tis]|ta
+catabaptista	nome feminino	ca|ta|bap|[tis]|ta
+catabático	adjetivo	ca|ta|[bá]|ti|co
+catabatismo	nome masculino	ca|ta|ba|[tis]|mo
+catabatista	nome masculino	ca|ta|ba|[tis]|ta

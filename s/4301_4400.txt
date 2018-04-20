@@ -1,0 +1,100 @@
+septiciano	adjetivo	sep|ti|ci|[a]|no
+septicida	adjetivo	sep|ti|[ci]|da
+septicidade	nome feminino	sep|ti|ci|[da]|de
+septiclávio	nome masculino	sep|ti|[clá]|vi|o
+séptico	adjetivo	[sép]|ti|co
+septicole	adjetivo	sep|ti|[co]|le
+septicolor	adjetivo	sep|ti|co|[lor]
+septicorde	adjetivo	sep|ti|[cor]|de
+septífero	adjetivo	sep|[tí]|fe|ro
+septifólio	adjetivo	sep|ti|[fó]|li|o
+septiforme	adjetivo	sep|ti|[for]|me
+septífrago	adjetivo	sep|[tí]|fra|go
+séptil	adjetivo	[sép]|til
+septilião	adjetivo	sep|ti|li|[ão]
+septilião	nome masculino	sep|ti|li|[ão]
+septimano	nome masculino	sep|ti|[ma]|no
+septimestre	adjetivo	sep|ti|[mes]|tre
+septimestre	nome masculino	sep|ti|[mes]|tre
+septimiano	adjetivo	sep|ti|mi|[a]|no
+septimino	nome masculino	sep|ti|[mi]|no
+septingentésimo	adjetivo	sep|tin|gen|[té]|si|mo
+septingentésimo	número fraccional	sep|tin|gen|[té]|si|mo
+septingentésimo	nome masculino	sep|tin|gen|[té]|si|mo
+septingentésimo	número ordinal	sep|tin|gen|[té]|si|mo
+septirreme	adjetivo	sep|tir|[re]|me
+septirreme	nome feminino	sep|tir|[re]|me
+septissecular	adjetivo	sep|tis|se|cu|[lar]
+septissilábico	adjetivo	sep|tis|si|[lá]|bi|co
+septissílabo	adjetivo	sep|tis|[sí]|la|bo
+septissílabo	nome masculino	sep|tis|[sí]|la|bo
+septíssono	adjetivo	sep|[tís]|so|no
+septívoco	adjetivo	sep|[tí]|vo|co
+septo	nome masculino	[sep]|to
+septométrico	adjetivo	sep|to|[mé]|tri|co
+septômetro	nome masculino	sep|[tô]|me|tro
+septómetro	nome masculino	sep|[tó]|me|tro
+septoso	adjetivo	sep|[to]|so
+septuagenária	nome feminino	sep|tu|a|ge|[ná]|ri|a
+septuagenário	adjetivo	sep|tu|a|ge|[ná]|ri|o
+septuagenário	nome masculino	sep|tu|a|ge|[ná]|ri|o
+septuagésima	nome feminino	sep|tu|a|[gé]|si|ma
+septuagésimo	adjetivo	sep|tu|a|[gé]|si|mo
+septuagésimo	número fraccional	sep|tu|a|[gé]|si|mo
+septuagésimo	nome masculino	sep|tu|a|[gé]|si|mo
+septuagésimo	número ordinal	sep|tu|a|[gé]|si|mo
+séptula	nome feminino	[sép]|tu|la
+septulífero	adjetivo	sep|tu|[lí]|fe|ro
+septunce	nome masculino	sep|[tun]|ce
+séptuor	nome masculino	[sép]|tu|or
+septupleta	nome feminino	sep|tu|[ple]|ta
+septuplicar	verbo	sep|tu|pli|[car]
+séptuplo	adjetivo	[sép]|tu|plo
+séptuplo	nome masculino	[sép]|tu|plo
+séptuplo	número multiplicativo	[sép]|tu|plo
+septusse	nome masculino	sep|[tus]|se
+sepulcral	adjetivo	se|pul|[cral]
+sepulcrário	nome masculino	se|pul|[crá]|ri|o
+sepulcro	nome masculino	se|[pul]|cro
+sepulcrologia	nome feminino	se|pul|cro|lo|[gi]|a
+sepultação	nome feminino	se|pul|ta|[ção]
+sepultador	adjetivo	se|pul|ta|[dor]
+sepultador	nome masculino	se|pul|ta|[dor]
+sepultadora	nome feminino	se|pul|ta|[do]|ra
+sepultamento	nome masculino	se|pul|ta|[men]|to
+sepultante	adjetivo	se|pul|[tan]|te
+sepultar	verbo	se|pul|[tar]
+sepultável	adjetivo	se|pul|[tá]|vel
+sepulto	adjetivo	se|[pul]|to
+sepultura	nome feminino	se|pul|[tu]|ra
+sepultureiro	nome masculino	se|pul|tu|[rei]|ro
+sequace	adjetivo	se|[qua]|ce
+sequace	nome masculino	se|[qua]|ce
+sequace	nome feminino	se|[qua]|ce
+sequaniano	adjetivo	se|qua|ni|[a]|no
+sequânico	adjetivo	se|[quâ]|ni|co
+séquano	adjetivo	[sé]|qua|no
+séquano	nome masculino	[sé]|qua|no
+sequaz	adjetivo	se|[quaz]
+sequaz	nome masculino	se|[quaz]
+sequaz	nome feminino	se|[quaz]
+sequeira	nome feminino	se|[quei]|ra
+sequeiro	nome masculino	se|[quei]|ro
+sequeiro	adjetivo	se|[quei]|ro
+sequela	nome feminino	se|[que]|la
+sequência	nome feminino	se|[quên]|ci|a
+sequenciação	nome feminino	se|quen|ci|a|[ção]
+sequencial	nome masculino	se|quen|ci|[al]
+sequencial	adjetivo	se|quen|ci|[al]
+sequencialidade	nome feminino	se|quen|ci|a|li|[da]|de
+sequenciar	verbo	se|quen|ci|[ar]
+sequenciário	nome masculino	se|quen|ci|[á]|ri|o
+sequenha	nome masculino	se|[que]|nha
+sequente	adjetivo	se|[quen]|te
+sequer	advérbio	se|[quer]
+sequestração	nome feminino	se|ques|tra|[ção]
+sequestrado	adjetivo	se|ques|[tra]|do
+sequestrado	nome masculino	se|ques|[tra]|do
+sequestrador	adjetivo	se|ques|tra|[dor]
+sequestrador	nome masculino	se|ques|tra|[dor]
+sequestradora	nome feminino	se|ques|tra|[do]|ra

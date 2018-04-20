@@ -1,0 +1,100 @@
+bamboante	adjetivo	bam|bo|[an]|te
+bamboar	verbo	bam|bo|[ar]
+bambocha	nome feminino	bam|[bo]|cha
+bambocha	nome masculino	bam|[bo]|cha
+bambochar	verbo	bam|bo|[char]
+bambochata	nome feminino	bam|bo|[cha]|ta
+bamboleadura	nome feminino	bam|bo|le|a|[du]|ra
+bamboleamento	nome masculino	bam|bo|le|a|[men]|to
+bamboleante	adjetivo	bam|bo|le|[an]|te
+bambolear	verbo	bam|bo|le|[ar]
+bamboleio	nome masculino	bam|bo|[lei]|o
+bambolim	nome masculino	bam|bo|[lim]
+bambolina	nome feminino	bam|bo|[li]|na
+bamboré	nome masculino	bam|bo|[ré]
+bambu	nome masculino	bam|[bu]
+bambuada	nome feminino	bam|bu|[a]|da
+bambual	nome masculino	bam|bu|[al]
+bambudo	adjetivo	bam|[bu]|do
+bambudur	nome masculino	bam|bu|[dur]
+bambudur	nome feminino	bam|bu|[dur]
+bambueira	nome feminino	bam|bu|[ei]|ra
+bambuela	adjetivo	bam|bu|[e]|la
+bambuela	nome masculino	bam|bu|[e]|la
+bambuela	nome feminino	bam|bu|[e]|la
+bambula	nome feminino	bam|[bu]|la
+bamburra	nome feminino	bam|[bur]|ra
+bamburral	nome masculino	bam|bur|[ral]
+bamburrice	nome feminino	bam|bur|[ri]|ce
+bambúrrio	nome masculino	bam|[búr]|ri|o
+bamburrista	adjetivo	bam|bur|[ris]|ta
+bamburrista	nome masculino	bam|bur|[ris]|ta
+bamburrista	nome feminino	bam|bur|[ris]|ta
+bamburro	nome masculino	bam|[bur]|ro
+bambusa	nome feminino	bam|[bu]|sa
+bambusáceo	adjetivo	bam|bu|[sá]|ce|o
+bambúsea	nome feminino	bam|[bú]|se|a
+bambusina	nome feminino	bam|bu|[si]|na
+bambuzal	nome masculino	bam|bu|[zal]
+banaboia	nome masculino	ba|na|[boi]|a
+banaboia	nome feminino	ba|na|[boi]|a
+banal	adjetivo	ba|[nal]
+banalidade	nome feminino	ba|na|li|[da]|de
+banalíssimo	adjetivo	ba|na|[lís]|si|mo
+banalização	nome feminino	ba|na|li|za|[ção]
+banalizador	adjetivo	ba|na|li|za|[dor]
+banalizador	nome masculino	ba|na|li|za|[dor]
+banalizar	verbo	ba|na|li|[zar]
+banalizável	adjetivo	ba|na|li|[zá]|vel
+banalmente	advérbio	ba|nal|[men]|te
+banana	adjetivo	ba|[na]|na
+banana	nome feminino	ba|[na]|na
+banana	nome masculino	ba|[na]|na
+banana-pão	nome feminino	ba|na|na-pão
+bananada	nome feminino	ba|na|[na]|da
+bananal	nome masculino	ba|na|[nal]
+bananeira	nome masculino	ba|na|[nei]|ra
+bananeira	nome feminino	ba|na|[nei]|ra
+bananeiral	nome masculino	ba|na|nei|[ral]
+bananeirinha-do-mato	nome feminino	ba|na|nei|ri|nha-do-ma|to
+bananeiro	adjetivo	ba|na|[nei]|ro
+bananeiro	nome masculino	ba|na|[nei]|ro
+bananice	nome feminino	ba|na|[ni]|ce
+bananinha	nome feminino	ba|na|[ni]|nha
+bananista	adjetivo	ba|na|[nis]|ta
+bananista	nome masculino	ba|na|[nis]|ta
+bananista	nome feminino	ba|na|[nis]|ta
+bananívoro	adjetivo	ba|na|[ní]|vo|ro
+banano	nome masculino	ba|[na]|no
+bananosa	nome feminino	ba|na|[no]|sa
+bananose	nome feminino	ba|na|[no]|se
+banazola	nome masculino	ba|na|[zo]|la
+banazola	nome feminino	ba|na|[zo]|la
+banca	nome feminino	[ban]|ca
+bançá	nome feminino	ban|[çá]
+bancá	nome masculino	ban|[cá]
+bancada	nome feminino	ban|[ca]|da
+bancal	nome masculino	ban|[cal]
+bancar	verbo	ban|[car]
+bancaria	nome feminino	ban|ca|[ri]|a
+bancária	nome feminino	ban|[cá]|ri|a
+bancário	adjetivo	ban|[cá]|ri|o
+bancário	nome masculino	ban|[cá]|ri|o
+bancarrota	nome feminino	ban|car|[ro]|ta
+bancarroteiro	adjetivo	ban|car|ro|[tei]|ro
+bancarroteiro	nome masculino	ban|car|ro|[tei]|ro
+bancarrotismo	nome masculino	ban|car|ro|[tis]|mo
+bâncio	adjetivo	[bân]|ci|o
+bâncio	nome masculino	[bân]|ci|o
+banco	nome masculino	[ban]|co
+banco-de-pinchar	nome masculino	ban|co-de-pin|[char]
+bancocracia	nome feminino	ban|co|cra|[ci]|a
+bancocrata	nome masculino	ban|co|[cra]|ta
+bancocrata	nome feminino	ban|co|[cra]|ta
+bancocrático	adjetivo	ban|co|[crá]|ti|co
+banda	nome masculino	[ban]|da
+banda	nome feminino	[ban]|da
+bandada	nome feminino	ban|[da]|da
+bandado	adjetivo	ban|[da]|do
+bandado	nome masculino	ban|[da]|do
+bandage	nome feminino	ban|da|ge

@@ -1,0 +1,100 @@
+desfruidor	adjetivo	des|frui|[dor]
+desfruidor	nome masculino	des|frui|[dor]
+desfruir	verbo	des|fru|[ir]
+desfruta	nome feminino	des|[fru]|ta
+desfrutação	nome feminino	des|fru|ta|[ção]
+desfrutador	adjetivo	des|fru|ta|[dor]
+desfrutador	nome masculino	des|fru|ta|[dor]
+desfrutar	verbo	des|fru|[tar]
+desfrutável	adjetivo	des|fru|[tá]|vel
+desfrute	nome masculino	des|[fru]|te
+desfrutescer	verbo	des|fru|tes|[cer]
+desfruto	nome masculino	des|[fru]|to
+desfunchar	verbo	des|fun|[char]
+desfundar	verbo	des|fun|[dar]
+desgabador	adjetivo	des|ga|ba|[dor]
+desgabador	nome masculino	des|ga|ba|[dor]
+desgabar	verbo	des|ga|[bar]
+desgabo	nome masculino	des|[ga]|bo
+desgadelhado	adjetivo	des|ga|de|[lha]|do
+desgadelhar	verbo	des|ga|de|[lhar]
+desgalante	adjetivo	des|ga|[lan]|te
+desgalgar	verbo	des|gal|[gar]
+desgalhamento	nome masculino	des|ga|lha|[men]|to
+desgalhar	verbo	des|ga|[lhar]
+desgalvanização	nome feminino	des|gal|va|ni|za|[ção]
+desgalvanizar	verbo	des|gal|va|ni|[zar]
+desgarantir	verbo	des|ga|ran|[tir]
+desgargalado	adjetivo	des|gar|ga|[la]|do
+desgargalar	verbo	des|gar|ga|[lar]
+desgarrada	nome feminino	des|gar|[ra]|da
+desgarradamente	advérbio	des|gar|ra|da|[men]|te
+desgarrado	adjetivo	des|gar|[ra]|do
+desgarrão	nome masculino	des|gar|[rão]
+desgarrão	adjetivo	des|gar|[rão]
+desgarrar	verbo	des|gar|[rar]
+desgarre	nome masculino	des|[gar]|re
+desgarro	nome masculino	des|[gar]|ro
+desgarronar	verbo	des|gar|ro|[nar]
+desgastado	adjetivo	des|gas|[ta]|do
+desgastante	adjetivo	des|gas|[tan]|te
+desgastar	verbo	des|gas|[tar]
+desgastável	adjetivo	des|gas|[tá]|vel
+desgaste	nome masculino	des|[gas]|te
+desgasto	nome masculino	des|[gas]|to
+desgasto	adjetivo	des|[gas]|to
+desgelador	adjetivo	des|ge|la|[dor]
+desgelador	nome masculino	des|ge|la|[dor]
+desgelar	verbo	des|ge|[lar]
+desgelo	nome masculino	des|[ge]|lo
+desgentilizar	verbo	des|gen|ti|li|[zar]
+desglabração	nome feminino	des|gla|bra|[ção]
+desglabrar	verbo	des|gla|[brar]
+desglobulização	nome feminino	des|glo|bu|li|za|[ção]
+desglobulizar	verbo	des|glo|bu|li|[zar]
+desgoelar	verbo	des|go|e|[lar]
+desgorgomilado	adjetivo	des|gor|go|mi|[la]|do
+desgorjado	adjetivo	des|gor|[ja]|do
+desgornir	verbo	des|gor|[nir]
+desgostante	adjetivo	des|gos|[tan]|te
+desgostar	verbo	des|gos|[tar]
+desgostável	adjetivo	des|gos|[tá]|vel
+desgosto	nome masculino	des|[gos]|to
+desgostosamente	advérbio	des|gos|to|sa|[men]|te
+desgostoso	adjetivo	des|gos|[to]|so
+desgovernação	nome feminino	des|go|ver|na|[ção]
+desgovernada	nome feminino	des|go|ver|[na]|da
+desgovernadamente	advérbio	des|go|ver|na|da|[men]|te
+desgovernado	adjetivo	des|go|ver|[na]|do
+desgovernado	nome masculino	des|go|ver|[na]|do
+desgovernamentalização	nome feminino	des|go|ver|na|men|ta|li|za|[ção]
+desgovernamentalizar	verbo	des|go|ver|na|men|ta|li|[zar]
+desgovernar	verbo	des|go|ver|[nar]
+desgoverno	nome masculino	des|go|[ver]|no
+desgraça	nome feminino	des|[gra]|ça
+desgraçada	nome feminino	des|gra|[ça]|da
+desgraçadamente	advérbio	des|gra|ça|da|[men]|te
+desgraçado	adjetivo	des|gra|[ça]|do
+desgraçado	nome masculino	des|gra|[ça]|do
+desgraçar	verbo	des|gra|[çar]
+desgraceira	nome feminino	des|gra|[cei]|ra
+desgraciamento	nome masculino	des|gra|ci|a|[men]|to
+desgraciar	verbo	des|gra|ci|[ar]
+desgraciosamente	advérbio	des|gra|ci|o|sa|[men]|te
+desgracioso	adjetivo	des|gra|ci|[o]|so
+desgradear	verbo	des|gra|de|[ar]
+desgraduar	verbo	des|gra|du|[ar]
+desgranação	nome feminino	des|gra|na|[ção]
+desgranar	verbo	des|gra|[nar]
+desgranulação	nome feminino	des|gra|nu|la|[ção]
+desgravidação	nome feminino	des|gra|vi|da|[ção]
+desgravidar	verbo	des|gra|vi|[dar]
+desgravitado	adjetivo	des|gra|vi|[ta]|do
+desgraxamento	nome masculino	des|gra|xa|[men]|to
+desgraxar	verbo	des|gra|[xar]
+desgregar	verbo	des|gre|[gar]
+desgrenhado	adjetivo	des|gre|[nha]|do
+desgrenhamento	nome masculino	des|gre|nha|[men]|to
+desgrenhar	verbo	des|gre|[nhar]
+desgrilhoar	verbo	des|gri|lho|[ar]
+desgrinaldar	verbo	des|gri|nal|[dar]

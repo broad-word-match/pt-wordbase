@@ -1,0 +1,100 @@
+difónico	adjetivo	di|[fó]|ni|co
+difosfato	nome masculino	di|fos|[fa]|to
+difração	nome feminino	di|fra|[ção]
+difractómetro	nome masculino	di|frac|[tó]|me|tro
+difractômetro	nome masculino	di|frac|[tô]|me|tro
+difratar	verbo	di|fra|[tar]
+difrativo	adjetivo	di|fra|[ti]|vo
+difratômetro	nome masculino	di|fra|[tô]|me|tro
+difratómetro	nome masculino	di|fra|[tó]|me|tro
+difringente	adjetivo	di|frin|[gen]|te
+difteria	nome feminino	dif|te|[ri]|a
+diftérica	nome feminino	dif|[té]|ri|ca
+diftérico	adjetivo	dif|[té]|ri|co
+diftérico	nome masculino	dif|[té]|ri|co
+difuba	nome feminino	di|[fu]|ba
+difundido	adjetivo	di|fun|[di]|do
+difundidor	adjetivo	di|fun|di|[dor]
+difundidor	nome masculino	di|fun|di|[dor]
+difundir	verbo	di|fun|[dir]
+difundível	adjetivo	di|fun|[dí]|vel
+difusamente	advérbio	di|fu|sa|[men]|te
+difusão	nome feminino	di|fu|[são]
+difusibilidade	nome feminino	di|fu|si|bi|li|[da]|de
+difusidade	nome feminino	di|fu|si|[da]|de
+difusionismo	nome masculino	di|fu|si|o|[nis]|mo
+difusionista	adjetivo	di|fu|si|o|[nis]|ta
+difusionista	nome masculino	di|fu|si|o|[nis]|ta
+difusionista	nome feminino	di|fu|si|o|[nis]|ta
+difusionístico	adjetivo	di|fu|si|o|[nís]|ti|co
+difusível	adjetivo	di|fu|[sí]|vel
+difusivo	adjetivo	di|fu|[si]|vo
+difuso	adjetivo	di|[fu]|so
+difusor	nome masculino	di|fu|[sor]
+difusor	adjetivo	di|fu|[sor]
+difusora	nome feminino	di|fu|[so]|ra
+difuta	nome feminino	di|[fu]|ta
+digama	nome masculino	di|[ga]|ma
+digamia	nome feminino	di|ga|[mi]|a
+dígamo	adjetivo	[dí]|ga|mo
+dígamo	nome masculino	[dí]|ga|mo
+digar	nome masculino	di|[gar]
+digástrico	adjetivo	di|[gás]|tri|co
+digênese	nome feminino	di|[gê]|ne|se
+digénese	nome feminino	di|[gé]|ne|se
+digenesia	nome feminino	di|ge|ne|[si]|a
+digenético	adjetivo	di|ge|[né]|ti|co
+digenia	nome feminino	di|ge|[ni]|a
+digénie	nome feminino	di|[gé]|ni|e
+digênie	nome feminino	di|[gê]|ni|e
+digeribilidade	nome feminino	di|ge|ri|bi|li|[da]|de
+digerido	adjetivo	di|ge|[ri]|do
+digerir	verbo	di|ge|[rir]
+digerível	adjetivo	di|ge|[rí]|vel
+digestão	nome feminino	di|ges|[tão]
+digestibilidade	nome feminino	di|ges|ti|bi|li|[da]|de
+digestível	adjetivo	di|ges|[tí]|vel
+digestivo	adjetivo	di|ges|[ti]|vo
+digestivo	nome masculino	di|ges|[ti]|vo
+digesto	nome masculino	di|[ges]|to
+digesto	adjetivo	di|[ges]|to
+digestor	nome masculino	di|ges|[tor]
+digestor	adjetivo	di|ges|[tor]
+digestório	adjetivo	di|ges|[tó]|ri|o
+diginia	nome feminino	di|gi|[ni]|a
+dígino	adjetivo	[dí]|gi|no
+digitação	nome feminino	di|gi|ta|[ção]
+digitado	adjetivo	di|gi|[ta]|do
+digital	nome feminino	di|gi|[tal]
+digital	adjetivo	di|gi|[tal]
+digitálea	nome feminino	di|gi|[tá]|le|a
+digitaliforme	adjetivo	di|gi|ta|li|[for]|me
+digitalina	nome feminino	di|gi|ta|[li]|na
+digitalização	nome feminino	di|gi|ta|li|za|[ção]
+digitalizado	adjetivo	di|gi|ta|li|[za]|do
+digitalizador	nome masculino	di|gi|ta|li|za|[dor]
+digitalizar	verbo	di|gi|ta|li|[zar]
+digitalmente	advérbio	di|gi|tal|[men]|te
+digitar	verbo	di|gi|[tar]
+digitífero	adjetivo	di|gi|[tí]|fe|ro
+digitifoliado	adjetivo	di|gi|ti|fo|li|[a]|do
+digitiforme	adjetivo	di|gi|ti|[for]|me
+digitígrado	nome masculino	di|gi|[tí]|gra|do
+digitígrado	adjetivo	di|gi|[tí]|gra|do
+dígito	adjetivo	[dí]|gi|to
+dígito	nome masculino	[dí]|gi|to
+digladiação	nome feminino	di|gla|di|a|[ção]
+digladiador	nome masculino	di|gla|di|a|[dor]
+digladiador	adjetivo	di|gla|di|a|[dor]
+digladiadora	nome feminino	di|gla|di|a|[do]|ra
+digladiar	verbo	di|gla|di|[ar]
+diglicerídeo	nome masculino	di|gli|ce|[rí]|de|o
+díglifo	nome masculino	[dí]|gli|fo
+diglossia	nome feminino	di|glos|[si]|a
+dignação	nome feminino	dig|na|[ção]
+dignamente	advérbio	dig|na|[men]|te
+dignar	verbo	dig|[nar]
+dignidade	nome feminino	dig|ni|[da]|de
+dignificação	nome feminino	dig|ni|fi|ca|[ção]
+dignificador	adjetivo	dig|ni|fi|ca|[dor]
+dignificador	nome masculino	dig|ni|fi|ca|[dor]

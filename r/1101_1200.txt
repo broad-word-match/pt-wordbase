@@ -1,0 +1,100 @@
+raposio	nome masculino	ra|po|[si]|o
+raposo	nome masculino	ra|[po]|so
+raposo	adjetivo	ra|[po]|so
+rappel	nome masculino	rap|pel
+rapper	nome masculino	rap|per
+rapper	nome feminino	rap|per
+rapsódia	nome feminino	rap|[só]|di|a
+rapsodicamente	advérbio	rap|so|di|ca|[men]|te
+rapsódico	adjetivo	rap|[só]|di|co
+rapsodista	adjetivo	rap|so|[dis]|ta
+rapsodista	nome masculino	rap|so|[dis]|ta
+rapsodista	nome feminino	rap|so|[dis]|ta
+rapsodo	nome masculino	rap|[so]|do
+rapsodomancia	nome feminino	rap|so|do|man|[ci]|a
+rapsodomante	nome masculino	rap|so|do|[man]|te
+rapsodomante	nome feminino	rap|so|do|[man]|te
+rapsodomântico	adjetivo	rap|so|do|[mân]|ti|co
+raptado	adjetivo	rap|[ta]|do
+raptado	nome masculino	rap|[ta]|do
+raptador	adjetivo	rap|ta|[dor]
+raptador	nome masculino	rap|ta|[dor]
+raptar	verbo	rap|[tar]
+raptável	adjetivo	rap|[tá]|vel
+rapto	nome masculino	[rap]|to
+raptor	adjetivo	rap|[tor]
+raptor	nome masculino	rap|[tor]
+raptora	nome feminino	rap|[to]|ra
+ráptus	nome masculino	[ráp]|tus
+rapume	nome masculino	ra|[pu]|me
+rapúncio	nome masculino	ra|[pún]|ci|o
+raque	nome feminino	[ra]|que
+raque	nome masculino	[ra]|que
+raquel	nome feminino	ra|[quel]
+raqueta	nome feminino	ra|[que]|ta
+raquete	nome feminino	ra|[que]|te
+raquiagra	nome feminino	ra|qui|[a]|gra
+raquialgia	nome feminino	ra|qui|al|[gi]|a
+raquiálgico	adjetivo	ra|qui|[ál]|gi|co
+raquianestesia	nome feminino	ra|qui|a|nes|te|[si]|a
+raquianestésico	adjetivo	ra|qui|a|nes|[té]|si|co
+raquianestético	adjetivo	ra|qui|a|nes|[té]|ti|co
+raquiano	adjetivo	ra|qui|[a]|no
+raquicentese	nome feminino	ra|qui|cen|[te]|se
+raquídeo	adjetivo	ra|[quí]|de|o
+raquidiano	adjetivo	ra|qui|di|[a]|no
+raquiocentese	nome feminino	ra|qui|o|cen|[te]|se
+raquioglosso	nome masculino	ra|qui|o|[glos]|so
+raquiotomia	nome feminino	ra|qui|o|to|[mi]|a
+raquiotómico	adjetivo	ra|qui|o|[tó]|mi|co
+raquiotômico	adjetivo	ra|qui|o|[tô]|mi|co
+raquiótomo	nome masculino	ra|qui|[ó]|to|mo
+ráquis	nome feminino	[rá]|quis
+raquítica	nome feminino	ra|[quí]|ti|ca
+raquiticamente	advérbio	ra|qui|ti|ca|[men]|te
+raquítico	nome masculino	ra|[quí]|ti|co
+raquítico	adjetivo	ra|[quí]|ti|co
+raquitismo	nome masculino	ra|qui|[tis]|mo
+raquitizar	verbo	ra|qui|ti|[zar]
+raramente	advérbio	ra|ra|[men]|te
+rareamento	nome masculino	ra|re|a|[men]|to
+rarear	verbo	ra|re|[ar]
+rarefação	nome feminino	ra|re|fa|[ção]
+rarefacção	nome feminino	ra|re|fac|[ção]
+rarefaciente	adjetivo	ra|re|fa|ci|[en]|te
+rarefactibilidade	nome feminino	ra|re|fac|ti|bi|li|[da]|de
+rarefactível	adjetivo	ra|re|fac|[tí]|vel
+rarefactivo	adjetivo	ra|re|fac|[ti]|vo
+rarefacto	adjetivo	ra|re|[fac]|to
+rarefactor	adjetivo	ra|re|fac|[tor]
+rarefactor	nome masculino	ra|re|fac|[tor]
+rarefatibilidade	nome feminino	ra|re|fa|ti|bi|li|[da]|de
+rarefatível	adjetivo	ra|re|fa|[tí]|vel
+rarefativo	adjetivo	ra|re|fa|[ti]|vo
+rarefato	adjetivo	ra|re|[fa]|to
+rarefator	adjetivo	ra|re|fa|[tor]
+rarefator	nome masculino	ra|re|fa|[tor]
+rarefazer	verbo	ra|re|fa|[zer]
+rarefeito	adjetivo	ra|re|[fei]|to
+rareira	nome feminino	ra|[rei]|ra
+rarescência	nome feminino	ra|res|[cên]|ci|a
+rarescente	adjetivo	ra|res|[cen]|te
+rarescer	verbo	ra|res|[cer]
+rareza	nome feminino	ra|[re]|za
+raridade	nome feminino	ra|ri|[da]|de
+rarifloro	adjetivo	ra|ri|[flo]|ro
+rarifoliado	adjetivo	ra|ri|fo|li|[a]|do
+rarifólio	adjetivo	ra|ri|[fó]|li|o
+rarípilo	adjetivo	ra|[rí]|pi|lo
+raro	adjetivo	[ra]|ro
+raro	advérbio	[ra]|ro
+raro	nome masculino	[ra]|ro
+rarunga	adjetivo	ra|[run]|ga
+rarunga	nome masculino	ra|[run]|ga
+rarunga	nome feminino	ra|[run]|ga
+rás	nome masculino	[rás]
+rasa	nome feminino	[ra]|sa
+rasadura	nome feminino	ra|sa|[du]|ra
+rasamente	advérbio	ra|sa|[men]|te
+rasamento	nome masculino	ra|sa|[men]|to
+rasante	adjetivo	ra|[san]|te

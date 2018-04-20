@@ -1,0 +1,100 @@
+cérica	nome feminino	[cé]|ri|ca
+cérico	adjetivo	[cé]|ri|co
+cerieira	nome feminino	ce|ri|[ei]|ra
+cerieiro	nome masculino	ce|ri|[ei]|ro
+cerífero	adjetivo	ce|[rí]|fe|ro
+cerífico	adjetivo	ce|[rí]|fi|co
+cerilha	nome feminino	ce|[ri]|lha
+cerimônia	nome feminino	ce|ri|[mô]|ni|a
+cerimónia	nome feminino	ce|ri|[mó]|ni|a
+cerimonial	adjetivo	ce|ri|mo|ni|[al]
+cerimonial	nome masculino	ce|ri|mo|ni|[al]
+cerimoniar	verbo	ce|ri|mo|ni|[ar]
+cerimoniário	nome masculino	ce|ri|mo|ni|[á]|ri|o
+cerimoniaticamente	advérbio	ce|ri|mo|ni|a|ti|ca|[men]|te
+cerimoniático	adjetivo	ce|ri|mo|ni|[á]|ti|co
+cerimoniosamente	advérbio	ce|ri|mo|ni|o|sa|[men]|te
+cerimonioso	adjetivo	ce|ri|mo|ni|[o]|so
+cerina	nome feminino	ce|[ri]|na
+cerinto	nome masculino	ce|[rin]|to
+cério	nome masculino	[cé]|ri|o
+ceriosa	nome feminino	ce|ri|[o]|sa
+cerirrostro	adjetivo	ce|rir|[ros]|tro
+cerita	nome feminino	ce|[ri]|ta
+cerite	nome feminino	ce|[ri]|te
+cérite	nome masculino	[cé]|ri|te
+ceritídeo	nome masculino	ce|ri|[tí]|de|o
+ceritídeo	adjetivo	ce|ri|[tí]|de|o
+cernambi	nome masculino	cer|nam|[bi]
+cernar	verbo	cer|[nar]
+cerne	nome masculino	[cer]|ne
+cerne	adjetivo	[cer]|ne
+cerneira	nome feminino	cer|[nei]|ra
+cerneiro	adjetivo	cer|[nei]|ro
+cernelha	nome feminino	cer|[ne]|lha
+cernelhador	nome masculino	cer|ne|lha|[dor]
+cérneo	adjetivo	[cér]|ne|o
+cernideira	nome feminino	cer|ni|[dei]|ra
+cernir	verbo	cer|[nir]
+ceroferário	nome masculino	ce|ro|fe|[rá]|ri|o
+ceroide	adjetivo	ce|[roi]|de
+ceroilas	nome feminino	ce|[roi]|las
+cerol	nome masculino	ce|[rol]
+ceroma	nome feminino	ce|[ro]|ma
+ceromancia	nome feminino	ce|ro|man|[ci]|a
+ceromante	nome masculino	ce|ro|[man]|te
+ceromante	nome feminino	ce|ro|[man]|te
+ceromântico	adjetivo	ce|ro|[mân]|ti|co
+cerome	nome masculino	ce|[ro]|me
+ceromel	nome masculino	ce|ro|[mel]
+ceroplastia	nome feminino	ce|ro|plas|[ti]|a
+ceroplástica	nome feminino	ce|ro|[plás]|ti|ca
+ceroplástico	adjetivo	ce|ro|[plás]|ti|co
+cerosa	nome feminino	ce|[ro]|sa
+ceroso	adjetivo	ce|[ro]|so
+ceroto	nome masculino	ce|[ro]|to
+ceroulas	nome feminino	ce|[rou]|las
+ceroxilina	nome feminino	ce|ro|xi|[li]|na
+ceroxilo	nome masculino	ce|ro|[xi]|lo
+cerqueiro	adjetivo	cer|[quei]|ro
+cerqueiro	nome masculino	cer|[quei]|ro
+cerquido	nome masculino	cer|[qui]|do
+cerquinho	nome masculino	cer|[qui]|nho
+cerra-boca	nome masculino	cer|ra-bo|ca
+cerra-cabos	nome masculino	cer|ra-ca|bos
+cerra-fila	nome masculino	cer|ra-fi|la
+cerração	nome feminino	cer|ra|[ção]
+cerradal	nome masculino	cer|ra|[dal]
+cerradamente	advérbio	cer|ra|da|[men]|te
+cerradão	nome masculino	cer|ra|[dão]
+cerradinha	nome feminino	cer|ra|[di]|nha
+cerrado	adjetivo	cer|[ra]|do
+cerrado	nome masculino	cer|[ra]|do
+cerradoiro	nome masculino	cer|ra|[doi]|ro
+cerradouro	nome masculino	cer|ra|[dou]|ro
+cerradura	nome feminino	cer|ra|[du]|ra
+cerramento	nome masculino	cer|ra|[men]|to
+cerrar	verbo	cer|[rar]
+cerretano	adjetivo	cer|re|[ta]|no
+cerretano	nome masculino	cer|re|[ta]|no
+cerrete	adjetivo	cer|[re]|te
+cerrete	nome masculino	cer|[re]|te
+cerrete	nome feminino	cer|[re]|te
+cerrilha	nome feminino	cer|[ri]|lha
+cerro	nome masculino	[cer]|ro
+cerrote	nome masculino	cer|[ro]|te
+cerrucho	nome masculino	cer|[ru]|cho
+certa	nome feminino	[cer]|ta
+certame	nome masculino	cer|[ta]|me
+certâmen	nome masculino	cer|[tâ]|men
+certamente	advérbio	cer|ta|[men]|te
+certar	verbo	cer|[tar]
+certeiramente	advérbio	cer|tei|ra|[men]|te
+certeiro	adjetivo	cer|[tei]|ro
+certeza	nome feminino	cer|[te]|za
+cértia	nome feminino	[cér]|ti|a
+certidão	nome feminino	cer|ti|[dão]
+certificabilidade	nome feminino	cer|ti|fi|ca|bi|li|[da]|de
+certificação	nome feminino	cer|ti|fi|ca|[ção]
+certificado	adjetivo	cer|ti|fi|[ca]|do
+certificado	nome masculino	cer|ti|fi|[ca]|do

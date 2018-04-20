@@ -1,0 +1,100 @@
+quadrúpede	adjetivo	qua|[drú]|pe|de
+quadrúpede	nome feminino	qua|[drú]|pe|de
+quadruplar	verbo	qua|dru|[plar]
+quadrupleta	nome feminino	qua|dru|[ple]|ta
+quadruplicação	nome feminino	qua|dru|pli|ca|[ção]
+quadruplicadamente	advérbio	qua|dru|pli|ca|da|[men]|te
+quadruplicado	adjetivo	qua|dru|pli|[ca]|do
+quadruplicado	nome masculino	qua|dru|pli|[ca]|do
+quadruplicador	adjetivo	qua|dru|pli|ca|[dor]
+quadruplicador	nome masculino	qua|dru|pli|ca|[dor]
+quadruplicar	verbo	qua|dru|pli|[car]
+quadruplicável	adjetivo	qua|dru|pli|[cá]|vel
+quádruplo	número multiplicativo	[quá]|dru|plo
+quádruplo	nome masculino	[quá]|dru|plo
+quádruplo	adjetivo	[quá]|dru|plo
+quadrusse	nome masculino	qua|[drus]|se
+quadrússis	nome masculino	qua|[drús]|sis
+quaiapá	nome masculino	quai|a|[pá]
+quaitsi	adjetivo	quait|[si]
+quaitsi	nome masculino	quait|[si]
+qual	pronome interrogativo	[qual]
+qual	artigo interrogativo	[qual]
+qual	pronome relativo	[qual]
+qual	conjunção	[qual]
+qual	interjeição	[qual]
+qual	pronome indefinido	[qual]
+quáli	nome masculino	[quá]|li
+qualidade	nome feminino	qua|li|[da]|de
+qualificação	nome feminino	qua|li|fi|ca|[ção]
+qualificadamente	advérbio	qua|li|fi|ca|da|[men]|te
+qualificado	adjetivo	qua|li|fi|[ca]|do
+qualificador	adjetivo	qua|li|fi|ca|[dor]
+qualificador	nome masculino	qua|li|fi|ca|[dor]
+qualificante	adjetivo	qua|li|fi|[can]|te
+qualificar	verbo	qua|li|fi|[car]
+qualificativamente	advérbio	qua|li|fi|ca|ti|va|[men]|te
+qualificativo	adjetivo	qua|li|fi|ca|[ti]|vo
+qualificativo	nome masculino	qua|li|fi|ca|[ti]|vo
+qualificável	adjetivo	qua|li|fi|[cá]|vel
+qualifying	nome masculino	qua|li|fy|ing
+qualitativamente	advérbio	qua|li|ta|ti|va|[men]|te
+qualitativo	adjetivo	qua|li|ta|[ti]|vo
+qualquer	artigo indefinido	qual|[quer]
+quamato	adjetivo	qua|[ma]|to
+quamato	nome masculino	qua|[ma]|to
+quamátui	adjetivo	qua|[má]|tui
+quamátui	nome masculino	qua|[má]|tui
+quando	conjunção	[quan]|do
+quando	advérbio	[quan]|do
+quanhama	adjetivo	qua|[nha]|ma
+quanhama	nome masculino	qua|[nha]|ma
+quaniama	adjetivo	qua|ni|[a]|ma
+quaniama	nome masculino	qua|ni|[a]|ma
+quanta	nome masculino	[quan]|ta
+quantia	nome feminino	quan|[ti]|a
+quantiar	verbo	quan|ti|[ar]
+quântico	adjetivo	[quân]|ti|co
+quantidade	nome feminino	quan|ti|[da]|de
+quantificação	nome feminino	quan|ti|fi|ca|[ção]
+quantificado	adjetivo	quan|ti|fi|[ca]|do
+quantificador	nome masculino	quan|ti|fi|ca|[dor]
+quantificador	adjetivo	quan|ti|fi|ca|[dor]
+quantificar	verbo	quan|ti|fi|[car]
+quantificável	adjetivo	quan|ti|fi|[cá]|vel
+quantil	nome masculino	quan|[til]
+quantiosamente	advérbio	quan|ti|o|sa|[men]|te
+quantioso	adjetivo	quan|ti|[o]|so
+quantitativamente	advérbio	quan|ti|ta|ti|va|[men]|te
+quantitativo	adjetivo	quan|ti|ta|[ti]|vo
+quantitativo	nome masculino	quan|ti|ta|[ti]|vo
+quanto	nome masculino	[quan]|to
+quanto	advérbio	[quan]|to
+quanto	artigo interrogativo	[quan]|to
+quanto	pronome interrogativo	[quan]|to
+quanto	conjunção	[quan]|to
+quanto	pronome relativo	[quan]|to
+quanto	artigo indefinido	[quan]|to
+quanto	pronome indefinido	[quan]|to
+quantofrenia	nome feminino	quan|to|fre|[ni]|a
+quantum	nome masculino	quan|[tum]
+quanza	nome masculino	[quan]|za
+quão	advérbio	qu|[ão]
+quapoia	nome feminino	qua|[poi]|a
+quarador	nome masculino	qua|ra|[dor]
+quarar	verbo	qua|[rar]
+quárcico	adjetivo	[quár]|ci|co
+quarcífero	adjetivo	quar|[cí]|fe|ro
+quarciforme	adjetivo	quar|ci|[for]|me
+quarcite	nome feminino	quar|[ci]|te
+quarço	nome masculino	[quar]|ço
+quarçoso	adjetivo	quar|[ço]|so
+quarenta	nome masculino	qua|[ren]|ta
+quarenta	número cardinal	qua|[ren]|ta
+quarenta	adjetivo	qua|[ren]|ta
+quarentão	adjetivo	qua|ren|[tão]
+quarentão	nome masculino	qua|ren|[tão]
+quarentar	verbo	qua|ren|[tar]
+quarentena	nome feminino	qua|ren|[te]|na
+quarentenar	verbo	qua|ren|te|[nar]
+quarentenário	nome masculino	qua|ren|te|[ná]|ri|o

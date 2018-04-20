@@ -1,0 +1,100 @@
+acetoso	adjetivo	a|ce|[to]|so
+acetoxídase	nome feminino	a|ce|to|[xí]|da|se
+aceu	adjetivo	a|[ceu]
+aceu	nome masculino	a|[ceu]
+acevadar	verbo	a|ce|va|[dar]
+acevar	verbo	a|ce|[var]
+acha	nome feminino	[a]|cha
+acha de armas	nome feminino	[a]|cha de ar|mas
+achabaçar	verbo	a|cha|ba|[çar]
+achaboucado	adjetivo	a|cha|bou|[ca]|do
+achacadiço	adjetivo	a|cha|ca|[di]|ço
+achacado	adjetivo	a|cha|[ca]|do
+achacador	adjetivo	a|cha|ca|[dor]
+achacador	nome masculino	a|cha|ca|[dor]
+achacar	verbo	a|cha|[car]
+achacoso	adjetivo	a|cha|[co]|so
+achada	nome feminino	a|[cha]|da
+achádego	nome masculino	a|[chá]|de|go
+achadiço	adjetivo	a|cha|[di]|ço
+achadilha	nome feminino	a|cha|[di]|lha
+achado	nome masculino	a|[cha]|do
+achado	adjetivo	a|[cha]|do
+achadoiro	nome masculino	a|cha|[doi]|ro
+achador	adjetivo	a|cha|[dor]
+achador	nome masculino	a|cha|[dor]
+achadouro	nome masculino	a|cha|[dou]|ro
+achafundar	verbo	a|cha|fun|[dar]
+achafurdar	verbo	a|cha|fur|[dar]
+achaguá	adjetivo	a|cha|[guá]
+achaguá	nome masculino	a|cha|[guá]
+achaguá	nome feminino	a|cha|[guá]
+achalezado	adjetivo	a|cha|le|[za]|do
+achamalotado	adjetivo	a|cha|ma|lo|[ta]|do
+achamalotar	verbo	a|cha|ma|lo|[tar]
+achamboado	adjetivo	a|cham|bo|[a]|do
+achamboar	verbo	a|cham|bo|[ar]
+achamboaria	nome feminino	a|cham|bo|a|[ri]|a
+achamento	nome masculino	a|cha|[men]|to
+achamorrado	adjetivo	a|cha|mor|[ra]|do
+achanar	verbo	a|cha|[nar]
+achanatado	adjetivo	a|cha|na|[ta]|do
+achanatar	verbo	a|cha|na|[tar]
+achancado	adjetivo	a|chan|[ca]|do
+achancar	verbo	a|chan|[car]
+achanti	adjetivo	a|chan|[ti]
+achanti	nome masculino	a|chan|[ti]
+achanti	nome feminino	a|chan|[ti]
+achanzar	verbo	a|chan|[zar]
+achaparradamente	advérbio	a|cha|par|ra|da|[men]|te
+achaparrado	adjetivo	a|cha|par|[ra]|do
+achaparrar	verbo	a|cha|par|[rar]
+achaque	nome masculino	a|[cha]|que
+achaqueira	nome feminino	a|cha|[quei]|ra
+achaquento	adjetivo	a|cha|[quen]|to
+achaquilho	nome masculino	a|cha|[qui]|lho
+achar	nome masculino	a|[char]
+achar	verbo	a|[char]
+acharcar	verbo	a|char|[car]
+acharoado	adjetivo	a|cha|ro|[a]|do
+acharoador	nome masculino	a|cha|ro|a|[dor]
+acharoamento	nome masculino	a|cha|ro|a|[men]|to
+acharoar	verbo	a|cha|ro|[ar]
+achatadamente	advérbio	a|cha|ta|da|[men]|te
+achatadela	nome feminino	a|cha|ta|[de]|la
+achatado	adjetivo	a|cha|[ta]|do
+achatadura	nome feminino	a|cha|ta|[du]|ra
+achatamento	nome masculino	a|cha|ta|[men]|to
+achatar	verbo	a|cha|[tar]
+achavascadamente	advérbio	a|cha|vas|ca|da|[men]|te
+achavascado	adjetivo	a|cha|vas|[ca]|do
+achavascar	verbo	a|cha|vas|[car]
+achável	adjetivo	a|[chá]|vel
+ache	nome masculino	[a]|che
+achega	nome feminino	a|[che]|ga
+achegadamente	advérbio	a|che|ga|da|[men]|te
+achegadeira	nome feminino	a|che|ga|[dei]|ra
+achegado	adjetivo	a|che|[ga]|do
+achegado	nome masculino	a|che|[ga]|do
+achegador	adjetivo	a|che|ga|[dor]
+achegador	nome masculino	a|che|ga|[dor]
+achegamento	nome masculino	a|che|ga|[men]|to
+acheganças	nome feminino	a|che|[gan]|ças
+achegar	verbo	a|che|[gar]
+achego	nome masculino	a|[che]|go
+acheguilho	nome masculino	a|che|[gui]|lho
+achelense	adjetivo	a|che|[len]|se
+achelense	nome masculino	a|che|[len]|se
+achém	adjetivo	a|[chém]
+achém	nome masculino	a|[chém]
+achém	nome feminino	a|[chém]
+achibantado	adjetivo	a|chi|ban|[ta]|do
+achibantar	verbo	a|chi|ban|[tar]
+achicador	adjetivo	a|chi|ca|[dor]
+achicador	nome masculino	a|chi|ca|[dor]
+achicadura	nome feminino	a|chi|ca|[du]|ra
+achicanar	verbo	a|chi|ca|[nar]
+achicar	verbo	a|chi|[car]
+achichelar	verbo	a|chi|che|[lar]
+achigã	nome masculino	a|chi|[gã]
+achinado	adjetivo	a|chi|[na]|do

@@ -1,0 +1,100 @@
+vaguense	nome feminino	va|[guen]|se
+vagueza	nome feminino	va|[gue]|za
+vaguidade	nome feminino	va|gui|[da]|de
+vaguíssimo	adjetivo	va|[guís]|si|mo
+vai-e-vem	nome masculino	[vai-e-vem]
+vai-não-vai	advérbio	[vai-não-vai]
+vai-não-vai	nome masculino	[vai-não-vai]
+vai-te-a-ele	nome masculino	vai-te-a-e|le
+vaia	nome feminino	[vai]|a
+vaiador	adjetivo	vai|a|[dor]
+vaiador	nome masculino	vai|a|[dor]
+vaiar	verbo	vai|[ar]
+vaidade	nome feminino	vai|[da]|de
+vaidosa	nome feminino	vai|[do]|sa
+vaidosamente	advérbio	vai|do|sa|[men]|te
+vaidoso	nome masculino	vai|[do]|so
+vaidoso	adjetivo	vai|[do]|so
+vaidosura	nome feminino	vai|do|[su]|ra
+vaila	nome feminino	[vai]|la
+vaillântia	nome feminino	va|il|[lân]|ti|a
+vaipe	nome feminino	[vai]|pe
+vaiqueno	nome masculino	vai|[que]|no
+vaira	nome feminino	[vai]|ra
+vairão	nome masculino	vai|[rão]
+vaitarreca	interjeição	vai|tar|[re]|ca
+vaivém	nome masculino	vai|[vém]
+vaivode	nome masculino	vai|[vo]|de
+vaivodia	nome feminino	vai|vo|[di]|a
+vaixá	nome masculino	vai|[xá]
+vaixá	nome feminino	vai|[xá]
+vaixiá	nome masculino	vai|xi|[á]
+vaja	nome feminino	[va]|ja
+vajé	nome masculino	va|[jé]
+vala	nome feminino	[va]|la
+valabuá	nome masculino	va|la|bu|[á]
+valada	nome feminino	va|[la]|da
+valadão	nome masculino	va|la|[dão]
+valadeiro	nome masculino	va|la|[dei]|ro
+valadio	adjetivo	va|la|[di]|o
+valado	adjetivo	va|[la]|do
+valado	nome masculino	va|[la]|do
+valador	adjetivo	va|la|[dor]
+valador	nome masculino	va|la|[dor]
+valadora	nome feminino	va|la|[do]|ra
+valadura	nome feminino	va|la|[du]|ra
+valagem	nome feminino	va|[la]|gem
+valanginiano	adjetivo	va|lan|gi|ni|[a]|no
+valão	nome masculino	va|[lão]
+valão	adjetivo	va|[lão]
+valaplé	nome feminino	va|la|[plé]
+valáquia	nome feminino	va|[lá]|qui|a
+valáquico	adjetivo	va|[lá]|qui|co
+valáquico	nome masculino	va|[lá]|qui|co
+valáquio	nome masculino	va|[lá]|qui|o
+valáquio	adjetivo	va|[lá]|qui|o
+valar	verbo	va|[lar]
+valar	adjetivo	va|[lar]
+valboeiro	adjetivo	val|bo|[ei]|ro
+valboeiro	nome masculino	val|bo|[ei]|ro
+valboense	adjetivo	val|bo|[en]|se
+valboense	nome masculino	val|bo|[en]|se
+valboense	nome feminino	val|bo|[en]|se
+valdeiro	adjetivo	val|[dei]|ro
+valdense	nome masculino	val|[den]|se
+valdense	adjetivo	val|[den]|se
+valdense	nome feminino	val|[den]|se
+valdevinos	nome masculino	val|de|[vi]|nos
+valdismo	nome masculino	val|[dis]|mo
+valdista	adjetivo	val|[dis]|ta
+valdista	nome masculino	val|[dis]|ta
+valdista	nome feminino	val|[dis]|ta
+valdo	nome masculino	[val]|do
+valdurão	nome masculino	val|du|[rão]
+vale	nome masculino	[va]|le
+vale-cambrense	nome masculino	va|le-cam|[bren]|se
+vale-cambrense	adjetivo	va|le-cam|[bren]|se
+vale-cambrense	nome feminino	va|le-cam|[bren]|se
+vale-ouro	nome masculino	va|le-ou|ro
+valécula	nome feminino	va|[lé]|cu|la
+valecular	adjetivo	va|le|cu|[lar]
+valedio	adjetivo	va|le|[di]|o
+valedoiro	adjetivo	va|le|[doi]|ro
+valedor	adjetivo	va|le|[dor]
+valedor	nome masculino	va|le|[dor]
+valedora	nome feminino	va|le|[do]|ra
+valedouro	adjetivo	va|le|[dou]|ro
+valeira	nome feminino	va|[lei]|ra
+valeiro	nome masculino	va|[lei]|ro
+valeiro	adjetivo	va|[lei]|ro
+valejo	nome masculino	va|[le]|jo
+valência	nome feminino	va|[lên]|ci|a
+valenciana	nome feminino	va|len|ci|[a]|na
+valencianite	nome feminino	va|len|ci|a|[ni]|te
+valenciano	adjetivo	va|len|ci|[a]|no
+valenciano	nome masculino	va|len|ci|[a]|no
+valencina	nome feminino	va|len|[ci]|na
+valense	adjetivo	va|[len]|se
+valense	nome masculino	va|[len]|se
+valense	nome feminino	va|[len]|se
+valentaça	nome feminino	va|len|[ta]|ça

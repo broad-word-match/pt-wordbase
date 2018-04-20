@@ -1,0 +1,100 @@
+portfólio	nome masculino	port|[fó]|li|o
+portfolio	nome masculino	port|fo|li|o
+pórtico	nome masculino	[pór]|ti|co
+portilha	nome feminino	por|[ti]|lha
+portilhão	nome masculino	por|ti|[lhão]
+portilho	nome masculino	por|[ti]|lho
+portimonense	nome masculino	por|ti|mo|[nen]|se
+portimonense	adjetivo	por|ti|mo|[nen]|se
+portimonense	nome feminino	por|ti|mo|[nen]|se
+portinhola	nome feminino	por|ti|[nho]|la
+portista	adjetivo	por|[tis]|ta
+portista	nome feminino	por|[tis]|ta
+portlandiano	adjetivo	por|tlan|di|[a]|no
+porto	nome masculino	[por]|to
+porto-alegrense	nome masculino	por|to-a|le|[gren]|se
+porto-alegrense	adjetivo	por|to-a|le|[gren]|se
+porto-alegrense	nome feminino	por|to-a|le|[gren]|se
+porto-monicense	nome masculino	por|to-mo|ni|[cen]|se
+porto-monicense	adjetivo	por|to-mo|ni|[cen]|se
+porto-monicense	nome feminino	por|to-mo|ni|[cen]|se
+porto-mosense	nome masculino	por|to-mo|[sen]|se
+porto-mosense	adjetivo	por|to-mo|[sen]|se
+porto-mosense	nome feminino	por|to-mo|[sen]|se
+porto-riquenho	nome masculino	por|to-ri|[que]|nho
+porto-riquenho	adjetivo	por|to-ri|[que]|nho
+porto-riquense	adjetivo	por|to-ri|[quen]|se
+porto-riquense	nome masculino	por|to-ri|[quen]|se
+porto-riquense	nome feminino	por|to-ri|[quen]|se
+porto-santense	adjetivo	por|to-san|[ten]|se
+porto-santense	nome masculino	por|to-san|[ten]|se
+porto-santense	nome feminino	por|to-san|[ten]|se
+porto-segurense	adjetivo	por|to-se|gu|[ren]|se
+porto-segurense	nome masculino	por|to-se|gu|[ren]|se
+porto-segurense	nome feminino	por|to-se|gu|[ren]|se
+porto-velhense	nome masculino	por|to-ve|[lhen]|se
+porto-velhense	adjetivo	por|to-ve|[lhen]|se
+porto-velhense	nome feminino	por|to-ve|[lhen]|se
+portolacáceo	adjetivo	por|to|la|[cá]|ce|o
+portuário	adjetivo	por|tu|[á]|ri|o
+portucalense	adjetivo	por|tu|ca|[len]|se
+portucalense	nome masculino	por|tu|ca|[len]|se
+portucalense	nome feminino	por|tu|ca|[len]|se
+portucha	nome feminino	por|[tu]|cha
+portuchar	verbo	por|tu|[char]
+portuchos	nome masculino	por|[tu]|chos
+portuense	adjetivo	por|tu|[en]|se
+portuense	nome masculino	por|tu|[en]|se
+portuense	nome feminino	por|tu|[en]|se
+portuga	nome masculino	por|[tu]|ga
+portuga	nome feminino	por|[tu]|ga
+portugal-velho	nome masculino	por|tu|gal-ve|lho
+portugalense	adjetivo	por|tu|ga|[len]|se
+portugalense	nome masculino	por|tu|ga|[len]|se
+portugalense	nome feminino	por|tu|ga|[len]|se
+portugalês	adjetivo	por|tu|ga|[lês]
+portugalês	nome masculino	por|tu|ga|[lês]
+portugalidade	nome feminino	por|tu|ga|li|[da]|de
+portugalizar	verbo	por|tu|ga|li|[zar]
+português	nome masculino	por|tu|[guês]
+português	adjetivo	por|tu|[guês]
+portuguesa	nome feminino	por|tu|[gue]|sa
+portuguesada	nome feminino	por|tu|gue|[sa]|da
+portuguesar	verbo	por|tu|gue|[sar]
+portuguesismo	nome masculino	por|tu|gue|[sis]|mo
+portuguesmente	advérbio	por|tu|gues|[men]|te
+portulaca	nome feminino	por|tu|[la]|ca
+portulacácea	nome feminino	por|tu|la|[cá]|ce|a
+portuláceo	adjetivo	por|tu|[lá]|ce|o
+portulano	nome masculino	por|tu|[la]|no
+portunídeo	adjetivo	por|tu|[ní]|de|o
+portunídeo	nome masculino	por|tu|[ní]|de|o
+portuoso	adjetivo	por|tu|[o]|so
+poruca	nome feminino	po|[ru]|ca
+porunga	nome feminino	po|[run]|ga
+porventura	advérbio	por|ven|[tu]|ra
+porvindoiro	adjetivo	por|vin|[doi]|ro
+porvindouro	nome masculino	por|vin|[dou]|ro
+porvindouro	adjetivo	por|vin|[dou]|ro
+porvindouros	nome masculino	por|vin|[dou]|ros
+porvir	nome masculino	por|[vir]
+pós	preposição	[pós]
+pós	preposição	[pós]
+pós-abdome	nome masculino	pós-ab|[do]|me
+pós-abdômen	nome masculino	pós-ab|[dô]|men
+pós-abdómen	nome masculino	pós-ab|[dó]|men
+pós-adjetival	adjetivo	pós-ad|je|ti|[val]
+pós-alexandrino	adjetivo	pós-a|le|xan|[dri]|no
+pós-apocalíptico	adjetivo	pós-a|po|ca|[líp]|ti|co
+pós-augustano	adjetivo	pós-au|gus|[ta]|no
+pós-bizantino	adjetivo	pós-bi|zan|[ti]|no
+pós-boca	nome feminino	pós-bo|ca
+pós-bucal	adjetivo	pós-bu|[cal]
+pós-bucal	nome feminino	pós-bu|[cal]
+pós-cabralino	adjetivo	pós-ca|bra|[li]|no
+pós-camoniano	adjetivo	pós-ca|mo|ni|[a]|no
+pós-clássico	adjetivo	pós-clás|si|co
+pós-colombiano	adjetivo	pós-co|lom|bi|[a]|no
+pós-colonial	adjetivo	pós-co|lo|ni|[al]
+pós-comunhão	nome feminino	pós-co|mu|[nhão]
+pós-comunismo	nome masculino	pós-co|mu|[nis]|mo

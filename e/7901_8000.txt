@@ -1,0 +1,100 @@
+escodear	verbo	es|co|de|[ar]
+escoiçar	verbo	es|coi|[çar]
+escoiceador	adjetivo	es|coi|ce|a|[dor]
+escoiceador	nome masculino	es|coi|ce|a|[dor]
+escoicear	verbo	es|coi|ce|[ar]
+escoicinhador	adjetivo	es|coi|ci|nha|[dor]
+escoicinhador	nome masculino	es|coi|ci|nha|[dor]
+escoicinhar	verbo	es|coi|ci|[nhar]
+escoicinhativo	adjetivo	es|coi|ci|nha|[ti]|vo
+escoimar	verbo	es|coi|[mar]
+escoira	nome feminino	es|[coi]|ra
+escoiral	nome masculino	es|coi|[ral]
+escol	nome masculino	es|[col]
+escola	nome feminino	es|[co]|la
+escola-cantina	nome feminino	es|co|la-can|[ti]|na
+escola-modelo	nome feminino	es|co|la-mo|[de]|lo
+escola-piloto	nome feminino	es|co|la-pi|[lo]|to
+escolado	adjetivo	es|co|[la]|do
+escolar	adjetivo	es|co|[lar]
+escolar	nome masculino	es|co|[lar]
+escolar	nome feminino	es|co|[lar]
+escolarca	nome masculino	es|co|[lar]|ca
+escolaridade	nome feminino	es|co|la|ri|[da]|de
+escolarização	nome feminino	es|co|la|ri|za|[ção]
+escolarizado	adjetivo	es|co|la|ri|[za]|do
+escolarizar	verbo	es|co|la|ri|[zar]
+escolarizável	adjetivo	es|co|la|ri|[zá]|vel
+escolarmente	advérbio	es|co|lar|[men]|te
+escolástica	nome feminino	es|co|[lás]|ti|ca
+escolasticamente	advérbio	es|co|las|ti|ca|[men]|te
+escolasticismo	nome masculino	es|co|las|ti|[cis]|mo
+escolástico	nome masculino	es|co|[lás]|ti|co
+escolástico	adjetivo	es|co|[lás]|ti|co
+escoldrinhar	verbo	es|col|dri|[nhar]
+escolece	nome masculino	es|co|[le]|ce
+escolecologia	nome feminino	es|co|le|co|lo|[gi]|a
+escolecológico	adjetivo	es|co|le|co|[ló]|gi|co
+escoleiro	nome masculino	es|co|[lei]|ro
+escólex	nome masculino	es|[có]|lex
+escolha	nome feminino	es|[co]|lha
+escolhambado	adjetivo	es|co|lham|[ba]|do
+escolhedeira	nome feminino	es|co|lhe|[dei]|ra
+escolhedor	adjetivo	es|co|lhe|[dor]
+escolhedor	nome masculino	es|co|lhe|[dor]
+escolheito	adjetivo	es|co|[lhei]|to
+escolher	verbo	es|co|[lher]
+escolhida	nome feminino	es|co|[lhi]|da
+escolhidamente	advérbio	es|co|lhi|da|[men]|te
+escolhido	adjetivo	es|co|[lhi]|do
+escolhido	nome masculino	es|co|[lhi]|do
+escolhimento	nome masculino	es|co|lhi|[men]|to
+escolho	nome masculino	es|[co]|lho
+escoliador	nome masculino	es|co|li|a|[dor]
+escoliar	verbo	es|co|li|[ar]
+escoliasta	nome masculino	es|co|li|[as]|ta
+escoliasta	nome feminino	es|co|li|[as]|ta
+escólimo	nome masculino	es|[có]|li|mo
+escólimo-malhado	nome masculino	es|có|li|mo-ma|[lha]|do
+escólio	nome masculino	es|[có]|li|o
+escoliose	nome feminino	es|co|li|[o]|se
+escoliótico	adjetivo	es|co|li|[ó]|ti|co
+escolmar	verbo	es|col|[mar]
+escolopacídeo	nome masculino	es|co|lo|pa|[cí]|de|o
+escolopacídeo	nome masculino	es|co|lo|pa|[cí]|de|o
+escolopacídeo	adjetivo	es|co|lo|pa|[cí]|de|o
+escolopendra	nome feminino	es|co|lo|[pen]|dra
+escolopêndrio	nome masculino	es|co|lo|[pên]|dri|o
+escolta	nome feminino	es|[col]|ta
+escoltador	adjetivo	es|col|ta|[dor]
+escoltador	nome masculino	es|col|ta|[dor]
+escoltar	verbo	es|col|[tar]
+escombrado	adjetivo	es|com|[bra]|do
+escombrar	verbo	es|com|[brar]
+escombreira	nome feminino	es|com|[brei]|ra
+escômbrida	nome masculino	es|[côm]|bri|da
+escômbrida	adjetivo	es|[côm]|bri|da
+escômbrida	nome masculino	es|[côm]|bri|da
+escombrídeo	nome masculino	es|com|[brí]|de|o
+escombrídeo	adjetivo	es|com|[brí]|de|o
+escombrídeo	nome masculino	es|com|[brí]|de|o
+escombriforme	nome masculino	es|com|bri|[for]|me
+escombriforme	adjetivo	es|com|bri|[for]|me
+escombro	nome masculino	es|[com]|bro
+escombros	nome masculino	es|[com]|bros
+escondarelos	nome masculino	es|con|da|[re]|los
+esconde-esconde	nome masculino	es|con|de-es|[con]|de
+escondedoiro	nome masculino	es|con|de|[doi]|ro
+escondedor	nome masculino	es|con|de|[dor]
+escondedouro	nome masculino	es|con|de|[dou]|ro
+escondedura	nome feminino	es|con|de|[du]|ra
+esconder	verbo	es|con|[der]
+esconderelo	nome masculino	es|con|de|[re]|lo
+esconderijeira	nome feminino	es|con|de|ri|[jei]|ra
+esconderijo	nome masculino	es|con|de|[ri]|jo
+esconderilho	nome masculino	es|con|de|[ri]|lho
+escondidamente	advérbio	es|con|di|da|[men]|te
+escondidas	nome feminino	es|con|[di]|das
+escondido	adjetivo	es|con|[di]|do
+escondido	nome masculino	es|con|[di]|do
+escondimento	nome masculino	es|con|di|[men]|to

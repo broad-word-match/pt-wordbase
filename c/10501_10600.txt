@@ -1,0 +1,100 @@
+circuitar	verbo	cir|cui|[tar]
+circuito	nome masculino	cir|[cui]|to
+circulabilidade	nome feminino	cir|cu|la|bi|li|[da]|de
+circulação	nome feminino	cir|cu|la|[ção]
+circulado	adjetivo	cir|cu|[la]|do
+circulador	nome masculino	cir|cu|la|[dor]
+circulante	adjetivo	cir|cu|[lan]|te
+circular	verbo	cir|cu|[lar]
+circular	adjetivo	cir|cu|[lar]
+circular	nome feminino	cir|cu|[lar]
+circularidade	nome feminino	cir|cu|la|ri|[da]|de
+circularmente	advérbio	cir|cu|lar|[men]|te
+circulatoriamente	advérbio	cir|cu|la|to|ri|a|[men]|te
+circulatório	adjetivo	cir|cu|la|[tó]|ri|o
+circulável	adjetivo	cir|cu|[lá]|vel
+círculo	nome masculino	[cír]|cu|lo
+circum-adjacente	adjetivo	cir|cum-ad|ja|[cen]|te
+circum-ambiente	adjetivo	cir|cum-am|bi|[en]|te
+circum-anal	adjetivo	cir|cum-na|[val]
+circum-errar	verbo	cir|cum-er|[rar]
+circum-escolar	adjetivo	cir|cum-es|co|[lar]
+circum-hospitalar	adjetivo	cir|cum-hos|pi|ta|[lar]
+circum-murado	adjetivo	cir|cum-mu|[ra]|do
+circum-navegabilidade	nome feminino	cir|cum-na|ve|ga|bi|li|[da]|de
+circum-navegação	nome feminino	cir|cum-na|ve|ga|[ção]
+circum-navegador	nome masculino	cir|cum-na|ve|ga|[dor]
+circum-navegar	verbo	cir|cum-na|ve|[gar]
+circum-navegável	adjetivo	cir|cum-na|ve|[gá]|vel
+circumpacífico	adjetivo	cir|cum|pa|[cí]|fi|co
+circumpadano	adjetivo	cir|cum|pa|[da]|no
+circumpalpebral	adjetivo	cir|cum|pal|pe|[bral]
+circumpatente	adjetivo	cir|cum|pa|[ten]|te
+circumpolar	adjetivo	cir|cum|po|[lar]
+circumpor	verbo	cir|cum|[por]
+circuncentro	nome masculino	cir|cun|[cen]|tro
+circuncidada	nome feminino	cir|cun|ci|[da]|da
+circuncidado	adjetivo	cir|cun|ci|[da]|do
+circuncidado	nome masculino	cir|cun|ci|[da]|do
+circuncidar	verbo	cir|cun|ci|[dar]
+circuncisa	nome feminino	cir|cun|[ci]|sa
+circuncisão	nome feminino	cir|cun|ci|[são]
+circunciso	adjetivo	cir|cun|[ci]|so
+circunciso	nome masculino	cir|cun|[ci]|so
+circundação	nome feminino	cir|cun|da|[ção]
+circundamento	nome masculino	cir|cun|da|[men]|to
+circundante	adjetivo	cir|cun|[dan]|te
+circundar	verbo	cir|cun|[dar]
+circundável	adjetivo	cir|cun|[dá]|vel
+circundução	nome feminino	cir|cun|du|[ção]
+circundutar	verbo	cir|cun|du|[tar]
+circunduto	adjetivo	cir|cun|[du]|to
+circunferência	nome feminino	cir|cun|fe|[rên]|ci|a
+circunferencial	adjetivo	cir|cun|fe|ren|ci|[al]
+circunferente	adjetivo	cir|cun|fe|[ren]|te
+circunflexamente	advérbio	cir|cun|fle|xa|[men]|te
+circunflexão	nome feminino	cir|cun|fle|[xão]
+circunflexo	adjetivo	cir|cun|[fle]|xo
+circunfluência	nome feminino	cir|cun|flu|[ên]|ci|a
+circunfluente	adjetivo	cir|cun|flu|[en]|te
+circunfluir	verbo	cir|cun|flu|[ir]
+circunforâneo	adjetivo	cir|cun|fo|[râ]|ne|o
+circunfundir	verbo	cir|cun|fun|[dir]
+circunfusa	nome feminino	cir|cun|[fu]|sa
+circunfusão	nome feminino	cir|cun|fu|[são]
+circungirar	verbo	cir|cun|gi|[rar]
+circunjacência	nome feminino	cir|cun|ja|[cên]|ci|a
+circunjacente	adjetivo	cir|cun|ja|[cen]|te
+circunjazer	verbo	cir|cun|ja|[zer]
+circunlabial	adjetivo	cir|cun|la|bi|[al]
+circunlocução	nome feminino	cir|cun|lo|cu|[ção]
+circunloquial	adjetivo	cir|cun|lo|qui|[al]
+circunlóquio	nome masculino	cir|cun|[ló]|qui|o
+circunrevoluto	adjetivo	cir|cun|re|vo|[lu]|to
+circunrodar	verbo	cir|cun|ro|[dar]
+circunscrever	verbo	cir|cuns|cre|[ver]
+circunscrição	nome feminino	cir|cuns|cri|[ção]
+circunscricional	adjetivo	cir|cuns|cri|ci|o|[nal]
+circunscritível	adjetivo	cir|cuns|cri|[tí]|vel
+circunscritivo	adjetivo	cir|cuns|cri|[ti]|vo
+circunscrito	adjetivo	cir|cuns|[cri]|to
+circunsessão	nome feminino	cir|cun|ses|[são]
+circunsoante	adjetivo	cir|cun|so|[an]|te
+circunsonante	adjetivo	cir|cun|so|[nan]|te
+circunsonar	verbo	cir|cun|so|[nar]
+circunspeção	nome feminino	cir|cuns|pe|[ção]
+circunspecção	nome feminino	cir|cuns|pec|[ção]
+circunspeccionar	verbo	cir|cuns|pec|ci|o|[nar]
+circunspecionar	verbo	cir|cuns|pe|ci|o|[nar]
+circunspectamente	advérbio	cir|cuns|pec|ta|[men]|te
+circunspecto	adjetivo	cir|cuns|[pec]|to
+circunspetamente	advérbio	cir|cuns|pe|ta|[men]|te
+circunspeto	adjetivo	cir|cuns|[pe]|to
+circunstância	nome feminino	cir|cuns|[tân]|ci|a
+circunstanciadamente	advérbio	cir|cuns|tan|ci|a|da|[men]|te
+circunstanciado	adjetivo	cir|cuns|tan|ci|[a]|do
+circunstanciador	adjetivo	cir|cuns|tan|ci|a|[dor]
+circunstanciador	nome masculino	cir|cuns|tan|ci|a|[dor]
+circunstancial	adjetivo	cir|cuns|tan|ci|[al]
+circunstancialmente	advérbio	cir|cuns|tan|ci|al|[men]|te
+circunstanciar	verbo	cir|cuns|tan|ci|[ar]

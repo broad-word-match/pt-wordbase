@@ -1,0 +1,100 @@
+decisório	adjetivo	de|ci|[só]|ri|o
+decissecular	adjetivo	de|cis|se|cu|[lar]
+decisteno	nome masculino	de|cis|[te]|no
+decistere	nome masculino	de|cis|[te]|re
+decistéreo	nome masculino	de|cis|[té]|re|o
+deck	nome masculino	[deck]
+declamação	nome feminino	de|cla|ma|[ção]
+declamador	adjetivo	de|cla|ma|[dor]
+declamador	nome masculino	de|cla|ma|[dor]
+declamadora	nome feminino	de|cla|ma|[do]|ra
+declamante	adjetivo	de|cla|[man]|te
+declamante	nome masculino	de|cla|[man]|te
+declamante	nome feminino	de|cla|[man]|te
+declamar	verbo	de|cla|[mar]
+declamativamente	advérbio	de|cla|ma|ti|va|[men]|te
+declamativo	adjetivo	de|cla|ma|[ti]|vo
+declamatoriamente	advérbio	de|cla|ma|to|ri|a|[men]|te
+declamatório	adjetivo	de|cla|ma|[tó]|ri|o
+declamável	adjetivo	de|cla|[má]|vel
+declaração	nome feminino	de|cla|ra|[ção]
+declaradamente	advérbio	de|cla|ra|da|[men]|te
+declaradas	nome feminino	de|cla|[ra]|das
+declarado	adjetivo	de|cla|[ra]|do
+declarador	adjetivo	de|cla|ra|[dor]
+declarador	nome masculino	de|cla|ra|[dor]
+declarante	adjetivo	de|cla|[ran]|te
+declarante	nome masculino	de|cla|[ran]|te
+declarante	nome feminino	de|cla|[ran]|te
+declarar	verbo	de|cla|[rar]
+declarativamente	advérbio	de|cla|ra|ti|va|[men]|te
+declarativo	adjetivo	de|cla|ra|[ti]|vo
+declaratoriamente	advérbio	de|cla|ra|to|ri|a|[men]|te
+declaratório	adjetivo	de|cla|ra|[tó]|ri|o
+declarável	adjetivo	de|cla|[rá]|vel
+declareza	nome feminino	de|cla|[re]|za
+declina	nome feminino	de|[cli]|na
+declinabilidade	nome feminino	de|cli|na|bi|li|[da]|de
+declinação	nome feminino	de|cli|na|[ção]
+declinado	adjetivo	de|cli|[na]|do
+declinador	nome masculino	de|cli|na|[dor]
+declinador	adjetivo	de|cli|na|[dor]
+declinante	adjetivo	de|cli|[nan]|te
+declinar	verbo	de|cli|[nar]
+declinativo	adjetivo	de|cli|na|[ti]|vo
+declinatória	nome feminino	de|cli|na|[tó]|ri|a
+declinatório	adjetivo	de|cli|na|[tó]|ri|o
+declinável	adjetivo	de|cli|[ná]|vel
+declínio	nome masculino	de|[clí]|ni|o
+declinometria	nome feminino	de|cli|no|me|[tri]|a
+declinométrico	adjetivo	de|cli|no|[mé]|tri|co
+declinômetro	nome masculino	de|cli|[nô]|me|tro
+declinómetro	nome masculino	de|cli|[nó]|me|tro
+declinoso	adjetivo	de|cli|[no]|so
+declivado	adjetivo	de|cli|[va]|do
+declivar	verbo	de|cli|[var]
+declive	adjetivo	de|[cli]|ve
+declive	nome masculino	de|[cli]|ve
+declividade	nome feminino	de|cli|vi|[da]|de
+declívio	nome masculino	de|[clí]|vi|o
+declivoso	adjetivo	de|cli|[vo]|so
+decoada	nome feminino	de|co|[a]|da
+decoar	verbo	de|co|[ar]
+decocção	nome feminino	de|coc|[ção]
+decocto	adjetivo	de|[coc]|to
+decocto	nome masculino	de|[coc]|to
+decodificação	nome feminino	de|co|di|fi|ca|[ção]
+decodificado	adjetivo	de|co|di|fi|[ca]|do
+decodificar	verbo	de|co|di|fi|[car]
+decodificável	adjetivo	de|co|di|fi|[cá]|vel
+decolação	nome feminino	de|co|la|[ção]
+decolagem	nome feminino	de|co|[la]|gem
+decolar	verbo	de|co|[lar]
+decolorar	verbo	de|co|lo|[rar]
+decomponente	adjetivo	de|com|po|[nen]|te
+decomponente	nome masculino	de|com|po|[nen]|te
+decomponente	nome feminino	de|com|po|[nen]|te
+decomponibilidade	nome feminino	de|com|po|ni|bi|li|[da]|de
+decomponível	adjetivo	de|com|po|[ní]|vel
+decompor	verbo	de|com|[por]
+decomposição	nome feminino	de|com|po|si|[ção]
+decompositor	adjetivo	de|com|po|si|[tor]
+decompositor	nome masculino	de|com|po|si|[tor]
+décor	nome masculino	dé|cor
+decoração	nome feminino	de|co|ra|[ção]
+decorado	adjetivo	de|co|[ra]|do
+decorador	adjetivo	de|co|ra|[dor]
+decorador	nome masculino	de|co|ra|[dor]
+decoradora	nome feminino	de|co|ra|[do]|ra
+decorar	verbo	de|co|[rar]
+decorativamente	advérbio	de|co|ra|ti|va|[men]|te
+decorativo	adjetivo	de|co|ra|[ti]|vo
+decorável	adjetivo	de|co|[rá]|vel
+decoreba	nome feminino	de|co|[re]|ba
+decoro	nome masculino	de|[co]|ro
+decoroação	nome feminino	de|co|ro|a|[ção]
+decorosamente	advérbio	de|co|ro|sa|[men]|te
+decoroso	adjetivo	de|co|[ro]|so
+decorrência	nome feminino	de|cor|[rên]|ci|a
+decorrente	adjetivo	de|cor|[ren]|te
+decorrer	verbo	de|cor|[rer]

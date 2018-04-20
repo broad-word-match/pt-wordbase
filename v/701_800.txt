@@ -1,0 +1,100 @@
+variolização	nome feminino	va|ri|o|li|za|[ção]
+variolizar	verbo	va|ri|o|li|[zar]
+varioloide	nome feminino	va|ri|o|[loi]|de
+varioloide	adjetivo	va|ri|o|[loi]|de
+variolose	nome feminino	va|ri|o|[lo]|se
+varioloso	nome masculino	va|ri|o|[lo]|so
+varioloso	adjetivo	va|ri|o|[lo]|so
+variolovacina	nome feminino	va|ri|o|lo|va|[ci]|na
+variolovacinação	nome feminino	va|ri|o|lo|va|ci|na|[ção]
+variómetro	nome masculino	va|ri|[ó]|me|tro
+variômetro	nome masculino	va|ri|[ô]|me|tro
+vários	pronome indefinido	[vá]|ri|os
+variz	nome feminino	va|[riz]
+varja	nome feminino	[var]|ja
+varjão	nome masculino	var|[jão]
+varjota	nome feminino	var|[jo]|ta
+varlete	nome masculino	var|[le]|te
+varli	adjetivo	var|[li]
+varli	nome masculino	var|[li]
+varli	nome feminino	var|[li]
+varloa	nome feminino	var|[lo]|a
+varloas	nome feminino	var|[lo]|as
+varo	adjetivo	[va]|ro
+varola	nome masculino	va|[ro]|la
+varola	nome feminino	va|[ro]|la
+varonia	nome feminino	va|ro|[ni]|a
+varonil	adjetivo	va|ro|[nil]
+varonilidade	nome feminino	va|ro|ni|li|[da]|de
+varonilmente	advérbio	va|ro|nil|[men]|te
+varrão	nome masculino	var|[rão]
+varrasco	nome masculino	var|[ras]|co
+varrasco-do-mar	nome masculino	var|ras|co-do-mar
+varrasquete	nome masculino	var|ras|[que]|te
+varreção	nome feminino	var|re|[ção]
+varredeira	nome feminino	var|re|[dei]|ra
+varredela	nome feminino	var|re|[de]|la
+varredoira	nome feminino	var|re|[doi]|ra
+varredoira	adjetivo	var|re|[doi]|ra
+varredoiro	nome masculino	var|re|[doi]|ro
+varredor	adjetivo	var|re|[dor]
+varredor	nome masculino	var|re|[dor]
+varredora	nome feminino	var|re|[do]|ra
+varredoura	nome feminino	var|re|[dou]|ra
+varredoura	adjetivo	var|re|[dou]|ra
+varredouro	nome masculino	var|re|[dou]|ro
+varredura	nome feminino	var|re|[du]|ra
+varrenhar	verbo	var|re|[nhar]
+varrer	verbo	var|[rer]
+varrição	nome feminino	var|ri|[ção]
+varrida	nome feminino	var|[ri]|da
+varrido	nome masculino	var|[ri]|do
+varrido	adjetivo	var|[ri]|do
+varrimenta	nome feminino	var|ri|[men]|ta
+varriscador	nome masculino	var|ris|ca|[dor]
+varriscadouro	nome masculino	var|ris|ca|[dou]|ro
+varriscar	verbo	var|ris|[car]
+varroeira	nome feminino	var|ro|[ei]|ra
+varroniano	adjetivo	var|ro|ni|[a]|no
+varsoviana	nome feminino	var|so|vi|[a]|na
+varsoviano	adjetivo	var|so|vi|[a]|no
+varsoviano	nome masculino	var|so|vi|[a]|no
+varudo	adjetivo	va|[ru]|do
+varunca	nome masculino	va|[run]|ca
+varvarino	adjetivo	var|va|[ri]|no
+varvarino	nome masculino	var|va|[ri]|no
+varvaro	adjetivo	var|[va]|ro
+varvaro	nome masculino	var|[va]|ro
+varve	nome feminino	[var]|ve
+varvito	nome masculino	var|[vi]|to
+várzea	nome feminino	[vár]|ze|a
+varzedo	nome masculino	var|[ze]|do
+varzeiro	nome masculino	var|[zei]|ro
+varzim	nome masculino	var|[zim]
+varzim	adjetivo	var|[zim]
+varzina	nome feminino	var|[zi]|na
+varzinista	nome masculino	var|zi|[nis]|ta
+varzinista	adjetivo	var|zi|[nis]|ta
+varzinista	nome feminino	var|zi|[nis]|ta
+varzino	adjetivo	var|[zi]|no
+varzino	nome masculino	var|[zi]|no
+vasa	nome feminino	[va]|sa
+vasalado	adjetivo	va|sa|[la]|do
+vasaréu	nome masculino	va|sa|[réu]
+vasário	nome masculino	va|[sá]|ri|o
+vasate	adjetivo	va|[sa]|te
+vasate	nome masculino	va|[sa]|te
+vasate	nome feminino	va|[sa]|te
+vasca	nome feminino	[vas]|ca
+vascão	adjetivo	vas|[cão]
+vascão	nome masculino	vas|[cão]
+vasco	nome masculino	[vas]|co
+vasco	adjetivo	[vas]|co
+vascolejador	adjetivo	vas|co|le|ja|[dor]
+vascolejador	nome masculino	vas|co|le|ja|[dor]
+vascolejamento	nome masculino	vas|co|le|ja|[men]|to
+vascolejar	verbo	vas|co|le|[jar]
+vasconcear	verbo	vas|con|ce|[ar]
+vasconcelense	adjetivo	vas|con|ce|[len]|se
+vasconcelense	nome masculino	vas|con|ce|[len]|se
+vasconcelense	nome feminino	vas|con|ce|[len]|se

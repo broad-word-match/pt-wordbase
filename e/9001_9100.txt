@@ -1,0 +1,100 @@
+esmegmatite	nome feminino	es|meg|ma|[ti]|te
+esmensurado	adjetivo	es|men|su|[ra]|do
+esmeradamente	advérbio	es|me|ra|da|[men]|te
+esmerado	adjetivo	es|me|[ra]|do
+esmeralda	adjetivo	es|me|[ral]|da
+esmeralda	nome feminino	es|me|[ral]|da
+esmeralda	nome masculino	es|me|[ral]|da
+esmeraldear	verbo	es|me|ral|de|[ar]
+esmeraldense	adjetivo	es|me|ral|[den]|se
+esmeraldense	nome masculino	es|me|ral|[den]|se
+esmeraldense	nome feminino	es|me|ral|[den]|se
+esmeraldino	adjetivo	es|me|ral|[di]|no
+esmerar	verbo	es|me|[rar]
+esmeril	nome masculino	es|me|[ril]
+esmerilação	nome feminino	es|me|ri|la|[ção]
+esmeriladeira	nome feminino	es|me|ri|la|[dei]|ra
+esmerilador	adjetivo	es|me|ri|la|[dor]
+esmerilador	nome masculino	es|me|ri|la|[dor]
+esmerilagem	nome feminino	es|me|ri|[la]|gem
+esmerilar	verbo	es|me|ri|[lar]
+esmerilhação	nome feminino	es|me|ri|lha|[ção]
+esmerilhador	adjetivo	es|me|ri|lha|[dor]
+esmerilhador	nome masculino	es|me|ri|lha|[dor]
+esmerilhão	nome masculino	es|me|ri|[lhão]
+esmerilhar	verbo	es|me|ri|[lhar]
+esmero	nome masculino	es|[me]|ro
+esmético	adjetivo	es|[mé]|ti|co
+esmifrar	verbo	es|mi|[frar]
+esmigalhado	adjetivo	es|mi|ga|[lha]|do
+esmigalhador	nome masculino	es|mi|ga|lha|[dor]
+esmigalhadura	nome feminino	es|mi|ga|lha|[du]|ra
+esmigalhamento	nome masculino	es|mi|ga|lha|[men]|to
+esmigalhar	verbo	es|mi|ga|[lhar]
+esmijaçar	verbo	es|mi|ja|[çar]
+esmilacácea	nome feminino	es|mi|la|[cá]|ce|a
+esmílace	nome masculino	es|[mí]|la|ce
+esmilácea	nome feminino	es|mi|[lá]|ce|a
+esmiláceo	adjetivo	es|mi|[lá]|ce|o
+esmilacina	nome feminino	es|mi|la|[ci]|na
+esmilacita	nome masculino	es|mi|la|[ci]|ta
+esmilhar	verbo	es|mi|[lhar]
+esminteu	adjetivo	es|min|[teu]
+esminteu	nome masculino	es|min|[teu]
+esmiolado	adjetivo	es|mi|o|[la]|do
+esmiolar	verbo	es|mi|o|[lar]
+esmirneu	nome masculino	es|mir|[neu]
+esmirneu	adjetivo	es|mir|[neu]
+esmírnio	nome masculino	es|[mír]|ni|o
+esmirrar	verbo	es|mir|[rar]
+esmiuçado	adjetivo	es|miu|[ça]|do
+esmiuçador	adjetivo	es|miu|ça|[dor]
+esmiuçador	nome masculino	es|miu|ça|[dor]
+esmiuçamento	nome masculino	es|miu|ça|[men]|to
+esmiuçar	verbo	es|miu|[çar]
+esmiudamento	nome masculino	es|miu|da|[men]|to
+esmiudar	verbo	es|miu|[dar]
+esmiunçar	verbo	es|mi|un|[çar]
+esmo	nome masculino	[es]|mo
+esmocadela	nome feminino	es|mo|ca|[de]|la
+esmocar	verbo	es|mo|[car]
+esmochar	verbo	es|mo|[char]
+esmoedor	adjetivo	es|mo|e|[dor]
+esmoedor	nome masculino	es|mo|e|[dor]
+esmoer	verbo	es|mo|[er]
+esmoitar	verbo	es|moi|[tar]
+esmola	nome feminino	es|[mo]|la
+esmolador	adjetivo	es|mo|la|[dor]
+esmolador	nome masculino	es|mo|la|[dor]
+esmolambação	nome feminino	es|mo|lam|ba|[ção]
+esmolambada	nome feminino	es|mo|lam|[ba]|da
+esmolambado	adjetivo	es|mo|lam|[ba]|do
+esmolambado	nome masculino	es|mo|lam|[ba]|do
+esmolambar	verbo	es|mo|lam|[bar]
+esmolante	adjetivo	es|mo|[lan]|te
+esmolante	nome masculino	es|mo|[lan]|te
+esmolante	nome feminino	es|mo|[lan]|te
+esmolar	verbo	es|mo|[lar]
+esmolaria	nome feminino	es|mo|la|[ri]|a
+esmoleira	nome feminino	es|mo|[lei]|ra
+esmoleiro	adjetivo	es|mo|[lei]|ro
+esmoleiro	nome masculino	es|mo|[lei]|ro
+esmolento	adjetivo	es|mo|[len]|to
+esmoler	nome masculino	es|mo|[ler]
+esmoler	adjetivo	es|mo|[ler]
+esmoler	nome feminino	es|mo|[ler]
+esmoler-mor	nome masculino	es|mo|ler-mor
+esmoncadela	nome feminino	es|mon|ca|[de]|la
+esmoncar	verbo	es|mon|[car]
+esmondar	verbo	es|mon|[dar]
+esmorçar	verbo	es|mor|[çar]
+esmordaçar	verbo	es|mor|da|[çar]
+esmordicar	verbo	es|mor|di|[car]
+esmorecente	adjetivo	es|mo|re|[cen]|te
+esmorecer	verbo	es|mo|re|[cer]
+esmorecido	adjetivo	es|mo|re|[ci]|do
+esmorecimento	nome masculino	es|mo|re|ci|[men]|to
+esmormar	verbo	es|mor|[mar]
+esmoronar	verbo	es|mo|ro|[nar]
+esmorraçar	verbo	es|mor|ra|[çar]
+esmossadela	nome feminino	es|mos|sa|[de]|la

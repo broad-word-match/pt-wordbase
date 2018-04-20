@@ -1,0 +1,100 @@
+moscoso	adjetivo	mos|[co]|so
+moscou	nome masculino	mos|[cou]
+moscóvia	nome feminino	mos|[có]|vi|a
+moscoviano	adjetivo	mos|co|vi|[a]|no
+moscovita	nome masculino	mos|co|[vi]|ta
+moscovita	adjetivo	mos|co|[vi]|ta
+moscovita	nome feminino	mos|co|[vi]|ta
+moscovite	nome feminino	mos|co|[vi]|te
+moscovítico	adjetivo	mos|co|[ví]|ti|co
+moscovo	nome masculino	mos|[co]|vo
+moslém	adjetivo	mos|[lém]
+moslém	nome masculino	mos|[lém]
+moslém	nome feminino	mos|[lém]
+mosleme	adjetivo	mos|[le]|me
+mosleme	nome masculino	mos|[le]|me
+mosleme	nome feminino	mos|[le]|me
+moslemia	nome feminino	mos|le|[mi]|a
+moslêmico	adjetivo	mos|[lê]|mi|co
+moslémico	adjetivo	mos|[lé]|mi|co
+moslemita	nome masculino	mos|le|[mi]|ta
+moslemita	nome feminino	mos|le|[mi]|ta
+moslemita	adjetivo	mos|le|[mi]|ta
+moslim	nome masculino	mos|[lim]
+moslim	adjetivo	mos|[lim]
+moslim	nome feminino	mos|[lim]
+mosqueado	adjetivo	mos|que|[a]|do
+mosqueador	adjetivo	mos|que|a|[dor]
+mosqueamento	nome masculino	mos|que|a|[men]|to
+mosquear	verbo	mos|que|[ar]
+mosquedo	nome masculino	mos|[que]|do
+mosqueia	nome feminino	mos|[quei]|a
+mosqueiro	adjetivo	mos|[quei]|ro
+mosqueiro	nome masculino	mos|[quei]|ro
+mosquem	nome masculino	[mos]|quem
+mosquem-se	nome masculino	mos|quem-se
+mosqueta	nome feminino	mos|[que]|ta
+mosquetaço	nome masculino	mos|que|[ta]|ço
+mosquetada	nome feminino	mos|que|[ta]|da
+mosquetão	nome masculino	mos|que|[tão]
+mosquetaria	nome feminino	mos|que|ta|[ri]|a
+mosquete	nome masculino	mos|[que]|te
+mosquetear	verbo	mos|que|te|[ar]
+mosqueteiro	nome masculino	mos|que|[tei]|ro
+mósquida	nome masculino	[mós]|qui|da
+mósquida	nome masculino	[mós]|qui|da
+mosquídeo	adjetivo	mos|[quí]|de|o
+mosquídeo	nome masculino	mos|[quí]|de|o
+mosquídeo	nome masculino	mos|[quí]|de|o
+mosquinha-morta	nome masculino	mos|qui|nha-mor|ta
+mosquinha-morta	nome feminino	mos|qui|nha-mor|ta
+mosquitada	nome feminino	mos|qui|[ta]|da
+mosquitame	nome masculino	mos|qui|[ta]|me
+mosquiteiro	nome masculino	mos|qui|[tei]|ro
+mosquiteiro	adjetivo	mos|qui|[tei]|ro
+mosquitinho	nome masculino	mos|qui|[ti]|nho
+mosquito	nome masculino	mos|[qui]|to
+mossa	nome feminino	[mos]|sa
+mossado	adjetivo	mos|[sa]|do
+mossar	verbo	mos|[sar]
+mossegão	nome masculino	mos|se|[gão]
+mossegar	verbo	mos|se|[gar]
+mossineco	adjetivo	mos|si|[ne]|co
+mossineco	nome masculino	mos|si|[ne]|co
+mossino	adjetivo	mos|[si]|no
+mossino	nome masculino	mos|[si]|no
+mossoroense	adjetivo	mos|so|ro|[en]|se
+mossoroense	nome masculino	mos|so|ro|[en]|se
+mossoroense	nome feminino	mos|so|ro|[en]|se
+mostacha	adjetivo	mos|[ta]|cha
+mostacha	nome feminino	mos|[ta]|cha
+mostacho	nome masculino	mos|[ta]|cho
+mostaço	nome masculino	mos|[ta]|ço
+mostajada	nome feminino	mos|ta|[ja]|da
+mostajeiro	nome masculino	mos|ta|[jei]|ro
+mostajo	nome masculino	mos|[ta]|jo
+mostarda	nome masculino	mos|[tar]|da
+mostarda	nome feminino	mos|[tar]|da
+mostarda	adjetivo	mos|[tar]|da
+mostardal	nome masculino	mos|tar|[dal]
+mostardeira	nome feminino	mos|tar|[dei]|ra
+mostardeiro	nome masculino	mos|tar|[dei]|ro
+mosteia	nome feminino	mos|[tei]|a
+mosteiró	nome masculino	mos|tei|[ró]
+mosteiro	nome masculino	mos|[tei]|ro
+mosteno	adjetivo	mos|[te]|no
+mosteno	nome masculino	mos|[te]|no
+mostífero	adjetivo	mos|[tí]|fe|ro
+mostímetro	nome masculino	mos|[tí]|me|tro
+mosto	nome masculino	[mos]|to
+mostra	nome feminino	[mos]|tra
+mostradela	nome feminino	mos|tra|[de]|la
+mostrador	adjetivo	mos|tra|[dor]
+mostrador	nome masculino	mos|tra|[dor]
+mostragem	nome feminino	mos|[tra]|gem
+mostrança	nome feminino	mos|[tran]|ça
+mostrar	verbo	mos|[trar]
+mostrável	adjetivo	mos|[trá]|vel
+mostrengar	verbo	mos|tren|[gar]
+mostrengo	nome masculino	mos|[tren]|go
+mostruário	nome masculino	mos|tru|[á]|ri|o

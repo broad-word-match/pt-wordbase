@@ -1,0 +1,100 @@
+indissociabilidade	nome feminino	in|dis|so|ci|a|bi|li|[da]|de
+indissociável	adjetivo	in|dis|so|ci|[á]|vel
+indissociavelmente	advérbio	in|dis|so|ci|a|vel|[men]|te
+indissolubilidade	nome feminino	in|dis|so|lu|bi|li|[da]|de
+indissolução	nome feminino	in|dis|so|lu|[ção]
+indissolúvel	adjetivo	in|dis|so|[lú]|vel
+indissoluvelmente	advérbio	in|dis|so|lu|vel|[men]|te
+indissolvível	adjetivo	in|dis|sol|[ví]|vel
+indistinção	nome feminino	in|dis|tin|[ção]
+indistinguível	adjetivo	in|dis|tin|[guí]|vel
+indistintamente	advérbio	in|dis|tin|ta|[men]|te
+indistinto	adjetivo	in|dis|[tin]|to
+inditosa	nome feminino	in|di|[to]|sa
+inditosamente	advérbio	in|di|to|sa|[men]|te
+inditoso	adjetivo	in|di|[to]|so
+inditoso	nome masculino	in|di|[to]|so
+individuação	nome feminino	in|di|vi|du|a|[ção]
+individuado	adjetivo	in|di|vi|du|[a]|do
+individuador	adjetivo	in|di|vi|du|a|[dor]
+individuador	nome masculino	in|di|vi|du|a|[dor]
+individual	nome masculino	in|di|vi|du|[al]
+individual	adjetivo	in|di|vi|du|[al]
+individualidade	nome feminino	in|di|vi|du|a|li|[da]|de
+individualismo	nome masculino	in|di|vi|du|a|[lis]|mo
+individualista	nome masculino	in|di|vi|du|a|[lis]|ta
+individualista	adjetivo	in|di|vi|du|a|[lis]|ta
+individualista	nome feminino	in|di|vi|du|a|[lis]|ta
+individualisticamente	advérbio	in|di|vi|du|a|lis|ti|ca|[men]|te
+individualístico	adjetivo	in|di|vi|du|a|[lís]|ti|co
+individualização	nome feminino	in|di|vi|du|a|li|za|[ção]
+individualizado	adjetivo	in|di|vi|du|a|li|[za]|do
+individualizador	adjetivo	in|di|vi|du|a|li|za|[dor]
+individualizador	nome masculino	in|di|vi|du|a|li|za|[dor]
+individualizante	adjetivo	in|di|vi|du|a|li|[zan]|te
+individualizar	verbo	in|di|vi|du|a|li|[zar]
+individualizável	adjetivo	in|di|vi|du|a|li|[zá]|vel
+individualmente	advérbio	in|di|vi|du|al|[men]|te
+individuante	adjetivo	in|di|vi|du|[an]|te
+individuar	verbo	in|di|vi|du|[ar]
+individuável	adjetivo	in|di|vi|du|[á]|vel
+indivíduo	nome masculino	in|di|[ví]|du|o
+indivíduo	adjetivo	in|di|[ví]|du|o
+indivisamente	advérbio	in|di|vi|sa|[men]|te
+indivisão	nome feminino	in|di|vi|[são]
+indivisário	nome masculino	in|di|vi|[sá]|ri|o
+indivisibilidade	nome feminino	in|di|vi|si|bi|li|[da]|de
+indivisível	adjetivo	in|di|vi|[sí]|vel
+indivisível	nome masculino	in|di|vi|[sí]|vel
+indivisivelmente	advérbio	in|di|vi|si|vel|[men]|te
+indiviso	adjetivo	in|di|[vi]|so
+indivorciável	adjetivo	in|di|vor|ci|[á]|vel
+indivulgável	adjetivo	in|di|vul|[gá]|vel
+indizibilidade	nome feminino	in|di|zi|bi|li|[da]|de
+indizível	adjetivo	in|di|[zí]|vel
+indizível	nome masculino	in|di|[zí]|vel
+indizivelmente	advérbio	in|di|zi|vel|[men]|te
+indo	adjetivo	[in]|do
+indo	nome masculino	[in]|do
+indo-ariana	nome feminino	in|do-a|ri|[a]|na
+indo-ariano	adjetivo	in|do-a|ri|[a]|no
+indo-ariano	nome masculino	in|do-a|ri|[a]|no
+indo-britânico	adjetivo	in|do-bri|[tâ]|ni|co
+indo-chinês	adjetivo	in|do-chi|[nês]
+indo-europeia	nome feminino	in|do-eu|ro|[pei]|a
+indo-europeísta	nome masculino	in|do-eu|ro|pe|[ís]|ta
+indo-europeísta	nome feminino	in|do-eu|ro|pe|[ís]|ta
+indo-europeu	adjetivo	in|do-eu|ro|[peu]
+indo-europeu	nome masculino	in|do-eu|ro|[peu]
+indo-germânico	nome masculino	in|do-ger|[mâ]|ni|co
+indo-germânico	adjetivo	in|do-ger|[mâ]|ni|co
+indo-iraniana	nome feminino	in|do-i|ra|ni|[a]|na
+indo-iraniano	nome masculino	in|do-i|ra|ni|[a]|no
+indo-iraniano	adjetivo	in|do-i|ra|ni|[a]|no
+indo-irânico	nome masculino	in|do-i|[râ]|ni|co
+indo-irânico	adjetivo	in|do-i|[râ]|ni|co
+indo-português	adjetivo	in|do-por|tu|[guês]
+indo-português	nome masculino	in|do-por|tu|[guês]
+indo-portuguesa	nome feminino	in|do-por|tu|[gue]|sa
+indobrabilidade	nome feminino	in|do|bra|bi|li|[da]|de
+indobrável	adjetivo	in|do|[brá]|vel
+indochim	adjetivo	in|do|[chim]
+indochim	nome masculino	in|do|[chim]
+indochim	nome feminino	in|do|[chim]
+indochina	adjetivo	in|do|[chi]|na
+indochina	nome masculino	in|do|[chi]|na
+indochina	nome feminino	in|do|[chi]|na
+indochinês	nome masculino	in|do|chi|[nês]
+indochinês	adjetivo	in|do|chi|[nês]
+indochinesa	nome feminino	in|do|chi|[ne]|sa
+indocibilidade	nome feminino	in|do|ci|bi|li|[da]|de
+indócil	adjetivo	in|[dó]|cil
+indocilidade	nome feminino	in|do|ci|li|[da]|de
+indocilizar	verbo	in|do|ci|li|[zar]
+indocilmente	advérbio	in|do|cil|[men]|te
+indocível	adjetivo	in|do|[cí]|vel
+indocumentada	nome feminino	in|do|cu|men|[ta]|da
+indocumentado	adjetivo	in|do|cu|men|[ta]|do
+indocumentado	nome masculino	in|do|cu|men|[ta]|do
+índole	nome feminino	[ín]|do|le
+indolência	nome feminino	in|do|[lên]|ci|a

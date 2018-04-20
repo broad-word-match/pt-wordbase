@@ -1,0 +1,100 @@
+teredilo	nome masculino	te|re|[di]|lo
+teredínida	nome masculino	te|re|[dí]|ni|da
+teredinídeo	adjetivo	te|re|di|[ní]|de|o
+teredinídeo	nome masculino	te|re|di|[ní]|de|o
+teredinídeo	nome masculino	te|re|di|[ní]|de|o
+teredo	nome masculino	te|[re]|do
+teredônio	nome masculino	te|re|[dô]|ni|o
+teredônio	adjetivo	te|re|[dô]|ni|o
+teredónio	adjetivo	te|re|[dó]|ni|o
+teredónio	nome masculino	te|re|[dó]|ni|o
+terém-terém	nome masculino	te|rém-te|[rém]
+teremembé	adjetivo	te|re|mem|[bé]
+teremembé	nome masculino	te|re|mem|[bé]
+teremembé	nome feminino	te|re|mem|[bé]
+teremim	nome masculino	te|re|[mim]
+terena	adjetivo	te|[re]|na
+terena	nome masculino	te|[re]|na
+terena	nome feminino	te|[re]|na
+terenciano	adjetivo	te|ren|ci|[a]|no
+terendeira	nome feminino	te|ren|[dei]|ra
+tereniabim	nome masculino	te|re|ni|a|[bim]
+tereno	nome masculino	te|[re]|no
+tereré	nome masculino	te|re|[ré]
+terereca	adjetivo	te|re|[re]|ca
+teres	nome masculino	[te]|res
+teresa	nome feminino	te|[re]|sa
+teresiana	nome feminino	te|re|si|[a]|na
+teresiano	adjetivo	te|re|si|[a]|no
+teresinense	adjetivo	te|re|si|[nen]|se
+teresinense	nome masculino	te|re|si|[nen]|se
+teresinense	nome feminino	te|re|si|[nen]|se
+teresinha	nome feminino	te|re|[si]|nha
+tereso	nome masculino	te|[re]|so
+teresopolitano	adjetivo	te|re|so|po|li|[ta]|no
+teresopolitano	nome masculino	te|re|so|po|li|[ta]|no
+tereterê	nome masculino	te|re|te|[rê]
+tereticaude	adjetivo	te|re|ti|[cau]|de
+tereticaule	adjetivo	te|re|ti|[cau]|le
+tereticolo	adjetivo	te|re|ti|[co]|lo
+teretifoliado	adjetivo	te|re|ti|fo|li|[a]|do
+teretiforme	adjetivo	te|re|ti|[for]|me
+teretirrostro	adjetivo	te|re|tir|[ros]|tro
+tereu	adjetivo	te|[reu]
+tereu	nome masculino	te|[reu]
+tergal	adjetivo	ter|[gal]
+tergal	nome masculino	ter|[gal]
+tergeminado	adjetivo	ter|ge|mi|[na]|do
+tergémino	adjetivo	ter|[gé]|mi|no
+tergêmino	adjetivo	ter|[gê]|mi|no
+tergestino	nome masculino	ter|ges|[ti]|no
+tergestino	adjetivo	ter|ges|[ti]|no
+tergilano	adjetivo	ter|gi|[la]|no
+tergilano	nome masculino	ter|gi|[la]|no
+terginigrante	adjetivo	ter|gi|ni|[gran]|te
+tergite	nome masculino	ter|[gi]|te
+tergito	nome masculino	ter|[gi]|to
+tergiversação	nome feminino	ter|gi|ver|sa|[ção]
+tergiversador	adjetivo	ter|gi|ver|sa|[dor]
+tergiversador	nome masculino	ter|gi|ver|sa|[dor]
+tergiversante	adjetivo	ter|gi|ver|[san]|te
+tergiversar	verbo	ter|gi|ver|[sar]
+tergiversatório	adjetivo	ter|gi|ver|sa|[tó]|ri|o
+tergiversável	adjetivo	ter|gi|ver|[sá]|vel
+tergo	nome masculino	[ter]|go
+téria	nome feminino	[té]|ri|a
+teríaca	nome feminino	te|[rí]|a|ca
+teriacal	adjetivo	te|ri|a|[cal]
+teriacologia	nome feminino	te|ri|a|co|lo|[gi]|a
+teriacológico	adjetivo	te|ri|a|co|[ló]|gi|co
+teriaga	nome feminino	te|ri|[a]|ga
+teriagueiro	nome masculino	te|ri|a|[guei]|ro
+terídio	nome masculino	te|[rí]|di|o
+terineu	adjetivo	te|ri|[neu]
+terineu	nome masculino	te|ri|[neu]
+teringoá	nome feminino	te|rin|go|[á]
+teriodonte	nome masculino	te|ri|o|[don]|te
+terionarca	nome feminino	te|ri|o|[nar]|ca
+teristro	nome masculino	te|[ris]|tro
+terjurar	verbo	ter|ju|[rar]
+terlinta	nome masculino	ter|[lin]|ta
+terlinta	nome feminino	ter|[lin]|ta
+terlintar	verbo	ter|lin|[tar]
+terlintim	nome masculino	ter|lin|[tim]
+terlintintim	nome masculino	ter|lin|tin|[tim]
+terlo	nome masculino	[ter]|lo
+terluca	nome feminino	ter|[lu]|ca
+terma	nome feminino	[ter]|ma
+termal	adjetivo	ter|[mal]
+termalgia	nome feminino	ter|mal|[gi]|a
+termalidade	nome feminino	ter|ma|li|[da]|de
+termalismo	nome masculino	ter|ma|[lis]|mo
+termalização	nome feminino	ter|ma|li|za|[ção]
+termanestesia	nome feminino	ter|ma|nes|te|[si]|a
+termanestésico	adjetivo	ter|ma|nes|[té]|si|co
+termanestético	adjetivo	ter|ma|nes|[té]|ti|co
+termântico	adjetivo	ter|[mân]|ti|co
+termas	nome feminino	[ter]|mas
+termeléctrico	adjetivo	ter|me|[léc]|tri|co
+termeletricidade	nome feminino	ter|me|le|tri|ci|[da]|de
+termelétrico	adjetivo	ter|me|[lé]|tri|co

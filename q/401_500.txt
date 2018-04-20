@@ -1,0 +1,100 @@
+quaternização	nome feminino	qua|ter|ni|za|[ção]
+quaternizar	verbo	qua|ter|ni|[zar]
+quaterno	adjetivo	qua|[ter]|no
+quaterno	nome masculino	qua|[ter]|no
+quati	nome masculino	qua|[ti]
+quatiara	nome feminino	qua|ti|[a]|ra
+quatibo	nome masculino	qua|[ti]|bo
+quatimirim	nome masculino	qua|ti|mi|[rim]
+quatimundé	nome masculino	qua|ti|mun|[dé]
+quatindiba	nome feminino	qua|tin|[di]|ba
+quatipuru	nome masculino	qua|ti|pu|[ru]
+quatorzada	nome feminino	qua|tor|[za]|da
+quatorze	adjetivo	qua|[tor]|ze
+quatorze	número cardinal	qua|[tor]|ze
+quatorze	nome masculino	qua|[tor]|ze
+quatorzeno	nome masculino	qua|tor|[ze]|no
+quatralvo	adjetivo	qua|[tral]|vo
+quatranha	nome feminino	qua|[tra]|nha
+quatrela	nome feminino	qua|[tre]|la
+quatriduano	adjetivo	qua|tri|du|[a]|no
+quatríduo	nome masculino	qua|[trí]|du|o
+quatrienal	adjetivo	qua|tri|e|[nal]
+quatriênio	nome masculino	qua|tri|[ê]|ni|o
+quatriénio	nome masculino	qua|tri|[é]|ni|o
+quatrilhão	nome masculino	qua|tri|[lhão]
+quatrilhão	adjetivo	qua|tri|[lhão]
+quatrilião	adjetivo	qua|tri|li|[ão]
+quatrilião	nome masculino	qua|tri|li|[ão]
+quatrim	nome masculino	qua|[trim]
+quatrinca	nome feminino	qua|[trin]|ca
+quatrineta	nome feminino	qua|tri|[ne]|ta
+quatro	nome masculino	[qua]|tro
+quatro	adjetivo	[qua]|tro
+quatro	número cardinal	[qua]|tro
+quatro-cantinhos	nome masculino	qua|tro-can|[ti]|nhos
+quatro-cantos	nome masculino	qua|tro-can|tos
+quatro-olhos	nome masculino	qua|tro-o|lhos
+quatro-olhos	nome feminino	qua|tro-o|lhos
+quatro-patacas	nome feminino	qua|tro-pa|[ta]|cas
+quatro-reis	nome masculino	qua|tro-reis
+quatrocentismo	nome masculino	qua|tro|cen|[tis]|mo
+quatrocentista	nome masculino	qua|tro|cen|[tis]|ta
+quatrocentista	adjetivo	qua|tro|cen|[tis]|ta
+quatrocentista	nome feminino	qua|tro|cen|[tis]|ta
+quatrocentos	número cardinal	qua|tro|[cen]|tos
+quatrocentos	adjetivo	qua|tro|[cen]|tos
+quatrocentos	nome masculino	qua|tro|[cen]|tos
+quatrolho	adjetivo	qua|[tro]|lho
+quatuorvirado	nome masculino	qua|tu|or|vi|[ra]|do
+quatuorviral	adjetivo	qua|tu|or|vi|[ral]
+quatuorvirato	nome masculino	qua|tu|or|vi|[ra]|to
+quatuórviro	nome masculino	qua|tu|[ór]|vi|ro
+quaxinduba	nome feminino	qua|xin|[du]|ba
+quaxinguba	nome feminino	qua|xin|[gu]|ba
+que	pronome relativo	que
+quê	nome masculino	[quê]
+que	conjunção	que
+que	advérbio	[que]
+quê	pronome interrogativo	[quê]
+que	pronome interrogativo	que
+que	artigo interrogativo	que
+quê	interjeição	[quê]
+quê	pronome relativo	[quê]
+que-farte	advérbio	que-far|te
+quê-u	nome masculino	[quê-u]
+queba	adjetivo	[que]|ba
+quebequense	adjetivo	que|be|[quen]|se
+quebequense	nome masculino	que|be|[quen]|se
+quebequense	nome feminino	que|be|[quen]|se
+quebra	adjetivo	[que]|bra
+quebra	nome masculino	[que]|bra
+quebra	nome feminino	[que]|bra
+quebra-bunda	nome masculino	que|bra-bun|da
+quebra-cabeça	nome masculino	que|bra-ca|[be]|ça
+quebra-cabeças	nome masculino	que|bra-ca|[be]|ças
+quebra-cana	nome feminino	que|bra-ca|na
+quebra-cangalhas	nome masculino	que|bra-can|[ga]|lhas
+quebra-costas	nome masculino	que|bra-cos|tas
+quebra-costelas	nome masculino	que|bra-cos|[te]|las
+quebra-enguiço	nome masculino	que|bra-en|[gui]|ço
+quebra-esquinas	nome masculino	que|bra-es|[qui]|nas
+quebra-foice	nome masculino	que|bra-foi|ce
+quebra-freio	nome masculino	que|bra-frei|o
+quebra-freio	adjetivo	que|bra-frei|o
+quebra-galho	nome masculino	que|bra-ga|lho
+quebra-gelo	nome masculino	que|bra-ge|lo
+quebra-jejum	nome masculino	que|bra-je|[jum]
+quebra-largado	nome masculino	que|bra-lar|[ga]|do
+quebra-louças	nome masculino	que|bra-lou|ças
+quebra-luz	nome masculino	que|bra-luz
+quebra-machado	nome masculino	que|bra-ma|[cha]|do
+quebra-mar	nome masculino	que|bra-mar
+quebra-nozes	nome masculino	que|bra-no|zes
+quebra-panela	nome feminino	que|bra-pa|[ne]|la
+quebra-panelas	nome feminino	que|bra-pa|[ne]|las
+quebra-panelas	nome masculino	que|bra-pa|[ne]|las
+quebra-pedra	nome feminino	que|bra-pe|dra
+quebra-queixo	nome masculino	que|bra-quei|xo
+quebra-quilos	nome masculino	que|bra-qui|los
+quebração	nome feminino	que|bra|[ção]

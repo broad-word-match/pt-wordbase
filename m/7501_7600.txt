@@ -1,0 +1,100 @@
+milhentos	adjetivo	mi|[lhen]|tos
+milherango	nome masculino	mi|lhe|[ran]|go
+mílheras	nome feminino	[mí]|lhe|ras
+milhereu	nome masculino	mi|lhe|[reu]
+milhete	nome masculino	mi|[lhe]|te
+milho	nome masculino	[mi]|lho
+milho	adjetivo	[mi]|lho
+milho-alvo	nome masculino	mi|lho-al|vo
+milho-cozido	nome masculino	mi|lho-co|[zi]|do
+milho-das-vassouras	nome masculino	mi|lho-das-vas|[sou]|ras
+milho-miúdo	nome masculino	mi|lho-mi|[ú]|do
+milho-rei	nome masculino	mi|lho-rei
+milho-zaburro	nome masculino	mi|lho-za|[bur]|ro
+milhos	nome masculino	[mi]|lhos
+mili-watt	nome masculino	mi|li-watt
+miliácea	nome feminino	mi|li|[á]|ce|a
+miliáceo	adjetivo	mi|li|[á]|ce|o
+miliampere	nome masculino	mi|li|am|[pe]|re
+miliamperímetro	nome masculino	mi|li|am|pe|[rí]|me|tro
+miliampério	nome masculino	mi|li|am|[pé]|ri|o
+miliamperómetro	nome masculino	mi|li|am|pe|[ró]|me|tro
+miliamperômetro	nome masculino	mi|li|am|pe|[rô]|me|tro
+miliar	adjetivo	mi|li|[ar]
+miliardário	adjetivo	mi|li|ar|[dá]|ri|o
+miliardário	nome masculino	mi|li|ar|[dá]|ri|o
+miliare	nome masculino	mi|li|[a]|re
+miliário	adjetivo	mi|li|[á]|ri|o
+milibar	nome masculino	mi|li|[bar]
+milícia	nome feminino	mi|[lí]|ci|a
+milicianato	nome masculino	mi|li|ci|a|[na]|to
+miliciano	nome masculino	mi|li|ci|[a]|no
+miliciano	adjetivo	mi|li|ci|[a]|no
+miliciar	adjetivo	mi|li|ci|[ar]
+milicurie	nome masculino	mi|li|cu|[ri]|e
+miligrã	nome feminino	mi|li|[grã]
+miligrado	nome masculino	mi|li|[gra]|do
+miligrama	nome masculino	mi|li|[gra]|ma
+miligrama-força	nome masculino	mi|li|gra|ma-for|ça
+mililitro	nome masculino	mi|li|[li]|tro
+milimétrico	adjetivo	mi|li|[mé]|tri|co
+milímetro	nome masculino	mi|[lí]|me|tro
+milimicro	nome masculino	mi|li|[mi]|cro
+milimícron	nome masculino	mi|li|[mí]|cron
+milímodo	adjetivo	mi|[lí]|mo|do
+miliólida	nome masculino	mi|li|[ó]|li|da
+miliólida	nome masculino	mi|li|[ó]|li|da
+miliolídeo	adjetivo	mi|li|o|[lí]|de|o
+miliolídeo	nome masculino	mi|li|o|[lí]|de|o
+miliolídeo	nome masculino	mi|li|o|[lí]|de|o
+milíolo	nome masculino	mi|[lí]|o|lo
+milionária	nome feminino	mi|li|o|[ná]|ri|a
+milionário	adjetivo	mi|li|o|[ná]|ri|o
+milionário	nome masculino	mi|li|o|[ná]|ri|o
+milionésima	nome feminino	mi|li|o|[né]|si|ma
+milionésimo	adjetivo	mi|li|o|[né]|si|mo
+milionésimo	número fraccional	mi|li|o|[né]|si|mo
+milionésimo	nome masculino	mi|li|o|[né]|si|mo
+milionésimo	número ordinal	mi|li|o|[né]|si|mo
+milípede	adjetivo	mi|[lí]|pe|de
+milissegundo	nome masculino	mi|lis|se|[gun]|do
+milisteno	nome masculino	mi|lis|[te]|no
+milistere	nome masculino	mi|lis|[te]|re
+milistéreo	nome masculino	mi|lis|[té]|re|o
+militança	nome feminino	mi|li|[tan]|ça
+militância	nome feminino	mi|li|[tân]|ci|a
+militante	adjetivo	mi|li|[tan]|te
+militante	nome masculino	mi|li|[tan]|te
+militante	nome feminino	mi|li|[tan]|te
+militantemente	advérbio	mi|li|tan|te|[men]|te
+militantismo	nome masculino	mi|li|tan|[tis]|mo
+militar	adjetivo	mi|li|[tar]
+militar	nome masculino	mi|li|[tar]
+militar	verbo	mi|li|[tar]
+militar-industrial	adjetivo	mi|li|tar-in|dus|tri|[al]
+militarão	nome masculino	mi|li|ta|[rão]
+militarismo	nome masculino	mi|li|ta|[ris]|mo
+militarista	adjetivo	mi|li|ta|[ris]|ta
+militarista	nome masculino	mi|li|ta|[ris]|ta
+militarista	nome feminino	mi|li|ta|[ris]|ta
+militarístico	adjetivo	mi|li|ta|[rís]|ti|co
+militarite	nome feminino	mi|li|ta|[ri]|te
+militarização	nome feminino	mi|li|ta|ri|za|[ção]
+militarizado	adjetivo	mi|li|ta|ri|[za]|do
+militarizar	verbo	mi|li|ta|ri|[zar]
+militarizável	adjetivo	mi|li|ta|ri|[zá]|vel
+militarmente	advérbio	mi|li|tar|[men]|te
+mílite	nome masculino	[mí]|li|te
+militermia	nome feminino	mi|li|ter|[mi]|a
+militofobia	nome feminino	mi|li|to|fo|[bi]|a
+militófobo	adjetivo	mi|li|[tó]|fo|bo
+militófobo	nome masculino	mi|li|[tó]|fo|bo
+miliúsia	nome feminino	mi|li|[ú]|si|a
+milivolt	nome masculino	mi|[li]|volt
+millerita	nome feminino	mil|le|[ri]|ta
+millerite	nome feminino	mil|le|[ri]|te
+milodonte	nome masculino	mi|lo|[don]|te
+miloglóssico	adjetivo	mi|lo|[glós]|si|co
+miloglosso	nome masculino	mi|lo|[glos]|so
+milola	nome feminino	mi|[lo]|la
+miloló	nome masculino	mi|lo|[ló]

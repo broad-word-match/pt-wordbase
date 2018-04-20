@@ -1,0 +1,100 @@
+confidencioso	adjetivo	con|fi|den|ci|[o]|so
+confidente	adjetivo	con|fi|[den]|te
+confidente	nome masculino	con|fi|[den]|te
+confidente	nome feminino	con|fi|[den]|te
+configuração	nome feminino	con|fi|gu|ra|[ção]
+configurador	adjetivo	con|fi|gu|ra|[dor]
+configurador	nome masculino	con|fi|gu|ra|[dor]
+configurar	verbo	con|fi|gu|[rar]
+configurável	adjetivo	con|fi|gu|[rá]|vel
+confim	nome masculino	con|[fim]
+confim	adjetivo	con|[fim]
+confinado	adjetivo	con|fi|[na]|do
+confinal	adjetivo	con|fi|[nal]
+confinamento	nome masculino	con|fi|na|[men]|to
+confinante	adjetivo	con|fi|[nan]|te
+confinar	verbo	con|fi|[nar]
+confinidade	nome feminino	con|fi|ni|[da]|de
+confins	nome masculino	con|[fins]
+confioso	adjetivo	con|fi|[o]|so
+confirmação	nome feminino	con|fir|ma|[ção]
+confirmador	adjetivo	con|fir|ma|[dor]
+confirmador	nome masculino	con|fir|ma|[dor]
+confirmante	adjetivo	con|fir|[man]|te
+confirmante	nome masculino	con|fir|[man]|te
+confirmante	nome feminino	con|fir|[man]|te
+confirmar	verbo	con|fir|[mar]
+confirmativamente	advérbio	con|fir|ma|ti|va|[men]|te
+confirmativo	adjetivo	con|fir|ma|[ti]|vo
+confirmatório	adjetivo	con|fir|ma|[tó]|ri|o
+confirmável	adjetivo	con|fir|[má]|vel
+confiscação	nome feminino	con|fis|ca|[ção]
+confiscador	adjetivo	con|fis|ca|[dor]
+confiscador	nome masculino	con|fis|ca|[dor]
+confiscar	verbo	con|fis|[car]
+confiscável	adjetivo	con|fis|[cá]|vel
+confisco	nome masculino	con|[fis]|co
+confissão	nome feminino	con|fis|[são]
+confita	nome feminino	con|[fi]|ta
+confitente	adjetivo	con|fi|[ten]|te
+confitente	nome masculino	con|fi|[ten]|te
+confitente	nome feminino	con|fi|[ten]|te
+conflagração	nome feminino	con|fla|gra|[ção]
+conflagrar	verbo	con|fla|[grar]
+conflito	nome masculino	con|[fli]|to
+conflitual	adjetivo	con|fli|tu|[al]
+conflitualidade	nome feminino	con|fli|tu|a|li|[da]|de
+conflituante	adjetivo	con|fli|tu|[an]|te
+conflituar	verbo	con|fli|tu|[ar]
+conflituosamente	advérbio	con|fli|tu|o|sa|[men]|te
+conflituosidade	nome feminino	con|fli|tu|o|si|[da]|de
+conflituoso	adjetivo	con|fli|tu|[o]|so
+conflituoso	nome masculino	con|fli|tu|[o]|so
+confluência	nome feminino	con|flu|[ên]|ci|a
+confluente	nome masculino	con|flu|[en]|te
+confluente	adjetivo	con|flu|[en]|te
+confluição	nome feminino	con|flu|i|[ção]
+confluir	verbo	con|flu|[ir]
+conformação	nome feminino	con|for|ma|[ção]
+conformado	adjetivo	con|for|[ma]|do
+conformador	nome masculino	con|for|ma|[dor]
+conformador	adjetivo	con|for|ma|[dor]
+conformar	verbo	con|for|[mar]
+conformatividade	nome feminino	con|for|ma|ti|vi|[da]|de
+conformativo	adjetivo	con|for|ma|[ti]|vo
+conformável	adjetivo	con|for|[má]|vel
+conforme	adjetivo	con|[for]|me
+conforme	conjunção	con|[for]|me
+conforme	preposição	con|[for]|me
+conformemente	advérbio	con|for|me|[men]|te
+conformidade	nome feminino	con|for|mi|[da]|de
+conformismo	nome masculino	con|for|[mis]|mo
+conformista	adjetivo	con|for|[mis]|ta
+conformista	nome masculino	con|for|[mis]|ta
+conformista	nome feminino	con|for|[mis]|ta
+confortabilidade	nome feminino	con|for|ta|bi|li|[da]|de
+confortação	nome feminino	con|for|ta|[ção]
+confortado	adjetivo	con|for|[ta]|do
+confortador	adjetivo	con|for|ta|[dor]
+confortador	nome masculino	con|for|ta|[dor]
+confortamento	nome masculino	con|for|ta|[men]|to
+confortante	adjetivo	con|for|[tan]|te
+confortante	nome masculino	con|for|[tan]|te
+confortar	verbo	con|for|[tar]
+confortativo	nome masculino	con|for|ta|[ti]|vo
+confortativo	adjetivo	con|for|ta|[ti]|vo
+confortável	adjetivo	con|for|[tá]|vel
+confortavelmente	advérbio	con|for|ta|vel|[men]|te
+conforto	nome masculino	con|[for]|to
+confrade	nome masculino	con|[fra]|de
+confragoso	adjetivo	con|fra|[go]|so
+confrangedor	adjetivo	con|fran|ge|[dor]
+confrangedoramente	advérbio	con|fran|ge|do|ra|[men]|te
+confrangente	adjetivo	con|fran|[gen]|te
+confranger	verbo	con|fran|[ger]
+confrangido	adjetivo	con|fran|[gi]|do
+confrangimento	nome masculino	con|fran|gi|[men]|to
+confraria	nome feminino	con|fra|[ri]|a
+confraternal	adjetivo	con|fra|ter|[nal]
+confraternar	verbo	con|fra|ter|[nar]
+confraternidade	nome feminino	con|fra|ter|ni|[da]|de

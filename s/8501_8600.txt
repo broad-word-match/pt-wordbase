@@ -1,0 +1,100 @@
+sorológico	adjetivo	so|ro|[ló]|gi|co
+sorologista	adjetivo	so|ro|lo|[gis]|ta
+sorologista	nome masculino	so|ro|lo|[gis]|ta
+sorologista	nome feminino	so|ro|lo|[gis]|ta
+soromenha	nome feminino	so|ro|[me]|nha
+soromenheiro	nome masculino	so|ro|me|[nhei]|ro
+soromenho	nome masculino	so|ro|[me]|nho
+soronda	nome feminino	so|[ron]|da
+soronga	adjetivo	so|[ron]|ga
+sorongo	nome masculino	so|[ron]|go
+sorongui	nome masculino	so|ron|[gui]
+soror	nome feminino	so|[ror]
+sóror	nome feminino	[só]|ror
+sororal	adjetivo	so|ro|[ral]
+sororalmente	advérbio	so|ro|ral|[men]|te
+sororato	nome masculino	so|ro|[ra]|to
+sororicida	adjetivo	so|ro|ri|[ci]|da
+sororicida	nome masculino	so|ro|ri|[ci]|da
+sororicida	nome feminino	so|ro|ri|[ci]|da
+sororicídio	nome masculino	so|ro|ri|[cí]|di|o
+sorório	adjetivo	so|[ró]|ri|o
+sororoca	nome feminino	so|ro|[ro]|ca
+sorose	nome feminino	so|[ro]|se
+soroso	adjetivo	so|[ro]|so
+soroterapia	nome feminino	so|ro|te|ra|[pi]|a
+soroterápico	adjetivo	so|ro|te|[rá]|pi|co
+sorotipo	nome masculino	so|ro|[ti]|po
+sorrabar	verbo	sor|ra|[bar]
+sorrascadoiro	nome masculino	sor|ras|ca|[doi]|ro
+sorrascador	nome masculino	sor|ras|ca|[dor]
+sorrascadouro	nome masculino	sor|ras|ca|[dou]|ro
+sorrascar	verbo	sor|ras|[car]
+sorrasco	nome masculino	sor|[ras]|co
+sorrasqueiro	nome masculino	sor|ras|[quei]|ro
+sorrasquinho	nome masculino	sor|ras|[qui]|nho
+sorrate	nome masculino	sor|[ra]|te
+sorratear	verbo	sor|ra|te|[ar]
+sorrateio	nome masculino	sor|ra|[tei]|o
+sorrateiramente	advérbio	sor|ra|tei|ra|[men]|te
+sorrateiro	adjetivo	sor|ra|[tei]|ro
+sorrateiro	nome masculino	sor|ra|[tei]|ro
+sorrelfa	nome feminino	sor|[rel]|fa
+sorrelfa	nome masculino	sor|[rel]|fa
+sorrelfo	adjetivo	sor|[rel]|fo
+sorridente	adjetivo	sor|ri|[den]|te
+sorridentemente	advérbio	sor|ri|den|te|[men]|te
+sorrir	verbo	sor|[rir]
+sorrir	nome masculino	sor|[rir]
+sorriso	nome masculino	sor|[ri]|so
+sorroda	nome feminino	sor|[ro]|da
+sorrolho	nome masculino	sor|[ro]|lho
+sortalhão	nome masculino	sor|ta|[lhão]
+sorte	nome feminino	[sor]|te
+sorteada	nome feminino	sor|te|[a]|da
+sorteadamente	advérbio	sor|te|a|da|[men]|te
+sorteado	adjetivo	sor|te|[a]|do
+sorteado	nome masculino	sor|te|[a]|do
+sorteador	adjetivo	sor|te|a|[dor]
+sorteador	nome masculino	sor|te|a|[dor]
+sorteamento	nome masculino	sor|te|a|[men]|to
+sortear	verbo	sor|te|[ar]
+sorteável	adjetivo	sor|te|[á]|vel
+sorteio	nome masculino	sor|[tei]|o
+sorteiro	adjetivo	sor|[tei]|ro
+sorteiro	nome masculino	sor|[tei]|ro
+sortela	nome feminino	sor|[te]|la
+sortelha	nome feminino	sor|[te]|lha
+sortido	nome masculino	sor|[ti]|do
+sortido	adjetivo	sor|[ti]|do
+sortílega	nome feminino	sor|[tí]|le|ga
+sortilégio	nome masculino	sor|ti|[lé]|gi|o
+sortílego	adjetivo	sor|[tí]|le|go
+sortílego	nome masculino	sor|[tí]|le|go
+sortilha	nome feminino	sor|[ti]|lha
+sortimento	nome masculino	sor|ti|[men]|to
+sortir	verbo	sor|[tir]
+sortuda	nome feminino	sor|[tu]|da
+sortudo	adjetivo	sor|[tu]|do
+sortudo	nome masculino	sor|[tu]|do
+soruma	nome feminino	so|[ru]|ma
+sorumbática	nome feminino	so|rum|[bá]|ti|ca
+sorumbaticamente	advérbio	so|rum|ba|ti|ca|[men]|te
+sorumbático	adjetivo	so|rum|[bá]|ti|co
+sorumbático	nome masculino	so|rum|[bá]|ti|co
+sorumbatismo	nome masculino	so|rum|ba|[tis]|mo
+sorva	nome feminino	[sor]|va
+sorvado	adjetivo	sor|[va]|do
+sorval	adjetivo	sor|[val]
+sorvalhada	nome feminino	sor|va|[lha]|da
+sorvar	verbo	sor|[var]
+sorvedela	nome feminino	sor|ve|[de]|la
+sorvedoiro	nome masculino	sor|ve|[doi]|ro
+sorvedor	adjetivo	sor|ve|[dor]
+sorvedouro	nome masculino	sor|ve|[dou]|ro
+sorvedura	nome feminino	sor|ve|[du]|ra
+sorveira	nome feminino	sor|[vei]|ra
+sorver	verbo	sor|[ver]
+sorvetaria	nome feminino	sor|ve|ta|[ri]|a
+sorvete	nome feminino	sor|[ve]|te
+sorvete	nome masculino	sor|[ve]|te

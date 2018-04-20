@@ -1,0 +1,100 @@
+vasconcélia	nome feminino	vas|con|[cé]|li|a
+vasconço	nome masculino	vas|[con]|ço
+vasconço	adjetivo	vas|[con]|ço
+vascongado	nome masculino	vas|con|[ga]|do
+vascongado	adjetivo	vas|con|[ga]|do
+vascoso	adjetivo	vas|[co]|so
+vascuense	adjetivo	vas|cu|[en]|se
+vascuense	nome masculino	vas|cu|[en]|se
+vascuense	nome feminino	vas|cu|[en]|se
+vascular	adjetivo	vas|cu|[lar]
+vascularidade	nome feminino	vas|cu|la|ri|[da]|de
+vascularização	nome feminino	vas|cu|la|ri|za|[ção]
+vascularizar	verbo	vas|cu|la|ri|[zar]
+vasculatura	nome feminino	vas|cu|la|[tu]|ra
+vasculhadeira	nome feminino	vas|cu|lha|[dei]|ra
+vasculhadela	nome feminino	vas|cu|lha|[de]|la
+vasculhador	adjetivo	vas|cu|lha|[dor]
+vasculhador	nome masculino	vas|cu|lha|[dor]
+vasculhadora	nome feminino	vas|cu|lha|[do]|ra
+vasculhar	verbo	vas|cu|[lhar]
+vasculho	nome masculino	vas|[cu]|lho
+vasculite	nome feminino	vas|cu|[li]|te
+vasculizado	adjetivo	vas|cu|li|[za]|do
+vasculoso	adjetivo	vas|cu|[lo]|so
+vasectomia	nome feminino	va|sec|to|[mi]|a
+vasectómico	adjetivo	va|sec|[tó]|mi|co
+vasectômico	adjetivo	va|sec|[tô]|mi|co
+vaseirão	adjetivo	va|sei|[rão]
+vaseirão	nome masculino	va|sei|[rão]
+vaseiro	nome masculino	va|[sei]|ro
+vaseiro	adjetivo	va|[sei]|ro
+vaselina	nome feminino	va|se|[li]|na
+vaselina	nome masculino	va|se|[li]|na
+vaselinar	verbo	va|se|li|[nar]
+vasento	adjetivo	va|[sen]|to
+vasícola	adjetivo	va|[sí]|co|la
+vasícola	nome masculino	va|[sí]|co|la
+vasículo	nome masculino	va|[sí]|cu|lo
+vasiduto	nome masculino	va|si|[du]|to
+vasiforme	adjetivo	va|si|[for]|me
+vasilha	nome feminino	va|[si]|lha
+vasilhame	nome masculino	va|si|[lha]|me
+vaso	nome masculino	[va]|so
+vasoativo	adjetivo	va|so|a|[ti]|vo
+vasoconstrição	nome feminino	va|so|cons|tri|[ção]
+vasoconstritor	adjetivo	va|so|cons|tri|[tor]
+vasoconstritor	nome masculino	va|so|cons|tri|[tor]
+vasodilatação	nome feminino	va|so|di|la|ta|[ção]
+vasodilatador	adjetivo	va|so|di|la|ta|[dor]
+vasodilatador	nome masculino	va|so|di|la|ta|[dor]
+vasogênio	nome masculino	va|so|[gê]|ni|o
+vasogénio	nome masculino	va|so|[gé]|ni|o
+vasomotor	adjetivo	va|so|mo|[tor]
+vasomotricidade	nome feminino	va|so|mo|tri|ci|[da]|de
+vasopressina	nome feminino	va|so|pres|[si]|na
+vasoso	adjetivo	va|[so]|so
+vasostomia	nome feminino	va|sos|to|[mi]|a
+vasotomia	nome feminino	va|so|to|[mi]|a
+vasótribo	nome masculino	va|[só]|tri|bo
+vasotripsia	nome feminino	va|so|trip|[si]|a
+vasotrófico	adjetivo	va|so|[tró]|fi|co
+vasqueiro	adjetivo	vas|[quei]|ro
+vasqueiro	nome masculino	vas|[quei]|ro
+vasquejante	adjetivo	vas|que|[jan]|te
+vasquejar	verbo	vas|que|[jar]
+vasquejo	nome masculino	vas|[que]|jo
+vasquilha	nome feminino	vas|[qui]|lha
+vasquim	nome masculino	vas|[quim]
+vasquinha	nome feminino	vas|[qui]|nha
+vassá	nome masculino	vas|[sá]
+vassala	nome feminino	vas|[sa]|la
+vassalagem	nome feminino	vas|sa|[la]|gem
+vassalar	verbo	vas|sa|[lar]
+vassalo	nome masculino	vas|[sa]|lo
+vassalo	adjetivo	vas|[sa]|lo
+vasseu	adjetivo	vas|[seu]
+vasseu	nome masculino	vas|[seu]
+vassoira	nome feminino	vas|[soi]|ra
+vassoirada	nome feminino	vas|soi|[ra]|da
+vassoirar	verbo	vas|soi|[rar]
+vassoireira	nome feminino	vas|soi|[rei]|ra
+vassoireiro	nome masculino	vas|soi|[rei]|ro
+vassoirinha	nome feminino	vas|soi|[ri]|nha
+vassoiro	nome masculino	vas|[soi]|ro
+vassoura	nome feminino	vas|[sou]|ra
+vassourada	nome feminino	vas|sou|[ra]|da
+vassourar	verbo	vas|sou|[rar]
+vassoureira	nome feminino	vas|sou|[rei]|ra
+vassoureiro	nome masculino	vas|sou|[rei]|ro
+vassourense	nome masculino	vas|sou|[ren]|se
+vassourense	adjetivo	vas|sou|[ren]|se
+vassourense	nome feminino	vas|sou|[ren]|se
+vassourinha	nome feminino	vas|sou|[ri]|nha
+vassouro	nome masculino	vas|[sou]|ro
+vassourudo	adjetivo	vas|sou|[ru]|do
+vasta	nome feminino	[vas]|ta
+vastação	nome feminino	vas|ta|[ção]
+vastador	adjetivo	vas|ta|[dor]
+vastador	nome masculino	vas|ta|[dor]
+vastamente	advérbio	vas|ta|[men]|te

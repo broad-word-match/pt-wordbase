@@ -1,0 +1,100 @@
+adulatório	adjetivo	a|du|la|[tó]|ri|o
+adulável	adjetivo	a|du|[lá]|vel
+adulçorar	verbo	a|dul|ço|[rar]
+adulita	adjetivo	a|du|[li]|ta
+adulita	nome feminino	a|du|[li]|ta
+adulita	nome masculino	a|du|[li]|ta
+aduloso	adjetivo	a|du|[lo]|so
+aduloso	nome masculino	a|du|[lo]|so
+adulta	nome feminino	a|[dul]|ta
+adúltera	nome feminino	a|[dúl]|te|ra
+adulteração	nome feminino	a|dul|te|ra|[ção]
+adulteradamente	advérbio	a|dul|te|ra|da|[men]|te
+adulterado	adjetivo	a|dul|te|[ra]|do
+adulterador	adjetivo	a|dul|te|ra|[dor]
+adulterador	nome masculino	a|dul|te|ra|[dor]
+adulteradora	nome feminino	a|dul|te|ra|[do]|ra
+adulteramente	advérbio	a|dul|te|ra|[men]|te
+adulterante	adjetivo	a|dul|te|[ran]|te
+adulterar	verbo	a|dul|te|[rar]
+adulterável	adjetivo	a|dul|te|[rá]|vel
+adulterinamente	advérbio	a|dul|te|ri|na|[men]|te
+adulterinidade	nome feminino	a|dul|te|ri|ni|[da]|de
+adulterino	adjetivo	a|dul|te|[ri]|no
+adultério	nome masculino	a|dul|[té]|ri|o
+adulterioso	adjetivo	a|dul|te|ri|[o]|so
+adulterismo	nome masculino	a|dul|te|[ris]|mo
+adúltero	adjetivo	a|[dúl]|te|ro
+adúltero	nome masculino	a|[dúl]|te|ro
+adulteroso	adjetivo	a|dul|te|[ro]|so
+adulto	adjetivo	a|[dul]|to
+adulto	nome masculino	a|[dul]|to
+adumar	verbo	a|du|[mar]
+adumbração	nome feminino	a|dum|bra|[ção]
+adumbrado	adjetivo	a|dum|[bra]|do
+adumbrar	verbo	a|dum|[brar]
+adunação	nome feminino	a|du|na|[ção]
+adunado	adjetivo	a|du|[na]|do
+adunar	verbo	a|du|[nar]
+aduncar	verbo	a|dun|[car]
+aduncidade	nome feminino	a|dun|ci|[da]|de
+aduncirrostro	adjetivo	a|dun|cir|[ros]|tro
+adunco	adjetivo	a|[dun]|co
+adúnia	advérbio	a|[dú]|ni|a
+adunicate	adjetivo	a|du|ni|[ca]|te
+adunicate	nome masculino	a|du|ni|[ca]|te
+adunicate	nome feminino	a|du|ni|[ca]|te
+adur	advérbio	a|[dur]
+adurência	nome feminino	a|du|[rên]|ci|a
+adurente	adjetivo	a|du|[ren]|te
+adurente	nome masculino	a|du|[ren]|te
+adurir	verbo	a|du|[rir]
+adustão	nome feminino	a|dus|[tão]
+adustez	nome feminino	a|dus|[tez]
+adustível	adjetivo	a|dus|[tí]|vel
+adustivo	adjetivo	a|dus|[ti]|vo
+adusto	adjetivo	a|[dus]|to
+aduterino	adjetivo	a|du|te|[ri]|no
+adútero	nome masculino	a|[dú]|te|ro
+adutivamente	advérbio	a|du|ti|va|[men]|te
+adutivo	adjetivo	a|du|[ti]|vo
+adutor	nome masculino	a|du|[tor]
+adutor	adjetivo	a|du|[tor]
+adutora	nome feminino	a|du|[to]|ra
+adutra	nome feminino	a|[du]|tra
+aduzir	verbo	a|du|[zir]
+aduzível	adjetivo	a|du|[zí]|vel
+advecção	nome feminino	ad|vec|[ção]
+ádvena	adjetivo	[ád]|ve|na
+ádvena	nome masculino	[ád]|ve|na
+ádvena	nome feminino	[ád]|ve|na
+adveniente	adjetivo	ad|ve|ni|[en]|te
+adventícia	nome feminino	ad|ven|[tí]|ci|a
+adventiciamente	advérbio	ad|ven|ti|ci|a|[men]|te
+adventício	adjetivo	ad|ven|[tí]|ci|o
+adventício	nome masculino	ad|ven|[tí]|ci|o
+adventismo	nome masculino	ad|ven|[tis]|mo
+adventista	nome masculino	ad|ven|[tis]|ta
+adventista	adjetivo	ad|ven|[tis]|ta
+adventista	nome feminino	ad|ven|[tis]|ta
+adventístico	adjetivo	ad|ven|[tís]|ti|co
+advento	nome masculino	ad|[ven]|to
+adverbal	adjetivo	ad|ver|[bal]
+adverbial	adjetivo	ad|ver|bi|[al]
+adverbialidade	nome feminino	ad|ver|bi|a|li|[da]|de
+adverbialização	nome feminino	ad|ver|bi|a|li|za|[ção]
+adverbializado	adjetivo	ad|ver|bi|a|li|[za]|do
+adverbializar	verbo	ad|ver|bi|a|li|[zar]
+adverbialmente	advérbio	ad|ver|bi|al|[men]|te
+adverbiar	verbo	ad|ver|bi|[ar]
+advérbio	nome masculino	ad|[vér]|bi|o
+adversado	adjetivo	ad|ver|[sa]|do
+adversamente	advérbio	ad|ver|sa|[men]|te
+adversão	nome feminino	ad|ver|[são]
+adversar	verbo	ad|ver|[sar]
+adversária	nome feminino	ad|ver|[sá]|ri|a
+adversariamente	advérbio	ad|ver|sa|ri|a|[men]|te
+adversário	adjetivo	ad|ver|[sá]|ri|o
+adversário	nome masculino	ad|ver|[sá]|ri|o
+adversativa	nome feminino	ad|ver|sa|[ti]|va
+adversativamente	advérbio	ad|ver|sa|ti|va|[men]|te

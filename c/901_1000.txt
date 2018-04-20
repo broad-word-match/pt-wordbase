@@ -1,0 +1,100 @@
+cadeleiro	adjetivo	ca|de|[lei]|ro
+cadelice	nome feminino	ca|de|[li]|ce
+cadelinha	nome feminino	ca|de|[li]|nha
+cadelo	adjetivo	ca|[de]|lo
+cadelo	nome masculino	ca|[de]|lo
+cadelona	nome feminino	ca|de|[lo]|na
+cadena	nome feminino	ca|[de]|na
+cadência	nome feminino	ca|[dên]|ci|a
+cadenciadamente	advérbio	ca|den|ci|a|da|[men]|te
+cadenciado	adjetivo	ca|den|ci|[a]|do
+cadenciar	verbo	ca|den|ci|[ar]
+cadencioso	adjetivo	ca|den|ci|[o]|so
+cadeneta	nome feminino	ca|de|[ne]|ta
+cadenetilha	nome feminino	ca|de|ne|[ti]|lha
+cadenilha	nome feminino	ca|de|[ni]|lha
+cadente	adjetivo	ca|[den]|te
+cadeota	nome feminino	ca|de|[o]|ta
+caderna	nome feminino	ca|[der]|na
+cadernaço	nome masculino	ca|der|[na]|ço
+cadernal	nome masculino	ca|der|[nal]
+caderneta	nome feminino	ca|der|[ne]|ta
+caderninho	nome masculino	ca|der|[ni]|nho
+caderno	nome masculino	ca|[der]|no
+cadete	nome masculino	ca|[de]|te
+cadexo	nome masculino	ca|[de]|xo
+cádi	nome masculino	[cá]|di
+cadilha	nome feminino	ca|[di]|lha
+cadilho	nome masculino	ca|[di]|lho
+cadime	nome masculino	ca|[di]|me
+cadimo	adjetivo	ca|[di]|mo
+cadinéu	adjetivo	ca|di|[néu]
+cadinéu	nome masculino	ca|di|[néu]
+cadinhar	verbo	ca|di|[nhar]
+cadinho	nome masculino	ca|[di]|nho
+cadivo	adjetivo	ca|[di]|vo
+cadixe	nome masculino	ca|[di]|xe
+cadmeu	adjetivo	cad|[meu]
+cadmia	nome feminino	cad|[mi]|a
+cadmiagem	nome feminino	cad|mi|[a]|gem
+cadmiar	verbo	cad|mi|[ar]
+cádmio	nome masculino	[cád]|mi|o
+cado	nome masculino	[ca]|do
+cadorno	nome masculino	ca|[dor]|no
+cadouço	nome masculino	ca|[dou]|ço
+cadoura	nome feminino	ca|[dou]|ra
+cadoxo	nome masculino	ca|[do]|xo
+cadoz	nome masculino	ca|[doz]
+cadozete	nome masculino	ca|do|[ze]|te
+cadraço	nome masculino	ca|[dra]|ço
+caduca	nome feminino	ca|[du]|ca
+caducante	adjetivo	ca|du|[can]|te
+caducar	verbo	ca|du|[car]
+caducário	adjetivo	ca|du|[cá]|ri|o
+caducável	adjetivo	ca|du|[cá]|vel
+caduceador	nome masculino	ca|du|ce|a|[dor]
+caduceu	nome masculino	ca|du|[ceu]
+caducibrânquio	nome masculino	ca|du|ci|[brân]|qui|o
+caducidade	nome feminino	ca|du|ci|[da]|de
+caducífero	adjetivo	ca|du|[cí]|fe|ro
+caducifólio	adjetivo	ca|du|ci|[fó]|li|o
+caduco	adjetivo	ca|[du]|co
+caduquez	nome feminino	ca|du|[quez]
+caduquice	nome feminino	ca|du|[qui]|ce
+cadurcense	nome masculino	ca|dur|[cen]|se
+cadurcense	adjetivo	ca|dur|[cen]|se
+cadurcense	nome feminino	ca|dur|[cen]|se
+cadurco	adjetivo	ca|[dur]|co
+cadurco	nome masculino	ca|[dur]|co
+cadúsio	adjetivo	ca|[dú]|si|o
+cadúsio	nome masculino	ca|[dú]|si|o
+caemense	nome masculino	ca|e|[men]|se
+caemense	nome feminino	ca|e|[men]|se
+caemense	adjetivo	ca|e|[men]|se
+caetaninha	nome feminino	ca|e|ta|[ni]|nha
+caetano	nome masculino	ca|e|[ta]|no
+caeté	adjetivo	ca|e|[té]
+caeté	nome masculino	ca|e|[té]
+caetê	nome masculino	ca|e|[tê]
+caeté	nome feminino	ca|e|[té]
+caeteense	nome masculino	ca|e|te|[en]|se
+caeteense	nome feminino	ca|e|te|[en]|se
+caeteense	adjetivo	ca|e|te|[en]|se
+cafajestada	nome feminino	ca|fa|jes|[ta]|da
+cafajeste	nome masculino	ca|fa|[jes]|te
+cafal	nome masculino	ca|[fal]
+cafanga	nome feminino	ca|[fan]|ga
+cafangar	verbo	ca|fan|[gar]
+cafarnaum	nome masculino	ca|far|na|[um]
+cafarneu	adjetivo	ca|far|[neu]
+cafarneu	nome masculino	ca|far|[neu]
+cafarreiro	nome masculino	ca|far|[rei]|ro
+cafarro	nome masculino	ca|[far]|ro
+cafata	nome feminino	ca|[fa]|ta
+café	nome masculino	ca|[fé]
+café-concerto	nome masculino	ca|fé-con|[cer]|to
+café-pequeno	nome masculino	ca|fé-pe|[que]|no
+café-restaurante	nome masculino	ca|fé-res|tau|[ran]|te
+café-teatro	nome masculino	ca|fé-te|[a]|tro
+cafeal	nome masculino	ca|fe|[al]
+cafeco	nome masculino	ca|[fe]|co

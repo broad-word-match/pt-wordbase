@@ -1,0 +1,100 @@
+eclampse	nome feminino	e|[clamp]|se
+eclâmpsia	nome feminino	e|[clâmp]|si|a
+eclampsia	nome feminino	e|clamp|[si]|a
+eclâmptico	adjetivo	e|[clâmp]|ti|co
+ecler	nome masculino	e|[cler]
+eclésia	nome feminino	e|[clé]|si|a
+eclesiarca	nome masculino	e|cle|si|[ar]|ca
+eclesiarquismo	nome masculino	e|cle|si|ar|[quis]|mo
+eclesiarquista	adjetivo	e|cle|si|ar|[quis]|ta
+eclesiarquista	nome masculino	e|cle|si|ar|[quis]|ta
+eclesiarquista	nome feminino	e|cle|si|ar|[quis]|ta
+eclesiasticamente	advérbio	e|cle|si|as|ti|ca|[men]|te
+eclesiástico	nome masculino	e|cle|si|[ás]|ti|co
+eclesiástico	adjetivo	e|cle|si|[ás]|ti|co
+eclesiofobia	nome feminino	e|cle|si|o|fo|[bi]|a
+eclesiófobo	adjetivo	e|cle|si|[ó]|fo|bo
+eclesiófobo	nome masculino	e|cle|si|[ó]|fo|bo
+eclesiologia	nome feminino	e|cle|si|o|lo|[gi]|a
+eclesiológico	adjetivo	e|cle|si|o|[ló]|gi|co
+eclética	nome feminino	e|[clé]|ti|ca
+ecleticamente	advérbio	e|cle|ti|ca|[men]|te
+ecleticismo	nome masculino	e|cle|ti|[cis]|mo
+eclético	adjetivo	e|[clé]|ti|co
+ecletismo	nome masculino	e|cle|[tis]|mo
+ecligma	nome masculino	e|[clig]|ma
+eclímetro	nome masculino	e|[clí]|me|tro
+eclinómetro	nome masculino	e|cli|[nó]|me|tro
+eclipsado	adjetivo	e|clip|[sa]|do
+eclipsar	verbo	e|clip|[sar]
+eclipse	nome masculino	e|[clip]|se
+eclíptica	nome feminino	e|[clíp]|ti|ca
+eclíptico	adjetivo	e|[clíp]|ti|co
+eclítica	nome feminino	e|[clí]|ti|ca
+eclítico	adjetivo	e|[clí]|ti|co
+eclodir	verbo	e|clo|[dir]
+écloga	nome feminino	[é]|clo|ga
+eclogal	adjetivo	e|clo|[gal]
+eclogito	nome masculino	e|clo|[gi]|to
+ecloguista	nome masculino	e|clo|[guis]|ta
+ecloguista	nome feminino	e|clo|[guis]|ta
+eclosão	nome feminino	e|clo|[são]
+eclusa	nome feminino	e|[clu]|sa
+ecmnésia	nome feminino	ec|[mné]|si|a
+ecmnésico	adjetivo	ecm|[né]|si|co
+ecmnéstico	adjetivo	ecm|[nés]|ti|co
+ecmofobia	nome feminino	ec|mo|fo|[bi]|a
+ecmófobo	nome masculino	ec|[mó]|fo|bo
+eco	nome masculino	[e]|co
+ecô	interjeição	e|[cô]
+ecoador	adjetivo	e|co|a|[dor]
+ecoador	nome masculino	e|co|a|[dor]
+ecoante	adjetivo	e|co|[an]|te
+ecoar	verbo	e|co|[ar]
+ecoável	adjetivo	e|co|[á]|vel
+ecocardiografia	nome feminino	e|co|car|di|o|gra|[fi]|a
+ecocardiograma	nome masculino	e|co|car|di|o|[gra]|ma
+ecocentro	nome masculino	e|co|[cen]|tro
+ecodesenvolvimento	nome masculino	e|co|de|sen|vol|vi|[men]|to
+ecoeficiência	nome feminino	e|co|e|fi|ci|[ên]|ci|a
+ecoencefalograma	nome masculino	e|co|en|ce|fa|lo|[gra]|ma
+ecografia	nome feminino	e|co|gra|[fi]|a
+ecográfico	adjetivo	e|co|[grá]|fi|co
+ecógrafo	nome masculino	e|[có]|gra|fo
+ecograma	nome masculino	e|co|[gra]|ma
+ecoico	adjetivo	e|[coi]|co
+ecolalia	nome feminino	e|co|la|[li]|a
+ecolálico	adjetivo	e|co|[lá]|li|co
+ecolocação	nome feminino	e|co|lo|ca|[ção]
+ecolocador	adjetivo	e|co|lo|ca|[dor]
+ecolocador	nome masculino	e|co|lo|ca|[dor]
+ecolocalização	nome feminino	e|co|lo|ca|li|za|[ção]
+ecolocalizador	adjetivo	e|co|lo|ca|li|za|[dor]
+ecolocalizador	nome masculino	e|co|lo|ca|li|za|[dor]
+ecolocalizar	verbo	e|co|lo|ca|li|[zar]
+ecolocalizável	adjetivo	e|co|lo|ca|li|[zá]|vel
+ecolocar	verbo	e|co|lo|[car]
+ecolocável	adjetivo	e|co|lo|[cá]|vel
+ecologia	nome feminino	e|co|lo|[gi]|a
+ecologicamente	advérbio	e|co|lo|gi|ca|[men]|te
+ecológico	adjetivo	e|co|[ló]|gi|co
+ecologista	nome masculino	e|co|lo|[gis]|ta
+ecologista	nome feminino	e|co|lo|[gis]|ta
+ecologista	adjetivo	e|co|lo|[gis]|ta
+ecólogo	nome masculino	e|[có]|lo|go
+ecomatismo	nome masculino	e|co|ma|[tis]|mo
+ecometria	nome feminino	e|co|me|[tri]|a
+ecométrico	adjetivo	e|co|[mé]|tri|co
+ecómetro	nome masculino	e|[có]|me|tro
+ecômetro	nome masculino	e|[cô]|me|tro
+ecomimia	nome feminino	e|co|mi|[mi]|a
+econgo	nome masculino	e|[con]|go
+economato	nome masculino	e|co|no|[ma]|to
+econometria	nome feminino	e|co|no|me|[tri]|a
+econométrico	adjetivo	e|co|no|[mé]|tri|co
+economia	nome feminino	e|co|no|[mi]|a
+economicamente	advérbio	e|co|no|mi|ca|[men]|te
+economicidade	nome feminino	e|co|no|mi|ci|[da]|de
+economicismo	nome masculino	e|co|no|mi|[cis]|mo
+economicista	adjetivo	e|co|no|mi|[cis]|ta
+económico	adjetivo	e|co|[nó]|mi|co

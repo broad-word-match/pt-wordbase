@@ -1,0 +1,100 @@
+psicossocióloga	nome feminino	psi|cos|so|ci|[ó]|lo|ga
+psicossociologia	nome feminino	psi|cos|so|ci|o|lo|[gi]|a
+psicossociológico	adjetivo	psi|cos|so|ci|o|[ló]|gi|co
+psicossociólogo	nome masculino	psi|cos|so|ci|[ó]|lo|go
+psicossomático	adjetivo	psi|cos|so|[má]|ti|co
+psicossomatismo	nome masculino	psi|cos|so|ma|[tis]|mo
+psicostimulante	nome masculino	psi|cos|ti|mu|[lan]|te
+psicostimulante	adjetivo	psi|cos|ti|mu|[lan]|te
+psicotécnica	nome feminino	psi|co|[téc]|ni|ca
+psicotécnico	nome masculino	psi|co|[téc]|ni|co
+psicotécnico	adjetivo	psi|co|[téc]|ni|co
+psicoterapeuta	nome masculino	psi|co|te|ra|[peu]|ta
+psicoterapeuta	nome feminino	psi|co|te|ra|[peu]|ta
+psicoterapêutico	adjetivo	psi|co|te|ra|[pêu]|ti|co
+psicoterapia	nome feminino	psi|co|te|ra|[pi]|a
+psicoterápico	adjetivo	psi|co|te|[rá]|pi|co
+psicótica	nome feminino	psi|[có]|ti|ca
+psicótico	adjetivo	psi|[có]|ti|co
+psicótico	nome masculino	psi|[có]|ti|co
+psicotrópico	adjetivo	psi|co|[tró]|pi|co
+psicotrópico	nome masculino	psi|co|[tró]|pi|co
+psicrofobia	nome masculino	psi|cro|fo|[bi]|a
+psicrofóbico	adjetivo	psi|cro|[fó]|bi|co
+psicrofóbico	nome masculino	psi|cro|[fó]|bi|co
+psicrófobo	adjetivo	psi|[cró]|fo|bo
+psicrófobo	nome masculino	psi|[cró]|fo|bo
+psicrologia	nome feminino	psi|cro|lo|[gi]|a
+psicrológico	adjetivo	psi|cro|[ló]|gi|co
+psicrólogo	nome masculino	psi|[cró]|lo|go
+psicrometria	nome feminino	psi|cro|me|[tri]|a
+psicrométrico	adjetivo	psi|cro|[mé]|tri|co
+psicrômetro	nome masculino	psi|[crô]|me|tro
+psicrómetro	nome masculino	psi|[cró]|me|tro
+psicronometria	nome feminino	psi|cro|no|me|[tri]|a
+psicroterapia	nome feminino	psi|cro|te|ra|[pi]|a
+psicroterápico	adjetivo	psi|cro|te|[rá]|pi|co
+psidrácio	nome masculino	psi|[drá]|ci|o
+psila	nome feminino	[psi]|la
+psileta	nome masculino	psi|[le]|ta
+psilídeo	nome masculino	psi|[lí]|de|o
+psílio	nome masculino	[psí]|li|o
+psilismo	nome masculino	psi|[lis]|mo
+psilista	adjetivo	psi|[lis]|ta
+psilista	nome masculino	psi|[lis]|ta
+psilista	nome feminino	psi|[lis]|ta
+psilo	nome masculino	[psi]|lo
+psilocarpo	nome masculino	psi|lo|[car]|po
+psilócera	nome feminino	psi|[ló]|ce|ra
+psilógino	nome masculino	psi|[ló]|gi|no
+psiloma	nome masculino	psi|[lo]|ma
+psilomelânio	nome masculino	psi|lo|me|[lâ]|ni|o
+psilomelano	nome masculino	psi|lo|me|[la]|no
+psilónia	nome feminino	psi|[ló]|ni|a
+psilônia	nome feminino	psi|[lô]|ni|a
+psilópilo	nome masculino	psi|[ló]|pi|lo
+psilópode	adjetivo	psi|[ló]|po|de
+psilose	nome feminino	psi|[lo]|se
+psilóstoma	nome feminino	psi|[lós]|to|ma
+psílota	nome feminino	[psí]|lo|ta
+psilótea	nome feminino	psi|[ló]|te|a
+psilótico	adjetivo	psi|[ló]|ti|co
+psíloto	nome masculino	[psí]|lo|to
+psimitite	nome feminino	psi|mi|[ti]|te
+psique	nome feminino	[psi]|que
+psiquiatra	nome masculino	psi|qui|[a]|tra
+psiquiatra	nome feminino	psi|qui|[a]|tra
+psiquiatra	adjetivo	psi|qui|[a]|tra
+psiquiatria	nome feminino	psi|qui|a|[tri]|a
+psiquiátrico	adjetivo	psi|qui|[á]|tri|co
+psiquiatro	nome masculino	psi|qui|[a]|tro
+psiquicamente	advérbio	psi|qui|ca|[men]|te
+psíquico	adjetivo	[psí]|qui|co
+psiquídeo	nome masculino	psi|[quí]|de|o
+psiquínea	nome feminino	psi|[quí]|ne|a
+psiquismo	nome masculino	psi|[quis]|mo
+psit	interjeição	[psit]
+psitácida	nome masculino	psi|[tá]|ci|da
+psitacídeo	nome masculino	psi|ta|[cí]|de|o
+psitacídeo	adjetivo	psi|ta|[cí]|de|o
+psitaciforme	nome masculino	psi|ta|ci|[for]|me
+psitaciforme	adjetivo	psi|ta|ci|[for]|me
+psitacismo	nome masculino	psi|ta|[cis]|mo
+psítaco	nome masculino	[psí]|ta|co
+psitacose	nome feminino	psi|ta|[co]|se
+psitáculo	nome masculino	psi|[tá]|cu|lo
+psítia	adjetivo	[psí]|ti|a
+psítia	nome feminino	[psí]|ti|a
+psítio	nome masculino	[psí]|ti|o
+psítiro	nome masculino	[psí]|ti|ro
+psiu	interjeição	[psiu]
+psoa	nome masculino	[pso]|a
+psoa	nome feminino	[pso]|a
+psoas	nome masculino	[pso]|as
+psoíte	nome feminino	pso|[í]|te
+psora	nome feminino	[pso]|ra
+psorelitria	nome feminino	pso|re|li|[tri]|a
+psorelítrico	adjetivo	pso|re|[lí]|tri|co
+psorenteria	nome feminino	pso|ren|te|[ri]|a
+psorentérico	adjetivo	pso|ren|[té]|ri|co
+psoríaco	adjetivo	pso|[rí]|a|co

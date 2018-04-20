@@ -1,0 +1,100 @@
+gratuidade	nome feminino	gra|tui|[da]|de
+gratuitamente	advérbio	gra|tui|ta|[men]|te
+gratuitidade	nome feminino	gra|tui|ti|[da]|de
+gratuito	adjetivo	gra|[tui]|to
+gratulação	nome feminino	gra|tu|la|[ção]
+gratular	verbo	gra|tu|[lar]
+gratulatoriamente	advérbio	gra|tu|la|to|ri|a|[men]|te
+gratulatório	adjetivo	gra|tu|la|[tó]|ri|o
+grátulo	adjetivo	[grá]|tu|lo
+gratúna	nome feminino	gra|[tú]|na
+grau	nome masculino	[grau]
+grauçá	nome masculino	grau|[çá]
+graúda	nome feminino	gra|[ú]|da
+graúdo	nome masculino	gra|[ú]|do
+graúdo	adjetivo	gra|[ú]|do
+graúlho	nome masculino	gra|[ú]|lho
+graúna	nome feminino	gra|[ú]|na
+graunha	nome feminino	gra|[u]|nha
+grauvaque	nome masculino	grau|[va]|que
+gravação	nome feminino	gra|va|[ção]
+gravado	adjetivo	gra|[va]|do
+gravador	nome masculino	gra|va|[dor]
+gravador	adjetivo	gra|va|[dor]
+gravadora	nome feminino	gra|va|[do]|ra
+gravadura	nome feminino	gra|va|[du]|ra
+gravalha	nome feminino	gra|[va]|lha
+gravame	nome masculino	gra|[va]|me
+gravana	nome feminino	gra|[va]|na
+gravanada	nome feminino	gra|va|[na]|da
+gravancear	verbo	gra|van|ce|[ar]
+gravanceiro	adjetivo	gra|van|[cei]|ro
+gravancelo	nome masculino	gra|van|[ce]|lo
+gravanço	nome masculino	gra|[van]|ço
+gravanha	nome feminino	gra|[va]|nha
+gravanito	nome masculino	gra|va|[ni]|to
+gravanzudo	adjetivo	gra|van|[zu]|do
+gravar	verbo	gra|[var]
+gravata	nome masculino	gra|[va]|ta
+gravata	nome feminino	gra|[va]|ta
+gravatá	nome masculino	gra|va|[tá]
+gravatá-açu	nome masculino	gra|va|tá-a|[çu]
+gravatão	nome masculino	gra|va|[tão]
+gravataria	nome feminino	gra|va|ta|[ri]|a
+gravatazal	nome masculino	gra|va|ta|[zal]
+gravatear	verbo	gra|va|te|[ar]
+gravateiro	nome masculino	gra|va|[tei]|ro
+gravatil	nome masculino	gra|va|[til]
+gravatilho	nome masculino	gra|va|[ti]|lho
+gravatinha	nome masculino	gra|va|[ti]|nha
+gravatinha	nome feminino	gra|va|[ti]|nha
+gravativo	adjetivo	gra|va|[ti]|vo
+gravato	nome masculino	gra|[va]|to
+grave	adjetivo	[gra]|ve
+grave	nome masculino	[gra]|ve
+gravela	nome feminino	gra|[ve]|la
+gravelado	adjetivo	gra|ve|[la]|do
+graveloso	adjetivo	gra|ve|[lo]|so
+graveloso	nome masculino	gra|ve|[lo]|so
+gravemente	advérbio	gra|ve|[men]|te
+graveolência	nome feminino	gra|ve|o|[lên]|ci|a
+graveolente	adjetivo	gra|ve|o|[len]|te
+graveta	nome feminino	gra|[ve]|ta
+gravetar	verbo	gra|ve|[tar]
+graveto	nome masculino	gra|[ve]|to
+graveza	nome feminino	gra|[ve]|za
+graviço	nome masculino	gra|[vi]|ço
+grávida	nome feminino	[grá]|vi|da
+gravidação	nome feminino	gra|vi|da|[ção]
+gravidade	nome feminino	gra|vi|[da]|de
+gravidar	verbo	gra|vi|[dar]
+gravidez	nome feminino	gra|vi|[dez]
+gravídico	adjetivo	gra|[ví]|di|co
+grávido	adjetivo	[grá]|vi|do
+gravígrado	adjetivo	gra|[ví]|gra|do
+gravígrado	nome masculino	gra|[ví]|gra|do
+gravilha	nome feminino	gra|[vi]|lha
+gravim	nome masculino	gra|[vim]
+gravimetria	nome feminino	gra|vi|me|[tri]|a
+gravimétrico	adjetivo	gra|vi|[mé]|tri|co
+gravimetrista	nome masculino	gra|vi|me|[tris]|ta
+gravimetrista	nome feminino	gra|vi|me|[tris]|ta
+gravímetro	nome masculino	gra|[ví]|me|tro
+grávio	adjetivo	[grá]|vi|o
+grávio	nome masculino	[grá]|vi|o
+graviola	nome feminino	gra|vi|[o]|la
+gravisca	nome feminino	gra|[vis]|ca
+graviscano	adjetivo	gra|vis|[ca]|no
+graviscano	nome masculino	gra|vis|[ca]|no
+gravisco	adjetivo	gra|[vis]|co
+gravíssimo	adjetivo	gra|[vís]|si|mo
+gravitação	nome feminino	gra|vi|ta|[ção]
+gravitacional	adjetivo	gra|vi|ta|ci|o|[nal]
+gravitante	adjetivo	gra|vi|[tan]|te
+gravitão	nome masculino	gra|vi|[tão]
+gravitar	verbo	gra|vi|[tar]
+gravítico	adjetivo	gra|[ví]|ti|co
+gravitino	nome masculino	gra|vi|[ti]|no
+gravito	adjetivo	gra|[vi]|to
+gravosamente	advérbio	gra|vo|sa|[men]|te
+gravoso	adjetivo	gra|[vo]|so

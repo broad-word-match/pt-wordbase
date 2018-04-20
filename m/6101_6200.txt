@@ -1,0 +1,100 @@
+mérula	nome feminino	[mé]|ru|la
+meruxinga	nome feminino	me|ru|[xin]|ga
+mês	nome masculino	[mês]
+mesa	nome feminino	[me]|sa
+mesa de cabeceira	nome feminino	[me]|sa de ca|be|cei|ra
+mesa-redonda	nome feminino	me|sa-re|[don]|da
+mesa-tenístico	adjetivo	me|sa-te|[nís]|ti|co
+mesada	nome feminino	me|[sa]|da
+mesâncilo	nome masculino	me|[sân]|ci|lo
+mesão	nome masculino	me|[são]
+mesão-friense	adjetivo	me|são-fri|[en]|se
+mesão-friense	nome masculino	me|são-fri|[en]|se
+mesão-friense	nome feminino	me|são-fri|[en]|se
+mesaraico	adjetivo	me|sa|[rai]|co
+mesário	nome masculino	me|[sá]|ri|o
+mesarterite	nome feminino	me|sar|te|[ri]|te
+mesatocéfala	nome feminino	me|sa|to|[cé]|fa|la
+mesatocefalia	nome feminino	me|sa|to|ce|fa|[li]|a
+mesatocéfalo	adjetivo	me|sa|to|[cé]|fa|lo
+mesatocéfalo	nome masculino	me|sa|to|[cé]|fa|lo
+mesaulo	nome masculino	me|[sau]|lo
+mescabar	verbo	mes|ca|[bar]
+mescal	nome masculino	mes|[cal]
+mescalina	nome feminino	mes|ca|[li]|na
+mescambilha	nome feminino	mes|cam|[bi]|lha
+mescambilheiro	adjetivo	mes|cam|bi|[lhei]|ro
+mescambilheiro	nome masculino	mes|cam|bi|[lhei]|ro
+méscia	nome feminino	[més]|ci|a
+mescla	nome feminino	[mes]|cla
+mesclado	adjetivo	mes|[cla]|do
+mesclar	verbo	mes|[clar]
+mesembriantémea	nome feminino	me|sem|bri|an|[té]|me|a
+mesembriantêmea	nome feminino	me|sem|bri|an|[tê]|me|a
+mesembriântemo	nome masculino	me|sem|bri|[ân]|te|mo
+mesencéfalo	nome masculino	me|sen|[cé]|fa|lo
+mesenquima	nome masculino	me|sen|[qui]|ma
+mesênquima	nome masculino	me|[sên]|qui|ma
+mesenquimal	adjetivo	me|sen|qui|[mal]
+mesenquimático	adjetivo	me|sen|qui|[má]|ti|co
+mesenquimatoso	adjetivo	me|sen|qui|ma|[to]|so
+mesentérico	adjetivo	me|sen|[té]|ri|co
+mesentério	nome masculino	me|sen|[té]|ri|o
+mesenterite	nome feminino	me|sen|te|[ri]|te
+meseta	nome feminino	me|[se]|ta
+mésico	adjetivo	[mé]|si|co
+mesinha de cabeceira	nome feminino	me|[si]|nha de ca|be|cei|ra
+mésio	adjetivo	[mé]|si|o
+mésio	nome masculino	[mé]|si|o
+mesitina	nome feminino	me|si|[ti]|na
+mesma	nome feminino	[mes]|ma
+mesmamente	advérbio	mes|ma|[men]|te
+mesmeriano	nome masculino	mes|me|ri|[a]|no
+mesmeriano	adjetivo	mes|me|ri|[a]|no
+mesmérico	adjetivo	mes|[mé]|ri|co
+mesmerismo	nome masculino	mes|me|[ris]|mo
+mesmerista	adjetivo	mes|me|[ris]|ta
+mesmerista	nome masculino	mes|me|[ris]|ta
+mesmerista	nome feminino	mes|me|[ris]|ta
+mesmerizar	verbo	mes|me|ri|[zar]
+mesmerizável	adjetivo	mes|me|ri|[zá]|vel
+mesmice	nome feminino	mes|[mi]|ce
+mesmidade	nome feminino	mes|mi|[da]|de
+mesmíssimo	adjetivo	mes|[mís]|si|mo
+mesmo	advérbio	[mes]|mo
+mesmo	nome masculino	[mes]|mo
+mesmo	artigo demostrativo	[mes]|mo
+mesmo	pronome demostrativo	[mes]|mo
+mesnada	nome feminino	mes|[na]|da
+mesnadaria	nome feminino	mes|na|da|[ri]|a
+mesnadeiro	nome masculino	mes|na|[dei]|ro
+meso	nome masculino	[me]|so
+mesoamericano	adjetivo	me|so|a|me|ri|[ca]|no
+mesoamericano	nome masculino	me|so|a|me|ri|[ca]|no
+mesoblástico	adjetivo	me|so|[blás]|ti|co
+mesoblasto	nome masculino	me|so|[blas]|to
+mesocárpico	adjetivo	me|so|[cár]|pi|co
+mesocárpio	nome masculino	me|so|[cár]|pi|o
+mesocarpo	nome masculino	me|so|[car]|po
+mesoceco	nome masculino	me|so|[ce]|co
+mesocefalia	nome feminino	me|so|ce|fa|[li]|a
+mesocefálico	adjetivo	me|so|ce|[fá]|li|co
+mesocefalite	nome feminino	me|so|ce|fa|[li]|te
+mesocéfalo	nome masculino	me|so|[cé]|fa|lo
+mesocéfalo	adjetivo	me|so|[cé]|fa|lo
+mesocisto	nome masculino	me|so|[cis]|to
+mesoclasto	adjetivo	me|so|[clas]|to
+mesóclise	nome feminino	me|[só]|cli|se
+mesoclítico	adjetivo	me|so|[clí]|ti|co
+mesocólico	adjetivo	me|so|[có]|li|co
+mesocolo	nome masculino	me|so|[co]|lo
+mesocólon	nome masculino	me|so|[có]|lon
+mesocracia	nome feminino	me|so|cra|[ci]|a
+mesocrânio	nome masculino	me|so|[crâ]|ni|o
+mesocrático	adjetivo	me|so|[crá]|ti|co
+mesocuneiforme	adjetivo	me|so|cu|nei|[for]|me
+mesoderma	nome masculino	me|so|[der]|ma
+mesoderme	nome feminino	me|so|[der]|me
+mesodérmico	adjetivo	me|so|[dér]|mi|co
+mesodesmo	nome masculino	me|so|[des]|mo
+mesodiscal	adjetivo	me|so|dis|[cal]

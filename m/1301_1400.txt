@@ -1,0 +1,100 @@
+malacara	nome masculino	ma|la|[ca]|ra
+malacara	nome feminino	ma|la|[ca]|ra
+malacaro	adjetivo	ma|la|[ca]|ro
+malacate	nome masculino	ma|la|[ca]|te
+malacia	nome feminino	ma|la|[ci]|a
+malacina	nome feminino	ma|la|[ci]|na
+malácio	adjetivo	ma|[lá]|ci|o
+malácio	nome masculino	ma|[lá]|ci|o
+malacodermo	adjetivo	ma|la|co|[der]|mo
+malacodermo	nome masculino	ma|la|co|[der]|mo
+malacófilo	nome masculino	ma|la|[có]|fi|lo
+malacófilo	adjetivo	ma|la|[có]|fi|lo
+malacógamo	adjetivo	ma|la|[có]|ga|mo
+malacólito	nome masculino	ma|la|[có]|li|to
+malacologia	nome feminino	ma|la|co|lo|[gi]|a
+malacológico	adjetivo	ma|la|co|[ló]|gi|co
+malacologista	nome masculino	ma|la|co|lo|[gis]|ta
+malacologista	nome feminino	ma|la|co|lo|[gis]|ta
+malacólogo	nome masculino	ma|la|[có]|lo|go
+malacônio	nome masculino	ma|la|[cô]|ni|o
+malacónio	nome masculino	ma|la|[có]|ni|o
+malaconite	nome feminino	ma|la|co|[ni]|te
+malacopterígio	nome masculino	ma|la|cop|te|[rí]|gi|o
+malacopterígio	adjetivo	ma|la|cop|te|[rí]|gi|o
+malacossarcose	nome feminino	ma|la|cos|sar|[co]|se
+malacossomo	adjetivo	ma|la|cos|[so]|mo
+malacosteose	nome feminino	ma|la|cos|te|[o]|se
+malacostráceo	adjetivo	ma|la|cos|[trá]|ce|o
+malacostráceo	nome masculino	ma|la|cos|[trá]|ce|o
+malacozoário	nome masculino	ma|la|co|zo|[á]|ri|o
+malacozoário	adjetivo	ma|la|co|zo|[á]|ri|o
+maláctico	adjetivo	ma|[lác]|ti|co
+malacueca	nome feminino	ma|la|cu|[e]|ca
+malacueco	adjetivo	ma|la|cu|[e]|co
+malacueco	nome masculino	ma|la|cu|[e]|co
+maladia	nome feminino	ma|la|[di]|a
+maladio	adjetivo	ma|la|[di]|o
+maladio	nome masculino	ma|la|[di]|o
+malado	nome masculino	ma|[la]|do
+malafaia	nome feminino	ma|la|[fai]|a
+malafaia	nome masculino	ma|la|[fai]|a
+malafo	nome masculino	ma|[la]|fo
+málaga	nome masculino	[má]|la|ga
+malagma	nome masculino	ma|[lag]|ma
+malagueiro	nome masculino	ma|la|[guei]|ro
+malaguenha	nome feminino	ma|la|[gue]|nha
+malaguenho	adjetivo	ma|la|[gue]|nho
+malaguenho	nome masculino	ma|la|[gue]|nho
+malaguês	adjetivo	ma|la|[guês]
+malaguês	nome masculino	ma|la|[guês]
+malaguesa	nome feminino	ma|la|[gue]|sa
+malagueta	nome feminino	ma|la|[gue]|ta
+malaia	nome feminino	ma|[lai]|a
+malaia	adjetivo	ma|[lai]|a
+malaiala	nome masculino	ma|lai|[a]|la
+malaiálim	nome masculino	ma|lai|[á]|lim
+malaico	adjetivo	ma|[lai]|co
+malaico	nome masculino	ma|[lai]|co
+malaio	nome masculino	ma|[lai]|o
+malaio	adjetivo	ma|[lai]|o
+malaio-polinésia	nome feminino	ma|lai|o-po|li|[né]|si|a
+malaio-polinésio	adjetivo	ma|lai|o-po|li|[né]|si|o
+malaio-polinésio	nome masculino	ma|lai|o-po|li|[né]|si|o
+malaio-português	adjetivo	ma|lai|o-por|[tu]|guês
+malaleuca	nome feminino	ma|la|[leu]|ca
+malamba	nome feminino	ma|[lam]|ba
+malambas	nome feminino	ma|[lam]|bas
+malambeiro	adjetivo	ma|lam|[bei]|ro
+malambo	nome masculino	ma|[lam]|bo
+malampança	nome feminino	ma|lam|[pan]|ça
+malanca	nome feminino	ma|[lan]|ca
+malandéu	nome masculino	ma|lan|[déu]
+malandra	nome feminino	ma|[lan]|dra
+malandraço	nome masculino	ma|lan|[dra]|ço
+malandragem	nome feminino	ma|lan|[dra]|gem
+malandrão	nome masculino	ma|lan|[drão]
+malandrar	verbo	ma|lan|[drar]
+malandres	nome masculino	ma|[lan]|dres
+malandreta	nome feminino	ma|lan|[dre]|ta
+malandrete	nome masculino	ma|lan|[dre]|te
+malandrete	adjetivo	ma|lan|[dre]|te
+malandréu	nome masculino	ma|lan|[dréu]
+malandrice	nome feminino	ma|lan|[dri]|ce
+malandrim	nome masculino	ma|lan|[drim]
+malandrinice	nome feminino	ma|lan|dri|[ni]|ce
+malandrino	nome masculino	ma|lan|[dri]|no
+malandrino	adjetivo	ma|lan|[dri]|no
+malandro	adjetivo	ma|[lan]|dro
+malandro	nome masculino	ma|[lan]|dro
+malandrona	nome feminino	ma|lan|[dro]|na
+malandrota	nome feminino	ma|lan|[dro]|ta
+malandrote	nome masculino	ma|lan|[dro]|te
+malapeira	nome feminino	ma|la|[pei]|ra
+malapeiro	nome masculino	ma|la|[pei]|ro
+malápia	nome feminino	ma|[lá]|pi|a
+malápio	nome masculino	ma|[lá]|pi|o
+malápio	adjetivo	ma|[lá]|pi|o
+malaquês	nome masculino	ma|la|[quês]
+malaquês	adjetivo	ma|la|[quês]
+malaquice	nome feminino	ma|la|[qui]|ce

@@ -1,0 +1,100 @@
+prateada	nome feminino	pra|te|[a]|da
+prateado	adjetivo	pra|te|[a]|do
+prateado	nome masculino	pra|te|[a]|do
+prateador	adjetivo	pra|te|a|[dor]
+prateador	nome masculino	pra|te|a|[dor]
+prateadura	nome feminino	pra|te|a|[du]|ra
+prateamento	nome masculino	pra|te|a|[men]|to
+pratear	verbo	pra|te|[ar]
+prateira	nome feminino	pra|[tei]|ra
+prateiro	nome masculino	pra|[tei]|ro
+pratejar	verbo	pra|te|[jar]
+pratel	nome masculino	pra|[tel]
+prateleira	nome feminino	pra|te|[lei]|ra
+prateleiro	nome masculino	pra|te|[lei]|ro
+pratense	adjetivo	pra|[ten]|se
+prática	nome feminino	[prá]|ti|ca
+praticabilidade	nome feminino	pra|ti|ca|bi|li|[da]|de
+praticador	nome masculino	pra|ti|ca|[dor]
+praticagem	nome feminino	pra|ti|[ca]|gem
+praticamente	advérbio	pra|ti|ca|[men]|te
+praticante	adjetivo	pra|ti|[can]|te
+praticante	nome masculino	pra|ti|[can]|te
+praticante	nome feminino	pra|ti|[can]|te
+praticar	verbo	pra|ti|[car]
+praticável	adjetivo	pra|ti|[cá]|vel
+praticável	nome masculino	pra|ti|[cá]|vel
+prático	adjetivo	[prá]|ti|co
+prático	nome masculino	[prá]|ti|co
+pratícola	adjetivo	pra|[tí]|co|la
+praticultor	adjetivo	pra|ti|cul|[tor]
+praticultor	nome masculino	pra|ti|cul|[tor]
+praticultura	nome feminino	pra|ti|cul|[tu]|ra
+pratilheiro	nome masculino	pra|ti|[lhei]|ro
+pratilho	nome masculino	pra|[ti]|lho
+pratinha	nome feminino	pra|[ti]|nha
+pratinho	nome masculino	pra|[ti]|nho
+pratiqueira	nome feminino	pra|ti|[quei]|ra
+pratita	adjetivo	pra|[ti]|ta
+pratita	nome masculino	pra|[ti]|ta
+pratita	nome feminino	pra|[ti]|ta
+prato	nome masculino	[pra]|to
+pravamente	advérbio	pra|va|[men]|te
+pravidade	nome feminino	pra|vi|[da]|de
+pravo	adjetivo	[pra]|vo
+praxar	verbo	pra|[xar]
+praxe	nome feminino	[pra]|xe
+praxeologia	nome feminino	pra|xe|o|lo|[gi]|a
+praxia	nome feminino	pra|[xi]|a
+práxico	adjetivo	[prá]|xi|co
+praxileu	adjetivo	pra|xi|[leu]
+praxileu	nome masculino	pra|xi|[leu]
+práxis	nome feminino	[prá]|xis
+praxismo	nome masculino	pra|[xis]|mo
+praxista	adjetivo	pra|[xis]|ta
+praxista	nome masculino	pra|[xis]|ta
+praxista	nome feminino	pra|[xis]|ta
+praxologia	nome feminino	pra|xo|lo|[gi]|a
+praz-me	nome masculino	[praz-me]
+prazente	adjetivo	pra|[zen]|te
+prazentear	verbo	pra|zen|te|[ar]
+prazenteio	nome masculino	pra|zen|[tei]|o
+prazenteiramente	advérbio	pra|zen|tei|ra|[men]|te
+prazenteiro	adjetivo	pra|zen|[tei]|ro
+prazer	nome masculino	pra|[zer]
+prazer	verbo	pra|[zer]
+prazerosamente	advérbio	pra|ze|ro|sa|[men]|te
+prazeroso	adjetivo	pra|ze|[ro]|so
+prazimento	nome masculino	pra|zi|[men]|to
+prazível	adjetivo	pra|[zí]|vel
+prazo	nome masculino	[pra]|zo
+prazo-dado	nome masculino	pra|zo-da|do
+pré	nome masculino	[pré]
+pré-abdome	nome masculino	pré-ab|[do]|me
+pré-abdómen	nome masculino	pré-ab|[dó]|men
+pré-abdômen	nome masculino	pré-ab|[dô]|men
+pré-acordo	nome masculino	pré-a|[cor]|do
+pré-adamismo	nome masculino	pré-a|da|[mis]|mo
+pré-adamista	nome masculino	pré-a|da|[mis]|ta
+pré-adamista	adjetivo	pré-a|da|[mis]|ta
+pré-adamista	nome feminino	pré-a|da|[mis]|ta
+pré-adamita	nome masculino	pré-a|da|[mi]|ta
+pré-adamita	adjetivo	pré-a|da|[mi]|ta
+pré-adjetival	adjetivo	pré-ad|je|ti|[val]
+pré-adoção	nome feminino	pré-a|do|[ção]
+pré-adolescência	nome feminino	pré-a|do|les|[cên]|ci|a
+pré-adolescente	adjetivo	pré-a|do|les|[cen]|te
+pré-adolescente	nome masculino	pré-a|do|les|[cen]|te
+pré-adolescente	nome feminino	pré-a|do|les|[cen]|te
+pré-adopção	nome feminino	pré-a|dop|[ção]
+pré-agônico	adjetivo	pré-a|[gô]|ni|co
+pré-agónico	adjetivo	pré-a|[gó]|ni|co
+pré-alexandrino	adjetivo	pré-a|le|xan|[dri]|no
+pré-antepenúltimo	adjetivo	pré-an|te|pe|[núl]|ti|mo
+pré-anúncio	nome masculino	pré-a|[nún]|ci|o
+pré-apresentação	nome feminino	pré-a|pre|sen|ta|[ção]
+pré-árico	adjetivo	pré-á|ri|co
+pré-augustano	adjetivo	pré-au|gus|[ta]|no
+pré-aviso	nome masculino	pré-a|[vi]|so
+pré-biológico	adjetivo	pré-bi|o|[ló]|gi|co
+pré-biótico	adjetivo	pré-bi|[ó]|ti|co

@@ -1,0 +1,100 @@
+canceladura	nome feminino	can|ce|la|[du]|ra
+cancelamento	nome masculino	can|ce|la|[men]|to
+cancelar	verbo	can|ce|[lar]
+cancelário	nome masculino	can|ce|[lá]|ri|o
+cancelável	adjetivo	can|ce|[lá]|vel
+cancelo	nome masculino	can|[ce]|lo
+canceloso	adjetivo	can|ce|[lo]|so
+câncer	nome masculino	[cân]|cer
+canceração	nome feminino	can|ce|ra|[ção]
+cancerar	verbo	can|ce|[rar]
+cancerável	adjetivo	can|ce|[rá]|vel
+canceremia	nome feminino	can|ce|re|[mi]|a
+canceriano	nome masculino	can|ce|ri|[a]|no
+canceriano	adjetivo	can|ce|ri|[a]|no
+canceriforme	adjetivo	can|ce|ri|[for]|me
+cancerígeno	adjetivo	can|ce|[rí]|ge|no
+cancerização	nome feminino	can|ce|ri|za|[ção]
+cancerizar	verbo	can|ce|ri|[zar]
+cancerologia	nome feminino	can|ce|ro|lo|[gi]|a
+cancerológico	adjetivo	can|ce|ro|[ló]|gi|co
+cancerosa	nome feminino	can|ce|[ro]|sa
+canceroso	nome masculino	can|ce|[ro]|so
+canceroso	adjetivo	can|ce|[ro]|so
+cancha	nome feminino	[can]|cha
+canchal	nome masculino	can|[chal]
+cancheada	nome feminino	can|che|[a]|da
+cancheadista	nome masculino	can|che|a|[dis]|ta
+cancheador	nome masculino	can|che|a|[dor]
+cancheamento	nome masculino	can|che|a|[men]|to
+canchear	verbo	can|che|[ar]
+cancheira	nome feminino	can|[chei]|ra
+cancheiro	adjetivo	can|[chei]|ro
+canchim	nome masculino	can|[chim]
+canciocapta	adjetivo	can|ci|o|[cap]|ta
+canciocapta	nome masculino	can|ci|o|[cap]|ta
+canciocapta	nome feminino	can|ci|o|[cap]|ta
+cancioneiro	nome masculino	can|ci|o|[nei]|ro
+cancionista	nome masculino	can|ci|o|[nis]|ta
+cancionista	nome feminino	can|ci|o|[nis]|ta
+cancleu	adjetivo	can|[cleu]
+cancleu	nome masculino	can|[cleu]
+canço	nome masculino	[can]|ço
+cançoneta	nome feminino	can|ço|[ne]|ta
+cançoneteiro	nome masculino	can|ço|ne|[tei]|ro
+cançonetista	nome masculino	can|ço|ne|[tis]|ta
+cançonetista	adjetivo	can|ço|ne|[tis]|ta
+cançonetista	nome feminino	can|ço|ne|[tis]|ta
+cançonetístico	adjetivo	can|ço|ne|[tís]|ti|co
+cancra	nome feminino	[can]|cra
+cancrejo	nome masculino	can|[cre]|jo
+cancrescente	adjetivo	can|cres|[cen]|te
+cancrídeo	adjetivo	can|[crí]|de|o
+cancrídeo	nome masculino	can|[crí]|de|o
+cancriforme	adjetivo	can|cri|[for]|me
+cancrinita	nome feminino	can|cri|[ni]|ta
+cancrinite	nome feminino	can|cri|[ni]|te
+cancrívoro	adjetivo	can|[crí]|vo|ro
+cancrizante	adjetivo	can|cri|[zan]|te
+cancro	nome masculino	[can]|cro
+cancroide	adjetivo	can|[croi]|de
+cancroide	nome masculino	can|[croi]|de
+cancrologia	nome feminino	can|cro|lo|[gi]|a
+cancrológico	adjetivo	can|cro|[ló]|gi|co
+cancrologista	nome masculino	can|cro|lo|[gis]|ta
+cancrologista	nome feminino	can|cro|lo|[gis]|ta
+cancrólogo	nome masculino	can|[cró]|lo|go
+cancroma	nome masculino	can|[cro]|ma
+cancurã	nome masculino	can|cu|[rã]
+candabo	nome masculino	can|[da]|bo
+candabu	nome masculino	can|da|[bu]
+cândace	nome feminino	[cân]|da|ce
+candado	nome masculino	can|[da]|do
+candando	nome masculino	can|[dan]|do
+candango	nome masculino	can|[dan]|go
+cande	nome masculino	[can]|de
+candeada	nome feminino	can|de|[a]|da
+candeal	nome masculino	can|de|[al]
+candear	verbo	can|de|[ar]
+candearia	nome feminino	can|de|a|[ri]|a
+candeeira	nome feminino	can|de|[ei]|ra
+candeeirada	nome feminino	can|de|ei|[ra]|da
+candeeireiro	nome masculino	can|de|ei|[rei]|ro
+candeeiro	nome masculino	can|de|[ei]|ro
+candeia	nome feminino	can|[dei]|a
+candeia	adjetivo	can|[dei]|a
+candeio	nome masculino	can|[dei]|o
+candela	nome feminino	can|[de]|la
+candelabro	nome masculino	can|de|[la]|bro
+candelária	nome feminino	can|de|[lá]|ri|a
+candeliça	nome feminino	can|de|[li]|ça
+candelinha	nome feminino	can|de|[li]|nha
+candembe	nome masculino	can|[dem]|be
+candência	nome feminino	can|[dên]|ci|a
+candengue	adjetivo	can|[den]|gue
+candengue	nome masculino	can|[den]|gue
+candente	adjetivo	can|[den]|te
+candeola	nome feminino	can|de|[o]|la
+cândi	adjetivo	[cân]|di
+cândi	nome masculino	[cân]|di
+candial	adjetivo	can|di|[al]

@@ -1,0 +1,100 @@
+deslaçamento	nome masculino	des|la|ça|[men]|to
+deslaçar	verbo	des|la|[çar]
+deslaçável	adjetivo	des|la|[çá]|vel
+deslacrar	verbo	des|la|[crar]
+desladeiro	nome masculino	des|la|[dei]|ro
+deslado	nome masculino	des|[la]|do
+desladrilhar	verbo	des|la|dri|[lhar]
+desladrilho	nome masculino	des|la|[dri]|lho
+desladroamento	nome masculino	des|la|dro|a|[men]|to
+deslajeamento	nome masculino	des|la|je|a|[men]|to
+deslajear	verbo	des|la|je|[ar]
+deslanar	verbo	des|la|[nar]
+deslapar	verbo	des|la|[par]
+deslapidado	adjetivo	des|la|pi|[da]|do
+deslapidar	verbo	des|la|pi|[dar]
+deslarado	adjetivo	des|la|[ra]|do
+deslassar	verbo	des|las|[sar]
+deslastrador	adjetivo	des|las|tra|[dor]
+deslastrador	nome masculino	des|las|tra|[dor]
+deslastrar	verbo	des|las|[trar]
+deslastre	nome masculino	des|[las]|tre
+deslastro	nome masculino	des|[las]|tro
+deslaudativo	adjetivo	des|lau|da|[ti]|vo
+deslaurear	verbo	des|lau|re|[ar]
+deslavado	adjetivo	des|la|[va]|do
+deslavamento	nome masculino	des|la|va|[men]|to
+deslavar	verbo	des|la|[var]
+deslavra	nome feminino	des|[la]|vra
+deslavrar	verbo	des|la|[vrar]
+deslavre	nome masculino	des|[la]|vre
+desleal	adjetivo	des|le|[al]
+deslealdade	nome feminino	des|le|al|[da]|de
+deslealdar	verbo	des|le|al|[dar]
+deslealdoso	adjetivo	des|le|al|[do]|so
+deslealmente	advérbio	des|le|al|[men]|te
+deslegitimação	nome feminino	des|le|gi|ti|ma|[ção]
+deslegitimar	verbo	des|le|gi|ti|[mar]
+desleita	nome feminino	des|[lei]|ta
+desleitagem	nome feminino	des|lei|[ta]|gem
+desleitar	verbo	des|lei|[tar]
+desleitável	adjetivo	des|lei|[tá]|vel
+desleixação	nome feminino	des|lei|xa|[ção]
+desleixada	nome feminino	des|lei|[xa]|da
+desleixadamente	advérbio	des|lei|xa|da|[men]|te
+desleixado	adjetivo	des|lei|[xa]|do
+desleixado	nome masculino	des|lei|[xa]|do
+desleixamento	nome masculino	des|lei|xa|[men]|to
+desleixar	verbo	des|lei|[xar]
+desleixo	nome masculino	des|[lei]|xo
+deslembrado	adjetivo	des|lem|[bra]|do
+deslembrado	nome masculino	des|lem|[bra]|do
+deslembrança	nome feminino	des|lem|[bran]|ça
+deslembrar	verbo	des|lem|[brar]
+deslembrativo	adjetivo	des|lem|bra|[ti]|vo
+deslembrável	adjetivo	des|lem|[brá]|vel
+deslendear	verbo	des|len|de|[ar]
+desliar	verbo	des|li|[ar]
+desliável	adjetivo	des|li|[á]|vel
+desligação	nome feminino	des|li|ga|[ção]
+desligado	adjetivo	des|li|[ga]|do
+desligadura	nome feminino	des|li|ga|[du]|ra
+desligamento	nome masculino	des|li|ga|[men]|to
+desligar	verbo	des|li|[gar]
+desligável	adjetivo	des|li|[gá]|vel
+deslimar	verbo	des|li|[mar]
+deslindação	nome feminino	des|lin|da|[ção]
+deslindador	adjetivo	des|lin|da|[dor]
+deslindador	nome masculino	des|lin|da|[dor]
+deslindamento	nome masculino	des|lin|da|[men]|to
+deslindar	verbo	des|lin|[dar]
+deslindável	adjetivo	des|lin|[dá]|vel
+deslinde	nome masculino	des|[lin]|de
+deslinguadamente	advérbio	des|lin|gua|da|[men]|te
+deslinguado	adjetivo	des|lin|[gua]|do
+deslinguado	nome masculino	des|lin|[gua]|do
+deslinguamento	nome masculino	des|lin|gua|[men]|to
+deslinguar	verbo	des|lin|[guar]
+deslisar	verbo	des|li|[sar]
+deslisável	adjetivo	des|li|[sá]|vel
+deslisura	nome feminino	des|li|[su]|ra
+deslizadeiro	nome masculino	des|li|za|[dei]|ro
+deslizador	adjetivo	des|li|za|[dor]
+deslizador	nome masculino	des|li|za|[dor]
+deslizamento	nome masculino	des|li|za|[men]|to
+deslizante	adjetivo	des|li|[zan]|te
+deslizar	verbo	des|li|[zar]
+deslize	nome masculino	des|[li]|ze
+deslocabilidade	nome feminino	des|lo|ca|bi|li|[da]|de
+deslocação	nome feminino	des|lo|ca|[ção]
+deslocado	adjetivo	des|lo|[ca]|do
+deslocador	adjetivo	des|lo|ca|[dor]
+deslocador	nome masculino	des|lo|ca|[dor]
+deslocadura	nome feminino	des|lo|ca|[du]|ra
+deslocalização	nome feminino	des|lo|ca|li|za|[ção]
+deslocalizar	verbo	des|lo|ca|li|[zar]
+deslocamento	nome masculino	des|lo|ca|[men]|to
+deslocar	verbo	des|lo|[car]
+deslocável	adjetivo	des|lo|[cá]|vel
+deslodamento	nome masculino	des|lo|da|[men]|to
+deslodar	verbo	des|lo|[dar]

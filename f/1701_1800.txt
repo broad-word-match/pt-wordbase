@@ -1,0 +1,100 @@
+felinicultura	nome feminino	fe|li|ni|cul|[tu]|ra
+felino	nome masculino	fe|[li]|no
+felino	adjetivo	fe|[li]|no
+felisburguense	adjetivo	fe|lis|bur|[guen]|se
+felisburguense	nome masculino	fe|lis|bur|[guen]|se
+felisburguense	nome feminino	fe|lis|bur|[guen]|se
+felistreca	nome feminino	fe|lis|[tre]|ca
+felixlandense	adjetivo	fe|lix|lan|[den]|se
+felixlandense	nome masculino	fe|lix|lan|[den]|se
+felixlandense	nome feminino	fe|lix|lan|[den]|se
+feliz	adjetivo	fe|[liz]
+feliz-meu-bem	nome masculino	fe|liz-meu-bem
+felizão	nome masculino	fe|li|[zão]
+felizardo	adjetivo	fe|li|[zar]|do
+felizardo	nome masculino	fe|li|[zar]|do
+felizmente	advérbio	fe|liz|[men]|te
+felizona	nome feminino	fe|li|[zo]|na
+feloca	nome feminino	fe|[lo]|ca
+felocarpo	nome masculino	fe|lo|[car]|po
+felocha	nome feminino	fe|[lo]|cha
+feloderma	nome masculino	fe|lo|[der]|ma
+feloderme	nome feminino	fe|lo|[der]|me
+felogénico	adjetivo	fe|lo|[gé]|ni|co
+felogênico	adjetivo	fe|lo|[gê]|ni|co
+felogênio	nome masculino	fe|lo|[gê]|ni|o
+felogénio	nome masculino	fe|lo|[gé]|ni|o
+felonia	nome feminino	fe|lo|[ni]|a
+feloplástica	nome feminino	fe|lo|[plás]|ti|ca
+feloplástico	adjetivo	fe|lo|[plás]|ti|co
+felosa	nome feminino	fe|[lo]|sa
+felose	nome feminino	fe|[lo]|se
+felpa	nome feminino	[fel]|pa
+felpado	adjetivo	fel|[pa]|do
+felpar	verbo	fel|[par]
+felpo	nome masculino	[fel]|po
+felpo	adjetivo	[fel]|po
+felposo	adjetivo	fel|[po]|so
+felpudo	adjetivo	fel|[pu]|do
+félsico	adjetivo	[fél]|si|co
+felsite	nome feminino	fel|[si]|te
+felsítico	adjetivo	fel|[sí]|ti|co
+felsito	nome masculino	fel|[si]|to
+feltradeira	nome feminino	fel|tra|[dei]|ra
+feltragem	nome feminino	fel|[tra]|gem
+feltrar	verbo	fel|[trar]
+feltreiro	adjetivo	fel|[trei]|ro
+feltreiro	nome masculino	fel|[trei]|ro
+feltrino	adjetivo	fel|[tri]|no
+feltrino	nome masculino	fel|[tri]|no
+feltro	nome masculino	[fel]|tro
+feltroso	adjetivo	fel|[tro]|so
+feltrudo	adjetivo	fel|[tru]|do
+felugem	nome feminino	fe|[lu]|gem
+felugento	adjetivo	fe|lu|[gen]|to
+felupe	adjetivo	fe|[lu]|pe
+felupe	nome masculino	fe|[lu]|pe
+felupe	nome feminino	fe|[lu]|pe
+felupo	adjetivo	fe|[lu]|po
+felupo	nome masculino	fe|[lu]|po
+felupo	nome feminino	fe|[lu]|po
+felustrias	nome feminino	fe|lus|[tri]|as
+fembar	verbo	fem|[bar]
+fêmea	nome feminino	[fê]|me|a
+femeaço	nome masculino	fe|me|[a]|ço
+femeal	adjetivo	fe|me|[al]
+femealmente	advérbio	fe|me|al|[men]|te
+femeeiro	adjetivo	fe|me|[ei]|ro
+femeeiro	nome masculino	fe|me|[ei]|ro
+fementido	adjetivo	fe|men|[ti]|do
+fêmeo	adjetivo	[fê]|me|o
+fêmico	adjetivo	[fê]|mi|co
+fémico	adjetivo	[fé]|mi|co
+feminação	nome feminino	fe|mi|na|[ção]
+feminal	adjetivo	fe|mi|[nal]
+femíneo	adjetivo	fe|[mí]|ne|o
+feminidade	nome feminino	fe|mi|ni|[da]|de
+feminifloro	adjetivo	fe|mi|ni|[flo]|ro
+feminiforme	adjetivo	fe|mi|ni|[for]|me
+feminil	adjetivo	fe|mi|[nil]
+feminilidade	nome feminino	fe|mi|ni|li|[da]|de
+feminilmente	advérbio	fe|mi|nil|[men]|te
+feminino	nome masculino	fe|mi|[ni]|no
+feminino	adjetivo	fe|mi|[ni]|no
+feminismo	nome masculino	fe|mi|[nis]|mo
+feminista	adjetivo	fe|mi|[nis]|ta
+feminista	nome masculino	fe|mi|[nis]|ta
+feminista	nome feminino	fe|mi|[nis]|ta
+feminização	nome feminino	fe|mi|ni|za|[ção]
+feminizar	verbo	fe|mi|ni|[zar]
+femoral	adjetivo	fe|mo|[ral]
+femorossinovial	adjetivo	fe|mo|ros|si|no|vi|[al]
+femorotibial	adjetivo	fe|mo|ro|ti|bi|[al]
+fêmur	nome masculino	[fê]|mur
+fémur	nome masculino	[fé]|mur
+fena	nome feminino	[fe]|na
+fenação	nome feminino	fe|na|[ção]
+fenacetina	nome feminino	fe|na|ce|[ti]|na
+fenacetúrico	adjetivo	fe|na|ce|[tú]|ri|co
+fenacho	nome masculino	fe|[na]|cho
+fenagem	nome feminino	fe|[na]|gem

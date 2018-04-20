@@ -1,0 +1,100 @@
+derreador	nome masculino	der|re|a|[dor]
+derreamento	nome masculino	der|re|a|[men]|to
+derrear	verbo	der|re|[ar]
+derredor	advérbio	der|re|[dor]
+derrega	nome feminino	der|[re]|ga
+derregador	nome masculino	der|re|ga|[dor]
+derregar	verbo	der|re|[gar]
+derreia	nome feminino	der|[rei]|a
+derreigar	verbo	der|rei|[gar]
+derreio	nome masculino	der|[rei]|o
+derrelição	nome feminino	der|re|li|[ção]
+derrelicção	nome feminino	der|re|lic|[ção]
+derrelicto	adjetivo	der|re|[lic]|to
+derrelito	adjetivo	der|re|[li]|to
+derrengado	adjetivo	der|ren|[ga]|do
+derrengar	verbo	der|ren|[gar]
+derrengo	nome masculino	der|[ren]|go
+derrengue	nome masculino	der|[ren]|gue
+derrete	nome masculino	der|[re]|te
+derretedura	nome feminino	der|re|te|[du]|ra
+derreter	verbo	der|re|[ter]
+derretido	adjetivo	der|re|[ti]|do
+derretimento	nome masculino	der|re|ti|[men]|to
+derretível	adjetivo	der|re|[tí]|vel
+derriba	nome feminino	der|[ri]|ba
+derribador	adjetivo	der|ri|ba|[dor]
+derribador	nome masculino	der|ri|ba|[dor]
+derribamento	nome masculino	der|ri|ba|[men]|to
+derribar	verbo	der|ri|[bar]
+derriça	nome feminino	der|[ri]|ça
+derriçador	adjetivo	der|ri|ça|[dor]
+derriçador	nome masculino	der|ri|ça|[dor]
+derriçar	verbo	der|ri|[çar]
+derriço	nome masculino	der|[ri]|ço
+derrisão	nome feminino	der|ri|[são]
+derrisca	nome feminino	der|[ris]|ca
+derriscar	verbo	der|ris|[car]
+derrisor	nome masculino	der|ri|[sor]
+derrisório	adjetivo	der|ri|[só]|ri|o
+derrocada	nome feminino	der|ro|[ca]|da
+derrocado	adjetivo	der|ro|[ca]|do
+derrocador	adjetivo	der|ro|ca|[dor]
+derrocador	nome masculino	der|ro|ca|[dor]
+derrocamento	nome masculino	der|ro|ca|[men]|to
+derrocar	verbo	der|ro|[car]
+derrogação	nome feminino	der|ro|ga|[ção]
+derrogador	adjetivo	der|ro|ga|[dor]
+derrogador	nome masculino	der|ro|ga|[dor]
+derrogadora	nome feminino	der|ro|ga|[do]|ra
+derrogamento	nome masculino	der|ro|ga|[men]|to
+derrogante	adjetivo	der|ro|[gan]|te
+derrogante	nome masculino	der|ro|[gan]|te
+derrogante	nome feminino	der|ro|[gan]|te
+derrogar	verbo	der|ro|[gar]
+derrogatório	adjetivo	der|ro|ga|[tó]|ri|o
+derrogável	adjetivo	der|ro|[gá]|vel
+derrota	nome feminino	der|[ro]|ta
+derrotada	nome feminino	der|ro|[ta]|da
+derrotado	adjetivo	der|ro|[ta]|do
+derrotado	nome masculino	der|ro|[ta]|do
+derrotador	nome masculino	der|ro|ta|[dor]
+derrotador	adjetivo	der|ro|ta|[dor]
+derrotadora	nome feminino	der|ro|ta|[do]|ra
+derrotar	verbo	der|ro|[tar]
+derrotável	adjetivo	der|ro|[tá]|vel
+derrote	nome masculino	der|[ro]|te
+derroteiro	nome masculino	der|ro|[tei]|ro
+derrotismo	nome masculino	der|ro|[tis]|mo
+derrotista	adjetivo	der|ro|[tis]|ta
+derrotista	nome masculino	der|ro|[tis]|ta
+derrotista	nome feminino	der|ro|[tis]|ta
+derruba	nome feminino	der|[ru]|ba
+derrubada	nome feminino	der|ru|[ba]|da
+derrubado	adjetivo	der|ru|[ba]|do
+derrubador	adjetivo	der|ru|ba|[dor]
+derrubador	nome masculino	der|ru|ba|[dor]
+derrubamento	nome masculino	der|ru|ba|[men]|to
+derrubar	verbo	der|ru|[bar]
+derrubável	adjetivo	der|ru|[bá]|vel
+derrube	nome masculino	der|[ru]|be
+derruição	nome feminino	der|ru|i|[ção]
+derruidor	adjetivo	der|ru|i|[dor]
+derruidor	nome masculino	der|rui|[dor]
+derruimento	nome masculino	der|ru|i|[men]|to
+derruir	verbo	der|ru|[ir]
+derseu	adjetivo	der|[seu]
+derseu	nome masculino	der|[seu]
+dervis	nome masculino	der|[vis]
+dervixe	nome masculino	der|[vi]|xe
+dês	preposição	[dês]
+desabado	adjetivo	de|sa|[ba]|do
+desabado	nome masculino	de|sa|[ba]|do
+desabafado	adjetivo	de|sa|ba|[fa]|do
+desabafamento	nome masculino	de|sa|ba|fa|[men]|to
+desabafar	verbo	de|sa|ba|[far]
+desabafo	nome masculino	de|sa|[ba]|fo
+desabalada	nome feminino	de|sa|ba|[la]|da
+desabaladamente	advérbio	de|sa|ba|la|da|[men]|te
+desabalado	adjetivo	de|sa|ba|[la]|do
+desabalar	verbo	de|sa|ba|[lar]

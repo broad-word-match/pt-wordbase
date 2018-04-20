@@ -1,0 +1,100 @@
+farmacografia	nome feminino	far|ma|co|gra|[fi]|a
+farmacográfico	adjetivo	far|ma|co|[grá]|fi|co
+farmacóloga	nome feminino	far|ma|[có]|lo|ga
+farmacologia	nome feminino	far|ma|co|lo|[gi]|a
+farmacológico	adjetivo	far|ma|co|[ló]|gi|co
+farmacologista	nome masculino	far|ma|co|lo|[gis]|ta
+farmacologista	nome feminino	far|ma|co|lo|[gis]|ta
+farmacólogo	nome masculino	far|ma|[có]|lo|go
+farmacomania	nome feminino	far|ma|co|ma|[ni]|a
+farmacopeia	nome feminino	far|ma|co|[pei]|a
+farmacopeico	adjetivo	far|ma|co|[pei]|co
+farmacopola	nome masculino	far|ma|co|[po]|la
+farmacoposia	nome feminino	far|ma|co|po|[si]|a
+farmacoquímica	nome feminino	far|ma|co|[quí]|mi|ca
+farmacoquímico	adjetivo	far|ma|co|[quí]|mi|co
+farmacossiderite	nome feminino	far|ma|cos|si|de|[ri]|te
+farmacotecnia	nome feminino	far|ma|co|tec|[ni]|a
+farmacotécnico	adjetivo	far|ma|co|[téc]|ni|co
+farmacoterapia	nome feminino	far|ma|co|te|ra|[pi]|a
+farmacoterápico	adjetivo	far|ma|co|te|[rá]|pi|co
+farme	nome feminino	[far]|me
+farmeiro	nome masculino	far|[mei]|ro
+farneiro	nome masculino	far|[nei]|ro
+farnel	nome masculino	far|[nel]
+farnento	nome masculino	far|[nen]|to
+farnicoques	nome masculino	far|ni|[co]|ques
+farniente	nome masculino	far|nien|te
+faro	nome masculino	[fa]|ro
+faroense	adjetivo	fa|ro|[en]|se
+faroense	nome masculino	fa|ro|[en]|se
+faroense	nome feminino	fa|ro|[en]|se
+faroeste	nome masculino	fa|ro|[es]|te
+farofa	nome feminino	fa|[ro]|fa
+farofeira	nome feminino	fa|ro|[fei]|ra
+farofeiro	adjetivo	fa|ro|[fei]|ro
+farofeiro	nome masculino	fa|ro|[fei]|ro
+farófia	nome feminino	fa|[ró]|fi|a
+farol	nome masculino	fa|[rol]
+farola	nome feminino	fa|[ro]|la
+farolado	adjetivo	fa|ro|[la]|do
+farolagem	nome feminino	fa|ro|[la]|gem
+farolamento	nome masculino	fa|ro|la|[men]|to
+farolar	verbo	fa|ro|[lar]
+faroleira	nome feminino	fa|ro|[lei]|ra
+faroleiro	nome masculino	fa|ro|[lei]|ro
+farolete	nome masculino	fa|ro|[le]|te
+farolice	nome feminino	fa|ro|[li]|ce
+farolim	nome masculino	fa|ro|[lim]
+farolização	nome feminino	fa|ro|li|za|[ção]
+farolizar	verbo	fa|ro|li|[zar]
+farpa	nome feminino	[far]|pa
+farpada	nome feminino	far|[pa]|da
+farpado	adjetivo	far|[pa]|do
+farpante	adjetivo	far|[pan]|te
+farpão	nome masculino	far|[pão]
+farpar	verbo	far|[par]
+farpear	verbo	far|pe|[ar]
+farpela	nome feminino	far|[pe]|la
+farpinha	nome feminino	far|[pi]|nha
+farpoar	verbo	far|po|[ar]
+farra	nome feminino	[far]|ra
+farracatão	nome masculino	far|ra|ca|[tão]
+farracho	nome masculino	far|[ra]|cho
+farrageal	nome masculino	far|ra|ge|[al]
+farragem	nome feminino	far|[ra]|gem
+farragoilo	nome masculino	far|ra|[goi]|lo
+farragoulo	nome masculino	far|ra|[gou]|lo
+farragulha	nome masculino	far|ra|[gu]|lha
+farrambamba	nome feminino	far|ram|[bam]|ba
+farrancha	nome feminino	far|[ran]|cha
+farrancho	nome masculino	far|[ran]|cho
+farrão	nome masculino	far|[rão]
+farrapada	nome feminino	far|ra|[pa]|da
+farrapagem	nome feminino	far|ra|[pa]|gem
+farrapão	nome masculino	far|ra|[pão]
+farrapar	verbo	far|ra|[par]
+farraparia	nome feminino	far|ra|pa|[ri]|a
+farrapeira	nome feminino	far|ra|[pei]|ra
+farrapeiro	nome masculino	far|ra|[pei]|ro
+farrapento	adjetivo	far|ra|[pen]|to
+farrapilha	nome masculino	far|ra|[pi]|lha
+farrapilha	nome feminino	far|ra|[pi]|lha
+farrapo	nome masculino	far|[ra]|po
+farrar	verbo	far|[rar]
+farrear	verbo	far|re|[ar]
+farrejal	nome masculino	far|re|[jal]
+fárreo	nome masculino	[fár]|re|o
+fárreo	adjetivo	[fár]|re|o
+farricoco	nome masculino	far|ri|[co]|co
+farripa	nome feminino	far|[ri]|pa
+farripas	nome feminino	far|[ri]|pas
+farrista	adjetivo	far|[ris]|ta
+farrista	nome masculino	far|[ris]|ta
+farrista	nome feminino	far|[ris]|ta
+farro	nome masculino	[far]|ro
+farroba	nome feminino	far|[ro]|ba
+farroba-de-laia	nome feminino	far|ro|ba-de-lai|a
+farrobeira	nome feminino	far|ro|[bei]|ra
+farrobento	adjetivo	far|ro|[ben]|to
+farroma	nome masculino	far|[ro]|ma

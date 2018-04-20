@@ -1,0 +1,100 @@
+biopsicologia	nome feminino	bi|op|si|co|lo|[gi]|a
+biopsicológico	adjetivo	bi|op|si|co|[ló]|gi|co
+bióptico	adjetivo	bi|[óp]|ti|co
+bioquice	nome feminino	bi|o|[qui]|ce
+bioquímica	nome feminino	bi|o|[quí]|mi|ca
+bioquímico	adjetivo	bi|o|[quí]|mi|co
+bioquímico	nome masculino	bi|o|[quí]|mi|co
+biorritmo	nome masculino	bi|or|[rit]|mo
+bioscopia	nome feminino	bi|os|co|[pi]|a
+bioscópico	adjetivo	bi|os|[có]|pi|co
+bioscópio	nome masculino	bi|os|[có]|pi|o
+biose	nome feminino	bi|[o]|se
+biosfera	nome feminino	bi|os|[fe]|ra
+biosférico	adjetivo	bi|os|[fé]|ri|co
+biosofia	nome feminino	bi|o|so|[fi]|a
+biosófico	adjetivo	bi|o|[só]|fi|co
+biossatélite	nome masculino	bi|os|sa|[té]|li|te
+biossíntese	nome feminino	bi|os|[sín]|te|se
+biossintetizável	adjetivo	bi|os|sin|te|ti|[zá]|vel
+biostratigrafia	nome feminino	bi|os|tra|ti|gra|[fi]|a
+biostratigráfico	adjetivo	bi|os|tra|ti|[grá]|fi|co
+biostratinomia	nome feminino	bi|os|tra|ti|no|[mi]|a
+biostroma	nome masculino	bi|os|[tro]|ma
+biota	nome feminino	bi|[o]|ta
+biotáctico	adjetivo	bi|o|[tác]|ti|co
+biotático	adjetivo	bi|o|[tá]|ti|co
+biotaxia	nome feminino	bi|o|ta|[xi]|a
+biotáxico	adjetivo	bi|o|[tá]|xi|co
+biotecnia	nome feminino	bi|o|tec|[ni]|a
+biotécnica	nome feminino	bi|o|[téc]|ni|ca
+biotécnico	adjetivo	bi|o|[téc]|ni|co
+biotecnologia	nome feminino	bi|o|tec|no|lo|[gi]|a
+biotecnológico	adjetivo	bi|o|tec|no|[ló]|gi|co
+bioterapia	nome feminino	bi|o|te|ra|[pi]|a
+bioterápico	adjetivo	bi|o|te|[rá]|pi|co
+biotério	nome masculino	bi|o|[té]|ri|o
+bioterrorismo	nome masculino	bi|o|ter|ro|[ris]|mo
+bioterrorista	nome masculino	bi|o|ter|ro|[ris]|ta
+bioterrorista	nome feminino	bi|o|ter|ro|[ris]|ta
+biótico	adjetivo	bi|[ó]|ti|co
+biotina	nome feminino	bi|o|[ti]|na
+biótipo	nome masculino	bi|[ó]|ti|po
+biotipologia	nome feminino	bi|o|ti|po|lo|[gi]|a
+biotipológico	adjetivo	bi|o|ti|po|[ló]|gi|co
+biotipologista	adjetivo	bi|o|ti|po|lo|[gis]|ta
+biotipologista	nome masculino	bi|o|ti|po|lo|[gis]|ta
+biotipologista	nome feminino	bi|o|ti|po|lo|[gis]|ta
+biotita	nome feminino	bi|o|[ti]|ta
+biotite	nome feminino	bi|o|[ti]|te
+biotomia	nome feminino	bi|o|to|[mi]|a
+biotômico	adjetivo	bi|o|[tô]|mi|co
+biotómico	adjetivo	bi|o|[tó]|mi|co
+biótopo	nome masculino	bi|[ó]|to|po
+biovulado	adjetivo	bi|o|vu|[la]|do
+bioxalato	nome masculino	bi|o|xa|[la]|to
+bioxálico	adjetivo	bi|o|[xá]|li|co
+bióxido	nome masculino	bi|[ó]|xi|do
+biozona	nome feminino	bi|o|[zo]|na
+bip	nome masculino	[bip]
+bipanga	nome feminino	bi|[pan]|ga
+biparietal	adjetivo	bi|pa|ri|e|[tal]
+bíparo	adjetivo	[bí]|pa|ro
+bipartição	nome feminino	bi|par|ti|[ção]
+bipartidário	adjetivo	bi|par|ti|[dá]|ri|o
+bipartidarismo	nome masculino	bi|par|ti|da|[ris]|mo
+bipartidismo	nome masculino	bi|par|ti|[dis]|mo
+bipartido	adjetivo	bi|par|[ti]|do
+bipartir	verbo	bi|par|[tir]
+bipartível	adjetivo	bi|par|[tí]|vel
+bipatente	adjetivo	bi|pa|[ten]|te
+bipé	nome masculino	bi|[pé]
+bipe	nome masculino	[bi]|pe
+bipedal	adjetivo	bi|pe|[dal]
+bípede	nome masculino	[bí]|pe|de
+bípede	adjetivo	[bí]|pe|de
+bípede	nome feminino	[bí]|pe|de
+bipenado	adjetivo	bi|pe|[na]|do
+bipene	nome feminino	bi|[pe]|ne
+bipene	adjetivo	bi|[pe]|ne
+biperfurado	adjetivo	bi|per|fu|[ra]|do
+bipétalo	adjetivo	bi|[pé]|ta|lo
+bipinulado	adjetivo	bi|pi|nu|[la]|do
+bipiramidal	adjetivo	bi|pi|ra|mi|[dal]
+bipirâmide	nome feminino	bi|pi|[râ]|mi|de
+biplano	adjetivo	bi|[pla]|no
+biplano	nome masculino	bi|[pla]|no
+biplume	adjetivo	bi|[plu]|me
+bipolar	adjetivo	bi|po|[lar]
+bipolaridade	nome feminino	bi|po|la|ri|[da]|de
+bipolarização	nome feminino	bi|po|la|ri|za|[ção]
+bipolarizado	adjetivo	bi|po|la|ri|[za]|do
+bipolarizar	verbo	bi|po|la|ri|[zar]
+biporoso	adjetivo	bi|po|[ro]|so
+bipper	nome masculino	bip|per
+biprisma	nome masculino	bi|[pris]|ma
+biprismático	adjetivo	bi|pris|[má]|ti|co
+biquadrado	adjetivo	bi|qua|[dra]|do
+biquara	nome feminino	bi|[qua]|ra
+biquarço	nome masculino	bi|[quar]|ço
+biquartzo	nome masculino	bi|[quart]|zo

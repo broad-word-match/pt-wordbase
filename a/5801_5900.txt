@@ -1,0 +1,100 @@
+africção	nome feminino	a|fric|[ção]
+áfrico	adjetivo	[á]|fri|co
+áfrico	nome masculino	[á]|fri|co
+afrikaans	nome masculino	a|fri|kaans
+afrisoado	adjetivo	a|fri|so|[a]|do
+afrizite	nome feminino	a|fri|[zi]|te
+afro	adjetivo	[a]|fro
+afro	nome masculino	[a]|fro
+afro-americana	nome feminino	a|fro-a|me|ri|[ca]|na
+afro-americano	adjetivo	a|fro-a|me|ri|[ca]|no
+afro-americano	nome masculino	a|fro-a|me|ri|[ca]|no
+afro-árabe	adjetivo	a|fro-á|ra|be
+afro-asiático	adjetivo	a|fro-a|si|[á]|ti|co
+afro-asiático	nome masculino	a|fro-a|si|[á]|ti|co
+afro-brasileirismo	nome masculino	a|fro-bra|si|lei|[ris]|mo
+afro-brasileiro	adjetivo	a|fro-bra|si|[lei]|ro
+afro-brasileiro	nome masculino	a|fro-bra|si|[lei]|ro
+afro-cubano	adjetivo	a|fro-cu|[ba]|no
+afro-cubano	nome masculino	a|fro-cu|[ba]|no
+afro-espanhol	adjetivo	a|fro-es|pa|[nhol]
+afro-europeu	adjetivo	a|fro-eu|ro|[peu]
+afro-lusismo	nome masculino	a|fro-lu|[sis]|mo
+afro-lusitano	adjetivo	a|fro-lu|si|[ta]|no
+afro-luso-brasileira	nome feminino	a|fro-lu|so-bra|si|[lei]|ra
+afro-luso-brasileiro	nome masculino	a|fro-lu|so-bra|si|[lei]|ro
+afro-luso-brasileiro	adjetivo	a|fro-lu|so-bra|si|[lei]|ro
+afro-português	adjetivo	a|fro-por|tu|[guês]
+afrodescendente	adjetivo	a|fro|des|cen|[den]|te
+afrodescendente	nome masculino	a|fro|des|cen|[den]|te
+afrodescendente	nome feminino	a|fro|des|cen|[den]|te
+afrodisia	nome feminino	a|fro|di|[si]|a
+afrodisíaca	nome feminino	a|fro|di|[sí]|a|ca
+afrodisíaco	adjetivo	a|fro|di|[sí]|a|co
+afrodisíaco	nome masculino	a|fro|di|[sí]|a|co
+afrodisiense	adjetivo	a|fro|di|si|[en]|se
+afrodisiense	nome masculino	a|fro|di|si|[en]|se
+afrodisiense	nome feminino	a|fro|di|si|[en]|se
+afrodísio	adjetivo	a|fro|[dí]|si|o
+afrodisiografia	nome feminino	a|fro|di|si|o|gra|[fi]|a
+afrodisiográfico	adjetivo	a|fro|di|si|o|[grá]|fi|co
+afrodisiógrafo	nome masculino	a|fro|di|si|[ó]|gra|fo
+afrodita	adjetivo	a|fro|[di]|ta
+afrodita	nome feminino	a|fro|[di]|ta
+afroditografia	nome feminino	a|fro|di|to|gra|[fi]|a
+afroditográfico	adjetivo	a|fro|di|to|[grá]|fi|co
+afroditógrafo	nome masculino	a|fro|di|[tó]|gra|fo
+afroditopolita	adjetivo	a|fro|di|to|po|[li]|ta
+afroditopolita	nome masculino	a|fro|di|to|po|[li]|ta
+afroditopolita	nome feminino	a|fro|di|to|po|[li]|ta
+afroditopolitano	adjetivo	a|fro|di|to|po|li|[ta]|no
+afroditopolitano	nome masculino	a|fro|di|to|po|li|[ta]|no
+afróforo	adjetivo	a|[fró]|fo|ro
+afróforo	nome masculino	a|[fró]|fo|ro
+afroixadela	nome feminino	a|froi|xa|[de]|la
+afroixador	adjetivo	a|froi|xa|[dor]
+afroixador	nome masculino	a|froi|xa|[dor]
+afroixamento	nome masculino	a|froi|xa|[men]|to
+afroixar	verbo	a|froi|[xar]
+afroixelar	verbo	a|froi|xe|[lar]
+afrólatra	adjetivo	a|[fró]|la|tra
+afrólatra	nome masculino	a|[fró]|la|tra
+afrólatra	nome feminino	a|[fró]|la|tra
+afrolatria	nome feminino	a|fro|la|[tri]|a
+afrolátrico	adjetivo	a|fro|[lá]|tri|co
+afrometria	nome feminino	a|fro|me|[tri]|a
+afrométrico	adjetivo	a|fro|[mé]|tri|co
+afrómetro	nome masculino	a|[fró]|me|tro
+afrômetro	nome masculino	a|[frô]|me|tro
+afronegrismo	nome masculino	a|fro|ne|[gris]|mo
+afronegro	adjetivo	a|fro|[ne]|gro
+afronhado	adjetivo	a|fro|[nha]|do
+afronhar	verbo	a|fro|[nhar]
+afrônitro	nome masculino	a|[frô]|ni|tro
+afrónitro	nome masculino	a|[fró]|ni|tro
+afronta	nome feminino	a|[fron]|ta
+afrontação	nome feminino	a|fron|ta|[ção]
+afrontadamente	advérbio	a|fron|ta|da|[men]|te
+afrontadiço	adjetivo	a|fron|ta|[di]|ço
+afrontado	adjetivo	a|fron|[ta]|do
+afrontador	adjetivo	a|fron|ta|[dor]
+afrontador	nome masculino	a|fron|ta|[dor]
+afrontadora	nome feminino	a|fron|ta|[do]|ra
+afrontamento	nome masculino	a|fron|ta|[men]|to
+afrontante	adjetivo	a|fron|[tan]|te
+afrontar	verbo	a|fron|[tar]
+afrontável	adjetivo	a|fron|[tá]|vel
+afrontosamente	advérbio	a|fron|to|sa|[men]|te
+afrontoso	adjetivo	a|fron|[to]|so
+afrósina	nome feminino	a|[fró]|si|na
+afrossiderite	nome feminino	a|fros|si|de|[ri]|te
+afrouxadela	nome feminino	a|frou|xa|[de]|la
+afrouxado	adjetivo	a|frou|[xa]|do
+afrouxador	adjetivo	a|frou|xa|[dor]
+afrouxador	nome masculino	a|frou|xa|[dor]
+afrouxamento	nome masculino	a|frou|xa|[men]|to
+afrouxar	verbo	a|frou|[xar]
+afrouxelar	verbo	a|frou|xe|[lar]
+afrutado	adjetivo	a|fru|[ta]|do
+afrutar	verbo	a|fru|[tar]
+afta	nome feminino	[af]|ta

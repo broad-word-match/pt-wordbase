@@ -1,0 +1,100 @@
+milabre	nome masculino	mi|[la]|bre
+milady	nome feminino	mi|la|dy
+milagraria	nome feminino	mi|la|gra|[ri]|a
+milagre	nome masculino	mi|[la]|gre
+milagredo	nome masculino	mi|la|[gre]|do
+milagreira	nome feminino	mi|la|[grei]|ra
+milagreiro	nome masculino	mi|la|[grei]|ro
+milagreiro	adjetivo	mi|la|[grei]|ro
+milagrento	adjetivo	mi|la|[gren]|to
+milagrice	nome feminino	mi|la|[gri]|ce
+milagrório	nome masculino	mi|la|[gró]|ri|o
+milagrosa	nome feminino	mi|la|[gro]|sa
+milagrosamente	advérbio	mi|la|gro|sa|[men]|te
+milagroso	adjetivo	mi|la|[gro]|so
+milandeiro	adjetivo	mi|lan|[dei]|ro
+milando	nome masculino	mi|[lan]|do
+milanês	nome masculino	mi|la|[nês]
+milanês	adjetivo	mi|la|[nês]
+milanesa	nome feminino	mi|la|[ne]|sa
+milano	nome masculino	mi|[la]|no
+milão	nome masculino	mi|[lão]
+milavo	nome masculino	mi|[la]|vo
+milcurie	nome masculino	mil|cu|rie
+milde	nome masculino	[mil]|de
+míldio	nome masculino	[míl]|di|o
+mildiose	nome feminino	mil|di|[o]|se
+milefólio	nome masculino	mi|le|[fó]|li|o
+milenar	adjetivo	mi|le|[nar]
+milenário	adjetivo	mi|le|[ná]|ri|o
+milenário	nome masculino	mi|le|[ná]|ri|o
+milenarismo	nome masculino	mi|le|na|[ris]|mo
+milenarista	adjetivo	mi|le|na|[ris]|ta
+milenarista	nome masculino	mi|le|na|[ris]|ta
+milenarista	nome feminino	mi|le|na|[ris]|ta
+milengas	nome feminino	mi|[len]|gas
+milênio	nome masculino	mi|[lê]|ni|o
+milénio	nome masculino	mi|[lé]|ni|o
+míleo	adjetivo	[mí]|le|o
+milépora	nome feminino	mi|[lé]|po|ra
+mileporáceo	adjetivo	mi|le|po|[rá]|ce|o
+milerite	nome feminino	mi|le|[ri]|te
+milésico	nome masculino	mi|[lé]|si|co
+milésico	adjetivo	mi|[lé]|si|co
+milésima	nome feminino	mi|[lé]|si|ma
+milésimo	número fraccional	mi|[lé]|si|mo
+milésimo	nome masculino	mi|[lé]|si|mo
+milésimo	número ordinal	mi|[lé]|si|mo
+milésimo	adjetivo	mi|[lé]|si|mo
+milésio	nome masculino	mi|[lé]|si|o
+milésio	adjetivo	mi|[lé]|si|o
+miletopolitano	adjetivo	mi|le|to|po|li|[ta]|no
+miletopolitano	nome masculino	mi|le|to|po|li|[ta]|no
+milevetano	nome masculino	mi|le|ve|[ta]|no
+milevetano	adjetivo	mi|le|ve|[ta]|no
+milfolhada	nome feminino	mil|fo|[lha]|da
+milfontense	adjetivo	mil|fon|[ten]|se
+milfontense	nome masculino	mil|fon|[ten]|se
+milfontense	nome feminino	mil|fon|[ten]|se
+milfose	nome feminino	mil|[fo]|se
+milfurada	nome feminino	mil|fu|[ra]|da
+milfurado	adjetivo	mil|fu|[ra]|do
+milgrada	nome feminino	mil|[gra]|da
+milgranada	nome feminino	mil|gra|[na]|da
+milha	nome feminino	[mi]|lha
+milha	adjetivo	[mi]|lha
+milhã	nome feminino	mi|[lhã]
+milhaça	nome feminino	mi|[lha]|ça
+milhado	adjetivo	mi|[lha]|do
+milhafo	nome masculino	mi|[lha]|fo
+milhafre	nome masculino	mi|[lha]|fre
+milhagem	nome feminino	mi|[lha]|gem
+milhal	nome masculino	mi|[lhal]
+milhaneiro	adjetivo	mi|lha|[nei]|ro
+milhaneiro	nome masculino	mi|lha|[nei]|ro
+milhano	nome masculino	mi|[lha]|no
+milhano-real	nome masculino	mi|lha|no-re|[al]
+milhão	nome masculino	mi|[lhão]
+milhão	adjetivo	mi|[lhão]
+milhar	nome masculino	mi|[lhar]
+mílhara	nome feminino	[mí]|lha|ra
+milharada	nome feminino	mi|lha|[ra]|da
+milharado	adjetivo	mi|lha|[ra]|do
+milharal	nome masculino	mi|lha|[ral]
+milharaque	nome masculino	mi|lha|[ra]|que
+mílharas	nome feminino	[mí]|lha|ras
+milharengo	nome masculino	mi|lha|[ren]|go
+milharós	nome masculino	mi|lha|[rós]
+milheira	nome feminino	mi|[lhei]|ra
+milheira-amarela	nome feminino	mi|lhei|ra-a|ma|[re]|la
+milheira-galante	nome feminino	mi|lhei|ra-ga|[lan]|te
+milheirada	nome feminino	mi|lhei|[ra]|da
+milheiral	nome masculino	mi|lhei|[ral]
+milheirão	nome masculino	mi|lhei|[rão]
+milheiriça	nome feminino	mi|lhei|[ri]|ça
+milheirinha	nome feminino	mi|lhei|[ri]|nha
+milheiro	nome masculino	mi|[lhei]|ro
+milheiró	nome masculino	mi|lhei|[ró]
+milheirós	nome masculino	mi|lhei|[rós]
+milhém	nome feminino	mi|[lhém]
+milhenta	nome feminino	mi|[lhen]|ta

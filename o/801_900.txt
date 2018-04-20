@@ -1,0 +1,100 @@
+odontóforo	nome masculino	o|don|[tó]|fo|ro
+odontogénese	nome feminino	o|don|to|[gé]|ne|se
+odontogênese	nome feminino	o|don|to|[gê]|ne|se
+odontogenia	nome feminino	o|don|to|ge|[ni]|a
+odontogênico	adjetivo	o|don|to|[gê]|ni|co
+odontogénico	adjetivo	o|don|to|[gé]|ni|co
+odontoglosso	adjetivo	o|don|to|[glos]|so
+odontoglosso	nome masculino	o|don|to|[glos]|so
+odontógnato	nome masculino	o|don|[tóg]|na|to
+odontografia	nome feminino	o|don|to|gra|[fi]|a
+odontográfico	adjetivo	o|don|to|[grá]|fi|co
+odontograma	nome masculino	o|don|to|[gra]|ma
+odontoide	adjetivo	o|don|[toi]|de
+odontolitíase	nome feminino	o|don|to|li|[tí]|a|se
+odontólito	nome masculino	o|don|[tó]|li|to
+odontólofo	nome masculino	o|don|[tó]|lo|fo
+odontóloga	nome feminino	o|don|[tó]|lo|ga
+odontologia	nome feminino	o|don|to|lo|[gi]|a
+odontológico	adjetivo	o|don|to|[ló]|gi|co
+odontologista	nome masculino	o|don|to|lo|[gis]|ta
+odontologista	nome feminino	o|don|to|lo|[gis]|ta
+odontólogo	nome masculino	o|don|[tó]|lo|go
+odontoma	nome masculino	o|don|[to]|ma
+odontómaco	nome masculino	o|don|[tó]|ma|co
+odontômaco	nome masculino	o|don|[tô]|ma|co
+odontómetro	nome masculino	o|don|[tó]|me|tro
+odontômetro	nome masculino	o|don|[tô]|me|tro
+odontônique	nome masculino	o|don|[tô]|ni|que
+odontónique	nome masculino	o|don|[tó]|ni|que
+odontópetra	nome feminino	o|don|[tó]|pe|tra
+odontópode	nome masculino	o|don|[tó]|po|de
+odontoptéride	nome feminino	o|don|top|[té]|ri|de
+odontórnitas	nome feminino	o|don|[tór]|ni|tas
+odontorragia	nome feminino	o|don|tor|ra|[gi]|a
+odontorrágico	adjetivo	o|don|tor|[rá]|gi|co
+odontorranfo	nome masculino	o|don|tor|[ran]|fo
+odontoscélide	nome feminino	o|don|tos|[cé]|li|de
+odontose	nome feminino	o|don|[to]|se
+odontóstomo	adjetivo	o|don|[tós]|to|mo
+odontotecnia	nome feminino	o|don|to|tec|[ni]|a
+odontotécnico	adjetivo	o|don|to|[téc]|ni|co
+odontótrico	nome masculino	o|don|[tó]|tri|co
+odontoxesta	nome masculino	o|don|to|[xes]|ta
+odor	nome masculino	o|[dor]
+odorante	adjetivo	o|do|[ran]|te
+odorar	verbo	o|do|[rar]
+odorífero	adjetivo	o|do|[rí]|fe|ro
+odorífico	adjetivo	o|do|[rí]|fi|co
+odorifumante	adjetivo	o|do|ri|fu|[man]|te
+odorimetria	nome feminino	o|do|ri|me|[tri]|a
+odorina	nome feminino	o|do|[ri]|na
+odorizador	adjetivo	o|do|ri|za|[dor]
+odorizador	nome masculino	o|do|ri|za|[dor]
+odorizante	adjetivo	o|do|ri|[zan]|te
+odorizar	verbo	o|do|ri|[zar]
+odoroscopia	nome feminino	o|do|ros|co|[pi]|a
+odoroscópico	adjetivo	o|do|ros|[có]|pi|co
+odoróscopo	nome masculino	o|do|[rós]|co|po
+odoroso	adjetivo	o|do|[ro]|so
+odrada	nome feminino	o|[dra]|da
+odraria	nome feminino	o|dra|[ri]|a
+odre	nome masculino	[o]|dre
+odreiro	nome masculino	o|[drei]|ro
+odrísio	adjetivo	o|[drí]|si|o
+odrísio	nome masculino	o|[drí]|si|o
+oeirense	adjetivo	o|ei|[ren]|se
+oeirense	nome masculino	o|ei|[ren]|se
+oeirense	nome feminino	o|ei|[ren]|se
+oena	nome feminino	o|[e]|na
+oersted	nome masculino	[oers]|ted
+oés-noroeste	nome masculino	o|és-no|ro|[es]|te
+oés-noroeste	adjetivo	o|és-no|ro|[es]|te
+oés-sudoeste	adjetivo	o|és-su|do|[es]|te
+oés-sudoeste	nome masculino	o|és-su|do|[es]|te
+oeste	adjetivo	o|[es]|te
+oeste	nome masculino	o|[es]|te
+oestrídeo	nome masculino	o|es|[trí]|de|o
+ofegante	adjetivo	o|fe|[gan]|te
+ofegar	verbo	o|fe|[gar]
+ofego	nome masculino	o|[fe]|go
+ofegoso	adjetivo	o|fe|[go]|so
+ofeguento	adjetivo	o|fe|[guen]|to
+ofélia	nome feminino	o|[fé]|li|a
+ofelimidade	nome feminino	o|fe|li|mi|[da]|de
+ofélimo	adjetivo	o|[fé]|li|mo
+ofendedor	adjetivo	o|fen|de|[dor]
+ofendedor	nome masculino	o|fen|de|[dor]
+ofendedora	nome feminino	o|fen|de|[do]|ra
+ofender	verbo	o|fen|[der]
+ofendículo	nome masculino	o|fen|[dí]|cu|lo
+ofendida	nome feminino	o|fen|[di]|da
+ofendido	nome masculino	o|fen|[di]|do
+ofendido	adjetivo	o|fen|[di]|do
+ofensa	nome feminino	o|[fen]|sa
+ofensão	nome feminino	o|fen|[são]
+ofensiva	nome feminino	o|fen|[si]|va
+ofensivamente	advérbio	o|fen|si|va|[men]|te
+ofensivo	adjetivo	o|fen|[si]|vo
+ofenso	adjetivo	o|[fen]|so
+ofensor	adjetivo	o|fen|[sor]

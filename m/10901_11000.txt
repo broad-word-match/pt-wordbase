@@ -1,0 +1,100 @@
+mucual	nome masculino	mu|cu|[al]
+mucuaxe	nome masculino	mu|cu|[a]|xe
+mucuaxeiro	nome masculino	mu|cu|a|[xei]|ro
+mucuco	nome masculino	mu|[cu]|co
+mucudi	nome masculino	mu|cu|[di]
+mucudo	adjetivo	mu|[cu]|do
+mucudo	nome masculino	mu|[cu]|do
+mucufa	adjetivo	mu|[cu]|fa
+mucufo	nome masculino	mu|[cu]|fo
+mucuíba	nome feminino	mu|cu|[í]|ba
+muçuíca	nome feminino	mu|çu|[í]|ca
+mucuim	nome masculino	mu|cu|[im]
+mucuiuba	adjetivo	mu|cui|[u]|ba
+mucujê	nome masculino	mu|cu|[jê]
+muçulmana	nome feminino	mu|çul|[ma]|na
+muçulmanamente	advérbio	mu|çul|ma|na|[men]|te
+muçulmânico	adjetivo	mu|çul|[mâ]|ni|co
+muçulmanismo	nome masculino	mu|çul|ma|[nis]|mo
+muçulmanização	nome feminino	mu|çul|ma|ni|za|[ção]
+muçulmanizar	verbo	mu|çul|ma|ni|[zar]
+muçulmano	nome masculino	mu|çul|[ma]|no
+muçulmano	adjetivo	mu|çul|[ma]|no
+muculo	adjetivo	mu|[cu]|lo
+muculo	nome masculino	mu|[cu]|lo
+muçum	nome masculino	mu|[çum]
+mucuma	nome feminino	mu|[cu]|ma
+muçumba	nome masculino	mu|[çum]|ba
+mucumbabém	nome feminino	mu|cum|ba|[bém]
+mucume	nome masculino	mu|[cu]|me
+mucunã	nome feminino	mu|cu|[nã]
+mucunda	nome feminino	mu|[cun]|da
+mucunga	nome feminino	mu|[cun]|ga
+muçungão	nome masculino	mu|çun|[gão]
+mucungo	nome masculino	mu|[cun]|go
+mucunha	nome masculino	mu|[cu]|nha
+muçununga	nome feminino	mu|çu|[nun]|ga
+mucunzá	nome masculino	mu|cun|[zá]
+mucunza	nome feminino	mu|[cun]|za
+mucuoca	nome feminino	mu|cu|[o]|ca
+mucura	nome feminino	mu|[cu]|ra
+mucuracaá	nome masculino	mu|cu|ra|ca|[á]
+muçurana	nome feminino	mu|çu|[ra]|na
+mucuri	nome masculino	mu|cu|[ri]
+mucúri	nome masculino	mu|[cú]|ri
+mucuta	nome feminino	mu|[cu]|ta
+mucutaia	nome feminino	mu|cu|[tai]|a
+mucuto	nome masculino	mu|[cu]|to
+mucuzo	nome masculino	mu|[cu]|zo
+muda	nome feminino	[mu]|da
+mudada	nome feminino	mu|[da]|da
+mudadiço	adjetivo	mu|da|[di]|ço
+mudado	adjetivo	mu|[da]|do
+mudador	adjetivo	mu|da|[dor]
+mudador	nome masculino	mu|da|[dor]
+mudamente	advérbio	mu|da|[men]|te
+mudança	nome feminino	mu|[dan]|ça
+mudar	verbo	mu|[dar]
+mudável	adjetivo	mu|[dá]|vel
+mudéjar	nome masculino	mu|[dé]|jar
+mudéjar	adjetivo	mu|[dé]|jar
+mudéjar	nome feminino	mu|[dé]|jar
+mudejarismo	nome masculino	mu|de|ja|[ris]|mo
+mudende	nome feminino	mu|[den]|de
+mudez	nome feminino	mu|[dez]
+mudiaquini	nome masculino	mu|di|a|qui|[ni]
+mudo	nome masculino	[mu]|do
+mudo	adjetivo	[mu]|do
+mudulo	nome masculino	mu|[du]|lo
+muela	nome feminino	mu|[e]|la
+muemar	verbo	mu|e|[mar]
+muenar	verbo	mu|e|[nar]
+muenda	nome feminino	mu|[en]|da
+muende	nome masculino	mu|[en]|de
+muende	nome feminino	mu|[en]|de
+muene	nome masculino	mu|[e]|ne
+muenhê	nome masculino	mu|e|[nhê]
+muesli	nome masculino	mu|es|li
+muezim	nome masculino	mu|e|[zim]
+muezo	nome masculino	mu|[e]|zo
+muezzin	nome masculino	mu|ez|zin
+mufana	nome masculino	mu|[fa]|na
+mufé	nome masculino	mu|[fé]
+mufete	nome masculino	mu|[fe]|te
+mufina	nome feminino	mu|[fi]|na
+mufino	nome masculino	mu|[fi]|no
+mufiquena	nome feminino	mu|fi|[que]|na
+mufito	nome masculino	mu|[fi]|to
+mufla	nome feminino	[mu]|fla
+muflão	nome masculino	mu|[flão]
+muflo	nome masculino	[mu]|flo
+mufti	nome masculino	muf|[ti]
+mufumo	nome masculino	mu|[fu]|mo
+mufundiça	nome masculino	mu|fun|[di]|ça
+mufuneza	nome feminino	mu|fu|[ne]|za
+mugambo	nome masculino	mu|[gam]|bo
+muge	nome feminino	[mu]|ge
+muge-muge	nome masculino	mu|ge-mu|ge
+mugeira	nome feminino	mu|[gei]|ra
+mugeiro	nome masculino	mu|[gei]|ro
+mugem	nome feminino	[mu]|gem

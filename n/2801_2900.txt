@@ -1,0 +1,100 @@
+nordestino	adjetivo	nor|des|[ti]|no
+nórdica	nome feminino	[nór]|di|ca
+nórdico	nome masculino	[nór]|di|co
+nórdico	adjetivo	[nór]|di|co
+norepinefrina	nome feminino	no|re|pi|ne|[fri]|na
+norfolquina	nome feminino	nor|fol|[qui]|na
+norfolquino	nome masculino	nor|fol|[qui]|no
+norfolquino	adjetivo	nor|fol|[qui]|no
+nória	nome feminino	[nó]|ri|a
+noriano	adjetivo	no|ri|[a]|no
+nórico	adjetivo	[nó]|ri|co
+nórico	nome masculino	[nó]|ri|co
+norina	nome feminino	no|[ri]|na
+nório	nome masculino	[nó]|ri|o
+norite	nome feminino	no|[ri]|te
+norito	nome masculino	no|[ri]|to
+norma	nome feminino	[nor]|ma
+normado	adjetivo	nor|[ma]|do
+normal	nome masculino	nor|[mal]
+normal	nome feminino	nor|[mal]
+normal	adjetivo	nor|[mal]
+normalidade	nome feminino	nor|ma|li|[da]|de
+normalíssimo	adjetivo	nor|ma|[lís]|si|mo
+normalista	nome feminino	nor|ma|[lis]|ta
+normalista	nome masculino	nor|ma|[lis]|ta
+normalização	nome feminino	nor|ma|li|za|[ção]
+normalizado	adjetivo	nor|ma|li|[za]|do
+normalizador	adjetivo	nor|ma|li|za|[dor]
+normalizador	nome masculino	nor|ma|li|za|[dor]
+normalizadora	nome feminino	nor|ma|li|za|[do]|ra
+normalizar	verbo	nor|ma|li|[zar]
+normalizável	adjetivo	nor|ma|li|[zá]|vel
+normalmente	advérbio	nor|mal|[men]|te
+normanda	nome feminino	nor|[man]|da
+normando	adjetivo	nor|[man]|do
+normando	nome masculino	nor|[man]|do
+normativamente	advérbio	nor|ma|ti|va|[men]|te
+normatividade	nome feminino	nor|ma|ti|vi|[da]|de
+normativismo	nome masculino	nor|ma|ti|[vis]|mo
+normativista	adjetivo	nor|ma|ti|[vis]|ta
+normativista	nome masculino	nor|ma|ti|[vis]|ta
+normativista	nome feminino	nor|ma|ti|[vis]|ta
+normativístico	adjetivo	nor|ma|ti|[vís]|ti|co
+normativo	adjetivo	nor|ma|[ti]|vo
+normógrafo	nome masculino	nor|[mó]|gra|fo
+normotensão	nome feminino	nor|mo|ten|[são]
+normotenso	adjetivo	nor|mo|[ten]|so
+normotenso	nome masculino	nor|mo|[ten]|so
+nornorrido	adjetivo	nor|nor|[ri]|do
+noroestada	nome feminino	no|ro|es|[ta]|da
+noroeste	adjetivo	no|ro|[es]|te
+noroeste	nome masculino	no|ro|[es]|te
+noroestear	verbo	no|ro|es|te|[ar]
+norreno	adjetivo	nor|[re]|no
+norreno	nome masculino	nor|[re]|no
+norso	nome masculino	[nor]|so
+nortada	nome feminino	nor|[ta]|da
+norte	adjetivo	[nor]|te
+norte	nome masculino	[nor]|te
+norte-africana	nome feminino	nor|te-a|fri|[ca]|na
+norte-africano	adjetivo	nor|te-a|fri|[ca]|no
+norte-africano	nome masculino	nor|te-a|fri|[ca]|no
+norte-americana	nome feminino	nor|te-a|me|ri|[ca]|na
+norte-americano	adjetivo	nor|te-a|me|ri|[ca]|no
+norte-americano	nome masculino	nor|te-a|me|ri|[ca]|no
+norte-coreana	nome feminino	nor|te-co|re|[a]|na
+norte-coreano	nome masculino	nor|te-co|re|[a]|no
+norte-coreano	adjetivo	nor|te-co|re|[a]|no
+norte-irlandês	adjetivo	nor|te-ir|lan|[dês]
+norte-irlandês	nome masculino	nor|te-ir|lan|[dês]
+norte-irlandesa	nome feminino	nor|te-ir|lan|[de]|sa
+norte-ocidental	adjetivo	nor|te-o|ci|den|[tal]
+norte-oriental	adjetivo	nor|te-o|ri|en|[tal]
+norte-rio-grandense	adjetivo	nor|te-ri|o-gran|[den]|se
+norte-rio-grandense	nome feminino	nor|te-ri|o-gran|[den]|se
+norte-rio-grandense	nome masculino	nor|te-ri|o-gran|[den]|se
+norteação	nome feminino	nor|te|a|[ção]
+norteado	adjetivo	nor|te|[a]|do
+norteador	adjetivo	nor|te|a|[dor]
+norteador	nome masculino	nor|te|a|[dor]
+norteamento	nome masculino	nor|te|a|[men]|to
+norteante	adjetivo	nor|te|[an]|te
+nortear	verbo	nor|te|[ar]
+norteável	adjetivo	nor|te|[á]|vel
+norteio	nome masculino	nor|[tei]|o
+norteiro	adjetivo	nor|[tei]|ro
+nortenha	nome feminino	nor|[te]|nha
+nortenho	nome masculino	nor|[te]|nho
+nortenho	adjetivo	nor|[te]|nho
+norténia	nome feminino	nor|[té]|ni|a
+nortênia	nome feminino	nor|[tê]|ni|a
+nortismo	nome masculino	nor|[tis]|mo
+nortista	nome masculino	nor|[tis]|ta
+nortista	adjetivo	nor|[tis]|ta
+nortista	nome feminino	nor|[tis]|ta
+nortumbriano	adjetivo	nor|tum|bri|[a]|no
+nortumbriano	nome masculino	nor|tum|bri|[a]|no
+noruega	nome masculino	no|ru|[e]|ga
+noruega	nome feminino	no|ru|[e]|ga
+noruegal	nome masculino	no|ru|e|[gal]

@@ -1,0 +1,100 @@
+secesso	nome masculino	se|[ces]|so
+sechuana	adjetivo	se|chu|[a]|na
+sechuana	nome masculino	se|chu|[a]|na
+sechuana	nome feminino	se|chu|[a]|na
+sécia	nome feminino	[sé]|ci|a
+seciar	verbo	se|ci|[ar]
+sécio	adjetivo	[sé]|ci|o
+sécio	nome masculino	[sé]|ci|o
+secional	adjetivo	se|ci|o|[nal]
+secionamento	nome masculino	se|ci|o|na|[men]|to
+secionar	verbo	se|ci|o|[nar]
+secionável	adjetivo	se|ci|o|[ná]|vel
+seco	nome masculino	[se]|co
+seco	adjetivo	[se]|co
+seco-fico	nome masculino	se|co-fi|co
+secreção	nome feminino	se|cre|[ção]
+secreta	nome feminino	se|[cre]|ta
+secreta	nome masculino	se|[cre]|ta
+secretamente	advérbio	se|cre|ta|[men]|te
+secretaria	nome feminino	se|cre|ta|[ri]|a
+secretária	nome feminino	se|cre|[tá]|ri|a
+secretária-geral	nome feminino	se|cre|tá|ri|a-ge|ral
+secretariado	nome masculino	se|cre|ta|ri|[a]|do
+secretarial	adjetivo	se|cre|ta|ri|[al]
+secretariar	verbo	se|cre|ta|ri|[ar]
+secretário	nome masculino	se|cre|[tá]|ri|o
+secretário-geral	nome masculino	se|cre|tá|ri|o-ge|ral
+secretário-técnico	nome masculino	se|cre|tá|ri|o-téc|ni|co
+secretário-tesoureiro	nome masculino	se|cre|tá|ri|o-te|sou|rei|ro
+secretício	adjetivo	se|cre|[tí]|ci|o
+secretina	nome feminino	se|cre|[ti]|na
+secretismo	nome masculino	se|cre|[tis]|mo
+secretista	adjetivo	se|cre|[tis]|ta
+secretista	nome masculino	se|cre|[tis]|ta
+secretista	nome feminino	se|cre|[tis]|ta
+secretístico	adjetivo	se|cre|[tís]|ti|co
+secreto	adjetivo	se|[cre]|to
+secreto	nome masculino	se|[cre]|to
+secretor	nome masculino	se|cre|[tor]
+secretor	adjetivo	se|cre|[tor]
+secretório	adjetivo	se|cre|[tó]|ri|o
+secricri	nome masculino	se|cri|[cri]
+sectante	adjetivo	sec|[tan]|te
+sectante	nome masculino	sec|[tan]|te
+sectária	nome feminino	sec|[tá]|ri|a
+sectário	nome masculino	sec|[tá]|ri|o
+sectário	adjetivo	sec|[tá]|ri|o
+sectarismo	nome masculino	sec|ta|[ris]|mo
+sectarista	adjetivo	sec|ta|[ris]|ta
+sectarista	nome masculino	sec|ta|[ris]|ta
+sectarista	nome feminino	sec|ta|[ris]|ta
+sectarístico	adjetivo	sec|ta|[rís]|ti|co
+séctil	adjetivo	[séc]|til
+sectograma	nome masculino	sec|to|[gra]|ma
+sector	nome masculino	sec|[tor]
+sectorial	adjetivo	sec|to|ri|[al]
+sectório	nome masculino	sec|[tó]|ri|o
+sectório	adjetivo	sec|[tó]|ri|o
+sectorização	nome feminino	sec|to|ri|za|[ção]
+sectorizar	verbo	sec|to|ri|[zar]
+sectura	nome feminino	sec|[tu]|ra
+sécua	nome masculino	[sé]|cu|a
+sécua	nome feminino	[sé]|cu|a
+secular	adjetivo	se|cu|[lar]
+secular	nome masculino	se|cu|[lar]
+secular	nome feminino	se|cu|[lar]
+secularidade	nome feminino	se|cu|la|ri|[da]|de
+secularismo	nome masculino	se|cu|la|[ris]|mo
+secularista	adjetivo	se|cu|la|[ris]|ta
+secularista	nome masculino	se|cu|la|[ris]|ta
+secularista	nome feminino	se|cu|la|[ris]|ta
+secularístico	adjetivo	se|cu|la|[rís]|ti|co
+secularização	nome feminino	se|cu|la|ri|za|[ção]
+secularizar	verbo	se|cu|la|ri|[zar]
+secularmente	advérbio	se|cu|lar|[men]|te
+seculo	nome masculino	se|[cu]|lo
+século	nome masculino	[sé]|cu|lo
+secundano	nome masculino	se|cun|[da]|no
+secundar	verbo	se|cun|[dar]
+secundariamente	advérbio	se|cun|da|ri|a|[men]|te
+secundariedade	nome feminino	se|cun|da|ri|e|[da]|de
+secundário	nome masculino	se|cun|[dá]|ri|o
+secundário	adjetivo	se|cun|[dá]|ri|o
+secundarização	nome feminino	se|cun|da|ri|za|[ção]
+secundarizar	verbo	se|cun|da|ri|[zar]
+secundeira	nome feminino	se|cun|[dei]|ra
+secundifalange	nome feminino	se|cun|di|fa|[lan]|ge
+secundifalangeta	nome feminino	se|cun|di|fa|lan|[ge]|ta
+secundifalanginha	nome feminino	se|cun|di|fa|lan|[gi]|nha
+secundigénito	adjetivo	se|cun|di|[gé]|ni|to
+secundigénito	nome masculino	se|cun|di|[gé]|ni|to
+secundigênito	adjetivo	se|cun|di|[gê]|ni|to
+secundigênito	nome masculino	se|cun|di|[gê]|ni|to
+secundigenitura	nome feminino	se|cun|di|ge|ni|[tu]|ra
+secundimetatársico	adjetivo	se|cun|di|me|ta|[tár]|si|co
+secundina	nome feminino	se|cun|[di]|na
+secundinista	adjetivo	se|cun|di|[nis]|ta
+secundinista	nome masculino	se|cun|di|[nis]|ta
+secundinista	nome feminino	se|cun|di|[nis]|ta
+secundípara	nome feminino	se|cun|[dí]|pa|ra

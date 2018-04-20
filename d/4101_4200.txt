@@ -1,0 +1,100 @@
+descritivístico	adjetivo	des|cri|ti|[vís]|ti|co
+descritivo	adjetivo	des|cri|[ti]|vo
+descritivo	nome masculino	des|cri|[ti]|vo
+descrito	adjetivo	des|[cri]|to
+descritor	adjetivo	des|cri|[tor]
+descritor	nome masculino	des|cri|[tor]
+descritora	nome feminino	des|cri|[to]|ra
+descruzamento	nome masculino	des|cru|za|[men]|to
+descruzar	verbo	des|cru|[zar]
+descruzável	adjetivo	des|cru|[zá]|vel
+descudar	verbo	des|cu|[dar]
+descudo	nome masculino	des|[cu]|do
+descuidada	nome feminino	des|cui|[da]|da
+descuidadamente	advérbio	des|cui|da|da|[men]|te
+descuidado	adjetivo	des|cui|[da]|do
+descuidado	nome masculino	des|cui|[da]|do
+descuidadoso	adjetivo	des|cui|da|[do]|so
+descuidar	verbo	des|cui|[dar]
+descuidista	nome masculino	des|cui|[dis]|ta
+descuidista	nome feminino	des|cui|[dis]|ta
+descuido	nome masculino	des|[cui]|do
+descuidosamente	advérbio	des|cui|do|sa|[men]|te
+descuidoso	adjetivo	des|cui|[do]|so
+desculpa	nome feminino	des|[cul]|pa
+desculpabilização	nome feminino	des|cul|pa|bi|li|za|[ção]
+desculpabilizar	verbo	des|cul|pa|bi|li|[zar]
+desculpador	adjetivo	des|cul|pa|[dor]
+desculpador	nome masculino	des|cul|pa|[dor]
+desculpar	verbo	des|cul|[par]
+desculpável	adjetivo	des|cul|[pá]|vel
+desculpavelmente	advérbio	des|cul|pa|vel|[men]|te
+descultivar	verbo	des|cul|ti|[var]
+descultivo	nome masculino	des|cul|[ti]|vo
+desculto	nome masculino	des|[cul]|to
+descultura	nome feminino	des|cul|[tu]|ra
+desculturação	nome feminino	des|cul|tu|ra|[ção]
+desculturar	verbo	des|cul|tu|[rar]
+descumprir	verbo	des|cum|[prir]
+descunhar	verbo	des|cu|[nhar]
+descuradamente	advérbio	des|cu|ra|da|[men]|te
+descuramento	nome masculino	des|cu|ra|[men]|to
+descurar	verbo	des|cu|[rar]
+descuriosamente	advérbio	des|cu|ri|o|sa|[men]|te
+descuriosidade	nome feminino	des|cu|ri|o|si|[da]|de
+descurioso	adjetivo	des|cu|ri|[o]|so
+descuro	nome masculino	des|[cu]|ro
+descurvar	verbo	des|cur|[var]
+desdar	verbo	des|[dar]
+desde	preposição	[des]|de
+desdeixar	verbo	des|dei|[xar]
+desdém	nome masculino	des|[dém]
+desdenhado	adjetivo	des|de|[nha]|do
+desdenhador	adjetivo	des|de|nha|[dor]
+desdenhador	nome masculino	des|de|nha|[dor]
+desdenhar	verbo	des|de|[nhar]
+desdenhativo	adjetivo	des|de|nha|[ti]|vo
+desdenhável	adjetivo	des|de|[nhá]|vel
+desdenho	nome masculino	des|[de]|nho
+desdenhosamente	advérbio	des|de|nho|sa|[men]|te
+desdenhoso	adjetivo	des|de|[nho]|so
+desdentado	nome masculino	des|den|[ta]|do
+desdentado	adjetivo	des|den|[ta]|do
+desdentar	verbo	des|den|[tar]
+desdita	nome feminino	des|[di]|ta
+desditado	adjetivo	des|di|[ta]|do
+desditosa	nome feminino	des|di|[to]|sa
+desditosamente	advérbio	des|di|to|sa|[men]|te
+desditoso	adjetivo	des|di|[to]|so
+desditoso	nome masculino	des|di|[to]|so
+desdizer	verbo	des|di|[zer]
+desdobar	verbo	des|do|[bar]
+desdobramento	nome masculino	des|do|bra|[men]|to
+desdobrar	verbo	des|do|[brar]
+desdobrável	adjetivo	des|do|[brá]|vel
+desdobrável	nome masculino	des|do|[brá]|vel
+desdobre	nome masculino	des|[do]|bre
+desdobro	nome masculino	des|[do]|bro
+desdoirar	verbo	des|doi|[rar]
+desdoiro	nome masculino	des|[doi]|ro
+desdouramento	nome masculino	des|dou|ra|[men]|to
+desdourar	verbo	des|dou|[rar]
+desdouro	nome masculino	des|[dou]|ro
+desdoutrinação	nome feminino	des|dou|tri|na|[ção]
+desdoutrinar	verbo	des|dou|tri|[nar]
+desdramatização	nome feminino	des|dra|ma|ti|za|[ção]
+desdramatizar	verbo	des|dra|ma|ti|[zar]
+deseclipsar	verbo	de|se|clip|[sar]
+deseconomia	nome feminino	de|se|co|no|[mi]|a
+desedificação	nome feminino	de|se|di|fi|ca|[ção]
+desedificador	adjetivo	de|se|di|fi|ca|[dor]
+desedificador	nome masculino	de|se|di|fi|ca|[dor]
+desedificante	adjetivo	de|se|di|fi|[can]|te
+desedificar	verbo	de|se|di|fi|[car]
+desedificativo	adjetivo	de|se|di|fi|ca|[ti]|vo
+deseducação	nome feminino	de|se|du|ca|[ção]
+deseducador	adjetivo	de|se|du|ca|[dor]
+deseducador	nome masculino	de|se|du|ca|[dor]
+deseducar	verbo	de|se|du|[car]
+deseducativo	adjetivo	de|se|du|ca|[ti]|vo
+deseivar	verbo	de|sei|[var]

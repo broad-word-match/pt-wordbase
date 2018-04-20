@@ -1,0 +1,100 @@
+sarobá	nome masculino	sa|ro|[bá]
+saroba	nome feminino	sa|[ro]|ba
+sarongue	nome masculino	sa|[ron]|gue
+sarônide	nome feminino	sa|[rô]|ni|de
+sarónide	nome feminino	sa|[ró]|ni|de
+sarópode	adjetivo	sa|[ró]|po|de
+sarópode	nome masculino	sa|[ró]|po|de
+sarotamno	nome masculino	sa|ro|[tam]|no
+saroto	adjetivo	sa|[ro]|to
+sarpar	verbo	sar|[par]
+sarra	nome feminino	[sar]|ra
+sarrabal	nome masculino	sar|ra|[bal]
+sarrabalho	nome masculino	sar|ra|[ba]|lho
+sarrabiscar	verbo	sar|ra|bis|[car]
+sarrabisco	nome masculino	sar|ra|[bis]|co
+sarrabolhos	nome masculino	sar|ra|[bo]|lhos
+sarrabulhada	nome feminino	sar|ra|bu|[lha]|da
+sarrabulhento	adjetivo	sar|ra|bu|[lhen]|to
+sarrabulho	nome masculino	sar|ra|[bu]|lho
+sarracena	nome feminino	sar|ra|[ce]|na
+sarracénia	nome feminino	sar|ra|[cé]|ni|a
+sarracênia	nome feminino	sar|ra|[cê]|ni|a
+sarraceniácea	nome feminino	sar|ra|ce|ni|[á]|ce|a
+sarraceniáceo	adjetivo	sar|ra|ce|ni|[á]|ce|o
+sarraceno	adjetivo	sar|ra|[ce]|no
+sarraceno	nome masculino	sar|ra|[ce]|no
+sarraco	nome masculino	sar|[ra]|co
+sarrafaçador	adjetivo	sar|ra|fa|ça|[dor]
+sarrafaçador	nome masculino	sar|ra|fa|ça|[dor]
+sarrafaçadura	nome feminino	sar|ra|fa|ça|[du]|ra
+sarrafaçal	nome masculino	sar|ra|fa|[çal]
+sarrafaçana	nome masculino	sar|ra|fa|[ça]|na
+sarrafaçar	verbo	sar|ra|fa|[çar]
+sarrafado	adjetivo	sar|ra|[fa]|do
+sarrafagem	nome feminino	sar|ra|[fa]|gem
+sarrafão	nome masculino	sar|ra|[fão]
+sarrafar	verbo	sar|ra|[far]
+sarrafear	verbo	sar|ra|fe|[ar]
+sarrafo	nome masculino	sar|[ra]|fo
+sarrafusca	nome feminino	sar|ra|[fus]|ca
+sarragão	nome masculino	sar|ra|[gão]
+sarrajão	nome masculino	sar|ra|[jão]
+sarranho	nome masculino	sar|[ra]|nho
+sarrão	nome masculino	sar|[rão]
+sarrar	verbo	sar|[rar]
+sarraste	adjetivo	sar|[ras]|te
+sarraste	nome masculino	sar|[ras]|te
+sarraste	nome feminino	sar|[ras]|te
+sarrazina	nome feminino	sar|ra|[zi]|na
+sarrazina	nome masculino	sar|ra|[zi]|na
+sarrazina	adjetivo	sar|ra|[zi]|na
+sarrazinação	nome feminino	sar|ra|zi|na|[ção]
+sarrazinar	verbo	sar|ra|zi|[nar]
+sarreiro	nome masculino	sar|[rei]|ro
+sarrento	adjetivo	sar|[ren]|to
+sarreta	nome feminino	sar|[re]|ta
+sarrico	nome masculino	sar|[ri]|co
+sarrido	nome masculino	sar|[ri]|do
+sarrim	nome masculino	sar|[rim]
+sarro	nome masculino	[sar]|ro
+sarroada	nome feminino	sar|ro|[a]|da
+sarrom	nome masculino	[sar]|rom
+sarronca	nome feminino	sar|[ron]|ca
+sarsará	nome masculino	sar|sa|[rá]
+sarsinate	adjetivo	sar|si|[na]|te
+sarsinate	nome masculino	sar|si|[na]|te
+sarsinate	nome feminino	sar|si|[na]|te
+sarsório	nome masculino	sar|[só]|ri|o
+sarta	nome feminino	[sar]|ta
+sartã	nome feminino	sar|[tã]
+sartal	nome masculino	sar|[tal]
+sartigalho	nome masculino	sar|ti|[ga]|lho
+sartorial	adjetivo	sar|to|ri|[al]
+sartório	nome masculino	sar|[tó]|ri|o
+sartório	adjetivo	sar|[tó]|ri|o
+saru	adjetivo	sa|[ru]
+saruê	nome masculino	sa|ru|[ê]
+saruga	nome feminino	sa|[ru]|ga
+sarumá	adjetivo	sa|ru|[má]
+sarumá	nome masculino	sa|ru|[má]
+sarumá	nome feminino	sa|ru|[má]
+saruma	nome feminino	sa|[ru]|ma
+sashimi	nome masculino	sa|shi|mi
+sassafrás	nome masculino	sas|sa|[frás]
+sassar	verbo	sas|[sar]
+sassarico	nome masculino	sas|sa|[ri]|co
+sassor	nome masculino	sas|[sor]
+sassumino	adjetivo	sas|su|[mi]|no
+sassumino	nome masculino	sas|su|[mi]|no
+satã	nome masculino	sa|[tã]
+satagana	nome feminino	sa|ta|[ga]|na
+satanás	nome masculino	sa|ta|[nás]
+satanense	adjetivo	sa|ta|[nen]|se
+satanense	nome masculino	sa|ta|[nen]|se
+satanense	nome feminino	sa|ta|[nen]|se
+satanhoca	nome masculino	sa|ta|[nho]|ca
+satanhoca	nome feminino	sa|ta|[nho]|ca
+satanhoco	nome masculino	sa|ta|[nho]|co
+satanicamente	advérbio	sa|ta|ni|ca|[men]|te
+satânico	adjetivo	sa|[tâ]|ni|co

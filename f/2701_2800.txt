@@ -1,0 +1,100 @@
+filiação	nome feminino	fi|li|a|[ção]
+filiada	nome feminino	fi|li|[a]|da
+filiado	adjetivo	fi|li|[a]|do
+filiado	nome masculino	fi|li|[a]|do
+filiador	adjetivo	fi|li|a|[dor]
+filiador	nome masculino	fi|li|a|[dor]
+filial	nome feminino	fi|li|[al]
+filial	adjetivo	fi|li|[al]
+filialmente	advérbio	fi|li|al|[men]|te
+filiar	verbo	fi|li|[ar]
+filiável	adjetivo	fi|li|[á]|vel
+filicida	nome masculino	fi|li|[ci]|da
+filicida	nome feminino	fi|li|[ci]|da
+filicídio	nome masculino	fi|li|[cí]|di|o
+filicífero	adjetivo	fi|li|[cí]|fe|ro
+filicínea	nome feminino	fi|li|[cí]|ne|a
+filicíneo	adjetivo	fi|li|[cí]|ne|o
+filicita	nome masculino	fi|li|[ci]|ta
+filicorne	adjetivo	fi|li|[cor]|ne
+filicórneo	adjetivo	fi|li|[cór]|ne|o
+filífero	adjetivo	fi|[lí]|fe|ro
+filifolha	nome feminino	fi|li|[fo]|lha
+filifoliado	adjetivo	fi|li|fo|li|[a]|do
+filiforme	adjetivo	fi|li|[for]|me
+filigrana	nome feminino	fi|li|[gra]|na
+filigranador	adjetivo	fi|li|gra|na|[dor]
+filigranador	nome masculino	fi|li|gra|na|[dor]
+filigranagem	nome feminino	fi|li|gra|[na]|gem
+filigranar	verbo	fi|li|gra|[nar]
+filigraneira	nome feminino	fi|li|gra|[nei]|ra
+filigraneiro	nome masculino	fi|li|gra|[nei]|ro
+filigranista	nome masculino	fi|li|gra|[nis]|ta
+filigranista	nome feminino	fi|li|gra|[nis]|ta
+filintiano	adjetivo	fi|lin|ti|[a]|no
+filintino	adjetivo	fi|lin|[ti]|no
+filintismo	nome masculino	fi|lin|[tis]|mo
+filintista	nome masculino	fi|lin|[tis]|ta
+filintista	adjetivo	fi|lin|[tis]|ta
+filintista	nome feminino	fi|lin|[tis]|ta
+filipar	verbo	fi|li|[par]
+filipe	nome masculino	fi|[li]|pe
+filipêndula	nome feminino	fi|li|[pên]|du|la
+filipendulado	adjetivo	fi|li|pen|du|[la]|do
+filipense	adjetivo	fi|li|[pen]|se
+filipense	nome masculino	fi|li|[pen]|se
+filipense	nome feminino	fi|li|[pen]|se
+filípica	nome feminino	fi|[lí]|pi|ca
+filípico	adjetivo	fi|[lí]|pi|co
+filipina	nome feminino	fi|li|[pi]|na
+filipino	nome masculino	fi|li|[pi]|no
+filipino	adjetivo	fi|li|[pi]|no
+filipismo	nome masculino	fi|li|[pis]|mo
+filipista	adjetivo	fi|li|[pis]|ta
+filipista	nome masculino	fi|li|[pis]|ta
+filipista	nome feminino	fi|li|[pis]|ta
+filipluma	nome feminino	fi|li|[plu]|ma
+filipopolitano	adjetivo	fi|li|po|po|li|[ta]|no
+filipopolitano	nome masculino	fi|li|po|po|li|[ta]|no
+fílire	adjetivo	[fí]|li|re
+fílire	nome masculino	[fí]|li|re
+fílire	nome feminino	[fí]|li|re
+filírea	nome feminino	fi|[lí]|re|a
+filirena	nome feminino	fi|li|[re]|na
+filirrostro	adjetivo	fi|lir|[ros]|tro
+filirrostro	nome masculino	fi|lir|[ros]|tro
+filisteia	nome feminino	fi|lis|[tei]|a
+filisteu	nome masculino	fi|lis|[teu]
+filisteu	adjetivo	fi|lis|[teu]
+filistinismo	nome masculino	fi|lis|ti|[nis]|mo
+filistino	adjetivo	fi|lis|[ti]|no
+filistino	nome masculino	fi|lis|[ti]|no
+filistria	nome feminino	fi|lis|[tri]|a
+filistriar	verbo	fi|lis|tri|[ar]
+filite	nome feminino	fi|[li]|te
+filite	nome masculino	fi|[li]|te
+filito	nome masculino	fi|[li]|to
+filmação	nome feminino	fil|ma|[ção]
+filmador	adjetivo	fil|ma|[dor]
+filmador	nome masculino	fil|ma|[dor]
+filmadora	nome feminino	fil|ma|[do]|ra
+filmagem	nome feminino	fil|[ma]|gem
+filmar	verbo	fil|[mar]
+filmável	adjetivo	fil|[má]|vel
+filme	nome masculino	[fil]|me
+filme-catástrofe	nome masculino	fil|me-ca|[tás]|tro|fe
+fílmico	adjetivo	[fíl]|mi|co
+filmografia	nome feminino	fil|mo|gra|[fi]|a
+filmográfico	adjetivo	fil|mo|[grá]|fi|co
+filmologia	nome feminino	fil|mo|lo|[gi]|a
+filmológico	adjetivo	fil|mo|[ló]|gi|co
+filmoteca	nome feminino	fil|mo|[te]|ca
+filó	nome masculino	fi|[ló]
+filo	nome masculino	[fi]|lo
+filobrânquio	nome masculino	fi|lo|[brân]|qui|o
+filocacto	nome masculino	fi|lo|[cac]|to
+filocato	nome masculino	fi|lo|[ca]|to
+filócomo	adjetivo	fi|[ló]|co|mo
+filocracia	nome feminino	fi|lo|cra|[ci]|a
+filocrata	nome masculino	fi|lo|[cra]|ta
+filocrata	nome feminino	fi|lo|[cra]|ta

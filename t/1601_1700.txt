@@ -1,0 +1,100 @@
+tartaranha	nome feminino	tar|ta|[ra]|nha
+tartaranha	nome masculino	tar|ta|[ra]|nha
+tartaranhão	nome masculino	tar|ta|ra|[nhão]
+tartarato	nome masculino	tar|ta|[ra]|to
+tartarear	verbo	tar|ta|re|[ar]
+tartareio	nome masculino	tar|ta|[rei]|o
+tartáreo	adjetivo	tar|[tá]|re|o
+tartárico	adjetivo	tar|[tá]|ri|co
+tartariforme	adjetivo	tar|ta|ri|[for]|me
+tartarífugo	adjetivo	tar|ta|[rí]|fu|go
+tartarizar	verbo	tar|ta|ri|[zar]
+tártaro	nome masculino	[tár]|ta|ro
+tártaro	adjetivo	[tár]|ta|ro
+tartarometria	nome feminino	tar|ta|ro|me|[tri]|a
+tartarométrico	adjetivo	tar|ta|ro|[mé]|tri|co
+tartarómetro	nome masculino	tar|ta|[ró]|me|tro
+tartarômetro	nome masculino	tar|ta|[rô]|me|tro
+tartaroso	adjetivo	tar|ta|[ro]|so
+tartaruga	nome masculino	tar|ta|[ru]|ga
+tartaruga	nome feminino	tar|ta|[ru]|ga
+tartaruguinha	nome feminino	tar|ta|ru|[gui]|nha
+tarte	nome feminino	[tar]|te
+tartéssio	adjetivo	tar|[tés]|si|o
+tartéssio	nome masculino	tar|[tés]|si|o
+tartufaria	nome feminino	tar|tu|fa|[ri]|a
+tartuficar	verbo	tar|tu|fi|[car]
+tartufice	nome feminino	tar|tu|[fi]|ce
+tartufismo	nome masculino	tar|tu|[fis]|mo
+tartufista	adjetivo	tar|tu|[fis]|ta
+tartufista	nome masculino	tar|tu|[fis]|ta
+tartufista	nome feminino	tar|tu|[fis]|ta
+tartufizar	verbo	tar|tu|fi|[zar]
+tartufo	nome masculino	tar|[tu]|fo
+tarubá	nome feminino	ta|ru|[bá]
+tarubá	nome masculino	ta|ru|[bá]
+taruca	nome masculino	ta|[ru]|ca
+taruga	nome feminino	ta|[ru]|ga
+tarugamento	nome masculino	ta|ru|ga|[men]|to
+tarugar	verbo	ta|ru|[gar]
+tarugo	nome masculino	ta|[ru]|go
+tarumá	adjetivo	ta|ru|[má]
+tarumá	nome masculino	ta|ru|[má]
+tarumã	nome masculino	ta|ru|[mã]
+tarumá	nome feminino	ta|ru|[má]
+tarumaí	nome masculino	ta|ru|ma|[í]
+tarusate	adjetivo	ta|ru|[sa]|te
+tarusate	nome masculino	ta|ru|[sa]|te
+tarusate	nome feminino	ta|ru|[sa]|te
+tarusconiense	adjetivo	ta|rus|co|ni|[en]|se
+tarusconiense	nome masculino	ta|rus|co|ni|[en]|se
+tarusconiense	nome feminino	ta|rus|co|ni|[en]|se
+tarvisano	nome masculino	tar|vi|[sa]|no
+tarvisano	adjetivo	tar|vi|[sa]|no
+tás	nome feminino	[tás]
+tás	nome masculino	[tás]
+tasca	nome feminino	[tas]|ca
+tascadeira	nome feminino	tas|ca|[dei]|ra
+tascante	adjetivo	tas|[can]|te
+tascante	nome masculino	tas|[can]|te
+tascante	nome feminino	tas|[can]|te
+tascar	verbo	tas|[car]
+tasco	nome masculino	[tas]|co
+tascoa	nome feminino	tas|[co]|a
+tascoar	verbo	tas|co|[ar]
+tasgar	verbo	tas|[gar]
+tasgoduno	adjetivo	tas|go|[du]|no
+tasgoduno	nome masculino	tas|go|[du]|no
+tásico	adjetivo	[tá]|si|co
+tásico	nome masculino	[tá]|si|co
+tásio	nome masculino	[tá]|si|o
+tásio	adjetivo	[tá]|si|o
+task-force	nome feminino	task-for|ce
+tasmânia	nome feminino	tas|[mâ]|ni|a
+tasmaniano	adjetivo	tas|ma|ni|[a]|no
+tasmaniano	nome masculino	tas|ma|ni|[a]|no
+tasmânio	adjetivo	tas|[mâ]|ni|o
+tasmânio	nome masculino	tas|[mâ]|ni|o
+tasna	nome feminino	[tas]|na
+tasneira	nome feminino	tas|[nei]|ra
+tasneirinha	nome feminino	tas|nei|[ri]|nha
+tasninha	nome feminino	tas|[ni]|nha
+tasqueiro	nome masculino	tas|[quei]|ro
+tasquinha	nome masculino	tas|[qui]|nha
+tasquinha	nome feminino	tas|[qui]|nha
+tasquinhador	adjetivo	tas|qui|nha|[dor]
+tasquinhador	nome masculino	tas|qui|nha|[dor]
+tasquinhar	verbo	tas|qui|[nhar]
+tassádia	nome feminino	tas|[sá]|di|a
+tassalhão	nome masculino	tas|sa|[lhão]
+tassalho	nome masculino	tas|[sa]|lho
+tasselo	nome masculino	tas|[se]|lo
+tastear	verbo	tas|te|[ar]
+tasto	nome masculino	[tas]|to
+tatá	interjeição	ta|[tá]
+tatá	nome masculino	ta|[tá]
+tatabu	nome masculino	ta|ta|[bu]
+tataí	nome feminino	ta|ta|[í]
+tataíba	nome feminino	ta|ta|[í]|ba
+tataíra	nome feminino	ta|ta|[í]|ra
+tatajiba	nome feminino	ta|ta|[ji]|ba

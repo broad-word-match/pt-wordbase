@@ -1,0 +1,100 @@
+bangladechiano	nome masculino	ban|gla|de|chi|[a]|no
+bangladechiano	adjetivo	ban|gla|de|chi|[a]|no
+bangladeshiano	nome masculino	ban|gla|de|shi|a|no
+bangladeshiano	adjetivo	ban|gla|de|shi|a|no
+bango	adjetivo	[ban]|go
+bango	nome masculino	[ban]|go
+bangue	nome masculino	[ban]|gue
+bangué	nome masculino	ban|[gué]
+bangué	adjetivo	ban|[gué]
+banguê	nome masculino	ban|[guê]
+bangué	nome feminino	ban|[gué]
+bangueiro	nome masculino	ban|[guei]|ro
+banguela	nome masculino	ban|[gue]|la
+banguela	adjetivo	ban|[gue]|la
+banguela	nome feminino	ban|[gue]|la
+banguezeiro	nome masculino	ban|[gue]|zei|ro
+banguêzista	nome masculino	ban|[guê]|zis|ta
+banguêzista	nome feminino	ban|[guê]|zis|ta
+bangula	nome feminino	ban|[gu]|la
+bangular	verbo	ban|gu|[lar]
+bangulê	nome masculino	ban|gu|[lê]
+banha	nome feminino	[ba]|nha
+banhadal	nome masculino	ba|nha|[dal]
+banhado	adjetivo	ba|[nha]|do
+banhado	nome masculino	ba|[nha]|do
+banhar	verbo	ba|[nhar]
+banhável	adjetivo	ba|[nhá]|vel
+banheira	nome feminino	ba|[nhei]|ra
+banheiro	nome masculino	ba|[nhei]|ro
+banhista	nome masculino	ba|[nhis]|ta
+banhista	nome feminino	ba|[nhis]|ta
+banho	nome masculino	[ba]|nho
+banho-maria	nome masculino	ba|nho-ma|[ri]|a
+banhos	nome masculino	[ba]|nhos
+banhum	nome masculino	ba|[nhum]
+banhum	nome feminino	ba|[nhum]
+baniane	nome masculino	ba|ni|[a]|ne
+baniano	nome masculino	ba|ni|[a]|no
+baniara	nome masculino	ba|ni|[a]|ra
+baniara	adjetivo	ba|ni|[a]|ra
+baniara	nome feminino	ba|ni|[a]|ra
+banida	nome feminino	ba|[ni]|da
+banido	nome masculino	ba|[ni]|do
+banidor	nome masculino	ba|ni|[dor]
+banimento	nome masculino	ba|ni|[men]|to
+banir	verbo	ba|[nir]
+banível	adjetivo	ba|[ní]|vel
+banja	nome feminino	[ban]|ja
+banjista	adjetivo	ban|[jis]|ta
+banjista	nome masculino	ban|[jis]|ta
+banjista	nome feminino	ban|[jis]|ta
+banjo	nome masculino	[ban]|jo
+banjoísta	adjetivo	ban|jo|[ís]|ta
+banjoísta	nome masculino	ban|jo|[ís]|ta
+banjoísta	nome feminino	ban|jo|[ís]|ta
+banqueira	nome feminino	ban|[quei]|ra
+banqueiro	nome masculino	ban|[quei]|ro
+banqueta	nome feminino	ban|[que]|ta
+banquetão	nome masculino	ban|que|[tão]
+banquete	nome masculino	ban|[que]|te
+banqueteador	adjetivo	ban|que|te|a|[dor]
+banqueteador	nome masculino	ban|que|te|a|[dor]
+banqueteamento	nome masculino	ban|que|te|a|[men]|to
+banquetear	verbo	ban|que|te|[ar]
+banquetuba	adjetivo	ban|que|[tu]|ba
+banquetuba	nome masculino	ban|que|[tu]|ba
+banquetuba	nome feminino	ban|que|[tu]|ba
+banquinha	nome feminino	ban|[qui]|nha
+banquinho	nome masculino	ban|[qui]|nho
+banquisa	nome feminino	ban|[qui]|sa
+banta	nome feminino	[ban]|ta
+bantabá	nome masculino	ban|ta|[bá]
+bantino	nome masculino	ban|[ti]|no
+bantino	adjetivo	ban|[ti]|no
+banto	nome masculino	[ban]|to
+banto	adjetivo	[ban]|to
+bantu	adjetivo	ban|[tu]
+bantu	nome masculino	ban|[tu]
+bantu	nome feminino	ban|[tu]
+banyamulenge	adjetivo	ba|ny|a|mu|[len]|ge
+banyamulenge	nome masculino	ba|nya|mu|[len]|ge
+banza	nome feminino	[ban]|za
+banzado	adjetivo	ban|[za]|do
+banzão	nome masculino	ban|[zão]
+banzar	verbo	ban|[zar]
+banzativo	adjetivo	ban|za|[ti]|vo
+banzé	nome masculino	ban|[zé]
+banzear	verbo	ban|ze|[ar]
+banzeiro	adjetivo	ban|[zei]|ro
+banzeiro	nome masculino	ban|[zei]|ro
+banzo	nome masculino	[ban]|zo
+banzo	adjetivo	[ban]|zo
+banzos	nome masculino	[ban]|zos
+baobá	nome masculino	ba|o|[bá]
+baobabe	nome masculino	ba|o|[ba]|be
+baonesa	adjetivo	ba|o|[ne]|sa
+baonesa	nome feminino	ba|o|[ne]|sa
+bapacari	nome masculino	ba|pa|ca|[ri]
+bapeira	nome feminino	ba|[pei]|ra
+bapta	nome masculino	[bap]|ta

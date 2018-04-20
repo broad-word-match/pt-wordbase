@@ -1,0 +1,100 @@
+mota	nome feminino	[mo]|ta
+motacé	nome masculino	mo|ta|[cé]
+motacila	nome feminino	mo|ta|[ci]|la
+motacílida	nome masculino	mo|ta|[cí]|li|da
+motacílida	nome masculino	mo|ta|[cí]|li|da
+motacilídeo	nome masculino	mo|ta|ci|[lí]|de|o
+motacilídeo	nome masculino	mo|ta|ci|[lí]|de|o
+motacilídeo	adjetivo	mo|ta|ci|[lí]|de|o
+motano	nome masculino	mo|[ta]|no
+motar	nome masculino	mo|[tar]
+motar	nome feminino	mo|[tar]
+motard	nome masculino	mo|tard
+motard	nome feminino	[mo]|tard
+motazé	nome masculino	mo|ta|[zé]
+mote	nome masculino	[mo]|te
+motejador	adjetivo	mo|te|ja|[dor]
+motejador	nome masculino	mo|te|ja|[dor]
+motejadora	nome feminino	mo|te|ja|[do]|ra
+motejar	verbo	mo|te|[jar]
+motejo	nome masculino	mo|[te]|jo
+motel	nome masculino	mo|[tel]
+moteneteiro	adjetivo	mo|te|ne|[tei]|ro
+moteneteiro	nome masculino	mo|te|ne|[tei]|ro
+moteno	nome masculino	mo|[te]|no
+motetar	verbo	mo|te|[tar]
+motete	nome masculino	mo|[te]|te
+moteteiro	adjetivo	mo|te|[tei]|ro
+moteteiro	nome masculino	mo|te|[tei]|ro
+moteto	nome masculino	mo|[te]|to
+motherboard	nome feminino	mo|ther|board
+motilidade	nome feminino	mo|ti|li|[da]|de
+motim	nome masculino	mo|[tim]
+motinação	nome feminino	mo|ti|na|[ção]
+motinada	nome feminino	mo|ti|[na]|da
+motinar	verbo	mo|ti|[nar]
+motineiro	adjetivo	mo|ti|[nei]|ro
+motinoso	adjetivo	mo|ti|[no]|so
+motivação	nome feminino	mo|ti|va|[ção]
+motivacional	adjetivo	mo|ti|va|ci|o|[nal]
+motivado	adjetivo	mo|ti|[va]|do
+motivador	nome masculino	mo|ti|va|[dor]
+motivador	adjetivo	mo|ti|va|[dor]
+motivadora	nome feminino	mo|ti|va|[do]|ra
+motivante	adjetivo	mo|ti|[van]|te
+motivar	verbo	mo|ti|[var]
+motivo	nome masculino	mo|[ti]|vo
+motivo	adjetivo	mo|[ti]|vo
+moto	nome masculino	[mo]|to
+moto	nome feminino	[mo]|to
+moto-contínuo	nome masculino	mo|to-con|[tí]|nu|o
+moto-próprio	nome masculino	mo|to-pró|pri|o
+motobomba	nome feminino	mo|to|[bom]|ba
+motocicleta	nome feminino	mo|to|ci|[cle]|ta
+motociclismo	nome masculino	mo|to|ci|[clis]|mo
+motociclista	nome masculino	mo|to|ci|[clis]|ta
+motociclista	nome feminino	mo|to|ci|[clis]|ta
+motociclo	nome masculino	mo|to|[ci]|clo
+motocross	nome masculino	mo|to|cross
+motocrosse	nome masculino	mo|to|[cros]|se
+motocultivador	nome masculino	mo|to|cul|ti|va|[dor]
+motocultor	adjetivo	mo|to|cul|[tor]
+motocultor	nome masculino	mo|to|cul|[tor]
+motocultura	nome feminino	mo|to|cul|[tu]|ra
+motódromo	nome masculino	mo|[tó]|dro|mo
+motomecanização	nome feminino	mo|to|me|ca|ni|za|[ção]
+motomecanizar	verbo	mo|to|me|ca|ni|[zar]
+motonáutica	nome feminino	mo|to|[náu]|ti|ca
+motonáutico	adjetivo	mo|to|[náu]|ti|co
+motonave	nome feminino	mo|to|[na]|ve
+motoneta	nome feminino	mo|to|[ne]|ta
+motoniveladora	nome feminino	mo|to|ni|ve|la|[do]|ra
+motopropulsor	adjetivo	mo|to|pro|pul|[sor]
+motopropulsor	nome masculino	mo|to|pro|pul|[sor]
+motoqueiro	nome masculino	mo|to|[quei]|ro
+motor	nome masculino	mo|[tor]
+motor	adjetivo	mo|[tor]
+motoreta	nome feminino	mo|to|[re]|ta
+motoretista	nome masculino	mo|to|re|[tis]|ta
+motoretista	nome feminino	mo|to|re|[tis]|ta
+motorismo	nome masculino	mo|to|[ris]|mo
+motorista	nome masculino	mo|to|[ris]|ta
+motorista	nome feminino	mo|to|[ris]|ta
+motorístico	adjetivo	mo|to|[rís]|ti|co
+motorização	nome feminino	mo|to|ri|za|[ção]
+motorizada	nome feminino	mo|to|ri|[za]|da
+motorizado	adjetivo	mo|to|ri|[za]|do
+motorizar	verbo	mo|to|ri|[zar]
+motorneiro	nome masculino	mo|tor|[nei]|ro
+motosserra	nome feminino	mo|tos|[ser]|ra
+motreco	nome masculino	mo|[tre]|co
+motrete	nome masculino	mo|[tre]|te
+motricidade	nome feminino	mo|tri|ci|[da]|de
+motril	nome masculino	mo|[tril]
+motriz	nome feminino	mo|[triz]
+motriz	adjetivo	mo|[triz]
+mouca	nome feminino	[mou]|ca
+moucarrão	adjetivo	mou|car|[rão]
+moucarrice	nome feminino	mou|car|[ri]|ce
+mouchão	nome masculino	mou|[chão]
+mouche	nome feminino	[mou]|che

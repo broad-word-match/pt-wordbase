@@ -1,0 +1,100 @@
+abnormidade	nome feminino	ab|nor|mi|[da]|de
+abnóxio	adjetivo	ab|[nó]|xi|o
+aboa	nome feminino	a|[bo]|a
+aboamado	adjetivo	a|bo|a|[ma]|do
+aboar	verbo	a|bo|[ar]
+abóbada	nome feminino	a|[bó]|ba|da
+abobadado	adjetivo	a|bo|ba|[da]|do
+abobadar	verbo	a|bo|ba|[dar]
+abobadilha	nome feminino	a|bo|ba|[di]|lha
+abobadilhar	verbo	a|bo|ba|di|[lhar]
+abobadilheiro	nome masculino	a|bo|ba|di|[lhei]|ro
+abobado	adjetivo	a|bo|[ba]|do
+abobalhado	adjetivo	a|bo|ba|[lha]|do
+abobalhar	verbo	a|bo|ba|[lhar]
+abobar	verbo	a|bo|[bar]
+abóbora	nome feminino	a|[bó]|bo|ra
+abóbora-cabaça	nome feminino	a|bó|bo|ra-ca|[ba]|ça
+abóbora-carneira	nome feminino	a|bó|bo|ra-car|[nei]|ra
+abóbora-chila	nome feminino	a|bó|bo|ra-chi|la
+abóbora-d'água	nome feminino	a|bó|bo|ra-dá|gua
+abóbora-de-coroa	nome feminino	a|bó|bo|ra-de-co|[ro]|a
+abóbora-do-mato	nome feminino	a|bó|bo|ra-do-ma|to
+abóbora-gila	nome feminino	a|bó|bo|ra-gi|la
+abóbora-menina	nome feminino	a|bó|bo|ra-me|[ni]|na
+abóbora-porqueira	nome feminino	a|bó|bo|ra-por|[quei]|ra
+aboboral	nome masculino	a|bo|bo|[ral]
+aboborar	verbo	a|bo|bo|[rar]
+aboboreira	nome feminino	a|bo|bo|[rei]|ra
+abobra	nome feminino	a|[bo]|bra
+abobra	interjeição	a|[bo]|bra
+abobral	nome masculino	a|bo|[bral]
+abobreira	nome feminino	a|bo|[brei]|ra
+abobrinha	nome feminino	a|bo|[bri]|nha
+abobrinha-do-mato	nome feminino	a|bo|bri|nha-do-ma|to
+aboca	interjeição	a|[bo]|ca
+abocado	adjetivo	a|bo|[ca]|do
+abocador	adjetivo	a|bo|ca|[dor]
+abocador	nome masculino	a|bo|ca|[dor]
+abocadura	nome feminino	a|bo|ca|[du]|ra
+aboçamento	nome masculino	a|bo|ça|[men]|to
+abocamento	nome masculino	a|bo|ca|[men]|to
+abocanhado	adjetivo	a|bo|ca|[nha]|do
+abocanhador	adjetivo	a|bo|ca|nha|[dor]
+abocanhador	nome masculino	a|bo|ca|nha|[dor]
+abocanhamento	nome masculino	a|bo|ca|nha|[men]|to
+abocanhante	adjetivo	a|bo|ca|[nhan]|te
+abocanhar	verbo	a|bo|ca|[nhar]
+abocar	verbo	a|bo|[car]
+aboçar	verbo	a|bo|[çar]
+abocelar	verbo	a|bo|ce|[lar]
+abocetado	adjetivo	a|bo|ce|[ta]|do
+abocetamento	nome masculino	a|bo|ce|ta|[men]|to
+abocetar	verbo	a|bo|ce|[tar]
+abochornado	adjetivo	a|bo|chor|[na]|do
+abochornar	verbo	a|bo|chor|[nar]
+abochornável	adjetivo	a|bo|chor|[ná]|vel
+aboço	nome masculino	a|[bo]|ço
+abodegação	nome feminino	a|bo|de|ga|[ção]
+abodegado	adjetivo	a|bo|de|[ga]|do
+abodegar	verbo	a|bo|de|[gar]
+abodego	nome masculino	a|bo|[de]|go
+abodocar	verbo	a|bo|do|[car]
+abofé	advérbio	a|bo|[fé]
+aboiado	nome masculino	a|boi|[a]|do
+aboiar	verbo	a|boi|[ar]
+aboinha	nome feminino	a|bo|[i]|nha
+aboio	nome masculino	a|[boi]|o
+aboio	adjetivo	a|[boi]|o
+aboiz	nome masculino	a|bo|[iz]
+aboiz	nome feminino	a|bo|[iz]
+abojamento	nome masculino	a|bo|ja|[men]|to
+abojar	verbo	a|bo|[jar]
+abola	nome feminino	a|[bo]|la
+abolachado	adjetivo	a|bo|la|[cha]|do
+abolachar	verbo	a|bo|la|[char]
+abolado	adjetivo	a|bo|[la]|do
+aboladura	nome feminino	a|bo|la|[du]|ra
+abolana	nome feminino	a|bo|[la]|na
+abolano	adjetivo	a|bo|[la]|no
+abolano	nome masculino	a|bo|[la]|no
+abolar	verbo	a|bo|[lar]
+abolçar	verbo	a|bol|[çar]
+aboldriar	verbo	a|bol|dri|[ar]
+aboleado	adjetivo	a|bo|le|[a]|do
+abolear	verbo	a|bo|le|[ar]
+aboleimado	adjetivo	a|bo|lei|[ma]|do
+aboleimar	verbo	a|bo|lei|[mar]
+aboletado	nome masculino	a|bo|le|[ta]|do
+aboletado	adjetivo	a|bo|le|[ta]|do
+aboletador	adjetivo	a|bo|le|ta|[dor]
+aboletador	nome masculino	a|bo|le|ta|[dor]
+aboletamento	nome masculino	a|bo|le|ta|[men]|to
+aboletar	verbo	a|bo|le|[tar]
+abolhar	verbo	a|bo|[lhar]
+abolição	nome feminino	a|bo|li|[ção]
+abolicionismo	nome masculino	a|bo|li|ci|o|[nis]|mo
+abolicionista	adjetivo	a|bo|li|ci|o|[nis]|ta
+abolicionista	nome masculino	a|bo|li|ci|o|[nis]|ta
+abolicionista	nome feminino	a|bo|li|ci|o|[nis]|ta
+abolido	adjetivo	a|bo|[li]|do

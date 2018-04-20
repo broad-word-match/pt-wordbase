@@ -1,0 +1,100 @@
+manusear	verbo	ma|nu|se|[ar]
+manuseável	adjetivo	ma|nu|se|[á]|vel
+manuseio	nome masculino	ma|nu|[sei]|o
+manutenção	nome feminino	ma|nu|ten|[ção]
+manutenência	nome feminino	ma|nu|te|[nên]|ci|a
+manutenir	verbo	ma|nu|te|[nir]
+manutenível	adjetivo	ma|nu|te|[ní]|vel
+manutérgio	nome masculino	ma|nu|[tér]|gi|o
+manvio	nome masculino	man|[vi]|o
+manzape	nome masculino	man|[za]|pe
+manzari	nome masculino	man|za|[ri]
+manzeira	nome feminino	man|[zei]|ra
+manzorra	nome feminino	man|[zor]|ra
+mão	nome feminino	[mão]
+mão de barca	nome feminino	mão de bar|ca
+mão de Judas	nome feminino	mão de Ju|das
+mão de obra	nome feminino	mão de o|bra
+mão-cheia	nome feminino	mão-chei|a
+mão-curta	nome masculino	mão-cur|ta
+mão-de-onca	nome feminino	mão-de-on|ca
+mão-lisa	nome masculino	mão-li|sa
+mão-pendente	nome feminino	mão-pen|[den]|te
+mão-posta	nome feminino	mão-pos|ta
+mão-quadra	nome feminino	mão-qua|dra
+mão-tenente	nome feminino	mão-te|[nen]|te
+mão-tente	nome feminino	mão-ten|te
+mão-travessa	nome feminino	mão-tra|[ves]|sa
+maoismo	nome masculino	mao|[is]|mo
+maoista	nome masculino	ma|[ois]|ta
+maoista	nome feminino	ma|[ois]|ta
+maoista	adjetivo	ma|[ois]|ta
+maoístico	adjetivo	mao|[ís]|ti|co
+maometa	adjetivo	mao|[me]|ta
+maometa	nome masculino	mao|[me]|ta
+maometa	nome feminino	mao|[me]|ta
+maometana	nome feminino	mao|me|[ta]|na
+maometanismo	nome masculino	mao|me|ta|[nis]|mo
+maometanizar	verbo	mao|me|ta|ni|[zar]
+maometano	adjetivo	mao|me|[ta]|no
+maometano	nome masculino	mao|me|[ta]|no
+maomético	adjetivo	mao|[mé]|ti|co
+maometismo	nome masculino	mao|me|[tis]|mo
+maori	adjetivo	ma|o|[ri]
+maori	nome masculino	ma|o|[ri]
+maori	nome feminino	ma|o|[ri]
+mãos-largas	nome masculino	mãos-lar|gas
+mãos-largas	nome feminino	mãos-lar|gas
+mãos-rotas	nome masculino	mãos-ro|tas
+mãos-rotas	nome feminino	mãos-ro|tas
+mãozada	nome feminino	[mão]|za|da
+mãozeira	nome feminino	[mão]|zei|ra
+mãozeira	adjetivo	[mão]|zei|ra
+mãozeiro	adjetivo	[mão]|zei|ro
+mãozinha	nome feminino	mão|[zi]|nha
+mãozorra	nome feminino	[mão]|zor|ra
+mãozudo	adjetivo	[mão]|zu|do
+mapa	nome masculino	[ma]|pa
+mapa-múndi	nome masculino	ma|pa-mún|di
+mapa-mundo	nome masculino	ma|pa-mun|do
+mapará	nome masculino	ma|pa|[rá]
+maparajuba	nome feminino	ma|pa|ra|[ju]|ba
+mapareíba	nome feminino	ma|pa|re|[í]|ba
+mapari	adjetivo	ma|pa|[ri]
+mapari	nome masculino	ma|pa|[ri]
+mapari	nome feminino	ma|pa|[ri]
+mapeamento	nome masculino	ma|pe|a|[men]|to
+mapear	verbo	ma|pe|[ar]
+mapeável	adjetivo	ma|pe|[á]|vel
+mapiação	nome feminino	ma|pi|a|[ção]
+mapiagem	nome feminino	ma|pi|[a]|gem
+mapiar	verbo	ma|pi|[ar]
+mapico	nome masculino	ma|[pi]|co
+mapieninga	nome feminino	ma|pi|e|[nin]|ga
+mapila	nome feminino	ma|[pi]|la
+mapingui	nome masculino	ma|pin|[gui]
+mapinguinho	nome masculino	ma|pin|[gui]|nho
+mapira	nome feminino	ma|[pi]|ra
+mapironga	nome feminino	ma|pi|[ron]|ga
+mapirunga	nome feminino	ma|pi|[run]|ga
+mapixi	nome masculino	ma|pi|[xi]
+maplamina	nome masculino	ma|pla|[mi]|na
+maple	nome masculino	[ma]|ple
+mapoão	nome masculino	ma|po|[ão]
+mapole	nome masculino	ma|[po]|le
+maponga	nome feminino	ma|[pon]|ga
+mapoteca	nome feminino	ma|po|[te]|ca
+mapsele	nome feminino	map|[se]|le
+mapuriti	nome masculino	ma|pu|ri|[ti]
+mapurunga	nome feminino	ma|pu|[run]|ga
+maputense	nome masculino	ma|pu|[ten]|se
+maputense	adjetivo	ma|pu|[ten]|se
+maputense	nome feminino	ma|pu|[ten]|se
+maque	nome masculino	[ma]|que
+maqueira	nome feminino	ma|[quei]|ra
+maqueiro	adjetivo	ma|[quei]|ro
+maqueiro	nome masculino	ma|[quei]|ro
+maqueje	nome masculino	ma|[que]|je
+maquela	nome feminino	ma|[que]|la
+maquequê	nome masculino	ma|que|[quê]
+maquera	nome feminino	ma|[que]|ra

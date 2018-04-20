@@ -1,0 +1,100 @@
+absenteísta	adjetivo	ab|sen|te|[ís]|ta
+absenteísta	nome masculino	ab|sen|te|[ís]|ta
+absenteísta	nome feminino	ab|sen|te|[ís]|ta
+absentismo	nome masculino	ab|sen|[tis]|mo
+absentista	nome masculino	ab|sen|[tis]|ta
+absentista	adjetivo	ab|sen|[tis]|ta
+absentista	nome feminino	ab|sen|[tis]|ta
+absidal	adjetivo	ab|si|[dal]
+abside	nome feminino	ab|[si]|de
+absidíola	nome feminino	ab|si|[dí]|o|la
+absidíolo	nome masculino	ab|si|[dí]|o|lo
+absímile	adjetivo	ab|[sí]|mi|le
+absintado	adjetivo	ab|sin|[ta]|do
+absintar	verbo	ab|sin|[tar]
+absintato	nome masculino	ab|sin|[ta]|to
+absintiado	adjetivo	ab|sin|ti|[a]|do
+absintiar	verbo	ab|sin|ti|[ar]
+absintiato	nome masculino	ab|sin|ti|[a]|to
+absíntico	adjetivo	ab|[sín]|ti|co
+absintina	nome feminino	ab|sin|[ti]|na
+absíntio	nome masculino	ab|[sín]|ti|o
+absintiol	nome masculino	ab|sin|ti|[ol]
+absintioso	adjetivo	ab|sin|ti|[o]|so
+absintismo	nome masculino	ab|sin|[tis]|mo
+absintita	nome masculino	ab|sin|[ti]|ta
+absinto	nome masculino	ab|[sin]|to
+absintol	nome masculino	ab|sin|[tol]
+absintoso	adjetivo	ab|sin|[to]|so
+absintoso	nome masculino	ab|sin|[to]|so
+absogro	nome masculino	ab|[so]|gro
+absolução	nome feminino	ab|so|lu|[ção]
+absolutamente	advérbio	ab|so|lu|ta|[men]|te
+absolutismo	nome masculino	ab|so|lu|[tis]|mo
+absolutista	adjetivo	ab|so|lu|[tis]|ta
+absolutista	nome masculino	ab|so|lu|[tis]|ta
+absolutista	nome feminino	ab|so|lu|[tis]|ta
+absolutivo	adjetivo	ab|so|lu|[ti]|vo
+absolutizante	adjetivo	ab|so|lu|ti|[zan]|te
+absolutizante	nome masculino	ab|so|lu|ti|[zan]|te
+absolutizante	nome feminino	ab|so|lu|ti|[zan]|te
+absolutizar	verbo	ab|so|lu|ti|[zar]
+absolutizável	adjetivo	ab|so|lu|ti|[zá]|vel
+absoluto	adjetivo	ab|so|[lu]|to
+absoluto	nome masculino	ab|so|[lu]|to
+absolutório	adjetivo	ab|so|lu|[tó]|ri|o
+absolvedor	adjetivo	ab|sol|ve|[dor]
+absolvedor	nome masculino	ab|sol|ve|[dor]
+absolvente	adjetivo	ab|sol|[ven]|te
+absolver	verbo	ab|sol|[ver]
+absolvição	nome feminino	ab|sol|vi|[ção]
+absolvido	adjetivo	ab|sol|[vi]|do
+absolvimento	nome masculino	ab|sol|vi|[men]|to
+absolvível	adjetivo	ab|sol|[ví]|vel
+absonância	nome feminino	ab|so|[nân]|ci|a
+absonante	adjetivo	ab|so|[nan]|te
+absonar	verbo	ab|so|[nar]
+ábsono	adjetivo	[áb]|so|no
+absorbência	nome feminino	ab|sor|[bên]|ci|a
+absorbente	adjetivo	ab|sor|[ben]|te
+absorbimento	nome masculino	ab|sor|bi|[men]|to
+absorbível	adjetivo	ab|sor|[bí]|vel
+absorção	nome feminino	ab|sor|[ção]
+absorciometria	nome feminino	ab|sor|ci|o|me|[tri]|a
+absorciométrico	adjetivo	ab|sor|ci|o|[mé]|tri|co
+absorciómetro	nome masculino	ab|sor|ci|[ó]|me|tro
+absorciômetro	nome masculino	ab|sor|ci|[ô]|me|tro
+absorcionismo	nome masculino	ab|sor|ci|o|[nis]|mo
+absorcionista	adjetivo	ab|sor|ci|o|[nis]|ta
+absorcionista	nome masculino	ab|sor|ci|o|[nis]|ta
+absorcionista	nome feminino	ab|sor|ci|o|[nis]|ta
+absortividade	nome feminino	ab|sor|ti|vi|[da]|de
+absortivo	adjetivo	ab|sor|[ti]|vo
+absorto	adjetivo	ab|[sor]|to
+absorvedor	adjetivo	ab|sor|ve|[dor]
+absorvedor	nome masculino	ab|sor|ve|[dor]
+absorvedouro	nome masculino	ab|sor|ve|[dou]|ro
+absorvência	nome feminino	ab|sor|[vên]|ci|a
+absorvente	nome masculino	ab|sor|[ven]|te
+absorvente	adjetivo	ab|sor|[ven]|te
+absorvente	nome feminino	ab|sor|[ven]|te
+absorventemente	advérbio	ab|sor|ven|te|[men]|te
+absorver	verbo	ab|sor|[ver]
+absorvibilidade	nome feminino	ab|sor|vi|bi|li|[da]|de
+absorvidade	nome feminino	ab|sor|vi|[da]|de
+absorvido	adjetivo	ab|sor|[vi]|do
+absorvimento	nome masculino	ab|sor|vi|[men]|to
+absorvível	adjetivo	ab|sor|[ví]|vel
+absorvo	nome masculino	ab|[sor]|vo
+abstemia	nome feminino	abs|te|[mi]|a
+abstémia	nome feminino	abs|[té]|mi|a
+abstemicamente	advérbio	abs|te|mi|ca|[men]|te
+abstémico	adjetivo	abs|[té]|mi|co
+abstêmico	adjetivo	abs|[tê]|mi|co
+abstêmio	adjetivo	abs|[tê]|mi|o
+abstêmio	nome masculino	abs|[tê]|mi|o
+abstémio	nome masculino	abs|[té]|mi|o
+abstémio	adjetivo	abs|[té]|mi|o
+abstenção	nome feminino	abs|ten|[ção]
+abstencionismo	nome masculino	abs|ten|ci|o|[nis]|mo
+abstencionista	adjetivo	abs|ten|ci|o|[nis]|ta

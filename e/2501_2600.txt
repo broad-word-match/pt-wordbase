@@ -1,0 +1,100 @@
+empreendedorismo	nome masculino	em|pre|en|de|do|[ris]|mo
+empreender	verbo	em|pre|en|[der]
+empreendida	nome feminino	em|pre|en|[di]|da
+empreendimento	nome masculino	em|pre|en|di|[men]|to
+empregabilidade	nome feminino	em|pre|ga|bi|li|[da]|de
+empregada	nome feminino	em|pre|[ga]|da
+empregado	adjetivo	em|pre|[ga]|do
+empregado	nome masculino	em|pre|[ga]|do
+empregador	adjetivo	em|pre|ga|[dor]
+empregador	nome masculino	em|pre|ga|[dor]
+empregadora	nome feminino	em|pre|ga|[do]|ra
+empregar	verbo	em|pre|[gar]
+empregável	adjetivo	em|pre|[gá]|vel
+emprego	nome masculino	em|[pre]|go
+empregomania	nome feminino	em|pre|go|ma|[ni]|a
+empregomaníaco	adjetivo	em|pre|go|ma|[ní]|a|co
+empregomaníaco	nome masculino	em|pre|go|ma|[ní]|a|co
+empregue	adjetivo	em|[pre]|gue
+empreguiçar	verbo	em|pre|gui|[çar]
+empreita	nome feminino	em|[prei]|ta
+empreitada	nome feminino	em|prei|[ta]|da
+empreitar	verbo	em|prei|[tar]
+empreiteira	nome feminino	em|prei|[tei]|ra
+empreiteiro	nome masculino	em|prei|[tei]|ro
+emprenhador	adjetivo	em|pre|nha|[dor]
+emprenhador	nome masculino	em|pre|nha|[dor]
+emprenhamento	nome masculino	em|pre|nha|[men]|to
+emprenhar	verbo	em|pre|[nhar]
+emprenhidão	nome feminino	em|pre|nhi|[dão]
+empresa	nome feminino	em|[pre]|sa
+empresador	adjetivo	em|pre|sa|[dor]
+empresador	nome masculino	em|pre|sa|[dor]
+empresar	verbo	em|pre|[sar]
+empresária	nome feminino	em|pre|[sá]|ri|a
+empresariado	nome masculino	em|pre|sa|ri|[a]|do
+empresarial	adjetivo	em|pre|sa|ri|[al]
+empresarialização	nome feminino	em|pre|sa|ri|a|li|za|[ção]
+empresário	nome masculino	em|pre|[sá]|ri|o
+empresário	adjetivo	em|pre|[sá]|ri|o
+emprestadar	verbo	em|pres|ta|[dar]
+emprestadio	adjetivo	em|pres|ta|[di]|o
+emprestado	adjetivo	em|pres|[ta]|do
+emprestador	adjetivo	em|pres|ta|[dor]
+emprestador	nome masculino	em|pres|ta|[dor]
+emprestadora	nome feminino	em|pres|ta|[do]|ra
+emprestar	verbo	em|pres|[tar]
+emprestável	adjetivo	em|pres|[tá]|vel
+empréstimo	nome masculino	em|[prés]|ti|mo
+empretecer	verbo	em|pre|te|[cer]
+emprisionar	verbo	em|pri|si|o|[nar]
+emproadamente	advérbio	em|pro|a|da|[men]|te
+emproado	adjetivo	em|pro|[a]|do
+emproar	verbo	em|pro|[ar]
+emprostótono	nome masculino	em|pros|[tó]|to|no
+empubescer	verbo	em|pu|bes|[cer]
+empulhação	nome feminino	em|pu|lha|[ção]
+empulhar	verbo	em|pu|[lhar]
+empulmonização	nome feminino	em|pul|mo|ni|za|[ção]
+empunhadura	nome feminino	em|pu|nha|[du]|ra
+empunhar	verbo	em|pu|[nhar]
+empunidoiros	nome masculino	em|pu|ni|[doi]|ros
+empunidouros	nome masculino	em|pu|ni|[dou]|ros
+empunidura	nome feminino	em|pu|ni|[du]|ra
+empunir	verbo	em|pu|[nir]
+empurpurar	verbo	em|pur|pu|[rar]
+empurpurecer	verbo	em|pur|pu|re|[cer]
+empurra	nome masculino	em|[pur]|ra
+empurra-empurra	nome masculino	em|pur|ra-em|[pur]|ra
+empurração	nome feminino	em|pur|ra|[ção]
+empurrador	adjetivo	em|pur|ra|[dor]
+empurrador	nome masculino	em|pur|ra|[dor]
+empurrão	nome masculino	em|pur|[rão]
+empurrar	verbo	em|pur|[rar]
+empurrável	adjetivo	em|pur|[rá]|vel
+empurro	nome masculino	em|[pur]|ro
+empuxador	adjetivo	em|pu|xa|[dor]
+empuxador	nome masculino	em|pu|xa|[dor]
+empuxamento	nome masculino	em|pu|xa|[men]|to
+empuxão	nome masculino	em|pu|[xão]
+empuxar	verbo	em|pu|[xar]
+empuxo	nome masculino	em|[pu]|xo
+emscheriano	adjetivo	ems|che|ri|[a]|no
+emsiano	adjetivo	em|si|[a]|no
+emudecer	verbo	e|mu|de|[cer]
+emudecido	adjetivo	e|mu|de|[ci]|do
+emudecimento	nome masculino	e|mu|de|ci|[men]|to
+emulação	nome feminino	e|mu|la|[ção]
+emulador	adjetivo	e|mu|la|[dor]
+emulador	nome masculino	e|mu|la|[dor]
+emuladora	nome feminino	e|mu|la|[do]|ra
+emular	verbo	e|mu|[lar]
+emulativo	adjetivo	e|mu|la|[ti]|vo
+emulgente	adjetivo	e|mul|[gen]|te
+emulgente	nome masculino	e|mul|[gen]|te
+êmulo	adjetivo	[ê]|mu|lo
+êmulo	nome masculino	[ê]|mu|lo
+émulo	nome masculino	[é]|mu|lo
+émulo	adjetivo	[é]|mu|lo
+emulsão	nome feminino	e|mul|[são]
+emulsificação	nome feminino	e|mul|si|fi|ca|[ção]

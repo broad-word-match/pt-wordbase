@@ -1,0 +1,100 @@
+empiteirar	verbo	em|pi|tei|[rar]
+empitosgado	adjetivo	em|pi|tos|[ga]|do
+emplacamento	nome masculino	em|pla|ca|[men]|to
+emplacar	verbo	em|pla|[car]
+emplasmado	adjetivo	em|plas|[ma]|do
+emplasmar	verbo	em|plas|[mar]
+emplastação	nome feminino	em|plas|ta|[ção]
+emplastado	adjetivo	em|plas|[ta]|do
+emplastagem	nome feminino	em|plas|[ta]|gem
+emplastamento	nome masculino	em|plas|ta|[men]|to
+emplastar	verbo	em|plas|[tar]
+emplástico	adjetivo	em|[plás]|ti|co
+emplasto	nome masculino	em|[plas]|to
+emplastração	nome feminino	em|plas|tra|[ção]
+emplastrácio	nome masculino	em|plas|[trá]|ci|o
+emplastrado	adjetivo	em|plas|[tra]|do
+emplastragem	nome feminino	em|plas|[tra]|gem
+emplastramento	nome masculino	em|plas|tra|[men]|to
+emplastrar	verbo	em|plas|[trar]
+emplástrico	adjetivo	em|[plás]|tri|co
+emplastro	nome masculino	em|[plas]|tro
+emplumação	nome feminino	em|plu|ma|[ção]
+emplumado	adjetivo	em|plu|[ma]|do
+emplumar	verbo	em|plu|[mar]
+emplumável	adjetivo	em|plu|[má]|vel
+emplumescer	verbo	em|plu|mes|[cer]
+empoadela	nome feminino	em|po|a|[de]|la
+empoado	adjetivo	em|po|[a]|do
+empoado	nome masculino	em|po|[a]|do
+empoamento	nome masculino	em|po|a|[men]|to
+empoar	verbo	em|po|[ar]
+empobrecer	verbo	em|po|bre|[cer]
+empobrecido	adjetivo	em|po|bre|[ci]|do
+empobrecimento	nome masculino	em|po|bre|ci|[men]|to
+empoçado	adjetivo	em|po|[ça]|do
+empoçamento	nome masculino	em|po|ça|[men]|to
+empoçar	verbo	em|po|[çar]
+empocilgar	verbo	em|po|cil|[gar]
+empoderamento	nome masculino	em|po|de|ra|[men]|to
+empoeirado	adjetivo	em|po|ei|[ra]|do
+empoeiramento	nome masculino	em|po|ei|ra|[men]|to
+empoeirar	verbo	em|po|ei|[rar]
+empófia	nome feminino	em|[pó]|fi|a
+empófio	adjetivo	em|[pó]|fi|o
+empola	nome feminino	em|[po]|la
+empoláceo	adjetivo	em|po|[lá]|ce|o
+empoladamente	advérbio	em|po|la|da|[men]|te
+empolado	adjetivo	em|po|[la]|do
+empolamento	nome masculino	em|po|la|[men]|to
+empolar	adjetivo	em|po|[lar]
+empolar	verbo	em|po|[lar]
+empoleação	nome feminino	em|po|le|a|[ção]
+empoleamento	nome masculino	em|po|le|a|[men]|to
+empolear	verbo	em|po|le|[ar]
+empoleirado	adjetivo	em|po|lei|[ra]|do
+empoleirar	verbo	em|po|lei|[rar]
+empolgadeira	nome feminino	em|pol|ga|[dei]|ra
+empolgado	adjetivo	em|pol|[ga]|do
+empolgador	adjetivo	em|pol|ga|[dor]
+empolgadura	nome feminino	em|pol|ga|[du]|ra
+empolgamento	nome masculino	em|pol|ga|[men]|to
+empolgante	adjetivo	em|pol|[gan]|te
+empolgar	verbo	em|pol|[gar]
+empolgueira	nome feminino	em|pol|[guei]|ra
+empolha	nome feminino	em|[po]|lha
+empolhar	verbo	em|po|[lhar]
+empolmar	verbo	em|pol|[mar]
+empomadar	verbo	em|po|ma|[dar]
+empombação	nome feminino	em|pom|ba|[ção]
+empombar	verbo	em|pom|[bar]
+empontar	verbo	em|pon|[tar]
+empopar	verbo	em|po|[par]
+emporcalhador	adjetivo	em|por|ca|lha|[dor]
+emporcalhador	nome masculino	em|por|ca|lha|[dor]
+emporcalhamento	nome masculino	em|por|ca|lha|[men]|to
+emporcalhar	verbo	em|por|ca|[lhar]
+emporcar	verbo	em|por|[car]
+emporético	adjetivo	em|po|[ré]|ti|co
+empório	nome masculino	em|[pó]|ri|o
+emporitano	nome masculino	em|po|ri|[ta]|no
+emporitano	adjetivo	em|po|ri|[ta]|no
+empós	preposição	em|[pós]
+empossado	adjetivo	em|pos|[sa]|do
+empossamento	nome masculino	em|pos|sa|[men]|to
+empossar	verbo	em|pos|[sar]
+emposse	nome masculino	em|[pos]|se
+emposta	nome feminino	em|[pos]|ta
+empostação	nome feminino	em|pos|ta|[ção]
+empostar	verbo	em|pos|[tar]
+empostigar	verbo	em|pos|ti|[gar]
+emprateleiramento	nome masculino	em|pra|te|lei|ra|[men]|to
+emprateleirar	verbo	em|pra|te|lei|[rar]
+emprazado	adjetivo	em|pra|[za]|do
+emprazador	adjetivo	em|pra|za|[dor]
+emprazador	nome masculino	em|pra|za|[dor]
+emprazamento	nome masculino	em|pra|za|[men]|to
+emprazar	verbo	em|pra|[zar]
+empreendedor	adjetivo	em|pre|en|de|[dor]
+empreendedor	nome masculino	em|pre|en|de|[dor]
+empreendedora	nome feminino	em|pre|en|de|[do]|ra

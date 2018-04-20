@@ -1,0 +1,100 @@
+aristofanista	adjetivo	a|ris|to|fa|[nis]|ta
+aristofanista	nome masculino	a|ris|to|fa|[nis]|ta
+aristofanista	nome feminino	a|ris|to|fa|[nis]|ta
+aristol	nome masculino	a|ris|[tol]
+aristolóquia	nome feminino	a|ris|to|[ló]|qui|a
+aristoloquiácea	nome feminino	a|ris|to|lo|qui|[á]|ce|a
+aristoloquiáceo	adjetivo	a|ris|to|lo|qui|[á]|ce|o
+aristoloquina	nome feminino	a|ris|to|lo|[qui]|na
+aristoso	adjetivo	a|ris|[to]|so
+aristotélia	nome feminino	a|ris|to|[té]|li|a
+aristotelicamente	advérbio	a|ris|to|te|li|ca|[men]|te
+aristotélico	nome masculino	a|ris|to|[té]|li|co
+aristotélico	adjetivo	a|ris|to|[té]|li|co
+aristotelismo	nome masculino	a|ris|to|te|[lis]|mo
+aristotelizar	verbo	a|ris|to|te|li|[zar]
+aritá	nome masculino	a|ri|[tá]
+aritenoide	adjetivo	a|ri|te|[noi]|de
+aritenoide	nome feminino	a|ri|te|[noi]|de
+aritenóideo	adjetivo	a|ri|te|[nói]|de|o
+aritenoidite	nome feminino	a|ri|te|noi|[di]|te
+ariti	adjetivo	a|ri|[ti]
+ariti	nome masculino	a|ri|[ti]
+ariti	nome feminino	a|ri|[ti]
+aritmancia	nome feminino	a|rit|man|[ci]|a
+aritmante	nome masculino	a|rit|[man]|te
+aritmante	nome feminino	a|rit|[man]|te
+aritmântico	adjetivo	a|rit|[mân]|ti|co
+aritmética	nome feminino	a|rit|[mé]|ti|ca
+aritmeticamente	advérbio	a|rit|me|ti|ca|[men]|te
+aritmético	nome masculino	a|rit|[mé]|ti|co
+aritmético	adjetivo	a|rit|[mé]|ti|co
+aritmetógrafo	nome masculino	a|rit|me|[tó]|gra|fo
+aritmografia	nome feminino	a|rit|mo|gra|[fi]|a
+aritmográfico	adjetivo	a|rit|mo|[grá]|fi|co
+aritmógrafo	nome masculino	a|rit|[mó]|gra|fo
+aritmograma	nome masculino	a|rit|mo|[gra]|ma
+aritmologia	nome feminino	a|rit|mo|lo|[gi]|a
+aritmológico	adjetivo	a|rit|mo|[ló]|gi|co
+aritmologista	nome masculino	a|rit|mo|lo|[gis]|ta
+aritmologista	nome feminino	a|rit|mo|lo|[gis]|ta
+aritmólogo	nome masculino	a|rit|[mó]|lo|go
+aritmomancia	nome feminino	a|rit|mo|man|[ci]|a
+aritmomania	nome feminino	a|rit|mo|ma|[ni]|a
+aritmomaníaco	adjetivo	a|rit|mo|ma|[ní]|a|co
+aritmomaníaco	nome masculino	a|rit|mo|ma|[ní]|a|co
+aritmómano	nome masculino	a|rit|[mó]|ma|no
+aritmômano	nome masculino	a|rit|[mô]|ma|no
+aritmomante	nome masculino	a|rit|mo|[man]|te
+aritmomante	nome feminino	a|rit|mo|[man]|te
+aritmomântico	adjetivo	a|rit|mo|[mân]|ti|co
+aritmometria	nome feminino	a|rit|mo|me|[tri]|a
+aritmométrico	adjetivo	a|rit|mo|[mé]|tri|co
+aritmômetro	nome masculino	a|rit|[mô]|me|tro
+aritmómetro	nome masculino	a|rit|[mó]|me|tro
+ariú	adjetivo	a|ri|[ú]
+ariú	nome masculino	a|ri|[ú]
+ariú	nome feminino	a|ri|[ú]
+arjão	nome masculino	ar|[jão]
+arjoada	nome feminino	ar|jo|[a]|da
+arjoar	verbo	ar|jo|[ar]
+arjoz	nome masculino	ar|[joz]
+arjunça	nome feminino	ar|[jun]|ça
+arjunção	nome masculino	ar|jun|[ção]
+arlequim	nome masculino	ar|le|[quim]
+arlequinada	nome feminino	ar|le|qui|[na]|da
+arlequinal	adjetivo	ar|le|qui|[nal]
+arlequíneo	adjetivo	ar|le|[quí]|ne|o
+arlequinesco	adjetivo	ar|le|qui|[nes]|co
+arlesiano	adjetivo	ar|le|si|[a]|no
+arlesiano	nome masculino	ar|le|si|[a]|no
+arlique	nome masculino	ar|[li]|que
+arma	nome feminino	[ar]|ma
+armação	nome feminino	ar|ma|[ção]
+armada	nome feminino	ar|[ma]|da
+armadilha	nome feminino	ar|ma|[di]|lha
+armadilhado	adjetivo	ar|ma|di|[lha]|do
+armadilhar	verbo	ar|ma|di|[lhar]
+armadilho	nome masculino	ar|ma|[di]|lho
+armado	adjetivo	ar|[ma]|do
+armador	nome masculino	ar|ma|[dor]
+armadora	nome feminino	ar|ma|[do]|ra
+armadoura	nome feminino	ar|ma|[dou]|ra
+armadouras	nome feminino	ar|ma|[dou]|ras
+armadura	nome feminino	ar|ma|[du]|ra
+armamarense	adjetivo	ar|ma|ma|[ren]|se
+armamarense	nome masculino	ar|ma|ma|[ren]|se
+armamarense	nome feminino	ar|ma|ma|[ren]|se
+armamentário	adjetivo	ar|ma|men|[tá]|ri|o
+armamentismo	nome masculino	ar|ma|men|[tis]|mo
+armamentista	nome masculino	ar|ma|men|[tis]|ta
+armamentista	adjetivo	ar|ma|men|[tis]|ta
+armamentista	nome feminino	ar|ma|men|[tis]|ta
+armamentístico	adjetivo	ar|ma|men|[tís]|ti|co
+armamento	nome masculino	ar|ma|[men]|to
+armanço	nome masculino	ar|[man]|ço
+armando	nome masculino	ar|[man]|do
+armânia	nome feminino	ar|[mâ]|ni|a
+armante	nome masculino	ar|[man]|te
+armante	nome feminino	ar|[man]|te
+armão	nome masculino	ar|[mão]

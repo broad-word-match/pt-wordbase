@@ -1,0 +1,100 @@
+unitário	adjetivo	u|ni|[tá]|ri|o
+unitarismo	nome masculino	u|ni|ta|[ris]|mo
+unitarista	adjetivo	u|ni|ta|[ris]|ta
+unitarista	nome masculino	u|ni|ta|[ris]|ta
+unitarista	nome feminino	u|ni|ta|[ris]|ta
+unitegumentar	adjetivo	u|ni|te|gu|men|[tar]
+unitivo	adjetivo	u|ni|[ti]|vo
+unitivo	nome masculino	u|ni|[ti]|vo
+unítono	adjetivo	u|[ní]|to|no
+univalência	nome feminino	u|ni|va|[lên]|ci|a
+univalente	adjetivo	u|ni|va|[len]|te
+univalve	adjetivo	u|ni|[val]|ve
+univalvular	adjetivo	u|ni|val|vu|[lar]
+univariante	adjetivo	u|ni|va|ri|[an]|te
+unível	adjetivo	u|[ní]|vel
+univerbação	nome feminino	u|ni|ver|ba|[ção]
+universal	nome masculino	u|ni|ver|[sal]
+universal	adjetivo	u|ni|ver|[sal]
+universalidade	nome feminino	u|ni|ver|sa|li|[da]|de
+universalismo	nome masculino	u|ni|ver|sa|[lis]|mo
+universalista	adjetivo	u|ni|ver|sa|[lis]|ta
+universalista	nome masculino	u|ni|ver|sa|[lis]|ta
+universalista	nome feminino	u|ni|ver|sa|[lis]|ta
+universalização	nome feminino	u|ni|ver|sa|li|za|[ção]
+universalizador	adjetivo	u|ni|ver|sa|li|za|[dor]
+universalizante	adjetivo	u|ni|ver|sa|li|[zan]|te
+universalizar	verbo	u|ni|ver|sa|li|[zar]
+universalizável	adjetivo	u|ni|ver|sa|li|[zá]|vel
+universalmente	advérbio	u|ni|ver|sal|[men]|te
+universidade	nome feminino	u|ni|ver|si|[da]|de
+universitária	nome feminino	u|ni|ver|si|[tá]|ri|a
+universitariamente	advérbio	u|ni|ver|si|ta|ri|a|[men]|te
+universitário	nome masculino	u|ni|ver|si|[tá]|ri|o
+universitário	adjetivo	u|ni|ver|si|[tá]|ri|o
+universitarismo	nome masculino	u|ni|ver|si|ta|[ris]|mo
+universo	nome masculino	u|ni|[ver]|so
+univesicular	adjetivo	u|ni|ve|si|cu|[lar]
+univitelino	adjetivo	u|ni|vi|te|[li]|no
+univocação	nome feminino	u|ni|vo|ca|[ção]
+univocamente	advérbio	u|ni|vo|ca|[men]|te
+univocidade	nome feminino	u|ni|vo|ci|[da]|de
+unívoco	adjetivo	u|[ní]|vo|co
+uno	adjetivo	[u]|no
+unóculo	adjetivo	u|[nó]|cu|lo
+unóculo	nome masculino	u|[nó]|cu|lo
+unta	nome feminino	[un]|ta
+untadela	nome feminino	un|ta|[de]|la
+untador	adjetivo	un|ta|[dor]
+untador	nome masculino	un|ta|[dor]
+untadura	nome feminino	un|ta|[du]|ra
+untanha	nome feminino	un|[ta]|nha
+untar	verbo	un|[tar]
+unteiro	nome masculino	un|[tei]|ro
+untitar	verbo	un|ti|[tar]
+unto	nome masculino	[un]|to
+untório	nome masculino	un|[tó]|ri|o
+untué-de-obó	nome masculino	un|tu|é-de-o|[bó]
+untuém	nome masculino	un|tu|[ém]
+untuosamente	advérbio	un|tu|o|sa|[men]|te
+untuosidade	nome feminino	un|tu|o|si|[da]|de
+untuoso	adjetivo	un|tu|[o]|so
+untura	nome feminino	un|[tu]|ra
+unúmbio	nome masculino	u|[núm]|bi|o
+ununhéxio	nome masculino	u|nu|[nhé]|xi|o
+ununnílio	nome masculino	u|nun|[ní]|li|o
+ununóctio	nome masculino	u|nu|[nóc]|ti|o
+ununquádio	nome masculino	u|nun|[quá]|di|o
+ununúnio	nome masculino	u|nu|[nú]|ni|o
+uolofe	adjetivo	u|o|[lo]|fe
+uolofe	nome masculino	u|o|[lo]|fe
+uolofe	nome feminino	u|o|[lo]|fe
+up-to-date	adjetivo	up-to-da|te
+upa	interjeição	[u]|pa
+upa	nome feminino	[u]|pa
+upanda	nome feminino	u|[pan]|da
+upar	verbo	u|[par]
+upas	nome masculino	[u]|pas
+upgrade	nome masculino	up|gra|de
+upiúba	nome feminino	u|pi|[ú]|ba
+upo	nome masculino	[u]|po
+upúpida	nome masculino	u|[pú]|pi|da
+upupídeo	nome masculino	u|pu|[pí]|de|o
+upupídeo	nome masculino	u|pu|[pí]|de|o
+upupídeo	adjetivo	u|pu|[pí]|de|o
+uqueté	nome masculino	u|que|[té]
+ura	nome feminino	[u]|ra
+uraca	nome feminino	u|[ra]|ca
+uracaçu	nome masculino	u|ra|ca|[çu]
+uracilo	nome masculino	u|ra|[ci]|lo
+uracovesical	adjetivo	u|ra|co|ve|si|[cal]
+uracrasia	nome feminino	u|ra|cra|[si]|a
+uraçu	nome masculino	u|ra|[çu]
+urago	nome masculino	u|[ra]|go
+uraliana	nome feminino	u|ra|li|[a]|na
+uraliano	adjetivo	u|ra|li|[a]|no
+uraliano	nome masculino	u|ra|li|[a]|no
+urálica	nome feminino	u|[rá]|li|ca
+urálico	adjetivo	u|[rá]|li|co
+urálico	nome masculino	u|[rá]|li|co
+urálio	adjetivo	u|[rá]|li|o

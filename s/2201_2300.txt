@@ -1,0 +1,100 @@
+sarcanto	nome masculino	sar|[can]|to
+sarçaparrilha	nome feminino	sar|ça|par|[ri]|lha
+sarcar	nome masculino	sar|[car]
+sarcásmico	adjetivo	sar|[cás]|mi|co
+sarcasmo	nome masculino	sar|[cas]|mo
+sarcástica	nome feminino	sar|[cás]|ti|ca
+sarcasticamente	advérbio	sar|cas|ti|ca|[men]|te
+sarcástico	adjetivo	sar|[cás]|ti|co
+sarcástico	nome masculino	sar|[cás]|ti|co
+sarcepiplocele	nome feminino	sar|ce|pi|plo|[ce]|le
+sarcepiplônfalo	nome masculino	sar|ce|pi|[plôn]|fa|lo
+sarcídio	nome masculino	sar|[cí]|di|o
+sarcidrocele	nome feminino	sar|ci|dro|[ce]|le
+sárcina	nome feminino	[sár]|ci|na
+sarcinite	nome feminino	sar|ci|[ni]|te
+sarcínula	nome feminino	sar|[cí]|nu|la
+sarcita	nome feminino	sar|[ci]|ta
+sarcite	nome feminino	sar|[ci]|te
+sarcóbase	nome feminino	sar|[có]|ba|se
+sarcocálice	nome masculino	sar|co|[cá]|li|ce
+sarcocárpico	adjetivo	sar|co|[cár]|pi|co
+sarcocárpio	nome masculino	sar|co|[cár]|pi|o
+sarcocarpo	nome masculino	sar|co|[car]|po
+sarcocéfalo	nome masculino	sar|co|[cé]|fa|lo
+sarcocele	nome feminino	sar|co|[ce]|le
+sarcococo	nome masculino	sar|co|[co]|co
+sarcocola	nome feminino	sar|co|[co]|la
+sarcocoleira	nome feminino	sar|co|co|[lei]|ra
+sarcocolina	nome feminino	sar|co|co|[li]|na
+sarcode	nome masculino	sar|[co]|de
+sarcoderma	nome masculino	sar|co|[der]|ma
+sarcódico	adjetivo	sar|[có]|di|co
+sarcódio	nome masculino	sar|[có]|di|o
+sarcofagia	nome feminino	sar|co|fa|[gi]|a
+sarcófago	adjetivo	sar|[có]|fa|go
+sarcófago	nome masculino	sar|[có]|fa|go
+sarcofila	nome feminino	sar|co|[fi]|la
+sarcófilo	adjetivo	sar|[có]|fi|lo
+sarcófilo	nome masculino	sar|[có]|fi|lo
+sarcoide	adjetivo	sar|[coi]|de
+sarcoide	nome masculino	sar|[coi]|de
+sarcoidose	nome feminino	sar|coi|[do]|se
+sarcolema	nome masculino	sar|co|[le]|ma
+sarcolemático	adjetivo	sar|co|le|[má]|ti|co
+sarcólito	nome masculino	sar|[có]|li|to
+sarcólobo	nome masculino	sar|[có]|lo|bo
+sarcologia	nome feminino	sar|co|lo|[gi]|a
+sarcológico	adjetivo	sar|co|[ló]|gi|co
+sarcoma	nome masculino	sar|[co]|ma
+sarcomático	adjetivo	sar|co|[má]|ti|co
+sarcomatose	nome feminino	sar|co|ma|[to]|se
+sarcomatoso	adjetivo	sar|co|ma|[to]|so
+sarcómero	nome masculino	sar|[có]|me|ro
+sarcômero	nome masculino	sar|[cô]|me|ro
+sarcônfalo	nome masculino	sar|[côn]|fa|lo
+sarcopioide	adjetivo	sar|co|pi|[oi]|de
+sarcoplasma	nome masculino	sar|co|[plas]|ma
+sarcoplasmático	adjetivo	sar|co|plas|[má]|ti|co
+sarcopsíleo	nome masculino	sar|cop|[sí]|le|o
+sarcopta	nome masculino	sar|[cop]|ta
+sarcoptídeo	nome masculino	sar|cop|[tí]|de|o
+sarcose	nome feminino	sar|[co]|se
+sarcosina	nome feminino	sar|co|[si]|na
+sarçoso	adjetivo	sar|[ço]|so
+sarcospermo	adjetivo	sar|cos|[per]|mo
+sarcosporídeo	nome masculino	sar|cos|po|[rí]|de|o
+sarcostema	nome feminino	sar|cos|[te]|ma
+sarcosteose	nome feminino	sar|cos|te|[o]|se
+sarcóstomo	adjetivo	sar|[cós]|to|mo
+sarcótico	nome masculino	sar|[có]|ti|co
+sarcótico	adjetivo	sar|[có]|ti|co
+sarcotripsia	nome feminino	sar|co|trip|[si]|a
+sarcotríptico	adjetivo	sar|co|[tríp]|ti|co
+sarda	nome feminino	[sar]|da
+sardágata	nome feminino	sar|[dá]|ga|ta
+sardanapalesco	adjetivo	sar|da|na|pa|[les]|co
+sardanapálico	adjetivo	sar|da|na|[pá]|li|co
+sardanapalizar	verbo	sar|da|na|pa|li|[zar]
+sardanapalo	nome masculino	sar|da|na|[pa]|lo
+sardaneta	nome feminino	sar|da|[ne]|ta
+sardanica	nome feminino	sar|da|[ni]|ca
+sardanisca	nome feminino	sar|da|[nis]|ca
+sardanita	nome feminino	sar|da|[ni]|ta
+sardão	nome masculino	sar|[dão]
+sardar	verbo	sar|[dar]
+sardar	nome masculino	sar|[dar]
+sardenho	adjetivo	sar|[de]|nho
+sardenho	nome masculino	sar|[de]|nho
+sardento	adjetivo	sar|[den]|to
+sardiano	adjetivo	sar|di|[a]|no
+sardiano	nome masculino	sar|di|[a]|no
+sardiate	adjetivo	sar|di|[a]|te
+sardiate	nome masculino	sar|di|[a]|te
+sardiate	nome feminino	sar|di|[a]|te
+sardinha	nome feminino	sar|[di]|nha
+sardinhada	nome feminino	sar|di|[nha]|da
+sardinheira	nome feminino	sar|di|[nhei]|ra
+sardinheiro	adjetivo	sar|di|[nhei]|ro
+sardinheiro	nome masculino	sar|di|[nhei]|ro
+sardinheta	nome feminino	sar|di|[nhe]|ta

@@ -1,0 +1,100 @@
+cariar	verbo	ca|ri|[ar]
+cariate	adjetivo	ca|ri|[a]|te
+cariate	nome masculino	ca|ri|[a]|te
+cariate	nome feminino	ca|ri|[a]|te
+cariátide	nome feminino	ca|ri|[á]|ti|de
+cariatídico	adjetivo	ca|ri|a|[tí]|di|co
+caribala	nome masculino	ca|ri|[ba]|la
+caribala	adjetivo	ca|ri|[ba]|la
+caríbdis	nome feminino	ca|[ríb]|dis
+caribe	adjetivo	ca|[ri]|be
+caribe	nome masculino	ca|[ri]|be
+caribe	nome feminino	ca|[ri]|be
+caribenho	nome masculino	ca|ri|[be]|nho
+caribenho	adjetivo	ca|ri|[be]|nho
+cariboca	nome masculino	ca|ri|[bo]|ca
+cariboca	nome feminino	ca|ri|[bo]|ca
+caribu	nome masculino	ca|ri|[bu]
+caribu	nome feminino	ca|ri|[bu]
+carica	nome feminino	ca|[ri]|ca
+caricácea	nome feminino	ca|ri|[cá]|ce|a
+caricáceo	adjetivo	ca|ri|[cá]|ce|o
+caricatamente	advérbio	ca|ri|ca|ta|[men]|te
+caricato	adjetivo	ca|ri|[ca]|to
+caricato	nome masculino	ca|ri|[ca]|to
+caricatura	nome feminino	ca|ri|ca|[tu]|ra
+caricaturador	adjetivo	ca|ri|ca|tu|ra|[dor]
+caricaturador	nome masculino	ca|ri|ca|tu|ra|[dor]
+caricatural	adjetivo	ca|ri|ca|tu|[ral]
+caricaturalmente	advérbio	ca|ri|ca|tu|ral|[men]|te
+caricaturar	verbo	ca|ri|ca|tu|[rar]
+caricaturável	adjetivo	ca|ri|ca|tu|[rá]|vel
+caricaturesco	adjetivo	ca|ri|ca|tu|[res]|co
+caricaturista	nome masculino	ca|ri|ca|tu|[ris]|ta
+caricaturista	nome feminino	ca|ri|ca|tu|[ris]|ta
+caricaturista	adjetivo	ca|ri|ca|tu|[ris]|ta
+carícea	nome feminino	ca|[rí]|ce|a
+carícia	nome feminino	ca|[rí]|ci|a
+cariciabilidade	nome feminino	ca|ri|ci|a|bi|li|[da]|de
+cariciar	verbo	ca|ri|ci|[ar]
+cariciativamente	advérbio	ca|ri|ci|a|ti|va|[men]|te
+cariciativo	adjetivo	ca|ri|ci|a|[ti]|vo
+cariciável	adjetivo	ca|ri|ci|[á]|vel
+cariciosamente	advérbio	ca|ri|ci|o|sa|[men]|te
+caricioso	adjetivo	ca|ri|ci|[o]|so
+cariço	nome masculino	ca|[ri]|ço
+caricobo	nome feminino	ca|ri|[co]|bo
+caridade	nome feminino	ca|ri|[da]|de
+caridosamente	advérbio	ca|ri|do|sa|[men]|te
+caridoso	adjetivo	ca|ri|[do]|so
+cárie	nome feminino	[cá]|ri|e
+cariengue	nome masculino	ca|ri|[en]|gue
+carifranzido	adjetivo	ca|ri|fran|[zi]|do
+carifranzir	verbo	ca|ri|fran|[zir]
+carijó	nome masculino	ca|ri|[jó]
+carijó	nome feminino	ca|ri|[jó]
+carijó	adjetivo	ca|ri|[jó]
+caril	nome masculino	ca|[ril]
+carilongo	adjetivo	ca|ri|[lon]|go
+carimã	nome masculino	ca|ri|[mã]
+carima	nome feminino	ca|[ri]|ma
+carimbação	nome feminino	ca|rim|ba|[ção]
+carimbador	nome masculino	ca|rim|ba|[dor]
+carimbagem	nome feminino	ca|rim|[ba]|gem
+carimbamba	nome feminino	ca|rim|[bam]|ba
+carimbar	verbo	ca|rim|[bar]
+carimbo	nome masculino	ca|[rim]|bo
+carimbó	nome masculino	ca|rim|[bó]
+carina	nome feminino	ca|[ri]|na
+carinado	adjetivo	ca|ri|[na]|do
+carinal	adjetivo	ca|ri|[nal]
+carinária	nome feminino	ca|ri|[ná]|ri|a
+carinegro	adjetivo	ca|ri|[ne]|gro
+caringana	nome feminino	ca|rin|[ga]|na
+caringo	nome masculino	ca|[rin]|go
+carinho	nome masculino	ca|[ri]|nho
+carinhosa	nome feminino	ca|ri|[nho]|sa
+carinhosamente	advérbio	ca|ri|nho|sa|[men]|te
+carinhoso	adjetivo	ca|ri|[nho]|so
+carinífero	adjetivo	ca|ri|[ní]|fe|ro
+carino	adjetivo	ca|[ri]|no
+carino	nome masculino	ca|[ri]|no
+carintiano	adjetivo	ca|rin|ti|[a]|no
+carintiano	nome masculino	ca|rin|ti|[a]|no
+cário	adjetivo	[cá]|ri|o
+cário	nome masculino	[cá]|ri|o
+carioba	nome feminino	ca|ri|[o]|ba
+carioca	nome masculino	ca|ri|[o]|ca
+carioca	adjetivo	ca|ri|[o]|ca
+carioca	nome feminino	ca|ri|[o]|ca
+cariocarácea	nome feminino	ca|ri|o|ca|[rá]|ce|a
+cariocinese	nome feminino	ca|ri|o|ci|[ne]|se
+cariocinético	adjetivo	ca|ri|o|ci|[né]|ti|co
+cariodiérese	nome feminino	ca|ri|o|di|[é]|re|se
+cariofilácea	nome feminino	ca|ri|o|fi|[lá]|ce|a
+cariofiláceo	adjetivo	ca|ri|o|fi|[lá]|ce|o
+cariofilada	nome feminino	ca|ri|o|fi|[la]|da
+cariogamia	nome feminino	ca|ri|o|ga|[mi]|a
+cariogâmico	adjetivo	ca|ri|o|[gâ]|mi|co
+cariolinfa	nome feminino	ca|ri|o|[lin]|fa
+cariólise	nome feminino	ca|ri|[ó]|li|se

@@ -1,0 +1,100 @@
+erva-dos-golpes	nome feminino	er|va-dos-gol|pes
+erva-dos-militares	nome feminino	er|va-dos-mi|li|[ta]|res
+erva-dos-unheiros	nome feminino	er|va-dos-u|[nhei]|ros
+erva-férrea	nome feminino	er|va-fér|re|a
+erva-fina	nome feminino	er|va-fi|na
+erva-fome	nome feminino	er|va-fo|me
+erva-formigueira	nome feminino	er|va-for|mi|[guei]|ra
+erva-frecha	nome feminino	er|va-fre|cha
+erva-galega	nome feminino	er|va-ga|[le]|ga
+erva-gigante	nome feminino	er|va-gi|[gan]|te
+erva-isqueira	nome feminino	er|va-is|[quei]|ra
+erva-lanar	nome feminino	er|va-la|[nar]
+erva-leiteira	nome feminino	er|va-lei|[tei]|ra
+erva-língua	nome feminino	er|va-lín|gua
+erva-loira	nome feminino	er|va-loi|ra
+erva-lombrigueira	nome feminino	er|va-lom|bri|[guei]|ra
+erva-loura	nome feminino	er|va-lou|ra
+erva-luísa	nome feminino	er|va-lu|[í]|sa
+erva-mate	nome feminino	er|va-ma|te
+erva-moira	nome feminino	er|va-moi|ra
+erva-moira-sonífera	nome feminino	er|va-moi|ra-so|[ní]|fe|ra
+erva-molar	nome feminino	er|va-mo|[lar]
+erva-molarinha	nome feminino	er|va-mo|la|[ri]|nha
+erva-moleirinha	nome feminino	er|va-mo|lei|[ri]|nha
+erva-mosca	nome feminino	er|va-mos|ca
+erva-moura	nome feminino	er|va-mou|ra
+erva-noselha	nome feminino	er|va-no|[se]|lha
+erva-perceveja	nome feminino	er|va-per|ce|[ve]|ja
+erva-pessegueira	nome feminino	er|va-pes|se|[guei]|ra
+erva-pimenteira	nome feminino	er|va-pi|men|[tei]|ra
+erva-pinheira	nome feminino	er|va-pi|[nhei]|ra
+erva-pinheira-enxuta	nome feminino	er|va-pi|nhei|ra-en|[xu]|ta
+erva-piolheira	nome feminino	er|va-pi|o|[lhei]|ra
+erva-pombinha	nome feminino	er|va-pom|[bi]|nha
+erva-prata	nome feminino	er|va-pra|ta
+erva-roberta	nome feminino	er|va-ro|[ber]|ta
+erva-santa	nome feminino	er|va-san|ta
+erva-sarneira	nome feminino	er|va-sar|[nei]|ra
+erva-serôdia	nome feminino	er|va-se|[rô]|di|a
+erva-serra	nome feminino	er|va-ser|ra
+erva-temporã	nome feminino	er|va-tem|po|[rã]
+erva-toira	nome feminino	er|va-toi|ra
+erva-toura	nome feminino	er|va-tou|ra
+erva-traqueira	nome feminino	er|va-tra|[quei]|ra
+erva-turca	nome feminino	er|va-tur|ca
+erva-ulmeira	nome feminino	er|va-ul|[mei]|ra
+erva-ursa	nome feminino	er|va-ur|sa
+erva-vaqueira	nome feminino	er|va-va|[quei]|ra
+erva-vespa	nome feminino	er|va-ves|pa
+ervaca	nome feminino	er|[va]|ca
+ervaçal	nome masculino	er|va|[çal]
+ervaçum	nome masculino	er|va|[çum]
+ervado	nome masculino	er|[va]|do
+ervado	adjetivo	er|[va]|do
+ervagem	nome feminino	er|[va]|gem
+erval	nome masculino	er|[val]
+ervanária	nome feminino	er|va|[ná]|ri|a
+ervanário	nome masculino	er|va|[ná]|ri|o
+ervançal	nome masculino	er|van|[çal]
+ervanço	nome masculino	er|[van]|ço
+ervar	verbo	er|[var]
+ervário	nome masculino	er|[vá]|ri|o
+ervascal	nome masculino	er|vas|[cal]
+ervasco	nome masculino	er|[vas]|co
+ervatão	nome masculino	er|va|[tão]
+ervatão-porcino	nome masculino	er|va|tão-por|[ci]|no
+ervateiro	nome masculino	er|va|[tei]|ro
+ervecer	verbo	er|ve|[cer]
+ervedal	nome masculino	er|ve|[dal]
+ervedeiro	nome masculino	er|ve|[dei]|ro
+ervedo	nome masculino	er|[ve]|do
+êrvedo	nome masculino	[êr]|ve|do
+erveira	nome feminino	er|[vei]|ra
+erveiro	adjetivo	er|[vei]|ro
+erviço	nome masculino	er|[vi]|ço
+ervilha	nome feminino	er|[vi]|lha
+ervilha-de-cheiro	nome feminino	er|vi|lha-de-chei|ro
+ervilha-de-pombo	nome feminino	er|vi|lha-de-pom|bo
+ervilhaca	nome feminino	er|vi|[lha]|ca
+ervilhaca-parda	nome feminino	er|vi|lha|ca-par|da
+ervilhal	nome masculino	er|vi|[lhal]
+ervilhame	nome masculino	er|vi|[lha]|me
+ervilhana	nome feminino	er|vi|[lha]|na
+ervilhão	nome masculino	er|vi|[lhão]
+ervilhar	verbo	er|vi|[lhar]
+ervilheira	nome feminino	er|vi|[lhei]|ra
+ervília	nome feminino	er|[ví]|li|a
+ervinha	nome feminino	er|[vi]|nha
+êrvodo	nome masculino	[êr]|vo|do
+ervoso	adjetivo	er|[vo]|so
+és-não-és	nome masculino	[és-não-és]
+és-não-és	advérbio	[és-não-és]
+és-nordeste	adjetivo	és-nor|[des]|te
+és-nordeste	nome masculino	és-nor|[des]|te
+és-noroeste	nome masculino	és-no|ro|[es]|te
+és-sudeste	adjetivo	és-su|[des]|te
+és-sudeste	nome masculino	és-su|[des]|te
+és-sudoeste	nome masculino	és-su|do|[es]|te
+és-sueste	nome masculino	és-su|[es]|te
+és-sueste	adjetivo	és-su|[es]|te

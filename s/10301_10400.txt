@@ -1,0 +1,100 @@
+superádito	adjetivo	su|pe|[rá]|di|to
+superado	adjetivo	su|pe|[ra]|do
+superador	adjetivo	su|pe|ra|[dor]
+superagudo	adjetivo	su|pe|ra|[gu]|do
+superalimentação	nome feminino	su|pe|ra|li|men|ta|[ção]
+superalimentado	adjetivo	su|pe|ra|li|men|[ta]|do
+superalimentar	verbo	su|pe|ra|li|men|[tar]
+superalimentar	adjetivo	su|pe|ra|li|men|[tar]
+superando	adjetivo	su|pe|[ran]|do
+superante	adjetivo	su|pe|[ran]|te
+superaquecer	verbo	su|pe|ra|que|[cer]
+superaquecido	adjetivo	su|pe|ra|que|[ci]|do
+superaquecimento	nome masculino	su|pe|ra|que|ci|[men]|to
+superar	verbo	su|pe|[rar]
+superárbitro	nome masculino	su|pe|[rár]|bi|tro
+superativado	adjetivo	su|pe|ra|ti|[va]|do
+superatividade	nome feminino	su|pe|ra|ti|vi|[da]|de
+superativo	adjetivo	su|pe|ra|[ti]|vo
+superável	adjetivo	su|pe|[rá]|vel
+superavit	nome masculino	su|pe|ra|vit
+superavitário	adjetivo	su|pe|ra|vi|[tá]|ri|o
+superaxilar	adjetivo	su|pe|ra|xi|[lar]
+superbíssimo	adjetivo	su|per|[bís]|si|mo
+supercalcinado	adjetivo	su|per|cal|ci|[na]|do
+supercampeão	nome masculino	su|per|cam|pe|[ão]
+supercampeonato	nome masculino	su|per|cam|pe|o|[na]|to
+supercanhão	nome masculino	su|per|ca|[nhão]
+supercarburante	nome masculino	su|per|car|bu|[ran]|te
+superciliar	verbo	su|per|ci|li|[ar]
+superciliar	adjetivo	su|per|ci|li|[ar]
+supercílio	nome masculino	su|per|[cí]|li|o
+supercilioso	adjetivo	su|per|ci|li|[o]|so
+supercivilizado	adjetivo	su|per|ci|vi|li|[za]|do
+supercondutividade	nome feminino	su|per|con|du|ti|vi|[da]|de
+supercondutor	adjetivo	su|per|con|du|[tor]
+supercondutor	nome masculino	su|per|con|du|[tor]
+superconhecido	adjetivo	su|per|co|nhe|[ci]|do
+superdose	nome feminino	su|per|[do]|se
+superdotada	nome feminino	su|per|do|[ta]|da
+superdotado	nome masculino	su|per|do|[ta]|do
+superdotado	adjetivo	su|per|do|[ta]|do
+superego	nome masculino	su|pe|[re]|go
+superelegante	adjetivo	su|pe|re|le|[gan]|te
+superelevação	nome feminino	su|pe|re|le|va|[ção]
+supereminência	nome feminino	su|pe|re|mi|[nên]|ci|a
+supereminente	adjetivo	su|pe|re|mi|[nen]|te
+supererrogação	nome feminino	su|pe|rer|ro|ga|[ção]
+superescola	nome feminino	su|pe|res|[co]|la
+superesquadra	nome feminino	su|pe|res|[qua]|dra
+superessivo	adjetivo	su|pe|res|[si]|vo
+superessivo	nome masculino	su|pe|res|[si]|vo
+superestado	nome masculino	su|pe|res|[ta]|do
+superestimar	verbo	su|pe|res|ti|[mar]
+superestrato	nome masculino	su|pe|res|[tra]|to
+superestrela	nome feminino	su|pe|res|[tre]|la
+superestrutura	nome feminino	su|pe|res|tru|[tu]|ra
+supereu	nome masculino	su|pe|[reu]
+superevangélia	nome feminino	su|pe|re|van|[gé]|li|a
+superexagerar	verbo	su|pe|re|xa|ge|[rar]
+superexaltação	nome feminino	su|pe|re|xal|ta|[ção]
+superexaltar	verbo	su|pe|re|xal|[tar]
+superexcelência	nome feminino	su|pe|rex|ce|[lên]|ci|a
+superexcelente	adjetivo	su|pe|rex|ce|[len]|te
+superexcitabilidade	nome feminino	su|pe|rex|ci|ta|bi|li|[da]|de
+superexcitação	nome feminino	su|pe|rex|ci|ta|[ção]
+superexcitante	adjetivo	su|pe|rex|ci|[tan]|te
+superexcitar	verbo	su|pe|rex|ci|[tar]
+superexcitável	adjetivo	su|pe|rex|ci|[tá]|vel
+superexcreção	nome feminino	su|pe|rex|cre|[ção]
+superexpor	verbo	su|pe|rex|[por]
+superexposição	nome feminino	su|pe|rex|po|si|[ção]
+superfetação	nome feminino	su|per|fe|ta|[ção]
+superfetar	verbo	su|per|fe|[tar]
+superficial	adjetivo	su|per|fi|ci|[al]
+superficial	nome masculino	su|per|fi|ci|[al]
+superficial	nome feminino	su|per|fi|ci|[al]
+superficialidade	nome feminino	su|per|fi|ci|a|li|[da]|de
+superficialismo	nome masculino	su|per|fi|ci|a|[lis]|mo
+superficialmente	advérbio	su|per|fi|ci|al|[men]|te
+superficiário	nome masculino	su|per|fi|ci|[á]|ri|o
+superfície	nome feminino	su|per|[fí]|ci|e
+superfino	adjetivo	su|per|[fi]|no
+superfluamente	advérbio	su|per|flu|a|[men]|te
+superfluidade	nome feminino	su|per|flu|i|[da]|de
+superfluido	nome masculino	su|per|[flu]|i|do
+supérfluo	adjetivo	su|[pér]|flu|o
+supérfluo	nome masculino	su|[pér]|flu|o
+superfortaleza	nome feminino	su|per|for|ta|[le]|za
+superfosfato	nome masculino	su|per|fos|[fa]|to
+superfrívolo	adjetivo	su|per|[frí]|vo|lo
+superfusão	nome feminino	su|per|fu|[são]
+supergaláxia	nome feminino	su|per|ga|[lá]|xi|a
+superimpregnação	nome feminino	su|pe|rim|preg|na|[ção]
+superinfeção	nome feminino	su|pe|rin|fe|[ção]
+superinfecção	nome feminino	su|pe|rin|fec|[ção]
+superintendência	nome feminino	su|pe|rin|ten|[dên]|ci|a
+superintendente	adjetivo	su|pe|rin|ten|[den]|te
+superintendente	nome masculino	su|pe|rin|ten|[den]|te
+superintendente	nome feminino	su|pe|rin|ten|[den]|te
+superintender	verbo	su|pe|rin|ten|[der]

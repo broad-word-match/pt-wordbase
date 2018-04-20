@@ -1,0 +1,100 @@
+pretensiosamente	advérbio	pre|ten|si|o|sa|[men]|te
+pretensiosismo	nome masculino	pre|ten|si|o|[sis]|mo
+pretensioso	adjetivo	pre|ten|si|[o]|so
+pretensioso	nome masculino	pre|ten|si|[o]|so
+pretenso	adjetivo	pre|[ten]|so
+pretensor	adjetivo	pre|ten|[sor]
+pretensor	nome masculino	pre|ten|[sor]
+preterência	nome feminino	pre|te|[rên]|ci|a
+preterição	nome feminino	pre|te|ri|[ção]
+preterido	adjetivo	pre|te|[ri]|do
+preterintencional	adjetivo	pre|te|rin|ten|ci|o|[nal]
+preterir	verbo	pre|te|[rir]
+preterital	adjetivo	pre|te|ri|[tal]
+pretérito	adjetivo	pre|[té]|ri|to
+pretérito	nome masculino	pre|[té]|ri|to
+pretérito-presente	nome masculino	pre|té|ri|to-pre|[sen]|te
+preterível	adjetivo	pre|te|[rí]|vel
+pretermissão	nome feminino	pre|ter|mis|[são]
+pretermitir	verbo	pre|ter|mi|[tir]
+preternatural	adjetivo	pre|ter|na|tu|[ral]
+preternaturalismo	nome masculino	pre|ter|na|tu|ra|[lis]|mo
+pretexta	nome feminino	pre|[tex]|ta
+pretextado	adjetivo	pre|tex|[ta]|do
+pretextar	verbo	pre|tex|[tar]
+pretexto	nome masculino	pre|[tex]|to
+pretidão	nome feminino	pre|ti|[dão]
+pretinha	nome feminino	pre|[ti]|nha
+pretinho	nome masculino	pre|[ti]|nho
+preto	nome masculino	[pre]|to
+preto	adjetivo	[pre]|to
+preto	advérbio	[pre]|to
+preto-azeviche	adjetivo	pre|to-a|ze|[vi]|che
+preto-azeviche	nome masculino	pre|to-a|ze|[vi]|che
+preto-e-branco	nome masculino	pre|to-e-bran|co
+preto-mina	nome masculino	pre|to-mi|na
+pretolim	nome masculino	pre|to|[lim]
+pretônico	adjetivo	pre|[tô]|ni|co
+pretónico	adjetivo	pre|[tó]|ni|co
+pretor	nome masculino	pre|[tor]
+pretoria	nome feminino	pre|to|[ri]|a
+pretoriana	nome feminino	pre|to|ri|[a]|na
+pretorianismo	nome masculino	pre|to|ri|a|[nis]|mo
+pretorianizar	verbo	pre|to|ri|a|ni|[zar]
+pretoriano	nome masculino	pre|to|ri|[a]|no
+pretoriano	adjetivo	pre|to|ri|[a]|no
+pretórico	adjetivo	pre|[tó]|ri|co
+pretório	nome masculino	pre|[tó]|ri|o
+pretoríolo	nome masculino	pre|to|[rí]|o|lo
+pretraçar	verbo	pre|tra|[çar]
+pretuciano	adjetivo	pre|tu|ci|[a]|no
+pretúcio	adjetivo	pre|[tú]|ci|o
+pretúcio	nome masculino	pre|[tú]|ci|o
+pretume	nome masculino	pre|[tu]|me
+pretura	nome feminino	pre|[tu]|ra
+prevalecente	adjetivo	pre|va|le|[cen]|te
+prevalecer	verbo	pre|va|le|[cer]
+prevalecimento	nome masculino	pre|va|le|ci|[men]|to
+prevalência	nome feminino	pre|va|[lên]|ci|a
+prevaricação	nome feminino	pre|va|ri|ca|[ção]
+prevaricador	adjetivo	pre|va|ri|ca|[dor]
+prevaricador	nome masculino	pre|va|ri|ca|[dor]
+prevaricadora	nome feminino	pre|va|ri|ca|[do]|ra
+prevaricar	verbo	pre|va|ri|[car]
+prevenção	nome feminino	pre|ven|[ção]
+prevenidamente	advérbio	pre|ve|ni|da|[men]|te
+prevenido	adjetivo	pre|ve|[ni]|do
+preveniente	adjetivo	pre|ve|ni|[en]|te
+prevenir	verbo	pre|ve|[nir]
+preventivamente	advérbio	pre|ven|ti|va|[men]|te
+preventivo	adjetivo	pre|ven|[ti]|vo
+preventivo	nome masculino	pre|ven|[ti]|vo
+preventor	adjetivo	pre|ven|[tor]
+preventor	nome masculino	pre|ven|[tor]
+preventório	nome masculino	pre|ven|[tó]|ri|o
+prever	verbo	pre|[ver]
+preverbial	adjetivo	pre|ver|bi|[al]
+prevérbio	nome masculino	pre|[vér]|bi|o
+previamente	advérbio	pre|vi|a|[men]|te
+previdência	nome feminino	pre|vi|[dên]|ci|a
+previdenciário	adjetivo	pre|vi|den|ci|[á]|ri|o
+previdente	adjetivo	pre|vi|[den]|te
+previdentemente	advérbio	pre|vi|den|te|[men]|te
+prévio	adjetivo	[pré]|vi|o
+previsão	nome feminino	pre|vi|[são]
+previsibilidade	nome feminino	pre|vi|si|bi|li|[da]|de
+previsional	adjetivo	pre|vi|si|o|[nal]
+previsível	adjetivo	pre|vi|[sí]|vel
+previsivelmente	advérbio	pre|vi|si|vel|[men]|te
+previso	nome masculino	pre|[vi]|so
+previsor	adjetivo	pre|vi|[sor]
+previstamente	advérbio	pre|vis|ta|[men]|te
+previsto	adjetivo	pre|[vis]|to
+previver	verbo	pre|vi|[ver]
+prez	nome masculino	[prez]
+prezado	adjetivo	pre|[za]|do
+prezador	adjetivo	pre|za|[dor]
+prezador	nome masculino	pre|za|[dor]
+prezar	verbo	pre|[zar]
+prezável	adjetivo	pre|[zá]|vel
+priaboniano	adjetivo	pri|a|bo|ni|[a]|no

@@ -1,0 +1,100 @@
+estufa	nome feminino	es|[tu]|fa
+estufadeira	nome feminino	es|tu|fa|[dei]|ra
+estufado	nome masculino	es|tu|[fa]|do
+estufado	adjetivo	es|tu|[fa]|do
+estufagem	nome feminino	es|tu|[fa]|gem
+estufar	verbo	es|tu|[far]
+estufeiro	nome masculino	es|tu|[fei]|ro
+estufilha	nome feminino	es|tu|[fi]|lha
+estufim	nome masculino	es|tu|[fim]
+estugar	verbo	es|tu|[gar]
+estultamente	advérbio	es|tul|ta|[men]|te
+estultice	nome feminino	es|tul|[ti]|ce
+estultícia	nome feminino	es|tul|[tí]|ci|a
+estultificação	nome feminino	es|tul|ti|fi|ca|[ção]
+estultificar	verbo	es|tul|ti|fi|[car]
+estultilóquio	nome masculino	es|tul|ti|[ló]|qui|o
+estulto	adjetivo	es|[tul]|to
+estumação	nome feminino	es|tu|ma|[ção]
+estumar	verbo	es|tu|[mar]
+estuo	nome masculino	es|[tu]|o
+estuoso	adjetivo	es|tu|[o]|so
+estupefação	nome feminino	es|tu|pe|fa|[ção]
+estupefacção	nome feminino	es|tu|pe|fac|[ção]
+estupefaciente	adjetivo	es|tu|pe|fa|ci|[en]|te
+estupefaciente	nome masculino	es|tu|pe|fa|ci|[en]|te
+estupefactivo	adjetivo	es|tu|pe|fac|[ti]|vo
+estupefactivo	nome masculino	es|tu|pe|fac|[ti]|vo
+estupefacto	adjetivo	es|tu|pe|[fac]|to
+estupefactor	adjetivo	es|tu|pe|fac|[tor]
+estupefativo	adjetivo	es|tu|pe|fa|[ti]|vo
+estupefativo	nome masculino	es|tu|pe|fa|[ti]|vo
+estupefato	adjetivo	es|tu|pe|[fa]|to
+estupefator	adjetivo	es|tu|pe|fa|[tor]
+estupefazer	verbo	es|tu|pe|fa|[zer]
+estupeficador	adjetivo	es|tu|pe|fi|ca|[dor]
+estupeficante	adjetivo	es|tu|pe|fi|[can]|te
+estupeficar	verbo	es|tu|pe|fi|[car]
+estupendamente	advérbio	es|tu|pen|da|[men]|te
+estupendo	adjetivo	es|tu|[pen]|do
+estúpida	nome feminino	es|[tú]|pi|da
+estupidamente	advérbio	es|tu|pi|da|[men]|te
+estupidar	verbo	es|tu|pi|[dar]
+estupidarrão	nome masculino	es|tu|pi|dar|[rão]
+estupidecer	verbo	es|tu|pi|de|[cer]
+estupidez	nome feminino	es|tu|pi|[dez]
+estupidificação	nome feminino	es|tu|pi|di|fi|ca|[ção]
+estupidificante	adjetivo	es|tu|pi|di|fi|[can]|te
+estupidificar	verbo	es|tu|pi|di|fi|[car]
+estúpido	adjetivo	es|[tú]|pi|do
+estúpido	nome masculino	es|[tú]|pi|do
+estupor	nome masculino	es|tu|[por]
+estuporação	nome feminino	es|tu|po|ra|[ção]
+estuporado	adjetivo	es|tu|po|[ra]|do
+estuporante	adjetivo	es|tu|po|[ran]|te
+estuporar	verbo	es|tu|po|[rar]
+estuporoso	adjetivo	es|tu|po|[ro]|so
+estuprar	verbo	es|tu|[prar]
+estupro	nome masculino	es|[tu]|pro
+estuque	nome masculino	es|[tu]|que
+estúrdia	nome feminino	es|[túr]|di|a
+esturdiamente	advérbio	es|tur|di|a|[men]|te
+esturdiar	verbo	es|tur|di|[ar]
+estúrdio	nome masculino	es|[túr]|di|o
+estúrdio	adjetivo	es|[túr]|di|o
+esturgião	nome masculino	es|tur|gi|[ão]
+esturião	nome masculino	es|tu|ri|[ão]
+estúrio	adjetivo	es|[tú]|ri|o
+estúrio	nome masculino	es|[tú]|ri|o
+esturiônio	nome masculino	es|tu|ri|[ô]|ni|o
+esturiónio	nome masculino	es|tu|ri|[ó]|ni|o
+esturjão	nome masculino	es|tur|[jão]
+estúrnida	nome masculino	es|[túr]|ni|da
+esturnídeo	nome masculino	es|tur|[ní]|de|o
+esturnídeo	adjetivo	es|tur|[ní]|de|o
+esturnino	adjetivo	es|tur|[ni]|no
+esturnino	nome masculino	es|tur|[ni]|no
+esturrada	nome feminino	es|tur|[ra]|da
+esturrado	adjetivo	es|tur|[ra]|do
+esturrado	nome masculino	es|tur|[ra]|do
+esturrar	verbo	es|tur|[rar]
+esturricamento	nome masculino	es|tur|ri|ca|[men]|to
+esturricar	verbo	es|tur|ri|[car]
+esturrice	nome feminino	es|tur|[ri]|ce
+esturrinho	nome masculino	es|tur|[ri]|nho
+esturro	nome masculino	es|[tur]|ro
+esturvinhado	adjetivo	es|tur|vi|[nha]|do
+esubiano	adjetivo	e|su|bi|[a]|no
+esubiano	nome masculino	e|su|bi|[a]|no
+esúbio	adjetivo	e|[sú]|bi|o
+esúbio	nome masculino	e|[sú]|bi|o
+ésula	nome feminino	[é]|su|la
+esurino	adjetivo	e|su|[ri]|no
+esvaecer	verbo	es|va|e|[cer]
+esvaecimento	nome masculino	es|va|e|ci|[men]|to
+esvaente	adjetivo	es|va|[en]|te
+esvaimento	nome masculino	es|vai|[men]|to
+esvair	verbo	es|va|[ir]
+esvairado	adjetivo	es|vai|[ra]|do
+esvairado	nome masculino	es|vai|[ra]|do
+esvaível	adjetivo	es|va|[í]|vel

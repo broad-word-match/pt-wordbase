@@ -1,0 +1,100 @@
+flutígeno	adjetivo	flu|[tí]|ge|no
+flutígero	adjetivo	flu|[tí]|ge|ro
+flutissonante	adjetivo	flu|tis|so|[nan]|te
+flutíssono	adjetivo	flu|[tís]|so|no
+flutívago	adjetivo	flu|[tí]|va|go
+flutter	nome masculino	[flut]|ter
+flutuabilidade	nome feminino	flu|tu|a|bi|li|[da]|de
+flutuação	nome feminino	flu|tu|a|[ção]
+flutuador	adjetivo	flu|tu|a|[dor]
+flutuador	nome masculino	flu|tu|a|[dor]
+flutuante	adjetivo	flu|tu|[an]|te
+flutuar	verbo	flu|tu|[ar]
+flutuável	adjetivo	flu|tu|[á]|vel
+flutuosidade	nome feminino	flu|tu|o|si|[da]|de
+flutuoso	adjetivo	flu|tu|[o]|so
+fluvial	adjetivo	flu|vi|[al]
+fluviátil	adjetivo	flu|vi|[á]|til
+fluvícola	adjetivo	flu|[ví]|co|la
+fluvioglaciário	adjetivo	flu|vi|o|gla|ci|[á]|ri|o
+fluviomaré	nome feminino	flu|vi|o|ma|[ré]
+fluviométrico	adjetivo	flu|vi|o|[mé]|tri|co
+fluviômetro	nome masculino	flu|vi|[ô]|me|tro
+fluviómetro	nome masculino	flu|vi|[ó]|me|tro
+flux	nome masculino	[flux]
+fluxão	nome feminino	flu|[xão]
+fluxibilidade	nome feminino	flu|xi|bi|li|[da]|de
+fluxímetro	nome masculino	flu|[xí]|me|tro
+fluxionário	adjetivo	flu|xi|o|[ná]|ri|o
+fluxível	adjetivo	flu|[xí]|vel
+fluxo	nome masculino	[flu]|xo
+fluxo	adjetivo	[flu]|xo
+fluxograma	nome masculino	flu|xo|[gra]|ma
+fluxometria	nome feminino	flu|xo|me|[tri]|a
+fluxômetro	nome masculino	flu|[xô]|me|tro
+fluxómetro	nome masculino	flu|[xó]|me|tro
+fó	interjeição	[fó]
+fob	nome masculino	[fob]
+foba	nome masculino	[fo]|ba
+foba	adjetivo	[fo]|ba
+foba	nome feminino	[fo]|ba
+fobar	verbo	fo|[bar]
+fobia	nome feminino	fo|[bi]|a
+fóbico	adjetivo	[fó]|bi|co
+fóbico	nome masculino	[fó]|bi|co
+fobó	adjetivo	fo|[bó]
+fobó	nome masculino	fo|[bó]
+foboca	nome masculino	fo|[bo]|ca
+foboca	nome feminino	fo|[bo]|ca
+fobofobia	nome feminino	fo|bo|fo|[bi]|a
+fobofóbico	adjetivo	fo|bo|[fó]|bi|co
+fobófobo	nome masculino	fo|[bó]|fo|bo
+foca	nome feminino	[fo]|ca
+foca	nome masculino	[fo]|ca
+focagem	nome feminino	fo|[ca]|gem
+focal	adjetivo	fo|[cal]
+focalização	nome feminino	fo|ca|li|za|[ção]
+focalizar	verbo	fo|ca|li|[zar]
+focalizável	adjetivo	fo|ca|li|[zá]|vel
+foção	adjetivo	fo|[ção]
+foção	nome masculino	fo|[ção]
+foçar	verbo	fo|[çar]
+focar	verbo	fo|[car]
+foceense	adjetivo	fo|ce|[en]|se
+foceense	nome masculino	fo|ce|[en]|se
+foceense	nome feminino	fo|ce|[en]|se
+focena	nome feminino	fo|[ce]|na
+focenato	nome masculino	fo|ce|[na]|to
+focénico	adjetivo	fo|[cé]|ni|co
+focênico	adjetivo	fo|[cê]|ni|co
+focenina	nome feminino	fo|ce|[ni]|na
+focense	adjetivo	fo|[cen]|se
+focense	nome masculino	fo|[cen]|se
+focense	nome feminino	fo|[cen]|se
+foceu	adjetivo	fo|[ceu]
+foceu	nome masculino	fo|[ceu]
+fócico	adjetivo	[fó]|ci|co
+fócico	nome masculino	[fó]|ci|co
+fócida	nome masculino	[fó]|ci|da
+focídeo	nome masculino	fo|[cí]|de|o
+focídeo	adjetivo	fo|[cí]|de|o
+focinhada	nome feminino	fo|ci|[nha]|da
+focinhante	adjetivo	fo|ci|[nhan]|te
+focinhar	verbo	fo|ci|[nhar]
+focinheira	nome feminino	fo|ci|[nhei]|ra
+focinho	nome masculino	fo|[ci]|nho
+focinho de tenca	nome masculino	fo|[ci]|nho de ten|ca
+focinho-de-burro	nome masculino	fo|ci|nho-de-bur|ro
+focinho-de-porco	nome masculino	fo|ci|nho-de-por|co
+focinhudo	adjetivo	fo|ci|[nhu]|do
+fócio	nome masculino	[fó]|ci|o
+fócio	adjetivo	[fó]|ci|o
+foco	nome masculino	[fo]|co
+focomelia	nome feminino	fo|co|me|[li]|a
+focómelo	adjetivo	fo|[có]|me|lo
+focómelo	nome masculino	fo|[có]|me|lo
+focômelo	adjetivo	fo|[cô]|me|lo
+focômelo	nome masculino	fo|[cô]|me|lo
+focometria	nome feminino	fo|co|me|[tri]|a
+focométrico	adjetivo	fo|co|[mé]|tri|co
+focómetro	nome masculino	fo|[có]|me|tro

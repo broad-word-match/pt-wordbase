@@ -1,0 +1,100 @@
+gime	nome masculino	[gi]|me
+gimnandro	adjetivo	gim|[nan]|dro
+gimnanto	adjetivo	gim|[nan]|to
+gimnáscea	nome feminino	gim|[nás]|ce|a
+gimnasiarca	nome masculino	gim|na|si|[ar]|ca
+gimnasiarco	nome masculino	gim|na|si|[ar]|co
+gimnésio	adjetivo	gim|[né]|si|o
+gimnésio	nome masculino	gim|[né]|si|o
+gimneta	nome masculino	gim|[ne]|ta
+gimnete	adjetivo	gim|[ne]|te
+gimnete	nome masculino	gim|[ne]|te
+gimnete	nome feminino	gim|[ne]|te
+gímnico	adjetivo	[gím]|ni|co
+gimnoblasto	adjetivo	gim|no|[blas]|to
+gimnocarpo	adjetivo	gim|no|[car]|po
+gimnocaule	adjetivo	gim|no|[cau]|le
+gimnocéfalo	adjetivo	gim|no|[cé]|fa|lo
+gimnóclado	nome masculino	gim|[nó]|cla|do
+gimnodáctilo	nome masculino	gim|no|[dác]|ti|lo
+gimnodermo	adjetivo	gim|no|[der]|mo
+gimnodesportivo	adjetivo	gim|no|des|por|[ti]|vo
+gimnodonte	adjetivo	gim|no|[don]|te
+gimnofídio	adjetivo	gim|no|[fí]|di|o
+gimnofiónio	nome masculino	gim|no|fi|[ó]|ni|o
+gimnofiónio	adjetivo	gim|no|fi|[ó]|ni|o
+gimnofobia	nome feminino	gim|no|fo|[bi]|a
+gimnógino	adjetivo	gim|[nó]|gi|no
+gimnogonfo	nome masculino	gim|no|[gon]|fo
+gimnograma	nome masculino	gim|no|[gra]|ma
+gimnonoto	nome masculino	gim|no|[no]|to
+gimnópode	adjetivo	gim|[nó]|po|de
+gimnopomo	adjetivo	gim|no|[po]|mo
+gimnóptero	adjetivo	gim|[nóp]|te|ro
+gimnorrinco	nome masculino	gim|nor|[rin]|co
+gimnorrino	nome masculino	gim|nor|[ri]|no
+gimnosofia	nome feminino	gim|no|so|[fi]|a
+gimnosofismo	nome masculino	gim|no|so|[fis]|mo
+gimnosofista	adjetivo	gim|no|so|[fis]|ta
+gimnosofista	nome masculino	gim|no|so|[fis]|ta
+gimnosperma	nome feminino	gim|nos|[per]|ma
+gimnospermia	nome feminino	gim|nos|per|[mi]|a
+gimnospérmica	nome feminino	gim|nos|[pér]|mi|ca
+gimnospérmico	adjetivo	gim|nos|[pér]|mi|co
+gimnospermo	adjetivo	gim|nos|[per]|mo
+gimnospermo	nome masculino	gim|nos|[per]|mo
+gimnosporado	adjetivo	gim|nos|po|[ra]|do
+gimnósporo	adjetivo	gim|[nós]|po|ro
+gimnossomo	adjetivo	gim|nos|[so]|mo
+gimnostilo	adjetivo	gim|nos|[ti]|lo
+gimnóstomo	adjetivo	gim|[nós]|to|mo
+gimnotetraspermo	adjetivo	gim|no|te|tras|[per]|mo
+gimnótida	nome masculino	gim|[nó]|ti|da
+gimnotídeo	nome masculino	gim|no|[tí]|de|o
+gimnotídeo	adjetivo	gim|no|[tí]|de|o
+gimnoto	nome masculino	gim|[no]|to
+gimnuro	nome masculino	gim|[nu]|ro
+gimnuro	adjetivo	gim|[nu]|ro
+gin	nome masculino	[gin]
+ginandria	nome feminino	gi|nan|[dri]|a
+ginandrismo	nome masculino	gi|nan|[dris]|mo
+ginandro	adjetivo	gi|[nan]|dro
+ginandromorfismo	nome masculino	gi|nan|dro|mor|[fis]|mo
+ginandromorfo	adjetivo	gi|nan|dro|[mor]|fo
+ginantropia	nome feminino	gi|nan|tro|[pi]|a
+ginantropo	nome masculino	gi|nan|[tro]|po
+ginarca	nome feminino	gi|[nar]|ca
+ginarquia	nome feminino	gi|nar|[qui]|a
+ginasial	adjetivo	gi|na|si|[al]
+ginasiano	adjetivo	gi|na|si|[a]|no
+ginasiano	nome masculino	gi|na|si|[a]|no
+ginasiarca	nome masculino	gi|na|si|[ar]|ca
+ginasiarquia	nome feminino	gi|na|si|ar|[qui]|a
+ginásio	nome masculino	gi|[ná]|si|o
+ginasta	nome masculino	gi|[nas]|ta
+ginasta	nome feminino	gi|[nas]|ta
+ginástica	nome feminino	gi|[nás]|ti|ca
+ginasticado	adjetivo	gi|nas|ti|[ca]|do
+ginasticamente	advérbio	gi|nas|ti|ca|[men]|te
+ginástico	adjetivo	gi|[nás]|ti|co
+gincana	nome feminino	gin|[ca]|na
+gindareno	adjetivo	gin|da|[re]|no
+gindareno	nome masculino	gin|da|[re]|no
+gindungo	nome masculino	gin|[dun]|go
+gineceu	nome masculino	gi|ne|[ceu]
+ginecocracia	nome feminino	gi|ne|co|cra|[ci]|a
+ginecocrata	nome masculino	gi|ne|co|[cra]|ta
+ginecocrata	nome feminino	gi|ne|co|[cra]|ta
+ginecocrático	adjetivo	gi|ne|co|[crá]|ti|co
+ginecófoba	nome feminino	gi|ne|[có]|fo|ba
+ginecofobia	nome feminino	gi|ne|co|fo|[bi]|a
+ginecófobo	nome masculino	gi|ne|[có]|fo|bo
+ginecografia	nome feminino	gi|ne|co|gra|[fi]|a
+ginecográfico	adjetivo	gi|ne|co|[grá]|fi|co
+ginecógrafo	nome masculino	gi|ne|[có]|gra|fo
+ginecóloga	nome feminino	gi|ne|[có]|lo|ga
+ginecologia	nome feminino	gi|ne|co|lo|[gi]|a
+ginecológico	adjetivo	gi|ne|co|[ló]|gi|co
+ginecologista	nome masculino	gi|ne|co|lo|[gis]|ta
+ginecologista	nome feminino	gi|ne|co|lo|[gis]|ta
+ginecólogo	nome masculino	gi|ne|[có]|lo|go

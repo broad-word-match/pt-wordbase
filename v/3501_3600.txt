@@ -1,0 +1,100 @@
+vitífero	adjetivo	vi|[tí]|fe|ro
+vitiligem	nome feminino	vi|ti|[li]|gem
+vitiligo	nome masculino	vi|ti|[li]|go
+vítima	nome feminino	[ví]|ti|ma
+vitimador	nome masculino	vi|ti|ma|[dor]
+vitimar	verbo	vi|ti|[mar]
+vitimário	nome masculino	vi|ti|[má]|ri|o
+vitimário	adjetivo	vi|ti|[má]|ri|o
+vitimização	nome feminino	vi|ti|mi|za|[ção]
+vitimizar	verbo	vi|ti|mi|[zar]
+vitinga	nome feminino	vi|[tin]|ga
+vitivinícola	adjetivo	vi|ti|vi|[ní]|co|la
+vitivinicultor	nome masculino	vi|ti|vi|ni|cul|[tor]
+vitivinicultor	adjetivo	vi|ti|vi|ni|cul|[tor]
+vitivinicultora	nome feminino	vi|ti|vi|ni|cul|[to]|ra
+vitivinicultura	nome feminino	vi|ti|vi|ni|cul|[tu]|ra
+vito	nome masculino	[vi]|to
+vítor	interjeição	[ví]|tor
+vítor-huguesco	adjetivo	ví|tor-hu|[gues]|co
+vitória	nome feminino	vi|[tó]|ri|a
+vitória-régia	nome feminino	vi|tó|ri|a-ré|gi|a
+vitoriana	nome feminino	vi|to|ri|[a]|na
+vitorianismo	nome masculino	vi|to|ri|a|[nis]|mo
+vitoriano	adjetivo	vi|to|ri|[a]|no
+vitoriano	nome masculino	vi|to|ri|[a]|no
+vitoriar	verbo	vi|to|ri|[ar]
+vitoriense	adjetivo	vi|to|ri|[en]|se
+vitoriense	nome masculino	vi|to|ri|[en]|se
+vitoriense	nome feminino	vi|to|ri|[en]|se
+vitoriosa	nome feminino	vi|to|ri|[o]|sa
+vitoriosamente	advérbio	vi|to|ri|o|sa|[men]|te
+vitorioso	adjetivo	vi|to|ri|[o]|so
+vitorioso	nome masculino	vi|to|ri|[o]|so
+vitral	nome masculino	vi|[tral]
+vitraleiro	nome masculino	vi|tra|[lei]|ro
+vitralista	nome masculino	vi|tra|[lis]|ta
+vitralista	nome feminino	vi|tra|[lis]|ta
+vitralizar	verbo	vi|tra|li|[zar]
+vitre	nome masculino	[vi]|tre
+vítreo	adjetivo	[ví]|tre|o
+vitrescibilidade	nome feminino	vi|tres|ci|bi|li|[da]|de
+vitrescível	adjetivo	vi|tres|[cí]|vel
+vítrice	adjetivo	[ví]|tri|ce
+vítrice	nome feminino	[ví]|tri|ce
+vitrificabilidade	nome feminino	vi|tri|fi|ca|bi|li|[da]|de
+vitrificação	nome feminino	vi|tri|fi|ca|[ção]
+vitrificador	adjetivo	vi|tri|fi|ca|[dor]
+vitrificar	verbo	vi|tri|fi|[car]
+vitrificável	adjetivo	vi|tri|fi|[cá]|vel
+vitrina	nome feminino	vi|[tri]|na
+vitrinário	nome masculino	vi|tri|[ná]|ri|o
+vitrine	nome feminino	vi|[tri]|ne
+vitrinista	adjetivo	vi|tri|[nis]|ta
+vitrinista	nome masculino	vi|tri|[nis]|ta
+vitrinista	nome feminino	vi|tri|[nis]|ta
+vitríola	nome feminino	vi|[trí]|o|la
+vitriolado	adjetivo	vi|tri|o|[la]|do
+vitriolado	nome masculino	vi|tri|o|[la]|do
+vitriolar	verbo	vi|tri|o|[lar]
+vitriólico	adjetivo	vi|tri|[ó]|li|co
+vitriolização	nome feminino	vi|tri|o|li|za|[ção]
+vitriolizar	verbo	vi|tri|o|li|[zar]
+vitríolo	nome masculino	vi|[trí]|o|lo
+vitripene	adjetivo	vi|tri|[pe]|ne
+vitrola	nome feminino	vi|[tro]|la
+vitrola	nome masculino	vi|[tro]|la
+vitrometálico	adjetivo	vi|tro|me|[tá]|li|co
+vitroporfírico	adjetivo	vi|tro|por|[fí]|ri|co
+vitropórfiro	nome masculino	vi|tro|[pór]|fi|ro
+vittadínia	nome feminino	vit|ta|[dí]|ni|a
+vitu	nome masculino	vi|[tu]
+vitualha	nome feminino	vi|tu|[a]|lha
+vitualhar	verbo	vi|tu|a|[lhar]
+vitualhas	nome feminino	vi|tu|[a]|lhas
+vitular	adjetivo	vi|tu|[lar]
+vitulária	adjetivo	vi|tu|[lá]|ri|a
+vitulária	nome feminino	vi|tu|[lá]|ri|a
+vítulo	nome masculino	[ví]|tu|lo
+vituperação	nome feminino	vi|tu|pe|ra|[ção]
+vituperador	adjetivo	vi|tu|pe|ra|[dor]
+vituperador	nome masculino	vi|tu|pe|ra|[dor]
+vituperadora	nome feminino	vi|tu|pe|ra|[do]|ra
+vituperar	verbo	vi|tu|pe|[rar]
+vituperativo	adjetivo	vi|tu|pe|ra|[ti]|vo
+vituperável	adjetivo	vi|tu|pe|[rá]|vel
+vitupério	nome masculino	vi|tu|[pé]|ri|o
+vituperiosamente	advérbio	vi|tu|pe|ri|o|sa|[men]|te
+vituperioso	adjetivo	vi|tu|pe|ri|[o]|so
+vituperosamente	advérbio	vi|tu|pe|ro|sa|[men]|te
+vituperoso	adjetivo	vi|tu|pe|[ro]|so
+viúva	nome feminino	vi|[ú]|va
+viúva-alegre	nome feminino	vi|ú|va-a|[le]|gre
+viuvada	nome feminino	viu|[va]|da
+viuval	adjetivo	viu|[val]
+viuvar	verbo	viu|[var]
+viuvez	nome feminino	viu|[vez]
+viuveza	nome feminino	viu|[ve]|za
+viuvidade	nome feminino	viu|vi|[da]|de
+viuvinha	nome feminino	viu|[vi]|nha
+viúvo	adjetivo	vi|[ú]|vo

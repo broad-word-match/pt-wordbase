@@ -1,0 +1,100 @@
+luminescência	nome feminino	lu|mi|nes|[cên]|ci|a
+luminescente	adjetivo	lu|mi|nes|[cen]|te
+luminífero	adjetivo	lu|mi|[ní]|fe|ro
+luminímetro	nome masculino	lu|mi|[ní]|me|tro
+luminismo	nome masculino	lu|mi|[nis]|mo
+luminista	nome masculino	lu|mi|[nis]|ta
+luminista	nome feminino	lu|mi|[nis]|ta
+luminosamente	advérbio	lu|mi|no|sa|[men]|te
+luminosidade	nome feminino	lu|mi|no|si|[da]|de
+luminoso	adjetivo	lu|mi|[no]|so
+luminotecnia	nome feminino	lu|mi|no|tec|[ni]|a
+luminotécnico	adjetivo	lu|mi|no|[téc]|ni|co
+luminotécnico	nome masculino	lu|mi|no|[téc]|ni|co
+luminoterapia	nome feminino	lu|mi|no|te|ra|[pi]|a
+lumioso	adjetivo	lu|mi|[o]|so
+lumpemproletariado	nome masculino	lum|pem|pro|le|ta|ri|[a]|do
+lumpemproletário	adjetivo	lum|pem|pro|le|[tá]|ri|o
+lumpemproletário	nome masculino	lum|pem|pro|le|[tá]|ri|o
+lúmpen	nome masculino	[lúm]|pen
+lunação	nome feminino	lu|na|[ção]
+lunado	adjetivo	lu|[na]|do
+lunanco	adjetivo	lu|[nan]|co
+lunanquear	verbo	lu|nan|que|[ar]
+lunar	nome masculino	lu|[nar]
+lunar	adjetivo	lu|[nar]
+lunarejo	adjetivo	lu|na|[re]|jo
+lunária	nome feminino	lu|[ná]|ri|a
+lunário	nome masculino	lu|[ná]|ri|o
+lunática	nome feminino	lu|[ná]|ti|ca
+lunaticamente	advérbio	lu|na|ti|ca|[men]|te
+lunático	adjetivo	lu|[ná]|ti|co
+lunático	nome masculino	lu|[ná]|ti|co
+lunatismo	nome masculino	lu|na|[tis]|mo
+luncumbe	adjetivo	lun|[cum]|be
+luncumbe	nome masculino	lun|[cum]|be
+lunda	nome feminino	[lun]|da
+lunda	nome masculino	[lun]|da
+lunda-quioco	adjetivo	lun|da-qui|[o]|co
+lunda-quioco	nome masculino	lun|da-qui|[o]|co
+lunda-quioco	nome feminino	lun|da-qui|[o]|co
+lundense	adjetivo	lun|[den]|se
+lundense	nome masculino	lun|[den]|se
+lundense	nome feminino	lun|[den]|se
+lundês	adjetivo	lun|[dês]
+lundês	nome masculino	lun|[dês]
+lundesa	nome feminino	lun|[de]|sa
+lundu	nome masculino	lun|[du]
+lundum	nome masculino	lun|[dum]
+lunduzeiro	adjetivo	lun|du|[zei]|ro
+luneburguês	adjetivo	lu|ne|bur|[guês]
+luneburguês	nome masculino	lu|ne|bur|[guês]
+luneta	nome feminino	lu|[ne]|ta
+lunetaria	nome feminino	lu|ne|ta|[ri]|a
+lunetas	nome feminino	lu|[ne]|tas
+lunfardo	nome masculino	lun|[far]|do
+lunga	nome feminino	[lun]|ga
+lunguiê	nome masculino	lun|gui|[ê]
+lunguié	nome masculino	lun|gui|[é]
+lungular	verbo	lun|gu|[lar]
+lungungua	nome feminino	lun|[gun]|gua
+lunhaneca	adjetivo	lu|nha|[ne]|ca
+lunhaneca	nome masculino	lu|nha|[ne]|ca
+lunianeca	nome masculino	lu|ni|a|[ne]|ca
+lunianeca	adjetivo	lu|ni|a|[ne]|ca
+lunícola	adjetivo	lu|[ní]|co|la
+lunícola	nome masculino	lu|[ní]|co|la
+lunícola	nome feminino	lu|[ní]|co|la
+luniforme	adjetivo	lu|ni|[for]|me
+lunissolar	adjetivo	lu|nis|so|[lar]
+lunnite	nome feminino	lun|[ni]|te
+lúnula	nome feminino	[lú]|nu|la
+lunulado	adjetivo	lu|nu|[la]|do
+lunular	adjetivo	lu|nu|[lar]
+lunulite	nome feminino	lu|nu|[li]|te
+lupa	nome feminino	[lu]|pa
+lupaça	nome feminino	lu|[pa]|ça
+lupada	nome feminino	lu|[pa]|da
+lupamba	nome feminino	lu|[pam]|ba
+lupanar	nome masculino	lu|pa|[nar]
+lupanário	adjetivo	lu|pa|[ná]|ri|o
+lupanga	nome feminino	lu|[pan]|ga
+lúparo	nome masculino	[lú]|pa|ro
+lupênio	adjetivo	lu|[pê]|ni|o
+lupênio	nome masculino	lu|[pê]|ni|o
+lupénio	adjetivo	lu|[pé]|ni|o
+lupénio	nome masculino	lu|[pé]|ni|o
+luperco	nome masculino	lu|[per]|co
+lúpia	nome feminino	[lú]|pi|a
+lupinastro	nome masculino	lu|pi|[nas]|tro
+lupínico	adjetivo	lu|[pí]|ni|co
+lupinina	nome feminino	lu|pi|[ni]|na
+lupino	adjetivo	lu|[pi]|no
+lupino	nome masculino	lu|[pi]|no
+lupinose	nome feminino	lu|pi|[no]|se
+lupinotoxina	nome feminino	lu|pi|no|to|[xi]|na
+lupo	nome masculino	[lu]|po
+luposo	adjetivo	lu|[po]|so
+lupuié	nome masculino	lu|pui|[é]
+lupulina	nome feminino	lu|pu|[li]|na
+lúpulo	nome masculino	[lú]|pu|lo

@@ -1,0 +1,100 @@
+ovnilogia	nome feminino	ov|ni|lo|[gi]|a
+ovnilógico	adjetivo	ov|ni|[ló]|gi|co
+ovnilogista	nome masculino	ov|ni|lo|[gis]|ta
+ovnilogista	nome feminino	ov|ni|lo|[gis]|ta
+ovniologia	nome feminino	ov|ni|o|lo|[gi]|a
+ovniologista	nome masculino	ov|ni|o|lo|[gis]|ta
+ovo	nome masculino	[o]|vo
+ovo-de-avestruz	nome masculino	o|vo-de-a|ves|[truz]
+ovoblasto	nome masculino	o|vo|[blas]|to
+ovócito	nome masculino	o|[vó]|ci|to
+ovofagia	nome feminino	o|vo|fa|[gi]|a
+ovogênese	nome feminino	o|vo|[gê]|ne|se
+ovogénese	nome feminino	o|vo|[gé]|ne|se
+ovogenético	adjetivo	o|vo|ge|[né]|ti|co
+ovogenia	nome feminino	o|vo|ge|[ni]|a
+ovogénico	adjetivo	o|vo|[gé]|ni|co
+ovogênico	adjetivo	o|vo|[gê]|ni|co
+ovogónia	nome feminino	o|vo|[gó]|ni|a
+ovogónio	nome masculino	o|vo|[gó]|ni|o
+ovogônio	nome masculino	o|vo|[gô]|ni|o
+ovoide	adjetivo	o|[voi]|de
+ovoide	nome feminino	o|[voi]|de
+ovologia	nome feminino	o|vo|lo|[gi]|a
+ovológico	adjetivo	o|vo|[ló]|gi|co
+ovos-moles	nome masculino	o|vos-mo|les
+ovoscopia	nome feminino	o|vos|co|[pi]|a
+ovoscópico	adjetivo	o|vos|[có]|pi|co
+ovoscópio	nome masculino	o|vos|[có]|pi|o
+ovovíparo	adjetivo	o|vo|[ví]|pa|ro
+ovoviviparidade	nome feminino	o|vo|vi|vi|pa|ri|[da]|de
+ovovivíparo	adjetivo	o|vo|vi|[ví]|pa|ro
+ovovivíparo	nome masculino	o|vo|vi|[ví]|pa|ro
+ovulação	nome feminino	o|vu|la|[ção]
+ovulado	adjetivo	o|vu|[la]|do
+ovulante	adjetivo	o|vu|[lan]|te
+ovulante	nome masculino	o|vu|[lan]|te
+ovulante	nome feminino	o|vu|[lan]|te
+ovular	verbo	o|vu|[lar]
+ovular	adjetivo	o|vu|[lar]
+ovulífero	adjetivo	o|vu|[lí]|fe|ro
+ovuliforme	adjetivo	o|vu|li|[for]|me
+ovulígero	adjetivo	o|vu|[lí]|ge|ro
+óvulo	nome masculino	[ó]|vu|lo
+ovulogénese	nome feminino	o|vu|lo|[gé]|ne|se
+ovulogênese	nome feminino	o|vu|lo|[gê]|ne|se
+owenismo	nome masculino	o|we|[nis]|mo
+owenista	adjetivo	o|we|[nis]|ta
+owenista	nome masculino	o|we|[nis]|ta
+owenista	nome feminino	o|we|[nis]|ta
+oxácido	nome masculino	o|[xá]|ci|do
+oxalá	interjeição	o|xa|[lá]
+oxalato	nome masculino	o|xa|[la]|to
+oxálico	adjetivo	o|[xá]|li|co
+oxálida	nome feminino	o|[xá]|li|da
+oxalidácea	nome feminino	o|xa|li|[dá]|ce|a
+oxalidáceo	adjetivo	o|xa|li|[dá]|ce|o
+oxálide	nome feminino	o|[xá]|li|de
+oxalídrico	adjetivo	o|xa|[lí]|dri|co
+oxalífero	adjetivo	o|xa|[lí]|fe|ro
+oxalma	nome feminino	o|[xal]|ma
+oxalovinato	nome masculino	o|xa|lo|vi|[na]|to
+oxalovínico	adjetivo	o|xa|lo|[ví]|ni|co
+oxaluria	nome feminino	o|xa|lu|[ri]|a
+oxalúria	nome feminino	o|xa|[lú]|ri|a
+oxalúrico	adjetivo	o|xa|[lú]|ri|co
+oxamato	nome masculino	o|xa|[ma]|to
+oxametana	nome feminino	o|xa|me|[ta]|na
+oxametilana	nome feminino	o|xa|me|ti|[la]|na
+oxâmico	adjetivo	o|[xâ]|mi|co
+oxamido	nome masculino	o|xa|[mi]|do
+oxarite	nome feminino	o|xa|[ri]|te
+oxedorredutase	nome feminino	o|xe|dor|re|du|[ta]|se
+oxente	interjeição	o|[xen]|te
+oxeol	nome masculino	o|xe|[ol]
+oxeolato	nome masculino	o|xe|o|[la]|to
+oxeóleo	nome masculino	o|xe|[ó]|le|o
+oxeu	nome masculino	o|[xeu]
+oxfordiano	adjetivo	ox|for|di|[a]|no
+oxfordiano	nome masculino	ox|for|di|[a]|no
+oxiacetilénico	adjetivo	o|xi|a|ce|ti|[lé]|ni|co
+oxiacetilênico	adjetivo	o|xi|a|ce|ti|[lê]|ni|co
+oxiácido	nome masculino	o|xi|[á]|ci|do
+oxiantera	nome feminino	o|xi|an|[te]|ra
+oxianto	nome masculino	o|xi|[an]|to
+oxíbafo	nome masculino	o|[xí]|ba|fo
+oxíbase	nome feminino	o|[xí]|ba|se
+oxibásico	adjetivo	o|xi|[bá]|si|co
+oxibrácteo	adjetivo	o|xi|[brác]|te|o
+oxibrometo	nome masculino	o|xi|bro|[me]|to
+oxibutirato	nome masculino	o|xi|bu|ti|[ra]|to
+oxibutírico	adjetivo	o|xi|bu|[tí]|ri|co
+oxicarbônico	adjetivo	o|xi|car|[bô]|ni|co
+oxicarbónico	adjetivo	o|xi|car|[bó]|ni|co
+oxícedro	nome masculino	o|[xí]|ce|dro
+oxicéfala	nome feminino	o|xi|[cé]|fa|la
+oxicefalia	nome feminino	o|xi|ce|fa|[li]|a
+oxicéfalo	adjetivo	o|xi|[cé]|fa|lo
+oxicéfalo	nome masculino	o|xi|[cé]|fa|lo
+oxícera	nome feminino	o|[xí]|ce|ra
+oxiclorato	nome masculino	o|xi|clo|[ra]|to

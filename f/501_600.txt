@@ -1,0 +1,100 @@
+falir	verbo	fa|[lir]
+falisca	nome feminino	fa|[lis]|ca
+falisco	adjetivo	fa|[lis]|co
+falisco	nome masculino	fa|[lis]|co
+falite	nome feminino	fa|[li]|te
+falível	adjetivo	fa|[lí]|vel
+falivelmente	advérbio	fa|li|vel|[men]|te
+falmega	nome feminino	fal|[me]|ga
+falo	nome masculino	[fa]|lo
+faloa	nome feminino	fa|[lo]|a
+falocar	verbo	fa|lo|[car]
+falocêntrico	adjetivo	fa|lo|[cên]|tri|co
+falocentrismo	nome masculino	fa|lo|cen|[tris]|mo
+falocracia	nome feminino	fa|lo|cra|[ci]|a
+falocrata	adjetivo	fa|lo|[cra]|ta
+falocrata	nome masculino	fa|lo|[cra]|ta
+falocrata	nome feminino	fa|lo|[cra]|ta
+falocrático	adjetivo	fa|lo|[crá]|ti|co
+falodinia	nome feminino	fa|lo|di|[ni]|a
+falóforo	nome masculino	fa|[ló]|fo|ro
+faloide	nome masculino	fa|[loi]|de
+faloplastia	nome feminino	fa|lo|plas|[ti]|a
+falorragia	nome feminino	fa|lor|ra|[gi]|a
+falorrágico	adjetivo	fa|lor|[rá]|gi|co
+falperra	nome feminino	fal|[per]|ra
+falperrista	nome masculino	fal|per|[ris]|ta
+falpórria	nome masculino	fal|[pór]|ri|a
+falpórria	nome feminino	fal|[pór]|ri|a
+falporriar	verbo	fal|por|ri|[ar]
+falpórrias	nome masculino	fal|[pór]|ri|as
+falpórrias	nome feminino	fal|[pór]|ri|as
+falporrice	nome feminino	fal|por|[ri]|ce
+falqueador	nome masculino	fal|que|a|[dor]
+falqueadura	nome feminino	fal|que|a|[du]|ra
+falqueamento	nome masculino	fal|que|a|[men]|to
+falquear	verbo	fal|que|[ar]
+falquejador	nome masculino	fal|que|ja|[dor]
+falquejadura	nome feminino	fal|que|ja|[du]|ra
+falquejamento	nome masculino	fal|que|ja|[men]|to
+falquejar	verbo	fal|que|[jar]
+falquejo	nome masculino	fal|[que]|jo
+falqueta	nome feminino	fal|[que]|ta
+falquito	nome masculino	fal|[qui]|to
+falripa	nome feminino	fal|[ri]|pa
+falripas	nome feminino	fal|[ri]|pas
+falsa	nome feminino	[fal]|sa
+falsa-acácia	nome feminino	fal|sa-a|[cá]|ci|a
+falsa-braga	nome feminino	fal|sa-bra|ga
+falsa-quilha	nome feminino	fal|sa-qui|lha
+falsa-rédea	nome feminino	fal|sa-ré|de|a
+falsa-verónica	nome feminino	fal|sa-ve|[ró]|ni|ca
+falsa-verônica	nome feminino	fal|sa-ve|[rô]|ni|ca
+falsador	adjetivo	fal|sa|[dor]
+falsador	nome masculino	fal|sa|[dor]
+falsamente	advérbio	fal|sa|[men]|te
+falsar	verbo	fal|[sar]
+falsária	nome feminino	fal|[sá]|ri|a
+falsário	nome masculino	fal|[sá]|ri|o
+falseamento	nome masculino	fal|se|a|[men]|to
+falsear	verbo	fal|se|[ar]
+falseável	adjetivo	fal|se|[á]|vel
+falsete	nome masculino	fal|[se]|te
+falsetear	verbo	fal|se|te|[ar]
+falsia	nome feminino	fal|[si]|a
+falsidade	nome feminino	fal|si|[da]|de
+falsídia	nome feminino	fal|[sí]|di|a
+falsídico	adjetivo	fal|[sí]|di|co
+falsificabilidade	nome feminino	fal|si|fi|ca|bi|li|[da]|de
+falsificação	nome feminino	fal|si|fi|ca|[ção]
+falsificado	adjetivo	fal|si|fi|[ca]|do
+falsificador	adjetivo	fal|si|fi|ca|[dor]
+falsificador	nome masculino	fal|si|fi|ca|[dor]
+falsificadora	nome feminino	fal|si|fi|ca|[do]|ra
+falsificar	verbo	fal|si|fi|[car]
+falsificável	adjetivo	fal|si|fi|[cá]|vel
+falsífico	adjetivo	fal|[sí]|fi|co
+falsinérveo	adjetivo	fal|si|[nér]|ve|o
+falso	advérbio	[fal]|so
+falso	nome masculino	[fal]|so
+falso	adjetivo	[fal]|so
+falso-sicómoro	nome masculino	fal|so-si|[có]|mo|ro
+falso-sicômoro	nome masculino	fal|so-si|[cô]|mo|ro
+falsura	nome feminino	fal|[su]|ra
+falta	nome feminino	[fal]|ta
+faltar	verbo	fal|[tar]
+falto	adjetivo	[fal]|to
+faltosa	nome feminino	fal|[to]|sa
+faltoso	nome masculino	fal|[to]|so
+faltoso	adjetivo	fal|[to]|so
+falua	nome feminino	fa|[lu]|a
+faluca	nome feminino	fa|[lu]|ca
+falucho	nome masculino	fa|[lu]|cho
+falueiro	adjetivo	fa|lu|[ei]|ro
+falueiro	nome masculino	fa|lu|[ei]|ro
+fálum	nome masculino	[fá]|lum
+faluneira	nome feminino	fa|lu|[nei]|ra
+falunite	nome feminino	fa|lu|[ni]|te
+faluz	nome masculino	fa|[luz]
+falvalá	nome masculino	fal|va|[lá]
+fama	nome feminino	[fa]|ma

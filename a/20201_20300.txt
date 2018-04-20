@@ -1,0 +1,100 @@
+assistido	adjetivo	as|sis|[ti]|do
+assistimento	nome masculino	as|sis|ti|[men]|to
+assistir	verbo	as|sis|[tir]
+assistolia	nome feminino	as|sis|to|[li]|a
+assistólico	adjetivo	as|sis|[tó]|li|co
+assoa-queixos	nome masculino	as|so|a-quei|xos
+assoadela	nome feminino	as|so|a|[de]|la
+assoado	adjetivo	as|so|[a]|do
+assoado	nome masculino	as|so|[a]|do
+assoalhada	nome feminino	as|so|a|[lha]|da
+assoalhado	adjetivo	as|so|a|[lha]|do
+assoalhado	nome masculino	as|so|a|[lha]|do
+assoalhador	nome masculino	as|so|a|lha|[dor]
+assoalhadura	nome feminino	as|so|a|lha|[du]|ra
+assoalhamento	nome masculino	as|so|a|lha|[men]|to
+assoalhar	verbo	as|so|a|[lhar]
+assoalho	nome masculino	as|so|[a]|lho
+assoante	adjetivo	as|so|[an]|te
+assoar	verbo	as|so|[ar]
+assobacado	adjetivo	as|so|ba|[ca]|do
+assobarcar	verbo	as|so|bar|[car]
+assobear	verbo	as|so|be|[ar]
+assoberbado	adjetivo	as|so|ber|[ba]|do
+assoberbamento	nome masculino	as|so|ber|ba|[men]|to
+assoberbante	adjetivo	as|so|ber|[ban]|te
+assoberbar	verbo	as|so|ber|[bar]
+assobiada	nome feminino	as|so|bi|[a]|da
+assobiadeira	nome feminino	as|so|bi|a|[dei]|ra
+assobiadela	nome feminino	as|so|bi|a|[de]|la
+assobiado	adjetivo	as|so|bi|[a]|do
+assobiador	adjetivo	as|so|bi|a|[dor]
+assobiador	nome masculino	as|so|bi|a|[dor]
+assobiadura	nome feminino	as|so|bi|a|[du]|ra
+assobiante	adjetivo	as|so|bi|[an]|te
+assobiar	verbo	as|so|bi|[ar]
+assobio	nome masculino	as|so|[bi]|o
+assobradado	adjetivo	as|so|bra|[da]|do
+assobradar	verbo	as|so|bra|[dar]
+assocar	verbo	as|so|[car]
+associabilidade	nome feminino	as|so|ci|a|bi|li|[da]|de
+associação	nome feminino	as|so|ci|a|[ção]
+associacionismo	nome masculino	as|so|ci|a|ci|o|[nis]|mo
+associacionista	adjetivo	as|so|ci|a|ci|o|[nis]|ta
+associacionista	nome masculino	as|so|ci|a|ci|o|[nis]|ta
+associacionista	nome feminino	as|so|ci|a|ci|o|[nis]|ta
+associada	nome feminino	as|so|ci|[a]|da
+associadamente	advérbio	as|so|ci|a|da|[men]|te
+associado	adjetivo	as|so|ci|[a]|do
+associado	nome masculino	as|so|ci|[a]|do
+associal	adjetivo	as|so|ci|[al]
+associalização	nome feminino	as|so|ci|a|li|za|[ção]
+assocializar	verbo	as|so|ci|a|li|[zar]
+associar	verbo	as|so|ci|[ar]
+associativamente	advérbio	as|so|ci|a|ti|va|[men]|te
+associatividade	nome feminino	as|so|ci|a|ti|vi|[da]|de
+associativismo	nome masculino	as|so|ci|a|ti|[vis]|mo
+associativista	adjetivo	as|so|ci|a|ti|[vis]|ta
+associativista	nome masculino	as|so|ci|a|ti|[vis]|ta
+associativista	nome feminino	as|so|ci|a|ti|[vis]|ta
+associativístico	adjetivo	as|so|ci|a|ti|[vís]|ti|co
+associativo	adjetivo	as|so|ci|a|[ti]|vo
+associável	adjetivo	as|so|ci|[á]|vel
+assolação	nome feminino	as|so|la|[ção]
+assolador	adjetivo	as|so|la|[dor]
+assolador	nome masculino	as|so|la|[dor]
+assoladora	nome feminino	as|so|la|[do]|ra
+assolamento	nome masculino	as|so|la|[men]|to
+assolapado	adjetivo	as|so|la|[pa]|do
+assolapar	verbo	as|so|la|[par]
+assolar	verbo	as|so|[lar]
+assoldadar	verbo	as|sol|da|[dar]
+assoldar	verbo	as|sol|[dar]
+assolear	verbo	as|so|le|[ar]
+assoleimar	verbo	as|so|lei|[mar]
+assolhar	verbo	as|so|[lhar]
+assoluto	adjetivo	as|so|[lu]|to
+assomada	nome feminino	as|so|[ma]|da
+assomadamente	advérbio	as|so|ma|da|[men]|te
+assomadiço	adjetivo	as|so|ma|[di]|ço
+assomado	adjetivo	as|so|[ma]|do
+assomadoiro	nome masculino	as|so|ma|[doi]|ro
+assomadouro	nome masculino	as|so|ma|[dou]|ro
+assomamento	nome masculino	as|so|ma|[men]|to
+assomar	verbo	as|so|[mar]
+assombração	nome feminino	as|som|bra|[ção]
+assombradiço	adjetivo	as|som|bra|[di]|ço
+assombrado	adjetivo	as|som|[bra]|do
+assombrador	adjetivo	as|som|bra|[dor]
+assombramento	nome masculino	as|som|bra|[men]|to
+assombrar	verbo	as|som|[brar]
+assombreamento	nome masculino	as|som|bre|a|[men]|to
+assombrear	verbo	as|som|bre|[ar]
+assombro	nome masculino	as|[som]|bro
+assombrosamente	advérbio	as|som|bro|sa|[men]|te
+assombroso	adjetivo	as|som|[bro]|so
+assomo	nome masculino	as|[so]|mo
+assonamento	nome masculino	as|so|na|[men]|to
+assonância	nome feminino	as|so|[nân]|ci|a
+assonante	adjetivo	as|so|[nan]|te
+assonar	verbo	as|so|[nar]

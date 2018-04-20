@@ -1,0 +1,100 @@
+toxocarpo	nome masculino	to|xo|[car]|po
+toxócera	nome feminino	to|[xó]|ce|ra
+toxodonte	nome masculino	to|xo|[don]|te
+toxodonte	adjetivo	to|xo|[don]|te
+toxofilo	adjetivo	to|xo|[fi]|lo
+toxofobia	nome feminino	to|xo|fo|[bi]|a
+toxóforo	nome masculino	to|[xó]|fo|ro
+toxoglosso	nome masculino	to|xo|[glos]|so
+toxoide	nome masculino	to|[xoi]|de
+toxona	nome feminino	to|[xo]|na
+toxoplasmose	nome feminino	to|xo|plas|[mo]|se
+tóxota	nome masculino	[tó]|xo|ta
+tóxote	nome feminino	[tó]|xo|te
+toxúria	nome feminino	to|[xú]|ri|a
+toxúrico	adjetivo	to|[xú]|ri|co
+trabal	adjetivo	tra|[bal]
+trabalhabilidade	nome feminino	tra|ba|lha|bi|li|[da]|de
+trabalhadamente	advérbio	tra|ba|lha|da|[men]|te
+trabalhadeira	nome feminino	tra|ba|lha|[dei]|ra
+trabalhado	adjetivo	tra|ba|[lha]|do
+trabalhador	nome masculino	tra|ba|lha|[dor]
+trabalhador	adjetivo	tra|ba|lha|[dor]
+trabalhador-estudante	nome masculino	tra|ba|lha|dor-es|tu|[dan]|te
+trabalhadora	nome feminino	tra|ba|lha|[do]|ra
+trabalhadora-estudante	nome feminino	tra|ba|lha|do|ra-es|tu|[dan]|te
+trabalhão	nome masculino	tra|ba|[lhão]
+trabalhar	verbo	tra|ba|[lhar]
+trabalhável	adjetivo	tra|ba|[lhá]|vel
+trabalheira	nome feminino	tra|ba|[lhei]|ra
+trabalhinhos	nome masculino	tra|ba|[lhi]|nhos
+trabalhiscar	verbo	tra|ba|lhis|[car]
+trabalhismo	nome masculino	tra|ba|[lhis]|mo
+trabalhista	nome masculino	tra|ba|[lhis]|ta
+trabalhista	adjetivo	tra|ba|[lhis]|ta
+trabalhista	nome feminino	tra|ba|[lhis]|ta
+trabalho	nome masculino	tra|[ba]|lho
+trabalhosamente	advérbio	tra|ba|lho|sa|[men]|te
+trabalhoso	adjetivo	tra|ba|[lho]|so
+trabalhucar	verbo	tra|ba|lhu|[car]
+trábea	nome feminino	[trá]|be|a
+trabecos	nome masculino	tra|[be]|cos
+trabécula	nome feminino	tra|[bé]|cu|la
+trabeculado	adjetivo	tra|be|cu|[la]|do
+trabecular	adjetivo	tra|be|cu|[lar]
+trabeculoso	adjetivo	tra|be|cu|[lo]|so
+trabela	nome feminino	tra|[be]|la
+trabelho	nome masculino	tra|[be]|lho
+trabola	nome masculino	tra|[bo]|la
+trabola	nome feminino	tra|[bo]|la
+traboleia	nome masculino	tra|bo|[lei]|a
+traboleia	nome feminino	tra|bo|[lei]|a
+trabota	nome feminino	tra|[bo]|ta
+trabucada	nome feminino	tra|bu|[ca]|da
+trabucador	adjetivo	tra|bu|ca|[dor]
+trabucador	nome masculino	tra|bu|ca|[dor]
+trabucar	verbo	tra|bu|[car]
+trabuco	nome masculino	tra|[bu]|co
+trabula	nome feminino	tra|[bu]|la
+trabular	verbo	tra|bu|[lar]
+trabulo	nome masculino	tra|[bu]|lo
+trabuqueiro	nome masculino	tra|bu|[quei]|ro
+trabuquete	nome masculino	tra|bu|[que]|te
+trabuzana	nome feminino	tra|bu|[za]|na
+trabuzana	nome masculino	tra|bu|[za]|na
+trabuzanada	nome feminino	tra|bu|za|[na]|da
+traça	nome feminino	[tra]|ça
+traça	adjetivo	[tra]|ça
+traça-números	nome masculino	tra|ça-nú|me|ros
+traçadeira	nome feminino	tra|ça|[dei]|ra
+traçado	nome masculino	tra|[ça]|do
+traçado	adjetivo	tra|[ça]|do
+traçador	adjetivo	tra|ça|[dor]
+traçador	nome masculino	tra|ça|[dor]
+tracajá	nome masculino	tra|ca|[já]
+traçalhão	nome masculino	tra|ça|[lhão]
+tracalhaz	nome masculino	tra|ca|[lhaz]
+tracalheiro	adjetivo	tra|ca|[lhei]|ro
+tracalheiro	nome masculino	tra|ca|[lhei]|ro
+tracalhice	nome feminino	tra|ca|[lhi]|ce
+traçalho	nome masculino	tra|[ça]|lho
+tracambista	nome masculino	tra|cam|[bis]|ta
+tracambista	nome feminino	tra|cam|[bis]|ta
+traçamento	nome masculino	tra|ça|[men]|to
+traçana	adjetivo	tra|[ça]|na
+traçana	nome masculino	tra|[ça]|na
+tracanaço	nome masculino	tra|ca|[na]|ço
+tracanaz	nome masculino	tra|ca|[naz]
+traçanga	nome feminino	tra|[çan]|ga
+tração	nome feminino	tra|[ção]
+tração	nome masculino	tra|[ção]
+traçar	verbo	tra|[çar]
+traçaria	nome feminino	tra|ça|[ri]|a
+traçável	adjetivo	tra|[çá]|vel
+trace	adjetivo	[tra]|ce
+trace	nome masculino	[tra]|ce
+trace	nome feminino	[tra]|ce
+tracejado	nome masculino	tra|ce|[ja]|do
+tracejado	adjetivo	tra|ce|[ja]|do
+tracejamento	nome masculino	tra|ce|ja|[men]|to
+tracejar	verbo	tra|ce|[jar]

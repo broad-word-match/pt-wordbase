@@ -1,0 +1,100 @@
+vadroil	nome masculino	va|dro|[il]
+vafrícia	nome feminino	va|[frí]|ci|a
+vafro	adjetivo	[va]|fro
+vaga	nome feminino	[va]|ga
+vaga-lume	nome masculino	va|ga-lu|me
+vagabunda	nome feminino	va|ga|[bun]|da
+vagabundagem	nome feminino	va|ga|bun|[da]|gem
+vagabundar	verbo	va|ga|bun|[dar]
+vagabundeação	nome feminino	va|ga|bun|de|a|[ção]
+vagabundear	verbo	va|ga|bun|de|[ar]
+vagabundo	nome masculino	va|ga|[bun]|do
+vagabundo	adjetivo	va|ga|[bun]|do
+vagação	nome feminino	va|ga|[ção]
+vágado	nome masculino	[vá]|ga|do
+vagalhão	nome masculino	va|ga|[lhão]
+vagamente	advérbio	va|ga|[men]|te
+vagamunda	nome feminino	va|ga|[mun]|da
+vagamundeação	nome feminino	va|ga|mun|de|a|[ção]
+vagamundear	verbo	va|ga|mun|de|[ar]
+vagamundo	adjetivo	va|ga|[mun]|do
+vagamundo	nome masculino	va|ga|[mun]|do
+vaganau	nome masculino	va|ga|[nau]
+vagância	nome feminino	va|[gân]|ci|a
+vaganear	verbo	va|ga|ne|[ar]
+vaganice	nome feminino	va|ga|[ni]|ce
+vagante	nome feminino	va|[gan]|te
+vagante	adjetivo	va|[gan]|te
+vagantio	adjetivo	va|gan|[ti]|o
+vagão	nome masculino	va|[gão]
+vagão-cama	nome masculino	va|gão-ca|ma
+vagão-cisterna	nome masculino	va|gão-cis|[ter]|na
+vagão-restaurante	nome masculino	va|gão-res|tau|[ran]|te
+vagão-tanque	nome masculino	va|gão-tan|que
+vagar	verbo	va|[gar]
+vagar	nome masculino	va|[gar]
+vagarento	adjetivo	va|ga|[ren]|to
+vagareza	nome feminino	va|ga|[re]|za
+vagarosa	nome feminino	va|ga|[ro]|sa
+vagarosamente	advérbio	va|ga|ro|sa|[men]|te
+vagaroso	adjetivo	va|ga|[ro]|so
+vagatura	nome feminino	va|ga|[tu]|ra
+vage	nome feminino	[va]|ge
+vagem	nome feminino	[va]|gem
+vagense	adjetivo	va|[gen]|se
+vagense	nome masculino	va|[gen]|se
+vagense	nome feminino	va|[gen]|se
+vagido	nome masculino	va|[gi]|do
+vagieno	adjetivo	va|gi|[e]|no
+vagieno	nome masculino	va|gi|[e]|no
+vagina	nome feminino	va|[gi]|na
+vaginal	adjetivo	va|gi|[nal]
+vaginalite	nome feminino	va|gi|na|[li]|te
+vaginante	adjetivo	va|gi|[nan]|te
+vaginária	nome feminino	va|gi|[ná]|ri|a
+vaginela	nome feminino	va|gi|[ne]|la
+vaginérveo	adjetivo	va|gi|[nér]|ve|o
+vaginha	nome feminino	va|[gi]|nha
+vaginícola	nome masculino	va|gi|[ní]|co|la
+vaginífero	adjetivo	va|gi|[ní]|fe|ro
+vaginiforme	adjetivo	va|gi|ni|[for]|me
+vagininérveo	adjetivo	va|gi|ni|[nér]|ve|o
+vaginismo	nome masculino	va|gi|[nis]|mo
+vaginite	nome feminino	va|gi|[ni]|te
+vaginodinia	nome feminino	va|gi|no|di|[ni]|a
+vaginolabial	adjetivo	va|gi|no|la|bi|[al]
+vaginoperitoneal	adjetivo	va|gi|no|pe|ri|to|ne|[al]
+vaginorragia	nome feminino	va|gi|nor|ra|[gi]|a
+vaginorrágico	adjetivo	va|gi|nor|[rá]|gi|co
+vaginorrectal	adjetivo	va|gi|nor|rec|[tal]
+vaginorretal	adjetivo	va|gi|nor|re|[tal]
+vaginoscopia	nome feminino	va|gi|nos|co|[pi]|a
+vaginoscópico	adjetivo	va|gi|nos|[có]|pi|co
+vaginoscópio	nome masculino	va|gi|nos|[có]|pi|o
+vaginotomia	nome feminino	va|gi|no|to|[mi]|a
+vaginotómico	adjetivo	va|gi|no|[tó]|mi|co
+vaginotômico	adjetivo	va|gi|no|[tô]|mi|co
+vaginovesical	adjetivo	va|gi|no|ve|si|[cal]
+vaginovulvar	adjetivo	va|gi|no|vul|[var]
+vagínula	nome feminino	va|[gí]|nu|la
+vaginulado	adjetivo	va|gi|nu|[la]|do
+vaginulífero	adjetivo	va|gi|nu|[lí]|fe|ro
+vaginuterino	adjetivo	va|gi|nu|te|[ri]|no
+vagir	verbo	va|[gir]
+vagir	nome masculino	va|[gir]
+vago	adjetivo	[va]|go
+vago	nome masculino	[va]|go
+vagomestre	nome masculino	va|go|[mes]|tre
+vagoneiro	nome masculino	va|go|[nei]|ro
+vagoneta	nome feminino	va|go|[ne]|ta
+vagonete	nome masculino	va|go|[ne]|te
+vagotonia	nome feminino	va|go|to|[ni]|a
+vagueação	nome feminino	va|gue|a|[ção]
+vaguear	verbo	va|gue|[ar]
+vaguedo	nome masculino	va|[gue]|do
+vagueira	nome feminino	va|[guei]|ra
+vagueiro	nome masculino	va|[guei]|ro
+vagueiro	adjetivo	va|[guei]|ro
+vaguejar	verbo	va|gue|[jar]
+vaguense	adjetivo	va|[guen]|se
+vaguense	nome masculino	va|[guen]|se

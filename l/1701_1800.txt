@@ -1,0 +1,100 @@
+lendroeira	nome feminino	len|dro|[ei]|ra
+lendroeiro	nome masculino	len|dro|[ei]|ro
+lene	adjetivo	[le]|ne
+leneu	adjetivo	le|[neu]
+lenga	nome feminino	[len]|ga
+lenga	nome masculino	[len]|ga
+lengalenga	nome feminino	len|ga|[len]|ga
+lengalengar	verbo	len|ga|len|[gar]
+lengar	verbo	len|[gar]
+lengue	nome masculino	[len]|gue
+lenha	nome feminino	[le]|nha
+lenhador	nome masculino	le|nha|[dor]
+lenhadora	nome feminino	le|nha|[do]|ra
+lenhal	nome masculino	le|[nhal]
+lenhar	verbo	le|[nhar]
+lenhateiro	nome masculino	le|nha|[tei]|ro
+lenheiro	nome masculino	le|[nhei]|ro
+lenhificação	nome feminino	le|nhi|fi|ca|[ção]
+lenhificar	verbo	le|nhi|fi|[car]
+lenhina	nome feminino	le|[nhi]|na
+lenhite	nome masculino	le|[nhi]|te
+lenhito	nome masculino	le|[nhi]|to
+lenhívoro	adjetivo	le|[nhí]|vo|ro
+lenhívoro	nome masculino	le|[nhí]|vo|ro
+lenho	nome masculino	[le]|nho
+lenhose	nome feminino	le|[nho]|se
+lenhoso	adjetivo	le|[nho]|so
+lenidade	nome feminino	le|ni|[da]|de
+leniência	nome feminino	le|ni|[ên]|ci|a
+leniente	adjetivo	le|ni|[en]|te
+leniente	nome masculino	le|ni|[en]|te
+lenificar	verbo	le|ni|fi|[car]
+lenimentar	verbo	le|ni|men|[tar]
+lenimento	nome masculino	le|ni|[men]|to
+lenimentoso	adjetivo	le|ni|men|[to]|so
+leninismo	nome masculino	le|ni|[nis]|mo
+leninista	nome masculino	le|ni|[nis]|ta
+leninista	adjetivo	le|ni|[nis]|ta
+leninista	nome feminino	le|ni|[nis]|ta
+leninístico	adjetivo	le|ni|[nís]|ti|co
+lenir	verbo	le|[nir]
+lenirrobina	nome feminino	le|nir|ro|[bi]|na
+lenitivamente	advérbio	le|ni|ti|va|[men]|te
+lenitivo	adjetivo	le|ni|[ti]|vo
+lenitivo	nome masculino	le|ni|[ti]|vo
+lenocínio	nome masculino	le|no|[cí]|ni|o
+lentaço	nome masculino	len|[ta]|ço
+lentamente	advérbio	len|ta|[men]|te
+lentar	verbo	len|[tar]
+lente	nome feminino	[len]|te
+lente	nome masculino	[len]|te
+lente	adjetivo	[len]|te
+lentear	verbo	len|te|[ar]
+lenteiro	nome masculino	len|[tei]|ro
+lentejar	verbo	len|te|[jar]
+lentejoila	nome feminino	len|te|[joi]|la
+lentejoilar	verbo	len|te|joi|[lar]
+lentejoula	nome feminino	len|te|[jou]|la
+lentejoular	verbo	len|te|jou|[lar]
+lentescente	adjetivo	len|tes|[cen]|te
+lentescer	verbo	len|tes|[cer]
+lenteza	nome feminino	len|[te]|za
+lentibulariácea	nome feminino	len|ti|bu|la|ri|[á]|ce|a
+lenticão	nome masculino	len|ti|[cão]
+lenticela	nome feminino	len|ti|[ce]|la
+lenticelado	adjetivo	len|ti|ce|[la]|do
+lêntico	adjetivo	[lên]|ti|co
+lentícula	nome feminino	len|[tí]|cu|la
+lenticular	adjetivo	len|ti|cu|[lar]
+lenticular	nome masculino	len|ti|cu|[lar]
+lentidão	nome feminino	len|ti|[dão]
+lentiforme	adjetivo	len|ti|[for]|me
+lentigem	nome feminino	len|[ti]|gem
+lentiginoso	adjetivo	len|ti|gi|[no]|so
+lentigo	nome masculino	len|[ti]|go
+lentígrado	adjetivo	len|[tí]|gra|do
+lentilha	nome feminino	len|[ti]|lha
+lentilha-d'água	nome feminino	len|ti|lha-d´á|gua
+lentilhão	nome masculino	len|ti|[lhão]
+lentilheira	nome feminino	len|ti|[lhei]|ra
+lentilhoso	adjetivo	len|ti|[lho]|so
+lentisca	nome feminino	len|[tis]|ca
+lentiscal	nome masculino	len|tis|[cal]
+lentisco	nome masculino	len|[tis]|co
+lentisqueira	nome feminino	len|tis|[quei]|ra
+lentivírus	nome masculino	len|ti|[ví]|rus
+lento	adjetivo	[len]|to
+lento	advérbio	[len]|to
+lentor	nome masculino	len|[tor]
+lentura	nome feminino	len|[tu]|ra
+leoa	nome feminino	le|[o]|a
+leonado	adjetivo	le|o|[na]|do
+leônculo	nome masculino	le|[ôn]|cu|lo
+leone	nome masculino	le|[o]|ne
+leoneira	nome feminino	le|o|[nei]|ra
+leonês	nome masculino	le|o|[nês]
+leonês	adjetivo	le|o|[nês]
+leonesa	nome feminino	le|o|[ne]|sa
+leonicense	adjetivo	le|o|ni|[cen]|se
+leonicense	nome masculino	le|o|ni|[cen]|se

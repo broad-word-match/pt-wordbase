@@ -1,0 +1,100 @@
+anticíprio	adjetivo	an|ti|[cí]|pri|o
+anticíprio	nome masculino	an|ti|[cí]|pri|o
+antícira	nome feminino	an|[tí]|ci|ra
+anticircunflexo	adjetivo	an|ti|cir|cun|[fle]|xo
+anticívico	adjetivo	an|ti|[cí]|vi|co
+anticivilizador	adjetivo	an|ti|ci|vi|li|za|[dor]
+anticivismo	nome masculino	an|ti|ci|[vis]|mo
+anticlassicismo	nome masculino	an|ti|clas|si|[cis]|mo
+anticlassicista	adjetivo	an|ti|clas|si|[cis]|ta
+anticlassicista	nome masculino	an|ti|clas|si|[cis]|ta
+anticlassicista	nome feminino	an|ti|clas|si|[cis]|ta
+anticlássico	adjetivo	an|ti|[clás]|si|co
+anticlerical	adjetivo	an|ti|cle|ri|[cal]
+anticlerical	nome feminino	an|ti|cle|ri|[cal]
+anticlerical	nome masculino	an|ti|cle|ri|[cal]
+anticlericalismo	nome masculino	an|ti|cle|ri|ca|[lis]|mo
+anticlericalístico	adjetivo	an|ti|cle|ri|ca|[lís]|ti|co
+anticlímax	nome masculino	an|ti|[clí]|max
+anticlinal	nome masculino	an|ti|cli|[nal]
+anticlinal	adjetivo	an|ti|cli|[nal]
+anticlíneo	adjetivo	an|ti|[clí]|ne|o
+anticlínico	adjetivo	an|ti|[clí]|ni|co
+anticlinório	nome masculino	an|ti|cli|[nó]|ri|o
+anticloro	nome masculino	an|ti|[clo]|ro
+anticoagulante	adjetivo	an|ti|co|a|gu|[lan]|te
+anticoagulante	nome masculino	an|ti|co|a|gu|[lan]|te
+anticolérico	adjetivo	an|ti|co|[lé]|ri|co
+anticólico	adjetivo	an|ti|[có]|li|co
+anticolinérgico	adjetivo	an|ti|co|li|[nér]|gi|co
+anticolinérgico	nome masculino	an|ti|co|li|[nér]|gi|co
+anticolonial	adjetivo	an|ti|co|lo|ni|[al]
+anticolonialismo	nome masculino	an|ti|co|lo|ni|a|[lis]|mo
+anticolonialista	adjetivo	an|ti|co|lo|ni|a|[lis]|ta
+anticolonialista	nome masculino	an|ti|co|lo|ni|a|[lis]|ta
+anticolonialista	nome feminino	an|ti|co|lo|ni|a|[lis]|ta
+anticolonialístico	adjetivo	an|ti|co|lo|ni|a|[lís]|ti|co
+anticomania	nome feminino	an|ti|co|ma|[ni]|a
+anticomaníaco	adjetivo	an|ti|co|ma|[ní]|a|co
+anticomaníaco	nome masculino	an|ti|co|ma|[ní]|a|co
+anticombustível	adjetivo	an|ti|com|bus|[tí]|vel
+anticomercial	adjetivo	an|ti|co|mer|ci|[al]
+anticomunismo	nome masculino	an|ti|co|mu|[nis]|mo
+anticomunista	adjetivo	an|ti|co|mu|[nis]|ta
+anticomunista	nome masculino	an|ti|co|mu|[nis]|ta
+anticomunista	nome feminino	an|ti|co|mu|[nis]|ta
+anticoncecional	nome masculino	an|ti|con|ce|ci|o|[nal]
+anticoncecional	adjetivo	an|ti|con|ce|ci|o|[nal]
+anticoncepcional	adjetivo	an|ti|con|cep|ci|o|[nal]
+anticoncepcional	nome masculino	an|ti|con|cep|ci|o|[nal]
+anticonceptivo	adjetivo	an|ti|con|cep|[ti]|vo
+anticonceptivo	nome masculino	an|ti|con|cep|[ti]|vo
+anticoncetivo	nome masculino	an|ti|con|ce|[ti]|vo
+anticoncetivo	adjetivo	an|ti|con|ce|[ti]|vo
+anticoncílio	nome masculino	an|ti|con|[cí]|li|o
+anticoncordatário	adjetivo	an|ti|con|cor|da|[tá]|ri|o
+anticoncordatário	nome masculino	an|ti|con|cor|da|[tá]|ri|o
+anticonformismo	nome masculino	an|ti|con|for|[mis]|mo
+anticonformista	adjetivo	an|ti|con|for|[mis]|ta
+anticonformista	nome masculino	an|ti|con|for|[mis]|ta
+anticonformista	nome feminino	an|ti|con|for|[mis]|ta
+anticongelante	adjetivo	an|ti|con|ge|[lan]|te
+anticongelante	nome masculino	an|ti|con|ge|[lan]|te
+anticonjugal	adjetivo	an|ti|con|ju|[gal]
+anticonstitucional	adjetivo	an|ti|cons|ti|tu|ci|o|[nal]
+anticonstitucionalismo	nome masculino	an|ti|cons|ti|tu|ci|o|na|[lis]|mo
+anticonstitucionalista	adjetivo	an|ti|cons|ti|tu|ci|o|na|[lis]|ta
+anticonstitucionalista	nome masculino	an|ti|cons|ti|tu|ci|o|na|[lis]|ta
+anticonstitucionalista	nome feminino	an|ti|cons|ti|tu|ci|o|na|[lis]|ta
+anticonstitucionalmente	advérbio	an|ti|cons|ti|tu|ci|o|nal|[men]|te
+anticontagionista	adjetivo	an|ti|con|ta|gi|o|[nis]|ta
+anticontagionista	nome masculino	an|ti|con|ta|gi|o|[nis]|ta
+anticontagionista	nome feminino	an|ti|con|ta|gi|o|[nis]|ta
+anticonvulsivo	adjetivo	an|ti|con|vul|[si]|vo
+anticonvulsivo	nome masculino	an|ti|con|vul|[si]|vo
+antícope	nome feminino	an|[tí]|co|pe
+anticoposcópio	nome masculino	an|ti|co|pos|[có]|pi|o
+anticorpo	nome masculino	an|ti|[cor]|po
+anticorporativismo	nome masculino	an|ti|cor|po|ra|ti|[vis]|mo
+anticorporativo	adjetivo	an|ti|cor|po|ra|[ti]|vo
+anticorrosivo	adjetivo	an|ti|cor|ro|[si]|vo
+anticorrosivo	nome masculino	an|ti|cor|ro|[si]|vo
+anticorrução	adjetivo	an|ti|cor|ru|[ção]
+anticorrupção	adjetivo	an|ti|cor|rup|[ção]
+anticosmético	adjetivo	an|ti|cos|[mé]|ti|co
+anticosmético	nome masculino	an|ti|cos|[mé]|ti|co
+anticosta	nome feminino	an|ti|[cos]|ta
+anticrepuscular	adjetivo	an|ti|cre|pus|cu|[lar]
+anticrepúsculo	nome masculino	an|ti|cre|[pús]|cu|lo
+anticrese	nome feminino	an|ti|[cre]|se
+anticresista	adjetivo	an|ti|cre|[sis]|ta
+anticresista	nome masculino	an|ti|cre|[sis]|ta
+anticresista	nome feminino	an|ti|cre|[sis]|ta
+anticrético	adjetivo	an|ti|[cré]|ti|co
+anticrime	adjetivo	an|ti|[cri]|me
+anticrise	adjetivo	an|ti|[cri]|se
+anticristã	nome feminino	an|ti|cris|[tã]
+anticristandade	nome feminino	an|ti|cris|tan|[da]|de
+anticristão	adjetivo	an|ti|cris|[tão]
+anticristão	nome masculino	an|ti|cris|[tão]
+anticristianismo	nome masculino	an|ti|cris|ti|a|[nis]|mo

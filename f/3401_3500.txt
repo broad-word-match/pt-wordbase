@@ -1,0 +1,100 @@
+flagelado	nome masculino	fla|ge|[la]|do
+flagelado	adjetivo	fla|ge|[la]|do
+flagelador	adjetivo	fla|ge|la|[dor]
+flagelador	nome masculino	fla|ge|la|[dor]
+flageladora	nome feminino	fla|ge|la|[do]|ra
+flagelante	nome masculino	fla|ge|[lan]|te
+flagelante	adjetivo	fla|ge|[lan]|te
+flagelante	nome feminino	fla|ge|[lan]|te
+flagelar	verbo	fla|ge|[lar]
+flagelativo	adjetivo	fla|ge|la|[ti]|vo
+flagelífero	adjetivo	fla|ge|[lí]|fe|ro
+flageliforme	adjetivo	fla|ge|li|[for]|me
+flagelo	nome masculino	fla|[ge]|lo
+flagício	nome masculino	fla|[gí]|ci|o
+flagiciosamente	advérbio	fla|gi|ci|o|sa|[men]|te
+flagicioso	adjetivo	fla|gi|ci|[o]|so
+flagra	nome masculino	[fla]|gra
+flagrância	nome feminino	fla|[grân]|ci|a
+flagrante	adjetivo	fla|[gran]|te
+flagrante	nome masculino	fla|[gran]|te
+flagrantemente	advérbio	fla|gran|te|[men]|te
+flagrar	verbo	fla|[grar]
+flainador	adjetivo	flai|na|[dor]
+flainar	verbo	flai|[nar]
+flaino	nome masculino	[flai]|no
+flajolé	nome masculino	fla|jo|[lé]
+flama	nome feminino	[fla]|ma
+flamância	nome feminino	fla|[mân]|ci|a
+flamante	adjetivo	fla|[man]|te
+flamão	nome masculino	fla|[mão]
+flambar	verbo	flam|[bar]
+flambê	adjetivo	flam|[bê]
+flambear	verbo	flam|be|[ar]
+flamboaiã	nome masculino	flam|bo|ai|[ã]
+flame	nome masculino	[fla]|me
+flamear	verbo	fla|me|[ar]
+flamejamento	nome masculino	fla|me|ja|[men]|to
+flamejante	adjetivo	fla|me|[jan]|te
+flamejar	verbo	fla|me|[jar]
+flamenco	nome masculino	fla|[men]|co
+flamenga	nome feminino	fla|[men]|ga
+flamengo	nome masculino	fla|[men]|go
+flamengo	adjetivo	fla|[men]|go
+flâmeo	nome masculino	[flâ]|me|o
+flâmeo	adjetivo	[flâ]|me|o
+flamífero	adjetivo	fla|[mí]|fe|ro
+flamifervente	adjetivo	fla|mi|fer|[ven]|te
+flamígero	adjetivo	fla|[mí]|ge|ro
+flaminato	nome masculino	fla|mi|[na]|to
+flâmine	nome masculino	[flâ]|mi|ne
+flamingo	nome masculino	fla|[min]|go
+flamínia	nome feminino	fla|[mí]|ni|a
+flamínica	nome feminino	fla|[mí]|ni|ca
+flamínico	adjetivo	fla|[mí]|ni|co
+flamínio	nome masculino	fla|[mí]|ni|o
+flamipotente	adjetivo	fla|mi|po|[ten]|te
+flamispirante	adjetivo	fla|mis|pi|[ran]|te
+flamívolo	adjetivo	fla|[mí]|vo|lo
+flamívomo	adjetivo	fla|[mí]|vo|mo
+flâmula	nome feminino	[flâ]|mu|la
+flamular	verbo	fla|mu|[lar]
+flan	nome masculino	[flan]
+flanador	adjetivo	fla|na|[dor]
+flanador	nome masculino	fla|na|[dor]
+flanar	verbo	fla|[nar]
+flanate	adjetivo	fla|[na]|te
+flanate	nome masculino	fla|[na]|te
+flanate	nome feminino	fla|[na]|te
+flanco	nome masculino	[flan]|co
+flandrense	adjetivo	flan|[dren]|se
+flandrense	nome masculino	flan|[dren]|se
+flandrense	nome feminino	flan|[dren]|se
+flandres	nome feminino	[flan]|dres
+flandres	nome masculino	[flan]|dres
+flandriano	adjetivo	flan|dri|[a]|no
+flandrino	adjetivo	flan|[dri]|no
+flandrino	nome masculino	flan|[dri]|no
+flandrisco	adjetivo	flan|[dris]|co
+flandrisco	nome masculino	flan|[dris]|co
+flanela	nome feminino	fla|[ne]|la
+flange	nome masculino	[flan]|ge
+flanqueador	adjetivo	flan|que|a|[dor]
+flanqueador	nome masculino	flan|que|a|[dor]
+flanqueamento	nome masculino	flan|que|a|[men]|to
+flanquear	verbo	flan|que|[ar]
+flartar	verbo	flar|[tar]
+flarte	nome feminino	[flar]|te
+flash	nome masculino	[flash]
+flashback	nome masculino	flash|back
+flat	nome feminino	[flat]
+flat	adjetivo	[flat]
+flate	nome feminino	[fla]|te
+flato	nome masculino	[fla]|to
+flatoso	adjetivo	fla|[to]|so
+flatulência	nome feminino	fla|tu|[lên]|ci|a
+flatulento	adjetivo	fla|tu|[len]|to
+flatulosidade	nome feminino	fla|tu|lo|si|[da]|de
+flatuloso	adjetivo	fla|tu|[lo]|so
+flatuosidade	nome feminino	fla|tu|o|si|[da]|de
+flatuoso	adjetivo	fla|tu|[o]|so

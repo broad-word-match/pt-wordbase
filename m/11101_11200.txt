@@ -1,0 +1,100 @@
+mulherada	nome feminino	mu|lhe|[ra]|da
+mulherame	nome masculino	mu|lhe|[ra]|me
+mulherão	nome masculino	mu|lhe|[rão]
+mulhereiro	adjetivo	mu|lhe|[rei]|ro
+mulherengo	adjetivo	mu|lhe|[ren]|go
+mulherengo	nome masculino	mu|lhe|[ren]|go
+mulherenguice	nome feminino	mu|lhe|ren|[gui]|ce
+mulhericas	nome masculino	mu|lhe|[ri]|cas
+mulherico	adjetivo	mu|lhe|[ri]|co
+mulherigo	nome masculino	mu|lhe|[ri]|go
+mulheril	adjetivo	mu|lhe|[ril]
+mulherilmente	advérbio	mu|lhe|ril|[men]|te
+mulherinha	nome feminino	mu|lhe|[ri]|nha
+mulherio	nome masculino	mu|lhe|[ri]|o
+mulherona	nome feminino	mu|lhe|[ro]|na
+mulherum	nome masculino	mu|lhe|[rum]
+mulherzinha	nome feminino	mu|lher|[zi]|nha
+mulídeo	nome masculino	mu|[lí]|de|o
+mulídeo	adjetivo	mu|[lí]|de|o
+mulíebre	adjetivo	mu|[lí]|e|bre
+muliericídio	nome masculino	mu|li|e|ri|[cí]|di|o
+mulita	nome feminino	mu|[li]|ta
+mullah	nome masculino	[mul]|lah
+mülleriano	adjetivo	mül|le|ri|[a]|no
+mulo	nome masculino	[mu]|lo
+mulói	nome masculino	mu|[lói]
+mulóji	nome masculino	mu|[ló]|ji
+mulola	nome feminino	mu|[lo]|la
+mulolo	nome masculino	mu|[lo]|lo
+mulombe	nome masculino	mu|[lom]|be
+mulondo	nome masculino	mu|[lon]|do
+mulonga	nome feminino	mu|[lon]|ga
+mulope	nome masculino	mu|[lo]|pe
+mulso	nome masculino	[mul]|so
+multa	nome feminino	[mul]|ta
+multangular	adjetivo	mul|tan|gu|[lar]
+multar	verbo	mul|[tar]
+multável	adjetivo	mul|[tá]|vel
+multiangular	adjetivo	mul|ti|an|gu|[lar]
+multiarticulado	adjetivo	mul|ti|ar|ti|cu|[la]|do
+multiarticular	adjetivo	mul|ti|ar|ti|cu|[lar]
+multiatómico	adjetivo	mul|ti|a|[tó]|mi|co
+multiaxífero	adjetivo	mul|ti|a|[xí]|fe|ro
+multibanco	nome masculino	mul|ti|[ban]|co
+multibanco	adjetivo	mul|ti|[ban]|co
+multibilionário	adjetivo	mul|ti|bi|li|o|[ná]|ri|o
+multibilionário	nome masculino	mul|ti|bi|li|o|[ná]|ri|o
+multicapsular	adjetivo	mul|ti|cap|su|[lar]
+multicarpelar	adjetivo	mul|ti|car|pe|[lar]
+multicaude	adjetivo	mul|ti|[cau]|de
+multicaule	adjetivo	mul|ti|[cau]|le
+multicelular	adjetivo	mul|ti|ce|lu|[lar]
+multicelularidade	nome feminino	mul|ti|ce|lu|la|ri|[da]|de
+multicolor	adjetivo	mul|ti|co|[lor]
+multicolorido	adjetivo	mul|ti|co|lo|[ri]|do
+multicolorir	verbo	mul|ti|co|lo|[rir]
+multicor	adjetivo	mul|ti|[cor]
+multicultor	adjetivo	mul|ti|cul|[tor]
+multicultor	nome masculino	mul|ti|cul|[tor]
+multicultural	adjetivo	mul|ti|cul|tu|[ral]
+multiculturalidade	nome feminino	mul|ti|cul|tu|ra|li|[da]|de
+multiculturalismo	nome masculino	mul|ti|cul|tu|ra|[lis]|mo
+multicúspide	adjetivo	mul|ti|[cús]|pi|de
+multidão	nome feminino	mul|ti|[dão]
+multidentado	adjetivo	mul|ti|den|[ta]|do
+multidigitado	adjetivo	mul|ti|di|gi|[ta]|do
+multidimensional	adjetivo	mul|ti|di|men|si|o|[nal]
+multidimensionalidade	nome feminino	mul|ti|di|men|si|o|na|li|[da]|de
+multidireccional	adjetivo	mul|ti|di|rec|ci|o|[nal]
+multidirecional	adjetivo	mul|ti|di|re|ci|o|[nal]
+multidisciplinar	adjetivo	mul|ti|dis|ci|pli|[nar]
+multidisciplinaridade	nome feminino	mul|ti|dis|ci|pli|na|ri|[da]|de
+multietnicidade	nome feminino	mul|ti|et|ni|ci|[da]|de
+multiétnico	adjetivo	mul|ti|[ét]|ni|co
+multiface	adjetivo	mul|ti|[fa]|ce
+multifacetado	adjetivo	mul|ti|fa|ce|[ta]|do
+multifactorial	adjetivo	mul|ti|fac|to|ri|[al]
+multifário	adjetivo	mul|ti|[fá]|ri|o
+multifatorial	adjetivo	mul|ti|fa|to|ri|[al]
+multífero	adjetivo	mul|[tí]|fe|ro
+multífido	adjetivo	mul|[tí]|fi|do
+multifloro	adjetivo	mul|ti|[flo]|ro
+multífluo	adjetivo	mul|[tí]|flu|o
+multifoliado	adjetivo	mul|ti|fo|li|[a]|do
+multiforme	adjetivo	mul|ti|[for]|me
+multiformemente	advérbio	mul|ti|for|me|[men]|te
+multiformidade	nome feminino	mul|ti|for|mi|[da]|de
+multifuncional	adjetivo	mul|ti|fun|ci|o|[nal]
+multifuncionalidade	nome feminino	mul|ti|fun|ci|o|na|li|[da]|de
+multifunções	adjetivo	mul|ti|fun|[ções]
+multifuração	nome feminino	mul|ti|fu|ra|[ção]
+multifuro	adjetivo	mul|ti|[fu]|ro
+multígeno	adjetivo	mul|[tí]|ge|no
+multijogador	adjetivo	mul|ti|jo|ga|[dor]
+multilateral	adjetivo	mul|ti|la|te|[ral]
+multilateralismo	nome masculino	mul|ti|la|te|ra|[lis]|mo
+multilaterialismo	nome masculino	mul|ti|la|te|ri|a|[lis]|mo
+multilátero	adjetivo	mul|ti|[lá]|te|ro
+multilíngue	adjetivo	mul|ti|[lín]|gue
+multilingue	adjetivo	mul|ti|[lin]|gue

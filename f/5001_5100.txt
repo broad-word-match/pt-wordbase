@@ -1,0 +1,100 @@
+fotomagnético	adjetivo	fo|to|mag|[né]|ti|co
+fotomagnetismo	nome masculino	fo|to|mag|ne|[tis]|mo
+fotomecânica	nome feminino	fo|to|me|[câ]|ni|ca
+fotomecânico	adjetivo	fo|to|me|[câ]|ni|co
+fotomesão	nome masculino	fo|to|me|[são]
+fotometria	nome feminino	fo|to|me|[tri]|a
+fotométrico	adjetivo	fo|to|[mé]|tri|co
+fotômetro	nome masculino	fo|[tô]|me|tro
+fotómetro	nome masculino	fo|[tó]|me|tro
+fotomicrografia	nome feminino	fo|to|mi|cro|gra|[fi]|a
+fotomicrográfico	adjetivo	fo|to|mi|cro|[grá]|fi|co
+fotomicrógrafo	nome masculino	fo|to|mi|[cró]|gra|fo
+fotomicroscopia	nome feminino	fo|to|mi|cros|co|[pi]|a
+fotomicroscópico	adjetivo	fo|to|mi|cros|[có]|pi|co
+fotominiatura	nome feminino	fo|to|mi|ni|a|[tu]|ra
+fotominiaturista	nome masculino	fo|to|mi|ni|a|tu|[ris]|ta
+fotominiaturista	nome feminino	fo|to|mi|ni|a|tu|[ris]|ta
+fotomontagem	nome feminino	fo|to|mon|[ta]|gem
+fotomorfose	nome feminino	fo|to|mor|[fo]|se
+fotomultiplicador	nome masculino	fo|to|mul|ti|pli|ca|[dor]
+fotoneutrão	nome masculino	fo|to|neu|[trão]
+fotonosia	nome feminino	fo|to|no|[si]|a
+fotonovela	nome feminino	fo|to|no|[ve]|la
+fotonuclear	adjetivo	fo|to|nu|cle|[ar]
+fotoperíodo	nome masculino	fo|to|pe|[rí]|o|do
+fotopintura	nome feminino	fo|to|pin|[tu]|ra
+fotopsia	nome feminino	fo|top|[si]|a
+fotóptico	adjetivo	fo|[tóp]|ti|co
+fotoquímica	nome feminino	fo|to|[quí]|mi|ca
+fotoquímico	adjetivo	fo|to|[quí]|mi|co
+fotoquinese	nome feminino	fo|to|qui|[ne]|se
+fotorama	nome masculino	fo|to|[ra]|ma
+fotorrealismo	nome masculino	fo|tor|re|a|[lis]|mo
+fotorreceptor	nome masculino	fo|tor|re|cep|[tor]
+fotorrecetor	nome masculino	fo|tor|re|ce|[tor]
+fotorreportagem	nome feminino	fo|tor|re|por|[ta]|gem
+fotoscópico	adjetivo	fo|tos|[có]|pi|co
+fotoscópio	nome masculino	fo|tos|[có]|pi|o
+fotoscultura	nome feminino	fo|tos|cul|[tu]|ra
+fotosfera	nome feminino	fo|tos|[fe]|ra
+fotosférico	adjetivo	fo|tos|[fé]|ri|co
+fotossensibilidade	nome feminino	fo|tos|sen|si|bi|li|[da]|de
+fotossensibilização	nome feminino	fo|tos|sen|si|bi|li|za|[ção]
+fotossensibilizante	adjetivo	fo|tos|sen|si|bi|li|[zan]|te
+fotossensibilizar	verbo	fo|tos|sen|si|bi|li|[zar]
+fotossensível	adjetivo	fo|tos|sen|[sí]|vel
+fotossíntese	nome feminino	fo|tos|[sín]|te|se
+fotossintético	adjetivo	fo|tos|sin|[té]|ti|co
+fotossintetizante	adjetivo	fo|tos|sin|te|ti|[zan]|te
+fototáctico	adjetivo	fo|to|[tác]|ti|co
+fototactismo	nome masculino	fo|to|tac|[tis]|mo
+fototático	adjetivo	fo|to|[tá]|ti|co
+fototatismo	nome masculino	fo|to|ta|[tis]|mo
+fototaxia	nome feminino	fo|to|ta|[xi]|a
+fototeca	nome feminino	fo|to|[te]|ca
+fototelegrafia	nome feminino	fo|to|te|le|gra|[fi]|a
+fototelegráfico	adjetivo	fo|to|te|le|[grá]|fi|co
+fototerapêutico	adjetivo	fo|to|te|ra|[pêu]|ti|co
+fototerapia	nome feminino	fo|to|te|ra|[pi]|a
+fototerápico	adjetivo	fo|to|te|[rá]|pi|co
+fototermómetro	nome masculino	fo|to|ter|[mó]|me|tro
+fototermômetro	nome masculino	fo|to|ter|[mô]|me|tro
+fotótico	adjetivo	fo|[tó]|ti|co
+fototipar	verbo	fo|to|ti|[par]
+fototipia	nome feminino	fo|to|ti|[pi]|a
+fototipiar	verbo	fo|to|ti|pi|[ar]
+fototípico	adjetivo	fo|to|[tí]|pi|co
+fotótipo	nome masculino	fo|[tó]|ti|po
+fototipocromia	nome feminino	fo|to|ti|po|cro|[mi]|a
+fototipocrômico	adjetivo	fo|to|ti|po|[crô]|mi|co
+fototipocrómico	adjetivo	fo|to|ti|po|[cró]|mi|co
+fototipografia	nome feminino	fo|to|ti|po|gra|[fi]|a
+fototipográfico	adjetivo	fo|to|ti|po|[grá]|fi|co
+fototipogravura	nome feminino	fo|to|ti|po|gra|[vu]|ra
+fototopografia	nome feminino	fo|to|to|po|gra|[fi]|a
+fototopográfico	adjetivo	fo|to|to|po|[grá]|fi|co
+fototoxicidade	nome feminino	fo|to|to|xi|ci|[da]|de
+fototrópico	adjetivo	fo|to|[tró]|pi|co
+fototropismo	nome masculino	fo|to|tro|[pis]|mo
+fotovoltaico	adjetivo	fo|to|vol|[tai]|co
+fotozincografia	nome feminino	fo|to|zin|co|gra|[fi]|a
+fotozincográfico	adjetivo	fo|to|zin|co|[grá]|fi|co
+fotúria	nome feminino	fo|[tú]|ri|a
+fotúrico	adjetivo	fo|[tú]|ri|co
+fouçada	nome feminino	fou|[ça]|da
+foução	nome masculino	fou|[ção]
+fouçar	verbo	fou|[çar]
+fouce	nome feminino	[fou]|ce
+foucear	verbo	fou|ce|[ar]
+fouciforme	adjetivo	fou|ci|[for]|me
+foucinha	nome feminino	fou|[ci]|nha
+foucinhão	nome masculino	fou|ci|[nhão]
+foucinhar	verbo	fou|ci|[nhar]
+foucinho	nome masculino	fou|[ci]|nho
+fouteza	nome feminino	fou|[te]|za
+fouto	adjetivo	[fou]|to
+fouveiro	nome masculino	fou|[vei]|ro
+fouveiro	adjetivo	fou|[vei]|ro
+fouzadar	nome masculino	fou|za|[dar]
+fóvea	nome feminino	[fó]|ve|a

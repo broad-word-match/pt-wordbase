@@ -1,0 +1,100 @@
+rafameia	nome feminino	ra|fa|[mei]|a
+rafania	nome feminino	ra|fa|[ni]|a
+rafanidose	nome feminino	ra|fa|ni|[do]|se
+rafar	verbo	ra|[far]
+rafe	nome masculino	[ra]|fe
+rafe	nome feminino	[ra]|fe
+rafeira	nome feminino	ra|[fei]|ra
+rafeiro	nome masculino	ra|[fei]|ro
+rafeiro	adjetivo	ra|[fei]|ro
+raffiné	adjetivo	raf|fi|né
+rafflésia	nome feminino	raf|[flé]|si|a
+rafflesiácea	nome feminino	raf|fle|si|[á]|ce|a
+ráfia	nome feminino	[rá]|fi|a
+rafiar	verbo	ra|fi|[ar]
+ráfide	nome feminino	[rá]|fi|de
+rafídia	nome feminino	ra|[fí]|di|a
+rafidócera	nome feminino	ra|fi|[dó]|ce|ra
+rafidografia	nome feminino	ra|fi|do|gra|[fi]|a
+rafidográfico	adjetivo	ra|fi|do|[grá]|fi|co
+rafidógrafo	nome masculino	ra|fi|[dó]|gra|fo
+rafidolépide	nome feminino	ra|fi|do|[lé]|pi|de
+rafidólito	nome masculino	ra|fi|[dó]|li|to
+rafidonema	nome feminino	ra|fi|do|[ne]|ma
+rafigrafia	nome feminino	ra|fi|gra|[fi]|a
+rafigráfico	adjetivo	ra|fi|[grá]|fi|co
+rafígrafo	nome masculino	ra|[fí]|gra|fo
+rafting	nome masculino	[raf]|ting
+rágada	nome feminino	[rá]|ga|da
+rágade	nome feminino	[rá]|ga|de
+ragádia	nome feminino	ra|[gá]|di|a
+rageira	nome feminino	ra|[gei]|ra
+ragga	nome feminino	[rag]|ga
+raglã	adjetivo	ra|[glã]
+ragoide	adjetivo	ra|[goi]|de
+ragóideo	adjetivo	ra|[gói]|de|o
+ragoût	nome masculino	ra|goût
+ragu	nome masculino	ra|[gu]
+râguebi	nome masculino	[râ]|gue|bi
+raguebista	nome masculino	ra|gue|[bis]|ta
+raguebista	nome feminino	ra|gue|[bis]|ta
+ragusano	nome masculino	ra|gu|[sa]|no
+ragusano	adjetivo	ra|gu|[sa]|no
+raia	nome feminino	[rai]|a
+raiação	nome feminino	rai|a|[ção]
+raiado	adjetivo	rai|[a]|do
+raiana	nome feminino	rai|[a]|na
+raiano	adjetivo	rai|[a]|no
+raiano	nome masculino	rai|[a]|no
+raiar	verbo	rai|[ar]
+raid	nome masculino	[raid]
+raide	nome masculino	[rai]|de
+raieira	interjeição	rai|[ei]|ra
+raieiro	adjetivo	rai|[ei]|ro
+raigota	nome feminino	rai|[go]|ta
+raigoto	nome masculino	rai|[go]|to
+raigotoso	adjetivo	rai|go|[to]|so
+raigrás	nome masculino	rai|[grás]
+raíida	nome masculino	ra|[í]|i|da
+raíida	nome masculino	ra|[í]|i|da
+raiídeo	nome masculino	rai|[í]|de|o
+raiídeo	adjetivo	rai|[í]|de|o
+raiídeo	nome masculino	rai|[í]|de|o
+rail	nome masculino	[rail]
+raile	nome masculino	[rai]|le
+raimundo-silvestre	nome masculino	[rai]
+raineta	nome feminino	rai|[ne]|ta
+raineta	adjetivo	rai|[ne]|ta
+rainha	nome feminino	ra|[i]|nha
+rainha-cláudia	nome feminino	ra|i|nha-cláu|di|a
+rainha-dos-prados	nome feminino	ra|i|nha-dos-pra|dos
+rainha-margarida	nome feminino	[ra]
+rainheta	nome feminino	ra|i|[nhe]|ta
+rainho	adjetivo	ra|[i]|nho
+rainúnculo	nome masculino	rai|[nún]|cu|lo
+raio	nome masculino	[rai]|o
+raiola	nome feminino	rai|[o]|la
+raios-de-júpiter	nome masculino	rai|os-de-jú|pi|ter
+raioso	adjetivo	rai|[o]|so
+raiuna	nome feminino	rai|[u]|na
+raiuna	adjetivo	rai|[u]|na
+raiva	nome feminino	[rai]|va
+raivar	verbo	rai|[var]
+raivecer	verbo	rai|ve|[cer]
+raivejar	verbo	rai|ve|[jar]
+raivel	nome masculino	rai|[vel]
+raivença	nome feminino	rai|[ven]|ça
+raivento	adjetivo	rai|[ven]|to
+raivinha	nome feminino	rai|[vi]|nha
+raivinhas	nome feminino	rai|[vi]|nhas
+raivó	nome masculino	rai|[vó]
+raivosa	nome feminino	rai|[vo]|sa
+raivosamente	advérbio	rai|vo|sa|[men]|te
+raivoso	adjetivo	rai|[vo]|so
+raiz	nome feminino	ra|[iz]
+raiz-da-china	nome feminino	ra|iz-da-chi|na
+raiz-da-guiné	nome feminino	ra|iz-da-gui|[né]
+raiz-da-madre-de-deus	nome feminino	rai|iz-da-ma|dre-de-deus
+raiz-de-cobra	nome feminino	ra|iz-de-co|bra
+raiz-de-corvo	nome feminino	ra|iz-de-cor|vo
+raiz-divina	nome feminino	ra|iz-di|[vi]|na

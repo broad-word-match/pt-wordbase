@@ -1,0 +1,100 @@
+pielografia	nome feminino	pi|e|lo|gra|[fi]|a
+pielonefrite	nome feminino	pi|e|lo|ne|[fri]|te
+pielotomia	nome feminino	pi|e|lo|to|[mi]|a
+pielotômico	adjetivo	pi|e|lo|[tô]|mi|co
+pielotómico	adjetivo	pi|e|lo|[tó]|mi|co
+piemia	nome feminino	pi|e|[mi]|a
+piémico	adjetivo	pi|[é]|mi|co
+piêmico	adjetivo	pi|[ê]|mi|co
+piemontês	adjetivo	pi|e|mon|[tês]
+piemontês	nome masculino	pi|e|mon|[tês]
+piemontesa	nome feminino	pi|e|mon|[te]|sa
+piemontite	nome feminino	pi|e|mon|[ti]|te
+piense	adjetivo	pi|[en]|se
+piense	nome masculino	pi|[en]|se
+piense	nome feminino	pi|[en]|se
+pientíssimo	adjetivo	pi|en|[tís]|si|mo
+piercing	nome masculino	[pier]|cing
+piérico	adjetivo	pi|[é]|ri|co
+piéride	nome feminino	pi|[é]|ri|de
+piério	adjetivo	pi|[é]|ri|o
+pierótico	adjetivo	pi|e|[ró]|ti|co
+pierrô	nome masculino	pi|er|[rô]
+pierrotesco	adjetivo	pi|er|ro|[tes]|co
+pietismo	nome masculino	pi|e|[tis]|mo
+pietista	adjetivo	pi|e|[tis]|ta
+pietista	nome masculino	pi|e|[tis]|ta
+pietista	nome feminino	pi|e|[tis]|ta
+pietístico	adjetivo	pi|e|[tís]|ti|co
+pieze	nome masculino	pi|[e]|ze
+piezeléctrico	adjetivo	pi|e|ze|[léc]|tri|co
+piezeletricidade	nome feminino	pi|e|ze|le|tri|ci|[da]|de
+piezelétrico	adjetivo	pi|e|ze|[lé]|tri|co
+piezoeléctrico	adjetivo	pi|e|zo|e|[léc]|tri|co
+piezoeletricidade	nome feminino	pi|e|zo|e|le|tri|ci|[da]|de
+piezoelétrico	adjetivo	pi|e|zo|e|[lé]|tri|co
+piezógrafo	nome masculino	pi|e|[zó]|gra|fo
+piezometria	nome feminino	pi|e|zo|me|[tri]|a
+piezométrico	adjetivo	pi|e|zo|[mé]|tri|co
+piezômetro	nome masculino	pi|e|[zô]|me|tro
+piezómetro	nome masculino	pi|e|[zó]|me|tro
+pifado	adjetivo	pi|[fa]|do
+pífano	nome masculino	[pí]|fa|no
+pifão	nome masculino	pi|[fão]
+pifar	verbo	pi|[far]
+pífaro	nome masculino	[pí]|fa|ro
+pifiamente	advérbio	pi|fi|a|[men]|te
+pífio	adjetivo	[pí]|fi|o
+pifo	nome masculino	[pi]|fo
+pigarça	nome feminino	pi|[gar]|ça
+pigarço	adjetivo	pi|[gar]|ço
+pigargo	nome masculino	pi|[gar]|go
+pigarra	nome feminino	pi|[gar]|ra
+pigarrar	verbo	pi|gar|[rar]
+pigarrear	verbo	pi|gar|re|[ar]
+pigarreira	nome feminino	pi|gar|[rei]|ra
+pigarrento	adjetivo	pi|gar|[ren]|to
+pigarro	nome masculino	pi|[gar]|ro
+pigarroso	adjetivo	pi|gar|[ro]|so
+pigeonita	nome feminino	pi|ge|o|[ni]|ta
+pigeonite	nome feminino	pi|ge|o|[ni]|te
+pigeonítico	adjetivo	pi|ge|o|[ní]|ti|co
+pigídio	nome masculino	pi|[gí]|di|o
+pigmeia	nome feminino	pig|[mei]|a
+pigmentação	nome feminino	pig|men|ta|[ção]
+pigmentado	adjetivo	pig|men|[ta]|do
+pigmentar	adjetivo	pig|men|[tar]
+pigmentar	verbo	pig|men|[tar]
+pigmentário	adjetivo	pig|men|[tá]|ri|o
+pigmentário	nome masculino	pig|men|[tá]|ri|o
+pigmento	nome masculino	pig|[men]|to
+pigmeu	nome masculino	pig|[meu]
+pigmógrafo	adjetivo	pig|[mó]|gra|fo
+pigmógrafo	nome masculino	pig|[mó]|gra|fo
+pignoratício	adjetivo	pig|no|ra|[tí]|ci|o
+pigômelo	nome masculino	pi|[gô]|me|lo
+pigómelo	nome masculino	pi|[gó]|me|lo
+pigopagia	nome feminino	pi|go|pa|[gi]|a
+pigópago	nome masculino	pi|[gó]|pa|go
+pigostílio	nome masculino	pi|gos|[tí]|li|o
+pigostilo	nome masculino	pi|gos|[ti]|lo
+pigotite	nome feminino	pi|go|[ti]|te
+pigro	adjetivo	[pi]|gro
+piguancha	nome feminino	pi|[guan]|cha
+píico	adjetivo	[pí]|i|co
+piina	nome feminino	pi|[i]|na
+piíssimo	adjetivo	pi|[ís]|si|mo
+pijama	nome masculino	pi|[ja]|ma
+pijeiro	nome masculino	pi|[jei]|ro
+pijerecu	nome masculino	pi|je|re|[cu]
+pijuca	nome feminino	pi|[ju]|ca
+pila	nome feminino	[pi]|la
+pilação	nome feminino	pi|la|[ção]
+pilado	adjetivo	pi|[la]|do
+pilado	nome masculino	pi|[la]|do
+pilador	adjetivo	pi|la|[dor]
+pilador	nome masculino	pi|la|[dor]
+pilágora	nome masculino	pi|[lá]|go|ra
+pilano	nome masculino	pi|[la]|no
+pilantra	adjetivo	pi|[lan]|tra
+pilantra	nome masculino	pi|[lan]|tra

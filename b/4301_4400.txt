@@ -1,0 +1,100 @@
+bioenergia	nome feminino	bi|o|e|ner|[gi]|a
+bioengenharia	nome feminino	bi|o|en|ge|nha|[ri]|a
+bioensaiar	verbo	bi|o|en|sai|[ar]
+bioensaio	nome masculino	bi|o|en|[sai]|o
+bioestatística	nome feminino	bi|o|es|ta|[tís]|ti|ca
+bioestatístico	adjetivo	bi|o|es|ta|[tís]|ti|co
+bioética	nome feminino	bi|o|[é]|ti|ca
+bioético	adjetivo	bi|o|[é]|ti|co
+biofármaco	nome masculino	bi|o|[fár]|ma|co
+biofilia	nome feminino	bi|o|fi|[li]|a
+biofílico	adjetivo	bi|o|[fí]|li|co
+biófilo	adjetivo	bi|[ó]|fi|lo
+biófilo	nome masculino	bi|[ó]|fi|lo
+biofísica	nome feminino	bi|o|[fí]|si|ca
+biofísico	adjetivo	bi|o|[fí]|si|co
+bioflavonoide	nome masculino	bi|o|fla|vo|[noi]|de
+biofobia	nome feminino	bi|o|fo|[bi]|a
+biófobo	adjetivo	bi|[ó]|fo|bo
+biófobo	nome masculino	bi|[ó]|fo|bo
+bióforo	nome masculino	bi|[ó]|fo|ro
+biogás	nome masculino	bi|o|[gás]
+biogênese	nome feminino	bi|o|[gê]|ne|se
+biogénese	nome feminino	bi|o|[gé]|ne|se
+biogenésico	adjetivo	bi|o|ge|[né]|si|co
+biogenética	nome feminino	bi|o|ge|[né]|ti|ca
+biogenético	adjetivo	bi|o|ge|[né]|ti|co
+biogenia	nome feminino	bi|o|ge|[ni]|a
+biogénico	adjetivo	bi|o|[gé]|ni|co
+biogênico	adjetivo	bi|o|[gê]|ni|co
+biogeografia	nome feminino	bi|o|ge|o|gra|[fi]|a
+biogeográfico	adjetivo	bi|o|ge|o|[grá]|fi|co
+biogeógrafo	nome masculino	bi|o|ge|[ó]|gra|fo
+biogeoquímica	nome feminino	bi|o|ge|o|[quí]|mi|ca
+biogeoquímico	adjetivo	bi|o|ge|o|[quí]|mi|co
+biogeoquímico	nome masculino	bi|o|ge|o|[quí]|mi|co
+biognose	nome feminino	bi|og|[no]|se
+biognóstico	adjetivo	bi|og|[nós]|ti|co
+biógrafa	nome feminino	bi|[ó]|gra|fa
+biografado	adjetivo	bi|o|gra|[fa]|do
+biografado	nome masculino	bi|o|gra|[fa]|do
+biografar	verbo	bi|o|gra|[far]
+biografia	nome feminino	bi|o|gra|[fi]|a
+biograficamente	advérbio	bi|o|gra|fi|ca|[men]|te
+biográfico	adjetivo	bi|o|[grá]|fi|co
+biográfico-crítico	adjetivo	bi|o|grá|fi|co-crí|ti|co
+biografista	nome masculino	bi|o|gra|[fis]|ta
+biografista	nome feminino	bi|o|gra|[fis]|ta
+biografístico	adjetivo	bi|o|gra|[fís]|ti|co
+biógrafo	nome masculino	bi|[ó]|gra|fo
+bioindicação	nome feminino	bi|o|in|di|ca|[ção]
+bioindicador	nome masculino	bi|o|in|di|ca|[dor]
+bioindústria	nome feminino	bi|o|in|[dús]|tri|a
+biólito	nome masculino	bi|[ó]|li|to
+bióloga	nome feminino	bi|[ó]|lo|ga
+biologia	nome feminino	bi|o|lo|[gi]|a
+biologicamente	advérbio	bi|o|lo|gi|ca|[men]|te
+biológico	adjetivo	bi|o|[ló]|gi|co
+biologismo	nome masculino	bi|o|lo|[gis]|mo
+biologista	nome masculino	bi|o|lo|[gis]|ta
+biologista	nome feminino	bi|o|lo|[gis]|ta
+biologístico	adjetivo	bi|o|lo|[gís]|ti|co
+biólogo	nome masculino	bi|[ó]|lo|go
+bioluminescência	nome feminino	bi|o|lu|mi|nes|[cên]|ci|a
+bioluminescente	adjetivo	bi|o|lu|mi|nes|[cen]|te
+bioma	nome masculino	bi|[o]|ma
+biomagnetismo	nome masculino	bi|o|mag|ne|[tis]|mo
+biomagnificável	adjetivo	bi|o|mag|ni|fi|[cá]|vel
+biomassa	nome feminino	bi|o|[mas]|sa
+biombo	nome masculino	bi|[om]|bo
+biomecânica	nome feminino	bi|o|me|[câ]|ni|ca
+biomecânico	adjetivo	bi|o|me|[câ]|ni|co
+biomecânico	nome masculino	bi|o|me|[câ]|ni|co
+biomedicina	nome feminino	bi|o|me|di|[ci]|na
+biomédico	adjetivo	bi|o|[mé]|di|co
+biometria	nome feminino	bi|o|me|[tri]|a
+biométrico	adjetivo	bi|o|[mé]|tri|co
+biómetro	nome masculino	bi|[ó]|me|tro
+biômetro	nome masculino	bi|[ô]|me|tro
+biomolécula	nome feminino	bi|o|mo|[lé]|cu|la
+biomonitor	nome masculino	bi|o|mo|ni|[tor]
+biomonitorização	nome feminino	bi|o|mo|ni|to|ri|za|[ção]
+biomórfico	adjetivo	bi|o|[mór]|fi|co
+biomorfismo	nome masculino	bi|o|mor|[fis]|mo
+biomorfose	nome feminino	bi|o|mor|[fo]|se
+biomorfótico	adjetivo	bi|o|mor|[fó]|ti|co
+biónica	nome feminino	bi|[ó]|ni|ca
+biônica	nome feminino	bi|[ô]|ni|ca
+biônico	adjetivo	bi|[ô]|ni|co
+biónico	adjetivo	bi|[ó]|ni|co
+bionomia	nome feminino	bi|o|no|[mi]|a
+bionômico	adjetivo	bi|o|[nô]|mi|co
+bionómico	adjetivo	bi|o|[nó]|mi|co
+bionose	nome feminino	bi|o|[no]|se
+biopatologia	nome feminino	bi|o|pa|to|lo|[gi]|a
+biopatológico	adjetivo	bi|o|pa|to|[ló]|gi|co
+bioplasma	nome masculino	bi|o|[plas]|ma
+bioplásmico	adjetivo	bi|o|[plás]|mi|co
+biopse	nome feminino	bi|[op]|se
+biópsia	nome feminino	bi|[óp]|si|a
+biopsia	nome feminino	bi|op|[si]|a

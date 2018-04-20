@@ -1,0 +1,100 @@
+brasio	nome masculino	bra|[si]|o
+brasis	nome masculino	bra|[sis]
+brasoar	verbo	bra|so|[ar]
+brasonado	adjetivo	bra|so|[na]|do
+brasonar	verbo	bra|so|[nar]
+brasopolitano	adjetivo	bra|so|po|li|[ta]|no
+brasopolitano	nome masculino	bra|so|po|li|[ta]|no
+brassadura	nome feminino	bras|sa|[du]|ra
+brassagem	nome feminino	bras|[sa]|gem
+brassajote	nome masculino	bras|sa|[jo]|te
+brassávola	nome feminino	bras|[sá]|vo|la
+brassejote	nome masculino	bras|se|[jo]|te
+brássica	nome feminino	[brás]|si|ca
+brassicácea	nome feminino	bras|si|[cá]|ce|a
+brassicáceo	adjetivo	bras|si|[cá]|ce|o
+brassolídeo	adjetivo	bras|so|[lí]|de|o
+brassólis	nome masculino	bras|[só]|lis
+brasuca	adjetivo	bra|[su]|ca
+brasuca	nome masculino	bra|[su]|ca
+brasuca	nome feminino	bra|[su]|ca
+brasume	nome masculino	bra|[su]|me
+braúna	nome feminino	bra|[ú]|na
+braunita	nome feminino	brau|[ni]|ta
+braunite	nome feminino	brau|[ni]|te
+brava	nome feminino	[bra]|va
+bravamente	advérbio	bra|va|[men]|te
+bravar	verbo	bra|[var]
+bravata	nome feminino	bra|[va]|ta
+bravatão	adjetivo	bra|va|[tão]
+bravatão	nome masculino	bra|va|[tão]
+bravateador	adjetivo	bra|va|te|a|[dor]
+bravateador	nome masculino	bra|va|te|a|[dor]
+bravatear	verbo	bra|va|te|[ar]
+bravateiro	adjetivo	bra|va|[tei]|ro
+bravateiro	nome masculino	bra|va|[tei]|ro
+bravear	verbo	bra|ve|[ar]
+braveira	nome feminino	bra|[vei]|ra
+bravejar	verbo	bra|ve|[jar]
+braveza	nome feminino	bra|[ve]|za
+bravia	nome feminino	bra|[vi]|a
+braviamente	advérbio	bra|vi|a|[men]|te
+bravio	adjetivo	bra|[vi]|o
+bravio	nome masculino	bra|[vi]|o
+bravisco	adjetivo	bra|[vis]|co
+bravíssimo	adjetivo	bra|[vís]|si|mo
+bravo	adjetivo	[bra]|vo
+bravo	nome masculino	[bra]|vo
+bravo	interjeição	[bra]|vo
+bravo-de-esmolfo	nome masculino	bra|vo-de-es|[mol]|fo
+bravo-de-mel	nome masculino	bra|vo-de-mel
+bravo-de-mondão	nome masculino	bra|vo-de-mon|[dão]
+bravo-de-mundão	nome masculino	bra|vo-de-mun|[dão]
+brávoa	nome feminino	[brá]|vo|a
+bravosidade	nome feminino	bra|vo|si|[da]|de
+bravoso	adjetivo	bra|[vo]|so
+bravura	nome feminino	bra|[vu]|ra
+breado	adjetivo	bre|[a]|do
+breadura	nome feminino	bre|a|[du]|ra
+breagem	nome feminino	bre|[a]|gem
+break	nome masculino	[break]
+breakdance	nome masculino	break|dan|ce
+breal	adjetivo	bre|[al]
+breal	nome masculino	bre|[al]
+breamante	nome masculino	bre|a|[man]|te
+brear	verbo	bre|[ar]
+breba	nome feminino	[bre]|ba
+breca	nome feminino	[bre]|ca
+brecada	nome feminino	bre|[ca]|da
+brecagem	nome feminino	bre|[ca]|gem
+brecar	verbo	bre|[car]
+brecha	nome feminino	[bre]|cha
+brechado	adjetivo	bre|[cha]|do
+brechão	nome masculino	bre|[chão]
+brechiforme	adjetivo	bre|chi|[for]|me
+brechtiano	adjetivo	brech|ti|[a]|no
+brechtiano	nome masculino	brech|ti|[a]|no
+brecumbucu	nome masculino	bre|cum|bu|[cu]
+bredo	nome masculino	[bre]|do
+brefo	nome masculino	[bre]|fo
+brefotrofeu	nome masculino	bre|fo|tro|[feu]
+brefótrofo	nome masculino	bre|[fó]|tro|fo
+brega	adjetivo	[bre]|ga
+brega	nome feminino	[bre]|ga
+bregal	nome masculino	bre|[gal]
+breger	adjetivo	bre|[ger]
+bregma	nome masculino	[breg]|ma
+bregmal	adjetivo	breg|[mal]
+bregmático	adjetivo	breg|[má]|ti|co
+brégmico	adjetivo	[brég]|mi|co
+breguegui	nome masculino	bre|gue|[gui]
+breguilha	nome feminino	bre|[gui]|lha
+brejado	adjetivo	bre|[ja]|do
+brejal	nome masculino	bre|[jal]
+brejão	nome masculino	bre|[jão]
+brejaúba	nome feminino	bre|ja|[ú]|ba
+brejeira	nome feminino	bre|[jei]|ra
+brejeirada	nome feminino	bre|jei|[ra]|da
+brejeiral	adjetivo	bre|jei|[ral]
+brejeiramente	advérbio	bre|jei|ra|[men]|te
+brejeirão	nome masculino	bre|jei|[rão]

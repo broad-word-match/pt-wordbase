@@ -1,0 +1,60 @@
+guritão	nome masculino	gu|ri|[tão]
+guriteiro	nome masculino	gu|ri|[tei]|ro
+gurizada	nome feminino	gu|ri|[za]|da
+gurizote	nome masculino	gu|ri|[zo]|te
+gurma	nome feminino	[gur]|ma
+gurrino	nome masculino	gur|[ri]|no
+guru	nome masculino	gu|[ru]
+guru	nome feminino	gu|[ru]
+gurubu	nome masculino	gu|ru|[bu]
+gurugumba	nome feminino	gu|ru|[gum]|ba
+gurumarim	nome masculino	gu|ru|ma|[rim]
+gurundi	nome masculino	gu|run|[di]
+gurupés	nome masculino	gu|ru|[pés]
+gurupi	nome masculino	gu|ru|[pi]
+gurupiá	nome masculino	gu|ru|pi|[á]
+gurutil	nome masculino	gu|ru|[til]
+gurutuba	nome feminino	gu|ru|[tu]|ba
+gurutubano	nome masculino	gu|ru|tu|[ba]|no
+gusa	nome feminino	[gu]|sa
+gusano	nome masculino	gu|[sa]|no
+gusla	nome feminino	[gus]|la
+guso	nome masculino	[gu]|so
+gustação	nome feminino	gus|ta|[ção]
+gustativo	adjetivo	gus|ta|[ti]|vo
+gustatório	nome masculino	gus|ta|[tó]|ri|o
+gustatório	adjetivo	gus|ta|[tó]|ri|o
+gustávia	nome feminino	gus|[tá]|vi|a
+guta	nome feminino	[gu]|ta
+guta-percha	nome feminino	gu|ta-per|cha
+gutação	nome feminino	gu|ta|[ção]
+guté	nome masculino	gu|[té]
+guteira	nome feminino	gu|[tei]|ra
+guterrismo	nome masculino	gu|ter|[ris]|mo
+guterrista	adjetivo	gu|ter|[ris]|ta
+gutífera	nome masculino	gu|[tí]|fe|ra
+gutífera	nome feminino	gu|[tí]|fe|ra
+gutífero	adjetivo	gu|[tí]|fe|ro
+gutina	nome feminino	gu|[ti]|na
+gutipene	adjetivo	gu|ti|[pe]|ne
+guto	nome masculino	[gu]|to
+gútulo	nome masculino	[gú]|tu|lo
+gutural	adjetivo	gu|tu|[ral]
+gutural	nome feminino	gu|tu|[ral]
+guturalidade	nome feminino	gu|tu|ra|li|[da]|de
+guturalização	nome feminino	gu|tu|ra|li|za|[ção]
+guturalizar	verbo	gu|tu|ra|li|[zar]
+guturalmente	advérbio	gu|tu|ral|[men]|te
+guturopalatal	adjetivo	gu|tu|ro|pa|la|[tal]
+guturopalatal	nome feminino	gu|tu|ro|pa|la|[tal]
+guturoso	adjetivo	gu|tu|[ro]|so
+guturoso	nome masculino	gu|tu|[ro]|so
+guturotetania	nome feminino	gu|tu|ro|te|ta|[ni]|a
+guxe	nome masculino	[gu]|xe
+guzarate	adjetivo	gu|za|[ra]|te
+guzarate	nome masculino	gu|za|[ra]|te
+guzarate	nome feminino	gu|za|[ra]|te
+guzerate	adjetivo	gu|ze|[ra]|te
+guzerate	nome masculino	gu|ze|[ra]|te
+guzerate	nome feminino	gu|ze|[ra]|te
+guzo	nome masculino	[gu]|zo

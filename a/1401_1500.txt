@@ -1,0 +1,100 @@
+abril	nome masculino	a|[bril]
+abrilhantado	adjetivo	a|bri|lhan|[ta]|do
+abrilhantador	adjetivo	a|bri|lhan|ta|[dor]
+abrilhantador	nome masculino	a|bri|lhan|ta|[dor]
+abrilhantamento	nome masculino	a|bri|lhan|ta|[men]|to
+abrilhantar	verbo	a|bri|lhan|[tar]
+abrilhantável	adjetivo	a|bri|lhan|[tá]|vel
+abrilino	adjetivo	a|bri|[li]|no
+abrimento	nome masculino	a|bri|[men]|to
+abrincátua	nome feminino	a|brin|[cá]|tu|a
+abrincátuo	nome masculino	a|brin|[cá]|tu|o
+abrincátuo	adjetivo	a|brin|[cá]|tu|o
+abrir	verbo	a|[brir]
+abrível	adjetivo	a|[brí]|vel
+abro	nome masculino	[a]|bro
+abrocadado	adjetivo	a|bro|ca|[da]|do
+abrocadar	verbo	a|bro|ca|[dar]
+abrochador	nome masculino	a|bro|cha|[dor]
+abrochadura	nome feminino	a|bro|cha|[du]|ra
+abrochar	verbo	a|bro|[char]
+abroeirado	adjetivo	a|bro|ei|[ra]|do
+abrolhada	nome feminino	a|bro|[lha]|da
+abrolhado	adjetivo	a|bro|[lha]|do
+abrolhador	adjetivo	a|bro|lha|[dor]
+abrolhal	nome masculino	a|bro|[lhal]
+abrolhamento	nome masculino	a|bro|lha|[men]|to
+abrolhar	verbo	a|bro|[lhar]
+abrolho	nome masculino	a|[bro]|lho
+abrolhoso	adjetivo	a|bro|[lho]|so
+abroma	nome masculino	a|[bro]|ma
+abroncado	adjetivo	a|bron|[ca]|do
+abrónia	nome feminino	a|[bró]|ni|a
+abrônia	nome feminino	a|[brô]|ni|a
+abronzar	verbo	a|bron|[zar]
+abronzeado	adjetivo	a|bron|ze|[a]|do
+abronzeamento	nome masculino	a|bron|ze|a|[men]|to
+abronzear	verbo	a|bron|ze|[ar]
+abroquelado	adjetivo	a|bro|que|[la]|do
+abroquelar	verbo	a|bro|que|[lar]
+abrota	nome feminino	a|[bro]|ta
+abrotal	nome masculino	a|bro|[tal]
+abrótano	nome masculino	a|[bró]|ta|no
+abrótano-fêmea	nome masculino	a|bró|ta|no-fê|me|a
+abrótano-macho	nome masculino	a|bró|ta|no-ma|cho
+abrotanoide	adjetivo	a|bro|ta|[noi]|de
+abrotar	verbo	a|bro|[tar]
+abrótea	nome feminino	a|[bró]|te|a
+abroteal	nome masculino	a|bro|te|[al]
+abrótega	nome feminino	a|[bró]|te|ga
+abrótica	nome feminino	a|[bró]|ti|ca
+abrótiga	nome feminino	a|[bró]|ti|ga
+abrotonita	nome masculino	a|bro|to|[ni]|ta
+abrótono	nome masculino	a|[bró]|to|no
+abrotonóíde	adjetivo	a|bro|to|[nó]|í|de
+abrumado	adjetivo	a|bru|[ma]|do
+abrumar	verbo	a|bru|[mar]
+abrunhal	nome masculino	a|bru|[nhal]
+abrunhal	adjetivo	a|bru|[nhal]
+abrunheira	nome feminino	a|bru|[nhei]|ra
+abrunheiro	nome masculino	a|bru|[nhei]|ro
+abrunheiro-bravo	nome masculino	a|bru|nhei|ro-bra|vo
+abrunho	nome masculino	a|[bru]|nho
+abrupção	nome feminino	a|brup|[ção]
+abruptamente	advérbio	ab|rup|ta|[men]|te
+abruptinérveo	adjetivo	a|brup|ti|[nér]|ve|o
+abruptipenado	adjetivo	a|brup|ti|pe|[na]|do
+abrupto	adjetivo	ab|[rup]|to
+abrutadamente	advérbio	a|bru|ta|da|[men]|te
+abrutado	adjetivo	a|bru|[ta]|do
+abrutalhadamente	advérbio	a|bru|ta|lha|da|[men]|te
+abrutalhado	adjetivo	a|bru|ta|[lha]|do
+abrutalhar	verbo	a|bru|ta|[lhar]
+abrutamento	nome masculino	a|bru|ta|[men]|to
+abrutar	verbo	a|bru|[tar]
+abrutecer	verbo	a|bru|te|[cer]
+absalônico	adjetivo	ab|sa|[lô]|ni|co
+absalónico	adjetivo	ab|sa|[ló]|ni|co
+abscedência	nome feminino	abs|ce|[dên]|ci|a
+abscedente	adjetivo	abs|ce|[den]|te
+absceder	verbo	abs|ce|[der]
+abscessão	nome feminino	abs|ces|[são]
+abscesso	nome masculino	abs|[ces]|so
+abscidente	adjetivo	abs|ci|[den]|te
+abscindente	adjetivo	abs|cin|[den]|te
+abscisão	nome feminino	abs|ci|[são]
+abscissa	nome feminino	abs|[cis]|sa
+abscissão	nome feminino	abs|cis|[são]
+absconder	verbo	abs|con|[der]
+abscôndito	adjetivo	abs|[côn]|di|to
+abscôndito	nome masculino	abs|[côn]|di|to
+abscônsia	nome feminino	abs|[côn]|si|a
+absconso	adjetivo	abs|[con]|so
+absconso	nome masculino	abs|[con]|so
+absecto	nome masculino	ab|[sec]|to
+absemelhança	nome feminino	ab|se|me|[lhan]|ça
+absemelhante	adjetivo	ab|se|me|[lhan]|te
+absência	nome feminino	ab|[sên]|ci|a
+absentar	verbo	ab|sen|[tar]
+absente	adjetivo	ab|[sen]|te
+absenteísmo	nome masculino	ab|sen|te|[ís]|mo

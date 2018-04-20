@@ -1,0 +1,100 @@
+sinalefa	nome feminino	si|na|[le]|fa
+sinalefista	nome masculino	si|na|le|[fis]|ta
+sinalefista	nome feminino	si|na|le|[fis]|ta
+sinaleira	nome feminino	si|na|[lei]|ra
+sinaleiro	nome masculino	si|na|[lei]|ro
+sinaleiro	adjetivo	si|na|[lei]|ro
+sinalética	nome feminino	si|na|[lé]|ti|ca
+sinalético	adjetivo	si|na|[lé]|ti|co
+sinalgia	nome feminino	si|nal|[gi]|a
+sinalhada	nome feminino	si|na|[lha]|da
+sinalização	nome feminino	si|na|li|za|[ção]
+sinalizador	adjetivo	si|na|li|za|[dor]
+sinalizador	nome masculino	si|na|li|za|[dor]
+sinalizar	verbo	si|na|li|[zar]
+sinalizável	adjetivo	si|na|li|[zá]|vel
+sinalpende	nome masculino	si|nal|[pen]|de
+sinandra	nome feminino	si|[nan]|dra
+sinanduba	nome feminino	si|nan|[du]|ba
+sinanterácea	nome feminino	si|nan|te|[rá]|ce|a
+sinantérea	nome feminino	si|nan|[té]|re|a
+sinantéreo	adjetivo	si|nan|[té]|re|o
+sinantérico	adjetivo	si|nan|[té]|ri|co
+sinanterografia	nome feminino	si|nan|te|ro|gra|[fi]|a
+sinanterográfico	adjetivo	si|nan|te|ro|[grá]|fi|co
+sinanterógrafo	nome masculino	si|nan|te|[ró]|gra|fo
+sinanterologia	nome feminino	si|nan|te|ro|lo|[gi]|a
+sinanterológico	adjetivo	si|nan|te|ro|[ló]|gi|co
+sinanterólogo	nome masculino	si|nan|te|[ró]|lo|go
+sinanteronomia	nome feminino	si|nan|te|ro|no|[mi]|a
+sinanteronômico	adjetivo	si|nan|te|ro|[nô]|mi|co
+sinanteronómico	adjetivo	si|nan|te|ro|[nó]|mi|co
+sinanterotecnia	nome feminino	si|nan|te|ro|tec|[ni]|a
+sinanterotécnico	adjetivo	si|nan|te|ro|[téc]|ni|co
+sinantia	nome feminino	si|nan|[ti]|a
+sinantocarpo	adjetivo	si|nan|to|[car]|po
+sinantropo	nome masculino	si|nan|[tro]|po
+sinantrose	nome feminino	si|nan|[tro]|se
+sinão	nome masculino	si|[não]
+sinapa	nome feminino	si|[na]|pa
+sinapato	nome masculino	si|na|[pa]|to
+sinápico	adjetivo	si|[ná]|pi|co
+sinapidendro	nome masculino	si|na|pi|[den]|dro
+sinapina	nome feminino	si|na|[pi]|na
+sinapisina	nome feminino	si|na|pi|[si]|na
+sinapismo	nome masculino	si|na|[pis]|mo
+sinapização	nome feminino	si|na|pi|za|[ção]
+sinapizar	verbo	si|na|pi|[zar]
+sinápode	adjetivo	si|[ná]|po|de
+sinápode	nome masculino	si|[ná]|po|de
+sinápode	nome feminino	si|[ná]|po|de
+sinapolina	nome feminino	si|na|po|[li]|na
+sinapse	nome feminino	si|[nap]|se
+sinapta	nome feminino	si|[nap]|ta
+sináptase	nome feminino	si|[náp]|ta|se
+sináptico	adjetivo	si|[náp]|ti|co
+sinapto	nome masculino	si|[nap]|to
+sinaptologia	nome feminino	si|nap|to|lo|[gi]|a
+sinarada	nome feminino	si|na|[ra]|da
+sinarco	nome masculino	si|[nar]|co
+sinarquia	nome feminino	si|nar|[qui]|a
+sinárquico	adjetivo	si|[nár]|qui|co
+sinartrose	nome feminino	si|nar|[tro]|se
+sinascídio	nome masculino	si|nas|[cí]|di|o
+sinaspisma	nome feminino	si|nas|[pis]|ma
+sinaspismo	nome masculino	si|nas|[pis]|mo
+sinatroísmo	nome masculino	si|na|tro|[ís]|mo
+sinaulia	nome feminino	si|nau|[li]|a
+sinaxário	nome masculino	si|na|[xá]|ri|o
+sinaxe	nome feminino	si|[na]|xe
+sincalipta	nome feminino	sin|ca|[lip]|ta
+sincarpado	adjetivo	sin|car|[pa]|do
+sincárpia	nome feminino	sin|[cár]|pi|a
+sincárpico	adjetivo	sin|[cár]|pi|co
+sincárpio	nome masculino	sin|[cár]|pi|o
+sincarpo	adjetivo	sin|[car]|po
+sincarpo	nome masculino	sin|[car]|po
+sincategorema	nome masculino	sin|ca|te|go|[re]|ma
+sincategoremático	adjetivo	sin|ca|te|go|re|[má]|ti|co
+sincefalanto	nome masculino	sin|ce|fa|[lan]|to
+sincefalia	nome feminino	sin|ce|fa|[li]|a
+sincéfalo	nome masculino	sin|[cé]|fa|lo
+sinceiral	nome masculino	sin|cei|[ral]
+sinceiro	nome masculino	sin|[cei]|ro
+sincelada	nome feminino	sin|ce|[la]|da
+sincelar	verbo	sin|ce|[lar]
+sincelo	nome masculino	sin|[ce]|lo
+sinceloso	adjetivo	sin|ce|[lo]|so
+sinceno	nome masculino	sin|[ce]|no
+sinceramente	advérbio	sin|ce|ra|[men]|te
+sinceridade	nome feminino	sin|ce|ri|[da]|de
+sincero	adjetivo	sin|[ce]|ro
+sincício	nome masculino	sin|[cí]|ci|o
+sincíclia	nome feminino	sin|[cí]|cli|a
+sincinesia	nome feminino	sin|ci|ne|[si]|a
+sincinético	adjetivo	sin|ci|[né]|ti|co
+sincínio	nome masculino	sin|[cí]|ni|o
+síncio	adjetivo	[sín]|ci|o
+síncio	nome masculino	[sín]|ci|o
+sincipício	nome masculino	sin|ci|[pí]|ci|o
+sincipital	adjetivo	sin|ci|pi|[tal]

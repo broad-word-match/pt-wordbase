@@ -1,0 +1,100 @@
+concubinário	adjetivo	con|cu|bi|[ná]|ri|o
+concubinário	nome masculino	con|cu|bi|[ná]|ri|o
+concubinato	nome masculino	con|cu|bi|[na]|to
+concubino	nome masculino	con|cu|[bi]|no
+concúbito	nome masculino	con|[cú]|bi|to
+conculcador	adjetivo	con|cul|ca|[dor]
+conculcador	nome masculino	con|cul|ca|[dor]
+conculcar	verbo	con|cul|[car]
+conculuta	nome feminino	con|cu|[lu]|ta
+concunhada	nome feminino	con|cu|[nha]|da
+concunhado	nome masculino	con|cu|[nha]|do
+concupiscência	nome feminino	con|cu|pis|[cên]|ci|a
+concupiscente	adjetivo	con|cu|pis|[cen]|te
+concupiscível	adjetivo	con|cu|pis|[cí]|vel
+concursado	adjetivo	con|cur|[sa]|do
+concursado	nome masculino	con|cur|[sa]|do
+concursista	nome masculino	con|cur|[sis]|ta
+concursista	nome feminino	con|cur|[sis]|ta
+concurso	nome masculino	con|[cur]|so
+concurvar	verbo	con|cur|[var]
+concussão	nome feminino	con|cus|[são]
+concussionário	adjetivo	con|cus|si|o|[ná]|ri|o
+concussionário	nome masculino	con|cus|si|o|[ná]|ri|o
+concussor	nome masculino	con|cus|[sor]
+concutir	verbo	con|cu|[tir]
+concutível	adjetivo	con|cu|[tí]|vel
+concutor	nome masculino	con|cu|[tor]
+condado	nome masculino	con|[da]|do
+condal	adjetivo	con|[dal]
+condão	nome masculino	con|[dão]
+conde	nome masculino	[con]|de
+conde-duque	nome masculino	con|de-du|que
+condecoração	nome feminino	con|de|co|ra|[ção]
+condecorada	nome feminino	con|de|co|[ra]|da
+condecorado	adjetivo	con|de|co|[ra]|do
+condecorado	nome masculino	con|de|co|[ra]|do
+condecorar	verbo	con|de|co|[rar]
+condecorativo	adjetivo	con|de|co|ra|[ti]|vo
+condecorável	adjetivo	con|de|co|[rá]|vel
+condeixense	nome masculino	con|dei|[xen]|se
+condeixense	adjetivo	con|dei|[xen]|se
+condeixense	nome feminino	con|dei|[xen]|se
+condenação	nome feminino	con|de|na|[ção]
+condenada	nome feminino	con|de|[na]|da
+condenado	nome masculino	con|de|[na]|do
+condenado	adjetivo	con|de|[na]|do
+condenador	nome masculino	con|de|na|[dor]
+condenador	adjetivo	con|de|na|[dor]
+condenamento	nome masculino	con|de|na|[men]|to
+condenar	verbo	con|de|[nar]
+condenatório	adjetivo	con|de|na|[tó]|ri|o
+condenável	adjetivo	con|de|[ná]|vel
+condenavelmente	advérbio	con|de|na|vel|[men]|te
+condensabilidade	nome feminino	con|den|sa|bi|li|[da]|de
+condensação	nome feminino	con|den|sa|[ção]
+condensadamente	advérbio	con|den|sa|da|[men]|te
+condensado	nome masculino	con|den|[sa]|do
+condensado	adjetivo	con|den|[sa]|do
+condensador	nome masculino	con|den|sa|[dor]
+condensador	adjetivo	con|den|sa|[dor]
+condensante	adjetivo	con|den|[san]|te
+condensar	verbo	con|den|[sar]
+condensativo	adjetivo	con|den|sa|[ti]|vo
+condensável	adjetivo	con|den|[sá]|vel
+condescendência	nome feminino	con|des|cen|[dên]|ci|a
+condescendente	adjetivo	con|des|cen|[den]|te
+condescender	verbo	con|des|cen|[der]
+condescendimento	nome masculino	con|des|cen|di|[men]|to
+condessa	nome feminino	con|[des]|sa
+condessar	verbo	con|des|[sar]
+condesseiro	nome masculino	con|des|[sei]|ro
+condessinha	nome feminino	con|des|[si]|nha
+condesso	nome masculino	con|[des]|so
+condestablado	nome masculino	con|des|ta|[bla]|do
+condestable	nome masculino	con|des|[ta]|ble
+condestabrado	nome masculino	con|des|ta|[bra]|do
+condestabre	nome masculino	con|des|[ta]|bre
+condestabriano	adjetivo	con|des|ta|bri|[a]|no
+condestável	nome masculino	con|des|[tá]|vel
+condeúba	nome feminino	con|de|[ú]|ba
+condição	nome feminino	con|di|[ção]
+condicente	adjetivo	con|di|[cen]|te
+condicionado	adjetivo	con|di|ci|o|[na]|do
+condicionado	nome masculino	con|di|ci|o|[na]|do
+condicionador	nome masculino	con|di|ci|o|na|[dor]
+condicionador	adjetivo	con|di|ci|o|na|[dor]
+condicionadora	nome feminino	con|di|ci|o|na|[do]|ra
+condicional	adjetivo	con|di|ci|o|[nal]
+condicional	nome masculino	con|di|ci|o|[nal]
+condicional	nome feminino	con|di|ci|o|[nal]
+condicionalidade	nome feminino	con|di|ci|o|na|li|[da]|de
+condicionalismo	nome masculino	con|di|ci|o|na|[lis]|mo
+condicionalmente	advérbio	con|di|ci|o|nal|[men]|te
+condicionamento	nome masculino	con|di|ci|o|na|[men]|to
+condicionante	adjetivo	con|di|ci|o|[nan]|te
+condicionante	nome feminino	con|di|ci|o|[nan]|te
+condicionar	verbo	con|di|ci|o|[nar]
+condicionável	adjetivo	con|di|ci|o|[ná]|vel
+condignamente	advérbio	con|dig|na|[men]|te
+condignar	verbo	con|dig|[nar]

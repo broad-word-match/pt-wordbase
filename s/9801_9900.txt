@@ -1,0 +1,100 @@
+sucupira	nome feminino	su|cu|[pi]|ra
+sucuri	nome masculino	su|cu|[ri]
+sucuri	nome feminino	su|cu|[ri]
+sucurijuba	nome feminino	su|cu|ri|[ju]|ba
+sucuriú	nome feminino	su|cu|ri|[ú]
+sucuriúba	nome feminino	su|cu|ri|[ú]|ba
+sucursal	adjetivo	su|cur|[sal]
+sucursal	nome feminino	su|cur|[sal]
+sucursalismo	nome masculino	su|cur|sa|[lis]|mo
+sucuru	adjetivo	su|cu|[ru]
+sucuru	nome masculino	su|cu|[ru]
+sucuru	nome feminino	su|cu|[ru]
+sucussão	nome feminino	su|cus|[são]
+sucuuba	nome feminino	su|cu|[u]|ba
+sud-express	nome masculino	sud-ex|press
+sudação	nome feminino	su|da|[ção]
+sudâmina	nome feminino	su|[dâ]|mi|na
+sudanês	adjetivo	su|da|[nês]
+sudanês	nome masculino	su|da|[nês]
+sudanesa	nome feminino	su|da|[ne]|sa
+sudão	nome masculino	su|[dão]
+sudário	nome masculino	su|[dá]|ri|o
+sudatório	adjetivo	su|da|[tó]|ri|o
+sudatório	nome masculino	su|da|[tó]|ri|o
+sudertano	adjetivo	su|der|[ta]|no
+sudertano	nome masculino	su|der|[ta]|no
+sudeste	adjetivo	su|[des]|te
+sudeste	nome masculino	su|[des]|te
+sudeta	adjetivo	su|[de]|ta
+sudeta	nome masculino	su|[de]|ta
+sudeta	nome feminino	su|[de]|ta
+súdito	adjetivo	[sú]|di|to
+súdito	nome masculino	[sú]|di|to
+sudoestada	nome feminino	su|do|es|[ta]|da
+sudoestar	verbo	su|do|es|[tar]
+sudoeste	nome masculino	su|do|[es]|te
+sudoeste	adjetivo	su|do|[es]|te
+sudoral	adjetivo	su|do|[ral]
+sudorífero	adjetivo	su|do|[rí]|fe|ro
+sudorífero	nome masculino	su|do|[rí]|fe|ro
+sudorificação	nome feminino	su|do|ri|fi|ca|[ção]
+sudorificar	verbo	su|do|ri|fi|[car]
+sudorífico	adjetivo	su|do|[rí]|fi|co
+sudorífico	nome masculino	su|do|[rí]|fi|co
+sudoríparo	adjetivo	su|do|[rí]|pa|ro
+sudoroso	adjetivo	su|do|[ro]|so
+sudra	nome masculino	[su]|dra
+sudra	nome feminino	[su]|dra
+sudra	adjetivo	[su]|dra
+sudrar	verbo	su|[drar]
+sudro	nome masculino	[su]|dro
+sué	nome masculino	su|[é]
+sueca	nome feminino	su|[e]|ca
+suécia	nome feminino	su|[é]|ci|a
+suécio	adjetivo	su|[é]|ci|o
+suécio	nome masculino	su|[é]|ci|o
+sueco	adjetivo	su|[e]|co
+sueco	nome masculino	su|[e]|co
+sueda	nome feminino	su|[e]|da
+suédea	nome feminino	su|[é]|de|a
+sueira	nome feminino	su|[ei]|ra
+suelitano	nome masculino	su|e|li|[ta]|no
+suelitano	adjetivo	su|e|li|[ta]|no
+suessano	nome masculino	su|es|[sa]|no
+suessano	adjetivo	su|es|[sa]|no
+suessetano	adjetivo	su|es|se|[ta]|no
+suessetano	nome masculino	su|es|se|[ta]|no
+suessião	nome masculino	su|es|si|[ão]
+suessião	adjetivo	su|es|si|[ão]
+suessiônico	adjetivo	su|es|si|[ô]|ni|co
+suessiónico	adjetivo	su|es|si|[ó]|ni|co
+suessulano	adjetivo	su|es|su|[la]|no
+suessulano	nome masculino	su|es|su|[la]|no
+suestada	nome feminino	su|es|[ta]|da
+suestar	verbo	su|es|[tar]
+sueste	nome masculino	su|[es]|te
+sueste	adjetivo	su|[es]|te
+suéter	nome feminino	su|[é]|ter
+sueto	nome masculino	su|[e]|to
+suetoniano	adjetivo	su|e|to|ni|[a]|no
+suetro	adjetivo	su|[e]|tro
+suetro	nome masculino	su|[e]|tro
+sueva	nome feminino	su|[e]|va
+suevo	adjetivo	su|[e]|vo
+suevo	nome masculino	su|[e]|vo
+suevo-visigótico	adjetivo	su|e|vo-vi|si|[gó]|ti|co
+sufá	nome masculino	su|[fá]
+sufará	nome feminino	su|fa|[rá]
+sufaraque	nome feminino	su|fa|[ra]|que
+súfete	nome masculino	[sú]|fe|te
+sufetulano	adjetivo	su|fe|tu|[la]|no
+sufetulano	nome masculino	su|fe|tu|[la]|no
+sufi	nome masculino	su|[fi]
+sufíbulo	nome masculino	su|[fí]|bu|lo
+suficiência	nome feminino	su|fi|ci|[ên]|ci|a
+suficiente	adjetivo	su|fi|ci|[en]|te
+suficiente	nome masculino	su|fi|ci|[en]|te
+suficientemente	advérbio	su|fi|ci|en|te|[men]|te
+sufismo	nome masculino	su|[fis]|mo
+sufista	adjetivo	su|[fis]|ta

@@ -1,0 +1,100 @@
+benévolo	adjetivo	be|[né]|vo|lo
+benfazejo	adjetivo	ben|fa|[ze]|jo
+benfeito	adjetivo	ben|[fei]|to
+benfeito	nome masculino	ben|[fei]|to
+benfeitor	adjetivo	ben|fei|[tor]
+benfeitor	nome masculino	ben|fei|[tor]
+benfeitora	nome feminino	ben|fei|[to]|ra
+benfeitoria	nome feminino	ben|fei|to|[ri]|a
+benfeitorizar	verbo	ben|fei|to|ri|[zar]
+benfiquista	adjetivo	ben|fi|[quis]|ta
+benfiquista	nome masculino	ben|fi|[quis]|ta
+benfiquista	nome feminino	ben|fi|[quis]|ta
+bengala	nome feminino	ben|[ga]|la
+bengala	nome masculino	ben|[ga]|la
+bengala	adjetivo	ben|[ga]|la
+bengalada	nome feminino	ben|ga|[la]|da
+bengalão	nome masculino	ben|ga|[lão]
+bengaleira	nome feminino	ben|ga|[lei]|ra
+bengaleiro	nome masculino	ben|ga|[lei]|ro
+bengalês	nome masculino	ben|ga|[lês]
+bengalês	adjetivo	ben|ga|[lês]
+bengalesa	nome feminino	ben|ga|[le]|sa
+bengali	adjetivo	ben|ga|[li]
+bengali	nome masculino	ben|ga|[li]
+bengali	nome feminino	ben|ga|[li]
+bengalinha	nome feminino	ben|ga|[li]|nha
+bengalório	nome masculino	ben|ga|[ló]|ri|o
+bengasiana	nome feminino	ben|ga|si|[a]|na
+bengasiano	adjetivo	ben|ga|si|[a]|no
+bengasiano	nome masculino	ben|ga|si|[a]|no
+bengo	nome masculino	[ben]|go
+bengue	nome masculino	[ben]|gue
+bengue-de-obó	nome masculino	ben|gue-de-o|[bó]
+benguedóxi	nome masculino	ben|gue|[dó]|xi
+benguela	adjetivo	ben|[gue]|la
+benguela	nome masculino	ben|[gue]|la
+benguela	nome feminino	ben|[gue]|la
+benguelense	adjetivo	ben|gue|[len]|se
+benguelense	nome masculino	ben|gue|[len]|se
+benguelense	nome feminino	ben|gue|[len]|se
+benhenhir	verbo	be|nhe|[nhir]
+benignamente	advérbio	be|nig|na|[men]|te
+benignidade	nome feminino	be|nig|ni|[da]|de
+benigno	adjetivo	be|[nig]|no
+beninense	nome masculino	be|ni|[nen]|se
+beninense	adjetivo	be|ni|[nen]|se
+beninense	nome feminino	be|ni|[nen]|se
+beninês	adjetivo	be|ni|[nês]
+beninês	nome masculino	be|ni|[nês]
+beninesa	nome feminino	be|ni|[ne]|sa
+benino	adjetivo	be|[ni]|no
+benjamim	nome masculino	ben|ja|[mim]
+benjoeiro	nome masculino	ben|jo|[ei]|ro
+benjoim	nome masculino	ben|jo|[im]
+benjoínico	adjetivo	ben|jo|[í]|ni|co
+benodáctilo	adjetivo	be|no|[dác]|ti|lo
+benodátilo	adjetivo	be|no|[dá]|ti|lo
+benquerença	nome feminino	ben|que|[ren]|ça
+benqueria	nome feminino	ben|que|[ri]|a
+benquistar	verbo	ben|quis|[tar]
+benquisto	adjetivo	ben|[quis]|to
+benta	nome feminino	[ben]|ta
+bentana	nome feminino	ben|[ta]|na
+bentém	nome masculino	ben|[tém]
+bentererê	nome masculino	ben|te|re|[rê]
+benthâmia	nome feminino	bent|[hâ]|mi|a
+benthamismo	nome masculino	bent|ha|[mis]|mo
+benthamista	adjetivo	bent|ha|[mis]|ta
+benthamista	nome masculino	bent|ha|[mis]|ta
+benthamista	nome feminino	bent|ha|[mis]|ta
+bentidade	nome feminino	ben|ti|[da]|de
+bentinho	nome masculino	ben|[ti]|nho
+bentinhos	nome masculino	ben|[ti]|nhos
+bento	nome masculino	[ben]|to
+bento	adjetivo	[ben]|to
+bentos	nome masculino	[ben]|tos
+benzamida	nome feminino	ben|za|[mi]|da
+benzedeira	nome feminino	ben|ze|[dei]|ra
+benzedeiro	nome masculino	ben|ze|[dei]|ro
+benzedela	nome feminino	ben|ze|[de]|la
+benzedor	adjetivo	ben|ze|[dor]
+benzedor	nome masculino	ben|ze|[dor]
+benzedora	nome feminino	ben|ze|[do]|ra
+benzedura	nome feminino	ben|ze|[du]|ra
+benzénico	adjetivo	ben|[zé]|ni|co
+benzênico	adjetivo	ben|[zê]|ni|co
+benzeno	nome masculino	ben|[ze]|no
+benzenossulfónico	adjetivo	ben|ze|nos|sul|[fó]|ni|co
+benzenossulfônico	adjetivo	ben|ze|nos|sul|[fô]|ni|co
+benzer	verbo	ben|[zer]
+benzidina	nome feminino	ben|zi|[di]|na
+benzido	adjetivo	ben|[zi]|do
+benzilhão	nome masculino	ben|zi|[lhão]
+benzilheira	nome feminino	ben|zi|[lhei]|ra
+benzílico	adjetivo	ben|[zí]|li|co
+benzilo	nome masculino	ben|[zi]|lo
+benzimento	nome masculino	ben|zi|[men]|to
+benzina	nome feminino	ben|[zi]|na
+benzinho-amor	nome masculino	ben|zi|nho-a|[mor]
+benzinismo	nome masculino	ben|zi|[nis]|mo

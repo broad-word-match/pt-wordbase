@@ -1,0 +1,100 @@
+vardascada	nome feminino	var|das|[ca]|da
+vardascar	verbo	var|das|[car]
+vardeu	adjetivo	var|[deu]
+vardeu	nome masculino	var|[deu]
+várdulo	adjetivo	[vár]|du|lo
+várdulo	nome masculino	[vár]|du|lo
+vareagem	nome feminino	va|re|[a]|gem
+varear	verbo	va|re|[ar]
+varedo	nome masculino	va|[re]|do
+vareio	nome masculino	va|[rei]|o
+vareira	nome feminino	va|[rei]|ra
+vareiro	adjetivo	va|[rei]|ro
+vareiro	nome masculino	va|[rei]|ro
+vareja	nome feminino	va|[re]|ja
+varejador	adjetivo	va|re|ja|[dor]
+varejador	nome masculino	va|re|ja|[dor]
+varejadora	nome feminino	va|re|ja|[do]|ra
+varejadura	nome feminino	va|re|ja|[du]|ra
+varejamento	nome masculino	va|re|ja|[men]|to
+varejão	nome masculino	va|re|[jão]
+varejar	verbo	va|re|[jar]
+varejeira	nome feminino	va|re|[jei]|ra
+varejeiro	adjetivo	va|re|[jei]|ro
+varejista	adjetivo	va|re|[jis]|ta
+varejista	nome masculino	va|re|[jis]|ta
+varejista	nome feminino	va|re|[jis]|ta
+varejo	nome masculino	va|[re]|jo
+varejo	adjetivo	va|[re]|jo
+varejoada	nome feminino	va|re|jo|[a]|da
+varela	adjetivo	va|[re]|la
+varela	nome feminino	va|[re]|la
+varela	nome masculino	va|[re]|la
+vareque	nome masculino	va|[re]|que
+varestilha	nome feminino	va|res|[ti]|lha
+vareta	nome feminino	va|[re]|ta
+varga	nome feminino	[var]|ga
+vargásia	nome feminino	var|[gá]|si|a
+varge	nome feminino	[var]|ge
+várgea	nome feminino	[vár]|ge|a
+vargedo	nome masculino	var|[ge]|do
+vargeiro	nome masculino	var|[gei]|ro
+vargem	nome feminino	[var]|gem
+varginhense	adjetivo	var|gi|[nhen]|se
+varginhense	nome masculino	var|gi|[nhen]|se
+varginhense	nome feminino	var|gi|[nhen]|se
+vargueiro	nome masculino	var|[guei]|ro
+vária	nome feminino	[vá]|ri|a
+variabilidade	nome feminino	va|ri|a|bi|li|[da]|de
+variação	nome feminino	va|ri|a|[ção]
+variadamente	advérbio	va|ri|a|da|[men]|te
+variadeira	nome feminino	va|ri|a|[dei]|ra
+variadíssimo	adjetivo	va|ri|a|[dís]|si|mo
+variado	adjetivo	va|ri|[a]|do
+variagem	nome feminino	va|ri|[a]|gem
+variamente	advérbio	va|ri|a|[men]|te
+variância	nome feminino	va|ri|[ân]|ci|a
+varianela	nome feminino	va|ri|a|[ne]|la
+variante	nome feminino	va|ri|[an]|te
+variante	adjetivo	va|ri|[an]|te
+variar	verbo	va|ri|[ar]
+variável	adjetivo	va|ri|[á]|vel
+variável	nome feminino	va|ri|[á]|vel
+variavelmente	advérbio	va|ri|a|vel|[men]|te
+variaz	nome masculino	va|ri|[az]
+varicela	nome feminino	va|ri|[ce]|la
+varicelar	adjetivo	va|ri|ce|[lar]
+varicelar	verbo	va|ri|ce|[lar]
+variceloide	nome feminino	va|ri|ce|[loi]|de
+variceloide	adjetivo	va|ri|ce|[loi]|de
+varicha	nome feminino	va|[ri]|cha
+variço	adjetivo	va|[ri]|ço
+varicocele	nome feminino	va|ri|co|[ce]|le
+varicose	nome feminino	va|ri|[co]|se
+varicosidade	nome feminino	va|ri|co|si|[da]|de
+varicoso	adjetivo	va|ri|[co]|so
+varícula	nome feminino	va|[rí]|cu|la
+variedade	nome feminino	va|ri|e|[da]|de
+variegação	nome feminino	va|ri|e|ga|[ção]
+variegadamente	advérbio	va|ri|e|ga|da|[men]|te
+variegado	adjetivo	va|ri|e|[ga]|do
+variegar	verbo	va|ri|e|[gar]
+varilha	nome feminino	va|[ri]|lha
+varilongo	adjetivo	va|ri|[lon]|go
+varina	nome feminino	va|[ri]|na
+varinagem	nome feminino	va|ri|[na]|gem
+varinel	nome masculino	va|ri|[nel]
+varinha	nome feminino	va|[ri]|nha
+varinha-de-são-josé	nome feminino	va|ri|nha-de-são-jo|[sé]
+varino	nome masculino	va|[ri]|no
+varino	adjetivo	va|[ri]|no
+vário	adjetivo	[vá]|ri|o
+varíola	nome feminino	va|[rí]|o|la
+variolado	adjetivo	va|ri|o|[la]|do
+variolar	adjetivo	va|ri|o|[lar]
+variolário	adjetivo	va|ri|o|[lá]|ri|o
+variólico	adjetivo	va|ri|[ó]|li|co
+varioliforme	adjetivo	va|ri|o|li|[for]|me
+variolina	nome feminino	va|ri|o|[li]|na
+variolite	nome feminino	va|ri|o|[li]|te
+variolítico	adjetivo	va|ri|o|[lí]|ti|co

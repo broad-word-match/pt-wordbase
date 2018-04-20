@@ -1,0 +1,100 @@
+controlador	nome masculino	con|tro|la|[dor]
+controladora	nome feminino	con|tro|la|[do]|ra
+controlar	verbo	con|tro|[lar]
+controlável	adjetivo	con|tro|[lá]|vel
+controle	nome masculino	con|[tro]|le
+controlo	nome masculino	con|[tro]|lo
+controvérsia	nome feminino	con|tro|[vér]|si|a
+controversista	nome masculino	con|tro|ver|[sis]|ta
+controversista	nome feminino	con|tro|ver|[sis]|ta
+controverso	adjetivo	con|tro|[ver]|so
+controverter	verbo	con|tro|ver|[ter]
+controvertibilidade	nome feminino	con|tro|ver|ti|bi|li|[da]|de
+controvertido	adjetivo	con|tro|ver|[ti]|do
+controvertível	adjetivo	con|tro|ver|[tí]|vel
+contubernáculo	nome masculino	con|tu|ber|[ná]|cu|lo
+contubernal	adjetivo	con|tu|ber|[nal]
+contubernal	nome masculino	con|tu|ber|[nal]
+contubernal	nome feminino	con|tu|ber|[nal]
+contubernar	verbo	con|tu|ber|[nar]
+contubérnio	nome masculino	con|tu|[bér]|ni|o
+contudo	conjunção	con|[tu]|do
+contumace	adjetivo	con|tu|[ma]|ce
+contumácia	nome feminino	con|tu|[má]|ci|a
+contumaz	adjetivo	con|tu|[maz]
+contumaz	nome masculino	con|tu|[maz]
+contumaz	nome feminino	con|tu|[maz]
+contumazmente	advérbio	con|tu|maz|[men]|te
+contumélia	nome feminino	con|tu|[mé]|li|a
+contumeliosamente	advérbio	con|tu|me|li|o|sa|[men]|te
+contumelioso	adjetivo	con|tu|me|li|[o]|so
+contumelioso	nome masculino	con|tu|me|li|[o]|so
+contundência	nome feminino	con|tun|[dên]|ci|a
+contundente	adjetivo	con|tun|[den]|te
+contundentemente	advérbio	con|tun|den|te|[men]|te
+contundido	adjetivo	con|tun|[di]|do
+contundir	verbo	con|tun|[dir]
+contundível	adjetivo	con|tun|[dí]|vel
+conturbação	nome feminino	con|tur|ba|[ção]
+conturbadamente	advérbio	con|tur|ba|da|[men]|te
+conturbado	adjetivo	con|tur|[ba]|do
+conturbador	adjetivo	con|tur|ba|[dor]
+conturbador	nome masculino	con|tur|ba|[dor]
+conturbar	verbo	con|tur|[bar]
+conturbativo	adjetivo	con|tur|ba|[ti]|vo
+conturbável	adjetivo	con|tur|[bá]|vel
+contusão	nome feminino	con|tu|[são]
+contuso	adjetivo	con|[tu]|so
+conubial	adjetivo	co|nu|bi|[al]
+conúbio	nome masculino	co|[nú]|bi|o
+conulário	nome masculino	co|nu|[lá]|ri|o
+conumerar	verbo	co|nu|me|[rar]
+conurbação	nome feminino	co|nur|ba|[ção]
+convalária	nome feminino	con|va|[lá]|ri|a
+convalarina	nome feminino	con|va|la|[ri]|na
+convale	adjetivo	con|[va]|le
+convale	nome masculino	con|[va]|le
+convalescença	nome feminino	con|va|les|[cen]|ça
+convalescente	adjetivo	con|va|les|[cen]|te
+convalescente	nome masculino	con|va|les|[cen]|te
+convalescente	nome feminino	con|va|les|[cen]|te
+convalescer	verbo	con|va|les|[cer]
+convalidação	nome feminino	con|va|li|da|[ção]
+convalidar	verbo	con|va|li|[dar]
+convecção	nome feminino	con|vec|[ção]
+convectivo	adjetivo	con|vec|[ti]|vo
+convector	nome masculino	con|vec|[tor]
+convelir	verbo	con|ve|[lir]
+cônvena	adjetivo	[côn]|ve|na
+cônvena	nome masculino	[côn]|ve|na
+cônvena	nome feminino	[côn]|ve|na
+convenção	nome feminino	con|ven|[ção]
+convencedor	adjetivo	con|ven|ce|[dor]
+convencer	verbo	con|ven|[cer]
+convencida	nome feminino	con|ven|[ci]|da
+convencido	adjetivo	con|ven|[ci]|do
+convencido	nome masculino	con|ven|[ci]|do
+convencimento	nome masculino	con|ven|ci|[men]|to
+convencionado	nome masculino	con|ven|ci|o|[na]|do
+convencionado	adjetivo	con|ven|ci|o|[na]|do
+convencional	adjetivo	con|ven|ci|o|[nal]
+convencional	nome masculino	con|ven|ci|o|[nal]
+convencionalidade	nome feminino	con|ven|ci|o|na|li|[da]|de
+convencionalismo	nome masculino	con|ven|ci|o|na|[lis]|mo
+convencionalista	adjetivo	con|ven|ci|o|na|[lis]|ta
+convencionalista	nome masculino	con|ven|ci|o|na|[lis]|ta
+convencionalista	nome feminino	con|ven|ci|o|na|[lis]|ta
+convencionalmente	advérbio	con|ven|ci|o|nal|[men]|te
+convencionar	verbo	con|ven|ci|o|[nar]
+convencível	adjetivo	con|ven|[cí]|vel
+conveniência	nome feminino	con|ve|ni|[ên]|ci|a
+conveniencioso	adjetivo	con|ve|ni|en|ci|[o]|so
+conveniente	adjetivo	con|ve|ni|[en]|te
+convenientemente	advérbio	con|ve|ni|en|te|[men]|te
+convênio	nome masculino	con|[vê]|ni|o
+convénio	nome masculino	con|[vé]|ni|o
+convenível	adjetivo	con|ve|[ní]|vel
+conventicular	adjetivo	con|ven|ti|cu|[lar]
+conventículo	nome masculino	con|ven|[tí]|cu|lo
+conventilho	nome masculino	con|ven|[ti]|lho
+convento	nome masculino	con|[ven]|to

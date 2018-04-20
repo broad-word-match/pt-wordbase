@@ -1,0 +1,100 @@
+triscaidecafobia	nome feminino	tris|cai|de|ca|fo|[bi]|a
+triscar	verbo	tris|[car]
+tríscele	nome masculino	[trís]|ce|le
+trismo	nome masculino	[tris]|mo
+trisneta	nome feminino	tris|[ne]|ta
+trisneto	nome masculino	tris|[ne]|to
+trisnotar	verbo	tris|no|[tar]
+trispermo	adjetivo	tris|[per]|mo
+trispítamo	nome masculino	tris|[pí]|ta|mo
+trisplâncnico	adjetivo	tris|[plânc]|ni|co
+trissacramental	adjetivo	tris|sa|cra|men|[tal]
+trissar	nome masculino	tris|[sar]
+trissar	verbo	tris|[sar]
+trissecação	nome feminino	tris|se|ca|[ção]
+trisseção	nome feminino	tris|se|[ção]
+trissecar	verbo	tris|se|[car]
+trissecção	nome feminino	tris|sec|[ção]
+trissectar	verbo	tris|sec|[tar]
+trissector	adjetivo	tris|sec|[tor]
+trissector	nome masculino	tris|sec|[tor]
+trissectriz	nome feminino	tris|sec|[triz]
+trissecular	adjetivo	tris|se|cu|[lar]
+trissemanal	adjetivo	tris|se|ma|[nal]
+trissemanário	nome masculino	tris|se|ma|[ná]|ri|o
+trissemestral	adjetivo	tris|se|mes|[tral]
+trissépalo	adjetivo	tris|[sé]|pa|lo
+trisseptado	adjetivo	tris|sep|[ta]|do
+trisseriado	adjetivo	tris|se|ri|[a]|do
+trisseto	nome masculino	tris|[se]|to
+trissetor	adjetivo	tris|se|[tor]
+trissetor	nome masculino	tris|se|[tor]
+trissetriz	nome feminino	tris|se|[triz]
+trissilabicamente	advérbio	tris|si|la|bi|ca|[men]|te
+trissilábico	adjetivo	tris|si|[lá]|bi|co
+trissilabismo	nome masculino	tris|si|la|[bis]|mo
+trissílabo	adjetivo	tris|[sí]|la|bo
+trissílabo	nome masculino	tris|[sí]|la|bo
+trissilicato	nome masculino	tris|si|li|[ca]|to
+trissilícico	adjetivo	tris|si|[lí]|ci|co
+trisso	nome masculino	[tris]|so
+trissomia	nome feminino	tris|so|[mi]|a
+trissómico	adjetivo	tris|[só]|mi|co
+trissômico	adjetivo	tris|[sô]|mi|co
+trissulcar	verbo	tris|sul|[car]
+trissulco	adjetivo	tris|[sul]|co
+trissulfureto	nome masculino	tris|sul|fu|[re]|to
+tristaminífero	adjetivo	tris|ta|mi|[ní]|fe|ro
+tristânia	nome feminino	tris|[tâ]|ni|a
+tristáquia	nome feminino	tris|[tá]|qui|a
+triste	nome masculino	[tris]|te
+triste	adjetivo	[tris]|te
+triste	nome feminino	[tris]|te
+triste-pia	nome feminino	tris|te-pi|a
+triste-vida	nome feminino	tris|te-vi|da
+tristearina	nome feminino	tris|te|a|[ri]|na
+tristécio	adjetivo	tris|[té]|ci|o
+trístegos	nome masculino	[trís]|te|gos
+tristemente	advérbio	tris|te|[men]|te
+tristernal	adjetivo	tris|ter|[nal]
+tristeza	nome feminino	tris|[te]|za
+trística	nome feminino	[trís]|ti|ca
+trístico	adjetivo	[trís]|ti|co
+tristificar	verbo	tris|ti|fi|[car]
+tristífico	adjetivo	tris|[tí]|fi|co
+tristimania	nome feminino	tris|ti|ma|[ni]|a
+tristimaníaco	adjetivo	tris|ti|ma|[ní]|a|co
+tristimaníaco	nome masculino	tris|ti|ma|[ní]|a|co
+trístomo	nome masculino	[trís]|to|mo
+tristonho	adjetivo	tris|[to]|nho
+tristor	nome masculino	tris|[tor]
+tristura	nome feminino	tris|[tu]|ra
+tristuroso	adjetivo	tris|tu|[ro]|so
+tritagonista	nome masculino	tri|ta|go|[nis]|ta
+tritão	nome masculino	tri|[tão]
+triteísmo	nome masculino	tri|te|[ís]|mo
+triteísta	nome masculino	tri|te|[ís]|ta
+triteísta	nome feminino	tri|te|[ís]|ta
+triteófia	nome feminino	tri|te|[ó]|fi|a
+triterapia	nome feminino	tri|te|ra|[pi]|a
+triternado	adjetivo	tri|ter|[na]|do
+tritião	nome masculino	tri|ti|[ão]
+triticale	nome masculino	tri|ti|[ca]|le
+tritíceo	adjetivo	tri|[tí]|ce|o
+triticicultor	adjetivo	tri|ti|ci|cul|[tor]
+triticicultor	nome masculino	tri|ti|ci|cul|[tor]
+triticicultura	nome feminino	tri|ti|ci|cul|[tu]|ra
+triticina	nome feminino	tri|ti|[ci]|na
+triticita	nome masculino	tri|ti|[ci]|ta
+triticite	nome feminino	tri|ti|[ci]|te
+tritícola	adjetivo	tri|[tí]|co|la
+triticultor	adjetivo	tri|ti|cul|[tor]
+triticultor	nome masculino	tri|ti|cul|[tor]
+triticultora	nome feminino	tri|ti|cul|[to]|ra
+triticultura	nome feminino	tri|ti|cul|[tu]|ra
+trítio	nome masculino	[trí]|ti|o
+trito	adjetivo	[tri]|to
+tritolo	adjetivo	tri|[to]|lo
+tritolo	nome masculino	tri|[to]|lo
+tritongo	nome masculino	tri|[ton]|go
+tritoniano	adjetivo	tri|to|ni|[a]|no

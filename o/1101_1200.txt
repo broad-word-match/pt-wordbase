@@ -1,0 +1,100 @@
+ofuscador	nome masculino	o|fus|ca|[dor]
+ofuscamento	nome masculino	o|fus|ca|[men]|to
+ofuscante	adjetivo	o|fus|[can]|te
+ofuscar	verbo	o|fus|[car]
+ofuscável	adjetivo	o|fus|[cá]|vel
+ogano	advérbio	o|[ga]|no
+ogdoedria	nome feminino	og|do|e|[dri]|a
+ogdoédrico	adjetivo	og|do|[é]|dri|co
+ogígio	adjetivo	o|[gí]|gi|o
+ogígio	nome masculino	o|[gí]|gi|o
+ogiva	nome feminino	o|[gi]|va
+ogivado	adjetivo	o|gi|[va]|do
+ogival	adjetivo	o|gi|[val]
+ogivocilíndrico	adjetivo	o|gi|vo|ci|[lín]|dri|co
+ogo	nome masculino	[o]|go
+ogó	nome masculino	o|[gó]
+ogra	nome feminino	[o]|gra
+ogre	nome masculino	[o]|gre
+ogro	nome masculino	[o]|gro
+ogum	nome masculino	o|[gum]
+oh	interjeição	[oh]
+ohm	nome masculino	[ohm]
+ohmímetro	nome masculino	oh|[mí]|me|tro
+ohmómetro	nome masculino	oh|[mó]|me|tro
+ohmômetro	nome masculino	oh|[mô]|me|tro
+oi	interjeição	[oi]
+oiça	nome feminino	[oi]|ça
+oídio	nome masculino	o|[í]|di|o
+oidiomicose	nome feminino	oi|di|o|mi|[co]|se
+oidiomicótico	adjetivo	oi|di|o|mi|[có]|ti|co
+oigar	verbo	oi|[gar]
+oïl	nome masculino	o|[ïl]
+oincá	nome masculino	o|in|[cá]
+oincá	nome feminino	o|in|[cá]
+oincá	adjetivo	o|in|[cá]
+oira	nome feminino	[oi]|ra
+oirama	nome feminino	oi|[ra]|ma
+oiramento	nome masculino	oi|ra|[men]|to
+oirana	nome feminino	oi|[ra]|na
+oirar	verbo	oi|[rar]
+oirega	nome feminino	oi|[re]|ga
+oirejante	adjetivo	oi|re|[jan]|te
+oirejar	verbo	oi|re|[jar]
+oiriçar	verbo	oi|ri|[çar]
+oiriceira	nome feminino	oi|ri|[cei]|ra
+oiriceiro	nome masculino	oi|ri|[cei]|ro
+oiriço	nome masculino	oi|[ri]|ço
+oiriço-cacheiro	nome masculino	oi|ri|ço-ca|[chei]|ro
+oiriço-do-mar	nome masculino	oi|ri|ço-do-mar
+oiriço-marinho	nome masculino	oi|ri|ço-ma|[ri]|nho
+oirincu	nome masculino	oi|rin|[cu]
+oiro	nome masculino	[oi]|ro
+oiro-fio	advérbio	oi|ro-fi|o
+oiro-pigmento	nome masculino	oi|ro-pig|[men]|to
+oiropel	nome masculino	oi|ro|[pel]
+oirovale	nome masculino	oi|ro|[va]|le
+oirudo	adjetivo	oi|[ru]|do
+oitante	nome masculino	oi|[tan]|te
+oitão	nome masculino	oi|[tão]
+oitava	nome feminino	oi|[ta]|va
+oitavado	adjetivo	oi|ta|[va]|do
+oitavado	nome masculino	oi|ta|[va]|do
+oitavanista	adjetivo	oi|ta|va|[nis]|ta
+oitavanista	nome masculino	oi|ta|va|[nis]|ta
+oitavanista	nome feminino	oi|ta|va|[nis]|ta
+oitavão	adjetivo	oi|ta|[vão]
+oitavão	nome masculino	oi|ta|[vão]
+oitavar	verbo	oi|ta|[var]
+oitavário	nome masculino	oi|ta|[vá]|ri|o
+oitaveiro	adjetivo	oi|ta|[vei]|ro
+oitaveiro	nome masculino	oi|ta|[vei]|ro
+oitavina	nome feminino	oi|ta|[vi]|na
+oitavino	nome masculino	oi|ta|[vi]|no
+oitavo	adjetivo	oi|[ta]|vo
+oitavo	nome masculino	oi|[ta]|vo
+oitavo	número fraccional	oi|[ta]|vo
+oitavo	número ordinal	oi|[ta]|vo
+oitavos de final	nome masculino	oi|[ta]|vos de fi|nal
+oiteiral	adjetivo	oi|tei|[ral]
+oiteirista	nome masculino	oi|tei|[ris]|ta
+oiteirista	nome feminino	oi|tei|[ris]|ta
+oiteiro	nome masculino	oi|[tei]|ro
+oitenta	adjetivo	oi|[ten]|ta
+oitenta	número cardinal	oi|[ten]|ta
+oitenta	nome masculino	oi|[ten]|ta
+oitentão	nome masculino	oi|ten|[tão]
+oiti	nome masculino	oi|[ti]
+oiticica	nome feminino	oi|ti|[ci]|ca
+oitiva	nome feminino	oi|[ti]|va
+oitizeiro	nome masculino	oi|ti|[zei]|ro
+oito	adjetivo	[oi]|to
+oito	número cardinal	[oi]|to
+oito	nome masculino	[oi]|to
+oitocentista	nome masculino	oi|to|cen|[tis]|ta
+oitocentista	adjetivo	oi|to|cen|[tis]|ta
+oitocentista	nome feminino	oi|to|cen|[tis]|ta
+oitocentos	nome masculino	oi|to|[cen]|tos
+oitocentos	adjetivo	oi|to|[cen]|tos
+oitocentos	número cardinal	oi|to|[cen]|tos
+ojá	nome masculino	o|[já]

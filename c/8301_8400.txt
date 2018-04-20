@@ -1,0 +1,100 @@
+chaise-longue	nome feminino	chai|se-lon|gue
+chalaça	nome feminino	cha|[la]|ça
+chalaçar	verbo	cha|la|[çar]
+chalaceador	adjetivo	cha|la|ce|a|[dor]
+chalaceador	nome masculino	cha|la|ce|a|[dor]
+chalaceadora	nome feminino	cha|la|ce|a|[do]|ra
+chalacear	verbo	cha|la|ce|[ar]
+chalaceira	nome feminino	cha|la|[cei]|ra
+chalaceiro	adjetivo	cha|la|[cei]|ro
+chalaceiro	nome masculino	cha|la|[cei]|ro
+chalacista	adjetivo	cha|la|[cis]|ta
+chalacista	nome masculino	cha|la|[cis]|ta
+chalacista	nome feminino	cha|la|[cis]|ta
+chalaço	nome masculino	cha|[la]|ço
+chalada	nome feminino	cha|[la]|da
+chalado	adjetivo	cha|[la]|do
+chalado	nome masculino	cha|[la]|do
+chalana	nome feminino	cha|[la]|na
+chalandra	nome feminino	cha|[lan]|dra
+chalante	nome masculino	cha|[lan]|te
+chalantice	nome feminino	cha|lan|[ti]|ce
+chalão	nome masculino	cha|[lão]
+chalar	verbo	cha|[lar]
+chalavegão	nome masculino	cha|la|ve|[gão]
+chalé	nome masculino	cha|[lé]
+chaleira	nome feminino	cha|[lei]|ra
+chaleira	adjetivo	cha|[lei]|ra
+chaleira	nome masculino	cha|[lei]|ra
+chaleiramento	nome masculino	cha|lei|ra|[men]|to
+chaleirar	verbo	cha|lei|[rar]
+chaleirismo	nome masculino	cha|lei|[ris]|mo
+chaleirista	adjetivo	cha|lei|[ris]|ta
+chaleirista	nome masculino	cha|lei|[ris]|ta
+chaleirista	nome feminino	cha|lei|[ris]|ta
+chaliço	nome masculino	cha|[li]|ço
+chaloca	nome feminino	cha|[lo]|ca
+chalota	nome feminino	cha|[lo]|ta
+chalotinha-do-gerês	nome feminino	cha|lo|ti|nha-do-ge|[rês]
+chalrão	nome masculino	chal|[rão]
+chalrar	verbo	chal|[rar]
+chalreada	nome feminino	chal|re|[a]|da
+chalreador	nome masculino	chal|re|a|[dor]
+chalreadura	nome feminino	chal|re|a|[du]|ra
+chalrear	verbo	chal|re|[ar]
+chalreio	nome masculino	chal|[rei]|o
+chalreta	nome feminino	chal|[re]|ta
+chalrote	nome masculino	chal|[ro]|te
+chalupa	adjetivo	cha|[lu]|pa
+chalupa	nome masculino	cha|[lu]|pa
+chalupa	nome feminino	cha|[lu]|pa
+chama	nome feminino	[cha]|ma
+chamada	nome feminino	cha|[ma]|da
+chamadeira	nome feminino	cha|ma|[dei]|ra
+chamado	adjetivo	cha|[ma]|do
+chamado	nome masculino	cha|[ma]|do
+chamadoiro	nome masculino	cha|ma|[doi]|ro
+chamador	nome masculino	cha|ma|[dor]
+chamadouro	nome masculino	cha|ma|[dou]|ro
+chamadura	nome feminino	cha|ma|[du]|ra
+chamalote	nome masculino	cha|ma|[lo]|te
+chamamento	nome masculino	cha|ma|[men]|to
+chamar	verbo	cha|[mar]
+chamarada	nome feminino	cha|ma|[ra]|da
+chamarela	nome feminino	cha|ma|[re]|la
+chamariz	nome masculino	cha|ma|[riz]
+chamarra	nome feminino	cha|[mar]|ra
+chamarrado	adjetivo	cha|mar|[ra]|do
+chamativo	adjetivo	cha|ma|[ti]|vo
+chamativo	nome masculino	cha|ma|[ti]|vo
+chamável	adjetivo	cha|[má]|vel
+chambã	nome feminino	cham|[bã]
+chambajista	nome masculino	cham|ba|[jis]|ta
+chambajista	nome feminino	cham|ba|[jis]|ta
+chambão	adjetivo	cham|[bão]
+chambão	nome masculino	cham|[bão]
+chambaril	nome masculino	cham|ba|[ril]
+chambas	nome masculino	[cham]|bas
+chambo	nome masculino	[cham]|bo
+chamboado	adjetivo	cham|bo|[a]|do
+chambocar	verbo	cham|bo|[car]
+chamboco	nome masculino	cham|[bo]|co
+chamboíce	nome feminino	cham|bo|[í]|ce
+chamboqueiro	adjetivo	cham|bo|[quei]|ro
+chamborgas	nome masculino	cham|[bor]|gas
+chambre	nome masculino	[cham]|bre
+chambrié	nome masculino	cham|bri|[é]
+chameante	adjetivo	cha|me|[an]|te
+chamear	verbo	cha|me|[ar]
+chamego	nome masculino	cha|[me]|go
+chamejamento	nome masculino	cha|me|ja|[men]|to
+chamejante	adjetivo	cha|me|[jan]|te
+chamejar	verbo	cha|me|[jar]
+chamejo	nome masculino	cha|[me]|jo
+chamelote	nome masculino	cha|me|[lo]|te
+chamiça	nome feminino	cha|[mi]|ça
+chamiceiro	nome masculino	cha|mi|[cei]|ro
+chamiço	nome masculino	cha|[mi]|ço
+chamidor	adjetivo	cha|mi|[dor]
+chamidor	nome masculino	cha|mi|[dor]
+chaminé	nome feminino	cha|mi|[né]

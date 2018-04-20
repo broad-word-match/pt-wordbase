@@ -1,0 +1,100 @@
+mesodo	nome masculino	me|[so]|do
+mesoeconomia	nome feminino	me|so|e|co|no|[mi]|a
+mesofalange	nome feminino	me|so|fa|[lan]|ge
+mesofalangeal	adjetivo	me|so|fa|lan|ge|[al]
+mesofilo	nome masculino	me|so|[fi]|lo
+mesófito	nome masculino	me|[só]|fi|to
+mesofragma	nome masculino	me|so|[frag]|ma
+mesófrio	nome masculino	me|[só]|fri|o
+mesogástrico	adjetivo	me|so|[gás]|tri|co
+mesogástrio	nome masculino	me|so|[gás]|tri|o
+mesogastro	nome masculino	me|so|[gas]|tro
+mesogleia	nome feminino	me|so|[glei]|a
+mesoglosso	adjetivo	me|so|[glos]|so
+mesojurássico	adjetivo	me|so|ju|[rás]|si|co
+mesolábio	nome masculino	me|so|[lá]|bi|o
+mesolítico	adjetivo	me|so|[lí]|ti|co
+mesólito	nome masculino	me|[só]|li|to
+mesolóbulo	nome masculino	me|so|[ló]|bu|lo
+mesologia	nome feminino	me|so|lo|[gi]|a
+mesologicamente	advérbio	me|so|lo|gi|ca|[men]|te
+mesológico	adjetivo	me|so|[ló]|gi|co
+mesômacro	nome masculino	me|[sô]|ma|cro
+mesómacro	nome masculino	me|[só]|ma|cro
+mesomeria	nome feminino	me|so|me|[ri]|a
+mesomérico	adjetivo	me|so|[mé]|ri|co
+mesômero	nome masculino	me|[sô]|me|ro
+mesómero	nome masculino	me|[só]|me|ro
+mesométrio	nome masculino	me|so|[mé]|tri|o
+mesomórfico	adjetivo	me|so|[mór]|fi|co
+mesomorfismo	nome masculino	me|so|mor|[fis]|mo
+mesomorfo	adjetivo	me|so|[mor]|fo
+mesomorfose	nome feminino	me|so|mor|[fo]|se
+mesónefro	nome masculino	me|[só]|ne|fro
+mesonefro	nome masculino	me|so|[ne]|fro
+mesônefro	nome masculino	me|[sô]|ne|fro
+mesopausa	nome feminino	me|so|[pau]|sa
+mesopiteco	nome masculino	me|so|pi|[te]|co
+mesopotâmia	nome feminino	me|so|po|[tâ]|mi|a
+mesopotâmico	adjetivo	me|so|po|[tâ]|mi|co
+mesopotâmio	adjetivo	me|so|po|[tâ]|mi|o
+mesopotâmio	nome masculino	me|so|po|[tâ]|mi|o
+mesórquio	nome masculino	me|[sór]|qui|o
+mesorrecto	nome masculino	me|sor|[rec]|to
+mesorreto	nome masculino	me|sor|[re]|to
+mesorrinia	nome feminino	me|sor|ri|[ni]|a
+mesorrino	adjetivo	me|sor|[ri]|no
+mesosfera	nome feminino	me|sos|[fe]|ra
+mesosférico	adjetivo	me|sos|[fé]|ri|co
+mesospermo	nome masculino	me|sos|[per]|mo
+mesossemo	adjetivo	me|sos|[se]|mo
+mesossistólico	adjetivo	me|sos|sis|[tó]|li|co
+mesosternal	adjetivo	me|sos|ter|[nal]
+mesosterno	nome masculino	me|sos|[ter]|no
+mesotélio	nome masculino	me|so|[té]|li|o
+mesotelioma	nome masculino	me|so|te|li|[o]|ma
+mesotenar	nome masculino	me|so|te|[nar]
+mesoterapia	nome feminino	me|so|te|ra|[pi]|a
+mesoterápico	adjetivo	me|so|te|[rá]|pi|co
+mesotério	nome masculino	me|so|[té]|ri|o
+mesotérmico	adjetivo	me|so|[tér]|mi|co
+mesotimpânico	nome masculino	me|so|tim|[pâ]|ni|co
+mesotorácico	adjetivo	me|so|to|[rá]|ci|co
+mesotórax	nome masculino	me|so|[tó]|rax
+mesotrófico	adjetivo	me|so|[tró]|fi|co
+mesozeugma	nome masculino	me|so|[zeug]|ma
+mesozoário	nome masculino	me|so|zo|[á]|ri|o
+mesozoico	adjetivo	me|so|[zoi]|co
+mesozona	nome feminino	me|so|[zo]|na
+mesquinha	nome feminino	mes|[qui]|nha
+mesquinhamente	advérbio	mes|qui|nha|[men]|te
+mesquinhar	verbo	mes|qui|[nhar]
+mesquinharia	nome feminino	mes|qui|nha|[ri]|a
+mesquinhez	nome feminino	mes|qui|[nhez]
+mesquinheza	nome feminino	mes|qui|[nhe]|za
+mesquinhice	nome feminino	mes|qui|[nhi]|ce
+mesquinho	nome masculino	mes|[qui]|nho
+mesquinho	adjetivo	mes|[qui]|nho
+mesquita	nome feminino	mes|[qui]|ta
+mesquitense	adjetivo	mes|qui|[ten]|se
+mesquitense	nome masculino	mes|qui|[ten]|se
+mesquitense	nome feminino	mes|qui|[ten]|se
+messa	nome feminino	[mes]|sa
+messalina	nome feminino	mes|sa|[li]|na
+messalínico	adjetivo	mes|sa|[lí]|ni|co
+messanense	nome masculino	mes|sa|[nen]|se
+messanense	adjetivo	mes|sa|[nen]|se
+messanense	nome feminino	mes|sa|[nen]|se
+messápico	adjetivo	mes|[sá]|pi|co
+messápico	nome masculino	mes|[sá]|pi|co
+messápio	nome masculino	mes|[sá]|pi|o
+messápio	adjetivo	mes|[sá]|pi|o
+messar	verbo	mes|[sar]
+messassa	nome feminino	mes|[sas]|sa
+messé	nome masculino	mes|[sé]
+messe	nome feminino	[mes]|se
+messene	nome masculino	mes|[se]|ne
+messénico	adjetivo	mes|[sé]|ni|co
+messénico	nome masculino	mes|[sé]|ni|co
+messênico	adjetivo	mes|[sê]|ni|co
+messênico	nome masculino	mes|[sê]|ni|co

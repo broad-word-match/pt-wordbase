@@ -1,0 +1,100 @@
+reensaio	nome masculino	re|en|[sai]|o
+reensinar	verbo	re|en|si|[nar]
+reenterrar	verbo	re|en|ter|[rar]
+reentrância	nome feminino	re|en|[trân]|ci|a
+reentrante	adjetivo	re|en|[tran]|te
+reentrar	verbo	re|en|[trar]
+reentrega	nome feminino	re|en|[tre]|ga
+reentregar	verbo	re|en|tre|[gar]
+reenvernizar	verbo	re|en|ver|ni|[zar]
+reenviado	adjetivo	re|en|vi|[a]|do
+reenviar	verbo	re|en|vi|[ar]
+reenvidar	verbo	re|en|vi|[dar]
+reenvio	nome masculino	re|en|[vi]|o
+reequacionar	verbo	re|e|qua|ci|o|[nar]
+reequilibrado	adjetivo	re|e|qui|li|[bra]|do
+reequilibrar	verbo	re|e|qui|li|[brar]
+reequilíbrio	nome masculino	re|e|qui|[lí]|bri|o
+reequipamento	nome masculino	re|e|qui|pa|[men]|to
+reequipar	verbo	re|e|qui|[par]
+reerguer	verbo	re|er|[guer]
+reescalonamento	nome masculino	re|es|ca|lo|na|[men]|to
+reescrever	verbo	re|es|cre|[ver]
+reescrita	nome feminino	re|es|[cri]|ta
+reescrito	adjetivo	re|es|[cri]|to
+reesperar	verbo	re|es|pe|[rar]
+reesposar	verbo	re|es|po|[sar]
+reespumas	nome feminino	re|es|[pu]|mas
+reestampa	nome feminino	re|es|[tam]|pa
+reestampar	verbo	re|es|tam|[par]
+reestimular	verbo	re|es|ti|mu|[lar]
+reestipulação	nome feminino	re|es|ti|pu|la|[ção]
+reestipular	verbo	re|es|ti|pu|[lar]
+reestruturação	nome feminino	re|es|tru|tu|ra|[ção]
+reestruturado	adjetivo	re|es|tru|tu|[ra]|do
+reestruturar	verbo	re|es|tru|tu|[rar]
+reestudar	verbo	re|es|tu|[dar]
+reestudo	nome masculino	re|es|[tu]|do
+reevocação	nome feminino	re|e|vo|ca|[ção]
+reevocar	verbo	re|e|vo|[car]
+reexame	nome masculino	re|e|[xa]|me
+reexaminado	adjetivo	re|e|xa|mi|[na]|do
+reexaminar	verbo	re|e|xa|mi|[nar]
+reexistir	verbo	re|e|xis|[tir]
+reexpedição	nome feminino	re|ex|pe|di|[ção]
+reexpedido	adjetivo	re|ex|pe|[di]|do
+reexpedidor	adjetivo	re|ex|pe|di|[dor]
+reexpedidor	nome masculino	re|ex|pe|di|[dor]
+reexpedir	verbo	re|ex|pe|[dir]
+reexperiência	nome feminino	re|ex|pe|ri|[ên]|ci|a
+reexperimentar	verbo	re|ex|pe|ri|men|[tar]
+reexplicação	nome feminino	re|ex|pli|ca|[ção]
+reexplicar	verbo	re|ex|pli|[car]
+reexplicável	adjetivo	re|ex|pli|[cá]|vel
+reexploração	nome feminino	re|ex|plo|ra|[ção]
+reexplorador	adjetivo	re|ex|plo|ra|[dor]
+reexplorador	nome masculino	re|ex|plo|ra|[dor]
+reexplorar	verbo	re|ex|plo|[rar]
+reexplorável	adjetivo	re|ex|plo|[rá]|vel
+reexpor	verbo	re|ex|[por]
+reexportação	nome feminino	re|ex|por|ta|[ção]
+reexportador	adjetivo	re|ex|por|ta|[dor]
+reexportador	nome masculino	re|ex|por|ta|[dor]
+reexportar	verbo	re|ex|por|[tar]
+reexportável	adjetivo	re|ex|por|[tá]|vel
+refaiscar	verbo	re|fais|[car]
+refalar	verbo	re|fa|[lar]
+refalsadamente	advérbio	re|fal|sa|da|[men]|te
+refalsado	adjetivo	re|fal|[sa]|do
+refalsamento	nome masculino	re|fal|sa|[men]|to
+refalsar	verbo	re|fal|[sar]
+refalsear	verbo	re|fal|se|[ar]
+refalso	adjetivo	re|[fal]|so
+refartar	verbo	re|far|[tar]
+refarto	adjetivo	re|[far]|to
+refastelamento	nome masculino	re|fas|te|la|[men]|to
+refastelar	verbo	re|fas|te|[lar]
+refasteleiro	adjetivo	re|fas|te|[lei]|ro
+refazedor	adjetivo	re|fa|ze|[dor]
+refazedor	nome masculino	re|fa|ze|[dor]
+refazer	verbo	re|fa|[zer]
+refazimento	nome masculino	re|fa|zi|[men]|to
+refazível	adjetivo	re|fa|[zí]|vel
+refe	nome masculino	[re]|fe
+refece	advérbio	re|[fe]|ce
+refece	adjetivo	re|[fe]|ce
+refecemente	advérbio	re|fe|ce|[men]|te
+refecer	verbo	re|fe|[cer]
+refechamento	nome masculino	re|fe|cha|[men]|to
+refechar	verbo	re|fe|[char]
+refectivo	adjetivo	re|fec|[ti]|vo
+refectório	adjetivo	re|fec|[tó]|ri|o
+refecundação	nome feminino	re|fe|cun|da|[ção]
+refecundar	verbo	re|fe|cun|[dar]
+refega	nome feminino	re|[fe]|ga
+refegado	adjetivo	re|fe|[ga]|do
+refegar	verbo	re|fe|[gar]
+refego	nome masculino	re|[fe]|go
+refeição	nome feminino	re|fei|[ção]
+refeita	nome feminino	re|[fei]|ta
+refeito	adjetivo	re|[fei]|to

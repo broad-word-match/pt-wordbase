@@ -1,0 +1,100 @@
+escapulomante	nome masculino	es|ca|pu|lo|[man]|te
+escapulomante	nome feminino	es|ca|pu|lo|[man]|te
+escapulomântico	adjetivo	es|ca|pu|lo|[mân]|ti|co
+escapulorradial	adjetivo	es|ca|pu|lor|ra|di|[al]
+escapulumeral	adjetivo	es|ca|pu|lu|me|[ral]
+escaque	nome masculino	es|[ca]|que
+escaquear	verbo	es|ca|que|[ar]
+escaqueirado	adjetivo	es|ca|quei|[ra]|do
+escaqueirar	verbo	es|ca|quei|[rar]
+escaques	nome masculino	es|[ca]|ques
+escara	nome feminino	es|[ca]|ra
+escarabeida	nome masculino	es|ca|ra|[bei]|da
+escarabeídeo	nome masculino	es|ca|ra|be|[í]|de|o
+escarabeídeo	adjetivo	es|ca|ra|be|[í]|de|o
+escarabeídeo	nome masculino	es|ca|ra|be|[í]|de|o
+escarabeu	nome masculino	es|ca|ra|[beu]
+escarabídeo	nome masculino	es|ca|ra|[bí]|de|o
+escarabocho	nome masculino	es|ca|ra|[bo]|cho
+escaração	nome feminino	es|ca|ra|[ção]
+escarafunchador	adjetivo	es|ca|ra|fun|cha|[dor]
+escarafunchador	nome masculino	es|ca|ra|fun|cha|[dor]
+escarafunchar	verbo	es|ca|ra|fun|[char]
+escarafunchas	nome feminino	es|ca|ra|[fun]|chas
+escarafuncho	nome masculino	es|ca|ra|[fun]|cho
+escarafunchos	nome masculino	es|ca|ra|[fun]|chos
+escarafunhas	nome feminino	es|ca|ra|[fu]|nhas
+escarambada	nome feminino	es|ca|ram|[ba]|da
+escarambar	verbo	es|ca|ram|[bar]
+escaramelar	verbo	es|ca|ra|me|[lar]
+escaramuça	nome feminino	es|ca|ra|[mu]|ça
+escaramuçador	adjetivo	es|ca|ra|mu|ça|[dor]
+escaramuçador	nome masculino	es|ca|ra|mu|ça|[dor]
+escaramuçar	verbo	es|ca|ra|mu|[çar]
+escaramuceiro	nome masculino	es|ca|ra|mu|[cei]|ro
+escarapão	nome masculino	es|ca|ra|[pão]
+escarapela	nome feminino	es|ca|ra|[pe]|la
+escarapelar	verbo	es|ca|ra|pe|[lar]
+escarapeto	nome masculino	es|ca|ra|[pe]|to
+escaravela	nome feminino	es|ca|ra|[ve]|la
+escaravelha	nome feminino	es|ca|ra|[ve]|lha
+escaravelhar	verbo	es|ca|ra|ve|[lhar]
+escaravelho	nome masculino	es|ca|ra|[ve]|lho
+escarça	nome feminino	es|[car]|ça
+escarçado	adjetivo	es|car|[ça]|do
+escarcalhar	verbo	es|car|ca|[lhar]
+escarção	nome masculino	es|car|[ção]
+escarçar	verbo	es|car|[çar]
+escarcavelar	verbo	es|car|ca|ve|[lar]
+escarceado	adjetivo	es|car|ce|[a]|do
+escarcear	verbo	es|car|ce|[ar]
+escarcela	nome feminino	es|car|[ce]|la
+escarcéu	nome masculino	es|car|[céu]
+escarcha	nome feminino	es|[car]|cha
+escarchado	adjetivo	es|car|[cha]|do
+escarchar	verbo	es|car|[char]
+escarço	nome masculino	es|[car]|ço
+escardado	adjetivo	es|car|[da]|do
+escardar	verbo	es|car|[dar]
+escardear	verbo	es|car|de|[ar]
+escardecer	verbo	es|car|de|[cer]
+escardichar	verbo	es|car|di|[char]
+escardilhar	verbo	es|car|di|[lhar]
+escardilho	nome masculino	es|car|[di]|lho
+escardonitano	adjetivo	es|car|do|ni|[ta]|no
+escardonitano	nome masculino	es|car|do|ni|[ta]|no
+escarduçada	nome feminino	es|car|du|[ça]|da
+escarduçador	adjetivo	es|car|du|ça|[dor]
+escarduçador	nome masculino	es|car|du|ça|[dor]
+escarduçar	verbo	es|car|du|[çar]
+escareadela	nome feminino	es|ca|re|a|[de]|la
+escareador	nome masculino	es|ca|re|a|[dor]
+escarear	verbo	es|ca|re|[ar]
+escarfeu	adjetivo	es|car|[feu]
+escarfeu	nome masculino	es|car|[feu]
+escarida	nome feminino	es|ca|[ri]|da
+escarificação	nome feminino	es|ca|ri|fi|ca|[ção]
+escarificador	nome masculino	es|ca|ri|fi|ca|[dor]
+escarificar	verbo	es|ca|ri|fi|[car]
+escariola	nome feminino	es|ca|ri|[o]|la
+escarioso	adjetivo	es|ca|ri|[o]|so
+escarlata	nome feminino	es|car|[la]|ta
+escarlate	adjetivo	es|car|[la]|te
+escarlate	nome masculino	es|car|[la]|te
+escarlatim	nome masculino	es|car|la|[tim]
+escarlatina	nome feminino	es|car|la|[ti]|na
+escarlatiniforme	adjetivo	es|car|la|ti|ni|[for]|me
+escarlatino	adjetivo	es|car|la|[ti]|no
+escarlatinoide	adjetivo	es|car|la|ti|[noi]|de
+escarlatinoso	adjetivo	es|car|la|ti|[no]|so
+escarmenta	nome feminino	es|car|[men]|ta
+escarmentação	nome feminino	es|car|men|ta|[ção]
+escarmentar	verbo	es|car|men|[tar]
+escarmento	nome masculino	es|car|[men]|to
+escarna	nome feminino	es|[car]|na
+escarnação	nome feminino	es|car|na|[ção]
+escarnador	nome masculino	es|car|na|[dor]
+escarnar	verbo	es|car|[nar]
+escarnecedor	adjetivo	es|car|ne|ce|[dor]
+escarnecedor	nome masculino	es|car|ne|ce|[dor]
+escarnecedora	nome feminino	es|car|ne|ce|[do]|ra

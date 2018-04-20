@@ -1,0 +1,100 @@
+unigâmico	adjetivo	u|ni|[gâ]|mi|co
+unígamo	adjetivo	u|[ní]|ga|mo
+unígamo	nome masculino	u|[ní]|ga|mo
+unigénita	nome feminino	u|ni|[gé]|ni|ta
+unigénito	nome masculino	u|ni|[gé]|ni|to
+unigénito	adjetivo	u|ni|[gé]|ni|to
+unigênito	adjetivo	u|ni|[gê]|ni|to
+unigênito	nome masculino	u|ni|[gê]|ni|to
+unijugado	adjetivo	u|ni|ju|[ga]|do
+uníjugo	adjetivo	u|[ní]|ju|go
+unilabiado	adjetivo	u|ni|la|bi|[a]|do
+unilateral	adjetivo	u|ni|la|te|[ral]
+unilateralidade	nome feminino	u|ni|la|te|ra|li|[da]|de
+unilateralismo	nome masculino	u|ni|la|te|ra|[lis]|mo
+unilateralista	adjetivo	u|ni|la|te|ra|[lis]|ta
+unilateralista	nome masculino	u|ni|la|te|ra|[lis]|ta
+unilateralista	nome feminino	u|ni|la|te|ra|[lis]|ta
+unilateralmente	advérbio	u|ni|la|te|ral|[men]|te
+unilénio	nome masculino	u|ni|[lé]|ni|o
+unilênio	nome masculino	u|ni|[lê]|ni|o
+uniléxio	nome masculino	u|ni|[lé]|xi|o
+unilinear	adjetivo	u|ni|li|ne|[ar]
+unilíngue	adjetivo	u|ni|[lín]|gue
+unilingue	adjetivo	u|ni|[lin]|gue
+unilinguismo	nome masculino	u|ni|lin|[guis]|mo
+uniliteral	adjetivo	u|ni|li|te|[ral]
+unilítero	adjetivo	u|ni|[lí]|te|ro
+unilobado	adjetivo	u|ni|lo|[ba]|do
+unilobulado	adjetivo	u|ni|lo|bu|[la]|do
+unilóctio	nome masculino	u|ni|[lóc]|ti|o
+unilocular	adjetivo	u|ni|lo|cu|[lar]
+uníloquo	adjetivo	u|[ní]|lo|quo
+unilpêntio	nome masculino	u|nil|[pên]|ti|o
+unilquádio	nome masculino	u|nil|[quá]|di|o
+unilséptio	nome masculino	u|nil|[sép]|ti|o
+unimaculado	adjetivo	u|ni|ma|cu|[la]|do
+unimama	nome feminino	u|ni|[ma]|ma
+unimamário	adjetivo	u|ni|ma|[má]|ri|o
+unímano	adjetivo	u|[ní]|ma|no
+unimetalismo	nome masculino	u|ni|me|ta|[lis]|mo
+unimetalista	adjetivo	u|ni|me|ta|[lis]|ta
+unimetalista	nome masculino	u|ni|me|ta|[lis]|ta
+unimetalista	nome feminino	u|ni|me|ta|[lis]|ta
+uninervado	adjetivo	u|ni|ner|[va]|do
+uninérveo	adjetivo	u|ni|[nér]|ve|o
+uninominal	adjetivo	u|ni|no|mi|[nal]
+uninucleado	adjetivo	u|ni|nu|cle|[a]|do
+uninuclear	adjetivo	u|ni|nu|cle|[ar]
+unioculado	adjetivo	u|ni|o|cu|[la]|do
+unionense	adjetivo	u|ni|o|[nen]|se
+unionense	nome masculino	u|ni|o|[nen]|se
+unionense	nome feminino	u|ni|o|[nen]|se
+uniónida	nome masculino	u|ni|[ó]|ni|da
+unionídeo	nome masculino	u|ni|o|[ní]|de|o
+unionídeo	nome masculino	u|ni|o|[ní]|de|o
+unionídeo	adjetivo	u|ni|o|[ní]|de|o
+unionismo	nome masculino	u|ni|o|[nis]|mo
+unionista	nome masculino	u|ni|o|[nis]|ta
+unionista	adjetivo	u|ni|o|[nis]|ta
+unionista	nome feminino	u|ni|o|[nis]|ta
+unionita	adjetivo	u|ni|o|[ni]|ta
+unionita	nome masculino	u|ni|o|[ni]|ta
+unionita	nome feminino	u|ni|o|[ni]|ta
+uniovulado	adjetivo	u|ni|o|vu|[la]|do
+uniovular	adjetivo	u|ni|o|vu|[lar]
+unípara	nome feminino	u|[ní]|pa|ra
+uniparidade	nome feminino	u|ni|pa|ri|[da]|de
+uníparo	adjetivo	u|[ní]|pa|ro
+unipedal	adjetivo	u|ni|pe|[dal]
+unípede	adjetivo	u|[ní]|pe|de
+unipene	adjetivo	u|ni|[pe]|ne
+unipersonal	adjetivo	u|ni|per|so|[nal]
+unipessoal	adjetivo	u|ni|pes|so|[al]
+unipessoalmente	advérbio	u|ni|pes|so|al|[men]|te
+unipétalo	adjetivo	u|ni|[pé]|ta|lo
+unipolar	adjetivo	u|ni|po|[lar]
+unipolaridade	nome feminino	u|ni|po|la|ri|[da]|de
+unipontuado	adjetivo	u|ni|pon|tu|[a]|do
+unir	verbo	u|[nir]
+unirrefringente	adjetivo	u|nir|re|frin|[gen]|te
+unirreme	adjetivo	u|nir|[re]|me
+unirrostro	adjetivo	u|nir|[ros]|tro
+unisex	adjetivo	u|ni|sex
+unispérmico	adjetivo	u|nis|[pér]|mi|co
+unispermo	adjetivo	u|nis|[per]|mo
+unissecular	adjetivo	u|nis|se|cu|[lar]
+unisseriado	adjetivo	u|nis|se|ri|[a]|do
+unissexo	adjetivo	u|nis|[se]|xo
+unissexuado	adjetivo	u|nis|se|xu|[a]|do
+unissexual	adjetivo	u|nis|se|xu|[al]
+unissexualidade	nome feminino	u|nis|se|xu|a|li|[da]|de
+unissexualismo	nome masculino	u|nis|se|xu|a|[lis]|mo
+unissonamente	advérbio	u|nis|so|na|[men]|te
+unissonância	nome feminino	u|nis|so|[nân]|ci|a
+unissonante	adjetivo	u|nis|so|[nan]|te
+uníssono	adjetivo	u|[nís]|so|no
+uníssono	nome masculino	u|[nís]|so|no
+unitária	nome feminino	u|ni|[tá]|ri|a
+unitariamente	advérbio	u|ni|ta|ri|a|[men]|te
+unitário	nome masculino	u|ni|[tá]|ri|o

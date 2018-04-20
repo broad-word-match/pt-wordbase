@@ -1,0 +1,100 @@
+quietura	nome feminino	qui|e|[tu]|ra
+quifaça	nome feminino	qui|[fa]|ça
+quifacoto	nome masculino	qui|fa|[co]|to
+quifoce	nome masculino	qui|[fo]|ce
+quifuça	adjetivo	qui|[fu]|ça
+quifuco	nome masculino	qui|[fu]|co
+quifufutila	nome feminino	qui|fu|fu|[ti]|la
+quifuje	nome masculino	qui|[fu]|je
+quifula	nome feminino	qui|[fu]|la
+quifumbe	nome masculino	qui|[fum]|be
+quifunate	nome masculino	qui|fu|[na]|te
+quifuxo	nome masculino	qui|[fu]|xo
+quigombô	nome masculino	qui|gom|[bô]
+quijila	nome feminino	qui|[ji]|la
+quijilar	verbo	qui|ji|[lar]
+quijinga	nome feminino	qui|[jin]|ga
+quijuba	nome masculino	qui|[ju]|ba
+quilacatembo	nome masculino	qui|la|ca|[tem]|bo
+quilalgia	nome feminino	qui|lal|[gi]|a
+quilálgico	adjetivo	qui|[lál]|gi|co
+quilamba	nome masculino	qui|[lam]|ba
+quilambalambe	nome masculino	qui|lam|ba|[lam]|be
+quilando	nome masculino	qui|[lan]|do
+quilapanga	nome feminino	qui|la|[pan]|ga
+quilápi	nome masculino	qui|[lá]|pi
+quilatação	nome feminino	qui|la|ta|[ção]
+quilatador	nome masculino	qui|la|ta|[dor]
+quilatar	verbo	qui|la|[tar]
+quilate	nome masculino	qui|[la]|te
+quilateira	nome feminino	qui|la|[tei]|ra
+quileba	adjetivo	qui|[le]|ba
+quileba	nome masculino	qui|[le]|ba
+quileba	nome feminino	qui|[le]|ba
+quilembe	nome masculino	qui|[lem]|be
+quilengolengo	nome masculino	qui|len|go|[len]|go
+quilha	nome feminino	[qui]|lha
+quilhar	verbo	qui|[lhar]
+quilhar	adjetivo	qui|[lhar]
+quilhar	nome masculino	qui|[lhar]
+quilhoto	nome masculino	qui|[lho]|to
+quili	nome masculino	qui|[li]
+quili-culu	adjetivo	qui|li-cu|[lu]
+quilíada	nome feminino	qui|[lí]|a|da
+quilíade	nome feminino	qui|[lí]|a|de
+quiliarco	nome masculino	qui|li|[ar]|co
+quiliare	nome masculino	qui|li|[a]|re
+quiliarquia	nome feminino	qui|li|ar|[qui]|a
+quiliárquico	adjetivo	qui|li|[ár]|qui|co
+quiliasta	adjetivo	qui|li|[as]|ta
+quiliasta	nome masculino	qui|li|[as]|ta
+quiliasta	nome feminino	qui|li|[as]|ta
+quilífero	adjetivo	qui|[lí]|fe|ro
+quilificação	nome feminino	qui|li|fi|ca|[ção]
+quilificar	verbo	qui|li|fi|[car]
+quilificativo	adjetivo	qui|li|fi|ca|[ti]|vo
+quiliógono	nome masculino	qui|li|[ó]|go|no
+quilite	nome feminino	qui|[li]|te
+quilo	nome masculino	[qui]|lo
+quiloamba	nome masculino	qui|lo|[am]|ba
+quiloampere	nome masculino	qui|lo|am|[pe]|re
+quilobit	nome masculino	qui|[lo]|bit
+quilobyte	nome masculino	qui|lo|[by]|te
+quilocaloria	nome feminino	qui|lo|ca|lo|[ri]|a
+quilociclo	nome masculino	qui|lo|[ci]|clo
+quilocoulomb	nome masculino	qui|lo|cou|[lomb]
+quilocuenque	nome masculino	qui|lo|cu|[en]|que
+quilodieresia	nome feminino	qui|lo|di|e|re|[si]|a
+quilofagia	nome feminino	qui|lo|fa|[gi]|a
+quilofilia	nome feminino	qui|lo|fi|[li]|a
+quilóforo	adjetivo	qui|[ló]|fo|ro
+quilógnato	nome masculino	qui|[lóg]|na|to
+quilógnato	adjetivo	qui|[lóg]|na|to
+quilograma	nome masculino	qui|lo|[gra]|ma
+quilograma-força	nome masculino	qui|lo|gra|ma-for|ça
+quilograma-padrão	nome masculino	qui|lo|gra|ma-pa|[drão]
+quilograma-peso	nome masculino	qui|lo|gra|ma-pe|so
+quilogrâmetro	nome masculino	qui|lo|[grâ]|me|tro
+quilohertz	nome masculino	qui|lo|[hertz]
+quilojoule	nome masculino	qui|lo|[jou]|le
+quilojúlio	nome masculino	qui|lo|[jú]|li|o
+quilolitro	nome masculino	qui|lo|[li]|tro
+quilolo	nome masculino	qui|[lo]|lo
+quilologia	nome feminino	qui|lo|lo|[gi]|a
+quilológico	adjetivo	qui|lo|[ló]|gi|co
+quilombo	nome masculino	qui|[lom]|bo
+quilombola	nome masculino	qui|lom|[bo]|la
+quilombola	nome feminino	qui|lom|[bo]|la
+quilometragem	nome feminino	qui|lo|me|[tra]|gem
+quilometrar	verbo	qui|lo|me|[trar]
+quilometricamente	advérbio	qui|lo|me|tri|ca|[men]|te
+quilométrico	adjetivo	qui|lo|[mé]|tri|co
+quilómetro	nome masculino	qui|[ló]|me|tro
+quilômetro	nome masculino	qui|[lô]|me|tro
+quiloparsec	nome masculino	qui|lo|[par]|sec
+quiloplastia	nome feminino	qui|lo|plas|[ti]|a
+quiloplástico	adjetivo	qui|lo|[plás]|ti|co
+quilópode	nome masculino	qui|[ló]|po|de
+quilópode	adjetivo	qui|[ló]|po|de
+quilopoese	nome feminino	qui|lo|po|[e]|se
+quilose	nome feminino	qui|[lo]|se

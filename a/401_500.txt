@@ -1,0 +1,100 @@
+abaretado	adjetivo	a|ba|re|[ta]|do
+abarga	nome feminino	a|[bar]|ga
+abargantado	adjetivo	a|bar|gan|[ta]|do
+abargantar	verbo	a|bar|gan|[tar]
+abariga	nome feminino	a|ba|[ri]|ga
+abaritano	adjetivo	a|ba|ri|[ta]|no
+abaritano	nome masculino	a|ba|ri|[ta]|no
+abaritonado	adjetivo	a|ba|ri|to|[na]|do
+abaritonar	verbo	a|ba|ri|to|[nar]
+abaronar	verbo	a|ba|ro|[nar]
+abarqueiro	nome masculino	a|bar|[quei]|ro
+abarracado	adjetivo	a|bar|ra|[ca]|do
+abarracador	adjetivo	a|bar|ra|ca|[dor]
+abarracador	nome masculino	a|bar|ra|ca|[dor]
+abarracamento	nome masculino	a|bar|ra|ca|[men]|to
+abarracar	verbo	a|bar|ra|[car]
+abarrancamento	nome masculino	a|bar|ran|ca|[men]|to
+abarrancar	verbo	a|bar|ran|[car]
+abarregado	adjetivo	a|bar|re|[ga]|do
+abarregamento	nome masculino	a|bar|re|ga|[men]|to
+abarregar	verbo	a|bar|re|[gar]
+abarreirado	adjetivo	a|bar|rei|[ra]|do
+abarreiramento	nome masculino	a|bar|rei|ra|[men]|to
+abarreirar	verbo	a|bar|rei|[rar]
+abarretado	adjetivo	a|bar|re|[ta]|do
+abarretar	verbo	a|bar|re|[tar]
+abarretinado	adjetivo	a|bar|re|ti|[na]|do
+abarretinar	verbo	a|bar|re|ti|[nar]
+abarricado	adjetivo	a|bar|ri|[ca]|do
+abarricar	verbo	a|bar|ri|[car]
+abarrigar	verbo	a|bar|ri|[gar]
+abarrilado	adjetivo	a|bar|ri|[la]|do
+abarrilar	verbo	a|bar|ri|[lar]
+abarroado	adjetivo	a|bar|ro|[a]|do
+abarrocado	adjetivo	a|bar|ro|[ca]|do
+abarrocar	verbo	a|bar|ro|[car]
+abarrotado	adjetivo	a|bar|ro|[ta]|do
+abarrotador	adjetivo	a|bar|ro|ta|[dor]
+abarrotamento	nome masculino	a|bar|ro|ta|[men]|to
+abarrotar	verbo	a|bar|ro|[tar]
+abarruntar	verbo	a|bar|run|[tar]
+abarticulação	nome feminino	a|bar|ti|cu|la|[ção]
+abarticular	adjetivo	a|bar|ti|cu|[lar]
+abartrose	nome feminino	a|bar|[tro]|se
+abartrótico	adjetivo	a|bar|[tró]|ti|co
+abaruna	nome masculino	a|ba|[ru]|na
+abasbacar	verbo	a|bas|ba|[car]
+abascanto	adjetivo	a|bas|[can]|to
+abascanto	nome masculino	a|bas|[can]|to
+abasia	nome feminino	a|ba|[si]|a
+abásico	adjetivo	a|[bá]|si|co
+abásico	nome masculino	a|[bá]|si|co
+abassi	adjetivo	a|bas|[si]
+abassi	nome masculino	a|bas|[si]
+abassi	nome feminino	a|bas|[si]
+abássida	adjetivo	a|[bás]|si|da
+abássida	nome masculino	a|[bás]|si|da
+abássida	nome feminino	a|[bás]|si|da
+abassino	adjetivo	a|bas|[si]|no
+abastadamente	advérbio	a|bas|ta|da|[men]|te
+abastado	adjetivo	a|bas|[ta]|do
+abastamento	nome masculino	a|bas|ta|[men]|to
+abastança	nome feminino	a|bas|[tan]|ça
+abastar	verbo	a|bas|[tar]
+abastardadamente	advérbio	a|bas|tar|da|da|[men]|te
+abastardado	adjetivo	a|bas|tar|[da]|do
+abastardamento	nome masculino	a|bas|tar|da|[men]|to
+abastardar	verbo	a|bas|tar|[dar]
+abastardável	adjetivo	a|bas|tar|[dá]|vel
+abastardeamento	nome masculino	a|bas|tar|de|a|[men]|to
+abastardear	verbo	a|bas|tar|de|[ar]
+abastecedor	adjetivo	a|bas|te|ce|[dor]
+abastecedor	nome masculino	a|bas|te|ce|[dor]
+abastecedora	nome feminino	a|bas|te|ce|[do]|ra
+abastecedouro	nome masculino	a|bas|te|ce|[dou]|ro
+abastecer	verbo	a|bas|te|[cer]
+abastecido	adjetivo	a|bas|te|[ci]|do
+abastecimento	nome masculino	a|bas|te|ci|[men]|to
+abastecível	adjetivo	a|bas|te|[cí]|vel
+abastimento	nome masculino	a|bas|ti|[men]|to
+abastionado	adjetivo	a|bas|ti|o|[na]|do
+abastionar	verbo	a|bas|ti|o|[nar]
+abasto	advérbio	a|[bas]|to
+abastonado	adjetivo	a|bas|to|[na]|do
+abastonar	verbo	a|bas|to|[nar]
+abastosamente	advérbio	a|bas|to|sa|[men]|te
+abastoso	adjetivo	a|bas|[to]|so
+abat-jour	nome masculino	a|bat-jour
+abatanado	nome masculino	a|ba|ta|[na]|do
+abatanado	adjetivo	a|ba|ta|[na]|do
+abatatado	adjetivo	a|ba|ta|[ta]|do
+abatatar	verbo	a|ba|ta|[tar]
+abate	nome masculino	a|[ba]|te
+abatedor	adjetivo	a|ba|te|[dor]
+abatedor	nome masculino	a|ba|te|[dor]
+abatelado	adjetivo	a|ba|te|[la]|do
+abatelamento	nome masculino	a|ba|te|la|[men]|to
+abatelar	verbo	a|ba|te|[lar]
+abater	verbo	a|ba|[ter]
+abati	nome masculino	a|ba|[ti]

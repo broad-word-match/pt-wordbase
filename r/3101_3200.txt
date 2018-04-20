@@ -1,0 +1,100 @@
+refeitoreiro	nome masculino	re|fei|to|[rei]|ro
+refeitorial	adjetivo	re|fei|to|ri|[al]
+refeitório	nome masculino	re|fei|[tó]|ri|o
+refém	nome masculino	re|[fém]
+refém	nome feminino	re|[fém]
+refender	verbo	re|fen|[der]
+refendimento	nome masculino	re|fen|di|[men]|to
+refentar	verbo	re|fen|[tar]
+referência	nome feminino	re|fe|[rên]|ci|a
+referenciação	nome feminino	re|fe|ren|ci|a|[ção]
+referencial	nome masculino	re|fe|ren|ci|[al]
+referencial	adjetivo	re|fe|ren|ci|[al]
+referenciar	verbo	re|fe|ren|ci|[ar]
+referenda	nome feminino	re|fe|[ren]|da
+referendar	verbo	re|fe|ren|[dar]
+referendário	nome masculino	re|fe|ren|[dá]|ri|o
+referendo	nome masculino	re|fe|[ren]|do
+referêndum	nome masculino	re|fe|[rên]|dum
+referente	nome masculino	re|fe|[ren]|te
+referente	adjetivo	re|fe|[ren]|te
+referido	adjetivo	re|fe|[ri]|do
+referimento	nome masculino	re|fe|ri|[men]|to
+referir	verbo	re|fe|[rir]
+referível	adjetivo	re|fe|[rí]|vel
+refermentação	nome feminino	re|fer|men|ta|[ção]
+refermentar	verbo	re|fer|men|[tar]
+referrar	verbo	re|fer|[rar]
+referta	nome feminino	re|[fer]|ta
+refertadamente	advérbio	re|fer|ta|da|[men]|te
+refertar	verbo	re|fer|[tar]
+referto	nome masculino	re|[fer]|to
+referto	adjetivo	re|[fer]|to
+refervente	adjetivo	re|fer|[ven]|te
+referver	verbo	re|fer|[ver]
+refervimento	nome masculino	re|fer|vi|[men]|to
+refestelamento	nome masculino	re|fes|te|la|[men]|to
+refestelar	verbo	re|fes|te|[lar]
+refestelo	nome masculino	re|fes|[te]|lo
+refesto	nome masculino	re|[fes]|to
+refetivo	adjetivo	re|fe|[ti]|vo
+refetório	adjetivo	re|fe|[tó]|ri|o
+refez	adjetivo	re|[fez]
+refiar	verbo	re|fi|[ar]
+refilador	adjetivo	re|fi|la|[dor]
+refilador	nome masculino	re|fi|la|[dor]
+refilão	adjetivo	re|fi|[lão]
+refilão	nome masculino	re|fi|[lão]
+refilar	verbo	re|fi|[lar]
+refilhar	verbo	re|fi|[lhar]
+refilho	nome masculino	re|[fi]|lho
+refilo	nome masculino	re|[fi]|lo
+refilona	nome feminino	re|fi|[lo]|na
+refiltração	nome feminino	re|fil|tra|[ção]
+refiltrar	verbo	re|fil|[trar]
+refinação	nome feminino	re|fi|na|[ção]
+refinadamente	advérbio	re|fi|na|da|[men]|te
+refinado	adjetivo	re|fi|[na]|do
+refinador	adjetivo	re|fi|na|[dor]
+refinador	nome masculino	re|fi|na|[dor]
+refinadura	nome feminino	re|fi|na|[du]|ra
+refinamento	nome masculino	re|fi|na|[men]|to
+refinanciamento	nome masculino	re|fi|nan|ci|a|[men]|to
+refinanciar	verbo	re|fi|nan|ci|[ar]
+refinar	verbo	re|fi|[nar]
+refinaria	nome feminino	re|fi|na|[ri]|a
+refincar	verbo	re|fin|[car]
+refino	nome masculino	re|[fi]|no
+refirmação	nome feminino	re|fir|ma|[ção]
+refirmar	verbo	re|fir|[mar]
+reflada	nome feminino	re|[fla]|da
+refle	nome masculino	[re]|fle
+reflectido	adjetivo	re|flec|[ti]|do
+reflectividade	nome feminino	re|flec|ti|vi|[da]|de
+reflectografia	nome feminino	re|flec|to|gra|[fi]|a
+reflectográfico	adjetivo	re|flec|to|[grá]|fi|co
+reflectométrico	adjetivo	re|flec|to|[mé]|tri|co
+reflectómetro	nome masculino	re|flec|[tó]|me|tro
+reflectômetro	nome masculino	re|flec|[tô]|me|tro
+refletidamente	advérbio	re|fle|ti|da|[men]|te
+refletido	adjetivo	re|fle|[ti]|do
+refletidor	adjetivo	re|fle|ti|[dor]
+refletidor	nome masculino	re|fle|ti|[dor]
+refletir	verbo	re|fle|[tir]
+refletividade	nome feminino	re|fle|ti|vi|[da]|de
+refletivo	adjetivo	re|fle|[ti]|vo
+refletografia	nome feminino	re|fle|to|gra|[fi]|a
+refletográfico	adjetivo	re|fle|to|[grá]|fi|co
+refletométrico	adjetivo	re|fle|to|[mé]|tri|co
+refletómetro	nome masculino	re|fle|[tó]|me|tro
+refletômetro	nome masculino	re|fle|[tô]|me|tro
+refletor	adjetivo	re|fle|[tor]
+refletor	nome masculino	re|fle|[tor]
+reflexa	nome feminino	re|[fle]|xa
+reflexamente	advérbio	re|fle|xa|[men]|te
+reflexão	nome feminino	re|fle|[xão]
+reflexar	verbo	re|fle|[xar]
+reflexibilidade	nome feminino	re|fle|xi|bi|li|[da]|de
+reflexifloro	adjetivo	re|fle|xi|[flo]|ro
+reflexionador	adjetivo	re|fle|xi|o|na|[dor]
+reflexionar	verbo	re|fle|xi|o|[nar]

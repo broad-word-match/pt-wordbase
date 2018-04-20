@@ -1,0 +1,100 @@
+brigadas	nome masculino	bri|[ga]|das
+brigadeiro	nome masculino	bri|ga|[dei]|ro
+brigadeiro-general	nome masculino	bri|ga|dei|ro-ge|ne|[ral]
+brigador	adjetivo	bri|ga|[dor]
+brigador	nome masculino	bri|ga|[dor]
+brigalhada	nome feminino	bri|ga|[lha]|da
+brigalhão	nome masculino	bri|ga|[lhão]
+brigalhão	adjetivo	bri|ga|[lhão]
+brigante	adjetivo	bri|[gan]|te
+brigante	nome masculino	bri|[gan]|te
+brigante	nome feminino	bri|[gan]|te
+brigantina	nome feminino	bri|gan|[ti]|na
+brigantino	adjetivo	bri|gan|[ti]|no
+brigantino	nome masculino	bri|gan|[ti]|no
+brigão	adjetivo	bri|[gão]
+brigão	nome masculino	bri|[gão]
+brigar	verbo	bri|[gar]
+brigiano	adjetivo	bri|gi|[a]|no
+brigiano	nome masculino	bri|gi|[a]|no
+brigona	nome feminino	bri|[go]|na
+brigoso	adjetivo	bri|[go]|so
+brigoso	nome masculino	bri|[go]|so
+brigue	nome masculino	[bri]|gue
+briguento	adjetivo	bri|[guen]|to
+briguento	nome masculino	bri|[guen]|to
+brilha	nome masculino	[bri]|lha
+brilha	nome feminino	[bri]|lha
+brilhante	nome masculino	bri|[lhan]|te
+brilhante	adjetivo	bri|[lhan]|te
+brilhantemente	advérbio	bri|lhan|te|[men]|te
+brilhantez	nome feminino	bri|lhan|[tez]
+brilhantina	nome feminino	bri|lhan|[ti]|na
+brilhantismo	nome masculino	bri|lhan|[tis]|mo
+brilhantura	nome feminino	bri|lhan|[tu]|ra
+brilhar	verbo	bri|[lhar]
+brilharete	nome masculino	bri|lha|[re]|te
+brilhareto	nome masculino	bri|lha|[re]|to
+brilho	nome masculino	[bri]|lho
+brim	nome masculino	[brim]
+brinça	nome feminino	[brin]|ça
+brinca	nome feminino	[brin]|ca
+brincadeira	nome feminino	brin|ca|[dei]|ra
+brincado	adjetivo	brin|[ca]|do
+brincado	nome masculino	brin|[ca]|do
+brincador	adjetivo	brin|ca|[dor]
+brincador	nome masculino	brin|ca|[dor]
+brincalhão	adjetivo	brin|ca|[lhão]
+brincalhão	nome masculino	brin|ca|[lhão]
+brincalhar	verbo	brin|ca|[lhar]
+brincalheta	nome feminino	brin|ca|[lhe]|ta
+brincalhetes	nome masculino	brin|ca|[lhe]|tes
+brincalhona	nome feminino	brin|ca|[lho]|na
+brincalhotar	verbo	brin|ca|lho|[tar]
+brincalhotice	nome feminino	brin|ca|lho|[ti]|ce
+brincão	nome masculino	brin|[cão]
+brincão	adjetivo	brin|[cão]
+brincar	verbo	brin|[car]
+brincheiro	adjetivo	brin|[chei]|ro
+brincheiro	nome masculino	brin|[chei]|ro
+brinco	nome masculino	[brin]|co
+brincos-de-princesa	nome masculino	brin|cos-de-prin|[ce]|sa
+brincos-de-viúva	nome masculino	brin|cos-de-vi|[ú]|va
+brindão	nome masculino	brin|[dão]
+brindar	verbo	brin|[dar]
+brinde	nome masculino	[brin]|de
+brindeiro	nome masculino	brin|[dei]|ro
+brindoeiro	nome masculino	brin|do|[ei]|ro
+brinhola	nome feminino	bri|[nho]|la
+brinquedo	nome masculino	brin|[que]|do
+brinquete	nome masculino	brin|[que]|te
+brinquinharia	nome feminino	brin|qui|nha|[ri]|a
+brinquinheiro	nome masculino	brin|qui|[nhei]|ro
+brinquinho	nome masculino	brin|[qui]|nho
+brinquinhos	nome masculino	brin|[qui]|nhos
+brio	nome masculino	[bri]|o
+brióbio	nome masculino	bri|[ó]|bi|o
+brioche	nome masculino	bri|[o]|che
+briófilo	adjetivo	bri|[ó]|fi|lo
+briofilo	nome masculino	bri|o|[fi]|lo
+briófita	nome feminino	bri|[ó]|fi|ta
+briofítico	adjetivo	bri|o|[fí]|ti|co
+briófito	nome masculino	bri|[ó]|fi|to
+briófito	adjetivo	bri|[ó]|fi|to
+briol	nome masculino	bri|[ol]
+briologia	nome feminino	bri|o|lo|[gi]|a
+briológico	adjetivo	bri|o|[ló]|gi|co
+briologista	nome masculino	bri|o|lo|[gis]|ta
+briologista	nome feminino	bri|o|lo|[gis]|ta
+briólogo	nome masculino	bri|[ó]|lo|go
+bríon	nome masculino	[brí]|on
+briónia	nome feminino	bri|[ó]|ni|a
+briônia	nome feminino	bri|[ô]|ni|a
+brionina	nome feminino	bri|o|[ni]|na
+briopogão	nome masculino	bri|o|po|[gão]
+briopsídea	nome feminino	bri|op|[sí]|de|a
+briosamente	advérbio	bri|o|sa|[men]|te
+brioso	adjetivo	bri|[o]|so
+briotífico	adjetivo	bri|o|[tí]|fi|co
+briozoário	adjetivo	bri|o|zo|[á]|ri|o
+briozoário	nome masculino	bri|o|zo|[á]|ri|o

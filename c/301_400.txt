@@ -1,0 +1,100 @@
+cabombácea	nome feminino	ca|bom|[bá]|ce|a
+cabonde	advérbio	ca|[bon]|de
+cabonde	adjetivo	ca|[bon]|de
+caboquena	adjetivo	ca|bo|[que]|na
+caboquena	nome masculino	ca|bo|[que]|na
+caboquena	nome feminino	ca|bo|[que]|na
+caboraíba	nome feminino	ca|bo|ra|[í]|ba
+caborje	nome masculino	ca|[bor]|je
+caborjeiro	nome masculino	ca|bor|[jei]|ro
+cabortar	verbo	ca|bor|[tar]
+cabortear	verbo	ca|bor|te|[ar]
+caborteirice	nome feminino	ca|bor|tei|[ri]|ce
+caborteiro	adjetivo	ca|bor|[tei]|ro
+caborteiro	nome masculino	ca|bor|[tei]|ro
+cabotagem	nome feminino	ca|bo|[ta]|gem
+cabotar	verbo	ca|bo|[tar]
+cabotina	nome feminino	ca|bo|[ti]|na
+cabotinagem	nome feminino	ca|bo|ti|[na]|gem
+cabotinamente	advérbio	ca|bo|ti|na|[men]|te
+cabotinar	verbo	ca|bo|ti|[nar]
+cabotinismo	nome masculino	ca|bo|ti|[nis]|mo
+cabotino	nome masculino	ca|bo|[ti]|no
+cabotino	adjetivo	ca|bo|[ti]|no
+caboucador	nome masculino	ca|bou|ca|[dor]
+caboucar	verbo	ca|bou|[car]
+cabouco	nome masculino	ca|[bou]|co
+cabouqueira	nome feminino	ca|bou|[quei]|ra
+cabouqueiro	nome masculino	ca|bou|[quei]|ro
+caboz	nome masculino	ca|[boz]
+cabozeira	nome feminino	ca|bo|[zei]|ra
+cabozeiro	nome masculino	ca|bo|[zei]|ro
+cabra	nome masculino	[ca]|bra
+cabra	nome feminino	[ca]|bra
+cabra	adjetivo	[ca]|bra
+cabra-almiscareira	nome feminino	ca|bra-al|mis|ca|[rei]|ra
+cabra-cega	nome feminino	ca|bra-ce|ga
+cabra-do-monte	nome feminino	ca|bra-do-mon|te
+cabra-loira	nome feminino	ca|bra-loi|ra
+cabra-loura	nome feminino	ca|bra-lou|ra
+cabrada	nome feminino	ca|[bra]|da
+cabralhada	nome feminino	ca|bra|[lha]|da
+cabralhona	nome feminino	ca|bra|[lho]|na
+cabralino	adjetivo	ca|bra|[li]|no
+cabralino	nome masculino	ca|bra|[li]|no
+cabralismo	nome masculino	ca|bra|[lis]|mo
+cabralista	adjetivo	ca|bra|[lis]|ta
+cabralista	nome masculino	ca|bra|[lis]|ta
+cabralista	nome feminino	ca|bra|[lis]|ta
+cabramo	nome masculino	ca|[bra]|mo
+cabrão	nome masculino	ca|[brão]
+cabrazar	verbo	ca|bra|[zar]
+cabre	nome masculino	[ca]|bre
+cábrea	nome feminino	[cá]|bre|a
+cabreado	adjetivo	ca|bre|[a]|do
+cabrear	verbo	ca|bre|[ar]
+cabreira	nome feminino	ca|[brei]|ra
+cabreirada	nome feminino	ca|brei|[ra]|da
+cabreirice	nome feminino	ca|brei|[ri]|ce
+cabreiro	adjetivo	ca|[brei]|ro
+cabreiro	nome masculino	ca|[brei]|ro
+cabrejar	verbo	ca|bre|[jar]
+cabrema	nome feminino	ca|[bre]|ma
+cabrestante	nome masculino	ca|bres|[tan]|te
+cabrestão	nome masculino	ca|bres|[tão]
+cabresteador	nome masculino	ca|bres|te|a|[dor]
+cabrestear	verbo	ca|bres|te|[ar]
+cabresteira	nome feminino	ca|bres|[tei]|ra
+cabresteiro	nome masculino	ca|bres|[tei]|ro
+cabresteiro	adjetivo	ca|bres|[tei]|ro
+cabrestilho	nome masculino	ca|bres|[ti]|lho
+cabresto	nome masculino	ca|[bres]|to
+cabrião	nome masculino	ca|bri|[ão]
+cabrice	nome feminino	ca|[bri]|ce
+cabril	adjetivo	ca|[bril]
+cabril	nome masculino	ca|[bril]
+cabrilha	nome feminino	ca|[bri]|lha
+cabrim	nome masculino	ca|[brim]
+cabrinete	nome masculino	ca|bri|[ne]|te
+cabrinha	nome feminino	ca|[bri]|nha
+cabriola	nome feminino	ca|bri|[o]|la
+cabriolar	verbo	ca|bri|o|[lar]
+cabriolé	nome masculino	ca|bri|o|[lé]
+cabriolet	nome masculino	ca|bri|o|let
+cabriolice	nome feminino	ca|bri|o|[li]|ce
+cabrita	nome feminino	ca|[bri]|ta
+cabritada	nome feminino	ca|bri|[ta]|da
+cabritalho	nome masculino	ca|bri|[ta]|lho
+cabritar	verbo	ca|bri|[tar]
+cabriteiro	nome masculino	ca|bri|[tei]|ro
+cabritela	nome feminino	ca|bri|[te]|la
+cabritino	adjetivo	ca|bri|[ti]|no
+cabritismo	nome masculino	ca|bri|[tis]|mo
+cabrito	adjetivo	ca|[bri]|to
+cabrito	nome masculino	ca|[bri]|to
+cabrito-montês	nome masculino	ca|bri|to-mon|[tês]
+cabriúva	nome feminino	ca|bri|[ú]|va
+cabro	nome masculino	[ca]|bro
+cabroada	nome feminino	ca|bro|[a]|da
+cabrobó	nome masculino	ca|bro|[bó]
+cabrocar	verbo	ca|bro|[car]

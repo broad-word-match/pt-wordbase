@@ -1,0 +1,100 @@
+belo-horizontino	adjetivo	be|lo-ho|ri|zon|[ti]|no
+belo-horizontino	nome masculino	be|lo-ho|ri|zon|[ti]|no
+belo-valense	adjetivo	be|lo-va|[len]|se
+belo-valense	nome masculino	be|lo-va|[len]|se
+belo-valense	nome feminino	be|lo-va|[len]|se
+belomancia	nome feminino	be|lo|man|[ci]|a
+belomante	nome masculino	be|lo|[man]|te
+belomante	nome feminino	be|lo|[man]|te
+belomântico	adjetivo	be|lo|[mân]|ti|co
+belona	nome feminino	be|[lo]|na
+belonário	nome masculino	be|lo|[ná]|ri|o
+belonave	nome feminino	be|lo|[na]|ve
+belonídeo	adjetivo	be|lo|[ní]|de|o
+belonídeo	nome masculino	be|lo|[ní]|de|o
+belonídeo	nome masculino	be|lo|[ní]|de|o
+beloniforme	nome masculino	be|lo|ni|[for]|me
+beloniforme	adjetivo	be|lo|ni|[for]|me
+belonofobia	nome feminino	be|lo|no|fo|[bi]|a
+belonófobo	adjetivo	be|lo|[nó]|fo|bo
+belonófobo	nome masculino	be|lo|[nó]|fo|bo
+belonoide	adjetivo	be|lo|[noi]|de
+belóstomo	nome masculino	be|[lós]|to|mo
+belóvaco	adjetivo	be|[ló]|va|co
+belóvaco	nome masculino	be|[ló]|va|co
+beltrana	nome feminino	bel|[tra]|na
+beltrano	nome masculino	bel|[tra]|no
+beltrão	nome masculino	bel|[trão]
+beluária	nome feminino	be|lu|[á]|ri|a
+beluário	nome masculino	be|lu|[á]|ri|o
+beluca	nome feminino	be|[lu]|ca
+beluga	nome feminino	be|[lu]|ga
+beluíno	adjetivo	be|lu|[í]|no
+beluoso	adjetivo	be|lu|[o]|so
+belveder	nome masculino	bel|ve|[der]
+belvedere	nome masculino	bel|ve|[de]|re
+belver	nome masculino	bel|[ver]
+belverde	nome masculino	bel|[ver]|de
+belzebu	nome masculino	bel|ze|[bu]
+belzebútico	adjetivo	bel|ze|[bú]|ti|co
+bem	nome masculino	[bem]
+bem	adjetivo	[bem]
+bem	advérbio	[bem]
+bem	interjeição	[bem]
+bem-acompleicionado	adjetivo	bem-a|com|plei|ci|o|[na]|do
+bem-acompleiçoado	adjetivo	bem-a|com|plei|ço|[a]|do
+bem-acomplexionado	adjetivo	bem-a|com|ple|xi|o|[na]|do
+bem-acompreiçoado	adjetivo	bem-a|com|prei|ço|[a]|do
+bem-acondicionado	adjetivo	bem-a|con|di|ci|o|[na]|do
+bem-acondiçoado	adjetivo	bem-a|con|di|ço|[a]|do
+bem-aconselhado	adjetivo	bem-a|con|se|[lha]|do
+bem-adaptado	adjetivo	bem-a|dap|[ta]|do
+bem-afamado	adjetivo	bem-a|fa|[ma]|do
+bem-afeiçoado	adjetivo	bem-a|fei|ço|[a]|do
+bem-afortunadamente	advérbio	bem-a|for|tu|na|da|[men]|te
+bem-afortunado	adjetivo	bem-a|for|tu|[na]|do
+bem-agradecido	adjetivo	bem-a|gra|de|[ci]|do
+bem-ajorcado	adjetivo	bem-a|jor|[ca]|do
+bem-amado	adjetivo	bem-a|[ma]|do
+bem-amado	nome masculino	bem-a|[ma]|do
+bem-andante	adjetivo	bem-an|[dan]|te
+bem-apanhado	adjetivo	bem-a|pa|[nha]|do
+bem-apessoado	adjetivo	bem-a|pes|so|[a]|do
+bem-assombrado	adjetivo	bem-as|som|[bra]|do
+bem-aventurada	nome feminino	bem-a|ven|tu|[ra]|da
+bem-aventuradamente	advérbio	bem-a|ven|tu|ra|da|[men]|te
+bem-aventurado	nome masculino	bem-a|ven|tu|[ra]|do
+bem-aventurado	adjetivo	bem-a|ven|tu|[ra]|do
+bem-aventurança	nome feminino	bem-a|ven|tu|[ran]|ça
+bem-aventurar	verbo	bem-a|ven|tu|[rar]
+bem-avindo	adjetivo	bem-a|[vin]|do
+bem-avisado	adjetivo	bem-a|vi|[sa]|do
+bem-bom	nome masculino	[bem-bom]
+bem-caçado	adjetivo	bem-ca|[ça]|do
+bem-casado	adjetivo	bem-ca|[sa]|do
+bem-casado	nome masculino	bem-ca|[sa]|do
+bem-casados	nome masculino	bem-ca|[sa]|dos
+bem-comportado	adjetivo	bem-com|por|[ta]|do
+bem-criado	adjetivo	bem-cri|[a]|do
+bem-curada	nome feminino	bem-cu|[ra]|da
+bem-de-fala	nome masculino	bem-de-fa|la
+bem-disposto	adjetivo	bem-dis|[pos]|to
+bem-dito	adjetivo	bem-di|to
+bem-ditoso	adjetivo	bem-di|[to]|so
+bem-dizente	adjetivo	bem-di|[zen]|te
+bem-dizer	verbo	bem-di|[zer]
+bem-educado	adjetivo	bem-e|du|[ca]|do
+bem-encaradamente	advérbio	bem-en|ca|ra|da|[men]|te
+bem-encarado	adjetivo	bem-en|ca|[ra]|do
+bem-enjorcado	adjetivo	bem-en|jor|[ca]|do
+bem-ensinado	adjetivo	bem-en|si|[na]|do
+bem-estar	nome masculino	bem-es|[tar]
+bem-fadado	adjetivo	bem-fa|[da]|do
+bem-fadar	verbo	bem-fa|[dar]
+bem-falante	adjetivo	bem-fa|[lan]|te
+bem-fazente	adjetivo	bem-fa|[zen]|te
+bem-fazer	nome masculino	bem-fa|[zer]
+bem-fazer	verbo	bem-fa|[zer]
+bem-feito	adjetivo	bem-fei|to
+bem-humorado	adjetivo	bem-hu|mo|[ra]|do
+bem-intencionado	adjetivo	bem-in|ten|ci|o|[na]|do

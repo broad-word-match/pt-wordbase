@@ -1,0 +1,100 @@
+corruptor	nome masculino	cor|rup|[tor]
+corruptora	nome feminino	cor|rup|[to]|ra
+corruta	nome feminino	cor|[ru]|ta
+corrutela	nome feminino	cor|ru|[te]|la
+corrutibilidade	nome feminino	cor|ru|ti|bi|li|[da]|de
+corrutível	adjetivo	cor|ru|[tí]|vel
+corrutivo	adjetivo	cor|ru|[ti]|vo
+corruto	adjetivo	cor|[ru]|to
+corruto	nome masculino	cor|[ru]|to
+corrutor	adjetivo	cor|ru|[tor]
+corrutor	nome masculino	cor|ru|[tor]
+corrutora	nome feminino	cor|ru|[to]|ra
+corsa	nome feminino	[cor]|sa
+corsário	nome masculino	cor|[sá]|ri|o
+corsário	adjetivo	cor|[sá]|ri|o
+corsear	verbo	cor|se|[ar]
+corselete	nome masculino	cor|se|[le]|te
+córsica	nome feminino	[cór]|si|ca
+córsico	adjetivo	[cór]|si|co
+córsico	nome masculino	[cór]|si|co
+corso	nome masculino	[cor]|so
+corso	adjetivo	[cor]|so
+corta	nome feminino	[cor]|ta
+corta-arame	nome masculino	cor|ta-a|[ra]|me
+corta-bolsos	nome masculino	cor|ta-bol|sos
+corta-charutos	nome masculino	cor|ta-cha|[ru]|tos
+corta-chefe	nome masculino	cor|ta-che|fe
+corta-circuito	nome masculino	cor|ta-cir|[cui]|to
+corta-fitas	nome masculino	cor|ta-fi|tas
+corta-fogo	nome masculino	cor|ta-fo|go
+corta-fogo	adjetivo	cor|ta-fo|go
+corta-frio	nome masculino	cor|ta-fri|o
+corta-jaca	nome masculino	cor|ta-ja|ca
+corta-mão	nome masculino	cor|ta-mão
+corta-mar	nome masculino	cor|ta-mar
+corta-mato	nome masculino	cor|ta-ma|to
+corta-milhos	nome masculino	cor|ta-mi|lhos
+corta-palha	nome masculino	cor|ta-pa|lha
+corta-papéis	nome masculino	cor|ta-pa|[péis]
+corta-papel	nome masculino	cor|ta-pa|[pel]
+corta-pau	nome masculino	cor|ta-pau
+corta-raízes	nome masculino	cor|ta-ra|[í]|zes
+corta-tubos	nome masculino	cor|ta-tu|bos
+corta-unhas	nome masculino	cor|ta-u|nhas
+corta-vento	nome masculino	cor|ta-ven|to
+cortabom	nome masculino	cor|[ta]|bom
+cortada	nome feminino	cor|[ta]|da
+cortadeira	nome feminino	cor|ta|[dei]|ra
+cortadela	nome feminino	cor|ta|[de]|la
+cortado	nome masculino	cor|[ta]|do
+cortado	adjetivo	cor|[ta]|do
+cortador	nome masculino	cor|ta|[dor]
+cortador	adjetivo	cor|ta|[dor]
+cortadora	nome feminino	cor|ta|[do]|ra
+cortadura	nome feminino	cor|ta|[du]|ra
+cortagem	nome feminino	cor|[ta]|gem
+cortamento	nome masculino	cor|ta|[men]|to
+cortante	adjetivo	cor|[tan]|te
+cortantemente	advérbio	cor|tan|te|[men]|te
+cortar	verbo	cor|[tar]
+cortável	adjetivo	cor|[tá]|vel
+corte	nome feminino	[cor]|te
+corte	nome masculino	[cor]|te
+corteché	nome masculino	cor|te|[ché]
+corteira	nome feminino	cor|[tei]|ra
+cortejador	adjetivo	cor|te|ja|[dor]
+cortejador	nome masculino	cor|te|ja|[dor]
+cortejar	verbo	cor|te|[jar]
+cortejável	adjetivo	cor|te|[já]|vel
+cortejo	nome masculino	cor|[te]|jo
+corteleiro	nome masculino	cor|te|[lei]|ro
+cortelha	nome feminino	cor|[te]|lha
+cortelho	nome masculino	cor|[te]|lho
+cortês	adjetivo	cor|[tês]
+cortesã	nome feminino	cor|te|[sã]
+cortesanesco	adjetivo	cor|te|sa|[nes]|co
+cortesania	nome feminino	cor|te|sa|[ni]|a
+cortesanice	nome feminino	cor|te|sa|[ni]|ce
+cortesanismo	nome masculino	cor|te|sa|[nis]|mo
+cortesão	adjetivo	cor|te|[são]
+cortesão	nome masculino	cor|te|[são]
+cortesia	nome feminino	cor|te|[si]|a
+cortesmente	advérbio	cor|tes|[men]|te
+córtex	nome masculino	[cór]|tex
+cortiça	nome feminino	cor|[ti]|ça
+cortiçada	nome feminino	cor|ti|[ça]|da
+cortiçado	adjetivo	cor|ti|[ça]|do
+cortical	adjetivo	cor|ti|[cal]
+cortical	nome masculino	cor|ti|[cal]
+córtice	nome masculino	[cór]|ti|ce
+corticeira	nome feminino	cor|ti|[cei]|ra
+corticeiro	nome masculino	cor|ti|[cei]|ro
+corticeiro	adjetivo	cor|ti|[cei]|ro
+corticento	adjetivo	cor|ti|[cen]|to
+cortíceo	adjetivo	cor|[tí]|ce|o
+cortícico	adjetivo	cor|[tí]|ci|co
+corticícola	adjetivo	cor|ti|[cí]|co|la
+corticífero	adjetivo	cor|ti|[cí]|fe|ro
+corticiforme	adjetivo	cor|ti|ci|[for]|me
+corticina	nome feminino	cor|ti|[ci]|na

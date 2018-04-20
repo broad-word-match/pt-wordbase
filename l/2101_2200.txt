@@ -1,0 +1,100 @@
+leucitito	nome masculino	leu|ci|[ti]|to
+leucito	nome masculino	leu|[ci]|to
+leucitófiro	nome masculino	leu|ci|[tó]|fi|ro
+leuco	adjetivo	[leu]|co
+leuco	nome masculino	[leu]|co
+leucocalcite	nome feminino	leu|co|cal|[ci]|te
+leucocarpo	adjetivo	leu|co|[car]|po
+leucocarpo	nome masculino	leu|co|[car]|po
+leucocéfalo	adjetivo	leu|co|[cé]|fa|lo
+leucocitário	adjetivo	leu|co|ci|[tá]|ri|o
+leucocitemia	nome feminino	leu|co|ci|te|[mi]|a
+leucocitémico	adjetivo	leu|co|ci|[té]|mi|co
+leucocitêmico	adjetivo	leu|co|ci|[tê]|mi|co
+leucocítico	adjetivo	leu|co|[cí]|ti|co
+leucócito	nome masculino	leu|[có]|ci|to
+leucocitólise	nome feminino	leu|co|ci|[tó]|li|se
+leucocitolítico	adjetivo	leu|co|ci|to|[lí]|ti|co
+leucocitometria	nome feminino	leu|co|ci|to|me|[tri]|a
+leucocitométrico	adjetivo	leu|co|ci|to|[mé]|tri|co
+leucocitopoese	nome feminino	leu|co|ci|to|po|[e]|se
+leucocitopoético	adjetivo	leu|co|ci|to|po|[é]|ti|co
+leucocitopoiese	nome feminino	leu|co|ci|to|poi|[e]|se
+leucocitopoiético	adjetivo	leu|co|ci|to|poi|[é]|ti|co
+leucocitose	nome feminino	leu|co|ci|[to]|se
+leucócomo	adjetivo	leu|[có]|co|mo
+leucocrático	adjetivo	leu|co|[crá]|ti|co
+leucodermia	nome feminino	leu|co|der|[mi]|a
+leucodonte	adjetivo	leu|co|[don]|te
+leucoetíope	adjetivo	leu|co|e|[tí]|o|pe
+leucoetíope	nome masculino	leu|co|e|[tí]|o|pe
+leucoetíope	nome feminino	leu|co|e|[tí]|o|pe
+leucofila	nome feminino	leu|co|[fi]|la
+leucoflegmasia	nome feminino	leu|co|fleg|ma|[si]|a
+leucoflegmásico	adjetivo	leu|co|fleg|[má]|si|co
+leucoflegmático	adjetivo	leu|co|fleg|[má]|ti|co
+leucografia	nome feminino	leu|co|gra|[fi]|a
+leucográfico	adjetivo	leu|co|[grá]|fi|co
+leucografite	nome feminino	leu|co|gra|[fi]|te
+leucólito	adjetivo	leu|[có]|li|to
+leucólito	nome masculino	leu|[có]|li|to
+leucoma	nome masculino	leu|[co]|ma
+leucometria	nome feminino	leu|co|me|[tri]|a
+leucométrico	adjetivo	leu|co|[mé]|tri|co
+lêucon	nome masculino	[lêu]|con
+leucopatia	nome feminino	leu|co|pa|[ti]|a
+leucopático	adjetivo	leu|co|[pá]|ti|co
+leucopenia	nome feminino	leu|co|pe|[ni]|a
+leucopênico	adjetivo	leu|co|[pê]|ni|co
+leucopénico	adjetivo	leu|co|[pé]|ni|co
+leucopétalo	adjetivo	leu|co|[pé]|ta|lo
+leucoplasia	nome feminino	leu|co|pla|[si]|a
+leucoplásico	adjetivo	leu|co|[plá]|si|co
+leucoplasto	nome masculino	leu|co|[plas]|to
+leucópode	adjetivo	leu|[có]|po|de
+leucopoese	nome feminino	leu|co|po|[e]|se
+leucopoético	adjetivo	leu|co|po|[é]|ti|co
+leucopoiese	nome feminino	leu|co|poi|[e]|se
+leucopoiético	adjetivo	leu|co|poi|[é]|ti|co
+leucopolitano	adjetivo	leu|co|po|li|[ta]|no
+leucopolitano	nome masculino	leu|co|po|li|[ta]|no
+leucóptero	adjetivo	leu|[cóp]|te|ro
+leucorragia	nome feminino	leu|cor|ra|[gi]|a
+leucorrágico	adjetivo	leu|cor|[rá]|gi|co
+leucorreia	nome feminino	leu|cor|[rei]|a
+leucorreico	adjetivo	leu|cor|[rei]|co
+leucose	nome feminino	leu|[co]|se
+leucósiro	adjetivo	leu|[có]|si|ro
+leucósiro	nome masculino	leu|[có]|si|ro
+leucoterapia	nome feminino	leu|co|te|ra|[pi]|a
+leucoterápico	adjetivo	leu|co|te|[rá]|pi|co
+leucotomia	nome feminino	leu|co|to|[mi]|a
+leucotómico	adjetivo	leu|co|[tó]|mi|co
+leucotômico	adjetivo	leu|co|[tô]|mi|co
+leucotóxico	adjetivo	leu|co|[tó]|xi|co
+leucotoxina	nome feminino	leu|co|to|[xi]|na
+leucovírus	nome masculino	leu|co|[ví]|rus
+leucoxena	nome feminino	leu|co|[xe]|na
+leucrócota	nome feminino	leu|[cró]|co|ta
+lev	nome masculino	[lev]
+leva	nome feminino	[le]|va
+leva-arriba	interjeição	le|va-ar|[ri]|ba
+leva-dente	nome masculino	le|va-den|te
+leva-e-traz	nome masculino	le|va-e-traz
+leva-e-traz	nome feminino	le|va-e-traz
+levação	nome feminino	le|va|[ção]
+levaco	adjetivo	le|[va]|co
+levaco	nome masculino	le|[va]|co
+levada	nome feminino	le|[va]|da
+levadia	nome feminino	le|va|[di]|a
+levadiça	nome feminino	le|va|[di]|ça
+levadiço	adjetivo	le|va|[di]|ço
+levadinho	adjetivo	le|va|[di]|nho
+levadio	adjetivo	le|va|[di]|o
+levado	adjetivo	le|[va]|do
+levadoira	nome feminino	le|va|[doi]|ra
+levador	adjetivo	le|va|[dor]
+levador	nome masculino	le|va|[dor]
+levadoura	nome feminino	le|va|[dou]|ra
+levadura	nome feminino	le|va|[du]|ra
+levadurina	nome feminino	le|va|du|[ri]|na

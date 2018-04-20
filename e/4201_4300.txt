@@ -1,0 +1,100 @@
+engonhar	verbo	en|go|[nhar]
+engoniar	verbo	en|go|ni|[ar]
+engorda	nome feminino	en|[gor]|da
+engordamento	nome masculino	en|gor|da|[men]|to
+engordar	verbo	en|gor|[dar]
+engordo	nome masculino	en|[gor]|do
+engordurado	adjetivo	en|gor|du|[ra]|do
+engorduramento	nome masculino	en|gor|du|ra|[men]|to
+engordurar	verbo	en|gor|du|[rar]
+engorgido	adjetivo	en|gor|[gi]|do
+engorgitar	verbo	en|gor|gi|[tar]
+engorolar	verbo	en|go|ro|[lar]
+engorovinhado	adjetivo	en|go|ro|vi|[nha]|do
+engorra	nome feminino	en|[gor]|ra
+engorrar	verbo	en|gor|[rar]
+engos	nome masculino	[en]|gos
+engra	nome feminino	[en]|gra
+engraçada	nome feminino	en|gra|[ça]|da
+engraçadamente	advérbio	en|gra|ça|da|[men]|te
+engraçado	adjetivo	en|gra|[ça]|do
+engraçado	nome masculino	en|gra|[ça]|do
+engraçamento	nome masculino	en|gra|ça|[men]|to
+engraçar	verbo	en|gra|[çar]
+engradado	nome masculino	en|gra|[da]|do
+engradado	adjetivo	en|gra|[da]|do
+engradamento	nome masculino	en|gra|da|[men]|to
+engradar	verbo	en|gra|[dar]
+engradeamento	nome masculino	en|gra|de|a|[men]|to
+engradear	verbo	en|gra|de|[ar]
+engradecer	verbo	en|gra|de|[cer]
+engraecer	verbo	en|gra|e|[cer]
+engrama	nome masculino	en|[gra]|ma
+engrampador	adjetivo	en|gram|pa|[dor]
+engrampador	nome masculino	en|gram|pa|[dor]
+engrampar	verbo	en|gram|[par]
+engramponar	verbo	en|gram|po|[nar]
+engrandecedor	adjetivo	en|gran|de|ce|[dor]
+engrandecedor	nome masculino	en|gran|de|ce|[dor]
+engrandecedora	nome feminino	en|gran|de|ce|[do]|ra
+engrandecer	verbo	en|gran|de|[cer]
+engrandecido	adjetivo	en|gran|de|[ci]|do
+engrandecimento	nome masculino	en|gran|de|ci|[men]|to
+engranzador	adjetivo	en|gran|za|[dor]
+engranzador	nome masculino	en|gran|za|[dor]
+engranzagem	nome feminino	en|gran|[za]|gem
+engranzamento	nome masculino	en|gran|za|[men]|to
+engranzar	verbo	en|gran|[zar]
+engravatado	adjetivo	en|gra|va|[ta]|do
+engravatar	verbo	en|gra|va|[tar]
+engravescer	verbo	en|gra|ves|[cer]
+engravidar	verbo	en|gra|vi|[dar]
+engravidecer	verbo	en|gra|vi|de|[cer]
+engravitar	verbo	en|gra|vi|[tar]
+engraxa	nome masculino	en|[gra]|xa
+engraxa	nome feminino	en|[gra]|xa
+engraxadela	nome feminino	en|gra|xa|[de]|la
+engraxado	adjetivo	en|gra|[xa]|do
+engraxador	adjetivo	en|gra|xa|[dor]
+engraxador	nome masculino	en|gra|xa|[dor]
+engraxadora	nome feminino	en|gra|xa|[do]|ra
+engraxadoria	nome feminino	en|gra|xa|do|[ri]|a
+engraxamento	nome masculino	en|gra|xa|[men]|to
+engraxanço	nome masculino	en|gra|[xan]|ço
+engraxar	verbo	en|gra|[xar]
+engraxate	nome masculino	en|gra|[xa]|te
+engraxate	nome feminino	en|gra|[xa]|te
+engrazar	verbo	en|gra|[zar]
+engrazular	verbo	en|gra|zu|[lar]
+engrelar	verbo	en|gre|[lar]
+engrelhamento	nome masculino	en|gre|lha|[men]|to
+engrelhar	verbo	en|gre|[lhar]
+engrenagem	nome feminino	en|gre|[na]|gem
+engrenamento	nome masculino	en|gre|na|[men]|to
+engrenar	verbo	en|gre|[nar]
+engrenhamento	nome masculino	en|gre|nha|[men]|to
+engrenhar	verbo	en|gre|[nhar]
+engrideira	nome feminino	en|gri|[dei]|ra
+engrifamento	nome masculino	en|gri|fa|[men]|to
+engrifar	verbo	en|gri|[far]
+engrilar	verbo	en|gri|[lar]
+engrimância	nome feminino	en|gri|[mân]|ci|a
+engrimanço	nome masculino	en|gri|[man]|ço
+engrimpar	verbo	en|grim|[par]
+engrimpinar	verbo	en|grim|pi|[nar]
+engrinaldado	adjetivo	en|gri|nal|[da]|do
+engrinaldar	verbo	en|gri|nal|[dar]
+engripado	adjetivo	en|gri|[pa]|do
+engripar	verbo	en|gri|[par]
+engrolado	adjetivo	en|gro|[la]|do
+engrolador	adjetivo	en|gro|la|[dor]
+engrolador	nome masculino	en|gro|la|[dor]
+engrolar	verbo	en|gro|[lar]
+engrolo	nome masculino	en|[gro]|lo
+engroselhado	adjetivo	en|gro|se|[lha]|do
+engrossador	adjetivo	en|gros|sa|[dor]
+engrossador	nome masculino	en|gros|sa|[dor]
+engrossamento	nome masculino	en|gros|sa|[men]|to
+engrossar	verbo	en|gros|[sar]
+engrotar	verbo	en|gro|[tar]
+engrouvinhado	adjetivo	en|grou|vi|[nha]|do

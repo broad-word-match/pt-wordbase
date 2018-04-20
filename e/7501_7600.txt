@@ -1,0 +1,100 @@
+escândalo	nome masculino	es|[cân]|da|lo
+escandalosamente	advérbio	es|can|da|lo|sa|[men]|te
+escandaloso	adjetivo	es|can|da|[lo]|so
+escândea	nome masculino	es|[cân]|de|a
+escândea	nome feminino	es|[cân]|de|a
+escandecência	nome feminino	es|can|de|[cên]|ci|a
+escandecente	adjetivo	es|can|de|[cen]|te
+escandecer	verbo	es|can|de|[cer]
+escandecimento	nome masculino	es|can|de|ci|[men]|to
+escandido	adjetivo	es|can|[di]|do
+escandinava	nome feminino	es|can|di|[na]|va
+escandinávico	nome masculino	es|can|di|[ná]|vi|co
+escandinávico	adjetivo	es|can|di|[ná]|vi|co
+escandinaviense	nome masculino	es|can|di|na|vi|[en]|se
+escandinaviense	adjetivo	es|can|di|na|vi|[en]|se
+escandinavo	adjetivo	es|can|di|[na]|vo
+escandinavo	nome masculino	es|can|di|[na]|vo
+escândio	nome masculino	es|[cân]|di|o
+escandir	verbo	es|can|[dir]
+escândula	nome feminino	es|[cân]|du|la
+escanelado	adjetivo	es|ca|ne|[la]|do
+escanência	nome feminino	es|ca|[nên]|ci|a
+escangadeira	nome feminino	es|can|ga|[dei]|ra
+escangalhação	nome feminino	es|can|ga|lha|[ção]
+escangalhado	adjetivo	es|can|ga|[lha]|do
+escangalhador	adjetivo	es|can|ga|lha|[dor]
+escangalhador	nome masculino	es|can|ga|lha|[dor]
+escangalhamento	nome masculino	es|can|ga|lha|[men]|to
+escangalhar	verbo	es|can|ga|[lhar]
+escangalhável	adjetivo	es|can|ga|[lhá]|vel
+escanganhadeira	nome feminino	es|can|ga|nha|[dei]|ra
+escanganhar	verbo	es|can|ga|[nhar]
+escanganho	nome masculino	es|can|[ga]|nho
+escangar	verbo	es|can|[gar]
+escanho	nome masculino	es|[ca]|nho
+escanhoadela	nome feminino	es|ca|nho|a|[de]|la
+escanhoado	adjetivo	es|ca|nho|[a]|do
+escanhoador	nome masculino	es|ca|nho|a|[dor]
+escanhoamento	nome masculino	es|ca|nho|a|[men]|to
+escanhoar	verbo	es|ca|nho|[ar]
+escanhoável	adjetivo	es|ca|nho|[á]|vel
+escanhotador	nome masculino	es|ca|nho|ta|[dor]
+escanhotar	verbo	es|ca|nho|[tar]
+escanifra	nome masculino	es|ca|[ni]|fra
+escanifra	nome feminino	es|ca|[ni]|fra
+escanifrado	adjetivo	es|ca|ni|[fra]|do
+escanifrar	verbo	es|ca|ni|[frar]
+escanifre	nome masculino	es|ca|[ni]|fre
+escaninhar	verbo	es|ca|ni|[nhar]
+escaninho	nome masculino	es|ca|[ni]|nho
+escano	nome masculino	es|[ca]|no
+escansão	nome feminino	es|can|[são]
+escantado	adjetivo	es|can|[ta]|do
+escanteado	adjetivo	es|can|te|[a]|do
+escantear	verbo	es|can|te|[ar]
+escanteio	nome masculino	es|can|[tei]|o
+escantilhão	nome masculino	es|can|ti|[lhão]
+escantoado	adjetivo	es|can|to|[a]|do
+escantudo	adjetivo	es|can|[tu]|do
+escanzelada	nome feminino	es|can|ze|[la]|da
+escanzelado	adjetivo	es|can|ze|[la]|do
+escanzelado	nome masculino	es|can|ze|[la]|do
+escapada	nome feminino	es|ca|[pa]|da
+escapadela	nome feminino	es|ca|pa|[de]|la
+escapadiço	adjetivo	es|ca|pa|[di]|ço
+escapadinha	nome feminino	es|ca|pa|[di]|nha
+escapamento	nome masculino	es|ca|pa|[men]|to
+escapanço	nome masculino	es|ca|[pan]|ço
+escapar	verbo	es|ca|[par]
+escaparate	nome masculino	es|ca|pa|[ra]|te
+escaparete	nome masculino	es|ca|pa|[re]|te
+escapatória	nome feminino	es|ca|pa|[tó]|ri|a
+escapatoriamente	advérbio	es|ca|pa|to|ri|a|[men]|te
+escapatório	adjetivo	es|ca|pa|[tó]|ri|o
+escapatório	nome masculino	es|ca|pa|[tó]|ri|o
+escapável	adjetivo	es|ca|[pá]|vel
+escápcio	adjetivo	es|[cáp]|ci|o
+escape	nome masculino	es|[ca]|pe
+escape	adjetivo	es|[ca]|pe
+escapelada	nome feminino	es|ca|pe|[la]|da
+escapelar	verbo	es|ca|pe|[lar]
+escapismo	nome masculino	es|ca|[pis]|mo
+escapista	adjetivo	es|ca|[pis]|ta
+escapístico	adjetivo	es|ca|[pís]|ti|co
+escapo	nome masculino	es|[ca]|po
+escapo	adjetivo	es|[ca]|po
+escápole	adjetivo	es|[cá]|po|le
+escapula	nome feminino	es|ca|[pu]|la
+escápula	nome feminino	es|[cá]|pu|la
+escapulalgia	nome feminino	es|ca|pu|lal|[gi]|a
+escapulálgico	adjetivo	es|ca|pu|[lál]|gi|co
+escapular	adjetivo	es|ca|pu|[lar]
+escapulário	nome masculino	es|ca|pu|[lá]|ri|o
+escapulectomia	nome feminino	es|ca|pu|lec|to|[mi]|a
+escapulectômico	adjetivo	es|ca|pu|lec|[tô]|mi|co
+escapulectómico	adjetivo	es|ca|pu|lec|[tó]|mi|co
+escapulida	nome feminino	es|ca|pu|[li]|da
+escapulir	verbo	es|ca|pu|[lir]
+escapuloclavicular	adjetivo	es|ca|pu|lo|cla|vi|cu|[lar]
+escapulomancia	nome feminino	es|ca|pu|lo|man|[ci]|a

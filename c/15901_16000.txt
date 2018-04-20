@@ -1,0 +1,100 @@
+contratado	adjetivo	con|tra|[ta]|do
+contratado	nome masculino	con|tra|[ta]|do
+contratador	adjetivo	con|tra|ta|[dor]
+contratador	nome masculino	con|tra|ta|[dor]
+contratadora	nome feminino	con|tra|ta|[do]|ra
+contratalho	nome masculino	con|tra|[ta]|lho
+contratante	nome masculino	con|tra|[tan]|te
+contratante	adjetivo	con|tra|[tan]|te
+contratante	nome feminino	con|tra|[tan]|te
+contratar	verbo	con|tra|[tar]
+contratável	adjetivo	con|tra|[tá]|vel
+contratejo	nome masculino	con|tra|[te]|jo
+contratela	nome feminino	con|tra|[te]|la
+contratelar	verbo	con|tra|te|[lar]
+contratema	nome masculino	con|tra|[te]|ma
+contratempo	nome masculino	con|tra|[tem]|po
+contratenor	nome masculino	con|tra|te|[nor]
+contraterraço	nome masculino	con|tra|ter|[ra]|ço
+contraterrorista	adjetivo	con|tra|ter|ro|[ris]|ta
+contraterrorista	nome masculino	con|tra|ter|ro|[ris]|ta
+contraterrorista	nome feminino	con|tra|ter|ro|[ris]|ta
+contratestemunhar	verbo	con|tra|tes|te|mu|[nhar]
+contrátil	adjetivo	con|[trá]|til
+contratilidade	nome feminino	con|tra|ti|li|[da]|de
+contratista	nome masculino	con|tra|[tis]|ta
+contratista	nome feminino	con|tra|[tis]|ta
+contratível	adjetivo	con|tra|[tí]|vel
+contrativo	adjetivo	con|tra|[ti]|vo
+contrato	nome masculino	con|[tra]|to
+contrato	adjetivo	con|[tra]|to
+contrato-programa	nome masculino	con|tra|to-pro|[gra]|ma
+contrato-promessa	nome masculino	con|tra|to-pro|[mes]|sa
+contratorpedeiro	nome masculino	con|tra|tor|pe|[dei]|ro
+contratransferência	nome feminino	con|tra|trans|fe|[rên]|ci|a
+contratraquete	nome masculino	con|tra|tra|[que]|te
+contratrilho	nome masculino	con|tra|[tri]|lho
+contratual	adjetivo	con|tra|tu|[al]
+contratualidade	nome feminino	con|tra|tu|a|li|[da]|de
+contratualização	nome feminino	con|tra|tu|a|li|za|[ção]
+contratualizar	verbo	con|tra|tu|a|li|[zar]
+contratualmente	advérbio	con|tra|tu|al|[men]|te
+contratura	nome feminino	con|tra|[tu]|ra
+contraturante	adjetivo	con|tra|tu|[ran]|te
+contravalação	nome feminino	con|tra|va|la|[ção]
+contravalar	verbo	con|tra|va|[lar]
+contravalor	nome masculino	con|tra|va|[lor]
+contravapor	nome masculino	con|tra|va|[por]
+contravariante	adjetivo	con|tra|va|ri|[an]|te
+contraveirado	adjetivo	con|tra|vei|[ra]|do
+contraveirar	verbo	con|tra|vei|[rar]
+contraveiro	nome masculino	con|tra|[vei]|ro
+contravenção	nome feminino	con|tra|ven|[ção]
+contraveneno	nome masculino	con|tra|ve|[ne]|no
+contraveniente	adjetivo	con|tra|ve|ni|[en]|te
+contraveniente	nome masculino	con|tra|ve|ni|[en]|te
+contravento	nome masculino	con|tra|[ven]|to
+contraventor	adjetivo	con|tra|ven|[tor]
+contraventor	nome masculino	con|tra|ven|[tor]
+contraventora	nome feminino	con|tra|ven|[to]|ra
+contraverdade	nome feminino	con|tra|ver|[da]|de
+contravergente	adjetivo	con|tra|ver|[gen]|te
+contravergueiro	nome masculino	con|tra|ver|[guei]|ro
+contraversão	nome feminino	con|tra|ver|[são]
+contravertente	nome feminino	con|tra|ver|[ten]|te
+contraverter	verbo	con|tra|ver|[ter]
+contravidraça	nome feminino	con|tra|vi|[dra]|ça
+contravir	verbo	con|tra|[vir]
+contravolta	nome feminino	con|tra|[vol]|ta
+contravoto	nome masculino	con|tra|[vo]|to
+contrectação	nome feminino	con|trec|ta|[ção]
+contreito	adjetivo	con|[trei]|to
+contribuição	nome feminino	con|tri|bu|i|[ção]
+contribuidor	adjetivo	con|tri|bu|i|[dor]
+contribuidor	nome masculino	con|tri|bu|i|[dor]
+contribuidora	nome feminino	con|tri|bu|i|[do]|ra
+contribuinte	nome masculino	con|tri|bu|[in]|te
+contribuinte	adjetivo	con|tri|bu|[in]|te
+contribuinte	nome feminino	con|tri|bu|[in]|te
+contribuir	verbo	con|tri|bu|[ir]
+contributária	nome feminino	con|tri|bu|[tá]|ri|a
+contributário	adjetivo	con|tri|bu|[tá]|ri|o
+contributário	nome masculino	con|tri|bu|[tá]|ri|o
+contributivo	adjetivo	con|tri|bu|[ti]|vo
+contributo	nome masculino	con|tri|[bu]|to
+contrição	nome feminino	con|tri|[ção]
+contristação	nome feminino	con|tris|ta|[ção]
+contristado	adjetivo	con|tris|[ta]|do
+contristador	adjetivo	con|tris|ta|[dor]
+contristamento	nome masculino	con|tris|ta|[men]|to
+contristar	verbo	con|tris|[tar]
+contristável	adjetivo	con|tris|[tá]|vel
+contrita	nome feminino	con|[tri]|ta
+contritamente	advérbio	con|tri|ta|[men]|te
+contrito	adjetivo	con|[tri]|to
+contrito	nome masculino	con|[tri]|to
+contro	interjeição	[con]|tro
+contro	nome masculino	[con]|tro
+controlabilidade	nome feminino	con|tro|la|bi|li|[da]|de
+controlado	adjetivo	con|tro|[la]|do
+controlador	adjetivo	con|tro|la|[dor]

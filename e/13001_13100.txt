@@ -1,0 +1,100 @@
+evolucionário	adjetivo	e|vo|lu|ci|o|[ná]|ri|o
+evolucionismo	nome masculino	e|vo|lu|ci|o|[nis]|mo
+evolucionista	adjetivo	e|vo|lu|ci|o|[nis]|ta
+evolucionista	nome masculino	e|vo|lu|ci|o|[nis]|ta
+evolucionista	nome feminino	e|vo|lu|ci|o|[nis]|ta
+evoluído	adjetivo	e|vo|lu|[í]|do
+evoluir	verbo	e|vo|lu|[ir]
+evoluta	nome feminino	e|vo|[lu]|ta
+evolutivamente	advérbio	e|vo|lu|ti|va|[men]|te
+evolutivo	adjetivo	e|vo|lu|[ti]|vo
+evoluto	adjetivo	e|vo|[lu]|to
+evolvente	nome feminino	e|vol|[ven]|te
+evolver	verbo	e|vol|[ver]
+evonímea	nome feminino	e|vo|[ní]|me|a
+evonimina	nome feminino	e|vo|ni|[mi]|na
+evonimita	adjetivo	e|vo|ni|[mi]|ta
+evonimita	nome masculino	e|vo|ni|[mi]|ta
+evonimita	nome feminino	e|vo|ni|[mi]|ta
+evônimo	nome masculino	e|[vô]|ni|mo
+evónimo	nome masculino	e|[vó]|ni|mo
+evulsão	nome feminino	e|vul|[são]
+evulsivo	adjetivo	e|vul|[si]|vo
+ex-acionista	nome feminino	ex-a|ci|o|[nis]|ta
+ex-administrador	nome masculino	ex-ad|mi|nis|tra|[dor]
+ex-administrador-geral	nome masculino	ex-ad|mi|nis|tra|dor-ge|[ral]
+ex-advogada	nome feminino	ex-ad|vo|[ga]|da
+ex-advogado	nome masculino	ex-ad|vo|[ga]|do
+ex-aluna	nome feminino	ex-a|[lu]|na
+ex-aluno	nome masculino	ex-a|[lu]|no
+ex-assistente	nome masculino	ex-as|sis|[ten]|te
+ex-cônjuge	nome masculino	ex-côn|ju|ge
+ex-cônjuge	nome feminino	ex-côn|ju|ge
+ex-cônsul	nome masculino	ex-côn|sul
+ex-cônsul-geral	nome masculino	ex-côn|sul-ge|[ral]
+ex-deputada	nome feminino	ex-de|pu|[ta]|da
+ex-deputado	nome masculino	ex-de|pu|[ta]|do
+ex-diretor	nome masculino	ex-di|re|[tor]
+ex-diretor-geral	nome masculino	ex-di|re|tor-ge|[ral]
+ex-diretora	nome feminino	ex-di|re|[to]|ra
+ex-embaixador	nome masculino	ex-em|bai|xa|[dor]
+ex-governador	nome masculino	ex-go|ver|na|[dor]
+ex-governador-geral	nome masculino	ex-go|ver|na|dor-ge|[ral]
+ex-governadora	nome feminino	ex-go|ver|na|[do]|ra
+ex-interventor	nome masculino	ex-in|ter|ven|[tor]
+ex-líbris	nome masculino	ex-lí|bris
+ex-librismo	nome masculino	ex-li|[bris]|mo
+ex-librista	nome masculino	ex-li|[bris]|ta
+ex-librista	nome feminino	ex-li|[bris]|ta
+ex-librística	nome feminino	ex-li|[brís]|ti|ca
+ex-marido	nome masculino	ex-ma|[ri]|do
+ex-ministra	nome feminino	ex-mi|[nis]|tra
+ex-ministro	nome masculino	ex-mi|[nis]|tro
+ex-mulher	nome feminino	ex-mu|[lher]
+ex-presidente	nome masculino	ex-pre|si|[den]|te
+ex-presidente	nome feminino	ex-pre|si|[den]|te
+ex-primeiro-ministro	nome masculino	ex-pri|mei|ro-mi|[nis]|tro
+ex-professor	nome masculino	ex-pro|fes|[sor]
+ex-professora	nome feminino	ex-pro|fes|[so]|ra
+ex-provedora	nome feminino	ex-pro|ve|[do]|ra
+ex-regente	nome masculino	ex-re|[gen]|te
+ex-rei	nome masculino	[ex-rei]
+ex-reitor	nome masculino	ex-rei|[tor]
+ex-reitora	nome feminino	ex-rei|[to]|ra
+ex-secretária	nome feminino	ex-se|cre|[tá]|ri|a
+ex-secretário	nome masculino	ex-se|cre|[tá]|ri|o
+ex-secretário-geral	nome masculino	ex-se|cre|tá|ri|o-ge|ral
+ex-selecionador	nome masculino	ex-se|le|ci|o|na|[dor]
+ex-senador	nome masculino	ex-se|na|[dor]
+ex-subdirector	nome masculino	ex-sub|di|rec|[tor]
+ex-subsecretário	nome masculino	ex-sub|se|cre|[tá]|ri|o
+ex-tesoureiro	nome masculino	ex-te|sou|[rei]|ro
+ex-tesoureiro-geral	nome masculino	ex-te|sou|rei|ro-ge|[ral]
+ex-tesoureiro-mor	nome masculino	ex-te|sou|rei|ro-mor
+ex-vice-governador	nome masculino	ex-vi|ce-go|ver|na|[dor]
+ex-vice-presidente	nome masculino	ex-vi|ce-pre|si|[den]|te
+ex-vice-rei	nome masculino	ex-vi|ce-rei
+ex-vice-reitor	nome masculino	ex-vi|ce-rei|[tor]
+ex-voto	nome masculino	ex-vo|to
+exabundância	nome feminino	e|xa|bun|[dân]|ci|a
+exabundante	adjetivo	e|xa|bun|[dan]|te
+exabundar	verbo	e|xa|bun|[dar]
+exação	nome feminino	e|xa|[ção]
+exacerbação	nome feminino	e|xa|cer|ba|[ção]
+exacerbadamente	advérbio	e|xa|cer|ba|da|[men]|te
+exacerbado	adjetivo	e|xa|cer|[ba]|do
+exacerbador	adjetivo	e|xa|cer|ba|[dor]
+exacerbador	nome masculino	e|xa|cer|ba|[dor]
+exacerbamento	nome masculino	e|xa|cer|ba|[men]|to
+exacerbante	adjetivo	e|xa|cer|[ban]|te
+exacerbar	verbo	e|xa|cer|[bar]
+exacerbável	adjetivo	e|xa|cer|[bá]|vel
+exactor	nome masculino	e|xac|[tor]
+exageração	nome feminino	e|xa|ge|ra|[ção]
+exageradamente	advérbio	e|xa|ge|ra|da|[men]|te
+exagerado	adjetivo	e|xa|ge|[ra]|do
+exagerado	nome masculino	e|xa|ge|[ra]|do
+exagerador	adjetivo	e|xa|ge|ra|[dor]
+exagerador	nome masculino	e|xa|ge|ra|[dor]
+exagerar	verbo	e|xa|ge|[rar]
+exagerativo	adjetivo	e|xa|ge|ra|[ti]|vo

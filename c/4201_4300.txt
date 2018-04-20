@@ -1,0 +1,100 @@
+caranaí	nome feminino	ca|ra|na|[í]
+caranaibense	adjetivo	ca|ra|nai|[ben]|se
+caranaibense	nome masculino	ca|ra|nai|[ben]|se
+caranaibense	nome feminino	ca|ra|nai|[ben]|se
+carancho	nome masculino	ca|[ran]|cho
+caranchona	nome feminino	ca|ran|[cho]|na
+caranço	nome masculino	ca|[ran]|ço
+carançudo	adjetivo	ca|ran|[çu]|do
+carandá	nome masculino	ca|ran|[dá]
+caranda	nome feminino	ca|[ran]|da
+carandaí	nome masculino	ca|ran|da|[í]
+carandaiense	adjetivo	ca|ran|dai|[en]|se
+carandaiense	nome masculino	ca|ran|dai|[en]|se
+carandaiense	nome feminino	ca|ran|dai|[en]|se
+carandazal	nome masculino	ca|ran|da|[zal]
+carandeira	nome feminino	ca|ran|[dei]|ra
+carandeu	adjetivo	ca|ran|[deu]
+carandeu	nome masculino	ca|ran|[deu]
+caranga	nome feminino	ca|[ran]|ga
+caranga	nome masculino	ca|[ran]|ga
+caranganho	nome masculino	ca|ran|[ga]|nho
+carangar	verbo	ca|ran|[gar]
+carângida	nome masculino	ca|[rân]|gi|da
+carangídeo	nome masculino	ca|ran|[gí]|de|o
+carangídeo	nome masculino	ca|ran|[gí]|de|o
+carangídeo	adjetivo	ca|ran|[gí]|de|o
+carango	nome masculino	ca|[ran]|go
+carangonço	nome masculino	ca|ran|[gon]|ço
+carangueja	nome feminino	ca|ran|[gue]|ja
+caranguejal	adjetivo	ca|ran|gue|[jal]
+caranguejalmente	advérbio	ca|ran|gue|jal|[men]|te
+caranguejar	verbo	ca|ran|gue|[jar]
+caranguejeira	nome feminino	ca|ran|gue|[jei]|ra
+caranguejeiro	nome masculino	ca|ran|gue|[jei]|ro
+caranguejo	nome masculino	ca|ran|[gue]|jo
+caranguejola	nome feminino	ca|ran|gue|[jo]|la
+caranguejolar	verbo	ca|ran|gue|jo|[lar]
+caranha	nome feminino	ca|[ra]|nha
+caranho-vermelho	nome masculino	ca|ra|nho-ver|[me]|lho
+carano	nome masculino	ca|[ra]|no
+carantonha	nome feminino	ca|ran|[to]|nha
+carantonhar	verbo	ca|ran|to|[nhar]
+carântulas	nome feminino	ca|[rân]|tu|las
+carão	nome masculino	ca|[rão]
+caraó	nome masculino	ca|ra|[ó]
+caraó	nome feminino	ca|ra|[ó]
+carão-de-moça	nome masculino	ca|rão-de-mo|ça
+caraolho	adjetivo	ca|ra|[o]|lho
+carapa	nome feminino	ca|[ra]|pa
+carapaça	nome feminino	ca|ra|[pa]|ça
+carapanã	nome masculino	ca|ra|pa|[nã]
+carapanaúba	nome feminino	ca|ra|pa|na|[ú]|ba
+carapanho	nome masculino	ca|ra|[pa]|nho
+carapanta	nome feminino	ca|ra|[pan]|ta
+caraparu	nome masculino	ca|ra|pa|[ru]
+carapate	nome masculino	ca|ra|[pa]|te
+carapateiro	nome masculino	ca|ra|pa|[tei]|ro
+carapau	nome masculino	ca|ra|[pau]
+carapeba	nome feminino	ca|ra|[pe]|ba
+carapeirana	nome feminino	ca|ra|pei|[ra]|na
+carapela	nome feminino	ca|ra|[pe]|la
+carapeta	nome feminino	ca|ra|[pe]|ta
+carapetal	nome masculino	ca|ra|pe|[tal]
+carapetão	nome masculino	ca|ra|pe|[tão]
+carapetar	verbo	ca|ra|pe|[tar]
+carapeteira	nome feminino	ca|ra|pe|[tei]|ra
+carapeteiro	adjetivo	ca|ra|pe|[tei]|ro
+carapeteiro	nome masculino	ca|ra|pe|[tei]|ro
+carapeto	nome masculino	ca|ra|[pe]|to
+carapiá	nome feminino	ca|ra|pi|[á]
+carapicu	nome masculino	ca|ra|pi|[cu]
+carapim	nome masculino	ca|ra|[pim]
+carapina	nome masculino	ca|ra|[pi]|na
+carapina	nome feminino	ca|ra|[pi]|na
+carapinha	nome feminino	ca|ra|[pi]|nha
+carapinhada	nome feminino	ca|ra|pi|[nha]|da
+carapinhé	nome masculino	ca|ra|pi|[nhé]
+carapinheira	nome feminino	ca|ra|pi|[nhei]|ra
+carapinheira	adjetivo	ca|ra|pi|[nhei]|ra
+carapinho	adjetivo	ca|ra|[pi]|nho
+carapinhudo	adjetivo	ca|ra|pi|[nhu]|do
+carapito	nome masculino	ca|ra|[pi]|to
+carapó	nome masculino	ca|ra|[pó]
+carapobeba	nome feminino	ca|ra|po|[be]|ba
+carapuça	nome feminino	ca|ra|[pu]|ça
+carapuçada	nome feminino	ca|ra|pu|[ça]|da
+carapuçado	adjetivo	ca|ra|pu|[ça]|do
+carapução	nome masculino	ca|ra|pu|[ção]
+carapuceiro	nome masculino	ca|ra|pu|[cei]|ro
+carapuço	nome masculino	ca|ra|[pu]|ço
+carapula	nome feminino	ca|ra|[pu]|la
+carapulo	nome masculino	ca|ra|[pu]|lo
+caraquenha	nome feminino	ca|ra|[que]|nha
+caraquenho	nome masculino	ca|ra|[que]|nho
+caraquenho	adjetivo	ca|ra|[que]|nho
+carará	nome masculino	ca|ra|[rá]
+carássio	nome masculino	ca|[rás]|si|o
+carataí	nome masculino	ca|ra|ta|[í]
+caratê	nome masculino	ca|ra|[tê]
+caraté	nome masculino	ca|ra|[té]

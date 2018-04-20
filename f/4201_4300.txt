@@ -1,0 +1,100 @@
+folheto	nome masculino	fo|[lhe]|to
+folhinha	nome feminino	fo|[lhi]|nha
+folho	nome masculino	[fo]|lho
+folhos de sinhá	nome masculino	[fo]|lhos de si|nhá
+folhoso	adjetivo	fo|[lho]|so
+folhoso	nome masculino	fo|[lho]|so
+folhudo	adjetivo	fo|[lhu]|do
+folia	nome feminino	fo|[li]|a
+foliação	nome feminino	fo|li|a|[ção]
+foliáceo	adjetivo	fo|li|[á]|ce|o
+foliada	nome feminino	fo|li|[a]|da
+foliado	adjetivo	fo|li|[a]|do
+foliador	nome masculino	fo|li|a|[dor]
+foliagudo	adjetivo	fo|li|a|[gu]|do
+folião	adjetivo	fo|li|[ão]
+folião	nome masculino	fo|li|[ão]
+foliar	verbo	fo|li|[ar]
+foliar	adjetivo	fo|li|[ar]
+fólico	adjetivo	[fó]|li|co
+folícola	adjetivo	fo|[lí]|co|la
+folicular	adjetivo	fo|li|cu|[lar]
+foliculário	nome masculino	fo|li|cu|[lá]|ri|o
+foliculina	nome feminino	fo|li|cu|[li]|na
+foliculite	nome feminino	fo|li|cu|[li]|te
+folículo	nome masculino	fo|[lí]|cu|lo
+foliculoma	nome masculino	fo|li|cu|[lo]|ma
+foliculoso	adjetivo	fo|li|cu|[lo]|so
+folidite	nome feminino	fo|li|[di]|te
+folidólito	nome masculino	fo|li|[dó]|li|to
+folidoto	adjetivo	fo|li|[do]|to
+foliento	adjetivo	fo|li|[en]|to
+folífago	adjetivo	fo|[lí]|fa|go
+folífago	nome masculino	fo|[lí]|fa|go
+folífero	adjetivo	fo|[lí]|fe|ro
+foliforme	adjetivo	fo|li|[for]|me
+folilho	nome masculino	fo|[li]|lho
+fólio	nome masculino	[fó]|li|o
+fólio-cheiroso	nome masculino	fó|li|o-chei|ro|so
+foliolado	adjetivo	fo|li|o|[la]|do
+folíolo	nome masculino	fo|[lí]|o|lo
+foliona	nome feminino	fo|li|[o]|na
+folioso	adjetivo	fo|li|[o]|so
+folipa	nome feminino	fo|[li]|pa
+folipada	nome feminino	fo|li|[pa]|da
+folíparo	adjetivo	fo|[lí]|pa|ro
+folipo	nome masculino	fo|[li]|po
+folk	adjetivo	[folk]
+follow-up	nome masculino	fol|low-up
+folosa	nome feminino	fo|[lo]|sa
+folosa-costureira	nome feminino	fo|lo|sa-cos|tu|[rei]|ra
+folosinho	nome masculino	fo|lo|[si]|nho
+fome	nome feminino	[fo]|me
+fome-negra	nome masculino	fo|me-ne|gra
+fome-negra	nome feminino	fo|me-ne|gra
+fomenica	nome masculino	fo|me|[ni]|ca
+fomenica	nome feminino	fo|me|[ni]|ca
+fomentação	nome feminino	fo|men|ta|[ção]
+fomentador	adjetivo	fo|men|ta|[dor]
+fomentador	nome masculino	fo|men|ta|[dor]
+fomentadora	nome feminino	fo|men|ta|[do]|ra
+fomentar	verbo	fo|men|[tar]
+fomentativo	adjetivo	fo|men|ta|[ti]|vo
+fomentável	adjetivo	fo|men|[tá]|vel
+fomentista	nome masculino	fo|men|[tis]|ta
+fomentista	nome feminino	fo|men|[tis]|ta
+fomento	nome masculino	fo|[men]|to
+fona	nome feminino	[fo]|na
+fona	adjetivo	[fo]|na
+fona	nome masculino	[fo]|na
+fonação	nome feminino	fo|na|[ção]
+fonador	adjetivo	fo|na|[dor]
+fonalidade	nome feminino	fo|na|li|[da]|de
+fonão	nome masculino	fo|[não]
+fonascia	nome feminino	fo|nas|[ci]|a
+fonasco	nome masculino	fo|[nas]|co
+fonastenia	nome feminino	fo|nas|te|[ni]|a
+fonasténico	adjetivo	fo|nas|[té]|ni|co
+fonastênico	adjetivo	fo|nas|[tê]|ni|co
+fondiça	nome feminino	fon|[di]|ça
+fondue	nome masculino	fon|due
+fone	nome masculino	[fo]|ne
+foneblogue	nome masculino	fo|ne|[blo]|gue
+fonema	nome masculino	fo|[ne]|ma
+fonemática	nome feminino	fo|ne|[má]|ti|ca
+fonemático	adjetivo	fo|ne|[má]|ti|co
+fonémica	nome feminino	fo|[né]|mi|ca
+fonêmica	nome feminino	fo|[nê]|mi|ca
+fonémico	adjetivo	fo|[né]|mi|co
+fonêmico	adjetivo	fo|[nê]|mi|co
+fonendoscopia	nome feminino	fo|nen|dos|co|[pi]|a
+fonendoscópico	adjetivo	fo|nen|dos|[có]|pi|co
+fonendoscópio	nome masculino	fo|nen|dos|[có]|pi|o
+fonética	nome feminino	fo|[né]|ti|ca
+foneticamente	advérbio	fo|ne|ti|ca|[men]|te
+foneticismo	nome masculino	fo|ne|ti|[cis]|mo
+foneticista	nome masculino	fo|ne|ti|[cis]|ta
+foneticista	nome feminino	fo|ne|ti|[cis]|ta
+fonético	adjetivo	fo|[né]|ti|co
+fonético-sintacticamente	advérbio	fo|né|ti|co-sin|tac|ti|ca|[men]|te
+fonético-sintáctico	adjetivo	fo|né|ti|co-sin|[tác]|ti|co

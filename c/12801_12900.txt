@@ -1,0 +1,100 @@
+coloratura	adjetivo	co|lo|ra|[tu]|ra
+colorau	nome masculino	co|lo|[rau]
+colorear	verbo	co|lo|re|[ar]
+colorido	adjetivo	co|lo|[ri]|do
+colorido	nome masculino	co|lo|[ri]|do
+colorífico	adjetivo	co|lo|[rí]|fi|co
+colorimetria	nome feminino	co|lo|ri|me|[tri]|a
+colorimétrico	adjetivo	co|lo|ri|[mé]|tri|co
+colorímetro	nome masculino	co|lo|[rí]|me|tro
+colorina	nome feminino	co|lo|[ri]|na
+colorir	verbo	co|lo|[rir]
+coloriscópio	nome masculino	co|lo|ris|[có]|pi|o
+colorismo	nome masculino	co|lo|[ris]|mo
+colorista	nome masculino	co|lo|[ris]|ta
+colorista	nome feminino	co|lo|[ris]|ta
+colorível	adjetivo	co|lo|[rí]|vel
+colorização	nome feminino	co|lo|ri|za|[ção]
+colorizar	verbo	co|lo|ri|[zar]
+colorragia	nome feminino	co|lor|ra|[gi]|a
+colorrágico	adjetivo	co|lor|[rá]|gi|co
+colorreia	nome feminino	co|lor|[rei]|a
+colorreico	adjetivo	co|lor|[rei]|co
+colorretite	nome feminino	co|lor|re|[ti]|te
+coloscopia	nome feminino	co|los|co|[pi]|a
+colossal	adjetivo	co|los|[sal]
+colossalidade	nome feminino	co|los|sa|li|[da]|de
+colossalmente	advérbio	co|los|sal|[men]|te
+colosso	nome masculino	co|[los]|so
+colostomia	nome feminino	co|los|to|[mi]|a
+colostomizar	verbo	co|los|to|mi|[zar]
+colostração	nome feminino	co|los|tra|[ção]
+colostral	adjetivo	co|los|[tral]
+colostro	nome masculino	co|[los]|tro
+colotipia	nome feminino	co|lo|ti|[pi]|a
+colotomia	nome feminino	co|lo|to|[mi]|a
+colotômico	adjetivo	co|lo|[tô]|mi|co
+colotómico	adjetivo	co|lo|[tó]|mi|co
+colpectomia	nome feminino	col|pec|to|[mi]|a
+colpectômico	adjetivo	col|pec|[tô]|mi|co
+colpectómico	adjetivo	col|pec|[tó]|mi|co
+colpite	nome feminino	col|[pi]|te
+colpocele	nome feminino	col|po|[ce]|le
+cólpode	nome masculino	[cól]|po|de
+colpoplastia	nome feminino	col|po|plas|[ti]|a
+colpoplástico	adjetivo	col|po|[plás]|ti|co
+colpoptose	nome feminino	col|pop|[to]|se
+colporrafia	nome feminino	col|por|ra|[fi]|a
+colporráfico	adjetivo	col|por|[rá]|fi|co
+colporragia	nome feminino	col|por|ra|[gi]|a
+colporrágico	adjetivo	col|por|[rá]|gi|co
+colposcopia	nome feminino	col|pos|co|[pi]|a
+colposcópio	nome masculino	col|pos|[có]|pi|o
+colpostenose	nome feminino	col|pos|te|[no]|se
+colpotomia	nome feminino	col|po|to|[mi]|a
+colpotômico	adjetivo	col|po|[tô]|mi|co
+colpotómico	adjetivo	col|po|[tó]|mi|co
+colquicina	nome feminino	col|qui|[ci]|na
+cólquico	nome masculino	[cól]|qui|co
+coltar	nome masculino	col|[tar]
+coltarização	nome feminino	col|ta|ri|za|[ção]
+coltarizar	verbo	col|ta|ri|[zar]
+colubreado	adjetivo	co|lu|bre|[a]|do
+colubreante	adjetivo	co|lu|bre|[an]|te
+colubrear	verbo	co|lu|bre|[ar]
+colubrejar	verbo	co|lu|bre|[jar]
+colubreta	nome feminino	co|lu|[bre]|ta
+colúbrida	nome masculino	co|[lú]|bri|da
+colubrídeo	nome masculino	co|lu|[brí]|de|o
+colubrídeo	nome masculino	co|lu|[brí]|de|o
+colubrídeo	adjetivo	co|lu|[brí]|de|o
+colubrina	nome feminino	co|lu|[bri]|na
+colubrino	adjetivo	co|lu|[bri]|no
+coludente	adjetivo	co|lu|[den]|te
+coludir	verbo	co|lu|[dir]
+coluio	nome masculino	co|[lui]|o
+columbário	nome masculino	co|lum|[bá]|ri|o
+colúmbeo	adjetivo	co|[lúm]|be|o
+colúmbia	nome feminino	co|[lúm]|bi|a
+columbicultor	adjetivo	co|lum|bi|cul|[tor]
+columbicultor	nome masculino	co|lum|bi|cul|[tor]
+columbicultura	nome feminino	co|lum|bi|cul|[tu]|ra
+colúmbida	nome masculino	co|[lúm]|bi|da
+colúmbida	adjetivo	co|[lúm]|bi|da
+columbídeo	nome masculino	co|lum|[bí]|de|o
+columbídeo	adjetivo	co|lum|[bí]|de|o
+columbina	nome feminino	co|lum|[bi]|na
+columbino	adjetivo	co|lum|[bi]|no
+columbino	nome masculino	co|lum|[bi]|no
+colúmbio	nome masculino	co|[lúm]|bi|o
+columbite	nome feminino	co|lum|[bi]|te
+columbófila	nome feminino	co|lum|[bó]|fi|la
+columbofilia	nome feminino	co|lum|bo|fi|[li]|a
+columbófilo	nome masculino	co|lum|[bó]|fi|lo
+columbófilo	adjetivo	co|lum|[bó]|fi|lo
+columbograma	nome masculino	co|lum|bo|[gra]|ma
+columela	nome feminino	co|lu|[me]|la
+columelado	adjetivo	co|lu|me|[la]|do
+columelar	adjetivo	co|lu|me|[lar]
+coluna	nome feminino	co|[lu]|na
+colunar	adjetivo	co|lu|[nar]

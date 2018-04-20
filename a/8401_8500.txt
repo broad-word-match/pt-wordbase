@@ -1,0 +1,100 @@
+algas-azuis	nome feminino	al|gas-a|[zuis]
+algas-castanhas	nome feminino	al|gas-cas|[ta]|nhas
+algas-verdes	nome feminino	al|gas-ver|des
+algas-vermelhas	nome feminino	al|gas-ver|[me]|lhas
+algaz	nome masculino	al|[gaz]
+algazarra	nome feminino	al|ga|[zar]|ra
+algazarrar	verbo	al|ga|zar|[rar]
+algazarrear	verbo	al|ga|zar|re|[ar]
+algazarreiro	nome masculino	al|ga|zar|[rei]|ro
+algazarrento	adjetivo	al|ga|zar|[ren]|to
+algazuna	nome feminino	al|ga|[zu]|na
+álgebra	nome feminino	[ál]|ge|bra
+algebrão	nome masculino	al|ge|[brão]
+algebricamente	advérbio	al|ge|bri|ca|[men]|te
+algébrico	adjetivo	al|[gé]|bri|co
+algebrista	nome masculino	al|ge|[bris]|ta
+algebrista	nome feminino	al|ge|[bris]|ta
+algebrístico	adjetivo	al|ge|[brís]|ti|co
+algebrizar	verbo	al|ge|bri|[zar]
+algédone	nome feminino	al|[gé]|do|ne
+algema	nome feminino	al|[ge]|ma
+algemador	adjetivo	al|ge|ma|[dor]
+algemador	nome masculino	al|ge|ma|[dor]
+algemamento	nome masculino	al|ge|ma|[men]|to
+algemar	verbo	al|ge|[mar]
+algemia	nome feminino	al|ge|[mi]|a
+algemiar	verbo	al|ge|mi|[ar]
+algenil	nome masculino	al|ge|[nil]
+algente	adjetivo	al|[gen]|te
+algerife	nome masculino	al|ge|[ri]|fe
+algeroz	nome masculino	al|ge|[roz]
+algesia	nome feminino	al|ge|[si]|a
+algésico	adjetivo	al|[gé]|si|co
+algesímetro	nome masculino	al|ge|[sí]|me|tro
+algesiógeno	adjetivo	al|ge|si|[ó]|ge|no
+algesiógeno	nome masculino	al|ge|si|[ó]|ge|no
+algesiometria	nome feminino	al|ge|si|o|me|[tri]|a
+algesiométrico	adjetivo	al|ge|si|o|[mé]|tri|co
+algesiómetro	nome masculino	al|ge|si|[ó]|me|tro
+algesiômetro	nome masculino	al|ge|si|[ô]|me|tro
+algestesia	nome feminino	al|ges|te|[si]|a
+algestésico	adjetivo	al|ges|[té]|si|co
+algestético	adjetivo	al|ges|[té]|ti|co
+algezurense	adjetivo	al|ge|zu|[ren]|se
+algezurense	nome masculino	al|ge|zu|[ren]|se
+algezurense	nome feminino	al|ge|zu|[ren]|se
+algia	nome feminino	al|[gi]|a
+algibe	nome masculino	al|[gi]|be
+algibé	nome masculino	al|gi|[bé]
+algibeba	nome feminino	al|gi|[be]|ba
+algibebe	nome masculino	al|gi|[be]|be
+algibeira	nome feminino	al|gi|[bei]|ra
+algibeta	nome feminino	al|gi|[be]|ta
+algibetaria	nome feminino	al|gi|be|ta|[ri]|a
+algicida	adjetivo	al|gi|[ci]|da
+álgico	adjetivo	[ál]|gi|co
+álgico	nome masculino	[ál]|gi|co
+algidense	nome masculino	al|gi|[den]|se
+algidense	adjetivo	al|gi|[den]|se
+algidense	nome feminino	al|gi|[den]|se
+algidez	nome feminino	al|gi|[dez]
+álgido	adjetivo	[ál]|gi|do
+algina	nome feminino	al|[gi]|na
+algirão	nome masculino	al|gi|[rão]
+algiroz	nome masculino	al|gi|[roz]
+algo	advérbio	[al]|go
+algo	pronome indefinido	[al]|go
+algo	nome masculino	[al]|go
+algodão	nome masculino	al|go|[dão]
+algodão das laranjeiras	nome masculino	al|go|dão das la|ran|jei|ras
+algodão das oliveiras	nome masculino	al|go|dão das o|li|vei|ras
+algodão de vidro	nome masculino	al|go|dão de vi|dro
+algodão em rama	nome masculino	al|go|dão em ra|ma
+algodão-bravo	nome masculino	al|go|dão-bra|vo
+algodão-colódio	nome masculino	al|go|dão-co|[ló]|di|o
+algodão-do-brejo	nome masculino	al|go|dão-do-bre|jo
+algodão-pólvora	nome masculino	al|go|dão-pól|vo|ra
+algodãozinho	nome masculino	al|go|[dão]|zi|nho
+algodoado	adjetivo	al|go|do|[a]|do
+algodoal	nome masculino	al|go|do|[al]
+algodoar	verbo	al|go|do|[ar]
+algodoaria	nome feminino	al|go|do|a|[ri]|a
+algodoeira	nome feminino	al|go|do|[ei]|ra
+algodoeiro	adjetivo	al|go|do|[ei]|ro
+algodoeiro	nome masculino	al|go|do|[ei]|ro
+algodoim	nome masculino	al|go|do|[im]
+algofilia	nome feminino	al|go|fi|[li]|a
+algófilo	adjetivo	al|[gó]|fi|lo
+algófilo	nome masculino	al|[gó]|fi|lo
+algofobia	nome feminino	al|go|fo|[bi]|a
+algófobo	adjetivo	al|[gó]|fo|bo
+algófobo	nome masculino	al|[gó]|fo|bo
+algógeno	adjetivo	al|[gó]|ge|no
+algoide	adjetivo	al|[goi]|de
+algolagnia	nome feminino	al|go|lag|[ni]|a
+algolania	nome feminino	al|go|la|[ni]|a
+algologia	nome feminino	al|go|lo|[gi]|a
+algológico	adjetivo	al|go|[ló]|gi|co
+algologista	nome masculino	al|go|lo|[gis]|ta
+algologista	nome feminino	al|go|lo|[gis]|ta

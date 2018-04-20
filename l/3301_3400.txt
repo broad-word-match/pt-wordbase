@@ -1,0 +1,100 @@
+lis	nome masculino	[lis]
+lis	nome feminino	[lis]
+lisa	nome feminino	[li]|sa
+lisamente	advérbio	li|sa|[men]|te
+lisanita	adjetivo	li|sa|[ni]|ta
+lisanita	nome masculino	li|sa|[ni]|ta
+lisanita	nome feminino	li|sa|[ni]|ta
+lisboa	nome feminino	lis|[bo]|a
+lisboana	nome feminino	lis|bo|[a]|na
+lisboano	adjetivo	lis|bo|[a]|no
+lisboano	nome masculino	lis|bo|[a]|no
+lisboês	adjetivo	lis|bo|[ês]
+lisboês	nome masculino	lis|bo|[ês]
+lisboesa	nome feminino	lis|bo|[e]|sa
+lisboeta	adjetivo	lis|bo|[e]|ta
+lisboeta	nome masculino	lis|bo|[e]|ta
+lisboeta	nome feminino	lis|bo|[e]|ta
+lisboetismo	nome masculino	lis|bo|e|[tis]|mo
+lisbonense	adjetivo	lis|bo|[nen]|se
+lisbonense	nome masculino	lis|bo|[nen]|se
+lisbonense	nome feminino	lis|bo|[nen]|se
+lisbonês	adjetivo	lis|bo|[nês]
+lisbonês	nome masculino	lis|bo|[nês]
+lisbonesa	nome feminino	lis|bo|[ne]|sa
+lisbonina	nome feminino	lis|bo|[ni]|na
+lisbonino	adjetivo	lis|bo|[ni]|no
+lisbonino	nome masculino	lis|bo|[ni]|no
+lise	nome feminino	[li]|se
+lisemia	nome feminino	li|se|[mi]|a
+lisérgico	adjetivo	li|[sér]|gi|co
+lisibilidade	nome feminino	li|si|bi|li|[da]|de
+lisimáquia	nome feminino	li|si|[má]|qui|a
+lisina	nome feminino	li|[si]|na
+lísio	adjetivo	[lí]|si|o
+lisiodo	nome masculino	li|si|[o]|do
+lisiometria	nome feminino	li|si|o|me|[tri]|a
+lisiométrico	adjetivo	li|si|o|[mé]|tri|co
+lisiómetro	nome masculino	li|si|[ó]|me|tro
+lisiômetro	nome masculino	li|si|[ô]|me|tro
+lismar	verbo	lis|[mar]
+lismo	nome masculino	[lis]|mo
+liso	adjetivo	[li]|so
+lisofórmio	nome masculino	li|so|[fór]|mi|o
+lisogenia	nome feminino	li|so|ge|[ni]|a
+lisol	nome masculino	li|[sol]
+lisolagem	nome feminino	li|so|[la]|gem
+lisonja	nome feminino	li|[son]|ja
+lisonjar	verbo	li|son|[jar]
+lisonjaria	nome feminino	li|son|ja|[ri]|a
+lisonjeado	adjetivo	li|son|je|[a]|do
+lisonjeador	adjetivo	li|son|je|a|[dor]
+lisonjeador	nome masculino	li|son|je|a|[dor]
+lisonjeadora	nome feminino	li|son|je|a|[do]|ra
+lisonjear	verbo	li|son|je|[ar]
+lisonjeável	adjetivo	li|son|je|[á]|vel
+lisonjeiramente	advérbio	li|son|jei|ra|[men]|te
+lisonjeiro	nome masculino	li|son|[jei]|ro
+lisonjeiro	adjetivo	li|son|[jei]|ro
+lisossoma	nome masculino	li|sos|[so]|ma
+lisozima	nome feminino	li|so|[zi]|ma
+lissa	nome feminino	[lis]|sa
+lissadeira	nome feminino	lis|sa|[dei]|ra
+lisseira	nome feminino	lis|[sei]|ra
+lissencéfalo	adjetivo	lis|sen|[cé]|fa|lo
+lissofobia	nome feminino	lis|so|fo|[bi]|a
+lissofóbico	adjetivo	lis|so|[fó]|bi|co
+lissofóbico	nome masculino	lis|so|[fó]|bi|co
+lissófobo	adjetivo	lis|[só]|fo|bo
+lissófobo	nome masculino	lis|[só]|fo|bo
+lissótrico	adjetivo	lis|[só]|tri|co
+lista	nome feminino	[lis]|ta
+listado	adjetivo	lis|[ta]|do
+listagem	nome feminino	lis|[ta]|gem
+listão	adjetivo	lis|[tão]
+listão	nome masculino	lis|[tão]
+listar	verbo	lis|[tar]
+listário	nome masculino	lis|[tá]|ri|o
+listel	nome masculino	lis|[tel]
+listelão	nome masculino	lis|te|[lão]
+listelo	nome masculino	lis|[te]|lo
+listenstainiana	nome feminino	lis|tens|tai|ni|[a]|na
+listenstainiano	nome masculino	lis|tens|tai|ni|[a]|no
+listenstainiano	adjetivo	lis|tens|tai|ni|[a]|no
+listra	nome feminino	[lis]|tra
+listrado	adjetivo	lis|[tra]|do
+listrão	nome masculino	lis|[trão]
+listrar	verbo	lis|[trar]
+listreno	adjetivo	lis|[tre]|no
+listreno	nome masculino	lis|[tre]|no
+lisura	nome feminino	li|[su]|ra
+lita	nome masculino	[li]|ta
+litação	nome feminino	li|ta|[ção]
+litagogo	adjetivo	li|ta|[go]|go
+litagogo	nome masculino	li|ta|[go]|go
+litania	nome feminino	li|ta|[ni]|a
+litantraz	nome masculino	li|tan|[traz]
+litão	nome masculino	li|[tão]
+litar	verbo	li|[tar]
+litargírio	nome masculino	li|tar|[gí]|ri|o
+litas	nome masculino	[li]|tas

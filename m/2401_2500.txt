@@ -1,0 +1,100 @@
+mangustão	nome masculino	man|gus|[tão]
+mangusto	nome masculino	man|[gus]|to
+manguxo	nome masculino	man|[gu]|xo
+manhã	nome feminino	ma|[nhã]
+manha	nome feminino	[ma]|nha
+manhã	advérbio	ma|[nhã]
+manhãzinha	nome feminino	ma|nhã|[zi]|nha
+manheira	nome feminino	ma|[nhei]|ra
+manheirar	verbo	ma|nhei|[rar]
+manheiro	adjetivo	ma|[nhei]|ro
+manhenta	nome feminino	ma|[nhen]|ta
+manhentar	verbo	ma|nhen|[tar]
+manhento	adjetivo	ma|[nhen]|to
+manho	adjetivo	[ma]|nho
+manhoco	nome masculino	ma|[nho]|co
+manhosa	nome feminino	ma|[nho]|sa
+manhosamente	advérbio	ma|nho|sa|[men]|te
+manhosice	nome feminino	ma|nho|[si]|ce
+manhosidade	nome feminino	ma|nho|si|[da]|de
+manhoso	adjetivo	ma|[nho]|so
+manhoso	nome masculino	ma|[nho]|so
+manhuça	nome feminino	ma|[nhu]|ça
+manhuço	nome masculino	ma|[nhu]|ço
+manhusca	nome feminino	ma|[nhus]|ca
+mania	nome feminino	ma|[ni]|a
+maníaca	nome feminino	ma|[ní]|a|ca
+maniacamente	advérbio	ma|ni|a|ca|[men]|te
+maníaco	adjetivo	ma|[ní]|a|co
+maníaco	nome masculino	ma|[ní]|a|co
+maníaco-depressiva	nome feminino	ma|ní|a|co-de|pres|[si]|va
+maníaco-depressivo	adjetivo	ma|ní|a|co-de|pres|[si]|vo
+maníaco-depressivo	nome masculino	ma|ní|a|co-de|pres|[si]|vo
+maniado	adjetivo	ma|ni|[a]|do
+maniatar	verbo	ma|ni|a|[tar]
+manicá	nome feminino	ma|ni|[cá]
+manica	nome feminino	ma|[ni]|ca
+manicaca	nome masculino	ma|ni|[ca]|ca
+manicaca	nome feminino	ma|ni|[ca]|ca
+manice	nome feminino	ma|[ni]|ce
+manicla	nome feminino	ma|[ni]|cla
+maniçoba	nome feminino	ma|ni|[ço]|ba
+maniçobal	nome masculino	ma|ni|ço|[bal]
+maniçobeira	nome feminino	ma|ni|ço|[bei]|ra
+maniçobeiro	nome masculino	ma|ni|ço|[bei]|ro
+manicomial	adjetivo	ma|ni|co|mi|[al]
+manicômio	nome masculino	ma|ni|[cô]|mi|o
+manicómio	nome masculino	ma|ni|[có]|mi|o
+manicora	nome feminino	ma|ni|[co]|ra
+manicórdio	nome masculino	ma|ni|[cór]|di|o
+manicu	nome masculino	ma|ni|[cu]
+manicujá	nome masculino	ma|ni|cu|[já]
+manícula	nome feminino	ma|[ní]|cu|la
+manicura	nome feminino	ma|ni|[cu]|ra
+manicuro	nome masculino	ma|ni|[cu]|ro
+manicurto	adjetivo	ma|ni|[cur]|to
+manidestro	adjetivo	ma|ni|[des]|tro
+manidextro	adjetivo	ma|ni|[dex]|tro
+manido	adjetivo	ma|[ni]|do
+maniento	adjetivo	ma|ni|[en]|to
+manietar	verbo	ma|ni|e|[tar]
+manif	nome feminino	ma|nif
+manifacto	nome masculino	ma|ni|[fac]|to
+manifato	nome masculino	ma|ni|[fa]|to
+manífero	adjetivo	ma|[ní]|fe|ro
+manifestação	nome feminino	ma|ni|fes|ta|[ção]
+manifestador	adjetivo	ma|ni|fes|ta|[dor]
+manifestador	nome masculino	ma|ni|fes|ta|[dor]
+manifestamente	advérbio	ma|ni|fes|ta|[men]|te
+manifestante	adjetivo	ma|ni|fes|[tan]|te
+manifestante	nome masculino	ma|ni|fes|[tan]|te
+manifestante	nome feminino	ma|ni|fes|[tan]|te
+manifestar	verbo	ma|ni|fes|[tar]
+manifestável	adjetivo	ma|ni|fes|[tá]|vel
+manifesto	adjetivo	ma|ni|[fes]|to
+manifesto	nome masculino	ma|ni|[fes]|to
+maniflautista	nome masculino	ma|ni|flau|[tis]|ta
+maniflautista	nome feminino	ma|ni|flau|[tis]|ta
+maniforme	adjetivo	ma|ni|[for]|me
+manigância	nome feminino	ma|ni|[gân]|ci|a
+manigrafia	nome feminino	ma|ni|gra|[fi]|a
+manigráfico	adjetivo	ma|ni|[grá]|fi|co
+manígrafo	nome masculino	ma|[ní]|gra|fo
+manigrepo	nome masculino	ma|ni|[gre]|po
+maniguete	nome masculino	ma|ni|[gue]|te
+manila	nome feminino	ma|[ni]|la
+manila	nome masculino	ma|[ni]|la
+manilha	nome feminino	ma|[ni]|lha
+manilhado	adjetivo	ma|ni|[lha]|do
+manilhar	verbo	ma|ni|[lhar]
+manilheiro	nome masculino	ma|ni|[lhei]|ro
+manilúvio	nome masculino	ma|ni|[lú]|vi|o
+manimba	nome feminino	ma|[nim]|ba
+manimbé	nome masculino	ma|nim|[bé]
+manimbu	nome masculino	ma|nim|[bu]
+manina	adjetivo	ma|[ni]|na
+maninelo	adjetivo	ma|ni|[ne]|lo
+maninelo	nome masculino	ma|ni|[ne]|lo
+maningue	pronome	ma|[nin]|gue
+maningue	advérbio	ma|[nin]|gue
+maninha	nome feminino	ma|[ni]|nha

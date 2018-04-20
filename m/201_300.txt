@@ -1,0 +1,100 @@
+macaronésio	adjetivo	ma|ca|ro|[né]|si|o
+maçaroqueira	nome feminino	ma|ça|ro|[quei]|ra
+maçaroquilho	nome masculino	ma|ça|ro|[qui]|lho
+maçaroquinha	nome feminino	ma|ça|ro|[qui]|nha
+macarrão	nome masculino	ma|car|[rão]
+macarroeiro	nome masculino	ma|car|ro|[ei]|ro
+macarronada	nome feminino	ma|car|ro|[na]|da
+macarrone	nome masculino	ma|car|[ro]|ne
+macarrônea	nome feminino	ma|car|[rô]|ne|a
+macarrónea	nome feminino	ma|car|[ró]|ne|a
+macarronete	nome masculino	ma|car|ro|[ne]|te
+macarronicamente	advérbio	ma|car|ro|ni|ca|[men]|te
+macarrônico	adjetivo	ma|car|[rô]|ni|co
+macarrónico	adjetivo	ma|car|[ró]|ni|co
+macarronismo	nome masculino	ma|car|ro|[nis]|mo
+macarronista	nome masculino	ma|car|ro|[nis]|ta
+macarronista	nome feminino	ma|car|ro|[nis]|ta
+maçaruco	nome masculino	ma|ça|[ru]|co
+macate	nome masculino	ma|[ca]|te
+macau	nome masculino	ma|[cau]
+macaúba	nome feminino	ma|ca|[ú]|ba
+macaubeira	nome feminino	ma|cau|[bei]|ra
+macauense	nome masculino	ma|ca|u|[en]|se
+macauense	adjetivo	ma|cau|[en]|se
+macauense	nome feminino	ma|cau|[en]|se
+macavencar	verbo	ma|ca|ven|[car]
+macavenco	adjetivo	ma|ca|[ven]|co
+macavenco	nome masculino	ma|ca|[ven]|co
+macavenquismo	nome masculino	ma|ca|ven|[quis]|mo
+macaxeira	nome feminino	ma|ca|[xei]|ra
+macaxeiral	nome masculino	ma|ca|xei|[ral]
+macaza	nome feminino	ma|[ca]|za
+maçãzeira	nome feminino	ma|[çã]|zei|ra
+mace	nome masculino	[ma]|ce
+mácea	nome feminino	[má]|ce|a
+macece	nome masculino	ma|[ce]|ce
+macedense	nome masculino	ma|ce|[den]|se
+macedense	adjetivo	ma|ce|[den]|se
+macedense	nome feminino	ma|ce|[den]|se
+macedo	nome masculino	ma|[ce]|do
+macedo-pinto	nome masculino	ma|ce|do-pin|to
+macedo-romeno	nome masculino	ma|ce|do-ro|[me]|no
+macédone	adjetivo	ma|[cé]|do|ne
+macédone	nome masculino	ma|[cé]|do|ne
+macédone	nome feminino	ma|[cé]|do|ne
+macedônia	nome feminino	ma|ce|[dô]|ni|a
+macedónia	nome feminino	ma|ce|[dó]|ni|a
+macedoniano	adjetivo	ma|ce|do|ni|[a]|no
+macedoniano	nome masculino	ma|ce|do|ni|[a]|no
+macedónico	adjetivo	ma|ce|[dó]|ni|co
+macedônico	adjetivo	ma|ce|[dô]|ni|co
+macedônico	nome masculino	ma|ce|[dô]|ni|co
+macedónico	nome masculino	ma|ce|[dó]|ni|co
+macedônio	adjetivo	ma|ce|[dô]|ni|o
+macedônio	nome masculino	ma|ce|[dô]|ni|o
+macedónio	nome masculino	ma|ce|[dó]|ni|o
+macedónio	adjetivo	ma|ce|[dó]|ni|o
+macega	nome feminino	ma|[ce]|ga
+macegal	nome masculino	ma|ce|[gal]
+macegoso	adjetivo	ma|ce|[go]|so
+maceguento	adjetivo	ma|ce|[guen]|to
+maceió	nome masculino	ma|cei|[ó]
+maceioense	adjetivo	ma|cei|o|[en]|se
+maceioense	nome masculino	ma|cei|o|[en]|se
+maceioense	nome feminino	ma|cei|o|[en]|se
+maceira	nome feminino	ma|[cei]|ra
+maceiro	nome masculino	ma|[cei]|ro
+macela	nome feminino	ma|[ce]|la
+macelão	nome masculino	ma|ce|[lão]
+macelino	nome masculino	ma|ce|[li]|no
+macelino	adjetivo	ma|ce|[li]|no
+macemba	nome feminino	ma|[cem]|ba
+macemutino	nome masculino	ma|ce|mu|[ti]|no
+maceração	nome feminino	ma|ce|ra|[ção]
+macerado	adjetivo	ma|ce|[ra]|do
+macerado	nome masculino	ma|ce|[ra]|do
+maceramento	nome masculino	ma|ce|ra|[men]|to
+macerar	verbo	ma|ce|[rar]
+macéria	nome feminino	ma|[cé]|ri|a
+macérrimo	adjetivo	ma|[cér]|ri|mo
+maceta	nome feminino	ma|[ce]|ta
+maceta	adjetivo	ma|[ce]|ta
+macetado	adjetivo	ma|ce|[ta]|do
+macetar	verbo	ma|ce|[tar]
+macete	nome masculino	ma|[ce]|te
+macetear	verbo	ma|ce|te|[ar]
+mach	nome masculino	[ma]|ch
+macha	nome feminino	[ma]|cha
+macha-fêmea	adjetivo	ma|cha-fê|me|a
+macha-fêmea	nome feminino	ma|cha-fê|me|a
+macha-mona	nome feminino	ma|cha-mo|na
+machacaz	nome masculino	ma|cha|[caz]
+machacaz	adjetivo	ma|cha|[caz]
+machacha	nome feminino	ma|[cha]|cha
+machada	nome feminino	ma|[cha]|da
+machadada	nome feminino	ma|cha|[da]|da
+machadar	verbo	ma|cha|[dar]
+machadense	adjetivo	ma|cha|[den]|se
+machadense	nome masculino	ma|cha|[den]|se
+machadense	nome feminino	ma|cha|[den]|se

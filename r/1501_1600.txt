@@ -1,0 +1,100 @@
+reação	nome feminino	re|a|[ção]
+reacender	verbo	re|a|cen|[der]
+reacendimento	nome masculino	re|a|cen|di|[men]|to
+reacional	adjetivo	re|a|ci|o|[nal]
+reacionária	nome feminino	re|a|ci|o|[ná]|ri|a
+reacionariamente	advérbio	re|a|ci|o|na|ri|a|[men]|te
+reacionário	adjetivo	re|a|ci|o|[ná]|ri|o
+reacionário	nome masculino	re|a|ci|o|[ná]|ri|o
+reacionarismo	nome masculino	re|a|ci|o|na|[ris]|mo
+reacionarista	adjetivo	re|a|ci|o|na|[ris]|ta
+reacionarista	nome masculino	re|a|ci|o|na|[ris]|ta
+reacionarista	nome feminino	re|a|ci|o|na|[ris]|ta
+reacionismo	nome masculino	re|a|ci|o|[nis]|mo
+reacionista	adjetivo	re|a|ci|o|[nis]|ta
+reacionista	nome masculino	re|a|ci|o|[nis]|ta
+reacionista	nome feminino	re|a|ci|o|[nis]|ta
+reacomodação	nome feminino	re|a|co|mo|da|[ção]
+reacomodado	adjetivo	re|a|co|mo|[da]|do
+reacomodar	verbo	re|a|co|mo|[dar]
+reacomodável	adjetivo	re|a|co|mo|[dá]|vel
+reacostumar	verbo	re|a|cos|tu|[mar]
+reactância	nome feminino	re|ac|[tân]|ci|a
+reacusação	nome feminino	re|a|cu|sa|[ção]
+reacusado	adjetivo	re|a|cu|[sa]|do
+reacusar	verbo	re|a|cu|[sar]
+readaptação	nome feminino	re|a|dap|ta|[ção]
+readaptado	adjetivo	re|a|dap|[ta]|do
+readaptador	adjetivo	re|a|dap|ta|[dor]
+readaptador	nome masculino	re|a|dap|ta|[dor]
+readaptar	verbo	re|a|dap|[tar]
+readaptável	adjetivo	re|a|dap|[tá]|vel
+readilho	nome masculino	re|a|[di]|lho
+readmissão	nome feminino	re|ad|mis|[são]
+readmissível	adjetivo	re|ad|mis|[sí]|vel
+readmitido	adjetivo	re|ad|mi|[ti]|do
+readmitir	verbo	re|ad|mi|[tir]
+readoção	nome feminino	re|a|do|[ção]
+readopção	nome feminino	re|a|dop|[ção]
+readoptar	verbo	re|a|dop|[tar]
+readormecer	verbo	re|a|dor|me|[cer]
+readotar	verbo	re|a|do|[tar]
+readquirição	nome feminino	re|ad|qui|ri|[ção]
+readquirido	adjetivo	re|ad|qui|[ri]|do
+readquiridor	adjetivo	re|ad|qui|ri|[dor]
+readquiridor	nome masculino	re|ad|qui|ri|[dor]
+readquirir	verbo	re|ad|qui|[rir]
+readquisição	nome feminino	re|ad|qui|si|[ção]
+ready-made	nome masculino	rea|dy-ma|de
+reafirmação	nome feminino	re|a|fir|ma|[ção]
+reafirmado	adjetivo	re|a|fir|[ma]|do
+reafirmar	verbo	re|a|fir|[mar]
+reagente	nome masculino	re|a|[gen]|te
+reagente	adjetivo	re|a|[gen]|te
+reagir	verbo	re|a|[gir]
+reagradecer	verbo	re|a|gra|de|[cer]
+reagravação	nome feminino	re|a|gra|va|[ção]
+reagravar	verbo	re|a|gra|[var]
+reagrupado	adjetivo	re|a|gru|[pa]|do
+reagrupamento	nome masculino	re|a|gru|pa|[men]|to
+reagrupar	verbo	re|a|gru|[par]
+reaguçar	verbo	re|a|gu|[çar]
+reajuntamento	nome masculino	re|a|jun|ta|[men]|to
+reajuntar	verbo	re|a|jun|[tar]
+reajuntável	adjetivo	re|a|jun|[tá]|vel
+reajustado	adjetivo	re|a|jus|[ta]|do
+reajustador	adjetivo	re|a|jus|ta|[dor]
+reajustador	nome masculino	re|a|jus|ta|[dor]
+reajustamento	nome masculino	re|a|jus|ta|[men]|to
+reajustar	verbo	re|a|jus|[tar]
+reajustável	adjetivo	re|a|jus|[tá]|vel
+reajuste	nome masculino	re|a|[jus]|te
+real	nome masculino	re|[al]
+real	adjetivo	re|[al]
+realçado	adjetivo	re|al|[ça]|do
+realçador	adjetivo	re|al|ça|[dor]
+realçador	nome masculino	re|al|ça|[dor]
+realçamento	nome masculino	re|al|ça|[men]|to
+realçar	verbo	re|al|[çar]
+realçável	adjetivo	re|al|[çá]|vel
+realce	nome masculino	re|[al]|ce
+realço	nome masculino	re|[al]|ço
+realegrar	verbo	re|a|le|[grar]
+realejo	nome masculino	re|a|[le]|jo
+realengamente	advérbio	re|a|len|ga|[men]|te
+realengo	adjetivo	re|a|[len]|go
+realengo	nome masculino	re|a|[len]|go
+realentado	adjetivo	re|a|len|[ta]|do
+realentador	adjetivo	re|a|len|ta|[dor]
+realentador	nome masculino	re|a|len|ta|[dor]
+realentar	verbo	re|a|len|[tar]
+realete	nome masculino	re|a|[le]|te
+realeza	nome feminino	re|a|[le]|za
+realidade	nome feminino	re|a|li|[da]|de
+realimentação	nome feminino	re|a|li|men|ta|[ção]
+realinhado	adjetivo	re|a|li|[nha]|do
+realinhamento	nome masculino	re|a|li|nha|[men]|to
+realinhar	verbo	re|a|li|[nhar]
+realismo	nome masculino	re|a|[lis]|mo
+realista	adjetivo	re|a|[lis]|ta
+realista	nome masculino	re|a|[lis]|ta

@@ -1,0 +1,100 @@
+desengordurado	adjetivo	de|sen|gor|du|[ra]|do
+desengordurador	adjetivo	de|sen|gor|du|ra|[dor]
+desengordurador	nome masculino	de|sen|gor|du|ra|[dor]
+desengorduramento	nome masculino	de|sen|gor|du|ra|[men]|to
+desengordurante	adjetivo	de|sen|gor|du|[ran]|te
+desengordurante	nome masculino	de|sen|gor|du|[ran]|te
+desengordurar	verbo	de|sen|gor|du|[rar]
+desengorgitamento	nome masculino	de|sen|gor|gi|ta|[men]|to
+desengorgitar	verbo	de|sen|gor|gi|[tar]
+desengraçadamente	advérbio	de|sen|gra|ça|da|[men]|te
+desengraçado	adjetivo	de|sen|gra|[ça]|do
+desengraçar	verbo	de|sen|gra|[çar]
+desengradar	verbo	de|sen|gra|[dar]
+desengrainhar	verbo	de|sen|gra|i|[nhar]
+desengrandecer	verbo	de|sen|gran|de|[cer]
+desengranzar	verbo	de|sen|gran|[zar]
+desengravatado	adjetivo	de|sen|gra|va|[ta]|do
+desengravatar	verbo	de|sen|gra|va|[tar]
+desengravecer	verbo	de|sen|gra|ve|[cer]
+desengraxamento	nome masculino	de|sen|gra|xa|[men]|to
+desengraxar	verbo	de|sen|gra|[xar]
+desengrenar	verbo	de|sen|gre|[nar]
+desengrilar	verbo	de|sen|gri|[lar]
+desengrimpar	verbo	de|sen|grim|[par]
+desengrinaldar	verbo	de|sen|gri|nal|[dar]
+desengrossadeira	nome feminino	de|sen|gros|sa|[dei]|ra
+desengrossador	adjetivo	de|sen|gros|sa|[dor]
+desengrossamento	nome masculino	de|sen|gros|sa|[men]|to
+desengrossar	verbo	de|sen|gros|[sar]
+desengrosso	nome masculino	de|sen|[gros]|so
+desengrumar	verbo	de|sen|gru|[mar]
+desengrunhir	verbo	de|sen|gru|[nhir]
+desenguiçar	verbo	de|sen|gui|[çar]
+desenguiço	nome masculino	de|sen|[gui]|ço
+desengulhar	verbo	de|sen|gu|[lhar]
+desenhado	adjetivo	de|se|[nha]|do
+desenhador	adjetivo	de|se|nha|[dor]
+desenhador	nome masculino	de|se|nha|[dor]
+desenhadora	nome feminino	de|se|nha|[do]|ra
+desenhar	verbo	de|se|[nhar]
+desenhável	adjetivo	de|se|[nhá]|vel
+desenhista	nome masculino	de|se|[nhis]|ta
+desenhista	nome feminino	de|se|[nhis]|ta
+desenho	nome masculino	de|[se]|nho
+desenjaulamento	nome masculino	de|sen|jau|la|[men]|to
+desenjaular	verbo	de|sen|jau|[lar]
+desenjoar	verbo	de|sen|jo|[ar]
+desenjoativo	nome masculino	de|sen|jo|a|[ti]|vo
+desenjoativo	adjetivo	de|sen|jo|a|[ti]|vo
+desenjoo	nome masculino	de|sen|[jo]|o
+desenlaçamento	nome masculino	de|sen|la|ça|[men]|to
+desenlaçar	verbo	de|sen|la|[çar]
+desenlaçável	adjetivo	de|sen|la|[çá]|vel
+desenlace	nome masculino	de|sen|[la]|ce
+desenlambuzar	verbo	de|sen|lam|bu|[zar]
+desenlamear	verbo	de|sen|la|me|[ar]
+desenlapar	verbo	de|sen|la|[par]
+desenlapardar	verbo	de|sen|la|par|[dar]
+desenlatar	verbo	de|sen|la|[tar]
+desenleado	adjetivo	de|sen|le|[a]|do
+desenlear	verbo	de|sen|le|[ar]
+desenleio	nome masculino	de|sen|[lei]|o
+desenlevar	verbo	de|sen|le|[var]
+desenliçar	verbo	de|sen|li|[çar]
+desenlodar	verbo	de|sen|lo|[dar]
+desenlouquecer	verbo	de|sen|lou|que|[cer]
+desenlutar	verbo	de|sen|lu|[tar]
+desenluvar	verbo	de|sen|lu|[var]
+desenobrecer	verbo	de|se|no|bre|[cer]
+desenodoamento	nome masculino	de|se|no|do|a|[men]|to
+desenodoar	verbo	de|se|no|do|[ar]
+desenojar	verbo	de|se|no|[jar]
+desenovelar	verbo	de|se|no|ve|[lar]
+desenquadrado	adjetivo	de|sen|qua|[dra]|do
+desenquadramento	nome masculino	de|sen|qua|dra|[men]|to
+desenquadrar	verbo	de|sen|qua|[drar]
+desenraiar	verbo	de|sen|rai|[ar]
+desenraivar	verbo	de|sen|rai|[var]
+desenraivecer	verbo	de|sen|rai|ve|[cer]
+desenraizado	adjetivo	de|sen|rai|[za]|do
+desenraizamento	nome masculino	de|sen|rai|za|[men]|to
+desenraizar	verbo	de|sen|rai|[zar]
+desenraizável	adjetivo	de|sen|rai|[zá]|vel
+desenramar	verbo	de|sen|ra|[mar]
+desenrascado	adjetivo	de|sen|ras|[ca]|do
+desenrascador	adjetivo	de|sen|ras|ca|[dor]
+desenrascanço	nome masculino	de|sen|ras|[can]|ço
+desenrascar	verbo	de|sen|ras|[car]
+desenredador	adjetivo	de|sen|re|da|[dor]
+desenredador	nome masculino	de|sen|re|da|[dor]
+desenredamento	nome masculino	de|sen|re|da|[men]|to
+desenredar	verbo	de|sen|re|[dar]
+desenredável	adjetivo	de|sen|re|[dá]|vel
+desenredo	nome masculino	de|sen|[re]|do
+desenregelamento	nome masculino	de|sen|re|ge|la|[men]|to
+desenregelar	verbo	de|sen|re|ge|[lar]
+desenremelar	verbo	de|sen|re|me|[lar]
+desenriçar	verbo	de|sen|ri|[çar]
+desenrijar	verbo	de|sen|ri|[jar]
+desenriquecer	verbo	de|sen|ri|que|[cer]

@@ -1,0 +1,100 @@
+japonista	nome masculino	ja|po|[nis]|ta
+japonista	nome feminino	ja|po|[nis]|ta
+japonização	nome feminino	ja|po|ni|za|[ção]
+japonizado	adjetivo	ja|po|ni|[za]|do
+japonizante	adjetivo	ja|po|ni|[zan]|te
+japonizante	nome masculino	ja|po|ni|[zan]|te
+japonizante	nome feminino	ja|po|ni|[zan]|te
+japonizar	verbo	ja|po|ni|[zar]
+japonizável	adjetivo	ja|po|ni|[zá]|vel
+japonologia	nome feminino	ja|po|no|lo|[gi]|a
+japonológico	adjetivo	ja|po|no|[ló]|gi|co
+japonólogo	nome masculino	ja|po|[nó]|lo|go
+japu	nome masculino	ja|[pu]
+japuanga	nome feminino	ja|pu|[an]|ga
+japubá	nome masculino	ja|pu|[bá]
+japué	nome masculino	ja|pu|[é]
+japuê	nome masculino	ja|pu|[ê]
+japuguaçu	nome masculino	ja|pu|gua|[çu]
+japuí	nome masculino	ja|pu|[í]
+japuíra	nome masculino	ja|pu|[í]|ra
+japujuba	nome feminino	ja|pu|[ju]|ba
+jaqué	nome masculino	ja|[qué]
+jaque	nome masculino	[ja]|que
+jaqueira	nome feminino	ja|[quei]|ra
+jaqueiral	nome masculino	ja|quei|[ral]
+jaquejaque	nome masculino	ja|que|[ja]|que
+jaqueta	nome feminino	ja|[que]|ta
+jaqueta	nome masculino	ja|[que]|ta
+jaquetão	nome masculino	ja|que|[tão]
+jaquinzinho	nome masculino	ja|quin|[zi]|nho
+jaquiranaboia	nome feminino	ja|qui|ra|na|[boi]|a
+jará	nome feminino	ja|[rá]
+jará-açu	nome feminino	ja|rá-a|[çu]
+jaracatiá	nome masculino	ja|ra|ca|ti|[á]
+jaracuçu	nome feminino	ja|ra|cu|[çu]
+jaraguá	nome masculino	ja|ra|[guá]
+jaraiuba	nome feminino	ja|rai|[u]|ba
+jaraiuva	nome feminino	ja|rai|[u]|va
+jaramacaru	nome masculino	ja|ra|ma|ca|[ru]
+jaramataia	nome feminino	ja|ra|ma|[tai]|a
+jarana	nome feminino	ja|[ra]|na
+jaranganha	nome feminino	ja|ran|[ga]|nha
+jarapé	nome masculino	ja|ra|[pé]
+jaraqui	nome masculino	ja|ra|[qui]
+jararaca	nome feminino	ja|ra|[ra]|ca
+jararacuçu	nome masculino	ja|ra|ra|cu|[çu]
+jarauá	nome masculino	ja|rau|[á]
+jarazal	nome masculino	ja|ra|[zal]
+jarda	nome feminino	[jar]|da
+járdia	nome feminino	[jár]|di|a
+jardim	nome masculino	jar|[dim]
+jardim de infância	nome masculino	jar|dim de in|fân|ci|a
+jardim-escola	nome masculino	jar|dim-es|[co]|la
+jardinação	nome feminino	jar|di|na|[ção]
+jardinado	adjetivo	jar|di|[na]|do
+jardinagem	nome feminino	jar|di|[na]|gem
+jardinar	verbo	jar|di|[nar]
+jardineira	nome feminino	jar|di|[nei]|ra
+jardineiro	nome masculino	jar|di|[nei]|ro
+jardineiro	adjetivo	jar|di|[nei]|ro
+jardinista	nome masculino	jar|di|[nis]|ta
+jardinista	nome feminino	jar|di|[nis]|ta
+jardinopolitano	adjetivo	jar|di|no|po|li|[ta]|no
+jardinopolitano	nome masculino	jar|di|no|po|li|[ta]|no
+jardo	adjetivo	[jar]|do
+jarê	nome masculino	ja|[rê]
+jareré	nome masculino	ja|re|[ré]
+jargão	nome masculino	jar|[gão]
+jaribara	nome feminino	ja|ri|[ba]|ra
+jarina	nome feminino	ja|[ri]|na
+jaritacaca	nome feminino	ja|ri|ta|[ca]|ca
+jarivá	nome feminino	ja|ri|[vá]
+jarivá	nome masculino	ja|ri|[vá]
+jarmelista	adjetivo	jar|me|[lis]|ta
+jarmelista	nome masculino	jar|me|[lis]|ta
+jarmelista	nome feminino	jar|me|[lis]|ta
+jaro	nome masculino	[ja]|ro
+jaroba	nome feminino	ja|[ro]|ba
+jarra	nome feminino	[jar]|ra
+jarra	nome masculino	[jar]|ra
+jarrafa	nome feminino	jar|[ra]|fa
+jarrão	nome masculino	jar|[rão]
+jarreiro	nome masculino	jar|[rei]|ro
+jarreta	nome masculino	jar|[re]|ta
+jarreta	adjetivo	jar|[re]|ta
+jarreta	nome feminino	jar|[re]|ta
+jarretar	verbo	jar|re|[tar]
+jarrete	nome masculino	jar|[re]|te
+jarreteira	nome feminino	jar|re|[tei]|ra
+jarretice	nome feminino	jar|re|[ti]|ce
+jarrilho	nome masculino	jar|[ri]|lho
+jarrinha	nome feminino	jar|[ri]|nha
+jarro	nome masculino	[jar]|ro
+jasmim	nome masculino	jas|[mim]
+jasmim-do-cabo	nome masculino	jas|mim-do-ca|bo
+jasminácea	nome feminino	jas|mi|[ná]|ce|a
+jasmináceo	adjetivo	jas|mi|[ná]|ce|o
+jasmínea	nome feminino	jas|[mí]|ne|a
+jasmineiro	nome masculino	jas|mi|[nei]|ro
+jasmineiro-do-monte	nome masculino	jas|mi|nei|ro-do-mon|te

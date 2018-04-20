@@ -1,0 +1,100 @@
+corolado	adjetivo	co|ro|[la]|do
+corolário	nome masculino	co|ro|[lá]|ri|o
+corolífero	adjetivo	co|ro|[lí]|fe|ro
+coroliflora	nome feminino	co|ro|li|[flo]|ra
+coroliforme	adjetivo	co|ro|li|[for]|me
+corolino	nome masculino	co|ro|[li]|no
+corolino	adjetivo	co|ro|[li]|no
+corolítico	adjetivo	co|ro|[lí]|ti|co
+corologia	nome feminino	co|ro|lo|[gi]|a
+corológico	adjetivo	co|ro|[ló]|gi|co
+corólula	nome feminino	co|[ró]|lu|la
+corombó	adjetivo	co|rom|[bó]
+corona	nome feminino	co|[ro]|na
+coronado	adjetivo	co|ro|[na]|do
+coronal	adjetivo	co|ro|[nal]
+coronal	nome masculino	co|ro|[nal]
+coronal	nome feminino	co|ro|[nal]
+coronária	nome feminino	co|ro|[ná]|ri|a
+coronário	adjetivo	co|ro|[ná]|ri|o
+coronel	nome masculino	co|ro|[nel]
+coronel	nome feminino	co|ro|[nel]
+coronela	nome feminino	co|ro|[ne]|la
+coronelato	nome masculino	co|ro|ne|[la]|to
+coronelismo	nome masculino	co|ro|ne|[lis]|mo
+coroneu	adjetivo	co|ro|[neu]
+coroneu	nome masculino	co|ro|[neu]
+coronha	nome feminino	co|[ro]|nha
+coronhada	nome feminino	co|ro|[nha]|da
+coronheiro	nome masculino	co|ro|[nhei]|ro
+coronho	nome masculino	co|[ro]|nho
+corónide	nome feminino	co|[ró]|ni|de
+corônide	nome feminino	co|[rô]|ni|de
+coroniforme	adjetivo	co|ro|ni|[for]|me
+coronilha	nome feminino	co|ro|[ni]|lha
+corônio	nome masculino	co|[rô]|ni|o
+corónio	nome masculino	co|[ró]|ni|o
+coronoide	adjetivo	co|ro|[noi]|de
+coronóideo	adjetivo	co|ro|[nói]|de|o
+corónula	nome feminino	co|[ró]|nu|la
+corônula	nome feminino	co|[rô]|nu|la
+coroplasta	nome masculino	co|ro|[plas]|ta
+coroplastia	nome feminino	co|ro|plas|[ti]|a
+corozil	nome masculino	co|ro|[zil]
+corozo	nome masculino	co|[ro]|zo
+corpaço	nome masculino	cor|[pa]|ço
+corpanço	nome masculino	cor|[pan]|ço
+corpanzil	nome masculino	cor|pan|[zil]
+corpanzudo	adjetivo	cor|pan|[zu]|do
+corpete	nome masculino	cor|[pe]|te
+corpié	nome masculino	cor|pi|[é]
+corpinheira	nome feminino	cor|pi|[nhei]|ra
+corpinheiro	nome masculino	cor|pi|[nhei]|ro
+corpinho	nome masculino	cor|[pi]|nho
+corpo	nome masculino	[cor]|po
+corpo a corpo	nome masculino	[cor]|po a cor|po
+corpoferário	nome masculino	cor|po|fe|[rá]|ri|o
+corporação	nome feminino	cor|po|ra|[ção]
+corporal	nome masculino	cor|po|[ral]
+corporal	adjetivo	cor|po|[ral]
+corporalidade	nome feminino	cor|po|ra|li|[da]|de
+corporalização	nome feminino	cor|po|ra|li|za|[ção]
+corporalizador	adjetivo	cor|po|ra|li|za|[dor]
+corporalizar	verbo	cor|po|ra|li|[zar]
+corporalmente	advérbio	cor|po|ral|[men]|te
+corporativamente	advérbio	cor|po|ra|ti|va|[men]|te
+corporativismo	nome masculino	cor|po|ra|ti|[vis]|mo
+corporativista	adjetivo	cor|po|ra|ti|[vis]|ta
+corporativista	nome masculino	cor|po|ra|ti|[vis]|ta
+corporativista	nome feminino	cor|po|ra|ti|[vis]|ta
+corporativístico	adjetivo	cor|po|ra|ti|[vís]|ti|co
+corporativo	adjetivo	cor|po|ra|[ti]|vo
+corporatura	nome feminino	cor|po|ra|[tu]|ra
+corporeamente	advérbio	cor|po|re|a|[men]|te
+corporeidade	nome feminino	cor|po|rei|[da]|de
+corpóreo	adjetivo	cor|[pó]|re|o
+corporificação	nome feminino	cor|po|ri|fi|ca|[ção]
+corporificador	adjetivo	cor|po|ri|fi|ca|[dor]
+corporificar	verbo	cor|po|ri|fi|[car]
+corporificativo	adjetivo	cor|po|ri|fi|ca|[ti]|vo
+corporificável	adjetivo	cor|po|ri|fi|[cá]|vel
+corporiforme	adjetivo	cor|po|ri|[for]|me
+corporização	nome feminino	cor|po|ri|za|[ção]
+corporizador	adjetivo	cor|po|ri|za|[dor]
+corporizar	verbo	cor|po|ri|[zar]
+corporizável	adjetivo	cor|po|ri|[zá]|vel
+corpulência	nome feminino	cor|pu|[lên]|ci|a
+corpulento	adjetivo	cor|pu|[len]|to
+corpus	nome masculino	cor|[pus]
+corpuscular	adjetivo	cor|pus|cu|[lar]
+corpusculista	adjetivo	cor|pus|cu|[lis]|ta
+corpusculista	nome masculino	cor|pus|cu|[lis]|ta
+corpusculista	nome feminino	cor|pus|cu|[lis]|ta
+corpusculizar	verbo	cor|pus|cu|li|[zar]
+corpúsculo	nome masculino	cor|[pús]|cu|lo
+corra	nome feminino	[cor]|ra
+corradical	adjetivo	cor|ra|di|[cal]
+corrasão	nome feminino	cor|ra|[são]
+corré	nome feminino	cor|[ré]
+corre	nome feminino	[cor]|re
+corre-caminho	nome masculino	cor|re-ca|[mi]|nho

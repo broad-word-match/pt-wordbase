@@ -1,0 +1,100 @@
+pinoio	nome masculino	pi|[noi]|o
+pinote	nome masculino	pi|[no]|te
+pinotear	verbo	pi|no|te|[ar]
+pinque	nome masculino	[pin]|que
+pinscher	nome masculino	pins|[cher]
+pinta	nome feminino	[pin]|ta
+pinta	adjetivo	[pin]|ta
+pinta-caldeira	nome feminino	pin|ta-cal|[dei]|ra
+pinta-cardeira	nome feminino	pin|ta-car|[dei]|ra
+pinta-cardim	nome masculino	pin|ta-car|[dim]
+pinta-cega	nome feminino	pin|ta-ce|ga
+pinta-ferreira	nome feminino	pin|ta-fer|[rei]|ra
+pinta-monos	nome masculino	pin|ta-mo|nos
+pinta-ró-ró	nome masculino	pin|ta-ró-'ró
+pintada	nome feminino	pin|[ta]|da
+pintadeira	nome feminino	pin|ta|[dei]|ra
+pintadela	nome feminino	pin|ta|[de]|la
+pintadina	nome feminino	pin|ta|[di]|na
+pintado	adjetivo	pin|[ta]|do
+pintado	nome masculino	pin|[ta]|do
+pintador	nome masculino	pin|ta|[dor]
+pintainhar	verbo	pin|ta|i|[nhar]
+pintainho	nome masculino	pin|ta|[i]|nho
+pintalar	verbo	pin|ta|[lar]
+pintalegreiro	adjetivo	pin|ta|le|[grei]|ro
+pintalegrete	adjetivo	pin|ta|le|[gre]|te
+pintalegrete	nome masculino	pin|ta|le|[gre]|te
+pintalegrismo	nome masculino	pin|ta|le|[gris]|mo
+pintalgado	adjetivo	pin|tal|[ga]|do
+pintalgar	verbo	pin|tal|[gar]
+pintalha	nome feminino	pin|[ta]|lha
+pintalhão	nome masculino	pin|ta|[lhão]
+pintalhão-preto	nome masculino	pin|ta|lhão-pre|to
+pintalhar	verbo	pin|ta|[lhar]
+pintão	nome masculino	pin|[tão]
+pintão	adjetivo	pin|[tão]
+pintar	verbo	pin|[tar]
+pintarada	nome feminino	pin|ta|[ra]|da
+pintarroxa	nome feminino	pin|tar|[ro]|xa
+pintarroxo	nome masculino	pin|tar|[ro]|xo
+pintassilgo	nome masculino	pin|tas|[sil]|go
+pintassilgo-verde	nome masculino	pin|tas|sil|go-ver|de
+pintassilvo	nome masculino	pin|tas|[sil]|vo
+pintassirgo	nome masculino	pin|tas|[sir]|go
+pinteiro	nome masculino	pin|[tei]|ro
+pintinho	nome masculino	pin|[ti]|nho
+pinto	nome masculino	[pin]|to
+pinto	adjetivo	[pin]|to
+pinto-bravo	nome masculino	pin|to-bra|vo
+pinto-calçudo	nome masculino	pin|to-cal|[çu]|do
+pinto-do-mato	nome masculino	pin|to-do-ma|to
+pintor	nome masculino	pin|[tor]
+pintora	nome feminino	pin|[to]|ra
+pintorroxo	nome masculino	pin|tor|[ro]|xo
+pintoso	adjetivo	pin|[to]|so
+pintura	nome feminino	pin|[tu]|ra
+pintural	adjetivo	pin|tu|[ral]
+pinturescamente	advérbio	pin|tu|res|ca|[men]|te
+pinturesco	adjetivo	pin|tu|[res]|co
+pinturesco	nome masculino	pin|tu|[res]|co
+pinturice	nome feminino	pin|tu|[ri]|ce
+pinturilador	nome masculino	pin|tu|ri|la|[dor]
+pinturilagem	nome feminino	pin|tu|ri|[la]|gem
+pinturilante	adjetivo	pin|tu|ri|[lan]|te
+pinturilar	verbo	pin|tu|ri|[lar]
+pínula	nome feminino	[pí]|nu|la
+pinulado	adjetivo	pi|nu|[la]|do
+pinup	nome feminino	[pi]|nup
+piô	nome masculino	[piô]
+pio	nome masculino	[pi]|o
+pio	adjetivo	[pi]|o
+pio-nono	nome masculino	pi|o-no|no
+piobeiro	nome masculino	pi|o|[bei]|ro
+piociânico	adjetivo	pi|o|ci|[â]|ni|co
+piocianina	nome feminino	pi|o|ci|a|[ni]|na
+piogénese	nome feminino	pi|o|[gé]|ne|se
+piogênese	nome feminino	pi|o|[gê]|ne|se
+piogenia	nome feminino	pi|o|ge|[ni]|a
+piogênico	adjetivo	pi|o|[gê]|ni|co
+piogénico	adjetivo	pi|o|[gé]|ni|co
+pioguinha	nome feminino	pi|o|[gui]|nha
+piola	nome feminino	pi|[o]|la
+piolhada	nome feminino	pi|o|[lha]|da
+piolhagem	nome feminino	pi|o|[lha]|gem
+piolhar	verbo	pi|o|[lhar]
+piolharia	nome feminino	pi|o|lha|[ri]|a
+piolheira	nome feminino	pi|o|[lhei]|ra
+piolheiro	adjetivo	pi|o|[lhei]|ro
+piolhenta	nome feminino	pi|o|[lhen]|ta
+piolhento	adjetivo	pi|o|[lhen]|to
+piolhento	nome masculino	pi|o|[lhen]|to
+piolhice	nome feminino	pi|o|[lhi]|ce
+piolho	nome masculino	pi|[o]|lho
+piolho de cobra	nome masculino	pi|[o]|lho de co|bra
+piolho-ladro	nome masculino	pi|o|lho-la|dro
+piolhoso	adjetivo	pi|o|[lho]|so
+piolhoso	nome masculino	pi|o|[lho]|so
+piometrose	nome feminino	pi|o|me|[tro]|se
+piona	nome feminino	pi|[o]|na
+pionefrose	nome feminino	pi|o|ne|[fro]|se

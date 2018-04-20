@@ -1,0 +1,100 @@
+aftácida	adjetivo	af|[tá]|ci|da
+aftácida	nome masculino	af|[tá]|ci|da
+aftácida	nome feminino	af|[tá]|ci|da
+aftershave	nome masculino	af|ter|sha|ve
+aftófito	adjetivo	af|[tó]|fi|to
+aftoide	adjetivo	af|[toi]|de
+aftongia	nome feminino	af|ton|[gi]|a
+aftoso	adjetivo	af|[to]|so
+afufo	nome masculino	a|[fu]|fo
+afugenta-demônios	nome masculino	a|fu|gen|ta-de|[mô]|ni|os
+afugenta-demónios	nome masculino	a|fu|gen|ta-de|[mó]|ni|os
+afugentado	adjetivo	a|fu|gen|[ta]|do
+afugentador	adjetivo	a|fu|gen|ta|[dor]
+afugentador	nome masculino	a|fu|gen|ta|[dor]
+afugentamento	nome masculino	a|fu|gen|ta|[men]|to
+afugentar	verbo	a|fu|gen|[tar]
+afugentável	adjetivo	a|fu|gen|[tá]|vel
+afuliginar	verbo	a|fu|li|gi|[nar]
+afulvar	verbo	a|ful|[var]
+afumação	nome feminino	a|fu|ma|[ção]
+afumados	nome masculino	a|fu|[ma]|dos
+afumadura	nome feminino	a|fu|ma|[du]|ra
+afumar	verbo	a|fu|[mar]
+afumear	verbo	a|fu|me|[ar]
+afumegar	verbo	a|fu|me|[gar]
+afunado	adjetivo	a|fu|[na]|do
+afunar	verbo	a|fu|[nar]
+afundado	adjetivo	a|fun|[da]|do
+afundador	adjetivo	a|fun|da|[dor]
+afundador	nome masculino	a|fun|da|[dor]
+afundamento	nome masculino	a|fun|da|[men]|to
+afundanço	nome masculino	a|fun|[dan]|ço
+afundar	verbo	a|fun|[dar]
+afundável	adjetivo	a|fun|[dá]|vel
+afundimento	nome masculino	a|fun|di|[men]|to
+afundir	verbo	a|fun|[dir]
+afuniladamente	advérbio	a|fu|ni|la|da|[men]|te
+afunilado	adjetivo	a|fu|ni|[la]|do
+afunilamento	nome masculino	a|fu|ni|la|[men]|to
+afunilar	verbo	a|fu|ni|[lar]
+afurá	nome masculino	a|fu|[rá]
+afuroador	adjetivo	a|fu|ro|a|[dor]
+afuroador	nome masculino	a|fu|ro|a|[dor]
+afuroar	verbo	a|fu|ro|[ar]
+afusado	adjetivo	a|fu|[sa]|do
+afusal	nome masculino	a|fu|[sal]
+afusão	nome feminino	a|fu|[são]
+afusar	verbo	a|fu|[sar]
+afuselado	adjetivo	a|fu|se|[la]|do
+afustado	adjetivo	a|fus|[ta]|do
+afustar	verbo	a|fus|[tar]
+afutricar	verbo	a|fu|tri|[car]
+afuzilante	adjetivo	a|fu|zi|[lan]|te
+afuzilar	verbo	a|fu|zi|[lar]
+afzélia	nome feminino	af|[zé]|li|a
+agá	nome masculino	a|[gá]
+agacé	nome masculino	a|ga|[cé]
+agachado	nome masculino	a|ga|[cha]|do
+agachado	adjetivo	a|ga|[cha]|do
+agachamento	nome masculino	a|ga|cha|[men]|to
+agachar	verbo	a|ga|[char]
+agachis	nome masculino	a|ga|[chis]
+agacho	nome masculino	a|[ga]|cho
+agadanhador	adjetivo	a|ga|da|nha|[dor]
+agadanhador	nome masculino	a|ga|da|nha|[dor]
+agadanhar	verbo	a|ga|da|[nhar]
+agafanhador	adjetivo	a|ga|fa|nha|[dor]
+agafanhador	nome masculino	a|ga|fa|nha|[dor]
+agafanhar	verbo	a|ga|fa|[nhar]
+agafita	nome feminino	a|ga|[fi]|ta
+agafite	nome feminino	a|ga|[fi]|te
+agafítico	adjetivo	a|ga|[fí]|ti|co
+agaiatadamente	advérbio	a|gai|a|ta|da|[men]|te
+agaiatado	adjetivo	a|gai|a|[ta]|do
+agaiatar	verbo	a|gai|a|[tar]
+agaitado	adjetivo	a|gai|[ta]|do
+agalactação	nome feminino	a|ga|lac|ta|[ção]
+agalactia	nome feminino	a|ga|lac|[ti]|a
+agaláctico	adjetivo	a|ga|[lác]|ti|co
+agaláctico	nome masculino	a|ga|[lác]|ti|co
+agalacto	adjetivo	a|ga|[lac]|to
+agalanar	verbo	a|ga|la|[nar]
+agalaxia	nome feminino	a|ga|la|[xi]|a
+agalegadamente	advérbio	a|ga|le|ga|da|[men]|te
+agalegado	adjetivo	a|ga|le|[ga]|do
+agalegar	verbo	a|ga|le|[gar]
+agalgado	adjetivo	a|gal|[ga]|do
+agalgar	verbo	a|gal|[gar]
+agalhar	verbo	a|ga|[lhar]
+agaloado	nome masculino	a|ga|lo|[a]|do
+agaloado	adjetivo	a|ga|lo|[a]|do
+agaloadura	nome feminino	a|ga|lo|a|[du]|ra
+agaloar	verbo	a|ga|lo|[ar]
+agáloco	nome masculino	a|[gá]|lo|co
+agalopado	adjetivo	a|ga|lo|[pa]|do
+agami	nome masculino	a|ga|[mi]
+agamia	nome feminino	a|ga|[mi]|a
+agâmica	nome feminino	a|[gâ]|mi|ca
+agâmico	adjetivo	a|[gâ]|mi|co
+agâmida	nome masculino	a|[gâ]|mi|da

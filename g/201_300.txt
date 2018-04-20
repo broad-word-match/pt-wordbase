@@ -1,0 +1,100 @@
+gaiense	nome masculino	gai|[en]|se
+gaiense	adjetivo	gai|[en]|se
+gaiense	nome feminino	gai|[en]|se
+gaifona	nome feminino	gai|[fo]|na
+gaifonar	verbo	gai|fo|[nar]
+gaifonice	nome feminino	gai|fo|[ni]|ce
+gaillárdia	nome feminino	ga|il|[lár]|di|a
+gainambé	nome masculino	gai|nam|[bé]
+gainambi	nome masculino	gai|nam|[bi]
+gaine	nome masculino	[gai]|ne
+gaio	nome masculino	[gai]|o
+gaio	adjetivo	[gai]|o
+gaio-azul	nome masculino	gai|o-a|[zul]
+gaiola	nome feminino	gai|[o]|la
+gaiola	nome masculino	gai|[o]|la
+gaioleiro	nome masculino	gai|o|[lei]|ro
+gaiolim	nome masculino	gai|o|[lim]
+gaiolo	nome masculino	gai|[o]|lo
+gaiolo	adjetivo	gai|[o]|lo
+gaiorro	nome masculino	gai|[or]|ro
+gaiosa	nome feminino	gai|[o]|sa
+gaipa	nome feminino	[gai]|pa
+gaipara	nome feminino	gai|[pa]|ra
+gaipeiro	adjetivo	gai|[pei]|ro
+gaipeiro	nome masculino	gai|[pei]|ro
+gaipelo	nome masculino	gai|[pe]|lo
+gaiperra	nome feminino	gai|[per]|ra
+gaipilha	nome feminino	gai|[pi]|lha
+gaipilha	nome masculino	gai|[pi]|lha
+gaipo	nome masculino	[gai]|po
+gaita	nome feminino	[gai]|ta
+gaita de beiços	nome feminino	[gai]|ta de bei|ços
+gaita de foles	nome feminino	[gai]|ta de fo|les
+gaitada	nome feminino	gai|[ta]|da
+gaitar	verbo	gai|[tar]
+gaitear	verbo	gai|te|[ar]
+gaiteira	nome feminino	gai|[tei]|ra
+gaiteirada	nome feminino	gai|tei|[ra]|da
+gaiteirice	nome feminino	gai|tei|[ri]|ce
+gaiteiro	nome masculino	gai|[tei]|ro
+gaiteiro	adjetivo	gai|[tei]|ro
+gaitona	nome feminino	gai|[to]|na
+gaiulo	nome masculino	gai|[u]|lo
+gaiuta	nome feminino	gai|[u]|ta
+gaiva	nome feminino	[gai]|va
+gaivação	nome feminino	gai|va|[ção]
+gaivagem	nome feminino	gai|[va]|gem
+gaivão	nome masculino	gai|[vão]
+gaivar	verbo	gai|[var]
+gaivel	nome masculino	gai|[vel]
+gaivina	nome feminino	gai|[vi]|na
+gaivinha	nome feminino	gai|[vi]|nha
+gaivota	nome feminino	gai|[vo]|ta
+gaivota-de-bico-de-cana	nome feminino	gai|vo|ta-de-bi|co-de-ca|na
+gaivota-negra	nome feminino	gai|vo|ta-ne|gra
+gaivotão	nome masculino	gai|vo|[tão]
+gaivotear	verbo	gai|vo|te|[ar]
+gaivoto	nome masculino	gai|[vo]|to
+gaja	nome feminino	[ga]|ja
+gajada	nome feminino	ga|[ja]|da
+gajaderopa	nome feminino	ga|ja|de|[ro]|pa
+gajaja	nome feminino	ga|[ja]|ja
+gajandumbo	nome masculino	ga|jan|[dum]|bo
+gajão	nome masculino	ga|[jão]
+gajar	verbo	ga|[jar]
+gájaras	nome feminino	[gá]|ja|ras
+gajas	nome feminino	[ga]|jas
+gajata	nome feminino	ga|[ja]|ta
+gajato	nome masculino	ga|[ja]|to
+gajavato	nome masculino	ga|ja|[va]|to
+gajé	nome masculino	ga|[jé]
+gajeiro	adjetivo	ga|[jei]|ro
+gajeiro	nome masculino	ga|[jei]|ro
+gajeru	nome masculino	ga|je|[ru]
+gajice	nome feminino	ga|[ji]|ce
+gajo	nome masculino	[ga]|jo
+gal	nome masculino	[gal]
+galã	nome masculino	ga|[lã]
+gala	nome feminino	[ga]|la
+galação	nome feminino	ga|la|[ção]
+galacrista	nome feminino	ga|la|[cris]|ta
+galactagogo	adjetivo	ga|lac|ta|[go]|go
+galactagogo	nome masculino	ga|lac|ta|[go]|go
+galáctico	adjetivo	ga|[lác]|ti|co
+galactífago	adjetivo	ga|lac|[tí]|fa|go
+galactífero	adjetivo	ga|lac|[tí]|fe|ro
+galactina	nome feminino	ga|lac|[ti]|na
+galactita	nome feminino	ga|lac|[ti]|ta
+galactite	nome feminino	ga|lac|[ti]|te
+galactobutirómetro	nome masculino	ga|lac|to|bu|ti|[ró]|me|tro
+galactobutirômetro	nome masculino	ga|lac|to|bu|ti|[rô]|me|tro
+galactocele	nome feminino	ga|lac|to|[ce]|le
+galactofagia	nome feminino	ga|lac|to|fa|[gi]|a
+galactófago	adjetivo	ga|lac|[tó]|fa|go
+galactoforite	nome feminino	ga|lac|to|fo|[ri]|te
+galactóforo	adjetivo	ga|lac|[tó]|fo|ro
+galactogénio	adjetivo	ga|lac|to|[gé]|ni|o
+galactogénio	nome masculino	ga|lac|to|[gé]|ni|o
+galactogênio	adjetivo	ga|lac|to|[gê]|ni|o
+galactogênio	nome masculino	ga|lac|to|[gê]|ni|o

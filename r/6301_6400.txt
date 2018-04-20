@@ -1,0 +1,100 @@
+revenido	nome masculino	re|ve|[ni]|do
+revenir	verbo	re|ve|[nir]
+revéns	nome masculino	re|[véns]
+rever	verbo	re|[ver]
+reverberação	nome feminino	re|ver|be|ra|[ção]
+reverberador	adjetivo	re|ver|be|ra|[dor]
+reverberante	adjetivo	re|ver|be|[ran]|te
+reverberar	verbo	re|ver|be|[rar]
+reverberatório	adjetivo	re|ver|be|ra|[tó]|ri|o
+revérbero	nome masculino	re|[vér]|be|ro
+reverdade	nome feminino	re|ver|[da]|de
+reverdecer	verbo	re|ver|de|[cer]
+reverdecimento	nome masculino	re|ver|de|ci|[men]|to
+reverdejante	adjetivo	re|ver|de|[jan]|te
+reverdejar	verbo	re|ver|de|[jar]
+reverência	nome feminino	re|ve|[rên]|ci|a
+reverenciador	adjetivo	re|ve|ren|ci|a|[dor]
+reverenciador	nome masculino	re|ve|ren|ci|a|[dor]
+reverenciadora	nome feminino	re|ve|ren|ci|a|[do]|ra
+reverencial	adjetivo	re|ve|ren|ci|[al]
+reverenciar	verbo	re|ve|ren|ci|[ar]
+reverenciosamente	advérbio	re|ve|ren|ci|o|sa|[men]|te
+reverencioso	adjetivo	re|ve|ren|ci|[o]|so
+reverenda	nome feminino	re|ve|[ren]|da
+reverendaço	nome masculino	re|ve|ren|[da]|ço
+reverendas	nome feminino	re|ve|[ren]|das
+reverendíssimo	adjetivo	re|ve|ren|[dís]|si|mo
+reverendíssimo	nome masculino	re|ve|ren|[dís]|si|mo
+reverendo	nome masculino	re|ve|[ren]|do
+reverendo	adjetivo	re|ve|[ren]|do
+reverente	adjetivo	re|ve|[ren]|te
+reverentemente	advérbio	re|ve|ren|te|[men]|te
+reveria	nome feminino	re|ve|[ri]|a
+rêverie	nome feminino	rê|ve|rie
+reverificação	nome feminino	re|ve|ri|fi|ca|[ção]
+reverificador	adjetivo	re|ve|ri|fi|ca|[dor]
+reverificador	nome masculino	re|ve|ri|fi|ca|[dor]
+reverificar	verbo	re|ve|ri|fi|[car]
+revermelhar	verbo	re|ver|me|[lhar]
+revernizar	verbo	re|ver|ni|[zar]
+reversado	nome masculino	re|ver|[sa]|do
+reversal	adjetivo	re|ver|[sal]
+reversão	nome feminino	re|ver|[são]
+reversar	verbo	re|ver|[sar]
+reversibilidade	nome feminino	re|ver|si|bi|li|[da]|de
+reversivamente	advérbio	re|ver|si|va|[men]|te
+reversível	adjetivo	re|ver|[sí]|vel
+reversivo	adjetivo	re|ver|[si]|vo
+reverso	nome masculino	re|[ver]|so
+reverso	adjetivo	re|[ver]|so
+revertência	nome feminino	re|ver|[tên]|ci|a
+revertente	adjetivo	re|ver|[ten]|te
+reverter	verbo	re|ver|[ter]
+revertério	nome masculino	re|ver|[té]|ri|o
+revertível	adjetivo	re|ver|[tí]|vel
+revés	nome masculino	re|[vés]
+revesilho	nome masculino	re|ve|[si]|lho
+revessa	nome feminino	re|[ves]|sa
+revessar	verbo	re|ves|[sar]
+revesso	adjetivo	re|[ves]|so
+revesso	nome masculino	re|[ves]|so
+revestido	adjetivo	re|ves|[ti]|do
+revestidor	adjetivo	re|ves|ti|[dor]
+revestidor	nome masculino	re|ves|ti|[dor]
+revestidura	nome feminino	re|ves|ti|[du]|ra
+revestimento	nome masculino	re|ves|ti|[men]|to
+revestir	verbo	re|ves|[tir]
+revestível	adjetivo	re|ves|[tí]|vel
+revezadamente	advérbio	re|ve|za|da|[men]|te
+revezado	adjetivo	re|ve|[za]|do
+revezador	adjetivo	re|ve|za|[dor]
+revezador	nome masculino	re|ve|za|[dor]
+revezamento	nome masculino	re|ve|za|[men]|to
+revezar	verbo	re|ve|[zar]
+revezável	adjetivo	re|ve|[zá]|vel
+revezeiro	nome masculino	re|ve|[zei]|ro
+revezes	nome feminino	re|[ve]|zes
+revezo	nome masculino	re|[ve]|zo
+revibração	nome feminino	re|vi|bra|[ção]
+revibrar	verbo	re|vi|[brar]
+reviçamento	nome masculino	re|vi|ça|[men]|to
+reviçar	verbo	re|vi|[çar]
+reviço	nome masculino	re|[vi]|ço
+revida	adjetivo	re|[vi]|da
+revidação	nome feminino	re|vi|da|[ção]
+revidar	verbo	re|vi|[dar]
+revide	nome masculino	re|[vi]|de
+revido	nome masculino	re|[vi]|do
+revienga	nome feminino	re|vi|[en]|ga
+revigoração	nome feminino	re|vi|go|ra|[ção]
+revigorador	adjetivo	re|vi|go|ra|[dor]
+revigoramento	nome masculino	re|vi|go|ra|[men]|to
+revigorante	adjetivo	re|vi|go|[ran]|te
+revigorar	verbo	re|vi|go|[rar]
+revigorável	adjetivo	re|vi|go|[rá]|vel
+revigorização	nome feminino	re|vi|go|ri|za|[ção]
+revigorizador	adjetivo	re|vi|go|ri|za|[dor]
+revigorizante	adjetivo	re|vi|go|ri|[zan]|te
+revigorizar	verbo	re|vi|go|ri|[zar]
+revigorizável	adjetivo	re|vi|go|ri|[zá]|vel

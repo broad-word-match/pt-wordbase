@@ -1,0 +1,100 @@
+toró	adjetivo	to|[ró]
+toroidal	adjetivo	to|roi|[dal]
+toroneu	adjetivo	to|ro|[neu]
+toroneu	nome masculino	to|ro|[neu]
+toronja	nome feminino	to|[ron]|ja
+toropixi	nome masculino	to|ro|pi|[xi]
+tororó	adjetivo	to|ro|[ró]
+tororoma	nome feminino	to|ro|[ro]|ma
+toroso	adjetivo	to|[ro]|so
+torpe	adjetivo	[tor]|pe
+torpecer	verbo	tor|pe|[cer]
+torpedeamento	nome masculino	tor|pe|de|a|[men]|to
+torpedear	verbo	tor|pe|de|[ar]
+torpedeira	nome feminino	tor|pe|[dei]|ra
+torpedeiro	adjetivo	tor|pe|[dei]|ro
+torpedeiro	nome masculino	tor|pe|[dei]|ro
+torpedínida	nome masculino	tor|pe|[dí]|ni|da
+torpedinídeo	nome masculino	tor|pe|di|[ní]|de|o
+torpedinídeo	nome masculino	tor|pe|di|[ní]|de|o
+torpedinídeo	adjetivo	tor|pe|di|[ní]|de|o
+torpedo	nome masculino	tor|[pe]|do
+torpemente	advérbio	tor|pe|[men]|te
+torpente	adjetivo	tor|[pen]|te
+torpeza	nome feminino	tor|[pe]|za
+torpidade	nome feminino	tor|pi|[da]|de
+tórpido	adjetivo	[tór]|pi|do
+torpilha	nome feminino	tor|[pi]|lha
+torpitude	nome feminino	tor|pi|[tu]|de
+torpor	nome masculino	tor|[por]
+torquaz	adjetivo	tor|[quaz]
+torquaz	nome masculino	tor|[quaz]
+torquaz	nome feminino	tor|[quaz]
+torque	nome masculino	[tor]|que
+torquês	nome feminino	tor|[quês]
+torquesada	nome feminino	tor|que|[sa]|da
+torr	nome masculino	[torr]
+torra	nome feminino	[tor]|ra
+torração	nome feminino	tor|ra|[ção]
+torrada	nome feminino	tor|[ra]|da
+torradeira	nome feminino	tor|ra|[dei]|ra
+torrado	adjetivo	tor|[ra]|do
+torrado	nome masculino	tor|[ra]|do
+torrador	nome masculino	tor|ra|[dor]
+torragem	nome feminino	tor|[ra]|gem
+torralhão	nome masculino	tor|ra|[lhão]
+torrão	nome masculino	tor|[rão]
+torrão de Alicante	nome masculino	tor|rão de A|li|can|te
+torrão-de-açúcar	nome masculino	tor|rão-de-a|[çú]|car
+torrar	verbo	tor|[rar]
+torre	nome feminino	[tor]|re
+torreado	adjetivo	tor|re|[a]|do
+torreame	nome masculino	tor|re|[a]|me
+torreante	adjetivo	tor|re|[an]|te
+torreão	nome masculino	tor|re|[ão]
+torrear	verbo	tor|re|[ar]
+torrefação	nome feminino	tor|re|fa|[ção]
+torrefacção	nome feminino	tor|re|fac|[ção]
+torrefacto	adjetivo	tor|re|[fac]|to
+torrefactor	adjetivo	tor|re|fac|[tor]
+torrefactor	nome masculino	tor|re|fac|[tor]
+torrefato	adjetivo	tor|re|[fa]|to
+torrefator	adjetivo	tor|re|fa|[tor]
+torrefator	nome masculino	tor|re|fa|[tor]
+torrefazer	verbo	tor|re|fa|[zer]
+torrefeito	adjetivo	tor|re|[fei]|to
+torreira	nome feminino	tor|[rei]|ra
+torrejana	nome feminino	tor|re|[ja]|na
+torrejano	adjetivo	tor|re|[ja]|no
+torrejano	nome masculino	tor|re|[ja]|no
+torrejão	nome masculino	tor|re|[jão]
+torrejar	verbo	tor|re|[jar]
+torrela	nome feminino	tor|[re]|la
+torrencial	adjetivo	tor|ren|ci|[al]
+torrencialismo	nome masculino	tor|ren|ci|a|[lis]|mo
+torrencialmente	advérbio	tor|ren|ci|al|[men]|te
+torrente	nome feminino	tor|[ren]|te
+torrentoso	adjetivo	tor|ren|[to]|so
+torresã	nome feminino	tor|re|[sã]
+torresão	adjetivo	tor|re|[são]
+torresão	nome masculino	tor|re|[são]
+torresmada	nome feminino	tor|res|[ma]|da
+torresmo	nome masculino	tor|[res]|mo
+torreta	nome feminino	tor|[re]|ta
+torrezão	nome masculino	tor|re|[zão]
+torriana	nome feminino	tor|ri|[a]|na
+torriano	adjetivo	tor|ri|[a]|no
+torriano	nome masculino	tor|ri|[a]|no
+tórrido	adjetivo	[tór]|ri|do
+torriense	nome masculino	tor|ri|[en]|se
+torriense	adjetivo	tor|ri|[en]|se
+torriense	nome feminino	tor|ri|[en]|se
+torrificação	nome feminino	tor|ri|fi|ca|[ção]
+torrificado	adjetivo	tor|ri|fi|[ca]|do
+torrificador	adjetivo	tor|ri|fi|ca|[dor]
+torrificador	nome masculino	tor|ri|fi|ca|[dor]
+torrificar	verbo	tor|ri|fi|[car]
+torrígero	adjetivo	tor|[rí]|ge|ro
+torrija	nome feminino	tor|[ri]|ja
+torrinha	nome feminino	tor|[ri]|nha
+torrinheira	nome feminino	tor|ri|[nhei]|ra

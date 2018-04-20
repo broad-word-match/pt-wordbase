@@ -1,0 +1,100 @@
+maillot	nome masculino	mail|lot
+mailo	contração	[mai]|lo
+maimbu	nome masculino	ma|im|[bu]
+maimona	nome feminino	mai|[mo]|na
+mainata	nome masculino	mai|[na]|ta
+mainate	nome masculino	mai|[na]|te
+mainato	nome masculino	mai|[na]|to
+mainça	nome feminino	ma|[in]|ça
+mainel	nome masculino	mai|[nel]
+mainelado	adjetivo	mai|ne|[la]|do
+mainelandês	adjetivo	mai|ne|lan|[dês]
+mainelandês	nome masculino	mai|ne|lan|[dês]
+mainframe	nome masculino	main|fra|me
+mainibu	nome masculino	mai|ni|[bu]
+mainstream	adjetivo	ma|ins|[tre]|am
+maio	adjetivo	[mai]|o
+maiô	nome masculino	[maiô]
+maio	nome masculino	[mai]|o
+maiobá	nome masculino	mai|o|[bá]
+maiólica	nome feminino	mai|[ó]|li|ca
+maiólica	adjetivo	mai|[ó]|li|ca
+maiombe	nome masculino	mai|[om]|be
+maiombe	adjetivo	mai|[om]|be
+maiombe	nome feminino	mai|[om]|be
+maiombola	nome feminino	mai|om|[bo]|la
+maionese	nome feminino	mai|o|[ne]|se
+maior	adjetivo	mai|[or]
+maior	nome masculino	mai|[or]
+maioral	nome masculino	mai|o|[ral]
+maiorana	nome feminino	mai|o|[ra]|na
+maiorca	nome feminino	mai|[or]|ca
+maioria	nome feminino	mai|o|[ri]|a
+maioridade	nome feminino	mai|o|ri|[da]|de
+maiorino	nome masculino	mai|o|[ri]|no
+maioríssimo	adjetivo	mai|o|[rís]|si|mo
+maiorista	adjetivo	mai|o|[ris]|ta
+maiorista	nome masculino	mai|o|[ris]|ta
+maiorista	nome feminino	mai|o|[ris]|ta
+maioritariamente	advérbio	mai|o|ri|ta|ri|a|[men]|te
+maioritário	adjetivo	mai|o|ri|[tá]|ri|o
+maiormente	advérbio	mai|or|[men]|te
+maiorquino	adjetivo	mai|or|[qui]|no
+maiorquino	nome masculino	mai|or|[qui]|no
+maiosia	nome feminino	mai|o|[si]|a
+maiozinho	adjetivo	mai|o|[zi]|nho
+maipoca	nome feminino	mai|[po]|ca
+maipuré	nome masculino	mai|pu|[ré]
+maire	nome feminino	[mai]|re
+mais	preposição	[mais]
+mais	conjunção	[mais]
+maís	nome masculino	ma|[ís]
+mais	nome masculino	[mais]
+mais	advérbio	[mais]
+mais	artigo indefinido	[mais]
+mais	pronome indefinido	[mais]
+mais-que-perfeito	adjetivo	mais-que-per|[fei]|to
+mais-que-perfeito	nome masculino	mais-que-per|[fei]|to
+mais-que-tudo	nome masculino	mais-que-tu|do
+mais-que-tudo	nome feminino	mais-que-tu|do
+mais-querer	verbo	mais-que|[rer]
+mais-valia	nome feminino	mais-va|[li]|a
+mais-velho	nome masculino	mais-ve|lho
+maisal	nome masculino	mai|[sal]
+maisena	nome feminino	mai|[se]|na
+maitá	nome feminino	mai|[tá]
+maitaca	nome feminino	mai|[ta]|ca
+maître	nome feminino	[maî]|tre
+maituca	nome feminino	mai|[tu]|ca
+maiuíra	nome feminino	mai|u|[í]|ra
+maiumbela	nome feminino	mai|um|[be]|la
+maiúscula	nome feminino	mai|[ús]|cu|la
+maiusculamente	advérbio	mai|us|cu|la|[men]|te
+maiusculizar	verbo	mai|us|cu|li|[zar]
+maiúsculo	adjetivo	mai|[ús]|cu|lo
+majaricão	nome masculino	ma|ja|ri|[cão]
+majarico	nome masculino	ma|ja|[ri]|co
+majengro	nome masculino	ma|[jen]|gro
+majerico	nome masculino	ma|je|[ri]|co
+majerioba	nome feminino	ma|je|ri|[o]|ba
+majestade	nome feminino	ma|jes|[ta]|de
+majestaticamente	advérbio	ma|jes|ta|ti|ca|[men]|te
+majestático	adjetivo	ma|jes|[tá]|ti|co
+majestosamente	advérbio	ma|jes|to|sa|[men]|te
+majestosidade	nome feminino	ma|jes|to|si|[da]|de
+majestoso	adjetivo	ma|jes|[to]|so
+majoeira	nome feminino	ma|jo|[ei]|ra
+majólica	nome feminino	ma|[jó]|li|ca
+majongue	nome masculino	ma|[jon]|gue
+major	adjetivo	ma|[jor]
+major	nome masculino	ma|[jor]
+major	nome feminino	ma|[jor]
+major-general	nome masculino	ma|jor-ge|ne|[ral]
+majoração	nome feminino	ma|jo|ra|[ção]
+majorana	nome feminino	ma|jo|[ra]|na
+majorante	nome masculino	ma|jo|[ran]|te
+majorar	verbo	ma|jo|[rar]
+majorete	nome feminino	ma|jo|[re]|te
+majorette	nome feminino	ma|jo|ret|te
+majoria	nome feminino	ma|jo|[ri]|a
+majoritário	adjetivo	ma|jo|ri|[tá]|ri|o

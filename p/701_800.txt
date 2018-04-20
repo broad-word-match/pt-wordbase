@@ -1,0 +1,100 @@
+palhoça	nome feminino	pa|[lho]|ça
+palhoceiro	nome masculino	pa|lho|[cei]|ro
+palhoso	adjetivo	pa|[lho]|so
+palhota	nome feminino	pa|[lho]|ta
+palhote	nome masculino	pa|[lho]|te
+palhuço	nome masculino	pa|[lhu]|ço
+páli	adjetivo	[pá]|li
+páli	nome masculino	[pá]|li
+paliação	nome feminino	pa|li|a|[ção]
+paliador	adjetivo	pa|li|a|[dor]
+paliador	nome masculino	pa|li|a|[dor]
+paliar	verbo	pa|li|[ar]
+paliata	adjetivo	pa|li|[a]|ta
+paliata	nome feminino	pa|li|[a]|ta
+paliativo	adjetivo	pa|li|a|[ti]|vo
+paliativo	nome masculino	pa|li|a|[ti]|vo
+paliável	adjetivo	pa|li|[á]|vel
+palibotro	adjetivo	pa|li|[bo]|tro
+palibotro	nome masculino	pa|li|[bo]|tro
+paliçada	nome feminino	pa|li|[ça]|da
+palicano	nome masculino	pa|li|[ca]|no
+palicano	adjetivo	pa|li|[ca]|no
+palicário	nome masculino	pa|li|[cá]|ri|o
+palicinesia	nome feminino	pa|li|ci|ne|[si]|a
+palico	adjetivo	pa|[li]|co
+palico	nome masculino	pa|[li]|co
+palidamente	advérbio	pa|li|da|[men]|te
+palidejar	verbo	pa|li|de|[jar]
+palidez	nome feminino	pa|li|[dez]
+pálido	adjetivo	[pá]|li|do
+palifemia	nome feminino	pa|li|fe|[mi]|a
+palificação	nome feminino	pa|li|fi|ca|[ção]
+palificar	verbo	pa|li|fi|[car]
+paligorsquite	nome feminino	pa|li|gors|[qui]|te
+paligrafia	nome feminino	pa|li|gra|[fi]|a
+palilalia	nome feminino	pa|li|la|[li]|a
+palilálico	adjetivo	pa|li|[lá]|li|co
+palilho	nome masculino	pa|[li]|lho
+palilo	nome masculino	pa|[li]|lo
+palilogia	nome feminino	pa|li|lo|[gi]|a
+palilógico	adjetivo	pa|li|[ló]|gi|co
+palimbáquio	adjetivo	pa|lim|[bá]|qui|o
+palimbáquio	nome masculino	pa|lim|[bá]|qui|o
+palimpséstico	adjetivo	pa|limp|[sés]|ti|co
+palimpsesto	nome masculino	pa|limp|[ses]|to
+palindromia	nome feminino	pa|lin|dro|[mi]|a
+palindrómico	adjetivo	pa|lin|[dró]|mi|co
+palindrômico	adjetivo	pa|lin|[drô]|mi|co
+palíndromo	adjetivo	pa|[lín]|dro|mo
+palíndromo	nome masculino	pa|[lín]|dro|mo
+palinfrasia	nome feminino	pa|lin|fra|[si]|a
+palingénese	nome feminino	pa|lin|[gé]|ne|se
+palingênese	nome feminino	pa|lin|[gê]|ne|se
+palingenesia	nome feminino	pa|lin|ge|ne|[si]|a
+palingenésico	adjetivo	pa|lin|ge|[né]|si|co
+palingenético	adjetivo	pa|lin|ge|[né]|ti|co
+palinódia	nome feminino	pa|li|[nó]|di|a
+palinódico	adjetivo	pa|li|[nó]|di|co
+palinodista	nome masculino	pa|li|no|[dis]|ta
+palinodista	nome feminino	pa|li|no|[dis]|ta
+palinologia	nome feminino	pa|li|no|lo|[gi]|a
+palinológico	adjetivo	pa|li|no|[ló]|gi|co
+palinúrida	nome masculino	pa|li|[nú]|ri|da
+palinurídea	nome feminino	pa|li|nu|[rí]|de|a
+palinurídeo	nome masculino	pa|li|nu|[rí]|de|o
+palinurídeo	nome masculino	pa|li|nu|[rí]|de|o
+palinurídeo	adjetivo	pa|li|nu|[rí]|de|o
+palinuro	nome masculino	pa|li|[nu]|ro
+pálio	nome masculino	[pá]|li|o
+paliobrânquio	adjetivo	pa|li|o|[brân]|qui|o
+paliopsia	nome feminino	pa|li|op|[si]|a
+palirreógrafo	nome masculino	pa|lir|re|[ó]|gra|fo
+palissandro	nome masculino	pa|lis|[san]|dro
+palitar	verbo	pa|li|[tar]
+paliteira	nome feminino	pa|li|[tei]|ra
+paliteiro	nome masculino	pa|li|[tei]|ro
+palito	nome masculino	pa|[li]|to
+paliúro	nome masculino	pa|li|[ú]|ro
+palma	nome feminino	[pal]|ma
+palma-crísti	nome feminino	pal|ma-crís|ti
+palma-de-cristo	nome feminino	pal|ma-de-cris|to
+palma-de-santa-rita	nome feminino	pal|ma-de-san|ta-ri|ta
+palma-de-são-josé	nome feminino	pal|ma-de-são-jo|[sé]
+palmácea	nome feminino	pal|[má]|ce|a
+palmáceo	adjetivo	pal|[má]|ce|o
+palmada	nome feminino	pal|[ma]|da
+palmadinha	nome feminino	pal|ma|[di]|nha
+palmado	adjetivo	pal|[ma]|do
+palmanço	nome masculino	pal|[man]|ço
+palmar	adjetivo	pal|[mar]
+palmar	nome masculino	pal|[mar]
+palmar	verbo	pal|[mar]
+palmarés	nome masculino	pal|ma|[rés]
+palmares	nome masculino	pal|[ma]|res
+palmário	nome masculino	pal|[má]|ri|o
+palmatífido	adjetivo	pal|ma|[tí]|fi|do
+palmatifloro	adjetivo	pal|ma|ti|[flo]|ro
+palmatifoliado	adjetivo	pal|ma|ti|fo|li|[a]|do
+palmatiforme	adjetivo	pal|ma|ti|[for]|me
+palmatilobado	adjetivo	pal|ma|ti|lo|[ba]|do

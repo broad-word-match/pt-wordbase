@@ -1,0 +1,100 @@
+chamo	nome masculino	[cha]|mo
+chamorro	nome masculino	cha|[mor]|ro
+chamorro	adjetivo	cha|[mor]|ro
+chamotim	nome masculino	cha|mo|[tim]
+champá	adjetivo	cham|[pá]
+champá	nome masculino	cham|[pá]
+champa	nome feminino	[cham]|pa
+champá	nome feminino	cham|[pá]
+champaca	nome feminino	cham|[pa]|ca
+champagne	nome masculino	cham|pa|gne
+champana	nome feminino	cham|[pa]|na
+champanha	nome masculino	cham|[pa]|nha
+champanhe	nome masculino	cham|[pa]|nhe
+champanhês	adjetivo	cham|pa|[nhês]
+champanhês	nome masculino	cham|pa|[nhês]
+champanhesa	nome feminino	cham|pa|[nhe]|sa
+champanhização	nome feminino	cham|pa|nhi|za|[ção]
+champanhizar	verbo	cham|pa|nhi|[zar]
+champe	nome masculino	[cham]|pe
+champignon	nome masculino	cham|pi|gnon
+champil	nome masculino	cham|[pil]
+champô	nome masculino	cham|[pô]
+champó	nome masculino	cham|[pó]
+champorreado	adjetivo	cham|por|re|[a]|do
+champorrear	verbo	cham|por|re|[ar]
+champurrião	nome masculino	cham|pur|ri|[ão]
+champúrrio	nome masculino	cham|[púr]|ri|o
+chamuar	nome masculino	cha|mu|[ar]
+chamusca	nome feminino	cha|[mus]|ca
+chamuscada	nome feminino	cha|mus|[ca]|da
+chamuscadela	nome feminino	cha|mus|ca|[de]|la
+chamuscadoiro	nome masculino	cha|mus|ca|[doi]|ro
+chamuscador	adjetivo	cha|mus|ca|[dor]
+chamuscador	nome masculino	cha|mus|ca|[dor]
+chamuscadouro	nome masculino	cha|mus|ca|[dou]|ro
+chamuscadura	nome feminino	cha|mus|ca|[du]|ra
+chamuscamento	nome masculino	cha|mus|ca|[men]|to
+chamuscar	verbo	cha|mus|[car]
+chamusco	nome masculino	cha|[mus]|co
+chamusquense	nome masculino	cha|mus|[quen]|se
+chamusquense	adjetivo	cha|mus|[quen]|se
+chamusquense	nome feminino	cha|mus|[quen]|se
+chana	nome feminino	[cha]|na
+chanato	nome masculino	cha|[na]|to
+chança	nome feminino	[chan]|ça
+chanca	nome feminino	[chan]|ca
+chancada	nome feminino	chan|[ca]|da
+chançarel	nome masculino	chan|ça|[rel]
+chançarina	nome feminino	chan|ça|[ri]|na
+chançarona	nome feminino	chan|ça|[ro]|na
+chance	nome feminino	[chan]|ce
+chanceador	adjetivo	chan|ce|a|[dor]
+chanceador	nome masculino	chan|ce|a|[dor]
+chancear	verbo	chan|ce|[ar]
+chanceiro	adjetivo	chan|[cei]|ro
+chancela	nome feminino	chan|[ce]|la
+chancelar	verbo	chan|ce|[lar]
+chancelaria	nome feminino	chan|ce|la|[ri]|a
+chanceler	nome masculino	chan|ce|[ler]
+chanceler-mor	nome masculino	chan|ce|ler-mor
+chanchã	nome masculino	chan|[chã]
+chanço	nome masculino	[chan]|ço
+chançudo	adjetivo	chan|[çu]|do
+chancudo	adjetivo	chan|[cu]|do
+chaneza	nome feminino	cha|[ne]|za
+chanfalhada	nome feminino	chan|fa|[lha]|da
+chanfalhão	adjetivo	chan|fa|[lhão]
+chanfalhão	nome masculino	chan|fa|[lhão]
+chanfalhar	verbo	chan|fa|[lhar]
+chanfalheiro	nome masculino	chan|fa|[lhei]|ro
+chanfalhice	nome feminino	chan|fa|[lhi]|ce
+chanfalho	nome masculino	chan|[fa]|lho
+chanfana	nome feminino	chan|[fa]|na
+chanfanada	nome feminino	chan|fa|[na]|da
+chanfaneiro	nome masculino	chan|fa|[nei]|ro
+chanfrado	adjetivo	chan|[fra]|do
+chanfrador	nome masculino	chan|fra|[dor]
+chanfradura	nome feminino	chan|fra|[du]|ra
+chanfrar	verbo	chan|[frar]
+chanfreta	nome feminino	chan|[fre]|ta
+chanfro	nome masculino	[chan]|fro
+chanfuta	nome feminino	chan|[fu]|ta
+changa	nome feminino	[chan]|ga
+changador	nome masculino	chan|ga|[dor]
+changana	adjetivo	chan|[ga]|na
+changana	nome masculino	chan|[ga]|na
+changana	nome feminino	chan|[ga]|na
+changar	verbo	chan|[gar]
+changuear	verbo	chan|gue|[ar]
+changueirar	verbo	chan|guei|[rar]
+changueiro	nome masculino	chan|[guei]|ro
+changui	nome masculino	chan|[gui]
+chaníssimo	adjetivo	cha|[nís]|si|mo
+chanquear	verbo	chan|que|[ar]
+chanqueiro	nome masculino	chan|[quei]|ro
+chanqueiro	adjetivo	chan|[quei]|ro
+chanqueta	nome masculino	chan|[que]|ta
+chanqueta	nome feminino	chan|[que]|ta
+chanta	nome feminino	[chan]|ta
+chantadura	nome feminino	chan|ta|[du]|ra

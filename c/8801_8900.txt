@@ -1,0 +1,100 @@
+chaviano	adjetivo	cha|vi|[a]|no
+chaviano	nome masculino	cha|vi|[a]|no
+chavo	nome masculino	[cha]|vo
+chazada	nome feminino	cha|[za]|da
+chazeiro	nome masculino	cha|[zei]|ro
+chazeiro	adjetivo	cha|[zei]|ro
+chazista	adjetivo	cha|[zis]|ta
+ché	interjeição	[ché]
+chê	interjeição	[chê]
+ché	nome masculino	[ché]
+cheadas	nome feminino	che|[a]|das
+chebê	nome masculino	che|[bê]
+checa	nome masculino	[che]|ca
+checa	nome feminino	[che]|ca
+chechena	nome feminino	che|[che]|na
+checheno	adjetivo	che|[che]|no
+checheno	nome masculino	che|[che]|no
+check-in	nome masculino	[check-in]
+check-up	nome masculino	[check-up]
+checkout	nome masculino	chec|kout
+checkpoint	nome masculino	[check]|point
+checo	adjetivo	[che]|co
+checo	nome masculino	[che]|co
+checoslovaca	nome feminino	che|cos|lo|[va]|ca
+checoslovaco	adjetivo	che|cos|lo|[va]|co
+checoslovaco	nome masculino	che|cos|lo|[va]|co
+cheda	nome feminino	[che]|da
+chedas	nome masculino	[che]|das
+cheddar	nome masculino	[ched]|dar
+chede	nome masculino	[che]|de
+chedeiro	nome masculino	che|[dei]|ro
+chedite	nome feminino	che|[di]|te
+chedre	nome masculino	[che]|dre
+cheeseburger	nome masculino	[chee]|se|bur|ger
+cheesecake	nome masculino	chee|se|ca|ke
+chefado	nome masculino	che|[fa]|do
+chefão	nome masculino	che|[fão]
+chefão	adjetivo	che|[fão]
+chefatura	nome feminino	che|fa|[tu]|ra
+chefe	nome masculino	[che]|fe
+chefe	nome feminino	[che]|fe
+chefe de fila	nome masculino	[che]|fe de fi|la
+chefete	nome masculino	che|[fe]|te
+chefia	nome feminino	che|[fi]|a
+chefiar	verbo	che|fi|[ar]
+chefona	nome feminino	che|[fo]|na
+chega	nome feminino	[che]|ga
+chega	interjeição	[che]|ga
+chegada	nome feminino	che|[ga]|da
+chegadeira	nome feminino	che|ga|[dei]|ra
+chegadela	nome feminino	che|ga|[de]|la
+chegadiça	nome feminino	che|ga|[di]|ça
+chegadiço	adjetivo	che|ga|[di]|ço
+chegadiço	nome masculino	che|ga|[di]|ço
+chegado	adjetivo	che|[ga]|do
+chegador	nome masculino	che|ga|[dor]
+chegamento	nome masculino	che|ga|[men]|to
+chegança	nome feminino	che|[gan]|ça
+cheganço	nome masculino	che|[gan]|ço
+chegante	adjetivo	che|[gan]|te
+chegante	nome masculino	che|[gan]|te
+chegante	nome feminino	che|[gan]|te
+chegar	verbo	che|[gar]
+chegável	adjetivo	che|[gá]|vel
+chego	nome masculino	[che]|go
+cheia	nome feminino	[chei]|a
+cheide	nome masculino	[chei]|de
+cheiinho	adjetivo	chei|[i]|nho
+cheiito	adjetivo	chei|[i]|to
+cheio	nome masculino	[chei]|o
+cheio	adjetivo	[chei]|o
+cheira	nome masculino	[chei]|ra
+cheira	nome feminino	[chei]|ra
+cheira-fraldas	nome masculino	chei|ra-fral|das
+cheiradeira	nome feminino	chei|ra|[dei]|ra
+cheirador	adjetivo	chei|ra|[dor]
+cheirador	nome masculino	chei|ra|[dor]
+cheirante	adjetivo	chei|[ran]|te
+cheirar	verbo	chei|[rar]
+cheirável	adjetivo	chei|[rá]|vel
+cheireta	nome masculino	chei|[re]|ta
+cheireta	nome feminino	chei|[re]|ta
+cheirete	nome masculino	chei|[re]|te
+cheiricar	verbo	chei|ri|[car]
+cheirinha	nome masculino	chei|[ri]|nha
+cheirinha	nome feminino	chei|[ri]|nha
+cheirinho	nome masculino	chei|[ri]|nho
+cheiro	nome masculino	[chei]|ro
+cheiroga	nome feminino	chei|[ro]|ga
+cheirosa	nome feminino	chei|[ro]|sa
+cheiroso	adjetivo	chei|[ro]|so
+cheirum	nome masculino	chei|[rum]
+chela	nome feminino	[che]|la
+chela	nome masculino	[che]|la
+cheldra	nome feminino	[chel]|dra
+cheleira	nome feminino	che|[lei]|ra
+cheleme	nome masculino	che|[le]|me
+chelique	nome masculino	che|[li]|que
+chelpa	nome feminino	[chel]|pa
+chelpudo	adjetivo	chel|[pu]|do

@@ -1,0 +1,100 @@
+capinete	nome masculino	ca|pi|[ne]|te
+capinha	nome masculino	ca|[pi]|nha
+capinha	nome feminino	ca|[pi]|nha
+capinzal	nome masculino	ca|pin|[zal]
+capiongo	adjetivo	ca|pi|[on]|go
+capirote	nome masculino	ca|pi|[ro]|te
+capirote	adjetivo	ca|pi|[ro]|te
+capiroto	nome masculino	ca|pi|[ro]|to
+capiscar	verbo	ca|pis|[car]
+capissaio	nome masculino	ca|pis|[sai]|o
+capista	nome masculino	ca|[pis]|ta
+capistração	nome feminino	ca|pis|tra|[ção]
+capistrar	verbo	ca|pis|[trar]
+capistro	nome masculino	ca|[pis]|tro
+capitã	nome feminino	ca|pi|[tã]
+capitação	nome feminino	ca|pi|ta|[ção]
+capitado	adjetivo	ca|pi|[ta]|do
+capitado	nome masculino	ca|pi|[ta]|do
+capitaina	nome feminino	ca|pi|[tai]|na
+capital	nome masculino	ca|pi|[tal]
+capital	adjetivo	ca|pi|[tal]
+capital	nome feminino	ca|pi|[tal]
+capitalado	nome masculino	ca|pi|ta|[la]|do
+capitalidade	nome feminino	ca|pi|ta|li|[da]|de
+capitalino	adjetivo	ca|pi|ta|[li]|no
+capitalismo	nome masculino	ca|pi|ta|[lis]|mo
+capitalista	adjetivo	ca|pi|ta|[lis]|ta
+capitalista	nome masculino	ca|pi|ta|[lis]|ta
+capitalista	nome feminino	ca|pi|ta|[lis]|ta
+capitalístico	adjetivo	ca|pi|ta|[lís]|ti|co
+capitalização	nome feminino	ca|pi|ta|li|za|[ção]
+capitalizar	verbo	ca|pi|ta|li|[zar]
+capitalizável	adjetivo	ca|pi|ta|li|[zá]|vel
+capitalmente	advérbio	ca|pi|tal|[men]|te
+capitamento	nome masculino	ca|pi|ta|[men]|to
+capitana	nome feminino	ca|pi|[ta]|na
+capitanear	verbo	ca|pi|ta|ne|[ar]
+capitango	nome masculino	ca|pi|[tan]|go
+capitânia	nome feminino	ca|pi|[tâ]|ni|a
+capitânia	adjetivo	ca|pi|[tâ]|ni|a
+capitania	nome feminino	ca|pi|ta|[ni]|a
+capitania-mor	nome feminino	ca|pi|ta|ni|a-mor
+capitão	nome masculino	ca|pi|[tão]
+capitão	nome feminino	ca|pi|[tão]
+capitão de bandeira	nome masculino	ca|pi|tão de ban|dei|ra
+capitão de corveta	nome masculino	ca|pi|tão de cor|ve|ta
+capitão de fragata	nome masculino	ca|pi|tão de fra|ga|ta
+capitão de mar e guerra	nome masculino	ca|pi|tão de mar e guer|ra
+capitão do mato	nome masculino	ca|pi|tão do ma|to
+capitão-de-bigode	nome masculino	ca|pi|tão-de-bi|[go]|de
+capitão-mor	nome masculino	ca|pi|tão-mor
+capitão-tenente	nome masculino	ca|pi|tão-te|[nen]|te
+capitar	verbo	ca|pi|[tar]
+capitari	nome masculino	ca|pi|ta|[ri]
+capitato	adjetivo	ca|pi|[ta]|to
+capitel	nome masculino	ca|pi|[tel]
+capitia	nome masculino	ca|pi|[ti]|a
+capitia	nome feminino	ca|pi|[ti]|a
+capitiforme	adjetivo	ca|pi|ti|[for]|me
+capitilúvio	nome masculino	ca|pi|ti|[lú]|vi|o
+capitoa	nome feminino	ca|pi|[to]|a
+capitoa	adjetivo	ca|pi|[to]|a
+capitol	nome masculino	ca|pi|[tol]
+capitolina	nome feminino	ca|pi|to|[li]|na
+capitolino	adjetivo	ca|pi|to|[li]|no
+capitólio	nome masculino	ca|pi|[tó]|li|o
+capitonê	adjetivo	ca|pi|to|[nê]
+capitosamente	advérbio	ca|pi|to|sa|[men]|te
+capitoso	adjetivo	ca|pi|[to]|so
+capituba	nome feminino	ca|pi|[tu]|ba
+capítula	nome feminino	ca|[pí]|tu|la
+capitulação	nome feminino	ca|pi|tu|la|[ção]
+capitulada	nome feminino	ca|pi|tu|[la]|da
+capitulador	nome masculino	ca|pi|tu|la|[dor]
+capitulante	adjetivo	ca|pi|tu|[lan]|te
+capitulante	nome masculino	ca|pi|tu|[lan]|te
+capitulante	nome feminino	ca|pi|tu|[lan]|te
+capitular	verbo	ca|pi|tu|[lar]
+capitular	adjetivo	ca|pi|tu|[lar]
+capitulares	nome feminino	ca|pi|tu|[la]|res
+capitulário	nome masculino	ca|pi|tu|[lá]|ri|o
+capitularmente	advérbio	ca|pi|tu|lar|[men]|te
+capituleiro	nome masculino	ca|pi|tu|[lei]|ro
+capituliforme	adjetivo	ca|pi|tu|li|[for]|me
+capítulo	nome masculino	ca|[pí]|tu|lo
+capituva	nome feminino	ca|pi|[tu]|va
+capivara	nome feminino	ca|pi|[va]|ra
+capixaba	adjetivo	ca|pi|[xa]|ba
+capixaba	nome masculino	ca|pi|[xa]|ba
+capixaba	nome feminino	ca|pi|[xa]|ba
+capixim	nome masculino	ca|pi|[xim]
+capixingui	nome masculino	ca|pi|xin|[gui]
+capnófugo	adjetivo	cap|[nó]|fu|go
+capnomancia	nome feminino	cap|no|man|[ci]|a
+capnomante	nome masculino	cap|no|[man]|te
+capnomante	nome feminino	cap|no|[man]|te
+capnomântico	adjetivo	cap|no|[mân]|ti|co
+capô	nome masculino	ca|[pô]
+capoca	nome feminino	ca|[po]|ca
+capoeira	nome feminino	ca|po|[ei]|ra

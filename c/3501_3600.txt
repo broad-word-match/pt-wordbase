@@ -1,0 +1,100 @@
+cantarejar	verbo	can|ta|re|[jar]
+cantarejo	nome masculino	can|ta|[re]|jo
+cantaria	nome feminino	can|ta|[ri]|a
+cantaricar	verbo	can|ta|ri|[car]
+cantárida	nome feminino	can|[tá]|ri|da
+cantaridal	adjetivo	can|ta|ri|[dal]
+cantaridar	verbo	can|ta|ri|[dar]
+cantaridato	nome masculino	can|ta|ri|[da]|to
+cantáride	nome feminino	can|[tá]|ri|de
+cantarídeo	adjetivo	can|ta|[rí]|de|o
+cantarídeo	nome masculino	can|ta|[rí]|de|o
+cantarídico	adjetivo	can|ta|[rí]|di|co
+cantaridina	nome feminino	can|ta|ri|[di]|na
+cantaridismo	nome masculino	can|ta|ri|[dis]|mo
+cantaril	nome masculino	can|ta|[ril]
+cantaril	adjetivo	can|ta|[ril]
+cantarilha	nome masculino	can|ta|[ri]|lha
+cantarilha	nome feminino	can|ta|[ri]|lha
+cantarilho	nome masculino	can|ta|[ri]|lho
+cantarinha	nome feminino	can|ta|[ri]|nha
+cantarino	nome masculino	can|ta|[ri]|no
+cantarista	nome masculino	can|ta|[ris]|ta
+cantariz	nome masculino	can|ta|[riz]
+cântaro	nome masculino	[cân]|ta|ro
+cantarola	nome feminino	can|ta|[ro]|la
+cantarolante	adjetivo	can|ta|ro|[lan]|te
+cantarolar	verbo	can|ta|ro|[lar]
+cantarolável	adjetivo	can|ta|ro|[lá]|vel
+cantata	nome feminino	can|[ta]|ta
+cantatriz	nome feminino	can|ta|[triz]
+cantável	adjetivo	can|[tá]|vel
+canté	interjeição	can|[té]
+canteira	nome feminino	can|[tei]|ra
+canteiro	nome masculino	can|[tei]|ro
+cantés	interjeição	can|[tés]
+cântico	nome masculino	[cân]|ti|co
+cantiga	nome feminino	can|[ti]|ga
+cantil	nome masculino	can|[til]
+cantilena	nome feminino	can|ti|[le]|na
+cantimplora	nome feminino	can|tim|[plo]|ra
+cantina	nome feminino	can|[ti]|na
+cantina-refeitório	nome feminino	can|ti|na-re|fei|[tó]|ri|o
+cantineira	nome feminino	can|ti|[nei]|ra
+cantineiro	nome masculino	can|ti|[nei]|ro
+cantinho	nome masculino	can|[ti]|nho
+cantinhos	nome masculino	can|[ti]|nhos
+canto	nome masculino	[can]|to
+canto de cisne	nome masculino	[can]|to de cis|ne
+cantochanista	nome masculino	can|to|cha|[nis]|ta
+cantochanista	nome feminino	can|to|cha|[nis]|ta
+cantochão	nome masculino	can|to|[chão]
+cantoeira	nome feminino	can|to|[ei]|ra
+cantonado	adjetivo	can|to|[na]|do
+cantonal	adjetivo	can|to|[nal]
+cantonalismo	nome masculino	can|to|na|[lis]|mo
+cantonalista	adjetivo	can|to|na|[lis]|ta
+cantonalista	nome masculino	can|to|na|[lis]|ta
+cantonalista	nome feminino	can|to|na|[lis]|ta
+cantoneira	nome feminino	can|to|[nei]|ra
+cantoneiro	nome masculino	can|to|[nei]|ro
+cantonense	adjetivo	can|to|[nen]|se
+cantonense	nome masculino	can|to|[nen]|se
+cantonense	nome feminino	can|to|[nen]|se
+cantonês	nome masculino	can|to|[nês]
+cantonês	adjetivo	can|to|[nês]
+cantonesa	nome feminino	can|to|[ne]|sa
+cantoplastia	nome feminino	can|to|plas|[ti]|a
+cantoplástico	adjetivo	can|to|[plás]|ti|co
+cantor	nome masculino	can|[tor]
+cantor	adjetivo	can|[tor]
+cantor-compositor	nome masculino	can|tor-com|po|si|[tor]
+cantora	nome feminino	can|[to]|ra
+cantoria	nome feminino	can|to|[ri]|a
+cantuariense	adjetivo	can|tu|a|ri|[en]|se
+cantuariense	nome masculino	can|tu|a|ri|[en]|se
+cantuariense	nome feminino	can|tu|a|ri|[en]|se
+canudo	nome masculino	ca|[nu]|do
+cânula	nome feminino	[câ]|nu|la
+canusina	nome feminino	ca|nu|[si]|na
+canusino	adjetivo	ca|nu|[si]|no
+canusino	nome masculino	ca|nu|[si]|no
+canutilho	nome masculino	ca|nu|[ti]|lho
+canvanza	nome feminino	can|[van]|za
+canvi	nome masculino	can|[vi]
+canvuanza	nome feminino	can|vu|[an]|za
+canyoning	nome masculino	[ca]|nyo|ning
+canzá	nome masculino	can|[zá]
+canzana	nome feminino	can|[za]|na
+canzar	verbo	can|[zar]
+canzarrão	nome masculino	can|zar|[rão]
+canzeiro	adjetivo	can|[zei]|ro
+canzeiro	nome masculino	can|[zei]|ro
+canzil	nome masculino	can|[zil]
+canzoada	nome feminino	can|zo|[a]|da
+canzoal	nome masculino	can|zo|[al]
+canzoal	adjetivo	can|zo|[al]
+canzoeira	nome feminino	can|zo|[ei]|ra
+canzurral	nome masculino	can|zur|[ral]
+cão	adjetivo	[cão]
+cão	nome masculino	[cão]

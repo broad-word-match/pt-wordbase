@@ -1,0 +1,100 @@
+roçadoira	nome feminino	ro|ça|[doi]|ra
+roçadoiro	adjetivo	ro|ça|[doi]|ro
+roçador	adjetivo	ro|ça|[dor]
+roçador	nome masculino	ro|ça|[dor]
+roçadoura	nome feminino	ro|ça|[dou]|ra
+roçadura	nome feminino	ro|ça|[du]|ra
+roçagante	adjetivo	ro|ça|[gan]|te
+roçagar	verbo	ro|ça|[gar]
+roçagem	nome feminino	ro|[ça]|gem
+rocaille	nome masculino	ro|cail|le
+rocaille	adjetivo	ro|cail|le
+rocal	adjetivo	ro|[cal]
+rocal	nome masculino	ro|[cal]
+rocalha	nome feminino	ro|[ca]|lha
+roçamalha	nome feminino	ro|ça|[ma]|lha
+rocambole	nome masculino	ro|cam|[bo]|le
+rocambolesco	adjetivo	ro|cam|bo|[les]|co
+rocambolismo	nome masculino	ro|cam|bo|[lis]|mo
+roçamento	nome masculino	ro|ça|[men]|to
+roçana	nome feminino	ro|[ça]|na
+rocão	nome masculino	ro|[cão]
+rocar	verbo	ro|[car]
+roçar	verbo	ro|[çar]
+roças	nome masculino	[ro]|ças
+rocaz	adjetivo	ro|[caz]
+rocaz	nome masculino	ro|[caz]
+rocedão	nome masculino	ro|ce|[dão]
+rocega	nome feminino	ro|[ce]|ga
+rocegada	nome feminino	ro|ce|[ga]|da
+rocegar	verbo	ro|ce|[gar]
+roceira	nome feminino	ro|[cei]|ra
+roceiro	nome masculino	ro|[cei]|ro
+rocena	nome masculino	ro|[ce]|na
+rocha	nome feminino	[ro]|cha
+rochaz	adjetivo	ro|[chaz]
+rochedo	nome masculino	ro|[che]|do
+rochete	nome masculino	ro|[che]|te
+rochina	nome feminino	ro|[chi]|na
+rochoso	adjetivo	ro|[cho]|so
+rociada	nome feminino	ro|ci|[a]|da
+rociar	verbo	ro|ci|[ar]
+rocim	nome masculino	ro|[cim]
+rocinal	adjetivo	ro|ci|[nal]
+rocinante	nome masculino	ro|ci|[nan]|te
+rocinela	nome feminino	ro|ci|[ne]|la
+rocinha	nome feminino	ro|[ci]|nha
+rocio	nome masculino	ro|[ci]|o
+rócio	nome masculino	[ró]|ci|o
+rocioso	adjetivo	ro|ci|[o]|so
+rock	nome masculino	[rock]
+rock	adjetivo	[rock]
+rocker	nome masculino	roc|ker
+rocket	nome masculino	roc|ket
+roclar	verbo	ro|[clar]
+rocló	nome masculino	ro|[cló]
+rocloró	nome masculino	ro|clo|[ró]
+roço	nome masculino	[ro]|ço
+rococó	adjetivo	ro|co|[có]
+rococó	nome masculino	ro|co|[có]
+rocódromo	nome masculino	ro|[có]|dro|mo
+roçoeiro	nome masculino	ro|ço|[ei]|ro
+roda	nome feminino	[ro]|da
+roda	nome masculino	[ro]|da
+roda-pisa	nome feminino	ro|da-pi|sa
+roda-vinho	nome masculino	ro|da-vi|nho
+roda-viva	nome feminino	ro|da-vi|va
+rodada	nome feminino	ro|[da]|da
+rodado	adjetivo	ro|[da]|do
+rodado	nome masculino	ro|[da]|do
+rodador	adjetivo	ro|da|[dor]
+rodagem	nome feminino	ro|[da]|gem
+rodal	nome masculino	ro|[dal]
+rodalho	nome masculino	ro|[da]|lho
+rodamento	nome masculino	ro|da|[men]|to
+rodamite	nome feminino	ro|da|[mi]|te
+rodâmnia	nome feminino	ro|[dâm]|ni|a
+rodamoinho	nome masculino	ro|da|mo|[i]|nho
+rodante	nome masculino	ro|[dan]|te
+rodante	adjetivo	ro|[dan]|te
+rodanto	nome masculino	ro|[dan]|to
+rodapé	nome masculino	ro|da|[pé]
+rodaque	nome masculino	ro|[da]|que
+rodar	verbo	ro|[dar]
+rodar	nome masculino	ro|[dar]
+rodária	nome feminino	ro|[dá]|ri|a
+rodato	nome masculino	ro|[da]|to
+rodeador	adjetivo	ro|de|a|[dor]
+rodeador	nome masculino	ro|de|a|[dor]
+rodeamento	nome masculino	ro|de|a|[men]|to
+rodeante	adjetivo	ro|de|[an]|te
+rodear	verbo	ro|de|[ar]
+rodeio	nome masculino	ro|[dei]|o
+rodeira	nome feminino	ro|[dei]|ra
+rodeiro	nome masculino	ro|[dei]|ro
+rodeiro	adjetivo	ro|[dei]|ro
+rodela	nome feminino	ro|[de]|la
+rodeleiro	adjetivo	ro|de|[lei]|ro
+rodeleiro	nome masculino	ro|de|[lei]|ro
+rodelha	nome feminino	ro|[de]|lha
+rodelinha	nome feminino	ro|de|[li]|nha

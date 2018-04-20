@@ -1,0 +1,100 @@
+bimensário	nome masculino	bi|men|[sá]|ri|o
+bimestral	adjetivo	bi|mes|[tral]
+bimestralmente	advérbio	bi|mes|tral|[men]|te
+bimestre	adjetivo	bi|[mes]|tre
+bimestre	nome masculino	bi|[mes]|tre
+bimetal	nome masculino	bi|me|[tal]
+bimetálico	adjetivo	bi|me|[tá]|li|co
+bimetalismo	nome masculino	bi|me|ta|[lis]|mo
+bimetalista	adjetivo	bi|me|ta|[lis]|ta
+bimetalista	nome masculino	bi|me|ta|[lis]|ta
+bimetalista	nome feminino	bi|me|ta|[lis]|ta
+bimilenário	adjetivo	bi|mi|le|[ná]|ri|o
+bimilenário	nome masculino	bi|mi|le|[ná]|ri|o
+bimilênio	nome masculino	bi|mi|[lê]|ni|o
+bimilénio	nome masculino	bi|mi|[lé]|ni|o
+bimo	adjetivo	[bi]|mo
+bimotor	adjetivo	bi|mo|[tor]
+bimotor	nome masculino	bi|mo|[tor]
+binação	nome feminino	bi|na|[ção]
+binado	adjetivo	bi|[na]|do
+binagem	nome feminino	bi|[na]|gem
+binágio	nome masculino	bi|[ná]|gi|o
+binar	verbo	bi|[nar]
+binariamente	advérbio	bi|na|ri|a|[men]|te
+binário	nome masculino	bi|[ná]|ri|o
+binário	adjetivo	bi|[ná]|ri|o
+binascido	adjetivo	bi|nas|[ci]|do
+binauricular	adjetivo	bi|nau|ri|cu|[lar]
+binda	nome feminino	[bin]|da
+binde	nome masculino	[bin]|de
+bindonga	adjetivo	bin|[don]|ga
+bindonga	nome masculino	bin|[don]|ga
+bindonga	nome feminino	bin|[don]|ga
+binervado	adjetivo	bi|ner|[va]|do
+binérveo	adjetivo	bi|[nér]|ve|o
+binga	nome feminino	[bin]|ga
+bingo	interjeição	[bin]|go
+bingo	nome masculino	[bin]|go
+bingundo	nome masculino	bin|[gun]|do
+binoculado	adjetivo	bi|no|cu|[la]|do
+binocular	verbo	bi|no|cu|[lar]
+binocular	adjetivo	bi|no|cu|[lar]
+binoculizar	verbo	bi|no|cu|li|[zar]
+binóculo	nome masculino	bi|[nó]|cu|lo
+binome	nome masculino	bi|[no]|me
+binomial	adjetivo	bi|no|mi|[al]
+binômico	adjetivo	bi|[nô]|mi|co
+binómico	adjetivo	bi|[nó]|mi|co
+binominal	adjetivo	bi|no|mi|[nal]
+binómine	adjetivo	bi|[nó]|mi|ne
+binómio	nome masculino	bi|[nó]|mi|o
+binômio	nome masculino	bi|[nô]|mi|o
+binormal	adjetivo	bi|nor|[mal]
+binormal	nome feminino	bi|nor|[mal]
+bínubo	adjetivo	[bí]|nu|bo
+binucleado	adjetivo	bi|nu|cle|[a]|do
+binuclear	adjetivo	bi|nu|cle|[ar]
+bio	nome masculino	[bi]|o
+bioacumulação	nome feminino	bi|o|a|cu|mu|la|[ção]
+bioacústica	nome feminino	bi|o|a|[cús]|ti|ca
+bioacústico	adjetivo	bi|o|a|[cús]|ti|co
+bioaeração	nome feminino	bi|o|a|e|ra|[ção]
+bioastronáutica	nome feminino	bi|o|as|tro|[náu]|ti|ca
+bioastronáutico	adjetivo	bi|o|as|tro|[náu]|ti|co
+bioastronomia	nome feminino	bi|o|as|tro|no|[mi]|a
+bioatividade	nome feminino	bi|o|a|ti|vi|[da]|de
+bioativo	adjetivo	bi|o|a|[ti]|vo
+biobibliografia	nome feminino	bi|o|bi|bli|o|gra|[fi]|a
+biobibliográfico	adjetivo	bi|o|bi|bli|o|[grá]|fi|co
+biobjetividade	nome feminino	bi|ob|je|ti|vi|[da]|de
+biobjetivo	adjetivo	bi|ob|je|[ti]|vo
+biocatalisador	nome masculino	bi|o|ca|ta|li|sa|[dor]
+biocenologia	nome feminino	bi|o|ce|no|lo|[gi]|a
+biocenológico	adjetivo	bi|o|ce|no|[ló]|gi|co
+biocenose	nome feminino	bi|o|ce|[no]|se
+biocenótico	adjetivo	bi|o|ce|[nó]|ti|co
+biocida	adjetivo	bi|o|[ci]|da
+biociência	nome feminino	bi|o|ci|[ên]|ci|a
+bioclimática	nome feminino	bi|o|cli|[má]|ti|ca
+bioclimático	adjetivo	bi|o|cli|[má]|ti|co
+bioclimatologia	nome feminino	bi|o|cli|ma|to|lo|[gi]|a
+bioclimatológico	adjetivo	bi|o|cli|ma|to|[ló]|gi|co
+bioco	nome masculino	bi|[o]|co
+biocoloide	nome masculino	bi|o|co|[loi]|de
+biocombustível	nome masculino	bi|o|com|bus|[tí]|vel
+biocompatibilidade	nome feminino	bi|o|com|pa|ti|bi|li|[da]|de
+biocompatível	adjetivo	bi|o|com|pa|[tí]|vel
+biocrático	adjetivo	bi|o|[crá]|ti|co
+biodegradabilidade	nome feminino	bi|o|de|gra|da|bi|li|[da]|de
+biodegradação	nome feminino	bi|o|de|gra|da|[ção]
+biodegradável	adjetivo	bi|o|de|gra|[dá]|vel
+biodesign	nome masculino	bi|o|de|sign
+biodinâmica	nome feminino	bi|o|di|[nâ]|mi|ca
+biodinâmico	adjetivo	bi|o|di|[nâ]|mi|co
+biodiversidade	nome feminino	bi|o|di|ver|si|[da]|de
+bioeléctrico	adjetivo	bi|o|e|[léc]|tri|co
+bioeletricidade	nome feminino	bi|o|e|le|tri|ci|[da]|de
+bioelétrico	adjetivo	bi|o|e|[lé]|tri|co
+bioenergética	nome feminino	bi|o|e|ner|[gé]|ti|ca
+bioenergético	adjetivo	bi|o|e|ner|[gé]|ti|co

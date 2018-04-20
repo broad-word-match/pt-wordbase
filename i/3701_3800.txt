@@ -1,0 +1,100 @@
+infectado	nome masculino	in|fec|[ta]|do
+infectante	adjetivo	in|fec|[tan]|te
+infectar	verbo	in|fec|[tar]
+infectável	adjetivo	in|fec|[tá]|vel
+infecto	adjetivo	in|[fec]|to
+infectocontagioso	adjetivo	in|fec|to|con|ta|gi|[o]|so
+infectologia	nome feminino	in|fec|to|lo|[gi]|a
+infectológico	adjetivo	in|fec|to|[ló]|gi|co
+infectuosidade	nome feminino	in|fec|tu|o|si|[da]|de
+infectuoso	adjetivo	in|fec|tu|[o]|so
+infecundar	verbo	in|fe|cun|[dar]
+infecundidade	nome feminino	in|fe|cun|di|[da]|de
+infecundo	adjetivo	in|fe|[cun]|do
+infelice	adjetivo	in|fe|[li]|ce
+infelicidade	nome feminino	in|fe|li|ci|[da]|de
+infelicíssimo	adjetivo	in|fe|li|[cís]|si|mo
+infelicitação	nome feminino	in|fe|li|ci|ta|[ção]
+infelicitador	adjetivo	in|fe|li|ci|ta|[dor]
+infelicitador	nome masculino	in|fe|li|ci|ta|[dor]
+infelicitar	verbo	in|fe|li|ci|[tar]
+infeliz	nome masculino	in|fe|[liz]
+infeliz	adjetivo	in|fe|[liz]
+infeliz	nome feminino	in|fe|[liz]
+infelizmente	advérbio	in|fe|liz|[men]|te
+infenso	adjetivo	in|[fen]|so
+inferaxilar	adjetivo	in|fe|ra|xi|[lar]
+inferência	nome feminino	in|fe|[rên]|ci|a
+inférias	nome feminino	in|[fé]|ri|as
+inferior	adjetivo	in|fe|ri|[or]
+inferior	nome masculino	in|fe|ri|[or]
+inferiora	nome feminino	in|fe|ri|[o]|ra
+inferioridade	nome feminino	in|fe|ri|o|ri|[da]|de
+inferiorização	nome feminino	in|fe|ri|o|ri|za|[ção]
+inferiorizado	adjetivo	in|fe|ri|o|ri|[za]|do
+inferiorizador	adjetivo	in|fe|ri|o|ri|za|[dor]
+inferiorizante	adjetivo	in|fe|ri|o|ri|[zan]|te
+inferiorizar	verbo	in|fe|ri|o|ri|[zar]
+inferiorizável	adjetivo	in|fe|ri|o|ri|[zá]|vel
+inferiormente	advérbio	in|fe|ri|or|[men]|te
+inferir	verbo	in|fe|[rir]
+inferlativo	adjetivo	in|fer|la|[ti]|vo
+infermentescibilidade	nome feminino	in|fer|men|tes|ci|bi|li|[da]|de
+infermentescível	adjetivo	in|fer|men|tes|[cí]|vel
+infernação	nome feminino	in|fer|na|[ção]
+infernal	adjetivo	in|fer|[nal]
+infernalidade	nome feminino	in|fer|na|li|[da]|de
+infernalmente	advérbio	in|fer|nal|[men]|te
+infernar	verbo	in|fer|[nar]
+inferneira	nome feminino	in|fer|[nei]|ra
+infernizar	verbo	in|fer|ni|[zar]
+inferno	nome masculino	in|[fer]|no
+inferno-e-paraíso	nome masculino	in|fer|no-e-pa|ra|[í]|so
+ínfero	nome masculino	[ín]|fe|ro
+ínfero	adjetivo	[ín]|fe|ro
+ínfero-anterior	adjetivo	ín|fe|ro-an|te|ri|[or]
+ínfero-exterior	adjetivo	ín|fe|ro-ex|te|ri|[or]
+ínfero-interior	adjetivo	ín|fe|ro-in|te|ri|[or]
+ínfero-posterior	adjetivo	ín|fe|ro-pos|te|ri|[or]
+inferovariado	adjetivo	in|fe|ro|va|ri|[a]|do
+infértil	adjetivo	in|[fér]|til
+infertilidade	nome feminino	in|fer|ti|li|[da]|de
+infertilizar	verbo	in|fer|ti|li|[zar]
+infertilizável	adjetivo	in|fer|ti|li|[zá]|vel
+infertilmente	advérbio	in|fer|til|[men]|te
+infestação	nome feminino	in|fes|ta|[ção]
+infestado	adjetivo	in|fes|[ta]|do
+infestador	adjetivo	in|fes|ta|[dor]
+infestador	nome masculino	in|fes|ta|[dor]
+infestadora	nome feminino	in|fes|ta|[do]|ra
+infestamento	nome masculino	in|fes|ta|[men]|to
+infestante	adjetivo	in|fes|[tan]|te
+infestar	verbo	in|fes|[tar]
+infestatório	adjetivo	in|fes|ta|[tó]|ri|o
+infesto	adjetivo	in|[fes]|to
+infetada	nome feminino	in|fe|[ta]|da
+infetado	adjetivo	in|fe|[ta]|do
+infetado	nome masculino	in|fe|[ta]|do
+infetante	adjetivo	in|fe|[tan]|te
+infetar	verbo	in|fe|[tar]
+infetável	adjetivo	in|fe|[tá]|vel
+infeto	adjetivo	in|[fe]|to
+infetocontagioso	adjetivo	in|fe|to|con|ta|gi|[o]|so
+infetologia	nome feminino	in|fe|to|lo|[gi]|a
+infetológico	adjetivo	in|fe|to|[ló]|gi|co
+infetuosidade	nome feminino	in|fe|tu|o|si|[da]|de
+infetuoso	adjetivo	in|fe|tu|[o]|so
+infibulação	nome feminino	in|fi|bu|la|[ção]
+infibulador	adjetivo	in|fi|bu|la|[dor]
+infibulador	nome masculino	in|fi|bu|la|[dor]
+infibular	verbo	in|fi|bu|[lar]
+inficionação	nome feminino	in|fi|ci|o|na|[ção]
+inficionado	adjetivo	in|fi|ci|o|[na]|do
+inficionador	adjetivo	in|fi|ci|o|na|[dor]
+inficionador	nome masculino	in|fi|ci|o|na|[dor]
+inficionar	verbo	in|fi|ci|o|[nar]
+inficionável	adjetivo	in|fi|ci|o|[ná]|vel
+infidelidade	nome feminino	in|fi|de|li|[da]|de
+infidelíssimo	adjetivo	in|fi|de|[lís]|si|mo
+infido	adjetivo	in|[fi]|do
+infiel	nome masculino	in|fi|[el]

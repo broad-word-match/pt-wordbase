@@ -1,0 +1,100 @@
+sapatilha	nome feminino	sa|pa|[ti]|lha
+sapatilho	nome masculino	sa|pa|[ti]|lho
+sapatinha	nome feminino	sa|pa|[ti]|nha
+sapatinho	nome masculino	sa|pa|[ti]|nho
+sapatinho-do-diabo	nome masculino	sa|pa|ti|nho-do-di|[a]|bo
+sapato	nome masculino	sa|[pa]|to
+sapatola	nome feminino	sa|pa|[to]|la
+sapatola	nome masculino	sa|pa|[to]|la
+sapatorra	nome feminino	sa|pa|[tor]|ra
+sapatorro	nome masculino	sa|pa|[tor]|ro
+sapatranca	nome feminino	sa|pa|[tran]|ca
+sapatrancas	nome masculino	sa|pa|[tran]|cas
+sapê	nome masculino	sa|[pê]
+sape	interjeição	[sa]|pe
+sapé	nome masculino	sa|[pé]
+sape-gato	nome masculino	sa|pe-ga|to
+sape-sape	nome masculino	sa|pe-sa|pe
+sapeação	nome feminino	sa|pe|a|[ção]
+sapear	verbo	sa|pe|[ar]
+sapeca	nome feminino	sa|[pe]|ca
+sapeca	nome masculino	sa|[pe]|ca
+sapeca	adjetivo	sa|[pe]|ca
+sapecação	nome feminino	sa|pe|ca|[ção]
+sapecada	nome feminino	sa|pe|[ca]|da
+sapecadouro	nome masculino	sa|pe|ca|[dou]|ro
+sapecar	verbo	sa|pe|[car]
+sapeira	nome feminino	sa|[pei]|ra
+sapeiro	nome masculino	sa|[pei]|ro
+sapejar	verbo	sa|pe|[jar]
+sapeno	nome masculino	sa|[pe]|no
+sapenos	nome masculino	sa|[pe]|nos
+sapequeiro	nome masculino	sa|pe|[quei]|ro
+sapequice	nome feminino	sa|pe|[qui]|ce
+sapequismo	nome masculino	sa|pe|[quis]|mo
+saperda	nome feminino	sa|[per]|da
+saperecar	verbo	sa|pe|re|[car]
+sapeu	adjetivo	sa|[peu]
+sapeu	nome masculino	sa|[peu]
+sapezal	nome masculino	sa|pe|[zal]
+sapezeiro	nome masculino	sa|pe|[zei]|ro
+sápia	nome feminino	[sá]|pi|a
+sapicuá	nome masculino	sa|pi|cu|[á]
+sapidez	nome feminino	sa|pi|[dez]
+sápido	adjetivo	[sá]|pi|do
+sapiência	nome feminino	sa|pi|[ên]|ci|a
+sapiencial	adjetivo	sa|pi|en|ci|[al]
+sapiente	adjetivo	sa|pi|[en]|te
+sapiente	nome masculino	sa|pi|[en]|te
+sapiente	nome feminino	sa|pi|[en]|te
+sapientemente	advérbio	sa|pi|en|te|[men]|te
+sapientíssimo	adjetivo	sa|pi|en|[tís]|si|mo
+sapindácea	nome feminino	sa|pin|[dá]|ce|a
+sapindáceo	adjetivo	sa|pin|[dá]|ce|o
+sapinho-da-praia	nome masculino	sa|pi|nho-da-prai|a
+sapinho-roxo	nome masculino	sa|pi|nho-ro|xo
+sapinhos	nome masculino	sa|[pi]|nhos
+sapipoca	nome masculino	sa|pi|[po]|ca
+sapiranga	nome feminino	sa|pi|[ran]|ga
+sapiranguense	adjetivo	sa|pi|ran|[guen]|se
+sapiranguense	nome masculino	sa|pi|ran|[guen]|se
+sapiranguense	nome feminino	sa|pi|ran|[guen]|se
+sapiroca	nome feminino	sa|pi|[ro]|ca
+sapiroquento	adjetivo	sa|pi|ro|[quen]|to
+sapítaca	nome feminino	sa|[pí]|ta|ca
+sapítica	nome feminino	sa|[pí]|ti|ca
+sapo	nome masculino	[sa]|po
+sapo-boi	nome masculino	sa|po-boi
+sapo-concho	nome masculino	sa|po-con|cho
+sapo-de-chifres	nome masculino	sa|po-de-chi|fres
+sapo-do-mar	nome masculino	sa|po-do-mar
+sapo-leve	nome masculino	sa|po-le|ve
+sapocado	adjetivo	sa|po|[ca]|do
+sapoila	adjetivo	sa|[poi]|la
+sapoilar	verbo	sa|poi|[lar]
+sapoilo	adjetivo	sa|[poi]|lo
+sapoléu	nome masculino	sa|po|[léu]
+sapolga	adjetivo	sa|[pol]|ga
+sapolina	nome feminino	sa|po|[li]|na
+saponácea	nome feminino	sa|po|[ná]|ce|a
+saponáceo	adjetivo	sa|po|[ná]|ce|o
+saponária	nome feminino	sa|po|[ná]|ri|a
+saponarina	nome feminino	sa|po|na|[ri]|na
+saponário	adjetivo	sa|po|[ná]|ri|o
+sapónase	nome feminino	sa|[pó]|na|se
+sapônase	nome feminino	sa|[pô]|na|se
+saponificação	nome feminino	sa|po|ni|fi|ca|[ção]
+saponificador	adjetivo	sa|po|ni|fi|ca|[dor]
+saponificante	adjetivo	sa|po|ni|fi|[can]|te
+saponificar	verbo	sa|po|ni|fi|[car]
+saponificável	adjetivo	sa|po|ni|fi|[cá]|vel
+saponiforme	adjetivo	sa|po|ni|[for]|me
+saponina	nome feminino	sa|po|[ni]|na
+saponite	nome feminino	sa|po|[ni]|te
+sapopé	adjetivo	sa|po|[pé]
+sapopé	nome masculino	sa|po|[pé]
+sapopé	nome feminino	sa|po|[pé]
+sapopema	nome feminino	sa|po|[pe]|ma
+saporífero	adjetivo	sa|po|[rí]|fe|ro
+saporífico	adjetivo	sa|po|[rí]|fi|co
+sapota	nome feminino	sa|[po]|ta

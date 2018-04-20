@@ -1,0 +1,100 @@
+cinerício	adjetivo	ci|ne|[rí]|ci|o
+cineriforme	adjetivo	ci|ne|ri|[for]|me
+cinerito	nome masculino	ci|ne|[ri]|to
+cinescopia	nome feminino	ci|nes|co|[pi]|a
+cinescópico	adjetivo	ci|nes|[có]|pi|co
+cinescópio	nome masculino	ci|nes|[có]|pi|o
+cinese	nome feminino	ci|[ne]|se
+cinesia	nome feminino	ci|ne|[si]|a
+cinesialgia	nome feminino	ci|ne|si|al|[gi]|a
+cinesiálgico	adjetivo	ci|ne|si|[ál]|gi|co
+cinesiestesia	nome feminino	ci|ne|si|es|te|[si]|a
+cinesiestético	adjetivo	ci|ne|si|es|[té]|ti|co
+cinésio	adjetivo	ci|[né]|si|o
+cinésio	nome masculino	ci|[né]|si|o
+cinesiologia	nome feminino	ci|ne|si|o|lo|[gi]|a
+cinesiológico	adjetivo	ci|ne|si|o|[ló]|gi|co
+cinesioterapia	nome feminino	ci|ne|si|o|te|ra|[pi]|a
+cinesioterápico	adjetivo	ci|ne|si|o|te|[rá]|pi|co
+cinesiterapia	nome feminino	ci|ne|si|te|ra|[pi]|a
+cinestesia	nome feminino	ci|nes|te|[si]|a
+cinestésico	adjetivo	ci|nes|[té]|si|co
+cinestético	adjetivo	ci|nes|[té]|ti|co
+cinete	adjetivo	ci|[ne]|te
+cinete	nome masculino	ci|[ne]|te
+cinete	nome feminino	ci|[ne]|te
+cineteatro	nome masculino	ci|ne|te|[a]|tro
+cinética	nome feminino	ci|[né]|ti|ca
+cineticamente	advérbio	ci|ne|ti|ca|[men]|te
+cinético	adjetivo	ci|[né]|ti|co
+cinétio	adjetivo	ci|[né]|ti|o
+cinétio	nome masculino	ci|[né]|ti|o
+cinetofone	nome masculino	ci|ne|to|[fo]|ne
+cinetoscopia	nome feminino	ci|ne|tos|co|[pi]|a
+cinetoscópico	adjetivo	ci|ne|tos|[có]|pi|co
+cinetoscópio	nome masculino	ci|ne|tos|[có]|pi|o
+cinetose	nome feminino	ci|ne|[to]|se
+cinfanense	adjetivo	cin|fa|[nen]|se
+cinfanense	nome masculino	cin|fa|[nen]|se
+cinfanense	nome feminino	cin|fa|[nen]|se
+cingalá	adjetivo	cin|ga|[lá]
+cingalá	nome masculino	cin|ga|[lá]
+cingalá	nome feminino	cin|ga|[lá]
+cingalês	adjetivo	cin|ga|[lês]
+cingalês	nome masculino	cin|ga|[lês]
+cingalesa	nome feminino	cin|ga|[le]|sa
+cingapurense	nome masculino	cin|ga|pu|[ren]|se
+cingapurense	nome feminino	cin|ga|pu|[ren]|se
+cingapurense	adjetivo	cin|ga|pu|[ren]|se
+cingapuriana	nome feminino	cin|ga|pu|ri|[a]|na
+cingapuriano	nome masculino	cin|ga|pu|ri|[a]|no
+cingapuriano	adjetivo	cin|ga|pu|ri|[a]|no
+cingel	nome masculino	cin|[gel]
+cingelada	nome feminino	cin|ge|[la]|da
+cingelaria	nome feminino	cin|ge|la|[ri]|a
+cingeleira	nome feminino	cin|ge|[lei]|ra
+cingeleiro	nome masculino	cin|ge|[lei]|ro
+cingente	adjetivo	cin|[gen]|te
+cingideira	nome feminino	cin|gi|[dei]|ra
+cingido	adjetivo	cin|[gi]|do
+cingidoiro	nome masculino	cin|gi|[doi]|ro
+cingidor	adjetivo	cin|gi|[dor]
+cingidor	nome masculino	cin|gi|[dor]
+cingidouro	nome masculino	cin|gi|[dou]|ro
+cingigola	nome feminino	cin|gi|[go]|la
+cingir	verbo	cin|[gir]
+cingível	adjetivo	cin|[gí]|vel
+cingulano	adjetivo	cin|gu|[la]|no
+cingulano	nome masculino	cin|gu|[la]|no
+cíngulo	nome masculino	[cín]|gu|lo
+cinianja	adjetivo	ci|ni|[an]|ja
+cinianja	nome masculino	ci|ni|[an]|ja
+cinianja	nome feminino	ci|ni|[an]|ja
+cínica	nome feminino	[cí]|ni|ca
+cinicamente	advérbio	ci|ni|ca|[men]|te
+cínico	adjetivo	[cí]|ni|co
+cínico	nome masculino	[cí]|ni|co
+cínipe	nome masculino	[cí]|ni|pe
+cinípida	nome masculino	ci|[ní]|pi|da
+cinipídeo	nome masculino	ci|ni|[pí]|de|o
+cinipídeo	adjetivo	ci|ni|[pí]|de|o
+cinipídeo	nome masculino	ci|ni|[pí]|de|o
+cinira	nome feminino	ci|[ni]|ra
+cinismo	nome masculino	ci|[nis]|mo
+cinítio	adjetivo	ci|[ní]|ti|o
+cinítio	nome masculino	ci|[ní]|ti|o
+ciniúngue	nome masculino	ci|ni|[ún]|gue
+cinocefálio	nome masculino	ci|no|ce|[fá]|li|o
+cinocéfalo	adjetivo	ci|no|[cé]|fa|lo
+cinocéfalo	nome masculino	ci|no|[cé]|fa|lo
+cinódromo	nome masculino	ci|[nó]|dro|mo
+cinofagia	nome feminino	ci|no|fa|[gi]|a
+cinófago	nome masculino	ci|[nó]|fa|go
+cinofilia	nome feminino	ci|no|fi|[li]|a
+cinófilo	adjetivo	ci|[nó]|fi|lo
+cinófilo	nome masculino	ci|[nó]|fi|lo
+cinofobia	nome feminino	ci|no|fo|[bi]|a
+cinófobo	adjetivo	ci|[nó]|fo|bo
+cinófobo	nome masculino	ci|[nó]|fo|bo
+cinoglossa	nome feminino	ci|no|[glos]|sa
+cinoglosso	nome masculino	ci|no|[glos]|so

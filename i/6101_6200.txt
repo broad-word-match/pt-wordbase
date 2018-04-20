@@ -1,0 +1,100 @@
+invencioneiro	adjetivo	in|ven|ci|o|[nei]|ro
+invencioneiro	nome masculino	in|ven|ci|o|[nei]|ro
+invencionice	nome feminino	in|ven|ci|o|[ni]|ce
+invencionismo	nome masculino	in|ven|ci|o|[nis]|mo
+invencionista	adjetivo	in|ven|ci|o|[nis]|ta
+invencionista	nome masculino	in|ven|ci|o|[nis]|ta
+invencionista	nome feminino	in|ven|ci|o|[nis]|ta
+invencível	adjetivo	in|ven|[cí]|vel
+invencivelmente	advérbio	in|ven|ci|vel|[men]|te
+invendável	adjetivo	in|ven|[dá]|vel
+invendível	adjetivo	in|ven|[dí]|vel
+inventador	adjetivo	in|ven|ta|[dor]
+inventador	nome masculino	in|ven|ta|[dor]
+inventar	verbo	in|ven|[tar]
+inventariação	nome feminino	in|ven|ta|ri|a|[ção]
+inventariado	adjetivo	in|ven|ta|ri|[a]|do
+inventariante	adjetivo	in|ven|ta|ri|[an]|te
+inventariante	nome masculino	in|ven|ta|ri|[an]|te
+inventariante	nome feminino	in|ven|ta|ri|[an]|te
+inventariar	verbo	in|ven|ta|ri|[ar]
+inventariável	adjetivo	in|ven|ta|ri|[á]|vel
+inventário	nome masculino	in|ven|[tá]|ri|o
+inventável	adjetivo	in|ven|[tá]|vel
+inventiva	nome feminino	in|ven|[ti]|va
+inventividade	nome feminino	in|ven|ti|vi|[da]|de
+inventivo	adjetivo	in|ven|[ti]|vo
+invento	nome masculino	in|[ven]|to
+inventor	nome masculino	in|ven|[tor]
+inventor	adjetivo	in|ven|[tor]
+inventora	nome feminino	in|ven|[to]|ra
+inventriz	nome feminino	in|ven|[triz]
+inverdade	nome feminino	in|ver|[da]|de
+inverecundo	adjetivo	in|ve|re|[cun]|do
+invergável	adjetivo	in|ver|[gá]|vel
+inveridicidade	nome feminino	in|ve|ri|di|ci|[da]|de
+inverídico	adjetivo	in|ve|[rí]|di|co
+inverificabilidade	nome feminino	in|ve|ri|fi|ca|bi|li|[da]|de
+inverificado	adjetivo	in|ve|ri|fi|[ca]|do
+inverificável	adjetivo	in|ve|ri|fi|[cá]|vel
+inverisímil	adjetivo	in|ve|ri|[sí]|mil
+inverisimilmente	advérbio	in|ve|ri|si|mil|[men]|te
+invernaculidade	nome feminino	in|ver|na|cu|li|[da]|de
+invernáculo	adjetivo	in|ver|[ná]|cu|lo
+invernada	nome feminino	in|ver|[na]|da
+invernadoiro	nome masculino	in|ver|na|[doi]|ro
+invernador	adjetivo	in|ver|na|[dor]
+invernador	nome masculino	in|ver|na|[dor]
+invernadouro	nome masculino	in|ver|na|[dou]|ro
+invernagem	nome feminino	in|ver|[na]|gem
+invernal	adjetivo	in|ver|[nal]
+invernal	nome masculino	in|ver|[nal]
+invernante	adjetivo	in|ver|[nan]|te
+invernante	nome masculino	in|ver|[nan]|te
+invernante	nome feminino	in|ver|[nan]|te
+invernar	verbo	in|ver|[nar]
+inverneira	nome feminino	in|ver|[nei]|ra
+invernengo	adjetivo	in|ver|[nen]|go
+invernia	nome feminino	in|ver|[ni]|a
+inverniço	adjetivo	in|ver|[ni]|ço
+invernio	adjetivo	in|ver|[ni]|o
+invernista	nome masculino	in|ver|[nis]|ta
+invernista	nome feminino	in|ver|[nis]|ta
+inverno	nome masculino	in|[ver]|no
+invernoso	adjetivo	in|ver|[no]|so
+inverosímil	adjetivo	in|ve|ro|[sí]|mil
+inverosímil	nome masculino	in|ve|ro|[sí]|mil
+inverosimilhança	nome feminino	in|ve|ro|si|mi|[lhan]|ça
+inverosimilhante	adjetivo	in|ve|ro|si|mi|[lhan]|te
+inverosimilmente	advérbio	in|ve|ro|si|mil|[men]|te
+inversa	nome feminino	in|[ver]|sa
+inversamente	advérbio	in|ver|sa|[men]|te
+inversão	nome feminino	in|ver|[são]
+inversivo	adjetivo	in|ver|[si]|vo
+inverso	nome masculino	in|[ver]|so
+inverso	adjetivo	in|[ver]|so
+inversor	adjetivo	in|ver|[sor]
+inversor	nome masculino	in|ver|[sor]
+invértase	nome feminino	in|[vér]|ta|se
+invertase	nome feminino	in|ver|[ta]|se
+invertebrado	nome masculino	in|ver|te|[bra]|do
+invertebrado	adjetivo	in|ver|te|[bra]|do
+inverter	verbo	in|ver|[ter]
+invertida	nome feminino	in|ver|[ti]|da
+invertido	nome masculino	in|ver|[ti]|do
+invertido	adjetivo	in|ver|[ti]|do
+invertina	nome feminino	in|ver|[ti]|na
+invertível	adjetivo	in|ver|[tí]|vel
+invés	nome masculino	in|[vés]
+investida	nome feminino	in|ves|[ti]|da
+investido	adjetivo	in|ves|[ti]|do
+investidor	adjetivo	in|ves|ti|[dor]
+investidor	nome masculino	in|ves|ti|[dor]
+investidora	nome feminino	in|ves|ti|[do]|ra
+investidura	nome feminino	in|ves|ti|[du]|ra
+investigação	nome feminino	in|ves|ti|ga|[ção]
+investigado	adjetivo	in|ves|ti|[ga]|do
+investigador	adjetivo	in|ves|ti|ga|[dor]
+investigador	nome masculino	in|ves|ti|ga|[dor]
+investigadora	nome feminino	in|ves|ti|ga|[do]|ra
+investigante	adjetivo	in|ves|ti|[gan]|te

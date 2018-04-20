@@ -1,0 +1,100 @@
+medianeiro	nome masculino	me|di|a|[nei]|ro
+mediania	nome feminino	me|di|a|[ni]|a
+medianidade	nome feminino	me|di|a|ni|[da]|de
+medianimicidade	nome feminino	me|di|a|ni|mi|ci|[da]|de
+medianímico	adjetivo	me|di|a|[ní]|mi|co
+medianimidade	nome feminino	me|di|a|ni|mi|[da]|de
+medianismo	nome masculino	me|di|a|[nis]|mo
+medianiz	nome feminino	me|di|a|[niz]
+medianizar	verbo	me|di|a|ni|[zar]
+mediano	adjetivo	me|di|[a]|no
+mediante	preposição	me|di|[an]|te
+mediante	nome masculino	me|di|[an]|te
+mediante	adjetivo	me|di|[an]|te
+mediar	verbo	me|di|[ar]
+mediastinal	adjetivo	me|di|as|ti|[nal]
+mediastínico	adjetivo	me|di|as|[tí]|ni|co
+mediastinite	nome feminino	me|di|as|ti|[ni]|te
+mediastino	nome masculino	me|di|as|[ti]|no
+mediatamente	advérbio	me|di|a|ta|[men]|te
+mediatária	nome feminino	me|di|a|[tá]|ri|a
+mediatário	adjetivo	me|di|a|[tá]|ri|o
+mediatário	nome masculino	me|di|a|[tá]|ri|o
+mediateca	nome feminino	me|di|a|[te]|ca
+mediatecário	nome masculino	me|di|a|te|[cá]|ri|o
+mediaticamente	advérbio	me|di|a|ti|ca|[men]|te
+mediático	adjetivo	me|di|[á]|ti|co
+mediatismo	nome masculino	me|di|a|[tis]|mo
+mediativo	adjetivo	me|di|a|[ti]|vo
+mediativo	nome masculino	me|di|a|[ti]|vo
+mediatização	nome feminino	me|di|a|ti|za|[ção]
+mediatizado	adjetivo	me|di|a|ti|[za]|do
+mediatizar	verbo	me|di|a|ti|[zar]
+mediato	adjetivo	me|di|[a]|to
+mediatriz	nome feminino	me|di|a|[triz]
+médica	nome feminino	[mé]|di|ca
+médica-cirurgiã	nome feminino	mé|di|ca-ci|rur|gi|[ã]
+médica-legista	nome feminino	mé|di|ca-le|[gis]|ta
+médica-operadora	nome feminino	mé|di|ca-o|pe|ra|[do]|ra
+medicação	nome feminino	me|di|ca|[ção]
+medicagem-dos-pastos	nome feminino	me|di|ca|gem-dos-pas|tos
+medical	adjetivo	me|di|[cal]
+medicamentação	nome feminino	me|di|ca|men|ta|[ção]
+medicamentar	verbo	me|di|ca|men|[tar]
+medicamente	advérbio	me|di|ca|[men]|te
+medicamento	nome masculino	me|di|ca|[men]|to
+medicamentoso	adjetivo	me|di|ca|men|[to]|so
+medicando	nome masculino	me|di|[can]|do
+medicante	adjetivo	me|di|[can]|te
+medição	nome feminino	me|di|[ção]
+medicar	verbo	me|di|[car]
+medicastro	nome masculino	me|di|[cas]|tro
+medicativo	adjetivo	me|di|ca|[ti]|vo
+medicatriz	adjetivo	me|di|ca|[triz]
+medicatriz	nome feminino	me|di|ca|[triz]
+medicável	adjetivo	me|di|[cá]|vel
+medicina	nome feminino	me|di|[ci]|na
+medicinal	adjetivo	me|di|ci|[nal]
+medicinalmente	advérbio	me|di|ci|nal|[men]|te
+medicinar	verbo	me|di|ci|[nar]
+medicineiro	nome masculino	me|di|ci|[nei]|ro
+médico	adjetivo	[mé]|di|co
+médico	nome masculino	[mé]|di|co
+médico-chefe	nome masculino	mé|di|co-che|fe
+médico-cirurgião	nome masculino	mé|di|co-ci|rur|gi|[ão]
+médico-cirúrgico	adjetivo	mé|di|co-ci|[rúr]|gi|co
+médico-dentário	adjetivo	mé|di|co-den|[tá]|ri|o
+médico-dentista	nome masculino	mé|di|co-den|[tis]|ta
+médico-legal	adjetivo	mé|di|co-le|[gal]
+médico-legista	nome masculino	mé|di|co-le|[gis]|ta
+médico-operador	nome masculino	mé|di|co-o|pe|ra|[dor]
+médico-psicológico	adjetivo	mé|di|co-psi|co|[ló]|gi|co
+médico-social	adjetivo	mé|di|co-so|ci|[al]
+médico-veterinário	nome masculino	mé|di|co-ve|te|ri|[ná]|ri|o
+médico-veterinário	adjetivo	mé|di|co-ve|te|ri|[ná]|ri|o
+medicomania	nome feminino	me|di|co|ma|[ni]|a
+medicomaníaco	adjetivo	me|di|co|ma|[ní]|a|co
+medicomaníaco	nome masculino	me|di|co|ma|[ní]|a|co
+medicómano	nome masculino	me|di|[có]|ma|no
+medicômano	nome masculino	me|di|[cô]|ma|no
+medícua	nome feminino	me|[dí]|cu|a
+medida	nome feminino	me|[di]|da
+medidagem	nome feminino	me|di|[da]|gem
+medidamente	advérbio	me|di|da|[men]|te
+medidela	nome feminino	me|di|[de]|la
+medido	adjetivo	me|[di]|do
+medidor	adjetivo	me|di|[dor]
+medidor	nome masculino	me|di|[dor]
+medidora	nome feminino	me|di|[do]|ra
+medieval	adjetivo	me|di|e|[val]
+medievalismo	nome masculino	me|di|e|va|[lis]|mo
+medievalista	nome masculino	me|di|e|va|[lis]|ta
+medievalista	adjetivo	me|di|e|va|[lis]|ta
+medievalista	nome feminino	me|di|e|va|[lis]|ta
+medievalístico	adjetivo	me|di|e|va|[lís]|ti|co
+mediévico	adjetivo	me|di|[é]|vi|co
+medievismo	nome masculino	me|di|e|[vis]|mo
+medievista	nome masculino	me|di|e|[vis]|ta
+medievista	nome feminino	me|di|e|[vis]|ta
+medievista	adjetivo	me|di|e|[vis]|ta
+medievo	adjetivo	me|di|[e]|vo

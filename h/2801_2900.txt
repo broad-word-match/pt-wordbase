@@ -1,0 +1,100 @@
+hipersonoridade	nome feminino	hi|per|so|no|ri|[da]|de
+hipersonoro	adjetivo	hi|per|so|[no]|ro
+hipersplenia	nome feminino	hi|pers|ple|[ni]|a
+hipersplénico	adjetivo	hi|pers|[plé]|ni|co
+hipersplênico	adjetivo	hi|pers|[plê]|ni|co
+hiperstena	nome feminino	hi|pers|[te]|na
+hiperstenia	nome feminino	hi|pers|te|[ni]|a
+hipersténico	adjetivo	hi|pers|[té]|ni|co
+hiperstênico	adjetivo	hi|pers|[tê]|ni|co
+hiperstílico	adjetivo	hi|pers|[tí]|li|co
+hiperstômico	adjetivo	hi|pers|[tô]|mi|co
+hiperstómico	adjetivo	hi|pers|[tó]|mi|co
+hipertelia	nome feminino	hi|per|te|[li]|a
+hipertensa	nome feminino	hi|per|[ten]|sa
+hipertensão	nome feminino	hi|per|ten|[são]
+hipertensivo	nome masculino	hi|per|ten|[si]|vo
+hipertensivo	adjetivo	hi|per|ten|[si]|vo
+hipertenso	adjetivo	hi|per|[ten]|so
+hipertenso	nome masculino	hi|per|[ten]|so
+hipertensor	adjetivo	hi|per|ten|[sor]
+hipertensor	nome masculino	hi|per|ten|[sor]
+hipertermia	nome feminino	hi|per|ter|[mi]|a
+hipertérmico	adjetivo	hi|per|[tér]|mi|co
+hipértese	nome feminino	hi|[pér]|te|se
+hipertexto	nome masculino	hi|per|[tex]|to
+hipertimia	nome feminino	hi|per|ti|[mi]|a
+hipertireoidismo	nome masculino	hi|per|ti|re|oi|[dis]|mo
+hipertírio	nome masculino	hi|per|[tí]|ri|o
+hipértiro	nome masculino	hi|[pér]|ti|ro
+hipertiroidismo	nome masculino	hi|per|ti|roi|[dis]|mo
+hipertonalidade	nome feminino	hi|per|to|na|li|[da]|de
+hipertonia	nome feminino	hi|per|to|[ni]|a
+hipertônico	adjetivo	hi|per|[tô]|ni|co
+hipertónico	adjetivo	hi|per|[tó]|ni|co
+hipértono	adjetivo	hi|[pér]|to|no
+hipertricose	nome feminino	hi|per|tri|[co]|se
+hipertrofia	nome feminino	hi|per|tro|[fi]|a
+hipertrofiado	adjetivo	hi|per|tro|fi|[a]|do
+hipertrofiar	verbo	hi|per|tro|fi|[ar]
+hipertroficamente	advérbio	hi|per|tro|fi|ca|[men]|te
+hipertrófico	adjetivo	hi|per|[tró]|fi|co
+hiperurbanismo	nome masculino	hi|pe|rur|ba|[nis]|mo
+hiperurese	nome feminino	hi|pe|ru|[re]|se
+hipervaidade	nome feminino	hi|per|vai|[da]|de
+hipervaidoso	adjetivo	hi|per|vai|[do]|so
+hiperventilação	nome feminino	hi|per|ven|ti|la|[ção]
+hiperventilado	adjetivo	hi|per|ven|ti|[la]|do
+hiperventilar	verbo	hi|per|ven|ti|[lar]
+hipervitaminose	nome feminino	hi|per|vi|ta|mi|[no]|se
+hipestesia	nome feminino	hi|pes|te|[si]|a
+hipestésico	adjetivo	hi|pes|[té]|si|co
+hipestético	adjetivo	hi|pes|[té]|ti|co
+hipetro	nome masculino	hi|[pe]|tro
+hipeutéctico	adjetivo	hi|peu|[téc]|ti|co
+hipeutético	adjetivo	hi|peu|[té]|ti|co
+hipiatria	nome feminino	hi|pi|a|[tri]|a
+hipiátrica	nome feminino	hi|pi|[á]|tri|ca
+hipiátrico	adjetivo	hi|pi|[á]|tri|co
+hipiatro	nome masculino	hi|pi|[a]|tro
+hipicamente	advérbio	hi|pi|ca|[men]|te
+hípico	adjetivo	[hí]|pi|co
+hipinose	nome feminino	hi|pi|[no]|se
+hípio	nome masculino	[hí]|pi|o
+hipismo	nome masculino	hi|[pis]|mo
+hipnagógico	nome masculino	hip|na|[gó]|gi|co
+hipnagógico	adjetivo	hip|na|[gó]|gi|co
+hipnanestesia	nome feminino	hip|na|nes|te|[si]|a
+hipnanestésico	adjetivo	hip|na|nes|[té]|si|co
+hipniatria	nome feminino	hip|ni|a|[tri]|a
+hipniátrico	adjetivo	hip|ni|[á]|tri|co
+hipniatro	nome masculino	hip|ni|[a]|tro
+hípnico	adjetivo	[híp]|ni|co
+hipnoanálise	nome feminino	hip|no|a|[ná]|li|se
+hipnóbata	nome masculino	hip|[nó]|ba|ta
+hipnóbata	nome feminino	hip|[nó]|ba|ta
+hipnococo	nome masculino	hip|no|[co]|co
+hipnofobia	nome feminino	hip|no|fo|[bi]|a
+hipnófobo	nome masculino	hip|[nó]|fo|bo
+hipnógeno	adjetivo	hip|[nó]|ge|no
+hipnografia	nome feminino	hip|no|gra|[fi]|a
+hipnográfico	adjetivo	hip|no|[grá]|fi|co
+hipnoide	adjetivo	hip|[noi]|de
+hipnolepsia	nome feminino	hip|no|lep|[si]|a
+hipnoléptico	adjetivo	hip|no|[lép]|ti|co
+hipnologia	nome feminino	hip|no|lo|[gi]|a
+hipnológico	adjetivo	hip|no|[ló]|gi|co
+hipnólogo	nome masculino	hip|[nó]|lo|go
+hipnomania	nome feminino	hip|no|ma|[ni]|a
+hipnopatia	nome feminino	hip|no|pa|[ti]|a
+hipnopático	adjetivo	hip|no|[pá]|ti|co
+hipnopedia	nome feminino	hip|no|pe|[di]|a
+hipnose	nome feminino	hip|[no]|se
+hipnosia	nome feminino	hip|no|[si]|a
+hipnoterapia	nome feminino	hip|no|te|ra|[pi]|a
+hipnoterápico	adjetivo	hip|no|te|[rá]|pi|co
+hipnótico	nome masculino	hip|[nó]|ti|co
+hipnótico	adjetivo	hip|[nó]|ti|co
+hipnotismo	nome masculino	hip|no|[tis]|mo
+hipnotista	nome masculino	hip|no|[tis]|ta
+hipnotista	nome feminino	hip|no|[tis]|ta

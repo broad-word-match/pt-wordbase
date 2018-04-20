@@ -1,0 +1,100 @@
+quacacuja	nome masculino	qua|ca|[cu]|ja
+quacre	nome masculino	[qua]|cre
+quacriano	adjetivo	qua|cri|[a]|no
+quacrismo	nome masculino	qua|[cris]|mo
+quaderna	nome feminino	qua|[der]|na
+quadernado	adjetivo	qua|der|[na]|do
+quadernal	nome masculino	qua|der|[nal]
+quado	adjetivo	[qua]|do
+quado	nome masculino	[qua]|do
+quadra	nome feminino	[qua]|dra
+quadraçal	nome masculino	qua|dra|[çal]
+quadrada	nome feminino	qua|[dra]|da
+quadradinho	nome masculino	qua|dra|[di]|nho
+quadradito	nome masculino	qua|dra|[di]|to
+quadrado	adjetivo	qua|[dra]|do
+quadrado	nome masculino	qua|[dra]|do
+quadrador	adjetivo	qua|dra|[dor]
+quadrador	nome masculino	qua|dra|[dor]
+quadradozinho	nome masculino	qua|dra|do|[zi]|nho
+quadradozito	nome masculino	qua|dra|do|[zi]|to
+quadradura	nome feminino	qua|dra|[du]|ra
+quadragenária	nome feminino	qua|dra|ge|[ná]|ri|a
+quadragenário	adjetivo	qua|dra|ge|[ná]|ri|o
+quadragenário	nome masculino	qua|dra|ge|[ná]|ri|o
+quadragésima	nome feminino	qua|dra|[gé]|si|ma
+quadragesimal	adjetivo	qua|dra|ge|si|[mal]
+quadragésimo	adjetivo	qua|dra|[gé]|si|mo
+quadragésimo	número ordinal	qua|dra|[gé]|si|mo
+quadragésimo	nome masculino	qua|dra|[gé]|si|mo
+quadragésimo	número fraccional	qua|dra|[gé]|si|mo
+quadrangulação	nome feminino	qua|dran|gu|la|[ção]
+quadrangulado	adjetivo	qua|dran|gu|[la]|do
+quadrangular	nome masculino	qua|dran|gu|[lar]
+quadrangular	adjetivo	qua|dran|gu|[lar]
+quadrangularmente	advérbio	qua|dran|gu|lar|[men]|te
+quadrângulo	nome masculino	qua|[drân]|gu|lo
+quadrantal	adjetivo	qua|dran|[tal]
+quadrantal	nome masculino	qua|dran|[tal]
+quadrante	nome masculino	qua|[dran]|te
+quadrar	verbo	qua|[drar]
+quadrático	adjetivo	qua|[drá]|ti|co
+quadratífero	adjetivo	qua|dra|[tí]|fe|ro
+quadratim	nome masculino	qua|dra|[tim]
+quadratriz	nome feminino	qua|dra|[triz]
+quadratura	nome feminino	qua|dra|[tu]|ra
+quadraturista	nome masculino	qua|dra|tu|[ris]|ta
+quadraturista	nome feminino	qua|dra|tu|[ris]|ta
+quadrável	adjetivo	qua|[drá]|vel
+quadrazenho	adjetivo	qua|dra|[ze]|nho
+quadrazenho	nome masculino	qua|dra|[ze]|nho
+quadrela	nome feminino	qua|[dre]|la
+quadrelo	nome masculino	qua|[dre]|lo
+quadrialado	adjetivo	qua|dri|a|[la]|do
+quadriângulo	nome masculino	qua|dri|[ân]|gu|lo
+quadribásico	adjetivo	qua|dri|[bá]|si|co
+quadriburgense	nome masculino	qua|dri|bur|[gen]|se
+quadriburgense	adjetivo	qua|dri|bur|[gen]|se
+quadriburgense	nome feminino	qua|dri|bur|[gen]|se
+quadribúrgio	adjetivo	qua|dri|[búr]|gi|o
+quadribúrgio	nome masculino	qua|dri|[búr]|gi|o
+quádrica	nome feminino	[quá]|dri|ca
+quadricapsular	adjetivo	qua|dri|cap|su|[lar]
+quadricarboneto	nome masculino	qua|dri|car|bo|[ne]|to
+quadricelular	adjetivo	qua|dri|ce|lu|[lar]
+quadricentenário	nome masculino	qua|dri|cen|te|[ná]|ri|o
+quadricêntrico	adjetivo	qua|dri|[cên]|tri|co
+quadríceps	nome masculino	qua|[drí]|ceps
+quadriciclo	nome masculino	qua|dri|[ci]|clo
+quadriciclo	adjetivo	qua|dri|[ci]|clo
+quadricipital	adjetivo	qua|dri|ci|pi|[tal]
+quadricípite	nome masculino	qua|dri|[cí]|pi|te
+quadricolor	adjetivo	qua|dri|co|[lor]
+quadricórneo	adjetivo	qua|dri|[cór]|ne|o
+quadricotiledôneo	adjetivo	qua|dri|co|ti|le|[dô]|ne|o
+quadricotiledóneo	adjetivo	qua|dri|co|ti|le|[dó]|ne|o
+quadricromia	nome feminino	qua|dri|cro|[mi]|a
+quadrícula	nome feminino	qua|[drí]|cu|la
+quadriculado	adjetivo	qua|dri|cu|[la]|do
+quadriculado	nome masculino	qua|dri|cu|[la]|do
+quadricular	verbo	qua|dri|cu|[lar]
+quadricular	adjetivo	qua|dri|cu|[lar]
+quadrículo	nome masculino	qua|[drí]|cu|lo
+quadricúspide	adjetivo	qua|dri|[cús]|pi|de
+quadridecimal	adjetivo	qua|dri|de|ci|[mal]
+quadridentado	adjetivo	qua|dri|den|[ta]|do
+quadridente	nome masculino	qua|dri|[den]|te
+quadridigitado	adjetivo	qua|dri|di|gi|[ta]|do
+quadrienal	adjetivo	qua|dri|e|[nal]
+quadrienalmente	advérbio	qua|dri|e|nal|[men]|te
+quadriénio	nome masculino	qua|dri|[é]|ni|o
+quadriênio	nome masculino	qua|dri|[ê]|ni|o
+quadriexagonal	adjetivo	qua|dri|e|xa|go|[nal]
+quadrifário	adjetivo	qua|dri|[fá]|ri|o
+quadrifendido	adjetivo	qua|dri|fen|[di]|do
+quadrífido	adjetivo	qua|[drí]|fi|do
+quadrifínio	nome masculino	qua|dri|[fí]|ni|o
+quadriflóreo	adjetivo	qua|dri|[fló]|re|o
+quadrifloro	adjetivo	qua|dri|[flo]|ro
+quadrifoliado	adjetivo	qua|dri|fo|li|[a]|do
+quadrifólio	nome masculino	qua|dri|[fó]|li|o

@@ -1,0 +1,100 @@
+mirandelense	nome feminino	mi|ran|de|[len]|se
+mirandense	adjetivo	mi|ran|[den]|se
+mirandense	nome masculino	mi|ran|[den]|se
+mirandense	nome feminino	mi|ran|[den]|se
+mirandês	nome masculino	mi|ran|[dês]
+mirandês	adjetivo	mi|ran|[dês]
+mirandesa	nome feminino	mi|ran|[de]|sa
+mirandino	adjetivo	mi|ran|[di]|no
+mirandopolitano	adjetivo	mi|ran|do|po|li|[ta]|no
+mirandopolitano	nome masculino	mi|ran|do|po|li|[ta]|no
+mirandum	nome masculino	mi|ran|[dum]
+mirangolo	nome masculino	mi|ran|[go]|lo
+mirante	nome masculino	mi|[ran]|te
+mirão	nome masculino	mi|[rão]
+mirar	verbo	mi|[rar]
+mirassolense	adjetivo	mi|ras|so|[len]|se
+mirassolense	nome masculino	mi|ras|so|[len]|se
+mirassolense	nome feminino	mi|ras|so|[len]|se
+mirense	nome masculino	mi|[ren]|se
+mirense	adjetivo	mi|[ren]|se
+mirense	nome feminino	mi|[ren]|se
+mirgã	nome feminino	mir|[gã]
+mirgadeira	nome feminino	mir|ga|[dei]|ra
+miri	nome masculino	mi|[ri]
+miríada	nome feminino	mi|[rí]|a|da
+miríade	nome feminino	mi|[rí]|a|de
+miriagrama	nome masculino	mi|ri|a|[gra]|ma
+mirialitro	nome masculino	mi|ri|a|[li]|tro
+miriâmetro	nome masculino	mi|ri|[â]|me|tro
+miriana	nome feminino	mi|ri|[a]|na
+mirianto	nome masculino	mi|ri|[an]|to
+miriapieze	nome masculino	mi|ri|a|pi|[e]|ze
+miriápode	adjetivo	mi|ri|[á]|po|de
+miriápode	nome masculino	mi|ri|[á]|po|de
+miriare	nome masculino	mi|ri|[a]|re
+miriastere	nome masculino	mi|ri|as|[te]|re
+miriastéreo	nome masculino	mi|ri|as|[té]|re|o
+mirica	nome feminino	mi|[ri]|ca
+miricácea	nome feminino	mi|ri|[cá]|ce|a
+miricáceo	adjetivo	mi|ri|[cá]|ce|o
+mirícico	adjetivo	mi|[rí]|ci|co
+miricina	nome feminino	mi|ri|[ci]|na
+mirificamente	advérbio	mi|ri|fi|ca|[men]|te
+mirificar	verbo	mi|ri|fi|[car]
+mirífico	adjetivo	mi|[rí]|fi|co
+mirim	nome masculino	mi|[rim]
+mirim	adjetivo	mi|[rim]
+mirim	nome feminino	mi|[rim]
+mirina	nome feminino	mi|[ri]|na
+mirindiba	nome feminino	mi|rin|[di]|ba
+miringe	nome feminino	mi|[rin]|ge
+miringite	nome feminino	mi|rin|[gi]|te
+miringocitese	nome feminino	mi|rin|go|ci|[te]|se
+miringoplastia	nome feminino	mi|rin|go|plas|[ti]|a
+miringotomia	nome feminino	mi|rin|go|to|[mi]|a
+miringuaçu	nome masculino	mi|rin|gua|[çu]
+mirinzal	nome masculino	mi|rin|[zal]
+mirió	nome masculino	mi|ri|[ó]
+miriofilo	adjetivo	mi|ri|o|[fi]|lo
+miriofilo	nome masculino	mi|ri|o|[fi]|lo
+mirioftalmo	adjetivo	mi|ri|of|[tal]|mo
+miriógono	nome masculino	mi|ri|[ó]|go|no
+miriónimo	adjetivo	mi|ri|[ó]|ni|mo
+miriônimo	adjetivo	mi|ri|[ô]|ni|mo
+miriópode	nome masculino	mi|ri|[ó]|po|de
+miriópode	adjetivo	mi|ri|[ó]|po|de
+miriquiná	nome masculino	mi|ri|qui|[ná]
+miristicácea	nome feminino	mi|ris|ti|[cá]|ce|a
+miristicina	nome feminino	mi|ris|ti|[ci]|na
+mirístico	adjetivo	mi|[rís]|ti|co
+miriti	nome masculino	mi|ri|[ti]
+mirleano	adjetivo	mir|le|[a]|no
+mirleano	nome masculino	mir|le|[a]|no
+mirmece	nome masculino	mir|[me]|ce
+mirmécio	nome masculino	mir|[mé]|ci|o
+mirmecóbio	nome masculino	mir|me|[có]|bi|o
+mirmecofagídeo	nome masculino	mir|me|co|fa|[gí]|de|o
+mirmecofagídeo	adjetivo	mir|me|co|fa|[gí]|de|o
+mirmecófago	adjetivo	mir|me|[có]|fa|go
+mirmecófago	nome masculino	mir|me|[có]|fa|go
+mirmecófila	nome feminino	mir|me|[có]|fi|la
+mirmecofilia	nome feminino	mir|me|co|fi|[li]|a
+mirmecofílico	adjetivo	mir|me|co|[fí]|li|co
+mirmecófilo	adjetivo	mir|me|[có]|fi|lo
+mirmecófilo	nome masculino	mir|me|[có]|fi|lo
+mirmecologia	nome feminino	mir|me|co|lo|[gi]|a
+mirmecológico	adjetivo	mir|me|co|[ló]|gi|co
+mirmeleão	nome masculino	mir|me|le|[ão]
+mirmeleonídeo	nome masculino	mir|me|le|o|[ní]|de|o
+mirmeleonídeo	nome masculino	mir|me|le|o|[ní]|de|o
+mirmeleonídeo	adjetivo	mir|me|le|o|[ní]|de|o
+mirmequite	nome feminino	mir|me|[qui]|te
+mirmidão	nome masculino	mir|mi|[dão]
+mirmídone	nome masculino	mir|[mí]|do|ne
+mirmídone	nome feminino	mir|[mí]|do|ne
+mirmilão	nome masculino	mir|mi|[lão]
+mirobálano	nome masculino	mi|ro|[bá]|la|no
+mirolha	nome feminino	mi|[ro]|lha
+mirolho	adjetivo	mi|[ro]|lho
+mirolho	nome masculino	mi|[ro]|lho

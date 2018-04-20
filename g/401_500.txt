@@ -1,0 +1,100 @@
+galdrapa	nome feminino	gal|[dra]|pa
+galdripeiro	adjetivo	gal|dri|[pei]|ro
+galdripeiro	nome masculino	gal|dri|[pei]|ro
+galdripo	nome masculino	gal|[dri]|po
+galdrope	nome masculino	gal|[dro]|pe
+galé	nome feminino	ga|[lé]
+galé	nome masculino	ga|[lé]
+gálea	nome feminino	[gá]|le|a
+galeaça	nome feminino	ga|le|[a]|ça
+galeado	adjetivo	ga|le|[a]|do
+galeanconismo	nome masculino	ga|le|an|co|[nis]|mo
+galeantropia	nome feminino	ga|le|an|tro|[pi]|a
+galeantrópico	adjetivo	ga|le|an|[tró]|pi|co
+galeão	nome masculino	ga|le|[ão]
+galear	verbo	ga|le|[ar]
+galeato	adjetivo	ga|le|[a]|to
+galécio-português	adjetivo	ga|lé|ci|o-por|tu|guês
+galécio-português	nome masculino	ga|lé|ci|o-por|tu|guês
+galega	nome feminino	ga|[le]|ga
+galegada	nome feminino	ga|le|[ga]|da
+galegagem	nome feminino	ga|le|[ga]|gem
+galegaria	nome feminino	ga|le|ga|[ri]|a
+galego	adjetivo	ga|[le]|go
+galego	nome masculino	ga|[le]|go
+galego-português	adjetivo	ga|le|go-por|tu|[guês]
+galego-português	nome masculino	ga|le|go-por|tu|[guês]
+galeguice	nome feminino	ga|le|[gui]|ce
+galeguismo	nome masculino	ga|le|[guis]|mo
+galeiforme	adjetivo	ga|lei|[for]|me
+galeio	nome masculino	ga|[lei]|o
+galeirão	nome masculino	ga|lei|[rão]
+galeiro	nome masculino	ga|[lei]|ro
+galela	nome feminino	ga|[le]|la
+galelo	nome masculino	ga|[le]|lo
+galém	nome masculino	ga|[lém]
+galena	nome masculino	ga|[le]|na
+galena	nome feminino	ga|[le]|na
+galengue	nome masculino	ga|[len]|gue
+galénia	nome feminino	ga|[lé]|ni|a
+galênia	nome feminino	ga|[lê]|ni|a
+galênico	adjetivo	ga|[lê]|ni|co
+galénico	adjetivo	ga|[lé]|ni|co
+galenismo	nome masculino	ga|le|[nis]|mo
+galenista	nome masculino	ga|le|[nis]|ta
+galenista	nome feminino	ga|le|[nis]|ta
+galenita	nome feminino	ga|le|[ni]|ta
+galenite	nome feminino	ga|le|[ni]|te
+galeno	nome masculino	ga|[le]|no
+galenoceratite	nome feminino	ga|le|no|ce|ra|[ti]|te
+galeofobia	nome feminino	ga|le|o|fo|[bi]|a
+galéola	nome feminino	ga|[lé]|o|la
+galeolária	nome feminino	ga|le|o|[lá]|ri|a
+galeonete	nome masculino	ga|le|o|[ne]|te
+galeopiteco	nome masculino	ga|le|o|pi|[te]|co
+galeota	nome feminino	ga|le|[o]|ta
+galeote	nome masculino	ga|le|[o]|te
+galera	nome feminino	ga|[le]|ra
+galerão	nome masculino	ga|le|[rão]
+galeria	nome feminino	ga|le|[ri]|a
+galeriano	adjetivo	ga|le|ri|[a]|no
+galeriano	nome masculino	ga|le|ri|[a]|no
+galerista	nome masculino	ga|le|[ris]|ta
+galerista	nome feminino	ga|le|[ris]|ta
+galerístico	adjetivo	ga|le|[rís]|ti|co
+galerno	adjetivo	ga|[ler]|no
+galerno	nome masculino	ga|[ler]|no
+galero	nome masculino	ga|[le]|ro
+galês	adjetivo	ga|[lês]
+galês	nome masculino	ga|[lês]
+galés	nome feminino	ga|[lés]
+galesa	nome feminino	ga|[le]|sa
+galezia	nome feminino	ga|le|[zi]|a
+galfarro	nome masculino	gal|[far]|ro
+galfeira	nome feminino	gal|[fei]|ra
+galfoeira	nome feminino	gal|fo|[ei]|ra
+galga	nome feminino	[gal]|ga
+galgação	nome feminino	gal|ga|[ção]
+galgadeira	nome feminino	gal|ga|[dei]|ra
+galgar	verbo	gal|[gar]
+galgaz	adjetivo	gal|[gaz]
+galgo	nome masculino	[gal]|go
+galgo	adjetivo	[gal]|go
+galgueira	nome feminino	gal|[guei]|ra
+galgueiro	adjetivo	gal|[guei]|ro
+galguenho	adjetivo	gal|[gue]|nho
+galguenho	nome masculino	gal|[gue]|nho
+galguincho	adjetivo	gal|[guin]|cho
+galha	nome feminino	[ga]|lha
+galhada	nome feminino	ga|[lha]|da
+galhadura	nome feminino	ga|lha|[du]|ra
+galhano	adjetivo	ga|[lha]|no
+galharda	nome feminino	ga|[lhar]|da
+galhardamente	advérbio	ga|lhar|da|[men]|te
+galhardear	verbo	ga|lhar|de|[ar]
+galhardete	nome masculino	ga|lhar|[de]|te
+galhardia	nome feminino	ga|lhar|[di]|a
+galhardo	nome masculino	ga|[lhar]|do
+galhardo	adjetivo	ga|[lhar]|do
+galharia	nome feminino	ga|lha|[ri]|a
+galhastro	nome masculino	ga|[lhas]|tro

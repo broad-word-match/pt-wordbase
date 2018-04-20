@@ -1,0 +1,100 @@
+regeneradora	nome feminino	re|ge|ne|ra|[do]|ra
+regenerando	adjetivo	re|ge|ne|[ran]|do
+regenerante	adjetivo	re|ge|ne|[ran]|te
+regenerar	verbo	re|ge|ne|[rar]
+regenerativo	adjetivo	re|ge|ne|ra|[ti]|vo
+regenerável	adjetivo	re|ge|ne|[rá]|vel
+regenerescência	nome feminino	re|ge|ne|res|[cên]|ci|a
+regente	adjetivo	re|[gen]|te
+regente	nome masculino	re|[gen]|te
+regente	nome feminino	re|[gen]|te
+reger	verbo	re|[ger]
+regerar	verbo	re|ge|[rar]
+regesto	nome masculino	re|[ges]|to
+reggae	nome masculino	[reg]|gae
+régia	nome feminino	[ré]|gi|a
+regiamente	advérbio	re|gi|a|[men]|te
+regiano	adjetivo	re|gi|[a]|no
+região	nome feminino	re|gi|[ão]
+regibó	nome masculino	re|gi|[bó]
+regicida	nome masculino	re|gi|[ci]|da
+regicida	nome feminino	re|gi|[ci]|da
+regicídio	nome masculino	re|gi|[cí]|di|o
+régie	nome feminino	[ré]|gie
+regiense	adjetivo	re|gi|[en]|se
+regiense	nome masculino	re|gi|[en]|se
+regiense	nome feminino	re|gi|[en]|se
+regifúgio	nome masculino	re|gi|[fú]|gi|o
+regila	nome feminino	re|[gi]|la
+regime	nome masculino	re|[gi]|me
+regímen	nome masculino	re|[gí]|men
+regimental	adjetivo	re|gi|men|[tal]
+regimentalmente	advérbio	re|gi|men|tal|[men]|te
+regimentar	verbo	re|gi|men|[tar]
+regimentar	adjetivo	re|gi|men|[tar]
+regimentista	adjetivo	re|gi|men|[tis]|ta
+regimento	nome masculino	re|gi|[men]|to
+regina	nome feminino	re|[gi]|na
+reginagem	nome feminino	re|gi|[na]|gem
+reginar	verbo	re|gi|[nar]
+reginense	adjetivo	re|gi|[nen]|se
+reginense	nome masculino	re|gi|[nen]|se
+reginense	nome feminino	re|gi|[nen]|se
+regíneo	adjetivo	re|[gí]|ne|o
+regino	adjetivo	re|[gi]|no
+regino	nome masculino	re|[gi]|no
+regínula	nome feminino	re|[gí]|nu|la
+régio	adjetivo	[ré]|gi|o
+régio	nome masculino	[ré]|gi|o
+regiolectal	adjetivo	re|gi|o|lec|[tal]
+regiolecto	nome masculino	re|gi|o|[lec]|to
+regioletal	adjetivo	re|gi|o|le|[tal]
+regioleto	nome masculino	re|gi|o|[le]|to
+regional	adjetivo	re|gi|o|[nal]
+regionalismo	nome masculino	re|gi|o|na|[lis]|mo
+regionalista	nome masculino	re|gi|o|na|[lis]|ta
+regionalista	adjetivo	re|gi|o|na|[lis]|ta
+regionalista	nome feminino	re|gi|o|na|[lis]|ta
+regionalístico	adjetivo	re|gi|o|na|[lís]|ti|co
+regionalização	nome feminino	re|gi|o|na|li|za|[ção]
+regionalizar	verbo	re|gi|o|na|li|[zar]
+regionalmente	advérbio	re|gi|o|nal|[men]|te
+regirar	verbo	re|gi|[rar]
+regiro	nome masculino	re|[gi]|ro
+registação	nome feminino	re|gis|ta|[ção]
+registado	adjetivo	re|gis|[ta]|do
+registador	adjetivo	re|gis|ta|[dor]
+registador	nome masculino	re|gis|ta|[dor]
+registadora	nome feminino	re|gis|ta|[do]|ra
+registar	verbo	re|gis|[tar]
+registável	adjetivo	re|gis|[tá]|vel
+registo	nome masculino	re|[gis]|to
+registração	nome feminino	re|gis|tra|[ção]
+registrador	adjetivo	re|gis|tra|[dor]
+registrador	nome masculino	re|gis|tra|[dor]
+registradora	nome feminino	re|gis|tra|[do]|ra
+registrar	verbo	re|gis|[trar]
+registrável	adjetivo	re|gis|[trá]|vel
+registro	nome masculino	re|[gis]|tro
+regível	adjetivo	re|[gí]|vel
+regloscópio	nome masculino	re|glos|[có]|pi|o
+regmatodonte	nome masculino	reg|ma|to|[don]|te
+regnicídio	nome masculino	reg|ni|[cí]|di|o
+regnícola	adjetivo	reg|[ní]|co|la
+regnícola	nome masculino	reg|[ní]|co|la
+regnícola	nome feminino	reg|[ní]|co|la
+rego	nome masculino	[re]|go
+regoar	verbo	re|go|[ar]
+regola	nome feminino	re|[go]|la
+regolfo	nome masculino	re|[gol]|fo
+rególito	nome masculino	re|[gó]|li|to
+regoliz	nome masculino	re|go|[liz]
+regorjeador	adjetivo	re|gor|je|a|[dor]
+regorjeador	nome masculino	re|gor|je|a|[dor]
+regorjear	verbo	re|gor|je|[ar]
+regorjeio	nome masculino	re|gor|[jei]|o
+regougar	verbo	re|gou|[gar]
+regougo	nome masculino	re|[gou]|go
+regozijador	adjetivo	re|go|zi|ja|[dor]
+regozijar	verbo	re|go|zi|[jar]
+regozijo	nome masculino	re|go|[zi]|jo

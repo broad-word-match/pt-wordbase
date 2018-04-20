@@ -1,0 +1,100 @@
+corneta	nome masculino	cor|[ne]|ta
+corneta	nome feminino	cor|[ne]|ta
+corneta-acústica	nome feminino	cor|ne|ta-a|[cús]|ti|ca
+cornetada	nome feminino	cor|ne|[ta]|da
+cornetão	nome masculino	cor|ne|[tão]
+cornetear	verbo	cor|ne|te|[ar]
+corneteiro	nome masculino	cor|ne|[tei]|ro
+cornetim	nome masculino	cor|ne|[tim]
+corneto	nome masculino	cor|[ne]|to
+cornetola	nome feminino	cor|ne|[to]|la
+cornetto	nome masculino	cor|net|to
+cornflakes	nome masculino	corn|fla|kes
+corniaberto	adjetivo	cor|ni|a|[ber]|to
+cornialto	adjetivo	cor|ni|[al]|to
+cornibaixo	adjetivo	cor|ni|[bai]|xo
+córnica	nome feminino	[cór]|ni|ca
+cornicabra	nome feminino	cor|ni|[ca]|bra
+cornicão	nome masculino	cor|ni|[cão]
+cornichão	nome masculino	cor|ni|[chão]
+cornicho	nome masculino	cor|[ni]|cho
+cornichoso	adjetivo	cor|ni|[cho]|so
+cornico	nome masculino	cor|[ni]|co
+córnico	nome masculino	[cór]|ni|co
+córnico	adjetivo	[cór]|ni|co
+corniculado	adjetivo	cor|ni|cu|[la]|do
+corniculano	adjetivo	cor|ni|cu|[la]|no
+corniculano	nome masculino	cor|ni|cu|[la]|no
+corniculário	nome masculino	cor|ni|cu|[lá]|ri|o
+corniculífero	adjetivo	cor|ni|cu|[lí]|fe|ro
+cornículo	nome masculino	cor|[ní]|cu|lo
+cornicurto	adjetivo	cor|ni|[cur]|to
+cornidianteiro	adjetivo	cor|ni|di|an|[tei]|ro
+cornífero	adjetivo	cor|[ní]|fe|ro
+cornificação	nome feminino	cor|ni|fi|ca|[ção]
+cornificar	verbo	cor|ni|fi|[car]
+corniforme	adjetivo	cor|ni|[for]|me
+cornígero	adjetivo	cor|[ní]|ge|ro
+cornija	nome feminino	cor|[ni]|ja
+cornilargo	adjetivo	cor|ni|[lar]|go
+cornilhão	nome masculino	cor|ni|[lhão]
+corniluzente	adjetivo	cor|ni|lu|[zen]|te
+cornimboque	nome masculino	cor|nim|[bo]|que
+corninhal	nome masculino	cor|ni|[nhal]
+corninho	nome masculino	cor|[ni]|nho
+corníola	nome feminino	cor|[ní]|o|la
+corníolo	nome masculino	cor|[ní]|o|lo
+cornípede	adjetivo	cor|[ní]|pe|de
+cornípeto	adjetivo	cor|[ní]|pe|to
+cornípeto	nome masculino	cor|[ní]|pe|to
+cornipo	nome masculino	cor|[ni]|po
+cornivoltado	adjetivo	cor|ni|vol|[ta]|do
+cornizo	nome masculino	cor|[ni]|zo
+cornizolo	nome masculino	cor|ni|[zo]|lo
+corno	nome masculino	[cor]|no
+corno	adjetivo	[cor]|no
+cornofone	nome masculino	cor|no|[fo]|ne
+cornogodinho	nome masculino	cor|no|go|[di]|nho
+cornozelo	nome masculino	cor|no|[ze]|lo
+cornuácea	nome feminino	cor|nu|[á]|ce|a
+cornucópia	nome feminino	cor|nu|[có]|pi|a
+cornuda	nome feminino	cor|[nu]|da
+cornudo	nome masculino	cor|[nu]|do
+cornudo	adjetivo	cor|[nu]|do
+cornúpeto	adjetivo	cor|[nú]|pe|to
+cornúpeto	nome masculino	cor|[nú]|pe|to
+cornuta	nome feminino	cor|[nu]|ta
+cornuto	adjetivo	cor|[nu]|to
+cornuto	nome masculino	cor|[nu]|to
+coro	nome masculino	[co]|ro
+coró-coró	nome masculino	co|ró-co|[ró]
+coroá	nome feminino	co|ro|[á]
+coroa	nome feminino	co|[ro]|a
+coroa	nome masculino	co|[ro]|a
+coroa-de-henrique	nome feminino	co|ro|a-de-hen|[ri]|que
+coroa-de-rei	nome feminino	co|ro|a-de-rei
+coroa-imperial	nome feminino	co|ro|a-im|pe|ri|[al]
+coroação	nome feminino	co|ro|a|[ção]
+coroada	nome feminino	co|ro|[a]|da
+coroado	adjetivo	co|ro|[a]|do
+coroado	nome masculino	co|ro|[a]|do
+coroamento	nome masculino	co|ro|a|[men]|to
+coroar	verbo	co|ro|[ar]
+coroboca	nome feminino	co|ro|[bo]|ca
+coroca	adjetivo	co|[ro]|ca
+coroca	nome masculino	co|[ro]|ca
+coroça	nome feminino	co|[ro]|ça
+coroca	nome feminino	co|[ro]|ca
+coroço	nome masculino	co|[ro]|ço
+corocoxó	nome masculino	co|ro|co|[xó]
+corodidáscalo	nome masculino	co|ro|di|[dás]|ca|lo
+corografia	nome feminino	co|ro|gra|[fi]|a
+corograficamente	advérbio	co|ro|gra|fi|ca|[men]|te
+corográfico	adjetivo	co|ro|[grá]|fi|co
+corógrafo	nome masculino	co|[ró]|gra|fo
+coroide	nome feminino	co|[roi]|de
+coroideia	nome feminino	co|roi|[dei]|a
+coroidite	nome feminino	co|roi|[di]|te
+coroinha	nome masculino	co|ro|[i]|nha
+corola	nome feminino	co|[ro]|la
+coroláceo	adjetivo	co|ro|[lá]|ce|o

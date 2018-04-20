@@ -1,0 +1,100 @@
+alfeninar	verbo	al|fe|ni|[nar]
+alferça	nome feminino	al|[fer]|ça
+alferce	nome masculino	al|[fer]|ce
+alferena	nome feminino	al|fe|[re]|na
+alferes	nome masculino	al|[fe]|res
+alferes	nome feminino	al|[fe]|res
+alferes-mor	nome masculino	al|fe|res-mor
+alferga	nome feminino	al|[fer]|ga
+alfil	nome masculino	al|[fil]
+alfim	advérbio	al|[fim]
+alfim	nome masculino	al|[fim]
+alfinetada	nome feminino	al|fi|ne|[ta]|da
+alfinetadela	nome feminino	al|fi|ne|ta|[de]|la
+alfinetar	verbo	al|fi|ne|[tar]
+alfinete	nome masculino	al|fi|[ne]|te
+alfinete de ama	nome masculino	al|fi|[ne]|te de a|ma
+alfinete-de-toucar	nome masculino	al|fi|ne|te-de-tou|[car]
+alfinetear	verbo	al|fi|ne|te|[ar]
+alfineteira	nome feminino	al|fi|ne|[tei]|ra
+alfineteiro	nome masculino	al|fi|ne|[tei]|ro
+alfir	nome masculino	al|[fir]
+alfirme	nome masculino	al|[fir]|me
+alfitete	nome masculino	al|fi|[te]|te
+alfitóbio	nome masculino	al|fi|[tó]|bi|o
+alfitomancia	nome feminino	al|fi|to|man|[ci]|a
+alfitomante	nome masculino	al|fi|to|[man]|te
+alfitomante	nome feminino	al|fi|to|[man]|te
+alfitomântico	adjetivo	al|fi|to|[mân]|ti|co
+alfitra	nome feminino	al|[fi]|tra
+alfobre	nome masculino	al|[fo]|bre
+alfol	nome masculino	al|[fol]
+alfola	nome feminino	al|[fo]|la
+alfombra	nome feminino	al|[fom]|bra
+alfombrar	verbo	al|fom|[brar]
+alfonsia	nome feminino	al|fon|[si]|a
+alfonsim	nome masculino	al|fon|[sim]
+alforba	nome feminino	al|[for]|ba
+alforfa	nome feminino	al|[for]|fa
+alforfião	nome masculino	al|for|fi|[ão]
+alforge	nome masculino	al|[for]|ge
+alforgeiro	nome masculino	al|for|[gei]|ro
+alforja	nome feminino	al|[for]|ja
+alforjada	nome feminino	al|for|[ja]|da
+alforjar	verbo	al|for|[jar]
+alfornes	nome masculino	al|[for]|nes
+alforques	nome masculino	al|[for]|ques
+alforra	nome feminino	al|[for]|ra
+alforrar	verbo	al|for|[rar]
+alforreca	nome feminino	al|for|[re]|ca
+alforria	nome feminino	al|for|[ri]|a
+alforriada	nome feminino	al|for|ri|[a]|da
+alforriado	adjetivo	al|for|ri|[a]|do
+alforriado	nome masculino	al|for|ri|[a]|do
+alforriar	verbo	al|for|ri|[ar]
+alforva	nome feminino	al|[for]|va
+alfósita	nome feminino	al|[fó]|si|ta
+alfóstico	nome masculino	al|[fós]|ti|co
+alfostigueiro	nome masculino	al|fos|ti|[guei]|ro
+alfoucim	nome masculino	al|fou|[cim]
+alfoz	nome masculino	al|[foz]
+alfrecha	nome feminino	al|[fre]|cha
+alfrecheiro	nome masculino	al|fre|[chei]|ro
+alfrês	nome masculino	al|[frês]
+alfridária	nome feminino	al|fri|[dá]|ri|a
+alfrocheira	nome feminino	al|fro|[chei]|ra
+alfrocheiro	nome masculino	al|fro|[chei]|ro
+alfurja	nome feminino	al|[fur]|ja
+alfusqueiro	nome masculino	al|fus|[quei]|ro
+alga	nome feminino	[al]|ga
+algáceo	adjetivo	al|[gá]|ce|o
+algaço	nome masculino	al|[ga]|ço
+algália	nome feminino	al|[gá]|li|a
+algaliação	nome feminino	al|ga|li|a|[ção]
+algaliar	verbo	al|ga|li|[ar]
+alganame	nome masculino	al|ga|[na]|me
+algar	nome masculino	al|[gar]
+algara	nome feminino	al|[ga]|ra
+algarada	nome feminino	al|ga|[ra]|da
+algaravia	nome feminino	al|ga|ra|[vi]|a
+algaraviada	nome feminino	al|ga|ra|vi|[a]|da
+algaraviado	adjetivo	al|ga|ra|vi|[a]|do
+algaraviar	verbo	al|ga|ra|vi|[ar]
+algaraviz	nome masculino	al|ga|ra|[viz]
+algarbito	nome masculino	al|gar|[bi]|to
+algarejo	nome masculino	al|ga|[re]|jo
+algariça	nome feminino	al|ga|[ri]|ça
+algarido	nome masculino	al|ga|[ri]|do
+algarismo	nome masculino	al|ga|[ris]|mo
+algarocho	nome masculino	al|ga|[ro]|cho
+algarrada	nome feminino	al|gar|[ra]|da
+algarroba	nome feminino	al|gar|[ro]|ba
+algarve	nome masculino	al|[gar]|ve
+algarvia	nome feminino	al|gar|[vi]|a
+algarviense	adjetivo	al|gar|vi|[en]|se
+algarviense	nome masculino	al|gar|vi|[en]|se
+algarviense	nome feminino	al|gar|vi|[en]|se
+algarvio	nome masculino	al|gar|[vi]|o
+algarvio	adjetivo	al|gar|[vi]|o
+algarvismo	nome masculino	al|gar|[vis]|mo
+algarvite	nome feminino	al|gar|[vi]|te

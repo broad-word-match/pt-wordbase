@@ -1,0 +1,100 @@
+salomonicamente	advérbio	sa|lo|mo|ni|ca|[men]|te
+salomônico	adjetivo	sa|lo|[mô]|ni|co
+salomônico	nome masculino	sa|lo|[mô]|ni|co
+salomónico	adjetivo	sa|lo|[mó]|ni|co
+salomónico	nome masculino	sa|lo|[mó]|ni|co
+salonense	adjetivo	sa|lo|[nen]|se
+salonense	nome masculino	sa|lo|[nen]|se
+salonense	nome feminino	sa|lo|[nen]|se
+salonicense	nome masculino	sa|lo|ni|[cen]|se
+salonicense	adjetivo	sa|lo|ni|[cen]|se
+salonicense	nome feminino	sa|lo|ni|[cen]|se
+salonismo	nome masculino	sa|lo|[nis]|mo
+salonitano	adjetivo	sa|lo|ni|[ta]|no
+salonitano	nome masculino	sa|lo|ni|[ta]|no
+saloon	nome masculino	sa|loon
+salopiano	adjetivo	sa|lo|pi|[a]|no
+saloquinina	nome feminino	sa|lo|qui|[ni]|na
+salossândalo	nome masculino	sa|los|[sân]|da|lo
+salpa	nome feminino	[sal]|pa
+salpesano	nome masculino	sal|pe|[sa]|no
+salpesano	adjetivo	sal|pe|[sa]|no
+salpica	nome feminino	sal|[pi]|ca
+salpicado	adjetivo	sal|pi|[ca]|do
+salpicador	adjetivo	sal|pi|ca|[dor]
+salpicador	nome masculino	sal|pi|ca|[dor]
+salpicadura	nome feminino	sal|pi|ca|[du]|ra
+salpicamento	nome masculino	sal|pi|ca|[men]|to
+salpicante	adjetivo	sal|pi|[can]|te
+salpicão	nome masculino	sal|pi|[cão]
+salpicar	verbo	sal|pi|[car]
+salpico	nome masculino	sal|[pi]|co
+salpícola	nome feminino	sal|[pí]|co|la
+sálpida	nome masculino	[sál]|pi|da
+salpídeo	nome masculino	sal|[pí]|de|o
+salpídeo	adjetivo	sal|[pí]|de|o
+salpim	nome masculino	sal|[pim]
+salpimenta	adjetivo	sal|pi|[men]|ta
+salpimenta	nome masculino	sal|pi|[men]|ta
+salpimenta	nome feminino	sal|pi|[men]|ta
+salpimentar	verbo	sal|pi|men|[tar]
+salpina	nome feminino	sal|[pi]|na
+salpinate	adjetivo	sal|pi|[na]|te
+salpinate	nome masculino	sal|pi|[na]|te
+salpinate	nome feminino	sal|pi|[na]|te
+salpinge	nome feminino	sal|[pin]|ge
+salpingectomia	nome feminino	sal|pin|gec|to|[mi]|a
+salpingectómico	adjetivo	sal|pin|gec|[tó]|mi|co
+salpingectômico	adjetivo	sal|pin|gec|[tô]|mi|co
+salpíngia	nome feminino	sal|[pín]|gi|a
+salpíngico	adjetivo	sal|[pín]|gi|co
+salpíngio	nome masculino	sal|[pín]|gi|o
+salpingite	nome feminino	sal|pin|[gi]|te
+salpingoglossa	nome feminino	sal|pin|go|[glos]|sa
+salpingopiesia	nome feminino	sal|pin|go|pi|e|[si]|a
+salpingorrafia	nome feminino	sal|pin|gor|ra|[fi]|a
+salpingorráfico	adjetivo	sal|pin|gor|[rá]|fi|co
+salpingoscópico	adjetivo	sal|pin|gos|[có]|pi|co
+salpingoscópio	nome masculino	sal|pin|gos|[có]|pi|o
+salpingotomia	nome feminino	sal|pin|go|to|[mi]|a
+salpingotômico	adjetivo	sal|pin|go|[tô]|mi|co
+salpingotómico	adjetivo	sal|pin|go|[tó]|mi|co
+salpino	adjetivo	sal|[pi]|no
+salpino	nome masculino	sal|[pi]|no
+sálpio	nome masculino	[sál]|pi|o
+salpor	nome masculino	sal|[por]
+salporinha	nome feminino	sal|po|[ri]|nha
+salpresar	verbo	sal|pre|[sar]
+salpreso	adjetivo	sal|[pre]|so
+salreta	nome feminino	sal|[re]|ta
+salsa	nome feminino	[sal]|sa
+salsa	nome masculino	[sal]|sa
+salsa-brava	nome feminino	sal|sa-bra|va
+salsa-da-praia	nome feminino	sal|sa-da-prai|a
+salsa-de-cavalo	nome feminino	sal|sa-de-ca|[va]|lo
+salsa-verde	nome feminino	sal|sa-ver|de
+salsada	nome feminino	sal|[sa]|da
+salsaparrilha	nome feminino	sal|sa|par|[ri]|lha
+salsaparrilha-bastarda	nome feminino	sal|sa|par|ri|lha-bas|[tar]|da
+salsaparrilha-do-reino	nome feminino	sal|sa|par|ri|lha-do-rei|no
+salsar	verbo	sal|[sar]
+salseira	nome feminino	sal|[sei]|ra
+salseirada	nome feminino	sal|sei|[ra]|da
+salseirinha	nome feminino	sal|sei|[ri]|nha
+salseiro	nome masculino	sal|[sei]|ro
+salseiro	adjetivo	sal|[sei]|ro
+salsetano	adjetivo	sal|se|[ta]|no
+salsetano	nome masculino	sal|se|[ta]|no
+salsicha	nome feminino	sal|[si]|cha
+salsichão	nome masculino	sal|si|[chão]
+salsicharia	nome feminino	sal|si|cha|[ri]|a
+salsicheira	nome feminino	sal|si|[chei]|ra
+salsicheiro	nome masculino	sal|si|[chei]|ro
+salsífi-negro	nome masculino	sal|sí|fi-ne|gro
+salsifré	nome masculino	sal|si|[fré]
+salsinha	nome feminino	sal|[si]|nha
+salsinha	nome masculino	sal|[si]|nha
+salso	adjetivo	[sal]|so
+salsola	nome feminino	sal|[so]|la
+salsolácea	nome feminino	sal|so|[lá]|ce|a
+salsoláceo	adjetivo	sal|so|[lá]|ce|o

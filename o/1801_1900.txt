@@ -1,0 +1,100 @@
+onfácio	nome masculino	on|[fá]|ci|o
+onfálea	nome feminino	on|[fá]|le|a
+onfalectomia	nome feminino	on|fa|lec|to|[mi]|a
+onfalectômico	adjetivo	on|fa|lec|[tô]|mi|co
+onfalectómico	adjetivo	on|fa|lec|[tó]|mi|co
+onfália	nome feminino	on|[fá]|li|a
+onfalite	nome feminino	on|fa|[li]|te
+onfalocele	nome feminino	on|fa|lo|[ce]|le
+onfalódio	nome masculino	on|fa|[ló]|di|o
+onfalofima	nome masculino	on|fa|lo|[fi]|ma
+onfalomancia	nome feminino	on|fa|lo|man|[ci]|a
+onfalomante	nome masculino	on|fa|lo|[man]|te
+onfalomante	nome feminino	on|fa|lo|[man]|te
+onfalomântico	adjetivo	on|fa|lo|[mân]|ti|co
+onfalomesentérico	adjetivo	on|fa|lo|me|sen|[té]|ri|co
+onfaloncose	nome feminino	on|fa|lon|[co]|se
+onfalópago	nome masculino	on|fa|[ló]|pa|go
+onfalorragia	nome feminino	on|fa|lor|ra|[gi]|a
+onfalorrágico	adjetivo	on|fa|lor|[rá]|gi|co
+onfalosito	nome masculino	on|fa|lo|[si]|to
+onfalotomia	nome feminino	on|fa|lo|to|[mi]|a
+onfalotómico	adjetivo	on|fa|lo|[tó]|mi|co
+onfalotômico	adjetivo	on|fa|lo|[tô]|mi|co
+onfalótribo	nome masculino	on|fa|[ló]|tri|bo
+onfalotripsia	nome feminino	on|fa|lo|trip|[si]|a
+onganda	nome feminino	on|[gan]|da
+onglete	nome masculino	on|[gle]|te
+onguari	nome masculino	on|gua|[ri]
+ônibus	nome masculino	[ô]|ni|bus
+ónibus	nome masculino	[ó]|ni|bus
+onicatrofia	nome feminino	o|ni|ca|tro|[fi]|a
+onicauxe	nome feminino	o|ni|[cau]|xe
+onicofagia	nome feminino	o|ni|co|fa|[gi]|a
+onicófago	adjetivo	o|ni|[có]|fa|go
+onicófago	nome masculino	o|ni|[có]|fa|go
+onicofima	nome masculino	o|ni|co|[fi]|ma
+onicóforo	nome masculino	o|ni|[có]|fo|ro
+onicógena	nome feminino	o|ni|[có]|ge|na
+onicógeno	adjetivo	o|ni|[có]|ge|no
+onicografia	nome feminino	o|ni|co|gra|[fi]|a
+onicográfico	adjetivo	o|ni|co|[grá]|fi|co
+onicógrafo	nome masculino	o|ni|[có]|gra|fo
+onicogripose	nome feminino	o|ni|co|gri|[po]|se
+onicólise	nome feminino	o|ni|[có]|li|se
+onicolor	adjetivo	o|ni|co|[lor]
+onicomancia	nome feminino	o|ni|co|man|[ci]|a
+onicomante	nome masculino	o|ni|co|[man]|te
+onicomante	nome feminino	o|ni|co|[man]|te
+onicomântico	adjetivo	o|ni|co|[mân]|ti|co
+onicomicose	nome feminino	o|ni|co|mi|[co]|se
+onicopatia	nome feminino	o|ni|co|pa|[ti]|a
+onicopático	adjetivo	o|ni|co|[pá]|ti|co
+onicopterígia	nome feminino	o|ni|cop|te|[rí]|gi|a
+onicoptose	nome feminino	o|ni|cop|[to]|se
+onicorrexe	nome feminino	o|ni|cor|[re]|xe
+onicosclerose	nome feminino	o|ni|cos|cle|[ro]|se
+onicose	nome feminino	o|ni|[co]|se
+onicósico	adjetivo	o|ni|[có]|si|co
+onidirecional	adjetivo	o|ni|di|re|ci|o|[nal]
+oniforme	adjetivo	o|ni|[for]|me
+onifulgente	adjetivo	o|ni|ful|[gen]|te
+onigênero	adjetivo	o|ni|[gê]|ne|ro
+onigênero	nome masculino	o|ni|[gê]|ne|ro
+onilingue	adjetivo	o|ni|[lin]|gue
+onímodo	adjetivo	o|[ní]|mo|do
+oniologia	nome feminino	o|ni|o|lo|[gi]|a
+oniológico	adjetivo	o|ni|o|[ló]|gi|co
+oniomania	nome feminino	o|ni|o|ma|[ni]|a
+oniomaníaco	adjetivo	o|ni|o|ma|[ní]|a|co
+oniomaníaco	nome masculino	o|ni|o|ma|[ní]|a|co
+oniómano	nome masculino	o|ni|[ó]|ma|no
+oniômano	nome masculino	o|ni|[ô]|ma|no
+oniparente	adjetivo	o|ni|pa|[ren]|te
+oníparo	adjetivo	o|[ní]|pa|ro
+onipatente	adjetivo	o|ni|pa|[ten]|te
+onipessoal	adjetivo	o|ni|pes|so|[al]
+onipotência	nome feminino	o|ni|po|[tên]|ci|a
+onipotente	adjetivo	o|ni|po|[ten]|te
+onipresença	nome feminino	o|ni|pre|[sen]|ça
+onipresente	adjetivo	o|ni|pre|[sen]|te
+oniquia	nome feminino	o|ni|[qui]|a
+oníquio	nome masculino	o|[ní]|qui|o
+oniquite	nome feminino	o|ni|[qui]|te
+onírico	adjetivo	o|[ní]|ri|co
+onirismo	nome masculino	o|ni|[ris]|mo
+onirocrisia	nome feminino	o|ni|ro|cri|[si]|a
+onirócrita	nome masculino	o|ni|[ró]|cri|ta
+onirócrita	nome feminino	o|ni|[ró]|cri|ta
+onirocrítica	nome feminino	o|ni|ro|[crí]|ti|ca
+onirocrítico	adjetivo	o|ni|ro|[crí]|ti|co
+onirodinia	nome feminino	o|ni|ro|di|[ni]|a
+onirodínico	adjetivo	o|ni|ro|[dí]|ni|co
+onirogmo	nome masculino	o|ni|[rog]|mo
+onirografia	nome feminino	o|ni|ro|gra|[fi]|a
+onirográfico	adjetivo	o|ni|ro|[grá]|fi|co
+onirógrafo	nome masculino	o|ni|[ró]|gra|fo
+onirologia	nome feminino	o|ni|ro|lo|[gi]|a
+onirológico	adjetivo	o|ni|ro|[ló]|gi|co
+onirólogo	nome masculino	o|ni|[ró]|lo|go
+oniromancia	nome feminino	o|ni|ro|man|[ci]|a

@@ -1,0 +1,100 @@
+fulista	nome masculino	fu|[lis]|ta
+fulista	nome feminino	fu|[lis]|ta
+full-time	adjetivo	full-ti|me
+full-time	nome masculino	full-ti|me
+fulmega	nome feminino	ful|[me]|ga
+fulmialgodão	nome masculino	ful|mi|al|go|[dão]
+fulmifarelo	nome masculino	ful|mi|fa|[re]|lo
+fulmilenho	nome masculino	ful|mi|[le]|nho
+fulminação	nome feminino	ful|mi|na|[ção]
+fulminado	adjetivo	ful|mi|[na]|do
+fulminador	adjetivo	ful|mi|na|[dor]
+fulminador	nome masculino	ful|mi|na|[dor]
+fulminadora	nome feminino	ful|mi|na|[do]|ra
+fulminante	adjetivo	ful|mi|[nan]|te
+fulminante	nome masculino	ful|mi|[nan]|te
+fulminantemente	advérbio	ful|mi|nan|te|[men]|te
+fulminar	verbo	ful|mi|[nar]
+fulminativo	adjetivo	ful|mi|na|[ti]|vo
+fulminato	nome masculino	ful|mi|[na]|to
+fulminatório	adjetivo	ful|mi|na|[tó]|ri|o
+fulmíneo	adjetivo	ful|[mí]|ne|o
+fulmínico	adjetivo	ful|[mí]|ni|co
+fulminífero	adjetivo	ful|mi|[ní]|fe|ro
+fulminígero	adjetivo	ful|mi|[ní]|ge|ro
+fulminívomo	adjetivo	ful|mi|[ní]|vo|mo
+fulminoso	adjetivo	ful|mi|[no]|so
+fulmipalha	nome feminino	ful|mi|[pa]|lha
+fulo	adjetivo	[fu]|lo
+fulo	nome masculino	[fu]|lo
+fuloado	nome masculino	fu|lo|[a]|do
+fuloar	verbo	fu|lo|[ar]
+fulosa	nome feminino	fu|[lo]|sa
+fulustreco	nome masculino	fu|lus|[tre]|co
+fulverino	nome masculino	ful|ve|[ri]|no
+fulvescência	nome feminino	ful|ves|[cên]|ci|a
+fulviana	nome feminino	ful|vi|[a]|na
+fulvicórneo	adjetivo	ful|vi|[cór]|ne|o
+fúlvido	adjetivo	[fúl]|vi|do
+fulvípede	adjetivo	ful|[ví]|pe|de
+fulvipene	adjetivo	ful|vi|[pe]|ne
+fulvirrostro	adjetivo	ful|vir|[ros]|tro
+fulvo	adjetivo	[ful]|vo
+fum	interjeição	[fum]
+fumaça	nome feminino	fu|[ma]|ça
+fumaçada	nome feminino	fu|ma|[ça]|da
+fumaceira	nome feminino	fu|ma|[cei]|ra
+fumacento	adjetivo	fu|ma|[cen]|to
+fumada	nome feminino	fu|[ma]|da
+fumadeira	nome feminino	fu|ma|[dei]|ra
+fumado	adjetivo	fu|[ma]|do
+fumado	nome masculino	fu|[ma]|do
+fumador	adjetivo	fu|ma|[dor]
+fumador	nome masculino	fu|ma|[dor]
+fumadora	nome feminino	fu|ma|[do]|ra
+fumadouro	nome masculino	fu|ma|[dou]|ro
+fumagem	nome feminino	fu|[ma]|gem
+fumagina	nome feminino	fu|ma|[gi]|na
+fumante	adjetivo	fu|[man]|te
+fumante	nome masculino	fu|[man]|te
+fumante	nome feminino	fu|[man]|te
+fumão	nome masculino	fu|[mão]
+fumar	verbo	fu|[mar]
+fumaraça	nome feminino	fu|ma|[ra]|ça
+fumarada	nome feminino	fu|ma|[ra]|da
+fumarar	verbo	fu|ma|[rar]
+fumarato	nome masculino	fu|ma|[ra]|to
+fumareda	nome feminino	fu|ma|[re]|da
+fumarela	nome feminino	fu|ma|[re]|la
+fumarento	adjetivo	fu|ma|[ren]|to
+fumaria	nome feminino	fu|ma|[ri]|a
+fumária	nome feminino	fu|[má]|ri|a
+fumária-das-paredes	nome feminino	fu|má|ri|a-das-pa|re|des
+fumária-das-sebes	nome feminino	fu|má|ri|a-das-se|bes
+fumária-dos-campos	nome feminino	fu|má|ria-dos-cam|pos
+fumariácea	nome feminino	fu|ma|ri|[á]|ce|a
+fumariáceo	adjetivo	fu|ma|ri|[á]|ce|o
+fumárico	adjetivo	fu|[má]|ri|co
+fumarina	nome feminino	fu|ma|[ri]|na
+fumarola	nome feminino	fu|ma|[ro]|la
+fumatório	nome masculino	fu|ma|[tó]|ri|o
+fumatório	adjetivo	fu|ma|[tó]|ri|o
+fumável	adjetivo	fu|[má]|vel
+fumeante	adjetivo	fu|me|[an]|te
+fumear	verbo	fu|me|[ar]
+fumega	nome masculino	fu|[me]|ga
+fumegante	adjetivo	fu|me|[gan]|te
+fumegar	verbo	fu|me|[gar]
+fumego	nome masculino	fu|[me]|go
+fumeiro	nome masculino	fu|[mei]|ro
+fúmeo	adjetivo	[fú]|me|o
+fúmido	adjetivo	[fú]|mi|do
+fumífero	adjetivo	fu|[mí]|fe|ro
+fumífico	adjetivo	fu|[mí]|fi|co
+fumiflamante	adjetivo	fu|mi|fla|[man]|te
+fumífugo	nome masculino	fu|[mí]|fu|go
+fumífugo	adjetivo	fu|[mí]|fu|go
+fumigação	nome feminino	fu|mi|ga|[ção]
+fumigador	nome masculino	fu|mi|ga|[dor]
+fumigar	verbo	fu|mi|[gar]
+fumigatório	nome masculino	fu|mi|ga|[tó]|ri|o

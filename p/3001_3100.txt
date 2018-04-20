@@ -1,0 +1,100 @@
+parvoíce	nome feminino	par|vo|[í]|ce
+parvoidade	nome feminino	par|voi|[da]|de
+parvoide	adjetivo	par|[voi]|de
+parvoide	nome masculino	par|[voi]|de
+parvoinho	nome masculino	par|vo|[i]|nho
+parvoinho	adjetivo	par|vo|[i]|nho
+parvolina	nome feminino	par|vo|[li]|na
+parvónia	nome feminino	par|[vó]|ni|a
+parvônia	nome feminino	par|[vô]|ni|a
+párvula	nome feminino	[pár]|vu|la
+parvulez	nome feminino	par|vu|[lez]
+parvuleza	nome feminino	par|vu|[le]|za
+párvulo	adjetivo	[pár]|vu|lo
+párvulo	nome masculino	[pár]|vu|lo
+pascacice	nome feminino	pas|ca|[ci]|ce
+pascácio	adjetivo	pas|[cá]|ci|o
+pascácio	nome masculino	pas|[cá]|ci|o
+pascal	adjetivo	pas|[cal]
+pascal	nome masculino	pas|[cal]
+pascal-segundo	nome masculino	pas|cal-se|[gun]|do
+pascália	nome feminino	pas|[cá]|li|a
+pascalina	nome feminino	pas|ca|[li]|na
+pascaró	adjetivo	pas|ca|[ró]
+pascentar	verbo	pas|cen|[tar]
+pascente	adjetivo	pas|[cen]|te
+pascer	verbo	pas|[cer]
+pascigo	nome masculino	pas|[ci]|go
+pascigoso	adjetivo	pas|ci|[go]|so
+pascoal	adjetivo	pas|co|[al]
+pascoal-gomes	nome masculino	pas|co|al-go|mes
+pascoar	verbo	pas|co|[ar]
+pascoeira	nome feminino	pas|co|[ei]|ra
+pascoela	nome feminino	pas|co|[e]|la
+pascoense	adjetivo	pas|co|[en]|se
+pascoense	nome masculino	pas|co|[en]|se
+pascoense	nome feminino	pas|co|[en]|se
+pascoinha	nome feminino	pas|co|[i]|nha
+pasguate	nome masculino	pas|[gua]|te
+pasigrafar	verbo	pa|si|gra|[far]
+pasigrafia	nome feminino	pa|si|gra|[fi]|a
+pasigráfico	adjetivo	pa|si|[grá]|fi|co
+pasígrafo	nome masculino	pa|[sí]|gra|fo
+pasma	nome feminino	[pas]|ma
+pasmação	nome feminino	pas|ma|[ção]
+pasmacear	verbo	pas|ma|ce|[ar]
+pasmaceira	nome feminino	pas|ma|[cei]|ra
+pasmadamente	advérbio	pas|ma|da|[men]|te
+pasmado	adjetivo	pas|[ma]|do
+pasmado	nome masculino	pas|[ma]|do
+pasmar	verbo	pas|[mar]
+pasmarota	nome feminino	pas|ma|[ro]|ta
+pasmarote	nome masculino	pas|ma|[ro]|te
+pasmatório	nome masculino	pas|ma|[tó]|ri|o
+pasmo	nome masculino	[pas]|mo
+pasmo	adjetivo	[pas]|mo
+pasmosamente	advérbio	pas|mo|sa|[men]|te
+pasmoso	adjetivo	pas|[mo]|so
+paspalhaça	nome feminino	pas|pa|[lha]|ça
+paspalhaço	nome masculino	pas|pa|[lha]|ço
+paspalhão	nome masculino	pas|pa|[lhão]
+paspalhão	adjetivo	pas|pa|[lhão]
+paspalhar	verbo	pas|pa|[lhar]
+paspalhás	nome masculino	pas|pa|[lhás]
+paspalhaz	nome masculino	pas|pa|[lhaz]
+paspalhice	nome feminino	pas|pa|[lhi]|ce
+paspalho	nome masculino	pas|[pa]|lho
+paspalhona	nome feminino	pas|pa|[lho]|na
+paspalhós	nome masculino	pas|pa|[lhós]
+paspalhuça	nome feminino	pas|pa|[lhu]|ça
+pasquim	nome masculino	pas|[quim]
+pasquinada	nome feminino	pas|qui|[na]|da
+pasquinagem	nome feminino	pas|qui|[na]|gem
+pasquinar	verbo	pas|qui|[nar]
+pasquinário	adjetivo	pas|qui|[ná]|ri|o
+pasquinear	verbo	pas|qui|ne|[ar]
+pasquineiro	nome masculino	pas|qui|[nei]|ro
+pasquinista	nome masculino	pas|qui|[nis]|ta
+pasquinista	nome feminino	pas|qui|[nis]|ta
+passa	nome feminino	[pas]|sa
+passa-culpas	nome masculino	pas|sa-cul|pas
+passa-culpas	adjetivo	pas|sa-cul|pas
+passa-culpas	nome feminino	pas|sa-cul|pas
+passa-dez	nome masculino	pas|sa-dez
+passa-fomes	nome masculino	pas|sa-fo|mes
+passa-fora	interjeição	pas|sa-fo|ra
+passa-montanhas	nome masculino	pas|sa-mon|[ta]|nhas
+passa-muros	nome masculino	pas|sa-mu|ros
+passa-passa	nome masculino	pas|sa-pas|sa
+passa-pé	nome masculino	pas|sa-pé
+passa-piolho	nome masculino	pas|sa-pi|[o]|lho
+passa-rios	nome masculino	pas|sa-ri|os
+passa-volante	nome masculino	pas|sa-vo|[lan]|te
+passabenense	adjetivo	pas|sa|be|[nen]|se
+passabenense	nome masculino	pas|sa|be|[nen]|se
+passabenense	nome feminino	pas|sa|be|[nen]|se
+passada	nome feminino	pas|[sa]|da
+passadeira	nome feminino	pas|sa|[dei]|ra
+passadiço	nome masculino	pas|sa|[di]|ço
+passadiço	adjetivo	pas|sa|[di]|ço
+passadio	nome masculino	pas|sa|[di]|o

@@ -1,0 +1,100 @@
+torriqueiro	nome masculino	tor|ri|[quei]|ro
+torriscado	adjetivo	tor|ris|[ca]|do
+torriscar	verbo	tor|ris|[car]
+torroa	nome feminino	tor|[ro]|a
+torroada	nome feminino	tor|ro|[a]|da
+torroeiro	nome masculino	tor|ro|[ei]|ro
+torso	nome masculino	[tor]|so
+torso	adjetivo	[tor]|so
+torsor	nome masculino	tor|[sor]
+torta	nome feminino	[tor]|ta
+tortamente	advérbio	tor|ta|[men]|te
+tortão	nome masculino	tor|[tão]
+torteira	nome feminino	tor|[tei]|ra
+tortela	nome feminino	tor|[te]|la
+tortelia	nome feminino	tor|te|[li]|a
+tortelos	adjetivo	tor|[te]|los
+tortelos	nome masculino	tor|[te]|los
+torticeiro	adjetivo	tor|ti|[cei]|ro
+torticolo	nome masculino	tor|ti|[co]|lo
+tortilha	nome feminino	tor|[ti]|lha
+tortivanho	nome masculino	tor|ti|[va]|nho
+torto	adjetivo	[tor]|to
+torto	nome masculino	[tor]|to
+torto	advérbio	[tor]|to
+tortolho	nome masculino	tor|[to]|lho
+tortoniano	adjetivo	tor|to|ni|[a]|no
+tortor	nome masculino	tor|[tor]
+tortosa	nome feminino	tor|[to]|sa
+tortual	nome masculino	tor|tu|[al]
+tortueiral	nome masculino	tor|tu|ei|[ral]
+tortulheira	nome feminino	tor|tu|[lhei]|ra
+tortulho	nome masculino	tor|[tu]|lho
+tortumelo	nome masculino	tor|tu|[me]|lo
+tortuno	adjetivo	tor|[tu]|no
+tortuno	nome masculino	tor|[tu]|no
+tortuosamente	advérbio	tor|tu|o|sa|[men]|te
+tortuosidade	nome feminino	tor|tu|o|si|[da]|de
+tortuoso	adjetivo	tor|tu|[o]|so
+tortura	nome feminino	tor|[tu]|ra
+torturada	nome feminino	tor|tu|[ra]|da
+torturado	adjetivo	tor|tu|[ra]|do
+torturado	nome masculino	tor|tu|[ra]|do
+torturador	adjetivo	tor|tu|ra|[dor]
+torturador	nome masculino	tor|tu|ra|[dor]
+torturante	adjetivo	tor|tu|[ran]|te
+torturantemente	advérbio	tor|tu|ran|te|[men]|te
+torturar	verbo	tor|tu|[rar]
+torturável	adjetivo	tor|tu|[rá]|vel
+tórulo	nome masculino	[tó]|ru|lo
+toruloso	adjetivo	to|ru|[lo]|so
+torumã	nome masculino	to|ru|[mã]
+torunguenga	adjetivo	to|run|[guen]|ga
+torunguenga	nome masculino	to|run|[guen]|ga
+torunguenga	nome feminino	to|run|[guen]|ga
+torva	nome feminino	[tor]|va
+torvação	nome feminino	tor|va|[ção]
+torvamente	advérbio	tor|va|[men]|te
+torvamento	nome masculino	tor|va|[men]|to
+torvar	verbo	tor|[var]
+torvate	adjetivo	tor|[va]|te
+torvate	nome masculino	tor|[va]|te
+torvate	nome feminino	tor|[va]|te
+torvelinhante	adjetivo	tor|ve|li|[nhan]|te
+torvelinhar	verbo	tor|ve|li|[nhar]
+torvelinho	nome masculino	tor|ve|[li]|nho
+torvelino	nome masculino	tor|ve|[li]|no
+torvidade	nome feminino	tor|vi|[da]|de
+torvo	adjetivo	[tor]|vo
+tory	adjetivo	[to]|ry
+tosa	nome feminino	[to]|sa
+tosadeira	nome feminino	to|sa|[dei]|ra
+tosador	adjetivo	to|sa|[dor]
+tosador	nome masculino	to|sa|[dor]
+tosadura	nome feminino	to|sa|[du]|ra
+tosamento	nome masculino	to|sa|[men]|to
+tosão	nome masculino	to|[são]
+tosar	verbo	to|[sar]
+tosca	nome feminino	[tos]|ca
+tosca-marrosca	interjeição	tos|ca-mar|[ros]|ca
+toscamente	advérbio	tos|ca|[men]|te
+toscana	nome feminino	tos|[ca]|na
+toscanejamento	nome masculino	tos|ca|ne|ja|[men]|to
+toscanejar	verbo	tos|ca|ne|[jar]
+toscano	adjetivo	tos|[ca]|no
+toscano	nome masculino	tos|[ca]|no
+toscar	verbo	tos|[car]
+tosco	adjetivo	[tos]|co
+tosco	nome masculino	[tos]|co
+tosga	nome feminino	[tos]|ga
+tosguinha	nome feminino	tos|[gui]|nha
+toso	nome masculino	[to]|so
+tosquenejamento	nome masculino	tos|que|ne|ja|[men]|to
+tosquenejar	verbo	tos|que|ne|[jar]
+tosquia	nome feminino	tos|[qui]|a
+tosquiadeira	nome feminino	tos|qui|a|[dei]|ra
+tosquiadela	nome feminino	tos|qui|a|[de]|la
+tosquiado	adjetivo	tos|qui|[a]|do
+tosquiador	adjetivo	tos|qui|a|[dor]
+tosquiador	nome masculino	tos|qui|a|[dor]
+tosquiadora	nome feminino	tos|qui|a|[do]|ra

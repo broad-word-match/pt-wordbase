@@ -1,0 +1,100 @@
+cónego	nome masculino	[có]|ne|go
+conetividade	nome feminino	co|ne|ti|vi|[da]|de
+conetivo	adjetivo	co|ne|[ti]|vo
+conetivo	nome masculino	co|ne|[ti]|vo
+conetor	adjetivo	co|ne|[tor]
+conetor	nome masculino	co|ne|[tor]
+conexamente	advérbio	co|ne|xa|[men]|te
+conexão	nome feminino	co|ne|[xão]
+conexidade	nome feminino	co|ne|xi|[da]|de
+conexionar	verbo	co|ne|xi|o|[nar]
+conexivo	adjetivo	co|ne|[xi]|vo
+conexo	adjetivo	co|[ne]|xo
+conezia	nome feminino	co|ne|[zi]|a
+confabulação	nome feminino	con|fa|bu|la|[ção]
+confabulador	nome masculino	con|fa|bu|la|[dor]
+confabular	verbo	con|fa|bu|[lar]
+confarreação	nome feminino	con|far|re|a|[ção]
+confeção	nome feminino	con|fe|[ção]
+confecção	nome feminino	con|fec|[ção]
+confeccionador	nome masculino	con|fec|ci|o|na|[dor]
+confeccionar	verbo	con|fec|ci|o|[nar]
+confeccionável	adjetivo	con|fec|ci|o|[ná]|vel
+confecionador	nome masculino	con|fe|ci|o|na|[dor]
+confecionar	verbo	con|fe|ci|o|[nar]
+confecionável	adjetivo	con|fe|ci|o|[ná]|vel
+confederação	nome feminino	con|fe|de|ra|[ção]
+confederada	nome feminino	con|fe|de|[ra]|da
+confederadamente	advérbio	con|fe|de|ra|da|[men]|te
+confederado	nome masculino	con|fe|de|[ra]|do
+confederado	adjetivo	con|fe|de|[ra]|do
+confederal	adjetivo	con|fe|de|[ral]
+confederar	verbo	con|fe|de|[rar]
+confederativamente	advérbio	con|fe|de|ra|ti|va|[men]|te
+confederativo	adjetivo	con|fe|de|ra|[ti]|vo
+confeição	nome feminino	con|fei|[ção]
+confeiçoar	verbo	con|fei|ço|[ar]
+confeitada	nome feminino	con|fei|[ta]|da
+confeitado	adjetivo	con|fei|[ta]|do
+confeitar	verbo	con|fei|[tar]
+confeitaria	nome feminino	con|fei|ta|[ri]|a
+confeiteira	nome feminino	con|fei|[tei]|ra
+confeiteiro	nome masculino	con|fei|[tei]|ro
+confeito	nome masculino	con|[fei]|to
+confeito	adjetivo	con|[fei]|to
+conferência	nome feminino	con|fe|[rên]|ci|a
+conferencial	adjetivo	con|fe|ren|ci|[al]
+conferenciar	verbo	con|fe|ren|ci|[ar]
+conferencista	nome masculino	con|fe|ren|[cis]|ta
+conferencista	nome feminino	con|fe|ren|[cis]|ta
+conferente	adjetivo	con|fe|[ren]|te
+conferente	nome masculino	con|fe|[ren]|te
+conferente	nome feminino	con|fe|[ren]|te
+conferido	adjetivo	con|fe|[ri]|do
+conferidor	adjetivo	con|fe|ri|[dor]
+conferidor	nome masculino	con|fe|ri|[dor]
+conferir	verbo	con|fe|[rir]
+conferível	adjetivo	con|fe|[rí]|vel
+conferva	nome feminino	con|[fer]|va
+confervácea	nome feminino	con|fer|[vá]|ce|a
+confervícola	adjetivo	con|fer|[ví]|co|la
+conferviforme	adjetivo	con|fer|vi|[for]|me
+confessa	nome feminino	con|[fes]|sa
+confessabilidade	nome feminino	con|fes|sa|bi|li|[da]|de
+confessadamente	advérbio	con|fes|sa|da|[men]|te
+confessado	adjetivo	con|fes|[sa]|do
+confessado	nome masculino	con|fes|[sa]|do
+confessando	nome masculino	con|fes|[san]|do
+confessar	verbo	con|fes|[sar]
+confessativo	adjetivo	con|fes|sa|[ti]|vo
+confessável	adjetivo	con|fes|[sá]|vel
+confessional	adjetivo	con|fes|si|o|[nal]
+confessionalismo	nome masculino	con|fes|si|o|na|[lis]|mo
+confessionário	nome masculino	con|fes|si|o|[ná]|ri|o
+confessionismo	nome masculino	con|fes|si|o|[nis]|mo
+confessionista	adjetivo	con|fes|si|o|[nis]|ta
+confessionista	nome masculino	con|fes|si|o|[nis]|ta
+confessionista	nome feminino	con|fes|si|o|[nis]|ta
+confesso	nome masculino	con|[fes]|so
+confesso	adjetivo	con|[fes]|so
+confessor	nome masculino	con|fes|[sor]
+confessora	nome feminino	con|fes|[so]|ra
+confessoral	adjetivo	con|fes|so|[ral]
+confessoral	nome masculino	con|fes|so|[ral]
+confessório	adjetivo	con|fes|[só]|ri|o
+confete	nome masculino	con|[fe]|te
+confetes	nome masculino	con|[fe]|tes
+confetti	nome masculino	con|fet|ti
+confiabilidade	nome feminino	con|fi|a|bi|li|[da]|de
+confiadamente	advérbio	con|fi|a|da|[men]|te
+confiado	adjetivo	con|fi|[a]|do
+confiança	nome feminino	con|fi|[an]|ça
+confiante	adjetivo	con|fi|[an]|te
+confiar	verbo	con|fi|[ar]
+confiável	adjetivo	con|fi|[á]|vel
+confidência	nome feminino	con|fi|[dên]|ci|a
+confidencial	nome feminino	con|fi|den|ci|[al]
+confidencial	adjetivo	con|fi|den|ci|[al]
+confidencialidade	nome feminino	con|fi|den|ci|a|li|[da]|de
+confidencialmente	advérbio	con|fi|den|ci|al|[men]|te
+confidenciar	verbo	con|fi|den|ci|[ar]

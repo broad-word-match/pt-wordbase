@@ -1,0 +1,100 @@
+morim	nome masculino	mo|[rim]
+morina	nome feminino	mo|[ri]|na
+morinda	nome feminino	mo|[rin]|da
+moríndea	nome feminino	mo|[rín]|de|a
+morindina	nome feminino	mo|rin|[di]|na
+morínea	nome feminino	mo|[rí]|ne|a
+moringa	nome feminino	mo|[rin]|ga
+moringo	nome masculino	mo|[rin]|go
+moringue	nome masculino	mo|[rin]|gue
+moringueiro	nome masculino	mo|rin|[guei]|ro
+mórino	adjetivo	[mó]|ri|no
+mórino	nome masculino	[mó]|ri|no
+morioplastia	nome feminino	mo|ri|o|plas|[ti]|a
+morioplástico	adjetivo	mo|ri|o|[plás]|ti|co
+morisco	nome masculino	mo|[ris]|co
+moriseno	adjetivo	mo|ri|[se]|no
+moriseno	nome masculino	mo|ri|[se]|no
+morituro	nome masculino	mo|ri|[tu]|ro
+mormaceira	nome feminino	mor|ma|[cei]|ra
+mormacento	adjetivo	mor|ma|[cen]|to
+mormaço	nome masculino	mor|[ma]|ço
+mormente	advérbio	mor|[men]|te
+mórmiro	nome masculino	[mór]|mi|ro
+mormo	nome masculino	[mor]|mo
+mórmon	adjetivo	[mór]|mon
+mórmon	nome masculino	[mór]|mon
+mórmon	nome feminino	[mór]|mon
+mormonismo	nome masculino	mor|mo|[nis]|mo
+mormonista	adjetivo	mor|mo|[nis]|ta
+mormonista	nome masculino	mor|mo|[nis]|ta
+mormonista	nome feminino	mor|mo|[nis]|ta
+mormoso	adjetivo	mor|[mo]|so
+morna	nome feminino	[mor]|na
+mornar	verbo	mor|[nar]
+morneiro	nome masculino	mor|[nei]|ro
+mornidão	nome feminino	mor|ni|[dão]
+morno	adjetivo	[mor]|no
+mornura	nome feminino	mor|[nu]|ra
+moroba	nome feminino	mo|[ro]|ba
+morocha	nome feminino	mo|[ro]|cha
+moroiço	nome masculino	mo|[roi]|ço
+mororó	nome masculino	mo|ro|[ró]
+morosamente	advérbio	mo|ro|sa|[men]|te
+morosidade	nome feminino	mo|ro|si|[da]|de
+moroso	adjetivo	mo|[ro]|so
+morouço	nome masculino	mo|[rou]|ço
+morra	nome masculino	[mor]|ra
+morra	interjeição	[mor]|ra
+morraça	nome feminino	mor|[ra]|ça
+morraçal	nome masculino	mor|ra|[çal]
+morraçar	verbo	mor|ra|[çar]
+morraceira	nome feminino	mor|ra|[cei]|ra
+morraceiro	nome masculino	mor|ra|[cei]|ro
+morraco	nome masculino	mor|[ra]|co
+morrão	nome masculino	mor|[rão]
+morrão-dos-fogueteiros	nome masculino	mor|rão-dos-fo|gue|[tei]|ros
+morraque	nome masculino	mor|[ra]|que
+morraria	nome feminino	mor|ra|[ri]|a
+morrediço	adjetivo	mor|re|[di]|ço
+morredio	adjetivo	mor|re|[di]|o
+morredoiro	adjetivo	mor|re|[doi]|ro
+morredoiro	nome masculino	mor|re|[doi]|ro
+morredor	adjetivo	mor|re|[dor]
+morredouro	nome masculino	mor|re|[dou]|ro
+morredouro	adjetivo	mor|re|[dou]|ro
+morremorrer	verbo	mor|re|mor|[rer]
+morrense	adjetivo	mor|[ren]|se
+morrense	nome masculino	mor|[ren]|se
+morrense	nome feminino	mor|[ren]|se
+morrente	adjetivo	mor|[ren]|te
+morrer	verbo	mor|[rer]
+morrião	nome masculino	mor|ri|[ão]
+morrinha	nome feminino	mor|[ri]|nha
+morrinhar	verbo	mor|ri|[nhar]
+morrinhento	adjetivo	mor|ri|[nhen]|to
+morrinhice	nome feminino	mor|ri|[nhi]|ce
+morrinhoso	adjetivo	mor|ri|[nho]|so
+morro	nome masculino	[mor]|ro
+morrudaço	adjetivo	mor|ru|[da]|ço
+morrudo	adjetivo	mor|[ru]|do
+morrumbala	nome feminino	mor|rum|[ba]|la
+morsa	nome feminino	[mor]|sa
+morse	nome masculino	[mor]|se
+morsegamento	nome masculino	mor|se|ga|[men]|to
+morsegão	nome masculino	mor|se|[gão]
+morsegar	verbo	mor|se|[gar]
+morso	nome masculino	[mor]|so
+morso-diabólico	nome masculino	mor|so-di|a|[bó]|li|co
+morsolo	nome masculino	mor|[so]|lo
+morta	nome feminino	[mor]|ta
+morta-viva	nome feminino	mor|ta-vi|va
+mortaço	nome masculino	mor|[ta]|ço
+mortadela	nome feminino	mor|ta|[de]|la
+mortagem	nome feminino	mor|[ta]|gem
+mortágua	nome feminino	mor|[tá]|gua
+mortaguense	nome feminino	mor|ta|[guen]|se
+mortaguense	nome masculino	mor|ta|[guen]|se
+mortaguense	adjetivo	mor|ta|[guen]|se
+mortal	adjetivo	mor|[tal]
+mortal	nome masculino	mor|[tal]

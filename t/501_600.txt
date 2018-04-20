@@ -1,0 +1,100 @@
+tal	nome feminino	[tal]
+tal-qualmente	advérbio	tal-qual|[men]|te
+tala	nome feminino	[ta]|la
+tala	nome masculino	[ta]|la
+talabardão	nome masculino	ta|la|bar|[dão]
+talabartaria	nome feminino	ta|la|bar|ta|[ri]|a
+talabarte	nome masculino	ta|la|[bar]|te
+talabarteiro	nome masculino	ta|la|bar|[tei]|ro
+talaca	nome feminino	ta|[la]|ca
+talado	nome masculino	ta|[la]|do
+talado	adjetivo	ta|[la]|do
+talador	adjetivo	ta|la|[dor]
+talador	nome masculino	ta|la|[dor]
+talaga	nome feminino	ta|[la]|ga
+talagada	nome feminino	ta|la|[ga]|da
+talagarça	nome feminino	ta|la|[gar]|ça
+talagaxa	nome feminino	ta|la|[ga]|xa
+talagoia	nome feminino	ta|la|[goi]|a
+talagrepo	nome masculino	ta|la|[gre]|po
+talalgia	nome feminino	ta|lal|[gi]|a
+találgico	adjetivo	ta|[lál]|gi|co
+talambor	nome masculino	ta|lam|[bor]
+talamego	nome masculino	ta|la|[me]|go
+talamencéfalo	nome masculino	ta|la|men|[cé]|fa|lo
+talamento	nome masculino	ta|la|[men]|to
+talâmico	adjetivo	ta|[lâ]|mi|co
+talamiflora	nome feminino	ta|la|mi|[flo]|ra
+talamifloro	adjetivo	ta|la|mi|[flo]|ro
+talamita	nome masculino	ta|la|[mi]|ta
+tálamo	nome masculino	[tá]|la|mo
+talamóforo	nome masculino	ta|la|[mó]|fo|ro
+talanqueira	nome feminino	ta|lan|[quei]|ra
+talante	nome masculino	ta|[lan]|te
+talão	nome masculino	ta|[lão]
+talão-balão	nome masculino	ta|lão-ba|[lão]
+talapão	nome masculino	ta|la|[pão]
+talapate	nome masculino	ta|la|[pa]|te
+talapõe	nome masculino	ta|la|[põe]
+talar	verbo	ta|[lar]
+talar	adjetivo	ta|[lar]
+talarejo	nome masculino	ta|la|[re]|jo
+talares	nome masculino	ta|[la]|res
+talassa	nome masculino	ta|[las]|sa
+talassa	adjetivo	ta|[las]|sa
+talassa	nome feminino	ta|[las]|sa
+talassaria	nome feminino	ta|las|sa|[ri]|a
+talassemia	nome feminino	ta|las|se|[mi]|a
+talassémico	adjetivo	ta|las|[sé]|mi|co
+talassémico	nome masculino	ta|las|[sé]|mi|co
+talassêmico	adjetivo	ta|las|[sê]|mi|co
+talassêmico	nome masculino	ta|las|[sê]|mi|co
+talássero	nome masculino	ta|[lás]|se|ro
+talassia	nome feminino	ta|las|[si]|a
+talassiarca	nome masculino	ta|las|si|[ar]|ca
+talassiarquia	nome feminino	ta|las|si|ar|[qui]|a
+talassiárquico	adjetivo	ta|las|si|[ár]|qui|co
+talassice	nome feminino	ta|las|[si]|ce
+talássico	adjetivo	ta|[lás]|si|co
+talassícola	adjetivo	ta|las|[sí]|co|la
+talassiofilo	nome masculino	ta|las|si|o|[fi]|lo
+talassiófito	nome masculino	ta|las|si|[ó]|fi|to
+talassismo	nome masculino	ta|las|[sis]|mo
+talassita	nome masculino	ta|las|[si]|ta
+talassite	nome feminino	ta|las|[si]|te
+talassobionte	nome masculino	ta|las|so|bi|[on]|te
+talassocracia	nome feminino	ta|las|so|cra|[ci]|a
+talassocrata	adjetivo	ta|las|so|[cra]|ta
+talassocrata	nome masculino	ta|las|so|[cra]|ta
+talassocrata	nome feminino	ta|las|so|[cra]|ta
+talassocrático	adjetivo	ta|las|so|[crá]|ti|co
+talassódromo	nome masculino	ta|las|[só]|dro|mo
+talassófito	adjetivo	ta|las|[só]|fi|to
+talassofobia	nome feminino	ta|las|so|fo|[bi]|a
+talassófobo	adjetivo	ta|las|[só]|fo|bo
+talassófobo	nome masculino	ta|las|[só]|fo|bo
+talassografia	nome feminino	ta|las|so|gra|[fi]|a
+talassográfico	adjetivo	ta|las|so|[grá]|fi|co
+talassomel	nome masculino	ta|las|so|[mel]
+talassometria	nome feminino	ta|las|so|me|[tri]|a
+talassométrico	adjetivo	ta|las|so|[mé]|tri|co
+talassómetro	nome masculino	ta|las|[só]|me|tro
+talassômetro	nome masculino	ta|las|[sô]|me|tro
+talassoplâncton	nome masculino	ta|las|so|[plânc]|ton
+talassosfera	nome feminino	ta|las|sos|[fe]|ra
+talassosférico	adjetivo	ta|las|sos|[fé]|ri|co
+talassossismo	nome masculino	ta|las|sos|[sis]|mo
+talassoterapia	nome feminino	ta|las|so|te|ra|[pi]|a
+talassoterápico	adjetivo	ta|las|so|te|[rá]|pi|co
+talassotério	adjetivo	ta|las|so|[té]|ri|o
+talassótoco	adjetivo	ta|las|[só]|to|co
+talaveira	nome masculino	ta|la|[vei]|ra
+talaveirada	nome feminino	ta|la|vei|[ra]|da
+tálcico	adjetivo	[tál]|ci|co
+talco	nome masculino	[tal]|co
+talcomicáceo	adjetivo	tal|co|mi|[cá]|ce|o
+talcoquarçoso	adjetivo	tal|co|quar|[ço]|so
+talcoquartzoso	adjetivo	tal|co|quart|[zo]|so
+talcoso	adjetivo	tal|[co]|so
+talcoxisto	nome masculino	tal|co|[xis]|to
+talefe	nome masculino	ta|[le]|fe

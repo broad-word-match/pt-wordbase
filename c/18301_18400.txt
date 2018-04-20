@@ -1,0 +1,100 @@
+criacionista	adjetivo	cri|a|ci|o|[nis]|ta
+criacionista	nome masculino	cri|a|ci|o|[nis]|ta
+criacionista	nome feminino	cri|a|ci|o|[nis]|ta
+criacionístico	adjetivo	cri|a|ci|o|[nís]|ti|co
+criada	nome feminino	cri|[a]|da
+criadagem	nome feminino	cri|a|[da]|gem
+criadeira	nome feminino	cri|a|[dei]|ra
+criadeiro	adjetivo	cri|a|[dei]|ro
+criadeiro	nome masculino	cri|a|[dei]|ro
+criado	nome masculino	cri|[a]|do
+criado	adjetivo	cri|[a]|do
+criado-mudo	nome masculino	cri|a|do-mu|do
+criadoiro	nome masculino	cri|a|[doi]|ro
+criadoiro	adjetivo	cri|a|[doi]|ro
+criador	adjetivo	cri|a|[dor]
+criador	nome masculino	cri|a|[dor]
+criadora	nome feminino	cri|a|[do]|ra
+criadouro	nome masculino	cri|a|[dou]|ro
+criadouro	adjetivo	cri|a|[dou]|ro
+criamoso	adjetivo	cri|a|[mo]|so
+criança	nome feminino	cri|[an]|ça
+criança	adjetivo	cri|[an]|ça
+criança-prodígio	nome feminino	cri|an|ça-pro|[dí]|gi|o
+criançada	nome feminino	cri|an|[ça]|da
+criançalha	nome feminino	cri|an|[ça]|lha
+criançalho	nome masculino	cri|an|[ça]|lho
+criancelho	nome masculino	cri|an|[ce]|lho
+criancice	nome feminino	cri|an|[ci]|ce
+criancinha	nome feminino	cri|an|[ci]|nha
+crianço	nome masculino	cri|[an]|ço
+criançola	nome masculino	cri|an|[ço]|la
+criançola	nome feminino	cri|an|[ço]|la
+criançola	adjetivo	cri|an|[ço]|la
+crianestesia	nome feminino	cri|a|nes|te|[si]|a
+criar	verbo	cri|[ar]
+criativa	nome feminino	cri|a|[ti]|va
+criatividade	nome feminino	cri|a|ti|vi|[da]|de
+criativo	adjetivo	cri|a|[ti]|vo
+criativo	nome masculino	cri|a|[ti]|vo
+criatório	nome masculino	cri|a|[tó]|ri|o
+criatura	nome feminino	cri|a|[tu]|ra
+criaturinha	nome feminino	cri|a|tu|[ri]|nha
+criaturo	nome masculino	cri|a|[tu]|ro
+criável	adjetivo	cri|[á]|vel
+cribelado	adjetivo	cri|be|[la]|do
+cribelo	nome masculino	cri|[be]|lo
+cribriforme	adjetivo	cri|bri|[for]|me
+crica	nome feminino	[cri]|ca
+cricalha	nome feminino	cri|[ca]|lha
+cricaritenóideo	adjetivo	cri|ca|ri|te|[nói]|de|o
+cricetídeo	adjetivo	cri|ce|[tí]|de|o
+cricetídeo	nome masculino	cri|ce|[tí]|de|o
+criceto	nome masculino	cri|[ce]|to
+criciúma	nome feminino	cri|ci|[ú]|ma
+cricket	nome masculino	[cric]|ket
+cricofaríngeo	adjetivo	cri|co|fa|[rín]|ge|o
+cricoide	nome feminino	cri|[coi]|de
+cricoide	adjetivo	cri|[coi]|de
+cricotiróideo	adjetivo	cri|co|ti|[rói]|de|o
+cricotraqueal	adjetivo	cri|co|tra|que|[al]
+cricri	nome masculino	cri|[cri]
+cricrido	nome masculino	cri|[cri]|do
+cricrilar	verbo	cri|cri|[lar]
+crido	adjetivo	[cri]|do
+criestesia	nome feminino	cri|es|te|[si]|a
+crila	nome masculino	[cri]|la
+crilada	nome feminino	cri|[la]|da
+crime	adjetivo	[cri]|me
+crime	nome masculino	[cri]|me
+crimeza	nome feminino	cri|[me]|za
+criminação	nome feminino	cri|mi|na|[ção]
+criminador	nome masculino	cri|mi|na|[dor]
+criminal	adjetivo	cri|mi|[nal]
+criminal	nome masculino	cri|mi|[nal]
+criminalidade	nome feminino	cri|mi|na|li|[da]|de
+criminalismo	nome masculino	cri|mi|na|[lis]|mo
+criminalista	nome masculino	cri|mi|na|[lis]|ta
+criminalista	nome feminino	cri|mi|na|[lis]|ta
+criminalística	nome feminino	cri|mi|na|[lís]|ti|ca
+criminalístico	adjetivo	cri|mi|na|[lís]|ti|co
+criminalização	nome feminino	cri|mi|na|li|za|[ção]
+criminalizar	verbo	cri|mi|na|li|[zar]
+criminalizável	adjetivo	cri|mi|na|li|[zá]|vel
+criminalmente	advérbio	cri|mi|nal|[men]|te
+criminar	verbo	cri|mi|[nar]
+criminável	adjetivo	cri|mi|[ná]|vel
+criminóloga	nome feminino	cri|mi|[nó]|lo|ga
+criminologia	nome feminino	cri|mi|no|lo|[gi]|a
+criminológico	adjetivo	cri|mi|no|[ló]|gi|co
+criminologista	nome masculino	cri|mi|no|lo|[gis]|ta
+criminologista	nome feminino	cri|mi|no|lo|[gis]|ta
+criminólogo	nome masculino	cri|mi|[nó]|lo|go
+criminosa	nome feminino	cri|mi|[no]|sa
+criminosamente	advérbio	cri|mi|no|sa|[men]|te
+criminoso	nome masculino	cri|mi|[no]|so
+criminoso	adjetivo	cri|mi|[no]|so
+crimodinia	nome feminino	cri|mo|di|[ni]|a
+crimodínico	adjetivo	cri|mo|[dí]|ni|co
+crimófilo	adjetivo	cri|[mó]|fi|lo
+crimófobo	adjetivo	cri|[mó]|fo|bo

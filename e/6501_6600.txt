@@ -1,0 +1,100 @@
+equidistar	verbo	e|qui|dis|[tar]
+equidna	nome feminino	e|[quid]|na
+equídnico	adjetivo	e|[quíd]|ni|co
+equidnina	nome feminino	e|quid|[ni]|na
+equidno	nome masculino	e|[quid]|no
+equidnotoxina	nome feminino	e|quid|no|to|[xi]|na
+equidnovacina	nome feminino	e|quid|no|va|[ci]|na
+equifacial	adjetivo	e|qui|fa|ci|[al]
+equífero	nome masculino	e|[quí]|fe|ro
+equigranular	adjetivo	e|qui|gra|nu|[lar]
+equilateral	adjetivo	e|qui|la|te|[ral]
+equilátero	adjetivo	e|qui|[lá]|te|ro
+equilibração	nome feminino	e|qui|li|bra|[ção]
+equilibradamente	advérbio	e|qui|li|bra|da|[men]|te
+equilibradíssimo	adjetivo	e|qui|li|bra|[dís]|si|mo
+equilibrado	adjetivo	e|qui|li|[bra]|do
+equilibrador	adjetivo	e|qui|li|bra|[dor]
+equilibrador	nome masculino	e|qui|li|bra|[dor]
+equilibrante	adjetivo	e|qui|li|[bran]|te
+equilibrar	verbo	e|qui|li|[brar]
+equilibrável	adjetivo	e|qui|li|[brá]|vel
+equilíbrio	nome masculino	e|qui|[lí]|bri|o
+equilibrismo	nome masculino	e|qui|li|[bris]|mo
+equilibrista	nome masculino	e|qui|li|[bris]|ta
+equilibrista	nome feminino	e|qui|li|[bris]|ta
+equilibrístico	adjetivo	e|qui|li|[brís]|ti|co
+equimolar	adjetivo	e|qui|mo|[lar]
+equimolecular	adjetivo	e|qui|mo|le|cu|[lar]
+equimolecularidade	nome feminino	e|qui|mo|le|cu|la|ri|[da]|de
+equimosar	verbo	e|qui|mo|[sar]
+equimose	nome feminino	e|qui|[mo]|se
+equimótico	adjetivo	e|qui|[mó]|ti|co
+equimultíplice	adjetivo	e|qui|mul|[tí]|pli|ce
+equimúltiplo	adjetivo	e|qui|[múl]|ti|plo
+equínida	nome masculino	e|[quí]|ni|da
+equinídeo	nome masculino	e|qui|[ní]|de|o
+equinídeo	adjetivo	e|qui|[ní]|de|o
+equinípede	adjetivo	e|qui|[ní]|pe|de
+equino	nome masculino	e|[qui]|no
+equino	adjetivo	e|[qui]|no
+equinocarpo	adjetivo	e|qui|no|[car]|po
+equinocial	adjetivo	e|qui|no|ci|[al]
+equinócio	nome masculino	e|qui|[nó]|ci|o
+equinococose	nome feminino	e|qui|no|co|[co]|se
+equinoderme	nome masculino	e|qui|no|[der]|me
+equinoderme	adjetivo	e|qui|no|[der]|me
+equinodermo	adjetivo	e|qui|no|[der]|mo
+equinodermo	nome masculino	e|qui|no|[der]|mo
+equinofórea	nome feminino	e|qui|no|[fó]|re|a
+equinóforo	nome masculino	e|qui|[nó]|fo|ro
+equinoide	nome masculino	e|qui|[noi]|de
+equinoide	adjetivo	e|qui|[noi]|de
+equinólito	nome masculino	e|qui|[nó]|li|to
+equinometra	nome feminino	e|qui|no|[me]|tra
+equinópode	nome masculino	e|qui|[nó]|po|de
+equinorrinco	nome masculino	e|qui|nor|[rin]|co
+equinospermo	adjetivo	e|qui|nos|[per]|mo
+equinóstomo	adjetivo	e|qui|[nós]|to|mo
+equinuro	adjetivo	e|qui|[nu]|ro
+equioglosso	nome masculino	e|qui|o|[glos]|so
+equioide	adjetivo	e|qui|[oi]|de
+equioide	nome masculino	e|qui|[oi]|de
+equiônio	adjetivo	e|qui|[ô]|ni|o
+equiónio	adjetivo	e|qui|[ó]|ni|o
+equipa	nome feminino	e|[qui]|pa
+equipa-sensação	nome feminino	e|qui|pa-sen|sa|[ção]
+equipação	nome feminino	e|qui|pa|[ção]
+equipado	adjetivo	e|qui|[pa]|do
+equipagem	nome feminino	e|qui|[pa]|gem
+equipamento	nome masculino	e|qui|pa|[men]|to
+equipar	verbo	e|qui|[par]
+equiparação	nome feminino	e|qui|pa|ra|[ção]
+equiparar	verbo	e|qui|pa|[rar]
+equiparável	adjetivo	e|qui|pa|[rá]|vel
+equipartição	nome feminino	e|qui|par|ti|[ção]
+equipável	adjetivo	e|qui|[pá]|vel
+equipe	nome feminino	e|[qui]|pe
+equípede	adjetivo	e|[quí]|pe|de
+equipendência	nome feminino	e|qui|pen|[dên]|ci|a
+equipendente	adjetivo	e|qui|pen|[den]|te
+equipétalo	adjetivo	e|qui|[pé]|ta|lo
+equipolência	nome feminino	e|qui|po|[lên]|ci|a
+equipolente	adjetivo	e|qui|po|[len]|te
+equiponderância	nome feminino	e|qui|pon|de|[rân]|ci|a
+equiponderante	adjetivo	e|qui|pon|de|[ran]|te
+equiponderar	verbo	e|qui|pon|de|[rar]
+equipotencial	adjetivo	e|qui|po|ten|ci|[al]
+equiprobabilismo	nome masculino	e|qui|pro|ba|bi|[lis]|mo
+equissetácea	nome feminino	e|quis|se|[tá]|ce|a
+equissetínea	nome feminino	e|quis|se|[tí]|ne|a
+equisseto	nome masculino	e|quis|[se]|to
+equíssimo	adjetivo	e|[quís]|si|mo
+equissonância	nome feminino	e|quis|so|[nân]|ci|a
+equissonante	adjetivo	e|quis|so|[nan]|te
+equíssono	adjetivo	e|[quís]|so|no
+equitação	nome feminino	e|qui|ta|[ção]
+equitador	nome masculino	e|qui|ta|[dor]
+equitadora	nome feminino	e|qui|ta|[do]|ra
+equitativamente	advérbio	e|qui|ta|ti|va|[men]|te
+equitativo	adjetivo	e|qui|ta|[ti]|vo

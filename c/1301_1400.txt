@@ -1,0 +1,100 @@
+cairota	nome feminino	cai|[ro]|ta
+cairota	adjetivo	cai|[ro]|ta
+cairuá	nome masculino	cai|ru|[á]
+cais	nome masculino	[cais]
+cáiser	nome masculino	[cá]|i|ser
+caité	nome masculino	cai|[té]
+caiteteense	adjetivo	cai|te|te|[en]|se
+caiteteense	nome masculino	cai|te|te|[en]|se
+caiteteense	nome feminino	cai|te|te|[en]|se
+caititu	nome masculino	cai|ti|[tu]
+caitónia	nome feminino	cai|[tó]|ni|a
+caitoniácea	nome feminino	cai|to|ni|[á]|ce|a
+caiuá	adjetivo	cai|u|[á]
+caiuá	nome masculino	cai|u|[á]
+caiuá	nome feminino	cai|u|[á]
+caiula	nome feminino	cai|[u]|la
+caiumá	adjetivo	cai|u|[má]
+caiumá	nome masculino	cai|u|[má]
+caiumá	nome feminino	cai|u|[má]
+caíva	nome feminino	ca|[í]|va
+caixa	nome feminino	[cai]|xa
+caixa	nome masculino	[cai]|xa
+caixa de ar	nome feminino	[cai]|xa de ar
+caixa de ar	nome masculino	[cai]|xa de ar
+caixa de música	nome feminino	[cai]|xa de mú|si|ca
+caixa de óculos	nome masculino	[cai]|xa de ó|cu|los
+caixa de óculos	nome feminino	[cai]|xa de ó|cu|los
+caixa de ressonância	nome feminino	[cai]|xa de res|so|nân|ci|a
+caixa de rufo	nome feminino	[cai]|xa de ru|fo
+caixa-d'água	nome feminino	cai|xa-d´á|gua
+caixa-económica	nome feminino	cai|xa-e|co|[nó]|mi|ca
+caixa-forte	nome feminino	cai|xa-for|te
+caixamarim	nome masculino	cai|xa|ma|[rim]
+caixana	adjetivo	cai|[xa]|na
+caixana	nome masculino	cai|[xa]|na
+caixana	nome feminino	cai|[xa]|na
+caixão	nome masculino	cai|[xão]
+caixão-de-defunto	nome masculino	cai|xão-de-de|[fun]|to
+caixaria	nome feminino	cai|xa|[ri]|a
+caixeira	nome feminino	cai|[xei]|ra
+caixeirada	nome feminino	cai|xei|[ra]|da
+caixeiral	adjetivo	cai|xei|[ral]
+caixeirama	nome feminino	cai|xei|[ra]|ma
+caixeiro	nome masculino	cai|[xei]|ro
+caixeiro-viajante	nome masculino	cai|xei|ro-vi|a|[jan]|te
+caixeirola	nome masculino	cai|xei|[ro]|la
+caixela	nome feminino	cai|[xe]|la
+caixeta	nome feminino	cai|[xe]|ta
+caixilhame	nome masculino	cai|xi|[lha]|me
+caixilharia	nome feminino	cai|xi|lha|[ri]|a
+caixilho	nome masculino	cai|[xi]|lho
+caixinha	nome feminino	cai|[xi]|nha
+caixista	nome masculino	cai|[xis]|ta
+caixola	nome feminino	cai|[xo]|la
+caixolo	nome masculino	cai|[xo]|lo
+caixota	nome feminino	cai|[xo]|ta
+caixotão	nome masculino	cai|xo|[tão]
+caixotaria	nome feminino	cai|xo|ta|[ri]|a
+caixote	nome masculino	cai|[xo]|te
+caixoteiro	nome masculino	cai|xo|[tei]|ro
+caixotim	nome masculino	cai|xo|[tim]
+caixoto	nome masculino	cai|[xo]|to
+cajá	nome masculino	ca|[já]
+cajá-açu	nome masculino	ca|já-a|[çu]
+cajá-mirim	nome masculino	ca|já-mi|[rim]
+cajadada	nome feminino	ca|ja|[da]|da
+cajadela	nome feminino	ca|ja|[de]|la
+cajadil	nome masculino	ca|ja|[dil]
+cajado	nome masculino	ca|[ja]|do
+cajado-de-são-josé	nome masculino	ca|ja|do-de-são-jo|[sé]
+cajaeira	nome feminino	ca|ja|[ei]|ra
+cajaeiro	nome masculino	ca|ja|[ei]|ro
+cajamanga	nome feminino	ca|ja|[man]|ga
+cajamangueira	nome feminino	ca|ja|man|[guei]|ra
+cajano	nome masculino	ca|[ja]|no
+cajati	nome masculino	ca|ja|[ti]
+cajazeira	nome feminino	ca|ja|[zei]|ra
+cajazeiro	nome masculino	ca|ja|[zei]|ro
+cajazinho	nome masculino	ca|ja|[zi]|nho
+cajibá	nome masculino	ca|ji|[bá]
+cajila	nome feminino	ca|[ji]|la
+cajinga	nome feminino	ca|[jin]|ga
+cajo	nome masculino	[ca]|jo
+caju	nome masculino	ca|[ju]
+cajuaçu	nome masculino	ca|ju|a|[çu]
+cajuada	nome feminino	ca|ju|[a]|da
+cajual	nome masculino	ca|ju|[al]
+cajubi	nome masculino	ca|ju|[bi]
+cajuçara	nome masculino	ca|ju|[ça]|ra
+cajueiral	nome masculino	ca|ju|ei|[ral]
+cajueiro	nome masculino	ca|ju|[ei]|ro
+cajuí	nome masculino	ca|ju|[í]
+cajuína	nome feminino	ca|ju|[í]|na
+cajuizal	nome masculino	ca|jui|[zal]
+cajumirim	nome masculino	ca|ju|mi|[rim]
+cajupeba	nome masculino	ca|ju|[pe]|ba
+cajuri	nome masculino	ca|ju|[ri]
+cajuzeiro	nome masculino	ca|ju|[zei]|ro
+cajuzinho	nome masculino	ca|ju|[zi]|nho
+cal	nome feminino	[cal]

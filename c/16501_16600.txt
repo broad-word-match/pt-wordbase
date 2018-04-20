@@ -1,0 +1,100 @@
+coraixita	nome feminino	co|rai|[xi]|ta
+corajosamente	advérbio	co|ra|jo|sa|[men]|te
+corajoso	adjetivo	co|ra|[jo]|so
+coral	nome masculino	co|[ral]
+coral	nome feminino	co|[ral]
+coral	adjetivo	co|[ral]
+coraleira	nome feminino	co|ra|[lei]|ra
+coraleiro	nome masculino	co|ra|[lei]|ro
+coraleiro	adjetivo	co|ra|[lei]|ro
+coraliário	nome masculino	co|ra|li|[á]|ri|o
+coraliário	adjetivo	co|ra|li|[á]|ri|o
+coralífero	adjetivo	co|ra|[lí]|fe|ro
+coraliforme	adjetivo	co|ra|li|[for]|me
+coralígeno	adjetivo	co|ra|[lí]|ge|no
+coralígero	adjetivo	co|ra|[lí]|ge|ro
+coralina	nome feminino	co|ra|[li]|na
+coralinácea	nome feminino	co|ra|li|[ná]|ce|a
+coralináceo	adjetivo	co|ra|li|[ná]|ce|o
+coralino	adjetivo	co|ra|[li]|no
+coralista	nome masculino	co|ra|[lis]|ta
+coralista	nome feminino	co|ra|[lis]|ta
+coraloide	adjetivo	co|ra|[loi]|de
+corandel	nome masculino	co|ran|[del]
+corandelar	verbo	co|ran|de|[lar]
+corânico	adjetivo	co|[râ]|ni|co
+coranita	adjetivo	co|ra|[ni]|ta
+coranita	nome masculino	co|ra|[ni]|ta
+coranita	nome feminino	co|ra|[ni]|ta
+corano	adjetivo	co|[ra]|no
+corano	nome masculino	co|[ra]|no
+corante	adjetivo	co|[ran]|te
+corante	nome masculino	co|[ran]|te
+corar	verbo	co|[rar]
+corásmio	adjetivo	co|[rás]|mi|o
+corásmio	nome masculino	co|[rás]|mi|o
+coraula	nome masculino	co|[rau]|la
+coráulico	adjetivo	co|[ráu]|li|co
+coraxo	adjetivo	co|[ra]|xo
+coraxo	nome masculino	co|[ra]|xo
+corbelha	nome feminino	cor|[be]|lha
+corça	nome feminino	[cor]|ça
+corca	nome feminino	[cor]|ca
+corcar	verbo	cor|[car]
+corcel	nome masculino	cor|[cel]
+corcha	nome feminino	[cor]|cha
+corchete	nome masculino	cor|[che]|te
+corcho	nome masculino	[cor]|cho
+corcireu	adjetivo	cor|ci|[reu]
+corcireu	nome masculino	cor|ci|[reu]
+corço	nome masculino	[cor]|ço
+corcódea	nome feminino	cor|[có]|de|a
+corcolher	nome feminino	cor|co|[lher]
+córcoro	nome masculino	[cór]|co|ro
+corcoroca	nome feminino	cor|co|[ro]|ca
+corcova	nome feminino	cor|[co]|va
+corcovado	adjetivo	cor|co|[va]|do
+corcovado	nome masculino	cor|co|[va]|do
+corcovadura	nome feminino	cor|co|va|[du]|ra
+corcovar	verbo	cor|co|[var]
+corcovear	verbo	cor|co|ve|[ar]
+corcovo	nome masculino	cor|[co]|vo
+córculo	nome masculino	[cór]|cu|lo
+corcunda	nome feminino	cor|[cun]|da
+corcunda	adjetivo	cor|[cun]|da
+corcunda	nome masculino	cor|[cun]|da
+corcundice	nome feminino	cor|cun|[di]|ce
+corda	nome feminino	[cor]|da
+cordace	nome masculino	cor|[da]|ce
+cordacismo	nome masculino	cor|da|[cis]|mo
+cordada	nome feminino	cor|[da]|da
+cordado	nome masculino	cor|[da]|do
+cordado	adjetivo	cor|[da]|do
+cordagem	nome feminino	cor|[da]|gem
+cordaíte	nome feminino	cor|da|[í]|te
+cordaitínea	nome feminino	cor|dai|[tí]|ne|a
+cordal	adjetivo	cor|[dal]
+cordame	nome masculino	cor|[da]|me
+cordão	nome masculino	cor|[dão]
+cordão-de-frade	nome masculino	cor|dão-de-fra|de
+cordão-de-são-francisco	nome masculino	cor|dão-de-são-fran|cis|co
+cordapso	nome masculino	cor|[dap]|so
+cordatamente	advérbio	cor|da|ta|[men]|te
+cordato	adjetivo	cor|[da]|to
+cordeação	nome feminino	cor|de|a|[ção]
+cordeador	nome masculino	cor|de|a|[dor]
+cordear	verbo	cor|de|[ar]
+cordeca	nome feminino	cor|[de]|ca
+cordeira	nome feminino	cor|[dei]|ra
+cordeirinho	nome masculino	cor|dei|[ri]|nho
+cordeiro	nome masculino	cor|[dei]|ro
+cordel	nome masculino	cor|[del]
+cordelinho	nome masculino	cor|de|[li]|nho
+cordelinhos	nome masculino	cor|de|[li]|nhos
+córdia	nome feminino	[cór]|di|a
+cordíaca	nome feminino	cor|[dí]|a|ca
+cordiácea	nome feminino	cor|di|[á]|ce|a
+cordial	nome masculino	cor|di|[al]
+cordial	adjetivo	cor|di|[al]
+cordialidade	nome feminino	cor|di|a|li|[da]|de
+cordializar	verbo	cor|di|a|li|[zar]

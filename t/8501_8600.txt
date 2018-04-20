@@ -1,0 +1,100 @@
+trilhada	nome feminino	tri|[lha]|da
+trilhadela	nome feminino	tri|lha|[de]|la
+trilhado	adjetivo	tri|[lha]|do
+trilhador	adjetivo	tri|lha|[dor]
+trilhador	nome masculino	tri|lha|[dor]
+trilhadura	nome feminino	tri|lha|[du]|ra
+trilhamento	nome masculino	tri|lha|[men]|to
+trilhão	adjetivo	tri|[lhão]
+trilhão	nome masculino	tri|[lhão]
+trilhar	verbo	tri|[lhar]
+trilhável	adjetivo	tri|[lhá]|vel
+trilheira	nome feminino	tri|[lhei]|ra
+trilho	nome masculino	[tri]|lho
+trilhoada	nome feminino	tri|lho|[a]|da
+trilião	adjetivo	tri|li|[ão]
+trilião	nome masculino	tri|li|[ão]
+trilice	adjetivo	tri|[li]|ce
+trilice	nome masculino	tri|[li]|ce
+trilinear	adjetivo	tri|li|ne|[ar]
+trilíngue	adjetivo	tri|[lín]|gue
+trilíngue	nome masculino	tri|[lín]|gue
+trilingue	adjetivo	tri|[lin]|gue
+trilingue	nome masculino	tri|[lin]|gue
+trilingue	nome feminino	tri|[lin]|gue
+trilíngue	nome feminino	tri|[lín]|gue
+trílio	nome masculino	[trí]|li|o
+trilionésimo	adjetivo	tri|li|o|[né]|si|mo
+trilionésimo	número fraccional	tri|li|o|[né]|si|mo
+trilionésimo	número ordinal	tri|li|o|[né]|si|mo
+trilionésimo	nome masculino	tri|li|o|[né]|si|mo
+triliteral	adjetivo	tri|li|te|[ral]
+triliteralismo	nome masculino	tri|li|te|ra|[lis]|mo
+trilítero	adjetivo	tri|[lí]|te|ro
+trílito	nome masculino	[trí]|li|to
+trilo	nome masculino	[tri]|lo
+trilobado	adjetivo	tri|lo|[ba]|do
+trilobita	nome masculino	tri|lo|[bi]|ta
+trilobite	nome feminino	tri|lo|[bi]|te
+trílobo	nome masculino	[trí]|lo|bo
+trilobulado	adjetivo	tri|lo|bu|[la]|do
+triloculado	adjetivo	tri|lo|cu|[la]|do
+trilocular	adjetivo	tri|lo|cu|[lar]
+trilogia	nome feminino	tri|lo|[gi]|a
+trilógico	adjetivo	tri|[ló]|gi|co
+trílogo	nome masculino	[trí]|lo|go
+trilongo	adjetivo	tri|[lon]|go
+trilongo	nome masculino	tri|[lon]|go
+trimaculado	adjetivo	tri|ma|cu|[la]|do
+trimarã	nome masculino	tri|ma|[rã]
+trimbolar	verbo	trim|bo|[lar]
+trimbolim	nome masculino	trim|bo|[lim]
+trimembre	adjetivo	tri|[mem]|bre
+trimensal	adjetivo	tri|men|[sal]
+trimensário	nome masculino	tri|men|[sá]|ri|o
+trímere	adjetivo	[trí]|me|re
+triméria	nome feminino	tri|[mé]|ri|a
+trimerite	nome feminino	tri|me|[ri]|te
+trímero	nome masculino	[trí]|me|ro
+trímero	adjetivo	[trí]|me|ro
+trimestral	adjetivo	tri|mes|[tral]
+trimestralidade	nome feminino	tri|mes|tra|li|[da]|de
+trimestralmente	advérbio	tri|mes|tral|[men]|te
+trimestre	nome masculino	tri|[mes]|tre
+trimestre	adjetivo	tri|[mes]|tre
+trimetilamina	nome feminino	tri|me|ti|la|[mi]|na
+trimétrico	adjetivo	tri|[mé]|tri|co
+trímetro	adjetivo	[trí]|me|tro
+trímetro	nome masculino	[trí]|me|tro
+trimilenário	adjetivo	tri|mi|le|[ná]|ri|o
+trimilenário	nome masculino	tri|mi|le|[ná]|ri|o
+trimilénio	nome masculino	tri|mi|[lé]|ni|o
+trimilênio	nome masculino	tri|mi|[lê]|ni|o
+trimódio	nome masculino	tri|[mó]|di|o
+trímodo	adjetivo	[trí]|mo|do
+trimorfia	nome feminino	tri|mor|[fi]|a
+trimorfismo	nome masculino	tri|mor|[fis]|mo
+trimorfo	adjetivo	tri|[mor]|fo
+trimotor	adjetivo	tri|mo|[tor]
+trimotor	nome masculino	tri|mo|[tor]
+trimúrti	nome feminino	tri|[múr]|ti
+trina	nome feminino	[tri]|na
+trinácrio	adjetivo	tri|[ná]|cri|o
+trinácrio	nome masculino	tri|[ná]|cri|o
+trinado	nome masculino	tri|[na]|do
+trinado	adjetivo	tri|[na]|do
+trinador	adjetivo	tri|na|[dor]
+trinalidade	nome feminino	tri|na|li|[da]|de
+trinante	adjetivo	tri|[nan]|te
+trinar	verbo	tri|[nar]
+trinca	nome feminino	[trin]|ca
+trinca-cevada	nome feminino	trin|ca-ce|[va]|da
+trinca-dente	nome feminino	trin|ca-den|te
+trinca-espinhas	nome masculino	trin|ca-es|[pi]|nhas
+trinca-espinhas	adjetivo	trin|ca-es|[pi]|nhas
+trinca-espinhas	nome feminino	trin|ca-es|[pi]|nhas
+trinca-ferro	nome masculino	trin|ca-fer|ro
+trinca-fortes	nome masculino	trin|ca-for|tes
+trinca-nozes	nome masculino	trin|ca-no|zes
+trinca-pau	nome masculino	trin|ca-pau
+trinca-pinhas	nome masculino	trin|ca-pi|nhas

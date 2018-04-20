@@ -1,0 +1,100 @@
+pomada	nome feminino	po|[ma]|da
+pomadar	verbo	po|ma|[dar]
+pomadista	nome masculino	po|ma|[dis]|ta
+pomadista	nome feminino	po|ma|[dis]|ta
+pomar	nome masculino	po|[mar]
+pomarada	nome feminino	po|ma|[ra]|da
+pomareiro	adjetivo	po|ma|[rei]|ro
+pomareiro	nome masculino	po|ma|[rei]|ro
+pomarejo	nome masculino	po|ma|[re]|jo
+pomária	nome feminino	po|[má]|ri|a
+pomba	nome feminino	[pom]|ba
+pomba-rola	nome feminino	pom|ba-ro|la
+pombal	nome masculino	pom|[bal]
+pombalense	adjetivo	pom|ba|[len]|se
+pombalense	nome masculino	pom|ba|[len]|se
+pombalense	nome feminino	pom|ba|[len]|se
+pombalesco	adjetivo	pom|ba|[les]|co
+pombália	nome feminino	pom|[bá]|li|a
+pombalino	adjetivo	pom|ba|[li]|no
+pombalismo	nome masculino	pom|ba|[lis]|mo
+pombalista	adjetivo	pom|ba|[lis]|ta
+pombalista	nome masculino	pom|ba|[lis]|ta
+pombalista	nome feminino	pom|ba|[lis]|ta
+pombe	nome masculino	[pom]|be
+pombear	verbo	pom|be|[ar]
+pombeirar	verbo	pom|bei|[rar]
+pombeiro	nome masculino	pom|[bei]|ro
+pombeiro	adjetivo	pom|[bei]|ro
+pombela	nome feminino	pom|[be]|la
+pombinha	nome feminino	pom|[bi]|nha
+pombinho	nome masculino	pom|[bi]|nho
+pombinho	adjetivo	pom|[bi]|nho
+pombo	nome masculino	[pom]|bo
+pombo-bravo	nome masculino	pom|bo-bra|vo
+pombo-correio	nome masculino	pom|bo-cor|[rei]|o
+pombo-torcaz	nome masculino	pom|bo-tor|[caz]
+pomécio	nome masculino	po|[mé]|ci|o
+pomécio	adjetivo	po|[mé]|ci|o
+pomeraniano	adjetivo	po|me|ra|ni|[a]|no
+pomeraniano	nome masculino	po|me|ra|ni|[a]|no
+pomerânio	nome masculino	po|me|[râ]|ni|o
+pomerânio	adjetivo	po|me|[râ]|ni|o
+pomerano	adjetivo	po|me|[ra]|no
+pomerano	nome masculino	po|me|[ra]|no
+pomério	nome masculino	po|[mé]|ri|o
+pomes	nome masculino	[po]|mes
+pometino	adjetivo	po|me|[ti]|no
+pómice	nome masculino	[pó]|mi|ce
+pômice	nome masculino	[pô]|mi|ce
+pomícola	adjetivo	po|[mí]|co|la
+pomícolo	adjetivo	po|[mí]|co|lo
+pomicultor	nome masculino	po|mi|cul|[tor]
+pomicultor	adjetivo	po|mi|cul|[tor]
+pomicultora	nome feminino	po|mi|cul|[to]|ra
+pomicultura	nome feminino	po|mi|cul|[tu]|ra
+pomífero	adjetivo	po|[mí]|fe|ro
+pomificar	verbo	po|mi|fi|[car]
+pomiforme	adjetivo	po|mi|[for]|me
+pomítico	adjetivo	po|[mí]|ti|co
+pomito	nome masculino	po|[mi]|to
+pomo	nome masculino	[po]|mo
+pomo de Adão	nome masculino	[po]|mo de A|dão
+pomologia	nome feminino	po|mo|lo|[gi]|a
+pomológico	adjetivo	po|mo|[ló]|gi|co
+pomologista	nome masculino	po|mo|lo|[gis]|ta
+pomologista	nome feminino	po|mo|lo|[gis]|ta
+pomólogo	nome masculino	po|[mó]|lo|go
+pomonal	adjetivo	po|mo|[nal]
+pomoso	adjetivo	po|[mo]|so
+pompa	nome feminino	[pom]|pa
+pompadourismo	nome masculino	pom|pa|dou|[ris]|mo
+pompeante	adjetivo	pom|pe|[an]|te
+pompear	verbo	pom|pe|[ar]
+pompeiano	adjetivo	pom|pei|[a]|no
+pompeiano	nome masculino	pom|pei|[a]|no
+pompeiopolitano	adjetivo	pom|pei|o|po|li|[ta]|no
+pompeiopolitano	nome masculino	pom|pei|o|po|li|[ta]|no
+pompelonense	nome masculino	pom|pe|lo|[nen]|se
+pompelonense	adjetivo	pom|pe|lo|[nen]|se
+pompelonense	nome feminino	pom|pe|lo|[nen]|se
+pompeu	nome masculino	pom|[peu]
+pompílio	nome masculino	pom|[pí]|li|o
+pompo	nome masculino	[pom]|po
+pompom	nome masculino	[pom]|pom
+pomponete	nome masculino	pom|po|[ne]|te
+pomporra	nome feminino	pom|[por]|ra
+pomposamente	advérbio	pom|po|sa|[men]|te
+pomposidade	nome feminino	pom|po|si|[da]|de
+pomposo	adjetivo	pom|[po]|so
+pómulo	nome masculino	[pó]|mu|lo
+pômulo	nome masculino	[pô]|mu|lo
+poncã	nome feminino	pon|[cã]
+poncha	nome feminino	[pon]|cha
+ponchada	nome feminino	pon|[cha]|da
+ponche	nome masculino	[pon]|che
+poncheira	nome feminino	pon|[chei]|ra
+poncho	nome masculino	[pon]|cho
+ponciano	nome masculino	pon|ci|[a]|no
+ponciano	adjetivo	pon|ci|[a]|no
+ponçó	nome masculino	pon|[çó]

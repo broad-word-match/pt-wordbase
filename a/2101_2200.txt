@@ -1,0 +1,100 @@
+acantela	nome feminino	a|can|[te]|la
+acantequino	nome masculino	a|can|te|[qui]|no
+acântia	nome feminino	a|[cân]|ti|a
+acantião	nome masculino	a|can|ti|[ão]
+acântico	adjetivo	a|[cân]|ti|co
+acantilado	adjetivo	a|can|ti|[la]|do
+acântino	adjetivo	a|[cân]|ti|no
+acantita	nome feminino	a|can|[ti]|ta
+acantite	nome feminino	a|can|[ti]|te
+acantítico	adjetivo	a|can|[tí]|ti|co
+acanto	nome masculino	a|[can]|to
+acantoado	adjetivo	a|can|to|[a]|do
+acantoamento	nome masculino	a|can|to|a|[men]|to
+acantoar	verbo	a|can|to|[ar]
+acantóbolo	nome masculino	a|can|[tó]|bo|lo
+acantocárpio	adjetivo	a|can|to|[cár]|pi|o
+acantocarpo	nome masculino	a|can|to|[car]|po
+acantocarpo	adjetivo	a|can|to|[car]|po
+acantocéfalo	nome masculino	a|can|to|[cé]|fa|lo
+acantocéfalo	adjetivo	a|can|to|[cé]|fa|lo
+acantoceratídeo	nome masculino	a|can|to|ce|ra|[tí]|de|o
+acantoceratídeo	adjetivo	a|can|to|ce|ra|[tí]|de|o
+acantochanado	adjetivo	a|can|to|cha|[na]|do
+acantocládio	adjetivo	a|can|to|[clá]|di|o
+acantóclado	nome masculino	a|can|[tó]|cla|do
+acantodáctilo	adjetivo	a|can|to|[dác]|ti|lo
+acantodáctilo	nome masculino	a|can|to|[dác]|ti|lo
+acantodátilo	adjetivo	a|can|to|[dá]|ti|lo
+acantodátilo	nome masculino	a|can|to|[dá]|ti|lo
+acantofagia	nome feminino	a|can|to|fa|[gi]|a
+acantófago	adjetivo	a|can|[tó]|fa|go
+acantófilo	adjetivo	a|can|[tó]|fi|lo
+acantofilo	nome masculino	a|can|to|[fi]|lo
+acantóforo	adjetivo	a|can|[tó]|fo|ro
+acantoglosso	nome masculino	a|can|to|[glos]|so
+acantoide	adjetivo	a|can|[toi]|de
+acantoide	nome masculino	a|can|[toi]|de
+acantometra	nome feminino	a|can|to|[me]|tra
+acantonado	adjetivo	a|can|to|[na]|do
+acantonamento	nome masculino	a|can|to|na|[men]|to
+acantonar	verbo	a|can|to|[nar]
+acantônique	nome masculino	a|can|[tô]|ni|que
+acantónique	nome masculino	a|can|[tó]|ni|que
+acantope	adjetivo	a|can|[to]|pe
+acantope	nome masculino	a|can|[to]|pe
+acantópode	nome masculino	a|can|[tó]|po|de
+acantoposia	nome feminino	a|can|to|po|[si]|a
+acantopse	nome feminino	a|can|[top]|se
+acantoptérige	nome masculino	a|can|top|[té]|ri|ge
+acantopterígio	nome masculino	a|can|top|te|[rí]|gi|o
+acantopterígio	adjetivo	a|can|top|te|[rí]|gi|o
+acantóptero	adjetivo	a|can|[tóp]|te|ro
+acantóptero	nome masculino	a|can|[tóp]|te|ro
+acantorrinco	nome masculino	a|can|tor|[rin]|co
+acantorrino	nome masculino	a|can|tor|[ri]|no
+acantorriza	nome feminino	a|can|tor|[ri]|za
+acantóscele	nome masculino	a|can|[tós]|ce|le
+acantose	nome feminino	a|can|[to]|se
+acantosício	nome masculino	a|can|to|[sí]|ci|o
+acantósico	adjetivo	a|can|[tó]|si|co
+acantósico	nome masculino	a|can|[tó]|si|co
+acantossomo	nome masculino	a|can|tos|[so]|mo
+acantótico	adjetivo	a|can|[tó]|ti|co
+acantótico	nome masculino	a|can|[tó]|ti|co
+acantozoide	nome masculino	a|can|to|[zoi]|de
+acanturo	nome masculino	a|can|[tu]|ro
+acanudado	adjetivo	a|ca|nu|[da]|do
+acanudar	verbo	a|ca|nu|[dar]
+açanuíra	nome feminino	a|ça|nu|[í]|ra
+acanulado	adjetivo	a|ca|nu|[la]|do
+acanular	verbo	a|ca|nu|[lar]
+ação	nome feminino	a|[ção]
+acapachado	adjetivo	a|ca|pa|[cha]|do
+acapachamento	nome masculino	a|ca|pa|cha|[men]|to
+acapachar	verbo	a|ca|pa|[char]
+acapadoçado	adjetivo	a|ca|pa|do|[ça]|do
+acapangado	adjetivo	a|ca|pan|[ga]|do
+açapar	verbo	a|ça|[par]
+acaparar	verbo	a|ca|pa|[rar]
+acaparrar	verbo	a|ca|par|[rar]
+acapelado	adjetivo	a|ca|pe|[la]|do
+acapelar	verbo	a|ca|pe|[lar]
+acapitulado	adjetivo	a|ca|pi|tu|[la]|do
+acapitular	verbo	a|ca|pi|tu|[lar]
+acapna	nome feminino	a|[cap]|na
+acapnia	nome feminino	a|cap|[ni]|a
+acápnico	adjetivo	a|[cáp]|ni|co
+acapno	adjetivo	a|[cap]|no
+acapno	nome masculino	a|[cap]|no
+acapoeirado	adjetivo	a|ca|po|ei|[ra]|do
+acapoeirar	verbo	a|ca|po|ei|[rar]
+acapora	nome feminino	a|ca|[po]|ra
+acapotado	adjetivo	a|ca|po|[ta]|do
+acapotar	verbo	a|ca|po|[tar]
+acapu	nome masculino	a|ca|[pu]
+acapuchar	verbo	a|ca|pu|[char]
+acapulhar	verbo	a|ca|pu|[lhar]
+acapurana	nome feminino	a|ca|pu|[ra]|na
+acará	nome masculino	a|ca|[rá]
+acará-açu	nome masculino	a|ca|rá-a|[çu]

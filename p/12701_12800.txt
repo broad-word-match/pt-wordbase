@@ -1,0 +1,100 @@
+preocupar	verbo	pre|o|cu|[par]
+preocupável	adjetivo	pre|o|cu|[pá]|vel
+preopérculo	nome masculino	pre|o|[pér]|cu|lo
+preopinante	adjetivo	pre|o|pi|[nan]|te
+preopinante	nome masculino	pre|o|pi|[nan]|te
+preopinante	nome feminino	pre|o|pi|[nan]|te
+preopinar	verbo	pre|o|pi|[nar]
+preordenação	nome feminino	pre|or|de|na|[ção]
+preordenar	verbo	pre|or|de|[nar]
+preordenável	adjetivo	pre|or|de|[ná]|vel
+preparação	nome feminino	pre|pa|ra|[ção]
+preparado	nome masculino	pre|pa|[ra]|do
+preparado	adjetivo	pre|pa|[ra]|do
+preparador	adjetivo	pre|pa|ra|[dor]
+preparador	nome masculino	pre|pa|ra|[dor]
+preparadora	nome feminino	pre|pa|ra|[do]|ra
+preparamento	nome masculino	pre|pa|ra|[men]|to
+preparar	verbo	pre|pa|[rar]
+preparativa	nome feminino	pre|pa|ra|[ti]|va
+preparativo	nome masculino	pre|pa|ra|[ti]|vo
+preparativo	adjetivo	pre|pa|ra|[ti]|vo
+preparativos	nome masculino	pre|pa|ra|[ti]|vos
+preparatorial	adjetivo	pre|pa|ra|to|ri|[al]
+preparatoriamente	advérbio	pre|pa|ra|to|ri|a|[men]|te
+preparatoriano	adjetivo	pre|pa|ra|to|ri|[a]|no
+preparatoriano	nome masculino	pre|pa|ra|to|ri|[a]|no
+preparatório	nome masculino	pre|pa|ra|[tó]|ri|o
+preparatório	adjetivo	pre|pa|ra|[tó]|ri|o
+preparatórios	nome masculino	pre|pa|ra|[tó]|ri|os
+preparável	adjetivo	pre|pa|[rá]|vel
+preparo	nome masculino	pre|[pa]|ro
+prepau	nome masculino	pre|[pau]
+prepoém	nome masculino	pre|po|[ém]
+preponderância	nome feminino	pre|pon|de|[rân]|ci|a
+preponderante	adjetivo	pre|pon|de|[ran]|te
+preponderantemente	advérbio	pre|pon|de|ran|te|[men]|te
+preponderantismo	nome masculino	pre|pon|de|ran|[tis]|mo
+preponderar	verbo	pre|pon|de|[rar]
+preponente	adjetivo	pre|po|[nen]|te
+preponente	nome masculino	pre|po|[nen]|te
+preponente	nome feminino	pre|po|[nen]|te
+prepor	verbo	pre|[por]
+preposição	nome feminino	pre|po|si|[ção]
+preposicional	adjetivo	pre|po|si|ci|o|[nal]
+prepositiva	nome feminino	pre|po|si|[ti]|va
+prepositivamente	advérbio	pre|po|si|ti|va|[men]|te
+prepositivo	adjetivo	pre|po|si|[ti]|vo
+prepósito	nome masculino	pre|[pó]|si|to
+prepósito-geral	nome masculino	pre|pó|si|to-ge|[ral]
+prepositura	nome feminino	pre|po|si|[tu]|ra
+preposta	nome feminino	pre|[pos]|ta
+preposteração	nome feminino	pre|pos|te|ra|[ção]
+preposterar	verbo	pre|pos|te|[rar]
+preposteridade	nome feminino	pre|pos|te|ri|[da]|de
+prepóstero	adjetivo	pre|[pós]|te|ro
+preposto	adjetivo	pre|[pos]|to
+preposto	nome masculino	pre|[pos]|to
+prepotência	nome feminino	pre|po|[tên]|ci|a
+prepotente	adjetivo	pre|po|[ten]|te
+prepotentemente	advérbio	pre|po|ten|te|[men]|te
+prepucial	adjetivo	pre|pu|ci|[al]
+prepúcio	nome masculino	pre|[pú]|ci|o
+prerrogativa	nome feminino	prer|ro|ga|[ti]|va
+prerromper	verbo	prer|rom|[per]
+presa	nome feminino	[pre]|sa
+presador	nome masculino	pre|sa|[dor]
+presar	verbo	pre|[sar]
+presbiacusia	nome feminino	pres|bi|a|cu|[si]|a
+presbiofrenia	nome feminino	pres|bi|o|fre|[ni]|a
+presbiofrênico	adjetivo	pres|bi|o|[frê]|ni|co
+presbiofrénico	adjetivo	pres|bi|o|[fré]|ni|co
+presbíope	nome masculino	pres|[bí]|o|pe
+presbíope	nome feminino	pres|[bí]|o|pe
+presbiopia	nome feminino	pres|bi|o|[pi]|a
+presbiópico	adjetivo	pres|bi|[ó]|pi|co
+presbita	adjetivo	pres|[bi]|ta
+presbita	nome masculino	pres|[bi]|ta
+presbita	nome feminino	pres|[bi]|ta
+presbiterado	nome masculino	pres|bi|te|[ra]|do
+presbiteral	adjetivo	pres|bi|te|[ral]
+presbiteranismo	nome masculino	pres|bi|te|ra|[nis]|mo
+presbiterano	nome masculino	pres|bi|te|[ra]|no
+presbiterato	nome masculino	pres|bi|te|[ra]|to
+presbiterianismo	nome masculino	pres|bi|te|ri|a|[nis]|mo
+presbiteriano	nome masculino	pres|bi|te|ri|[a]|no
+presbitério	nome masculino	pres|bi|[té]|ri|o
+presbítero	nome masculino	pres|[bí]|te|ro
+presbitia	nome feminino	pres|bi|[ti]|a
+presbitismo	nome masculino	pres|bi|[tis]|mo
+presciência	nome feminino	pres|ci|[ên]|ci|a
+presciente	adjetivo	pres|ci|[en]|te
+prescindência	nome feminino	pres|cin|[dên]|ci|a
+prescindente	adjetivo	pres|cin|[den]|te
+prescindir	verbo	pres|cin|[dir]
+prescindível	adjetivo	pres|cin|[dí]|vel
+prescrever	verbo	pres|cre|[ver]
+prescribente	adjetivo	pres|cri|[ben]|te
+prescrição	nome feminino	pres|cri|[ção]
+prescritível	adjetivo	pres|cri|[tí]|vel
+prescritivo	adjetivo	pres|cri|[ti]|vo

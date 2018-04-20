@@ -1,0 +1,100 @@
+amigar	verbo	a|mi|[gar]
+amigável	adjetivo	a|mi|[gá]|vel
+amigavelmente	advérbio	a|mi|ga|vel|[men]|te
+amígdala	nome feminino	a|[míg]|da|la
+amigdalácea	nome feminino	a|mig|da|[lá]|ce|a
+amigdaláceo	adjetivo	a|mig|da|[lá]|ce|o
+amigdalar	adjetivo	a|mig|da|[lar]
+amigdalato	nome masculino	a|mig|da|[la]|to
+amigdálea	nome feminino	a|mig|[dá]|le|a
+amigdalectomia	nome feminino	a|mig|da|lec|to|[mi]|a
+amigdaliano	adjetivo	a|mig|da|li|[a]|no
+amigdálico	adjetivo	a|mig|[dá]|li|co
+amigdalífero	adjetivo	a|mig|da|[lí]|fe|ro
+amigdaliforme	adjetivo	a|mig|da|li|[for]|me
+amigdalina	nome feminino	a|mig|da|[li]|na
+amigdalínico	adjetivo	a|mig|da|[lí]|ni|co
+amigdalino	adjetivo	a|mig|da|[li]|no
+amigdalite	nome feminino	a|mig|da|[li]|te
+amigdalóforo	nome masculino	a|mig|da|[ló]|fo|ro
+amigdaloide	adjetivo	a|mig|da|[loi]|de
+amigdaloide	nome masculino	a|mig|da|[loi]|de
+amigdalopatia	nome feminino	a|mig|da|lo|pa|[ti]|a
+amigdalotomia	nome feminino	a|mig|da|lo|to|[mi]|a
+amigdalotómico	adjetivo	a|mig|da|lo|[tó]|mi|co
+amigdalotômico	adjetivo	a|mig|da|lo|[tô]|mi|co
+amigdalótomo	nome masculino	a|mig|da|[ló]|to|mo
+amigdalotripsia	nome feminino	a|mig|da|lo|trip|[si]|a
+amigo	adjetivo	a|[mi]|go
+amigo	nome masculino	a|[mi]|go
+amigote	nome masculino	a|mi|[go]|te
+amiguinha	nome feminino	a|mi|[gui]|nha
+amiguinho	nome masculino	a|mi|[gui]|nho
+amiguismo	nome masculino	a|mi|[guis]|mo
+amiláceo	adjetivo	a|mi|[lá]|ce|o
+amílase	nome feminino	a|[mí]|la|se
+amilénico	adjetivo	a|mi|[lé]|ni|co
+amilênico	adjetivo	a|mi|[lê]|ni|co
+amileno	nome masculino	a|mi|[le]|no
+amilhar	verbo	a|mi|[lhar]
+amílico	adjetivo	a|[mí]|li|co
+amilífero	adjetivo	a|mi|[lí]|fe|ro
+amílio	nome masculino	a|[mí]|li|o
+amilo	nome masculino	a|[mi]|lo
+amilofórmio	nome masculino	a|mi|lo|[fór]|mi|o
+amilogênio	nome masculino	a|mi|lo|[gê]|ni|o
+amilogénio	nome masculino	a|mi|lo|[gé]|ni|o
+amiloide	adjetivo	a|mi|[loi]|de
+amiloide	nome feminino	a|mi|[loi]|de
+amiloide	nome masculino	a|mi|[loi]|de
+amiloidose	nome feminino	a|mi|loi|[do]|se
+amiloleucito	nome masculino	a|mi|lo|leu|[ci]|to
+amilombe	nome feminino	a|mi|[lom]|be
+amiloplasta	nome masculino	a|mi|lo|[plas]|ta
+amiloplastídio	nome masculino	a|mi|lo|plas|[tí]|di|o
+amiloplasto	nome masculino	a|mi|lo|[plas]|to
+amilopsina	nome feminino	a|mi|lop|[si]|na
+amilose	nome feminino	a|mi|[lo]|se
+amimadamente	advérbio	a|mi|ma|da|[men]|te
+amimado	adjetivo	a|mi|[ma]|do
+amimador	adjetivo	a|mi|ma|[dor]
+amimador	nome masculino	a|mi|ma|[dor]
+amimalhado	adjetivo	a|mi|ma|[lha]|do
+amimalhar	verbo	a|mi|ma|[lhar]
+amimar	verbo	a|mi|[mar]
+amimia	nome feminino	a|mi|[mi]|a
+amímico	adjetivo	a|[mí]|mi|co
+amina	nome feminino	a|[mi]|na
+aminação	nome feminino	a|mi|na|[ção]
+aminácido	nome masculino	a|mi|[ná]|ci|do
+aminado	adjetivo	a|mi|[na]|do
+amínea	nome feminino	a|[mí]|ne|a
+amineu	adjetivo	a|mi|[neu]
+amineu	nome masculino	a|mi|[neu]
+aminguar	verbo	a|min|[guar]
+aminoácido	nome masculino	a|mi|no|[á]|ci|do
+aminodonte	nome masculino	a|mi|no|[don]|te
+aminol	nome masculino	a|mi|[nol]
+aminta	nome feminino	a|[min]|ta
+amíntico	adjetivo	a|[mín]|ti|co
+âmio	nome masculino	[â]|mi|o
+âmio-maior	nome masculino	â|mi|o-mai|or
+âmio-vulgar	nome masculino	â|mi|o-vul|gar
+amiostasia	nome feminino	a|mi|os|ta|[si]|a
+amiotáctico	adjetivo	a|mi|o|[tác]|ti|co
+amiotático	adjetivo	a|mi|o|[tá]|ti|co
+amiotaxia	nome feminino	a|mi|o|ta|[xi]|a
+amiotrofia	nome feminino	a|mi|o|tro|[fi]|a
+amiotrófico	adjetivo	a|mi|o|[tró]|fi|co
+amir	nome masculino	a|[mir]
+amirado	nome masculino	a|mi|[ra]|do
+amíride	nome feminino	a|[mí]|ri|de
+amirídea	nome feminino	a|mi|[rí]|de|a
+amiseno	adjetivo	a|mi|[se]|no
+amiseno	nome masculino	a|mi|[se]|no
+amiseração	nome feminino	a|mi|se|ra|[ção]
+amiserar	verbo	a|mi|se|[rar]
+amissão	nome feminino	a|mis|[são]
+amissibilidade	nome feminino	a|mis|si|bi|li|[da]|de
+amissível	adjetivo	a|mis|[sí]|vel
+amistar	verbo	a|mis|[tar]

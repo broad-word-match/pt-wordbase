@@ -1,0 +1,100 @@
+julgamento	nome masculino	jul|ga|[men]|to
+julgar	verbo	jul|[gar]
+julgável	adjetivo	jul|[gá]|vel
+julho	nome masculino	[ju]|lho
+juliana	nome feminino	ju|li|[a]|na
+juliana	adjetivo	ju|li|[a]|na
+juliana-dos-jardins	nome feminino	ju|li|a|na-dos-jar|[dins]
+juliânia	nome feminino	ju|li|[â]|ni|a
+juliano	adjetivo	ju|li|[a]|no
+juliense	adjetivo	ju|li|[en]|se
+juliense	nome masculino	ju|li|[en]|se
+juliense	nome feminino	ju|li|[en]|se
+júlio	adjetivo	[jú]|li|o
+júlio	nome masculino	[jú]|li|o
+juliopolitano	adjetivo	ju|li|o|po|li|[ta]|no
+juliopolitano	nome masculino	ju|li|o|po|li|[ta]|no
+jumbai	nome masculino	jum|[bai]
+jumbair	verbo	jum|ba|[ir]
+jumbeba	nome feminino	jum|[be]|ba
+jumenta	nome feminino	ju|[men]|ta
+jumentada	nome feminino	ju|men|[ta]|da
+jumental	adjetivo	ju|men|[tal]
+jumentice	nome feminino	ju|men|[ti]|ce
+jumentico	nome masculino	ju|men|[ti]|co
+jumentil	adjetivo	ju|men|[til]
+jumento	nome masculino	ju|[men]|to
+junça	nome feminino	[jun]|ça
+junça-de-conta	nome feminino	jun|ça-de-con|ta
+juncácea	nome feminino	jun|[cá]|ce|a
+juncada	nome feminino	jun|[ca]|da
+juncaginácea	nome feminino	jun|ca|gi|[ná]|ce|a
+junçal	nome masculino	jun|[çal]
+juncal	nome masculino	jun|[cal]
+juncaneiro	nome masculino	jun|ca|[nei]|ro
+junção	nome feminino	jun|[ção]
+juncão	nome masculino	jun|[cão]
+juncar	verbo	jun|[car]
+junceira	nome feminino	jun|[cei]|ra
+junciforme	adjetivo	jun|ci|[for]|me
+juncinha	nome feminino	jun|[ci]|nha
+junço	nome masculino	[jun]|ço
+junco	nome masculino	[jun]|co
+junçoso	adjetivo	jun|[ço]|so
+juncoso	adjetivo	jun|[co]|so
+jundaí	nome masculino	jun|da|[í]
+jundiá	nome masculino	jun|di|[á]
+jundiaíba	nome feminino	jun|di|a|[í]|ba
+jungir	verbo	jun|[gir]
+jungo	nome masculino	[jun]|go
+jungo	adjetivo	[jun]|go
+junguiano	nome masculino	jun|gui|[a]|no
+junguiano	adjetivo	jun|gui|[a]|no
+jungutido	adjetivo	jun|gu|[ti]|do
+junho	nome masculino	[ju]|nho
+júnior	nome masculino	[jú]|ni|or
+júnior	adjetivo	[jú]|ni|or
+júnior	nome feminino	[jú]|ni|or
+juniperácea	nome feminino	ju|ni|pe|[rá]|ce|a
+juniperáceo	adjetivo	ju|ni|pe|[rá]|ce|o
+juniperina	nome feminino	ju|ni|pe|[ri]|na
+junípero	nome masculino	ju|[ní]|pe|ro
+junkie	nome feminino	[jun]|kie
+junkie	nome masculino	jun|[ki]|e
+junkie	adjetivo	jun|[ki]|e
+junonal	adjetivo	ju|no|[nal]
+junónias	nome feminino	ju|[nó]|ni|as
+junonícola	adjetivo	ju|no|[ní]|co|la
+junônio	adjetivo	ju|[nô]|ni|o
+junónio	adjetivo	ju|[nó]|ni|o
+junqueira	nome feminino	jun|[quei]|ra
+junqueira	nome masculino	jun|[quei]|ra
+junqueiriano	adjetivo	jun|quei|ri|[a]|no
+junqueirismo	nome masculino	jun|quei|[ris]|mo
+junqueirista	adjetivo	jun|quei|[ris]|ta
+junqueirista	nome masculino	jun|quei|[ris]|ta
+junqueirista	nome feminino	jun|quei|[ris]|ta
+junqueiro	nome masculino	jun|[quei]|ro
+junquilho	nome masculino	jun|[qui]|lho
+junta	nome feminino	[jun]|ta
+junta-mão	nome masculino	jun|ta-mão
+juntada	nome feminino	jun|[ta]|da
+juntador	adjetivo	jun|ta|[dor]
+juntador	nome masculino	jun|ta|[dor]
+juntamente	advérbio	jun|ta|[men]|te
+juntamento	nome masculino	jun|ta|[men]|to
+juntar	verbo	jun|[tar]
+junteira	nome feminino	jun|[tei]|ra
+junto	advérbio	[jun]|to
+junto	adjetivo	[jun]|to
+junto	nome masculino	[jun]|to
+juntoira	nome feminino	jun|[toi]|ra
+juntoura	nome feminino	jun|[tou]|ra
+juntouro	nome masculino	jun|[tou]|ro
+juntura	nome feminino	jun|[tu]|ra
+juó	nome masculino	ju|[ó]
+jupará	nome masculino	ju|pa|[rá]
+juparaba	nome feminino	ju|pa|[ra]|ba
+jupati	nome masculino	ju|pa|[ti]
+jupiá	nome masculino	ju|pi|[á]
+jupiede	nome masculino	ju|pi|[e]|de

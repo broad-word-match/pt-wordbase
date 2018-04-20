@@ -1,0 +1,100 @@
+agazuar	verbo	a|ga|zu|[ar]
+agazular	verbo	a|ga|zu|[lar]
+ageia	nome feminino	a|[gei]|a
+agema	nome masculino	a|[ge]|ma
+agemado	adjetivo	a|ge|[ma]|do
+agência	nome feminino	a|[gên]|ci|a
+agência-geral	nome feminino	a|gên|ci|a-ge|ral
+agenciadeira	nome feminino	a|gen|ci|a|[dei]|ra
+agenciador	adjetivo	a|gen|ci|a|[dor]
+agenciador	nome masculino	a|gen|ci|a|[dor]
+agenciadora	nome feminino	a|gen|ci|a|[do]|ra
+agenciamento	nome masculino	a|gen|ci|a|[men]|to
+agenciar	verbo	a|gen|ci|[ar]
+agenciário	nome masculino	a|gen|ci|[á]|ri|o
+agenciável	adjetivo	a|gen|ci|[á]|vel
+agenciosamente	advérbio	a|gen|ci|o|sa|[men]|te
+agencioso	adjetivo	a|gen|ci|[o]|so
+agenda	nome feminino	a|[gen]|da
+agendamento	nome masculino	a|gen|da|[men]|to
+agendar	verbo	a|gen|[dar]
+agenesia	nome feminino	a|ge|ne|[si]|a
+agenésico	adjetivo	a|ge|[né]|si|co
+agenético	adjetivo	a|ge|[né]|ti|co
+agengibrar	verbo	a|gen|gi|[brar]
+agenossomia	nome feminino	a|ge|nos|so|[mi]|a
+agenossomo	nome masculino	a|ge|nos|[so]|mo
+agente	nome masculino	a|[gen]|te
+agente	adjetivo	a|[gen]|te
+agente	nome feminino	a|[gen]|te
+agente-geral	nome masculino	a|gen|te-ge|[ral]
+agentivo	adjetivo	a|gen|[ti]|vo
+ageolhar	verbo	a|ge|o|[lhar]
+ageometria	nome feminino	a|ge|o|me|[tri]|a
+ageométrico	adjetivo	a|ge|o|[mé]|tri|co
+ageometrosia	nome feminino	a|ge|o|me|tro|[si]|a
+agerasia	nome feminino	a|ge|ra|[si]|a
+agerásico	adjetivo	a|ge|[rá]|si|co
+agerático	adjetivo	a|ge|[rá]|ti|co
+agermanação	nome feminino	a|ger|ma|na|[ção]
+agermanar	verbo	a|ger|ma|[nar]
+ageusia	nome feminino	a|geu|[si]|a
+ageustia	nome feminino	a|geus|[ti]|a
+aggiornamento	nome masculino	ag|gi|or|na|[men]|to
+agigantadamente	advérbio	a|gi|gan|ta|da|[men]|te
+agigantado	adjetivo	a|gi|gan|[ta]|do
+agigantamento	nome masculino	a|gi|gan|ta|[men]|to
+agigantar	verbo	a|gi|gan|[tar]
+agigantear	verbo	a|gi|gan|te|[ar]
+ágil	adjetivo	[á]|gil
+agilidade	nome feminino	a|gi|li|[da]|de
+agílimo	adjetivo	a|[gí]|li|mo
+agilino	adjetivo	a|gi|[li]|no
+agilino	nome masculino	a|gi|[li]|no
+agilitar	verbo	a|gi|li|[tar]
+agilitável	adjetivo	a|gi|li|[tá]|vel
+agilização	nome feminino	a|gi|li|za|[ção]
+agilizar	verbo	a|gi|li|[zar]
+agilizável	adjetivo	a|gi|li|[zá]|vel
+agilmente	advérbio	a|gil|[men]|te
+aginia	nome feminino	a|gi|[ni]|a
+ágino	adjetivo	[á]|gi|no
+ágio	nome masculino	[á]|gi|o
+agiota	adjetivo	a|gi|[o]|ta
+agiota	nome masculino	a|gi|[o]|ta
+agiota	nome feminino	a|gi|[o]|ta
+agiotagem	nome feminino	a|gi|o|[ta]|gem
+agiotar	verbo	a|gi|o|[tar]
+agir	verbo	a|[gir]
+agirafado	adjetivo	a|gi|ra|[fa]|do
+agirinense	nome masculino	a|gi|ri|[nen]|se
+agirinense	adjetivo	a|gi|ri|[nen]|se
+agirinense	nome feminino	a|gi|ri|[nen]|se
+agironado	adjetivo	a|gi|ro|[na]|do
+agit-prop	nome feminino	a|git-prop
+agitabilidade	nome feminino	a|gi|ta|bi|li|[da]|de
+agitação	nome feminino	a|gi|ta|[ção]
+agitadamente	advérbio	a|gi|ta|da|[men]|te
+agitadiço	adjetivo	a|gi|ta|[di]|ço
+agitadíssimo	adjetivo	a|gi|ta|[dís]|si|mo
+agitado	adjetivo	a|gi|[ta]|do
+agitador	adjetivo	a|gi|ta|[dor]
+agitador	nome masculino	a|gi|ta|[dor]
+agitadora	nome feminino	a|gi|ta|[do]|ra
+agitamento	nome masculino	a|gi|ta|[men]|to
+agitante	adjetivo	a|gi|[tan]|te
+agitar	verbo	a|gi|[tar]
+agitato	adjetivo	a|gi|ta|to
+agitável	adjetivo	a|gi|[tá]|vel
+agitprop	nome masculino	a|[git]|prop
+aglaia	nome feminino	a|[glai]|a
+aglicosúria	nome feminino	a|gli|co|[sú]|ri|a
+aglicosúrico	adjetivo	a|gli|co|[sú]|ri|co
+aglicosúrico	nome masculino	a|gli|co|[sú]|ri|co
+áglifo	adjetivo	[á]|gli|fo
+áglifo	nome masculino	[á]|gli|fo
+aglobulia	nome feminino	a|glo|bu|[li]|a
+aglomeração	nome feminino	a|glo|me|ra|[ção]
+aglomerada	nome feminino	a|glo|me|[ra]|da
+aglomeradamente	advérbio	a|glo|me|ra|da|[men]|te
+aglomerado	adjetivo	a|glo|me|[ra]|do

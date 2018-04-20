@@ -1,0 +1,100 @@
+transfronteiras	adjetivo	trans|fron|[tei]|ras
+transfronteiriço	adjetivo	trans|fron|tei|[ri]|ço
+trânsfuga	nome masculino	[trâns]|fu|ga
+trânsfuga	nome feminino	[trâns]|fu|ga
+transfúgio	nome masculino	trans|[fú]|gi|o
+transfugir	verbo	trans|fu|[gir]
+transfunctório	adjetivo	trans|func|[tó]|ri|o
+transfundir	verbo	trans|fun|[dir]
+transfuntório	adjetivo	trans|fun|[tó]|ri|o
+transfusão	nome feminino	trans|fu|[são]
+transfusivamente	advérbio	trans|fu|si|va|[men]|te
+transfusível	adjetivo	trans|fu|[sí]|vel
+transfusivo	adjetivo	trans|fu|[si]|vo
+transgangético	adjetivo	trans|gan|[gé]|ti|co
+transgênico	adjetivo	trans|[gê]|ni|co
+transgénico	adjetivo	trans|[gé]|ni|co
+transgredir	verbo	trans|gre|[dir]
+transgredível	adjetivo	trans|gre|[dí]|vel
+transgressão	nome feminino	trans|gres|[são]
+transgressivamente	advérbio	trans|gres|si|va|[men]|te
+transgressivo	adjetivo	trans|gres|[si]|vo
+transgressor	adjetivo	trans|gres|[sor]
+transgressor	nome masculino	trans|gres|[sor]
+transgressora	nome feminino	trans|gres|[so]|ra
+transiberiano	adjetivo	tran|si|be|ri|[a]|no
+transiberiano	nome masculino	tran|si|be|ri|[a]|no
+transição	nome feminino	tran|si|[ção]
+transido	adjetivo	tran|[si]|do
+transiente	adjetivo	tran|si|[en]|te
+transigência	nome feminino	tran|si|[gên]|ci|a
+transigente	adjetivo	tran|si|[gen]|te
+transigente	nome masculino	tran|si|[gen]|te
+transigente	nome feminino	tran|si|[gen]|te
+transigibilidade	nome feminino	tran|si|gi|bi|li|[da]|de
+transigido	adjetivo	tran|si|[gi]|do
+transigir	verbo	tran|si|[gir]
+transigível	adjetivo	tran|si|[gí]|vel
+transiluminação	nome feminino	tran|si|lu|mi|na|[ção]
+transiluminado	adjetivo	tran|si|lu|mi|[na]|do
+transiluminado	nome masculino	tran|si|lu|mi|[na]|do
+transilvana	nome feminino	tran|sil|[va]|na
+transilvano	adjetivo	tran|sil|[va]|no
+transilvano	nome masculino	tran|sil|[va]|no
+transir	verbo	tran|[sir]
+transístor	nome masculino	tran|[sís]|tor
+transistorizado	adjetivo	tran|sis|to|ri|[za]|do
+transistorizar	verbo	tran|sis|to|ri|[zar]
+transitabilidade	nome feminino	tran|si|ta|bi|li|[da]|de
+transitado	adjetivo	tran|si|[ta]|do
+transitar	verbo	tran|si|[tar]
+transitária	nome feminino	tran|si|[tá]|ri|a
+transitário	nome masculino	tran|si|[tá]|ri|o
+transitário	adjetivo	tran|si|[tá]|ri|o
+transitável	adjetivo	tran|si|[tá]|vel
+transitivamente	advérbio	tran|si|ti|va|[men]|te
+transitivar	verbo	tran|si|ti|[var]
+transitividade	nome feminino	tran|si|ti|vi|[da]|de
+transitivo	adjetivo	tran|si|[ti]|vo
+trânsito	nome masculino	[trân]|si|to
+transitoriamente	advérbio	tran|si|to|ri|a|[men]|te
+transitoriedade	nome feminino	tran|si|to|ri|e|[da]|de
+transitório	adjetivo	tran|si|[tó]|ri|o
+transjordânico	adjetivo	trans|jor|[dâ]|ni|co
+transjordano	adjetivo	trans|jor|[da]|no
+transjordano	nome masculino	trans|jor|[da]|no
+transjugar	verbo	trans|ju|[gar]
+transjurano	adjetivo	trans|ju|[ra]|no
+translação	nome feminino	trans|la|[ção]
+translacional	adjetivo	trans|la|ci|o|[nal]
+transladação	nome feminino	trans|la|da|[ção]
+transladador	adjetivo	trans|la|da|[dor]
+transladador	nome masculino	trans|la|da|[dor]
+transladar	verbo	trans|la|[dar]
+transladável	adjetivo	trans|la|[dá]|vel
+translado	nome masculino	trans|[la]|do
+translatamente	advérbio	trans|la|ta|[men]|te
+translatício	adjetivo	trans|la|[tí]|ci|o
+translativo	adjetivo	trans|la|[ti]|vo
+translato	adjetivo	trans|[la]|to
+translator	nome masculino	trans|la|[tor]
+translineação	nome feminino	trans|li|ne|a|[ção]
+translinear	verbo	trans|li|ne|[ar]
+transliteração	nome feminino	trans|li|te|ra|[ção]
+transliterar	verbo	trans|li|te|[rar]
+transliterável	adjetivo	trans|li|te|[rá]|vel
+translocação	nome feminino	trans|lo|ca|[ção]
+translucidação	nome feminino	trans|lu|ci|da|[ção]
+translucidamente	advérbio	trans|lu|ci|da|[men]|te
+translucidar	verbo	trans|lu|ci|[dar]
+translucidez	nome feminino	trans|lu|ci|[dez]
+translúcido	adjetivo	trans|[lú]|ci|do
+translumbrar	verbo	trans|lum|[brar]
+transluzente	adjetivo	trans|lu|[zen]|te
+transluzimento	nome masculino	trans|lu|zi|[men]|to
+transluzir	verbo	trans|lu|[zir]
+transmalhar	verbo	trans|ma|[lhar]
+transmanchuriano	adjetivo	trans|man|chu|ri|[a]|no
+transmarino	adjetivo	trans|ma|[ri]|no
+transmeabilidade	nome feminino	trans|me|a|bi|li|[da]|de
+transmear	verbo	trans|me|[ar]

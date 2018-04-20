@@ -1,0 +1,100 @@
+acridade	nome feminino	a|cri|[da]|de
+acridão	nome feminino	a|cri|[dão]
+acridez	nome feminino	a|cri|[dez]
+acridiano	adjetivo	a|cri|di|[a]|no
+acridina	nome feminino	a|cri|[di]|na
+acrídio	adjetivo	a|[crí]|di|o
+acrídio	nome masculino	a|[crí]|di|o
+acridófaga	nome feminino	a|cri|[dó]|fa|ga
+acridofagia	nome feminino	a|cri|do|fa|[gi]|a
+acridofágico	adjetivo	a|cri|do|[fá]|gi|co
+acridófago	adjetivo	a|cri|[dó]|fa|go
+acridófago	nome masculino	a|cri|[dó]|fa|go
+acrífico	adjetivo	a|[crí]|fi|co
+acriflavina	nome feminino	a|cri|fla|[vi]|na
+acrílico	nome masculino	a|[crí]|li|co
+acrílico	adjetivo	a|[crí]|li|co
+acrimancia	nome feminino	a|cri|man|[ci]|a
+acriminar	verbo	a|cri|mi|[nar]
+acrimónia	nome feminino	a|cri|[mó]|ni|a
+acrimônia	nome feminino	a|cri|[mô]|ni|a
+acrimoniar	verbo	a|cri|mo|ni|[ar]
+acrimoniosamente	advérbio	a|cri|mo|ni|o|sa|[men]|te
+acrimonioso	adjetivo	a|cri|mo|ni|[o]|so
+acrinia	nome feminino	a|cri|[ni]|a
+acrínico	adjetivo	a|[crí]|ni|co
+acrínico	nome masculino	a|[crí]|ni|co
+acrioulado	adjetivo	a|cri|ou|[la]|do
+acrioular	verbo	a|cri|ou|[lar]
+acrisia	nome feminino	a|cri|[si]|a
+acrisioneu	adjetivo	a|cri|si|o|[neu]
+acrisoladamente	advérbio	a|cri|so|la|da|[men]|te
+acrisolado	adjetivo	a|cri|so|[la]|do
+acrisolador	adjetivo	a|cri|so|la|[dor]
+acrisolador	nome masculino	a|cri|so|la|[dor]
+acrisolamento	nome masculino	a|cri|so|la|[men]|to
+acrisolar	verbo	a|cri|so|[lar]
+acrisolável	adjetivo	a|cri|so|[lá]|vel
+acriticamente	advérbio	a|cri|ti|ca|[men]|te
+acrítico	adjetivo	a|[crí]|ti|co
+acritude	nome feminino	a|cri|[tu]|de
+acro	adjetivo	[a]|cro
+acroama	nome masculino	a|cro|[a]|ma
+acroamático	adjetivo	a|cro|a|[má]|ti|co
+acroase	nome feminino	a|cro|[a]|se
+acroático	adjetivo	a|cro|[á]|ti|co
+acrobacia	nome feminino	a|cro|ba|[ci]|a
+acrobata	nome masculino	a|cro|[ba]|ta
+acrobata	nome feminino	a|cro|[ba]|ta
+acrobaticamente	advérbio	a|cro|ba|ti|ca|[men]|te
+acrobático	adjetivo	a|cro|[bá]|ti|co
+acrobatismo	nome masculino	a|cro|ba|[tis]|mo
+acrobatístico	adjetivo	a|cro|ba|[tís]|ti|co
+acrobatite	nome feminino	a|cro|ba|[ti]|te
+acrocárpea	nome feminino	a|cro|[cár]|pe|a
+acrocárpico	adjetivo	a|cro|[cár]|pi|co
+acrocarpo	nome masculino	a|cro|[car]|po
+acrocefalia	nome feminino	a|cro|ce|fa|[li]|a
+acrocefálico	adjetivo	a|cro|ce|[fá]|li|co
+acrocéfalo	adjetivo	a|cro|[cé]|fa|lo
+acrocéfalo	nome masculino	a|cro|[cé]|fa|lo
+acrocêntrico	adjetivo	a|cro|[cên]|tri|co
+acroceráunio	adjetivo	a|cro|ce|[ráu]|ni|o
+acrochado	adjetivo	a|cro|[cha]|do
+acrocianose	nome feminino	a|cro|ci|a|[no]|se
+acrocianótico	adjetivo	a|cro|ci|a|[nó]|ti|co
+acrócomo	adjetivo	a|[cró]|co|mo
+acrodermatite	nome feminino	a|cro|der|ma|[ti]|te
+acrodinia	nome feminino	a|cro|di|[ni]|a
+acrodínico	adjetivo	a|cro|[dí]|ni|co
+acrodínico	nome masculino	a|cro|[dí]|ni|co
+acrofobia	nome feminino	a|cro|fo|[bi]|a
+acrofóbico	adjetivo	a|cro|[fó]|bi|co
+acrófobo	adjetivo	a|[cró]|fo|bo
+acrófobo	nome masculino	a|[cró]|fo|bo
+acrofonético	adjetivo	a|cro|fo|[né]|ti|co
+acrofonia	nome feminino	a|cro|fo|[ni]|a
+acrofônico	adjetivo	a|cro|[fô]|ni|co
+acrofónico	adjetivo	a|cro|[fó]|ni|co
+acrogénia	nome feminino	a|cro|[gé]|ni|a
+acrogenia	nome feminino	a|cro|ge|[ni]|a
+acrogênia	nome feminino	a|cro|[gê]|ni|a
+acrógeno	adjetivo	a|[cró]|ge|no
+acrografia	nome feminino	a|cro|gra|[fi]|a
+acrográfico	adjetivo	a|cro|[grá]|fi|co
+acroíte	nome feminino	a|cro|[í]|te
+acroleato	nome masculino	a|cro|le|[a]|to
+acroleico	adjetivo	a|cro|[lei]|co
+acroleína	nome feminino	a|cro|le|[í]|na
+acrólito	nome masculino	a|[cró]|li|to
+acrólofo	nome masculino	a|[cró]|lo|fo
+acrologia	nome feminino	a|cro|lo|[gi]|a
+acrológico	adjetivo	a|cro|[ló]|gi|co
+acrologista	nome masculino	a|cro|lo|[gis]|ta
+acrologista	nome feminino	a|cro|lo|[gis]|ta
+acrólogo	nome masculino	a|[cró]|lo|go
+acromania	nome feminino	a|cro|ma|[ni]|a
+acromaníaco	adjetivo	a|cro|ma|[ní]|a|co
+acromaníaco	nome masculino	a|cro|ma|[ní]|a|co
+acrómano	nome masculino	a|[cró]|ma|no
+acrômano	nome masculino	a|[crô]|ma|no

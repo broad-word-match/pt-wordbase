@@ -1,0 +1,100 @@
+bastidão	nome feminino	bas|ti|[dão]
+bastido	nome masculino	bas|[ti]|do
+bastidor	nome masculino	bas|ti|[dor]
+bastilha	nome feminino	bas|[ti]|lha
+bastimento	nome masculino	bas|ti|[men]|to
+bastio	nome masculino	bas|[ti]|o
+bastir	verbo	bas|[tir]
+bastissagem	nome feminino	bas|tis|[sa]|gem
+basto	advérbio	[bas]|to
+basto	nome masculino	[bas]|to
+basto	adjetivo	[bas]|to
+bastonada	nome feminino	bas|to|[na]|da
+bastonária	nome feminino	bas|to|[ná]|ri|a
+bastonário	nome masculino	bas|to|[ná]|ri|o
+bastonete	nome masculino	bas|to|[ne]|te
+bastos	nome masculino	[bas]|tos
+bástulo	adjetivo	[bás]|tu|lo
+bástulo	nome masculino	[bás]|tu|lo
+bastura	nome feminino	bas|[tu]|ra
+bata	nome feminino	[ba]|ta
+batachim	nome masculino	ba|ta|[chim]
+batage	nome masculino	ba|[ta]|ge
+batagem	nome feminino	ba|[ta]|gem
+batalha	nome feminino	ba|[ta]|lha
+batalhação	nome feminino	ba|ta|lha|[ção]
+batalhado	adjetivo	ba|ta|[lha]|do
+batalhador	adjetivo	ba|ta|lha|[dor]
+batalhador	nome masculino	ba|ta|lha|[dor]
+batalhadora	nome feminino	ba|ta|lha|[do]|ra
+batalhante	adjetivo	ba|ta|[lhan]|te
+batalhão	nome masculino	ba|ta|[lhão]
+batalhar	verbo	ba|ta|[lhar]
+batalheira	nome feminino	ba|ta|[lhei]|ra
+batalhense	nome masculino	ba|ta|[lhen]|se
+batalhense	adjetivo	ba|ta|[lhen]|se
+batalhense	nome feminino	ba|ta|[lhen]|se
+batalho	nome masculino	ba|[ta]|lho
+batampear	verbo	ba|tam|pe|[ar]
+batanca	nome feminino	ba|[tan]|ca
+bataneota	nome masculino	ba|ta|ne|[o]|ta
+bataneota	adjetivo	ba|ta|ne|[o]|ta
+bataneota	nome feminino	ba|ta|ne|[o]|ta
+batanga	nome feminino	ba|[tan]|ga
+batão	nome masculino	ba|[tão]
+batarda	nome feminino	ba|[tar]|da
+batardão	nome masculino	ba|tar|[dão]
+bataréu	nome masculino	ba|ta|[réu]
+bataria	nome feminino	ba|ta|[ri]|a
+batarismo	nome masculino	ba|ta|[ris]|mo
+bátaro	nome masculino	[bá]|ta|ro
+batata	nome feminino	ba|[ta]|ta
+batatá	nome masculino	ba|ta|[tá]
+batata-da-ilha	nome feminino	ba|ta|ta-da-i|lha
+batata-doce	nome feminino	ba|ta|ta-do|ce
+batata-semente	nome feminino	ba|ta|ta-se|[men]|te
+batatada	nome feminino	ba|ta|[ta]|da
+batatal	nome masculino	ba|ta|[tal]
+batatão	nome masculino	ba|ta|[tão]
+batatarana	nome feminino	ba|ta|ta|[ra]|na
+batateira	nome feminino	ba|ta|[tei]|ra
+batateiral	nome masculino	ba|ta|tei|[ral]
+batateiro	nome masculino	ba|ta|[tei]|ro
+batateiro	adjetivo	ba|ta|[tei]|ro
+batatífago	adjetivo	ba|ta|[tí]|fa|go
+batatífago	nome masculino	ba|ta|[tí]|fa|go
+batatinha	nome feminino	ba|ta|[ti]|nha
+batatudo	adjetivo	ba|ta|[tu]|do
+batauá	nome masculino	ba|tau|[á]
+bataúda	nome feminino	ba|ta|[ú]|da
+batava	nome feminino	ba|[ta]|va
+batávia	nome feminino	ba|[tá]|vi|a
+batávico	adjetivo	ba|[tá]|vi|co
+batávio	adjetivo	ba|[tá]|vi|o
+batavo	nome masculino	ba|[ta]|vo
+batavo	adjetivo	ba|[ta]|vo
+bate	nome masculino	[ba]|te
+bate-barba	nome feminino	ba|te-bar|ba
+bate-bate	nome masculino	ba|te-ba|te
+bate-boca	nome masculino	ba|te-bo|ca
+bate-bola	nome masculino	ba|te-bo|la
+bate-chapa	nome masculino	ba|te-cha|pa
+bate-chapas	nome masculino	ba|te-cha|pas
+bate-chapéu	nome masculino	ba|te-cha|[péu]
+bate-chinela	nome masculino	ba|te-chi|[ne]|la
+bate-cu	nome masculino	ba|te-cu
+bate-estacas	nome masculino	ba|te-es|[ta]|cas
+bate-folha	nome masculino	ba|te-fo|lha
+bate-folhas	nome masculino	ba|te-fo|lhas
+bate-latas	nome masculino	ba|te-la|tas
+bate-língua	nome masculino	ba|te-lín|gua
+bate-língua	nome feminino	ba|te-lín|gua
+bate-mão	nome masculino	ba|te-mão
+bate-mar	nome masculino	ba|te-mar
+bate-muros	nome masculino	ba|te-mu|ros
+bate-orelha	nome masculino	ba|te-o|[re]|lha
+bate-papo	nome masculino	ba|te-pa|po
+bate-pé	nome masculino	ba|te-pé
+bate-prego	nome masculino	ba|te-pre|go
+bate-sacas	nome masculino	ba|te-sa|cas
+bate-sela	nome masculino	ba|te-se|la

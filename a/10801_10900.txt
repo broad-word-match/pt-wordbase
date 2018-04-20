@@ -1,0 +1,100 @@
+amestratino	adjetivo	a|mes|tra|[ti]|no
+amestratino	nome masculino	a|mes|tra|[ti]|no
+amestrável	adjetivo	a|mes|[trá]|vel
+ametabólico	adjetivo	a|me|ta|[bó]|li|co
+ametade	nome feminino	a|me|[ta]|de
+ametal	nome masculino	a|me|[tal]
+ametalar	verbo	a|me|ta|[lar]
+ametálico	adjetivo	a|me|[tá]|li|co
+ametamorfose	nome feminino	a|me|ta|mor|[fo]|se
+ametina	nome feminino	a|me|[ti]|na
+ametino	nome masculino	a|me|[ti]|no
+ametino	adjetivo	a|me|[ti]|no
+ametista	nome feminino	a|me|[tis]|ta
+ametístea	nome feminino	a|me|[tís]|te|a
+ametístico	adjetivo	a|me|[tís]|ti|co
+ametria	nome feminino	a|me|[tri]|a
+ametricamente	advérbio	a|me|tri|ca|[men]|te
+amétrico	adjetivo	a|[mé]|tri|co
+ametrope	adjetivo	a|me|[tro]|pe
+ametrope	nome masculino	a|me|[tro]|pe
+ametrope	nome feminino	a|me|[tro]|pe
+ametropia	nome feminino	a|me|tro|[pi]|a
+ametrópico	adjetivo	a|me|[tró]|pi|co
+amezinhador	nome masculino	a|me|zi|nha|[dor]
+amezinhar	verbo	a|me|zi|[nhar]
+amezinhável	adjetivo	a|me|zi|[nhá]|vel
+âmi	nome feminino	[â]|mi
+amial	nome masculino	a|mi|[al]
+amiantáceo	adjetivo	a|mi|an|[tá]|ce|o
+amiantino	adjetivo	a|mi|an|[ti]|no
+amianto	nome masculino	a|mi|[an]|to
+amiantoide	adjetivo	a|mi|an|[toi]|de
+amiba	nome feminino	a|[mi]|ba
+amibiano	adjetivo	a|mi|bi|[a]|no
+amibíase	nome feminino	a|mi|[bí]|a|se
+amiboide	adjetivo	a|mi|[boi]|de
+amiboides	nome masculino	a|mi|[boi]|des
+amical	adjetivo	a|mi|[cal]
+amichelar	verbo	a|mi|che|[lar]
+amicícia	nome feminino	a|mi|[cí]|ci|a
+amicíssimo	adjetivo	a|mi|[cís]|si|mo
+amicleu	adjetivo	a|mi|[cleu]
+amicleu	nome masculino	a|mi|[cleu]
+amicto	nome masculino	a|[mic]|to
+amictório	nome masculino	a|mic|[tó]|ri|o
+amículo	nome masculino	a|[mí]|cu|lo
+amida	nome feminino	a|[mi]|da
+amídala	nome feminino	a|[mí]|da|la
+amidalácea	nome feminino	a|mi|da|[lá]|ce|a
+amidaláceo	adjetivo	a|mi|da|[lá]|ce|o
+amidalar	adjetivo	a|mi|da|[lar]
+amidalato	nome masculino	a|mi|da|[la]|to
+amidalectomia	nome feminino	a|mi|da|lec|to|[mi]|a
+amidaliano	adjetivo	a|mi|da|li|[a]|no
+amidálico	adjetivo	a|mi|[dá]|li|co
+amidalífero	adjetivo	a|mi|da|[lí]|fe|ro
+amidaliforme	adjetivo	a|mi|da|li|[for]|me
+amidalina	nome feminino	a|mi|da|[li]|na
+amidalino	adjetivo	a|mi|da|[li]|no
+amidalite	nome feminino	a|mi|da|[li]|te
+amidaloide	adjetivo	a|mi|da|[loi]|de
+amidaloide	nome masculino	a|mi|da|[loi]|de
+amidalopatia	nome feminino	a|mi|da|lo|pa|[ti]|a
+amidalotomia	nome feminino	a|mi|da|lo|to|[mi]|a
+amidalotômico	adjetivo	a|mi|da|lo|[tô]|mi|co
+amidalótomo	nome masculino	a|mi|da|[ló]|to|mo
+amidão	nome masculino	a|mi|[dão]
+amidar	verbo	a|mi|[dar]
+amídico	adjetivo	a|[mí]|di|co
+amidina	nome feminino	a|mi|[di]|na
+amido	nome masculino	a|[mi]|do
+amidoar	verbo	a|mi|do|[ar]
+amidogénio	nome masculino	a|mi|do|[gé]|ni|o
+amidogênio	nome masculino	a|mi|do|[gê]|ni|o
+amidol	nome masculino	a|mi|[dol]
+amidoleucito	nome masculino	a|mi|do|leu|[ci]|to
+amidona	nome feminino	a|mi|[do]|na
+amidonar	verbo	a|mi|do|[nar]
+amieira	nome feminino	a|mi|[ei]|ra
+amieiral	nome masculino	a|mi|ei|[ral]
+amieiro	nome masculino	a|mi|[ei]|ro
+amieiro-negro	nome masculino	a|mi|ei|ro-ne|gro
+amielencefalia	nome feminino	a|mi|e|len|ce|fa|[li]|a
+amielencéfalo	adjetivo	a|mi|e|len|[cé]|fa|lo
+amielencéfalo	nome masculino	a|mi|e|len|[cé]|fa|lo
+amielia	nome feminino	a|mi|e|[li]|a
+amiélico	nome masculino	a|mi|[é]|li|co
+amiélico	adjetivo	a|mi|[é]|li|co
+amielotrofia	nome feminino	a|mi|e|lo|tro|[fi]|a
+amiga	nome feminino	a|[mi]|ga
+amigação	nome feminino	a|mi|ga|[ção]
+amigaço	nome masculino	a|mi|[ga]|ço
+amigada	nome feminino	a|mi|[ga]|da
+amigado	adjetivo	a|mi|[ga]|do
+amigado	nome masculino	a|mi|[ga]|do
+amigalhaça	nome feminino	a|mi|ga|[lha]|ça
+amigalhaço	nome masculino	a|mi|ga|[lha]|ço
+amigalhão	nome masculino	a|mi|ga|[lhão]
+amigalhote	nome masculino	a|mi|ga|[lho]|te
+amiganço	nome masculino	a|mi|[gan]|ço

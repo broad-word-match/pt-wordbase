@@ -1,0 +1,100 @@
+arranchar	verbo	ar|ran|[char]
+arranco	nome masculino	ar|[ran]|co
+arrancorar	verbo	ar|ran|co|[rar]
+arranha	nome feminino	ar|[ra]|nha
+arranha-céu	nome masculino	ar|ra|nha-céu
+arranha-céus	nome masculino	ar|ra|nha-céus
+arranhadela	nome feminino	ar|ra|nha|[de]|la
+arranhado	adjetivo	ar|ra|[nha]|do
+arranhador	adjetivo	ar|ra|nha|[dor]
+arranhador	nome masculino	ar|ra|nha|[dor]
+arranhadura	nome feminino	ar|ra|nha|[du]|ra
+arranhão	nome masculino	ar|ra|[nhão]
+arranhar	verbo	ar|ra|[nhar]
+arranhosa	nome feminino	ar|ra|[nho]|sa
+arranita	nome feminino	ar|ra|[ni]|ta
+arranjadeiro	adjetivo	ar|ran|ja|[dei]|ro
+arranjadela	nome feminino	ar|ran|ja|[de]|la
+arranjado	adjetivo	ar|ran|[ja]|do
+arranjador	nome masculino	ar|ran|ja|[dor]
+arranjador	adjetivo	ar|ran|ja|[dor]
+arranjadora	nome feminino	ar|ran|ja|[do]|ra
+arranjamento	nome masculino	ar|ran|ja|[men]|to
+arranjão	nome masculino	ar|ran|[jão]
+arranjar	verbo	ar|ran|[jar]
+arranjável	adjetivo	ar|ran|[já]|vel
+arranjinho	nome masculino	ar|ran|[ji]|nho
+arranjismo	nome masculino	ar|ran|[jis]|mo
+arranjista	nome masculino	ar|ran|[jis]|ta
+arranjista	nome feminino	ar|ran|[jis]|ta
+arranjo	nome masculino	ar|[ran]|jo
+arranque	nome masculino	ar|[ran]|que
+arrapazado	adjetivo	ar|ra|pa|[za]|do
+arrapazar	verbo	ar|ra|pa|[zar]
+arrapiar	verbo	ar|ra|pi|[ar]
+arrapinar	verbo	ar|ra|pi|[nar]
+arraposado	adjetivo	ar|ra|po|[sa]|do
+arraposar	verbo	ar|ra|po|[sar]
+arrarar	verbo	ar|ra|[rar]
+arras	nome feminino	[ar]|ras
+arrás	nome masculino	ar|[rás]
+arrasa	nome feminino	ar|[ra]|sa
+arrasadeira	nome feminino	ar|ra|sa|[dei]|ra
+arrasado	adjetivo	ar|ra|[sa]|do
+arrasador	adjetivo	ar|ra|sa|[dor]
+arrasador	nome masculino	ar|ra|sa|[dor]
+arrasadora	nome feminino	ar|ra|sa|[do]|ra
+arrasadura	nome feminino	ar|ra|sa|[du]|ra
+arrasamento	nome masculino	ar|ra|sa|[men]|to
+arrasante	adjetivo	ar|ra|[san]|te
+arrasar	verbo	ar|ra|[sar]
+arrasável	adjetivo	ar|ra|[sá]|vel
+arrascanhar	verbo	ar|ras|ca|[nhar]
+arrasista	nome masculino	ar|ra|[sis]|ta
+arrasista	nome feminino	ar|ra|[sis]|ta
+arrasourar	verbo	ar|ra|sou|[rar]
+arrasta	nome feminino	ar|[ras]|ta
+arrasta-pé	nome masculino	ar|ras|ta-pé
+arrastadamente	advérbio	ar|ras|ta|da|[men]|te
+arrastadeira	nome feminino	ar|ras|ta|[dei]|ra
+arrastadeiro	adjetivo	ar|ras|ta|[dei]|ro
+arrastadiço	adjetivo	ar|ras|ta|[di]|ço
+arrastado	adjetivo	ar|ras|[ta]|do
+arrastado	nome masculino	ar|ras|[ta]|do
+arrastador	adjetivo	ar|ras|ta|[dor]
+arrastador	nome masculino	ar|ras|ta|[dor]
+arrastadouro	nome masculino	ar|ras|ta|[dou]|ro
+arrastadura	nome feminino	ar|ras|ta|[du]|ra
+arrastamento	nome masculino	ar|ras|ta|[men]|to
+arrastão	nome masculino	ar|ras|[tão]
+arrastar	verbo	ar|ras|[tar]
+arrastável	adjetivo	ar|ras|[tá]|vel
+arrastelar	verbo	ar|ras|te|[lar]
+arrasto	nome masculino	ar|[ras]|to
+arrastrar	verbo	ar|ras|[trar]
+arrastre	nome masculino	ar|[ras]|tre
+arrátel	nome masculino	ar|[rá]|tel
+arratelar	verbo	ar|ra|te|[lar]
+arrazoação	nome feminino	ar|ra|zo|a|[ção]
+arrazoadamente	advérbio	ar|ra|zo|a|da|[men]|te
+arrazoado	adjetivo	ar|ra|zo|[a]|do
+arrazoado	nome masculino	ar|ra|zo|[a]|do
+arrazoador	nome masculino	ar|ra|zo|a|[dor]
+arrazoamento	nome masculino	ar|ra|zo|a|[men]|to
+arrazoar	verbo	ar|ra|zo|[ar]
+arre	interjeição	[ar]|re
+arre	nome masculino	[ar]|re
+arre-burrinho	nome masculino	ar|re-bur|[ri]|nho
+arreação	nome feminino	ar|re|a|[ção]
+arreado	adjetivo	ar|re|[a]|do
+arreador	nome masculino	ar|re|a|[dor]
+arreamento	nome masculino	ar|re|a|[men]|to
+arrear	verbo	ar|re|[ar]
+arrearia	nome feminino	ar|re|a|[ri]|a
+arreata	nome feminino	ar|re|[a]|ta
+arreatada	nome feminino	ar|re|a|[ta]|da
+arreatadura	nome feminino	ar|re|a|ta|[du]|ra
+arreatar	verbo	ar|re|a|[tar]
+arrebadela	nome feminino	ar|re|ba|[de]|la
+arrebanhador	adjetivo	ar|re|ba|nha|[dor]
+arrebanhador	nome masculino	ar|re|ba|nha|[dor]

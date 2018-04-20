@@ -1,0 +1,100 @@
+sessar	verbo	ses|[sar]
+sessegar	verbo	ses|se|[gar]
+sessego	nome masculino	ses|[se]|go
+sêssego	nome masculino	[sês]|se|go
+sessenta	nome masculino	ses|[sen]|ta
+sessenta	número cardinal	ses|[sen]|ta
+sessenta	adjetivo	ses|[sen]|ta
+sessenta-e-um	nome masculino	ses|sen|ta-e-um
+sessentão	nome masculino	ses|sen|[tão]
+séssil	adjetivo	[sés]|sil
+sessilifloro	adjetivo	ses|si|li|[flo]|ro
+sessilifoliado	adjetivo	ses|si|li|fo|li|[a]|do
+sessilifólio	adjetivo	ses|si|li|[fó]|li|o
+sesso	nome masculino	[ses]|so
+sessoeira	nome feminino	ses|so|[ei]|ra
+sessor	nome masculino	ses|[sor]
+sesta	nome feminino	[ses]|ta
+sesteada	nome feminino	ses|te|[a]|da
+sestear	verbo	ses|te|[ar]
+sesteiro	nome masculino	ses|[tei]|ro
+sesterciário	nome masculino	ses|ter|ci|[á]|ri|o
+sestércio	nome masculino	ses|[tér]|ci|o
+sestercíolo	nome masculino	ses|ter|[cí]|o|lo
+sestiano	adjetivo	ses|ti|[a]|no
+sestinate	adjetivo	ses|ti|[na]|te
+sestinate	nome masculino	ses|ti|[na]|te
+sestinate	nome feminino	ses|ti|[na]|te
+séstio	adjetivo	[sés]|ti|o
+séstio	nome masculino	[sés]|ti|o
+sestra	nome feminino	[ses]|tra
+sestro	nome masculino	[ses]|tro
+sestro	adjetivo	[ses]|tro
+sestroso	adjetivo	ses|[tro]|so
+sesudo	adjetivo	se|[su]|do
+sesudo	nome masculino	se|[su]|do
+sesuviácea	nome feminino	se|su|vi|[á]|ce|a
+sesúvio	nome masculino	se|[sú]|vi|o
+sesvirado	nome masculino	ses|vi|[ra]|do
+sesviral	adjetivo	ses|vi|[ral]
+sesvirato	nome masculino	ses|vi|[ra]|to
+sésviro	nome masculino	[sés]|vi|ro
+set	nome masculino	[set]
+set-point	nome masculino	[set-point]
+seta	nome feminino	[se]|ta
+seta	nome masculino	[se]|ta
+setabitano	adjetivo	se|ta|bi|[ta]|no
+setabitano	nome masculino	se|ta|bi|[ta]|no
+setáceo	adjetivo	se|[tá]|ce|o
+setada	nome feminino	se|[ta]|da
+setária	nome feminino	se|[tá]|ri|a
+sete	número cardinal	[se]|te
+sete	nome masculino	[se]|te
+sete	adjetivo	[se]|te
+sete-casacas	nome feminino	se|te-ca|[sa]|cas
+sete-cascos	nome masculino	se|te-cas|cos
+sete-ciências	nome masculino	se|te-ci|[ên]|ci|as
+sete-cotovelos	nome masculino	se|te-co|to|[ve]|los
+sete-couros	nome masculino	se|te-cou|ros
+sete-e-meio	nome masculino	se|te-e-mei|o
+sete-em-rama	nome masculino	se|te-em-ra|ma
+sete-espigas	nome feminino	se|te-es|[pi]|gas
+sete-mês	adjetivo	se|te-mês
+sete-mês	nome masculino	se|te-mês
+sete-mesinho	adjetivo	se|te-me|[si]|nho
+sete-mesinho	nome masculino	se|te-me|[si]|nho
+sete-sangrias	nome feminino	se|te-san|[gri]|as
+sete-semanas	nome masculino	se|te-se|[ma]|nas
+seteal	nome masculino	se|te|[al]
+setear	verbo	se|te|[ar]
+setecentismo	nome masculino	se|te|cen|[tis]|mo
+setecentista	adjetivo	se|te|cen|[tis]|ta
+setecentista	nome masculino	se|te|cen|[tis]|ta
+setecentista	nome feminino	se|te|cen|[tis]|ta
+setecentos	número cardinal	se|te|[cen]|tos
+setecentos	nome masculino	se|te|[cen]|tos
+setecentos	adjetivo	se|te|[cen]|tos
+seteira	nome feminino	se|[tei]|ra
+seteirado	adjetivo	se|tei|[ra]|do
+seteiro	adjetivo	se|[tei]|ro
+seteiro	nome masculino	se|[tei]|ro
+setembrino	adjetivo	se|tem|[bri]|no
+setembrismo	nome masculino	se|tem|[bris]|mo
+setembrista	adjetivo	se|tem|[bris]|ta
+setembrista	nome masculino	se|tem|[bris]|ta
+setembrista	nome feminino	se|tem|[bris]|ta
+setembro	nome masculino	se|[tem]|bro
+setempedano	adjetivo	se|tem|pe|[da]|no
+setempedano	nome masculino	se|tem|pe|[da]|no
+setêmplice	adjetivo	se|[têm]|pli|ce
+setena	adjetivo	se|[te]|na
+setena	nome feminino	se|[te]|na
+setenado	adjetivo	se|te|[na]|do
+setenal	adjetivo	se|te|[nal]
+setenário	adjetivo	se|te|[ná]|ri|o
+setenário	nome masculino	se|te|[ná]|ri|o
+setenato	nome masculino	se|te|[na]|to
+setênfluo	adjetivo	se|[tên]|flu|o
+setenial	adjetivo	se|te|ni|[al]
+seteno	nome masculino	se|[te]|no
+setenta	número cardinal	se|[ten]|ta

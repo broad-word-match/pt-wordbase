@@ -1,0 +1,100 @@
+erre-erre	nome masculino	er|re-er|re
+erreiro	adjetivo	er|[rei]|ro
+erriçar	verbo	er|ri|[çar]
+errino	adjetivo	er|[ri]|no
+errino	nome masculino	er|[ri]|no
+erro	nome masculino	[er]|ro
+errónea	nome feminino	er|[ró]|ne|a
+errônea	nome feminino	er|[rô]|ne|a
+erroneamente	advérbio	er|ro|ne|a|[men]|te
+erroneidade	nome feminino	er|ro|nei|[da]|de
+errôneo	adjetivo	er|[rô]|ne|o
+erróneo	adjetivo	er|[ró]|ne|o
+erronia	nome feminino	er|ro|[ni]|a
+error	nome masculino	er|[ror]
+ersatz	nome masculino	er|[satz]
+erse	nome masculino	[er]|se
+erse	nome feminino	[er]|se
+erubescência	nome feminino	e|ru|bes|[cên]|ci|a
+erubescente	adjetivo	e|ru|bes|[cen]|te
+erubescer	verbo	e|ru|bes|[cer]
+eruca	nome feminino	e|[ru]|ca
+eruca-marítima	nome feminino	e|ru|ca-ma|[rí]|ti|ma
+erucária	nome feminino	e|ru|[cá]|ri|a
+erúcico	adjetivo	e|[rú]|ci|co
+eruciforme	adjetivo	e|ru|ci|[for]|me
+erucívora	nome feminino	e|ru|[cí]|vo|ra
+eructação	nome feminino	e|ruc|ta|[ção]
+eructar	verbo	e|ruc|[tar]
+erudição	nome feminino	e|ru|di|[ção]
+erudita	nome feminino	e|ru|[di]|ta
+eruditamente	advérbio	e|ru|di|ta|[men]|te
+eruditismo	nome masculino	e|ru|di|[tis]|mo
+erudito	adjetivo	e|ru|[di]|to
+erudito	nome masculino	e|ru|[di]|to
+eruga	nome feminino	e|[ru]|ga
+eruginoso	adjetivo	e|ru|gi|[no]|so
+erupção	nome feminino	e|rup|[ção]
+eruptivo	adjetivo	e|rup|[ti]|vo
+erva	nome feminino	[er]|va
+erva-abelha	nome feminino	er|va-a|[be]|lha
+erva-agulheira	nome feminino	er|va-a|gu|[lhei]|ra
+erva-alheira	nome feminino	er|va-a|[lhei]|ra
+erva-almiscareira	nome feminino	er|va-al|mis|ca|[rei]|ra
+erva-andorinha	nome feminino	er|va-an|do|[ri]|nha
+erva-aranha	nome feminino	er|va-a|[ra]|nha
+erva-babosa	nome feminino	er|va-ba|[bo]|sa
+erva-belida	nome feminino	er|va-be|[li]|da
+erva-benta	nome feminino	er|va-ben|ta
+erva-besteira	nome feminino	er|va-bes|[tei]|ra
+erva-bezerra	nome feminino	er|va-be|[zer]|ra
+erva-bicha	nome feminino	er|va-bi|cha
+erva-borboleta	nome feminino	er|va-bor|bo|[le]|ta
+erva-canária	nome feminino	er|va-ca|[ná]|ri|a
+erva-canuda	nome feminino	er|va-ca|[nu]|da
+erva-castelhana	nome feminino	er|va-cas|te|[lha]|na
+erva-cidreira	nome feminino	er|va-ci|[drei]|ra
+erva-coalheira	nome feminino	er|va-co|a|[lhei]|ra
+erva-confeiteira	nome feminino	er|va-con|fei|[tei]|ra
+erva-da-fortuna	nome feminino	er|va-da-for|[tu]|na
+erva-da-guiné	nome feminino	er|va-da-gui|[né]
+erva-da-inveja	nome feminino	er|va-da-in|[ve]|ja
+erva-da-lua	nome feminino	er|va-da-lu|a
+erva-da-muda	nome feminino	er|va-da-mu|da
+erva-da-novidade	nome feminino	er|va-da-no|vi|[da]|de
+erva-da-senra	nome feminino	er|va-da-sen|ra
+erva-da-trindade	nome feminino	er|va-da-trin|[da]|de
+erva-das-azeitonas	nome feminino	er|va-das-a|zei|[to]|nas
+erva-das-cortadelas	nome feminino	er|va-das-cor|ta|[de]|las
+erva-das-disenterias	nome feminino	er|va-das-di|sen|te|[ri]|as
+erva-das-escaldadelas	nome feminino	er|va-das-es|cal|da|[de]|las
+erva-das-feridas	nome feminino	er|va-das-fe|[ri]|das
+erva-das-maleitas	nome feminino	er|va-das-ma|[lei]|tas
+erva-das-paredes	nome feminino	er|va-das-pa|[re]|des
+erva-das-sete-sangrias	nome feminino	er|va-das-se|te-san|[gri]|as
+erva-das-verrugas	nome feminino	er|va-das-ver|[ru]|gas
+erva-de-almíscar	nome feminino	er|va-de-al|[mís]|car
+erva-de-cabra	nome feminino	er|va-de-ca|bra
+erva-de-cão	nome feminino	er|va-de-cão
+erva-de-cobra	nome feminino	er|va-de-co|bra
+erva-de-santa-bárbara	nome feminino	er|va-de-san|ta-bár|ba|ra
+erva-de-santa-luzia	nome feminino	er|va-de-san|ta-lu|[zi]|a
+erva-de-santa-maria	nome feminino	er|va-de-san|ta-ma|[ri]|a
+erva-de-santiago	nome feminino	er|va-de-san|ti|[a]|go
+erva-de-santo-estêvão	nome feminino	er|va-de-san|to-es|tê|vão
+erva-de-são-lourenço	nome feminino	er|va-de-são-lou|ren|ço
+erva-de-são-roberto	nome feminino	er|va-de-são-ro|ber|to
+erva-dedal	nome feminino	er|va-de|[dal]
+erva-divina	nome feminino	er|va-di|[vi]|na
+erva-do-chá	nome feminino	er|va-do-chá
+erva-do-homem-enforcado	nome feminino	er|va-do-ho|mem-en|for|[ca]|do
+erva-do-muro	nome feminino	er|va-do-mu|ro
+erva-do-orvalho	nome feminino	er|va-do-or|[va]|lho
+erva-do-salepo	nome feminino	er|va-do-sa|[le]|po
+erva-doce	nome feminino	er|va-do|ce
+erva-dos-cachos-da-índia	nome feminino	er|va-dos-ca|chos-da-ín|di|a
+erva-dos-calos	nome feminino	er|va-dos-ca|los
+erva-dos-cantores	nome feminino	er|va-dos-can|[to]|res
+erva-dos-carpinteiros	nome feminino	er|va-dos-car|pin|[tei]|ros
+erva-dos-feitiços	nome feminino	er|va-dos-fei|[ti]|ços
+erva-dos-gatos	nome feminino	er|va-dos-ga|tos

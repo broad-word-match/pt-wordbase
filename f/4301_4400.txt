@@ -1,0 +1,100 @@
+fonético-sintáctico	nome masculino	fo|né|ti|co-sin|[tác]|ti|co
+fonético-sintaticamente	advérbio	fo|né|ti|co-sin|ta|ti|ca|[men]|te
+fonético-sintático	nome masculino	fo|né|ti|co-sin|[tá]|ti|co
+fonético-sintático	adjetivo	fo|né|ti|co-sin|[tá]|ti|co
+fonetismo	nome masculino	fo|ne|[tis]|mo
+fonetista	nome masculino	fo|ne|[tis]|ta
+fonetista	nome feminino	fo|ne|[tis]|ta
+fonetizar	verbo	fo|ne|ti|[zar]
+fonfom	nome masculino	[fon]|fom
+fonfonar	verbo	fon|fo|[nar]
+fong-soi	nome masculino	[fong-soi]
+fonguinho	nome masculino	fon|[gui]|nho
+fonia	nome feminino	fo|[ni]|a
+foniatra	nome masculino	fo|ni|[a]|tra
+foniatra	nome feminino	fo|ni|[a]|tra
+foniatria	nome feminino	fo|ni|a|[tri]|a
+foniátrico	adjetivo	fo|ni|[á]|tri|co
+fónica	nome feminino	[fó]|ni|ca
+fônica	nome feminino	[fô]|ni|ca
+fonicamente	advérbio	fo|ni|ca|[men]|te
+fonice	nome feminino	fo|[ni]|ce
+fónico	adjetivo	[fó]|ni|co
+fônico	adjetivo	[fô]|ni|co
+fonidoscópio	nome masculino	fo|ni|dos|[có]|pi|o
+fonisca	nome feminino	fo|[nis]|ca
+fonjo	adjetivo	[fon]|jo
+fonocâmptica	nome feminino	fo|no|[câmp]|ti|ca
+fonocâmptico	adjetivo	fo|no|[câmp]|ti|co
+fonocardiografia	nome feminino	fo|no|car|di|o|gra|[fi]|a
+fonocardiográfico	adjetivo	fo|no|car|di|o|[grá]|fi|co
+fonocardiógrafo	nome masculino	fo|no|car|di|[ó]|gra|fo
+fonocardiograma	nome masculino	fo|no|car|di|o|[gra]|ma
+fonocinematografia	nome feminino	fo|no|ci|ne|ma|to|gra|[fi]|a
+fonocinematográfico	adjetivo	fo|no|ci|ne|ma|to|[grá]|fi|co
+fonocinematógrafo	nome masculino	fo|no|ci|ne|ma|[tó]|gra|fo
+fonofilme	nome masculino	fo|no|[fil]|me
+fonofobia	nome feminino	fo|no|fo|[bi]|a
+fonófobo	adjetivo	fo|[nó]|fo|bo
+fonófobo	nome masculino	fo|[nó]|fo|bo
+fonóforo	nome masculino	fo|[nó]|fo|ro
+fonogenia	nome feminino	fo|no|ge|[ni]|a
+fonogénico	adjetivo	fo|no|[gé]|ni|co
+fonogênico	adjetivo	fo|no|[gê]|ni|co
+fonografia	nome feminino	fo|no|gra|[fi]|a
+fonográfico	adjetivo	fo|no|[grá]|fi|co
+fonógrafo	nome masculino	fo|[nó]|gra|fo
+fonograma	nome masculino	fo|no|[gra]|ma
+fonoidoscópio	nome masculino	fo|noi|dos|[có]|pi|o
+fonolítico	adjetivo	fo|no|[lí]|ti|co
+fonólito	nome masculino	fo|[nó]|li|to
+fonóloga	nome feminino	fo|[nó]|lo|ga
+fonologia	nome feminino	fo|no|lo|[gi]|a
+fonologicamente	advérbio	fo|no|lo|gi|ca|[men]|te
+fonológico	adjetivo	fo|no|[ló]|gi|co
+fonologista	nome masculino	fo|no|lo|[gis]|ta
+fonologista	nome feminino	fo|no|lo|[gis]|ta
+fonólogo	nome masculino	fo|[nó]|lo|go
+fonometria	nome feminino	fo|no|me|[tri]|a
+fonométrico	adjetivo	fo|no|[mé]|tri|co
+fonômetro	nome masculino	fo|[nô]|me|tro
+fonómetro	nome masculino	fo|[nó]|me|tro
+fonoscópio	nome masculino	fo|nos|[có]|pi|o
+fonospasmo	nome masculino	fo|nos|[pas]|mo
+fonoteca	nome feminino	fo|no|[te]|ca
+fontainha	nome feminino	fon|ta|[i]|nha
+fontal	adjetivo	fon|[tal]
+fontana	nome feminino	fon|[ta]|na
+fontanal	adjetivo	fon|ta|[nal]
+fontanário	nome masculino	fon|ta|[ná]|ri|o
+fontanário	adjetivo	fon|ta|[ná]|ri|o
+fontaneca	nome feminino	fon|ta|[ne]|ca
+fontanela	nome feminino	fon|ta|[ne]|la
+fontanésia	nome feminino	fon|ta|[né]|si|a
+fontano	adjetivo	fon|[ta]|no
+fonte	nome feminino	[fon]|te
+fonte-cal	nome feminino	fon|te-cal
+fonte-canal	nome feminino	fon|te-ca|[nal]
+fonteca	nome feminino	fon|[te]|ca
+fonteira	nome feminino	fon|[tei]|ra
+fontela	nome feminino	fon|[te]|la
+fontenário	nome masculino	fon|te|[ná]|ri|o
+fontenário	adjetivo	fon|te|[ná]|ri|o
+fontícola	adjetivo	fon|[tí]|co|la
+fontícula	nome feminino	fon|[tí]|cu|la
+fontículo	nome masculino	fon|[tí]|cu|lo
+fontinal	adjetivo	fon|ti|[nal]
+fontismo	nome masculino	fon|[tis]|mo
+fontista	nome masculino	fon|[tis]|ta
+fontista	adjetivo	fon|[tis]|ta
+fontista	nome feminino	fon|[tis]|ta
+footing	nome masculino	[foo]|ting
+fopa	nome feminino	[fo]|pa
+for	nome masculino	[for]
+fora	advérbio	[fo]|ra
+fora	preposição	[fo]|ra
+fora	nome feminino	[fo]|ra
+fora	nome masculino	[fo]|ra
+fora	interjeição	[fo]|ra
+fora de jogo	nome masculino	[fo]|ra de jo|go
+foragem	nome feminino	fo|[ra]|gem

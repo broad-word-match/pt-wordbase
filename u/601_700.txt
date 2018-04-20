@@ -1,0 +1,100 @@
+unaiense	nome masculino	u|nai|[en]|se
+unaiense	nome feminino	u|nai|[en]|se
+unamente	advérbio	u|na|[men]|te
+unanimar	verbo	u|na|ni|[mar]
+unânime	adjetivo	u|[nâ]|ni|me
+unanimemente	advérbio	u|na|ni|me|[men]|te
+unanimidade	nome feminino	u|na|ni|mi|[da]|de
+unanimificar	verbo	u|na|ni|mi|fi|[car]
+unanimismo	nome masculino	u|na|ni|[mis]|mo
+unanimista	nome masculino	u|na|ni|[mis]|ta
+unanimista	adjetivo	u|na|ni|[mis]|ta
+unanimista	nome feminino	u|na|ni|[mis]|ta
+unar	verbo	u|[nar]
+unário	adjetivo	u|[ná]|ri|o
+unau	nome masculino	u|[nau]
+unção	nome feminino	un|[ção]
+uncial	adjetivo	un|ci|[al]
+unciário	adjetivo	un|ci|[á]|ri|o
+unciforme	adjetivo	un|ci|[for]|me
+unciforme	nome masculino	un|ci|[for]|me
+uncinado	adjetivo	un|ci|[na]|do
+uncinária	nome feminino	un|ci|[ná]|ri|a
+uncinaríase	nome feminino	un|ci|na|[rí]|a|se
+uncinariose	nome feminino	un|ci|na|ri|[o]|se
+uncíneo	adjetivo	un|[cí]|ne|o
+uncínia	nome feminino	un|[cí]|ni|a
+uncínula	nome feminino	un|[cí]|nu|la
+uncipene	adjetivo	un|ci|[pe]|ne
+uncirrosto	adjetivo	un|cir|[ros]|to
+uncirrostro	nome masculino	un|cir|[ros]|tro
+uncirrostro	adjetivo	un|cir|[ros]|tro
+undabundo	adjetivo	un|da|[bun]|do
+undação	nome feminino	un|da|[ção]
+undalo	nome masculino	un|[da]|lo
+undante	adjetivo	un|[dan]|te
+undecágono	nome masculino	un|de|[cá]|go|no
+undecenal	adjetivo	un|de|ce|[nal]
+undecênviro	nome masculino	un|de|[cên]|vi|ro
+undecimano	nome masculino	un|de|ci|[ma]|no
+undécimo	adjetivo	un|[dé]|ci|mo
+undécimo	nome masculino	un|[dé]|ci|mo
+undécimo	número fraccional	un|[dé]|ci|mo
+undécimo	número ordinal	un|[dé]|ci|mo
+undecirreme	nome feminino	un|de|cir|[re]|me
+undecumano	nome masculino	un|de|cu|[ma]|no
+undécuplo	nome masculino	un|[dé]|cu|plo
+undécuplo	número multiplicativo	un|[dé]|cu|plo
+undécuplo	adjetivo	un|[dé]|cu|plo
+undeira	nome feminino	un|[dei]|ra
+underground	nome masculino	un|der|ground
+underground	adjetivo	un|der|ground
+underwear	nome feminino	un|der|wear
+undevicesimano	nome masculino	un|de|vi|ce|si|[ma]|no
+undícola	adjetivo	un|[dí]|co|la
+undícola	nome masculino	un|[dí]|co|la
+undícola	nome feminino	un|[dí]|co|la
+undífero	adjetivo	un|[dí]|fe|ro
+undiflavo	adjetivo	un|di|[fla]|vo
+undífluo	adjetivo	un|[dí]|flu|o
+undísseco	adjetivo	un|[dís]|se|co
+undíssono	adjetivo	un|[dís]|so|no
+undívago	adjetivo	un|[dí]|va|go
+undo	nome masculino	[un]|do
+undoso	adjetivo	un|[do]|so
+undular	verbo	un|du|[lar]
+undulosamente	advérbio	un|du|lo|sa|[men]|te
+unduloso	adjetivo	un|du|[lo]|so
+unelo	adjetivo	u|[ne]|lo
+unelo	nome masculino	u|[ne]|lo
+ungida	nome feminino	un|[gi]|da
+ungido	adjetivo	un|[gi]|do
+ungido	nome masculino	un|[gi]|do
+ungidouro	nome masculino	un|gi|[dou]|ro
+ungir	verbo	un|[gir]
+ungual	adjetivo	un|[gual]
+unguari	nome masculino	un|gua|[ri]
+ungue	nome masculino	[un]|gue
+ungueal	adjetivo	un|gue|[al]
+unguebe	nome masculino	un|[gue]|be
+unguentáceo	adjetivo	un|guen|[tá]|ce|o
+unguentar	verbo	un|guen|[tar]
+unguentária	nome feminino	un|guen|[tá]|ri|a
+unguentário	adjetivo	un|guen|[tá]|ri|o
+unguentário	nome masculino	un|guen|[tá]|ri|o
+unguento	nome masculino	un|[guen]|to
+ungui	nome masculino	un|[gui]
+unguiculado	adjetivo	un|gui|cu|[la]|do
+unguiculado	nome masculino	un|gui|cu|[la]|do
+unguífero	adjetivo	un|[guí]|fe|ro
+unguiforme	adjetivo	un|gui|[for]|me
+unguinoso	adjetivo	un|gui|[no]|so
+únguis	nome masculino	[ún]|guis
+ungulado	adjetivo	un|gu|[la]|do
+ungulado	nome masculino	un|gu|[la]|do
+ungulígrado	nome masculino	un|gu|[lí]|gra|do
+ungulígrado	adjetivo	un|gu|[lí]|gra|do
+unha	nome feminino	[u]|nha
+unha de fome	nome masculino	[u]|nha de fo|me
+unha-de-asno	nome feminino	u|nha-de-as|no
+unha-de-boi	nome feminino	u|nha-de-boi

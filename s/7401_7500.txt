@@ -1,0 +1,100 @@
+sobressinal	nome masculino	so|bres|si|[nal]
+sobressolar	verbo	so|bres|so|[lar]
+sobressoleira	nome feminino	so|bres|so|[lei]|ra
+sobressubstancial	adjetivo	so|bres|subs|tan|ci|[al]
+sobrestância	nome feminino	so|bres|[tân]|ci|a
+sobrestante	adjetivo	so|bres|[tan]|te
+sobrestante	nome masculino	so|bres|[tan]|te
+sobrestante	nome feminino	so|bres|[tan]|te
+sobrestar	verbo	so|bres|[tar]
+sobrestimação	nome feminino	so|bres|ti|ma|[ção]
+sobrestimar	verbo	so|bres|ti|[mar]
+sobretaleira	nome feminino	so|bre|ta|[lei]|ra
+sobretarde	nome feminino	so|bre|[tar]|de
+sobretarde	advérbio	so|bre|[tar]|de
+sobretaxa	nome feminino	so|bre|[ta]|xa
+sobretaxar	verbo	so|bre|ta|[xar]
+sobretecer	verbo	so|bre|te|[cer]
+sobreteima	nome feminino	so|bre|[tei]|ma
+sobreteima	advérbio	so|bre|[tei]|ma
+sobretensão	nome feminino	so|bre|ten|[são]
+sobreterrestre	adjetivo	so|bre|ter|[res]|tre
+sobretesta	nome feminino	so|bre|[tes]|ta
+sobretoalha	nome feminino	so|bre|to|[a]|lha
+sobretónica	nome feminino	so|bre|[tó]|ni|ca
+sobretônica	nome feminino	so|bre|[tô]|ni|ca
+sobretroar	verbo	so|bre|tro|[ar]
+sobretudo	nome masculino	so|bre|[tu]|do
+sobretudo	advérbio	so|bre|[tu]|do
+sobreumeral	nome masculino	so|breu|me|[ral]
+sobrevalor	nome masculino	so|bre|va|[lor]
+sobrevalorização	nome feminino	so|bre|va|lo|ri|za|[ção]
+sobrevalorizado	adjetivo	so|bre|va|lo|ri|[za]|do
+sobrevalorizar	verbo	so|bre|va|lo|ri|[zar]
+sobrevela	nome feminino	so|bre|[ve]|la
+sobreveniente	adjetivo	so|bre|ve|ni|[en]|te
+sobrevento	nome masculino	so|bre|[ven]|to
+sobreveste	nome feminino	so|bre|[ves]|te
+sobrevestir	verbo	so|bre|ves|[tir]
+sobrevigiar	verbo	so|bre|vi|gi|[ar]
+sobrevinda	nome feminino	so|bre|[vin]|da
+sobrevindo	adjetivo	so|bre|[vin]|do
+sobrevindo	nome masculino	so|bre|[vin]|do
+sobrevir	verbo	so|bre|[vir]
+sobreviragem	nome feminino	so|bre|vi|[ra]|gem
+sobrevirtude	nome feminino	so|bre|vir|[tu]|de
+sobrevista	nome feminino	so|bre|[vis]|ta
+sobrevivência	nome feminino	so|bre|vi|[vên]|ci|a
+sobrevivente	nome masculino	so|bre|vi|[ven]|te
+sobrevivente	adjetivo	so|bre|vi|[ven]|te
+sobrevivente	nome feminino	so|bre|vi|[ven]|te
+sobreviver	verbo	so|bre|vi|[ver]
+sobrevivo	adjetivo	so|bre|[vi]|vo
+sobrevivo	nome masculino	so|bre|[vi]|vo
+sobrevoar	verbo	so|bre|vo|[ar]
+sobrevoo	nome masculino	so|bre|[vo]|o
+sobrexaltação	nome feminino	so|bre|xal|ta|[ção]
+sobrexaltar	verbo	so|bre|xal|[tar]
+sobrexcedente	adjetivo	so|brex|ce|[den]|te
+sobrexcelência	nome feminino	so|brex|ce|[lên]|ci|a
+sobrexcelente	adjetivo	so|brex|ce|[len]|te
+sobrexcitação	nome feminino	so|brex|ci|ta|[ção]
+sobrexcitante	adjetivo	so|brex|ci|[tan]|te
+sobrexcitar	verbo	so|brex|ci|[tar]
+sobriamente	advérbio	so|bri|a|[men]|te
+sobriedade	nome feminino	so|bri|e|[da]|de
+sobrinha	nome feminino	so|[bri]|nha
+sobrinha-bisneta	nome feminino	so|bri|nha-bis|[ne]|ta
+sobrinha-neta	nome feminino	so|bri|nha-ne|ta
+sobrinha-trineta	nome feminino	so|bri|nha-tri|[ne]|ta
+sobrinho	nome masculino	so|[bri]|nho
+sobrinho-bisneto	nome masculino	so|bri|nho-bis|[ne]|to
+sobrinho-neto	nome masculino	so|bri|nho-ne|to
+sobrinho-trineto	nome masculino	so|bri|nho-tri|[ne]|to
+sóbrio	adjetivo	[só]|bri|o
+sobriquet	nome masculino	so|bri|quet
+sobro	nome masculino	[so]|bro
+sobrolho	nome masculino	so|[bro]|lho
+sobrosso	nome masculino	so|[bros]|so
+soca	nome feminino	[so]|ca
+socado	adjetivo	so|[ca]|do
+socado	nome masculino	so|[ca]|do
+socador	nome masculino	so|ca|[dor]
+socadura	nome feminino	so|ca|[du]|ra
+socairo	nome masculino	so|[cai]|ro
+socalcar	verbo	so|cal|[car]
+socalco	nome masculino	so|[cal]|co
+socancra	adjetivo	so|[can]|cra
+socancra	nome masculino	so|[can]|cra
+socancra	nome feminino	so|[can]|cra
+socapa	nome feminino	so|[ca]|pa
+socar	verbo	so|[car]
+socarrão	nome masculino	so|car|[rão]
+socate	nome masculino	so|[ca]|te
+socava	nome feminino	so|[ca]|va
+socavado	nome masculino	so|ca|[va]|do
+socavado	adjetivo	so|ca|[va]|do
+socavão	nome masculino	so|ca|[vão]
+socavar	verbo	so|ca|[var]
+soccer	nome masculino	soc|cer
+socha	nome feminino	[so]|cha

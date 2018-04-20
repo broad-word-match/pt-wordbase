@@ -1,0 +1,100 @@
+gelividade	nome feminino	ge|li|vi|[da]|de
+gelo	nome masculino	[ge]|lo
+gelono	adjetivo	ge|[lo]|no
+gelono	nome masculino	ge|[lo]|no
+gelose	nome feminino	ge|[lo]|se
+gelosia	nome feminino	ge|lo|[si]|a
+gelsemina	nome feminino	gel|se|[mi]|na
+gema	nome feminino	[ge]|ma
+gemação	nome feminino	ge|ma|[ção]
+gemada	nome feminino	ge|[ma]|da
+gemado	adjetivo	ge|[ma]|do
+gemagem	nome feminino	ge|[ma]|gem
+gemante	adjetivo	ge|[man]|te
+gemar	verbo	ge|[mar]
+gemear	verbo	ge|me|[ar]
+gemebundo	adjetivo	ge|me|[bun]|do
+gemedoiro	nome masculino	ge|me|[doi]|ro
+gemedor	adjetivo	ge|me|[dor]
+gemedor	nome masculino	ge|me|[dor]
+gemedora	nome feminino	ge|me|[do]|ra
+gemedouro	nome masculino	ge|me|[dou]|ro
+gemeidade	nome feminino	ge|mei|[da]|de
+gemelar	adjetivo	ge|me|[lar]
+gemelaridade	nome feminino	ge|me|la|ri|[da]|de
+gemelgar	verbo	ge|mel|[gar]
+gemelgo	adjetivo	ge|[mel]|go
+gemelgo	nome masculino	ge|[mel]|go
+gemelhicar	verbo	ge|me|lhi|[car]
+gemelifloro	adjetivo	ge|me|li|[flo]|ro
+gemelíparo	adjetivo	ge|me|[lí]|pa|ro
+gemelo	nome masculino	ge|[me]|lo
+gemente	adjetivo	ge|[men]|te
+gêmeo	adjetivo	[gê]|me|o
+gêmeo	nome masculino	[gê]|me|o
+gémeo	adjetivo	[gé]|me|o
+gémeo	nome masculino	[gé]|me|o
+gemeologia	nome feminino	ge|me|o|lo|[gi]|a
+gemer	verbo	ge|[mer]
+gemicar	verbo	ge|mi|[car]
+gemido	nome masculino	ge|[mi]|do
+gemífero	adjetivo	ge|[mí]|fe|ro
+gemifloro	adjetivo	ge|mi|[flo]|ro
+gémina	nome feminino	[gé]|mi|na
+gêmina	nome feminino	[gê]|mi|na
+geminação	nome feminino	ge|mi|na|[ção]
+geminada	nome feminino	ge|mi|[na]|da
+geminadamente	advérbio	ge|mi|na|da|[men]|te
+geminado	adjetivo	ge|mi|[na]|do
+geminar	verbo	ge|mi|[nar]
+geminável	adjetivo	ge|mi|[ná]|vel
+geminiano	adjetivo	ge|mi|ni|[a]|no
+geminiano	nome masculino	ge|mi|ni|[a]|no
+geminifloro	adjetivo	ge|mi|ni|[flo]|ro
+gêmino	adjetivo	[gê]|mi|no
+gémino	adjetivo	[gé]|mi|no
+gemiparidade	nome feminino	ge|mi|pa|ri|[da]|de
+gemíparo	adjetivo	ge|[mí]|pa|ro
+gémito	nome masculino	[gé]|mi|to
+gêmito	nome masculino	[gê]|mi|to
+gemologia	nome feminino	ge|mo|lo|[gi]|a
+gemológico	adjetivo	ge|mo|[ló]|gi|co
+gemônias	nome feminino	ge|[mô]|ni|as
+gemónias	nome feminino	ge|[mó]|ni|as
+gempílida	nome masculino	gem|[pí]|li|da
+gempílida	nome masculino	gem|[pí]|li|da
+gempilídeo	nome masculino	gem|pi|[lí]|de|o
+gempilídeo	nome masculino	gem|pi|[lí]|de|o
+gempilídeo	adjetivo	gem|pi|[lí]|de|o
+gêmula	nome feminino	[gê]|mu|la
+gémula	nome feminino	[gé]|mu|la
+gemulação	nome feminino	ge|mu|la|[ção]
+genal	adjetivo	ge|[nal]
+genauno	adjetivo	ge|[nau]|no
+genauno	nome masculino	ge|[nau]|no
+genciana	nome feminino	gen|ci|[a]|na
+genciana-da-praia	nome feminino	gen|ci|a|na-da-prai|a
+gencianácea	nome feminino	gen|ci|a|[ná]|ce|a
+gencianáceo	adjetivo	gen|ci|a|[ná]|ce|o
+genciânea	nome feminino	gen|ci|[â]|ne|a
+gencianela	nome feminino	gen|ci|a|[ne]|la
+gencianina	nome feminino	gen|ci|a|[ni]|na
+gendarmaria	nome feminino	gen|dar|ma|[ri]|a
+gendarme	nome masculino	gen|[dar]|me
+gene	nome masculino	[ge]|ne
+geneagénese	nome feminino	ge|ne|a|[gé]|ne|se
+geneagênese	nome feminino	ge|ne|a|[gê]|ne|se
+geneagenésico	adjetivo	ge|ne|a|ge|[né]|si|co
+geneagenético	adjetivo	ge|ne|a|ge|[né]|ti|co
+genealogia	nome feminino	ge|ne|a|lo|[gi]|a
+genealógica	nome feminino	ge|ne|a|[ló]|gi|ca
+genealogicamente	advérbio	ge|ne|a|lo|gi|ca|[men]|te
+genealógico	nome masculino	ge|ne|a|[ló]|gi|co
+genealógico	adjetivo	ge|ne|a|[ló]|gi|co
+genealogista	nome masculino	ge|ne|a|lo|[gis]|ta
+genealogista	nome feminino	ge|ne|a|lo|[gis]|ta
+genealogístico	adjetivo	ge|ne|a|lo|[gís]|ti|co
+genealozia	nome feminino	ge|ne|a|lo|[zi]|a
+genearca	nome masculino	ge|ne|[ar]|ca
+genearquia	nome feminino	ge|ne|ar|[qui]|a
+geneárquico	adjetivo	ge|ne|[ár]|qui|co

@@ -1,0 +1,100 @@
+montês	adjetivo	mon|[tês]
+montes-de-ouro	nome masculino	mon|tes-de-ou|ro
+montesinho	adjetivo	mon|te|[si]|nho
+montesino	adjetivo	mon|te|[si]|no
+montevideana	nome feminino	mon|te|vi|de|[a]|na
+montevideano	adjetivo	mon|te|vi|de|[a]|no
+montevideano	nome masculino	mon|te|vi|de|[a]|no
+montícola	adjetivo	mon|[tí]|co|la
+montícola	nome masculino	mon|[tí]|co|la
+montícola	nome feminino	mon|[tí]|co|la
+montículo	nome masculino	mon|[tí]|cu|lo
+montígeno	adjetivo	mon|[tí]|ge|no
+montijense	nome masculino	mon|ti|[jen]|se
+montijense	adjetivo	mon|ti|[jen]|se
+montijense	nome feminino	mon|ti|[jen]|se
+montijo	nome masculino	mon|[ti]|jo
+montilhão	nome masculino	mon|ti|[lhão]
+montínea	nome feminino	mon|[tí]|ne|a
+montívago	adjetivo	mon|[tí]|va|go
+montmorillonita	nome feminino	mont|mo|ril|lo|[ni]|ta
+montmorilonite	nome feminino	mont|mo|ri|lo|[ni]|te
+montoeira	nome feminino	mon|to|[ei]|ra
+montoso	adjetivo	mon|[to]|so
+montra	nome feminino	[mon]|tra
+montuosidade	nome feminino	mon|tu|o|si|[da]|de
+montuoso	adjetivo	mon|tu|[o]|so
+montureira	nome feminino	mon|tu|[rei]|ra
+montureiro	nome masculino	mon|tu|[rei]|ro
+monturo	nome masculino	mon|[tu]|ro
+monumental	adjetivo	mo|nu|men|[tal]
+monumentalidade	nome feminino	mo|nu|men|ta|li|[da]|de
+monumentalização	nome feminino	mo|nu|men|ta|li|za|[ção]
+monumentalizar	verbo	mo|nu|men|ta|li|[zar]
+monumentalmente	advérbio	mo|nu|men|tal|[men]|te
+monumento	nome masculino	mo|nu|[men]|to
+monumentoso	adjetivo	mo|nu|men|[to]|so
+monvedro	nome masculino	mon|[ve]|dro
+monzonito	nome masculino	mon|zo|[ni]|to
+moponga	nome feminino	mo|[pon]|ga
+mopsiano	adjetivo	mop|si|[a]|no
+mopsiano	nome masculino	mop|si|[a]|no
+mopsópio	adjetivo	mop|[só]|pi|o
+moque	nome masculino	[mo]|que
+moqueação	nome feminino	mo|que|a|[ção]
+moquear	verbo	mo|que|[ar]
+moqueca	nome feminino	mo|[que]|ca
+moquecar	verbo	mo|que|[car]
+moquém	nome masculino	mo|[quém]
+moquenca	nome feminino	mo|[quen]|ca
+moquenco	adjetivo	mo|[quen]|co
+moquenco	nome masculino	mo|[quen]|co
+moquenqueiro	adjetivo	mo|quen|[quei]|ro
+moquenqueiro	nome masculino	mo|quen|[quei]|ro
+moquenquice	nome feminino	mo|quen|[qui]|ce
+moqueta	nome feminino	mo|[que]|ta
+moquetear	verbo	mo|que|te|[ar]
+moquínia	nome feminino	mo|[quí]|ni|a
+mor	nome masculino	[mor]
+mor	adjetivo	[mor]
+mora	nome feminino	[mo]|ra
+morabeza	nome feminino	mo|ra|[be]|za
+morabitinada	nome feminino	mo|ra|bi|ti|[na]|da
+morabitino	nome masculino	mo|ra|bi|[ti]|no
+morabito	nome masculino	mo|ra|[bi]|to
+morácea	nome feminino	mo|[rá]|ce|a
+moráceo	adjetivo	mo|[rá]|ce|o
+morada	nome feminino	mo|[ra]|da
+moradia	nome feminino	mo|ra|[di]|a
+moradilho	nome masculino	mo|ra|[di]|lho
+moradio	nome masculino	mo|ra|[di]|o
+morado	adjetivo	mo|[ra]|do
+morador	adjetivo	mo|ra|[dor]
+morador	nome masculino	mo|ra|[dor]
+moradora	nome feminino	mo|ra|[do]|ra
+moraís	nome masculino	mo|ra|[ís]
+moral	nome feminino	mo|[ral]
+moral	adjetivo	mo|[ral]
+moral	nome masculino	mo|[ral]
+moralão	nome masculino	mo|ra|[lão]
+moralidade	nome feminino	mo|ra|li|[da]|de
+moralismo	nome masculino	mo|ra|[lis]|mo
+moralista	nome masculino	mo|ra|[lis]|ta
+moralista	adjetivo	mo|ra|[lis]|ta
+moralista	nome feminino	mo|ra|[lis]|ta
+moralístico	adjetivo	mo|ra|[lís]|ti|co
+moralização	nome feminino	mo|ra|li|za|[ção]
+moralizador	nome masculino	mo|ra|li|za|[dor]
+moralizador	adjetivo	mo|ra|li|za|[dor]
+moralizadora	nome feminino	mo|ra|li|za|[do]|ra
+moralizante	adjetivo	mo|ra|li|[zan]|te
+moralizante	nome masculino	mo|ra|li|[zan]|te
+moralizante	nome feminino	mo|ra|li|[zan]|te
+moralizar	verbo	mo|ra|li|[zar]
+moralizável	adjetivo	mo|ra|li|[zá]|vel
+moralmente	advérbio	mo|ral|[men]|te
+morança	nome feminino	mo|[ran]|ça
+moranga	nome feminino	mo|[ran]|ga
+moranga	adjetivo	mo|[ran]|ga
+morangal	nome masculino	mo|ran|[gal]
+morangar	verbo	mo|ran|[gar]

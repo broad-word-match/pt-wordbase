@@ -1,0 +1,100 @@
+amontoador	nome masculino	a|mon|to|a|[dor]
+amontoador	adjetivo	a|mon|to|a|[dor]
+amontoadora	nome feminino	a|mon|to|a|[do]|ra
+amontoamento	nome masculino	a|mon|to|a|[men]|to
+amontoar	verbo	a|mon|to|[ar]
+amontoável	adjetivo	a|mon|to|[á]|vel
+amontom	adjetivo	a|[mon]|tom
+amontom	nome masculino	a|[mon]|tom
+amonturar	verbo	a|mon|tu|[rar]
+amoque	nome masculino	a|[mo]|que
+amoquecar	verbo	a|mo|que|[car]
+amor	nome masculino	a|[mor]
+amor-de-hortelão	nome masculino	a|mor-de-hor|te|[lão]
+amor-do-campo	nome masculino	a|mor-do-cam|po
+amor-dos-homens	nome masculino	a|mor-dos-ho|mens
+amor-perfeito	nome masculino	a|mor-per|[fei]|to
+amor-próprio	nome masculino	a|mor-pró|pri|o
+amora	nome feminino	a|[mo]|ra
+amorado	adjetivo	a|mo|[ra]|do
+amoral	nome masculino	a|mo|[ral]
+amoral	adjetivo	a|mo|[ral]
+amoral	nome feminino	a|mo|[ral]
+amoralidade	nome feminino	a|mo|ra|li|[da]|de
+amoralismo	nome masculino	a|mo|ra|[lis]|mo
+amoralista	adjetivo	a|mo|ra|[lis]|ta
+amoralista	nome masculino	a|mo|ra|[lis]|ta
+amoralista	nome feminino	a|mo|ra|[lis]|ta
+amoralizar	verbo	a|mo|ra|li|[zar]
+amorança	nome feminino	a|mo|[ran]|ça
+amorançado	adjetivo	a|mo|ran|[ça]|do
+amorangado	adjetivo	a|mo|ran|[ga]|do
+amorar	verbo	a|mo|[rar]
+amorativo	adjetivo	a|mo|ra|[ti]|vo
+amorável	adjetivo	a|mo|[rá]|vel
+amoravelmente	advérbio	a|mo|ra|vel|[men]|te
+amorcegar	verbo	a|mor|ce|[gar]
+amorcelado	adjetivo	a|mor|ce|[la]|do
+amordaçamento	nome masculino	a|mor|da|ça|[men]|to
+amordaçar	verbo	a|mor|da|[çar]
+amoré	nome masculino	a|mo|[ré]
+amoré-guaçu	nome masculino	a|mo|ré-gua|[çu]
+amoreia	nome feminino	a|mo|[rei]|a
+amoreira	nome feminino	a|mo|[rei]|ra
+amoreiral	nome masculino	a|mo|rei|[ral]
+amorenado	adjetivo	a|mo|re|[na]|do
+amorenar	verbo	a|mo|re|[nar]
+amorete	nome masculino	a|mo|[re]|te
+amorfa	nome feminino	a|[mor]|fa
+amorfanhar	verbo	a|mor|fa|[nhar]
+amorfia	nome feminino	a|mor|[fi]|a
+amórfico	adjetivo	a|[mór]|fi|co
+amorfismo	nome masculino	a|mor|[fis]|mo
+amorfo	adjetivo	a|[mor]|fo
+amorfo	nome masculino	a|[mor]|fo
+amorgino	adjetivo	a|mor|[gi]|no
+amorgino	nome masculino	a|mor|[gi]|no
+amoriano	adjetivo	a|mo|ri|[a]|no
+amoriano	nome masculino	a|mo|ri|[a]|no
+amorico	nome masculino	a|mo|[ri]|co
+amorífero	adjetivo	a|mo|[rí]|fe|ro
+amorífico	adjetivo	a|mo|[rí]|fi|co
+amorim	adjetivo	a|mo|[rim]
+amorim	nome feminino	a|mo|[rim]
+amorinhos	nome masculino	a|mo|[ri]|nhos
+amorio	nome masculino	a|mo|[ri]|o
+amoriscado	adjetivo	a|mo|ris|[ca]|do
+amoriscar	verbo	a|mo|ris|[car]
+amorismo	nome masculino	a|mo|[ris]|mo
+amormado	adjetivo	a|mor|[ma]|do
+amornar	verbo	a|mor|[nar]
+amornável	adjetivo	a|mor|[ná]|vel
+amornecer	verbo	a|mor|ne|[cer]
+amorosa	nome feminino	a|mo|[ro]|sa
+amorosamente	advérbio	a|mo|ro|sa|[men]|te
+amorosidade	nome feminino	a|mo|ro|si|[da]|de
+amorosinho	adjetivo	a|mo|ro|[si]|nho
+amoroso	adjetivo	a|mo|[ro]|so
+amoroso	nome masculino	a|mo|[ro]|so
+amorreu	adjetivo	a|mor|[reu]
+amorreu	nome masculino	a|mor|[reu]
+amorrinhado	adjetivo	a|mor|ri|[nha]|do
+amorrinhar	verbo	a|mor|ri|[nhar]
+amorroar	verbo	a|mor|ro|[ar]
+amorsegar	verbo	a|mor|se|[gar]
+amortalhada	nome feminino	a|mor|ta|[lha]|da
+amortalhado	nome masculino	a|mor|ta|[lha]|do
+amortalhado	adjetivo	a|mor|ta|[lha]|do
+amortalhador	adjetivo	a|mor|ta|lha|[dor]
+amortalhador	nome masculino	a|mor|ta|lha|[dor]
+amortalhamento	nome masculino	a|mor|ta|lha|[men]|to
+amortalhar	verbo	a|mor|ta|[lhar]
+amortecedor	adjetivo	a|mor|te|ce|[dor]
+amortecedor	nome masculino	a|mor|te|ce|[dor]
+amortecer	verbo	a|mor|te|[cer]
+amortecido	adjetivo	a|mor|te|[ci]|do
+amortecimento	nome masculino	a|mor|te|ci|[men]|to
+amortiçar	verbo	a|mor|ti|[çar]
+amortização	nome feminino	a|mor|ti|za|[ção]
+amortizador	adjetivo	a|mor|ti|za|[dor]
+amortizador	nome masculino	a|mor|ti|za|[dor]

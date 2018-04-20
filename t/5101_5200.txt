@@ -1,0 +1,100 @@
+tó-rola	interjeição	tó-ro|la
+toa	nome feminino	[to]|a
+toada	nome feminino	to|[a]|da
+toadeira	nome feminino	to|a|[dei]|ra
+toadilha	nome feminino	to|a|[di]|lha
+toalete	nome feminino	to|a|[le]|te
+toalete	nome masculino	to|a|[le]|te
+toalha	nome feminino	to|[a]|lha
+toalhão	nome masculino	to|a|[lhão]
+toalheira	nome feminino	to|a|[lhei]|ra
+toalheiro	nome masculino	to|a|[lhei]|ro
+toalhete	nome masculino	to|a|[lhe]|te
+toalhinha	nome feminino	to|a|[lhi]|nha
+toante	adjetivo	to|[an]|te
+toanteiro	adjetivo	to|an|[tei]|ro
+toar	verbo	to|[ar]
+toarciano	adjetivo	to|ar|ci|[a]|no
+toarda	nome feminino	to|[ar]|da
+toast	nome masculino	[toast]
+tobiano	adjetivo	to|bi|[a]|no
+tobiano	nome masculino	to|bi|[a]|no
+tobó	nome masculino	to|[bó]
+tobogã	nome masculino	to|bo|[gã]
+toboggan	nome masculino	to|bog|gan
+toca	nome feminino	[to]|ca
+toca-boca	nome masculino	to|ca-bo|ca
+toca-disco	nome masculino	to|ca-dis|co
+toca-discos	nome masculino	to|ca-dis|cos
+toca-fitas	nome masculino	to|ca-fi|tas
+toca-lápis	nome masculino	to|ca-lá|pis
+toca-toca	nome masculino	to|ca-to|ca
+tocada	nome feminino	to|[ca]|da
+tocadela	nome feminino	to|ca|[de]|la
+tocadilho	nome masculino	to|ca|[di]|lho
+tocado	adjetivo	to|[ca]|do
+tocador	adjetivo	to|ca|[dor]
+tocador	nome masculino	to|ca|[dor]
+tocadora	nome feminino	to|ca|[do]|ra
+tocadura	nome feminino	to|ca|[du]|ra
+tocagem	nome feminino	to|[ca]|gem
+tócai	nome masculino	[tó]|cai
+tocaia	nome feminino	to|[cai]|a
+tocaiar	verbo	to|cai|[ar]
+tocainará	nome feminino	to|cai|na|[rá]
+tocaio	adjetivo	to|[cai]|o
+tocaio	nome masculino	to|[cai]|o
+tocajé	nome masculino	to|ca|[jé]
+tocamento	nome masculino	to|ca|[men]|to
+tocandera	nome feminino	to|can|[de]|ra
+tocandira	adjetivo	to|can|[di]|ra
+tocandira	nome masculino	to|can|[di]|ra
+tocandira	nome feminino	to|can|[di]|ra
+tocanquibira	nome feminino	to|can|qui|[bi]|ra
+tocante	adjetivo	to|[can]|te
+tocantemente	advérbio	to|can|te|[men]|te
+tocantim	adjetivo	to|can|[tim]
+tocantim	nome masculino	to|can|[tim]
+tocantim	nome feminino	to|can|[tim]
+tocantinense	adjetivo	to|can|ti|[nen]|se
+tocantinense	nome masculino	to|can|ti|[nen]|se
+tocantinense	nome feminino	to|can|ti|[nen]|se
+tocantinopolitano	adjetivo	to|can|ti|no|po|li|[ta]|no
+tocantinopolitano	nome masculino	to|can|ti|no|po|li|[ta]|no
+tocar	verbo	to|[car]
+tocari	nome masculino	to|ca|[ri]
+tocárico	adjetivo	to|[cá]|ri|co
+tocárico	nome masculino	to|[cá]|ri|co
+tócaro	adjetivo	[tó]|ca|ro
+tócaro	nome masculino	[tó]|ca|ro
+tocarola	nome feminino	to|ca|[ro]|la
+tocata	nome feminino	to|[ca]|ta
+tocatina	nome feminino	to|ca|[ti]|na
+tocável	adjetivo	to|[cá]|vel
+toccata	nome feminino	toc|[ca]|ta
+tocear	verbo	to|ce|[ar]
+tocha	nome feminino	[to]|cha
+tocheira	nome feminino	to|[chei]|ra
+tocheiro	nome masculino	to|[chei]|ro
+tocho	nome masculino	[to]|cho
+tocló	nome masculino	to|[cló]
+toco	nome masculino	[to]|co
+toco	adjetivo	[to]|co
+tocodinamômetro	nome masculino	to|co|di|na|[mô]|me|tro
+tocodinamómetro	nome masculino	to|co|di|na|[mó]|me|tro
+tocoferol	nome masculino	to|co|fe|[rol]
+tocofobia	nome feminino	to|co|fo|[bi]|a
+tocografia	nome feminino	to|co|gra|[fi]|a
+tocográfico	adjetivo	to|co|[grá]|fi|co
+tocógrafo	nome masculino	to|[có]|gra|fo
+tocoiena	nome feminino	to|coi|[e]|na
+tocoió	nome masculino	to|coi|[ó]
+tocóloga	nome feminino	to|[có]|lo|ga
+tocologia	nome feminino	to|co|lo|[gi]|a
+tocológico	adjetivo	to|co|[ló]|gi|co
+tocólogo	nome masculino	to|[có]|lo|go
+tocomático	nome masculino	to|co|[má]|ti|co
+toconomia	nome feminino	to|co|no|[mi]|a
+toconómico	adjetivo	to|co|[nó]|mi|co
+tocóstoma	nome masculino	to|[cós]|to|ma
+tocotecnia	nome feminino	to|co|tec|[ni]|a

@@ -1,0 +1,100 @@
+diagnóstico	adjetivo	di|ag|[nós]|ti|co
+diagnóstico	nome masculino	di|ag|[nós]|ti|co
+diagometria	nome feminino	di|a|go|me|[tri]|a
+diagométrico	adjetivo	di|a|go|[mé]|tri|co
+diagómetro	nome masculino	di|a|[gó]|me|tro
+diagômetro	nome masculino	di|a|[gô]|me|tro
+diagonal	adjetivo	di|a|go|[nal]
+diagonal	nome feminino	di|a|go|[nal]
+diagonalmente	advérbio	di|a|go|nal|[men]|te
+diagrafia	nome feminino	di|a|gra|[fi]|a
+diagráfico	adjetivo	di|a|[grá]|fi|co
+diágrafo	nome masculino	di|[á]|gra|fo
+diagrama	nome masculino	di|a|[gra]|ma
+diagrama	nome feminino	di|a|[gra]|ma
+diagramação	nome feminino	di|a|gra|ma|[ção]
+diagramador	adjetivo	di|a|gra|ma|[dor]
+diagramador	nome masculino	di|a|gra|ma|[dor]
+diagramar	verbo	di|a|gra|[mar]
+diagramático	adjetivo	di|a|gra|[má]|ti|co
+diagramável	adjetivo	di|a|gra|[má]|vel
+diagrídio	nome masculino	di|a|[grí]|di|o
+dial	adjetivo	di|[al]
+diálage	nome feminino	di|[á]|la|ge
+dialágico	adjetivo	di|a|[lá]|gi|co
+dialágio	nome masculino	di|a|[lá]|gi|o
+diálcool	nome masculino	di|[ál]|co|ol
+dialdeído	nome masculino	di|al|de|[í]|do
+dialectal	adjetivo	di|a|lec|[tal]
+dialectalmente	advérbio	di|a|lec|tal|[men]|te
+dialéctica	nome feminino	di|a|[léc]|ti|ca
+dialecticamente	advérbio	di|a|lec|ti|ca|[men]|te
+dialéctico	adjetivo	di|a|[léc]|ti|co
+dialéctico	nome masculino	di|a|[léc]|ti|co
+dialectismo	nome masculino	di|a|lec|[tis]|mo
+dialectista	adjetivo	di|a|lec|[tis]|ta
+dialectista	nome masculino	di|a|lec|[tis]|ta
+dialectista	nome feminino	di|a|lec|[tis]|ta
+dialectização	nome feminino	di|a|lec|ti|za|[ção]
+dialectizar	verbo	di|a|lec|ti|[zar]
+dialecto	nome masculino	di|a|[lec]|to
+dialectologia	nome feminino	di|a|lec|to|lo|[gi]|a
+dialectológico	adjetivo	di|a|lec|to|[ló]|gi|co
+dialectologista	nome masculino	di|a|lec|to|lo|[gis]|ta
+dialectologista	nome feminino	di|a|lec|to|lo|[gis]|ta
+dialectólogo	adjetivo	di|a|lec|[tó]|lo|go
+dialectólogo	nome masculino	di|a|lec|[tó]|lo|go
+dialelo	nome masculino	di|a|[le]|lo
+dialetal	adjetivo	di|a|le|[tal]
+dialetalmente	advérbio	di|a|le|tal|[men]|te
+dialética	nome feminino	di|a|[lé]|ti|ca
+dialeticamente	advérbio	di|a|le|ti|ca|[men]|te
+dialético	adjetivo	di|a|[lé]|ti|co
+dialético	nome masculino	di|a|[lé]|ti|co
+dialetismo	nome masculino	di|a|le|[tis]|mo
+dialetista	adjetivo	di|a|le|[tis]|ta
+dialetista	nome masculino	di|a|le|[tis]|ta
+dialetista	nome feminino	di|a|le|[tis]|ta
+dialetização	nome feminino	di|a|le|ti|za|[ção]
+dialetizar	verbo	di|a|le|ti|[zar]
+dialeto	nome masculino	di|a|[le]|to
+dialetologia	nome feminino	di|a|le|to|lo|[gi]|a
+dialetológico	adjetivo	di|a|le|to|[ló]|gi|co
+dialetologista	nome feminino	di|a|le|to|lo|[gis]|ta
+dialetologista	nome masculino	di|a|le|to|lo|[gis]|ta
+dialetólogo	adjetivo	di|a|le|[tó]|lo|go
+dialetólogo	nome masculino	di|a|le|[tó]|lo|go
+dialho	nome masculino	di|[a]|lho
+dialiopétalo	adjetivo	di|a|li|o|[pé]|ta|lo
+dialiossépalo	adjetivo	di|a|li|os|[sé]|pa|lo
+dialiostémone	adjetivo	di|a|li|os|[té]|mo|ne
+dialiostêmone	adjetivo	di|a|li|os|[tê]|mo|ne
+dialipétalo	adjetivo	di|a|li|[pé]|ta|lo
+dialisador	adjetivo	di|a|li|sa|[dor]
+dialisador	nome masculino	di|a|li|sa|[dor]
+dialisar	verbo	di|a|li|[sar]
+dialisável	adjetivo	di|a|li|[sá]|vel
+diálise	nome feminino	di|[á]|li|se
+dialissépalo	adjetivo	di|a|lis|[sé]|pa|lo
+dialistémone	adjetivo	di|a|lis|[té]|mo|ne
+dialistêmone	adjetivo	di|a|lis|[tê]|mo|ne
+dialitépalo	adjetivo	di|a|li|[té]|pa|lo
+dialítico	adjetivo	di|a|[lí]|ti|co
+dialoés	nome masculino	di|a|lo|[és]
+dialogação	nome feminino	di|a|lo|ga|[ção]
+dialogado	adjetivo	di|a|lo|[ga]|do
+dialogador	adjetivo	di|a|lo|ga|[dor]
+dialogador	nome masculino	di|a|lo|ga|[dor]
+dialogal	adjetivo	di|a|lo|[gal]
+dialogalmente	advérbio	di|a|lo|gal|[men]|te
+dialogante	adjetivo	di|a|lo|[gan]|te
+dialogar	verbo	di|a|lo|[gar]
+dialogia	nome feminino	di|a|lo|[gi]|a
+dialogicamente	advérbio	di|a|lo|gi|ca|[men]|te
+dialógico	adjetivo	di|a|[ló]|gi|co
+dialogismo	nome masculino	di|a|lo|[gis]|mo
+dialogista	nome masculino	di|a|lo|[gis]|ta
+dialogista	nome feminino	di|a|lo|[gis]|ta
+dialogístico	adjetivo	di|a|lo|[gís]|ti|co
+dialogite	nome feminino	di|a|lo|[gi]|te
+diálogo	nome masculino	di|[á]|lo|go

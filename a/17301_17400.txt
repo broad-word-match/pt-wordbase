@@ -1,0 +1,100 @@
+arcelíneo	adjetivo	ar|ce|[lí]|ne|o
+arcelíneo	nome masculino	ar|ce|[lí]|ne|o
+arcete	nome masculino	ar|[ce]|te
+arcêutide	nome feminino	ar|[cêu]|ti|de
+arceutóbio	nome masculino	ar|ceu|[tó]|bi|o
+arceutologia	nome feminino	ar|ceu|to|lo|[gi]|a
+arceutológico	adjetivo	ar|ceu|to|[ló]|gi|co
+arceutólogo	nome masculino	ar|ceu|[tó]|lo|go
+archa	nome feminino	[ar]|cha
+archeiro	nome masculino	ar|[chei]|ro
+archeta	nome feminino	ar|[che]|ta
+archete	nome masculino	ar|[che]|te
+archi	nome masculino	ar|[chi]
+archotada	nome feminino	ar|cho|[ta]|da
+archote	nome masculino	ar|[cho]|te
+archoteiro	nome masculino	ar|cho|[tei]|ro
+archotista	nome masculino	ar|cho|[tis]|ta
+archotista	nome feminino	ar|cho|[tis]|ta
+arcífero	adjetivo	ar|[cí]|fe|ro
+arcifinal	adjetivo	ar|ci|fi|[nal]
+arcifinal	nome masculino	ar|ci|fi|[nal]
+arcifinal	nome feminino	ar|ci|fi|[nal]
+arcifínio	adjetivo	ar|ci|[fí]|ni|o
+arcifínio	nome masculino	ar|ci|[fí]|ni|o
+arciforme	adjetivo	ar|ci|[for]|me
+arcipotente	adjetivo	ar|ci|po|[ten]|te
+arciprestado	nome masculino	ar|ci|pres|[ta]|do
+arciprestal	adjetivo	ar|ci|pres|[tal]
+arcipreste	nome masculino	ar|ci|[pres]|te
+arcíria	nome feminino	ar|[cí]|ri|a
+arcitenente	adjetivo	ar|ci|te|[nen]|te
+arco	nome masculino	[ar]|co
+arco da chuva	nome masculino	[ar]|co da chu|va
+arco da velha	nome masculino	[ar]|co da ve|lha
+arco de Deus	nome masculino	[ar]|co de Deus
+arco-celeste	nome masculino	ar|co-ce|[les]|te
+arco-da-velha	nome masculino	ar|co-da-ve|lha
+arco-de-pipa	nome masculino	ar|co-de-pi|pa
+arco-íris	nome masculino	ar|co-í|ris
+arco-irisado	adjetivo	ar|co-i|ri|[sa]|do
+arco-irisar	verbo	ar|co-i|ri|[sar]
+arco-verde	nome masculino	ar|co-ver|de
+arcobotante	nome masculino	ar|co|bo|[tan]|te
+arcoense	adjetivo	ar|co|[en]|se
+arcoense	nome masculino	ar|co|[en]|se
+arcoense	nome feminino	ar|co|[en]|se
+arcolim	nome masculino	ar|co|[lim]
+arcontado	nome masculino	ar|con|[ta]|do
+arcontaria	nome feminino	ar|con|ta|[ri]|a
+arconte	nome masculino	ar|[con]|te
+arcôntico	adjetivo	ar|[côn]|ti|co
+arcôntico	nome masculino	ar|[côn]|ti|co
+arcoptose	nome feminino	ar|cop|[to]|se
+arcorragia	nome feminino	ar|cor|ra|[gi]|a
+arcorreia	nome feminino	ar|cor|[rei]|a
+arcorreico	adjetivo	ar|cor|[rei]|co
+arcose	nome feminino	ar|[co]|se
+arcoso	adjetivo	ar|[co]|so
+arcoso	nome masculino	ar|[co]|so
+arcossólio	nome masculino	ar|cos|[só]|li|o
+arcózio	nome masculino	ar|[có]|zi|o
+arctação	nome feminino	arc|ta|[ção]
+arctar	verbo	arc|[tar]
+árctico	adjetivo	[árc]|ti|co
+árctico	nome masculino	[árc]|ti|co
+arctícola	adjetivo	arc|[tí]|co|la
+arctícola	nome feminino	arc|[tí]|co|la
+arctídeo	nome masculino	arc|[tí]|de|o
+arctocéfalo	adjetivo	arc|to|[cé]|fa|lo
+arctocéfalo	nome masculino	arc|to|[cé]|fa|lo
+arctopiteco	nome masculino	arc|to|pi|[te]|co
+arctópode	nome masculino	arc|[tó]|po|de
+arcual	adjetivo	ar|cu|[al]
+arcuar	verbo	ar|cu|[ar]
+arcubalista	nome feminino	ar|cu|ba|[lis]|ta
+arcuense	adjetivo	ar|cu|[en]|se
+arcuense	nome masculino	ar|cu|[en]|se
+arcuense	nome feminino	ar|cu|[en]|se
+arculho	nome masculino	ar|[cu]|lho
+arcunferência	nome feminino	ar|cun|fe|[rên]|ci|a
+arda	nome feminino	[ar]|da
+árdea	nome feminino	[ár]|de|a
+ardeate	adjetivo	ar|de|[a]|te
+ardeate	nome masculino	ar|de|[a]|te
+ardeate	nome feminino	ar|de|[a]|te
+ardeatino	adjetivo	ar|de|a|[ti]|no
+ardego	adjetivo	ar|[de]|go
+ardeida	nome masculino	ar|[dei]|da
+ardeida	nome masculino	ar|[dei]|da
+ardeida	adjetivo	ar|[dei]|da
+ardeídeo	adjetivo	ar|de|[í]|de|o
+ardeídeo	nome masculino	ar|de|[í]|de|o
+ardeídeo	nome masculino	ar|de|[í]|de|o
+ardelião	nome masculino	ar|de|li|[ão]
+ardência	nome feminino	ar|[dên]|ci|a
+ardente	adjetivo	ar|[den]|te
+ardentemente	advérbio	ar|den|te|[men]|te
+ardentia	nome feminino	ar|den|[ti]|a
+ardentoso	adjetivo	ar|den|[to]|so
+arder	verbo	ar|[der]

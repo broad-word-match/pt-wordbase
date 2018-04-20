@@ -1,0 +1,100 @@
+grageia	nome feminino	gra|[gei]|a
+grageu	nome masculino	gra|[geu]
+graiar	verbo	grai|[ar]
+grainçar	verbo	gra|in|[çar]
+grainço	nome masculino	gra|[in]|ço
+grainha	nome feminino	gra|[i]|nha
+graio	adjetivo	[grai]|o
+graio	nome masculino	[grai]|o
+graiócelo	adjetivo	grai|[ó]|ce|lo
+graiócelo	nome masculino	grai|[ó]|ce|lo
+grajau	nome masculino	gra|[jau]
+grajeia	nome feminino	gra|[jei]|a
+gral	nome masculino	[gral]
+gralha	nome feminino	[gra]|lha
+gralha-de-bico-vermelho	nome feminino	gra|lha-de-bi|co-ver|[me]|lho
+gralhada	nome feminino	gra|[lha]|da
+gralhador	adjetivo	gra|lha|[dor]
+gralhador	nome masculino	gra|lha|[dor]
+gralhante	adjetivo	gra|[lhan]|te
+gralhar	verbo	gra|[lhar]
+gralheada	nome feminino	gra|lhe|[a]|da
+gralheador	adjetivo	gra|lhe|a|[dor]
+gralheador	nome masculino	gra|lhe|a|[dor]
+gralhear	verbo	gra|lhe|[ar]
+gralheira	nome feminino	gra|[lhei]|ra
+gralho	nome masculino	[gra]|lho
+gram-negativo	adjetivo	gram-ne|ga|[ti]|vo
+gram-positivo	adjetivo	gram-po|si|[ti]|vo
+grama	nome feminino	[gra]|ma
+grama	nome masculino	[gra]|ma
+grama-americana	nome feminino	gra|ma-a|me|ri|[ca]|na
+grama-força	nome masculino	gra|ma-for|ça
+gramação	nome feminino	gra|ma|[ção]
+gramada	nome feminino	gra|[ma]|da
+gramadeira	nome feminino	gra|ma|[dei]|ra
+gramado	adjetivo	gra|[ma]|do
+gramado	nome masculino	gra|[ma]|do
+gramagem	nome feminino	gra|[ma]|gem
+gramalheira	nome feminino	gra|ma|[lhei]|ra
+gramanto	nome masculino	gra|[man]|to
+gramão	nome masculino	gra|[mão]
+gramar	verbo	gra|[mar]
+gramasso	nome masculino	gra|[mas]|so
+gramata	nome feminino	gra|[ma]|ta
+gramática	nome feminino	gra|[má]|ti|ca
+gramatical	adjetivo	gra|ma|ti|[cal]
+gramaticalidade	nome feminino	gra|ma|ti|ca|li|[da]|de
+gramaticalismo	nome masculino	gra|ma|ti|ca|[lis]|mo
+gramaticalização	nome feminino	gra|ma|ti|ca|li|za|[ção]
+gramaticalmente	advérbio	gra|ma|ti|cal|[men]|te
+gramaticão	nome masculino	gra|ma|ti|[cão]
+gramaticar	verbo	gra|ma|ti|[car]
+gramaticável	adjetivo	gra|ma|ti|[cá]|vel
+gramaticida	adjetivo	gra|ma|ti|[ci]|da
+gramaticida	nome masculino	gra|ma|ti|[ci]|da
+gramaticida	nome feminino	gra|ma|ti|[ci]|da
+gramaticídio	nome masculino	gra|ma|ti|[cí]|di|o
+gramaticismo	nome masculino	gra|ma|ti|[cis]|mo
+gramaticista	nome masculino	gra|ma|ti|[cis]|ta
+gramaticista	nome feminino	gra|ma|ti|[cis]|ta
+gramático	nome masculino	gra|[má]|ti|co
+gramático	adjetivo	gra|[má]|ti|co
+gramaticografia	nome feminino	gra|ma|ti|co|gra|[fi]|a
+gramaticográfico	adjetivo	gra|ma|ti|co|[grá]|fi|co
+gramaticógrafo	nome masculino	gra|ma|ti|[có]|gra|fo
+gramaticologia	nome feminino	gra|ma|ti|co|lo|[gi]|a
+gramaticológico	adjetivo	gra|ma|ti|co|[ló]|gi|co
+gramaticólogo	nome masculino	gra|ma|ti|[có]|lo|go
+gramatiqueiro	nome masculino	gra|ma|ti|[quei]|ro
+gramatiquice	nome feminino	gra|ma|ti|[qui]|ce
+gramatiquismo	nome masculino	gra|ma|ti|[quis]|mo
+gramatista	nome masculino	gra|ma|[tis]|ta
+gramatista	nome feminino	gra|ma|[tis]|ta
+gramatite	nome feminino	gra|ma|[ti]|te
+gramatologia	nome feminino	gra|ma|to|lo|[gi]|a
+gramatológico	adjetivo	gra|ma|to|[ló]|gi|co
+grameal	nome masculino	gra|me|[al]
+grameiras	nome feminino	gra|[mei]|ras
+gramilo	nome masculino	gra|[mi]|lo
+gramínea	nome feminino	gra|[mí]|ne|a
+gramínea	nome feminino	gra|[mí]|ne|a
+gramíneo	adjetivo	gra|[mí]|ne|o
+graminhar	verbo	gra|mi|[nhar]
+graminheira	nome feminino	gra|mi|[nhei]|ra
+graminho	nome masculino	gra|[mi]|nho
+graminícola	adjetivo	gra|mi|[ní]|co|la
+graminifólio	adjetivo	gra|mi|ni|[fó]|li|o
+graminiforme	adjetivo	gra|mi|ni|[for]|me
+graminipolpo	nome masculino	gra|mi|ni|[pol]|po
+graminívoro	adjetivo	gra|mi|[ní]|vo|ro
+graminoso	adjetivo	gra|mi|[no]|so
+gramite	nome feminino	gra|[mi]|te
+gramoeira	nome feminino	gra|mo|[ei]|ra
+gramofone	nome masculino	gra|mo|[fo]|ne
+gramométrico	adjetivo	gra|mo|[mé]|tri|co
+gramómetro	nome masculino	gra|[mó]|me|tro
+gramômetro	nome masculino	gra|[mô]|me|tro
+gramondé	nome masculino	gra|mon|[dé]
+gramonilhos	nome masculino	gra|mo|[ni]|lhos
+gramozilhos	nome masculino	gra|mo|[zi]|lhos

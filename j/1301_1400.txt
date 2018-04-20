@@ -1,0 +1,100 @@
+jupindá	nome masculino	ju|pin|[dá]
+jupiteriano	adjetivo	ju|pi|te|ri|[a]|no
+juquiá	nome masculino	ju|qui|[á]
+juquiri	nome masculino	ju|qui|[ri]
+juquiriaçu	nome masculino	ju|qui|ri|a|[çu]
+jura	nome feminino	[ju]|ra
+jurada	nome feminino	ju|[ra]|da
+jurado	adjetivo	ju|[ra]|do
+jurado	nome masculino	ju|[ra]|do
+jurador	adjetivo	ju|ra|[dor]
+jurador	nome masculino	ju|ra|[dor]
+juraico	adjetivo	ju|[rai]|co
+juraico	nome masculino	ju|[rai]|co
+juramentado	adjetivo	ju|ra|men|[ta]|do
+juramentar	verbo	ju|ra|men|[tar]
+juramenteiro	adjetivo	ju|ra|men|[tei]|ro
+juramento	nome masculino	ju|ra|[men]|to
+jurana	nome feminino	ju|[ra]|na
+jurão	nome masculino	ju|[rão]
+jurar	verbo	ju|[rar]
+jurará	nome masculino	ju|ra|[rá]
+jurássico	adjetivo	ju|[rás]|si|co
+jurássico	nome masculino	ju|[rás]|si|co
+juratório	adjetivo	ju|ra|[tó]|ri|o
+jurdo	nome masculino	[jur]|do
+jurema	nome feminino	ju|[re]|ma
+juremal	nome masculino	ju|re|[mal]
+juremeiro	nome masculino	ju|re|[mei]|ro
+júri	nome masculino	[jú]|ri
+juridicamente	advérbio	ju|ri|di|ca|[men]|te
+juridicidade	nome feminino	ju|ri|di|ci|[da]|de
+jurídico	adjetivo	ju|[rí]|di|co
+jurídico-administrativo	adjetivo	ju|rí|di|co-ad|mi|nis|tra|[ti]|vo
+jurídico-constitucional	adjetivo	ju|rí|di|co-cons|ti|tu|ci|o|[nal]
+jurídico-legal	adjetivo	ju|rí|di|co-le|[gal]
+jurídico-político	adjetivo	ju|rí|di|co-po|[lí]|ti|co
+jurisconsulente	nome masculino	ju|ris|con|su|[len]|te
+jurisconsulente	nome feminino	ju|ris|con|su|[len]|te
+jurisconsulta	nome feminino	ju|ris|con|[sul]|ta
+jurisconsulto	nome masculino	ju|ris|con|[sul]|to
+jurisdição	nome feminino	ju|ris|di|[ção]
+jurisdicionado	nome masculino	ju|ris|di|ci|o|[na]|do
+jurisdicional	adjetivo	ju|ris|di|ci|o|[nal]
+jurisdicionante	nome masculino	ju|ris|di|ci|o|[nan]|te
+jurisdicionante	nome feminino	ju|ris|di|ci|o|[nan]|te
+jurisdicionar	verbo	ju|ris|di|ci|o|[nar]
+jurisperícia	nome feminino	ju|ris|pe|[rí]|ci|a
+jurisperito	nome masculino	ju|ris|pe|[ri]|to
+jurisprudência	nome feminino	ju|ris|pru|[dên]|ci|a
+jurisprudencial	adjetivo	ju|ris|pru|den|ci|[al]
+jurisprudente	nome masculino	ju|ris|pru|[den]|te
+jurista	nome masculino	ju|[ris]|ta
+jurista	nome feminino	ju|[ris]|ta
+jurístico	adjetivo	ju|[rís]|ti|co
+juriti	nome masculino	ju|ri|[ti]
+juro	nome masculino	[ju]|ro
+juru	nome masculino	ju|[ru]
+juruaçu	nome masculino	ju|ru|a|[çu]
+jurubeba	nome feminino	ju|ru|[be]|ba
+jurubeba-menor	nome feminino	ju|ru|be|ba-me|[nor]
+jurueba	nome masculino	ju|ru|[e]|ba
+jurujuba	nome feminino	ju|ru|[ju]|ba
+jurumbeba	nome feminino	ju|rum|[be]|ba
+juruna	adjetivo	ju|[ru]|na
+juruna	nome masculino	ju|[ru]|na
+juruna	nome feminino	ju|[ru]|na
+jurunu	nome masculino	ju|ru|[nu]
+juruparã	nome feminino	ju|ru|pa|[rã]
+jurupari	nome masculino	ju|ru|pa|[ri]
+jurupariboia	nome feminino	ju|ru|pa|ri|[boi]|a
+jurupeba	nome feminino	ju|ru|[pe]|ba
+jurupema	nome feminino	ju|ru|[pe]|ma
+jurupencu	nome masculino	ju|ru|pen|[cu]
+jurupetinga	nome feminino	ju|ru|pe|[tin]|ga
+jurupiranga	nome feminino	ju|ru|pi|[ran]|ga
+jurupoca	nome feminino	ju|ru|[po]|ca
+juruquá	nome feminino	ju|ru|[quá]
+jururá	nome feminino	ju|ru|[rá]
+jururu	adjetivo	ju|ru|[ru]
+jurutauí	nome masculino	ju|ru|tau|[í]
+juruté	nome masculino	ju|ru|[té]
+juruti	nome masculino	ju|ru|[ti]
+juruva	nome feminino	ju|[ru]|va
+juruviara	nome feminino	ju|ru|vi|[a]|ra
+jus	nome masculino	[jus]
+jusano	adjetivo	ju|[sa]|no
+jusante	nome feminino	ju|[san]|te
+jusão	adjetivo	ju|[são]
+juso	advérbio	[ju]|so
+jussivo	nome masculino	jus|[si]|vo
+jussivo	adjetivo	jus|[si]|vo
+justa	nome feminino	[jus]|ta
+justador	adjetivo	jus|ta|[dor]
+justador	nome masculino	jus|ta|[dor]
+justafluvial	adjetivo	jus|ta|flu|vi|[al]
+justalinear	adjetivo	jus|ta|li|ne|[ar]
+justalinearmente	advérbio	jus|ta|li|ne|ar|[men]|te
+justamente	advérbio	jus|ta|[men]|te
+justapor	verbo	jus|ta|[por]
+justaposição	nome feminino	jus|ta|po|si|[ção]

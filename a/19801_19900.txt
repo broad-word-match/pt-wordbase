@@ -1,0 +1,100 @@
+asperugem	nome feminino	as|pe|[ru]|gem
+asperugo	nome masculino	as|pe|[ru]|go
+aspérula	nome feminino	as|[pé]|ru|la
+aspetável	adjetivo	as|pe|[tá]|vel
+aspeto	nome masculino	as|[pe]|to
+aspetual	adjetivo	as|pe|tu|[al]
+aspiciência	nome feminino	as|pi|ci|[ên]|ci|a
+aspiciente	adjetivo	as|pi|ci|[en]|te
+áspide	nome masculino	[ás]|pi|de
+áspide	nome feminino	[ás]|pi|de
+aspidiáceo	adjetivo	as|pi|di|[á]|ce|o
+aspidiado	adjetivo	as|pi|di|[a]|do
+aspídio	nome masculino	as|[pí]|di|o
+aspidiota	nome masculino	as|pi|di|[o]|ta
+aspidisca	nome feminino	as|pi|[dis]|ca
+aspidistra	nome feminino	as|pi|[dis]|tra
+aspidocéfalo	nome masculino	as|pi|do|[cé]|fa|lo
+aspidocéfalo	adjetivo	as|pi|do|[cé]|fa|lo
+aspidóforo	adjetivo	as|pi|[dó]|fo|ro
+aspidogastro	nome masculino	as|pi|do|[gas]|tro
+aspidoglosso	nome masculino	as|pi|do|[glos]|so
+aspidólito	nome masculino	as|pi|[dó]|li|to
+aspidosperma	nome masculino	as|pi|dos|[per]|ma
+aspidospermina	nome feminino	as|pi|dos|per|[mi]|na
+aspidospermo	nome masculino	as|pi|dos|[per]|mo
+aspiração	nome feminino	as|pi|ra|[ção]
+aspirada	nome feminino	as|pi|[ra]|da
+aspiradamente	advérbio	as|pi|ra|da|[men]|te
+aspirado	adjetivo	as|pi|[ra]|do
+aspirador	adjetivo	as|pi|ra|[dor]
+aspirador	nome masculino	as|pi|ra|[dor]
+aspirante	adjetivo	as|pi|[ran]|te
+aspirante	nome masculino	as|pi|[ran]|te
+aspirante	nome feminino	as|pi|[ran]|te
+aspirar	verbo	as|pi|[rar]
+aspirativo	adjetivo	as|pi|ra|[ti]|vo
+aspiratório	adjetivo	as|pi|ra|[tó]|ri|o
+aspirável	adjetivo	as|pi|[rá]|vel
+aspirina	nome feminino	as|pi|[ri]|na
+aspleniáceo	adjetivo	as|ple|ni|[á]|ce|o
+asplênio	nome masculino	as|[plê]|ni|o
+asplénio	nome masculino	as|[plé]|ni|o
+asplenioide	adjetivo	as|ple|ni|[oi]|de
+aspondílico	adjetivo	as|pon|[dí]|li|co
+aspredo	nome masculino	as|[pre]|do
+aspudo	adjetivo	as|[pu]|do
+asquerosamente	advérbio	as|que|ro|sa|[men]|te
+asquerosidade	nome feminino	as|que|ro|si|[da]|de
+asqueroso	adjetivo	as|que|[ro]|so
+asquidoblásteo	adjetivo	as|qui|do|[blás]|te|o
+assa	nome feminino	[as]|sa
+assa-doce	nome feminino	as|sa-do|ce
+assa-dúlcis	nome feminino	as|sa-dúl|cis
+assa-fétida	nome feminino	as|sa-fé|ti|da
+assa-peixe	nome masculino	as|sa-pei|xe
+assaborar	verbo	as|sa|bo|[rar]
+assaborear	verbo	as|sa|bo|re|[ar]
+assacadilha	nome feminino	as|sa|ca|[di]|lha
+assacador	adjetivo	as|sa|ca|[dor]
+assacador	nome masculino	as|sa|ca|[dor]
+assacar	verbo	as|sa|[car]
+assacate	nome masculino	as|sa|[ca]|te
+assada	nome feminino	as|[sa]|da
+assadeira	nome feminino	as|sa|[dei]|ra
+assadeiro	nome masculino	as|sa|[dei]|ro
+assadeiro	adjetivo	as|sa|[dei]|ro
+assado	nome masculino	as|[sa]|do
+assado	adjetivo	as|[sa]|do
+assador	nome masculino	as|sa|[dor]
+assadora	nome feminino	as|sa|[do]|ra
+assadura	nome feminino	as|sa|[du]|ra
+assafiado	adjetivo	as|sa|fi|[a]|do
+assalariação	nome feminino	as|sa|la|ri|a|[ção]
+assalariada	nome feminino	as|sa|la|ri|[a]|da
+assalariado	nome masculino	as|sa|la|ri|[a]|do
+assalariado	adjetivo	as|sa|la|ri|[a]|do
+assalariador	nome masculino	as|sa|la|ri|a|[dor]
+assalariamento	nome masculino	as|sa|la|ri|a|[men]|to
+assalariar	verbo	as|sa|la|ri|[ar]
+assalganhar	verbo	as|sal|ga|[nhar]
+assalmoado	adjetivo	as|sal|mo|[a]|do
+assalmonado	adjetivo	as|sal|mo|[na]|do
+assaloiado	adjetivo	as|sa|loi|[a]|do
+assaloiar	verbo	as|sa|loi|[ar]
+assaltada	nome feminino	as|sal|[ta]|da
+assaltado	adjetivo	as|sal|[ta]|do
+assaltador	adjetivo	as|sal|ta|[dor]
+assaltador	nome masculino	as|sal|ta|[dor]
+assaltante	adjetivo	as|sal|[tan]|te
+assaltante	nome masculino	as|sal|[tan]|te
+assaltante	nome feminino	as|sal|[tan]|te
+assaltar	verbo	as|sal|[tar]
+assaltável	adjetivo	as|sal|[tá]|vel
+assaltear	verbo	as|sal|te|[ar]
+assalto	nome masculino	as|[sal]|to
+assamara	nome feminino	as|sa|[ma]|ra
+assambenitado	adjetivo	as|sam|be|ni|[ta]|do
+assamento	nome masculino	as|sa|[men]|to
+assamês	nome masculino	as|sa|[mês]
+assamês	adjetivo	as|sa|[mês]

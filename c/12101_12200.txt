@@ -1,0 +1,100 @@
+coelho	nome masculino	co|[e]|lho
+coempção	nome feminino	co|emp|[ção]
+coenha	nome feminino	co|[e]|nha
+coentrada	nome feminino	co|en|[tra]|da
+coentral	nome masculino	co|en|[tral]
+coentrilho	nome masculino	co|en|[tri]|lho
+coentro	nome masculino	co|[en]|tro
+coenzima	nome feminino	co|en|[zi]|ma
+coequação	nome feminino	co|e|qua|[ção]
+coerção	nome feminino	co|er|[ção]
+coercibilidade	nome feminino	co|er|ci|bi|li|[da]|de
+coercímetro	nome masculino	co|er|[cí]|me|tro
+coercitivamente	advérbio	co|er|ci|ti|va|[men]|te
+coercitividade	nome feminino	co|er|ci|ti|vi|[da]|de
+coercitivo	adjetivo	co|er|ci|[ti]|vo
+coercivamente	advérbio	co|er|ci|va|[men]|te
+coercível	adjetivo	co|er|[cí]|vel
+coercividade	nome feminino	co|er|ci|vi|[da]|de
+coercivo	nome masculino	co|er|[ci]|vo
+coercivo	adjetivo	co|er|[ci]|vo
+coeremita	nome masculino	co|e|re|[mi]|ta
+coeremita	nome feminino	co|e|re|[mi]|ta
+coerência	nome feminino	co|e|[rên]|ci|a
+coerente	adjetivo	co|e|[ren]|te
+coerentemente	advérbio	co|e|ren|te|[men]|te
+coerir	verbo	co|e|[rir]
+coesão	nome feminino	co|e|[são]
+coesivo	adjetivo	co|e|[si]|vo
+coeso	adjetivo	co|[e]|so
+coesor	adjetivo	co|e|[sor]
+coesor	nome masculino	co|e|[sor]
+coesposa	nome feminino	co|es|[po]|sa
+coesposo	nome masculino	coes|[po]|so
+coessência	nome feminino	co|es|[sên]|ci|a
+coessencial	adjetivo	co|es|sen|ci|[al]
+coessencialmente	advérbio	co|es|sen|ci|al|[men]|te
+coestaduano	adjetivo	co|es|ta|du|[a]|no
+coestender	verbo	co|es|ten|[der]
+coetaneamente	advérbio	co|e|ta|ne|a|[men]|te
+coetaneidade	nome feminino	co|e|ta|nei|[da]|de
+coetâneo	adjetivo	co|e|[tâ]|ne|o
+coeternidade	nome feminino	co|e|ter|ni|[da]|de
+coeterno	adjetivo	co|e|[ter]|no
+coeva	nome feminino	co|[e]|va
+coevangelista	nome masculino	co|e|van|ge|[lis]|ta
+coevidade	nome feminino	co|e|vi|[da]|de
+coevo	adjetivo	co|[e]|vo
+coevo	nome masculino	co|[e]|vo
+coevolução	nome feminino	co|e|vo|lu|[ção]
+coexistência	nome feminino	co|e|xis|[tên]|ci|a
+coexistente	adjetivo	co|e|xis|[ten]|te
+coexistir	verbo	co|e|xis|[tir]
+cofactor	nome masculino	co|fac|[tor]
+cofator	nome masculino	co|fa|[tor]
+cofe	nome masculino	[co]|fe
+cofermento	nome masculino	co|fer|[men]|to
+cofiador	nome masculino	co|fi|a|[dor]
+cofiadora	nome feminino	co|fi|a|[do]|ra
+cofiar	verbo	co|fi|[ar]
+cofinanciado	adjetivo	co|fi|nan|ci|[a]|do
+cofinanciador	nome masculino	co|fi|nan|ci|a|[dor]
+cofinanciador	adjetivo	co|fi|nan|ci|a|[dor]
+cofinanciadora	nome feminino	co|fi|nan|ci|a|[do]|ra
+cofinanciamento	nome masculino	co|fi|nan|ci|a|[men]|to
+cofinanciar	verbo	co|fi|nan|ci|[ar]
+cofinho	nome masculino	co|[fi]|nho
+cofo	nome masculino	[co]|fo
+cofose	nome feminino	co|[fo]|se
+cofragem	nome feminino	co|[fra]|gem
+cofre	nome masculino	[co]|fre
+cofundador	nome masculino	co|fun|da|[dor]
+cogeração	nome feminino	co|ge|ra|[ção]
+cogerência	nome feminino	co|ge|[rên]|ci|a
+cogerente	nome masculino	co|ge|[ren]|te
+cogerente	nome feminino	co|ge|[ren]|te
+cogerir	verbo	co|ge|[rir]
+cogestão	nome feminino	co|ges|[tão]
+cogitabilidade	nome feminino	co|gi|ta|bi|li|[da]|de
+cogitabundo	adjetivo	co|gi|ta|[bun]|do
+cogitação	nome feminino	co|gi|ta|[ção]
+cogitar	verbo	co|gi|[tar]
+cogitar	nome masculino	co|gi|[tar]
+cogitativamente	advérbio	co|gi|ta|ti|va|[men]|te
+cogitativo	adjetivo	co|gi|ta|[ti]|vo
+cogitável	adjetivo	co|gi|[tá]|vel
+cognação	nome feminino	cog|na|[ção]
+cognado	adjetivo	cog|[na]|do
+cognado	nome masculino	cog|[na]|do
+cognático	adjetivo	cog|[ná]|ti|co
+cognato	adjetivo	cog|[na]|to
+cognato	nome masculino	cog|[na]|to
+cognição	nome feminino	cog|ni|[ção]
+cognitivamente	advérbio	cog|ni|ti|va|[men]|te
+cognitivismo	nome masculino	cog|ni|ti|[vis]|mo
+cognitivista	adjetivo	cog|ni|ti|[vis]|ta
+cognitivista	nome masculino	cog|ni|ti|[vis]|ta
+cognitivista	nome feminino	cog|ni|ti|[vis]|ta
+cognitivo	adjetivo	cog|ni|[ti]|vo
+cógnito	adjetivo	[cóg]|ni|to
+cognome	nome masculino	cog|[no]|me

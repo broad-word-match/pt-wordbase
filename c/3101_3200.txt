@@ -1,0 +1,100 @@
+candicante	nome feminino	can|di|[can]|te
+cândida	nome feminino	[cân]|di|da
+candidamente	advérbio	can|di|da|[men]|te
+candidante	adjetivo	can|di|[dan]|te
+candidata	nome feminino	can|di|[da]|ta
+candidatar	verbo	can|di|da|[tar]
+candidato	nome masculino	can|di|[da]|to
+candidatura	nome feminino	can|di|da|[tu]|ra
+candidez	nome feminino	can|di|[dez]
+candideza	nome feminino	can|di|[de]|za
+candidíase	nome feminino	can|di|[dí]|a|se
+candidizar	verbo	can|di|di|[zar]
+cândido	adjetivo	[cân]|di|do
+candidose	nome feminino	can|di|[do]|se
+cândil	adjetivo	[cân]|dil
+candil	nome masculino	can|[dil]
+candilar	verbo	can|di|[lar]
+candimba	nome masculino	can|[dim]|ba
+candinga	nome feminino	can|[din]|ga
+candinha	nome feminino	can|[di]|nha
+candiota	adjetivo	can|di|[o]|ta
+candiota	nome masculino	can|di|[o]|ta
+candiota	nome feminino	can|di|[o]|ta
+candiru	nome masculino	can|di|[ru]
+cando	nome masculino	[can]|do
+candolar	verbo	can|do|[lar]
+candólea	nome feminino	can|[dó]|le|a
+candombá	nome masculino	can|dom|[bá]
+candombe	nome masculino	can|[dom]|be
+candomblé	nome masculino	can|dom|[blé]
+candomblezeiro	nome masculino	can|dom|ble|[zei]|ro
+candonga	nome feminino	can|[don]|ga
+candonga	nome masculino	can|[don]|ga
+candongagem	nome feminino	can|don|[ga]|gem
+candongar	verbo	can|don|[gar]
+candongo	nome masculino	can|[don]|go
+candongueira	nome feminino	can|don|[guei]|ra
+candongueiro	adjetivo	can|don|[guei]|ro
+candongueiro	nome masculino	can|don|[guei]|ro
+candonguice	nome feminino	can|don|[gui]|ce
+candor	nome masculino	can|[dor]
+candorça	nome feminino	can|[dor]|ça
+candoroso	adjetivo	can|do|[ro]|so
+candua	nome feminino	can|[du]|a
+candura	nome feminino	can|[du]|ra
+candurim	nome masculino	can|du|[rim]
+canear	verbo	ca|ne|[ar]
+caneca	nome feminino	ca|[ne]|ca
+canecada	nome feminino	ca|ne|[ca]|da
+caneco	nome masculino	ca|[ne]|co
+caneco	adjetivo	ca|[ne]|co
+canéfora	nome feminino	ca|[né]|fo|ra
+caneira	nome feminino	ca|[nei]|ra
+caneiro	nome masculino	ca|[nei]|ro
+caneja	nome feminino	ca|[ne]|ja
+canejo	adjetivo	ca|[ne]|jo
+canejo	nome masculino	ca|[ne]|jo
+canela	nome feminino	ca|[ne]|la
+canela	nome masculino	ca|[ne]|la
+canela	adjetivo	ca|[ne]|la
+canela-fina	nome masculino	ca|ne|la-fi|na
+canela-fina	nome feminino	ca|ne|la-fi|na
+canela-fina	adjetivo	ca|ne|la-fi|na
+canelácea	nome feminino	ca|ne|[lá]|ce|a
+caneláceo	adjetivo	ca|ne|[lá]|ce|o
+canelada	nome feminino	ca|ne|[la]|da
+canelado	adjetivo	ca|ne|[la]|do
+canelado	nome masculino	ca|ne|[la]|do
+caneladura	nome feminino	ca|ne|la|[du]|ra
+canelagem	nome feminino	ca|ne|[la]|gem
+canelão	adjetivo	ca|ne|[lão]
+canelão	nome masculino	ca|ne|[lão]
+canelar	verbo	ca|ne|[lar]
+caneleira	nome feminino	ca|ne|[lei]|ra
+caneleirinho	nome masculino	ca|ne|lei|[ri]|nho
+caneleiro	nome masculino	ca|ne|[lei]|ro
+caneleiro	adjetivo	ca|ne|[lei]|ro
+canelejo	nome masculino	ca|ne|[le]|jo
+canelha	nome feminino	ca|[ne]|lha
+canelho	nome masculino	ca|[ne]|lho
+canelim	nome masculino	ca|ne|[lim]
+canelina	nome feminino	ca|ne|[li]|na
+canelinha	nome masculino	ca|ne|[li]|nha
+canelo	nome masculino	ca|[ne]|lo
+canelone	nome masculino	ca|ne|[lo]|ne
+caneludo	adjetivo	ca|ne|[lu]|do
+canelura	nome feminino	ca|ne|[lu]|ra
+canema	nome feminino	ca|[ne]|ma
+canense	adjetivo	ca|[nen]|se
+canense	nome masculino	ca|[nen]|se
+canense	nome feminino	ca|[nen]|se
+canepeteira	nome feminino	ca|ne|pe|[tei]|ra
+canequi	nome masculino	ca|ne|[qui]
+caneta	nome feminino	ca|[ne]|ta
+caneta-tinteiro	nome feminino	ca|ne|ta-tin|[tei]|ro
+canevão	nome masculino	ca|ne|[vão]
+canevás	nome masculino	ca|ne|[vás]
+câneve	nome masculino	[câ]|ne|ve
+canfano	nome masculino	can|[fa]|no
+canfénico	adjetivo	can|[fé]|ni|co

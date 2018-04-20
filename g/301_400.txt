@@ -1,0 +1,100 @@
+galactógeno	adjetivo	ga|lac|[tó]|ge|no
+galactógeno	nome masculino	ga|lac|[tó]|ge|no
+galactografia	nome feminino	ga|lac|to|gra|[fi]|a
+galactográfico	adjetivo	ga|lac|to|[grá]|fi|co
+galactoide	adjetivo	ga|lac|[toi]|de
+galactologia	nome feminino	ga|lac|to|lo|[gi]|a
+galactológico	adjetivo	ga|lac|to|[ló]|gi|co
+galactólogo	nome masculino	ga|lac|[tó]|lo|go
+galactometria	nome feminino	ga|lac|to|me|[tri]|a
+galactométrico	adjetivo	ga|lac|to|[mé]|tri|co
+galactômetro	nome masculino	ga|lac|[tô]|me|tro
+galactómetro	nome masculino	ga|lac|[tó]|me|tro
+galactopoese	nome feminino	ga|lac|to|po|[e]|se
+galactopoético	adjetivo	ga|lac|to|po|[é]|ti|co
+galactoposia	nome feminino	ga|lac|to|po|[si]|a
+galactorreia	nome feminino	ga|lac|tor|[rei]|a
+galactorreico	adjetivo	ga|lac|tor|[rei]|co
+galactoscopia	nome feminino	ga|lac|tos|co|[pi]|a
+galactoscópio	adjetivo	ga|lac|tos|[có]|pi|o
+galactoscópio	nome masculino	ga|lac|tos|[có]|pi|o
+galactose	nome feminino	ga|lac|[to]|se
+galactosúria	nome feminino	ga|lac|to|[sú]|ri|a
+galactotísica	nome feminino	ga|lac|to|[tí]|si|ca
+galactúria	nome feminino	ga|lac|[tú]|ri|a
+galactúrico	adjetivo	ga|lac|[tú]|ri|co
+galado	adjetivo	ga|[la]|do
+galadura	nome feminino	ga|la|[du]|ra
+galafura	adjetivo	ga|la|[fu]|ra
+galafura	nome masculino	ga|la|[fu]|ra
+galagala	nome masculino	ga|la|[ga]|la
+galagala	nome feminino	ga|la|[ga]|la
+galagídeo	nome masculino	ga|la|[gí]|de|o
+galagídeo	adjetivo	ga|la|[gí]|de|o
+gálago	nome masculino	[gá]|la|go
+galaica	nome feminino	ga|[lai]|ca
+galaico	adjetivo	ga|[lai]|co
+galaico	nome masculino	ga|[lai]|co
+galaico-duriense	adjetivo	ga|lai|co-du|ri|[en]|se
+galaico-português	nome masculino	ga|lai|co-por|tu|[guês]
+galaico-português	adjetivo	ga|lai|co-por|tu|[guês]
+galaio	nome masculino	ga|[lai]|o
+galalau	nome masculino	ga|la|[lau]
+galalite	nome feminino	ga|la|[li]|te
+galamatias	nome masculino	ga|la|ma|[ti]|as
+galana	nome feminino	ga|[la]|na
+galanear	verbo	ga|la|ne|[ar]
+galanga	nome feminino	ga|[lan]|ga
+galangômbia	nome feminino	ga|lan|[gôm]|bi|a
+galangue	nome masculino	ga|[lan]|gue
+galangue	adjetivo	ga|[lan]|gue
+galangundo	nome masculino	ga|lan|[gun]|do
+galanice	nome feminino	ga|la|[ni]|ce
+galantaria	nome feminino	ga|lan|ta|[ri]|a
+galante	adjetivo	ga|[lan]|te
+galante	nome masculino	ga|[lan]|te
+galante	nome feminino	ga|[lan]|te
+galanteador	adjetivo	ga|lan|te|a|[dor]
+galanteador	nome masculino	ga|lan|te|a|[dor]
+galanteadora	nome feminino	ga|lan|te|a|[do]|ra
+galantear	verbo	ga|lan|te|[ar]
+galanteável	adjetivo	ga|lan|te|[á]|vel
+galanteio	nome masculino	ga|lan|[tei]|o
+galantemente	advérbio	ga|lan|te|[men]|te
+galanteria	nome feminino	ga|lan|te|[ri]|a
+galanteza	nome feminino	ga|lan|[te]|za
+galantina	nome feminino	ga|lan|[ti]|na
+galantine	nome feminino	ga|lan|[ti]|ne
+galão	nome masculino	ga|[lão]
+galápago	nome masculino	ga|[lá]|pa|go
+galapo	nome masculino	ga|[la]|po
+galar	verbo	ga|[lar]
+galardão	nome masculino	ga|lar|[dão]
+galardoado	adjetivo	ga|lar|do|[a]|do
+galardoador	adjetivo	ga|lar|do|a|[dor]
+galardoador	nome masculino	ga|lar|do|a|[dor]
+galardoamento	nome masculino	ga|lar|do|a|[men]|to
+galardoar	verbo	ga|lar|do|[ar]
+galaria	nome feminino	ga|la|[ri]|a
+galarim	nome masculino	ga|la|[rim]
+galaripo	nome masculino	ga|la|[ri]|po
+galarote	nome masculino	ga|la|[ro]|te
+galarucho	nome masculino	ga|la|[ru]|cho
+gálata	nome masculino	[gá]|la|ta
+gálata	adjetivo	[gá]|la|ta
+gálata	nome feminino	[gá]|la|ta
+galateia	nome feminino	ga|la|[tei]|a
+galato	nome masculino	ga|[la]|to
+galáxia	nome feminino	ga|[lá]|xi|a
+galazia	nome feminino	ga|la|[zi]|a
+galazime	nome masculino	ga|la|[zi]|me
+gálbano	nome masculino	[gál]|ba|no
+gálbula	nome feminino	[gál]|bu|la
+galbulídeo	nome masculino	gal|bu|[lí]|de|o
+gálbulo	nome masculino	[gál]|bu|lo
+galcónia	nome feminino	gal|[có]|ni|a
+galcônia	nome feminino	gal|[cô]|ni|a
+galdéria	nome feminino	gal|[dé]|ri|a
+galderiar	verbo	gal|de|ri|[ar]
+galdério	nome masculino	gal|[dé]|ri|o
+galdério	adjetivo	gal|[dé]|ri|o

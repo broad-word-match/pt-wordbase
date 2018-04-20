@@ -1,0 +1,100 @@
+volte-face	nome masculino	vol|te-fa|ce
+volteação	nome feminino	vol|te|a|[ção]
+volteada	nome feminino	vol|te|[a]|da
+volteador	adjetivo	vol|te|a|[dor]
+volteador	nome masculino	vol|te|a|[dor]
+volteadura	nome feminino	vol|te|a|[du]|ra
+volteante	adjetivo	vol|te|[an]|te
+voltear	verbo	vol|te|[ar]
+volteio	nome masculino	vol|[tei]|o
+volteiro	adjetivo	vol|[tei]|ro
+volteiro	nome masculino	vol|[tei]|ro
+voltejar	verbo	vol|te|[jar]
+voltimétrico	adjetivo	vol|ti|[mé]|tri|co
+voltímetro	nome masculino	vol|[tí]|me|tro
+voltiniense	adjetivo	vol|ti|ni|[en]|se
+voltiniense	nome masculino	vol|ti|ni|[en]|se
+voltiniense	nome feminino	vol|ti|ni|[en]|se
+vóltio	nome masculino	[vól]|ti|o
+vóltio-ampério	nome masculino	vól|ti|o-am|pé|ri|o
+vóltio-culômbio	nome masculino	vól|ti|o-cu|lôm|bi|o
+voltívolo	adjetivo	vol|[tí]|vo|lo
+voltométrico	adjetivo	vol|to|[mé]|tri|co
+voltômetro	nome masculino	vol|[tô]|me|tro
+voltómetro	nome masculino	vol|[tó]|me|tro
+volturno	nome masculino	vol|[tur]|no
+vóltzia	nome feminino	[vólt]|zi|a
+volúbil	adjetivo	vo|[lú]|bil
+volubilado	adjetivo	vo|lu|bi|[la]|do
+volubilidade	nome feminino	vo|lu|bi|li|[da]|de
+volubilismo	nome masculino	vo|lu|bi|[lis]|mo
+volucre	adjetivo	vo|[lu]|cre
+vólucre	adjetivo	[vó]|lu|cre
+volumaço	nome masculino	vo|lu|[ma]|ço
+volumão	nome masculino	vo|lu|[mão]
+volumar	adjetivo	vo|lu|[mar]
+volumar	verbo	vo|lu|[mar]
+volume	nome masculino	vo|[lu]|me
+volumetria	nome feminino	vo|lu|me|[tri]|a
+volumetricamente	advérbio	vo|lu|me|tri|ca|[men]|te
+volumétrico	adjetivo	vo|lu|[mé]|tri|co
+volúmetro	nome masculino	vo|[lú]|me|tro
+volúmico	adjetivo	vo|[lú]|mi|co
+voluminador	nome masculino	vo|lu|mi|na|[dor]
+voluminoso	adjetivo	vo|lu|mi|[no]|so
+volumosamente	advérbio	vo|lu|mo|sa|[men]|te
+volumoso	adjetivo	vo|lu|[mo]|so
+voluntareza	nome feminino	vo|lun|ta|[re]|za
+voluntária	nome feminino	vo|lun|[tá]|ri|a
+voluntariado	nome masculino	vo|lun|ta|ri|[a]|do
+voluntariamente	advérbio	vo|lun|ta|ri|a|[men]|te
+voluntariar	verbo	vo|lun|ta|ri|[ar]
+voluntariedade	nome feminino	vo|lun|ta|ri|e|[da]|de
+voluntário	nome masculino	vo|lun|[tá]|ri|o
+voluntário	adjetivo	vo|lun|[tá]|ri|o
+voluntariosa	nome feminino	vo|lun|ta|ri|[o]|sa
+voluntariosamente	advérbio	vo|lun|ta|ri|o|sa|[men]|te
+voluntariosidade	nome feminino	vo|lun|ta|ri|o|si|[da]|de
+voluntarioso	adjetivo	vo|lun|ta|ri|[o]|so
+voluntarioso	nome masculino	vo|lun|ta|ri|[o]|so
+voluntarismo	nome masculino	vo|lun|ta|[ris]|mo
+voluntarista	nome masculino	vo|lun|ta|[ris]|ta
+voluntarista	adjetivo	vo|lun|ta|[ris]|ta
+voluntarista	nome feminino	vo|lun|ta|[ris]|ta
+volúpia	nome feminino	vo|[lú]|pi|a
+voluptade	nome feminino	vo|lup|[ta]|de
+voluptuar	verbo	vo|lup|tu|[ar]
+voluptuariamente	advérbio	vo|lup|tu|a|ri|a|[men]|te
+voluptuário	adjetivo	vo|lup|tu|[á]|ri|o
+voluptuosa	nome feminino	vo|lup|tu|[o]|sa
+voluptuosamente	advérbio	vo|lup|tu|o|sa|[men]|te
+voluptuosidade	nome feminino	vo|lup|tu|o|si|[da]|de
+voluptuoso	adjetivo	vo|lup|tu|[o]|so
+voluptuoso	nome masculino	vo|lup|tu|[o]|so
+volúsia	nome feminino	vo|[lú]|si|a
+voluta	nome feminino	vo|[lu]|ta
+volutabro	nome masculino	vo|lu|[ta]|bro
+volutar	verbo	vo|lu|[tar]
+volutear	verbo	vo|lu|te|[ar]
+volutear	nome masculino	vo|lu|te|[ar]
+volutela	nome feminino	vo|lu|[te]|la
+volutita	nome masculino	vo|lu|[ti]|ta
+volutuar	verbo	vo|lu|tu|[ar]
+volutuário	adjetivo	vo|lu|tu|[á]|ri|o
+volutuosa	nome feminino	vo|lu|tu|[o]|sa
+volutuosamente	advérbio	vo|lu|tu|o|sa|[men]|te
+volutuosidade	nome feminino	vo|lu|tu|o|si|[da]|de
+volutuoso	adjetivo	vo|lu|tu|[o]|so
+volutuoso	nome masculino	vo|lu|tu|[o]|so
+volúvel	adjetivo	vo|[lú]|vel
+voluvelmente	advérbio	vo|lu|vel|[men]|te
+volva	nome feminino	[vol]|va
+volváceo	adjetivo	vol|[vá]|ce|o
+volvadeira	nome feminino	vol|va|[dei]|ra
+volvado	adjetivo	vol|[va]|do
+volvedor	nome masculino	vol|ve|[dor]
+volvente	adjetivo	vol|[ven]|te
+volver	verbo	vol|[ver]
+volver	nome masculino	vol|[ver]
+volvido	adjetivo	vol|[vi]|do
+volvo	nome masculino	[vol]|vo

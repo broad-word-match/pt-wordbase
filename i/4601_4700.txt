@@ -1,0 +1,100 @@
+insensibilizador	adjetivo	in|sen|si|bi|li|za|[dor]
+insensibilizador	nome masculino	in|sen|si|bi|li|za|[dor]
+insensibilizar	verbo	in|sen|si|bi|li|[zar]
+insensibilizável	adjetivo	in|sen|si|bi|li|[zá]|vel
+insensitivo	adjetivo	in|sen|si|[ti]|vo
+insensível	adjetivo	in|sen|[sí]|vel
+insensível	nome feminino	in|sen|[sí]|vel
+insensível	nome masculino	in|sen|[sí]|vel
+insensivelmente	advérbio	in|sen|si|vel|[men]|te
+inseparabilidade	nome feminino	in|se|pa|ra|bi|li|[da]|de
+inseparáveis	nome masculino	in|se|pa|[rá]|veis
+inseparável	adjetivo	in|se|pa|[rá]|vel
+inseparavelmente	advérbio	in|se|pa|ra|vel|[men]|te
+insepulto	adjetivo	in|se|[pul]|to
+inserção	nome feminino	in|ser|[ção]
+inserido	adjetivo	in|se|[ri]|do
+inserir	verbo	in|se|[rir]
+inserível	adjetivo	in|se|[rí]|vel
+insertação	nome feminino	in|ser|ta|[ção]
+insertar	verbo	in|ser|[tar]
+inserto	adjetivo	in|[ser]|to
+inserto	nome masculino	in|[ser]|to
+inservível	adjetivo	in|ser|[ví]|vel
+insetário	nome masculino	in|se|[tá]|ri|o
+inseticida	adjetivo	in|se|ti|[ci]|da
+inseticida	nome masculino	in|se|ti|[ci]|da
+inseticídio	nome masculino	in|se|ti|[cí]|di|o
+insetífero	adjetivo	in|se|[tí]|fe|ro
+insetiforme	adjetivo	in|se|ti|[for]|me
+insetífugo	adjetivo	in|se|[tí]|fu|go
+insétil	adjetivo	in|[sé]|til
+insetívoro	adjetivo	in|se|[tí]|vo|ro
+insetívoro	nome masculino	in|se|[tí]|vo|ro
+inseto	nome masculino	in|[se]|to
+insetófilo	adjetivo	in|se|[tó]|fi|lo
+insetófilo	nome masculino	i|n|se|[tó]|fi|lo
+insetologia	nome feminino	in|se|to|lo|[gi]|a
+insetológico	adjetivo	in|se|to|[ló]|gi|co
+insetologista	adjetivo	in|se|to|lo|[gis]|ta
+insetologista	nome masculino	in|se|to|lo|[gis]|ta
+insetologista	nome feminino	in|se|to|lo|[gis]|ta
+insexuado	adjetivo	in|se|xu|[a]|do
+insexual	adjetivo	in|se|xu|[al]
+insexualidade	nome feminino	in|se|xu|a|li|[da]|de
+insider	nome feminino	in|si|[der]
+insider	nome masculino	in|si|[der]
+insídia	nome feminino	in|[sí]|di|a
+insidiação	nome feminino	in|si|di|a|[ção]
+insidiador	adjetivo	in|si|di|a|[dor]
+insidiador	nome masculino	in|si|di|a|[dor]
+insidiar	verbo	in|si|di|[ar]
+insidiosamente	advérbio	in|si|di|o|sa|[men]|te
+insidioso	adjetivo	in|si|di|[o]|so
+insight	nome masculino	in|sight
+insigne	adjetivo	in|[sig]|ne
+insignemente	advérbio	in|sig|ne|[men]|te
+insígnia	nome feminino	in|[síg]|ni|a
+insignificância	nome feminino	in|sig|ni|fi|[cân]|ci|a
+insignificante	nome masculino	in|sig|ni|fi|[can]|te
+insignificante	adjetivo	in|sig|ni|fi|[can]|te
+insignificante	nome feminino	in|sig|ni|fi|[can]|te
+insignificantemente	advérbio	in|sig|ni|fi|can|te|[men]|te
+insignificativo	adjetivo	in|sig|ni|fi|ca|[ti]|vo
+insimulação	nome feminino	in|si|mu|la|[ção]
+insimular	verbo	in|si|mu|[lar]
+insinar	verbo	in|si|[nar]
+insinceridade	nome feminino	in|sin|ce|ri|[da]|de
+insincero	adjetivo	in|sin|[ce]|ro
+insinuação	nome feminino	in|si|nu|a|[ção]
+insinuador	adjetivo	in|si|nu|a|[dor]
+insinuador	nome masculino	in|si|nu|a|[dor]
+insinuadora	nome feminino	in|si|nu|a|[do]|ra
+insinuante	adjetivo	in|si|nu|[an]|te
+insinuantemente	advérbio	in|si|nu|an|te|[men]|te
+insinuar	verbo	in|si|nu|[ar]
+insinuativa	nome feminino	in|si|nu|a|[ti]|va
+insinuativo	adjetivo	in|si|nu|a|[ti]|vo
+insipidamente	advérbio	in|si|pi|da|[men]|te
+insipidar	verbo	in|si|pi|[dar]
+insipidez	nome feminino	in|si|pi|[dez]
+insípido	adjetivo	in|[sí]|pi|do
+insipiência	nome feminino	in|si|pi|[ên]|ci|a
+insipiente	adjetivo	in|si|pi|[en]|te
+insistência	nome feminino	in|sis|[tên]|ci|a
+insistente	adjetivo	in|sis|[ten]|te
+insistentemente	advérbio	in|sis|ten|te|[men]|te
+insistido	adjetivo	in|sis|[ti]|do
+insistir	verbo	in|sis|[tir]
+ínsito	adjetivo	[ín]|si|to
+insituável	adjetivo	in|si|tu|[á]|vel
+insobriedade	nome feminino	in|so|bri|e|[da]|de
+insóbrio	adjetivo	in|[só]|bri|o
+insociabilidade	nome feminino	in|so|ci|a|bi|li|[da]|de
+insocial	adjetivo	in|so|ci|[al]
+insociável	adjetivo	in|so|ci|[á]|vel
+insociavelmente	advérbio	in|so|ci|a|vel|[men]|te
+insofismabilidade	nome feminino	in|so|fis|ma|bi|li|[da]|de
+insofismável	adjetivo	in|so|fis|[má]|vel
+insofismavelmente	advérbio	in|so|fis|ma|vel|[men]|te
+insofreável	adjetivo	in|so|fre|[á]|vel

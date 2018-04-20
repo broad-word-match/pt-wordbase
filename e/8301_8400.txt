@@ -1,0 +1,100 @@
+escrofulotuberculose	nome feminino	es|cro|fu|lo|tu|ber|cu|[lo]|se
+escrópulo	nome masculino	es|[cró]|pu|lo
+escroque	nome masculino	es|[cro]|que
+escroqueria	nome feminino	es|cro|que|[ri]|a
+escrotal	adjetivo	es|cro|[tal]
+escroto	nome masculino	es|[cro]|to
+escroto	adjetivo	es|[cro]|to
+escrotocele	nome feminino	es|cro|to|[ce]|le
+escrunchante	nome masculino	es|crun|[chan]|te
+escrunchar	verbo	es|crun|[char]
+escruncho	nome masculino	es|[crun]|cho
+escrupularia	nome feminino	es|cru|pu|la|[ri]|a
+escrupulear	verbo	es|cru|pu|le|[ar]
+escrupulizador	adjetivo	es|cru|pu|li|za|[dor]
+escrupulizador	nome masculino	es|cru|pu|li|za|[dor]
+escrupulizar	verbo	es|cru|pu|li|[zar]
+escrúpulo	nome masculino	es|[crú]|pu|lo
+escrupulosa	nome feminino	es|cru|pu|[lo]|sa
+escrupulosamente	advérbio	es|cru|pu|lo|sa|[men]|te
+escrupulosidade	nome feminino	es|cru|pu|lo|si|[da]|de
+escrupuloso	adjetivo	es|cru|pu|[lo]|so
+escrupuloso	nome masculino	es|cru|pu|[lo]|so
+escrutação	nome feminino	es|cru|ta|[ção]
+escrutador	adjetivo	es|cru|ta|[dor]
+escrutador	nome masculino	es|cru|ta|[dor]
+escrutadora	nome feminino	es|cru|ta|[do]|ra
+escrutar	verbo	es|cru|[tar]
+escrutável	adjetivo	es|cru|[tá]|vel
+escrutinação	nome feminino	es|cru|ti|na|[ção]
+escrutinador	adjetivo	es|cru|ti|na|[dor]
+escrutinador	nome masculino	es|cru|ti|na|[dor]
+escrutinadora	nome feminino	es|cru|ti|na|[do]|ra
+escrutinar	verbo	es|cru|ti|[nar]
+escrutínio	nome masculino	es|cru|[tí]|ni|o
+escudar	verbo	es|cu|[dar]
+escudeirar	verbo	es|cu|dei|[rar]
+escudeirático	adjetivo	es|cu|dei|[rá]|ti|co
+escudeirice	nome feminino	es|cu|dei|[ri]|ce
+escudeiril	adjetivo	es|cu|dei|[ril]
+escudeiro	nome masculino	es|cu|[dei]|ro
+escudela	nome feminino	es|cu|[de]|la
+escudelada	nome feminino	es|cu|de|[la]|da
+escudelar	verbo	es|cu|de|[lar]
+escudeleiro	nome masculino	es|cu|de|[lei]|ro
+escuderia	nome feminino	es|cu|de|[ri]|a
+escudete	nome masculino	es|cu|[de]|te
+escudilho	nome masculino	es|cu|[di]|lho
+escudilhoso	adjetivo	es|cu|di|[lho]|so
+escudinha	nome feminino	es|cu|[di]|nha
+escudo	nome masculino	es|[cu]|do
+escudrinhador	adjetivo	es|cu|dri|nha|[dor]
+escudrinhador	nome masculino	es|cu|dri|nha|[dor]
+escudrinhar	verbo	es|cu|dri|[nhar]
+escuita	nome feminino	es|[cui]|ta
+escuitar	verbo	es|cui|[tar]
+esculácea	nome feminino	es|cu|[lá]|ce|a
+esculachado	adjetivo	es|cu|la|[cha]|do
+esculachar	verbo	es|cu|la|[char]
+esculápio	nome masculino	es|cu|[lá]|pi|o
+esculato	nome masculino	es|cu|[la]|to
+esculca	nome feminino	es|[cul]|ca
+esculca	nome masculino	es|[cul]|ca
+esculcar	verbo	es|cul|[car]
+esculento	adjetivo	es|cu|[len]|to
+esculhambado	adjetivo	es|cu|lham|[ba]|do
+esculhambar	verbo	es|cu|lham|[bar]
+escúlico	adjetivo	es|[cú]|li|co
+esculina	nome feminino	es|cu|[li]|na
+esculpido	adjetivo	es|cul|[pi]|do
+esculpidor	adjetivo	es|cul|pi|[dor]
+esculpidor	nome masculino	es|cul|pi|[dor]
+esculpimento	nome masculino	es|cul|pi|[men]|to
+esculpir	verbo	es|cul|[pir]
+esculpível	adjetivo	es|cul|[pí]|vel
+escultor	nome masculino	es|cul|[tor]
+escultora	nome feminino	es|cul|[to]|ra
+escultórico	adjetivo	es|cul|[tó]|ri|co
+escultura	nome feminino	es|cul|[tu]|ra
+esculturação	nome feminino	es|cul|tu|ra|[ção]
+escultural	adjetivo	es|cul|tu|[ral]
+esculturalmente	advérbio	es|cul|tu|ral|[men]|te
+esculturar	verbo	es|cul|tu|[rar]
+escuma	nome feminino	es|[cu]|ma
+escumação	nome feminino	es|cu|ma|[ção]
+escumadeira	nome feminino	es|cu|ma|[dei]|ra
+escumado	nome masculino	es|cu|[ma]|do
+escumador	adjetivo	es|cu|ma|[dor]
+escumador	nome masculino	es|cu|ma|[dor]
+escumalha	nome feminino	es|cu|[ma]|lha
+escumalho	nome masculino	es|cu|[ma]|lho
+escumante	adjetivo	es|cu|[man]|te
+escumar	verbo	es|cu|[mar]
+escumarada	nome feminino	es|cu|ma|[ra]|da
+escumilha	nome feminino	es|cu|[mi]|lha
+escumilhar	verbo	es|cu|mi|[lhar]
+escumoso	adjetivo	es|cu|[mo]|so
+escuna	nome feminino	es|[cu]|na
+escupir	verbo	es|cu|[pir]
+escuramente	advérbio	es|cu|ra|[men]|te
+escurão	nome masculino	es|cu|[rão]

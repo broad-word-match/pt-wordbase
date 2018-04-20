@@ -1,0 +1,100 @@
+nominho	nome masculino	no|[mi]|nho
+nômio	nome masculino	[nô]|mi|o
+nómio	nome masculino	[nó]|mi|o
+nomo	nome masculino	[no]|mo
+nomocânon	nome masculino	no|mo|[câ]|non
+nomocânone	nome masculino	no|mo|[câ]|no|ne
+nomografia	nome feminino	no|mo|gra|[fi]|a
+nomográfico	adjetivo	no|mo|[grá]|fi|co
+nomograma	nome masculino	no|mo|[gra]|ma
+nomologia	nome feminino	no|mo|lo|[gi]|a
+nomológico	adjetivo	no|mo|[ló]|gi|co
+nomóteta	nome masculino	no|[mó]|te|ta
+nomotético	adjetivo	no|mo|[té]|ti|co
+non-stop	adjetivo	[non-stop]
+nona	nome feminino	[no]|na
+nonácrio	adjetivo	no|[ná]|cri|o
+nonada	nome feminino	no|[na]|da
+nonagenária	nome feminino	no|na|ge|[ná]|ri|a
+nonagenário	adjetivo	no|na|ge|[ná]|ri|o
+nonagenário	nome masculino	no|na|ge|[ná]|ri|o
+nonagésimo	nome masculino	no|na|[gé]|si|mo
+nonagésimo	número fraccional	no|na|[gé]|si|mo
+nonagésimo	número ordinal	no|na|[gé]|si|mo
+nonagésimo	adjetivo	no|na|[gé]|si|mo
+nonágria	nome feminino	no|[ná]|gri|a
+nonandro	adjetivo	no|[nan]|dro
+nonário	adjetivo	no|[ná]|ri|o
+nonas	nome feminino	[no]|nas
+nonato	adjetivo	no|[na]|to
+nonato	nome masculino	no|[na]|to
+nonde	nome masculino	[non]|de
+nondo	nome masculino	[non]|do
+nones	adjetivo	[no]|nes
+nonga	nome masculino	[non]|ga
+nongentésimo	nome masculino	non|gen|[té]|si|mo
+nongentésimo	número fraccional	non|gen|[té]|si|mo
+nongentésimo	adjetivo	non|gen|[té]|si|mo
+nongentésimo	número ordinal	non|gen|[té]|si|mo
+nonilhão	adjetivo	no|ni|[lhão]
+nonilhão	nome masculino	no|ni|[lhão]
+nonilião	adjetivo	no|ni|li|[ão]
+nonilião	nome masculino	no|ni|li|[ão]
+noningentésimo	número ordinal	no|nin|gen|[té]|si|mo
+noningentésimo	nome masculino	no|nin|gen|[té]|si|mo
+noningentésimo	adjetivo	no|nin|gen|[té]|si|mo
+noninha	nome masculino	no|[ni]|nha
+noninha	nome feminino	no|[ni]|nha
+nónio	nome masculino	[nó]|ni|o
+nônio	nome masculino	[nô]|ni|o
+nonipétalo	adjetivo	no|ni|[pé]|ta|lo
+nonô	nome masculino	no|[nô]
+nono	número ordinal	[no]|no
+nono	nome masculino	[no]|no
+nono	número fraccional	[no]|no
+nono	adjetivo	[no]|no
+nonobstância	nome feminino	no|nobs|[tân]|ci|a
+nonquenha	nome feminino	non|[que]|nha
+nonsense	nome masculino	non|sen|se
+nontronita	nome feminino	non|tro|[ni]|ta
+nontronite	nome feminino	non|tro|[ni]|te
+nónuplo	adjetivo	[nó]|nu|plo
+nónuplo	número multiplicativo	[nó]|nu|plo
+nónuplo	nome masculino	[nó]|nu|plo
+nônuplo	adjetivo	[nô]|nu|plo
+nônuplo	nome masculino	[nô]|nu|plo
+nônuplo	número multiplicativo	[nô]|nu|plo
+nonusse	nome masculino	no|[nus]|se
+noocentrismo	nome masculino	no|o|cen|[tris]|mo
+noologia	nome feminino	no|o|lo|[gi]|a
+noológico	adjetivo	no|o|[ló]|gi|co
+noosfera	nome feminino	no|os|[fe]|ra
+noosténico	adjetivo	no|os|[té]|ni|co
+noostênico	adjetivo	no|os|[tê]|ni|co
+nopa	nome feminino	[no]|pa
+nopal	nome masculino	no|[pal]
+nopalácea	nome feminino	no|pa|[lá]|ce|a
+nopaláceo	adjetivo	no|pa|[lá]|ce|o
+nopálea	nome feminino	no|[pá]|le|a
+nor-nordeste	adjetivo	nor-nor|[des]|te
+nor-nordeste	nome masculino	nor-nor|[des]|te
+nor-noroeste	adjetivo	nor-no|ro|[es]|te
+nor-noroeste	nome masculino	nor-no|ro|[es]|te
+nora	nome feminino	[no]|ra
+noradrenalina	nome feminino	no|ra|dre|na|[li]|na
+norbano	adjetivo	nor|[ba]|no
+norbano	nome masculino	nor|[ba]|no
+norça	nome feminino	[nor]|ça
+norça-branca	nome feminino	nor|ça-bran|ca
+norça-preta	nome feminino	nor|ça-pre|ta
+nordestada	nome feminino	nor|des|[ta]|da
+nordeste	nome masculino	nor|[des]|te
+nordeste	adjetivo	nor|[des]|te
+nordestear	verbo	nor|des|te|[ar]
+nordestense	adjetivo	nor|des|[ten]|se
+nordestense	nome masculino	nor|des|[ten]|se
+nordestense	nome feminino	nor|des|[ten]|se
+nordésteo	adjetivo	nor|[dés]|te|o
+nordestia	nome feminino	nor|des|[ti]|a
+nordestina	nome feminino	nor|des|[ti]|na
+nordestino	nome masculino	nor|des|[ti]|no

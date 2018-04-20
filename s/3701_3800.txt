@@ -1,0 +1,100 @@
+semideiro	nome masculino	se|mi|[dei]|ro
+semidepoente	adjetivo	se|mi|de|po|[en]|te
+semidesértico	adjetivo	se|mi|de|[sér]|ti|co
+semidespido	adjetivo	se|mi|des|[pi]|do
+semideus	nome masculino	se|mi|[deus]
+semidiáfano	adjetivo	se|mi|di|[á]|fa|no
+semidiâmetro	nome masculino	se|mi|di|[â]|me|tro
+semidiapasão	nome masculino	se|mi|di|a|pa|[são]
+semidiapente	nome masculino	se|mi|di|a|[pen]|te
+semidiatessarão	nome masculino	se|mi|di|a|tes|sa|[rão]
+semidigital	adjetivo	se|mi|di|gi|[tal]
+semidisco	nome masculino	se|mi|[dis]|co
+semiditongo	nome masculino	se|mi|di|[ton]|go
+semidítono	nome masculino	se|mi|[dí]|to|no
+semidiurno	nome masculino	se|mi|di|[ur]|no
+semidivindade	nome feminino	se|mi|di|vin|[da]|de
+semidivinização	nome feminino	se|mi|di|vi|ni|za|[ção]
+semidivinizar	verbo	se|mi|di|vi|ni|[zar]
+semidivino	adjetivo	se|mi|di|[vi]|no
+semidobrado	adjetivo	se|mi|do|[bra]|do
+semidobrez	nome feminino	se|mi|do|[brez]
+semidoido	adjetivo	se|mi|[doi]|do
+semidoido	nome masculino	se|mi|[doi]|do
+semidoudo	adjetivo	se|mi|[dou]|do
+semidouto	adjetivo	se|mi|[dou]|to
+semidouto	nome masculino	se|mi|[dou]|to
+semidúplex	adjetivo	se|mi|[dú]|plex
+semidúplice	adjetivo	se|mi|[dú]|pli|ce
+semieixo	nome masculino	se|mi|[ei]|xo
+semielaborado	adjetivo	se|mi|e|la|bo|[ra]|do
+semiembrionário	adjetivo	se|mi|em|bri|o|[ná]|ri|o
+semienfastiado	adjetivo	se|mi|en|fas|ti|[a]|do
+semienterrado	adjetivo	se|mi|en|ter|[ra]|do
+semierudito	adjetivo	se|mi|e|ru|[di]|to
+semierudito	nome masculino	se|mi|e|ru|[di]|to
+semiesfera	nome feminino	se|mi|es|[fe]|ra
+semiesférico	adjetivo	se|mi|es|[fé]|ri|co
+semiesferoidal	adjetivo	se|mi|es|fe|roi|[dal]
+semiesferoide	nome masculino	se|mi|es|fe|[roi]|de
+semiestragado	adjetivo	se|mi|es|tra|[ga]|do
+semifabuloso	adjetivo	se|mi|fa|bu|[lo]|so
+semifacial	adjetivo	se|mi|fa|ci|[al]
+semifavor	nome masculino	se|mi|fa|[vor]
+semifechado	adjetivo	se|mi|fe|[cha]|do
+semifeito	adjetivo	se|mi|[fei]|to
+semifendido	adjetivo	se|mi|fen|[di]|do
+semífero	adjetivo	se|[mí]|fe|ro
+semifigurado	adjetivo	se|mi|fi|gu|[ra]|do
+semifilosófico	adjetivo	se|mi|fi|lo|[só]|fi|co
+semifinal	nome feminino	se|mi|fi|[nal]
+semifinalista	nome masculino	se|mi|fi|na|[lis]|ta
+semifinalista	nome feminino	se|mi|fi|na|[lis]|ta
+semiflósculo	nome masculino	se|mi|[flós]|cu|lo
+semiflosculoso	adjetivo	se|mi|flos|cu|[lo]|so
+semifluido	adjetivo	se|mi|[flui]|do
+semifricativo	adjetivo	se|mi|fri|ca|[ti]|vo
+semifusa	nome feminino	se|mi|[fu]|sa
+semigarlopa	nome feminino	se|mi|gar|[lo]|pa
+semigasto	adjetivo	se|mi|[gas]|to
+semigloboso	adjetivo	se|mi|glo|[bo]|so
+semiglobuloso	adjetivo	se|mi|glo|bu|[lo]|so
+semigola	nome feminino	se|mi|[go]|la
+semigótico	adjetivo	se|mi|[gó]|ti|co
+semigrego	adjetivo	se|mi|[gre]|go
+semijacobino	adjetivo	se|mi|ja|co|[bi]|no
+semijudeu	adjetivo	se|mi|ju|[deu]
+semilabial	adjetivo	se|mi|la|bi|[al]
+semilenhoso	adjetivo	se|mi|le|[nho]|so
+semiletrado	nome masculino	se|mi|le|[tra]|do
+semilha	nome feminino	se|[mi]|lha
+semilheira	nome feminino	se|mi|[lhei]|ra
+semiliberto	adjetivo	se|mi|li|[ber]|to
+semilíquido	adjetivo	se|mi|[lí]|qui|do
+semiliterário	adjetivo	se|mi|li|te|[rá]|ri|o
+semilivre	adjetivo	se|mi|[li]|vre
+semilouco	adjetivo	se|mi|[lou]|co
+semilouco	nome masculino	se|mi|[lou]|co
+semilouro	adjetivo	se|mi|[lou]|ro
+semilunação	nome feminino	se|mi|lu|na|[ção]
+semilunar	nome masculino	se|mi|lu|[nar]
+semilunar	adjetivo	se|mi|lu|[nar]
+semilunático	adjetivo	se|mi|lu|[ná]|ti|co
+semilúnio	nome masculino	se|mi|[lú]|ni|o
+semimédico	nome masculino	se|mi|[mé]|di|co
+semimembranoso	adjetivo	se|mi|mem|bra|[no]|so
+semimensal	adjetivo	se|mi|men|[sal]
+semimeridiano	nome masculino	se|mi|me|ri|di|[a]|no
+semimetal	nome masculino	se|mi|me|[tal]
+semimetálico	adjetivo	se|mi|me|[tá]|li|co
+semimi	nome masculino	se|mi|[mi]
+semimorte	nome feminino	se|mi|[mor]|te
+semimorto	adjetivo	se|mi|[mor]|to
+semimóvel	adjetivo	se|mi|[mó]|vel
+seminação	nome feminino	se|mi|na|[ção]
+seminal	adjetivo	se|mi|[nal]
+seminário	nome masculino	se|mi|[ná]|ri|o
+seminarista	adjetivo	se|mi|na|[ris]|ta
+seminarista	nome masculino	se|mi|na|[ris]|ta
+seminaristicamente	advérbio	se|mi|na|ris|ti|ca|[men]|te
+seminarístico	adjetivo	se|mi|na|[rís]|ti|co

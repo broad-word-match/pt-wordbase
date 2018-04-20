@@ -1,0 +1,100 @@
+raboleira	nome feminino	ra|bo|[lei]|ra
+rabona	nome feminino	ra|[bo]|na
+rabonar	verbo	ra|bo|[nar]
+rabosalho	nome masculino	ra|bo|[sa]|lho
+rabosana	nome feminino	ra|bo|[sa]|na
+rabosano	adjetivo	ra|bo|[sa]|no
+rabosano	nome masculino	ra|bo|[sa]|no
+raboso	adjetivo	ra|[bo]|so
+raboso	nome masculino	ra|[bo]|so
+rabotar	verbo	ra|bo|[tar]
+rabote	nome masculino	ra|[bo]|te
+raboto	adjetivo	ra|[bo]|to
+rabucho	adjetivo	ra|[bu]|cho
+rabuda	nome feminino	ra|[bu]|da
+rabudo	adjetivo	ra|[bu]|do
+rabudo	nome masculino	ra|[bu]|do
+rabuge	nome feminino	ra|[bu]|ge
+rabugeira	nome feminino	ra|bu|[gei]|ra
+rabugem	nome feminino	ra|[bu]|gem
+rabugenta	nome feminino	ra|bu|[gen]|ta
+rabugento	adjetivo	ra|bu|[gen]|to
+rabugento	nome masculino	ra|bu|[gen]|to
+rabugice	nome feminino	ra|bu|[gi]|ce
+rabujado	adjetivo	ra|bu|[ja]|do
+rabujão	nome masculino	ra|bu|[jão]
+rabujar	verbo	ra|bu|[jar]
+rabujaria	nome feminino	ra|bu|ja|[ri]|a
+rábula	nome feminino	[rá]|bu|la
+rábula	nome masculino	[rá]|bu|la
+rabulagem	nome feminino	ra|bu|[la]|gem
+rabulão	nome masculino	ra|bu|[lão]
+rabular	verbo	ra|bu|[lar]
+rabularia	nome feminino	ra|bu|la|[ri]|a
+rabulice	nome feminino	ra|bu|[li]|ce
+rabulista	adjetivo	ra|bu|[lis]|ta
+rabulista	nome masculino	ra|bu|[lis]|ta
+rabulista	nome feminino	ra|bu|[lis]|ta
+rabunador	nome masculino	ra|bu|na|[dor]
+rabunar	verbo	ra|bu|[nar]
+raça	nome feminino	[ra]|ça
+raça	nome masculino	[ra]|ça
+raçada	nome feminino	ra|[ça]|da
+racama	nome feminino	ra|[ca]|ma
+ração	nome feminino	ra|[ção]
+raças	nome feminino	[ra]|ças
+racemato	nome masculino	ra|ce|[ma]|to
+racémico	adjetivo	ra|[cé]|mi|co
+racêmico	adjetivo	ra|[cê]|mi|co
+racemífero	adjetivo	ra|ce|[mí]|fe|ro
+racemiforme	adjetivo	ra|ce|mi|[for]|me
+racemização	nome feminino	ra|ce|mi|za|[ção]
+racemizar	verbo	ra|ce|mi|[zar]
+racemo	nome masculino	ra|[ce]|mo
+racemoso	adjetivo	ra|ce|[mo]|so
+racha	nome feminino	[ra]|cha
+rachadeira	nome feminino	ra|cha|[dei]|ra
+rachadela	nome feminino	ra|cha|[de]|la
+rachado	adjetivo	ra|[cha]|do
+rachado	nome masculino	ra|[cha]|do
+rachador	adjetivo	ra|cha|[dor]
+rachador	nome masculino	ra|cha|[dor]
+rachadora	nome feminino	ra|cha|[do]|ra
+rachadura	nome feminino	ra|cha|[du]|ra
+rachão	nome masculino	ra|[chão]
+rachar	verbo	ra|[char]
+rachear	verbo	ra|che|[ar]
+rachedo	nome masculino	ra|[che]|do
+racheta	nome feminino	ra|[che]|ta
+racial	adjetivo	ra|ci|[al]
+racialismo	nome masculino	ra|ci|a|[lis]|mo
+racialista	adjetivo	ra|ci|a|[lis]|ta
+racialista	nome masculino	ra|ci|a|[lis]|ta
+racialista	nome feminino	ra|ci|a|[lis]|ta
+racialmente	advérbio	ra|ci|al|[men]|te
+rácico	adjetivo	[rá]|ci|co
+racimado	adjetivo	ra|ci|[ma]|do
+racimífero	adjetivo	ra|ci|[mí]|fe|ro
+racimiforme	adjetivo	ra|ci|mi|[for]|me
+racimo	nome masculino	ra|[ci]|mo
+racimoso	adjetivo	ra|ci|[mo]|so
+rácio	nome masculino	[rá]|ci|o
+raciocinação	nome feminino	ra|ci|o|ci|na|[ção]
+raciocinado	adjetivo	ra|ci|o|ci|[na]|do
+raciocinador	adjetivo	ra|ci|o|ci|na|[dor]
+raciocinador	nome masculino	ra|ci|o|ci|na|[dor]
+raciocinadora	nome feminino	ra|ci|o|ci|na|[do]|ra
+raciocinante	adjetivo	ra|ci|o|ci|[nan]|te
+raciocinar	verbo	ra|ci|o|ci|[nar]
+raciocinativo	adjetivo	ra|ci|o|ci|na|[ti]|vo
+raciocínio	nome masculino	ra|ci|o|[cí]|ni|o
+racionabilidade	nome feminino	ra|ci|o|na|bi|li|[da]|de
+racionador	adjetivo	ra|ci|o|na|[dor]
+racionador	nome masculino	ra|ci|o|na|[dor]
+racional	nome masculino	ra|ci|o|[nal]
+racional	adjetivo	ra|ci|o|[nal]
+racionalidade	nome feminino	ra|ci|o|na|li|[da]|de
+racionalismo	nome masculino	ra|ci|o|na|[lis]|mo
+racionalista	nome masculino	ra|ci|o|na|[lis]|ta
+racionalista	adjetivo	ra|ci|o|na|[lis]|ta
+racionalista	nome feminino	ra|ci|o|na|[lis]|ta

@@ -1,0 +1,100 @@
+este	nome masculino	[es]|te
+este	adjetivo	[es]|te
+este	artigo demostrativo	[es]|te
+este	pronome demostrativo	[es]|te
+este-oeste	nome masculino	es|te-o|[es]|te
+estear	verbo	es|te|[ar]
+estearato	nome masculino	es|te|a|[ra]|to
+esteárico	adjetivo	es|te|[á]|ri|co
+estearina	nome feminino	es|te|a|[ri]|na
+estearinaria	nome feminino	es|te|a|ri|na|[ri]|a
+estearol	nome masculino	es|te|a|[rol]
+estearolato	nome masculino	es|te|a|ro|[la]|to
+esteatite	nome feminino	es|te|a|[ti]|te
+esteatólise	nome feminino	es|te|a|[tó]|li|se
+esteatolítico	adjetivo	es|te|a|to|[lí]|ti|co
+esteatoma	nome masculino	es|te|a|[to]|ma
+esteatomático	adjetivo	es|te|a|to|[má]|ti|co
+esteatomatoso	adjetivo	es|te|a|to|ma|[to]|so
+esteatopigia	nome feminino	es|te|a|to|pi|[gi]|a
+esteatorreia	nome feminino	es|te|a|tor|[rei]|a
+esteatorreico	adjetivo	es|te|a|tor|[rei]|co
+esteatose	nome feminino	es|te|a|[to]|se
+esteense	adjetivo	es|te|[en]|se
+esteense	nome masculino	es|te|[en]|se
+esteense	nome feminino	es|te|[en]|se
+estefanéforo	adjetivo	es|te|fa|[né]|fo|ro
+estefaniano	adjetivo	es|te|fa|ni|[a]|no
+estefânico	adjetivo	es|te|[fâ]|ni|co
+estefânio	nome masculino	es|te|[fâ]|ni|o
+estefanite	nome feminino	es|te|fa|[ni]|te
+estefanoscopia	nome feminino	es|te|fa|nos|co|[pi]|a
+estefanoscópico	adjetivo	es|te|fa|nos|[có]|pi|co
+estefanoscópio	nome masculino	es|te|fa|nos|[có]|pi|o
+esteganografia	nome feminino	es|te|ga|no|gra|[fi]|a
+esteganográfico	adjetivo	es|te|ga|no|[grá]|fi|co
+esteganógrafo	nome masculino	es|te|ga|[nó]|gra|fo
+esteganópode	nome masculino	es|te|ga|[nó]|po|de
+estegnose	nome feminino	es|teg|[no]|se
+estegnótico	adjetivo	es|teg|[nó]|ti|co
+estegocéfalo	nome masculino	es|te|go|[cé]|fa|lo
+estegomia	nome feminino	es|te|go|[mi]|a
+estegossauro	nome masculino	es|te|gos|[sau]|ro
+esteiense	adjetivo	es|tei|[en]|se
+esteiense	nome masculino	es|tei|[en]|se
+esteiense	nome feminino	es|tei|[en]|se
+esteio	nome masculino	es|[tei]|o
+esteira	nome feminino	es|[tei]|ra
+esteirada	nome feminino	es|tei|[ra]|da
+esteirão	nome masculino	es|tei|[rão]
+esteirar	verbo	es|tei|[rar]
+esteiraria	nome feminino	es|tei|ra|[ri]|a
+esteireiro	nome masculino	es|tei|[rei]|ro
+esteiro	nome masculino	es|[tei]|ro
+estela	nome feminino	es|[te]|la
+estelante	adjetivo	es|te|[lan]|te
+estelar	adjetivo	es|te|[lar]
+estelarídeo	nome masculino	es|te|la|[rí]|de|o
+estelário	nome masculino	es|te|[lá]|ri|o
+estelerídeo	nome masculino	es|te|le|[rí]|de|o
+esteleroide	nome masculino	es|te|le|[roi]|de
+estelião	nome masculino	es|te|li|[ão]
+estelífero	adjetivo	es|te|[lí]|fe|ro
+esteliforme	adjetivo	es|te|li|[for]|me
+estelígero	adjetivo	es|te|[lí]|ge|ro
+estelionatário	nome masculino	es|te|li|o|na|[tá]|ri|o
+estelionato	nome masculino	es|te|li|o|[na]|to
+estelita	nome masculino	es|te|[li]|ta
+estelita	nome feminino	es|te|[li]|ta
+estelite	nome feminino	es|te|[li]|te
+estelografia	nome feminino	es|te|lo|gra|[fi]|a
+estelográfico	adjetivo	es|te|lo|[grá]|fi|co
+estema	nome masculino	es|[te]|ma
+estemático	adjetivo	es|te|[má]|ti|co
+estemonódio	nome masculino	es|te|mo|[nó]|di|o
+estêncil	nome masculino	es|[tên]|cil
+estenda	nome feminino	es|[ten]|da
+estendagem	nome feminino	es|ten|[da]|gem
+estendal	nome masculino	es|ten|[dal]
+estende-encolhe	nome masculino	es|ten|de-en|[co]|lhe
+estendedoiro	nome masculino	es|ten|de|[doi]|ro
+estendedor	adjetivo	es|ten|de|[dor]
+estendedor	nome masculino	es|ten|de|[dor]
+estendedouro	nome masculino	es|ten|de|[dou]|ro
+estendedura	nome feminino	es|ten|de|[du]|ra
+estender	verbo	es|ten|[der]
+estenderete	nome masculino	es|ten|de|[re]|te
+estendido	adjetivo	es|ten|[di]|do
+estendível	adjetivo	es|ten|[dí]|vel
+estenélitro	nome masculino	es|te|[né]|li|tro
+estenia	nome feminino	es|te|[ni]|a
+estênico	adjetivo	es|[tê]|ni|co
+estênico	nome masculino	es|[tê]|ni|co
+esténico	adjetivo	es|[té]|ni|co
+esténico	nome masculino	es|[té]|ni|co
+esteno	nome masculino	es|[te]|no
+estenocardia	nome feminino	es|te|no|car|[di]|a
+estenocárdico	adjetivo	es|te|no|[cár]|di|co
+estenocefalia	nome feminino	es|te|no|ce|fa|[li]|a
+estenocéfalo	adjetivo	es|te|no|[cé]|fa|lo
+estenodactilógrafo	nome masculino	es|te|no|dac|ti|[ló]|gra|fo

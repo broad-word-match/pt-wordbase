@@ -1,0 +1,100 @@
+pitinate	adjetivo	pi|ti|[na]|te
+pitinate	nome masculino	pi|ti|[na]|te
+pitinate	nome feminino	pi|ti|[na]|te
+pitinga	adjetivo	pi|[tin]|ga
+pitinho	nome masculino	pi|[ti]|nho
+pítio	adjetivo	[pí]|ti|o
+pitiríase	nome feminino	pi|ti|[rí]|a|se
+pitiriático	adjetivo	pi|ti|ri|[á]|ti|co
+pititinga	nome feminino	pi|ti|[tin]|ga
+pitiú	nome masculino	pi|ti|[ú]
+pito	nome masculino	[pi]|to
+pito-barranqueiro	nome masculino	pi|to-bar|ran|[quei]|ro
+pito-verdeal	nome masculino	pi|to-ver|de|[al]
+pitoco	adjetivo	pi|[to]|co
+pitoco	nome masculino	pi|[to]|co
+pitodóxi	nome masculino	pi|to|[dó]|xi
+pitoma	nome feminino	pi|[to]|ma
+pitomba	nome feminino	pi|[tom]|ba
+pitombeira	nome feminino	pi|tom|[bei]|ra
+pitombeiro	nome masculino	pi|tom|[bei]|ro
+pitombo	nome masculino	pi|[tom]|bo
+píton	nome masculino	[pí]|ton
+pitônico	adjetivo	pi|[tô]|ni|co
+pitónico	adjetivo	pi|[tó]|ni|co
+pitonídeo	nome masculino	pi|to|[ní]|de|o
+pitoníneo	adjetivo	pi|to|[ní]|ne|o
+pitoníneo	nome masculino	pi|to|[ní]|ne|o
+pitonisa	nome feminino	pi|to|[ni]|sa
+pitoniso	nome masculino	pi|to|[ni]|so
+pitonissa	nome feminino	pi|to|[nis]|sa
+pitonomorfo	nome masculino	pi|to|no|[mor]|fo
+pitopolitano	adjetivo	pi|to|po|li|[ta]|no
+pitopolitano	nome masculino	pi|to|po|li|[ta]|no
+pitora	nome feminino	pi|[to]|ra
+pitorescamente	advérbio	pi|to|res|ca|[men]|te
+pitoresco	adjetivo	pi|to|[res]|co
+pitoresco	nome masculino	pi|to|[res]|co
+pitorra	nome feminino	pi|[tor]|ra
+pitorra	nome masculino	pi|[tor]|ra
+pitosca	adjetivo	pi|[tos]|ca
+pitosca	nome masculino	pi|[tos]|ca
+pitosca	nome feminino	pi|[tos]|ca
+pitosco	adjetivo	pi|[tos]|co
+pitosga	adjetivo	pi|[tos]|ga
+pitosga	nome masculino	pi|[tos]|ga
+pitosga	nome feminino	pi|[tos]|ga
+pitosgar	verbo	pi|tos|[gar]
+pitosporácea	nome feminino	pi|tos|po|[rá]|ce|a
+pitosporáceo	adjetivo	pi|tos|po|[rá]|ce|o
+pitósporo	nome masculino	pi|[tós]|po|ro
+pitósporo-da-china	nome masculino	pi|tós|po|ro-da-chi|na
+pitote	nome masculino	pi|[to]|te
+pitribi	nome masculino	pi|tri|[bi]
+pitu	nome masculino	pi|[tu]
+pituá	nome masculino	pi|tu|[á]
+pituba	adjetivo	pi|[tu]|ba
+pituba	nome masculino	pi|[tu]|ba
+pituba	nome feminino	pi|[tu]|ba
+pituí	nome masculino	pi|tu|[í]
+pituíta	nome feminino	pi|tu|[í]|ta
+pituitária	nome feminino	pi|tui|[tá]|ri|a
+pituitário	adjetivo	pi|tui|[tá]|ri|o
+pituitoso	adjetivo	pi|tui|[to]|so
+pitulano	adjetivo	pi|tu|[la]|no
+pitulano	nome masculino	pi|tu|[la]|no
+pitumarana	nome feminino	pi|tu|ma|[ra]|na
+pitura	nome feminino	pi|[tu]|ra
+piúca	nome feminino	pi|[ú]|ca
+piúgo	nome masculino	pi|[ú]|go
+piulco	nome masculino	pi|[ul]|co
+pium	nome masculino	pi|[um]
+piúna	nome feminino	pi|[ú]|na
+piúria	nome masculino	pi|[ú]|ri|a
+piúria	nome feminino	pi|[ú]|ri|a
+piúrico	adjetivo	pi|[ú]|ri|co
+pivelo	nome masculino	pi|[ve]|lo
+piverada	nome feminino	pi|ve|[ra]|da
+pivete	nome masculino	pi|[ve]|te
+piveteiro	nome masculino	pi|ve|[tei]|ro
+pivô	nome masculino	pi|[vô]
+pivot	nome masculino	pi|vot
+pivotante	adjetivo	pi|vo|[tan]|te
+pixacanto	nome masculino	pi|xa|[can]|to
+pixaim	adjetivo	pi|xa|[im]
+pixaim	nome masculino	pi|xa|[im]
+pixé	adjetivo	pi|[xé]
+pixé	nome masculino	pi|[xé]
+pixel	nome masculino	pi|xel
+píxide	nome feminino	[pí]|xi|de
+pixídio	nome masculino	pi|[xí]|di|o
+pixídula	nome feminino	pi|[xí]|du|la
+pixilinga	nome feminino	pi|xi|[lin]|ga
+pixínia	nome feminino	pi|[xí]|ni|a
+pixirica	nome feminino	pi|xi|[ri]|ca
+pixiricuçu	nome masculino	pi|xi|ri|cu|[çu]
+pixoxo	nome masculino	pi|[xo]|xo
+pixuá	nome masculino	pi|xu|[á]
+pixuna	adjetivo	pi|[xu]|na
+pixurim	nome masculino	pi|xu|[rim]
+pixurum	nome masculino	pi|xu|[rum]

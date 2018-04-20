@@ -1,0 +1,100 @@
+italianofobia	nome feminino	i|ta|li|a|no|fo|[bi]|a
+italianófobo	adjetivo	i|ta|li|a|[nó]|fo|bo
+italianófobo	nome masculino	i|ta|li|a|[nó]|fo|bo
+italicização	nome feminino	i|ta|li|ci|za|[ção]
+italicizar	verbo	i|ta|li|ci|[zar]
+itálico	adjetivo	i|[tá]|li|co
+itálico	nome masculino	i|[tá]|li|co
+italiota	adjetivo	i|ta|li|[o]|ta
+italiota	nome masculino	i|ta|li|[o]|ta
+italiota	nome feminino	i|ta|li|[o]|ta
+ítalo	adjetivo	[í]|ta|lo
+ítalo	nome masculino	[í]|ta|lo
+italo-americano	nome masculino	i|ta|lo-a|me|ri|[ca]|no
+ítalo-etíope	adjetivo	í|ta|lo-e|[tí]|o|pe
+italofilia	nome feminino	i|ta|lo|fi|[li]|a
+italófilo	adjetivo	i|ta|[ló]|fi|lo
+italófilo	nome masculino	i|ta|[ló]|fi|lo
+italofobia	nome feminino	i|ta|lo|fo|[bi]|a
+italófobo	adjetivo	i|ta|[ló]|fo|bo
+italófobo	nome masculino	i|ta|[ló]|fo|bo
+itamaca	nome feminino	i|ta|[ma]|ca
+itambé	nome masculino	i|tam|[bé]
+itambeense	adjetivo	i|tam|be|[en]|se
+itambeense	nome masculino	i|tam|be|[en]|se
+itambeense	nome feminino	i|tam|be|[en]|se
+itamotinga	nome feminino	i|ta|mo|[tin]|ga
+itanha	nome feminino	i|[ta]|nha
+itaoca	nome feminino	i|ta|[o]|ca
+itaparicano	adjetivo	i|ta|pa|ri|[ca]|no
+itaparicano	nome masculino	i|ta|pa|ri|[ca]|no
+itapeba	nome feminino	i|ta|[pe]|ba
+itapecerica	nome feminino	i|ta|pe|ce|[ri]|ca
+itapema	nome feminino	i|ta|[pe]|ma
+itapeva	nome feminino	i|ta|[pe]|va
+itapicura	nome feminino	i|ta|pi|[cu]|ra
+itapicuro	nome masculino	i|ta|pi|[cu]|ro
+itapitanga	nome feminino	i|ta|pi|[tan]|ga
+itapiúna	nome feminino	i|ta|pi|[ú]|na
+itapolitano	adjetivo	i|ta|po|li|[ta]|no
+itapolitano	nome masculino	i|ta|po|li|[ta]|no
+itapuá	nome masculino	i|ta|pu|[á]
+itararé	nome masculino	i|ta|ra|[ré]
+itatiaiuçuense	adjetivo	i|ta|ti|ai|u|çu|[en]|se
+itatiaiuçuense	nome masculino	i|ta|ti|ai|u|çu|[en]|se
+itatiaiuçuense	nome feminino	i|ta|ti|ai|u|çu|[en]|se
+itauá	nome masculino	i|tau|[á]
+itaúba	nome feminino	i|ta|[ú]|ba
+itaubarana	nome feminino	i|tau|ba|[ra]|na
+itaveravense	adjetivo	i|ta|ve|ra|[ven]|se
+itaveravense	nome masculino	i|ta|ve|ra|[ven]|se
+itaveravense	nome feminino	i|ta|ve|ra|[ven]|se
+item	nome masculino	[i]|tem
+iteração	nome feminino	i|te|ra|[ção]
+iterar	verbo	i|te|[rar]
+iterativamente	advérbio	i|te|ra|ti|va|[men]|te
+iteratividade	nome feminino	i|te|ra|ti|vi|[da]|de
+iterativo	adjetivo	i|te|ra|[ti]|vo
+iterável	adjetivo	i|te|[rá]|vel
+iterbina	nome feminino	i|ter|[bi]|na
+itérbio	nome masculino	i|[tér]|bi|o
+itérica	nome feminino	i|[té]|ri|ca
+iterícia	nome feminino	i|te|[rí]|ci|a
+itérico	adjetivo	i|[té]|ri|co
+itérico	nome masculino	i|[té]|ri|co
+itifálico	adjetivo	i|ti|[fá]|li|co
+itifálico	nome masculino	i|ti|[fá]|li|co
+itifalo	nome masculino	i|ti|[fa]|lo
+itinerância	nome feminino	i|ti|ne|[rân]|ci|a
+itinerante	adjetivo	i|ti|ne|[ran]|te
+itinerante	nome masculino	i|ti|ne|[ran]|te
+itinerante	nome feminino	i|ti|ne|[ran]|te
+itinerário	nome masculino	i|ti|ne|[rá]|ri|o
+itinerário	adjetivo	i|ti|ne|[rá]|ri|o
+itoneu	adjetivo	i|to|[neu]
+itoneu	nome masculino	i|to|[neu]
+itororó	nome masculino	i|to|ro|[ró]
+ítrio	nome masculino	[í]|tri|o
+itu	nome masculino	i|[tu]
+ituá	nome masculino	i|tu|[á]
+ituano	adjetivo	i|tu|[a]|no
+ituano	nome masculino	i|tu|[a]|no
+ituí	nome masculino	i|tu|[í]
+itupava	nome feminino	i|tu|[pa]|va
+itureu	adjetivo	i|tu|[reu]
+itureu	nome masculino	i|tu|[reu]
+iú	nome masculino	i|[ú]
+iúca	nome feminino	i|[ú]|ca
+iuçá	nome masculino	iu|[çá]
+iucatego	nome masculino	iu|ca|[te]|go
+iucatego	adjetivo	iu|ca|[te]|go
+iucateque	adjetivo	iu|ca|[te]|que
+iucateque	nome masculino	iu|ca|[te]|que
+iucateque	nome feminino	iu|ca|[te]|que
+iugoslava	nome feminino	iu|gos|[la]|va
+iugoslavo	nome masculino	iu|gos|[la]|vo
+iugoslavo	adjetivo	iu|gos|[la]|vo
+iulídeo	nome masculino	iu|[lí]|de|o
+iva	nome feminino	[i]|va
+ivantiji	nome masculino	i|van|ti|[ji]
+ivirapema	nome feminino	i|vi|ra|[pe]|ma

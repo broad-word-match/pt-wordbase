@@ -1,0 +1,100 @@
+ginecómana	nome feminino	gi|ne|[có]|ma|na
+ginecomania	nome feminino	gi|ne|co|ma|[ni]|a
+ginecomaníaco	adjetivo	gi|ne|co|ma|[ní]|a|co
+ginecomaníaco	nome masculino	gi|ne|co|ma|[ní]|a|co
+ginecômano	adjetivo	gi|ne|[cô]|ma|no
+ginecômano	nome masculino	gi|ne|[cô]|ma|no
+ginecómano	adjetivo	gi|ne|[có]|ma|no
+ginecómano	nome masculino	gi|ne|[có]|ma|no
+ginecomastia	nome feminino	gi|ne|co|mas|[ti]|a
+ginecomasto	adjetivo	gi|ne|co|[mas]|to
+ginecomasto	nome masculino	gi|ne|co|[mas]|to
+ginecônomo	nome masculino	gi|ne|[cô]|no|mo
+ginecónomo	nome masculino	gi|ne|[có]|no|mo
+ginecopata	nome masculino	gi|ne|co|[pa]|ta
+ginecopata	nome feminino	gi|ne|co|[pa]|ta
+ginecopatia	nome feminino	gi|ne|co|pa|[ti]|a
+ginecopático	adjetivo	gi|ne|co|[pá]|ti|co
+ginecosofia	nome feminino	gi|ne|co|so|[fi]|a
+ginefobia	nome feminino	gi|ne|fo|[bi]|a
+ginério	nome masculino	gi|[né]|ri|o
+gineta	nome feminino	gi|[ne]|ta
+ginetaço	nome masculino	gi|ne|[ta]|ço
+ginetado	adjetivo	gi|ne|[ta]|do
+ginete	nome masculino	gi|[ne]|te
+ginetear	verbo	gi|ne|te|[ar]
+gineto	nome masculino	gi|[ne]|to
+ginga	nome feminino	[gin]|ga
+gingação	nome feminino	gin|ga|[ção]
+gingado	adjetivo	gin|[ga]|do
+gingador	nome masculino	gin|ga|[dor]
+gingante	adjetivo	gin|[gan]|te
+gingão	adjetivo	gin|[gão]
+gingão	nome masculino	gin|[gão]
+gingar	verbo	gin|[gar]
+gingelim	nome masculino	gin|ge|[lim]
+gingelina	nome feminino	gin|ge|[li]|na
+gingerlina	nome feminino	gin|ger|[li]|na
+gingídio	nome masculino	gin|[gí]|di|o
+gínglimo	nome masculino	[gín]|gli|mo
+gingo	nome masculino	[gin]|go
+gingona	nome feminino	gin|[go]|na
+gingonçado	adjetivo	gin|gon|[ça]|do
+ginguba	nome feminino	gin|[gu]|ba
+ginguista	nome masculino	gin|[guis]|ta
+ginguista	nome feminino	gin|[guis]|ta
+ginja	nome feminino	[gin]|ja
+ginja	nome masculino	[gin]|ja
+ginjal	nome masculino	gin|[jal]
+ginjeira	nome feminino	gin|[jei]|ra
+ginjeira-do-brasil	nome feminino	gin|jei|ra-do-bra|[sil]
+ginjinha	nome feminino	gin|[ji]|nha
+ginóbase	nome feminino	gi|[nó]|ba|se
+ginobásico	adjetivo	gi|no|[bá]|si|co
+ginobático	adjetivo	gi|no|[bá]|ti|co
+ginocracia	nome feminino	gi|no|cra|[ci]|a
+ginocrático	adjetivo	gi|no|[crá]|ti|co
+ginofobia	nome feminino	gi|no|fo|[bi]|a
+ginófobo	adjetivo	gi|[nó]|fo|bo
+ginófobo	nome masculino	gi|[nó]|fo|bo
+ginoforado	adjetivo	gi|no|fo|[ra]|do
+ginóforo	nome masculino	gi|[nó]|fo|ro
+ginópode	nome masculino	gi|[nó]|po|de
+ginostema	nome masculino	gi|nos|[te]|ma
+ginostémio	nome masculino	gi|nos|[té]|mi|o
+ginostêmio	nome masculino	gi|nos|[tê]|mi|o
+ginseng	nome masculino	[gin]|seng
+gio	nome masculino	[gi]|o
+giobertita	nome feminino	gi|o|ber|[ti]|ta
+giobertite	nome feminino	gi|o|ber|[ti]|te
+giota	nome feminino	gi|[o]|ta
+gipaeto	nome masculino	gi|pa|[e]|to
+gípseo	adjetivo	[gíp]|se|o
+gipsífero	adjetivo	gip|[sí]|fe|ro
+gipsite	nome feminino	gip|[si]|te
+gipso	nome masculino	[gip]|so
+gipsófila	nome feminino	gip|[só]|fi|la
+gipsografia	nome feminino	gip|so|gra|[fi]|a
+gipsográfico	adjetivo	gip|so|[grá]|fi|co
+gipsometria	nome feminino	gip|so|me|[tri]|a
+gipsométrico	adjetivo	gip|so|[mé]|tri|co
+gipsômetro	nome masculino	gip|[sô]|me|tro
+gipsómetro	nome masculino	gip|[só]|me|tro
+gipsoso	adjetivo	gip|[so]|so
+gipsoteca	nome feminino	gip|so|[te]|ca
+gira	nome masculino	[gi]|ra
+gira	nome feminino	[gi]|ra
+gira-discos	nome masculino	gi|ra-dis|cos
+gira-pescoço	nome masculino	gi|ra-pes|[co]|ço
+giraba	nome feminino	gi|[ra]|ba
+giração	nome feminino	gi|ra|[ção]
+girador	nome masculino	gi|ra|[dor]
+girador	adjetivo	gi|ra|[dor]
+giradora	nome feminino	gi|ra|[do]|ra
+girafa	nome feminino	gi|[ra]|fa
+giráfida	nome masculino	gi|[rá]|fi|da
+girafídeo	nome masculino	gi|ra|[fí]|de|o
+girafídeo	adjetivo	gi|ra|[fí]|de|o
+giraldinha	nome feminino	gi|ral|[di]|nha
+girândola	nome feminino	gi|[rân]|do|la
+girandolar	verbo	gi|ran|do|[lar]

@@ -1,0 +1,100 @@
+subfiliforme	adjetivo	sub|fi|li|[for]|me
+subfluvial	adjetivo	sub|flu|vi|[al]
+subfoliáceo	adjetivo	sub|fo|li|[á]|ce|o
+subfretador	nome masculino	sub|fre|ta|[dor]
+subfretar	verbo	sub|fre|[tar]
+subfusiforme	adjetivo	sub|fu|si|[for]|me
+subgalhato	nome masculino	sub|ga|[lha]|to
+subgelatinoso	adjetivo	sub|ge|la|ti|[no]|so
+subgeminado	adjetivo	sub|ge|mi|[na]|do
+subgemíparo	adjetivo	sub|ge|[mí]|pa|ro
+subgénero	nome masculino	sub|[gé]|ne|ro
+subgênero	nome masculino	sub|[gê]|ne|ro
+subgerente	nome masculino	sub|ge|[ren]|te
+subgerente	nome feminino	sub|ge|[ren]|te
+subglabro	adjetivo	sub|[gla]|bro
+subgloboso	adjetivo	sub|glo|[bo]|so
+subglobuloso	adjetivo	sub|glo|bu|[lo]|so
+subgrave	adjetivo	sub|[gra]|ve
+subgrupo	nome masculino	sub|[gru]|po
+subicterícia	nome feminino	su|bic|te|[rí]|ci|a
+subictérico	adjetivo	su|bic|[té]|ri|co
+subida	nome feminino	su|[bi]|da
+subidamente	advérbio	su|bi|da|[men]|te
+subideira	nome feminino	su|bi|[dei]|ra
+subideiro	nome masculino	su|bi|[dei]|ro
+subido	adjetivo	su|[bi]|do
+subidouro	nome masculino	su|bi|[dou]|ro
+subimbrical	adjetivo	su|bim|bri|[cal]
+subimento	nome masculino	su|bi|[men]|to
+subinferior	adjetivo	su|bin|fe|ri|[or]
+subinflamação	nome feminino	su|bin|fla|ma|[ção]
+subinflamatório	adjetivo	su|bin|fla|ma|[tó]|ri|o
+subinspeção	nome feminino	su|bins|pe|[ção]
+subinspetor	nome masculino	su|bins|pe|[tor]
+subinspetora	nome feminino	su|bins|pe|[to]|ra
+subinspetoria	nome feminino	su|bins|pe|to|[ri]|a
+subinte	adjetivo	su|[bin]|te
+subintenção	nome feminino	su|bin|ten|[ção]
+subintencional	adjetivo	su|bin|ten|ci|o|[nal]
+subintencionalmente	advérbio	su|bin|ten|ci|o|nal|[men]|te
+subintendência	nome feminino	su|bin|ten|[dên]|ci|a
+subintendente	nome masculino	su|bin|ten|[den]|te
+subintendente	nome feminino	su|bin|ten|[den]|te
+subintender	verbo	su|bin|ten|[der]
+subintitular	verbo	su|bin|ti|tu|[lar]
+subintrante	adjetivo	su|bin|[tran]|te
+subinvolução	nome feminino	su|bin|vo|lu|[ção]
+subir	verbo	su|[bir]
+subitamente	advérbio	su|bi|ta|[men]|te
+subitaneamente	advérbio	su|bi|ta|ne|a|[men]|te
+subitaneidade	nome feminino	su|bi|ta|nei|[da]|de
+subitâneo	adjetivo	su|bi|[tâ]|ne|o
+súbitas	nome masculino	[sú]|bi|tas
+subiterícia	nome feminino	su|bi|te|[rí]|ci|a
+subitérico	adjetivo	su|bi|[té]|ri|co
+súbito	adjetivo	[sú]|bi|to
+súbito	advérbio	[sú]|bi|to
+súbito	nome masculino	[sú]|bi|to
+subível	adjetivo	su|[bí]|vel
+subjacente	adjetivo	sub|ja|[cen]|te
+subjacentemente	advérbio	sub|ja|cen|te|[men]|te
+subjazer	verbo	sub|ja|[zer]
+subjeção	nome feminino	sub|je|[ção]
+subjecção	nome feminino	sub|jec|[ção]
+subjetivação	nome feminino	sub|je|ti|va|[ção]
+subjetivamente	advérbio	sub|je|ti|va|[men]|te
+subjetivar	verbo	sub|je|ti|[var]
+subjetividade	nome feminino	sub|je|ti|vi|[da]|de
+subjetivismo	nome masculino	sub|je|ti|[vis]|mo
+subjetivista	adjetivo	sub|je|ti|[vis]|ta
+subjetivista	nome masculino	sub|je|ti|[vis]|ta
+subjetivista	nome feminino	sub|je|ti|[vis]|ta
+subjetivístico	adjetivo	sub|je|ti|[vís]|ti|co
+subjetivizar	verbo	sub|je|ti|vi|[zar]
+subjetivo	adjetivo	sub|je|[ti]|vo
+subjetivo	nome masculino	sub|je|[ti]|vo
+subjugação	nome feminino	sub|ju|ga|[ção]
+subjugado	adjetivo	sub|ju|[ga]|do
+subjugador	adjetivo	sub|ju|ga|[dor]
+subjugador	nome masculino	sub|ju|ga|[dor]
+subjugante	adjetivo	sub|ju|[gan]|te
+subjugar	verbo	sub|ju|[gar]
+subjugável	adjetivo	sub|ju|[gá]|vel
+subjunção	nome feminino	sub|jun|[ção]
+subjuntivo	adjetivo	sub|jun|[ti]|vo
+subjuntivo	nome masculino	sub|jun|[ti]|vo
+sublacense	adjetivo	sub|la|[cen]|se
+sublacense	nome masculino	sub|la|[cen]|se
+sublacense	nome feminino	sub|la|[cen]|se
+sublacustre	adjetivo	sub|la|[cus]|tre
+sublamelar	adjetivo	sub|la|me|[lar]
+sublapsário	adjetivo	sub|lap|[sá]|ri|o
+sublapsário	nome masculino	sub|lap|[sá]|ri|o
+sublativo	adjetivo	sub|la|[ti]|vo
+sublativo	nome masculino	sub|la|[ti]|vo
+sublenhoso	adjetivo	sub|le|[nho]|so
+sublevação	nome feminino	su|ble|va|[ção]
+sublevada	nome feminino	su|ble|[va]|da
+sublevado	nome masculino	su|ble|[va]|do
+sublevado	adjetivo	su|ble|[va]|do

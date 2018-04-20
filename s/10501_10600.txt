@@ -1,0 +1,100 @@
+supervivente	adjetivo	su|per|vi|[ven]|te
+supervivente	nome masculino	su|per|vi|[ven]|te
+supervivente	nome feminino	su|per|vi|[ven]|te
+supervolutivo	adjetivo	su|per|vo|lu|[ti]|vo
+supetão	nome masculino	su|pe|[tão]
+súpeto	nome masculino	[sú]|pe|to
+supi	nome masculino	su|[pi]
+supimpa	adjetivo	su|[pim]|pa
+supinação	nome feminino	su|pi|na|[ção]
+supinador	nome masculino	su|pi|na|[dor]
+supinador	adjetivo	su|pi|na|[dor]
+supinamente	advérbio	su|pi|na|[men]|te
+supino	nome masculino	su|[pi]|no
+supino	adjetivo	su|[pi]|no
+supitamente	advérbio	su|pi|ta|[men]|te
+súpito	advérbio	[sú]|pi|to
+súpito	adjetivo	[sú]|pi|to
+suplantação	nome feminino	su|plan|ta|[ção]
+suplantador	adjetivo	su|plan|ta|[dor]
+suplantador	nome masculino	su|plan|ta|[dor]
+suplantar	verbo	su|plan|[tar]
+suplantável	adjetivo	su|plan|[tá]|vel
+suplementação	nome feminino	su|ple|men|ta|[ção]
+suplementar	adjetivo	su|ple|men|[tar]
+suplementar	verbo	su|ple|men|[tar]
+suplementário	adjetivo	su|ple|men|[tá]|ri|o
+suplementarmente	advérbio	su|ple|men|tar|[men]|te
+suplemento	nome masculino	su|ple|[men]|to
+suplência	nome feminino	su|[plên]|ci|a
+suplente	adjetivo	su|[plen]|te
+suplente	nome masculino	su|[plen]|te
+suplente	nome feminino	su|[plen]|te
+supletivamente	advérbio	su|ple|ti|va|[men]|te
+supletivo	adjetivo	su|ple|[ti]|vo
+supletoriamente	advérbio	su|ple|to|ri|a|[men]|te
+supletório	adjetivo	su|ple|[tó]|ri|o
+súplica	nome feminino	[sú]|pli|ca
+suplicação	nome feminino	su|pli|ca|[ção]
+suplicada	nome feminino	su|pli|[ca]|da
+suplicado	adjetivo	su|pli|[ca]|do
+suplicado	nome masculino	su|pli|[ca]|do
+suplicador	adjetivo	su|pli|ca|[dor]
+suplicador	nome masculino	su|pli|ca|[dor]
+suplicamento	nome masculino	su|pli|ca|[men]|to
+suplicante	nome masculino	su|pli|[can]|te
+suplicante	adjetivo	su|pli|[can]|te
+suplicante	nome feminino	su|pli|[can]|te
+suplicantemente	advérbio	su|pli|can|te|[men]|te
+suplicar	verbo	su|pli|[car]
+suplicativamente	advérbio	su|pli|ca|ti|va|[men]|te
+suplicativo	adjetivo	su|pli|ca|[ti]|vo
+suplicatoriamente	advérbio	su|pli|ca|to|ri|a|[men]|te
+suplicatório	adjetivo	su|pli|ca|[tó]|ri|o
+súplice	adjetivo	[sú]|pli|ce
+suplicemente	advérbio	su|pli|ce|[men]|te
+supliciada	nome feminino	su|pli|ci|[a]|da
+supliciado	adjetivo	su|pli|ci|[a]|do
+supliciado	nome masculino	su|pli|ci|[a]|do
+supliciador	adjetivo	su|pli|ci|a|[dor]
+supliciador	nome masculino	su|pli|ci|a|[dor]
+supliciamento	nome masculino	su|pli|ci|a|[men]|to
+supliciante	adjetivo	su|pli|ci|[an]|te
+supliciar	verbo	su|pli|ci|[ar]
+suplício	nome masculino	su|[plí]|ci|o
+súplico	nome masculino	[sú]|pli|co
+supo	nome masculino	[su]|po
+supontar	verbo	su|pon|[tar]
+supor	verbo	su|[por]
+supor	nome masculino	su|[por]
+supormos	nome masculino	su|[por]|mos
+suportabilidade	nome feminino	su|por|ta|bi|li|[da]|de
+suportação	nome feminino	su|por|ta|[ção]
+suportamento	nome masculino	su|por|ta|[men]|to
+suportar	verbo	su|por|[tar]
+suportável	adjetivo	su|por|[tá]|vel
+suportavelmente	advérbio	su|por|ta|vel|[men]|te
+suporte	nome masculino	su|[por]|te
+suposição	nome feminino	su|po|si|[ção]
+supositício	adjetivo	su|po|si|[tí]|ci|o
+supositivo	nome masculino	su|po|si|[ti]|vo
+supositivo	adjetivo	su|po|si|[ti]|vo
+supositório	nome masculino	su|po|si|[tó]|ri|o
+supostamente	advérbio	su|pos|ta|[men]|te
+suposto	nome masculino	su|[pos]|to
+suposto	adjetivo	su|[pos]|to
+supra	advérbio	[su]|pra
+supra	nome masculino	[su]|pra
+supra-auricular	adjetivo	su|pra-au|ri|cu|[lar]
+supra-axilar	adjetivo	su|pra-a|xi|[lar]
+supra-hepático	adjetivo	su|pra-he|[pá]|ti|co
+supraceleste	adjetivo	su|pra|ce|[les]|te
+supraciliar	adjetivo	su|pra|ci|li|[ar]
+supracitado	adjetivo	su|pra|ci|[ta]|do
+supracitar	verbo	su|pra|ci|[tar]
+supracondutividade	nome feminino	su|pra|con|du|ti|vi|[da]|de
+supracondutor	adjetivo	su|pra|con|du|[tor]
+supracostal	adjetivo	su|pra|cos|[tal]
+supracretaico	adjetivo	su|pra|cre|[tai]|co
+supradental	adjetivo	su|pra|den|[tal]
+supradental	nome feminino	su|pra|den|[tal]

@@ -1,0 +1,100 @@
+temperamental	nome feminino	tem|pe|ra|men|[tal]
+temperamento	nome masculino	tem|pe|ra|[men]|to
+temperança	nome feminino	tem|pe|[ran]|ça
+temperante	adjetivo	tem|pe|[ran]|te
+temperar	verbo	tem|pe|[rar]
+temperatura	nome feminino	tem|pe|ra|[tu]|ra
+temperatural	adjetivo	tem|pe|ra|tu|[ral]
+temperável	adjetivo	tem|pe|[rá]|vel
+tempereiro	nome masculino	tem|pe|[rei]|ro
+tempérie	nome feminino	tem|[pé]|ri|e
+temperilha	nome feminino	tem|pe|[ri]|lha
+temperilho	nome masculino	tem|pe|[ri]|lho
+tempero	nome masculino	tem|[pe]|ro
+tempestade	nome feminino	tem|pes|[ta]|de
+tempestear	verbo	tem|pes|te|[ar]
+tempestivamente	advérbio	tem|pes|ti|va|[men]|te
+tempestividade	nome feminino	tem|pes|ti|vi|[da]|de
+tempestivo	adjetivo	tem|pes|[ti]|vo
+tempestuar	verbo	tem|pes|tu|[ar]
+tempestuosamente	advérbio	tem|pes|tu|o|sa|[men]|te
+tempestuosidade	nome feminino	tem|pes|tu|o|si|[da]|de
+tempestuoso	adjetivo	tem|pes|tu|[o]|so
+tempíssimo	nome masculino	tem|[pís]|si|mo
+tempista	nome masculino	tem|[pis]|ta
+tempista	nome feminino	tem|[pis]|ta
+templário	nome masculino	tem|[plá]|ri|o
+templário	adjetivo	tem|[plá]|ri|o
+templetónia	nome feminino	tem|ple|[tó]|ni|a
+templetônia	nome feminino	tem|ple|[tô]|ni|a
+templo	nome masculino	[tem]|plo
+tempo	nome masculino	[tem]|po
+tempo-quente	nome masculino	tem|po-quen|te
+tempo-será	nome masculino	tem|po-se|[rá]
+têmpora	nome feminino	[têm]|po|ra
+temporada	nome feminino	tem|po|[ra]|da
+temporal	adjetivo	tem|po|[ral]
+temporal	nome masculino	tem|po|[ral]
+temporal	nome feminino	tem|po|[ral]
+temporalidade	nome feminino	tem|po|ra|li|[da]|de
+temporalizar	verbo	tem|po|ra|li|[zar]
+temporalmente	advérbio	tem|po|ral|[men]|te
+temporãmente	advérbio	tem|po|rã|[men]|te
+temporaneidade	nome feminino	tem|po|ra|nei|[da]|de
+temporâneo	adjetivo	tem|po|[râ]|ne|o
+temporão	adjetivo	tem|po|[rão]
+temporariamente	advérbio	tem|po|ra|ri|a|[men]|te
+temporário	adjetivo	tem|po|[rá]|ri|o
+têmporas	nome feminino	[têm]|po|ras
+temporauricular	adjetivo	tem|po|rau|ri|cu|[lar]
+temporejar	verbo	tem|po|re|[jar]
+temporização	nome feminino	tem|po|ri|za|[ção]
+temporizador	nome masculino	tem|po|ri|za|[dor]
+temporizador	adjetivo	tem|po|ri|za|[dor]
+temporizadora	nome feminino	tem|po|ri|za|[do]|ra
+temporizamento	nome masculino	tem|po|ri|za|[men]|to
+temporizar	verbo	tem|po|ri|[zar]
+temporoccipital	adjetivo	tem|po|roc|ci|pi|[tal]
+temporofacial	adjetivo	tem|po|ro|fa|ci|[al]
+temporomaxilar	adjetivo	tem|po|ro|ma|xi|[lar]
+temporoparietal	adjetivo	tem|po|ro|pa|ri|e|[tal]
+tempsano	adjetivo	temp|[sa]|no
+tempsano	nome masculino	temp|[sa]|no
+tempura	nome masculino	tem|[pu]|ra
+temuda	nome feminino	te|[mu]|da
+temudo	adjetivo	te|[mu]|do
+temulência	nome feminino	te|mu|[lên]|ci|a
+temulento	adjetivo	te|mu|[len]|to
+tenace	adjetivo	te|[na]|ce
+tenacidade	nome feminino	te|na|ci|[da]|de
+tenáculo	nome masculino	te|[ná]|cu|lo
+tenador	nome masculino	te|na|[dor]
+tenalgia	nome feminino	te|nal|[gi]|a
+tenálgico	adjetivo	te|[nál]|gi|co
+tenalha	nome feminino	te|[na]|lha
+tenalhão	nome masculino	te|na|[lhão]
+tenalina	nome feminino	te|na|[li]|na
+tenantite	nome feminino	te|nan|[ti]|te
+tenar	nome masculino	te|[nar]
+tenaz	nome feminino	te|[naz]
+tenaz	adjetivo	te|[naz]
+tenazmente	advérbio	te|naz|[men]|te
+tenca	nome feminino	[ten]|ca
+tença	nome feminino	[ten]|ça
+tenção	nome feminino	ten|[ção]
+tenceiro	nome masculino	ten|[cei]|ro
+tencionar	verbo	ten|ci|o|[nar]
+tencionário	nome masculino	ten|ci|o|[ná]|ri|o
+tencioneiro	adjetivo	ten|ci|o|[nei]|ro
+tençoeiro	adjetivo	ten|ço|[ei]|ro
+tenctero	adjetivo	tenc|[te]|ro
+tenctero	nome masculino	tenc|[te]|ro
+tenda	nome feminino	[ten]|da
+tendal	nome masculino	ten|[dal]
+tendão	nome masculino	ten|[dão]
+tendedeira	nome feminino	ten|de|[dei]|ra
+tendedura	nome feminino	ten|de|[du]|ra
+tendeira	nome feminino	ten|[dei]|ra
+tendeiro	nome masculino	ten|[dei]|ro
+tendelhão	nome masculino	ten|de|[lhão]
+tendelim	nome masculino	ten|de|[lim]

@@ -1,0 +1,100 @@
+entrepasso	nome masculino	en|tre|[pas]|so
+entrepausa	nome feminino	en|tre|[pau]|sa
+entrepelado	adjetivo	en|tre|pe|[la]|do
+entrepelejar	verbo	en|tre|pe|le|[jar]
+entrepernas	advérbio	en|tre|[per]|nas
+entrepernas	nome masculino	en|tre|[per]|nas
+entrepilastra	nome feminino	en|tre|pi|[las]|tra
+entrepiso	nome masculino	en|tre|[pi]|so
+entreplicar	verbo	en|tre|pli|[car]
+entreponte	nome feminino	en|tre|[pon]|te
+entrepor	verbo	en|tre|[por]
+entrepósito	nome masculino	en|tre|[pó]|si|to
+entreposto	nome masculino	en|tre|[pos]|to
+entreprendente	adjetivo	en|tre|pren|[den]|te
+entreprender	verbo	en|tre|pren|[der]
+entrepresa	nome feminino	en|tre|[pre]|sa
+entrequerer	verbo	en|tre|que|[rer]
+entrereunir	verbo	en|tre|reu|[nir]
+entrerregar	verbo	en|trer|re|[gar]
+entrerriana	nome feminino	en|trer|ri|[a]|na
+entrerriano	adjetivo	en|trer|ri|[a]|no
+entrerriano	nome masculino	en|trer|ri|[a]|no
+entrerriense	adjetivo	en|trer|ri|[en]|se
+entrerriense	nome masculino	en|trer|ri|[en]|se
+entrerriense	nome feminino	en|trer|ri|[en]|se
+entrerrioense	adjetivo	en|trer|ri|o|[en]|se
+entrerrioense	nome masculino	en|trer|ri|o|[en]|se
+entrerrioense	nome feminino	en|trer|ri|o|[en]|se
+entrescolher	verbo	en|tres|co|[lher]
+entrescutar	verbo	en|tres|cu|[tar]
+entresilhado	adjetivo	en|tre|si|[lha]|do
+entresilhar	verbo	en|tre|si|[lhar]
+entressacar	verbo	en|tres|sa|[car]
+entressachar	verbo	en|tres|sa|[char]
+entressafra	nome feminino	en|tres|[sa]|fra
+entresseio	nome masculino	en|tres|[sei]|o
+entressemear	verbo	en|tres|se|me|[ar]
+entressola	nome feminino	en|tres|[so]|la
+entressolhar	verbo	en|tres|so|[lhar]
+entressolho	nome masculino	en|tres|[so]|lho
+entressonhar	verbo	en|tres|so|[nhar]
+entressonho	nome masculino	en|tres|[so]|nho
+entressorrir	verbo	en|tres|sor|[rir]
+entressorriso	nome masculino	en|tres|sor|[ri]|so
+entretalhador	adjetivo	en|tre|ta|lha|[dor]
+entretalhador	nome masculino	en|tre|ta|lha|[dor]
+entretalhadura	nome feminino	en|tre|ta|lha|[du]|ra
+entretalhar	verbo	en|tre|ta|[lhar]
+entretalho	nome masculino	en|tre|[ta]|lho
+entretanto	nome masculino	en|tre|[tan]|to
+entretanto	advérbio	en|tre|[tan]|to
+entretanto	conjunção	en|tre|[tan]|to
+entretecedor	adjetivo	en|tre|te|ce|[dor]
+entretecedor	nome masculino	en|tre|te|ce|[dor]
+entretecedura	nome feminino	en|tre|te|ce|[du]|ra
+entretecer	verbo	en|tre|te|[cer]
+entretecimento	nome masculino	en|tre|te|ci|[men]|to
+entretecível	adjetivo	en|tre|te|[cí]|vel
+entretela	nome feminino	en|tre|[te]|la
+entretelar	verbo	en|tre|te|[lar]
+entretém	nome masculino	en|tre|[tém]
+entretenga	nome feminino	en|tre|[ten]|ga
+entretenimento	nome masculino	en|tre|te|ni|[men]|to
+entreter	verbo	en|tre|[ter]
+entretesta	nome feminino	en|tre|[tes]|ta
+entretetos	nome masculino	en|tre|[te]|tos
+entretido	adjetivo	en|tre|[ti]|do
+entretimento	nome masculino	en|tre|ti|[men]|to
+entretinho	nome masculino	en|tre|[ti]|nho
+entretom	nome masculino	en|[tre]|tom
+entreturbar	verbo	en|tre|tur|[bar]
+entreunir	verbo	en|treu|[nir]
+entrevação	nome feminino	en|tre|va|[ção]
+entrevada	nome feminino	en|tre|[va]|da
+entrevado	adjetivo	en|tre|[va]|do
+entrevado	nome masculino	en|tre|[va]|do
+entrevamento	nome masculino	en|tre|va|[men]|to
+entrevar	verbo	en|tre|[var]
+entreveado	adjetivo	en|tre|ve|[a]|do
+entrevecer	verbo	en|tre|ve|[cer]
+entrevecimento	nome masculino	en|tre|ve|ci|[men]|to
+entrever	verbo	en|tre|[ver]
+entreverar	verbo	en|tre|ve|[rar]
+entreverde	adjetivo	en|tre|[ver]|de
+entreverde	nome masculino	en|tre|[ver]|de
+entrevero	nome masculino	en|tre|[ve]|ro
+entrevia	nome feminino	en|tre|[vi]|a
+entreviga	nome feminino	en|tre|[vi]|ga
+entrevinda	nome feminino	en|tre|[vin]|da
+entrevista	nome feminino	en|tre|[vis]|ta
+entrevistada	nome feminino	en|tre|vis|[ta]|da
+entrevistado	adjetivo	en|tre|vis|[ta]|do
+entrevistado	nome masculino	en|tre|vis|[ta]|do
+entrevistador	adjetivo	en|tre|vis|ta|[dor]
+entrevistador	nome masculino	en|tre|vis|ta|[dor]
+entrevistadora	nome feminino	en|tre|vis|ta|[do]|ra
+entrevistar	verbo	en|tre|vis|[tar]
+entrevisto	adjetivo	en|tre|[vis]|to
+entrezar	verbo	en|tre|[zar]
+entrilhar	verbo	en|tri|[lhar]

@@ -1,0 +1,11 @@
+rutina	nome feminino	ru|[ti]|na
+rutínico	adjetivo	ru|[tí]|ni|co
+rútulo	nome masculino	[rú]|tu|lo
+rutupino	adjetivo	ru|tu|[pi]|no
+rutupino	nome masculino	ru|tu|[pi]|no
+rutura	nome feminino	ru|[tu]|ra
+ruvinhoso	adjetivo	ru|vi|[nho]|so
+ruxaxá	nome masculino	ru|xa|[xá]
+ruxaxá	interjeição	ru|xa|[xá]
+ruxoxó	nome masculino	ru|xo|[xó]
+ruxoxó	interjeição	ru|xo|[xó]

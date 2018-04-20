@@ -1,0 +1,100 @@
+polha	nome feminino	[po]|lha
+polhastro	nome masculino	po|[lhas]|tro
+polhastro	adjetivo	po|[lhas]|tro
+polheira	nome feminino	po|[lhei]|ra
+polho	nome masculino	[po]|lho
+polia	nome feminino	po|[li]|a
+poliacanto	adjetivo	po|li|a|[can]|to
+poliacanto	nome masculino	po|li|a|[can]|to
+poliácido	nome masculino	po|li|[á]|ci|do
+poliadelfia	nome feminino	po|li|a|del|[fi]|a
+poliadelfite	nome feminino	po|li|a|del|[fi]|te
+poliadelfo	adjetivo	po|li|a|[del]|fo
+poliadénia	nome feminino	po|li|a|[dé]|ni|a
+poliadênia	nome feminino	po|li|a|[dê]|ni|a
+poliadenoma	nome masculino	po|li|a|de|[no]|ma
+poliálcool	nome masculino	po|li|[ál]|co|ol
+poliamida	nome feminino	po|li|a|[mi]|da
+poliamina	nome feminino	po|li|a|[mi]|na
+poliandra	adjetivo	po|li|[an]|dra
+poliandra	nome feminino	po|li|[an]|dra
+poliândria	nome feminino	po|li|[ân]|dri|a
+poliandria	nome feminino	po|li|an|[dri]|a
+poliândrico	adjetivo	po|li|[ân]|dri|co
+poliândrio	nome masculino	po|li|[ân]|dri|o
+poliandro	adjetivo	po|li|[an]|dro
+polianite	nome feminino	po|li|a|[ni]|te
+polianteia	nome feminino	po|li|an|[tei]|a
+polianto	adjetivo	po|li|[an]|to
+poliaquénio	nome masculino	po|li|a|[qué]|ni|o
+poliaquênio	nome masculino	po|li|a|[quê]|ni|o
+poliarco	nome masculino	po|li|[ar]|co
+poliargirite	nome feminino	po|li|ar|gi|[ri]|te
+poliaromático	adjetivo	po|li|a|ro|[má]|ti|co
+poliarquia	nome feminino	po|li|ar|[qui]|a
+poliárquico	adjetivo	po|li|[ár]|qui|co
+poliarsenite	nome feminino	po|li|ar|se|[ni]|te
+poliarticulado	adjetivo	po|li|ar|ti|cu|[la]|do
+poliarticular	adjetivo	po|li|ar|ti|cu|[lar]
+poliartrite	nome feminino	po|li|ar|[tri]|te
+poliartrítico	adjetivo	po|li|ar|[trí]|ti|co
+poliatômico	adjetivo	po|li|a|[tô]|mi|co
+poliatómico	adjetivo	po|li|a|[tó]|mi|co
+polibã	nome masculino	po|li|[bã]
+poliban	nome masculino	po|li|ban
+polibásico	adjetivo	po|li|[bá]|si|co
+polibasite	nome feminino	po|li|ba|[si]|te
+poliblenia	nome feminino	po|li|ble|[ni]|a
+polição	nome feminino	po|li|[ção]
+policarpelar	adjetivo	po|li|car|pe|[lar]
+policárpico	adjetivo	po|li|[cár]|pi|co
+policarpo	nome masculino	po|li|[car]|po
+policarpo	adjetivo	po|li|[car]|po
+pólice	nome masculino	[pó]|li|ce
+policéfalo	adjetivo	po|li|[cé]|fa|lo
+policelular	adjetivo	po|li|ce|lu|[lar]
+policêntrico	adjetivo	po|li|[cên]|tri|co
+polichinelo	nome masculino	po|li|chi|[ne]|lo
+polícia	nome feminino	po|[lí]|ci|a
+polícia	nome masculino	po|[lí]|ci|a
+polícia-inglesa	nome feminino	po|lí|ci|a-in|gle|sa
+polícia-secreta	nome masculino	po|lí|ci|a-se|cre|ta
+policiado	adjetivo	po|li|ci|[a]|do
+policiador	adjetivo	po|li|ci|a|[dor]
+policiador	nome masculino	po|li|ci|a|[dor]
+policial	adjetivo	po|li|ci|[al]
+policial	nome masculino	po|li|ci|[al]
+policial	nome feminino	po|li|ci|[al]
+policialmente	advérbio	po|li|ci|al|[men]|te
+policiamento	nome masculino	po|li|ci|a|[men]|to
+policiar	verbo	po|li|ci|[ar]
+policiável	adjetivo	po|li|ci|[á]|vel
+policíclico	adjetivo	po|li|[cí]|cli|co
+policiesco	adjetivo	po|li|ci|[es]|co
+policistídeo	nome masculino	po|li|cis|[tí]|de|o
+policitação	nome feminino	po|li|ci|ta|[ção]
+policitemia	nome feminino	po|li|ci|te|[mi]|a
+policitêmico	adjetivo	po|li|ci|[tê]|mi|co
+policitémico	adjetivo	po|li|ci|[té]|mi|co
+policladia	nome feminino	po|li|cla|[di]|a
+policlínica	nome feminino	po|li|[clí]|ni|ca
+policlínico	nome masculino	po|li|[clí]|ni|co
+policlínico	adjetivo	po|li|[clí]|ni|co
+policlinídeo	nome masculino	po|li|cli|[ní]|de|o
+policneu	nome masculino	po|lic|[neu]
+policneu	adjetivo	po|lic|[neu]
+policolia	nome feminino	po|li|co|[li]|a
+policólico	adjetivo	po|li|[có]|li|co
+polícomo	adjetivo	po|[lí]|co|mo
+policônico	adjetivo	po|li|[cô]|ni|co
+policónico	adjetivo	po|li|[có]|ni|co
+policópia	nome feminino	po|li|[có]|pi|a
+policopiar	verbo	po|li|co|pi|[ar]
+policordo	nome masculino	po|li|[cor]|do
+policoria	nome feminino	po|li|co|[ri]|a
+policotiledôneo	adjetivo	po|li|co|ti|le|[dô]|ne|o
+policotiledóneo	adjetivo	po|li|co|ti|le|[dó]|ne|o
+policrásio	nome masculino	po|li|[crá]|si|o
+policresto	adjetivo	po|li|[cres]|to
+policroico	adjetivo	po|li|[croi]|co
+policroísmo	nome masculino	po|li|cro|[ís]|mo

@@ -1,0 +1,100 @@
+desvanecível	adjetivo	des|va|ne|[cí]|vel
+desvaneio	nome masculino	des|va|[nei]|o
+desvantagem	nome feminino	des|van|[ta]|gem
+desvantajosamente	advérbio	des|van|ta|jo|sa|[men]|te
+desvantajoso	adjetivo	des|van|ta|[jo]|so
+desvão	nome masculino	des|[vão]
+desvarar	verbo	des|va|[rar]
+desvariamento	nome masculino	des|va|ri|a|[men]|to
+desvariar	verbo	des|va|ri|[ar]
+desvaricado	adjetivo	des|va|ri|[ca]|do
+desvario	nome masculino	des|va|[ri]|o
+desveladamente	advérbio	des|ve|la|da|[men]|te
+desvelado	adjetivo	des|ve|[la]|do
+desvelar	verbo	des|ve|[lar]
+desvelejar	verbo	des|ve|le|[jar]
+desvelo	nome masculino	des|[ve]|lo
+desvencelhar	verbo	des|ven|ce|[lhar]
+desvencilhar	verbo	des|ven|ci|[lhar]
+desvendador	adjetivo	des|ven|da|[dor]
+desvendador	nome masculino	des|ven|da|[dor]
+desvendamento	nome masculino	des|ven|da|[men]|to
+desvendar	verbo	des|ven|[dar]
+desvendável	adjetivo	des|ven|[dá]|vel
+desveneração	nome feminino	des|ve|ne|ra|[ção]
+desvenerar	verbo	des|ve|ne|[rar]
+desvenoso	adjetivo	des|ve|[no]|so
+desventoso	adjetivo	des|ven|[to]|so
+desventração	nome feminino	des|ven|tra|[ção]
+desventrar	verbo	des|ven|[trar]
+desventura	nome feminino	des|ven|[tu]|ra
+desventurada	nome feminino	des|ven|tu|[ra]|da
+desventuradamente	advérbio	des|ven|tu|ra|da|[men]|te
+desventurado	adjetivo	des|ven|tu|[ra]|do
+desventurado	nome masculino	des|ven|tu|[ra]|do
+desventurar	verbo	des|ven|tu|[rar]
+desventuroso	adjetivo	des|ven|tu|[ro]|so
+desverdecer	verbo	des|ver|de|[cer]
+desvergonha	nome feminino	des|ver|[go]|nha
+desvergonhada	nome feminino	des|ver|go|[nha]|da
+desvergonhado	adjetivo	des|ver|go|[nha]|do
+desvergonhado	nome masculino	des|ver|go|[nha]|do
+desvergonhamento	nome masculino	des|ver|go|nha|[men]|to
+desvergonhar	verbo	des|ver|go|[nhar]
+desvertebração	nome feminino	des|ver|te|bra|[ção]
+desvertebrar	verbo	des|ver|te|[brar]
+desvestir	verbo	des|ves|[tir]
+desvezado	adjetivo	des|ve|[za]|do
+desvezar	verbo	des|ve|[zar]
+desviado	adjetivo	des|vi|[a]|do
+desviado	nome masculino	des|vi|[a]|do
+desviador	adjetivo	des|vi|a|[dor]
+desviador	nome masculino	des|vi|a|[dor]
+desviadora	nome feminino	des|vi|a|[do]|ra
+desviância	nome feminino	des|vi|[ân]|ci|a
+desviante	adjetivo	des|vi|[an]|te
+desviar	verbo	des|vi|[ar]
+desviável	adjetivo	des|vi|[á]|vel
+desviçoso	adjetivo	des|vi|[ço]|so
+desvidraçado	adjetivo	des|vi|dra|[ça]|do
+desvidraçar	verbo	des|vi|dra|[çar]
+desvidrado	adjetivo	des|vi|[dra]|do
+desvidrar	verbo	des|vi|[drar]
+desvigar	verbo	des|vi|[gar]
+desvigiar	verbo	des|vi|gi|[ar]
+desvigoramento	nome masculino	des|vi|go|ra|[men]|to
+desvigorar	verbo	des|vi|go|[rar]
+desvigorização	nome feminino	des|vi|go|ri|za|[ção]
+desvigorizar	verbo	des|vi|go|ri|[zar]
+desvigoroso	adjetivo	des|vi|go|[ro]|so
+desvincar	verbo	des|vin|[car]
+desvinculação	nome feminino	des|vin|cu|la|[ção]
+desvincular	verbo	des|vin|cu|[lar]
+desvinculável	adjetivo	des|vin|cu|[lá]|vel
+desvio	nome masculino	des|[vi]|o
+desvirar	verbo	des|vi|[rar]
+desvirgamento	nome masculino	des|vir|ga|[men]|to
+desvirgar	verbo	des|vir|[gar]
+desvirginamento	nome masculino	des|vir|gi|na|[men]|to
+desvirginar	verbo	des|vir|gi|[nar]
+desvirginização	nome feminino	des|vir|gi|ni|za|[ção]
+desvirginizar	verbo	des|vir|gi|ni|[zar]
+desvirgular	verbo	des|vir|gu|[lar]
+desvirilidade	nome feminino	des|vi|ri|li|[da]|de
+desvirilizador	adjetivo	des|vi|ri|li|za|[dor]
+desvirilizante	adjetivo	des|vi|ri|li|[zan]|te
+desvirilizar	verbo	des|vi|ri|li|[zar]
+desvirtuação	nome feminino	des|vir|tu|a|[ção]
+desvirtuado	adjetivo	des|vir|tu|[a]|do
+desvirtuador	adjetivo	des|vir|tu|a|[dor]
+desvirtuador	nome masculino	des|vir|tu|a|[dor]
+desvirtuamento	nome masculino	des|vir|tu|a|[men]|to
+desvirtuar	verbo	des|vir|tu|[ar]
+desvirtuável	adjetivo	des|vir|tu|[á]|vel
+desvirtude	nome feminino	des|vir|[tu]|de
+desvirtuoso	adjetivo	des|vir|tu|[o]|so
+desviscerar	verbo	des|vis|ce|[rar]
+desvisgar	verbo	des|vis|[gar]
+desvitalização	nome feminino	des|vi|ta|li|za|[ção]
+desvitalizar	verbo	des|vi|ta|li|[zar]
+desvitaminação	nome feminino	des|vi|ta|mi|na|[ção]

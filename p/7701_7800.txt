@@ -1,0 +1,100 @@
+pincel	nome masculino	pin|[cel]
+pincelada	nome feminino	pin|ce|[la]|da
+pincelagem	nome feminino	pin|ce|[la]|gem
+pincelar	verbo	pin|ce|[lar]
+pinceleiro	nome masculino	pin|ce|[lei]|ro
+pincenê	nome masculino	pin|ce|[nê]
+pincense	adjetivo	pin|[cen]|se
+pincense	nome masculino	pin|[cen]|se
+pincense	nome feminino	pin|[cen]|se
+pinceta	nome feminino	pin|[ce]|ta
+pinceus	nome masculino	pin|[ceus]
+pincha	nome feminino	[pin]|cha
+pinchão	adjetivo	pin|[chão]
+pinchar	verbo	pin|[char]
+pincharolar	verbo	pin|cha|ro|[lar]
+pinche	nome masculino	[pin]|che
+pincho	nome masculino	[pin]|cho
+pinciano	adjetivo	pin|ci|[a]|no
+pinçote	nome masculino	pin|[ço]|te
+pincre	adjetivo	[pin]|cre
+pínculas	nome feminino	[pín]|cu|las
+pindá	nome masculino	pin|[dá]
+pindabuna	nome feminino	pin|da|[bu]|na
+pindaíba	nome feminino	pin|da|[í]|ba
+pindaíva	nome feminino	pin|da|[í]|va
+pindaricamente	advérbio	pin|da|ri|ca|[men]|te
+pindárico	adjetivo	pin|[dá]|ri|co
+pindarismo	nome masculino	pin|da|[ris]|mo
+pindarista	adjetivo	pin|da|[ris]|ta
+pindarista	nome masculino	pin|da|[ris]|ta
+pindarista	nome feminino	pin|da|[ris]|ta
+pindarizar	verbo	pin|da|ri|[zar]
+pindauaca	nome feminino	pin|dau|[a]|ca
+pindaúba	nome feminino	pin|da|[ú]|ba
+pindenissa	adjetivo	pin|de|[nis]|sa
+pindenissa	nome masculino	pin|de|[nis]|sa
+pindenissa	nome feminino	pin|de|[nis]|sa
+pindenissita	adjetivo	pin|de|nis|[si]|ta
+pindenissita	nome masculino	pin|de|nis|[si]|ta
+pindenissita	nome feminino	pin|de|nis|[si]|ta
+pindericamente	advérbio	pin|de|ri|ca|[men]|te
+pindérico	adjetivo	pin|[dé]|ri|co
+pindérico	nome masculino	pin|[dé]|ri|co
+pinderiquismo	nome masculino	pin|de|ri|[quis]|mo
+pindoba	nome feminino	pin|[do]|ba
+pindobal	nome masculino	pin|do|[bal]
+pindonga	nome feminino	pin|[don]|ga
+pindongar	verbo	pin|don|[gar]
+pindorama	nome masculino	pin|do|[ra]|ma
+pindova	nome feminino	pin|[do]|va
+pindoval	nome masculino	pin|do|[val]
+pineal	adjetivo	pi|ne|[al]
+pineno	nome masculino	pi|[ne]|no
+pinense	nome masculino	pi|[nen]|se
+pinense	adjetivo	pi|[nen]|se
+pinense	nome feminino	pi|[nen]|se
+píneo	adjetivo	[pí]|ne|o
+pinéu	nome masculino	pi|[néu]
+ping-pong	nome masculino	[ping-pong]
+pinga	adjetivo	[pin]|ga
+pinga	nome masculino	[pin]|ga
+pinga	nome feminino	[pin]|ga
+pinga-amor	adjetivo	pin|ga-a|[mor]
+pinga-amor	nome masculino	pin|ga-a|[mor]
+pinga-amor	nome feminino	pin|ga-a|[mor]
+pingaço	nome masculino	pin|[ga]|ço
+pingada	nome feminino	pin|[ga]|da
+pingadeira	nome feminino	pin|ga|[dei]|ra
+pingado	adjetivo	pin|[ga]|do
+pingadoiro	nome masculino	pin|ga|[doi]|ro
+pingadouro	nome masculino	pin|ga|[dou]|ro
+pingalete	nome masculino	pin|ga|[le]|te
+pingalhada	nome feminino	pin|ga|[lha]|da
+pingalhar	verbo	pin|ga|[lhar]
+pingalhareta	nome feminino	pin|ga|lha|[re]|ta
+pingalhete	nome masculino	pin|ga|[lhe]|te
+pingalho	nome masculino	pin|[ga]|lho
+pingalim	nome masculino	pin|ga|[lim]
+pinganel	nome masculino	pin|ga|[nel]
+pinganelo	nome masculino	pin|ga|[ne]|lo
+pingante	adjetivo	pin|[gan]|te
+pingante	nome masculino	pin|[gan]|te
+pingante	nome feminino	pin|[gan]|te
+pingão	nome masculino	pin|[gão]
+pingão	adjetivo	pin|[gão]
+pingar	verbo	pin|[gar]
+pingarelho	nome masculino	pin|ga|[re]|lho
+pingato	nome masculino	pin|[ga]|to
+pingente	nome masculino	pin|[gen]|te
+pingo	nome masculino	[pin]|go
+pingo de tocha	nome masculino	[pin]|go de to|cha
+pingo-de-mel	nome masculino	pin|go-de-mel
+pingoé	nome masculino	pin|go|[é]
+pingola	nome feminino	pin|[go]|la
+pingolar	verbo	pin|go|[lar]
+pingolas	nome masculino	pin|[go]|las
+pingolas	nome feminino	pin|[go]|las
+pingoleta	nome feminino	pin|go|[le]|ta
+pingona	nome feminino	pin|[go]|na
+pingonheira	nome feminino	pin|go|[nhei]|ra

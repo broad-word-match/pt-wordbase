@@ -1,0 +1,100 @@
+caulóbio	nome masculino	cau|[ló]|bi|o
+caulocárpico	adjetivo	cau|lo|[cár]|pi|co
+caulocarpo	nome masculino	cau|lo|[car]|po
+caulogástrio	nome masculino	cau|lo|[gás]|tri|o
+cauloglosso	nome masculino	cau|lo|[glos]|so
+caumã	nome masculino	cau|[mã]
+caúna	nome feminino	ca|[ú]|na
+cáunio	adjetivo	[cáu]|ni|o
+cáunio	nome masculino	[cáu]|ni|o
+caúno	nome masculino	ca|[ú]|no
+caurense	adjetivo	cau|[ren]|se
+caurense	nome masculino	cau|[ren]|se
+caurense	nome feminino	cau|[ren]|se
+cauri	nome masculino	cau|[ri]
+caurinador	adjetivo	cau|ri|na|[dor]
+caurinar	verbo	cau|ri|[nar]
+caurineiro	adjetivo	cau|ri|[nei]|ro
+caurineiro	nome masculino	cau|ri|[nei]|ro
+causa	nome feminino	[cau]|sa
+causa-efeito	nome feminino	cau|sa-e|[fei]|to
+causação	nome feminino	cau|sa|[ção]
+causador	adjetivo	cau|sa|[dor]
+causador	nome masculino	cau|sa|[dor]
+causadora	nome feminino	cau|sa|[do]|ra
+causal	nome feminino	cau|[sal]
+causal	adjetivo	cau|[sal]
+causalidade	nome feminino	cau|sa|li|[da]|de
+causalizar	verbo	cau|sa|li|[zar]
+causante	nome masculino	cau|[san]|te
+causante	adjetivo	cau|[san]|te
+causante	nome feminino	cau|[san]|te
+causar	verbo	cau|[sar]
+causativo	adjetivo	cau|sa|[ti]|vo
+causativo	nome masculino	cau|sa|[ti]|vo
+causídica	nome feminino	cau|[sí]|di|ca
+causídico	nome masculino	cau|[sí]|di|co
+cáustica	nome feminino	[cáus]|ti|ca
+causticação	nome feminino	caus|ti|ca|[ção]
+causticamente	advérbio	caus|ti|ca|[men]|te
+causticante	adjetivo	caus|ti|[can]|te
+causticar	verbo	caus|ti|[car]
+causticidade	nome feminino	caus|ti|ci|[da]|de
+cáustico	adjetivo	[cáus]|ti|co
+cáustico	nome masculino	[cáus]|ti|co
+caustobiólito	nome masculino	caus|to|bi|[ó]|li|to
+cautamente	advérbio	cau|ta|[men]|te
+cautchu	nome masculino	caut|[chu]
+cautela	nome feminino	cau|[te]|la
+cautelar	verbo	cau|te|[lar]
+cautelar	adjetivo	cau|te|[lar]
+cauteleira	nome feminino	cau|te|[lei]|ra
+cauteleiro	nome masculino	cau|te|[lei]|ro
+cautelosa	nome feminino	cau|te|[lo]|sa
+cautelosamente	advérbio	cau|te|lo|sa|[men]|te
+cauteloso	adjetivo	cau|te|[lo]|so
+cautério	nome masculino	cau|[té]|ri|o
+cauterização	nome feminino	cau|te|ri|za|[ção]
+cauterizado	adjetivo	cau|te|ri|[za]|do
+cauterizador	adjetivo	cau|te|ri|za|[dor]
+cauterizador	nome masculino	cau|te|ri|za|[dor]
+cauterizante	adjetivo	cau|te|ri|[zan]|te
+cauterizar	verbo	cau|te|ri|[zar]
+cautivo	nome masculino	cau|[ti]|vo
+cauto	adjetivo	[cau]|to
+cava	nome feminino	[ca]|va
+cava-terra	nome feminino	ca|va-ter|ra
+cavaca	nome feminino	ca|[va]|ca
+cavação	nome feminino	ca|va|[ção]
+cavacão	nome masculino	ca|va|[cão]
+cavacar	verbo	ca|va|[car]
+cavacaria	nome feminino	ca|va|ca|[ri]|a
+cavaco	nome masculino	ca|[va]|co
+cavacué	nome masculino	ca|va|cu|[é]
+cavada	nome feminino	ca|[va]|da
+cavadeira	nome feminino	ca|va|[dei]|ra
+cavadela	nome feminino	ca|va|[de]|la
+cavadiço	adjetivo	ca|va|[di]|ço
+cavado	nome masculino	ca|[va]|do
+cavado	adjetivo	ca|[va]|do
+cavador	nome masculino	ca|va|[dor]
+cavador	adjetivo	ca|va|[dor]
+cavadora	nome feminino	ca|va|[do]|ra
+cavadura	nome feminino	ca|va|[du]|ra
+cavala	nome feminino	ca|[va]|la
+cavalada	nome feminino	ca|va|[la]|da
+cavalagem	nome feminino	ca|va|[la]|gem
+cavalão	nome masculino	ca|va|[lão]
+cavalar	verbo	ca|va|[lar]
+cavalar	adjetivo	ca|va|[lar]
+cavalaria	nome feminino	ca|va|la|[ri]|a
+cavalariano	nome masculino	ca|va|la|ri|[a]|no
+cavalariça	nome feminino	ca|va|la|[ri]|ça
+cavalariço	nome masculino	ca|va|la|[ri]|ço
+cavaleação	nome feminino	ca|va|le|a|[ção]
+cavalear	verbo	ca|va|le|[ar]
+cavaleira	nome feminino	ca|va|[lei]|ra
+cavaleirado	nome masculino	ca|va|lei|[ra]|do
+cavaleiramente	advérbio	ca|va|lei|ra|[men]|te
+cavaleirão	nome masculino	ca|va|lei|[rão]
+cavaleirar	verbo	ca|va|lei|[rar]

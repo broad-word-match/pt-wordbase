@@ -1,0 +1,100 @@
+hipnotístico	adjetivo	hip|no|[tís]|ti|co
+hipnotização	nome feminino	hip|no|ti|za|[ção]
+hipnotizador	nome masculino	hip|no|ti|za|[dor]
+hipnotizante	adjetivo	hip|no|ti|[zan]|te
+hipnotizar	verbo	hip|no|ti|[zar]
+hipnotizável	adjetivo	hip|no|ti|[zá]|vel
+hipoacidez	nome feminino	hi|po|a|ci|[dez]
+hipoacusia	nome feminino	hi|po|a|cu|[si]|a
+hipoacústico	adjetivo	hi|po|a|[cús]|ti|co
+hipoalergénico	adjetivo	hi|po|a|ler|[gé]|ni|co
+hipoalergênico	adjetivo	hi|po|a|ler|[gê]|ni|co
+hipoalérgico	adjetivo	hi|po|a|[lér]|gi|co
+hipoalérgico	nome masculino	hi|po|a|[lér]|gi|co
+hipoalgesia	nome feminino	hi|po|al|ge|[si]|a
+hipoalgésico	adjetivo	hi|po|al|[gé]|si|co
+hipoandrismo	nome masculino	hi|po|an|[dris]|mo
+hipoazotoso	adjetivo	hi|po|a|zo|[to]|so
+hipobaquio	adjetivo	hi|po|ba|[qui]|o
+hipobaquio	nome masculino	hi|po|ba|[qui]|o
+hipoblástico	adjetivo	hi|po|[blás]|ti|co
+hipoblasto	nome masculino	hi|po|[blas]|to
+hipobosco	nome masculino	hi|po|[bos]|co
+hipobrânquio	adjetivo	hi|po|[brân]|qui|o
+hipocalórico	adjetivo	hi|po|ca|[ló]|ri|co
+hipocampo	nome masculino	hi|po|[cam]|po
+hipocapnia	nome feminino	hi|po|cap|[ni]|a
+hipocápnico	adjetivo	hi|po|[cáp]|ni|co
+hipocárpio	nome masculino	hi|po|[cár]|pi|o
+hipocarpo	nome masculino	hi|po|[car]|po
+hipocastanácea	nome feminino	hi|po|cas|ta|[ná]|ce|a
+hipocastanáceo	adjetivo	hi|po|cas|ta|[ná]|ce|o
+hipocausto	nome masculino	hi|po|[caus]|to
+hipocentauro	nome masculino	hi|po|cen|[tau]|ro
+hipocentro	nome masculino	hi|po|[cen]|tro
+hipocicloidal	adjetivo	hi|po|ci|cloi|[dal]
+hipocicloide	nome feminino	hi|po|ci|[cloi]|de
+hipocinesia	nome feminino	hi|po|ci|ne|[si]|a
+hipocinésico	adjetivo	hi|po|ci|[né]|si|co
+hipocinético	adjetivo	hi|po|ci|[né]|ti|co
+hipocístide	nome feminino	hi|po|[cís]|ti|de
+hipoclórico	adjetivo	hi|po|[cló]|ri|co
+hipocloridria	nome feminino	hi|po|clo|ri|[dri]|a
+hipoclorídrico	adjetivo	hi|po|clo|[rí]|dri|co
+hipoclorina	nome feminino	hi|po|clo|[ri]|na
+hipoclorito	nome masculino	hi|po|clo|[ri]|to
+hipocloroso	adjetivo	hi|po|clo|[ro]|so
+hipoclorúria	nome feminino	hi|po|clo|[rú]|ri|a
+hipoclorúrico	adjetivo	hi|po|clo|[rú]|ri|co
+hipocofose	nome feminino	hi|po|co|[fo]|se
+hipocolia	nome feminino	hi|po|co|[li]|a
+hipocólico	adjetivo	hi|po|[có]|li|co
+hipocondria	nome feminino	hi|po|con|[dri]|a
+hipocondríaco	adjetivo	hi|po|con|[drí]|a|co
+hipocondríaco	nome masculino	hi|po|con|[drí]|a|co
+hipocôndrio	nome masculino	hi|po|[côn]|dri|o
+hipocoristicamente	advérbio	hi|po|co|ris|ti|ca|[men]|te
+hipocorístico	adjetivo	hi|po|co|[rís]|ti|co
+hipocorístico	nome masculino	hi|po|co|[rís]|ti|co
+hipocótilo	nome masculino	hi|po|[có]|ti|lo
+hipocraniano	adjetivo	hi|po|cra|ni|[a]|no
+hipocrático	adjetivo	hi|po|[crá]|ti|co
+hipocratismo	nome masculino	hi|po|cra|[tis]|mo
+hipocratista	adjetivo	hi|po|cra|[tis]|ta
+hipocratista	nome masculino	hi|po|cra|[tis]|ta
+hipocratista	nome feminino	hi|po|cra|[tis]|ta
+hipocratístico	adjetivo	hi|po|cra|[tís]|ti|co
+hipocraz	nome masculino	hi|po|[craz]
+hipocrinia	nome feminino	hi|po|cri|[ni]|a
+hipocrínico	adjetivo	hi|po|[crí]|ni|co
+hipocrisia	nome feminino	hi|po|cri|[si]|a
+hipocristalino	adjetivo	hi|po|cris|ta|[li]|no
+hipócrita	adjetivo	hi|[pó]|cri|ta
+hipócrita	nome masculino	hi|[pó]|cri|ta
+hipócrita	nome feminino	hi|[pó]|cri|ta
+hipocritamente	advérbio	hi|po|cri|ta|[men]|te
+hipocromia	nome feminino	hi|po|cro|[mi]|a
+hipocrômico	adjetivo	hi|po|[crô]|mi|co
+hipocrómico	adjetivo	hi|po|[cró]|mi|co
+hipoctônio	adjetivo	hi|poc|[tô]|ni|o
+hipoctónio	adjetivo	hi|poc|[tó]|ni|o
+hipodáctilo	nome masculino	hi|po|[dác]|ti|lo
+hipodátilo	nome masculino	hi|po|[dá]|ti|lo
+hipodermatomia	nome feminino	hi|po|der|ma|to|[mi]|a
+hipoderme	nome feminino	hi|po|[der]|me
+hipodermíase	nome feminino	hi|po|der|[mí]|a|se
+hipodérmico	adjetivo	hi|po|[dér]|mi|co
+hipodermóclise	nome feminino	hi|po|der|[mó]|cli|se
+hipodermoterapia	nome feminino	hi|po|der|mo|te|ra|[pi]|a
+hipodermotomia	nome feminino	hi|po|der|mo|to|[mi]|a
+hipodermotômico	adjetivo	hi|po|der|mo|[tô]|mi|co
+hipodermotómico	adjetivo	hi|po|der|mo|[tó]|mi|co
+hipodipsia	nome feminino	hi|po|dip|[si]|a
+hipodocmíaco	adjetivo	hi|po|doc|[mí]|a|co
+hipodócmio	nome masculino	hi|po|[dóc]|mi|o
+hipodório	adjetivo	hi|po|[dó]|ri|o
+hipodromia	nome feminino	hi|po|dro|[mi]|a
+hipódromo	nome masculino	hi|[pó]|dro|mo
+hipoemia	nome feminino	hi|po|e|[mi]|a
+hipoepatia	nome feminino	hi|po|e|pa|[ti]|a
+hipoestaminado	adjetivo	hi|po|es|ta|mi|[na]|do

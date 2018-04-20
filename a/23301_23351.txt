@@ -1,0 +1,51 @@
+azul-safira	adjetivo	a|zul-sa|[fi]|ra
+azul-safira	nome masculino	a|zul-sa|[fi]|ra
+azul-turquesa	nome feminino	a|zul-tur|[que]|sa
+azul-turquesa	adjetivo	a|zul-tur|[que]|sa
+azul-turquesa	nome masculino	a|zul-tur|[que]|sa
+azul-violeta	adjetivo	a|zul-vi|o|[le]|ta
+azul-violeta	nome masculino	a|zul-vi|o|[le]|ta
+azuláceo	adjetivo	a|zu|[lá]|ce|o
+azuladinha	nome feminino	a|zu|la|[di]|nha
+azulado	adjetivo	a|zu|[la]|do
+azulado	nome masculino	a|zu|[la]|do
+azulador	adjetivo	a|zu|la|[dor]
+azulador	nome masculino	a|zu|la|[dor]
+azulamento	nome masculino	a|zu|la|[men]|to
+azulão	nome masculino	a|zu|[lão]
+azulão	adjetivo	a|zu|[lão]
+azular	verbo	a|zu|[lar]
+azulego	adjetivo	a|zu|[le]|go
+azulego	nome masculino	a|zu|[le]|go
+azulejado	adjetivo	a|zu|le|[ja]|do
+azulejador	adjetivo	a|zu|le|ja|[dor]
+azulejador	nome masculino	a|zu|le|ja|[dor]
+azulejar	verbo	a|zu|le|[jar]
+azulejaria	nome feminino	a|zu|le|ja|[ri]|a
+azulejista	nome masculino	a|zu|le|[jis]|ta
+azulejista	nome feminino	a|zu|le|[jis]|ta
+azulejo	nome masculino	a|zu|[le]|jo
+azulina	nome feminino	a|zu|[li]|na
+azulinar	verbo	a|zu|li|[nar]
+azulinha	nome feminino	a|zu|[li]|nha
+azulinho	nome masculino	a|zu|[li]|nho
+azulino	adjetivo	a|zu|[li]|no
+azulino	nome masculino	a|zu|[li]|no
+azulíssimo	adjetivo	a|zu|[lís]|si|mo
+azulmato	nome masculino	a|zul|[ma]|to
+azúlmico	adjetivo	a|[zúl]|mi|co
+azulmina	nome feminino	a|zul|[mi]|na
+azuloio	adjetivo	a|zu|[loi]|o
+azumbrado	adjetivo	a|zum|[bra]|do
+azumbrar	verbo	a|zum|[brar]
+azurado	nome masculino	a|zu|[ra]|do
+azuraque	nome masculino	a|zu|[ra]|que
+azuré	nome masculino	a|zu|[ré]
+azurita	nome feminino	a|zu|[ri]|ta
+azurite	nome feminino	a|zu|[ri]|te
+azurítico	adjetivo	a|zu|[rí]|ti|co
+azurracha	nome feminino	a|zur|[ra]|cha
+azurrar	verbo	a|zur|[rar]
+azuru	nome masculino	a|zu|[ru]
+azurzir	verbo	a|zur|[zir]
+azuverte	nome masculino	a|zu|[ver]|te

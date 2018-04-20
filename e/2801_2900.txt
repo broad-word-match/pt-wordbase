@@ -1,0 +1,100 @@
+encamisado	nome masculino	en|ca|mi|[sa]|do
+encamisar	verbo	en|ca|mi|[sar]
+encampação	nome feminino	en|cam|pa|[ção]
+encampador	nome masculino	en|cam|pa|[dor]
+encampanar	verbo	en|cam|pa|[nar]
+encampar	verbo	en|cam|[par]
+encamurçar	verbo	en|ca|mur|[çar]
+encanação	nome feminino	en|ca|na|[ção]
+encanado	adjetivo	en|ca|[na]|do
+encanador	nome masculino	en|ca|na|[dor]
+encanamento	nome masculino	en|ca|na|[men]|to
+encanar	verbo	en|ca|[nar]
+encanas	nome feminino	en|[ca]|nas
+encanastrado	adjetivo	en|ca|nas|[tra]|do
+encanastrado	nome masculino	en|ca|nas|[tra]|do
+encanastrar	verbo	en|ca|nas|[trar]
+encancerar	verbo	en|can|ce|[rar]
+encandeamento	nome masculino	en|can|de|a|[men]|to
+encandear	verbo	en|can|de|[ar]
+encandecer	verbo	en|can|de|[cer]
+encandilar	verbo	en|can|di|[lar]
+encanecer	verbo	en|ca|ne|[cer]
+encanecido	adjetivo	en|ca|ne|[ci]|do
+encanelar	verbo	en|ca|ne|[lar]
+encangalhar	verbo	en|can|ga|[lhar]
+encangar	verbo	en|can|[gar]
+encangotar	verbo	en|can|go|[tar]
+encaniçar	verbo	en|ca|ni|[çar]
+encanoar	verbo	en|ca|no|[ar]
+encantação	nome feminino	en|can|ta|[ção]
+encantadiço	adjetivo	en|can|ta|[di]|ço
+encantado	nome masculino	en|can|[ta]|do
+encantado	adjetivo	en|can|[ta]|do
+encantador	nome masculino	en|can|ta|[dor]
+encantador	adjetivo	en|can|ta|[dor]
+encantadora	nome feminino	en|can|ta|[do]|ra
+encantadoramente	advérbio	en|can|ta|do|ra|[men]|te
+encantamento	nome masculino	en|can|ta|[men]|to
+encantar	verbo	en|can|[tar]
+encantatório	adjetivo	en|can|ta|[tó]|ri|o
+encantável	adjetivo	en|can|[tá]|vel
+encanteirar	verbo	en|can|tei|[rar]
+encântide	nome feminino	en|[cân]|ti|de
+encantinhar	verbo	en|can|ti|[nhar]
+encanto	nome masculino	en|[can]|to
+encantoar	verbo	en|can|to|[ar]
+encantonar	verbo	en|can|to|[nar]
+encanudado	adjetivo	en|ca|nu|[da]|do
+encanudamento	nome masculino	en|ca|nu|da|[men]|to
+encanudar	verbo	en|ca|nu|[dar]
+encanzinamento	nome masculino	en|can|zi|na|[men]|to
+encanzinar	verbo	en|can|zi|[nar]
+encanzoar	verbo	en|can|zo|[ar]
+encapachar	verbo	en|ca|pa|[char]
+encapado	adjetivo	en|ca|[pa]|do
+encapado	nome masculino	en|ca|[pa]|do
+encapar	verbo	en|ca|[par]
+encapelado	adjetivo	en|ca|pe|[la]|do
+encapeladura	nome feminino	en|ca|pe|la|[du]|ra
+encapelar	verbo	en|ca|pe|[lar]
+encapetado	adjetivo	en|ca|pe|[ta]|do
+encapoeirar	verbo	en|ca|po|ei|[rar]
+encapotada	nome feminino	en|ca|po|[ta]|da
+encapotado	adjetivo	en|ca|po|[ta]|do
+encapotado	nome masculino	en|ca|po|[ta]|do
+encapotar	verbo	en|ca|po|[tar]
+encaprichar	verbo	en|ca|pri|[char]
+encapsular	verbo	en|cap|su|[lar]
+encapuchado	adjetivo	en|ca|pu|[cha]|do
+encapuchar	verbo	en|ca|pu|[char]
+encapuzado	adjetivo	en|ca|pu|[za]|do
+encapuzar	verbo	en|ca|pu|[zar]
+encaraçado	adjetivo	en|ca|ra|[ça]|do
+encaração	nome feminino	en|ca|ra|[ção]
+encaracolado	adjetivo	en|ca|ra|co|[la]|do
+encaracolamento	nome masculino	en|ca|ra|co|la|[men]|to
+encaracolar	verbo	en|ca|ra|co|[lar]
+encarado	adjetivo	en|ca|[ra]|do
+encaramanchar	verbo	en|ca|ra|man|[char]
+encaramelar	verbo	en|ca|ra|me|[lar]
+encaramonar	verbo	en|ca|ra|mo|[nar]
+encaramujado	adjetivo	en|ca|ra|mu|[ja]|do
+encaramujar	verbo	en|ca|ra|mu|[jar]
+encarangado	adjetivo	en|ca|ran|[ga]|do
+encarangar	verbo	en|ca|ran|[gar]
+encaranguejar	verbo	en|ca|ran|gue|[jar]
+encarantonhado	adjetivo	en|ca|ran|to|[nha]|do
+encarapelar	verbo	en|ca|ra|pe|[lar]
+encarapinhado	adjetivo	en|ca|ra|pi|[nha]|do
+encarapinhar	verbo	en|ca|ra|pi|[nhar]
+encarapitar	verbo	en|ca|ra|pi|[tar]
+encarapuçado	adjetivo	en|ca|ra|pu|[ça]|do
+encarapuçar	verbo	en|ca|ra|pu|[çar]
+encarar	verbo	en|ca|[rar]
+encaravelhar	verbo	en|ca|ra|ve|[lhar]
+encarceração	nome feminino	en|car|ce|ra|[ção]
+encarcerada	nome feminino	en|car|ce|[ra]|da
+encarcerado	nome masculino	en|car|ce|[ra]|do
+encarcerado	adjetivo	en|car|ce|[ra]|do
+encarceramento	nome masculino	en|car|ce|ra|[men]|to

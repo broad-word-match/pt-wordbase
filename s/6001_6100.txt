@@ -1,0 +1,100 @@
+simpléctico	nome masculino	sim|[pléc]|ti|co
+simples	nome masculino	[sim]|ples
+simples	adjetivo	[sim]|ples
+simples	nome feminino	[sim]|ples
+simplesmente	advérbio	sim|ples|[men]|te
+simplesmente	nome masculino	sim|ples|[men]|te
+simplético	adjetivo	sim|[plé]|ti|co
+simplético	nome masculino	sim|[plé]|ti|co
+simpleza	nome feminino	sim|[ple]|za
+símplice	adjetivo	[sím]|pli|ce
+simplicela	nome feminino	sim|pli|[ce]|la
+símplices	nome masculino	[sím]|pli|ces
+simplicidade	nome feminino	sim|pli|ci|[da]|de
+simplicismo	nome masculino	sim|pli|[cis]|mo
+simplicissimamente	advérbio	sim|pli|cis|si|ma|[men]|te
+simplicíssimo	adjetivo	sim|pli|[cís]|si|mo
+simplicista	nome masculino	sim|pli|[cis]|ta
+simplicista	nome feminino	sim|pli|[cis]|ta
+simplificação	nome feminino	sim|pli|fi|ca|[ção]
+simplificacionismo	nome masculino	sim|pli|fi|ca|ci|o|[nis]|mo
+simplificacionista	adjetivo	sim|pli|fi|ca|ci|o|[nis]|ta
+simplificacionista	nome masculino	sim|pli|fi|ca|ci|o|[nis]|ta
+simplificacionista	nome feminino	sim|pli|fi|ca|ci|o|[nis]|ta
+simplificadamente	advérbio	sim|pli|fi|ca|da|[men]|te
+simplificador	adjetivo	sim|pli|fi|ca|[dor]
+simplificador	nome masculino	sim|pli|fi|ca|[dor]
+simplificadora	nome feminino	sim|pli|fi|ca|[do]|ra
+simplificar	verbo	sim|pli|fi|[car]
+simplificativamente	advérbio	sim|pli|fi|ca|ti|va|[men]|te
+simplificativo	adjetivo	sim|pli|fi|ca|[ti]|vo
+simplificável	adjetivo	sim|pli|fi|[cá]|vel
+simplismo	nome masculino	sim|[plis]|mo
+simplíssimo	adjetivo	sim|[plís]|si|mo
+simplista	nome masculino	sim|[plis]|ta
+simplista	adjetivo	sim|[plis]|ta
+simplista	nome feminino	sim|[plis]|ta
+simplistamente	advérbio	sim|plis|ta|[men]|te
+simplocarpo	nome masculino	sim|plo|[car]|po
+símploce	nome feminino	[sím]|plo|ce
+simploce	nome feminino	sim|[plo]|ce
+simplória	nome feminino	sim|[pló]|ri|a
+simploriamente	advérbio	sim|plo|ri|a|[men]|te
+simplório	nome masculino	sim|[pló]|ri|o
+simplório	adjetivo	sim|[pló]|ri|o
+simplote	nome masculino	sim|[plo]|te
+simpodial	adjetivo	sim|po|di|[al]
+simpódico	adjetivo	sim|[pó]|di|co
+simpódio	nome masculino	sim|[pó]|di|o
+simposíaco	adjetivo	sim|po|[sí]|a|co
+simposiarca	nome masculino	sim|po|si|[ar]|ca
+simposiarquia	nome feminino	sim|po|si|ar|[qui]|a
+simpósio	nome masculino	sim|[pó]|si|o
+simpres	adjetivo	[sim]|pres
+simpresmente	advérbio	sim|pres|[men]|te
+simpreza	nome feminino	sim|[pre]|za
+simprítane	nome masculino	sim|[prí]|ta|ne
+simptose	nome feminino	simp|[to]|se
+símpulo	nome masculino	[sím]|pu|lo
+simpúvio	nome masculino	sim|[pú]|vi|o
+simulação	nome feminino	si|mu|la|[ção]
+simulacro	nome masculino	si|mu|[la]|cro
+simuladamente	advérbio	si|mu|la|da|[men]|te
+simulado	adjetivo	si|mu|[la]|do
+simulador	adjetivo	si|mu|la|[dor]
+simulador	nome masculino	si|mu|la|[dor]
+simuladora	nome feminino	si|mu|la|[do]|ra
+simulamento	nome masculino	si|mu|la|[men]|to
+simular	verbo	si|mu|[lar]
+simulatoriamente	advérbio	si|mu|la|to|ri|a|[men]|te
+simulatório	adjetivo	si|mu|la|[tó]|ri|o
+simulável	adjetivo	si|mu|[lá]|vel
+simulcadência	nome feminino	si|mul|ca|[dên]|ci|a
+simulcadente	adjetivo	si|mul|ca|[den]|te
+simuldesinência	nome feminino	si|mul|de|si|[nên]|ci|a
+simuliídeo	adjetivo	si|mu|li|[í]|de|o
+simuliídeo	nome masculino	si|mu|li|[í]|de|o
+simultaneamente	advérbio	si|mul|ta|ne|a|[men]|te
+simultaneidade	nome feminino	si|mul|ta|nei|[da]|de
+simultaneísmo	nome masculino	si|mul|ta|ne|[ís]|mo
+simultaneísta	adjetivo	si|mul|ta|ne|[ís]|ta
+simultaneísta	nome masculino	si|mul|ta|ne|[ís]|ta
+simultaneísta	nome feminino	si|mul|ta|ne|[ís]|ta
+simultâneo	adjetivo	si|mul|[tâ]|ne|o
+simum	nome masculino	si|[mum]
+sina	nome feminino	[si]|na
+sina-sina	nome feminino	si|na-si|na
+sinabafo	nome masculino	si|na|[ba]|fo
+sinadelfia	nome feminino	si|na|del|[fi]|a
+sinadelfite	nome feminino	si|na|del|[fi]|te
+sinadelfo	nome masculino	si|na|[del]|fo
+sinafia	nome feminino	si|na|[fi]|a
+sinagelástico	adjetivo	si|na|ge|[lás]|ti|co
+sinagoga	nome feminino	si|na|[go]|ga
+sinagógico	adjetivo	si|na|[gó]|gi|co
+sinaíta	adjetivo	si|na|[í]|ta
+sinaíte	nome feminino	si|na|[í]|te
+sinal	nome masculino	si|[nal]
+sinalagma	nome masculino	si|na|[lag]|ma
+sinalagmático	adjetivo	si|na|lag|[má]|ti|co
+sinalar	verbo	si|na|[lar]

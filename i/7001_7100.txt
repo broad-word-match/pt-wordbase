@@ -1,0 +1,100 @@
+isoieta	nome feminino	i|soi|[e]|ta
+isoiética	nome feminino	i|soi|[é]|ti|ca
+isoiético	adjetivo	i|soi|[é]|ti|co
+isoípsa	nome feminino	i|so|[íp]|sa
+isoípso	adjetivo	i|so|[íp]|so
+isolação	nome feminino	i|so|la|[ção]
+isolacionismo	nome masculino	i|so|la|ci|o|[nis]|mo
+isolacionista	adjetivo	i|so|la|ci|o|[nis]|ta
+isolacionista	nome masculino	i|so|la|ci|o|[nis]|ta
+isolacionista	nome feminino	i|so|la|ci|o|[nis]|ta
+isoladamente	advérbio	i|so|la|da|[men]|te
+isoladíssimo	adjetivo	i|so|la|[dís]|si|mo
+isolado	adjetivo	i|so|[la]|do
+isolador	nome masculino	i|so|la|[dor]
+isolador	adjetivo	i|so|la|[dor]
+isolamento	nome masculino	i|so|la|[men]|to
+isolante	nome masculino	i|so|[lan]|te
+isolante	adjetivo	i|so|[lan]|te
+isolar	verbo	i|so|[lar]
+isolatório	nome masculino	i|so|la|[tó]|ri|o
+isolável	adjetivo	i|so|[lá]|vel
+isolépide	nome feminino	i|so|[lé]|pi|de
+isólogo	adjetivo	i|[só]|lo|go
+isomagnética	nome feminino	i|so|mag|[né]|ti|ca
+isomagnético	adjetivo	i|so|mag|[né]|ti|co
+isomerase	nome feminino	i|so|me|[ra]|se
+isómere	adjetivo	i|[só]|me|re
+isomeria	nome feminino	i|so|me|[ri]|a
+isomérico	adjetivo	i|so|[mé]|ri|co
+isomerismo	nome masculino	i|so|me|[ris]|mo
+isomerização	nome feminino	i|so|me|ri|za|[ção]
+isomerizar	verbo	i|so|me|ri|[zar]
+isômero	adjetivo	i|[sô]|me|ro
+isómero	adjetivo	i|[só]|me|ro
+isometria	nome feminino	i|so|me|[tri]|a
+isométrico	adjetivo	i|so|[mé]|tri|co
+isomorfia	nome feminino	i|so|mor|[fi]|a
+isomórfico	adjetivo	i|so|[mór]|fi|co
+isomorfismo	nome masculino	i|so|mor|[fis]|mo
+isomorfo	adjetivo	i|so|[mor]|fo
+isónefa	nome feminino	i|[só]|ne|fa
+isônefa	nome feminino	i|[sô]|ne|fa
+isonomia	nome feminino	i|so|no|[mi]|a
+isónomo	adjetivo	i|[só]|no|mo
+isônomo	adjetivo	i|[sô]|no|mo
+isopata	nome masculino	i|so|[pa]|ta
+isopata	nome feminino	i|so|[pa]|ta
+isopatia	nome feminino	i|so|pa|[ti]|a
+isopático	adjetivo	i|so|[pá]|ti|co
+isoperimétrico	adjetivo	i|so|pe|ri|[mé]|tri|co
+isoperímetro	adjetivo	i|so|pe|[rí]|me|tro
+isopétalo	adjetivo	i|so|[pé]|ta|lo
+isopícnica	nome feminino	i|so|[píc]|ni|ca
+isopícnico	adjetivo	i|so|[píc]|ni|co
+isópico	adjetivo	i|[só]|pi|co
+isopiéstico	adjetivo	i|so|pi|[és]|ti|co
+isopírio	nome masculino	i|so|[pí]|ri|o
+isópiro	nome masculino	i|[só]|pi|ro
+isópode	nome masculino	i|[só]|po|de
+isópode	adjetivo	i|[só]|po|de
+isopor	nome masculino	i|so|[por]
+isópora	nome feminino	i|[só]|po|ra
+isopórica	nome feminino	i|so|[pó]|ri|ca
+isopreno	nome masculino	i|so|[pre]|no
+isóptero	nome masculino	i|[sóp]|te|ro
+isóptero	adjetivo	i|[sóp]|te|ro
+isoquímena	nome feminino	i|so|[quí]|me|na
+isoquiménica	nome feminino	i|so|qui|[mé]|ni|ca
+isoquiménico	adjetivo	i|so|qui|[mé]|ni|co
+isoquimênico	adjetivo	i|so|qui|[mê]|ni|co
+isóscele	adjetivo	i|[sós]|ce|le
+isósceles	adjetivo	i|[sós]|ce|les
+isoscelia	nome feminino	i|sos|ce|[li]|a
+isosférico	adjetivo	i|sos|[fé]|ri|co
+isosmose	nome feminino	i|sos|[mo]|se
+isospórico	adjetivo	i|sos|[pó]|ri|co
+isósporo	nome masculino	i|[sós]|po|ro
+isossilábico	adjetivo	i|sos|si|[lá]|bi|co
+isossista	nome feminino	i|sos|[sis]|ta
+isóstase	nome feminino	i|[sós]|ta|se
+isostasia	nome feminino	i|sos|ta|[si]|a
+isostático	adjetivo	i|sos|[tá]|ti|co
+isostêmone	adjetivo	i|sos|[tê]|mo|ne
+isostémone	adjetivo	i|sos|[té]|mo|ne
+isótele	nome masculino	i|[só]|te|le
+isotelia	nome feminino	i|so|te|[li]|a
+isotérica	nome feminino	i|so|[té]|ri|ca
+isotérico	adjetivo	i|so|[té]|ri|co
+isotérmica	nome feminino	i|so|[tér]|mi|ca
+isotermicamente	advérbio	i|so|ter|mi|ca|[men]|te
+isotérmico	adjetivo	i|so|[tér]|mi|co
+isotermo	adjetivo	i|so|[ter]|mo
+isótero	adjetivo	i|[só]|te|ro
+isotonia	nome feminino	i|so|to|[ni]|a
+isotônico	adjetivo	i|so|[tô]|ni|co
+isotónico	adjetivo	i|so|[tó]|ni|co
+isótono	adjetivo	i|[só]|to|no
+isotopia	nome feminino	i|so|to|[pi]|a
+isotópico	adjetivo	i|so|[tó]|pi|co
+isótopo	nome masculino	i|[só]|to|po

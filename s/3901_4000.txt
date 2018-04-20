@@ -1,0 +1,100 @@
+semissoberano	adjetivo	se|mis|so|be|[ra]|no
+semissom	nome masculino	se|[mis]|som
+semissoma	nome feminino	se|mis|[so]|ma
+semissonora	nome feminino	se|mis|so|[no]|ra
+semissonoro	adjetivo	se|mis|so|[no]|ro
+semistaminar	adjetivo	se|mis|ta|mi|[nar]
+semistaminário	adjetivo	se|mis|ta|mi|[ná]|ri|o
+sêmita	nome feminino	[sê]|mi|ta
+semita	adjetivo	se|[mi]|ta
+semita	nome masculino	se|[mi]|ta
+sémita	nome feminino	[sé]|mi|ta
+semita	nome feminino	se|[mi]|ta
+semitalento	nome masculino	se|mi|ta|[len]|to
+semiterçã	nome feminino	se|mi|ter|[çã]
+semiternário	adjetivo	se|mi|ter|[ná]|ri|o
+semiticamente	advérbio	se|mi|ti|ca|[men]|te
+semítico	adjetivo	se|[mí]|ti|co
+semítico	nome masculino	se|[mí]|ti|co
+semitismo	nome masculino	se|mi|[tis]|mo
+semitista	nome masculino	se|mi|[tis]|ta
+semitista	nome feminino	se|mi|[tis]|ta
+semitom	nome masculino	se|[mi]|tom
+semitonado	adjetivo	se|mi|to|[na]|do
+semitónico	adjetivo	se|mi|[tó]|ni|co
+semítono	nome masculino	se|[mí]|to|no
+semitrágico	adjetivo	se|mi|[trá]|gi|co
+semitransparente	adjetivo	se|mi|trans|pa|[ren]|te
+semiuncial	adjetivo	se|mi|un|ci|[al]
+semiusto	adjetivo	se|[mius]|to
+semiverdade	nome feminino	se|mi|ver|[da]|de
+semíviro	nome masculino	se|[mí]|vi|ro
+semivítreo	adjetivo	se|mi|[ví]|tre|o
+semiviver	verbo	se|mi|vi|[ver]
+semivivo	adjetivo	se|mi|[vi]|vo
+semivocalicamente	advérbio	se|mi|vo|ca|li|ca|[men]|te
+semivocálico	adjetivo	se|mi|vo|[cá]|li|co
+semivogal	nome feminino	se|mi|vo|[gal]
+sémnio	nome masculino	[sém]|ni|o
+sêmnio	nome masculino	[sêm]|ni|o
+sémnone	adjetivo	[sém]|no|ne
+sémnone	nome masculino	[sém]|no|ne
+sémnone	nome feminino	[sém]|no|ne
+sêmnone	adjetivo	[sêm]|no|ne
+sêmnone	nome masculino	[sêm]|no|ne
+sêmnone	nome feminino	[sêm]|no|ne
+semnopitécida	nome masculino	sem|no|pi|[té]|ci|da
+semnopitecídeo	adjetivo	sem|no|pi|te|[cí]|de|o
+semnopitecídeo	nome masculino	sem|no|pi|te|[cí]|de|o
+semnopiteco	nome masculino	sem|no|pi|[te]|co
+sêmola	nome feminino	[sê]|mo|la
+semolina	nome feminino	se|mo|[li]|na
+semostração	nome feminino	se|mos|tra|[ção]
+semostradeira	nome feminino	se|mos|tra|[dei]|ra
+semostrar	verbo	se|mos|[trar]
+semoto	adjetivo	se|[mo]|to
+semovente	adjetivo	se|mo|[ven]|te
+semovente	nome masculino	se|mo|[ven]|te
+sempiternamente	advérbio	sem|pi|ter|na|[men]|te
+sempiternidade	nome feminino	sem|pi|ter|ni|[da]|de
+sempiterno	adjetivo	sem|pi|[ter]|no
+sempre	advérbio	[sem]|pre
+sempre	nome masculino	[sem]|pre
+sempre-em-pé	nome masculino	sem|pre-em-pé
+sempre-lustrosa	nome feminino	sem|pre-lus|[tro]|sa
+sempre-noiva	nome feminino	sem|pre-noi|va
+sempre-verde	nome feminino	sem|pre-ver|de
+sempre-viva	nome feminino	sem|pre-vi|va
+sempremente	advérbio	sem|pre|[men]|te
+semprónia	nome feminino	sem|[pró]|ni|a
+semprônia	nome feminino	sem|[prô]|ni|a
+sena	nome feminino	[se]|na
+sena	nome masculino	[se]|na
+sena	adjetivo	[se]|na
+sena-do-reino	nome feminino	se|na-do-rei|no
+senáculo	nome masculino	se|[ná]|cu|lo
+senado	nome masculino	se|[na]|do
+senador	nome masculino	se|na|[dor]
+senadora	nome feminino	se|na|[do]|ra
+senadoria	nome feminino	se|na|do|[ri]|a
+senal	adjetivo	se|[nal]
+senal	nome masculino	se|[nal]
+senão	nome masculino	se|[não]
+senão	conjunção	se|[não]
+senão	preposição	se|[não]
+senário	adjetivo	se|[ná]|ri|o
+senário	nome masculino	se|[ná]|ri|o
+senásqua	nome feminino	se|[nás]|qua
+senate	adjetivo	se|[na]|te
+senate	nome masculino	se|[na]|te
+senate	nome feminino	se|[na]|te
+senatoria	nome feminino	se|na|to|[ri]|a
+senatorial	adjetivo	se|na|to|ri|[al]
+senatório	adjetivo	se|na|[tó]|ri|o
+senatriz	nome feminino	se|na|[triz]
+senátus-consulto	nome masculino	se|ná|tus-con|[sul]|to
+sencelo	nome masculino	sen|[ce]|lo
+sencenada	nome feminino	sen|ce|[na]|da
+senceno	nome masculino	sen|[ce]|no
+senciente	adjetivo	sen|ci|[en]|te
+sencilha	nome feminino	sen|[ci]|lha

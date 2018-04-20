@@ -1,0 +1,100 @@
+perquiridor	nome masculino	per|qui|ri|[dor]
+perquirir	verbo	per|qui|[rir]
+perquisição	nome feminino	per|qui|si|[ção]
+perquisidor	adjetivo	per|qui|si|[dor]
+perquisidor	nome masculino	per|qui|si|[dor]
+perquisitivo	adjetivo	per|qui|si|[ti]|vo
+perra	nome feminino	[per]|ra
+perrada	nome feminino	per|[ra]|da
+perramente	advérbio	per|ra|[men]|te
+perraria	nome feminino	per|ra|[ri]|a
+perrê	nome masculino	per|[rê]
+perrear	verbo	per|re|[ar]
+perrebo	adjetivo	per|[re]|bo
+perrebo	nome masculino	per|[re]|bo
+perreiro	nome masculino	per|[rei]|ro
+perrengue	adjetivo	per|[ren]|gue
+perrengue	nome masculino	per|[ren]|gue
+perrengue	nome feminino	per|[ren]|gue
+perrexil	nome masculino	per|re|[xil]
+perrexil-do-mar	nome masculino	per|re|xil-do-mar
+perrice	nome feminino	per|[ri]|ce
+perricho	adjetivo	per|[ri]|cho
+perrisco	nome masculino	per|[ris]|co
+perro	adjetivo	[per]|ro
+perro	nome masculino	[per]|ro
+perruca	nome feminino	per|[ru]|ca
+perrum	nome masculino	per|[rum]
+perruna	nome feminino	per|[ru]|na
+persa	nome masculino	[per]|sa
+persa	adjetivo	[per]|sa
+persa	nome feminino	[per]|sa
+perscrutação	nome feminino	pers|cru|ta|[ção]
+perscrutador	adjetivo	pers|cru|ta|[dor]
+perscrutador	nome masculino	pers|cru|ta|[dor]
+perscrutante	adjetivo	pers|cru|[tan]|te
+perscrutar	verbo	pers|cru|[tar]
+perscrutável	adjetivo	pers|cru|[tá]|vel
+pérsea	nome feminino	[pér]|se|a
+persecução	nome feminino	per|se|cu|[ção]
+persecutório	adjetivo	per|se|cu|[tó]|ri|o
+perseguição	nome feminino	per|se|gui|[ção]
+perseguido	adjetivo	per|se|[gui]|do
+perseguido	nome masculino	per|se|[gui]|do
+perseguidor	adjetivo	per|se|gui|[dor]
+perseguidor	nome masculino	per|se|gui|[dor]
+perseguidora	nome feminino	per|se|gui|[do]|ra
+perseguimento	nome masculino	per|se|gui|[men]|to
+perseguir	verbo	per|se|[guir]
+perseidade	nome feminino	per|sei|[da]|de
+pérseo	adjetivo	[pér]|se|o
+pérseo	nome masculino	[pér]|se|o
+persepolitano	adjetivo	per|se|po|li|[ta]|no
+persepolitano	nome masculino	per|se|po|li|[ta]|no
+persevão	nome masculino	per|se|[vão]
+perseveração	nome feminino	per|se|ve|ra|[ção]
+perseverança	nome feminino	per|se|ve|[ran]|ça
+perseverante	adjetivo	per|se|ve|[ran]|te
+perseverantemente	advérbio	per|se|ve|ran|te|[men]|te
+perseverar	verbo	per|se|ve|[rar]
+pérsia	nome feminino	[pér]|si|a
+persiana	nome feminino	per|si|[a]|na
+persiano	adjetivo	per|si|[a]|no
+persiano	nome masculino	per|si|[a]|no
+persicária	nome feminino	per|si|[cá]|ri|a
+persicária-mordaz	nome feminino	per|si|cá|ria-mor|[daz]
+persicite	nome feminino	per|si|[ci]|te
+pérsico	adjetivo	[pér]|si|co
+persigal	nome masculino	per|si|[gal]
+persignação	nome feminino	per|sig|na|[ção]
+persignar	verbo	per|sig|[nar]
+persigo	nome masculino	per|[si]|go
+persina	nome feminino	per|[si]|na
+pérsio	adjetivo	[pér]|si|o
+pérsio	nome masculino	[pér]|si|o
+persistência	nome feminino	per|sis|[tên]|ci|a
+persistente	adjetivo	per|sis|[ten]|te
+persistentemente	advérbio	per|sis|ten|te|[men]|te
+persistir	verbo	per|sis|[tir]
+persoitar	verbo	per|soi|[tar]
+personada	nome feminino	per|so|[na]|da
+personado	adjetivo	per|so|[na]|do
+personagem	nome	per|so|[na]|gem
+personagem	nome masculino	per|so|[na]|gem
+personagem	nome feminino	per|so|[na]|gem
+personagem-tipo	nome masculino	per|so|na|gem-ti|po
+personalidade	nome feminino	per|so|na|li|[da]|de
+personalismo	nome masculino	per|so|na|[lis]|mo
+personalíssimo	adjetivo	per|so|na|[lís]|si|mo
+personalista	adjetivo	per|so|na|[lis]|ta
+personalista	nome masculino	per|so|na|[lis]|ta
+personalista	nome feminino	per|so|na|[lis]|ta
+personalístico	adjetivo	per|so|na|[lís]|ti|co
+personalização	nome feminino	per|so|na|li|za|[ção]
+personalizado	adjetivo	per|so|na|li|[za]|do
+personalizador	adjetivo	per|so|na|li|za|[dor]
+personalizador	nome masculino	per|so|na|li|za|[dor]
+personalizar	verbo	per|so|na|li|[zar]
+personativamente	advérbio	per|so|na|ti|va|[men]|te
+personativo	adjetivo	per|so|na|[ti]|vo
+personato	adjetivo	per|so|[na]|to

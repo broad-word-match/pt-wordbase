@@ -1,0 +1,100 @@
+beleguim	nome masculino	be|le|[guim]
+beleguinaço	nome masculino	be|le|gui|[na]|ço
+beleguinaz	nome masculino	be|le|gui|[naz]
+belém	nome masculino	be|[lém]
+belemita	adjetivo	be|le|[mi]|ta
+belemita	nome masculino	be|le|[mi]|ta
+belemita	nome feminino	be|le|[mi]|ta
+belemnita	nome feminino	be|lem|[ni]|ta
+belemnite	nome feminino	be|lem|[ni]|te
+belemnítico	adjetivo	be|lem|[ní]|ti|co
+belemnitídeo	nome masculino	be|lem|ni|[tí]|de|o
+belemnoide	adjetivo	be|lem|[noi]|de
+belemnóideo	nome masculino	be|lem|[nói]|de|o
+belendengue	nome masculino	be|len|[den]|gue
+belenense	nome masculino	be|le|[nen]|se
+belenense	adjetivo	be|le|[nen]|se
+belenense	nome feminino	be|le|[nen]|se
+belerofontídeo	nome masculino	be|le|ro|fon|[tí]|de|o
+beletrear	verbo	be|le|tre|[ar]
+beletrismo	nome masculino	be|le|[tris]|mo
+beletrista	nome masculino	be|le|[tris]|ta
+beletrista	nome feminino	be|le|[tris]|ta
+beletrística	nome feminino	be|le|[trís]|ti|ca
+beletrístico	adjetivo	be|le|[trís]|ti|co
+beleza	nome feminino	be|[le]|za
+belfa	nome feminino	[bel]|fa
+belfaças	nome feminino	bel|[fa]|ças
+belfas	nome feminino	[bel]|fas
+belfo	adjetivo	[bel]|fo
+belfo	nome masculino	[bel]|fo
+belfudo	adjetivo	bel|[fu]|do
+belga	nome masculino	[bel]|ga
+belga	nome feminino	[bel]|ga
+belga	adjetivo	[bel]|ga
+belgata	nome feminino	bel|[ga]|ta
+bélgica	nome feminino	[bél]|gi|ca
+bélgico	adjetivo	[bél]|gi|co
+bélgico	nome masculino	[bél]|gi|co
+belgo-holandês	adjetivo	bel|go-ho|lan|[dês]
+belgo-luxemburguês	adjetivo	bel|go-lu|xem|bur|[guês]
+belgradina	nome feminino	bel|gra|[di]|na
+belgradino	nome masculino	bel|gra|[di]|no
+belgradino	adjetivo	bel|gra|[di]|no
+belhó	nome masculino	be|[lhó]
+belho	nome masculino	[be]|lho
+belho	nome feminino	[be]|lho
+belhusco	adjetivo	be|[lhus]|co
+belicamente	advérbio	be|li|ca|[men]|te
+beliche	nome masculino	be|[li]|che
+belicismo	nome masculino	be|li|[cis]|mo
+belicista	adjetivo	be|li|[cis]|ta
+belicista	nome masculino	be|li|[cis]|ta
+belicista	nome feminino	be|li|[cis]|ta
+belicístico	adjetivo	be|li|[cís]|ti|co
+bélico	adjetivo	[bé]|li|co
+belicosamente	advérbio	be|li|co|sa|[men]|te
+belicosidade	nome feminino	be|li|co|si|[da]|de
+belicoso	adjetivo	be|li|[co]|so
+belida	nome feminino	be|[li]|da
+beligerância	nome feminino	be|li|ge|[rân]|ci|a
+beligerante	adjetivo	be|li|ge|[ran]|te
+beligerante	nome masculino	be|li|ge|[ran]|te
+beligerante	nome feminino	be|li|ge|[ran]|te
+belígero	adjetivo	be|[lí]|ge|ro
+belindre	nome masculino	be|[lin]|dre
+belindro	nome masculino	be|[lin]|dro
+belino	nome masculino	be|[li]|no
+belinógrafo	nome masculino	be|li|[nó]|gra|fo
+belinograma	nome masculino	be|li|no|[gra]|ma
+belipotência	nome feminino	be|li|po|[tên]|ci|a
+belipotente	adjetivo	be|li|po|[ten]|te
+belisária	nome feminino	be|li|[sá]|ri|a
+belisário	adjetivo	be|li|[sá]|ri|o
+belisário	nome masculino	be|li|[sá]|ri|o
+belisca	nome feminino	be|[lis]|ca
+beliscadela	nome feminino	be|lis|ca|[de]|la
+beliscado	adjetivo	be|lis|[ca]|do
+beliscadura	nome feminino	be|lis|ca|[du]|ra
+beliscão	nome masculino	be|lis|[cão]
+beliscar	verbo	be|lis|[car]
+belisco	nome masculino	be|[lis]|co
+belíssimo	adjetivo	be|[lís]|si|mo
+belíssono	adjetivo	be|[lís]|so|no
+beliz	adjetivo	be|[liz]
+beliz	nome masculino	be|[liz]
+beliz	nome feminino	be|[liz]
+belizenho	adjetivo	be|li|[ze]|nho
+belizenho	nome masculino	be|li|[ze]|nho
+belizense	adjetivo	be|li|[zen]|se
+belizense	nome masculino	be|li|[zen]|se
+belizense	nome feminino	be|li|[zen]|se
+belmandil	nome feminino	bel|man|[dil]
+belmandil	nome masculino	bel|man|[dil]
+belmontense	adjetivo	bel|mon|[ten]|se
+belmontense	nome masculino	bel|mon|[ten]|se
+belmontense	nome feminino	bel|mon|[ten]|se
+belo	nome masculino	[be]|lo
+belo	adjetivo	[be]|lo
+belo	interjeição	[be]|lo
+belo-horizontina	nome feminino	be|lo-ho|ri|zon|[ti]|na

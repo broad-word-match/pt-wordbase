@@ -1,0 +1,100 @@
+electríman	nome masculino	e|lec|[trí]|man
+eléctrino	adjetivo	e|[léc]|tri|no
+electrização	nome feminino	e|lec|tri|za|[ção]
+electrizador	adjetivo	e|lec|tri|za|[dor]
+electrizador	nome masculino	e|lec|tri|za|[dor]
+electrizante	adjetivo	e|lec|tri|[zan]|te
+electrizar	verbo	e|lec|tri|[zar]
+electrizável	adjetivo	e|lec|tri|[zá]|vel
+electro	nome masculino	e|[lec]|tro
+electro-óptica	nome feminino	e|lec|tro-óp|ti|ca
+electro-óptico	adjetivo	e|lec|tro-óp|ti|co
+electroacústico	adjetivo	e|lec|tro|a|[cús]|ti|co
+electrobalística	nome feminino	e|lec|tro|ba|[lís]|ti|ca
+electrobiologia	nome feminino	e|lec|tro|bi|o|lo|[gi]|a
+electrobiológico	adjetivo	e|lec|tro|bi|o|[ló]|gi|co
+electrobomba	nome feminino	e|lec|tro|[bom]|ba
+electrocardiografia	nome feminino	e|lec|tro|car|di|o|gra|[fi]|a
+electrocardiográfico	adjetivo	e|lec|tro|car|di|o|[grá]|fi|co
+electrocardiógrafo	nome masculino	e|lec|tro|car|di|[ó]|gra|fo
+electrocardiograma	nome masculino	e|lec|tro|car|di|o|[gra]|ma
+electrochoque	nome masculino	e|lec|tro|[cho]|que
+electrocinética	nome feminino	e|lec|tro|ci|[né]|ti|ca
+electrocinético	adjetivo	e|lec|tro|ci|[né]|ti|co
+electrocirurgia	nome feminino	e|lec|tro|ci|rur|[gi]|a
+electrocoagulação	nome feminino	e|lec|tro|co|a|gu|la|[ção]
+electrocultura	nome feminino	e|lec|tro|cul|[tu]|ra
+electrocussão	nome feminino	e|lec|tro|cus|[são]
+electrocutado	adjetivo	e|lec|tro|cu|[ta]|do
+electrocutar	verbo	e|lec|tro|cu|[tar]
+electrocutir	verbo	e|lec|tro|cu|[tir]
+electrocutor	nome masculino	e|lec|tro|cu|[tor]
+electrodeposição	nome feminino	e|lec|tro|de|po|si|[ção]
+electrodiagnóstico	nome masculino	e|lec|tro|di|ag|[nós]|ti|co
+electrodiálise	nome feminino	e|lec|tro|di|[á]|li|se
+electrodinâmica	nome feminino	e|lec|tro|di|[nâ]|mi|ca
+electrodinâmico	adjetivo	e|lec|tro|di|[nâ]|mi|co
+electrodinamismo	nome masculino	e|lec|tro|di|na|[mis]|mo
+electrodinamômetro	nome masculino	e|lec|tro|di|na|[mô]|me|tro
+electródio	nome masculino	e|lec|[tró]|di|o
+eléctrodo	nome masculino	e|[léc]|tro|do
+electrodoméstico	adjetivo	e|lec|tro|do|[més]|ti|co
+electrodoméstico	nome masculino	e|lec|tro|do|[més]|ti|co
+electroencefalografia	nome feminino	e|lec|tro|en|ce|fa|lo|gra|[fi]|a
+electroencefalográfico	adjetivo	e|lec|tro|en|ce|fa|lo|[grá]|fi|co
+electroencefalógrafo	nome masculino	e|lec|tro|en|ce|fa|[ló]|gra|fo
+electroencefalograma	nome masculino	e|lec|tro|en|ce|fa|lo|[gra]|ma
+electrófilo	nome masculino	e|lec|[tró]|fi|lo
+electrofisiologia	nome feminino	e|lec|tro|fi|si|o|lo|[gi]|a
+electrofisiológico	adjetivo	e|lec|tro|fi|si|o|[ló]|gi|co
+electrofone	nome masculino	e|lec|tro|[fo]|ne
+electroforese	nome feminino	e|lec|tro|fo|[re]|se
+electroformação	nome feminino	e|lec|tro|for|ma|[ção]
+electróforo	nome masculino	e|lec|[tró]|fo|ro
+electrofotografia	nome feminino	e|lec|tro|fo|to|gra|[fi]|a
+electrofotográfico	adjetivo	e|lec|tro|fo|to|[grá]|fi|co
+electrogalvânico	adjetivo	e|lec|tro|gal|[vâ]|ni|co
+electrogalvanismo	nome masculino	e|lec|tro|gal|va|[nis]|mo
+electrogêneo	adjetivo	e|lec|tro|[gê]|ne|o
+electrogênese	nome feminino	e|lec|tro|[gê]|ne|se
+electrogenético	adjetivo	e|lec|tro|ge|[né]|ti|co
+electrógeno	adjetivo	e|lec|[tró]|ge|no
+electrogerador	nome masculino	e|lec|tro|ge|ra|[dor]
+electrografia	nome feminino	e|lec|tro|gra|[fi]|a
+electrográfico	adjetivo	e|lec|tro|[grá]|fi|co
+electrógrafo	nome masculino	e|lec|[tró]|gra|fo
+electroímã	nome masculino	e|lec|tro|[í]|mã
+electrolisação	nome feminino	e|lec|tro|li|sa|[ção]
+electrolisador	adjetivo	e|lec|tro|li|sa|[dor]
+electrolisador	nome masculino	e|lec|tro|li|sa|[dor]
+electrolisar	verbo	e|lec|tro|li|[sar]
+electrolisável	adjetivo	e|lec|tro|li|[sá]|vel
+electrólise	nome feminino	e|lec|[tró]|li|se
+electrolítico	adjetivo	e|lec|tro|[lí]|ti|co
+electrólito	nome masculino	e|lec|[tró]|li|to
+electrologia	nome feminino	e|lec|tro|lo|[gi]|a
+electrológico	adjetivo	e|lec|tro|[ló]|gi|co
+electroluminescência	nome feminino	e|lec|tro|lu|mi|nes|[cên]|ci|a
+electroluminescente	adjetivo	e|lec|tro|lu|mi|nes|[cen]|te
+electromagnete	nome masculino	e|lec|tro|mag|[ne]|te
+electromagnético	adjetivo	e|lec|tro|mag|[né]|ti|co
+electromagnetismo	nome masculino	e|lec|tro|mag|ne|[tis]|mo
+electromecânica	nome feminino	e|lec|tro|me|[câ]|ni|ca
+electromecânico	adjetivo	e|lec|tro|me|[câ]|ni|co
+electromecânico	nome masculino	e|lec|tro|me|[câ]|ni|co
+electromeopatia	nome feminino	e|lec|tro|me|o|pa|[ti]|a
+electrômero	nome masculino	e|lec|[trô]|me|ro
+electrometalurgia	nome feminino	e|lec|tro|me|ta|lur|[gi]|a
+electrometalúrgico	adjetivo	e|lec|tro|me|ta|[lúr]|gi|co
+electrometria	nome feminino	e|lec|tro|me|[tri]|a
+electrométrico	adjetivo	e|lec|tro|[mé]|tri|co
+electrômetro	nome masculino	e|lec|[trô]|me|tro
+electromiografia	nome feminino	e|lec|tro|mi|o|gra|[fi]|a
+electromiograma	nome masculino	e|lec|tro|mi|o|[gra]|ma
+electromotor	adjetivo	e|lec|tro|mo|[tor]
+electromotor	nome masculino	e|lec|tro|mo|[tor]
+electromotriz	adjetivo	e|lec|tro|mo|[triz]
+electromóvel	adjetivo	e|lec|tro|[mó]|vel
+eléctron	nome masculino	e|[léc]|tron
+electronegatividade	nome feminino	e|lec|tro|ne|ga|ti|vi|[da]|de
+electronegativo	adjetivo	e|lec|tro|ne|ga|[ti]|vo

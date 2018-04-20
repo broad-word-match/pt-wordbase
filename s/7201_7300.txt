@@ -1,0 +1,100 @@
+sobrecopa	nome feminino	so|bre|[co]|pa
+sobrecoroa	nome feminino	so|bre|co|[ro]|a
+sobrecoser	verbo	so|bre|co|[ser]
+sobrecostado	nome masculino	so|bre|cos|[ta]|do
+sobrecostelar	nome masculino	so|bre|cos|te|[lar]
+sobrecostura	nome feminino	so|bre|cos|[tu]|ra
+sobrecu	nome masculino	so|bre|[cu]
+sobrecurva	nome feminino	so|bre|[cur]|va
+sobredental	adjetivo	so|bre|den|[tal]
+sobredente	nome masculino	so|bre|[den]|te
+sobredimensionamento	nome masculino	so|bre|di|men|si|o|na|[men]|to
+sobreditadura	nome feminino	so|bre|di|ta|[du]|ra
+sobredito	adjetivo	so|bre|[di]|to
+sobredivino	adjetivo	so|bre|di|[vi]|no
+sobredoirado	adjetivo	so|bre|doi|[ra]|do
+sobredoirado	nome masculino	so|bre|doi|[ra]|do
+sobredoirar	verbo	so|bre|doi|[rar]
+sobredominante	nome feminino	so|bre|do|mi|[nan]|te
+sobredosagem	nome feminino	so|bre|do|[sa]|gem
+sobredose	nome feminino	so|bre|[do]|se
+sobredotação	nome feminino	so|bre|do|ta|[ção]
+sobredotada	nome feminino	so|bre|do|[ta]|da
+sobredotado	nome masculino	so|bre|do|[ta]|do
+sobredotado	adjetivo	so|bre|do|[ta]|do
+sobredourado	adjetivo	so|bre|dou|[ra]|do
+sobredourado	nome masculino	so|bre|dou|[ra]|do
+sobredourar	verbo	so|bre|dou|[rar]
+sobreface	nome feminino	so|bre|[fa]|ce
+sobrefaturação	nome feminino	so|bre|fa|tu|ra|[ção]
+sobrefoliáceo	adjetivo	so|bre|fo|li|[á]|ce|o
+sobrefusão	nome feminino	so|bre|fu|[são]
+sobregata	nome feminino	so|bre|[ga]|ta
+sobregatinha	nome feminino	so|bre|ga|[ti]|nha
+sobregávea	nome feminino	so|bre|[gá]|ve|a
+sobregola	nome feminino	so|bre|[go]|la
+sobregoverno	nome masculino	so|bre|go|[ver]|no
+sobreguisa	advérbio	so|bre|[gui]|sa
+sobreinfusa	nome feminino	so|bre|in|[fu]|sa
+sobreinteligível	adjetivo	so|bre|in|te|li|[gí]|vel
+sobreintendente	nome masculino	so|bre|in|ten|[den]|te
+sobreintender	verbo	so|bre|in|ten|[der]
+sobreir	verbo	so|bre|[ir]
+sobreira	nome feminino	so|[brei]|ra
+sobreiral	nome masculino	so|brei|[ral]
+sobreirinha	adjetivo	so|brei|[ri]|nha
+sobreirinho	nome masculino	so|brei|[ri]|nho
+sobreiro	nome masculino	so|[brei]|ro
+sobreirritar	verbo	so|breir|ri|[tar]
+sobrejacente	adjetivo	so|bre|ja|[cen]|te
+sobrejanela	nome feminino	so|bre|ja|[ne]|la
+sobrejeção	nome feminino	so|bre|je|[ção]
+sobrejetiva	nome feminino	so|bre|je|[ti]|va
+sobrejetivo	adjetivo	so|bre|je|[ti]|vo
+sobrejoanete	nome masculino	so|bre|jo|a|[ne]|te
+sobrejoanetinho	nome masculino	so|bre|jo|a|ne|[ti]|nho
+sobrejuiz	nome masculino	so|bre|ju|[iz]
+sobrejustiça	nome masculino	so|bre|jus|[ti]|ça
+sobrejustiça	nome feminino	so|bre|jus|[ti]|ça
+sobrelanço	nome masculino	so|bre|[lan]|ço
+sobrelargura	nome feminino	so|bre|lar|[gu]|ra
+sobrelátego	nome masculino	so|bre|[lá]|te|go
+sobreleitar	verbo	so|bre|lei|[tar]
+sobreleite	nome masculino	so|bre|[lei]|te
+sobreleito	nome masculino	so|bre|[lei]|to
+sobrelevação	nome feminino	so|bre|le|va|[ção]
+sobrelevado	adjetivo	so|bre|le|[va]|do
+sobrelevante	adjetivo	so|bre|le|[van]|te
+sobrelevantemente	advérbio	so|bre|le|van|te|[men]|te
+sobrelevar	verbo	so|bre|le|[var]
+sobrelimão	nome masculino	so|bre|li|[mão]
+sobreliminar	nome masculino	so|bre|li|mi|[nar]
+sobreloja	nome feminino	so|bre|[lo]|ja
+sobrelotação	nome feminino	so|bre|lo|ta|[ção]
+sobrelotado	adjetivo	so|bre|lo|[ta]|do
+sobrelotar	verbo	so|bre|lo|[tar]
+sobreluzir	verbo	so|bre|lu|[zir]
+sobremachinho	nome masculino	so|bre|ma|[chi]|nho
+sobremaneira	advérbio	so|bre|ma|[nei]|ra
+sobremanhã	nome feminino	so|bre|ma|[nhã]
+sobremanhã	advérbio	so|bre|ma|[nhã]
+sobremão	nome masculino	so|bre|[mão]
+sobremaravilhar	verbo	so|bre|ma|ra|vi|[lhar]
+sobremesa	nome feminino	so|bre|[me]|sa
+sobremístico	adjetivo	so|bre|[mís]|ti|co
+sobremodo	advérbio	so|bre|[mo]|do
+sobremordomo	nome masculino	so|bre|mor|[do]|mo
+sobremoscóvia	nome feminino	so|bre|mos|[có]|vi|a
+sobremunhoneiras	nome feminino	so|bre|mu|nho|[nei]|ras
+sobrenadação	nome feminino	so|bre|na|da|[ção]
+sobrenadante	adjetivo	so|bre|na|[dan]|te
+sobrenadar	verbo	so|bre|na|[dar]
+sobrenatural	adjetivo	so|bre|na|tu|[ral]
+sobrenatural	nome masculino	so|bre|na|tu|[ral]
+sobrenaturalidade	nome feminino	so|bre|na|tu|ra|li|[da]|de
+sobrenaturalismo	nome masculino	so|bre|na|tu|ra|[lis]|mo
+sobrenaturalista	adjetivo	so|bre|na|tu|ra|[lis]|ta
+sobrenaturalista	nome masculino	so|bre|na|tu|ra|[lis]|ta
+sobrenaturalista	nome feminino	so|bre|na|tu|ra|[lis]|ta
+sobrenaturalizar	verbo	so|bre|na|tu|ra|li|[zar]
+sobrenaturalmente	advérbio	so|bre|na|tu|ral|[men]|te

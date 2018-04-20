@@ -1,0 +1,100 @@
+fratura	nome feminino	fra|[tu]|ra
+fraturamento	nome masculino	fra|tu|ra|[men]|to
+fraturante	adjetivo	fra|tu|[ran]|te
+fraturar	verbo	fra|tu|[rar]
+fraturável	adjetivo	fra|tu|[rá]|vel
+fraudação	nome feminino	frau|da|[ção]
+fraudador	adjetivo	frau|da|[dor]
+fraudador	nome masculino	frau|da|[dor]
+fraudadora	nome feminino	frau|da|[do]|ra
+fraudar	verbo	frau|[dar]
+fraudatório	adjetivo	frau|da|[tó]|ri|o
+fraudável	adjetivo	frau|[dá]|vel
+fraude	nome feminino	[frau]|de
+fraudulência	nome feminino	frau|du|[lên]|ci|a
+fraudulentamente	advérbio	frau|du|len|ta|[men]|te
+fraudulento	adjetivo	frau|du|[len]|to
+fraudulosamente	advérbio	frau|du|lo|sa|[men]|te
+frauduloso	adjetivo	frau|du|[lo]|so
+frauta	nome feminino	[frau]|ta
+frauteado	adjetivo	frau|te|[a]|do
+frautear	verbo	frau|te|[ar]
+frauteiro	nome masculino	frau|[tei]|ro
+fraxina	nome feminino	fra|[xi]|na
+fraxinácea	nome feminino	fra|xi|[ná]|ce|a
+fraxínea	nome feminino	fra|[xí]|ne|a
+fraxinela	nome feminino	fra|xi|[ne]|la
+fraxíneo	adjetivo	fra|[xí]|ne|o
+fraxinícola	adjetivo	fra|xi|[ní]|co|la
+fraxinina	nome feminino	fra|xi|[ni]|na
+freada	nome feminino	fre|[a]|da
+frear	verbo	fre|[ar]
+freático	adjetivo	fre|[á]|ti|co
+freatóbio	nome masculino	fre|a|[tó]|bi|o
+frecha	nome feminino	[fre]|cha
+frechada	nome feminino	fre|[cha]|da
+frechal	nome masculino	fre|[chal]
+frechar	verbo	fre|[char]
+frecharia	nome feminino	fre|cha|[ri]|a
+frecheira	nome feminino	fre|[chei]|ra
+frecheiro	nome masculino	fre|[chei]|ro
+freda	nome feminino	[fre]|da
+frederico	nome masculino	fre|de|[ri]|co
+free	nome masculino	[free]
+freeiro	nome masculino	fre|[ei]|ro
+freelance	nome masculino	free|lan|ce
+freelance	nome feminino	free|lan|ce
+freelancer	nome masculino	free|lan|cer
+freelancer	nome feminino	free|lan|cer
+freeware	nome masculino	free|wa|re
+frega	nome feminino	[fre]|ga
+fregata	nome feminino	fre|[ga]|ta
+fregátida	adjetivo	fre|[gá]|ti|da
+fregátida	nome feminino	fre|[gá]|ti|da
+fregatídeo	nome masculino	fre|ga|[tí]|de|o
+fregatídeo	adjetivo	fre|ga|[tí]|de|o
+frege	nome masculino	[fre]|ge
+frege-moscas	nome masculino	fre|ge-mos|cas
+fregelano	adjetivo	fre|ge|[la]|no
+fregelano	nome masculino	fre|ge|[la]|no
+fregereba	nome feminino	fre|ge|[re]|ba
+fregista	nome masculino	fre|[gis]|ta
+fregona	nome feminino	fre|[go]|na
+freguês	nome masculino	fre|[guês]
+freguesa	nome feminino	fre|[gue]|sa
+freguesia	nome feminino	fre|gue|[si]|a
+frei	nome masculino	[frei]
+freicha	nome feminino	[frei]|cha
+freijó	nome masculino	frei|[jó]
+freima	nome feminino	[frei]|ma
+freimaço	nome masculino	frei|[ma]|ço
+freimão	nome masculino	frei|[mão]
+freimático	adjetivo	frei|[má]|ti|co
+freio	nome masculino	[frei]|o
+freira	nome feminino	[frei]|ra
+freiral	adjetivo	frei|[ral]
+freirar	verbo	frei|[rar]
+freiraria	nome feminino	frei|ra|[ri]|a
+freirático	adjetivo	frei|[rá]|ti|co
+freirático	nome masculino	frei|[rá]|ti|co
+freire	nome masculino	[frei]|re
+freiria	nome feminino	frei|[ri]|a
+freirice	nome feminino	frei|[ri]|ce
+freirinha	nome feminino	frei|[ri]|nha
+freixal	nome masculino	frei|[xal]
+freixenista	adjetivo	frei|xe|[nis]|ta
+freixenista	nome masculino	frei|xe|[nis]|ta
+freixenista	nome feminino	frei|xe|[nis]|ta
+freixial	nome masculino	frei|xi|[al]
+freixiense	nome masculino	frei|xi|[en]|se
+freixiense	adjetivo	frei|xi|[en]|se
+freixiense	nome feminino	frei|xi|[en]|se
+freixo	nome masculino	[frei]|xo
+freixonista	nome masculino	frei|xo|[nis]|ta
+freixonista	nome feminino	frei|xo|[nis]|ta
+freixonista	adjetivo	frei|xo|[nis]|ta
+freixonita	adjetivo	frei|xo|[ni]|ta
+freixonita	nome masculino	frei|xo|[ni]|ta
+freixonita	nome feminino	frei|xo|[ni]|ta
+fremebundo	adjetivo	fre|me|[bun]|do
+fremência	nome feminino	fre|[mên]|ci|a

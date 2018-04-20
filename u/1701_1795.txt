@@ -1,0 +1,95 @@
+utopista	adjetivo	u|to|[pis]|ta
+utopista	nome feminino	u|to|[pis]|ta
+utopístico	adjetivo	u|to|[pís]|ti|co
+utota	nome feminino	u|[to]|ta
+utraquismo	nome masculino	u|tra|[quis]|mo
+utraquista	adjetivo	u|tra|[quis]|ta
+utraquista	nome masculino	u|tra|[quis]|ta
+utraquista	nome feminino	u|tra|[quis]|ta
+utrário	nome masculino	u|[trá]|ri|o
+utre	nome masculino	[u]|tre
+utricular	adjetivo	u|tri|cu|[lar]
+utriculária	nome feminino	u|tri|cu|[lá]|ri|a
+utriculariácea	nome feminino	u|tri|cu|la|ri|[á]|ce|a
+utriculariáceo	adjetivo	u|tri|cu|la|ri|[á]|ce|o
+utriculariforme	adjetivo	u|tri|cu|la|ri|[for]|me
+utriculário	nome masculino	u|tri|cu|[lá]|ri|o
+utriculífero	adjetivo	u|tri|cu|[lí]|fe|ro
+utriculiforme	adjetivo	u|tri|cu|li|[for]|me
+utrículo	nome masculino	u|[trí]|cu|lo
+utriculoso	adjetivo	u|tri|cu|[lo]|so
+utriforme	adjetivo	u|tri|[for]|me
+utrígero	adjetivo	u|[trí]|ge|ro
+utu	nome masculino	u|[tu]
+utuaba	nome feminino	u|tu|[a]|ba
+utuapoca	nome feminino	u|tu|a|[po]|ca
+uva	nome feminino	[u]|va
+uva-crespa	nome feminino	u|va-cres|pa
+uva-de-cão	nome feminino	u|va-de-cão
+uva-de-obó	nome feminino	u|va-de-o|[bó]
+uva-de-urso	nome feminino	u|va-de-ur|so
+uva-do-mato	nome feminino	u|va-do-ma|to
+uva-do-monte	nome feminino	u|va-do-mon|te
+uva-espim	nome feminino	u|va-es|[pim]
+uva-ursina	nome feminino	u|va-ur|[si]|na
+uvaça	nome feminino	u|[va]|ça
+uvaçu	nome feminino	u|va|[çu]
+uvacupari	nome masculino	u|va|cu|pa|[ri]
+uvada	nome feminino	u|[va]|da
+uvaia	nome feminino	u|[vai]|a
+uvaieira	nome feminino	u|vai|[ei]|ra
+uval	nome masculino	u|[val]
+uval	adjetivo	u|[val]
+uvala	nome feminino	u|[va]|la
+uvalha	nome feminino	u|[va]|lha
+uvalheira	nome feminino	u|va|[lhei]|ra
+uvapiritica	nome feminino	u|va|pi|ri|[ti]|ca
+uvapurama	nome feminino	u|va|pu|[ra]|ma
+uvária	nome feminino	u|[vá]|ri|a
+uvário	adjetivo	u|[vá]|ri|o
+uvarovite	nome feminino	u|va|ro|[vi]|te
+úvea	nome feminino	[ú]|ve|a
+uveal	adjetivo	u|ve|[al]
+uvedália	nome feminino	u|ve|[dá]|li|a
+uveira	nome feminino	u|[vei]|ra
+uveíta	nome masculino	u|ve|[í]|ta
+uveíte	nome feminino	u|ve|[í]|te
+uviar	verbo	u|vi|[ar]
+úvico	adjetivo	[ú]|vi|co
+úvido	adjetivo	[ú]|vi|do
+uvífero	adjetivo	u|[ví]|fe|ro
+uviforme	adjetivo	u|vi|[for]|me
+uvitato	nome masculino	u|vi|[ta]|to
+uvítico	adjetivo	u|[ví]|ti|co
+úvula	nome feminino	[ú]|vu|la
+uvular	adjetivo	u|vu|[lar]
+uvular	nome feminino	u|vu|[lar]
+uvulária	nome feminino	u|vu|[lá]|ri|a
+uvulariácea	nome feminino	u|vu|la|ri|[á]|ce|a
+uvulário	adjetivo	u|vu|[lá]|ri|o
+uvuliforme	adjetivo	u|vu|li|[for]|me
+uvulite	nome feminino	u|vu|[li]|te
+uxa	nome feminino	[u]|xa
+uxamense	adjetivo	u|xa|[men]|se
+uxamense	nome masculino	u|xa|[men]|se
+uxi	nome masculino	u|[xi]
+uxicrim	adjetivo	u|xi|[crim]
+uxicrim	nome masculino	u|xi|[crim]
+uxicrim	nome feminino	u|xi|[crim]
+uxirana	nome feminino	u|xi|[ra]|na
+uxoriano	adjetivo	u|xo|ri|[a]|no
+uxoricida	adjetivo	u|xo|ri|[ci]|da
+uxoricida	nome masculino	u|xo|ri|[ci]|da
+uxoricida	nome feminino	u|xo|ri|[ci]|da
+uxoricídio	nome masculino	u|xo|ri|[cí]|di|o
+uxório	adjetivo	u|[xó]|ri|o
+uxte	interjeição	[ux]|te
+uzalitano	adjetivo	u|za|li|[ta]|no
+uzalitano	nome masculino	u|za|li|[ta]|no
+uzentino	adjetivo	u|zen|[ti]|no
+uzentino	nome masculino	u|zen|[ti]|no
+uzífur	nome masculino	u|[zí]|fur
+uzífuro	nome masculino	u|[zí]|fu|ro
+uzitense	adjetivo	u|zi|[ten]|se
+uzitense	nome masculino	u|zi|[ten]|se
+uzitense	nome feminino	u|zi|[ten]|se

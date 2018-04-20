@@ -1,0 +1,100 @@
+bate-sola	nome masculino	ba|te-so|la
+bate-sornas	nome masculino	ba|te-sor|nas
+bateada	nome feminino	ba|te|[a]|da
+bateador	nome masculino	ba|te|a|[dor]
+batear	verbo	ba|te|[ar]
+batedeira	nome feminino	ba|te|[dei]|ra
+batedela	nome feminino	ba|te|[de]|la
+batedoiro	nome masculino	ba|te|[doi]|ro
+batedor	adjetivo	ba|te|[dor]
+batedor	nome masculino	ba|te|[dor]
+batedora	nome feminino	ba|te|[do]|ra
+batedouro	nome masculino	ba|te|[dou]|ro
+batedura	nome feminino	ba|te|[du]|ra
+bateeiro	nome masculino	ba|te|[ei]|ro
+bátega	nome feminino	[bá]|te|ga
+bategada	nome feminino	ba|te|[ga]|da
+bateia	nome feminino	ba|[tei]|a
+bateira	nome feminino	ba|[tei]|ra
+bateiro	adjetivo	ba|[tei]|ro
+batel	nome masculino	ba|[tel]
+batela	nome feminino	ba|[te]|la
+batelada	nome feminino	ba|te|[la]|da
+batelão	nome masculino	ba|te|[lão]
+bateleiro	nome masculino	ba|te|[lei]|ro
+batelo	nome masculino	ba|[te]|lo
+batemberguês	adjetivo	ba|tem|ber|[guês]
+batemberguês	nome masculino	ba|tem|ber|[guês]
+bateno	adjetivo	ba|[te]|no
+bateno	nome masculino	ba|[te]|no
+batente	adjetivo	ba|[ten]|te
+batente	nome masculino	ba|[ten]|te
+batepandé	nome masculino	ba|te|pan|[dé]
+bater	verbo	ba|[ter]
+bateria	nome feminino	ba|te|[ri]|a
+baterista	nome masculino	ba|te|[ris]|ta
+baterista	nome feminino	ba|te|[ris]|ta
+batíada	adjetivo	ba|[tí]|a|da
+batíada	nome masculino	ba|[tí]|a|da
+batíada	nome feminino	ba|[tí]|a|da
+batial	adjetivo	ba|ti|[al]
+batibarba	nome feminino	ba|ti|[bar]|ba
+batibarbo	nome masculino	ba|ti|[bar]|bo
+batição	nome feminino	ba|ti|[ção]
+baticardia	nome feminino	ba|ti|car|[di]|a
+baticum	nome masculino	ba|ti|[cum]
+batida	nome feminino	ba|[ti]|da
+batido	adjetivo	ba|[ti]|do
+batido	nome masculino	ba|[ti]|do
+batigrafia	nome feminino	ba|ti|gra|[fi]|a
+batilhar	verbo	ba|ti|[lhar]
+batimento	nome masculino	ba|ti|[men]|to
+batimetria	nome feminino	ba|ti|me|[tri]|a
+batimétrico	adjetivo	ba|ti|[mé]|tri|co
+batímetro	nome masculino	ba|[tí]|me|tro
+batina	nome feminino	ba|[ti]|na
+batinga	nome feminino	ba|[tin]|ga
+batinguacá	nome feminino	ba|tin|gua|[cá]
+batipelágico	adjetivo	ba|ti|pe|[lá]|gi|co
+batiputá	nome masculino	ba|ti|pu|[tá]
+batique	nome masculino	ba|[ti]|que
+batíscafo	nome masculino	ba|[tís]|ca|fo
+batiscafo	nome masculino	ba|tis|[ca]|fo
+batisfera	nome feminino	ba|tis|[fe]|ra
+batisférico	adjetivo	ba|tis|[fé]|ri|co
+batismal	adjetivo	ba|tis|[mal]
+batismo	nome masculino	ba|[tis]|mo
+batissauro	nome masculino	ba|tis|[sau]|ro
+batissela	nome masculino	ba|tis|[se]|la
+batista	adjetivo	ba|[tis]|ta
+batista	nome masculino	ba|[tis]|ta
+batista	nome feminino	ba|[tis]|ta
+batistério	nome masculino	ba|tis|[té]|ri|o
+batistino	adjetivo	ba|tis|[ti]|no
+batível	adjetivo	ba|[tí]|vel
+batizado	adjetivo	ba|ti|[za]|do
+batizado	nome masculino	ba|ti|[za]|do
+batizamento	nome masculino	ba|ti|za|[men]|to
+batizando	nome masculino	ba|ti|[zan]|do
+batizante	adjetivo	ba|ti|[zan]|te
+batizante	nome masculino	ba|ti|[zan]|te
+batizante	nome feminino	ba|ti|[zan]|te
+batizar	verbo	ba|ti|[zar]
+batizo	nome masculino	ba|[ti]|zo
+bato	nome masculino	[ba]|to
+batoca	nome feminino	ba|[to]|ca
+batoca	adjetivo	ba|[to]|ca
+batocada	nome feminino	ba|to|[ca]|da
+batocaduras	nome feminino	ba|to|ca|[du]|ras
+batocar	verbo	ba|to|[car]
+batoco	nome masculino	ba|[to]|co
+batofobia	nome feminino	ba|to|fo|[bi]|a
+batofóbico	nome masculino	ba|to|[fó]|bi|co
+batofóbico	adjetivo	ba|to|[fó]|bi|co
+batófobo	adjetivo	ba|[tó]|fo|bo
+batófobo	nome masculino	ba|[tó]|fo|bo
+batografia	nome feminino	ba|to|gra|[fi]|a
+batográfico	adjetivo	ba|to|[grá]|fi|co
+batógrafo	nome masculino	ba|[tó]|gra|fo
+batólito	nome masculino	ba|[tó]|li|to
+batologia	nome feminino	ba|to|lo|[gi]|a

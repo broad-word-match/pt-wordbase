@@ -1,0 +1,100 @@
+angelita	nome feminino	an|ge|[li]|ta
+angelitude	nome feminino	an|ge|li|[tu]|de
+angelização	nome feminino	an|ge|li|za|[ção]
+angelizador	adjetivo	an|ge|li|za|[dor]
+angelizar	verbo	an|ge|li|[zar]
+angelizável	adjetivo	an|ge|li|[zá]|vel
+angelogonia	nome feminino	an|ge|lo|go|[ni]|a
+angelogônico	adjetivo	an|ge|lo|[gô]|ni|co
+angelogónico	adjetivo	an|ge|lo|[gó]|ni|co
+angelografia	nome feminino	an|ge|lo|gra|[fi]|a
+angelográfico	adjetivo	an|ge|lo|[grá]|fi|co
+angelólatra	nome masculino	an|ge|[ló]|la|tra
+angelólatra	nome feminino	an|ge|[ló]|la|tra
+angelolatria	nome feminino	an|ge|lo|la|[tri]|a
+angelolátrico	adjetivo	an|ge|lo|[lá]|tri|co
+angelologia	nome feminino	an|ge|lo|lo|[gi]|a
+angelológico	adjetivo	an|ge|lo|[ló]|gi|co
+angelólogo	nome masculino	an|ge|[ló]|lo|go
+angelónia	nome feminino	an|ge|[ló]|ni|a
+angelônia	nome feminino	an|ge|[lô]|ni|a
+ângelus	nome masculino	[ân]|ge|lus
+angerona	nome feminino	an|ge|[ro]|na
+angical	nome masculino	an|gi|[cal]
+angico	nome masculino	an|[gi]|co
+angiectasia	nome feminino	an|gi|ec|ta|[si]|a
+angiectásico	adjetivo	an|gi|ec|[tá]|si|co
+angiectático	adjetivo	an|gi|ec|[tá]|ti|co
+angietático	adjetivo	an|gi|e|[tá]|ti|co
+angina	nome feminino	an|[gi]|na
+anginosa	nome feminino	an|gi|[no]|sa
+anginoso	adjetivo	an|gi|[no]|so
+anginoso	nome masculino	an|gi|[no]|so
+angiocardiografia	nome feminino	an|gi|o|car|di|o|gra|[fi]|a
+angiocardiográfico	adjetivo	an|gi|o|car|di|o|[grá]|fi|co
+angiocardite	nome feminino	an|gi|o|car|[di]|te
+angiocarpo	nome masculino	an|gi|o|[car]|po
+angiocolite	nome feminino	an|gi|o|co|[li]|te
+angiogalia	nome feminino	an|gi|o|ga|[li]|a
+angiogálico	adjetivo	an|gi|o|[gá]|li|co
+angiografia	nome feminino	an|gi|o|gra|[fi]|a
+angiográfico	adjetivo	an|gi|o|[grá]|fi|co
+angiograma	nome masculino	an|gi|o|[gra]|ma
+angioleucite	nome feminino	an|gi|o|leu|[ci]|te
+angiolitíase	nome feminino	an|gi|o|li|[tí]|a|se
+angióloga	nome feminino	an|gi|[ó]|lo|ga
+angiologia	nome feminino	an|gi|o|lo|[gi]|a
+angiológico	adjetivo	an|gi|o|[ló]|gi|co
+angiólogo	nome masculino	an|gi|[ó]|lo|go
+angioma	nome masculino	an|gi|[o]|ma
+angiomérico	adjetivo	an|gi|o|[mé]|ri|co
+angiômero	nome masculino	an|gi|[ô]|me|ro
+angiómero	nome masculino	an|gi|[ó]|me|ro
+angioneurose	nome feminino	an|gi|o|neu|[ro]|se
+angioneurótico	adjetivo	an|gi|o|neu|[ró]|ti|co
+angiônoma	nome feminino	an|gi|[ô]|no|ma
+angiónoma	nome feminino	an|gi|[ó]|no|ma
+angiopatia	nome feminino	an|gi|o|pa|[ti]|a
+angiopático	adjetivo	an|gi|o|[pá]|ti|co
+angioplastia	nome feminino	an|gi|o|plas|[ti]|a
+angióploce	nome feminino	an|gi|[ó]|plo|ce
+angiorragia	nome feminino	an|gi|or|ra|[gi]|a
+angiorrágico	adjetivo	an|gi|or|[rá]|gi|co
+angioscopia	nome feminino	an|gi|os|co|[pi]|a
+angioscópico	adjetivo	an|gi|os|[có]|pi|co
+angioscópio	nome masculino	an|gi|os|[có]|pi|o
+angiose	nome feminino	an|gi|[o]|se
+angiosperma	nome feminino	an|gi|os|[per]|ma
+angiospermário	adjetivo	an|gi|os|per|[má]|ri|o
+angiospermia	nome feminino	an|gi|os|per|[mi]|a
+angiospérmica	nome feminino	an|gi|os|[pér]|mi|ca
+angiospérmico	adjetivo	an|gi|os|[pér]|mi|co
+angiospermo	adjetivo	an|gi|os|[per]|mo
+angiospermo	nome masculino	an|gi|os|[per]|mo
+angiósporo	adjetivo	an|gi|[ós]|po|ro
+angiossarcoma	nome masculino	an|gi|os|sar|[co]|ma
+angióstomo	nome masculino	an|gi|[ós]|to|mo
+angiotomia	nome feminino	an|gi|o|to|[mi]|a
+angiotômico	adjetivo	an|gi|o|[tô]|mi|co
+angiotómico	adjetivo	an|gi|o|[tó]|mi|co
+angiótribo	nome masculino	an|gi|[ó]|tri|bo
+angiotripsia	nome feminino	an|gi|o|trip|[si]|a
+angiotríptico	adjetivo	an|gi|o|[tríp]|ti|co
+angite	nome feminino	an|[gi]|te
+angla	nome feminino	[an]|gla
+anglesita	nome feminino	an|gle|[si]|ta
+anglesite	nome feminino	an|gle|[si]|te
+anglesítico	adjetivo	an|gle|[sí]|ti|co
+anglicana	nome feminino	an|gli|[ca]|na
+anglicanamente	advérbio	an|gli|ca|na|[men]|te
+anglicanismo	nome masculino	an|gli|ca|[nis]|mo
+anglicanista	adjetivo	an|gli|ca|[nis]|ta
+anglicanista	nome masculino	an|gli|ca|[nis]|ta
+anglicanista	nome feminino	an|gli|ca|[nis]|ta
+anglicanístico	adjetivo	an|gli|ca|[nís]|ti|co
+anglicano	adjetivo	an|gli|[ca]|no
+anglicano	nome masculino	an|gli|[ca]|no
+anglicismo	nome masculino	an|gli|[cis]|mo
+anglicista	adjetivo	an|gli|[cis]|ta
+anglicista	nome masculino	an|gli|[cis]|ta
+anglicista	nome feminino	an|gli|[cis]|ta

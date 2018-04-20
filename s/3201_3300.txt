@@ -1,0 +1,100 @@
+seguinte	nome masculino	se|[guin]|te
+seguinte	nome feminino	se|[guin]|te
+seguintemente	advérbio	se|guin|te|[men]|te
+seguir	verbo	se|[guir]
+segunda	nome feminino	se|[gun]|da
+segunda-assistência	nome feminino	se|gun|da-as|sis|[tên]|ci|a
+segunda-escriturária	nome feminino	se|gun|da-es|cri|tu|[rá]|ri|a
+segunda-feira	nome feminino	se|gun|da-fei|ra
+segunda-oficial	nome feminino	se|gun|da-o|fi|ci|[al]
+segunda-secretária	nome feminino	se|gun|da-se|cre|[tá]|ri|a
+segundamente	advérbio	se|gun|da|[men]|te
+segundanista	nome masculino	se|gun|da|[nis]|ta
+segundanista	nome feminino	se|gun|da|[nis]|ta
+segundar	verbo	se|gun|[dar]
+segundeira	nome feminino	se|gun|[dei]|ra
+segundeiro	adjetivo	se|gun|[dei]|ro
+segundo	advérbio	se|[gun]|do
+segundo	adjetivo	se|[gun]|do
+segundo	nome masculino	se|[gun]|do
+segundo	número ordinal	se|[gun]|do
+segundo	preposição	se|[gun]|do
+segundo	conjunção	se|[gun]|do
+segundo-assistente	nome masculino	se|gun|do-as|sis|[ten]|te
+segundo-bailarino	nome masculino	se|gun|do-bai|la|[ri]|no
+segundo-bandolim	nome masculino	se|gun|do-ban|do|[lim]
+segundo-bibliotecário	nome masculino	se|gun|do-bi|bli|o|te|[cá]|ri|o
+segundo-cabo	nome masculino	se|gun|do-ca|bo
+segundo-cabo	nome feminino	se|gun|do-ca|bo
+segundo-comandante	nome masculino	se|gun|do-co|man|[dan]|te
+segundo-comandante	nome feminino	se|gun|do-co|man|[dan]|te
+segundo-comissário	nome masculino	se|gun|do-co|mis|[sá]|ri|o
+segundo-conservador	nome masculino	se|gun|do-con|ser|va|[dor]
+segundo-contador	nome masculino	se|gun|do-con|ta|[dor]
+segundo-cozinheiro	nome masculino	se|gun|do-co|zi|[nhei]|ro
+segundo-criado	nome masculino	se|gun|do-cri|[a]|do
+segundo-despenseiro	nome masculino	se|gun|do-des|pen|[sei]|ro
+segundo-escriturário	nome masculino	se|gun|do-es|cri|tu|[rá]|ri|o
+segundo-grumete	nome masculino	se|gun|do-gru|[me]|te
+segundo-maquinista	nome masculino	se|gun|do-ma|qui|[nis]|ta
+segundo-marinheiro	nome masculino	se|gun|do-ma|ri|[nhei]|ro
+segundo-oficial	nome masculino	se|gun|do-o|fi|ci|[al]
+segundo-piloto	nome masculino	se|gun|do-pi|[lo]|to
+segundo-sargento	nome masculino	se|gun|do-sar|[gen]|to
+segundo-sargento	nome feminino	se|gun|do-sar|[gen]|to
+segundo-secretário	nome masculino	se|gun|do-se|cre|[tá]|ri|o
+segundo-tenente	nome masculino	se|gun|do-te|[nen]|te
+segundo-tenente	nome feminino	se|gun|do-te|[nen]|te
+segundo-violino	nome masculino	se|gun|do-vi|o|[li]|no
+segundogénita	nome feminino	se|gun|do|[gé]|ni|ta
+segundogênita	nome feminino	se|gun|do|[gê]|ni|ta
+segundogénito	adjetivo	se|gun|do|[gé]|ni|to
+segundogénito	nome masculino	se|gun|do|[gé]|ni|to
+segundogênito	adjetivo	se|gun|do|[gê]|ni|to
+segundogênito	nome masculino	se|gun|do|[gê]|ni|to
+segundogenitura	nome feminino	se|gun|do|ge|ni|[tu]|ra
+segura	nome feminino	se|[gu]|ra
+seguração	nome feminino	se|gu|ra|[ção]
+segurada	nome feminino	se|gu|[ra]|da
+segurado	nome masculino	se|gu|[ra]|do
+segurado	adjetivo	se|gu|[ra]|do
+segurador	adjetivo	se|gu|ra|[dor]
+segurador	nome masculino	se|gu|ra|[dor]
+seguradora	nome feminino	se|gu|ra|[do]|ra
+seguramente	advérbio	se|gu|ra|[men]|te
+segurança	nome masculino	se|gu|[ran]|ça
+segurança	nome feminino	se|gu|[ran]|ça
+segurar	verbo	se|gu|[rar]
+segurável	adjetivo	se|gu|[rá]|vel
+segure	nome feminino	se|[gu]|re
+segurelha	nome feminino	se|gu|[re]|lha
+segurelhal	nome masculino	se|gu|re|[lhal]
+segureza	nome feminino	se|gu|[re]|za
+seguridade	nome feminino	se|gu|ri|[da]|de
+seguríssimo	adjetivo	se|gu|[rís]|si|mo
+seguro	adjetivo	se|[gu]|ro
+seguro	nome masculino	se|[gu]|ro
+seguro	advérbio	se|[gu]|ro
+segusiense	adjetivo	se|gu|si|[en]|se
+segusiense	nome masculino	se|gu|si|[en]|se
+segusiense	nome feminino	se|gu|si|[en]|se
+segusino	adjetivo	se|gu|[si]|no
+segusino	nome masculino	se|gu|[si]|no
+seiça	nome feminino	[sei]|ça
+seiçal	nome masculino	sei|[çal]
+seice	nome masculino	[sei]|ce
+seiceiro	nome masculino	sei|[cei]|ro
+seichelense	nome masculino	sei|che|[len]|se
+seichelense	adjetivo	sei|che|[len]|se
+seichelense	nome feminino	sei|che|[len]|se
+seima	nome feminino	[sei]|ma
+seio	nome masculino	[sei]|o
+seira	nome feminino	[sei]|ra
+seirão	nome masculino	sei|[rão]
+seis	adjetivo	[seis]
+seis	nome masculino	[seis]
+seis	número cardinal	[seis]
+seis-filetes	nome masculino	seis-fi|[le]|tes
+seisavo	nome masculino	sei|[sa]|vo
+seiscentésimo	nome masculino	seis|cen|[té]|si|mo
+seiscentésimo	número ordinal	seis|cen|[té]|si|mo

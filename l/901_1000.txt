@@ -1,0 +1,100 @@
+lapuz	adjetivo	la|[puz]
+laqueação	nome feminino	la|que|a|[ção]
+laqueado	adjetivo	la|que|[a]|do
+laqueadura	nome feminino	la|que|a|[du]|ra
+laquear	verbo	la|que|[ar]
+laquear	nome masculino	la|que|[ar]
+laqueário	nome masculino	la|que|[á]|ri|o
+laqueca	nome feminino	la|[que]|ca
+laquedivo	adjetivo	la|que|[di]|vo
+laquedivo	nome masculino	la|que|[di]|vo
+lar	nome masculino	[lar]
+laracha	nome masculino	la|[ra]|cha
+laracha	nome feminino	la|[ra]|cha
+larachar	verbo	la|ra|[char]
+larachear	verbo	la|ra|che|[ar]
+larachista	nome masculino	la|ra|[chis]|ta
+larachista	nome feminino	la|ra|[chis]|ta
+larada	nome feminino	la|[ra]|da
+laranja	nome feminino	la|[ran]|ja
+laranja	nome masculino	la|[ran]|ja
+laranja	adjetivo	la|[ran]|ja
+laranjada	nome feminino	la|ran|[ja]|da
+laranjal	nome masculino	la|ran|[jal]
+laranjeira	nome feminino	la|ran|[jei]|ra
+laranjinha	nome feminino	la|ran|[ji]|nha
+laranjo	adjetivo	la|[ran]|jo
+larapiar	verbo	la|ra|pi|[ar]
+larápio	nome masculino	la|[rá]|pi|o
+larário	nome masculino	la|[rá]|ri|o
+larau	nome masculino	la|[rau]
+larcão	nome masculino	lar|[cão]
+lardeadeira	nome feminino	lar|de|a|[dei]|ra
+lardeado	adjetivo	lar|de|[a]|do
+lardear	verbo	lar|de|[ar]
+lardiforme	adjetivo	lar|di|[for]|me
+lardívoro	adjetivo	lar|[dí]|vo|ro
+lardo	adjetivo	[lar]|do
+lardo	nome masculino	[lar]|do
+lardoeiro	nome masculino	lar|do|[ei]|ro
+laré	nome masculino	la|[ré]
+laré	nome feminino	la|[ré]
+larear	verbo	la|re|[ar]
+larego	nome masculino	la|[re]|go
+lareira	nome feminino	la|[rei]|ra
+lareiro	nome masculino	la|[rei]|ro
+lareiro	adjetivo	la|[rei]|ro
+lares	nome masculino	[la]|res
+lares	nome feminino	[la]|res
+laréu	nome masculino	la|[réu]
+larga	nome feminino	[lar]|ga
+largada	nome feminino	lar|[ga]|da
+largado	adjetivo	lar|[ga]|do
+largamente	advérbio	lar|ga|[men]|te
+largar	verbo	lar|[gar]
+larghetto	nome masculino	lar|ghet|to
+largição	nome feminino	lar|gi|[ção]
+largífluo	adjetivo	lar|[gí]|flu|o
+largo	adjetivo	[lar]|go
+largo	nome masculino	[lar]|go
+largueador	adjetivo	lar|gue|a|[dor]
+largueador	nome masculino	lar|gue|a|[dor]
+larguear	verbo	lar|gue|[ar]
+largueto	nome masculino	lar|[gue]|to
+largueza	nome feminino	lar|[gue]|za
+larguíssimo	adjetivo	lar|[guís]|si|mo
+largura	nome feminino	lar|[gu]|ra
+lari	nome masculino	la|[ri]
+lárias	nome feminino	[lá]|ri|as
+larica	nome feminino	la|[ri]|ca
+larício	nome masculino	la|[rí]|ci|o
+lárida	nome masculino	[lá]|ri|da
+larídeo	nome masculino	la|[rí]|de|o
+larídeo	adjetivo	la|[rí]|de|o
+larídeo	nome masculino	la|[rí]|de|o
+lariforme	nome masculino	la|ri|[for]|me
+lariforme	adjetivo	la|ri|[for]|me
+larim	nome masculino	la|[rim]
+larínea	nome feminino	la|[rí]|ne|a
+laringe	nome feminino	la|[rin]|ge
+laringectomia	nome feminino	la|rin|gec|to|[mi]|a
+laringectômico	adjetivo	la|rin|gec|[tô]|mi|co
+laringectómico	adjetivo	la|rin|gec|[tó]|mi|co
+laríngeo	adjetivo	la|[rín]|ge|o
+laringiano	adjetivo	la|rin|gi|[a]|no
+laringismo	nome masculino	la|rin|[gis]|mo
+laringite	nome feminino	la|rin|[gi]|te
+laringofaringe	nome feminino	la|rin|go|fa|[rin]|ge
+laringofaríngeo	adjetivo	la|rin|go|fa|[rín]|ge|o
+laringografia	nome feminino	la|rin|go|gra|[fi]|a
+laringográfico	adjetivo	la|rin|go|[grá]|fi|co
+laringógrafo	nome masculino	la|rin|[gó]|gra|fo
+laringologia	nome feminino	la|rin|go|lo|[gi]|a
+laringológico	adjetivo	la|rin|go|[ló]|gi|co
+laringologista	nome masculino	la|rin|go|lo|[gis]|ta
+laringologista	nome feminino	la|rin|go|lo|[gis]|ta
+laringoscopia	nome feminino	la|rin|gos|co|[pi]|a
+laringoscópico	adjetivo	la|rin|gos|[có]|pi|co
+laringoscópio	nome masculino	la|rin|gos|[có]|pi|o
+laringospasmo	nome masculino	la|rin|gos|[pas]|mo
+laringotomia	nome feminino	la|rin|go|to|[mi]|a

@@ -1,0 +1,100 @@
+improferibilidade	nome feminino	im|pro|fe|ri|bi|li|[da]|de
+improferível	adjetivo	im|pro|fe|[rí]|vel
+improficiência	nome feminino	im|pro|fi|ci|[ên]|ci|a
+improficiente	adjetivo	im|pro|fi|ci|[en]|te
+improficuamente	advérbio	im|pro|fi|cu|a|[men]|te
+improficuidade	nome feminino	im|pro|fi|cu|i|[da]|de
+improfícuo	adjetivo	im|pro|[fí]|cu|o
+improfundável	adjetivo	im|pro|fun|[dá]|vel
+improgressivamente	advérbio	im|pro|gres|si|va|[men]|te
+improgressividade	nome feminino	im|pro|gres|si|vi|[da]|de
+improgressivo	adjetivo	im|pro|gres|[si]|vo
+improlífico	adjetivo	im|pro|[lí]|fi|co
+improntar	verbo	im|pron|[tar]
+impronunciabilidade	nome feminino	im|pro|nun|ci|a|bi|li|[da]|de
+impronunciado	adjetivo	im|pro|nun|ci|[a]|do
+impronunciar	verbo	im|pro|nun|ci|[ar]
+impronunciável	adjetivo	im|pro|nun|ci|[á]|vel
+improperar	verbo	im|pro|pe|[rar]
+impropério	nome masculino	im|pro|[pé]|ri|o
+improporção	nome feminino	im|pro|por|[ção]
+improporcionado	adjetivo	im|pro|por|ci|o|[na]|do
+improporcional	adjetivo	im|pro|por|ci|o|[nal]
+improporcionalidade	adjetivo	im|pro|por|ci|o|na|li|[da]|de
+improporcionalidade	nome feminino	im|pro|por|ci|o|na|li|[da]|de
+improporcionalmente	advérbio	im|pro|por|ci|o|nal|[men]|te
+improporcionar	verbo	im|pro|por|ci|o|[nar]
+improporcionável	adjetivo	im|pro|por|ci|o|[ná]|vel
+impropriamente	advérbio	im|pro|pri|a|[men]|te
+impropriar	verbo	im|pro|pri|[ar]
+impropriedade	nome feminino	im|pro|pri|e|[da]|de
+impróprio	adjetivo	im|[pró]|pri|o
+improrrogabilidade	nome feminino	im|pror|ro|ga|bi|li|[da]|de
+improrrogável	adjetivo	im|pror|ro|[gá]|vel
+improrrogavelmente	advérbio	im|pror|ro|ga|vel|[men]|te
+impróspero	adjetivo	im|[prós]|pe|ro
+improtelável	adjetivo	im|pro|te|[lá]|vel
+improtraível	adjetivo	im|pro|tra|[í]|vel
+improvação	nome feminino	im|pro|va|[ção]
+improvador	adjetivo	im|pro|va|[dor]
+improvador	nome masculino	im|pro|va|[dor]
+improvar	verbo	im|pro|[var]
+improvável	adjetivo	im|pro|[vá]|vel
+improvidamente	advérbio	im|pro|vi|da|[men]|te
+improvidência	nome feminino	im|pro|vi|[dên]|ci|a
+improvidente	adjetivo	im|pro|vi|[den]|te
+impróvido	adjetivo	im|[pró]|vi|do
+improvido	adjetivo	im|pro|[vi]|do
+improvisação	nome feminino	im|pro|vi|sa|[ção]
+improvisado	adjetivo	im|pro|vi|[sa]|do
+improvisador	adjetivo	im|pro|vi|sa|[dor]
+improvisador	nome masculino	im|pro|vi|sa|[dor]
+improvisadora	nome feminino	im|pro|vi|sa|[do]|ra
+improvisamente	advérbio	im|pro|vi|sa|[men]|te
+improvisar	verbo	im|pro|vi|[sar]
+improvisata	nome feminino	im|pro|vi|[sa]|ta
+improvisável	adjetivo	im|pro|vi|[sá]|vel
+improviso	adjetivo	im|pro|[vi]|so
+improviso	nome masculino	im|pro|[vi]|so
+imprudência	nome feminino	im|pru|[dên]|ci|a
+imprudente	nome masculino	im|pru|[den]|te
+imprudente	adjetivo	im|pru|[den]|te
+imprudente	nome feminino	im|pru|[den]|te
+imprudentemente	advérbio	im|pru|den|te|[men]|te
+impuberdade	nome feminino	im|pu|ber|[da]|de
+impúbere	adjetivo	im|[pú]|be|re
+impúbere	nome masculino	im|[pú]|be|re
+impúbere	nome feminino	im|[pú]|be|re
+impubescência	nome feminino	im|pu|bes|[cên]|ci|a
+impubescente	adjetivo	im|pu|bes|[cen]|te
+impubescente	nome masculino	im|pu|bes|[cen]|te
+impubescente	nome feminino	im|pu|bes|[cen]|te
+impublicável	adjetivo	im|pu|bli|[cá]|vel
+impudência	nome feminino	im|pu|[dên]|ci|a
+impudente	adjetivo	im|pu|[den]|te
+impudentemente	advérbio	im|pu|den|te|[men]|te
+impudicícia	nome feminino	im|pu|di|[cí]|ci|a
+impudico	adjetivo	im|pu|[di]|co
+impúdico	adjetivo	im|[pú]|di|co
+impudor	nome masculino	im|pu|[dor]
+impugnabilidade	nome feminino	im|pug|na|bi|li|[da]|de
+impugnação	nome feminino	im|pug|na|[ção]
+impugnador	adjetivo	im|pug|na|[dor]
+impugnador	nome masculino	im|pug|na|[dor]
+impugnância	nome feminino	im|pug|[nân]|ci|a
+impugnante	adjetivo	im|pug|[nan]|te
+impugnante	nome masculino	im|pug|[nan]|te
+impugnante	nome feminino	im|pug|[nan]|te
+impugnar	verbo	im|pug|[nar]
+impugnatividade	nome feminino	im|pug|na|ti|vi|[da]|de
+impugnativo	adjetivo	im|pug|na|[ti]|vo
+impugnável	adjetivo	im|pug|[ná]|vel
+impulsão	nome feminino	im|pul|[são]
+impulsar	verbo	im|pul|[sar]
+impulsionador	adjetivo	im|pul|si|o|na|[dor]
+impulsionador	nome masculino	im|pul|si|o|na|[dor]
+impulsionadora	nome feminino	im|pul|si|o|na|[do]|ra
+impulsionamento	nome masculino	im|pul|si|o|na|[men]|to
+impulsionante	adjetivo	im|pul|si|o|[nan]|te
+impulsionar	verbo	im|pul|si|o|[nar]
+impulsionável	adjetivo	im|pul|si|o|[ná]|vel

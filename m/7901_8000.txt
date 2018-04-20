@@ -1,0 +1,100 @@
+minoração	nome feminino	mi|no|ra|[ção]
+minorado	adjetivo	mi|no|[ra]|do
+minoramento	nome masculino	mi|no|ra|[men]|to
+minorante	nome masculino	mi|no|[ran]|te
+minorar	verbo	mi|no|[rar]
+minorativamente	advérbio	mi|no|ra|ti|va|[men]|te
+minorativo	adjetivo	mi|no|ra|[ti]|vo
+minorativo	nome masculino	mi|no|ra|[ti]|vo
+minorável	adjetivo	mi|no|[rá]|vel
+minorca	nome feminino	mi|[nor]|ca
+minorca	nome masculino	mi|[nor]|ca
+minoreta	nome feminino	mi|no|[re]|ta
+minoria	nome feminino	mi|no|[ri]|a
+minorista	nome masculino	mi|no|[ris]|ta
+minorita	nome masculino	mi|no|[ri]|ta
+minoritariamente	advérbio	mi|no|ri|ta|ri|a|[men]|te
+minoritário	adjetivo	mi|no|ri|[tá]|ri|o
+minorítico	adjetivo	mi|no|[rí]|ti|co
+minorquino	adjetivo	mi|nor|[qui]|no
+minorquino	nome masculino	mi|nor|[qui]|no
+minotaurização	nome feminino	mi|no|tau|ri|za|[ção]
+minotaurizado	adjetivo	mi|no|tau|ri|[za]|do
+minotaurizar	verbo	mi|no|tau|ri|[zar]
+minotauro	nome masculino	mi|no|[tau]|ro
+mintói	nome masculino	min|[tói]
+minuano	adjetivo	mi|nu|[a]|no
+minuano	nome masculino	mi|nu|[a]|no
+minúcia	nome feminino	mi|[nú]|ci|a
+minuciar	verbo	mi|nu|ci|[ar]
+minuciosamente	advérbio	mi|nu|ci|o|sa|[men]|te
+minuciosidade	nome feminino	mi|nu|ci|o|si|[da]|de
+minucioso	adjetivo	mi|nu|ci|[o]|so
+minudar	verbo	mi|nu|[dar]
+minudear	verbo	mi|nu|de|[ar]
+minudência	nome feminino	mi|nu|[dên]|ci|a
+minudenciar	verbo	mi|nu|den|ci|[ar]
+minudenciosamente	advérbio	mi|nu|den|ci|o|sa|[men]|te
+minudencioso	adjetivo	mi|nu|den|ci|[o]|so
+minudente	adjetivo	mi|nu|[den]|te
+minudentemente	advérbio	mi|nu|den|te|[men]|te
+minuendo	nome masculino	mi|nu|[en]|do
+minuete	nome masculino	mi|nu|[e]|te
+minueto	nome masculino	mi|nu|[e]|to
+minuir	verbo	mi|nu|[ir]
+minungo	nome masculino	mi|[nun]|go
+minúscula	nome feminino	mi|[nús]|cu|la
+minusculamente	advérbio	mi|nus|cu|la|[men]|te
+minusculizar	verbo	mi|nus|cu|li|[zar]
+minúsculo	adjetivo	mi|[nús]|cu|lo
+minuta	nome feminino	mi|[nu]|ta
+minutador	adjetivo	mi|nu|ta|[dor]
+minutador	nome masculino	mi|nu|ta|[dor]
+minutar	verbo	mi|nu|[tar]
+minutismo	nome masculino	mi|nu|[tis]|mo
+minutíssimo	adjetivo	mi|nu|[tís]|si|mo
+minuto	nome masculino	mi|[nu]|to
+minuto	adjetivo	mi|[nu]|to
+minutor	nome masculino	mi|nu|[tor]
+minzangala	nome feminino	min|zan|[ga]|la
+mio	nome masculino	[mi]|o
+mioblástico	adjetivo	mi|o|[blás]|ti|co
+mioblasto	nome masculino	mi|o|[blas]|to
+miocardia	nome feminino	mi|o|car|[di]|a
+miocárdio	nome masculino	mi|o|[cár]|di|o
+miocardite	nome feminino	mi|o|car|[di]|te
+miocele	nome feminino	mi|o|[ce]|le
+miocénico	adjetivo	mi|o|[cé]|ni|co
+miocênico	adjetivo	mi|o|[cê]|ni|co
+mioceno	adjetivo	mi|o|[ce]|no
+mioceno	nome masculino	mi|o|[ce]|no
+miocimia	nome feminino	mi|o|ci|[mi]|a
+mioclonia	nome feminino	mi|o|clo|[ni]|a
+miocoma	nome masculino	mi|o|[co]|ma
+miodinia	nome feminino	mi|o|di|[ni]|a
+miodínico	adjetivo	mi|o|[dí]|ni|co
+mioepitelial	adjetivo	mi|o|e|pi|te|li|[al]
+miofibrila	nome feminino	mi|o|fi|[bri]|la
+miofibrilar	adjetivo	mi|o|fi|bri|[lar]
+miofilamento	nome masculino	mi|o|fi|la|[men]|to
+miofone	nome masculino	mi|o|[fo]|ne
+mioglobina	nome feminino	mi|o|glo|[bi]|na
+miógnato	nome masculino	mi|[óg]|na|to
+miógrafa	nome feminino	mi|[ó]|gra|fa
+miografia	nome feminino	mi|o|gra|[fi]|a
+miográfico	adjetivo	mi|o|[grá]|fi|co
+miógrafo	nome masculino	mi|[ó]|gra|fo
+miograma	nome masculino	mi|o|[gra]|ma
+mioide	adjetivo	mi|[oi]|de
+miolada	nome feminino	mi|o|[la]|da
+mioleira	nome feminino	mi|o|[lei]|ra
+miolema	nome masculino	mi|o|[le]|ma
+miolemático	adjetivo	mi|o|le|[má]|ti|co
+miólise	nome feminino	mi|[ó]|li|se
+miolítico	adjetivo	mi|o|[lí]|ti|co
+miolo	nome masculino	mi|[o]|lo
+miologia	nome feminino	mi|o|lo|[gi]|a
+miológico	adjetivo	mi|o|[ló]|gi|co
+miologista	nome masculino	mi|o|lo|[gis]|ta
+miologista	nome feminino	mi|o|lo|[gis]|ta
+miólogo	nome masculino	mi|[ó]|lo|go

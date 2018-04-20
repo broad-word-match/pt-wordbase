@@ -1,0 +1,100 @@
+corre-campo	nome feminino	cor|re-cam|po
+corre-corre	nome masculino	cor|re-cor|re
+corre-costas	nome masculino	cor|re-cos|tas
+corre-vai-di-lo	nome masculino	cor|re-vai-di-lo
+correada	nome feminino	cor|re|[a]|da
+correagem	nome feminino	cor|re|[a]|gem
+correame	nome masculino	cor|re|[a]|me
+correão	nome masculino	cor|re|[ão]
+correar	verbo	cor|re|[ar]
+correaria	nome feminino	cor|re|a|[ri]|a
+correção	nome feminino	cor|re|[ção]
+correcional	adjetivo	cor|re|ci|o|[nal]
+correcionalmente	advérbio	cor|re|ci|o|nal|[men]|te
+correctismo	nome masculino	cor|rec|[tis]|mo
+correctivamente	advérbio	cor|rec|ti|va|[men]|te
+corredator	nome masculino	co|re|da|[tor]
+corredatora	nome feminino	cor|re|da|[to]|ra
+corredeira	nome feminino	cor|re|[dei]|ra
+corredela	nome feminino	cor|re|[de]|la
+corredenção	nome feminino	cor|re|den|[ção]
+corredentor	nome masculino	cor|re|den|[tor]
+corrediça	nome feminino	cor|re|[di]|ça
+corrediço	adjetivo	cor|re|[di]|ço
+corredio	adjetivo	cor|re|[di]|o
+corredoira	nome feminino	cor|re|[doi]|ra
+corredoiro	nome masculino	cor|re|[doi]|ro
+corredor	adjetivo	cor|re|[dor]
+corredor	nome masculino	cor|re|[dor]
+corredor-mestre	nome masculino	cor|re|dor-mes|tre
+corredora	nome feminino	cor|re|[do]|ra
+corredoras	nome feminino	cor|re|[do]|ras
+corredoura	nome feminino	cor|re|[dou]|ra
+corredouro	nome masculino	cor|re|[dou]|ro
+corredura	nome feminino	cor|re|[du]|ra
+correeiro	nome masculino	cor|re|[ei]|ro
+correento	adjetivo	cor|re|[en]|to
+correferência	nome feminino	cor|re|fe|[rên]|ci|a
+correferência	nome feminino	cor|re|fe|[rên]|ci|a
+correferente	adjetivo	cor|re|fe|[ren]|te
+corregedor	nome masculino	cor|re|ge|[dor]
+corregedoria	nome feminino	cor|re|ge|do|[ri]|a
+corregência	nome feminino	cor|re|[gên]|ci|a
+corregente	nome masculino	cor|re|[gen]|te
+corregente	nome feminino	cor|re|[gen]|te
+correger	verbo	cor|re|[ger]
+corregimento	nome masculino	cor|re|gi|[men]|to
+córrego	nome masculino	[cór]|re|go
+correia	nome feminino	cor|[rei]|a
+correição	nome feminino	cor|rei|[ção]
+correio	nome masculino	cor|[rei]|o
+correio-mor	nome masculino	cor|rei|o-mor
+correjola	nome feminino	cor|re|[jo]|la
+correlação	nome feminino	cor|re|la|[ção]
+correlacionante	adjetivo	cor|re|la|ci|o|[nan]|te
+correlacionar	verbo	cor|re|la|ci|o|[nar]
+correlacionável	adjetivo	cor|re|la|ci|o|[ná]|vel
+correlatar	verbo	cor|re|la|[tar]
+correlativamente	advérbio	cor|re|la|ti|va|[men]|te
+correlatividade	nome feminino	cor|re|la|ti|vi|[da]|de
+correlativo	adjetivo	cor|re|la|[ti]|vo
+correlativo	nome masculino	cor|re|la|[ti]|vo
+correlato	adjetivo	cor|re|[la]|to
+correlato	nome masculino	cor|re|[la]|to
+correlator	nome masculino	cor|re|la|[tor]
+correligionária	nome feminino	cor|re|li|gi|o|[ná]|ri|a
+correligionário	adjetivo	cor|re|li|gi|o|[ná]|ri|o
+correligionário	nome masculino	cor|re|li|gi|o|[ná]|ri|o
+correligionarismo	nome masculino	cor|re|li|gi|o|na|[ris]|mo
+corrença	nome feminino	cor|[ren]|ça
+corrente	adjetivo	cor|[ren]|te
+corrente	nome masculino	cor|[ren]|te
+corrente	nome feminino	cor|[ren]|te
+correntemente	advérbio	cor|ren|te|[men]|te
+correnteza	nome feminino	cor|ren|[te]|za
+correntiamente	advérbio	cor|ren|ti|a|[men]|te
+correntio	adjetivo	cor|ren|[ti]|o
+correntoso	adjetivo	cor|ren|[to]|so
+correpção	nome feminino	cor|rep|[ção]
+correpto	adjetivo	cor|[rep]|to
+correr	verbo	cor|[rer]
+correria	nome feminino	cor|re|[ri]|a
+correspectivo	adjetivo	cor|res|pec|[ti]|vo
+correspectivo	nome masculino	cor|res|pec|[ti]|vo
+correspetivo	adjetivo	cor|res|pe|[ti]|vo
+correspetivo	nome masculino	cor|res|pe|[ti]|vo
+correspondência	nome feminino	cor|res|pon|[dên]|ci|a
+correspondente	adjetivo	cor|res|pon|[den]|te
+correspondente	nome masculino	cor|res|pon|[den]|te
+correspondente	nome feminino	cor|res|pon|[den]|te
+corresponder	verbo	cor|res|pon|[der]
+correspondido	adjetivo	cor|res|pon|[di]|do
+corresponsabilidade	nome feminino	cor|res|pon|sa|bi|li|[da]|de
+corresponsabilidade	nome feminino	cor|res|pon|sa|bi|li|[da]|de
+corresponsabilização	nome feminino	cor|res|pon|sa|bi|li|za|[ção]
+corresponsabilizar	verbo	cor|res|pon|sa|bi|li|[zar]
+corresponsável	adjetivo	cor|res|pon|[sá]|vel
+corresponsável	nome masculino	cor|res|pon|[sá]|vel
+corresponsável	nome feminino	cor|res|pon|[sá]|vel
+corresponsável	nome feminino	cor|res|pon|[sá]|vel
+corresponsável	nome masculino	cor|res|pon|[sá]|vel

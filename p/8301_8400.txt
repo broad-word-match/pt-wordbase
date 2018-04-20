@@ -1,0 +1,100 @@
+pirobologista	nome feminino	pi|ro|bo|lo|[gis]|ta
+pirobólogo	nome masculino	pi|ro|[bó]|lo|go
+pirobórico	nome masculino	pi|ro|[bó]|ri|co
+piroca	adjetivo	pi|[ro]|ca
+piroca	nome feminino	pi|[ro]|ca
+pirocar	verbo	pi|ro|[car]
+piroclasite	nome feminino	pi|ro|cla|[si]|te
+piroclástico	adjetivo	pi|ro|[clás]|ti|co
+piroclasto	nome masculino	pi|ro|[clas]|to
+pirocloro	nome masculino	pi|ro|[clo]|ro
+piroconite	nome feminino	pi|ro|co|[ni]|te
+pirocroíte	nome feminino	pi|ro|cro|[í]|te
+pirodina	nome feminino	pi|ro|[di]|na
+pirodinâmica	nome feminino	pi|ro|di|[nâ]|mi|ca
+pirodinâmico	adjetivo	pi|ro|di|[nâ]|mi|co
+piroeléctrico	adjetivo	pi|ro|e|[léc]|tri|co
+piroeletricidade	nome feminino	pi|ro|e|le|tri|ci|[da]|de
+piroelétrico	adjetivo	pi|ro|e|[lé]|tri|co
+pirófago	nome masculino	pi|[ró]|fa|go
+pirofânio	nome masculino	pi|ro|[fâ]|ni|o
+pirofilita	nome feminino	pi|ro|fi|[li]|ta
+pirofilite	nome feminino	pi|ro|fi|[li]|te
+pirofilítico	adjetivo	pi|ro|fi|[lí]|ti|co
+pirofobia	nome feminino	pi|ro|fo|[bi]|a
+pirófobo	adjetivo	pi|[ró]|fo|bo
+pirófobo	nome masculino	pi|[ró]|fo|bo
+pirófora	nome feminino	pi|[ró]|fo|ra
+pirofórico	adjetivo	pi|ro|[fó]|ri|co
+piróforo	nome masculino	pi|[ró]|fo|ro
+pirofosfato	nome masculino	pi|ro|fos|[fa]|to
+pirofosfórico	adjetivo	pi|ro|fos|[fó]|ri|co
+pirofosforite	nome feminino	pi|ro|fos|fo|[ri]|te
+piroga	nome feminino	pi|[ro]|ga
+pirogalato	nome masculino	pi|ro|ga|[la]|to
+pirogálhico	adjetivo	pi|ro|[gá]|lhi|co
+pirogalhol	nome masculino	pi|ro|ga|[lhol]
+pirogálico	adjetivo	pi|ro|[gá]|li|co
+pirogalol	nome masculino	pi|ro|ga|[lol]
+pirogenação	nome feminino	pi|ro|ge|na|[ção]
+pirogênese	nome feminino	pi|ro|[gê]|ne|se
+pirogénese	nome feminino	pi|ro|[gé]|ne|se
+pirogenésico	adjetivo	pi|ro|ge|[né]|si|co
+pirogenético	adjetivo	pi|ro|ge|[né]|ti|co
+pirogênico	adjetivo	pi|ro|[gê]|ni|co
+pirogénico	adjetivo	pi|ro|[gé]|ni|co
+pirogeómetro	nome masculino	pi|ro|ge|[ó]|me|tro
+pirogeômetro	nome masculino	pi|ro|ge|[ô]|me|tro
+pirógero	adjetivo	pi|[ró]|ge|ro
+pirógero	nome masculino	pi|[ró]|ge|ro
+pirognóstico	adjetivo	pi|rog|[nós]|ti|co
+pirógrafo	nome masculino	pi|[ró]|gra|fo
+pirogranito	nome masculino	pi|ro|gra|[ni]|to
+pirogravação	nome feminino	pi|ro|gra|va|[ção]
+pirogravador	nome masculino	pi|ro|gra|va|[dor]
+pirogravadora	nome feminino	pi|ro|gra|va|[do]|ra
+pirogravar	verbo	pi|ro|gra|[var]
+pirogravura	nome feminino	pi|ro|gra|[vu]|ra
+piroide	adjetivo	pi|[roi]|de
+pírois	nome masculino	[pí]|rois
+pirólatra	nome masculino	pi|[ró]|la|tra
+pirólatra	nome feminino	pi|[ró]|la|tra
+pirolatria	nome feminino	pi|ro|la|[tri]|a
+pirolátrico	adjetivo	pi|ro|[lá]|tri|co
+pirolé	nome masculino	pi|ro|[lé]
+pirolenhoso	adjetivo	pi|ro|le|[nho]|so
+pirolisador	adjetivo	pi|ro|li|sa|[dor]
+pirolisador	nome masculino	pi|ro|li|sa|[dor]
+pirolisar	verbo	pi|ro|li|[sar]
+pirolisável	adjetivo	pi|ro|li|[sá]|vel
+pirólise	nome feminino	pi|[ró]|li|se
+pirolisite	nome feminino	pi|ro|li|[si]|te
+pirolítico	adjetivo	pi|ro|[lí]|ti|co
+pirolito	nome masculino	pi|ro|[li]|to
+piroliz	nome masculino	pi|ro|[liz]
+pirologia	nome feminino	pi|ro|lo|[gi]|a
+pirológico	adjetivo	pi|ro|[ló]|gi|co
+pirolusita	nome feminino	pi|ro|lu|[si]|ta
+pirolusite	nome feminino	pi|ro|lu|[si]|te
+pirómaco	nome masculino	pi|[ró]|ma|co
+pirómaco	adjetivo	pi|[ró]|ma|co
+pirômaco	adjetivo	pi|[rô]|ma|co
+pirômaco	nome masculino	pi|[rô]|ma|co
+pirómana	nome feminino	pi|[ró]|ma|na
+piromancia	nome feminino	pi|ro|man|[ci]|a
+piromania	nome feminino	pi|ro|ma|[ni]|a
+piromaníaca	nome feminino	pi|ro|ma|[ní]|a|ca
+piromaníaco	adjetivo	pi|ro|ma|[ní]|a|co
+piromaníaco	nome masculino	pi|ro|ma|[ní]|a|co
+pirômano	adjetivo	pi|[rô]|ma|no
+pirômano	nome masculino	pi|[rô]|ma|no
+pirómano	adjetivo	pi|[ró]|ma|no
+pirómano	nome masculino	pi|[ró]|ma|no
+piromante	nome masculino	pi|ro|[man]|te
+piromante	nome feminino	pi|ro|[man]|te
+piromântico	adjetivo	pi|ro|[mân]|ti|co
+pirometalurgia	nome feminino	pi|ro|me|ta|lur|[gi]|a
+pirometamórfico	adjetivo	pi|ro|me|ta|[mór]|fi|co
+pirometamorfismo	nome masculino	pi|ro|me|ta|mor|[fis]|mo
+pirometria	nome feminino	pi|ro|me|[tri]|a
+pirométrico	adjetivo	pi|ro|[mé]|tri|co

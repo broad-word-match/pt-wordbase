@@ -1,0 +1,100 @@
+longicórneo	adjetivo	lon|gi|[cór]|ne|o
+longicórneo	nome masculino	lon|gi|[cór]|ne|o
+longifólio	adjetivo	lon|gi|[fó]|li|o
+longilíneo	adjetivo	lon|gi|[lí]|ne|o
+longilobado	adjetivo	lon|gi|lo|[ba]|do
+longímano	adjetivo	lon|[gí]|ma|no
+longimetria	nome feminino	lon|gi|me|[tri]|a
+longimétrico	adjetivo	lon|gi|[mé]|tri|co
+longímetro	nome masculino	lon|[gí]|me|tro
+longina	nome feminino	lon|[gi]|na
+longinco	adjetivo	lon|[gin]|co
+longinquamente	advérbio	lon|gin|qua|[men]|te
+longinquidade	nome feminino	lon|gin|qui|[da]|de
+longínquo	adjetivo	lon|[gín]|quo
+longipalpo	adjetivo	lon|gi|[pal]|po
+longípede	adjetivo	lon|[gí]|pe|de
+longipene	nome feminino	lon|gi|[pe]|ne
+longipene	adjetivo	lon|gi|[pe]|ne
+longipétalo	adjetivo	lon|gi|[pé]|ta|lo
+longirrostro	adjetivo	lon|gir|[ros]|tro
+longistridente	adjetivo	lon|gis|tri|[den]|te
+longitarso	adjetivo	lon|gi|[tar]|so
+longitroante	adjetivo	lon|gi|tro|[an]|te
+longitude	nome feminino	lon|gi|[tu]|de
+longitudinal	adjetivo	lon|gi|tu|di|[nal]
+longitudinalmente	advérbio	lon|gi|tu|di|nal|[men]|te
+longo	adjetivo	[lon]|go
+longobardo	nome masculino	lon|go|[bar]|do
+longor	nome masculino	lon|[gor]
+longrina	nome feminino	lon|[gri]|na
+longueirão	nome masculino	lon|guei|[rão]
+longueiro	adjetivo	lon|[guei]|ro
+longueza	nome feminino	lon|[gue]|za
+longuiça	nome feminino	lon|[gui]|ça
+longuidão	nome feminino	lon|gui|[dão]
+longuim	nome masculino	lon|[guim]
+longuíssimo	adjetivo	lon|[guís]|si|mo
+longulano	adjetivo	lon|gu|[la]|no
+longulano	nome masculino	lon|gu|[la]|no
+longura	nome feminino	lon|[gu]|ra
+lonícera	nome feminino	lo|[ní]|ce|ra
+lonicerácea	nome feminino	lo|ni|ce|[rá]|ce|a
+lonicéreo	adjetivo	lo|ni|[cé]|re|o
+lonjura	nome feminino	lon|[ju]|ra
+lonqueador	nome masculino	lon|que|a|[dor]
+lonquear	verbo	lon|que|[ar]
+lontra	nome feminino	[lon]|tra
+lontra	nome masculino	[lon]|tra
+lontro	nome masculino	[lon]|tro
+look	nome masculino	[look]
+looping	nome masculino	[loo]|ping
+lopé	nome masculino	lo|[pé]
+lopso	adjetivo	[lop]|so
+lopso	nome masculino	[lop]|so
+loquacidade	nome feminino	lo|qua|ci|[da]|de
+loquaz	adjetivo	lo|[quaz]
+loquazmente	advérbio	lo|quaz|[men]|te
+loque	nome masculino	[lo]|que
+loquela	nome feminino	lo|[que]|la
+loquete	nome masculino	lo|[que]|te
+loquial	adjetivo	lo|qui|[al]
+loquiometria	nome feminino	lo|qui|o|me|[tri]|a
+loquiométrico	adjetivo	lo|qui|o|[mé]|tri|co
+loquiorreia	nome feminino	lo|qui|or|[rei]|a
+loquiorreico	adjetivo	lo|qui|or|[rei]|co
+lóquios	nome masculino	[ló]|qui|os
+lora	nome feminino	[lo]|ra
+lorantácea	nome feminino	lo|ran|[tá]|ce|a
+lorantáceo	adjetivo	lo|ran|[tá]|ce|o
+loranto	nome masculino	lo|[ran]|to
+lorca	nome feminino	[lor]|ca
+lorcar	verbo	lor|[car]
+lorcha	nome feminino	[lor]|cha
+lorcheiro	nome masculino	lor|[chei]|ro
+lord	nome masculino	[lord]
+lordaça	nome feminino	lor|[da]|ça
+lordaço	adjetivo	lor|[da]|ço
+lordaço	nome masculino	lor|[da]|ço
+lorde	nome masculino	[lor]|de
+lorde	adjetivo	[lor]|de
+lorde-maior	nome masculino	lor|de-mai|[or]
+lordelense	adjetivo	lor|de|[len]|se
+lordelense	nome masculino	lor|de|[len]|se
+lordelense	nome feminino	lor|de|[len]|se
+lordeza	nome feminino	lor|[de]|za
+lordose	nome feminino	lor|[do]|se
+lordótico	adjetivo	lor|[dó]|ti|co
+lorena	nome feminino	lo|[re]|na
+loreno	nome masculino	lo|[re]|no
+loreno	adjetivo	lo|[re]|no
+loreta	nome feminino	lo|[re]|ta
+loretano	adjetivo	lo|re|[ta]|no
+loretano	nome masculino	lo|re|[ta]|no
+lorga	nome feminino	[lor]|ga
+lorica	nome feminino	lo|[ri]|ca
+loricado	adjetivo	lo|ri|[ca]|do
+loricária	nome feminino	lo|ri|[cá]|ri|a
+loricariídeo	nome masculino	lo|ri|ca|ri|[í]|de|o
+loricariídeo	adjetivo	lo|ri|ca|ri|[í]|de|o
+lorico	nome masculino	lo|[ri]|co

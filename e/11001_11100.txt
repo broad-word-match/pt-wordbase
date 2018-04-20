@@ -1,0 +1,100 @@
+estenodatilógrafo	nome masculino	es|te|no|da|ti|[ló]|gra|fo
+estenógrafa	nome feminino	es|te|[nó]|gra|fa
+estenografar	verbo	es|te|no|gra|[far]
+estenografia	nome feminino	es|te|no|gra|[fi]|a
+estenograficamente	advérbio	es|te|no|gra|fi|ca|[men]|te
+estenográfico	adjetivo	es|te|no|[grá]|fi|co
+estenógrafo	nome masculino	es|te|[nó]|gra|fo
+estenograma	nome masculino	es|te|no|[gra]|ma
+estenose	nome feminino	es|te|[no]|se
+estenotérmico	adjetivo	es|te|no|[tér]|mi|co
+estenotermo	adjetivo	es|te|no|[ter]|mo
+estenotipar	verbo	es|te|no|ti|[par]
+estenotipia	nome feminino	es|te|no|ti|[pi]|a
+estenotípico	adjetivo	es|te|no|[tí]|pi|co
+estenotipista	nome masculino	es|te|no|ti|[pis]|ta
+estenotipista	nome feminino	es|te|no|ti|[pis]|ta
+estenótipo	nome masculino	es|te|[nó]|ti|po
+estentor	nome masculino	es|ten|[tor]
+estentóreo	adjetivo	es|ten|[tó]|re|o
+estentórico	adjetivo	es|ten|[tó]|ri|co
+estentorídeo	adjetivo	es|ten|to|[rí]|de|o
+estentorídeo	nome masculino	es|ten|to|[rí]|de|o
+estentoroso	adjetivo	es|ten|to|[ro]|so
+estepe	nome feminino	es|[te]|pe
+estepe	nome masculino	es|[te]|pe
+estépico	adjetivo	es|[té]|pi|co
+estéptico	adjetivo	es|[tép]|ti|co
+estequiogenia	nome feminino	es|te|qui|o|ge|[ni]|a
+estequiogénico	adjetivo	es|te|qui|o|[gé]|ni|co
+estequiogênico	adjetivo	es|te|qui|o|[gê]|ni|co
+estequiologia	nome feminino	es|te|qui|o|lo|[gi]|a
+estequiológico	adjetivo	es|te|qui|o|[ló]|gi|co
+estequiomancia	nome feminino	es|te|qui|o|man|[ci]|a
+estequiomante	nome masculino	es|te|qui|o|[man]|te
+estequiomante	nome feminino	es|te|qui|o|[man]|te
+estequiomântico	adjetivo	es|te|qui|o|[mân]|ti|co
+estequiometria	nome feminino	es|te|qui|o|me|[tri]|a
+estequiométrico	adjetivo	es|te|qui|o|[mé]|tri|co
+éster	nome masculino	[és]|ter
+estercada	nome feminino	es|ter|[ca]|da
+estercador	adjetivo	es|ter|ca|[dor]
+estercador	nome masculino	es|ter|ca|[dor]
+estercadura	nome feminino	es|ter|ca|[du]|ra
+estercar	verbo	es|ter|[car]
+esterco	nome masculino	es|[ter]|co
+estercobilina	nome feminino	es|ter|co|bi|[li]|na
+estercoral	adjetivo	es|ter|co|[ral]
+estercorariídeo	adjetivo	es|ter|co|ra|ri|[í]|de|o
+estercorariídeo	nome masculino	es|ter|co|ra|ri|[í]|de|o
+estercorário	nome masculino	es|ter|co|[rá]|ri|o
+estercorário	adjetivo	es|ter|co|[rá]|ri|o
+estercoreiro	nome masculino	es|ter|co|[rei]|ro
+estercoremia	nome feminino	es|ter|co|re|[mi]|a
+estercoroso	adjetivo	es|ter|co|[ro]|so
+estercúlia	nome feminino	es|ter|[cú]|li|a
+esterculiácea	nome feminino	es|ter|cu|li|[á]|ce|a
+esterculiáceo	adjetivo	es|ter|cu|li|[á]|ce|o
+estere	nome masculino	es|[te]|re
+estereagnosia	nome feminino	es|te|re|ag|no|[si]|a
+estereagnóstico	adjetivo	es|te|re|ag|[nós]|ti|co
+estéreo	nome masculino	es|[té]|re|o
+estéreo	adjetivo	es|[té]|re|o
+estereóbata	nome masculino	es|te|re|[ó]|ba|ta
+estereocentro	nome masculino	es|te|re|o|[cen]|tro
+estereocromia	nome feminino	es|te|re|o|cro|[mi]|a
+estereocrômico	adjetivo	es|te|re|o|[crô]|mi|co
+estereocrómico	adjetivo	es|te|re|o|[cró]|mi|co
+estereodinâmica	nome feminino	es|te|re|o|di|[nâ]|mi|ca
+estereodinâmico	adjetivo	es|te|re|o|di|[nâ]|mi|co
+estereofonia	nome feminino	es|te|re|o|fo|[ni]|a
+estereofônico	adjetivo	es|te|re|o|[fô]|ni|co
+estereofónico	adjetivo	es|te|re|o|[fó]|ni|co
+estereognosia	nome feminino	es|te|re|og|no|[si]|a
+estereognóstico	adjetivo	es|te|re|og|[nós]|ti|co
+estereografia	nome feminino	es|te|re|o|gra|[fi]|a
+estereográfico	adjetivo	es|te|re|o|[grá]|fi|co
+estereógrafo	nome masculino	es|te|re|[ó]|gra|fo
+estereograma	nome masculino	es|te|re|o|[gra]|ma
+estereogrametria	nome feminino	es|te|re|o|gra|me|[tri]|a
+estereogramétrico	adjetivo	es|te|re|o|gra|[mé]|tri|co
+estereoisomerismo	nome masculino	es|te|re|oi|so|me|[ris]|mo
+estereoisómero	nome masculino	es|te|re|oi|[só]|me|ro
+estereoisômero	nome masculino	es|te|re|oi|[sô]|me|ro
+estereologia	nome feminino	es|te|re|o|lo|[gi]|a
+estereológico	adjetivo	es|te|re|o|[ló]|gi|co
+estereometria	nome feminino	es|te|re|o|me|[tri]|a
+estereométrico	adjetivo	es|te|re|o|[mé]|tri|co
+estereômetro	nome masculino	es|te|re|[ô]|me|tro
+estereómetro	nome masculino	es|te|re|[ó]|me|tro
+estereoquímica	nome feminino	es|te|re|o|[quí]|mi|ca
+estereoquímico	adjetivo	es|te|re|o|[quí]|mi|co
+estereorama	nome masculino	es|te|re|o|[ra]|ma
+estereorradiano	nome masculino	es|te|re|or|ra|di|[a]|no
+estereoscopia	nome feminino	es|te|re|os|co|[pi]|a
+estereoscópico	adjetivo	es|te|re|os|[có]|pi|co
+estereoscópio	nome masculino	es|te|re|os|[có]|pi|o
+estereostática	nome feminino	es|te|re|os|[tá]|ti|ca
+estereostático	adjetivo	es|te|re|os|[tá]|ti|co
+estereotaxia	nome feminino	es|te|re|o|ta|[xi]|a
+estereotipado	adjetivo	es|te|re|o|ti|[pa]|do

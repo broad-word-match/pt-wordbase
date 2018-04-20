@@ -1,0 +1,100 @@
+xavante	nome feminino	xa|[van]|te
+xavantense	adjetivo	xa|van|[ten]|se
+xavantense	nome masculino	xa|van|[ten]|se
+xavantense	nome feminino	xa|van|[ten]|se
+xavantina	nome feminino	xa|van|[ti]|na
+xavantino	adjetivo	xa|van|[ti]|no
+xavantino	nome masculino	xa|van|[ti]|no
+xaveco	nome masculino	xa|[ve]|co
+xaveco	adjetivo	xa|[ve]|co
+xávega	nome feminino	[xá]|ve|ga
+xaveriano	adjetivo	xa|ve|ri|[a]|no
+xavieriano	adjetivo	xa|vi|e|ri|[a]|no
+xaxatar	verbo	xa|xa|[tar]
+xaxim	nome masculino	xa|[xim]
+xebre	adjetivo	[xe]|bre
+xecado	nome masculino	xe|[ca]|do
+xelim	nome masculino	xe|[lim]
+xelindró	nome masculino	xe|lin|[dró]
+xelma	nome feminino	[xel]|ma
+xenagia	nome feminino	xe|na|[gi]|a
+xenar	verbo	xe|[nar]
+xenarca	nome masculino	xe|[nar]|ca
+xenartro	adjetivo	xe|[nar]|tro
+xenartro	nome masculino	xe|[nar]|tro
+xenato	nome masculino	xe|[na]|to
+xendengue	adjetivo	xen|[den]|gue
+xendi	nome masculino	xen|[di]
+xenelasia	nome feminino	xe|ne|la|[si]|a
+xenêntese	nome feminino	xe|[nên]|te|se
+xénia	nome feminino	[xé]|ni|a
+xênia	nome feminino	[xê]|ni|a
+xénio	nome masculino	[xé]|ni|o
+xênio	nome masculino	[xê]|ni|o
+xenismo	nome masculino	xe|[nis]|mo
+xenobiose	nome feminino	xe|no|bi|[o]|se
+xenoblástico	adjetivo	xe|no|[blás]|ti|co
+xenodonte	nome masculino	xe|no|[don]|te
+xenofilia	nome feminino	xe|no|fi|[li]|a
+xenófilo	adjetivo	xe|[nó]|fi|lo
+xenófilo	nome masculino	xe|[nó]|fi|lo
+xenófoba	nome feminino	xe|[nó]|fo|ba
+xenofobia	nome feminino	xe|no|fo|[bi]|a
+xenofobismo	nome masculino	xe|no|fo|[bis]|mo
+xenófobo	adjetivo	xe|[nó]|fo|bo
+xenófobo	nome masculino	xe|[nó]|fo|bo
+xenofonia	nome feminino	xe|no|fo|[ni]|a
+xenofônico	adjetivo	xe|no|[fô]|ni|co
+xenofónico	adjetivo	xe|no|[fó]|ni|co
+xenofonteu	adjetivo	xe|no|fon|[teu]
+xenofontiano	adjetivo	xe|no|fon|ti|[a]|no
+xenóforo	nome masculino	xe|[nó]|fo|ro
+xenólito	nome masculino	xe|[nó]|li|to
+xenologia	nome feminino	xe|no|lo|[gi]|a
+xenomania	nome feminino	xe|no|ma|[ni]|a
+xenomaníaco	adjetivo	xe|no|ma|[ní]|a|co
+xenomaníaco	nome masculino	xe|no|ma|[ní]|a|co
+xenómano	nome masculino	xe|[nó]|ma|no
+xenômano	nome masculino	xe|[nô]|ma|no
+xenomórfico	adjetivo	xe|no|[mór]|fi|co
+xénon	nome masculino	[xé]|non
+xênon	nome masculino	[xê]|non
+xenônio	nome masculino	xe|[nô]|ni|o
+xenotímio	nome masculino	xe|no|[tí]|mi|o
+xenótimo	nome masculino	xe|[nó]|ti|mo
+xenotransplante	nome masculino	xe|no|trans|[plan]|te
+xenxém	nome masculino	xen|[xém]
+xepa	nome feminino	[xe]|pa
+xepeiro	nome masculino	xe|[pei]|ro
+xeque	nome masculino	[xe]|que
+xeque-mate	nome masculino	xe|que-ma|te
+xequeador	adjetivo	xe|que|a|[dor]
+xequeador	nome masculino	xe|que|a|[dor]
+xequear	verbo	xe|que|[ar]
+xequeré	nome masculino	xe|que|[ré]
+xera	nome masculino	[xe]|ra
+xera	nome feminino	[xe]|ra
+xerafim	nome masculino	xe|ra|[fim]
+xerântemo	nome masculino	xe|[rân]|te|mo
+xerasia	nome feminino	xe|ra|[si]|a
+xerelete	nome masculino	xe|re|[le]|te
+xerém	nome masculino	xe|[rém]
+xerengue	nome masculino	xe|[ren]|gue
+xerente	adjetivo	xe|[ren]|te
+xerente	nome feminino	xe|[ren]|te
+xerente	nome masculino	xe|[ren]|te
+xereré	nome masculino	xe|re|[ré]
+xereta	adjetivo	xe|[re]|ta
+xereta	nome masculino	xe|[re]|ta
+xereta	nome feminino	xe|[re]|ta
+xeretar	verbo	xe|re|[tar]
+xeretear	verbo	xe|re|te|[ar]
+xerez	nome masculino	xe|[rez]
+xerga	nome feminino	[xer]|ga
+xergão	nome masculino	xer|[gão]
+xeri	nome masculino	xe|[ri]
+xerifado	nome masculino	xe|ri|[fa]|do
+xerife	nome masculino	xe|[ri]|fe
+xerifino	adjetivo	xe|ri|[fi]|no
+xerimbabo	nome masculino	xe|rim|[ba]|bo
+xeringa	nome feminino	xe|[rin]|ga

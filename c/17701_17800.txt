@@ -1,0 +1,100 @@
+cotutela	nome feminino	co|tu|[te]|la
+cotutor	nome masculino	co|tu|[tor]
+cotutora	nome feminino	co|tu|[to]|ra
+coucão	nome masculino	cou|[cão]
+couce	nome masculino	[cou]|ce
+coucear	verbo	cou|ce|[ar]
+couceira	nome feminino	cou|[cei]|ra
+couceirista	nome masculino	cou|cei|[ris]|ta
+couceirista	nome feminino	cou|cei|[ris]|ta
+couceiro	adjetivo	cou|[cei]|ro
+couceiro	nome masculino	cou|[cei]|ro
+coucelo	nome masculino	cou|[ce]|lo
+couché	adjetivo	cou|ché
+couchette	nome feminino	cou|chet|te
+coucieira	nome feminino	cou|ci|[ei]|ra
+coucil	nome masculino	cou|[cil]
+coucilhão	nome masculino	cou|ci|[lhão]
+coucilho	nome masculino	cou|[ci]|lho
+couçoeira	nome feminino	cou|ço|[ei]|ra
+coudel	nome masculino	cou|[del]
+coudelaria	nome feminino	cou|de|la|[ri]|a
+coudélico	adjetivo	cou|[dé]|li|co
+coudilho	nome masculino	cou|[di]|lho
+coulau	nome masculino	cou|[lau]
+coulomb	nome masculino	cou|lomb
+country	nome masculino	[coun]|try
+coupé	nome masculino	cou|pé
+coupon	nome masculino	cou|pon
+couquilha	nome feminino	cou|[qui]|lha
+couquilhada	nome feminino	cou|qui|[lha]|da
+coura	nome feminino	[cou]|ra
+couraça	nome feminino	cou|[ra]|ça
+couraça	adjetivo	cou|[ra]|ça
+couraçada	nome feminino	cou|ra|[ça]|da
+couraçado	adjetivo	cou|ra|[ça]|do
+couraçado	nome masculino	cou|ra|[ça]|do
+couraçar	verbo	cou|ra|[çar]
+couraceiro	nome masculino	cou|ra|[cei]|ro
+couracho	nome masculino	cou|[ra]|cho
+courada	nome feminino	cou|[ra]|da
+courama	nome feminino	cou|[ra]|ma
+courão	nome masculino	cou|[rão]
+courata	nome feminino	cou|[ra]|ta
+courato	nome masculino	cou|[ra]|to
+courear	verbo	cou|re|[ar]
+coureiro	nome masculino	cou|[rei]|ro
+courela	nome feminino	cou|[re]|la
+courelado	adjetivo	cou|re|[la]|do
+courelar	verbo	cou|re|[lar]
+coureleiro	nome masculino	cou|re|[lei]|ro
+courense	adjetivo	cou|[ren]|se
+courense	nome masculino	cou|[ren]|se
+courense	nome feminino	cou|[ren]|se
+courgette	nome feminino	cour|get|te
+courinho	nome masculino	cou|[ri]|nho
+couro	nome masculino	[cou]|ro
+couro-cabeludo	nome masculino	cou|ro-ca|be|[lu]|do
+court	nome masculino	[court]
+cousa	nome feminino	[cou]|sa
+cousa-feita	nome feminino	cou|sa-fei|ta
+cousada	nome feminino	cou|[sa]|da
+cousar	verbo	cou|[sar]
+couscous	nome masculino	[cous]|cous
+couseiro	nome masculino	cou|[sei]|ro
+cousica	nome feminino	cou|[si]|ca
+cousico	nome masculino	cou|[si]|co
+cousíssima	nome feminino	cou|[sís]|si|ma
+couso	nome masculino	[cou]|so
+cousso	nome masculino	[cous]|so
+coutada	nome feminino	cou|[ta]|da
+coutamento	nome masculino	cou|ta|[men]|to
+coutar	verbo	cou|[tar]
+coutaria	nome feminino	cou|ta|[ri]|a
+couteiro	nome masculino	cou|[tei]|ro
+coutelho	nome masculino	cou|[te]|lho
+coutente	adjetivo	cou|[ten]|te
+coutente	nome masculino	cou|[ten]|te
+coutente	nome feminino	cou|[ten]|te
+couto	nome masculino	[cou]|to
+couval	nome masculino	cou|[val]
+couve	nome feminino	[cou]|ve
+couve-chinesa	nome feminino	cou|ve-chi|[ne]|sa
+couve-coração-de-boi	nome feminino	cou|ve-co|ra|ção-de-boi
+couve-de-bruxelas	nome feminino	cou|ve-de-bru|[xe]|las
+couve-de-saboia	nome feminino	cou|ve-de-sa|[boi]|a
+couve-flor	nome feminino	cou|ve-flor
+couve-galega	nome feminino	cou|ve-ga|[le]|ga
+couve-lombarda	nome feminino	cou|ve-lom|[bar]|da
+couve-marinha	nome feminino	cou|ve-ma|[ri]|nha
+couve-nabiça	nome feminino	cou|ve-na|[bi]|ça
+couve-nabo	nome feminino	cou|ve-na|bo
+couve-penca	nome feminino	cou|ve-pen|ca
+couve-portuguesa	nome feminino	cou|ve-por|tu|[gue]|sa
+couve-repolho	nome feminino	cou|ve-re|[po]|lho
+couve-repolhuda	nome feminino	cou|ve-re|po|[lhu]|da
+couve-roxa	nome feminino	cou|ve-ro|xa
+couve-troncha	nome feminino	cou|ve-tron|cha
+couve-tronchuda	nome feminino	cou|ve-tron|[chu]|da
+couveira	nome feminino	cou|[vei]|ra
+couveiro	nome masculino	cou|[vei]|ro

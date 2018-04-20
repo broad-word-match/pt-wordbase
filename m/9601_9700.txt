@@ -1,0 +1,100 @@
+monodátilo	adjetivo	mo|no|[dá]|ti|lo
+monódia	nome feminino	mo|[nó]|di|a
+monodiar	verbo	mo|no|di|[ar]
+monodicamente	advérbio	mo|no|di|ca|[men]|te
+monódico	adjetivo	mo|[nó]|di|co
+monodimétrico	adjetivo	mo|no|di|[mé]|tri|co
+monodisciplinar	adjetivo	mo|no|dis|ci|pli|[nar]
+monodisperso	adjetivo	mo|no|dis|[per]|so
+monodisperso	nome masculino	mo|no|dis|[per]|so
+monodonte	adjetivo	mo|no|[don]|te
+monodonte	nome masculino	mo|no|[don]|te
+monodrama	nome masculino	mo|no|[dra]|ma
+monodramático	adjetivo	mo|no|dra|[má]|ti|co
+monodromia	nome feminino	mo|no|dro|[mi]|a
+monódromo	adjetivo	mo|[nó]|dro|mo
+monofânio	nome masculino	mo|no|[fâ]|ni|o
+monofásico	adjetivo	mo|no|[fá]|si|co
+monofilético	adjetivo	mo|no|fi|[lé]|ti|co
+monofilo	adjetivo	mo|no|[fi]|lo
+monofiodonte	nome masculino	mo|no|fi|o|[don]|te
+monofiodonte	adjetivo	mo|no|fi|o|[don]|te
+monofisismo	nome masculino	mo|no|fi|[sis]|mo
+monofisita	adjetivo	mo|no|fi|[si]|ta
+monofisita	nome masculino	mo|no|fi|[si]|ta
+monofisita	nome feminino	mo|no|fi|[si]|ta
+monófito	adjetivo	mo|[nó]|fi|to
+monofobia	nome feminino	mo|no|fo|[bi]|a
+monófobo	adjetivo	mo|[nó]|fo|bo
+monófobo	nome masculino	mo|[nó]|fo|bo
+monofone	nome masculino	mo|no|[fo]|ne
+monofonia	nome feminino	mo|no|fo|[ni]|a
+monofónico	adjetivo	mo|no|[fó]|ni|co
+monofônico	adjetivo	mo|no|[fô]|ni|co
+monófono	adjetivo	mo|[nó]|fo|no
+monoftalmia	nome feminino	mo|nof|tal|[mi]|a
+monoftalmo	nome masculino	mo|nof|[tal]|mo
+monoftalmo	adjetivo	mo|nof|[tal]|mo
+monógama	nome feminino	mo|[nó]|ga|ma
+monogamia	nome feminino	mo|no|ga|[mi]|a
+monogâmico	adjetivo	mo|no|[gâ]|mi|co
+monogamista	adjetivo	mo|no|ga|[mis]|ta
+monogamista	nome masculino	mo|no|ga|[mis]|ta
+monogamista	nome feminino	mo|no|ga|[mis]|ta
+monógamo	adjetivo	mo|[nó]|ga|mo
+monógamo	nome masculino	mo|[nó]|ga|mo
+monogástrico	adjetivo	mo|no|[gás]|tri|co
+monogéneo	adjetivo	mo|no|[gé]|ne|o
+monogêneo	adjetivo	mo|no|[gê]|ne|o
+monogénese	nome feminino	mo|no|[gé]|ne|se
+monogênese	nome feminino	mo|no|[gê]|ne|se
+monogenésico	adjetivo	mo|no|ge|[né]|si|co
+monogenético	adjetivo	mo|no|ge|[né]|ti|co
+monogenia	nome feminino	mo|no|ge|[ni]|a
+monogênico	adjetivo	mo|no|[gê]|ni|co
+monogénico	adjetivo	mo|no|[gé]|ni|co
+monogenismo	nome masculino	mo|no|ge|[nis]|mo
+monogenista	adjetivo	mo|no|ge|[nis]|ta
+monogenista	nome masculino	mo|no|ge|[nis]|ta
+monogenista	nome feminino	mo|no|ge|[nis]|ta
+monógeno	adjetivo	mo|[nó]|ge|no
+monoginia	nome feminino	mo|no|gi|[ni]|a
+monógino	adjetivo	mo|[nó]|gi|no
+monoglota	adjetivo	mo|no|[glo]|ta
+monoglota	nome masculino	mo|no|[glo]|ta
+monoglota	nome feminino	mo|no|[glo]|ta
+monoglótico	adjetivo	mo|no|[gló]|ti|co
+monografar	verbo	mo|no|gra|[far]
+monografia	nome feminino	mo|no|gra|[fi]|a
+monograficamente	advérbio	mo|no|gra|fi|ca|[men]|te
+monográfico	adjetivo	mo|no|[grá]|fi|co
+monografista	nome masculino	mo|no|gra|[fis]|ta
+monografista	nome feminino	mo|no|gra|[fis]|ta
+monógrafo	adjetivo	mo|[nó]|gra|fo
+monógrafo	nome masculino	mo|[nó]|gra|fo
+monograma	nome masculino	mo|no|[gra]|ma
+monogramático	adjetivo	mo|no|gra|[má]|ti|co
+monogramista	nome masculino	mo|no|gra|[mis]|ta
+monogramista	nome feminino	mo|no|gra|[mis]|ta
+monogramo	adjetivo	mo|no|[gra]|mo
+monoibridismo	nome masculino	mo|noi|bri|[dis]|mo
+monoicia	nome feminino	mo|noi|[ci]|a
+monoico	adjetivo	mo|[noi]|co
+monoide	adjetivo	mo|[noi]|de
+monoideísmo	nome masculino	mo|noi|de|[ís]|mo
+monoidratado	adjetivo	mo|noi|dra|[ta]|do
+monoidrato	nome masculino	mo|noi|[dra]|to
+monoídrico	adjetivo	mo|no|[í]|dri|co
+monoílo	adjetivo	mo|no|[í]|lo
+monokini	nome masculino	mo|no|ki|ni
+monoleína	nome feminino	mo|no|le|[í]|na
+monolépide	adjetivo	mo|no|[lé]|pi|de
+monolépido	adjetivo	mo|no|[lé]|pi|do
+monolingue	nome masculino	mo|no|[lin]|gue
+monolingue	adjetivo	mo|no|[lin]|gue
+monolinguismo	nome masculino	mo|no|lin|[guis]|mo
+monolítico	adjetivo	mo|no|[lí]|ti|co
+monolitismo	nome masculino	mo|no|li|[tis]|mo
+monólito	nome masculino	mo|[nó]|li|to
+monologar	verbo	mo|no|lo|[gar]
+monologia	nome feminino	mo|no|lo|[gi]|a

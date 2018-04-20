@@ -1,0 +1,100 @@
+reinstalar	verbo	re|ins|ta|[lar]
+reinstaurar	verbo	re|ins|tau|[rar]
+reinstituição	nome feminino	re|ins|ti|tu|i|[ção]
+reinstituir	verbo	re|ins|ti|tu|[ir]
+reinsurgir	verbo	re|in|sur|[gir]
+reintegração	nome feminino	re|in|te|gra|[ção]
+reintegrador	adjetivo	re|in|te|gra|[dor]
+reintegrador	nome masculino	re|in|te|gra|[dor]
+reintegrar	verbo	re|in|te|[grar]
+reintegrativo	adjetivo	re|in|te|gra|[ti]|vo
+reintegrável	adjetivo	re|in|te|[grá]|vel
+reintegro	nome masculino	re|in|[te]|gro
+reinterpretação	nome feminino	re|in|ter|pre|ta|[ção]
+reinterpretar	verbo	re|in|ter|pre|[tar]
+reintrodução	nome feminino	re|in|tro|du|[ção]
+reintroduzir	verbo	re|in|tro|du|[zir]
+reinumação	nome feminino	rei|nu|ma|[ção]
+reinumar	verbo	rei|nu|[mar]
+reinvenção	nome feminino	re|in|ven|[ção]
+reinventar	verbo	re|in|ven|[tar]
+reinvestimento	nome masculino	re|in|ves|ti|[men]|to
+reinvestir	verbo	re|in|ves|[tir]
+reinvocação	nome feminino	re|in|vo|ca|[ção]
+reinvocar	verbo	re|in|vo|[car]
+reipersecutória	adjetivo	rei|per|se|cu|[tó]|ri|a
+reira	nome feminino	[rei]|ra
+réis	nome masculino	[réis]
+reisada	nome feminino	rei|[sa]|da
+reisado	nome masculino	rei|[sa]|do
+reisbuto	adjetivo	reis|[bu]|to
+reisbuto	nome masculino	reis|[bu]|to
+reiseiro	nome masculino	rei|[sei]|ro
+reiteração	nome feminino	rei|te|ra|[ção]
+reiteradamente	advérbio	rei|te|ra|da|[men]|te
+reiterado	adjetivo	rei|te|[ra]|do
+reiterar	verbo	rei|te|[rar]
+reiterativamente	advérbio	rei|te|ra|ti|va|[men]|te
+reiterativo	adjetivo	rei|te|ra|[ti]|vo
+reiterável	adjetivo	rei|te|[rá]|vel
+reitor	nome masculino	rei|[tor]
+reitora	nome feminino	rei|[to]|ra
+reitorado	nome masculino	rei|to|[ra]|do
+reitoral	adjetivo	rei|to|[ral]
+reitoria	nome feminino	rei|to|[ri]|a
+reitorizar	verbo	rei|to|ri|[zar]
+reiuna	nome feminino	rei|[u]|na
+reiunada	nome feminino	rei|u|[na]|da
+reiunar	verbo	rei|u|[nar]
+reiuno	adjetivo	rei|[u]|no
+reivindicabilidade	nome feminino	rei|vin|di|ca|bi|li|[da]|de
+reivindicação	nome feminino	rei|vin|di|ca|[ção]
+reivindicado	adjetivo	rei|vin|di|[ca]|do
+reivindicador	adjetivo	rei|vin|di|ca|[dor]
+reivindicador	nome masculino	rei|vin|di|ca|[dor]
+reivindicante	adjetivo	rei|vin|di|[can]|te
+reivindicar	verbo	rei|vin|di|[car]
+reivindicativo	adjetivo	rei|vin|di|ca|[ti]|vo
+reivindicatório	adjetivo	rei|vin|di|ca|[tó]|ri|o
+reivindicável	adjetivo	rei|vin|di|[cá]|vel
+reivó	nome masculino	rei|[vó]
+reixa	nome feminino	[rei]|xa
+reixelo	nome masculino	rei|[xe]|lo
+reizete	nome masculino	rei|[ze]|te
+rejão	nome masculino	re|[jão]
+rejeição	nome feminino	re|jei|[ção]
+rejeira	nome feminino	re|[jei]|ra
+rejeitado	adjetivo	re|jei|[ta]|do
+rejeitar	verbo	re|jei|[tar]
+rejeitável	adjetivo	re|jei|[tá]|vel
+rejeito	nome masculino	re|[jei]|to
+rejubilação	nome feminino	re|ju|bi|la|[ção]
+rejubilar	verbo	re|ju|bi|[lar]
+rejúbilo	nome masculino	re|[jú]|bi|lo
+rejubiloso	adjetivo	re|ju|bi|[lo]|so
+rejuntamento	nome masculino	re|jun|ta|[men]|to
+rejuntar	verbo	re|jun|[tar]
+rejuntável	adjetivo	re|jun|[tá]|vel
+rejura	nome feminino	re|[ju]|ra
+rejurar	verbo	re|ju|[rar]
+rejuvenescedor	adjetivo	re|ju|ve|nes|ce|[dor]
+rejuvenescência	nome feminino	re|ju|ve|nes|[cên]|ci|a
+rejuvenescente	adjetivo	re|ju|ve|nes|[cen]|te
+rejuvenescer	verbo	re|ju|ve|nes|[cer]
+rejuvenescido	adjetivo	re|ju|ve|nes|[ci]|do
+rejuvenescimento	nome masculino	re|ju|ve|nes|ci|[men]|to
+rela	nome feminino	[re]|la
+relação	nome feminino	re|la|[ção]
+relacionação	nome feminino	re|la|ci|o|na|[ção]
+relacionado	adjetivo	re|la|ci|o|[na]|do
+relacionador	adjetivo	re|la|ci|o|na|[dor]
+relacionador	nome masculino	re|la|ci|o|na|[dor]
+relacional	adjetivo	re|la|ci|o|[nal]
+relacionamento	nome masculino	re|la|ci|o|na|[men]|to
+relacionar	verbo	re|la|ci|o|[nar]
+relacionável	adjetivo	re|la|ci|o|[ná]|vel
+relações-públicas	nome masculino	re|la|ções-pú|bli|cas
+relações-públicas	nome feminino	re|la|ções-pú|bli|cas
+relacrar	verbo	re|la|[crar]
+relamber	verbo	re|lam|[ber]
+relambório	adjetivo	re|lam|[bó]|ri|o

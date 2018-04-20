@@ -1,0 +1,100 @@
+saleiro	nome masculino	sa|[lei]|ro
+salema	nome feminino	sa|[le]|ma
+salenda	nome feminino	sa|[len]|da
+salénia	nome feminino	sa|[lé]|ni|a
+salênia	nome feminino	sa|[lê]|ni|a
+saleno	adjetivo	sa|[le]|no
+saleno	nome masculino	sa|[le]|no
+salentino	adjetivo	sa|len|[ti]|no
+salentino	nome masculino	sa|len|[ti]|no
+salepeira	nome feminino	sa|le|[pei]|ra
+salepeira-maior	nome feminino	sa|le|pei|ra-mai|[or]
+salepo	nome masculino	sa|[le]|po
+salernitano	nome masculino	sa|ler|ni|[ta]|no
+salernitano	adjetivo	sa|ler|ni|[ta]|no
+salero	nome masculino	sa|[le]|ro
+salésia	nome feminino	sa|[lé]|si|a
+salesiano	adjetivo	sa|le|si|[a]|no
+salesiano	nome masculino	sa|le|si|[a]|no
+salesopolitano	adjetivo	sa|le|so|po|li|[ta]|no
+salesopolitano	nome masculino	sa|le|so|po|li|[ta]|no
+saleta	nome feminino	sa|[le]|ta
+salga	nome feminino	[sal]|ga
+salgação	nome feminino	sal|ga|[ção]
+salgada	nome feminino	sal|[ga]|da
+salgadamente	advérbio	sal|ga|da|[men]|te
+salgadeira	nome feminino	sal|ga|[dei]|ra
+salgadiço	adjetivo	sal|ga|[di]|ço
+salgadiço	nome masculino	sal|ga|[di]|ço
+salgadinha	nome feminino	sal|ga|[di]|nha
+salgadinho	nome masculino	sal|ga|[di]|nho
+salgadio	adjetivo	sal|ga|[di]|o
+salgadio	nome masculino	sal|ga|[di]|o
+salgado	nome masculino	sal|[ga]|do
+salgado	adjetivo	sal|[ga]|do
+salgador	adjetivo	sal|ga|[dor]
+salgador	nome masculino	sal|ga|[dor]
+salgadura	nome feminino	sal|ga|[du]|ra
+salgalhada	nome feminino	sal|ga|[lha]|da
+salganhada	nome feminino	sal|ga|[nha]|da
+salgante	adjetivo	sal|[gan]|te
+salgar	verbo	sal|[gar]
+salgo	adjetivo	[sal]|go
+salgueira	nome feminino	sal|[guei]|ra
+salgueiral	nome masculino	sal|guei|[ral]
+salgueirinha	nome feminino	sal|guei|[ri]|nha
+salgueirista	nome feminino	sal|guei|[ris]|ta
+salgueirista	adjetivo	sal|guei|[ris]|ta
+salgueirista	nome masculino	sal|guei|[ris]|ta
+salgueiro	nome masculino	sal|[guei]|ro
+salgueiro-anão	nome masculino	sal|guei|ro-a|[não]
+salgueiro-branco	nome masculino	sal|guei|ro-bran|co
+salgueiro-chorão	nome masculino	sal|guei|ro-cho|[rão]
+salgueiro-de-casca-roxa	nome masculino	sal|guei|ro-de-cas|ca-ro|xa
+salgueiro-frágil	nome masculino	sal|guei|ro-frá|gil
+salgueiro-preto	nome masculino	sal|guei|ro-pre|to
+salgueiro-rastejante	nome masculino	sal|guei|ro-ras|te|[jan]|te
+salhar	verbo	sa|[lhar]
+sália	nome feminino	[sá]|li|a
+saliar	adjetivo	sa|li|[ar]
+sálica	nome feminino	[sá]|li|ca
+salicácea	nome feminino	sa|li|[cá]|ce|a
+salicáceo	adjetivo	sa|li|[cá]|ce|o
+salicícola	adjetivo	sa|li|[cí]|co|la
+salicifoliado	adjetivo	sa|li|ci|fo|li|[a]|do
+salicilagem	nome feminino	sa|li|ci|[la]|gem
+salicilar	verbo	sa|li|ci|[lar]
+salicilato	nome masculino	sa|li|ci|[la]|to
+salicílico	adjetivo	sa|li|[cí]|li|co
+salicilina	nome feminino	sa|li|ci|[li]|na
+salicilo	nome masculino	sa|li|[ci]|lo
+saliciloso	adjetivo	sa|li|ci|[lo]|so
+salicina	nome feminino	sa|li|[ci]|na
+salicívoro	adjetivo	sa|li|[cí]|vo|ro
+sálico	adjetivo	[sá]|li|co
+sálico	nome masculino	[sá]|li|co
+salícola	adjetivo	sa|[lí]|co|la
+salicórnia	nome feminino	sa|li|[cór]|ni|a
+salicultor	nome masculino	sa|li|cul|[tor]
+salicultora	nome feminino	sa|li|cul|[to]|ra
+salicultura	nome feminino	sa|li|cul|[tu]|ra
+saliência	nome feminino	sa|li|[ên]|ci|a
+salientar	verbo	sa|li|en|[tar]
+salientável	adjetivo	sa|li|en|[tá]|vel
+saliente	adjetivo	sa|li|[en]|te
+salientemente	advérbio	sa|li|en|te|[men]|te
+salífero	adjetivo	sa|[lí]|fe|ro
+salificação	nome feminino	sa|li|fi|ca|[ção]
+salificar	verbo	sa|li|fi|[car]
+salificável	adjetivo	sa|li|fi|[cá]|vel
+saligenina	nome feminino	sa|li|ge|[ni]|na
+saligue	nome masculino	sa|[li]|gue
+salina	nome feminino	sa|[li]|na
+salinação	nome feminino	sa|li|na|[ção]
+salinagem	nome feminino	sa|li|[na]|gem
+salinar	verbo	sa|li|[nar]
+salinável	adjetivo	sa|li|[ná]|vel
+salineira	nome feminino	sa|li|[nei]|ra
+salineiro	adjetivo	sa|li|[nei]|ro
+salineiro	nome masculino	sa|li|[nei]|ro
+salinense	nome masculino	sa|li|[nen]|se

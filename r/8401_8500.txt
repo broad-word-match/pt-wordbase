@@ -1,0 +1,100 @@
+rupia	nome feminino	ru|[pi]|a
+rúpia	nome feminino	[rú]|pi|a
+rupícola	adjetivo	ru|[pí]|co|la
+rúppia	nome feminino	[rúp]|pi|a
+rúptil	adjetivo	[rúp]|til
+ruptilidade	nome feminino	rup|ti|li|[da]|de
+ruptório	nome masculino	rup|[tó]|ri|o
+ruptura	nome feminino	rup|[tu]|ra
+ruquibo	nome masculino	ru|[qui]|bo
+rural	adjetivo	ru|[ral]
+rural	nome masculino	ru|[ral]
+rural	nome feminino	ru|[ral]
+ruralidade	nome feminino	ru|ra|li|[da]|de
+ruralismo	nome masculino	ru|ra|[lis]|mo
+ruralista	adjetivo	ru|ra|[lis]|ta
+ruralista	nome masculino	ru|ra|[lis]|ta
+ruralista	nome feminino	ru|ra|[lis]|ta
+ruralização	nome feminino	ru|ra|li|za|[ção]
+ruralizar	verbo	ru|ra|li|[zar]
+ruralmente	advérbio	ru|ral|[men]|te
+rurícola	adjetivo	ru|[rí]|co|la
+rurígena	nome masculino	ru|[rí]|ge|na
+rurígena	nome feminino	ru|[rí]|ge|na
+rurografia	nome feminino	ru|ro|gra|[fi]|a
+rurográfico	adjetivo	ru|ro|[grá]|fi|co
+rurógrafo	nome masculino	ru|[ró]|gra|fo
+ruselano	adjetivo	ru|se|[la]|no
+ruselano	nome masculino	ru|se|[la]|no
+rusélia	nome feminino	ru|[sé]|li|a
+rusga	nome feminino	[rus]|ga
+rusgar	verbo	rus|[gar]
+rusguento	adjetivo	rus|[guen]|to
+rusma	nome feminino	[rus]|ma
+rusníaco	nome masculino	rus|[ní]|a|co
+russa	nome feminino	[rus]|sa
+russiana	nome feminino	rus|si|[a]|na
+russiano	adjetivo	rus|si|[a]|no
+russiano	nome masculino	rus|si|[a]|no
+russificação	nome feminino	rus|si|fi|ca|[ção]
+russificar	verbo	rus|si|fi|[car]
+russínio	nome masculino	rus|[sí]|ni|o
+russo	adjetivo	[rus]|so
+russo	nome masculino	[rus]|so
+russo-americano	adjetivo	rus|so-a|me|ri|[ca]|no
+russo-branco	adjetivo	rus|so-bran|co
+russo-chinês	adjetivo	rus|so-chi|[nês]
+russo-finlandês	adjetivo	rus|so-fin|lan|[dês]
+russo-japonês	adjetivo	rus|so-ja|po|[nês]
+russo-polaco	adjetivo	rus|so-po|[la]|co
+russófila	nome feminino	rus|[só]|fi|la
+russofilia	nome feminino	rus|so|fi|[li]|a
+russófilo	adjetivo	rus|[só]|fi|lo
+russófilo	nome masculino	rus|[só]|fi|lo
+russofobia	nome feminino	rus|so|fo|[bi]|a
+russófobo	adjetivo	rus|[só]|fo|bo
+russófobo	nome masculino	rus|[só]|fo|bo
+rústica	nome feminino	[rús]|ti|ca
+rusticação	nome feminino	rus|ti|ca|[ção]
+rusticamente	advérbio	rus|ti|ca|[men]|te
+rusticano	adjetivo	rus|ti|[ca]|no
+rusticano	nome masculino	rus|ti|[ca]|no
+rusticar	verbo	rus|ti|[car]
+rusticaria	nome feminino	rus|ti|ca|[ri]|a
+rusticidade	nome feminino	rus|ti|ci|[da]|de
+rústico	adjetivo	[rús]|ti|co
+rústico	nome masculino	[rús]|ti|co
+rustificação	nome feminino	rus|ti|fi|ca|[ção]
+rustificar	verbo	rus|ti|fi|[car]
+rustiquez	nome feminino	rus|ti|[quez]
+rustiqueza	nome feminino	rus|ti|[que]|za
+rustir	verbo	rus|[tir]
+rusucuritano	adjetivo	ru|su|cu|ri|[ta]|no
+rusucuritano	nome masculino	ru|su|cu|ri|[ta]|no
+rutabaga	nome feminino	ru|ta|[ba]|ga
+rutácea	nome feminino	ru|[tá]|ce|a
+rutáceo	adjetivo	ru|[tá]|ce|o
+rutamurária	nome feminino	ru|ta|mu|[rá]|ri|a
+rutela	nome feminino	ru|[te]|la
+ruténico	adjetivo	ru|[té]|ni|co
+ruténico	nome masculino	ru|[té]|ni|co
+rutênico	adjetivo	ru|[tê]|ni|co
+rutênico	nome masculino	ru|[tê]|ni|co
+ruténio	nome masculino	ru|[té]|ni|o
+rutênio	nome masculino	ru|[tê]|ni|o
+ruteno	adjetivo	ru|[te]|no
+ruteno	nome masculino	ru|[te]|no
+rutherfórdio	nome masculino	ru|ther|fór|di|o
+rútico	adjetivo	[rú]|ti|co
+rútila	nome feminino	[rú]|ti|la
+rutilação	nome feminino	ru|ti|la|[ção]
+rutilância	nome feminino	ru|ti|[lân]|ci|a
+rutilante	adjetivo	ru|ti|[lan]|te
+rutilantemente	advérbio	ru|ti|lan|te|[men]|te
+rutilar	verbo	ru|ti|[lar]
+rutília	nome feminino	ru|[tí]|li|a
+rutilina	nome feminino	ru|ti|[li]|na
+rutilite	nome feminino	ru|ti|[li]|te
+rútilo	nome masculino	[rú]|ti|lo
+rútilo	adjetivo	[rú]|ti|lo
+rutilo	nome masculino	ru|[ti]|lo

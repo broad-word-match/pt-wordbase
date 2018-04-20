@@ -1,0 +1,100 @@
+condignidade	nome feminino	con|dig|ni|[da]|de
+condigno	adjetivo	con|[dig]|no
+condilartro	nome masculino	con|di|[lar]|tro
+condilartrose	nome feminino	con|di|lar|[tro]|se
+condílico	adjetivo	con|[dí]|li|co
+côndilo	nome masculino	[côn]|di|lo
+condilóforo	adjetivo	con|di|[ló]|fo|ro
+condiloide	adjetivo	con|di|[loi]|de
+condiloma	nome masculino	con|di|[lo]|ma
+condilomatoso	adjetivo	con|di|lo|ma|[to]|so
+condilomatoso	nome masculino	con|di|lo|ma|[to]|so
+condimentação	nome feminino	con|di|men|ta|[ção]
+condimentado	adjetivo	con|di|men|[ta]|do
+condimentar	verbo	con|di|men|[tar]
+condimentício	adjetivo	con|di|men|[tí]|ci|o
+condimento	nome masculino	con|di|[men]|to
+condimentoso	adjetivo	con|di|men|[to]|so
+condir	verbo	con|[dir]
+condiscípula	nome feminino	con|dis|[cí]|pu|la
+condiscipulado	nome masculino	con|dis|ci|pu|[la]|do
+condiscipulato	nome masculino	con|dis|ci|pu|[la]|to
+condiscípulo	nome masculino	con|dis|[cí]|pu|lo
+condistritano	nome masculino	con|dis|tri|[ta]|no
+condizente	adjetivo	con|di|[zen]|te
+condizer	verbo	con|di|[zer]
+condizível	adjetivo	con|di|[zí]|vel
+condoar	verbo	con|do|[ar]
+condoer	verbo	con|do|[er]
+condoído	adjetivo	con|do|[í]|do
+condoimento	nome masculino	con|doi|[men]|to
+condoível	adjetivo	con|do|[í]|vel
+condolência	nome feminino	con|do|[lên]|ci|a
+condolente	adjetivo	con|do|[len]|te
+condómina	nome feminino	con|[dó]|mi|na
+condomínio	nome masculino	con|do|[mí]|ni|o
+condómino	nome masculino	con|[dó]|mi|no
+condômino	nome masculino	con|[dô]|mi|no
+condonatário	nome masculino	con|do|na|[tá]|ri|o
+condor	nome masculino	con|[dor]
+condoreirismo	nome masculino	con|do|rei|[ris]|mo
+condoreiro	adjetivo	con|do|[rei]|ro
+condral	adjetivo	con|[dral]
+condrificação	nome feminino	con|dri|fi|ca|[ção]
+condrificar	verbo	con|dri|fi|[car]
+condrina	nome feminino	con|[dri]|na
+condrioconto	nome masculino	con|dri|o|[con]|to
+condrioma	nome masculino	con|dri|[o]|ma
+condriómito	nome masculino	con|dri|[ó]|mi|to
+condriomito	nome masculino	con|dri|o|[mi]|to
+condriossoma	nome masculino	con|dri|os|[so]|ma
+condrite	nome feminino	con|[dri]|te
+condrito	nome masculino	con|[dri]|to
+condro	nome masculino	[con]|dro
+condrocele	nome feminino	con|dro|[ce]|le
+condrocostal	adjetivo	con|dro|cos|[tal]
+condrogénese	nome feminino	con|dro|[gé]|ne|se
+condrogênese	nome feminino	con|dro|[gê]|ne|se
+condrografia	nome feminino	con|dro|gra|[fi]|a
+condrográfico	adjetivo	con|dro|[grá]|fi|co
+condroide	adjetivo	con|[droi]|de
+condrologia	nome feminino	con|dro|lo|[gi]|a
+condrológico	adjetivo	con|dro|[ló]|gi|co
+condroma	nome masculino	con|[dro]|ma
+condromalacia	nome feminino	con|dro|ma|la|[ci]|a
+condropterígio	nome masculino	con|drop|te|[rí]|gi|o
+condrotomia	nome feminino	con|dro|to|[mi]|a
+condrotômico	adjetivo	con|dro|[tô]|mi|co
+condrotómico	adjetivo	con|dro|[tó]|mi|co
+côndrulo	nome masculino	[côn]|dru|lo
+condruso	adjetivo	con|[dru]|so
+condruso	nome masculino	con|[dru]|so
+condução	nome feminino	con|du|[ção]
+conducente	adjetivo	con|du|[cen]|te
+conduito	nome masculino	con|[dui]|to
+conduta	nome feminino	con|[du]|ta
+condutância	nome feminino	con|du|[tân]|ci|a
+condutar	verbo	con|du|[tar]
+condutário	nome masculino	con|du|[tá]|ri|o
+condutibilidade	nome feminino	con|du|ti|bi|li|[da]|de
+condutício	adjetivo	con|du|[tí]|ci|o
+condutismo	nome masculino	con|du|[tis]|mo
+condutível	adjetivo	con|du|[tí]|vel
+condutividade	nome feminino	con|du|ti|vi|[da]|de
+condutivo	adjetivo	con|du|[ti]|vo
+conduto	nome masculino	con|[du]|to
+condutor	adjetivo	con|du|[tor]
+condutor	nome masculino	con|du|[tor]
+condutora	nome feminino	con|du|[to]|ra
+conduzir	verbo	con|du|[zir]
+conduzível	adjetivo	con|du|[zí]|vel
+cone	nome masculino	[co]|ne
+conectar	verbo	co|nec|[tar]
+conectividade	nome feminino	co|nec|ti|vi|[da]|de
+conectivo	nome masculino	co|nec|[ti]|vo
+conectivo	adjetivo	co|nec|[ti]|vo
+conector	nome masculino	co|nec|[tor]
+conector	adjetivo	co|nec|[tor]
+cónega	nome feminino	[có]|ne|ga
+cônega	nome feminino	[cô]|ne|ga
+cônego	nome masculino	[cô]|ne|go

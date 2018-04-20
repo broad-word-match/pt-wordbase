@@ -1,0 +1,100 @@
+maquério	nome masculino	ma|[qué]|ri|o
+maqueróforo	nome masculino	ma|que|[ró]|fo|ro
+maqueta	nome feminino	ma|[que]|ta
+maquetagem	nome feminino	ma|que|[ta]|gem
+maquete	nome feminino	ma|[que]|te
+maquetista	adjetivo	ma|que|[tis]|ta
+maquetista	nome masculino	ma|que|[tis]|ta
+maquetista	nome feminino	ma|que|[tis]|ta
+maquezo	nome masculino	ma|[que]|zo
+maqui	nome masculino	ma|[qui]
+maquia	nome feminino	ma|[qui]|a
+maquiador	adjetivo	ma|qui|a|[dor]
+maquiador	nome masculino	ma|qui|a|[dor]
+maquiador	nome feminino	ma|qui|a|[dor]
+maquiadura	nome feminino	ma|qui|a|[du]|ra
+maquiagem	nome feminino	ma|qui|[a]|gem
+maquiar	verbo	ma|qui|[ar]
+maquiavel	nome masculino	ma|qui|a|[vel]
+maquiavelicamente	advérbio	ma|qui|a|ve|li|ca|[men]|te
+maquiavelice	nome feminino	ma|qui|a|ve|[li]|ce
+maquiavélico	adjetivo	ma|qui|a|[vé]|li|co
+maquiavelismo	nome masculino	ma|qui|a|ve|[lis]|mo
+maquiavelista	adjetivo	ma|qui|a|ve|[lis]|ta
+maquiavelista	nome masculino	ma|qui|a|ve|[lis]|ta
+maquiavelista	nome feminino	ma|qui|a|ve|[lis]|ta
+maquiavelizar	verbo	ma|qui|a|ve|li|[zar]
+maquiçapa	nome masculino	ma|qui|[ça]|pa
+maquidum	nome masculino	ma|qui|[dum]
+maquidura	nome feminino	ma|qui|[du]|ra
+maquieiro	nome masculino	ma|qui|[ei]|ro
+maquieta	nome feminino	ma|qui|[e]|ta
+maquilador	nome masculino	ma|qui|la|[dor]
+maquilão	nome masculino	ma|qui|[lão]
+maquilhador	nome masculino	ma|qui|lha|[dor]
+maquilhadora	nome feminino	ma|qui|lha|[do]|ra
+maquilhagem	nome feminino	ma|qui|[lha]|gem
+maquilhar	verbo	ma|qui|[lhar]
+maquillage	nome feminino	ma|quil|la|ge
+maquim	nome masculino	ma|[quim]
+máquina	nome feminino	[má]|qui|na
+maquinação	nome feminino	ma|qui|na|[ção]
+maquinador	adjetivo	ma|qui|na|[dor]
+maquinador	nome masculino	ma|qui|na|[dor]
+maquinal	adjetivo	ma|qui|[nal]
+maquinalidade	nome feminino	ma|qui|na|li|[da]|de
+maquinalmente	advérbio	ma|qui|nal|[men]|te
+maquinar	verbo	ma|qui|[nar]
+maquinaria	nome feminino	ma|qui|na|[ri]|a
+maquinário	nome masculino	ma|qui|[ná]|ri|o
+maquinde	nome masculino	ma|[quin]|de
+maquineta	nome feminino	ma|qui|[ne]|ta
+maquinismo	nome masculino	ma|qui|[nis]|mo
+maquinista	nome masculino	ma|qui|[nis]|ta
+maquinista	nome feminino	ma|qui|[nis]|ta
+maquinizar	verbo	ma|qui|ni|[zar]
+maquinofatura	nome feminino	ma|qui|no|fa|[tu]|ra
+maquis	nome masculino	ma|quis
+mar	nome masculino	[mar]
+mar-vermelhense	nome masculino	mar-ver|me|[lhen]|se
+mar-vermelhense	adjetivo	mar-ver|me|[lhen]|se
+mar-vermelhense	nome feminino	mar-ver|me|[lhen]|se
+mará	nome masculino	ma|[rá]
+marabá	adjetivo	ma|ra|[bá]
+marabá	nome masculino	ma|ra|[bá]
+marabá	nome feminino	ma|ra|[bá]
+marabota	nome feminino	ma|ra|[bo]|ta
+marabu	nome masculino	ma|ra|[bu]
+marabumbo	nome masculino	ma|ra|[bum]|bo
+marabunta	nome feminino	ma|ra|[bun]|ta
+marabuto	nome masculino	ma|ra|[bu]|to
+maraca	nome masculino	ma|[ra]|ca
+maracá	nome masculino	ma|ra|[cá]
+maracachão	nome masculino	ma|ra|ca|[chão]
+maracajá	nome masculino	ma|ra|ca|[já]
+maracanã	nome feminino	ma|ra|ca|[nã]
+maracanã	nome masculino	ma|ra|ca|[nã]
+maracanã-guaçu	nome masculino	ma|ra|ca|nã-gua|[çu]
+maracasense	adjetivo	ma|ra|ca|[sen]|se
+maracasense	nome masculino	ma|ra|ca|[sen]|se
+maracasense	nome feminino	ma|ra|ca|[sen]|se
+maracatiara	nome masculino	ma|ra|ca|ti|[a]|ra
+maracatim	nome masculino	ma|ra|ca|[tim]
+maracatu	nome masculino	ma|ra|ca|[tu]
+maracha	nome feminino	ma|[ra]|cha
+marachão	nome masculino	ma|ra|[chão]
+marachomba	nome feminino	ma|ra|[chom]|ba
+marachona	nome feminino	ma|ra|[cho]|na
+maracotão	nome masculino	ma|ra|co|[tão]
+maracoteiro	nome masculino	ma|ra|co|[tei]|ro
+maracu	nome masculino	ma|ra|[cu]
+maracujá	nome masculino	ma|ra|cu|[já]
+maracujazeiro	nome masculino	ma|ra|cu|ja|[zei]|ro
+maracuta	nome feminino	ma|ra|[cu]|ta
+maracutaia	nome feminino	ma|ra|cu|[tai]|a
+marado	adjetivo	ma|[ra]|do
+marafolho	nome masculino	ma|ra|[fo]|lho
+marafona	nome feminino	ma|ra|[fo]|na
+marafonear	verbo	ma|ra|fo|ne|[ar]
+marafoneiro	nome masculino	ma|ra|fo|[nei]|ro
+marafunda	nome feminino	ma|ra|[fun]|da

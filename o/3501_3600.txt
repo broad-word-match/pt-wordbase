@@ -1,0 +1,100 @@
+ostráceo	nome masculino	os|[trá]|ce|o
+ostráceo	adjetivo	os|[trá]|ce|o
+ostracino	adjetivo	os|tra|[ci]|no
+ostrácio	nome masculino	os|[trá]|ci|o
+ostracismo	nome masculino	os|tra|[cis]|mo
+ostracista	nome masculino	os|tra|[cis]|ta
+ostracista	nome feminino	os|tra|[cis]|ta
+ostracita	nome feminino	os|tra|[ci]|ta
+ostracita	nome masculino	os|tra|[ci]|ta
+ostracite	nome feminino	os|tra|[ci]|te
+ostracizar	verbo	os|tra|ci|[zar]
+ostracode	nome masculino	os|tra|[co]|de
+ostracódeo	nome masculino	os|tra|[có]|de|o
+ostracodermo	nome masculino	os|tra|co|[der]|mo
+ostracodermos	nome masculino	os|tra|co|[der]|mos
+ostracologia	nome feminino	os|tra|co|lo|[gi]|a
+ostracológico	adjetivo	os|tra|co|[ló]|gi|co
+ostracomorfita	nome masculino	os|tra|co|mor|[fi]|ta
+ostrano	adjetivo	os|[tra]|no
+ostrano	nome masculino	os|[tra]|no
+ostraria	nome feminino	os|tra|[ri]|a
+ostreário	adjetivo	os|tre|[á]|ri|o
+ostreícola	adjetivo	os|tre|[í]|co|la
+ostreicultor	nome masculino	os|trei|cul|[tor]
+ostreicultor	adjetivo	os|trei|cul|[tor]
+ostreicultora	nome feminino	os|trei|cul|[to]|ra
+ostreicultura	nome feminino	os|trei|cul|[tu]|ra
+ostreida	nome masculino	os|[trei]|da
+ostreida	nome masculino	os|[trei]|da
+ostreídeo	nome masculino	os|tre|[í]|de|o
+ostreídeo	nome masculino	os|tre|[í]|de|o
+ostreídeo	adjetivo	os|tre|[í]|de|o
+ostreífero	adjetivo	os|tre|[í]|fe|ro
+ostreiforme	adjetivo	os|trei|[for]|me
+ostreína	nome feminino	os|tre|[í]|na
+ostreira	nome feminino	os|[trei]|ra
+ostreiro	adjetivo	os|[trei]|ro
+ostreiro	nome masculino	os|[trei]|ro
+ostrícola	adjetivo	os|[trí]|co|la
+ostricultor	nome masculino	os|tri|cul|[tor]
+ostricultor	adjetivo	os|tri|cul|[tor]
+ostricultura	nome feminino	os|tri|cul|[tu]|ra
+ostrífero	adjetivo	os|[trí]|fe|ro
+ostrinho	nome masculino	os|[tri]|nho
+ostrino	adjetivo	os|[tri]|no
+ostro	nome masculino	[os]|tro
+ostrogoda	nome feminino	os|tro|[go]|da
+ostrogodo	adjetivo	os|tro|[go]|do
+ostrogodo	nome masculino	os|tro|[go]|do
+ota	interjeição	[o]|ta
+otacústica	nome feminino	o|ta|[cús]|ti|ca
+otacústico	adjetivo	o|ta|[cús]|ti|co
+otalgia	nome feminino	o|tal|[gi]|a
+otálgico	adjetivo	o|[tál]|gi|co
+otantera	nome feminino	o|tan|[te]|ra
+otária	nome feminino	o|[tá]|ri|a
+otaríida	nome masculino	o|ta|[rí]|i|da
+otaríida	nome masculino	o|ta|[rí]|i|da
+otariídeo	nome masculino	o|ta|ri|[í]|de|o
+otariídeo	adjetivo	o|ta|ri|[í]|de|o
+otariídeo	nome masculino	o|ta|ri|[í]|de|o
+otário	nome masculino	o|[tá]|ri|o
+otávia	nome feminino	o|[tá]|vi|a
+otaviano	adjetivo	o|ta|vi|[a]|no
+oteca	nome feminino	o|[te]|ca
+otematoma	nome masculino	o|te|ma|[to]|ma
+otesino	nome masculino	o|te|[si]|no
+otesino	adjetivo	o|te|[si]|no
+otiatria	nome feminino	o|ti|a|[tri]|a
+otiátrico	adjetivo	o|ti|[á]|tri|co
+otiatro	nome masculino	o|ti|[a]|tro
+ótica	nome feminino	[ó]|ti|ca
+oticidade	nome feminino	o|ti|ci|[da]|de
+oticista	adjetivo	o|ti|[cis]|ta
+oticista	nome masculino	o|ti|[cis]|ta
+oticista	nome feminino	o|ti|[cis]|ta
+ótico	adjetivo	[ó]|ti|co
+ótico	nome masculino	[ó]|ti|co
+oticometria	nome feminino	o|ti|co|me|[tri]|a
+oticométrico	adjetivo	o|ti|co|[mé]|tri|co
+oticómetro	nome masculino	o|ti|[có]|me|tro
+otídida	nome masculino	o|[tí]|di|da
+otídida	nome masculino	o|[tí]|di|da
+otidídeo	nome masculino	o|ti|[dí]|de|o
+otidídeo	nome masculino	o|ti|[dí]|de|o
+otidídeo	adjetivo	o|ti|[dí]|de|o
+otimacia	nome feminino	o|ti|ma|[ci]|a
+otimamente	advérbio	o|ti|ma|[men]|te
+otimate	nome masculino	o|ti|[ma]|te
+otimismo	nome masculino	o|ti|[mis]|mo
+otimista	adjetivo	o|ti|[mis]|ta
+otimista	nome masculino	o|ti|[mis]|ta
+otimista	nome feminino	o|ti|[mis]|ta
+otimístico	adjetivo	o|ti|[mís]|ti|co
+otimização	nome feminino	o|ti|mi|za|[ção]
+otimizar	verbo	o|ti|mi|[zar]
+ótimo	adjetivo	[ó]|ti|mo
+ótimo	nome masculino	[ó]|ti|mo
+ótimo	interjeição	[ó]|ti|mo
+otite	nome feminino	o|[ti]|te

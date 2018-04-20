@@ -1,0 +1,100 @@
+lourinhanense	nome masculino	lou|ri|nha|[nen]|se
+lourinhanense	adjetivo	lou|ri|nha|[nen]|se
+lourinhanense	nome feminino	lou|ri|nha|[nen]|se
+louro	nome masculino	[lou]|ro
+louro	adjetivo	[lou]|ro
+louro-cerejo	nome masculino	lou|ro-ce|[re]|jo
+louro-rosa	nome masculino	lou|ro-ro|sa
+louro-rosa	adjetivo	lou|ro-ro|sa
+lousa	nome feminino	[lou]|sa
+lousadense	adjetivo	lou|sa|[den]|se
+lousadense	nome masculino	lou|sa|[den]|se
+lousadense	nome feminino	lou|sa|[den]|se
+lousador	nome masculino	lou|sa|[dor]
+lousanense	nome masculino	lou|sa|[nen]|se
+lousanense	adjetivo	lou|sa|[nen]|se
+lousanense	nome feminino	lou|sa|[nen]|se
+lousão	nome masculino	lou|[são]
+lousão	adjetivo	lou|[são]
+louseira	nome feminino	lou|[sei]|ra
+louseiro	nome masculino	lou|[sei]|ro
+lousífero	adjetivo	lou|[sí]|fe|ro
+lousinha	nome feminino	lou|[si]|nha
+louva-a-deus	nome masculino	lou|va-a-deus
+louvação	nome feminino	lou|va|[ção]
+louvada	nome feminino	lou|[va]|da
+louvado	nome masculino	lou|[va]|do
+louvado	adjetivo	lou|[va]|do
+louvador	adjetivo	lou|va|[dor]
+louvador	nome masculino	lou|va|[dor]
+louvadora	nome feminino	lou|va|[do]|ra
+louvamento	nome masculino	lou|va|[men]|to
+louvaminha	nome feminino	lou|va|[mi]|nha
+louvaminha	nome masculino	lou|va|[mi]|nha
+louvaminhar	verbo	lou|va|mi|[nhar]
+louvaminheira	nome feminino	lou|va|mi|[nhei]|ra
+louvaminheiro	adjetivo	lou|va|mi|[nhei]|ro
+louvaminheiro	nome masculino	lou|va|mi|[nhei]|ro
+louvaminhice	nome feminino	lou|va|mi|[nhi]|ce
+louvaminho	adjetivo	lou|va|[mi]|nho
+louvaminho	nome masculino	lou|va|[mi]|nho
+louvar	nome masculino	lou|[var]
+louvar	verbo	lou|[var]
+louvável	adjetivo	lou|[vá]|vel
+louvavelmente	advérbio	lou|va|vel|[men]|te
+louvor	nome masculino	lou|[vor]
+lovelace	nome masculino	lo|ve|[la]|ce
+lovelaciano	adjetivo	lo|ve|la|ci|[a]|no
+low-profile	adjetivo	low-pro|fi|le
+loxartro	nome masculino	lo|[xar]|tro
+lóxia	nome feminino	[ló]|xi|a
+loxocosmo	nome masculino	lo|xo|[cos]|mo
+loxodromia	nome feminino	lo|xo|dro|[mi]|a
+loxodrômico	adjetivo	lo|xo|[drô]|mi|co
+loxodrómico	adjetivo	lo|xo|[dró]|mi|co
+loxodromismo	nome masculino	lo|xo|dro|[mis]|mo
+lozarra	nome feminino	lo|[zar]|ra
+lua	nome feminino	[lu]|a
+lua de mel	nome feminino	[lu]|a de mel
+lua-bebé	nome feminino	lu|a-be|[bé]
+luada	nome feminino	lu|[a]|da
+luambongo	nome masculino	lu|am|[bon]|go
+luanda	nome masculino	lu|[an]|da
+luanda	nome feminino	lu|[an]|da
+luandense	nome masculino	lu|an|[den]|se
+luandense	adjetivo	lu|an|[den]|se
+luandense	nome feminino	lu|an|[den]|se
+luandês	adjetivo	lu|an|[dês]
+luandino	adjetivo	lu|an|[di]|no
+luando	nome masculino	lu|[an]|do
+luango	adjetivo	lu|[an]|go
+luango	nome masculino	lu|[an]|go
+luar	nome masculino	lu|[ar]
+luaral	adjetivo	lu|a|[ral]
+luarejar	verbo	lu|a|re|[jar]
+luarento	adjetivo	lu|a|[ren]|to
+luarizar	verbo	lu|a|ri|[zar]
+lubá	nome masculino	lu|[bá]
+luba	nome feminino	[lu]|ba
+lubambeiro	adjetivo	lu|bam|[bei]|ro
+lubambo	nome masculino	lu|[bam]|bo
+lubínia	nome feminino	lu|[bí]|ni|a
+lubricamente	advérbio	lu|bri|ca|[men]|te
+lubricar	verbo	lu|bri|[car]
+lubricidade	nome feminino	lu|bri|ci|[da]|de
+lúbrico	adjetivo	[lú]|bri|co
+lubrificação	nome feminino	lu|bri|fi|ca|[ção]
+lubrificado	adjetivo	lu|bri|fi|[ca]|do
+lubrificador	nome masculino	lu|bri|fi|ca|[dor]
+lubrificador	adjetivo	lu|bri|fi|ca|[dor]
+lubrificante	adjetivo	lu|bri|fi|[can]|te
+lubrificante	nome masculino	lu|bri|fi|[can]|te
+lubrificar	verbo	lu|bri|fi|[car]
+lubrificável	adjetivo	lu|bri|fi|[cá]|vel
+luca	nome feminino	[lu]|ca
+lucanário	nome masculino	lu|ca|[ná]|ri|o
+lucanda	nome feminino	lu|[can]|da
+lucango	nome masculino	lu|[can]|go
+lucânico	adjetivo	lu|[câ]|ni|co
+lucânida	nome masculino	lu|[câ]|ni|da
+lucanídeo	nome masculino	lu|ca|[ní]|de|o

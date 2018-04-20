@@ -1,0 +1,100 @@
+antigalicismo	nome masculino	an|ti|ga|li|[cis]|mo
+antigalicista	adjetivo	an|ti|ga|li|[cis]|ta
+antigalicista	nome masculino	an|ti|ga|li|[cis]|ta
+antigalicista	nome feminino	an|ti|ga|li|[cis]|ta
+antigamente	advérbio	an|ti|ga|[men]|te
+antigangrenoso	adjetivo	an|ti|gan|gre|[no]|so
+antigás	adjetivo	an|ti|[gás]
+antigásico	adjetivo	an|ti|[gá]|si|co
+antigene	nome masculino	an|ti|[ge]|ne
+antigenicidade	nome feminino	an|ti|ge|ni|ci|[da]|de
+antigénico	adjetivo	an|ti|[gé]|ni|co
+antigênico	adjetivo	an|ti|[gê]|ni|co
+antigénio	nome masculino	an|ti|[gé]|ni|o
+antigênio	nome masculino	an|ti|[gê]|ni|o
+antígeno	nome masculino	an|[tí]|ge|no
+antigeómetra	nome masculino	an|ti|ge|[ó]|me|tra
+antigeómetra	nome feminino	an|ti|ge|[ó]|me|tra
+antigeômetra	nome masculino	an|ti|ge|[ô]|me|tra
+antigeômetra	nome feminino	an|ti|ge|[ô]|me|tra
+antigeométrico	adjetivo	an|ti|ge|o|[mé]|tri|co
+antigermânico	adjetivo	an|ti|ger|[mâ]|ni|co
+antigo	nome masculino	an|[ti]|go
+antigo	adjetivo	an|[ti]|go
+antígona	nome feminino	an|[tí]|go|na
+antigónia	nome feminino	an|ti|[gó]|ni|a
+antigônia	nome feminino	an|ti|[gô]|ni|a
+antigório	adjetivo	an|ti|[gó]|ri|o
+antigório	nome masculino	an|ti|[gó]|ri|o
+antigorita	nome feminino	an|ti|go|[ri]|ta
+antigorite	nome feminino	an|ti|go|[ri]|te
+antigos	nome masculino	an|[ti]|gos
+antigotoso	adjetivo	an|ti|go|[to]|so
+antigovernamental	adjetivo	an|ti|go|ver|na|men|[tal]
+antigovernamental	nome feminino	an|ti|go|ver|na|men|[tal]
+antigovernamental	nome masculino	an|ti|go|ver|na|men|[tal]
+antigovernista	adjetivo	an|ti|go|ver|[nis]|ta
+antigovernista	nome masculino	an|ti|go|ver|[nis]|ta
+antigovernista	nome feminino	an|ti|go|ver|[nis]|ta
+antígrafo	nome masculino	an|[tí]|gra|fo
+antigramatical	adjetivo	an|ti|gra|ma|ti|[cal]
+antigrevista	adjetivo	an|ti|gre|[vis]|ta
+antigrevista	nome masculino	an|ti|gre|[vis]|ta
+antigrevista	nome feminino	an|ti|gre|[vis]|ta
+antigripal	adjetivo	an|ti|gri|[pal]
+antigripal	nome masculino	an|ti|gri|[pal]
+antigualha	nome feminino	an|ti|[gua]|lha
+antiguamente	advérbio	an|ti|gua|[men]|te
+antiguano	adjetivo	an|ti|[gua]|no
+antiguano	nome masculino	an|ti|[gua]|no
+antiguerra	adjetivo	an|ti|[guer]|ra
+antiguidade	nome feminino	an|ti|gui|[da]|de
+antíguo	adjetivo	an|[tí]|guo
+antijogo	nome masculino	an|ti|[jo]|go
+antijudaico	adjetivo	an|ti|ju|[dai]|co
+antijurídico	adjetivo	an|ti|ju|[rí]|di|co
+antílabe	nome feminino	an|[tí]|la|be
+antilactagogo	adjetivo	an|ti|lac|ta|[go]|go
+antilambda	nome masculino	an|ti|[lamb]|da
+antilatino	adjetivo	an|ti|la|[ti]|no
+antilegal	adjetivo	an|ti|le|[gal]
+antileproso	adjetivo	an|ti|le|[pro]|so
+antiletárgico	adjetivo	an|ti|le|[tár]|gi|co
+antilhana	nome feminino	an|ti|[lha]|na
+antilhano	nome masculino	an|ti|[lha]|no
+antilhano	adjetivo	an|ti|[lha]|no
+antiliberal	adjetivo	an|ti|li|be|[ral]
+antiliberal	nome feminino	an|ti|li|be|[ral]
+antiliberal	nome masculino	an|ti|li|be|[ral]
+antiliberalismo	nome masculino	an|ti|li|be|ra|[lis]|mo
+antiliberalista	adjetivo	an|ti|li|be|ra|[lis]|ta
+antiliberalista	nome masculino	an|ti|li|be|ra|[lis]|ta
+antiliberalista	nome feminino	an|ti|li|be|ra|[lis]|ta
+antiligante	adjetivo	an|ti|li|[gan]|te
+antilíssico	adjetivo	an|ti|[lís]|si|co
+antilítico	adjetivo	an|ti|[lí]|ti|co
+antilogaritmo	nome masculino	an|ti|lo|ga|[rit]|mo
+antilogia	nome feminino	an|ti|lo|[gi]|a
+antilogicismo	nome masculino	an|ti|lo|gi|[cis]|mo
+antilógico	adjetivo	an|ti|[ló]|gi|co
+antilogismo	nome masculino	an|ti|lo|[gis]|mo
+antilogístico	adjetivo	an|ti|lo|[gís]|ti|co
+antílope	nome masculino	an|[tí]|lo|pe
+antilopídeo	nome masculino	an|ti|lo|[pí]|de|o
+antiluético	adjetivo	an|ti|lu|[é]|ti|co
+antiluterano	adjetivo	an|ti|lu|te|[ra]|no
+antiluterano	nome masculino	an|ti|lu|te|[ra]|no
+antimacedônico	adjetivo	an|ti|ma|ce|[dô]|ni|co
+antimacedónico	adjetivo	an|ti|ma|ce|[dó]|ni|co
+antímaco	nome masculino	an|[tí]|ma|co
+antimaçónico	adjetivo	an|ti|ma|[çó]|ni|co
+antimaçônico	adjetivo	an|ti|ma|[çô]|ni|co
+antimagnético	adjetivo	an|ti|mag|[né]|ti|co
+antimagnetismo	nome masculino	an|ti|mag|ne|[tis]|mo
+antimariano	adjetivo	an|ti|ma|ri|[a]|no
+antimarxismo	nome masculino	an|ti|mar|[xis]|mo
+antimarxista	adjetivo	an|ti|mar|[xis]|ta
+antimarxista	nome feminino	an|ti|mar|[xis]|ta
+antimarxista	nome masculino	an|ti|mar|[xis]|ta
+antimatéria	nome feminino	an|ti|ma|[té]|ri|a
+antimedical	adjetivo	an|ti|me|di|[cal]

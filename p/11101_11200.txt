@@ -1,0 +1,100 @@
+porta-escovas	nome masculino	por|ta-es|[co]|vas
+porta-espada	nome masculino	por|ta-es|[pa]|da
+porta-estandarte	nome masculino	por|ta-es|tan|[dar]|te
+porta-estandarte	nome feminino	por|ta-es|tan|[dar]|te
+porta-fólio	nome masculino	por|ta-fó|li|o
+porta-frasco	nome masculino	por|ta-fras|co
+porta-guião	nome masculino	por|ta-gui|[ão]
+porta-helicópteros	nome masculino	por|ta-he|li|[cóp]|te|ros
+porta-joias	nome masculino	por|ta-joi|as
+porta-laços	nome masculino	por|ta-la|ços
+porta-lanterna	nome masculino	por|ta-lan|[ter]|na
+porta-lápis	nome masculino	por|ta-lá|pis
+porta-leque	nome feminino	por|ta-le|que
+porta-livros	nome masculino	por|ta-li|vros
+porta-luvas	nome masculino	por|ta-lu|vas
+porta-luz	nome masculino	por|ta-luz
+porta-maça	nome masculino	por|ta-ma|ça
+porta-machado	nome masculino	por|ta-ma|[cha]|do
+porta-malas	nome masculino	por|ta-ma|las
+porta-manta	nome masculino	por|ta-man|ta
+porta-mantéus	nome masculino	por|ta-man|[téus]
+porta-marmita	nome masculino	por|ta-mar|[mi]|ta
+porta-mechas	nome masculino	por|ta-me|chas
+porta-mitra	nome masculino	por|ta-mi|tra
+porta-moedas	nome masculino	por|ta-mo|[e]|das
+porta-negativos	nome masculino	por|ta-ne|ga|[ti]|vos
+porta-níqueis	nome masculino	por|ta-ní|queis
+porta-novas	nome masculino	por|ta-no|vas
+porta-objeto	nome masculino	por|ta-ob|[je]|to
+porta-ordens	nome masculino	por|ta-or|dens
+porta-página	nome masculino	por|ta-pá|gi|na
+porta-papéis	nome masculino	por|ta-pa|[péis]
+porta-paz	nome masculino	por|ta-paz
+porta-pedra	nome masculino	por|ta-pe|dra
+porta-penas	nome masculino	por|ta-pe|nas
+porta-peso	nome masculino	por|ta-pe|so
+porta-piaçabas	nome masculino	por|ta-pi|a|[ça]|bas
+porta-pneumático	nome masculino	por|ta-pneu|[má]|ti|co
+porta-rede	nome masculino	por|ta-re|de
+porta-relógio	nome masculino	por|ta-re|[ló]|gi|o
+porta-retratos	nome masculino	por|ta-re|[tra]|tos
+porta-revistas	nome masculino	por|ta-re|[vis]|tas
+porta-roda	nome masculino	por|ta-ro|da
+porta-rolos	nome masculino	por|ta-ro|los
+porta-saco	nome masculino	por|ta-sa|co
+porta-seios	nome masculino	por|ta-sei|os
+porta-sela	nome masculino	por|ta-se|la
+porta-serra	nome masculino	por|ta-ser|ra
+porta-sonda	nome masculino	por|ta-son|da
+porta-talas	nome masculino	por|ta-ta|las
+porta-toalhas	nome masculino	por|ta-to|[a]|lhas
+porta-válvula	nome masculino	por|ta-vál|vu|la
+porta-vento	nome masculino	por|ta-ven|to
+porta-voz	nome masculino	por|ta-voz
+porta-voz	nome feminino	por|ta-voz
+portabilidade	nome feminino	por|ta|bi|li|[da]|de
+portada	nome feminino	por|[ta]|da
+portádigo	nome masculino	por|[tá]|di|go
+portador	adjetivo	por|ta|[dor]
+portador	nome masculino	por|ta|[dor]
+portadora	nome feminino	por|ta|[do]|ra
+portagão	nome masculino	por|ta|[gão]
+portageiro	nome masculino	por|ta|[gei]|ro
+portagem	nome feminino	por|[ta]|gem
+portajado	adjetivo	por|ta|[ja]|do
+portajar	verbo	por|ta|[jar]
+portal	nome masculino	por|[tal]
+portalegrense	nome masculino	por|ta|le|[gren]|se
+portalegrense	adjetivo	por|ta|le|[gren]|se
+portalegrense	nome feminino	por|ta|le|[gren]|se
+portaleira	nome feminino	por|ta|[lei]|ra
+portaló	nome masculino	por|ta|[ló]
+portamento	nome masculino	por|ta|[men]|to
+portante	adjetivo	por|[tan]|te
+portanto	conjunção	por|[tan]|to
+portão	nome masculino	por|[tão]
+portar	verbo	por|[tar]
+portaria	nome feminino	por|ta|[ri]|a
+portátil	nome masculino	por|[tá]|til
+portátil	adjetivo	por|[tá]|til
+portatório	adjetivo	por|ta|[tó]|ri|o
+portável	adjetivo	por|[tá]|vel
+porte	nome masculino	[por]|te
+porteado	nome masculino	por|te|[a]|do
+porteado	adjetivo	por|te|[a]|do
+portear	verbo	por|te|[ar]
+portefólio	nome masculino	por|te|[fó]|li|o
+porteira	nome feminino	por|[tei]|ra
+porteiro	nome masculino	por|[tei]|ro
+portela	nome feminino	por|[te]|la
+portelense	adjetivo	por|te|[len]|se
+portelense	nome masculino	por|te|[len]|se
+portelense	nome feminino	por|te|[len]|se
+portelo	nome masculino	por|[te]|lo
+portenha	nome feminino	por|[te]|nha
+portenho	adjetivo	por|[te]|nho
+portenho	nome masculino	por|[te]|nho
+portento	nome masculino	por|[ten]|to
+portentosamente	advérbio	por|ten|to|sa|[men]|te
+portentoso	adjetivo	por|ten|[to]|so

@@ -1,0 +1,100 @@
+sal-amargo	nome masculino	sal-a|[mar]|go
+sal-gema	nome masculino	sal-ge|ma
+sala	nome feminino	[sa]|la
+salá	nome masculino	sa|[lá]
+sala de jantar	nome feminino	[sa]|la de jan|tar
+sala-museu	nome feminino	sa|la-mu|[seu]
+salá-salá	nome masculino	sa|lá-sa|[lá]
+salabórdia	nome feminino	sa|la|[bór]|di|a
+salácia	nome feminino	sa|[lá]|ci|a
+salaciana	nome feminino	sa|la|ci|[a]|na
+salaciano	nome masculino	sa|la|ci|[a]|no
+salaciano	adjetivo	sa|la|ci|[a]|no
+salacidade	nome feminino	sa|la|ci|[da]|de
+salaciense	adjetivo	sa|la|ci|[en]|se
+salaciense	nome masculino	sa|la|ci|[en]|se
+salaciense	nome feminino	sa|la|ci|[en]|se
+salacorta	nome feminino	sa|la|[cor]|ta
+salactol	nome masculino	sa|lac|[tol]
+salada	nome feminino	sa|[la]|da
+salada-russa	nome feminino	sa|la|da-rus|sa
+saladeira	nome feminino	sa|la|[dei]|ra
+saladeirista	nome masculino	sa|la|dei|[ris]|ta
+saladeirista	nome feminino	sa|la|dei|[ris]|ta
+saladeiro	nome masculino	sa|la|[dei]|ro
+saladino	adjetivo	sa|la|[di]|no
+salafrário	nome masculino	sa|la|[frá]|ri|o
+salagarta	nome feminino	sa|la|[gar]|ta
+salagre	adjetivo	sa|[la]|gre
+salalé	nome masculino	sa|la|[lé]
+salamaleque	nome masculino	sa|la|ma|[le]|que
+salamandra	nome feminino	sa|la|[man]|dra
+salamandrídeo	nome masculino	sa|la|man|[drí]|de|o
+salamanquense	adjetivo	sa|la|man|[quen]|se
+salamanquense	nome masculino	sa|la|man|[quen]|se
+salamanquense	nome feminino	sa|la|man|[quen]|se
+salamanquino	adjetivo	sa|la|man|[qui]|no
+salamanquino	nome masculino	sa|la|man|[qui]|no
+salamanta	nome feminino	sa|la|[man]|ta
+salamântega	nome feminino	sa|la|[mân]|te|ga
+salamântiga	nome feminino	sa|la|[mân]|ti|ga
+salamar	nome feminino	sa|la|[mar]
+salambá	nome feminino	sa|lam|[bá]
+salame	nome masculino	sa|[la]|me
+salamear	verbo	sa|la|me|[ar]
+salamim	nome masculino	sa|la|[mim]
+salamínio	adjetivo	sa|la|[mí]|ni|o
+salamínio	nome masculino	sa|la|[mí]|ni|o
+salamorda	nome feminino	sa|la|[mor]|da
+salamordar	verbo	sa|la|mor|[dar]
+salamurda	nome feminino	sa|la|[mur]|da
+salamurdo	adjetivo	sa|la|[mur]|do
+salamurdo	nome masculino	sa|la|[mur]|do
+salandra	nome feminino	sa|[lan]|dra
+salangana	nome feminino	sa|lan|[ga]|na
+salango	nome masculino	sa|[lan]|go
+salão	nome masculino	sa|[lão]
+salapino	nome masculino	sa|la|[pi]|no
+salapino	adjetivo	sa|la|[pi]|no
+salar	verbo	sa|[lar]
+salariada	nome feminino	sa|la|ri|[a]|da
+salariado	nome masculino	sa|la|ri|[a]|do
+salarial	adjetivo	sa|la|ri|[al]
+salariar	verbo	sa|la|ri|[ar]
+salariato	nome masculino	sa|la|ri|[a]|to
+salariense	nome masculino	sa|la|ri|[en]|se
+salariense	adjetivo	sa|la|ri|[en]|se
+salariense	nome feminino	sa|la|ri|[en]|se
+salário	nome masculino	sa|[lá]|ri|o
+salasso	adjetivo	sa|[las]|so
+salasso	nome masculino	sa|[las]|so
+salatino	adjetivo	sa|la|[ti]|no
+salatino	nome masculino	sa|la|[ti]|no
+salaz	adjetivo	sa|[laz]
+salazarismo	nome masculino	sa|la|za|[ris]|mo
+salazarista	adjetivo	sa|la|za|[ris]|ta
+salazarista	nome masculino	sa|la|za|[ris]|ta
+salazarista	nome feminino	sa|la|za|[ris]|ta
+salbanda	nome feminino	sal|[ban]|da
+salça-proa	nome feminino	sal|ça-pro|a
+salchicha	nome feminino	sal|[chi]|cha
+salchichão	nome masculino	sal|chi|[chão]
+salchicharia	nome feminino	sal|chi|cha|[ri]|a
+salchicheiro	nome masculino	sal|chi|[chei]|ro
+saldado	adjetivo	sal|[da]|do
+saldador	adjetivo	sal|da|[dor]
+saldador	nome masculino	sal|da|[dor]
+saldanhista	adjetivo	sal|da|[nhis]|ta
+saldanhista	nome masculino	sal|da|[nhis]|ta
+saldanhista	nome feminino	sal|da|[nhis]|ta
+saldanite	nome feminino	sal|da|[ni]|te
+saldar	verbo	sal|[dar]
+saldável	adjetivo	sal|[dá]|vel
+saldínia	nome feminino	sal|[dí]|ni|a
+saldo	adjetivo	[sal]|do
+saldo	nome masculino	[sal]|do
+saldunes	nome masculino	sal|[du]|nes
+salé	nome feminino	sa|[lé]
+salé	nome masculino	sa|[lé]
+saleira	nome feminino	sa|[lei]|ra
+saleiro	adjetivo	sa|[lei]|ro

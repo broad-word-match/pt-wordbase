@@ -1,0 +1,100 @@
+corticite	nome feminino	cor|ti|[ci]|te
+cortiço	nome masculino	cor|[ti]|ço
+cortiçó	nome masculino	cor|ti|[çó]
+corticoide	adjetivo	cor|ti|[coi]|de
+corticoide	nome masculino	cor|ti|[coi]|de
+cortiçol	nome masculino	cor|ti|[çol]
+cortícola	adjetivo	cor|[tí]|co|la
+cortiçoso	adjetivo	cor|ti|[ço]|so
+corticoso	adjetivo	cor|ti|[co]|so
+corticosteroide	adjetivo	cor|ti|cos|te|[roi]|de
+corticotrofina	nome feminino	cor|ti|co|tro|[fi]|na
+cortilha	nome feminino	cor|[ti]|lha
+cortilhar	verbo	cor|ti|[lhar]
+cortina	nome feminino	cor|[ti]|na
+cortinado	nome masculino	cor|ti|[na]|do
+cortinado	adjetivo	cor|ti|[na]|do
+cortinar	verbo	cor|ti|[nar]
+cortinha	nome feminino	cor|[ti]|nha
+cortinhal	nome masculino	cor|ti|[nhal]
+cortinheiro	nome masculino	cor|ti|[nhei]|ro
+cortisona	nome feminino	cor|ti|[so]|na
+cortonense	adjetivo	cor|to|[nen]|se
+cortonense	nome masculino	cor|to|[nen]|se
+cortonense	nome feminino	cor|to|[nen]|se
+cortonomia	nome feminino	cor|to|no|[mi]|a
+cortonômico	adjetivo	cor|to|[nô]|mi|co
+cortonómico	adjetivo	cor|to|[nó]|mi|co
+corucelo	nome masculino	co|ru|[ce]|lo
+corucha	nome feminino	co|[ru]|cha
+coruchense	adjetivo	co|ru|[chen]|se
+coruchense	nome masculino	co|ru|[chen]|se
+coruchense	nome feminino	co|ru|[chen]|se
+coruchéu	nome masculino	co|ru|[chéu]
+corucho	nome masculino	co|[ru]|cho
+coruja	adjetivo	co|[ru]|ja
+coruja	nome feminino	co|[ru]|ja
+coruja	nome masculino	co|[ru]|ja
+corujão	nome masculino	co|ru|[jão]
+corujar	verbo	co|ru|[jar]
+corujeira	nome feminino	co|ru|[jei]|ra
+corujeiro	nome masculino	co|ru|[jei]|ro
+corujento	adjetivo	co|ru|[jen]|to
+corujinha	nome feminino	co|ru|[ji]|nha
+corujo	nome masculino	co|[ru]|jo
+corumbá	nome masculino	co|rum|[bá]
+corumbaense	adjetivo	co|rum|ba|[en]|se
+corumbaense	nome masculino	co|rum|ba|[en]|se
+corumbaense	nome feminino	co|rum|ba|[en]|se
+corumbamba	nome masculino	co|rum|[bam]|ba
+corumbi	adjetivo	co|rum|[bi]
+corumbi	nome masculino	co|rum|[bi]
+corumbi	nome feminino	co|rum|[bi]
+corundo	nome masculino	co|[run]|do
+corunha	nome feminino	co|[ru]|nha
+corunhês	adjetivo	co|ru|[nhês]
+corunhês	nome masculino	co|ru|[nhês]
+coruscação	nome feminino	co|rus|ca|[ção]
+coruscante	adjetivo	co|rus|[can]|te
+coruscar	verbo	co|rus|[car]
+corusco	nome masculino	co|[rus]|co
+coruta	nome feminino	co|[ru]|ta
+corutilho	nome masculino	co|ru|[ti]|lho
+coruto	nome masculino	co|[ru]|to
+corva	nome feminino	[cor]|va
+corvacha	nome feminino	cor|[va]|cha
+corvacho	nome masculino	cor|[va]|cho
+corveia	nome feminino	cor|[vei]|a
+corveira	nome feminino	cor|[vei]|ra
+corveiro	nome masculino	cor|[vei]|ro
+corvejamento	nome masculino	cor|ve|ja|[men]|to
+corvejar	verbo	cor|ve|[jar]
+corvelo	nome masculino	cor|[ve]|lo
+corvelo	adjetivo	cor|[ve]|lo
+corvense	adjetivo	cor|[ven]|se
+corvense	nome masculino	cor|[ven]|se
+corvense	nome feminino	cor|[ven]|se
+corveta	nome feminino	cor|[ve]|ta
+corvéu	nome masculino	cor|[véu]
+córvida	nome masculino	[cór]|vi|da
+córvida	nome masculino	[cór]|vi|da
+corvídeo	nome masculino	cor|[ví]|de|o
+corvídeo	adjetivo	cor|[ví]|de|o
+corvídeo	nome masculino	cor|[ví]|de|o
+corvina	nome feminino	cor|[vi]|na
+corvineira	nome feminino	cor|vi|[nei]|ra
+corvineiro	nome masculino	cor|vi|[nei]|ro
+corvino	adjetivo	cor|[vi]|no
+corvino	nome masculino	cor|[vi]|no
+corvo	nome masculino	[cor]|vo
+corvo-marinho	nome masculino	cor|vo-ma|[ri]|nho
+cós	nome masculino	[cós]
+cosano	adjetivo	co|[sa]|no
+cosano	nome masculino	co|[sa]|no
+coscinomancia	nome feminino	cos|ci|no|man|[ci]|a
+coscinomante	nome masculino	cos|ci|no|[man]|te
+coscinomante	nome feminino	cos|ci|no|[man]|te
+coscinomântico	adjetivo	cos|ci|no|[mân]|ti|co
+coscinoscopia	nome feminino	cos|ci|nos|co|[pi]|a
+coscinoscópico	adjetivo	cos|ci|nos|[có]|pi|co
+cosco	nome masculino	[cos]|co

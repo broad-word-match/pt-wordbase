@@ -1,0 +1,100 @@
+mielomalacia	nome feminino	mi|e|lo|ma|la|[ci]|a
+mielopatia	nome feminino	mi|e|lo|pa|[ti]|a
+mielopático	adjetivo	mi|e|lo|[pá]|ti|co
+mielóplace	nome feminino	mi|e|[ló]|pla|ce
+mieloplaxe	nome feminino	mi|e|lo|[pla]|xe
+mieloproliferativo	adjetivo	mi|e|lo|pro|li|fe|ra|[ti]|vo
+mielosclerose	nome feminino	mi|e|los|cle|[ro]|se
+mielossarcoma	nome masculino	mi|e|los|sar|[co]|ma
+miérsia	nome feminino	mi|[ér]|si|a
+mifongo	nome masculino	mi|[fon]|go
+miga	nome feminino	[mi]|ga
+migado	nome masculino	mi|[ga]|do
+migado	adjetivo	mi|[ga]|do
+mígala	nome feminino	[mí]|ga|la
+migalha	nome feminino	mi|[ga]|lha
+migalhar	verbo	mi|ga|[lhar]
+migalharia	nome feminino	mi|ga|lha|[ri]|a
+migalheira	nome feminino	mi|ga|[lhei]|ra
+migalheiro	adjetivo	mi|ga|[lhei]|ro
+migalheiro	nome masculino	mi|ga|[lhei]|ro
+migalhice	nome feminino	mi|ga|[lhi]|ce
+migalho	nome masculino	mi|[ga]|lho
+migalídeo	nome masculino	mi|ga|[lí]|de|o
+migar	verbo	mi|[gar]
+migas	nome feminino	[mi]|gas
+mígdone	adjetivo	[míg]|do|ne
+mígdone	nome masculino	[míg]|do|ne
+mígdone	nome feminino	[míg]|do|ne
+migdônio	adjetivo	mig|[dô]|ni|o
+migdónio	adjetivo	mig|[dó]|ni|o
+migma	nome masculino	[mig]|ma
+migmatito	nome masculino	mig|ma|[ti]|to
+migração	nome feminino	mi|gra|[ção]
+migrador	adjetivo	mi|gra|[dor]
+migrador	nome masculino	mi|gra|[dor]
+migrante	adjetivo	mi|[gran]|te
+migrante	nome feminino	mi|[gran]|te
+migrante	nome masculino	mi|[gran]|te
+migrar	verbo	mi|[grar]
+migratório	adjetivo	mi|gra|[tó]|ri|o
+migrorganismo	nome masculino	mi|gror|ga|[nis]|mo
+miguel-angelesco	adjetivo	mi|guel-an|ge|[les]|co
+miguelense	adjetivo	mi|gue|[len]|se
+miguelense	nome masculino	mi|gue|[len]|se
+miguelense	nome feminino	mi|gue|[len]|se
+miguelino	adjetivo	mi|gue|[li]|no
+miguelismo	nome masculino	mi|gue|[lis]|mo
+miguelista	adjetivo	mi|gue|[lis]|ta
+miguelista	nome masculino	mi|gue|[lis]|ta
+miguelista	nome feminino	mi|gue|[lis]|ta
+miguelopolitano	adjetivo	mi|gue|lo|po|li|[ta]|no
+miguelopolitano	nome masculino	mi|gue|lo|po|li|[ta]|no
+miíagro	nome masculino	mi|[í]|a|gro
+miíase	nome feminino	mi|[í]|a|se
+miiocéfalo	nome masculino	mi|i|o|[cé]|fa|lo
+miiocéfalo	adjetivo	mi|i|o|[cé]|fa|lo
+miiodopsia	nome feminino	mi|i|o|dop|[si]|a
+miiologia	nome feminino	mi|i|o|lo|[gi]|a
+miiológico	adjetivo	mi|i|o|[ló]|gi|co
+miite	nome feminino	mi|[i]|te
+mija	nome feminino	[mi]|ja
+mija-mansinho	adjetivo	mi|ja-man|[si]|nho
+mija-mansinho	nome masculino	mi|ja-man|[si]|nho
+mija-mansinho	nome feminino	mi|ja-man|[si]|nho
+mija-manso	nome masculino	mi|ja-man|so
+mija-vinagre	nome masculino	mi|ja-vi|[na]|gre
+mijaburro	nome masculino	mi|ja|[bur]|ro
+mijaceira	nome feminino	mi|ja|[cei]|ra
+mijaceiro	nome masculino	mi|ja|[cei]|ro
+mijada	nome feminino	mi|[ja]|da
+mijadeira	nome feminino	mi|ja|[dei]|ra
+mijadeiro	nome masculino	mi|ja|[dei]|ro
+mijadela	nome feminino	mi|ja|[de]|la
+mijadoiro	nome masculino	mi|ja|[doi]|ro
+mijadouro	nome masculino	mi|ja|[dou]|ro
+mijanceira	nome feminino	mi|jan|[cei]|ra
+mijão	adjetivo	mi|[jão]
+mijão	nome masculino	mi|[jão]
+mijar	verbo	mi|[jar]
+mijarete	nome masculino	mi|ja|[re]|te
+mijatório	nome masculino	mi|ja|[tó]|ri|o
+mijina	nome feminino	mi|[ji]|na
+mijinha	nome feminino	mi|[ji]|nha
+mijinhas	nome masculino	mi|[ji]|nhas
+mijo	nome masculino	[mi]|jo
+mijoca	nome feminino	mi|[jo]|ca
+mijona	nome feminino	mi|[jo]|na
+mijote	nome masculino	mi|[jo]|te
+mijuí	nome masculino	mi|ju|[í]
+mil	número cardinal	[mil]
+mil	nome masculino	[mil]
+mil	adjetivo	[mil]
+mil-diabos	nome masculino	mil-di|[a]|bos
+mil-em-rama	nome feminino	mil-em-ra|ma
+mil-flores	adjetivo	mil-flo|res
+mil-flores	nome masculino	mil-flo|res
+mil-folhas	nome masculino	mil-fo|lhas
+mil-folhas	nome feminino	mil-fo|lhas
+mil-homens	nome masculino	mil-ho|mens
+mil-réis	nome masculino	[mil-réis]

@@ -1,0 +1,100 @@
+cafuleteiro	nome masculino	ca|fu|le|[tei]|ro
+cafulo	nome masculino	ca|[fu]|lo
+cafumango	nome masculino	ca|fu|[man]|go
+cafumbã	nome feminino	ca|fum|[bã]
+cafumbar	verbo	ca|fum|[bar]
+cafunar	verbo	ca|fu|[nar]
+cafundó	nome masculino	ca|fun|[dó]
+cafundório	nome masculino	ca|fun|[dó]|ri|o
+cafuné	nome masculino	ca|fu|[né]
+cafunga	nome masculino	ca|[fun]|ga
+cafungar	verbo	ca|fun|[gar]
+cafungo	nome masculino	ca|[fun]|go
+cafunje	nome masculino	ca|[fun]|je
+cafunjice	nome feminino	ca|fun|[ji]|ce
+cafurna	nome feminino	ca|[fur]|na
+cafuz	adjetivo	ca|[fuz]
+cafuz	nome masculino	ca|[fuz]
+cafuz	nome feminino	ca|[fuz]
+cafuza	nome feminino	ca|[fu]|za
+cafuzar	verbo	ca|fu|[zar]
+cafuzo	nome masculino	ca|[fu]|zo
+cafuzo	adjetivo	ca|[fu]|zo
+caga-lume	nome masculino	ca|ga-lu|me
+cagaçal	nome masculino	ca|ga|[çal]
+cagaço	nome masculino	ca|[ga]|ço
+cagada	nome feminino	ca|[ga]|da
+cagadela	nome feminino	ca|ga|[de]|la
+cágado	nome masculino	[cá]|ga|do
+cágado	adjetivo	[cá]|ga|do
+cagaita	nome feminino	ca|[gai]|ta
+cagaiteira	nome feminino	ca|gai|[tei]|ra
+cagalhão	nome masculino	ca|ga|[lhão]
+cagamasso	nome masculino	ca|ga|[mas]|so
+caganato	nome masculino	ca|ga|[na]|to
+cagança	nome feminino	ca|[gan]|ça
+caganeira	nome feminino	ca|ga|[nei]|ra
+caganeta	nome feminino	ca|ga|[ne]|ta
+caganeta	nome masculino	ca|ga|[ne]|ta
+caganifância	nome feminino	ca|ga|ni|[fân]|ci|a
+caganifrates	nome masculino	ca|ga|ni|[fra]|tes
+caganita	nome feminino	ca|ga|[ni]|ta
+caganito	nome masculino	ca|ga|[ni]|to
+cagão	nome masculino	ca|[gão]
+cagão	adjetivo	ca|[gão]
+cagar	verbo	ca|[gar]
+cagaréu	nome masculino	ca|ga|[réu]
+cagarola	adjetivo	ca|ga|[ro]|la
+cagarola	nome masculino	ca|ga|[ro]|la
+cagarola	nome feminino	ca|ga|[ro]|la
+cagarra	nome feminino	ca|[gar]|ra
+cagarraz	nome masculino	ca|gar|[raz]
+cagarrinha	nome feminino	ca|gar|[ri]|nha
+cagarro	adjetivo	ca|[gar]|ro
+cagarro	nome masculino	ca|[gar]|ro
+cagativo	adjetivo	ca|ga|[ti]|vo
+cagolulo	nome masculino	ca|go|[lu]|lo
+cagona	nome feminino	ca|[go]|na
+cagosanga	nome feminino	ca|go|[san]|ga
+cagotilho	nome masculino	ca|go|[ti]|lho
+caguete	nome masculino	ca|[gue]|te
+caguincha	nome masculino	ca|[guin]|cha
+caguincha	nome feminino	ca|[guin]|cha
+caguinchas	nome masculino	ca|[guin]|chas
+caguinchas	nome feminino	ca|[guin]|chas
+cagunço	nome masculino	ca|[gun]|ço
+caí	nome masculino	ca|[í]
+caiabana	nome feminino	cai|a|[ba]|na
+caiação	nome feminino	cai|a|[ção]
+caiada	nome feminino	cai|[a]|da
+caiadeira	nome feminino	cai|a|[dei]|ra
+caiadela	nome feminino	cai|a|[de]|la
+caiado	nome masculino	cai|[a]|do
+caiador	nome masculino	cai|a|[dor]
+caiador	adjetivo	cai|a|[dor]
+caiadora	nome feminino	cai|a|[do]|ra
+caiadura	nome feminino	cai|a|[du]|ra
+caiala	nome feminino	cai|[a]|la
+caiana	nome masculino	cai|[a]|na
+caiana	nome feminino	cai|[a]|na
+caiané	nome masculino	cai|a|[né]
+caiapiá	nome feminino	cai|a|pi|[á]
+caiapiá	nome masculino	cai|a|pi|[á]
+caiapó	nome masculino	cai|a|[pó]
+caiapó	nome feminino	cai|a|[pó]
+caiapó	adjetivo	cai|a|[pó]
+caiaque	nome masculino	cai|[a]|que
+caiar	verbo	cai|[ar]
+caiarana	nome feminino	cai|a|[ra]|na
+caiarara	nome masculino	cai|a|[ra]|ra
+caiatino	adjetivo	cai|a|[ti]|no
+caiatino	nome masculino	cai|a|[ti]|no
+cãiba	nome feminino	[cãi]|ba
+cãibal	nome masculino	[cãi]|bal
+cãibas	nome feminino	[cãi]|bas
+cãibeira	nome feminino	[cãi]|bei|ra
+cãibeiro	nome masculino	[cãi]|bei|ro
+cãibo	nome masculino	[cãi]|bo
+cãibra	nome feminino	[cãi]|bra
+caibrada	nome feminino	cai|[bra]|da
+caibral	adjetivo	cai|[bral]

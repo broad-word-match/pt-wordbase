@@ -1,0 +1,100 @@
+hilino	nome masculino	hi|[li]|no
+hilo	nome masculino	[hi]|lo
+hilóbata	nome masculino	hi|[ló]|ba|ta
+hilobátida	nome masculino	hi|lo|[bá]|ti|da
+hilobátida	nome masculino	hi|lo|[bá]|ti|da
+hilobatídeo	nome masculino	hi|lo|ba|[tí]|de|o
+hilobatídeo	nome masculino	hi|lo|ba|[tí]|de|o
+hilobatídeo	adjetivo	hi|lo|ba|[tí]|de|o
+hilóbio	nome masculino	hi|[ló]|bi|o
+hilofagia	nome feminino	hi|lo|fa|[gi]|a
+hilófago	adjetivo	hi|[ló]|fa|go
+hilogenia	nome feminino	hi|lo|ge|[ni]|a
+hilogênico	adjetivo	hi|lo|[gê]|ni|co
+hilogénico	adjetivo	hi|lo|[gé]|ni|co
+hilota	nome masculino	hi|[lo]|ta
+hilotismo	nome masculino	hi|lo|[tis]|mo
+hilótomo	nome masculino	hi|[ló]|to|mo
+hilozoico	adjetivo	hi|lo|[zoi]|co
+hilozoísmo	nome masculino	hi|lo|zo|[ís]|mo
+hilozoísta	adjetivo	hi|lo|zo|[ís]|ta
+hilozoísta	nome masculino	hi|lo|zo|[ís]|ta
+hilozoísta	nome feminino	hi|lo|zo|[ís]|ta
+himalaia	nome masculino	hi|ma|[lai]|a
+himalaico	adjetivo	hi|ma|[lai]|co
+himalaíte	nome feminino	hi|ma|la|[í]|te
+himantofilo	nome masculino	hi|man|to|[fi]|lo
+himba	nome feminino	[him]|ba
+hímen	nome masculino	[hí]|men
+himenal	adjetivo	hi|me|[nal]
+himeneu	nome masculino	hi|me|[neu]
+himenial	adjetivo	hi|me|ni|[al]
+himênio	nome masculino	hi|[mê]|ni|o
+himénio	nome masculino	hi|[mé]|ni|o
+himenocarpo	nome masculino	hi|me|no|[car]|po
+himenocarpo	adjetivo	hi|me|no|[car]|po
+himenofilácea	nome feminino	hi|me|no|fi|[lá]|ce|a
+himenóforo	adjetivo	hi|me|[nó]|fo|ro
+himenóforo	nome masculino	hi|me|[nó]|fo|ro
+himenografia	nome feminino	hi|me|no|gra|[fi]|a
+himenográfico	adjetivo	hi|me|no|[grá]|fi|co
+himenógrafo	nome masculino	hi|me|[nó]|gra|fo
+himenoide	adjetivo	hi|me|[noi]|de
+himenologia	nome feminino	hi|me|no|lo|[gi]|a
+himenológico	adjetivo	hi|me|no|[ló]|gi|co
+himenólogo	nome masculino	hi|me|[nó]|lo|go
+himenomicete	nome masculino	hi|me|no|mi|[ce]|te
+himenomicete	adjetivo	hi|me|no|mi|[ce]|te
+himenópode	adjetivo	hi|me|[nó]|po|de
+himenóptero	adjetivo	hi|me|[nóp]|te|ro
+himenóptero	nome masculino	hi|me|[nóp]|te|ro
+himenopterologia	nome feminino	hi|me|nop|te|ro|lo|[gi]|a
+himenopterológico	adjetivo	hi|me|nop|te|ro|[ló]|gi|co
+himenopterólogo	nome masculino	hi|me|nop|te|[ró]|lo|go
+himenorrizo	adjetivo	hi|me|nor|[ri]|zo
+himenotomia	nome feminino	hi|me|no|to|[mi]|a
+himenotômico	adjetivo	hi|me|no|[tô]|mi|co
+himenotómico	adjetivo	hi|me|no|[tó]|mi|co
+himenótomo	nome masculino	hi|me|[nó]|to|mo
+himereu	adjetivo	hi|me|[reu]
+himereu	nome masculino	hi|me|[reu]
+himétio	adjetivo	hi|[mé]|ti|o
+himiárico	adjetivo	hi|mi|[á]|ri|co
+himiárico	nome masculino	hi|mi|[á]|ri|co
+himiarita	adjetivo	hi|mi|a|[ri]|ta
+himiarita	nome masculino	hi|mi|a|[ri]|ta
+himiarita	nome feminino	hi|mi|a|[ri]|ta
+hinário	nome masculino	hi|[ná]|ri|o
+hindi	nome masculino	hin|[di]
+hindu	adjetivo	hin|[du]
+hindu	nome masculino	hin|[du]
+hindu	nome feminino	hin|[du]
+hinduísmo	nome masculino	hin|du|[ís]|mo
+hinduísta	nome masculino	hin|du|[ís]|ta
+hinduísta	adjetivo	hin|du|[ís]|ta
+hinduísta	nome feminino	hin|du|[ís]|ta
+hinduizar	verbo	hin|dui|[zar]
+hindustani	nome masculino	hin|dus|ta|[ni]
+hindustânico	adjetivo	hin|dus|[tâ]|ni|co
+hindustano	nome masculino	hin|dus|[ta]|no
+hinga	adjetivo	[hin]|ga
+hinga	nome masculino	[hin]|ga
+hínico	adjetivo	[hí]|ni|co
+hinista	nome masculino	hi|[nis]|ta
+hinista	nome feminino	hi|[nis]|ta
+hino	nome masculino	[hi]|no
+hinodo	nome masculino	hi|[no]|do
+hinografia	nome feminino	hi|no|gra|[fi]|a
+hinográfico	adjetivo	hi|no|[grá]|fi|co
+hinógrafo	nome masculino	hi|[nó]|gra|fo
+hinologia	nome feminino	hi|no|lo|[gi]|a
+hinológico	adjetivo	hi|no|[ló]|gi|co
+hinologista	nome masculino	hi|no|lo|[gis]|ta
+hinologista	nome feminino	hi|no|lo|[gis]|ta
+hinólogo	nome masculino	hi|[nó]|lo|go
+hiofaríngeo	adjetivo	hi|o|fa|[rín]|ge|o
+hioglosso	nome masculino	hi|o|[glos]|so
+hioide	adjetivo	hi|[oi]|de
+hioide	nome masculino	hi|[oi]|de
+hióideo	adjetivo	hi|[ói]|de|o
+hiomandibular	nome masculino	hi|o|man|di|bu|[lar]

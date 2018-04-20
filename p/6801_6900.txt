@@ -1,0 +1,100 @@
+pessoaria	nome feminino	pes|so|a|[ri]|a
+pessoeiro	nome masculino	pes|so|[ei]|ro
+pessoense	adjetivo	pes|so|[en]|se
+pessoense	nome masculino	pes|so|[en]|se
+pessoense	nome feminino	pes|so|[en]|se
+pestana	nome feminino	pes|[ta]|na
+pestanear	verbo	pes|ta|ne|[ar]
+pestanejante	adjetivo	pes|ta|ne|[jan]|te
+pestanejar	verbo	pes|ta|ne|[jar]
+pestanejo	nome masculino	pes|ta|[ne]|jo
+pestano	adjetivo	pes|[ta]|no
+pestano	nome masculino	pes|[ta]|no
+pestanudo	adjetivo	pes|ta|[nu]|do
+peste	nome feminino	[pes]|te
+pestear	verbo	pes|te|[ar]
+pesticida	nome masculino	pes|ti|[ci]|da
+pestífera	nome feminino	pes|[tí]|fe|ra
+pestiferação	nome feminino	pes|ti|fe|ra|[ção]
+pestiferamente	advérbio	pes|ti|fe|ra|[men]|te
+pestiferar	verbo	pes|ti|fe|[rar]
+pestífero	nome masculino	pes|[tí]|fe|ro
+pestífero	adjetivo	pes|[tí]|fe|ro
+pestilência	nome feminino	pes|ti|[lên]|ci|a
+pestilencial	adjetivo	pes|ti|len|ci|[al]
+pestilencialmente	advérbio	pes|ti|len|ci|al|[men]|te
+pestilencioso	adjetivo	pes|ti|len|ci|[o]|so
+pestilente	adjetivo	pes|ti|[len]|te
+pestilento	adjetivo	pes|ti|[len]|to
+pestilo	nome masculino	pes|[ti]|lo
+pestinhar	verbo	pes|ti|[nhar]
+pestinheiro	adjetivo	pes|ti|[nhei]|ro
+pestoso	adjetivo	pes|[to]|so
+pestoso	nome masculino	pes|[to]|so
+pésure	adjetivo	[pé]|su|re
+pésure	nome masculino	[pé]|su|re
+pésure	nome feminino	[pé]|su|re
+peta	nome feminino	[pe]|ta
+pétala	nome feminino	[pé]|ta|la
+petalado	adjetivo	pe|ta|[la]|do
+petalantera	nome feminino	pe|ta|lan|[te]|ra
+petaleação	nome feminino	pe|ta|le|a|[ção]
+petalhada	nome feminino	pe|ta|[lha]|da
+petaliforme	adjetivo	pe|ta|li|[for]|me
+petalino	adjetivo	pe|ta|[li]|no
+petálio	nome masculino	pe|[tá]|li|o
+petalismo	nome masculino	pe|ta|[lis]|mo
+petalita	nome feminino	pe|ta|[li]|ta
+petalite	nome feminino	pe|ta|[li]|te
+petaloide	adjetivo	pe|ta|[loi]|de
+petalomania	nome feminino	pe|ta|lo|ma|[ni]|a
+petalópode	adjetivo	pe|ta|[ló]|po|de
+petalópode	nome masculino	pe|ta|[ló]|po|de
+petalossomo	nome masculino	pe|ta|los|[so]|mo
+petalostémone	nome masculino	pe|ta|los|[té]|mo|ne
+petalostêmone	nome masculino	pe|ta|los|[tê]|mo|ne
+petalótoma	nome feminino	pe|ta|[ló]|to|ma
+petalura	nome feminino	pe|ta|[lu]|ra
+petaniscar	verbo	pe|ta|nis|[car]
+petanisco	nome masculino	pe|ta|[nis]|co
+petão	nome masculino	pe|[tão]
+petar	verbo	pe|[tar]
+petarada	nome feminino	pe|ta|[ra]|da
+petardada	nome feminino	pe|tar|[da]|da
+petardar	verbo	pe|tar|[dar]
+petardear	verbo	pe|tar|de|[ar]
+petardeiro	nome masculino	pe|tar|[dei]|ro
+petardo	nome masculino	pe|[tar]|do
+petarola	nome feminino	pe|ta|[ro]|la
+petarola	nome masculino	pe|ta|[ro]|la
+petarolar	verbo	pe|ta|ro|[lar]
+petaurista	nome masculino	pe|tau|[ris]|ta
+petaurista	nome feminino	pe|tau|[ris]|ta
+petauristário	nome masculino	pe|tau|ris|[tá]|ri|o
+petauro	nome masculino	pe|[tau]|ro
+petavionense	nome masculino	pe|ta|vi|o|[nen]|se
+petavionense	adjetivo	pe|ta|vi|o|[nen]|se
+petavionense	nome feminino	pe|ta|vi|o|[nen]|se
+pete	nome masculino	[pe]|te
+peteador	nome masculino	pe|te|a|[dor]
+petear	verbo	pe|te|[ar]
+peteca	nome feminino	pe|[te]|ca
+petecada	nome feminino	pe|te|[ca]|da
+petefe	nome masculino	pe|[te]|fe
+petegar	verbo	pe|te|[gar]
+peteiro	adjetivo	pe|[tei]|ro
+peteiro	nome masculino	pe|[tei]|ro
+peteleca	nome feminino	pe|te|[le]|ca
+peteleco	nome masculino	pe|te|[le]|co
+petelino	adjetivo	pe|te|[li]|no
+petelino	nome masculino	pe|te|[li]|no
+petém	nome masculino	pe|[tém]
+petema	nome masculino	pe|[te]|ma
+petequear	verbo	pe|te|que|[ar]
+petéquia	nome feminino	pe|[té]|qui|a
+petequial	adjetivo	pe|te|qui|[al]
+petiá	nome feminino	pe|ti|[á]
+petiçada	nome feminino	pe|ti|[ça]|da
+petição	nome feminino	pe|ti|[ção]
+peticar	verbo	pe|ti|[car]
+peticego	adjetivo	pe|ti|[ce]|go

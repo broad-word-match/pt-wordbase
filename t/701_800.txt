@@ -1,0 +1,100 @@
+taloro	nome masculino	ta|[lo]|ro
+taloso	adjetivo	ta|[lo]|so
+talpária	nome feminino	tal|[pá]|ri|a
+tálpida	nome masculino	[tál]|pi|da
+talpídeo	nome masculino	tal|[pí]|de|o
+talpídeo	adjetivo	tal|[pí]|de|o
+talpídeo	nome masculino	tal|[pí]|de|o
+talpiforme	adjetivo	tal|pi|[for]|me
+talpófila	nome feminino	tal|[pó]|fi|la
+talqualmente	advérbio	tal|qual|[men]|te
+taluca	nome feminino	ta|[lu]|ca
+taluda	nome feminino	ta|[lu]|da
+taludamento	nome masculino	ta|lu|da|[men]|to
+taludão	nome masculino	ta|lu|[dão]
+taludar	verbo	ta|lu|[dar]
+talude	nome masculino	ta|[lu]|de
+taludeu	adjetivo	ta|lu|[deu]
+taludeu	nome masculino	ta|lu|[deu]
+taludo	adjetivo	ta|[lu]|do
+taludote	adjetivo	ta|lu|[do]|te
+talvegue	nome masculino	tal|[ve]|gue
+talvez	advérbio	tal|[vez]
+tamacarica	nome feminino	ta|ma|ca|[ri]|ca
+tamagueiro	nome masculino	ta|ma|[guei]|ro
+tamalavez	advérbio	ta|ma|la|[vez]
+tamanca	nome feminino	ta|[man]|ca
+tamancada	nome feminino	ta|man|[ca]|da
+tamancar	verbo	ta|man|[car]
+tamancaria	nome feminino	ta|man|ca|[ri]|a
+tamanco	adjetivo	ta|[man]|co
+tamanco	nome masculino	ta|[man]|co
+tamancudo	adjetivo	ta|man|[cu]|do
+tamanduá	nome masculino	ta|man|du|[á]
+tamanduá-açu	nome masculino	ta|man|du|á-a|[çu]
+tamanduá-mirim	nome masculino	ta|man|du|á-mi|[rim]
+tamanduaí	nome masculino	ta|man|du|a|[í]
+tamanhã	nome feminino	ta|ma|[nhã]
+tamanhão	adjetivo	ta|ma|[nhão]
+tamanhão	nome masculino	ta|ma|[nhão]
+tamanhinha	nome feminino	ta|ma|[nhi]|nha
+tamanhinho	adjetivo	ta|ma|[nhi]|nho
+tamanhinho	nome masculino	ta|ma|[nhi]|nho
+tamanhino	adjetivo	ta|ma|[nhi]|no
+tamanho	adjetivo	ta|[ma]|nho
+tamanho	nome masculino	ta|[ma]|nho
+tamanhona	nome feminino	ta|ma|[nho]|na
+tamanhouço	adjetivo	ta|ma|[nhou]|ço
+tamaninho	adjetivo	ta|ma|[ni]|nho
+tamanino	adjetivo	ta|ma|[ni]|no
+tamanquear	verbo	ta|man|que|[ar]
+tamanqueira	nome feminino	ta|man|[quei]|ra
+tamanqueiro	nome masculino	ta|man|[quei]|ro
+tamanquinha	nome feminino	ta|man|[qui]|nha
+tamão	nome masculino	ta|[mão]
+tamaotarana	nome feminino	ta|ma|o|ta|[ra]|na
+tamaquaré	nome masculino	ta|ma|qua|[ré]
+tâmara	nome feminino	[tâ]|ma|ra
+tamaral	nome masculino	ta|ma|[ral]
+tamarana	nome feminino	ta|ma|[ra]|na
+tamarança	nome feminino	ta|ma|[ran]|ça
+tamararé	adjetivo	ta|ma|ra|[ré]
+tamararé	nome masculino	ta|ma|ra|[ré]
+tamararé	nome feminino	ta|ma|ra|[ré]
+tamareira	nome feminino	ta|ma|[rei]|ra
+tamarês	adjetivo	ta|ma|[rês]
+tamarês	nome masculino	ta|ma|[rês]
+tamarga	nome feminino	ta|[mar]|ga
+tamargal	nome masculino	ta|mar|[gal]
+tamargueira	nome feminino	ta|mar|[guei]|ra
+tamaricácea	nome feminino	ta|ma|ri|[cá]|ce|a
+tamaricáceo	adjetivo	ta|ma|ri|[cá]|ce|o
+tamarinada	nome feminino	ta|ma|ri|[na]|da
+tamarindal	nome masculino	ta|ma|rin|[dal]
+tamarindeira	nome feminino	ta|ma|rin|[dei]|ra
+tamarindeiro	nome masculino	ta|ma|rin|[dei]|ro
+tamarindo	nome masculino	ta|ma|[rin]|do
+tamarineira	nome feminino	ta|ma|ri|[nei]|ra
+tamarineiro	nome masculino	ta|ma|ri|[nei]|ro
+tamarinheiro	nome masculino	ta|ma|ri|[nhei]|ro
+tamarinho	nome masculino	ta|ma|[ri]|nho
+tamarino	nome masculino	ta|ma|[ri]|no
+tamarisco	nome masculino	ta|ma|[ris]|co
+tamariz	nome masculino	ta|ma|[riz]
+tamaru	nome masculino	ta|ma|[ru]
+tamarutaca	nome feminino	ta|ma|ru|[ta]|ca
+tamarutaca	nome masculino	ta|ma|ru|[ta]|ca
+tamaseu	adjetivo	ta|ma|[seu]
+tamaseu	nome masculino	ta|ma|[seu]
+tamatiá	nome masculino	ta|ma|ti|[á]
+tamaxeque	nome masculino	ta|ma|[xe]|que
+tamazight	nome masculino	ta|ma|zight
+tambá	nome masculino	tam|[bá]
+tambaca	nome feminino	tam|[ba]|ca
+tambaco	nome masculino	tam|[ba]|co
+tambacumba	nome feminino	tam|ba|[cum]|ba
+tambaíba	nome feminino	tam|ba|[í]|ba
+tambaque	nome masculino	tam|[ba]|que
+tambaqui	nome masculino	tam|ba|[qui]
+tambarane	nome masculino	tam|ba|[ra]|ne
+tambarineiro	nome masculino	tam|ba|ri|[nei]|ro

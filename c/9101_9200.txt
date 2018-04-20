@@ -1,0 +1,100 @@
+chimpanzé	nome masculino	chim|pan|[zé]
+chimpar	verbo	chim|[par]
+china	nome masculino	[chi]|na
+china	nome feminino	[chi]|na
+chinar	verbo	chi|[nar]
+chinca	nome feminino	[chin]|ca
+chincada	nome feminino	chin|[ca]|da
+chincadela	nome feminino	chin|ca|[de]|la
+chincalhação	nome feminino	chin|ca|lha|[ção]
+chincalhada	nome feminino	chin|ca|[lha]|da
+chincalhão	nome masculino	chin|ca|[lhão]
+chincalhar	verbo	chin|ca|[lhar]
+chincalho	nome masculino	chin|[ca]|lho
+chincar	verbo	chin|[car]
+chincha	nome feminino	[chin]|cha
+chincha-de-poupa	nome feminino	chin|cha-de-pou|pa
+chincha-la-raiz	nome feminino	chin|cha-la-ra|[iz]
+chincha-la-raiz	nome masculino	chin|cha-la-ra|[iz]
+chinchafóis	nome masculino	chin|cha|[fóis]
+chinchafoles	nome masculino	chin|cha|[fo]|les
+chinchagem	nome feminino	chin|[cha]|gem
+chinchalaré	nome masculino	chin|cha|la|[ré]
+chinchão	nome masculino	chin|[chão]
+chincharavelha	nome feminino	chin|cha|ra|[ve]|lha
+chincharavelho	nome masculino	chin|cha|ra|[ve]|lho
+chincharel	nome masculino	chin|cha|[rel]
+chincharravelho	nome masculino	chin|char|ra|[ve]|lho
+chinchavarelho	nome masculino	chin|cha|va|[re]|lho
+chinche	nome masculino	[chin]|che
+chincheiro	nome masculino	chin|[chei]|ro
+chinchila	nome feminino	chin|[chi]|la
+chinchinim	nome masculino	chin|chi|[nim]
+chincho	nome masculino	[chin]|cho
+chinchona	nome feminino	chin|[cho]|na
+chinchorra	nome feminino	chin|[chor]|ra
+chinchorro	nome masculino	chin|[chor]|ro
+chinchoso	adjetivo	chin|[cho]|so
+chinclopé	nome masculino	chin|clo|[pé]
+chincoã	nome masculino	chin|co|[ã]
+chincra	nome feminino	[chin]|cra
+chinela	nome feminino	chi|[ne]|la
+chinelada	nome feminino	chi|ne|[la]|da
+chinelar	verbo	chi|ne|[lar]
+chineleira	nome feminino	chi|ne|[lei]|ra
+chineleiro	adjetivo	chi|ne|[lei]|ro
+chineleiro	nome masculino	chi|ne|[lei]|ro
+chinelo	nome masculino	chi|[ne]|lo
+chinês	adjetivo	chi|[nês]
+chinês	nome masculino	chi|[nês]
+chinesa	nome feminino	chi|[ne]|sa
+chinesada	nome feminino	chi|ne|[sa]|da
+chinesaria	nome feminino	chi|ne|sa|[ri]|a
+chinesice	nome feminino	chi|ne|[si]|ce
+chinesismo	nome masculino	chi|ne|[sis]|mo
+chinfra	nome feminino	[chin]|fra
+chinfrão	nome masculino	chin|[frão]
+chinfrar	verbo	chin|[frar]
+chinfrim	adjetivo	chin|[frim]
+chinfrim	nome masculino	chin|[frim]
+chinfrinada	nome feminino	chin|fri|[na]|da
+chinfrinar	verbo	chin|fri|[nar]
+chinfrineira	nome feminino	chin|fri|[nei]|ra
+chinfrineiro	adjetivo	chin|fri|[nei]|ro
+chinfrinice	nome feminino	chin|fri|[ni]|ce
+chingar	verbo	chin|[gar]
+chingo	nome masculino	[chin]|go
+chingue	nome masculino	[chin]|gue
+chingufo	nome masculino	chin|[gu]|fo
+chinguiço	nome masculino	chin|[gui]|ço
+chino	adjetivo	[chi]|no
+chino	nome masculino	[chi]|no
+chinó	nome masculino	chi|[nó]
+chino-mongólico	adjetivo	chi|no-mon|[gó]|li|co
+chinoca	nome feminino	chi|[no]|ca
+chinque	nome masculino	[chin]|que
+chinquilho	nome masculino	chin|[qui]|lho
+chintz	nome masculino	[chintz]
+chio	nome masculino	[chi]|o
+chiola	nome feminino	chi|[o]|la
+chiola	nome masculino	chi|[o]|la
+chiota	nome feminino	chi|[o]|ta
+chiote	nome masculino	chi|[o]|te
+chip	nome masculino	[chip]
+chipante	nome masculino	chi|[pan]|te
+chipanzé	nome masculino	chi|pan|[zé]
+chipe	nome masculino	[chi]|pe
+chipo	nome masculino	[chi]|po
+chique	nome masculino	[chi]|que
+chique	adjetivo	[chi]|que
+chiqueira	nome feminino	chi|[quei]|ra
+chiqueirador	nome masculino	chi|quei|ra|[dor]
+chiqueirar	verbo	chi|quei|[rar]
+chiqueireiro	adjetivo	chi|quei|[rei]|ro
+chiqueiro	nome masculino	chi|[quei]|ro
+chiquel	nome masculino	chi|[quel]
+chiqueza	nome feminino	chi|[que]|za
+chiquismo	nome masculino	chi|[quis]|mo
+chiquiteiro	nome masculino	chi|qui|[tei]|ro
+chiquitinho	adjetivo	chi|qui|[ti]|nho
+chiquito	adjetivo	chi|[qui]|to

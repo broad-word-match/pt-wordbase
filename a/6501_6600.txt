@@ -1,0 +1,100 @@
+agriófago	adjetivo	a|gri|[ó]|fa|go
+agriófago	nome masculino	a|gri|[ó]|fa|go
+agriologia	nome feminino	a|gri|o|lo|[gi]|a
+agriológico	adjetivo	a|gri|o|[ló]|gi|co
+agriólogo	nome masculino	a|gri|[ó]|lo|go
+agriota	nome feminino	a|gri|[o]|ta
+agripalma	nome feminino	a|gri|[pal]|ma
+agripene	adjetivo	a|gri|[pe]|ne
+agripina	nome feminino	a|gri|[pi]|na
+agripinense	adjetivo	a|gri|pi|[nen]|se
+agripinense	nome masculino	a|gri|pi|[nen]|se
+agripinense	nome feminino	a|gri|pi|[nen]|se
+agripnia	nome feminino	a|grip|[ni]|a
+agripno	adjetivo	a|[grip]|no
+agrisalhado	adjetivo	a|gri|sa|[lha]|do
+agrisalhar	verbo	a|gri|sa|[lhar]
+agro	nome masculino	[a]|gro
+agro	adjetivo	[a]|gro
+agro-doce	adjetivo	a|gro-do|ce
+agro-doce	nome feminino	a|gro-do|ce
+agro-doce	nome masculino	a|gro-do|ce
+agro-hidrologia	nome feminino	a|gro-hi|dro|lo|[gi]|a
+agroalimentar	adjetivo	a|gro|a|li|men|[tar]
+agroambiental	adjetivo	a|gro|am|bi|en|[tal]
+agroflorestal	adjetivo	a|gro|flo|res|[tal]
+agrogeologia	nome feminino	a|gro|ge|o|lo|[gi]|a
+agrogeológico	adjetivo	a|gro|ge|o|[ló]|gi|co
+agrografia	nome feminino	a|gro|gra|[fi]|a
+agrográfico	adjetivo	a|gro|[grá]|fi|co
+agrógrafo	nome masculino	a|[gró]|gra|fo
+agroindústria	nome feminino	a|gro|in|[dús]|tri|a
+agroindustrial	adjetivo	a|gro|in|dus|tri|[al]
+agróloga	nome feminino	a|[gró]|lo|ga
+agrologia	nome feminino	a|gro|lo|[gi]|a
+agrológico	adjetivo	a|gro|[ló]|gi|co
+agrólogo	nome masculino	a|[gró]|lo|go
+agromancia	nome feminino	a|gro|man|[ci]|a
+agromania	nome feminino	a|gro|ma|[ni]|a
+agromaníaco	adjetivo	a|gro|ma|[ní]|a|co
+agromaníaco	nome masculino	a|gro|ma|[ní]|a|co
+agrómano	nome masculino	a|[gró]|ma|no
+agrômano	nome masculino	a|[grô]|ma|no
+agromante	nome masculino	a|gro|[man]|te
+agromante	nome feminino	a|gro|[man]|te
+agromântico	adjetivo	a|gro|[mân]|ti|co
+agrometeorologia	nome feminino	a|gro|me|te|o|ro|lo|[gi]|a
+agrometeorológico	adjetivo	a|gro|me|te|o|ro|[ló]|gi|co
+agrónoma	nome feminino	a|[gró]|no|ma
+agronometria	nome feminino	a|gro|no|me|[tri]|a
+agronométrico	adjetivo	a|gro|no|[mé]|tri|co
+agronomia	nome feminino	a|gro|no|[mi]|a
+agronomicamente	advérbio	a|gro|no|mi|ca|[men]|te
+agronómico	adjetivo	a|gro|[nó]|mi|co
+agronômico	adjetivo	a|gro|[nô]|mi|co
+agrónomo	adjetivo	a|[gró]|no|mo
+agrónomo	nome masculino	a|[gró]|no|mo
+agrônomo	adjetivo	a|[grô]|no|mo
+agrônomo	nome masculino	a|[grô]|no|mo
+agropecuária	nome feminino	a|gro|pe|cu|[á]|ri|a
+agropecuário	adjetivo	a|gro|pe|cu|[á]|ri|o
+agroquímica	nome feminino	a|gro|[quí]|mi|ca
+agroquímico	adjetivo	a|gro|[quí]|mi|co
+agroquímico	nome masculino	a|gro|[quí]|mi|co
+agror	nome masculino	a|[gror]
+agroso	adjetivo	a|[gro]|so
+agrosseirado	adjetivo	a|gros|sei|[ra]|do
+agrosseirar	verbo	a|gros|sei|[rar]
+agróstide	nome feminino	a|[grós]|ti|de
+agrostídea	nome feminino	a|gros|[tí]|de|a
+agrostiografia	nome feminino	a|gros|ti|o|gra|[fi]|a
+agrostiográfico	adjetivo	a|gros|ti|o|[grá]|fi|co
+agrostiógrafo	nome masculino	a|gros|ti|[ó]|gra|fo
+agrostiologia	nome feminino	a|gros|ti|o|lo|[gi]|a
+agrostiológico	adjetivo	a|gros|ti|o|[ló]|gi|co
+agrostiólogo	nome masculino	a|gros|ti|[ó]|lo|go
+agroturismo	nome masculino	a|gro|tu|[ris]|mo
+agrumar	verbo	a|gru|[mar]
+agrume	nome masculino	a|[gru]|me
+agrumelar	verbo	a|gru|me|[lar]
+agrumetar	verbo	a|gru|me|[tar]
+agrumular	verbo	a|gru|mu|[lar]
+agrupação	nome feminino	a|gru|pa|[ção]
+agrupado	adjetivo	a|gru|[pa]|do
+agrupador	adjetivo	a|gru|pa|[dor]
+agrupador	nome masculino	a|gru|pa|[dor]
+agrupamento	nome masculino	a|gru|pa|[men]|to
+agrupar	verbo	a|gru|[par]
+agrupável	adjetivo	a|gru|[pá]|vel
+agrura	nome feminino	a|[gru]|ra
+água	nome masculino	[á]|gua
+água	nome feminino	[á]|gua
+água de Colónia	nome feminino	[á]|gua de Co|ló|ni|a
+água de Colônia	nome feminino	[á]|gua de Co|lô|ni|a
+água de força	nome feminino	[á]|gua de for|ça
+água de lume	nome feminino	[á]|gua de lu|me
+água de mesa	nome feminino	[á]|gua de me|sa
+água de végeto	nome feminino	[á]|gua de vé|ge|to
+água-ardente	nome feminino	á|gua-ar|[den]|te
+água-de-colônia	nome feminino	á|gua-de-co|[lô]|ni|a
+água-de-colónia	nome feminino	á|gua-de-co|[ló]|ni|a

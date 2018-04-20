@@ -1,0 +1,100 @@
+descloração	nome feminino	des|clo|ra|[ção]
+desclorar	verbo	des|clo|[rar]
+descloretação	nome feminino	des|clo|re|ta|[ção]
+descloretar	verbo	des|clo|re|[tar]
+descloridrização	nome feminino	des|clo|ri|dri|za|[ção]
+descloroformização	nome feminino	des|clo|ro|for|mi|za|[ção]
+descloroformizar	verbo	des|clo|ro|for|mi|[zar]
+descoagulação	nome feminino	des|co|a|gu|la|[ção]
+descoagulamento	nome masculino	des|co|a|gu|la|[men]|to
+descoagulante	adjetivo	des|co|a|gu|[lan]|te
+descoagulante	nome masculino	des|co|a|gu|[lan]|te
+descoagular	verbo	des|co|a|gu|[lar]
+descoalhar	verbo	des|co|a|[lhar]
+descoalho	nome masculino	des|co|[a]|lho
+descoberta	nome feminino	des|co|[ber]|ta
+descobertamente	advérbio	des|co|ber|ta|[men]|te
+descoberto	nome masculino	des|co|[ber]|to
+descoberto	adjetivo	des|co|[ber]|to
+descobertura	nome feminino	des|co|ber|[tu]|ra
+descobiçoso	adjetivo	des|co|bi|[ço]|so
+descobridor	adjetivo	des|co|bri|[dor]
+descobridor	nome masculino	des|co|bri|[dor]
+descobridora	nome feminino	des|co|bri|[do]|ra
+descobrimento	nome masculino	des|co|bri|[men]|to
+descobrir	verbo	des|co|[brir]
+descobrível	adjetivo	des|co|[brí]|vel
+descocadamente	advérbio	des|co|ca|da|[men]|te
+descocado	adjetivo	des|co|[ca]|do
+descocar	verbo	des|co|[car]
+descochar	verbo	des|co|[char]
+descoco	nome masculino	des|[co]|co
+descodear	verbo	des|co|de|[ar]
+descodificação	nome feminino	des|co|di|fi|ca|[ção]
+descodificador	adjetivo	des|co|di|fi|ca|[dor]
+descodificador	nome masculino	des|co|di|fi|ca|[dor]
+descodificadora	nome feminino	des|co|di|fi|ca|[do]|ra
+descodificar	verbo	des|co|di|fi|[car]
+descodificável	adjetivo	des|co|di|fi|[cá]|vel
+descofrar	verbo	des|co|[frar]
+descogotar	verbo	des|co|go|[tar]
+descogotear	verbo	des|co|go|te|[ar]
+descoifar	verbo	des|coi|[far]
+descoimar	verbo	des|coi|[mar]
+descoincidência	nome feminino	des|co|in|ci|[dên]|ci|a
+descoitar	verbo	des|coi|[tar]
+descoivarar	verbo	des|coi|va|[rar]
+descolagem	nome feminino	des|co|[la]|gem
+descolamento	nome masculino	des|co|la|[men]|to
+descolar	verbo	des|co|[lar]
+descolável	adjetivo	des|co|[lá]|vel
+descolmar	verbo	des|col|[mar]
+descolocar	verbo	des|co|lo|[car]
+descolonização	nome feminino	des|co|lo|ni|za|[ção]
+descolonizado	adjetivo	des|co|lo|ni|[za]|do
+descolonizador	adjetivo	des|co|lo|ni|za|[dor]
+descolonizar	verbo	des|co|lo|ni|[zar]
+descolonizável	adjetivo	des|co|lo|ni|[zá]|vel
+descoloração	nome feminino	des|co|lo|ra|[ção]
+descolorante	nome masculino	des|co|lo|[ran]|te
+descolorante	adjetivo	des|co|lo|[ran]|te
+descolorar	verbo	des|co|lo|[rar]
+descolorido	adjetivo	des|co|lo|[ri]|do
+descolorir	verbo	des|co|lo|[rir]
+descolorizar	verbo	des|co|lo|ri|[zar]
+descomandar	verbo	des|co|man|[dar]
+descomedidamente	advérbio	des|co|me|di|da|[men]|te
+descomedido	adjetivo	des|co|me|[di]|do
+descomedimento	nome masculino	des|co|me|di|[men]|to
+descomedir	verbo	des|co|me|[dir]
+descomer	verbo	des|co|[mer]
+descometer	verbo	des|co|me|[ter]
+descomodidade	nome feminino	des|co|mo|di|[da]|de
+descômodo	nome masculino	des|[cô]|mo|do
+descómodo	nome masculino	des|[có]|mo|do
+descomover	verbo	des|co|mo|[ver]
+descompactado	adjetivo	des|com|pac|[ta]|do
+descompactar	verbo	des|com|pac|[tar]
+descompadecer	verbo	des|com|pa|de|[cer]
+descompadrar	verbo	des|com|pa|[drar]
+descompaginar	verbo	des|com|pa|gi|[nar]
+descompaixão	nome feminino	des|com|pai|[xão]
+descomparticipação	nome feminino	des|com|par|ti|ci|pa|[ção]
+descomparticipar	verbo	des|com|par|ti|ci|[par]
+descompassadamente	advérbio	des|com|pas|sa|da|[men]|te
+descompassado	adjetivo	des|com|pas|[sa]|do
+descompassar	verbo	des|com|pas|[sar]
+descompassivo	adjetivo	des|com|pas|[si]|vo
+descompasso	nome masculino	des|com|[pas]|so
+descompensação	nome feminino	des|com|pen|sa|[ção]
+descompensado	adjetivo	des|com|pen|[sa]|do
+descompensar	verbo	des|com|pen|[sar]
+descomplexada	nome feminino	des|com|ple|[xa]|da
+descomplexado	nome masculino	des|com|ple|[xa]|do
+descomplicação	nome feminino	des|com|pli|ca|[ção]
+descomplicar	verbo	des|com|pli|[car]
+descomponenda	nome feminino	des|com|po|[nen]|da
+descompor	verbo	des|com|[por]
+descomposição	nome feminino	des|com|po|si|[ção]
+descompostamente	advérbio	des|com|pos|ta|[men]|te
+descomposto	adjetivo	des|com|[pos]|to

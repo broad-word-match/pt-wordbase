@@ -1,0 +1,100 @@
+célula-ovo	nome feminino	cé|lu|la-o|vo
+celulado	adjetivo	ce|lu|[la]|do
+celular	adjetivo	ce|lu|[lar]
+celular	nome masculino	ce|lu|[lar]
+celúlase	nome feminino	ce|[lú]|la|se
+celulase	nome feminino	ce|lu|[la]|se
+celúlico	adjetivo	ce|[lú]|li|co
+celulífero	adjetivo	ce|lu|[lí]|fe|ro
+celuliforme	adjetivo	ce|lu|li|[for]|me
+celulífugo	adjetivo	ce|lu|[lí]|fu|go
+celulípeto	adjetivo	ce|lu|[lí]|pe|to
+celulite	nome feminino	ce|lu|[li]|te
+celulitelo	adjetivo	ce|lu|li|[te]|lo
+celulogénese	nome feminino	ce|lu|lo|[gé]|ne|se
+celulogênese	nome feminino	ce|lu|lo|[gê]|ne|se
+celulogenésico	adjetivo	ce|lu|lo|ge|[né]|si|co
+celulogenético	adjetivo	ce|lu|lo|ge|[né]|ti|co
+celuloide	nome feminino	ce|lu|[loi]|de
+celulolítico	adjetivo	ce|lu|lo|[lí]|ti|co
+celulose	nome feminino	ce|lu|[lo]|se
+celulósico	adjetivo	ce|lu|[ló]|si|co
+celulosidade	nome feminino	ce|lu|lo|si|[da]|de
+celulosina	nome feminino	ce|lu|lo|[si]|na
+celuloso	adjetivo	ce|lu|[lo]|so
+celulótico	adjetivo	ce|lu|[ló]|ti|co
+celulotipia	nome feminino	ce|lu|lo|ti|[pi]|a
+celulotípico	adjetivo	ce|lu|lo|[tí]|pi|co
+cem	número cardinal	[cem]
+cem	adjetivo	[cem]
+cem	nome masculino	[cem]
+cem-dobrar	verbo	cem-do|[brar]
+cem-folhas	nome feminino	cem-fo|lhas
+cembro	nome masculino	[cem]|bro
+cementação	nome feminino	ce|men|ta|[ção]
+cementador	nome masculino	ce|men|ta|[dor]
+cementar	verbo	ce|men|[tar]
+cementatório	adjetivo	ce|men|ta|[tó]|ri|o
+cementite	nome feminino	ce|men|[ti]|te
+cemento	nome masculino	ce|[men]|to
+cementoso	adjetivo	ce|men|[to]|so
+cemiterial	adjetivo	ce|mi|te|ri|[al]
+cemitério	nome masculino	ce|mi|[té]|ri|o
+cempso	adjetivo	[cemp]|so
+cempso	nome masculino	[cemp]|so
+cena	nome feminino	[ce]|na
+cenáculo	nome masculino	ce|[ná]|cu|lo
+cenagal	nome masculino	ce|na|[gal]
+cenagoso	adjetivo	ce|na|[go]|so
+cenanto	nome masculino	ce|[nan]|to
+cenário	nome masculino	ce|[ná]|ri|o
+cenário	adjetivo	ce|[ná]|ri|o
+cenarista	nome masculino	ce|na|[ris]|ta
+cenarista	nome feminino	ce|na|[ris]|ta
+cenatório	adjetivo	ce|na|[tó]|ri|o
+cencê	nome masculino	cen|[cê]
+cencerra	nome feminino	cen|[cer]|ra
+cencerro	nome masculino	cen|[cer]|ro
+cencrâmide	nome feminino	cen|[crâ]|mi|de
+cendal	nome masculino	cen|[dal]
+cendrado	adjetivo	cen|[dra]|do
+cendrar	verbo	cen|[drar]
+cendrário	nome masculino	cen|[drá]|ri|o
+cenestesia	nome feminino	ce|nes|te|[si]|a
+cenestésico	adjetivo	ce|nes|[té]|si|co
+cenestesiopatia	nome feminino	ce|nes|te|si|o|pa|[ti]|a
+cenestético	adjetivo	ce|nes|[té]|ti|co
+cenestopatia	nome feminino	ce|nes|to|pa|[ti]|a
+cengo	nome masculino	[cen]|go
+cenho	nome masculino	[ce]|nho
+cenhoso	adjetivo	ce|[nho]|so
+cénia	nome feminino	[cé]|ni|a
+cênia	nome feminino	[cê]|ni|a
+cenicamente	advérbio	ce|ni|ca|[men]|te
+cénico	adjetivo	[cé]|ni|co
+cênico	adjetivo	[cê]|ni|co
+cenimagno	adjetivo	ce|ni|[mag]|no
+cenimagno	nome masculino	ce|ni|[mag]|no
+cênio	nome masculino	[cê]|ni|o
+cénio	nome masculino	[cé]|ni|o
+cenismo	nome masculino	ce|[nis]|mo
+cenita	adjetivo	ce|[ni]|ta
+cenita	nome masculino	ce|[ni]|ta
+cenita	nome feminino	ce|[ni]|ta
+cenite	nome feminino	ce|[ni]|te
+ceno	nome masculino	[ce]|no
+cenóbia	nome feminino	ce|[nó]|bi|a
+cenobial	adjetivo	ce|no|bi|[al]
+cenobiarca	nome masculino	ce|no|bi|[ar]|ca
+cenóbio	nome masculino	ce|[nó]|bi|o
+cenobiose	nome feminino	ce|no|bi|[o]|se
+cenobiótico	adjetivo	ce|no|bi|[ó]|ti|co
+cenobismo	nome masculino	ce|no|[bis]|mo
+cenobita	nome masculino	ce|no|[bi]|ta
+cenobita	nome feminino	ce|no|[bi]|ta
+cenobítico	adjetivo	ce|no|[bí]|ti|co
+cenobitismo	nome masculino	ce|no|bi|[tis]|mo
+cenocítico	adjetivo	ce|no|[cí]|ti|co
+cenócito	nome masculino	ce|[nó]|ci|to
+cenococo	nome masculino	ce|no|[co]|co
+cenofobia	nome feminino	ce|no|fo|[bi]|a

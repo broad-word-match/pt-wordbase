@@ -1,0 +1,100 @@
+anemia	nome feminino	a|ne|[mi]|a
+anemiado	nome masculino	a|ne|mi|[a]|do
+anemiante	adjetivo	a|ne|mi|[an]|te
+anemiar	verbo	a|ne|mi|[ar]
+anémico	adjetivo	a|[né]|mi|co
+anêmico	adjetivo	a|[nê]|mi|co
+anemizante	adjetivo	a|ne|mi|[zan]|te
+anemizar	verbo	a|ne|mi|[zar]
+anemo	adjetivo	a|[ne]|mo
+anemocórdio	nome masculino	a|ne|mo|[cór]|di|o
+anemófila	nome feminino	a|ne|[mó]|fi|la
+anemofilia	nome feminino	a|ne|mo|fi|[li]|a
+anemófilo	adjetivo	a|ne|[mó]|fi|lo
+anemofobia	nome feminino	a|ne|mo|fo|[bi]|a
+anemófobo	adjetivo	a|ne|[mó]|fo|bo
+anemógamo	adjetivo	a|ne|[mó]|ga|mo
+anemógeno	nome masculino	a|ne|[mó]|ge|no
+anemógrafa	nome feminino	a|ne|[mó]|gra|fa
+anemografia	nome feminino	a|ne|mo|gra|[fi]|a
+anemográfico	adjetivo	a|ne|mo|[grá]|fi|co
+anemógrafo	nome masculino	a|ne|[mó]|gra|fo
+anemograma	nome masculino	a|ne|mo|[gra]|ma
+anemologia	nome feminino	a|ne|mo|lo|[gi]|a
+anemológico	adjetivo	a|ne|mo|[ló]|gi|co
+anemólogo	adjetivo	a|ne|[mó]|lo|go
+anemólogo	nome masculino	a|ne|[mó]|lo|go
+anemometria	nome feminino	a|ne|mo|me|[tri]|a
+anemométrico	adjetivo	a|ne|mo|[mé]|tri|co
+anemómetro	nome masculino	a|ne|[mó]|me|tro
+anemômetro	nome masculino	a|ne|[mô]|me|tro
+anemometrógrafo	nome masculino	a|ne|mo|me|[tró]|gra|fo
+anémona	nome feminino	a|[né]|mo|na
+anêmona	nome feminino	a|[nê]|mo|na
+anémona-do-mar	nome feminino	a|né|mo|na-do-mar
+anêmona-do-mar	nome feminino	a|nê|mo|na-do-mar
+anemônea	nome feminino	a|ne|[mô]|ne|a
+anemónea	nome feminino	a|ne|[mó]|ne|a
+anemônico	adjetivo	a|ne|[mô]|ni|co
+anemónico	adjetivo	a|ne|[mó]|ni|co
+anemonifoliado	adjetivo	a|ne|mo|ni|fo|li|[a]|do
+anemonina	nome feminino	a|ne|mo|[ni]|na
+anemopluviógrafo	nome masculino	a|ne|mo|plu|vi|[ó]|gra|fo
+anemoscopia	nome feminino	a|ne|mos|co|[pi]|a
+anemoscópico	adjetivo	a|ne|mos|[có]|pi|co
+anemoscópio	nome masculino	a|ne|mos|[có]|pi|o
+anemoterapia	nome feminino	a|ne|mo|te|ra|[pi]|a
+anemoterápico	adjetivo	a|ne|mo|te|[rá]|pi|co
+anemotropismo	nome masculino	a|ne|mo|tro|[pis]|mo
+anemótropo	nome masculino	a|ne|[mó]|tro|po
+anencéfala	nome feminino	a|nen|[cé]|fa|la
+anencefalia	nome feminino	a|nen|ce|fa|[li]|a
+anencefálico	adjetivo	a|nen|ce|[fá]|li|co
+anencéfalo	adjetivo	a|nen|[cé]|fa|lo
+anencéfalo	nome masculino	a|nen|[cé]|fa|lo
+anenergia	nome feminino	a|ne|ner|[gi]|a
+anenérgico	adjetivo	a|ne|[nér]|gi|co
+anepatia	nome feminino	a|ne|pa|[ti]|a
+anepático	adjetivo	a|ne|[pá]|ti|co
+anepigrafia	nome feminino	a|ne|pi|gra|[fi]|a
+anepigráfico	adjetivo	a|ne|pi|[grá]|fi|co
+anepígrafo	adjetivo	a|ne|[pí]|gra|fo
+anepiploico	adjetivo	a|ne|pi|[ploi]|co
+anepitimia	nome feminino	a|ne|pi|ti|[mi]|a
+anepitímico	adjetivo	a|ne|pi|[tí]|mi|co
+anequim	nome masculino	a|ne|[quim]
+anerana	nome feminino	a|ne|[ra]|na
+anéreta	nome masculino	a|[né]|re|ta
+aneretismo	nome masculino	a|ne|re|[tis]|mo
+anergia	nome feminino	a|ner|[gi]|a
+anérgico	adjetivo	a|[nér]|gi|co
+aneroide	adjetivo	a|ne|[roi]|de
+aneroide	nome masculino	a|ne|[roi]|de
+anérveo	adjetivo	a|[nér]|ve|o
+anervia	nome feminino	a|ner|[vi]|a
+anervismo	nome masculino	a|ner|[vis]|mo
+anesia	nome feminino	a|ne|[si]|a
+anésico	adjetivo	a|[né]|si|co
+anestesia	nome feminino	a|nes|te|[si]|a
+anestesiado	adjetivo	a|nes|te|si|[a]|do
+anestesiador	adjetivo	a|nes|te|si|a|[dor]
+anestesiador	nome masculino	a|nes|te|si|a|[dor]
+anestesiante	adjetivo	a|nes|te|si|[an]|te
+anestesiante	nome masculino	a|nes|te|si|[an]|te
+anestesiante	nome feminino	a|nes|te|si|[an]|te
+anestesiar	verbo	a|nes|te|si|[ar]
+anestésico	nome masculino	a|nes|[té]|si|co
+anestésico	adjetivo	a|nes|[té]|si|co
+anestesímetro	nome masculino	a|nes|te|[sí]|me|tro
+anestesiologia	nome feminino	a|nes|te|si|o|lo|[gi]|a
+anestesiológico	adjetivo	a|nes|te|si|o|[ló]|gi|co
+anestesiologista	nome masculino	a|nes|te|si|o|lo|[gis]|ta
+anestesiologista	nome feminino	a|nes|te|si|o|lo|[gis]|ta
+anestesiometria	nome feminino	a|nes|te|si|o|me|[tri]|a
+anestesiométrico	adjetivo	a|nes|te|si|o|[mé]|tri|co
+anestesiómetro	nome masculino	a|nes|te|si|[ó]|me|tro
+anestesiômetro	nome masculino	a|nes|te|si|[ô]|me|tro
+anestesista	adjetivo	a|nes|te|[sis]|ta
+anestesista	nome masculino	a|nes|te|[sis]|ta
+anestesista	nome feminino	a|nes|te|[sis]|ta
+anestético	adjetivo	a|nes|[té]|ti|co

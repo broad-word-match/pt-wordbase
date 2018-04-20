@@ -1,0 +1,100 @@
+proibidor	adjetivo	proi|bi|[dor]
+proibidor	nome masculino	proi|bi|[dor]
+proibidora	nome feminino	proi|bi|[do]|ra
+proibir	verbo	proi|[bir]
+proibitivamente	advérbio	proi|bi|ti|va|[men]|te
+proibitivo	adjetivo	proi|bi|[ti]|vo
+proibitoriamente	advérbio	proi|bi|to|ri|a|[men]|te
+proibitório	adjetivo	proi|bi|[tó]|ri|o
+proibível	adjetivo	proi|[bí]|vel
+proiz	nome masculino	pro|[iz]
+projeção	nome feminino	pro|je|[ção]
+projecional	adjetivo	pro|je|ci|o|[nal]
+projecionista	nome masculino	pro|je|ci|o|[nis]|ta
+projecionista	nome feminino	pro|je|ci|o|[nis]|ta
+projectoscópio	nome masculino	pro|jec|tos|[có]|pi|o
+projetação	nome feminino	pro|je|ta|[ção]
+projetado	adjetivo	pro|je|[ta]|do
+projetador	nome masculino	pro|je|ta|[dor]
+projetante	adjetivo	pro|je|[tan]|te
+projetar	verbo	pro|je|[tar]
+projetável	adjetivo	pro|je|[tá]|vel
+projetício	adjetivo	pro|je|[tí]|ci|o
+projétil	adjetivo	pro|[jé]|til
+projetista	adjetivo	pro|je|[tis]|ta
+projetista	nome masculino	pro|je|[tis]|ta
+projetista	nome feminino	pro|je|[tis]|ta
+projetivo	adjetivo	pro|je|[ti]|vo
+projeto	nome masculino	pro|[je]|to
+projeto-lei	nome masculino	pro|je|to-lei
+projeto-piloto	nome masculino	pro|je|to-pi|[lo]|to
+projetográfico	adjetivo	pro|je|to|[grá]|fi|co
+projetógrafo	nome masculino	pro|je|[tó]|gra|fo
+projetor	nome masculino	pro|je|[tor]
+projetoscópico	adjetivo	pro|je|tos|[có]|pi|co
+projetura	nome feminino	pro|je|[tu]|ra
+prol	nome masculino	[prol]
+prol	nome feminino	[prol]
+prolábio	nome masculino	pro|[lá]|bi|o
+prolação	nome feminino	pro|la|[ção]
+prolactina	nome feminino	pro|lac|[ti]|na
+prolapso	nome masculino	pro|[lap]|so
+prolatar	verbo	pro|la|[tar]
+prolator	nome masculino	pro|la|[tor]
+prole	nome feminino	[pro]|le
+proléctico	adjetivo	pro|[léc]|ti|co
+prolegação	nome feminino	pro|le|ga|[ção]
+prolegado	nome masculino	pro|le|[ga]|do
+prolegômenos	nome masculino	pro|le|[gô]|me|nos
+prolegómenos	nome masculino	pro|le|[gó]|me|nos
+prolema	nome masculino	pro|[le]|ma
+prolepse	nome feminino	pro|[lep]|se
+prolepticamente	advérbio	pro|lep|ti|ca|[men]|te
+proléptico	adjetivo	pro|[lép]|ti|co
+proletária	nome feminino	pro|le|[tá]|ri|a
+proletariado	nome masculino	pro|le|ta|ri|[a]|do
+proletário	nome masculino	pro|le|[tá]|ri|o
+proletarização	nome feminino	pro|le|ta|ri|za|[ção]
+proletarizar	verbo	pro|le|ta|ri|[zar]
+proleticamente	advérbio	pro|le|ti|ca|[men]|te
+prolético	adjetivo	pro|[lé]|ti|co
+prolfaça	nome masculino	prol|[fa]|ça
+proliferação	nome feminino	pro|li|fe|ra|[ção]
+proliferamente	advérbio	pro|li|fe|ra|[men]|te
+proliferar	verbo	pro|li|fe|[rar]
+proliferativo	adjetivo	pro|li|fe|ra|[ti]|vo
+prolífero	adjetivo	pro|[lí]|fe|ro
+prolificação	nome feminino	pro|li|fi|ca|[ção]
+prolificamente	advérbio	pro|li|fi|ca|[men]|te
+prolificar	verbo	pro|li|fi|[car]
+prolificidade	nome feminino	pro|li|fi|ci|[da]|de
+prolífico	adjetivo	pro|[lí]|fi|co
+prolígero	adjetivo	pro|[lí]|ge|ro
+prolina	nome feminino	pro|[li]|na
+prolixamente	advérbio	pro|li|xa|[men]|te
+prolixidade	nome feminino	pro|li|xi|[da]|de
+prolixo	adjetivo	pro|[li]|xo
+prologal	adjetivo	pro|lo|[gal]
+prologar	verbo	pro|lo|[gar]
+prólogo	nome masculino	[pró]|lo|go
+prolonga	nome feminino	pro|[lon]|ga
+prolongação	nome feminino	pro|lon|ga|[ção]
+prolongadamente	advérbio	pro|lon|ga|da|[men]|te
+prolongado	adjetivo	pro|lon|[ga]|do
+prolongador	adjetivo	pro|lon|ga|[dor]
+prolongador	nome masculino	pro|lon|ga|[dor]
+prolongamento	nome masculino	pro|lon|ga|[men]|to
+prolongar	verbo	pro|lon|[gar]
+prolongável	adjetivo	pro|lon|[gá]|vel
+prolongo	adjetivo	pro|[lon]|go
+prolongo	nome masculino	pro|[lon]|go
+proloquial	adjetivo	pro|lo|qui|[al]
+prolóquio	nome masculino	pro|[ló]|qui|o
+prolusão	nome feminino	pro|lu|[são]
+proluxidade	nome feminino	pro|lu|xi|[da]|de
+proluxo	adjetivo	pro|[lu]|xo
+promagistrado	nome masculino	pro|ma|gis|[tra]|do
+promagistratura	nome feminino	pro|ma|gis|tra|[tu]|ra
+promanar	verbo	pro|ma|[nar]
+promandar	verbo	pro|man|[dar]
+promécio	nome masculino	pro|[mé]|ci|o

@@ -1,0 +1,100 @@
+suazi	adjetivo	su|a|[zi]
+suazi	nome masculino	su|a|[zi]
+suazi	nome feminino	su|a|[zi]
+suazilandês	adjetivo	su|a|zi|lan|[dês]
+suazilandês	nome masculino	su|a|zi|lan|[dês]
+suazilandesa	nome feminino	su|a|zi|lan|[de]|sa
+sub-bailio	nome masculino	sub-bai|[li]|o
+sub-base	nome feminino	sub-ba|se
+sub-bibliotecário	nome masculino	sub-bi|bli|o|te|[cá]|ri|o
+sub-borato	nome masculino	sub-bo|[ra]|to
+sub-braquicéfalo	nome masculino	sub-bra|qui|[cé]|fa|lo
+sub-braquicéfalo	adjetivo	sub-bra|qui|[cé]|fa|lo
+sub-harmónico	adjetivo	sub-har|[mó]|ni|co
+sub-harmónico	nome masculino	sub-har|[mó]|ni|co
+sub-hepático	adjetivo	sub-he|[pá]|ti|co
+sub-hidroclorato	nome masculino	sub-hi|dro|clo|[ra]|to
+sub-hirsuto	adjetivo	sub-hir|[su]|to
+sub-híspido	adjetivo	sub-hís|pi|do
+sub-holding	nome feminino	sub-hol|ding
+sub-homem	nome masculino	sub-ho|mem
+sub-humano	adjetivo	sub-hu|[ma]|no
+sub-raça	nome feminino	sub-ra|ça
+sub-ramoso	adjetivo	sub-ra|[mo]|so
+sub-refeitoreiro	nome masculino	sub-re|fei|to|[rei]|ro
+sub-referendário	nome masculino	sub-re|fe|ren|[dá]|ri|o
+sub-região	nome feminino	sub-re|gi|[ão]
+sub-regional	adjetivo	sub-re|gi|o|[nal]
+sub-regular	adjetivo	sub-re|gu|[lar]
+sub-reino	nome masculino	sub-rei|no
+sub-rendimento	nome masculino	sub-ren|di|[men]|to
+sub-reniforme	adjetivo	sub-re|ni|[for]|me
+sub-repartição	nome feminino	sub-re|par|ti|[ção]
+sub-repção	nome feminino	sub-rep|[ção]
+sub-repticiamente	advérbio	sub-rep|ti|ci|a|[men]|te
+sub-reptício	adjetivo	sub-rep|[tí]|ci|o
+sub-rés-do-chão	nome masculino	[sub-rés-do-chão]
+sub-roda	nome feminino	sub-ro|da
+sub-rogação	nome feminino	sub-ro|ga|[ção]
+sub-rogado	adjetivo	sub-ro|[ga]|do
+sub-rogador	adjetivo	sub-ro|ga|[dor]
+sub-rogador	nome masculino	sub-ro|ga|[dor]
+sub-rogante	adjetivo	sub-ro|[gan]|te
+sub-rogar	verbo	sub-ro|[gar]
+sub-rogativo	adjetivo	sub-ro|ga|[ti]|vo
+sub-rogatória	nome feminino	sub-ro|ga|[tó]|ri|a
+sub-rogatório	adjetivo	sub-ro|ga|[tó]|ri|o
+sub-rogável	adjetivo	sub-ro|[gá]|vel
+sub-rostrado	adjetivo	sub-ros|[tra]|do
+sub-rotina	nome feminino	sub-ro|[ti]|na
+subabdominal	adjetivo	su|bab|do|mi|[nal]
+subabia	nome feminino	su|ba|[bi]|a
+subabo	nome masculino	su|[ba]|bo
+subaceção	nome feminino	su|ba|ce|[ção]
+subacepção	nome feminino	su|ba|cep|[ção]
+subacetato	nome masculino	su|ba|ce|[ta]|to
+subacicular	adjetivo	su|ba|ci|cu|[lar]
+subácido	adjetivo	su|[bá]|ci|do
+subadido	nome masculino	su|ba|[di]|do
+subadjacente	adjetivo	su|bad|ja|[cen]|te
+subaéreo	adjetivo	su|ba|[é]|re|o
+subafluente	nome masculino	su|ba|flu|[en]|te
+subagência	nome feminino	su|ba|[gên]|ci|a
+subagente	nome masculino	su|ba|[gen]|te
+subagente	nome feminino	su|ba|[gen]|te
+subagudo	adjetivo	su|ba|[gu]|do
+subalado	adjetivo	su|ba|[la]|do
+subalar	adjetivo	su|ba|[lar]
+subalcaide	nome masculino	su|bal|[cai]|de
+subalimentação	nome feminino	su|ba|li|men|ta|[ção]
+subalimentado	adjetivo	su|ba|li|men|[ta]|do
+subalimentado	nome masculino	su|ba|li|men|[ta]|do
+subalimentar	verbo	su|ba|li|men|[tar]
+subalpino	adjetivo	su|bal|[pi]|no
+subalternação	nome feminino	su|bal|ter|na|[ção]
+subalternamente	advérbio	su|bal|ter|na|[men]|te
+subalternar	verbo	su|bal|ter|[nar]
+subalternidade	nome feminino	su|bal|ter|ni|[da]|de
+subalternização	nome feminino	su|bal|ter|ni|za|[ção]
+subalternizador	adjetivo	su|bal|ter|ni|za|[dor]
+subalternizador	nome masculino	su|bal|ter|ni|za|[dor]
+subalternizante	adjetivo	su|bal|ter|ni|[zan]|te
+subalternizar	verbo	su|bal|ter|ni|[zar]
+subalternizável	adjetivo	su|bal|ter|ni|[zá]|vel
+subalterno	adjetivo	su|bal|[ter]|no
+subalterno	nome masculino	su|bal|[ter]|no
+subalugar	verbo	su|ba|lu|[gar]
+subalugável	adjetivo	su|ba|lu|[gá]|vel
+subaluguel	nome masculino	su|ba|lu|[guel]
+subaluguer	nome masculino	su|ba|lu|[guer]
+subambulacrário	adjetivo	su|bam|bu|la|[crá]|ri|o
+subandar	nome masculino	su|ban|[dar]
+subapical	adjetivo	su|ba|pi|[cal]
+subapicular	adjetivo	su|ba|pi|cu|[lar]
+subaproveitado	adjetivo	su|ba|pro|vei|[ta]|do
+subaproveitamento	nome masculino	su|ba|pro|vei|ta|[men]|to
+subaproveitar	verbo	su|ba|pro|vei|[tar]
+subáptero	adjetivo	su|[báp]|te|ro
+subaquático	adjetivo	su|ba|[quá]|ti|co
+subáqueo	adjetivo	su|[bá]|que|o
+subaracajá	nome masculino	su|ba|ra|ca|[já]

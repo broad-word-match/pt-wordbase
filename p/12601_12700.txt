@@ -1,0 +1,100 @@
+prelibador	nome masculino	pre|li|ba|[dor]
+prelibar	verbo	pre|li|[bar]
+preliminar	adjetivo	pre|li|mi|[nar]
+preliminar	nome masculino	pre|li|mi|[nar]
+preliminar	nome feminino	pre|li|mi|[nar]
+preliminarmente	advérbio	pre|li|mi|nar|[men]|te
+prelimitar	verbo	pre|li|mi|[tar]
+prélio	nome masculino	[pré]|li|o
+prelista	nome masculino	pre|[lis]|ta
+prelista	nome feminino	pre|[lis]|ta
+prelo	nome masculino	[pre]|lo
+prelucidação	nome feminino	pre|lu|ci|da|[ção]
+prelúcido	adjetivo	pre|[lú]|ci|do
+preludial	adjetivo	pre|lu|di|[al]
+preludiar	verbo	pre|lu|di|[ar]
+prelúdio	nome masculino	pre|[lú]|di|o
+preluzente	adjetivo	pre|lu|[zen]|te
+preluzir	verbo	pre|lu|[zir]
+prema	nome feminino	[pre]|ma
+premar	verbo	pre|[mar]
+prematuração	nome feminino	pre|ma|tu|ra|[ção]
+prematuramente	advérbio	pre|ma|tu|ra|[men]|te
+prematuridade	nome feminino	pre|ma|tu|ri|[da]|de
+prematuro	nome masculino	pre|ma|[tu]|ro
+prematuro	adjetivo	pre|ma|[tu]|ro
+premaxilar	nome masculino	pre|ma|xi|[lar]
+premedeira	nome feminino	pre|me|[dei]|ra
+premeditação	nome feminino	pre|me|di|ta|[ção]
+premeditadamente	advérbio	pre|me|di|ta|da|[men]|te
+premeditado	adjetivo	pre|me|di|[ta]|do
+premeditar	verbo	pre|me|di|[tar]
+premência	nome feminino	pre|[mên]|ci|a
+premente	adjetivo	pre|[men]|te
+premer	verbo	pre|[mer]
+premiação	nome feminino	pre|mi|a|[ção]
+premiadíssimo	adjetivo	pre|mi|a|[dís]|si|mo
+premiado	nome masculino	pre|mi|[a]|do
+premiado	adjetivo	pre|mi|[a]|do
+premiador	adjetivo	pre|mi|a|[dor]
+premiador	nome masculino	pre|mi|a|[dor]
+premiar	verbo	pre|mi|[ar]
+premiativo	adjetivo	pre|mi|a|[ti]|vo
+premiável	adjetivo	pre|mi|[á]|vel
+première	nome feminino	pre|miè|re
+preminente	adjetivo	pre|mi|[nen]|te
+prémio	nome masculino	[pré]|mi|o
+prêmio	nome masculino	[prê]|mi|o
+premir	verbo	pre|[mir]
+premissa	nome feminino	pre|[mis]|sa
+premoção	nome feminino	pre|mo|[ção]
+premonição	nome feminino	pre|mo|ni|[ção]
+premonitoriamente	advérbio	pre|mo|ni|to|ri|a|[men]|te
+premonitório	adjetivo	pre|mo|ni|[tó]|ri|o
+premonstratense	adjetivo	pre|mons|tra|[ten]|se
+premonstratense	nome masculino	pre|mons|tra|[ten]|se
+premorso	adjetivo	pre|[mor]|so
+premunição	nome feminino	pre|mu|ni|[ção]
+premunir	verbo	pre|mu|[nir]
+premunitivo	adjetivo	pre|mu|ni|[ti]|vo
+prenanto	nome masculino	pre|[nan]|to
+prenda	nome feminino	[pren]|da
+prendado	adjetivo	pren|[da]|do
+prendar	verbo	pren|[dar]
+prendedor	nome masculino	pren|de|[dor]
+prender	verbo	pren|[der]
+prendimento	nome masculino	pren|di|[men]|to
+prendível	adjetivo	pren|[dí]|vel
+prenestino	nome masculino	pre|nes|[ti]|no
+prenestino	adjetivo	pre|nes|[ti]|no
+prenhado	adjetivo	pre|[nha]|do
+prenhe	adjetivo	[pre]|nhe
+prenhez	nome feminino	pre|[nhez]
+prenhidão	nome feminino	pre|nhi|[dão]
+prenho	adjetivo	[pre]|nho
+prenoção	nome feminino	pre|no|[ção]
+prenome	nome masculino	pre|[no]|me
+prenomeação	nome feminino	pre|no|me|a|[ção]
+prenomear	verbo	pre|no|me|[ar]
+prenominal	adjetivo	pre|no|mi|[nal]
+prenominar	verbo	pre|no|mi|[nar]
+prenotante	adjetivo	pre|no|[tan]|te
+prenotar	verbo	pre|no|[tar]
+prensa	nome feminino	[pren]|sa
+prensada	nome feminino	pren|[sa]|da
+prensado	adjetivo	pren|[sa]|do
+prensador	adjetivo	pren|sa|[dor]
+prensador	nome masculino	pren|sa|[dor]
+prensagem	nome feminino	pren|[sa]|gem
+prensar	verbo	pren|[sar]
+prensista	nome masculino	pren|[sis]|ta
+prensista	nome feminino	pren|[sis]|ta
+prenunciação	nome feminino	pre|nun|ci|a|[ção]
+prenunciador	adjetivo	pre|nun|ci|a|[dor]
+prenunciador	nome masculino	pre|nun|ci|a|[dor]
+prenunciar	verbo	pre|nun|ci|[ar]
+prenunciativo	adjetivo	pre|nun|ci|a|[ti]|vo
+prenúncio	nome masculino	pre|[nún]|ci|o
+preocupação	nome feminino	pre|o|cu|pa|[ção]
+preocupado	adjetivo	pre|o|cu|[pa]|do
+preocupante	adjetivo	pre|o|cu|[pan]|te

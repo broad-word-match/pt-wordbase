@@ -1,0 +1,100 @@
+centro-europeu	adjetivo	cen|tro-eu|ro|[peu]
+centro-médio	nome masculino	cen|tro-mé|di|o
+centro-meridional	adjetivo	cen|tro-me|ri|di|o|[nal]
+centro-sul	nome masculino	cen|tro-sul
+centrocampista	nome masculino	cen|tro|cam|[pis]|ta
+centrocampista	nome feminino	cen|tro|cam|[pis]|ta
+centrocampista	adjetivo	cen|tro|cam|[pis]|ta
+centrocerco	nome masculino	cen|tro|[cer]|co
+centrodonte	adjetivo	cen|tro|[don]|te
+centrofilo	nome masculino	cen|tro|[fi]|lo
+centróforo	nome masculino	cen|[tró]|fo|ro
+centrogastro	nome masculino	cen|tro|[gas]|tro
+centrolecítico	adjetivo	cen|tro|le|[cí]|ti|co
+centrolécito	adjetivo	cen|tro|[lé]|ci|to
+centrolepidácea	nome feminino	cen|tro|le|pi|[dá]|ce|a
+centrolépide	nome feminino	cen|tro|[lé]|pi|de
+centrômero	nome masculino	cen|[trô]|me|ro
+centrómero	nome masculino	cen|[tró]|me|ro
+centropétala	nome feminino	cen|tro|[pé]|ta|la
+centrópode	nome masculino	cen|[tró]|po|de
+centroscopia	nome feminino	cen|tros|co|[pi]|a
+centroscópico	adjetivo	cen|tros|[có]|pi|co
+centrosfera	nome feminino	cen|tros|[fe]|ra
+centrossemo	nome masculino	cen|tros|[se]|mo
+centrossoma	nome masculino	cen|tros|[so]|ma
+centrossomo	nome masculino	cen|tros|[so]|mo
+centruro	nome masculino	cen|[tru]|ro
+centuncular	adjetivo	cen|tun|cu|[lar]
+centúnculo	nome masculino	cen|[tún]|cu|lo
+centunvirado	nome masculino	cen|tun|vi|[ra]|do
+centunviral	adjetivo	cen|tun|vi|[ral]
+centunvirato	nome masculino	cen|tun|vi|[ra]|to
+centúnviro	nome masculino	cen|[tún]|vi|ro
+centuplicadamente	advérbio	cen|tu|pli|ca|da|[men]|te
+centuplicado	adjetivo	cen|tu|pli|[ca]|do
+centuplicar	verbo	cen|tu|pli|[car]
+centúplice	adjetivo	cen|[tú]|pli|ce
+cêntuplo	número multiplicativo	[cên]|tu|plo
+cêntuplo	adjetivo	[cên]|tu|plo
+cêntuplo	nome masculino	[cên]|tu|plo
+centúria	nome feminino	cen|[tú]|ri|a
+centuriado	nome masculino	cen|tu|ri|[a]|do
+centurial	adjetivo	cen|tu|ri|[al]
+centurião	nome masculino	cen|tu|ri|[ão]
+centuriato	nome masculino	cen|tu|ri|[a]|to
+centúrio	nome masculino	cen|[tú]|ri|o
+centurionado	nome masculino	cen|tu|ri|o|[na]|do
+centurionato	nome masculino	cen|tu|ri|o|[na]|to
+centuriónico	adjetivo	cen|tu|ri|[ó]|ni|co
+centuriônico	adjetivo	cen|tu|ri|[ô]|ni|co
+centuripino	adjetivo	cen|tu|ri|[pi]|no
+centuripino	nome masculino	cen|tu|ri|[pi]|no
+cenuro	nome masculino	ce|[nu]|ro
+cenurose	nome feminino	ce|nu|[ro]|se
+ceoso	adjetivo	ce|[o]|so
+ceota	nome feminino	ce|[o]|ta
+ceotar	verbo	ce|o|[tar]
+ceote	nome masculino	ce|[o]|te
+cepa	nome feminino	[ce]|pa
+cepáceo	adjetivo	ce|[pá]|ce|o
+cepeira	nome feminino	ce|[pei]|ra
+cepilhadura	nome feminino	ce|pi|lha|[du]|ra
+cepilhar	verbo	ce|pi|[lhar]
+cepilho	nome masculino	ce|[pi]|lho
+cepirrão	nome masculino	ce|pir|[rão]
+cepisco	nome masculino	ce|[pis]|co
+cepo	nome masculino	[ce]|po
+cépola	nome feminino	[cé]|po|la
+cépsio	adjetivo	[cép]|si|o
+cépsio	nome masculino	[cép]|si|o
+céptica	nome feminino	[cép]|ti|ca
+cepticismo	nome masculino	cep|ti|[cis]|mo
+céptico	nome masculino	[cép]|ti|co
+céptico	adjetivo	[cép]|ti|co
+ceptrífero	adjetivo	cep|[trí]|fe|ro
+ceptrígero	adjetivo	cep|[trí]|ge|ro
+cepudo	adjetivo	ce|[pu]|do
+cequim	nome masculino	ce|[quim]
+cera	nome feminino	[ce]|ra
+ceracate	adjetivo	ce|ra|[ca]|te
+ceracate	nome masculino	ce|ra|[ca]|te
+ceracate	nome feminino	ce|ra|[ca]|te
+ceráceo	adjetivo	ce|[rá]|ce|o
+cerambícida	nome masculino	ce|ram|[bí]|ci|da
+cerambicídeo	nome masculino	ce|ram|bi|[cí]|de|o
+cerambicídeo	adjetivo	ce|ram|bi|[cí]|de|o
+cerame	nome masculino	ce|[ra]|me
+cerâmica	nome feminino	ce|[râ]|mi|ca
+cerâmico	adjetivo	ce|[râ]|mi|co
+cerâmico	nome masculino	ce|[râ]|mi|co
+cerâmio	nome masculino	ce|[râ]|mi|o
+ceramista	nome masculino	ce|ra|[mis]|ta
+ceramista	adjetivo	ce|ra|[mis]|ta
+ceramista	nome feminino	ce|ra|[mis]|ta
+céramo	nome masculino	[cé]|ra|mo
+ceramografia	nome feminino	ce|ra|mo|gra|[fi]|a
+ceramográfico	adjetivo	ce|ra|mo|[grá]|fi|co
+cerândria	nome feminino	ce|[rân]|dri|a
+cerangonha	nome feminino	ce|ran|[go]|nha
+cerar	verbo	ce|[rar]

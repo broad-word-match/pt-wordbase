@@ -1,0 +1,100 @@
+xeringosa	nome feminino	xe|rin|[go]|sa
+xeringueira	nome feminino	xe|rin|[guei]|ra
+xero	nome masculino	[xe]|ro
+xerocar	verbo	xe|ro|[car]
+xerocópia	nome feminino	xe|ro|[có]|pi|a
+xerocopiar	verbo	xe|ro|co|pi|[ar]
+xerodermia	nome feminino	xe|ro|der|[mi]|a
+xerodérmico	adjetivo	xe|ro|[dér]|mi|co
+xerófaga	nome feminino	xe|[ró]|fa|ga
+xerofagia	nome feminino	xe|ro|fa|[gi]|a
+xerófago	adjetivo	xe|[ró]|fa|go
+xerófago	nome masculino	xe|[ró]|fa|go
+xerofilia	nome feminino	xe|ro|fi|[li]|a
+xerofilina	nome feminino	xe|ro|fi|[li]|na
+xerofilismo	nome masculino	xe|ro|fi|[lis]|mo
+xerófilo	adjetivo	xe|[ró]|fi|lo
+xerofitia	nome feminino	xe|ro|fi|[ti]|a
+xerofítico	adjetivo	xe|ro|[fí]|ti|co
+xerofitismo	nome masculino	xe|ro|fi|[tis]|mo
+xerófito	adjetivo	xe|[ró]|fi|to
+xerófito	nome masculino	xe|[ró]|fi|to
+xerofórmio	nome masculino	xe|ro|[fór]|mi|o
+xeroftalmia	nome feminino	xe|rof|tal|[mi]|a
+xeroftálmico	adjetivo	xe|rof|[tál]|mi|co
+xerografia	nome feminino	xe|ro|gra|[fi]|a
+xerográfico	adjetivo	xe|ro|[grá]|fi|co
+xerolíbio	adjetivo	xe|ro|[lí]|bi|o
+xerolíbio	nome masculino	xe|ro|[lí]|bi|o
+xeroma	nome masculino	xe|[ro]|ma
+xeromórfico	adjetivo	xe|ro|[mór]|fi|co
+xeromorfo	adjetivo	xe|ro|[mor]|fo
+xerorradiografia	nome feminino	xe|ror|ra|di|o|gra|[fi]|a
+xerorradiográfico	adjetivo	xe|ror|ra|di|o|[grá]|fi|co
+xerose	nome feminino	xe|[ro]|se
+xerotermo	adjetivo	xe|ro|[ter]|mo
+xerotribia	nome feminino	xe|ro|tri|[bi]|a
+xerox	adjetivo	xe|[rox]
+xerox	nome masculino	xe|[rox]
+xerox	nome feminino	xe|[rox]
+xerume	nome masculino	xe|[ru]|me
+xerva	nome feminino	[xer]|va
+xeta	nome feminino	[xe]|ta
+xetá	interjeição	xe|[tá]
+xetá	nome masculino	xe|[tá]
+xetetê	adjetivo	xe|te|[tê]
+xetrar	verbo	xe|[trar]
+xéu	nome masculino	[xéu]
+xeura	nome feminino	[xeu]|ra
+xevá	adjetivo	xe|[vá]
+xevá	nome masculino	xe|[vá]
+xexé	adjetivo	xe|[xé]
+xexé	nome masculino	xe|[xé]
+xexé	nome feminino	xe|[xé]
+xexelento	adjetivo	xe|xe|[len]|to
+xexéu	nome masculino	xe|[xéu]
+xi	interjeição	[xi]
+xi-ronga	nome masculino	xi-ron|ga
+xiba	nome masculino	[xi]|ba
+xibalo	nome masculino	xi|[ba]|lo
+xibamba	nome masculino	xi|[bam]|ba
+xibebe	nome masculino	xi|[be]|be
+xibimba	nome masculino	xi|[bim]|ba
+xibimba	nome feminino	xi|[bim]|ba
+xibolete	nome masculino	xi|bo|[le]|te
+xibongo	nome masculino	xi|[bon]|go
+xiça	nome feminino	[xi]|ça
+xicá	nome masculino	xi|[cá]
+xicaca	nome feminino	xi|[ca]|ca
+xicandarinha	nome feminino	xi|can|da|[ri]|nha
+xícara	nome feminino	[xí]|ca|ra
+xicarada	nome feminino	xi|ca|[ra]|da
+xicarar	verbo	xi|ca|[rar]
+xichangana	nome masculino	xi|chan|[ga]|na
+xiçó	nome masculino	xi|[çó]
+xicombelo	nome masculino	xi|com|[be]|lo
+xiconhoca	adjetivo	xi|co|[nho]|ca
+xiconhoca	nome masculino	xi|co|[nho]|ca
+xiconhoca	nome feminino	xi|co|[nho]|ca
+xicriabá	adjetivo	xi|cri|a|[bá]
+xicriabá	nome masculino	xi|cri|a|[bá]
+xicriabá	nome feminino	xi|cri|a|[bá]
+xicuembo	nome masculino	xi|cu|[em]|bo
+xié	nome masculino	xi|[é]
+xifanacalo	nome masculino	xi|fa|na|[ca]|lo
+xífia	nome masculino	[xí]|fi|a
+xifíida	nome masculino	xi|[fí]|i|da
+xifiídeo	nome masculino	xi|fi|[í]|de|o
+xifiídeo	adjetivo	xi|fi|[í]|de|o
+xífio	nome masculino	[xí]|fi|o
+xifiplastrão	nome masculino	xi|fi|plas|[trão]
+xifirrinco	adjetivo	xi|fir|[rin]|co
+xifismo	nome masculino	xi|[fis]|mo
+xifisterno	nome masculino	xi|fis|[ter]|no
+xifódimo	nome masculino	xi|[fó]|di|mo
+xifodonte	nome masculino	xi|fo|[don]|te
+xifófilo	adjetivo	xi|[fó]|fi|lo
+xifoide	adjetivo	xi|[foi]|de
+xifóideo	adjetivo	xi|[fói]|de|o
+xifopagia	nome feminino	xi|fo|pa|[gi]|a
+xifópago	adjetivo	xi|[fó]|pa|go

@@ -1,0 +1,100 @@
+gastroenterologista	nome masculino	gas|tro|en|te|ro|lo|[gis]|ta
+gastroenterologista	nome feminino	gas|tro|en|te|ro|lo|[gis]|ta
+gastroenterostomia	nome feminino	gas|tro|en|te|ros|to|[mi]|a
+gastroepático	adjetivo	gas|tro|e|[pá]|ti|co
+gastroepatite	nome feminino	gas|tro|e|pa|[ti]|te
+gastroepiploico	adjetivo	gas|tro|e|pi|[ploi]|co
+gastrofaringite	nome feminino	gas|tro|fa|rin|[gi]|te
+gastrófilo	adjetivo	gas|[tró]|fi|lo
+gastrófilo	nome masculino	gas|[tró]|fi|lo
+gastróforo	adjetivo	gas|[tró]|fo|ro
+gastrointestinal	adjetivo	gas|tro|in|tes|ti|[nal]
+gastroisterotomia	nome feminino	gas|trois|te|ro|to|[mi]|a
+gastrolaringite	nome feminino	gas|tro|la|rin|[gi]|te
+gastrólatra	nome masculino	gas|[tró]|la|tra
+gastrólatra	nome feminino	gas|[tró]|la|tra
+gastrolatria	nome feminino	gas|tro|la|[tri]|a
+gastrolátrico	adjetivo	gas|tro|[lá]|tri|co
+gastrolitíase	nome feminino	gas|tro|li|[tí]|a|se
+gastróloga	nome feminino	gas|[tró]|lo|ga
+gastrologia	nome feminino	gas|tro|lo|[gi]|a
+gastrológico	adjetivo	gas|tro|[ló]|gi|co
+gastrólogo	nome masculino	gas|[tró]|lo|go
+gastromalacia	nome feminino	gas|tro|ma|la|[ci]|a
+gastromancia	nome feminino	gas|tro|man|[ci]|a
+gastromania	nome feminino	gas|tro|ma|[ni]|a
+gastromaníaco	nome masculino	gas|tro|ma|[ní]|a|co
+gastromaníaco	adjetivo	gas|tro|ma|[ní]|a|co
+gastromante	nome masculino	gas|tro|[man]|te
+gastromante	nome feminino	gas|tro|[man]|te
+gastromântico	adjetivo	gas|tro|[mân]|ti|co
+gastrômelo	nome masculino	gas|[trô]|me|lo
+gastrómelo	nome masculino	gas|[tró]|me|lo
+gastromeningite	nome feminino	gas|tro|me|nin|[gi]|te
+gastrometrite	nome feminino	gas|tro|me|[tri]|te
+gastromicete	nome masculino	gas|tro|mi|[ce]|te
+gastronecto	adjetivo	gas|tro|[nec]|to
+gastronecto	nome masculino	gas|tro|[nec]|to
+gastronefrite	nome feminino	gas|tro|ne|[fri]|te
+gastrónoma	nome feminino	gas|[tró]|no|ma
+gastronomia	nome feminino	gas|tro|no|[mi]|a
+gastronómico	adjetivo	gas|tro|[nó]|mi|co
+gastronômico	adjetivo	gas|tro|[nô]|mi|co
+gastrônomo	nome masculino	gas|[trô]|no|mo
+gastrónomo	nome masculino	gas|[tró]|no|mo
+gastropata	nome masculino	gas|tro|[pa]|ta
+gastropata	nome feminino	gas|tro|[pa]|ta
+gastropatia	nome feminino	gas|tro|pa|[ti]|a
+gastropático	adjetivo	gas|tro|[pá]|ti|co
+gastropéctico	adjetivo	gas|tro|[péc]|ti|co
+gastroperitonite	nome feminino	gas|tro|pe|ri|to|[ni]|te
+gastropético	adjetivo	gas|tro|[pé]|ti|co
+gastropexia	nome feminino	gas|tro|pe|[xi]|a
+gastropilórico	adjetivo	gas|tro|pi|[ló]|ri|co
+gastroplastia	nome feminino	gas|tro|plas|[ti]|a
+gastroplástico	adjetivo	gas|tro|[plás]|ti|co
+gastroplegia	nome feminino	gas|tro|ple|[gi]|a
+gastroplégico	adjetivo	gas|tro|[plé]|gi|co
+gastrópode	adjetivo	gas|[tró]|po|de
+gastrópode	nome masculino	gas|[tró]|po|de
+gastroptose	nome feminino	gas|trop|[to]|se
+gastrorrafia	nome feminino	gas|tror|ra|[fi]|a
+gastrorráfico	adjetivo	gas|tror|[rá]|fi|co
+gastrorragia	nome feminino	gas|tror|ra|[gi]|a
+gastrorrágico	adjetivo	gas|tror|[rá]|gi|co
+gastrorreia	nome feminino	gas|tror|[rei]|a
+gastrorreico	adjetivo	gas|tror|[rei]|co
+gastroscopia	nome feminino	gas|tros|co|[pi]|a
+gastroscópico	adjetivo	gas|tros|[có]|pi|co
+gastroscópio	nome masculino	gas|tros|[có]|pi|o
+gastrose	nome feminino	gas|[tro]|se
+gastrospasmo	nome masculino	gas|tros|[pas]|mo
+gastrosplénico	adjetivo	gas|tros|[plé]|ni|co
+gastrosplênico	adjetivo	gas|tros|[plê]|ni|co
+gastrostenose	nome feminino	gas|tros|te|[no]|se
+gastrostomia	nome feminino	gas|tros|to|[mi]|a
+gastrostómico	adjetivo	gas|tros|[tó]|mi|co
+gastrostômico	adjetivo	gas|tros|[tô]|mi|co
+gastrotomia	nome feminino	gas|tro|to|[mi]|a
+gastrotômico	adjetivo	gas|tro|[tô]|mi|co
+gastrotómico	adjetivo	gas|tro|[tó]|mi|co
+gastrótomo	nome masculino	gas|[tró]|to|mo
+gastrotríqueo	nome masculino	gas|tro|[trí]|que|o
+gastrovascular	adjetivo	gas|tro|vas|cu|[lar]
+gastroxia	nome feminino	gas|tro|[xi]|a
+gastrozoário	nome masculino	gas|tro|zo|[á]|ri|o
+gastrozoide	nome masculino	gas|tro|[zoi]|de
+gástrula	nome feminino	[gás]|tru|la
+gastrulação	nome feminino	gas|tru|la|[ção]
+gastura	nome feminino	gas|[tu]|ra
+gata	nome feminino	[ga]|ta
+gata-borralheira	nome feminino	ga|ta-bor|ra|[lhei]|ra
+gata-brava	nome feminino	ga|ta-bra|va
+gata-maltesa	nome feminino	ga|ta-mal|[te]|sa
+gata-montesa	nome feminino	ga|ta-mon|[te]|sa
+gata-preta	nome feminino	ga|ta-pre|ta
+gatafunhar	verbo	ga|ta|fu|[nhar]
+gatafunho	nome masculino	ga|ta|[fu]|nho
+gatal	adjetivo	ga|[tal]
+gatalhão	nome masculino	ga|ta|[lhão]
+gatanhada	nome feminino	ga|ta|[nha]|da

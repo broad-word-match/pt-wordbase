@@ -1,0 +1,100 @@
+truticultura	nome feminino	tru|ti|cul|[tu]|ra
+trutífero	adjetivo	tru|[tí]|fe|ro
+trutina	nome feminino	tru|[ti]|na
+trutinar	verbo	tru|ti|[nar]
+trutungo	adjetivo	tru|[tun]|go
+trutungo	nome masculino	tru|[tun]|go
+truz	interjeição	[truz]
+truz	nome masculino	[truz]
+truz-truz	interjeição	[truz-truz]
+truz-truz	nome masculino	[truz-truz]
+tsé-tsé	nome feminino	[tsé-tsé]
+tsonga	nome masculino	[tson]|ga
+tsonga	adjetivo	[tson]|ga
+tsonga	nome feminino	[tson]|ga
+tsunami	nome masculino	tsu|na|[mi]
+tu	pronome pessoal	[tu]
+tua	nome feminino	[tu]|a
+tuaca	nome feminino	tu|[a]|ca
+tuadeiro	adjetivo	tu|a|[dei]|ro
+tuaiá	nome masculino	tu|ai|[á]
+tuaiuçu	nome masculino	tu|ai|u|[çu]
+tuapoca	nome feminino	tu|a|[po]|ca
+tuaqueira	nome feminino	tu|a|[quei]|ra
+tuaregue	nome masculino	tu|a|[re]|gue
+tuaregue	adjetivo	tu|a|[re]|gue
+tuaregue	nome feminino	tu|a|[re]|gue
+tuba	nome feminino	[tu]|ba
+tubabo	nome masculino	tu|[ba]|bo
+tubaca	nome feminino	tu|[ba]|ca
+tubáceo	adjetivo	tu|[bá]|ce|o
+tubagem	nome feminino	tu|[ba]|gem
+tubança	nome feminino	tu|[ban]|ça
+tubante	adjetivo	tu|[ban]|te
+tubante	nome masculino	tu|[ban]|te
+tubante	nome feminino	tu|[ban]|te
+tubar	verbo	tu|[bar]
+tubar	adjetivo	tu|[bar]
+túbara	nome feminino	[tú]|ba|ra
+túbara	adjetivo	[tú]|ba|ra
+tubarana	nome feminino	tu|ba|[ra]|na
+tubarão	nome masculino	tu|ba|[rão]
+tubário	adjetivo	tu|[bá]|ri|o
+tubeira	nome feminino	tu|[bei]|ra
+tubel	nome masculino	tu|[bel]
+túbera	nome feminino	[tú]|be|ra
+tuberácea	nome feminino	tu|be|[rá]|ce|a
+tuberáceo	adjetivo	tu|be|[rá]|ce|o
+tuberculado	adjetivo	tu|ber|cu|[la]|do
+tubercular	adjetivo	tu|ber|cu|[lar]
+tuberculária	nome feminino	tu|ber|cu|[lá]|ri|a
+tuberculemia	nome feminino	tu|ber|cu|le|[mi]|a
+tuberculémico	adjetivo	tu|ber|cu|[lé]|mi|co
+tuberculêmico	adjetivo	tu|ber|cu|[lê]|mi|co
+tubercúlide	nome feminino	tu|ber|[cú]|li|de
+tuberculífero	adjetivo	tu|ber|cu|[lí]|fe|ro
+tuberculiforme	adjetivo	tu|ber|cu|li|[for]|me
+tuberculina	nome feminino	tu|ber|cu|[li]|na
+tuberculinização	nome feminino	tu|ber|cu|li|ni|za|[ção]
+tuberculinizar	verbo	tu|ber|cu|li|ni|[zar]
+tuberculização	nome feminino	tu|ber|cu|li|za|[ção]
+tuberculizar	verbo	tu|ber|cu|li|[zar]
+tuberculizável	adjetivo	tu|ber|cu|li|[zá]|vel
+tubérculo	nome masculino	tu|[bér]|cu|lo
+tuberculoide	adjetivo	tu|ber|cu|[loi]|de
+tuberculoma	nome masculino	tu|ber|cu|[lo]|ma
+tuberculosa	nome feminino	tu|ber|cu|[lo]|sa
+tuberculose	nome feminino	tu|ber|cu|[lo]|se
+tuberculosidade	nome feminino	tu|ber|cu|lo|si|[da]|de
+tuberculoso	adjetivo	tu|ber|cu|[lo]|so
+tuberculoso	nome masculino	tu|ber|cu|[lo]|so
+tuberela	nome feminino	tu|be|[re]|la
+tuberiforme	adjetivo	tu|be|ri|[for]|me
+tuberívoro	adjetivo	tu|be|[rí]|vo|ro
+tuberoide	adjetivo	tu|be|[roi]|de
+tuberosa	nome feminino	tu|be|[ro]|sa
+tuberosidade	nome feminino	tu|be|ro|si|[da]|de
+tuberositário	adjetivo	tu|be|ro|si|[tá]|ri|o
+tuberoso	adjetivo	tu|be|[ro]|so
+tubi	nome masculino	tu|[bi]
+tubiba	nome feminino	tu|[bi]|ba
+tubícola	adjetivo	tu|[bí]|co|la
+tubícola	nome masculino	tu|[bí]|co|la
+tubicolado	adjetivo	tu|bi|co|[la]|do
+tubicolário	adjetivo	tu|bi|co|[lá]|ri|o
+tubicórneo	nome masculino	tu|bi|[cór]|ne|o
+tubífero	adjetivo	tu|[bí]|fe|ro
+tubiflora	nome feminino	tu|bi|[flo]|ra
+tubifloro	adjetivo	tu|bi|[flo]|ro
+tubiforme	adjetivo	tu|bi|[for]|me
+tubinar	nome feminino	tu|bi|[na]|r
+tubípora	nome feminino	tu|[bí]|po|ra
+tubíporas	nome masculino	tu|[bí]|po|ras
+tubista	nome masculino	tu|[bis]|ta
+tubista	nome feminino	tu|[bis]|ta
+tubitelo	nome masculino	tu|bi|[te]|lo
+tubixaba	nome masculino	tu|bi|[xa]|ba
+tublinate	adjetivo	tu|bli|[na]|te
+tublinate	nome masculino	tu|bli|[na]|te
+tublinate	nome feminino	tu|bli|[na]|te
+tubo	nome masculino	[tu]|bo

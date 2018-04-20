@@ -1,0 +1,100 @@
+espadeira	nome feminino	es|pa|[dei]|ra
+espadeirada	nome feminino	es|pa|dei|[ra]|da
+espadeirão	nome masculino	es|pa|dei|[rão]
+espadeirar	verbo	es|pa|dei|[rar]
+espadeiro	nome masculino	es|pa|[dei]|ro
+espadela	nome feminino	es|pa|[de]|la
+espadelada	nome feminino	es|pa|de|[la]|da
+espadeladeira	nome feminino	es|pa|de|la|[dei]|ra
+espadeladoiro	nome masculino	es|pa|de|la|[doi]|ro
+espadelador	nome masculino	es|pa|de|la|[dor]
+espadeladouro	nome masculino	es|pa|de|la|[dou]|ro
+espadelagem	nome feminino	es|pa|de|[la]|gem
+espadelar	verbo	es|pa|de|[lar]
+espadeleiro	nome masculino	es|pa|de|[lei]|ro
+espadeta	nome feminino	es|pa|[de]|ta
+espadice	nome masculino	es|pa|[di]|ce
+espadíceo	adjetivo	es|pa|[dí]|ce|o
+espadicifloro	adjetivo	es|pa|di|ci|[flo]|ro
+espadilha	nome feminino	es|pa|[di]|lha
+espadilha	nome masculino	es|pa|[di]|lha
+espadilheiro	nome masculino	es|pa|di|[lhei]|ro
+espadim	nome masculino	es|pa|[dim]
+espadinha	nome feminino	es|pa|[di]|nha
+espadista	nome masculino	es|pa|[dis]|ta
+espadista	nome feminino	es|pa|[dis]|ta
+espádua	nome feminino	es|[pá]|du|a
+espaduar	verbo	es|pa|du|[ar]
+espagíria	nome feminino	es|pa|[gí]|ri|a
+espagírica	nome feminino	es|pa|[gí]|ri|ca
+espagírico	adjetivo	es|pa|[gí]|ri|co
+espagirismo	nome masculino	es|pa|gi|[ris]|mo
+espagirista	nome masculino	es|pa|gi|[ris]|ta
+espagirista	nome feminino	es|pa|gi|[ris]|ta
+espaguete	nome masculino	es|pa|[gue]|te
+espairecer	verbo	es|pai|re|[cer]
+espairecimento	nome masculino	es|pai|re|ci|[men]|to
+espajegar	verbo	es|pa|je|[gar]
+espalda	nome feminino	es|[pal]|da
+espaldão	nome masculino	es|pal|[dão]
+espaldar	nome masculino	es|pal|[dar]
+espaldear	verbo	es|pal|de|[ar]
+espaldeira	nome feminino	es|pal|[dei]|ra
+espaldeirada	nome feminino	es|pal|dei|[ra]|da
+espaldeirar	verbo	es|pal|dei|[rar]
+espaldeta	nome feminino	es|pal|[de]|ta
+espaldete	nome masculino	es|pal|[de]|te
+espalha	nome masculino	es|[pa]|lha
+espalha-brasas	nome masculino	es|pa|lha-bra|sas
+espalha-brasas	nome feminino	es|pa|lha-bra|sas
+espalhada	nome feminino	es|pa|[lha]|da
+espalhadeira	nome feminino	es|pa|lha|[dei]|ra
+espalhado	nome masculino	es|pa|[lha]|do
+espalhado	adjetivo	es|pa|[lha]|do
+espalhadoira	nome feminino	es|pa|lha|[doi]|ra
+espalhador	adjetivo	es|pa|lha|[dor]
+espalhador	nome masculino	es|pa|lha|[dor]
+espalhadora	nome feminino	es|pa|lha|[do]|ra
+espalhadoura	nome feminino	es|pa|lha|[dou]|ra
+espalhafatão	adjetivo	es|pa|lha|fa|[tão]
+espalhafatar	verbo	es|pa|lha|fa|[tar]
+espalhafato	nome masculino	es|pa|lha|[fa]|to
+espalhafatosamente	advérbio	es|pa|lha|fa|to|sa|[men]|te
+espalhafatoso	adjetivo	es|pa|lha|fa|[to]|so
+espalhagação	nome feminino	es|pa|lha|ga|[ção]
+espalhagar	verbo	es|pa|lha|[gar]
+espalhamento	nome masculino	es|pa|lha|[men]|to
+espalhanço	nome masculino	es|pa|[lhan]|ço
+espalhar	verbo	es|pa|[lhar]
+espalhável	adjetivo	es|pa|[lhá]|vel
+espalho	nome masculino	es|[pa]|lho
+espalmadamente	advérbio	es|pal|ma|da|[men]|te
+espalmadeiro	nome masculino	es|pal|ma|[dei]|ro
+espalmado	adjetivo	es|pal|[ma]|do
+espalmador	adjetivo	es|pal|ma|[dor]
+espalmador	nome masculino	es|pal|ma|[dor]
+espalmar	verbo	es|pal|[mar]
+espalto	nome masculino	es|[pal]|to
+espampanante	adjetivo	es|pam|pa|[nan]|te
+espampanar	verbo	es|pam|pa|[nar]
+espamparar	verbo	es|pam|pa|[rar]
+espanação	nome feminino	es|pa|na|[ção]
+espanadela	nome feminino	es|pa|na|[de]|la
+espanado	adjetivo	es|pa|[na]|do
+espanador	nome masculino	es|pa|na|[dor]
+espanar	verbo	es|pa|[nar]
+espanascar	verbo	es|pa|nas|[car]
+espanca-diabos	nome masculino	es|pan|ca-di|[a]|bos
+espanca-numes	nome masculino	es|pan|ca-nu|mes
+espancado	adjetivo	es|pan|[ca]|do
+espancador	adjetivo	es|pan|ca|[dor]
+espancador	nome masculino	es|pan|ca|[dor]
+espancamento	nome masculino	es|pan|ca|[men]|to
+espancar	verbo	es|pan|[car]
+espandongado	adjetivo	es|pan|don|[ga]|do
+espandongamento	nome masculino	es|pan|don|ga|[men]|to
+espandongar	verbo	es|pan|don|[gar]
+espanéfico	adjetivo	es|pa|[né]|fi|co
+espanejador	adjetivo	es|pa|ne|ja|[dor]
+espanejador	nome masculino	es|pa|ne|ja|[dor]
+espanejamento	nome masculino	es|pa|ne|ja|[men]|to

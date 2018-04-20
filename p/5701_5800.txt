@@ -1,0 +1,100 @@
+perfilhamento	nome masculino	per|fi|lha|[men]|to
+perfilhante	nome masculino	per|fi|[lhan]|te
+perfilhante	nome feminino	per|fi|[lhan]|te
+perfilhar	verbo	per|fi|[lhar]
+perfilhável	adjetivo	per|fi|[lhá]|vel
+perfinca	nome feminino	per|[fin]|ca
+perfloração	nome feminino	per|flo|ra|[ção]
+perfolhada	nome feminino	per|fo|[lha]|da
+perfolhado	adjetivo	per|fo|[lha]|do
+perfolheação	nome feminino	per|fo|lhe|a|[ção]
+perfoliação	nome feminino	per|fo|li|a|[ção]
+performance	nome feminino	per|for|man|ce
+performativo	adjetivo	per|for|ma|[ti]|vo
+performer	nome masculino	per|for|mer
+perfrigeração	nome feminino	per|fri|ge|ra|[ção]
+perfulgência	nome feminino	per|ful|[gên]|ci|a
+perfulgente	adjetivo	per|ful|[gen]|te
+perfumado	adjetivo	per|fu|[ma]|do
+perfumador	nome masculino	per|fu|ma|[dor]
+perfumador	adjetivo	per|fu|ma|[dor]
+perfumadura	nome feminino	per|fu|ma|[du]|ra
+perfumante	adjetivo	per|fu|[man]|te
+perfumar	verbo	per|fu|[mar]
+perfumaria	nome feminino	per|fu|ma|[ri]|a
+perfumável	adjetivo	per|fu|[má]|vel
+perfume	nome masculino	per|[fu]|me
+perfumismo	nome masculino	per|fu|[mis]|mo
+perfumista	nome masculino	per|fu|[mis]|ta
+perfumista	nome feminino	per|fu|[mis]|ta
+perfumoso	adjetivo	per|fu|[mo]|so
+perfunctoriamente	advérbio	per|func|to|ri|a|[men]|te
+perfunctório	adjetivo	per|func|[tó]|ri|o
+perfuntoriamente	advérbio	per|fun|to|ri|a|[men]|te
+perfuntório	adjetivo	per|fun|[tó]|ri|o
+perfuração	nome feminino	per|fu|ra|[ção]
+perfurado	adjetivo	per|fu|[ra]|do
+perfurador	adjetivo	per|fu|ra|[dor]
+perfurador	nome masculino	per|fu|ra|[dor]
+perfuradora	nome feminino	per|fu|ra|[do]|ra
+perfurante	adjetivo	per|fu|[ran]|te
+perfurar	verbo	per|fu|[rar]
+perfurativo	adjetivo	per|fu|ra|[ti]|vo
+perfuratriz	nome feminino	per|fu|ra|[triz]
+perfurável	adjetivo	per|fu|[rá]|vel
+perfusão	nome feminino	per|fu|[são]
+perfuso	adjetivo	per|[fu]|so
+pergameno	nome masculino	per|ga|[me]|no
+pergameno	adjetivo	per|ga|[me]|no
+pergamináceo	adjetivo	per|ga|mi|[ná]|ce|o
+pergaminháceo	adjetivo	per|ga|mi|[nhá]|ce|o
+pergaminhado	adjetivo	per|ga|mi|[nha]|do
+pergaminharia	nome feminino	per|ga|mi|nha|[ri]|a
+pergaminheiro	nome masculino	per|ga|mi|[nhei]|ro
+pergaminho	nome masculino	per|ga|[mi]|nho
+pergaminhoso	adjetivo	per|ga|mi|[nho]|so
+pergamoide	nome masculino	per|ga|[moi]|de
+pergelícola	adjetivo	per|ge|[lí]|co|la
+pergense	adjetivo	per|[gen]|se
+pergense	nome masculino	per|[gen]|se
+pergense	nome feminino	per|[gen]|se
+pergeu	nome masculino	per|[geu]
+pergeu	adjetivo	per|[geu]
+pérgula	nome feminino	[pér]|gu|la
+pergulária	nome feminino	per|gu|[lá]|ri|a
+pergunta	nome feminino	per|[gun]|ta
+perguntador	adjetivo	per|gun|ta|[dor]
+perguntador	nome masculino	per|gun|ta|[dor]
+perguntadora	nome feminino	per|gun|ta|[do]|ra
+perguntante	adjetivo	per|gun|[tan]|te
+perguntante	nome masculino	per|gun|[tan]|te
+perguntante	nome feminino	per|gun|[tan]|te
+perguntão	nome masculino	per|gun|[tão]
+perguntar	verbo	per|gun|[tar]
+perguntável	adjetivo	per|gun|[tá]|vel
+peri	nome masculino	pe|[ri]
+periaca	nome feminino	pe|ri|[a]|ca
+periacto	nome masculino	pe|ri|[ac]|to
+periadenite	nome feminino	pe|ri|a|de|[ni]|te
+periambo	nome masculino	pe|ri|[am]|bo
+perianal	adjetivo	pe|ri|a|[nal]
+periândrico	adjetivo	pe|ri|[ân]|dri|co
+periandro	nome masculino	pe|ri|[an]|dro
+periantã	nome masculino	pe|ri|an|[tã]
+periantado	adjetivo	pe|ri|an|[ta]|do
+periânteo	adjetivo	pe|ri|[ân]|te|o
+periântio	nome masculino	pe|ri|[ân]|ti|o
+perianto	nome masculino	pe|ri|[an]|to
+periapendicite	nome feminino	pe|ri|a|pen|di|[ci]|te
+periapto	nome masculino	pe|ri|[ap]|to
+periartério	nome masculino	pe|ri|ar|[té]|ri|o
+periarterite	nome feminino	pe|ri|ar|te|[ri]|te
+periartrite	nome feminino	pe|ri|ar|[tri]|te
+periati	adjetivo	pe|ri|a|[ti]
+periati	nome masculino	pe|ri|a|[ti]
+periati	nome feminino	pe|ri|a|[ti]
+peribárides	nome feminino	pe|ri|[bá]|ri|des
+periblástio	nome masculino	pe|ri|[blás]|ti|o
+periblasto	nome masculino	pe|ri|[blas]|to
+periblema	nome masculino	pe|ri|[ble]|ma
+periblepsia	nome feminino	pe|ri|blep|[si]|a

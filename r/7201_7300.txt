@@ -1,0 +1,100 @@
+rizógrafo	nome masculino	ri|[zó]|gra|fo
+rizoide	nome masculino	ri|[zoi]|de
+rizólito	nome masculino	ri|[zó]|li|to
+rizologia	nome feminino	ri|zo|lo|[gi]|a
+rizológico	adjetivo	ri|zo|[ló]|gi|co
+rizólogo	nome masculino	ri|[zó]|lo|go
+rizoma	nome masculino	ri|[zo]|ma
+rizomático	adjetivo	ri|zo|[má]|ti|co
+rizomatose	nome feminino	ri|zo|ma|[to]|se
+rizomatoso	adjetivo	ri|zo|ma|[to]|so
+rizomério	nome masculino	ri|zo|[mé]|ri|o
+rizomorfo	adjetivo	ri|zo|[mor]|fo
+rizonita	adjetivo	ri|zo|[ni]|ta
+rizonita	nome masculino	ri|zo|[ni]|ta
+rizonita	nome feminino	ri|zo|[ni]|ta
+rizópode	nome masculino	ri|[zó]|po|de
+rizópode	adjetivo	ri|[zó]|po|de
+rizopogão	nome masculino	ri|zo|po|[gão]
+rizos	nome masculino	[ri]|zos
+rizosfera	nome feminino	ri|zos|[fe]|ra
+rizospermo	adjetivo	ri|zos|[per]|mo
+rizostómida	nome masculino	ri|zos|[tó]|mi|da
+rizostomídeo	nome masculino	ri|zos|to|[mí]|de|o
+rizostomídeo	adjetivo	ri|zos|to|[mí]|de|o
+rizóstomo	adjetivo	ri|[zós]|to|mo
+rizóstomo	nome masculino	ri|[zós]|to|mo
+rizotáctico	adjetivo	ri|zo|[tác]|ti|co
+rizotático	adjetivo	ri|zo|[tá]|ti|co
+rizotaxia	nome feminino	ri|zo|ta|[xi]|a
+rizotomia	nome feminino	ri|zo|to|[mi]|a
+rizotómico	adjetivo	ri|zo|[tó]|mi|co
+rizotômico	adjetivo	ri|zo|[tô]|mi|co
+rizótomo	nome masculino	ri|[zó]|to|mo
+rizotónico	adjetivo	ri|zo|[tó]|ni|co
+rizotônico	adjetivo	ri|zo|[tô]|ni|co
+rízula	nome feminino	[rí]|zu|la
+ró	nome masculino	[ró]
+rô	nome masculino	[rô]
+ró-ró	nome masculino	[ró-ró]
+roadie	nome masculino	ro|a|[di]|e
+roadshow	nome masculino	road|show
+roadster	nome masculino	road|ster
+roal	nome masculino	ro|[al]
+roaming	nome masculino	[roa]|ming
+roaz	adjetivo	ro|[az]
+roaz	nome masculino	ro|[az]
+robaleira	nome feminino	ro|ba|[lei]|ra
+robalete	nome masculino	ro|ba|[le]|te
+robaliço	nome masculino	ro|ba|[li]|ço
+robalinho	nome masculino	ro|ba|[li]|nho
+robalo	nome masculino	ro|[ba]|lo
+robaz	nome masculino	ro|[baz]
+robe	nome masculino	[ro]|be
+róber	nome masculino	[ró]|ber
+robércia	nome feminino	ro|[bér]|ci|a
+roberto	adjetivo	ro|[ber]|to
+roberto	nome masculino	ro|[ber]|to
+robertos	nome masculino	ro|[ber]|tos
+roberval	nome feminino	ro|ber|[val]
+robissão	nome masculino	ro|bis|[são]
+roble	nome masculino	[ro]|ble
+robledo	nome masculino	ro|[ble]|do
+robô	nome masculino	ro|[bô]
+robora	nome feminino	ro|[bo]|ra
+roboração	nome feminino	ro|bo|ra|[ção]
+roborante	adjetivo	ro|bo|[ran]|te
+roborar	verbo	ro|bo|[rar]
+roborativo	adjetivo	ro|bo|ra|[ti]|vo
+roboredo	nome masculino	ro|bo|[re]|do
+robóreo	adjetivo	ro|[bó]|re|o
+roborite	nome feminino	ro|bo|[ri]|te
+roborizar	verbo	ro|bo|ri|[zar]
+robot	nome masculino	ro|bot
+robótica	nome feminino	ro|[bó]|ti|ca
+robótico	adjetivo	ro|[bó]|ti|co
+robotização	nome feminino	ro|bo|ti|za|[ção]
+robotizado	adjetivo	ro|bo|ti|[za]|do
+robotizar	verbo	ro|bo|ti|[zar]
+róbur	nome masculino	[ró]|bur
+robustamente	advérbio	ro|bus|ta|[men]|te
+robustecedor	adjetivo	ro|bus|te|ce|[dor]
+robustecedor	nome masculino	ro|bus|te|ce|[dor]
+robustecer	verbo	ro|bus|te|[cer]
+robustecido	adjetivo	ro|bus|te|[ci]|do
+robustecimento	nome masculino	ro|bus|te|ci|[men]|to
+robustez	nome feminino	ro|bus|[tez]
+robusteza	nome feminino	ro|bus|[te]|za
+robustidão	nome feminino	ro|bus|ti|[dão]
+robusto	adjetivo	ro|[bus]|to
+roca	nome feminino	[ro]|ca
+roça	nome feminino	[ro]|ça
+rocada	nome feminino	ro|[ca]|da
+roçada	nome feminino	ro|[ça]|da
+roçadeira	nome feminino	ro|ça|[dei]|ra
+roçadeiro	adjetivo	ro|ça|[dei]|ro
+roçadela	nome feminino	ro|ça|[de]|la
+rocado	nome masculino	ro|[ca]|do
+rocado	adjetivo	ro|[ca]|do
+roçado	nome masculino	ro|[ça]|do
+roçado	adjetivo	ro|[ça]|do

@@ -1,0 +1,100 @@
+rugir	nome masculino	ru|[gir]
+rugir	verbo	ru|[gir]
+rugitar	verbo	ru|gi|[tar]
+rugosa	nome feminino	ru|[go]|sa
+rugosidade	nome feminino	ru|go|si|[da]|de
+rugoso	nome masculino	ru|[go]|so
+rugoso	adjetivo	ru|[go]|so
+ruh	interjeição	[ruh]
+rui	adjetivo	rui
+rui-barbosense	nome masculino	rui-bar|bor|[sen]|se
+rui-barbosense	adjetivo	rui-bar|bo|[sen]|se
+rui-barbosense	nome feminino	rui-bar|bo|[sen]|se
+rui-barbosiano	adjetivo	rui-bar|bo|si|[a]|no
+ruibarbo	nome masculino	rui|[bar]|bo
+ruibarbo-dos-pobres	nome masculino	rui|bar|bo-dos-po|bres
+ruidar	verbo	rui|[dar]
+ruído	nome masculino	ru|[í]|do
+ruidosamente	advérbio	rui|do|sa|[men]|te
+ruidoso	adjetivo	rui|[do]|so
+ruim	adjetivo	ru|[im]
+ruim	nome masculino	ru|[im]
+ruimente	advérbio	ru|i|[men]|te
+ruimmente	advérbio	ru|im|[men]|te
+ruína	nome feminino	ru|[í]|na
+ruinação	nome feminino	rui|na|[ção]
+ruinar	verbo	rui|[nar]
+ruinaria	nome feminino	ru|i|na|[ri]|a
+ruindade	nome feminino	ru|in|[da]|de
+ruiniforme	adjetivo	ru|i|ni|[for]|me
+ruinosamente	advérbio	ru|i|no|sa|[men]|te
+ruinoso	adjetivo	ru|i|[no]|so
+ruinzeira	nome feminino	ru|in|[zei]|ra
+ruir	verbo	ru|[ir]
+ruiva	nome feminino	[rui]|va
+ruiva-brava	nome feminino	rui|va-bra|va
+ruiva-dos-tintureiros	nome feminino	rui|va-dos-tin|tu|[rei]|ros
+ruivaca	nome feminino	rui|[va]|ca
+ruivaça	nome feminino	rui|[va]|ça
+ruivacento	adjetivo	rui|va|[cen]|to
+ruivaco	nome masculino	rui|[va]|co
+ruivaço	nome masculino	rui|[va]|ço
+ruivaço	adjetivo	rui|[va]|ço
+ruivasco	adjetivo	rui|[vas]|co
+ruividão	nome feminino	rui|vi|[dão]
+ruivinha	nome feminino	rui|[vi]|nha
+ruivo	adjetivo	[rui]|vo
+ruivo	nome masculino	[rui]|vo
+ruízia	nome feminino	ru|[í]|zi|a
+rulamala	nome feminino	ru|la|[ma]|la
+rulíngia	nome feminino	ru|[lín]|gi|a
+rulo	nome masculino	[ru]|lo
+rulote	nome feminino	ru|[lo]|te
+rum	nome masculino	[rum]
+ruma	nome feminino	[ru]|ma
+ruma	interjeição	[ru]|ma
+rumar	verbo	ru|[mar]
+rumba	nome feminino	[rum]|ba
+rumbear	verbo	rum|be|[ar]
+rumbor	nome masculino	rum|[bor]
+rume	nome masculino	[ru]|me
+rume	nome feminino	[ru]|me
+rume	adjetivo	[ru]|me
+rúmen	nome masculino	[rú]|men
+rumiar	verbo	ru|mi|[ar]
+rumina	nome feminino	ru|[mi]|na
+ruminação	nome feminino	ru|mi|na|[ção]
+ruminado	adjetivo	ru|mi|[na]|do
+ruminadoiro	nome masculino	ru|mi|na|[doi]|ro
+ruminador	adjetivo	ru|mi|na|[dor]
+ruminadouro	nome masculino	ru|mi|na|[dou]|ro
+ruminante	nome masculino	ru|mi|[nan]|te
+ruminante	adjetivo	ru|mi|[nan]|te
+ruminar	verbo	ru|mi|[nar]
+rumo	nome masculino	[ru]|mo
+rumor	nome masculino	ru|[mor]
+rumorante	adjetivo	ru|mo|[ran]|te
+rumorar	verbo	ru|mo|[rar]
+rumorejante	adjetivo	ru|mo|re|[jan]|te
+rumorejar	verbo	ru|mo|re|[jar]
+rumorejo	nome masculino	ru|mo|[re]|jo
+rumorinho	nome masculino	ru|mo|[ri]|nho
+rumorosamente	advérbio	ru|mo|ro|sa|[men]|te
+rumoroso	adjetivo	ru|mo|[ro]|so
+runa	nome feminino	[ru]|na
+runcinado	adjetivo	run|ci|[na]|do
+rundo	nome masculino	[run]|do
+runfão	nome masculino	run|[fão]
+runho	adjetivo	[ru]|nho
+rúnico	adjetivo	[rú]|ni|co
+runografia	nome feminino	ru|no|gra|[fi]|a
+runográfico	adjetivo	ru|no|[grá]|fi|co
+runógrafo	nome masculino	ru|[nó]|gra|fo
+runologia	nome feminino	ru|no|lo|[gi]|a
+runológico	adjetivo	ru|no|[ló]|gi|co
+runólogo	nome masculino	ru|[nó]|lo|go
+runrum	nome masculino	run|[rum]
+rupar	verbo	ru|[par]
+rupélia	nome feminino	ru|[pé]|li|a
+rupeliano	adjetivo	ru|pe|li|[a]|no
+rupestre	adjetivo	ru|[pes]|tre

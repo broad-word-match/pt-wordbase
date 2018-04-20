@@ -1,0 +1,100 @@
+recriar	verbo	re|cri|[ar]
+recriável	adjetivo	re|cri|[á]|vel
+recriminação	nome feminino	re|cri|mi|na|[ção]
+recriminado	adjetivo	re|cri|mi|[na]|do
+recriminador	adjetivo	re|cri|mi|na|[dor]
+recriminador	nome masculino	re|cri|mi|na|[dor]
+recriminadora	nome feminino	re|cri|mi|na|[do]|ra
+recriminar	verbo	re|cri|mi|[nar]
+recriminativamente	advérbio	re|cri|mi|na|ti|va|[men]|te
+recriminativo	adjetivo	re|cri|mi|na|[ti]|vo
+recriminatoriamente	advérbio	re|cri|mi|na|to|ri|a|[men]|te
+recriminatório	adjetivo	re|cri|mi|na|[tó]|ri|o
+recriminável	adjetivo	re|cri|mi|[ná]|vel
+recristalização	nome feminino	re|cris|ta|li|za|[ção]
+recristianização	nome feminino	re|cris|ti|a|ni|za|[ção]
+recristianizar	verbo	re|cris|ti|a|ni|[zar]
+recru	adjetivo	re|[cru]
+recrudescência	nome feminino	re|cru|des|[cên]|ci|a
+recrudescente	adjetivo	re|cru|des|[cen]|te
+recrudescer	verbo	re|cru|des|[cer]
+recrudescido	adjetivo	re|cru|des|[ci]|do
+recrudescimento	nome masculino	re|cru|des|ci|[men]|to
+recruta	nome feminino	re|[cru]|ta
+recruta	nome masculino	re|[cru]|ta
+recrutador	adjetivo	re|cru|ta|[dor]
+recrutador	nome masculino	re|cru|ta|[dor]
+recrutamento	nome masculino	re|cru|ta|[men]|to
+recrutar	verbo	re|cru|[tar]
+recrutável	adjetivo	re|cru|[tá]|vel
+recruzamento	nome masculino	re|cru|za|[men]|to
+recruzar	verbo	re|cru|[zar]
+recruzetado	adjetivo	re|cru|ze|[ta]|do
+rectal	adjetivo	rec|[tal]
+rectangular	adjetivo	rec|tan|gu|[lar]
+rectangularidade	nome feminino	rec|tan|gu|la|ri|[da]|de
+rectangularmente	advérbio	rec|tan|gu|lar|[men]|te
+rectângulo	nome masculino	rec|[tân]|gu|lo
+rectângulo	adjetivo	rec|[tân]|gu|lo
+rectevere	advérbio	rec|te|[ve]|re
+recticórneo	adjetivo	rec|ti|[cór]|ne|o
+rectidão	nome feminino	rec|ti|[dão]
+rectificação	nome feminino	rec|ti|fi|ca|[ção]
+rectificador	adjetivo	rec|ti|fi|ca|[dor]
+rectificador	nome masculino	rec|ti|fi|ca|[dor]
+rectificar	verbo	rec|ti|fi|[car]
+rectificativo	adjetivo	rec|ti|fi|ca|[ti]|vo
+rectificável	adjetivo	rec|ti|fi|[cá]|vel
+rectifloro	adjetivo	rec|ti|[flo]|ro
+rectiforme	adjetivo	rec|ti|[for]|me
+rectígrado	adjetivo	rec|[tí]|gra|do
+rectilineamente	advérbio	rec|ti|li|ne|a|[men]|te
+rectilinearidade	nome feminino	rec|ti|li|ne|a|ri|[da]|de
+rectilíneo	adjetivo	rec|ti|[lí]|ne|o
+rectilíneo	nome masculino	rec|ti|[lí]|ne|o
+rectinérveo	adjetivo	rec|ti|[nér]|ve|o
+rectiparalelinérveo	adjetivo	rec|ti|pa|ra|le|li|[nér]|ve|o
+rectirrostro	adjetivo	rec|tir|[ros]|tro
+rectite	nome feminino	rec|[ti]|te
+rectitude	nome feminino	rec|ti|[tu]|de
+recto	nome masculino	[rec]|to
+recto	adjetivo	[rec]|to
+rectocele	nome feminino	rec|to|[ce]|le
+rectococcígeo	adjetivo	rec|to|coc|[cí]|ge|o
+rectocolite	nome feminino	rec|to|co|[li]|te
+rectopéctico	adjetivo	rec|to|[péc]|ti|co
+rectopexia	nome feminino	rec|to|pe|[xi]|a
+rector	nome masculino	rec|[tor]
+rectoscopia	nome feminino	rec|tos|co|[pi]|a
+rectoscópico	adjetivo	rec|tos|[có]|pi|co
+rectoscópio	nome masculino	rec|tos|[có]|pi|o
+rectotomia	nome feminino	rec|to|to|[mi]|a
+rectotômico	adjetivo	rec|to|[tô]|mi|co
+rectouretral	adjetivo	rec|tou|re|[tral]
+rectovaginal	adjetivo	rec|to|va|gi|[nal]
+rectovesical	adjetivo	rec|to|ve|si|[cal]
+rectriz	nome feminino	rec|[triz]
+recturetral	adjetivo	rec|tu|re|[tral]
+récua	nome feminino	[ré]|cu|a
+recua	nome feminino	re|[cu]|a
+recuada	nome feminino	re|cu|[a]|da
+recuadeira	nome feminino	re|cu|a|[dei]|ra
+recuado	adjetivo	re|cu|[a]|do
+recuamento	nome masculino	re|cu|a|[men]|to
+recuanço	nome masculino	re|cu|[an]|ço
+recuão	nome masculino	re|cu|[ão]
+recuar	verbo	re|cu|[ar]
+recúbito	nome masculino	re|[cú]|bi|to
+recuco	nome masculino	re|[cu]|co
+recuerdo	nome masculino	re|cuer|do
+recuidar	verbo	re|cui|[dar]
+récula	nome feminino	[ré]|cu|la
+reculo	adjetivo	re|[cu]|lo
+recultivação	nome feminino	re|cul|ti|va|[ção]
+recultivador	adjetivo	re|cul|ti|va|[dor]
+recultivador	nome masculino	re|cul|ti|va|[dor]
+recultivar	verbo	re|cul|ti|[var]
+recultivável	adjetivo	re|cul|ti|[vá]|vel
+recumbente	adjetivo	re|cum|[ben]|te
+recumbir	verbo	re|cum|[bir]
+recunhador	adjetivo	re|cu|nha|[dor]

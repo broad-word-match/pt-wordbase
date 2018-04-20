@@ -1,0 +1,100 @@
+subsentido	nome masculino	sub|sen|[ti]|do
+subséptuplo	adjetivo	sub|[sép]|tu|plo
+subsequência	nome feminino	sub|se|[quên]|ci|a
+subsequente	adjetivo	sub|se|[quen]|te
+subsequentemente	advérbio	sub|se|quen|te|[men]|te
+subserviência	nome feminino	sub|ser|vi|[ên]|ci|a
+subserviente	adjetivo	sub|ser|vi|[en]|te
+subservientemente	advérbio	sub|ser|vi|en|te|[men]|te
+subséssil	adjetivo	sub|[sés]|sil
+subsetor	nome masculino	sub|se|[tor]
+subsêxtuplo	adjetivo	sub|[sêx]|tu|plo
+subsidência	nome feminino	sub|si|[dên]|ci|a
+subsidiada	nome feminino	sub|si|di|[a]|da
+subsidiado	adjetivo	sub|si|di|[a]|do
+subsidiado	nome masculino	sub|si|di|[a]|do
+subsidiador	adjetivo	sub|si|di|a|[dor]
+subsidiador	nome masculino	sub|si|di|a|[dor]
+subsidiar	verbo	sub|si|di|[ar]
+subsidiariamente	advérbio	sub|si|di|a|ri|a|[men]|te
+subsidiariedade	nome feminino	sub|si|di|a|ri|e|[da]|de
+subsidiário	nome masculino	sub|si|di|[á]|ri|o
+subsidiário	adjetivo	sub|si|di|[á]|ri|o
+subsidiável	adjetivo	sub|si|di|[á]|vel
+subsídio	nome masculino	sub|[sí]|di|o
+subsignano	adjetivo	sub|sig|[na]|no
+subsignano	nome masculino	sub|sig|[na]|no
+subsimilar	adjetivo	sub|si|mi|[lar]
+subsino	nome masculino	sub|[si]|no
+subsinuoso	adjetivo	sub|si|nu|[o]|so
+subsistema	nome masculino	sub|sis|[te]|ma
+subsistência	nome feminino	sub|sis|[tên]|ci|a
+subsistente	adjetivo	sub|sis|[ten]|te
+subsistir	verbo	sub|sis|[tir]
+subsolador	adjetivo	sub|so|la|[dor]
+subsolagem	nome feminino	sub|so|[la]|gem
+subsolano	adjetivo	sub|so|[la]|no
+subsolano	nome masculino	sub|so|[la]|no
+subsolar	verbo	sub|so|[lar]
+subsolar	adjetivo	sub|so|[lar]
+subsolo	nome masculino	sub|[so]|lo
+subsónico	adjetivo	sub|[só]|ni|co
+subsônico	adjetivo	sub|[sô]|ni|co
+subsorteio	nome masculino	sub|sor|[tei]|o
+substabelecer	verbo	subs|ta|be|le|[cer]
+substabelecimento	nome masculino	subs|ta|be|le|ci|[men]|to
+substância	nome feminino	subs|[tân]|ci|a
+substanciado	adjetivo	subs|tan|ci|[a]|do
+substancial	nome masculino	subs|tan|ci|[al]
+substancial	adjetivo	subs|tan|ci|[al]
+substancialidade	nome feminino	subs|tan|ci|a|li|[da]|de
+substancialismo	nome masculino	subs|tan|ci|a|[lis]|mo
+substancialista	adjetivo	subs|tan|ci|a|[lis]|ta
+substancialista	nome masculino	subs|tan|ci|a|[lis]|ta
+substancialista	nome feminino	subs|tan|ci|a|[lis]|ta
+substancialização	nome feminino	subs|tan|ci|a|li|za|[ção]
+substancializar	verbo	subs|tan|ci|a|li|[zar]
+substancialmente	advérbio	subs|tan|ci|al|[men]|te
+substanciar	verbo	subs|tan|ci|[ar]
+substanciosamente	advérbio	subs|tan|ci|o|sa|[men]|te
+substancioso	adjetivo	subs|tan|ci|[o]|so
+substantificação	nome feminino	subs|tan|ti|fi|ca|[ção]
+substantificar	verbo	subs|tan|ti|fi|[car]
+substantífico	adjetivo	subs|tan|[tí]|fi|co
+substantivação	nome feminino	subs|tan|ti|va|[ção]
+substantivado	adjetivo	subs|tan|ti|[va]|do
+substantival	adjetivo	subs|tan|ti|[val]
+substantivamente	advérbio	subs|tan|ti|va|[men]|te
+substantivar	verbo	subs|tan|ti|[var]
+substantivável	adjetivo	subs|tan|ti|[vá]|vel
+substantivo	nome masculino	subs|tan|[ti]|vo
+substantivo	adjetivo	subs|tan|[ti]|vo
+substatório	adjetivo	subs|ta|[tó]|ri|o
+substituição	nome feminino	subs|ti|tu|i|[ção]
+substituída	nome feminino	subs|ti|tu|[í]|da
+substituído	adjetivo	subs|ti|tu|[í]|do
+substituído	nome masculino	subs|ti|tu|[í]|do
+substituinte	nome masculino	subs|ti|tu|[in]|te
+substituinte	adjetivo	subs|ti|tu|[in]|te
+substituinte	nome feminino	subs|ti|tu|[in]|te
+substituir	verbo	subs|ti|tu|[ir]
+substituível	adjetivo	subs|ti|tu|[í]|vel
+substituta	nome feminino	subs|ti|[tu]|ta
+substitutivo	adjetivo	subs|ti|tu|[ti]|vo
+substitutivo	nome masculino	subs|ti|tu|[ti]|vo
+substituto	adjetivo	subs|ti|[tu]|to
+substituto	nome masculino	subs|ti|[tu]|to
+substração	nome feminino	subs|tra|[ção]
+substrato	adjetivo	subs|[tra]|to
+substrato	nome masculino	subs|[tra]|to
+substrução	nome feminino	subs|tru|[ção]
+substrutura	nome feminino	subs|tru|[tu]|ra
+subsulfato	nome masculino	sub|sul|[fa]|to
+subsultante	adjetivo	sub|sul|[tan]|te
+subsultar	verbo	sub|sul|[tar]
+subsulto	nome masculino	sub|[sul]|to
+subsumir	verbo	sub|su|[mir]
+subsunção	nome feminino	sub|sun|[ção]
+subtangente	nome feminino	sub|tan|[gen]|te
+subtema	nome masculino	sub|[te]|ma
+subtendente	adjetivo	sub|ten|[den]|te

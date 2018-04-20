@@ -1,0 +1,100 @@
+são	adjetivo	[são]
+são	nome masculino	[são]
+são-bento	nome masculino	são-ben|to
+são-bernardo	nome masculino	são-ber|[nar]|do
+são-bernardo	nome feminino	são-ber|[nar]|do
+são-borjense	nome masculino	são-bor|[jen]|se
+são-borjense	adjetivo	são-bor|[jen]|se
+são-borjense	nome feminino	são-bor|[jen]|se
+são-braseiro	nome masculino	são-bra|[sei]|ro
+são-braseiro	adjetivo	são-bra|[sei]|ro
+são-brasense	nome masculino	são-bra|[sen]|se
+são-brasense	adjetivo	são-bra|[sen]|se
+são-brasense	nome feminino	são-bra|[sen]|se
+são-caetano	nome masculino	são-ca|e|[ta]|no
+são-cristovense	adjetivo	são-cris|to|[ven]|se
+são-cristovense	nome masculino	são-cris|to|[ven]|se
+são-cristovense	nome feminino	são-cris|to|[ven]|se
+são-gonçalo	nome masculino	são-gon|[ça]|lo
+são-joaneira	nome feminino	são-jo|a|[nei]|ra
+são-joaneiro	nome masculino	são-jo|a|[nei]|ro
+são-joaneiro	adjetivo	são-jo|a|[nei]|ro
+são-joanense	nome masculino	são-jo|a|[nen]|se
+são-joanense	adjetivo	são-jo|a|[nen]|se
+são-joanense	nome feminino	são-jo|a|[nen]|se
+são-joanina	nome feminino	são-jo|a|[ni]|na
+são-joanino	adjetivo	são-jo|a|[ni]|no
+são-joanino	nome masculino	são-jo|a|[ni]|no
+são-jorgense	adjetivo	são-jor|[gen]|se
+são-jorgense	nome masculino	são-jor|[gen]|se
+são-jorgense	nome feminino	são-jor|[gen]|se
+são-joseense	adjetivo	são-jo|se|[en]|se
+são-joseense	nome masculino	são-jo|se|[en]|se
+são-joseense	nome feminino	são-jo|se|[en]|se
+são-luisense	adjetivo	são-lui|[sen]|se
+são-luisense	nome masculino	são-lui|[sen]|se
+são-luisense	nome feminino	são-lui|[sen]|se
+são-luqueno	adjetivo	são-lu|[que]|no
+são-luqueno	nome masculino	são-lu|[que]|no
+são-marinense	adjetivo	são-ma|ri|[nen]|se
+são-marinense	nome masculino	são-ma|ri|[nen]|se
+são-marinense	nome feminino	são-ma|ri|[nen]|se
+são-marinhense	nome masculino	são-ma|ri|[nhen]|se
+são-marinhense	nome feminino	são-ma|ri|[nhen]|se
+são-martinho	nome feminino	são-mar|[ti]|nho
+são-martinho	nome masculino	são-mar|[ti]|nho
+são-miguel	nome masculino	são-mi|[guel]
+são-miguel	nome feminino	são-mi|[guel]
+são-pauleiro	adjetivo	são-pau|[lei]|ro
+são-pauleiro	nome masculino	são-pau|[lei]|ro
+são-pedrense	adjetivo	são-pe|[dren]|se
+são-pedrense	nome masculino	são-pe|[dren]|se
+são-pedrense	nome feminino	são-pe|[dren]|se
+são-pedro	nome masculino	são-pe|dro
+são-romaneiro	nome masculino	são-ro|ma|[nei]|ro
+são-romaneiro	adjetivo	são-ro|ma|[nei]|ro
+são-roquense	nome masculino	são-ro|[quen]|se
+são-roquense	adjetivo	são-ro|[quen]|se
+são-roquense	nome feminino	são-ro|[quen]|se
+são-tirsense	adjetivo	são-tir|[sen]|se
+são-tirsense	nome masculino	são-tir|[sen]|se
+são-tirsense	nome feminino	são-tir|[sen]|se
+são-tomé	nome masculino	são-to|[mé]
+são-tomense	nome masculino	são-to|[men]|se
+são-tomense	adjetivo	são-to|[men]|se
+são-tomense	nome feminino	são-to|[men]|se
+são-tomensidade	nome feminino	são-to|men|si|[da]|de
+são-vicente	nome masculino	são-vi|[cen]|te
+são-vicentino	adjetivo	são-vi|cen|[ti]|no
+são-vicentino	nome masculino	são-vi|cen|[ti]|no
+sapa	nome feminino	[sa]|pa
+sapada	nome feminino	sa|[pa]|da
+sapador	nome masculino	sa|pa|[dor]
+sapador-bombeiro	nome masculino	sa|pa|dor-bom|[bei]|ro
+sapadoura	nome feminino	sa|pa|[dou]|ra
+sapajo	nome masculino	sa|[pa]|jo
+sapaju	nome masculino	sa|pa|[ju]
+sapal	nome masculino	sa|[pal]
+sapão	nome masculino	sa|[pão]
+sapar	verbo	sa|[par]
+saparia	nome feminino	sa|pa|[ri]|a
+saparrão	nome masculino	sa|par|[rão]
+sapata	nome feminino	sa|[pa]|ta
+sapataço	nome masculino	sa|pa|[ta]|ço
+sapatada	nome feminino	sa|pa|[ta]|da
+sapatadinha	nome feminino	sa|pa|ta|[di]|nha
+sapatão	nome masculino	sa|pa|[tão]
+sapataria	nome feminino	sa|pa|ta|[ri]|a
+sapaté	nome masculino	sa|pa|[té]
+sapateada	nome feminino	sa|pa|te|[a]|da
+sapateado	nome masculino	sa|pa|te|[a]|do
+sapateador	adjetivo	sa|pa|te|a|[dor]
+sapateador	nome masculino	sa|pa|te|a|[dor]
+sapatear	verbo	sa|pa|te|[ar]
+sapateia	nome feminino	sa|pa|[tei]|a
+sapateira	nome feminino	sa|pa|[tei]|ra
+sapateirada	nome feminino	sa|pa|tei|[ra]|da
+sapateiral	adjetivo	sa|pa|tei|[ral]
+sapateiro	nome masculino	sa|pa|[tei]|ro
+sapateta	nome feminino	sa|pa|[te]|ta
+sapatião	nome masculino	sa|pa|ti|[ão]

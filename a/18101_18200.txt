@@ -1,0 +1,100 @@
+arnado	nome masculino	ar|[na]|do
+arnal	adjetivo	ar|[nal]
+arnal	nome masculino	ar|[nal]
+arnate	adjetivo	ar|[na]|te
+arnate	nome masculino	ar|[na]|te
+arnate	nome feminino	ar|[na]|te
+arnaz	adjetivo	ar|[naz]
+arnaz	nome masculino	ar|[naz]
+arnecã	nome feminino	ar|ne|[cã]
+arneira	nome feminino	ar|[nei]|ra
+arneirar	verbo	ar|nei|[rar]
+arneiro	nome masculino	ar|[nei]|ro
+arneiroso	adjetivo	ar|nei|[ro]|so
+arnela	nome feminino	ar|[ne]|la
+arnélia	nome feminino	ar|[né]|li|a
+arnês	nome masculino	ar|[nês]
+arnesar	verbo	ar|ne|[sar]
+arnica	nome feminino	ar|[ni]|ca
+arnicina	nome feminino	ar|ni|[ci]|na
+arnilha	nome masculino	ar|[ni]|lha
+arnilha	nome feminino	ar|[ni]|lha
+arnilhas	nome masculino	ar|[ni]|lhas
+arnilhas	nome feminino	ar|[ni]|lhas
+arnoglossa	nome feminino	ar|no|[glos]|sa
+arnopogão	nome masculino	ar|no|po|[gão]
+arnoso	nome masculino	ar|[no]|so
+arnoso	adjetivo	ar|[no]|so
+arnoto	nome masculino	ar|[no]|to
+aro	nome masculino	[a]|ro
+aroeira	nome feminino	a|ro|[ei]|ra
+aroeira-branca	nome feminino	a|ro|ei|ra-bran|ca
+aroeira-mole	nome feminino	a|ro|ei|ra-mo|le
+aroeira-vermelha	nome feminino	a|ro|ei|ra-ver|[me]|lha
+aroeiro	nome masculino	a|ro|[ei]|ro
+aróidea	nome feminino	a|[rói]|de|a
+arola	nome feminino	a|[ro]|la
+arolas	nome masculino	a|[ro]|las
+aroma	nome masculino	a|[ro]|ma
+aromal	adjetivo	a|ro|[mal]
+aromar	verbo	a|ro|[mar]
+aromaterapeuta	nome masculino	a|ro|ma|te|ra|[peu]|ta
+aromaterapeuta	nome feminino	a|ro|ma|te|ra|[peu]|ta
+aromaterapia	nome feminino	a|ro|ma|te|ra|[pi]|a
+aromaterápico	adjetivo	a|ro|ma|te|[rá]|pi|co
+aromaticidade	nome feminino	a|ro|ma|ti|ci|[da]|de
+aromático	adjetivo	a|ro|[má]|ti|co
+aromatismo	nome masculino	a|ro|ma|[tis]|mo
+aromatite	nome feminino	a|ro|ma|[ti]|te
+aromatização	nome feminino	a|ro|ma|ti|za|[ção]
+aromatizado	adjetivo	a|ro|ma|ti|[za]|do
+aromatizador	adjetivo	a|ro|ma|ti|za|[dor]
+aromatizante	adjetivo	a|ro|ma|ti|[zan]|te
+aromatizante	nome masculino	a|ro|ma|ti|[zan]|te
+aromatizar	verbo	a|ro|ma|ti|[zar]
+aromato	nome masculino	a|ro|[ma]|to
+aromatóforo	nome masculino	a|ro|ma|[tó]|fo|ro
+aromatologia	nome feminino	a|ro|ma|to|lo|[gi]|a
+aromatopola	nome masculino	a|ro|ma|to|[po]|la
+aromeira	nome feminino	a|ro|[mei]|ra
+aromoso	adjetivo	a|ro|[mo]|so
+aromoterapia	nome feminino	a|ro|mo|te|ra|[pi]|a
+aromoterápico	adjetivo	a|ro|mo|te|[rá]|pi|co
+arónia	nome feminino	a|[ró]|ni|a
+arônia	nome feminino	a|[rô]|ni|a
+arouquense	adjetivo	a|rou|[quen]|se
+arouquense	nome masculino	a|rou|[quen]|se
+arouquense	nome feminino	a|rou|[quen]|se
+arouquês	adjetivo	a|rou|[quês]
+arpado	adjetivo	ar|[pa]|do
+arpano	adjetivo	ar|[pa]|no
+arpano	nome masculino	ar|[pa]|no
+arpão	nome masculino	ar|[pão]
+arpar	verbo	ar|[par]
+arpear	verbo	ar|pe|[ar]
+arpejar	verbo	ar|pe|[jar]
+arpejo	nome masculino	ar|[pe]|jo
+arpentagem	nome feminino	ar|pen|[ta]|gem
+arpente	nome masculino	ar|[pen]|te
+arpento	nome masculino	ar|[pen]|to
+arpéu	nome masculino	ar|[péu]
+arpinate	adjetivo	ar|pi|[na]|te
+arpinate	nome masculino	ar|pi|[na]|te
+arpinate	nome feminino	ar|pi|[na]|te
+arpoação	nome feminino	ar|po|a|[ção]
+arpoador	nome masculino	ar|po|a|[dor]
+arpoamento	nome masculino	ar|po|a|[men]|to
+arpoão	nome masculino	ar|po|[ão]
+arpoar	verbo	ar|po|[ar]
+arpoeira	nome feminino	ar|po|[ei]|ra
+arpoeiro	adjetivo	ar|po|[ei]|ro
+arpoeiro	nome masculino	ar|po|[ei]|ro
+arqueação	nome feminino	ar|que|a|[ção]
+arqueado	adjetivo	ar|que|[a]|do
+arqueador	adjetivo	ar|que|a|[dor]
+arqueador	nome masculino	ar|que|a|[dor]
+arqueadura	nome feminino	ar|que|a|[du]|ra
+arqueamento	nome masculino	ar|que|a|[men]|to
+arqueano	adjetivo	ar|que|[a]|no
+arquear	verbo	ar|que|[ar]
+arqueável	adjetivo	ar|que|[á]|vel

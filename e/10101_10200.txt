@@ -1,0 +1,100 @@
+espôndilo	nome masculino	es|[pôn]|di|lo
+espondilolistese	nome feminino	es|pon|di|lo|lis|[te]|se
+espondilose	nome feminino	es|pon|di|[lo]|se
+espondilozoário	nome masculino	es|pon|di|lo|zo|[á]|ri|o
+espongiário	nome masculino	es|pon|gi|[á]|ri|o
+espongiário	adjetivo	es|pon|gi|[á]|ri|o
+espongiforme	adjetivo	es|pon|gi|[for]|me
+espongina	nome feminino	es|pon|[gi]|na
+espongióforo	nome masculino	es|pon|gi|[ó]|fo|ro
+espongioide	adjetivo	es|pon|gi|[oi]|de
+espongíolo	nome masculino	es|pon|[gí]|o|lo
+espongioplasma	nome masculino	es|pon|gi|o|[plas]|ma
+espongioplasmático	adjetivo	es|pon|gi|o|plas|[má]|ti|co
+espongite	nome feminino	es|pon|[gi]|te
+esponja	nome feminino	es|[pon]|ja
+esponjar	verbo	es|pon|[jar]
+esponjeira	nome feminino	es|pon|[jei]|ra
+esponjeira-do-japão	nome feminino	es|pon|jei|ra-do-ja|[pão]
+esponjento	adjetivo	es|pon|[jen]|to
+esponjosidade	nome feminino	es|pon|jo|si|[da]|de
+esponjoso	adjetivo	es|pon|[jo]|so
+esponsais	nome masculino	es|pon|[sais]
+esponsal	adjetivo	es|pon|[sal]
+esponsálias	nome feminino	es|pon|[sá]|li|as
+esponsalício	adjetivo	es|pon|sa|[lí]|ci|o
+esponsório	adjetivo	es|pon|[só]|ri|o
+esponsórios	nome masculino	es|pon|[só]|ri|os
+esponta	nome feminino	es|[pon]|ta
+espontaneamente	advérbio	es|pon|ta|ne|a|[men]|te
+espontaneidade	nome feminino	es|pon|ta|nei|[da]|de
+espontâneo	nome masculino	es|pon|[tâ]|ne|o
+espontâneo	adjetivo	es|pon|[tâ]|ne|o
+espontão	nome masculino	es|pon|[tão]
+espontar	verbo	es|pon|[tar]
+esponteirar	verbo	es|pon|tei|[rar]
+espora	nome feminino	es|[po]|ra
+espora	nome masculino	es|[po]|ra
+espora-brava	nome feminino	es|po|ra-bra|va
+esporada	nome feminino	es|po|[ra]|da
+esporadicamente	advérbio	es|po|ra|di|ca|[men]|te
+esporadicidade	nome feminino	es|po|ra|di|ci|[da]|de
+esporádico	adjetivo	es|po|[rá]|di|co
+esporangiado	adjetivo	es|po|ran|gi|[a]|do
+esporângio	nome masculino	es|po|[rân]|gi|o
+esporão	nome masculino	es|po|[rão]
+esporar	verbo	es|po|[rar]
+esporaúdo	adjetivo	es|po|ra|[ú]|do
+esporear	verbo	es|po|re|[ar]
+esporeira	nome feminino	es|po|[rei]|ra
+esporeiro	nome masculino	es|po|[rei]|ro
+esporeto	nome masculino	es|po|[re]|to
+esporicida	adjetivo	es|po|ri|[ci]|da
+esporífero	adjetivo	es|po|[rí]|fe|ro
+esporim	nome masculino	es|po|[rim]
+esporo	nome masculino	es|[po]|ro
+esporoado	adjetivo	es|po|ro|[a]|do
+esporoar	verbo	es|po|ro|[ar]
+esporocárpio	nome masculino	es|po|ro|[cár]|pi|o
+esporocisto	nome masculino	es|po|ro|[cis]|to
+esporofilo	nome masculino	es|po|ro|[fi]|lo
+esporófita	adjetivo	es|po|[ró]|fi|ta
+esporófita	nome feminino	es|po|[ró]|fi|ta
+esporófito	adjetivo	es|po|[ró]|fi|to
+esporófito	nome masculino	es|po|[ró]|fi|to
+esporóforo	nome masculino	es|po|[ró]|fo|ro
+esporogonia	nome feminino	es|po|ro|go|[ni]|a
+esporogônio	nome masculino	es|po|ro|[gô]|ni|o
+esporogónio	nome masculino	es|po|ro|[gó]|ni|o
+esporotricose	nome feminino	es|po|ro|tri|[co]|se
+esporozoário	nome masculino	es|po|ro|zo|[á]|ri|o
+esporozoário	adjetivo	es|po|ro|zo|[á]|ri|o
+esporozoíto	nome masculino	es|po|ro|zo|[í]|to
+esporta	nome feminino	es|[por]|ta
+esporte	adjetivo	es|[por]|te
+esporte	nome masculino	es|[por]|te
+esportela	nome feminino	es|por|[te]|la
+esportismo	nome masculino	es|por|[tis]|mo
+esportista	adjetivo	es|por|[tis]|ta
+esportista	nome masculino	es|por|[tis]|ta
+esportista	nome feminino	es|por|[tis]|ta
+esportiva	nome feminino	es|por|[ti]|va
+esportivamente	advérbio	es|por|ti|va|[men]|te
+esportivismo	nome masculino	es|por|ti|[vis]|mo
+esportivo	adjetivo	es|por|[ti]|vo
+espórtula	nome feminino	es|[pór]|tu|la
+esportular	verbo	es|por|tu|[lar]
+esporulação	nome feminino	es|po|ru|la|[ção]
+esporulado	adjetivo	es|po|ru|[la]|do
+esporular	verbo	es|po|ru|[lar]
+espórulo	nome masculino	es|[pó]|ru|lo
+esposa	nome feminino	es|[po]|sa
+esposar	verbo	es|po|[sar]
+esposendense	nome masculino	es|po|sen|[den]|se
+esposendense	adjetivo	es|po|sen|[den]|se
+esposendense	nome feminino	es|po|sen|[den]|se
+esposo	nome masculino	es|[po]|so
+esposório	nome masculino	es|po|[só]|ri|o
+espostejado	adjetivo	es|pos|te|[ja]|do
+espostejamento	nome masculino	es|pos|te|ja|[men]|to
+espostejar	verbo	es|pos|te|[jar]

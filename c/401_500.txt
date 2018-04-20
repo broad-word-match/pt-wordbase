@@ -1,0 +1,100 @@
+cabrocha	nome masculino	ca|[bro]|cha
+cabrocha	nome feminino	ca|[bro]|cha
+cabroche	nome masculino	ca|[bro]|che
+cabroeira	nome feminino	ca|bro|[ei]|ra
+cabroeiro	nome masculino	ca|bro|[ei]|ro
+cabrona	nome feminino	ca|[bro]|na
+cabronaz	nome masculino	ca|bro|[naz]
+cabroz	nome masculino	ca|[broz]
+cabrué	nome masculino	ca|bru|[é]
+cabrum	adjetivo	ca|[brum]
+cabuchão	nome masculino	ca|bu|[chão]
+cabucho	nome masculino	ca|[bu]|cho
+cabuia	nome feminino	ca|[bui]|a
+cabuíba	nome feminino	ca|bu|[í]|ba
+cábula	nome feminino	[cá]|bu|la
+cábula	nome masculino	[cá]|bu|la
+cábula	adjetivo	[cá]|bu|la
+cabulagem	nome feminino	ca|bu|[la]|gem
+cabular	verbo	ca|bu|[lar]
+cabuleté	nome masculino	ca|bu|le|[té]
+cabulice	nome feminino	ca|bu|[li]|ce
+cabúlico	adjetivo	ca|[bú]|li|co
+cabulismo	nome masculino	ca|bu|[lis]|mo
+cabuloso	adjetivo	ca|bu|[lo]|so
+cabundá	nome masculino	ca|bun|[dá]
+cabundo	nome masculino	ca|[bun]|do
+cabungo	nome masculino	ca|[bun]|go
+cabungueira	nome feminino	ca|bun|[guei]|ra
+cabungueiro	adjetivo	ca|bun|[guei]|ro
+cabúqui	nome masculino	ca|[bú]|qui
+caburé	nome masculino	ca|bu|[ré]
+cabureira	nome feminino	ca|bu|[rei]|ra
+caburicena	adjetivo	ca|bu|ri|[ce]|na
+caburicena	nome masculino	ca|bu|ri|[ce]|na
+caburicena	nome feminino	ca|bu|ri|[ce]|na
+caça	nome masculino	[ca]|ça
+caca	nome feminino	[ca]|ca
+caça	nome feminino	[ca]|ça
+caça-bombardeiro	nome masculino	ca|ça-bom|bar|[dei]|ro
+caça-minas	nome masculino	ca|ça-mi|nas
+caça-moscas	nome masculino	ca|ça-mos|cas
+caça-níqueis	nome masculino	ca|ça-ní|queis
+caça-níquel	nome masculino	ca|ça-ní|quel
+caça-submarina	nome feminino	ca|ça-sub|ma|[ri]|na
+caça-torpedos	nome masculino	ca|ça-tor|[pe]|dos
+caçabe	nome masculino	ca|[ça]|be
+cacaboia	nome feminino	ca|ca|[boi]|a
+cacaborrada	nome feminino	ca|ca|bor|[ra]|da
+caçada	nome feminino	ca|[ça]|da
+cacada	nome feminino	ca|[ca]|da
+caçadeira	nome feminino	ca|ça|[dei]|ra
+caçadeiro	adjetivo	ca|ça|[dei]|ro
+caçado	adjetivo	ca|[ça]|do
+caçador	adjetivo	ca|ça|[dor]
+caçador	nome masculino	ca|ça|[dor]
+caçadora	nome feminino	ca|ça|[do]|ra
+cacaieiro	adjetivo	ca|cai|[ei]|ro
+cacaio	nome masculino	ca|[cai]|o
+cacália	nome feminino	ca|[cá]|li|a
+caçamba	nome feminino	ca|[çam]|ba
+caçambar	verbo	ca|çam|[bar]
+caçambeiro	nome masculino	ca|çam|[bei]|ro
+cáçamo	nome masculino	[cá]|ça|mo
+cacana	nome feminino	ca|[ca]|na
+caçanje	adjetivo	ca|[çan]|je
+caçanje	nome masculino	ca|[çan]|je
+caçanje	nome feminino	ca|[çan]|je
+caçanjismo	nome masculino	ca|çan|[jis]|mo
+caçanjista	adjetivo	ca|çan|[jis]|ta
+caçanjista	nome masculino	ca|çan|[jis]|ta
+caçanjista	nome feminino	ca|çan|[jis]|ta
+caçante	adjetivo	ca|[çan]|te
+cação	nome masculino	ca|[ção]
+caçapava	nome feminino	ca|ça|[pa]|va
+caçapear	verbo	ca|ça|pe|[ar]
+caçapeira	nome feminino	ca|ça|[pei]|ra
+caçapeiro	nome masculino	ca|ça|[pei]|ro
+caçapo	nome masculino	ca|[ça]|po
+caçapó	nome feminino	ca|ça|[pó]
+caçar	verbo	ca|[çar]
+cacará	nome masculino	ca|ca|[rá]
+cacaracá	nome masculino	ca|ca|ra|[cá]
+cacareco	nome masculino	ca|ca|[re]|co
+cacarejador	adjetivo	ca|ca|re|ja|[dor]
+cacarejador	nome masculino	ca|ca|re|ja|[dor]
+cacarejante	adjetivo	ca|ca|re|[jan]|te
+cacarejar	verbo	ca|ca|re|[jar]
+cacarejo	nome masculino	ca|ca|[re]|jo
+caçarema	nome feminino	ca|ça|[re]|ma
+cacareno	nome masculino	ca|ca|[re]|no
+caçarete	nome masculino	ca|ça|[re]|te
+cacaréu	nome masculino	ca|ca|[réu]
+cacaria	nome feminino	ca|ca|[ri]|a
+caçaroba	nome feminino	ca|ça|[ro]|ba
+caçarola	nome feminino	ca|ça|[ro]|la
+caçarote	nome masculino	ca|ça|[ro]|te
+cacata	nome masculino	ca|[ca]|ta
+cacata	nome feminino	ca|[ca]|ta
+caçatinga	nome feminino	ca|ça|[tin]|ga
+cacatua	nome feminino	ca|ca|[tu]|a

@@ -1,0 +1,100 @@
+elipsar	verbo	e|lip|[sar]
+elipse	nome feminino	e|[lip]|se
+elipsígrafo	nome masculino	e|lip|[sí]|gra|fo
+elipsiográfico	adjetivo	e|lip|si|o|[grá]|fi|co
+elipsiógrafo	nome masculino	e|lip|si|[ó]|gra|fo
+elipsiologia	nome feminino	e|lip|si|o|lo|[gi]|a
+elipsiológico	adjetivo	e|lip|si|o|[ló]|gi|co
+elipsiosfermo	adjetivo	e|lip|si|os|[fer]|mo
+elipsióstomo	adjetivo	e|lip|si|[ós]|to|mo
+elipsógrafo	nome masculino	e|lip|[só]|gra|fo
+elipsoidal	adjetivo	e|lip|soi|[dal]
+elipsoide	adjetivo	e|lip|[soi]|de
+elipsoide	nome masculino	e|lip|[soi]|de
+elipsómetro	nome masculino	e|lip|[só]|me|tro
+elipsospermo	adjetivo	e|lip|sos|[per]|mo
+elipsóstomo	adjetivo	e|lip|[sós]|to|mo
+elipticamente	advérbio	e|lip|ti|ca|[men]|te
+elipticidade	nome feminino	e|lip|ti|ci|[da]|de
+elíptico	adjetivo	e|[líp]|ti|co
+elisão	nome feminino	e|li|[são]
+elísio	adjetivo	e|[lí]|si|o
+elísio	nome masculino	e|[lí]|si|o
+elite	nome feminino	e|[li]|te
+elítico	adjetivo	e|[lí]|ti|co
+elitismo	nome masculino	e|li|[tis]|mo
+elitista	adjetivo	e|li|[tis]|ta
+elitista	nome masculino	e|li|[tis]|ta
+elitista	nome feminino	e|li|[tis]|ta
+elitístico	adjetivo	e|li|[tís]|ti|co
+elitização	nome feminino	e|li|ti|za|[ção]
+elitizar	verbo	e|li|ti|[zar]
+elitizável	adjetivo	e|li|ti|[zá]|vel
+elitrite	nome feminino	e|li|[tri]|te
+élitro	nome masculino	[é]|li|tro
+elitrocele	nome feminino	e|li|tro|[ce]|le
+elitroide	adjetivo	e|li|[troi]|de
+elitroplastia	nome feminino	e|li|tro|plas|[ti]|a
+elitroplástico	adjetivo	e|li|tro|[plás]|ti|co
+elitróptero	nome masculino	e|li|[tróp]|te|ro
+elitroptose	nome feminino	e|li|trop|[to]|se
+elitrorrafia	nome feminino	e|li|tror|ra|[fi]|a
+elitrorráfico	adjetivo	e|li|tror|[rá]|fi|co
+elitrorragia	nome feminino	e|li|tror|ra|[gi]|a
+elitrorrágico	adjetivo	e|li|tror|[rá]|gi|co
+elitrorreia	nome feminino	e|li|tror|[rei]|a
+elitrotomia	nome feminino	e|li|tro|to|[mi]|a
+elitrotômico	adjetivo	e|li|tro|[tô]|mi|co
+elitrotómico	adjetivo	e|li|tro|[tó]|mi|co
+elitrótomo	nome masculino	e|li|[tró]|to|mo
+elixação	nome feminino	e|li|xa|[ção]
+elixar	verbo	e|li|[xar]
+elixir	nome masculino	e|li|[xir]
+elmanismo	nome masculino	el|ma|[nis]|mo
+elmanista	nome masculino	el|ma|[nis]|ta
+elmanista	nome feminino	el|ma|[nis]|ta
+elmo	nome masculino	[el]|mo
+elo	nome masculino	[e]|lo
+elocução	nome feminino	e|lo|cu|[ção]
+elocutivo	adjetivo	e|lo|cu|[ti]|vo
+elocutória	nome feminino	e|lo|cu|[tó]|ri|a
+elocutório	adjetivo	e|lo|cu|[tó]|ri|o
+eloendro	nome masculino	e|lo|[en]|dro
+elogíaco	adjetivo	e|lo|[gí]|a|co
+elogiador	adjetivo	e|lo|gi|a|[dor]
+elogiador	nome masculino	e|lo|gi|a|[dor]
+elogial	adjetivo	e|lo|gi|[al]
+elogiante	adjetivo	e|lo|gi|[an]|te
+elogiar	verbo	e|lo|gi|[ar]
+elogiável	adjetivo	e|lo|gi|[á]|vel
+elogio	nome masculino	e|lo|[gi]|o
+elogiosamente	advérbio	e|lo|gi|o|sa|[men]|te
+elogioso	adjetivo	e|lo|gi|[o]|so
+elogista	nome masculino	e|lo|[gis]|ta
+elogista	nome feminino	e|lo|[gis]|ta
+eloísta	adjetivo	e|lo|[ís]|ta
+elongação	nome feminino	e|lon|ga|[ção]
+elopíneo	adjetivo	e|lo|[pí]|ne|o
+eloquência	nome feminino	e|lo|[quên]|ci|a
+eloquente	adjetivo	e|lo|[quen]|te
+eloquentemente	advérbio	e|lo|quen|te|[men]|te
+elóquio	nome masculino	e|[ló]|qui|o
+elorino	adjetivo	e|lo|[ri]|no
+elorino	nome masculino	e|lo|[ri]|no
+elpiniano	adjetivo	el|pi|ni|[a]|no
+elucidação	nome feminino	e|lu|ci|da|[ção]
+elucidador	adjetivo	e|lu|ci|da|[dor]
+elucidador	nome masculino	e|lu|ci|da|[dor]
+elucidante	adjetivo	e|lu|ci|[dan]|te
+elucidar	verbo	e|lu|ci|[dar]
+elucidário	nome masculino	e|lu|ci|[dá]|ri|o
+elucidativamente	advérbio	e|lu|ci|da|ti|va|[men]|te
+elucidativo	adjetivo	e|lu|ci|da|[ti]|vo
+elucidável	adjetivo	e|lu|ci|[dá]|vel
+elucubração	nome feminino	e|lu|cu|bra|[ção]
+elucubrador	adjetivo	e|lu|cu|bra|[dor]
+elucubrador	nome masculino	e|lu|cu|bra|[dor]
+elucubradora	nome feminino	e|lu|cu|bra|[do]|ra
+elucubrar	verbo	e|lu|cu|[brar]
+elucubrativo	adjetivo	e|lu|cu|bra|[ti]|vo
+eludir	verbo	e|lu|[dir]

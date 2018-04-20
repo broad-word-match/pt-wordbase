@@ -1,0 +1,100 @@
+romeiro	nome masculino	ro|[mei]|ro
+romeíte	nome feminino	ro|me|[í]|te
+romeliota	adjetivo	ro|me|li|[o]|ta
+romeliota	nome masculino	ro|me|li|[o]|ta
+romeliota	nome feminino	ro|me|li|[o]|ta
+romena	nome feminino	ro|[me]|na
+romeno	adjetivo	ro|[me]|no
+romeno	nome masculino	ro|[me]|no
+romeno-búlgaro	adjetivo	ro|me|no-búl|ga|ro
+romeno-turco	adjetivo	ro|me|no-tur|co
+romeu	nome masculino	ro|[meu]
+rompante	nome masculino	rom|[pan]|te
+rompante	adjetivo	rom|[pan]|te
+rompão	nome masculino	rom|[pão]
+rompe-cilhas	nome masculino	rom|pe-ci|lhas
+rompe-saias	nome feminino	rom|pe-sai|as
+rompedeira	nome feminino	rom|pe|[dei]|ra
+rompedor	adjetivo	rom|pe|[dor]
+rompedor	nome masculino	rom|pe|[dor]
+rompedura	nome feminino	rom|pe|[du]|ra
+rompente	adjetivo	rom|[pen]|te
+romper	verbo	rom|[per]
+romper	nome masculino	rom|[per]
+rompida	nome feminino	rom|[pi]|da
+rompimento	nome masculino	rom|pi|[men]|to
+rompível	adjetivo	rom|[pí]|vel
+romúlida	adjetivo	ro|[mú]|li|da
+romúlida	nome masculino	ro|[mú]|li|da
+romúlida	nome feminino	ro|[mú]|li|da
+ronca	nome feminino	[ron]|ca
+roncada	nome feminino	ron|[ca]|da
+roncadeira	nome feminino	ron|ca|[dei]|ra
+roncador	nome masculino	ron|ca|[dor]
+roncador	adjetivo	ron|ca|[dor]
+roncadora	nome feminino	ron|ca|[do]|ra
+roncadouro	nome masculino	ron|ca|[dou]|ro
+roncadura	nome feminino	ron|ca|[du]|ra
+roncal	nome masculino	ron|[cal]
+roncante	adjetivo	ron|[can]|te
+roncão	adjetivo	ron|[cão]
+roncar	verbo	ron|[car]
+roncaria	nome feminino	ron|ca|[ri]|a
+ronçaria	nome feminino	ron|ça|[ri]|a
+roncaz	nome masculino	ron|[caz]
+roncear	verbo	ron|ce|[ar]
+ronceiramente	advérbio	ron|cei|ra|[men]|te
+ronceirice	nome feminino	ron|cei|[ri]|ce
+ronceirismo	nome masculino	ron|cei|[ris]|mo
+ronceiro	adjetivo	ron|[cei]|ro
+roncha	nome feminino	[ron]|cha
+ronchar	verbo	ron|[char]
+roncice	nome feminino	ron|[ci]|ce
+roncinado	adjetivo	ron|ci|[na]|do
+roncinela	nome feminino	ron|ci|[ne]|la
+ronco	nome masculino	[ron]|co
+roncolho	adjetivo	ron|[co]|lho
+roncolho	nome masculino	ron|[co]|lho
+ronda	nome feminino	[ron]|da
+rondador	adjetivo	ron|da|[dor]
+rondador	nome masculino	ron|da|[dor]
+rondadora	nome feminino	ron|da|[do]|ra
+rondante	adjetivo	ron|[dan]|te
+rondante	nome masculino	ron|[dan]|te
+rondante	nome feminino	ron|[dan]|te
+rondão	nome masculino	ron|[dão]
+rondar	verbo	ron|[dar]
+rondear	verbo	ron|de|[ar]
+rondista	nome masculino	ron|[dis]|ta
+rondista	nome feminino	ron|[dis]|ta
+rondó	nome masculino	ron|[dó]
+rondoniana	nome feminino	ron|do|ni|[a]|na
+rondoniano	adjetivo	ron|do|ni|[a]|no
+rondoniano	nome masculino	ron|do|ni|[a]|no
+rondoniense	adjetivo	ron|do|ni|[en]|se
+rondoniense	nome masculino	ron|do|ni|[en]|se
+rondoniense	nome feminino	ron|do|ni|[en]|se
+ronga	nome masculino	[ron]|ga
+ronga	nome feminino	[ron]|ga
+ronha	nome feminino	[ro]|nha
+ronha	nome masculino	[ro]|nha
+ronhento	adjetivo	ro|[nhen]|to
+ronhoso	adjetivo	ro|[nho]|so
+ronquear	verbo	ron|que|[ar]
+ronqueira	nome feminino	ron|[quei]|ra
+ronquejador	adjetivo	ron|que|ja|[dor]
+ronquejador	nome masculino	ron|que|ja|[dor]
+ronquejante	adjetivo	ron|que|[jan]|te
+ronquejar	verbo	ron|que|[jar]
+ronquenho	adjetivo	ron|[que]|nho
+ronquidão	nome feminino	ron|qui|[dão]
+ronquido	nome masculino	ron|[qui]|do
+ronrom	nome masculino	[ron]|rom
+ronronante	adjetivo	ron|ro|[nan]|te
+ronronar	verbo	ron|ro|[nar]
+röntgen	nome masculino	[rönt]|gen
+röntgenterapia	nome feminino	röntgen|te|ra|[pi]|a
+rontó	nome masculino	ron|[tó]
+rookie	nome feminino	roo|kie
+ropálico	adjetivo	ro|[pá]|li|co
+ropálico	nome masculino	ro|[pá]|li|co

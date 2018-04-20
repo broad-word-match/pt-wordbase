@@ -1,0 +1,100 @@
+alargante	adjetivo	a|lar|[gan]|te
+alargar	verbo	a|lar|[gar]
+alargável	adjetivo	a|lar|[gá]|vel
+alarida	nome feminino	a|la|[ri]|da
+alarido	nome masculino	a|la|[ri]|do
+alarife	nome masculino	a|la|[ri]|fe
+alariz	nome masculino	a|la|[riz]
+alarma	nome masculino	a|[lar]|ma
+alarmador	adjetivo	a|lar|ma|[dor]
+alarmador	nome masculino	a|lar|ma|[dor]
+alarmante	adjetivo	a|lar|[man]|te
+alarmar	verbo	a|lar|[mar]
+alarmável	adjetivo	a|lar|[má]|vel
+alarme	nome masculino	a|[lar]|me
+alarmismo	nome masculino	a|lar|[mis]|mo
+alarmista	adjetivo	a|lar|[mis]|ta
+alarmista	nome masculino	a|lar|[mis]|ta
+alarmista	nome feminino	a|lar|[mis]|ta
+alarmístico	adjetivo	a|lar|[mís]|ti|co
+alaródio	adjetivo	a|la|[ró]|di|o
+alaródio	nome masculino	a|la|[ró]|di|o
+alarvada	nome feminino	a|lar|[va]|da
+alarvado	adjetivo	a|lar|[va]|do
+alarvajado	adjetivo	a|lar|va|[ja]|do
+alarvajar	verbo	a|lar|va|[jar]
+alarvaria	nome feminino	a|lar|va|[ri]|a
+alarvático	adjetivo	a|lar|[vá]|ti|co
+alarve	adjetivo	a|[lar]|ve
+alarve	nome masculino	a|[lar]|ve
+alarve	nome feminino	a|[lar]|ve
+alarvejar	verbo	a|lar|ve|[jar]
+alarvemente	advérbio	a|lar|ve|[men]|te
+alarvia	nome feminino	a|lar|[vi]|a
+alarvice	nome feminino	a|lar|[vi]|ce
+alarvidade	nome feminino	a|lar|vi|[da]|de
+alascaíte	nome feminino	a|las|ca|[í]|te
+alasquense	adjetivo	a|las|[quen]|se
+alasquense	nome masculino	a|las|[quen]|se
+alasquense	nome feminino	a|las|[quen]|se
+alasquiana	nome feminino	a|las|qui|[a]|na
+alasquiano	nome masculino	a|las|qui|[a]|no
+alasquiano	adjetivo	a|las|qui|[a]|no
+alasquito	nome masculino	a|las|[qui]|to
+alassar	verbo	a|las|[sar]
+alastrado	adjetivo	a|las|[tra]|do
+alastrado	nome masculino	a|las|[tra]|do
+alastrador	nome masculino	a|las|tra|[dor]
+alastramento	nome masculino	a|las|tra|[men]|to
+alastrar	verbo	a|las|[trar]
+alastrim	nome masculino	a|las|[trim]
+alaterno	nome masculino	a|la|[ter]|no
+alatinadamente	advérbio	a|la|ti|na|da|[men]|te
+alatinado	adjetivo	a|la|ti|[na]|do
+alatinamento	nome masculino	a|la|ti|na|[men]|to
+alatinar	verbo	a|la|ti|[nar]
+alatinável	adjetivo	a|la|ti|[ná]|vel
+alativo	adjetivo	a|la|[ti]|vo
+alativo	nome masculino	a|la|[ti]|vo
+alatoamento	nome masculino	a|la|to|a|[men]|to
+alatoar	verbo	a|la|to|[ar]
+alauda	nome feminino	a|[lau]|da
+alaudado	adjetivo	a|lau|[da]|do
+alaudar	verbo	a|lau|[dar]
+alaúde	nome masculino	a|la|[ú]|de
+aláudida	nome masculino	a|[láu]|di|da
+alaudídeo	nome masculino	a|lau|[dí]|de|o
+alaudídeo	adjetivo	a|lau|[dí]|de|o
+alaudina	nome feminino	a|lau|[di]|na
+alaudíneo	nome masculino	a|lau|[dí]|ne|o
+alauita	nome masculino	a|lau|[i]|ta
+alauita	nome feminino	a|lau|[i]|ta
+alavanca	nome feminino	a|la|[van]|ca
+alavancagem	nome feminino	a|la|van|[ca]|gem
+alavancar	verbo	a|la|van|[car]
+alavanco	nome masculino	a|la|[van]|co
+alavão	adjetivo	a|la|[vão]
+alavão	nome masculino	a|la|[vão]
+alavês	adjetivo	a|la|[vês]
+alavês	nome masculino	a|la|[vês]
+alavoeiro	nome masculino	a|la|vo|[ei]|ro
+alazã	nome feminino	a|la|[zã]
+alazão	nome masculino	a|la|[zão]
+alazão	adjetivo	a|la|[zão]
+alazarado	adjetivo	a|la|za|[ra]|do
+alazeirado	adjetivo	a|la|zei|[ra]|do
+alba	nome feminino	[al]|ba
+albacar	nome masculino	al|ba|[car]
+albacara	nome feminino	al|ba|[ca]|ra
+albacetenha	nome feminino	al|ba|ce|[te]|nha
+albacetenho	adjetivo	al|ba|ce|[te]|nho
+albacetenho	nome masculino	al|ba|ce|[te]|nho
+albacor	nome masculino	al|ba|[cor]
+albacora	nome feminino	al|ba|[co]|ra
+albafar	nome masculino	al|ba|[far]
+albaflor	nome feminino	al|ba|[flor]
+albafor	nome feminino	al|ba|[for]
+albafor	nome masculino	al|ba|[for]
+albafora	nome feminino	al|ba|[fo]|ra
+albanês	nome masculino	al|ba|[nês]
+albanês	adjetivo	al|ba|[nês]

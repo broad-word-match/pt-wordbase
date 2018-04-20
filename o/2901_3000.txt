@@ -1,0 +1,100 @@
+ornitofilia	nome feminino	or|ni|to|fi|[li]|a
+ornitófilo	nome masculino	or|ni|[tó]|fi|lo
+ornitófilo	adjetivo	or|ni|[tó]|fi|lo
+ornitofone	nome masculino	or|ni|to|[fo]|ne
+ornitofonia	nome feminino	or|ni|to|fo|[ni]|a
+ornitofônico	adjetivo	or|ni|to|[fô]|ni|co
+ornitofónico	adjetivo	or|ni|to|[fó]|ni|co
+ornitógalo	nome masculino	or|ni|[tó]|ga|lo
+ornitógamo	adjetivo	or|ni|[tó]|ga|mo
+ornitoglosso	nome masculino	or|ni|to|[glos]|so
+ornitoide	adjetivo	or|ni|[toi]|de
+ornitoídeo	adjetivo	or|ni|to|[í]|de|o
+ornitóideo	adjetivo	or|ni|[tói]|de|o
+ornitólito	nome masculino	or|ni|[tó]|li|to
+ornitóloga	nome feminino	or|ni|[tó]|lo|ga
+ornitologia	nome feminino	or|ni|to|lo|[gi]|a
+ornitológico	adjetivo	or|ni|to|[ló]|gi|co
+ornitologista	nome masculino	or|ni|to|lo|[gis]|ta
+ornitologista	nome feminino	or|ni|to|lo|[gis]|ta
+ornitólogo	nome masculino	or|ni|[tó]|lo|go
+ornitomancia	nome feminino	or|ni|to|man|[ci]|a
+ornitomania	nome feminino	or|ni|to|ma|[ni]|a
+ornitomaníaco	adjetivo	or|ni|to|ma|[ní]|a|co
+ornitomaníaco	nome masculino	or|ni|to|ma|[ní]|a|co
+ornitómano	nome masculino	or|ni|[tó]|ma|no
+ornitômano	nome masculino	or|ni|[tô]|ma|no
+ornitomante	nome masculino	or|ni|to|[man]|te
+ornitomante	nome feminino	or|ni|to|[man]|te
+ornitomântico	adjetivo	or|ni|to|[mân]|ti|co
+ornitópode	nome masculino	or|ni|[tó]|po|de
+ornitópodes	nome masculino	or|ni|[tó]|po|des
+ornitóptero	nome masculino	or|ni|[tóp]|te|ro
+ornitorrinco	nome masculino	or|ni|tor|[rin]|co
+ornitoscopia	nome feminino	or|ni|tos|co|[pi]|a
+ornitoscópico	adjetivo	or|ni|tos|[có]|pi|co
+ornitóscopo	nome masculino	or|ni|[tós]|co|po
+ornitose	nome feminino	or|ni|[to]|se
+ornitóstomo	nome masculino	or|ni|[tós]|to|mo
+ornitotomia	nome feminino	or|ni|to|to|[mi]|a
+ornitotómico	adjetivo	or|ni|to|[tó]|mi|co
+ornitotômico	adjetivo	or|ni|to|[tô]|mi|co
+ornitotrofia	nome feminino	or|ni|to|tro|[fi]|a
+ornitotrófico	adjetivo	or|ni|to|[tró]|fi|co
+orno	nome masculino	[or]|no
+orobalão	nome masculino	o|ro|ba|[lão]
+orobanca	nome feminino	o|ro|[ban]|ca
+orobancácea	nome feminino	o|ro|ban|[cá]|ce|a
+oróbio	adjetivo	o|[ró]|bi|o
+oróbio	nome masculino	o|[ró]|bi|o
+orobite	nome feminino	o|ro|[bi]|te
+órobo	nome masculino	[ó]|ro|bo
+oroboense	adjetivo	o|ro|bo|[en]|se
+oroboense	nome masculino	o|ro|bo|[en]|se
+oroboense	nome feminino	o|ro|bo|[en]|se
+orofaringe	nome feminino	o|ro|fa|[rin]|ge
+orofaríngeo	adjetivo	o|ro|fa|[rín]|ge|o
+orofeia	nome feminino	o|ro|[fei]|a
+orofilismo	nome masculino	o|ro|fi|[lis]|mo
+orófito	nome masculino	o|[ró]|fi|to
+orogênese	nome feminino	o|ro|[gê]|ne|se
+orogénese	nome feminino	o|ro|[gé]|ne|se
+orogenético	adjetivo	o|ro|ge|[né]|ti|co
+orogenia	nome feminino	o|ro|ge|[ni]|a
+orogênico	adjetivo	o|ro|[gê]|ni|co
+orogénico	adjetivo	o|ro|[gé]|ni|co
+orognosia	nome feminino	o|rog|no|[si]|a
+orognóstico	adjetivo	o|rog|[nós]|ti|co
+orógrafa	nome feminino	o|[ró]|gra|fa
+orografia	nome feminino	o|ro|gra|[fi]|a
+orográfico	adjetivo	o|ro|[grá]|fi|co
+orógrafo	nome masculino	o|[ró]|gra|fo
+oroidrografia	nome feminino	o|roi|dro|gra|[fi]|a
+oroidrográfico	adjetivo	o|roi|dro|[grá]|fi|co
+orologia	nome feminino	o|ro|lo|[gi]|a
+orológico	adjetivo	o|ro|[ló]|gi|co
+orologista	nome masculino	o|ro|lo|[gis]|ta
+orologista	nome feminino	o|ro|lo|[gis]|ta
+orólogo	nome masculino	o|[ró]|lo|go
+orometria	nome feminino	o|ro|me|[tri]|a
+orómetro	nome masculino	o|[ró]|me|tro
+orômetro	nome masculino	o|[rô]|me|tro
+orôncio	nome masculino	o|[rôn]|ci|o
+oroneta	nome feminino	o|ro|[ne]|ta
+oronímia	nome feminino	o|ro|[ní]|mi|a
+orónimo	nome masculino	o|[ró]|ni|mo
+orônimo	nome masculino	o|[rô]|ni|mo
+oronte	adjetivo	o|[ron]|te
+oronte	nome masculino	o|[ron]|te
+oronte	nome feminino	o|[ron]|te
+orópio	adjetivo	o|[ró]|pi|o
+orópio	nome masculino	o|[ró]|pi|o
+orosfera	nome feminino	o|ros|[fe]|ra
+orosférico	adjetivo	o|ros|[fé]|ri|co
+orostra	adjetivo	o|[ros]|tra
+orostra	nome masculino	o|[ros]|tra
+orostra	nome feminino	o|[ros]|tra
+orquéstia	nome feminino	or|[qués]|ti|a
+orquéstica	nome feminino	or|[qués]|ti|ca
+orquestídeo	nome masculino	or|ques|[tí]|de|o
+orquestídeo	adjetivo	or|ques|[tí]|de|o

@@ -1,0 +1,100 @@
+aporismo	nome masculino	a|po|[ris]|mo
+áporo	adjetivo	[á]|po|ro
+áporo	nome masculino	[á]|po|ro
+aporobrânquio	nome masculino	a|po|ro|[brân]|qui|o
+aporobrânquio	adjetivo	a|po|ro|[brân]|qui|o
+aporocéfalo	adjetivo	a|po|ro|[cé]|fa|lo
+aporosa	nome feminino	a|po|[ro]|sa
+aporreado	adjetivo	a|por|re|[a]|do
+aporrear	verbo	a|por|re|[ar]
+aporreia	nome feminino	a|por|[rei]|a
+aporreína	nome feminino	a|por|re|[í]|na
+aporretar	verbo	a|por|re|[tar]
+aporrinhação	nome feminino	a|por|ri|nha|[ção]
+aporrinhador	adjetivo	a|por|ri|nha|[dor]
+aporrinhador	nome masculino	a|por|ri|nha|[dor]
+aporrinhamento	nome masculino	a|por|ri|nha|[men]|to
+aporrinhar	verbo	a|por|ri|[nhar]
+aporrinose	nome feminino	a|por|ri|[no]|se
+aportação	nome feminino	a|por|ta|[ção]
+aportada	nome feminino	a|por|[ta]|da
+aportamento	nome masculino	a|por|ta|[men]|to
+aportar	verbo	a|por|[tar]
+aporte	nome masculino	a|[por]|te
+aportelado	adjetivo	a|por|te|[la]|do
+aportilhar	verbo	a|por|ti|[lhar]
+aportuguesadamente	advérbio	a|por|tu|gue|sa|da|[men]|te
+aportuguesado	adjetivo	a|por|tu|gue|[sa]|do
+aportuguesador	adjetivo	a|por|tu|gue|sa|[dor]
+aportuguesador	nome masculino	a|por|tu|gue|sa|[dor]
+aportuguesamento	nome masculino	a|por|tu|gue|sa|[men]|to
+aportuguesar	verbo	a|por|tu|gue|[sar]
+aportuguesável	adjetivo	a|por|tu|gue|[sá]|vel
+após	advérbio	a|[pós]
+após	preposição	a|[pós]
+após-guerra	nome masculino	a|pós-guer|ra
+após-venda	adjetivo	a|pós-ven|da
+após-venda	nome masculino	a|pós-ven|da
+aposentação	nome feminino	a|po|sen|ta|[ção]
+aposentada	nome feminino	a|po|sen|[ta]|da
+aposentado	adjetivo	a|po|sen|[ta]|do
+aposentado	nome masculino	a|po|sen|[ta]|do
+aposentador	nome masculino	a|po|sen|ta|[dor]
+aposentadoria	nome feminino	a|po|sen|ta|do|[ri]|a
+aposentamento	nome masculino	a|po|sen|ta|[men]|to
+aposentar	verbo	a|po|sen|[tar]
+aposentável	adjetivo	a|po|sen|[tá]|vel
+aposentável	nome masculino	a|po|sen|[tá]|vel
+aposentável	nome feminino	a|po|sen|[tá]|vel
+aposento	nome masculino	a|po|[sen]|to
+aposfagma	nome masculino	a|pos|[fag]|ma
+aposia	nome feminino	a|po|[si]|a
+aposição	nome feminino	a|po|si|[ção]
+aposiopese	nome feminino	a|po|si|o|[pe]|se
+apositamente	advérbio	a|po|si|ta|[men]|te
+apositia	nome feminino	a|po|si|[ti]|a
+aposítico	adjetivo	a|po|[sí]|ti|co
+apositivamente	advérbio	a|po|si|ti|va|[men]|te
+apositivo	adjetivo	a|po|si|[ti]|vo
+apositivo	nome masculino	a|po|si|[ti]|vo
+apósito	nome masculino	a|[pó]|si|to
+apósito	adjetivo	a|[pó]|si|to
+apospasmo	nome masculino	a|pos|[pas]|mo
+apospástico	adjetivo	a|pos|[pás]|ti|co
+apossador	adjetivo	a|pos|sa|[dor]
+apossador	nome masculino	a|pos|sa|[dor]
+apossar	verbo	a|pos|[sar]
+apossear	verbo	a|pos|se|[ar]
+apossepsia	nome feminino	a|pos|sep|[si]|a
+aposséptico	adjetivo	a|pos|[sép]|ti|co
+apossético	adjetivo	a|pos|[sé]|ti|co
+apossínclise	nome feminino	a|pos|[sín]|cli|se
+apossinclítico	adjetivo	a|pos|sin|[clí]|ti|co
+apossuir	verbo	a|pos|su|[ir]
+aposta	nome feminino	a|[pos]|ta
+apostadamente	advérbio	a|pos|ta|da|[men]|te
+apostado	adjetivo	a|pos|[ta]|do
+apostador	nome masculino	a|pos|ta|[dor]
+apostador	adjetivo	a|pos|ta|[dor]
+apostadora	nome feminino	a|pos|ta|[do]|ra
+apostalagma	nome masculino	a|pos|ta|[lag]|ma
+apostamente	advérbio	a|pos|ta|[men]|te
+apostar	verbo	a|pos|[tar]
+apóstase	nome feminino	a|[pós]|ta|se
+apostasia	nome feminino	a|pos|ta|[si]|a
+apostasiácea	nome feminino	a|pos|ta|si|[á]|ce|a
+apóstata	adjetivo	a|[pós]|ta|ta
+apóstata	nome masculino	a|[pós]|ta|ta
+apóstata	nome feminino	a|[pós]|ta|ta
+apostatar	verbo	a|pos|ta|[tar]
+apostático	adjetivo	a|pos|[tá]|ti|co
+apostema	nome masculino	a|pos|[te]|ma
+apostemação	nome feminino	a|pos|te|ma|[ção]
+apostemar	verbo	a|pos|te|[mar]
+apostemático	adjetivo	a|pos|te|[má]|ti|co
+apostemeira	nome feminino	a|pos|te|[mei]|ra
+apostemeiro	nome masculino	a|pos|te|[mei]|ro
+apostemoso	adjetivo	a|pos|te|[mo]|so
+apostia	nome feminino	a|pos|[ti]|a
+apostiçar	verbo	a|pos|ti|[çar]
+apostila	nome feminino	a|pos|[ti]|la

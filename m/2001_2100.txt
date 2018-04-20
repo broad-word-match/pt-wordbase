@@ -1,0 +1,100 @@
+manatim	nome masculino	ma|na|[tim]
+manato	nome masculino	ma|[na]|to
+manatoto	nome masculino	ma|na|[to]|to
+manatuto	nome masculino	ma|na|[tu]|to
+manau	adjetivo	ma|[nau]
+manau	nome masculino	ma|[nau]
+manau	nome feminino	ma|[nau]
+manauara	adjetivo	ma|nau|[a]|ra
+manauara	nome masculino	ma|nau|[a]|ra
+manauara	nome feminino	ma|nau|[a]|ra
+manauê	nome masculino	ma|nau|[ê]
+manauense	adjetivo	ma|nau|[en]|se
+manauense	nome masculino	ma|nau|[en]|se
+manauense	nome feminino	ma|nau|[en]|se
+manca	nome feminino	[man]|ca
+mancada	nome feminino	man|[ca]|da
+mancador	nome masculino	man|ca|[dor]
+mancal	nome masculino	man|[cal]
+mançaneira	nome feminino	man|ça|[nei]|ra
+mancanha	nome masculino	man|[ca]|nha
+mancanha	adjetivo	man|[ca]|nha
+mancanha	nome feminino	man|[ca]|nha
+mançanilha	nome feminino	man|ça|[ni]|lha
+mançanilheira	nome feminino	man|ça|ni|[lhei]|ra
+mancão	nome masculino	man|[cão]
+mancar	verbo	man|[car]
+mancarra	nome feminino	man|[car]|ra
+mancarra-de-bijagó	nome feminino	man|car|ra-de-bi|ja|[gó]
+mancarrão	nome masculino	man|car|[rão]
+mancarrão	adjetivo	man|car|[rão]
+manceba	nome feminino	man|[ce]|ba
+mancebia	nome feminino	man|ce|[bi]|a
+mancebil	adjetivo	man|ce|[bil]
+mancebo	adjetivo	man|[ce]|bo
+mancebo	nome masculino	man|[ce]|bo
+mancenilha	nome feminino	man|ce|[ni]|lha
+mancenilheira	nome masculino	man|ce|ni|[lhei]|ra
+mancenilheira	nome feminino	man|ce|ni|[lhei]|ra
+mancha	nome feminino	[man]|cha
+manchado	adjetivo	man|[cha]|do
+manchamba	nome feminino	man|[cham]|ba
+manchão	nome masculino	man|[chão]
+manchar	verbo	man|[char]
+manche	nome feminino	[man]|che
+manchear	verbo	man|che|[ar]
+manchega	nome feminino	man|[che]|ga
+manchego	nome masculino	man|[che]|go
+manchego	adjetivo	man|[che]|go
+mancheia	nome feminino	man|[chei]|a
+manchesteriano	nome masculino	man|ches|te|ri|[a]|no
+manchesteriano	adjetivo	man|ches|te|ri|[a]|no
+manchetado	adjetivo	man|che|[ta]|do
+manchetar	verbo	man|che|[tar]
+manchete	nome feminino	man|[che]|te
+manchil	nome masculino	man|[chil]
+manchilha	nome feminino	man|[chi]|lha
+manchinha	nome feminino	man|[chi]|nha
+mancho	nome masculino	[man]|cho
+manchó	nome masculino	man|[chó]
+manchoca	nome feminino	man|[cho]|ca
+manchoco	nome masculino	man|[cho]|co
+manchoqueira	nome feminino	man|cho|[quei]|ra
+manchoquinha	nome feminino	man|cho|[qui]|nha
+manchote	nome masculino	man|[cho]|te
+manchu	nome masculino	man|[chu]
+manchu	adjetivo	man|[chu]
+manchu	nome feminino	man|[chu]
+mancinela	nome feminino	man|ci|[ne]|la
+mancinismo	nome masculino	man|ci|[nis]|mo
+mancipação	nome feminino	man|ci|pa|[ção]
+mancipar	verbo	man|ci|[par]
+mancípio	nome masculino	man|[cí]|pi|o
+manco	adjetivo	[man]|co
+manco	nome masculino	[man]|co
+mancomunação	nome feminino	man|co|mu|na|[ção]
+mancomunadamente	advérbio	man|co|mu|na|da|[men]|te
+mancomunado	adjetivo	man|co|mu|[na]|do
+mancomunagem	nome feminino	man|co|mu|[na]|gem
+mancomunar	verbo	man|co|mu|[nar]
+mancomunidade	nome feminino	man|co|mu|ni|[da]|de
+mancone	nome masculino	man|[co]|ne
+mancornar	verbo	man|cor|[nar]
+mancuba	nome masculino	man|[cu]|ba
+mancubar	nome masculino	man|cu|[bar]
+mancueba	nome masculino	man|cu|[e]|ba
+mançupir	verbo	man|çu|[pir]
+manda	nome feminino	[man]|da
+manda-chuva	nome masculino	man|da-chu|va
+manda-lua	nome masculino	man|da-lu|a
+mandacadeno	adjetivo	man|da|ca|[de]|no
+mandacadeno	nome masculino	man|da|ca|[de]|no
+mandaçaia	nome feminino	man|da|[çai]|a
+mandacarre	nome masculino	man|da|[car]|re
+mandacaru	nome masculino	man|da|ca|[ru]
+mandachuva	nome masculino	man|da|[chu]|va
+mandada	nome feminino	man|[da]|da
+mandadeiro	adjetivo	man|da|[dei]|ro
+mandadeiro	nome masculino	man|da|[dei]|ro
+mandado	adjetivo	man|[da]|do
+mandado	nome masculino	man|[da]|do

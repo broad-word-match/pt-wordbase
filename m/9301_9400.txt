@@ -1,0 +1,100 @@
+monadista	nome masculino	mo|na|[dis]|ta
+monadista	nome feminino	mo|na|[dis]|ta
+monadístico	adjetivo	mo|na|[dís]|ti|co
+monadologia	nome feminino	mo|na|do|lo|[gi]|a
+monadológico	adjetivo	mo|na|do|[ló]|gi|co
+monamido	nome masculino	mo|na|[mi]|do
+monamina	nome feminino	mo|na|[mi]|na
+monandengue	nome masculino	mo|nan|[den]|gue
+monandengue	nome feminino	mo|nan|[den]|gue
+monândria	nome feminino	mo|[nân]|dri|a
+monandria	nome feminino	mo|nan|[dri]|a
+monândrico	adjetivo	mo|[nân]|dri|co
+monandro	adjetivo	mo|[nan]|dro
+monangamba	nome masculino	mo|nan|[gam]|ba
+monangundo	nome masculino	mo|nan|[gun]|do
+monantero	adjetivo	mo|nan|[te]|ro
+monanto	adjetivo	mo|[nan]|to
+monantropia	nome feminino	mo|nan|tro|[pi]|a
+monantrópico	adjetivo	mo|nan|[tró]|pi|co
+monaquino	nome masculino	mo|na|[qui]|no
+monaquismo	nome masculino	mo|na|[quis]|mo
+monaquização	nome feminino	mo|na|qui|za|[ção]
+monaquizar	verbo	mo|na|qui|[zar]
+monarca	nome masculino	mo|[nar]|ca
+monarca	nome feminino	mo|[nar]|ca
+monarca	adjetivo	mo|[nar]|ca
+monarcada	nome feminino	mo|nar|[ca]|da
+monarcólatra	adjetivo	mo|nar|[có]|la|tra
+monarcólatra	nome masculino	mo|nar|[có]|la|tra
+monarcólatra	nome feminino	mo|nar|[có]|la|tra
+monarcolatria	nome feminino	mo|nar|co|la|[tri]|a
+monarcolátrico	adjetivo	mo|nar|co|[lá]|tri|co
+monarcómaco	adjetivo	mo|nar|[có]|ma|co
+monarcômaco	adjetivo	mo|nar|[cô]|ma|co
+monarda	nome feminino	mo|[nar]|da
+monaria	nome feminino	mo|na|[ri]|a
+monarquia	nome feminino	mo|nar|[qui]|a
+monarquiação	nome feminino	mo|nar|qui|a|[ção]
+monarquianismo	nome masculino	mo|nar|qui|a|[nis]|mo
+monarquiar	verbo	mo|nar|qui|[ar]
+monárquica	nome feminino	mo|[nár]|qui|ca
+monarquicamente	advérbio	mo|nar|qui|ca|[men]|te
+monárquico	nome masculino	mo|[nár]|qui|co
+monárquico	adjetivo	mo|[nár]|qui|co
+monarquismo	nome masculino	mo|nar|[quis]|mo
+monarquista	nome masculino	mo|nar|[quis]|ta
+monarquista	nome feminino	mo|nar|[quis]|ta
+monarquista	adjetivo	mo|nar|[quis]|ta
+monarquização	nome feminino	mo|nar|qui|za|[ção]
+monarquizar	verbo	mo|nar|qui|[zar]
+monas	nome masculino	[mo]|nas
+monástica	nome feminino	mo|[nás]|ti|ca
+monastical	adjetivo	mo|nas|ti|[cal]
+monasticamente	advérbio	mo|nas|ti|ca|[men]|te
+monasticismo	nome masculino	mo|nas|ti|[cis]|mo
+monástico	adjetivo	mo|[nás]|ti|co
+monástico	nome masculino	mo|[nás]|ti|co
+monásticon	nome masculino	mo|[nás]|ti|con
+monatómico	adjetivo	mo|na|[tó]|mi|co
+monatômico	adjetivo	mo|na|[tô]|mi|co
+monaulo	nome masculino	mo|[nau]|lo
+monauricular	adjetivo	mo|nau|ri|cu|[lar]
+monazilho	nome masculino	mo|na|[zi]|lho
+monazita	nome feminino	mo|na|[zi]|ta
+monazite	nome feminino	mo|na|[zi]|te
+monazítico	adjetivo	mo|na|[zí]|ti|co
+monçanense	adjetivo	mon|ça|[nen]|se
+monçanense	nome masculino	mon|ça|[nen]|se
+monçanense	nome feminino	mon|ça|[nen]|se
+monção	nome feminino	mon|[ção]
+moncar	verbo	mon|[car]
+monchiquense	adjetivo	mon|chi|[quen]|se
+monchiquense	nome masculino	mon|chi|[quen]|se
+monchiquense	nome feminino	mon|chi|[quen]|se
+monchiquito	nome masculino	mon|chi|[qui]|to
+moncó	nome masculino	mon|[có]
+monco	nome masculino	[mon]|co
+moncó	adjetivo	mon|[có]
+moncó	nome feminino	mon|[có]
+monco-de-peru	nome masculino	mon|co-de-pe|[ru]
+moncone	nome masculino	mon|[co]|ne
+moncorvense	adjetivo	mon|cor|[ven]|se
+moncorvense	nome masculino	mon|cor|[ven]|se
+moncorvense	nome feminino	mon|cor|[ven]|se
+moncorvino	adjetivo	mon|cor|[vi]|no
+moncoso	adjetivo	mon|[co]|so
+monda	nome feminino	[mon]|da
+mondadeira	nome feminino	mon|da|[dei]|ra
+mondadeiro	adjetivo	mon|da|[dei]|ro
+mondadeiro	nome masculino	mon|da|[dei]|ro
+mondado	adjetivo	mon|[da]|do
+mondador	nome masculino	mon|da|[dor]
+mondador	adjetivo	mon|da|[dor]
+mondadora	nome feminino	mon|da|[do]|ra
+mondadura	nome feminino	mon|da|[du]|ra
+mondar	verbo	mon|[dar]
+mondável	adjetivo	mon|[dá]|vel
+mondé	adjetivo	mon|[dé]
+mondé	nome feminino	mon|[dé]
+mondé	nome masculino	mon|[dé]

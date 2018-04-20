@@ -1,0 +1,100 @@
+cuscutácea	nome feminino	cus|cu|[tá]|ce|a
+cuscuz	nome masculino	cus|[cuz]
+cuscuz	adjetivo	cus|[cuz]
+cuscuzeira	nome feminino	cus|cu|[zei]|ra
+cuscuzeiro	nome masculino	cus|cu|[zei]|ro
+cusparada	nome feminino	cus|pa|[ra]|da
+cuspe	nome masculino	[cus]|pe
+cuspida	nome feminino	cus|[pi]|da
+cuspidado	adjetivo	cus|pi|[da]|do
+cuspidária	nome feminino	cus|pi|[dá]|ri|a
+cuspidato	adjetivo	cus|pi|[da]|to
+cúspide	nome feminino	[cús]|pi|de
+cuspideira	nome feminino	cus|pi|[dei]|ra
+cuspidela	nome feminino	cus|pi|[de]|la
+cuspidiforme	adjetivo	cus|pi|di|[for]|me
+cuspido	adjetivo	cus|[pi]|do
+cuspidor	nome masculino	cus|pi|[dor]
+cuspidor	adjetivo	cus|pi|[dor]
+cuspidouro	nome masculino	cus|pi|[dou]|ro
+cuspidura	nome feminino	cus|pi|[du]|ra
+cuspilhar	verbo	cus|pi|[lhar]
+cuspinha	nome feminino	cus|[pi]|nha
+cuspinhada	nome feminino	cus|pi|[nha]|da
+cuspinhador	adjetivo	cus|pi|nha|[dor]
+cuspinhador	nome masculino	cus|pi|nha|[dor]
+cuspinhadura	nome feminino	cus|pi|nha|[du]|ra
+cuspinhagem	nome feminino	cus|pi|[nha]|gem
+cuspinhar	verbo	cus|pi|[nhar]
+cuspinheira	nome feminino	cus|pi|[nhei]|ra
+cuspinho	nome masculino	cus|[pi]|nho
+cuspir	verbo	cus|[pir]
+cuspira	nome feminino	cus|[pi]|ra
+cuspo	nome masculino	[cus]|po
+cusquenho	nome masculino	cus|[que]|nho
+cusquenho	adjetivo	cus|[que]|nho
+cusso	nome masculino	[cus]|so
+cussuca	nome feminino	cus|[su]|ca
+cussuca	adjetivo	cus|[su]|ca
+custa	nome feminino	[cus]|ta
+custar	verbo	cus|[tar]
+custeador	adjetivo	cus|te|a|[dor]
+custeador	nome masculino	cus|te|a|[dor]
+custeamento	nome masculino	cus|te|a|[men]|to
+custear	verbo	cus|te|[ar]
+custeável	adjetivo	cus|te|[á]|vel
+custeio	nome masculino	cus|[tei]|o
+custo	nome masculino	[cus]|to
+custo-benefício	nome masculino	cus|to-be|ne|[fí]|ci|o
+custódia	nome feminino	cus|[tó]|di|a
+custodiar	verbo	cus|to|di|[ar]
+custódio	adjetivo	cus|[tó]|di|o
+custódio	nome masculino	cus|[tó]|di|o
+custodismo	nome masculino	cus|to|[dis]|mo
+custodista	adjetivo	cus|to|[dis]|ta
+custodista	nome masculino	cus|to|[dis]|ta
+custodista	nome feminino	cus|to|[dis]|ta
+custosamente	advérbio	cus|to|sa|[men]|te
+custoso	adjetivo	cus|[to]|so
+cut	nome masculino	[cut]
+cutâneo	adjetivo	cu|[tâ]|ne|o
+cutarda	nome feminino	cu|[tar]|da
+cute	nome feminino	[cu]|te
+cutela	nome feminino	cu|[te]|la
+cutelaço	nome masculino	cu|te|[la]|ço
+cutelão	nome masculino	cu|te|[lão]
+cutelaria	nome feminino	cu|te|la|[ri]|a
+cuteleiro	nome masculino	cu|te|[lei]|ro
+cutelinhos	nome masculino	cu|te|[li]|nhos
+cutelo	nome masculino	cu|[te]|lo
+cúter	nome masculino	[cú]|ter
+cutia	nome feminino	cu|[ti]|a
+cutícola	nome feminino	cu|[tí]|co|la
+cutícula	nome feminino	cu|[tí]|cu|la
+cuticular	adjetivo	cu|ti|cu|[lar]
+cutículo	nome masculino	cu|[tí]|cu|lo
+cuticuloso	adjetivo	cu|ti|cu|[lo]|so
+cutidura	nome feminino	cu|ti|[du]|ra
+cutilada	nome feminino	cu|ti|[la]|da
+cutilão	nome masculino	cu|ti|[lão]
+cutilar	verbo	cu|ti|[lar]
+cutilaria	nome feminino	cu|ti|la|[ri]|a
+cutileiro	nome masculino	cu|ti|[lei]|ro
+cutiliquê	nome masculino	cu|ti|li|[quê]
+cutimandioca	nome feminino	cu|ti|man|di|[o]|ca
+cutina	nome feminino	cu|[ti]|na
+cutinização	nome feminino	cu|ti|ni|za|[ção]
+cutinizar	verbo	cu|ti|ni|[zar]
+cutinoso	adjetivo	cu|ti|[no]|so
+cutipaca	nome masculino	cu|ti|[pa]|ca
+cutirreação	nome feminino	cu|tir|re|a|[ção]
+cútis	nome feminino	[cú]|tis
+cutisação	nome feminino	cu|ti|sa|[ção]
+cutisar	verbo	cu|ti|[sar]
+cutisável	adjetivo	cu|ti|[sá]|vel
+cutite	nome feminino	cu|[ti]|te
+cutitiribá	nome masculino	cu|ti|ti|ri|[bá]
+cutrelha	nome feminino	cu|[tre]|lha
+cutuba	adjetivo	cu|[tu]|ba
+cutúbea	nome feminino	cu|[tú]|be|a
+cutuca	nome feminino	cu|[tu]|ca

@@ -1,0 +1,100 @@
+aquiritivo	adjetivo	a|qui|ri|[ti]|vo
+aquiro	adjetivo	a|[qui]|ro
+aquiro	nome masculino	a|[qui]|ro
+aquirófito	adjetivo	a|qui|[ró]|fi|to
+aquiróforo	nome masculino	a|qui|[ró]|fo|ro
+aquirospermo	nome masculino	a|qui|ros|[per]|mo
+aquisição	nome feminino	a|qui|si|[ção]
+aquisitividade	nome feminino	a|qui|si|ti|vi|[da]|de
+aquisitivo	adjetivo	a|qui|si|[ti]|vo
+aquista	adjetivo	a|[quis]|ta
+aquista	nome masculino	a|[quis]|ta
+aquista	nome feminino	a|[quis]|ta
+aquistar	verbo	a|quis|[tar]
+aquitana	nome feminino	a|qui|[ta]|na
+aquitanense	nome masculino	a|qui|ta|[nen]|se
+aquitanense	nome feminino	a|qui|ta|[nen]|se
+aquitanense	adjetivo	a|qui|ta|[nen]|se
+aquitânico	adjetivo	a|qui|[tâ]|ni|co
+aquitano	nome masculino	a|qui|[ta]|no
+aquitano	adjetivo	a|qui|[ta]|no
+aquivo	nome feminino	a|[qui]|vo
+aquivo	nome masculino	a|[qui]|vo
+aquivo	adjetivo	a|[qui]|vo
+aquosidade	nome feminino	a|quo|si|[da]|de
+aquoso	adjetivo	a|[quo]|so
+ar	nome masculino	[ar]
+ará	nome masculino	a|[rá]
+ara	nome feminino	[a]|ra
+arabá	nome masculino	a|ra|[bá]
+arabata	nome masculino	a|ra|[ba]|ta
+arabata	nome feminino	a|ra|[ba]|ta
+árabe	nome masculino	[á]|ra|be
+árabe	adjetivo	[á]|ra|be
+árabe	nome feminino	[á]|ra|be
+árabe-saudita	adjetivo	á|ra|be-sau|[di]|ta
+árabe-saudita	nome masculino	á|ra|be-sau|[di]|ta
+árabe-saudita	nome feminino	á|ra|be-sau|[di]|ta
+arabesca	nome feminino	a|ra|[bes]|ca
+arabescar	verbo	a|ra|bes|[car]
+arabesco	nome masculino	a|ra|[bes]|co
+arabesco	adjetivo	a|ra|[bes]|co
+arabeta	nome feminino	a|ra|[be]|ta
+arabia	nome feminino	a|ra|[bi]|a
+arábia	nome feminino	a|[rá]|bi|a
+arabiado	adjetivo	a|ra|bi|[a]|do
+arabiado	nome masculino	a|ra|bi|[a]|do
+arábias	nome feminino	a|[rá]|bi|as
+arábica	nome feminino	a|[rá]|bi|ca
+arábico	nome masculino	a|[rá]|bi|co
+arábico	adjetivo	a|[rá]|bi|co
+arábico-espanhol	adjetivo	a|rá|bi|co-es|pa|[nhol]
+arábico-português	adjetivo	a|rá|bi|co-por|tu|[guês]
+arábigo	adjetivo	a|[rá]|bi|go
+arábigo	nome masculino	a|[rá]|bi|go
+arábigo-espanhol	adjetivo	a|rá|bi|go-es|pa|[nhol]
+arábigo-português	adjetivo	a|rá|bi|go-por|tu|[guês]
+arabina	nome feminino	a|ra|[bi]|na
+arabinose	nome feminino	a|ra|bi|[no]|se
+arábio	adjetivo	a|[rá]|bi|o
+arábio	nome masculino	a|[rá]|bi|o
+arabismo	nome masculino	a|ra|[bis]|mo
+arabista	nome masculino	a|ra|[bis]|ta
+arabista	nome feminino	a|ra|[bis]|ta
+arabístico	adjetivo	a|ra|[bís]|ti|co
+arabita	adjetivo	a|ra|[bi]|ta
+arabita	nome masculino	a|ra|[bi]|ta
+arabita	nome feminino	a|ra|[bi]|ta
+arabização	nome feminino	a|ra|bi|za|[ção]
+arabizador	adjetivo	a|ra|bi|za|[dor]
+arabizador	nome masculino	a|ra|bi|za|[dor]
+arabizante	adjetivo	a|ra|bi|[zan]|te
+arabizar	verbo	a|ra|bi|[zar]
+araboia	nome feminino	a|ra|[boi]|a
+arabote	nome masculino	a|ra|[bo]|te
+arabu	nome masculino	a|ra|[bu]
+arabutã	nome masculino	a|ra|bu|[tã]
+araca	nome feminino	a|[ra]|ca
+araçá	nome masculino	a|ra|[çá]
+araçá	adjetivo	a|ra|[çá]
+araçá-guaçu	nome masculino	a|ra|çá-gua|[çu]
+araçá-mirim	nome masculino	a|ra|çá-mi|rim
+araçaí	nome masculino	a|ra|ça|[í]
+araçaíba	nome masculino	a|ra|ça|[í]|ba
+aracaju	adjetivo	a|ra|ca|[ju]
+aracaju	nome masculino	a|ra|ca|[ju]
+aracaju	nome feminino	a|ra|ca|[ju]
+aracajuana	nome feminino	a|ra|ca|ju|[a]|na
+aracajuano	nome masculino	a|ra|ca|ju|[a]|no
+aracajuano	adjetivo	a|ra|ca|ju|[a]|no
+aracajuense	nome masculino	a|ra|ca|ju|[en]|se
+aracajuense	adjetivo	a|ra|ca|ju|[en]|se
+aracajuense	nome feminino	a|ra|ca|ju|[en]|se
+aracambé	nome masculino	a|ra|cam|[bé]
+aracambus	nome masculino	a|ra|cam|[bus]
+aracanga	nome feminino	a|ra|[can]|ga
+araçanga	nome feminino	a|ra|[çan]|ga
+aração	nome feminino	a|ra|[ção]
+araçari	nome masculino	a|ra|ça|[ri]
+araçari-de-cinta-vermelha	nome masculino	a|ra|ça|ri-de-cin|ta-ver|[me]|lha
+aracati	nome masculino	a|ra|ca|[ti]

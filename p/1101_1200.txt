@@ -1,0 +1,100 @@
+pancadista	adjetivo	pan|ca|[dis]|ta
+pancadista	nome masculino	pan|ca|[dis]|ta
+pancadista	nome feminino	pan|ca|[dis]|ta
+pancaico	adjetivo	pan|[cai]|co
+pancaio	nome masculino	pan|[cai]|o
+pancaio	adjetivo	pan|[cai]|o
+pancalismo	nome masculino	pan|ca|[lis]|mo
+pancão	nome masculino	pan|[cão]
+pancar	verbo	pan|[car]
+pancarta	nome feminino	pan|[car]|ta
+panceira	nome feminino	pan|[cei]|ra
+panchão	nome masculino	pan|[chão]
+pancitopenia	nome feminino	pan|ci|to|pe|[ni]|a
+panclastite	nome feminino	pan|clas|[ti]|te
+panco	nome masculino	[pan]|co
+pancrácia	nome feminino	pan|[crá]|ci|a
+pancraciasta	nome masculino	pan|cra|ci|[as]|ta
+pancrácio	nome masculino	pan|[crá]|ci|o
+pancrácio	adjetivo	pan|[crá]|ci|o
+pancreádene	nome masculino	pan|cre|[á]|de|ne
+pâncreas	nome masculino	[pân]|cre|as
+pancreatalgia	nome feminino	pan|cre|a|tal|[gi]|a
+pancreatálgico	adjetivo	pan|cre|a|[tál]|gi|co
+pancreatectomia	nome feminino	pan|cre|a|tec|to|[mi]|a
+pancreatectômico	adjetivo	pan|cre|a|tec|[tô]|mi|co
+pancreatectómico	adjetivo	pan|cre|a|tec|[tó]|mi|co
+pancreático	adjetivo	pan|cre|[á]|ti|co
+pancreatina	nome feminino	pan|cre|a|[ti]|na
+pancreatite	nome feminino	pan|cre|a|[ti]|te
+pancreatoduodenal	adjetivo	pan|cre|a|to|du|o|de|[nal]
+pancreatosplénico	adjetivo	pan|cre|a|tos|[plé]|ni|co
+pancreatosplênico	adjetivo	pan|cre|a|tos|[plê]|ni|co
+pancresto	nome masculino	pan|[cres]|to
+pancromático	adjetivo	pan|cro|[má]|ti|co
+pançuda	nome feminino	pan|[çu]|da
+pançudo	adjetivo	pan|[çu]|do
+pançudo	nome masculino	pan|[çu]|do
+panda	nome masculino	[pan]|da
+panda	nome feminino	[pan]|da
+pandácea	nome feminino	pan|[dá]|ce|a
+pandáceo	adjetivo	pan|[dá]|ce|o
+pandacosta	nome masculino	pan|da|[cos]|ta
+pandanácea	nome feminino	pan|da|[ná]|ce|a
+pandanga	nome feminino	pan|[dan]|ga
+pandano	nome masculino	pan|[da]|no
+pandarecos	nome masculino	pan|da|[re]|cos
+pândaro	nome masculino	[pân]|da|ro
+pandear	verbo	pan|de|[ar]
+pandecta	nome feminino	pan|[dec]|ta
+pandectista	nome masculino	pan|dec|[tis]|ta
+pandectista	nome feminino	pan|dec|[tis]|ta
+pândega	nome feminino	[pân]|de|ga
+pandegar	verbo	pan|de|[gar]
+pândego	adjetivo	[pân]|de|go
+pândego	nome masculino	[pân]|de|go
+pandegueiro	adjetivo	pan|de|[guei]|ro
+pandeireiro	nome masculino	pan|dei|[rei]|ro
+pandeireta	nome feminino	pan|dei|[re]|ta
+pandeirinha	nome feminino	pan|dei|[ri]|nha
+pandeiro	nome masculino	pan|[dei]|ro
+pandemia	nome feminino	pan|de|[mi]|a
+pandemicamente	advérbio	pan|de|mi|ca|[men]|te
+pandémico	adjetivo	pan|[dé]|mi|co
+pandêmico	adjetivo	pan|[dê]|mi|co
+pandemônico	adjetivo	pan|de|[mô]|ni|co
+pandemónico	adjetivo	pan|de|[mó]|ni|co
+pandemónio	nome masculino	pan|de|[mó]|ni|o
+pandemônio	nome masculino	pan|de|[mô]|ni|o
+pandiculação	nome feminino	pan|di|cu|la|[ção]
+pandilha	nome feminino	pan|[di]|lha
+pandilha	nome masculino	pan|[di]|lha
+pandilhar	verbo	pan|di|[lhar]
+pandilheiro	nome masculino	pan|di|[lhei]|ro
+pandinamismo	nome masculino	pan|di|na|[mis]|mo
+pandinamista	adjetivo	pan|di|na|[mis]|ta
+pandinamista	nome masculino	pan|di|na|[mis]|ta
+pandinamista	nome feminino	pan|di|na|[mis]|ta
+pandinamômetro	nome masculino	pan|di|na|[mô]|me|tro
+pandinamómetro	nome masculino	pan|di|na|[mó]|me|tro
+pândita	nome masculino	[pân]|di|ta
+pando	adjetivo	[pan]|do
+pandora	nome feminino	pan|[do]|ra
+pandorca	nome feminino	pan|[dor]|ca
+pandorca	nome masculino	pan|[dor]|ca
+pandorga	nome feminino	pan|[dor]|ga
+pandorga	nome masculino	pan|[dor]|ga
+pandorgas	nome masculino	pan|[dor]|gas
+pandorina	nome feminino	pan|do|[ri]|na
+pandoro	nome masculino	pan|[do]|ro
+pandulhar	verbo	pan|du|[lhar]
+pandulho	nome masculino	pan|[du]|lho
+pandura	nome feminino	pan|[du]|ra
+pandurifólio	adjetivo	pan|du|ri|[fó]|li|o
+panduriforme	adjetivo	pan|du|ri|[for]|me
+pane	nome feminino	[pa]|ne
+panegirical	adjetivo	pa|ne|gi|ri|[cal]
+panegiricar	verbo	pa|ne|gi|ri|[car]
+panegírico	nome masculino	pa|ne|[gí]|ri|co
+panegírico	adjetivo	pa|ne|[gí]|ri|co
+panegiriqueiro	nome masculino	pa|ne|gi|ri|[quei]|ro

@@ -1,0 +1,100 @@
+percloreto	nome masculino	per|clo|[re]|to
+perclórico	adjetivo	per|[cló]|ri|co
+percluso	adjetivo	per|[clu]|so
+percócio	adjetivo	per|[có]|ci|o
+percócio	nome masculino	per|[có]|ci|o
+percoide	adjetivo	per|[coi]|de
+percolação	nome feminino	per|co|la|[ção]
+percolar	verbo	per|co|[lar]
+percorrer	verbo	per|cor|[rer]
+percósia	nome feminino	per|[có]|si|a
+percuciência	nome feminino	per|cu|ci|[ên]|ci|a
+percuciente	adjetivo	per|cu|ci|[en]|te
+perculso	adjetivo	per|[cul]|so
+percurso	nome masculino	per|[cur]|so
+percursor	adjetivo	per|cur|[sor]
+percursor	nome masculino	per|cur|[sor]
+percussão	nome feminino	per|cus|[são]
+percussionismo	nome masculino	per|cus|si|o|[nis]|mo
+percussionista	nome masculino	per|cus|si|o|[nis]|ta
+percussionista	nome feminino	per|cus|si|o|[nis]|ta
+percussionístico	adjetivo	per|cus|si|o|[nís]|ti|co
+percussivo	adjetivo	per|cus|[si]|vo
+percussor	nome masculino	per|cus|[sor]
+percussor	adjetivo	per|cus|[sor]
+percussora	nome feminino	per|cus|[so]|ra
+percutâneo	adjetivo	per|cu|[tâ]|ne|o
+percutidor	adjetivo	per|cu|ti|[dor]
+percutidor	nome masculino	per|cu|ti|[dor]
+percutir	verbo	per|cu|[tir]
+percutível	adjetivo	per|cu|[tí]|vel
+percutor	nome masculino	per|cu|[tor]
+perda	nome feminino	[per]|da
+perdão	nome masculino	per|[dão]
+perdão	interjeição	per|[dão]
+perde-ganha	nome masculino	per|de-ga|nha
+perdediço	adjetivo	per|de|[di]|ço
+perdedor	adjetivo	per|de|[dor]
+perdedor	nome masculino	per|de|[dor]
+perdedora	nome feminino	per|de|[do]|ra
+perdente	adjetivo	per|[den]|te
+perdente	nome masculino	per|[den]|te
+perder	verbo	per|[der]
+perdição	nome feminino	per|di|[ção]
+perdicense	nome masculino	per|di|[cen]|se
+perdicense	adjetivo	per|di|[cen]|se
+perdicense	nome feminino	per|di|[cen]|se
+perdíceo	adjetivo	per|[dí]|ce|o
+perdida	nome feminino	per|[di]|da
+perdidamente	advérbio	per|di|da|[men]|te
+perdidiço	adjetivo	per|di|[di]|ço
+perdidinha	nome feminino	per|di|[di]|nha
+perdidinho	adjetivo	per|di|[di]|nho
+perdidinho	nome masculino	per|di|[di]|nho
+perdido	nome masculino	per|[di]|do
+perdido	adjetivo	per|[di]|do
+perdidoso	adjetivo	per|di|[do]|so
+perdigão	nome masculino	per|di|[gão]
+perdigotar	verbo	per|di|go|[tar]
+perdigoto	nome masculino	per|di|[go]|to
+perdigueira	nome feminino	per|di|[guei]|ra
+perdigueiro	nome masculino	per|di|[guei]|ro
+perdigueiro	adjetivo	per|di|[guei]|ro
+perdimento	nome masculino	per|di|[men]|to
+perdível	adjetivo	per|[dí]|vel
+perdiz	nome feminino	per|[diz]
+perdiz-cinzenta	nome feminino	per|diz-cin|[zen]|ta
+perdiz-do-mar	nome feminino	per|diz-do-mar
+perdiz-do-norte	nome feminino	per|diz-do-nor|te
+perdizada	nome feminino	per|di|[za]|da
+perdizite	nome feminino	per|di|[zi]|te
+perdoador	adjetivo	per|do|a|[dor]
+perdoador	nome masculino	per|do|a|[dor]
+perdoança	nome feminino	per|do|[an]|ça
+perdoar	verbo	per|do|[ar]
+perdoável	adjetivo	per|do|[á]|vel
+perdulária	nome feminino	per|du|[lá]|ri|a
+perdulariamente	advérbio	per|du|la|ri|a|[men]|te
+perdulariar	verbo	per|du|la|ri|[ar]
+perdulário	adjetivo	per|du|[lá]|ri|o
+perdulário	nome masculino	per|du|[lá]|ri|o
+perdularismo	nome masculino	per|du|la|[ris]|mo
+perdurabilidade	nome feminino	per|du|ra|bi|li|[da]|de
+perduração	nome feminino	per|du|ra|[ção]
+perdurante	adjetivo	per|du|[ran]|te
+perdurar	verbo	per|du|[rar]
+perdurável	adjetivo	per|du|[rá]|vel
+perduravelmente	advérbio	per|du|ra|vel|[men]|te
+pereba	nome feminino	pe|[re]|ba
+perebento	adjetivo	pe|re|[ben]|to
+perecedoira	nome feminino	pe|re|ce|[doi]|ra
+perecedoiro	adjetivo	pe|re|ce|[doi]|ro
+perecedoiro	nome masculino	pe|re|ce|[doi]|ro
+perecedor	adjetivo	pe|re|ce|[dor]
+perecedouro	adjetivo	pe|re|ce|[dou]|ro
+perecer	verbo	pe|re|[cer]
+perecimento	nome masculino	pe|re|ci|[men]|to
+perecível	adjetivo	pe|re|[cí]|vel
+peregrina	nome feminino	pe|re|[gri]|na
+peregrinação	nome feminino	pe|re|gri|na|[ção]
+peregrinador	adjetivo	pe|re|gri|na|[dor]

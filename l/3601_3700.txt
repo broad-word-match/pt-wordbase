@@ -1,0 +1,100 @@
+liturgista	nome feminino	li|tur|[gis]|ta
+liturgo	nome masculino	li|[tur]|go
+litúria	nome feminino	li|[tú]|ri|a
+litúrico	adjetivo	li|[tú]|ri|co
+liurai	nome masculino	liu|[rai]
+live	adjetivo	[li]|ve
+livedo	nome masculino	li|[ve]|do
+livedo	nome feminino	li|[ve]|do
+livel	nome masculino	li|[vel]
+livelar	verbo	li|ve|[lar]
+lívia	nome feminino	[lí]|vi|a
+lividescer	verbo	li|vi|des|[cer]
+lividez	nome feminino	li|vi|[dez]
+lívido	adjetivo	[lí]|vi|do
+liviopolitano	adjetivo	li|vi|o|po|li|[ta]|no
+liviopolitano	nome masculino	li|vi|o|po|li|[ta]|no
+livoniana	nome feminino	li|vo|ni|[a]|na
+livoniano	adjetivo	li|vo|ni|[a]|no
+livoniano	nome masculino	li|vo|ni|[a]|no
+livónica	nome feminino	li|[vó]|ni|ca
+livónico	nome masculino	li|[vó]|ni|co
+livónico	adjetivo	li|[vó]|ni|co
+livônico	adjetivo	li|[vô]|ni|co
+livônico	nome masculino	li|[vô]|ni|co
+livónio	adjetivo	li|[vó]|ni|o
+livónio	nome masculino	li|[vó]|ni|o
+livônio	adjetivo	li|[vô]|ni|o
+livônio	nome masculino	li|[vô]|ni|o
+livor	nome masculino	li|[vor]
+livra	interjeição	[li]|vra
+livração	nome feminino	li|vra|[ção]
+livrador	adjetivo	li|vra|[dor]
+livrador	nome masculino	li|vra|[dor]
+livralhada	nome feminino	li|vra|[lha]|da
+livramento	nome masculino	li|vra|[men]|to
+livrança	nome feminino	li|[vran]|ça
+livrar	verbo	li|[vrar]
+livraria	nome feminino	li|vra|[ri]|a
+livrável	adjetivo	li|[vrá]|vel
+livre	nome masculino	[li]|vre
+livre	adjetivo	[li]|vre
+livre	advérbio	[li]|vre
+livre-arbítrio	nome masculino	li|vre-ar|[bí]|tri|o
+livre-câmbio	nome masculino	li|vre-câm|bi|o
+livre-cambismo	nome masculino	li|vre-cam|[bis]|mo
+livre-cambista	adjetivo	li|vre-cam|[bis]|ta
+livre-cambista	nome masculino	li|vre-cam|[bis]|ta
+livre-cambista	nome feminino	li|vre-cam|[bis]|ta
+livre-docência	nome feminino	li|vre-do|[cên]|ci|a
+livre-docente	nome masculino	li|vre-do|[cen]|te
+livre-docente	nome feminino	li|vre-do|[cen]|te
+livre-pensadeiro	nome masculino	li|vre-pen|sa|[dei]|ro
+livre-pensador	nome masculino	li|vre-pen|sa|[dor]
+livre-pensador	adjetivo	li|vre-pen|sa|[dor]
+livre-pensadora	nome feminino	li|vre-pen|sa|[do]|ra
+livre-pensamento	nome masculino	li|vre-pen|sa|[men]|to
+livreco	nome masculino	li|[vre]|co
+livreira	nome feminino	li|[vrei]|ra
+livreiro	nome masculino	li|[vrei]|ro
+livreiro	adjetivo	li|[vrei]|ro
+livreiro-editor	nome masculino	li|vrei|ro-e|di|[tor]
+livremente	advérbio	li|vre|[men]|te
+livresco	adjetivo	li|[vres]|co
+livrete	nome masculino	li|[vre]|te
+livreto	nome masculino	li|[vre]|to
+livricho	nome masculino	li|[vri]|cho
+livrilho	nome masculino	li|[vri]|lho
+livrinho	nome masculino	li|[vri]|nho
+livro	nome masculino	[li]|vro
+livro-caixa	nome masculino	li|vro-cai|xa
+livro-diário	nome masculino	li|vro-di|[á]|ri|o
+livrório	nome masculino	li|[vró]|ri|o
+livroxada	nome feminino	li|vro|[xa]|da
+lixa	nome feminino	[li]|xa
+lixa-de-lei	nome feminino	li|xa-de-lei
+lixa-de-pau	nome feminino	li|xa-de-pau
+lixação	nome feminino	li|xa|[ção]
+lixadeira	nome feminino	li|xa|[dei]|ra
+lixadela	nome feminino	li|xa|[de]|la
+lixador	adjetivo	li|xa|[dor]
+lixadora	nome feminino	li|xa|[do]|ra
+lixanço	nome masculino	li|[xan]|ço
+lixar	verbo	li|[xar]
+lixeira	nome feminino	li|[xei]|ra
+lixeiro	nome masculino	li|[xei]|ro
+lixento	adjetivo	li|[xen]|to
+lixinha-da-fundura	nome feminino	li|xi|nha-da-fun|[du]|ra
+lixívia	nome feminino	li|[xí]|vi|a
+lixiviação	nome feminino	li|xi|vi|a|[ção]
+lixiviado	adjetivo	li|xi|vi|[a]|do
+lixiviador	nome masculino	li|xi|vi|a|[dor]
+lixiviagem	nome feminino	li|xi|vi|[a]|gem
+lixiviante	adjetivo	li|xi|vi|[an]|te
+lixiviar	verbo	li|xi|vi|[ar]
+lixivioso	adjetivo	li|xi|vi|[o]|so
+lixo	nome masculino	[li]|xo
+lixoso	adjetivo	li|[xo]|so
+lizar	verbo	li|[zar]
+ló	nome masculino	[ló]
+lo	pronome pessoal	[lo]

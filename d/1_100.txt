@@ -1,0 +1,100 @@
+daa	adjetivo	[da]|a
+daa	nome masculino	[da]|a
+daa	nome feminino	[da]|a
+daba	nome feminino	[da]|ba
+dabá	nome masculino	da|[bá]
+dabio	nome masculino	da|[bi]|o
+dáblio	nome masculino	[dá]|bli|o
+dâblio	nome masculino	[dâ]|bli|o
+dabu	nome masculino	da|[bu]
+dabua	nome feminino	da|[bu]|a
+daca	nome feminino	[da]|ca
+dação	nome feminino	da|[ção]
+dacarense	nome masculino	da|ca|[ren]|se
+dacarense	adjetivo	da|ca|[ren]|se
+dacarense	nome feminino	da|ca|[ren]|se
+dachém	nome masculino	da|[chém]
+dácia	nome feminino	[dá]|ci|a
+dácico	adjetivo	[dá]|ci|co
+dácio	adjetivo	[dá]|ci|o
+dácio	nome masculino	[dá]|ci|o
+dacisco	adjetivo	da|[cis]|co
+dacisco	nome masculino	da|[cis]|co
+dacito	nome masculino	da|[ci]|to
+dacma	nome masculino	[dac]|ma
+dacnomania	nome feminino	dac|no|ma|[ni]|a
+dacnomaníaco	adjetivo	dac|no|ma|[ní]|a|co
+dacnomaníaco	nome masculino	dac|no|ma|[ní]|a|co
+dacnómano	nome masculino	dac|[nó]|ma|no
+dacnômano	nome masculino	dac|[nô]|ma|no
+daco	adjetivo	[da]|co
+daco	nome masculino	[da]|co
+daco-romeno	nome masculino	da|co-ro|[me]|no
+daco-romeno	adjetivo	da|co-ro|[me]|no
+dacolá	contração	da|co|[lá]
+dacoma	nome feminino	da|[co]|ma
+dacomas	nome feminino	da|[co]|mas
+dacota	adjetivo	da|[co]|ta
+dacota	nome masculino	da|[co]|ta
+dacota	nome feminino	da|[co]|ta
+dacriadenalgia	nome feminino	da|cri|a|de|nal|[gi]|a
+dacriadenálgico	adjetivo	da|cri|a|de|[nál]|gi|co
+dacriadenite	nome feminino	da|cri|a|de|[ni]|te
+dacrídio	nome masculino	da|[crí]|di|o
+dácrio	nome masculino	[dá]|cri|o
+dacrioblenorreia	nome feminino	da|cri|o|ble|nor|[rei]|a
+dacriocele	nome feminino	da|cri|o|[ce]|le
+dacriocistectomia	nome feminino	da|cri|o|cis|tec|to|[mi]|a
+dacriocistite	nome feminino	da|cri|o|cis|[ti]|te
+dacrioide	adjetivo	da|cri|[oi]|de
+dacriolina	nome feminino	da|cri|o|[li]|na
+dacriólito	nome masculino	da|cri|[ó]|li|to
+dacriorreia	nome feminino	da|cri|or|[rei]|a
+dacriorreico	adjetivo	da|cri|or|[rei]|co
+dacriúria	nome feminino	da|cri|[ú]|ri|a
+dáctila	nome feminino	[dác]|ti|la
+dactilado	adjetivo	dac|ti|[la]|do
+dactilado	nome masculino	dac|ti|[la]|do
+dactilar	adjetivo	dac|ti|[lar]
+dactílico	adjetivo	dac|[tí]|li|co
+dactílico-espondaico	adjetivo	dac|tí|li|co-es|pon|[dai]|co
+dactilífero	adjetivo	dac|ti|[lí]|fe|ro
+dactilino	adjetivo	dac|ti|[li]|no
+dactílio	nome masculino	dac|[tí]|li|o
+dactiliografia	nome feminino	dac|ti|li|o|gra|[fi]|a
+dactiliográfico	adjetivo	dac|ti|li|o|[grá]|fi|co
+dactiliologia	nome feminino	dac|ti|li|o|lo|[gi]|a
+dactiliológico	adjetivo	dac|ti|li|o|[ló]|gi|co
+dactiliólogo	nome masculino	dac|ti|li|[ó]|lo|go
+dactiliomancia	nome feminino	dac|ti|li|o|man|[ci]|a
+dactiliomante	adjetivo	dac|ti|li|o|[man]|te
+dactiliomante	nome masculino	dac|ti|li|o|[man]|te
+dactiliomante	nome feminino	dac|ti|li|o|[man]|te
+dactiliomântico	adjetivo	dac|ti|li|o|[mân]|ti|co
+dactílion	nome masculino	dac|[tí]|li|on
+dactilioteca	nome feminino	dac|ti|li|o|[te]|ca
+dactilite	nome feminino	dac|ti|[li]|te
+dáctilo	adjetivo	[dác]|ti|lo
+dáctilo	nome masculino	[dác]|ti|lo
+dactilofasia	nome feminino	dac|ti|lo|fa|[si]|a
+dactilógrafa	nome feminino	dac|ti|[ló]|gra|fa
+dactilografado	adjetivo	dac|ti|lo|gra|[fa]|do
+dactilografar	verbo	dac|ti|lo|gra|[far]
+dactilografia	nome feminino	dac|ti|lo|gra|[fi]|a
+dactilograficamente	advérbio	dac|ti|lo|gra|fi|ca|[men]|te
+dactilográfico	adjetivo	dac|ti|lo|[grá]|fi|co
+dactilógrafo	nome masculino	dac|ti|[ló]|gra|fo
+dactilograma	nome masculino	dac|ti|lo|[gra]|ma
+dactiloide	adjetivo	dac|ti|[loi]|de
+dactilólobo	nome masculino	dac|ti|[ló]|lo|bo
+dactilologia	nome feminino	dac|ti|lo|lo|[gi]|a
+dactilológico	adjetivo	dac|ti|lo|[ló]|gi|co
+dactilomancia	nome feminino	dac|ti|lo|man|[ci]|a
+dactilomante	nome masculino	dac|ti|lo|[man]|te
+dactilomante	nome feminino	dac|ti|lo|[man]|te
+dactilomântico	adjetivo	dac|ti|lo|[mân]|ti|co
+dactilonomia	nome feminino	dac|ti|lo|no|[mi]|a
+dactilóptero	nome masculino	dac|ti|[lóp]|te|ro
+dactiloscopia	nome feminino	dac|ti|los|co|[pi]|a
+dactiloscópico	adjetivo	dac|ti|los|[có]|pi|co
+dactiloteca	nome feminino	dac|ti|lo|[te]|ca

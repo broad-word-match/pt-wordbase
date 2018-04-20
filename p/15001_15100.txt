@@ -1,0 +1,100 @@
+psicodrama	nome masculino	psi|co|[dra]|ma
+psicodramaturgo	nome masculino	psi|co|dra|ma|[tur]|go
+psicofármaco	nome masculino	psi|co|[fár]|ma|co
+psicofármaco	adjetivo	psi|co|[fár]|ma|co
+psicofarmacologia	nome feminino	psi|co|far|ma|co|lo|[gi]|a
+psicofarmacológico	adjetivo	psi|co|far|ma|co|[ló]|gi|co
+psicofísica	nome feminino	psi|co|[fí]|si|ca
+psicofísico	adjetivo	psi|co|[fí]|si|co
+psicofisiologia	nome feminino	psi|co|fi|si|o|lo|[gi]|a
+psicofisiológico	adjetivo	psi|co|fi|si|o|[ló]|gi|co
+psicofisiologista	nome masculino	psi|co|fi|si|o|lo|[gis]|ta
+psicofisiologista	nome feminino	psi|co|fi|si|o|lo|[gis]|ta
+psicofisiólogo	nome masculino	psi|co|fi|si|[ó]|lo|go
+psicofonética	nome feminino	psi|co|fo|[né]|ti|ca
+psicofonético	adjetivo	psi|co|fo|[né]|ti|co
+psicofonia	nome feminino	psi|co|fo|[ni]|a
+psicofônico	adjetivo	psi|co|[fô]|ni|co
+psicofónico	adjetivo	psi|co|[fó]|ni|co
+psicogéneo	adjetivo	psi|co|[gé]|ne|o
+psicogênese	nome feminino	psi|co|[gê]|ne|se
+psicogénese	nome feminino	psi|co|[gé]|ne|se
+psicogenético	adjetivo	psi|co|ge|[né]|ti|co
+psicogenia	nome feminino	psi|co|ge|[ni]|a
+psicogênico	adjetivo	psi|co|[gê]|ni|co
+psicogénico	adjetivo	psi|co|[gé]|ni|co
+psicogeriatria	nome feminino	psi|co|ge|ri|a|[tri]|a
+psicoginástica	nome feminino	psi|co|gi|[nás]|ti|ca
+psicoginástico	adjetivo	psi|co|gi|[nás]|ti|co
+psicognosia	nome feminino	psi|cog|no|[si]|a
+psicognóstico	adjetivo	psi|cog|[nós]|ti|co
+psicografia	nome feminino	psi|co|gra|[fi]|a
+psicográfico	adjetivo	psi|co|[grá]|fi|co
+psicógrafo	nome masculino	psi|[có]|gra|fo
+psicograma	nome masculino	psi|co|[gra]|ma
+psicolepsia	nome feminino	psi|co|lep|[si]|a
+psicoléptico	nome masculino	psi|co|[lép]|ti|co
+psicoléptico	adjetivo	psi|co|[lép]|ti|co
+psicolexia	nome feminino	psi|co|le|[xi]|a
+psicolinguista	nome masculino	psi|co|lin|[guis]|ta
+psicolinguista	nome feminino	psi|co|lin|[guis]|ta
+psicolinguística	nome feminino	psi|co|lin|[guís]|ti|ca
+psicolinguístico	adjetivo	psi|co|lin|[guís]|ti|co
+psicóloga	nome feminino	psi|[có]|lo|ga
+psicologia	nome feminino	psi|co|lo|[gi]|a
+psicologicamente	advérbio	psi|co|lo|gi|ca|[men]|te
+psicológico	adjetivo	psi|co|[ló]|gi|co
+psicologismo	nome masculino	psi|co|lo|[gis]|mo
+psicologista	nome masculino	psi|co|lo|[gis]|ta
+psicologista	nome feminino	psi|co|lo|[gis]|ta
+psicologizar	verbo	psi|co|lo|gi|[zar]
+psicólogo	nome masculino	psi|[có]|lo|go
+psicomancia	nome feminino	psi|co|man|[ci]|a
+psicomante	nome masculino	psi|co|[man]|te
+psicomante	nome feminino	psi|co|[man]|te
+psicomântico	adjetivo	psi|co|[mân]|ti|co
+psicomesológico	adjetivo	psi|co|me|so|[ló]|gi|co
+psicómetra	nome masculino	psi|[có]|me|tra
+psicômetra	nome masculino	psi|[cô]|me|tra
+psicómetra	nome feminino	psi|[có]|me|tra
+psicômetra	nome feminino	psi|[cô]|me|tra
+psicometria	nome feminino	psi|co|me|[tri]|a
+psicométrico	adjetivo	psi|co|[mé]|tri|co
+psicômetro	nome masculino	psi|[cô]|me|tro
+psicómetro	nome masculino	psi|[có]|me|tro
+psicometrologia	nome feminino	psi|co|me|tro|lo|[gi]|a
+psicometrológico	adjetivo	psi|co|me|tro|[ló]|gi|co
+psicomotor	adjetivo	psi|co|mo|[tor]
+psicomotricidade	nome feminino	psi|co|mo|tri|ci|[da]|de
+psicomotricista	adjetivo	psi|co|mo|tri|[cis]|ta
+psicomotricista	nome masculino	psi|co|mo|tri|[cis]|ta
+psicomotricista	nome feminino	psi|co|mo|tri|[cis]|ta
+psiconeurose	nome feminino	psi|co|neu|[ro]|se
+psiconeurótico	nome masculino	psi|co|neu|[ró]|ti|co
+psiconeurótico	adjetivo	psi|co|neu|[ró]|ti|co
+psicopata	nome masculino	psi|co|[pa]|ta
+psicopata	nome feminino	psi|co|[pa]|ta
+psicopatia	nome feminino	psi|co|pa|[ti]|a
+psicopático	adjetivo	psi|co|[pá]|ti|co
+psicopatologia	nome feminino	psi|co|pa|to|lo|[gi]|a
+psicopatológico	adjetivo	psi|co|pa|to|[ló]|gi|co
+psicopatologista	nome masculino	psi|co|pa|to|lo|[gis]|ta
+psicopatologista	nome feminino	psi|co|pa|to|lo|[gis]|ta
+psicopedagogia	nome feminino	psi|co|pe|da|go|[gi]|a
+psicopedagógico	adjetivo	psi|co|pe|da|[gó]|gi|co
+psicopedagogo	nome masculino	psi|co|pe|da|[go]|go
+psicopedologia	nome feminino	psi|co|pe|do|lo|[gi]|a
+psicopedológico	adjetivo	psi|co|pe|do|[ló]|gi|co
+psicoplasma	nome masculino	psi|co|[plas]|ma
+psicoplasmático	adjetivo	psi|co|plas|[má]|ti|co
+psicoplásmico	adjetivo	psi|co|[plás]|mi|co
+psicoplegia	nome feminino	psi|co|ple|[gi]|a
+psicopompo	nome masculino	psi|co|[pom]|po
+psicoprofilaxia	nome feminino	psi|co|pro|fi|la|[xi]|a
+psicorrigidez	nome feminino	psi|cor|ri|gi|[dez]
+psicose	nome feminino	psi|[co]|se
+psicósico	adjetivo	psi|[có]|si|co
+psicósico	nome masculino	psi|[có]|si|co
+psicossexual	adjetivo	psi|cos|se|xu|[al]
+psicossexualidade	nome feminino	psi|cos|se|xu|a|li|[da]|de
+psicossocial	adjetivo	psi|cos|so|ci|[al]

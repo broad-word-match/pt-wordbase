@@ -1,0 +1,100 @@
+desabalroamento	nome masculino	de|sa|bal|ro|a|[men]|to
+desabalroar	verbo	de|sa|bal|ro|[ar]
+desabamento	nome masculino	de|sa|ba|[men]|to
+desabar	verbo	de|sa|[bar]
+desabastado	adjetivo	de|sa|bas|[ta]|do
+desabastecido	adjetivo	de|sa|bas|te|[ci]|do
+desabe	nome masculino	de|[sa]|be
+desabeirar	verbo	de|sa|bei|[rar]
+desabelhamento	nome masculino	de|sa|be|lha|[men]|to
+desabelhar	verbo	de|sa|be|[lhar]
+desabelho	adjetivo	de|sa|[be]|lho
+desabelho	nome masculino	de|sa|[be]|lho
+desabilidade	nome feminino	de|sa|bi|li|[da]|de
+desabilitar	verbo	de|sa|bi|li|[tar]
+desabitado	adjetivo	de|sa|bi|[ta]|do
+desabitar	verbo	de|sa|bi|[tar]
+desábito	nome masculino	de|[sá]|bi|to
+desabituação	nome feminino	de|sa|bi|tu|a|[ção]
+desabituado	adjetivo	de|sa|bi|tu|[a]|do
+desabituar	verbo	de|sa|bi|tu|[ar]
+desaboçar	verbo	de|sa|bo|[çar]
+desabonado	adjetivo	de|sa|bo|[na]|do
+desabonador	adjetivo	de|sa|bo|na|[dor]
+desabonador	nome masculino	de|sa|bo|na|[dor]
+desabonar	verbo	de|sa|bo|[nar]
+desabono	nome masculino	de|sa|[bo]|no
+desabordamento	nome masculino	de|sa|bor|da|[men]|to
+desabordar	verbo	de|sa|bor|[dar]
+desaborrecer	verbo	de|sa|bor|re|[cer]
+desabotinado	adjetivo	de|sa|bo|ti|[na]|do
+desabotoado	adjetivo	de|sa|bo|to|[a]|do
+desabotoadura	nome feminino	de|sa|bo|to|a|[du]|ra
+desabotoamento	nome masculino	de|sa|bo|to|a|[men]|to
+desabotoar	verbo	de|sa|bo|to|[ar]
+desabraçar	verbo	de|sa|bra|[çar]
+desabridamente	advérbio	de|sa|bri|da|[men]|te
+desabrido	adjetivo	de|sa|[bri]|do
+desabrigadamente	advérbio	de|sa|bri|ga|da|[men]|te
+desabrigado	adjetivo	de|sa|bri|[ga]|do
+desabrigar	verbo	de|sa|bri|[gar]
+desabrigo	nome masculino	de|sa|[bri]|go
+desabrigoso	adjetivo	de|sa|bri|[go]|so
+desabrimento	nome masculino	de|sa|bri|[men]|to
+desabrir	verbo	de|sa|[brir]
+desabrochado	adjetivo	de|sa|bro|[cha]|do
+desabrochamento	nome masculino	de|sa|bro|cha|[men]|to
+desabrochar	verbo	de|sa|bro|[char]
+desabrolhado	adjetivo	de|sa|bro|[lha]|do
+desabrolhar	verbo	de|sa|bro|[lhar]
+desabusadamente	advérbio	de|sa|bu|sa|da|[men]|te
+desabusado	adjetivo	de|sa|bu|[sa]|do
+desabusar	verbo	de|sa|bu|[sar]
+desabuso	nome masculino	de|sa|[bu]|so
+desaçaimar	verbo	de|sa|çai|[mar]
+desaçamar	verbo	de|sa|ça|[mar]
+desacamar	verbo	de|sa|ca|[mar]
+desacamaradar	verbo	de|sa|ca|ma|ra|[dar]
+desacampar	verbo	de|sa|cam|[par]
+desacanalhar	verbo	de|sa|ca|na|[lhar]
+desacanhamento	nome masculino	de|sa|ca|nha|[men]|to
+desacanhar	verbo	de|sa|ca|[nhar]
+desacasalamento	nome masculino	de|sa|ca|sa|la|[men]|to
+desacasalar	verbo	de|sa|ca|sa|[lar]
+desacatamento	nome masculino	de|sa|ca|ta|[men]|to
+desacatar	verbo	de|sa|ca|[tar]
+desacato	nome masculino	de|sa|[ca]|to
+desacaudelado	adjetivo	de|sa|cau|de|[la]|do
+desacaudilhado	adjetivo	de|sa|cau|di|[lha]|do
+desacaudilhar	verbo	de|sa|cau|di|[lhar]
+desacautelada	nome feminino	de|sa|cau|te|[la]|da
+desacautelado	adjetivo	de|sa|cau|te|[la]|do
+desacautelado	nome masculino	de|sa|cau|te|[la]|do
+desacautelar	verbo	de|sa|cau|te|[lar]
+desacavalar	verbo	de|sa|ca|va|[lar]
+desaceitar	verbo	de|sa|cei|[tar]
+desaceleração	nome feminino	de|sa|ce|le|ra|[ção]
+desacelerar	verbo	de|sa|ce|le|[rar]
+desacentuação	nome feminino	de|sa|cen|tu|a|[ção]
+desacentuar	verbo	de|sa|cen|tu|[ar]
+desacepilhado	adjetivo	de|sa|ce|pi|[lha]|do
+desacerbar	verbo	de|sa|cer|[bar]
+desacertadamente	advérbio	de|sa|cer|ta|da|[men]|te
+desacertado	adjetivo	de|sa|cer|[ta]|do
+desacertar	verbo	de|sa|cer|[tar]
+desacerto	nome masculino	de|sa|[cer]|to
+desachegar	verbo	de|sa|che|[gar]
+desacidificação	nome feminino	de|sa|ci|di|fi|ca|[ção]
+desacidificar	verbo	de|sa|ci|di|fi|[car]
+desaclimado	adjetivo	de|sa|cli|[ma]|do
+desaclimar	verbo	de|sa|cli|[mar]
+desaclimatado	adjetivo	de|sa|cli|ma|[ta]|do
+desaclimatar	verbo	de|sa|cli|ma|[tar]
+desacobardar	verbo	de|sa|co|bar|[dar]
+desacochar	verbo	de|sa|co|[char]
+desacocho	nome masculino	de|sa|[co]|cho
+desacoimar	verbo	de|sa|coi|[mar]
+desacoitar	verbo	de|sa|coi|[tar]
+desacolchetar	verbo	de|sa|col|che|[tar]
+desacolchoar	verbo	de|sa|col|cho|[ar]
+desacolher	verbo	de|sa|co|[lher]

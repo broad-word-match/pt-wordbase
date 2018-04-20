@@ -1,0 +1,100 @@
+ilergáone	nome feminino	i|ler|[gá]|o|ne
+ilergavonense	adjetivo	i|ler|ga|vo|[nen]|se
+ilergavonense	nome masculino	i|ler|ga|vo|[nen]|se
+ilergavonense	nome feminino	i|ler|ga|vo|[nen]|se
+ilergete	adjetivo	i|ler|[ge]|te
+ilergete	nome masculino	i|ler|[ge]|te
+ilergete	nome feminino	i|ler|[ge]|te
+ileso	adjetivo	i|[le]|so
+iletrado	adjetivo	i|le|[tra]|do
+iletrado	nome masculino	i|le|[tra]|do
+iletrismo	nome masculino	i|le|[tris]|mo
+ilha	nome feminino	[i]|lha
+ilhado	adjetivo	i|[lha]|do
+ilhal	nome masculino	i|[lhal]
+ilhapa	nome feminino	i|[lha]|pa
+ilhar	verbo	i|[lhar]
+ilharga	nome feminino	i|[lhar]|ga
+ilhargada	nome feminino	i|lhar|[ga]|da
+ilhargueiro	adjetivo	i|lhar|[guei]|ro
+ilhavense	nome masculino	i|lha|[ven]|se
+ilhavense	adjetivo	i|lha|[ven]|se
+ilhavense	nome feminino	i|lha|[ven]|se
+ílhavo	adjetivo	[í]|lha|vo
+ílhavo	nome masculino	[í]|lha|vo
+ilheta	nome feminino	i|[lhe]|ta
+ilhéu	adjetivo	i|[lhéu]
+ilhéu	nome masculino	i|[lhéu]
+ilheuense	adjetivo	i|lheu|[en]|se
+ilheuense	nome masculino	i|lheu|[en]|se
+ilheuense	nome feminino	i|lheu|[en]|se
+ilhó	nome masculino	i|[lhó]
+ilhó	nome feminino	i|[lhó]
+ilhoa	nome feminino	i|[lho]|a
+ilhós	nome feminino	i|[lhós]
+ilhota	nome feminino	i|[lho]|ta
+ilhote	nome masculino	i|[lho]|te
+ília	nome feminino	[í]|li|a
+iliabdominal	adjetivo	i|li|ab|do|mi|[nal]
+ilíaco	adjetivo	i|[lí]|a|co
+ilíaco	nome masculino	i|[lí]|a|co
+ilíada	nome feminino	i|[lí]|a|da
+iliádico	adjetivo	i|li|[á]|di|co
+ilibação	nome feminino	i|li|ba|[ção]
+ilibado	adjetivo	i|li|[ba]|do
+ilibar	verbo	i|li|[bar]
+ilibável	adjetivo	i|li|[bá]|vel
+iliberal	adjetivo	i|li|be|[ral]
+iliberalidade	nome feminino	i|li|be|ra|li|[da]|de
+iliberalismo	nome masculino	i|li|be|ra|[lis]|mo
+iliberitano	adjetivo	i|li|be|ri|[ta]|no
+iliberitano	nome masculino	i|li|be|ri|[ta]|no
+ilicácea	nome feminino	i|li|[cá]|ce|a
+iliçador	adjetivo	i|li|ça|[dor]
+iliçador	nome masculino	i|li|ça|[dor]
+ilição	nome feminino	i|li|[ção]
+iliçar	verbo	i|li|[çar]
+ilíceo	adjetivo	i|[lí]|ce|o
+ilicina	nome feminino	i|li|[ci]|na
+ilicíneo	adjetivo	i|li|[cí]|ne|o
+ilício	nome masculino	i|[lí]|ci|o
+ilicitamente	advérbio	i|li|ci|ta|[men]|te
+ilícito	adjetivo	i|[lí]|ci|to
+ilicitude	nome feminino	i|li|ci|[tu]|de
+ilidibilidade	nome feminino	i|li|di|bi|li|[da]|de
+ilídimo	adjetivo	i|[lí]|di|mo
+ilidir	verbo	i|li|[dir]
+ilidível	adjetivo	i|li|[dí]|vel
+iliense	nome masculino	i|li|[en]|se
+iliense	adjetivo	i|li|[en]|se
+iliense	nome feminino	i|li|[en]|se
+iligar	verbo	i|li|[gar]
+iliinguinal	adjetivo	i|li|in|gui|[nal]
+iliipogástrico	adjetivo	i|li|i|po|[gás]|tri|co
+ilimitabilidade	nome feminino	i|li|mi|ta|bi|li|[da]|de
+ilimitação	nome feminino	i|li|mi|ta|[ção]
+ilimitadamente	advérbio	i|li|mi|ta|da|[men]|te
+ilimitado	adjetivo	i|li|mi|[ta]|do
+ilimitável	adjetivo	i|li|mi|[tá]|vel
+ílio	adjetivo	[í]|li|o
+ílio	nome masculino	[í]|li|o
+iliocostal	adjetivo	i|li|o|cos|[tal]
+iliofemoral	adjetivo	i|li|o|fe|mo|[ral]
+iliolombar	adjetivo	i|li|o|lom|[bar]
+ílion	nome masculino	[í]|li|on
+iliopectíneo	adjetivo	i|li|o|pec|[tí]|ne|o
+iliopélvico	adjetivo	i|li|o|[pél]|vi|co
+Ílios	nome masculino	Í|[li]|os
+iliospinal	adjetivo	i|li|os|pi|[nal]
+iliosquiático	adjetivo	i|li|os|qui|[á]|ti|co
+iliossacro	adjetivo	i|li|os|[sa]|cro
+iliossagrado	adjetivo	i|li|os|sa|[gra]|do
+iliotibial	adjetivo	i|li|o|ti|bi|[al]
+iliotrocanteriano	adjetivo	i|li|o|tro|can|te|ri|[a]|no
+iliotrocantiniano	adjetivo	i|li|o|tro|can|ti|ni|[a]|no
+iliquidez	nome feminino	i|li|qui|[dez]
+ilíquido	adjetivo	i|[lí]|qui|do
+ilírico	nome masculino	i|[lí]|ri|co
+ilírico	adjetivo	i|[lí]|ri|co
+ilírio	adjetivo	i|[lí]|ri|o
+ilírio	nome masculino	i|[lí]|ri|o

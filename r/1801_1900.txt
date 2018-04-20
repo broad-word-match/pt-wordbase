@@ -1,0 +1,100 @@
+rebentador	adjetivo	re|ben|ta|[dor]
+rebentador	nome masculino	re|ben|ta|[dor]
+rebentamento	nome masculino	re|ben|ta|[men]|to
+rebentante	adjetivo	re|ben|[tan]|te
+rebentão	nome masculino	re|ben|[tão]
+rebentãozal	nome masculino	re|ben|[tão]|zal
+rebentar	verbo	re|ben|[tar]
+rebentina	nome feminino	re|ben|[ti]|na
+rebentinha	nome feminino	re|ben|[ti]|nha
+rebentino	adjetivo	re|ben|[ti]|no
+rebentio	adjetivo	re|ben|[ti]|o
+rebento	nome masculino	re|[ben]|to
+rebentona	nome feminino	re|ben|[to]|na
+rebeque	nome masculino	re|[be]|que
+rebesgado	adjetivo	re|bes|[ga]|do
+rebiasco	nome masculino	re|bi|[as]|co
+rebimba	nome feminino	re|[bim]|ba
+rebimbar	verbo	re|bim|[bar]
+rebique	nome masculino	re|[bi]|que
+rebita	nome feminino	re|[bi]|ta
+rebitadeira	nome feminino	re|bi|ta|[dei]|ra
+rebitador	adjetivo	re|bi|ta|[dor]
+rebitador	nome masculino	re|bi|ta|[dor]
+rebitadora	nome feminino	re|bi|ta|[do]|ra
+rebitagem	nome feminino	re|bi|[ta]|gem
+rebitar	verbo	re|bi|[tar]
+rebite	nome masculino	re|[bi]|te
+rebiteso	adjetivo	re|bi|[te]|so
+rebo	nome masculino	[re]|bo
+reboante	adjetivo	re|bo|[an]|te
+reboar	verbo	re|bo|[ar]
+rebobinar	verbo	re|bo|bi|[nar]
+rebocado	adjetivo	re|bo|[ca]|do
+rebocador	adjetivo	re|bo|ca|[dor]
+rebocador	nome masculino	re|bo|ca|[dor]
+rebocadora	nome feminino	re|bo|ca|[do]|ra
+rebocadura	nome feminino	re|bo|ca|[du]|ra
+rebocar	verbo	re|bo|[car]
+reboco	nome masculino	re|[bo]|co
+rebofa	nome feminino	re|[bo]|fa
+rebojo	nome masculino	re|[bo]|jo
+rebolada	nome feminino	re|bo|[la]|da
+rebolado	adjetivo	re|bo|[la]|do
+rebolado	nome masculino	re|bo|[la]|do
+rebolante	adjetivo	re|bo|[lan]|te
+rebolão	adjetivo	re|bo|[lão]
+rebolão	nome masculino	re|bo|[lão]
+rebolar	verbo	re|bo|[lar]
+rebolaria	nome feminino	re|bo|la|[ri]|a
+rebolcar	verbo	re|bol|[car]
+rebolco	nome masculino	re|[bol]|co
+rebolear	verbo	re|bo|le|[ar]
+reboleira	nome feminino	re|bo|[lei]|ra
+reboleiro	nome masculino	re|bo|[lei]|ro
+reboleiro	adjetivo	re|bo|[lei]|ro
+reboleta	nome feminino	re|bo|[le]|ta
+reboliço	adjetivo	re|bo|[li]|ço
+rebolir	verbo	re|bo|[lir]
+rebolo	nome masculino	re|[bo]|lo
+rebolo	adjetivo	re|[bo]|lo
+rebolqueada	nome feminino	re|bol|que|[a]|da
+rebolquear	verbo	re|bol|que|[ar]
+reboludo	adjetivo	re|bo|[lu]|do
+rebombar	verbo	re|bom|[bar]
+rebombo	nome masculino	re|[bom]|bo
+reboo	nome masculino	re|[bo]|o
+reboque	nome masculino	re|[bo]|que
+reboquear	verbo	re|bo|que|[ar]
+reboqueiro	adjetivo	re|bo|[quei]|ro
+reboquinho	nome masculino	re|bo|[qui]|nho
+rebora	nome feminino	re|[bo]|ra
+reboração	nome feminino	re|bo|ra|[ção]
+reborar	verbo	re|bo|[rar]
+rebordagem	nome feminino	re|bor|[da]|gem
+rebordão	adjetivo	re|bor|[dão]
+rebordão	nome masculino	re|bor|[dão]
+rebordar	verbo	re|bor|[dar]
+rebordo	nome masculino	re|[bor]|do
+rebordosa	nome feminino	re|bor|[do]|sa
+rebordosense	adjetivo	re|bor|do|[sen]|se
+rebordosense	nome masculino	re|bor|do|[sen]|se
+rebordosense	nome feminino	re|bor|do|[sen]|se
+rebotada	nome feminino	re|bo|[ta]|da
+rebotalho	nome masculino	re|bo|[ta]|lho
+rebotar	verbo	re|bo|[tar]
+rebote	nome masculino	re|[bo]|te
+reboto	adjetivo	re|[bo]|to
+rebraço	nome masculino	re|[bra]|ço
+rebramar	verbo	re|bra|[mar]
+rebramir	verbo	re|bra|[mir]
+rebranquear	verbo	re|bran|que|[ar]
+rebrilhação	nome feminino	re|bri|lha|[ção]
+rebrilhante	adjetivo	re|bri|[lhan]|te
+rebrilhar	verbo	re|bri|[lhar]
+rebrilho	nome masculino	re|[bri]|lho
+rebrotar	verbo	re|bro|[tar]
+rebuçada	nome feminino	re|bu|[ça]|da
+rebuçadamente	advérbio	re|bu|ça|da|[men]|te
+rebuçado	nome masculino	re|bu|[ça]|do
+rebuçado	adjetivo	re|bu|[ça]|do

@@ -1,0 +1,100 @@
+grotesco	nome masculino	gro|[tes]|co
+grou	nome masculino	[grou]
+grozinho	nome masculino	gro|[zi]|nho
+grua	nome feminino	[gru]|a
+grual	nome masculino	gru|[al]
+grualeta	nome feminino	gru|a|[le]|ta
+gruaria	nome feminino	gru|a|[ri]|a
+gruau	nome masculino	gru|[au]
+grudado	adjetivo	gru|[da]|do
+grudadoiro	nome masculino	gru|da|[doi]|ro
+grudador	adjetivo	gru|da|[dor]
+grudador	nome masculino	gru|da|[dor]
+grudadora	nome feminino	gru|da|[do]|ra
+grudadouro	nome masculino	gru|da|[dou]|ro
+grudadura	nome feminino	gru|da|[du]|ra
+grudar	verbo	gru|[dar]
+grude	nome masculino	[gru]|de
+grude	nome feminino	[gru]|de
+grudento	adjetivo	gru|[den]|to
+grúdio	adjetivo	[grú]|di|o
+grúdio	nome masculino	[grú]|di|o
+grueiro	adjetivo	gru|[ei]|ro
+grugru	nome masculino	gru|[gru]
+grugrulejar	verbo	gru|gru|le|[jar]
+grugrulhar	verbo	gru|gru|[lhar]
+grugulejar	verbo	gru|gu|le|[jar]
+grugulejo	nome masculino	gru|gu|[le]|jo
+grugunzar	verbo	gru|gun|[zar]
+grugutuba	nome feminino	gru|gu|[tu]|ba
+grugutuba	nome masculino	gru|gu|[tu]|ba
+gruiforme	adjetivo	gru|i|[for]|me
+gruiforme	nome masculino	gru|i|[for]|me
+gruim	nome masculino	gru|[im]
+gruir	verbo	gru|[ir]
+grulha	nome masculino	[gru]|lha
+grulha	nome feminino	[gru]|lha
+grulhaço	nome masculino	gru|[lha]|ço
+grulhada	nome feminino	gru|[lha]|da
+grulhar	verbo	gru|[lhar]
+grulhento	adjetivo	gru|[lhen]|to
+grulho	nome masculino	[gru]|lho
+gruma	nome feminino	[gru]|ma
+grumar	verbo	gru|[mar]
+grumati	nome masculino	gru|ma|[ti]
+grumecência	nome feminino	gru|me|[cên]|ci|a
+grumelo	nome masculino	gru|[me]|lo
+grumentino	adjetivo	gru|men|[ti]|no
+grumentino	nome masculino	gru|men|[ti]|no
+grumetagem	nome feminino	gru|me|[ta]|gem
+grumete	nome masculino	gru|[me]|te
+grumixá	nome masculino	gru|mi|[xá]
+grumixama	nome feminino	gru|mi|[xa]|ma
+grumixameira	nome feminino	gru|mi|xa|[mei]|ra
+grumo	nome masculino	[gru]|mo
+grumoso	adjetivo	gru|[mo]|so
+grúmulo	nome masculino	[grú]|mu|lo
+gruna	nome feminino	[gru]|na
+grunado	nome masculino	gru|[na]|do
+gruneiro	nome masculino	gru|[nei]|ro
+grunge	nome masculino	[grun]|ge
+grunha	nome feminino	[gru]|nha
+grunhideira	nome feminino	gru|nhi|[dei]|ra
+grunhidela	nome feminino	gru|nhi|[de]|la
+grunhido	nome masculino	gru|[nhi]|do
+grunhidor	adjetivo	gru|nhi|[dor]
+grunhidor	nome masculino	gru|nhi|[dor]
+grunhir	verbo	gru|[nhir]
+grunho	nome masculino	[gru]|nho
+grupado	adjetivo	gru|[pa]|do
+grupamento	nome masculino	gru|pa|[men]|to
+grupar	verbo	gru|[par]
+grupelho	nome masculino	gru|[pe]|lho
+grupeto	nome masculino	gru|[pe]|to
+grupiara	nome feminino	gru|pi|[a]|ra
+grupo	nome masculino	[gru]|po
+grupoide	nome masculino	gru|[poi]|de
+grupúsculo	nome masculino	gru|[pús]|cu|lo
+gruta	nome feminino	[gru]|ta
+grutesco	adjetivo	gru|[tes]|co
+grutesco	nome masculino	gru|[tes]|co
+grutescos	nome masculino	gru|[tes]|cos
+gruyère	nome masculino	gru|yèr|e
+gruyère	adjetivo	gru|yèr|e
+gruzínico	adjetivo	gru|[zí]|ni|co
+gruzínio	adjetivo	gru|[zí]|ni|o
+gruzínio	nome masculino	gru|[zí]|ni|o
+guabiju	nome masculino	gua|bi|[ju]
+guabijueiro	nome masculino	gua|bi|ju|[ei]|ro
+guabira	nome feminino	gua|[bi]|ra
+guabiraba	nome feminino	gua|bi|[ra]|ba
+guabiraba	nome masculino	gua|bi|[ra]|ba
+guabirabeira	nome feminino	gua|bi|ra|[bei]|ra
+guabiraguaçu	nome masculino	gua|bi|ra|gua|[çu]
+guabiroba	nome feminino	gua|bi|[ro]|ba
+guabirobeira	nome feminino	gua|bi|ro|[bei]|ra
+guabirota	nome feminino	gua|bi|[ro]|ta
+guabiru	nome masculino	gua|bi|[ru]
+guacá	nome masculino	gua|[cá]
+guacaré	adjetivo	gua|ca|[ré]
+guacaré	nome masculino	gua|ca|[ré]

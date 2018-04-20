@@ -1,0 +1,100 @@
+asisinate	nome feminino	a|si|si|[na]|te
+asma	nome feminino	[as]|ma
+asmática	nome feminino	as|[má]|ti|ca
+asmático	adjetivo	as|[má]|ti|co
+asmático	nome masculino	as|[má]|ti|co
+asmatiforme	adjetivo	as|ma|ti|[for]|me
+asmento	adjetivo	as|[men]|to
+asmento	nome masculino	as|[men]|to
+asmo	adjetivo	[as]|mo
+asna	nome feminino	[as]|na
+asnada	nome feminino	as|[na]|da
+asnais	nome masculino	as|[nais]
+asnal	adjetivo	as|[nal]
+asnalmente	advérbio	as|nal|[men]|te
+asnamente	advérbio	as|na|[men]|te
+asnamento	nome masculino	as|na|[men]|to
+asnaria	nome feminino	as|na|[ri]|a
+asnaticamente	advérbio	as|na|ti|ca|[men]|te
+asnático	adjetivo	as|[ná]|ti|co
+asnático	nome masculino	as|[ná]|ti|co
+asnear	verbo	as|ne|[ar]
+asneira	nome feminino	as|[nei]|ra
+asneirada	nome feminino	as|nei|[ra]|da
+asneirão	nome masculino	as|nei|[rão]
+asneirar	verbo	as|nei|[rar]
+asneirento	adjetivo	as|nei|[ren]|to
+asneirista	adjetivo	as|nei|[ris]|ta
+asneirista	nome masculino	as|nei|[ris]|ta
+asneirista	nome feminino	as|nei|[ris]|ta
+asneiro	nome masculino	as|[nei]|ro
+asneiro	adjetivo	as|[nei]|ro
+asneirola	nome feminino	as|nei|[ro]|la
+asnice	nome feminino	as|[ni]|ce
+asnidade	nome feminino	as|ni|[da]|de
+asnil	nome masculino	as|[nil]
+asnil	adjetivo	as|[nil]
+asno	nome masculino	[as]|no
+asno	adjetivo	[as]|no
+asofia	nome feminino	a|so|[fi]|a
+aspa	nome feminino	[as]|pa
+aspaço	nome masculino	as|[pa]|ço
+aspalacossomia	nome feminino	as|pa|la|cos|so|[mi]|a
+aspalacossomo	nome masculino	as|pa|la|cos|[so]|mo
+aspálato	nome masculino	as|[pá]|la|to
+aspar	verbo	as|[par]
+asparagácea	nome feminino	as|pa|ra|[gá]|ce|a
+asparágea	nome feminino	as|pa|[rá]|ge|a
+asparagicultor	adjetivo	as|pa|ra|gi|cul|[tor]
+asparagicultor	nome masculino	as|pa|ra|gi|cul|[tor]
+asparagicultura	nome feminino	as|pa|ra|gi|cul|[tu]|ra
+asparagina	nome feminino	as|pa|ra|[gi]|na
+aspárago	nome masculino	as|[pá]|ra|go
+asparagólito	nome masculino	as|pa|ra|[gó]|li|to
+aspargo	nome masculino	as|[par]|go
+aspartato	nome masculino	as|par|[ta]|to
+aspártico	adjetivo	as|[pár]|ti|co
+aspas	nome feminino	[as]|pas
+aspásia	nome feminino	as|[pá]|si|a
+aspe	nome masculino	[as]|pe
+aspe	nome feminino	[as]|pe
+aspectável	adjetivo	as|pec|[tá]|vel
+aspecto	nome masculino	as|[pec]|to
+aspectual	adjetivo	as|pec|tu|[al]
+aspeito	nome masculino	as|[pei]|to
+aspêndio	adjetivo	as|[pên]|di|o
+aspêndio	nome masculino	as|[pên]|di|o
+asperamente	advérbio	as|pe|ra|[men]|te
+aspereza	nome feminino	as|pe|[re]|za
+asperger	verbo	as|per|[ger]
+asperges	nome masculino	as|[per]|ges
+aspergilário	adjetivo	as|per|gi|[lá]|ri|o
+aspergilíase	nome feminino	as|per|gi|[lí]|a|se
+aspergiliforme	adjetivo	as|per|gi|li|[for]|me
+aspergilo	nome masculino	as|per|[gi]|lo
+aspergilose	nome feminino	as|per|gi|[lo]|se
+aspergimento	nome masculino	as|per|gi|[men]|to
+aspergir	verbo	as|per|[gir]
+asperícomo	adjetivo	as|pe|[rí]|co|mo
+aspericorne	adjetivo	as|pe|ri|[cor]|ne
+aspericórneo	adjetivo	as|pe|ri|[cór]|ne|o
+asperidade	nome feminino	as|pe|ri|[da]|de
+asperidão	nome feminino	as|pe|ri|[dão]
+asperifólia	nome feminino	as|pe|ri|[fó]|li|a
+asperifoliácea	nome feminino	as|pe|ri|fo|li|[á]|ce|a
+asperifólio	adjetivo	as|pe|ri|[fó]|li|o
+aspermado	adjetivo	as|per|[ma]|do
+aspermatismo	nome masculino	as|per|ma|[tis]|mo
+aspermia	nome feminino	as|per|[mi]|a
+aspermo	adjetivo	as|[per]|mo
+áspero	adjetivo	[ás]|pe|ro
+asperococo	nome masculino	as|pe|ro|[co]|co
+asperrimamente	advérbio	as|per|ri|ma|[men]|te
+aspérrimo	adjetivo	as|[pér]|ri|mo
+aspersão	nome feminino	as|per|[são]
+aspersar	verbo	as|per|[sar]
+aspersionismo	nome masculino	as|per|si|o|[nis]|mo
+asperso	adjetivo	as|[per]|so
+aspersor	nome masculino	as|per|[sor]
+aspersor	adjetivo	as|per|[sor]
+aspersório	nome masculino	as|per|[só]|ri|o

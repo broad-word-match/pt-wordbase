@@ -1,0 +1,100 @@
+passadismo	nome masculino	pas|sa|[dis]|mo
+passadista	adjetivo	pas|sa|[dis]|ta
+passadista	nome masculino	pas|sa|[dis]|ta
+passadista	nome feminino	pas|sa|[dis]|ta
+passado	adjetivo	pas|[sa]|do
+passado	nome masculino	pas|[sa]|do
+passadoiro	nome masculino	pas|sa|[doi]|ro
+passadoiro	adjetivo	pas|sa|[doi]|ro
+passador	adjetivo	pas|sa|[dor]
+passador	nome masculino	pas|sa|[dor]
+passadora	nome feminino	pas|sa|[do]|ra
+passadouro	nome masculino	pas|sa|[dou]|ro
+passadouro	adjetivo	pas|sa|[dou]|ro
+passagear	verbo	pas|sa|ge|[ar]
+passageira	nome feminino	pas|sa|[gei]|ra
+passageiramente	advérbio	pas|sa|gei|ra|[men]|te
+passageiro	adjetivo	pas|sa|[gei]|ro
+passageiro	nome masculino	pas|sa|[gei]|ro
+passageiro-quilómetro	nome masculino	pas|sa|gei|ro-qui|[ló]|me|tro
+passageiro-quilômetro	nome masculino	pas|sa|gei|ro-qui|[lô]|me|tro
+passagem	nome feminino	pas|[sa]|gem
+passajar	verbo	pas|sa|[jar]
+passal	nome masculino	pas|[sal]
+pássalo	nome masculino	[pás]|sa|lo
+passamanar	verbo	pas|sa|ma|[nar]
+passamanaria	nome feminino	pas|sa|ma|na|[ri]|a
+passamaneiro	nome masculino	pas|sa|ma|[nei]|ro
+passamanes	nome masculino	pas|sa|[ma]|nes
+passamento	nome masculino	pas|sa|[men]|to
+passanito	nome masculino	pas|sa|[ni]|to
+passante	adjetivo	pas|[san]|te
+passante	nome masculino	pas|[san]|te
+passante	nome feminino	pas|[san]|te
+passapelo	nome masculino	pas|sa|[pe]|lo
+passaporte	nome masculino	pas|sa|[por]|te
+passar	verbo	pas|[sar]
+pássara	nome feminino	[pás]|sa|ra
+passarada	nome feminino	pas|sa|[ra]|da
+passarão	nome masculino	pas|sa|[rão]
+passaredo	nome masculino	pas|sa|[re]|do
+passareira	nome feminino	pas|sa|[rei]|ra
+passareiro	adjetivo	pas|sa|[rei]|ro
+passareiro	nome masculino	pas|sa|[rei]|ro
+passarela	nome feminino	pas|sa|[re]|la
+passarinha	nome feminino	pas|sa|[ri]|nha
+passarinhada	nome feminino	pas|sa|ri|[nha]|da
+passarinhagem	nome feminino	pas|sa|ri|[nha]|gem
+passarinhão	nome masculino	pas|sa|ri|[nhão]
+passarinhar	verbo	pas|sa|ri|[nhar]
+passarinheira	nome feminino	pas|sa|ri|[nhei]|ra
+passarinheiro	nome masculino	pas|sa|ri|[nhei]|ro
+passarinheiro	adjetivo	pas|sa|ri|[nhei]|ro
+passarinho	nome masculino	pas|sa|[ri]|nho
+passarinho a olhar	nome masculino	pas|sa|[ri]|nho a o|lhar
+passarinho-do-egito	nome masculino	pas|sa|ri|nho-do-e|[gi]|to
+passarinho-trigueiro	nome masculino	pas|sa|ri|nho-tri|[guei]|ro
+passaritar	verbo	pas|sa|ri|[tar]
+passarito	nome masculino	pas|sa|[ri]|to
+pássaro	nome masculino	[pás]|sa|ro
+pássaro-da-morte	nome masculino	pás|sa|ro-da-mor|te
+pássaro-do-linho	nome masculino	pás|sa|ro-do-li|nho
+pássaro-do-mel	nome masculino	pás|sa|ro-do-mel
+pássaro-rei	nome masculino	pás|sa|ro-rei
+pássaro-ribeiro	nome masculino	pás|sa|ro-ri|[bei]|ro
+passaroco	nome masculino	pas|sa|[ro]|co
+passarola	nome feminino	pas|sa|[ro]|la
+passarolo	nome masculino	pas|sa|[ro]|lo
+passatempear	verbo	pas|sa|tem|pe|[ar]
+passatempo	nome masculino	pas|sa|[tem]|po
+passavante	nome masculino	pas|sa|[van]|te
+passável	adjetivo	pas|[sá]|vel
+passe	nome masculino	[pas]|se
+passe-partout	nome masculino	pas|se-par|tout
+passe-passe	nome masculino	pas|se-pas|se
+passe-vite	nome masculino	pas|se-vi|te
+passeado	adjetivo	pas|se|[a]|do
+passeadoiro	nome masculino	pas|se|a|[doi]|ro
+passeador	adjetivo	pas|se|a|[dor]
+passeador	nome masculino	pas|se|a|[dor]
+passeadouro	nome masculino	pas|se|a|[dou]|ro
+passeante	adjetivo	pas|se|[an]|te
+passeante	nome masculino	pas|se|[an]|te
+passeante	nome feminino	pas|se|[an]|te
+passear	verbo	pas|se|[ar]
+passeata	nome feminino	pas|se|[a]|ta
+passeio	nome masculino	pas|[sei]|o
+passeira	nome feminino	pas|[sei]|ra
+passeiro	adjetivo	pas|[sei]|ro
+passeiro	nome masculino	pas|[sei]|ro
+passento	adjetivo	pas|[sen]|to
+pássere	nome masculino	[pás]|se|re
+passerelle	nome feminino	pas|se|rel|le
+passerídeo	adjetivo	pas|se|[rí]|de|o
+passerídeo	nome masculino	pas|se|[rí]|de|o
+passerídeo	nome masculino	pas|se|[rí]|de|o
+passeriforme	adjetivo	pas|se|ri|[for]|me
+passeriforme	nome masculino	pas|se|ri|[for]|me
+passibilidade	nome feminino	pas|si|bi|li|[da]|de
+passiflora	nome feminino	pas|si|[flo]|ra
+passiflorácea	nome feminino	pas|si|flo|[rá]|ce|a

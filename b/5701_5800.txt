@@ -1,0 +1,100 @@
+bondo	nome masculino	[bon]|do
+bondo	nome feminino	[bon]|do
+bondosamente	advérbio	bon|do|sa|[men]|te
+bondoso	adjetivo	bon|[do]|so
+bonducina	nome feminino	bon|du|[ci]|na
+bonduque	nome masculino	bon|[du]|que
+boné	nome masculino	bo|[né]
+boneca	nome feminino	bo|[ne]|ca
+bonecada	nome feminino	bo|ne|[ca]|da
+bonecagem	nome feminino	bo|ne|[ca]|gem
+bonecar	verbo	bo|ne|[car]
+boneco	nome masculino	bo|[ne]|co
+bonecra	nome feminino	bo|[ne]|cra
+bonecrada	nome feminino	bo|ne|[cra]|da
+bonecragem	nome feminino	bo|ne|[cra]|gem
+bonecreira	nome feminino	bo|ne|[crei]|ra
+bonecreiro	nome masculino	bo|ne|[crei]|ro
+bonecrice	nome feminino	bo|ne|[cri]|ce
+bonecro	nome masculino	bo|[ne]|cro
+bonense	nome masculino	bo|[nen]|se
+bonense	adjetivo	bo|[nen]|se
+bonense	nome feminino	bo|[nen]|se
+bonequeira	nome feminino	bo|ne|[quei]|ra
+bonequeiro	nome masculino	bo|ne|[quei]|ro
+bonete	nome masculino	bo|[ne]|te
+bonfinense	adjetivo	bon|fi|[nen]|se
+bonfinense	nome masculino	bon|fi|[nen]|se
+bonfinense	nome feminino	bon|fi|[nen]|se
+bonga	adjetivo	[bon]|ga
+bonga	nome masculino	[bon]|ga
+bonga	nome feminino	[bon]|ga
+bongar	verbo	bon|[gar]
+bongárdia	nome feminino	bon|[gár]|di|a
+bongó	nome masculino	bon|[gó]
+bongô	nome masculino	bon|[gô]
+bongolo	nome masculino	bon|[go]|lo
+bongolo	nome feminino	bon|[go]|lo
+bongue	nome masculino	[bon]|gue
+bonhar	verbo	bo|[nhar]
+bonico	nome masculino	bo|[ni]|co
+bonideco	advérbio	bo|ni|[de]|co
+bonificação	nome feminino	bo|ni|fi|ca|[ção]
+bonificar	verbo	bo|ni|fi|[car]
+bonifrate	nome masculino	bo|ni|[fra]|te
+bonifrateiro	adjetivo	bo|ni|fra|[tei]|ro
+bonifrateiro	nome masculino	bo|ni|fra|[tei]|ro
+bonina	nome feminino	bo|[ni]|na
+boninal	nome masculino	bo|ni|[nal]
+boníssimo	adjetivo	bo|[nís]|si|mo
+boniteza	nome feminino	bo|ni|[te]|za
+bonito	adjetivo	bo|[ni]|to
+bonito	nome masculino	bo|[ni]|to
+bonito	interjeição	bo|[ni]|to
+bonitote	adjetivo	bo|ni|[to]|te
+bonomia	nome feminino	bo|no|[mi]|a
+bononiense	adjetivo	bo|no|ni|[en]|se
+bononiense	nome masculino	bo|no|ni|[en]|se
+bononiense	nome feminino	bo|no|ni|[en]|se
+bonosiano	adjetivo	bo|no|si|[a]|no
+bonosiano	nome masculino	bo|no|si|[a]|no
+bons-dias	nome masculino	bons-di|as
+bonsai	nome masculino	bon|[sai]
+bônus	nome masculino	[bô]|nus
+bónus	nome masculino	[bó]|nus
+bonzão	adjetivo	bon|[zão]
+bonzaria	nome feminino	bon|za|[ri]|a
+bonzo	nome masculino	[bon]|zo
+booleano	adjetivo	boo|le|a|no
+boom	nome masculino	[boom]
+boomerang	nome masculino	boo|me|rang
+bootecnia	nome feminino	bo|o|tec|[ni]|a
+bootécnico	adjetivo	bo|o|[téc]|ni|co
+boppiano	adjetivo	bop|pi|[a]|no
+boque	interjeição	[bo]|que
+boqueada	nome feminino	bo|que|[a]|da
+boquear	verbo	bo|que|[ar]
+boqueira	nome feminino	bo|[quei]|ra
+boqueirão	nome masculino	bo|quei|[rão]
+boqueiro	nome masculino	bo|[quei]|ro
+boquejadura	nome feminino	bo|que|ja|[du]|ra
+boquejamento	nome masculino	bo|que|ja|[men]|to
+boquejar	verbo	bo|que|[jar]
+boquejo	nome masculino	bo|[que]|jo
+boquelamento	nome masculino	bo|que|la|[men]|to
+boquelho	nome masculino	bo|[que]|lho
+boquiaberto	adjetivo	bo|qui|a|[ber]|to
+boquiabrir	verbo	bo|qui|a|[brir]
+boquialvo	adjetivo	bo|qui|[al]|vo
+boquiardente	adjetivo	bo|qui|ar|[den]|te
+boquicheio	adjetivo	bo|qui|[chei]|o
+boquiduro	adjetivo	bo|qui|[du]|ro
+boquifendido	adjetivo	bo|qui|fen|[di]|do
+boquifranzido	adjetivo	bo|qui|fran|[zi]|do
+boquilargo	adjetivo	bo|qui|[lar]|go
+boquilavado	adjetivo	bo|qui|la|[va]|do
+boquilha	nome feminino	bo|[qui]|lha
+boquilheiro	nome masculino	bo|qui|[lhei]|ro
+boquim	nome masculino	bo|[quim]
+boquimole	adjetivo	bo|qui|[mo]|le
+boquinegro	adjetivo	bo|qui|[ne]|gro

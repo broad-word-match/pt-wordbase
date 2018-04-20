@@ -1,0 +1,100 @@
+compressimétrico	adjetivo	com|pres|si|[mé]|tri|co
+compressímetro	nome masculino	com|pres|[sí]|me|tro
+compressivamente	advérbio	com|pres|si|va|[men]|te
+compressível	adjetivo	com|pres|[sí]|vel
+compressividade	nome feminino	com|pres|si|vi|[da]|de
+compressivo	adjetivo	com|pres|[si]|vo
+compresso	adjetivo	com|[pres]|so
+compressor	nome masculino	com|pres|[sor]
+compressor	adjetivo	com|pres|[sor]
+compressório	adjetivo	com|pres|[só]|ri|o
+compridamente	advérbio	com|pri|da|[men]|te
+compridão	nome feminino	com|pri|[dão]
+compridez	nome feminino	com|pri|[dez]
+comprido	adjetivo	com|[pri]|do
+comprimente	adjetivo	com|pri|[men]|te
+comprimento	nome masculino	com|pri|[men]|to
+comprimidamente	advérbio	com|pri|mi|da|[men]|te
+comprimido	nome masculino	com|pri|[mi]|do
+comprimido	adjetivo	com|pri|[mi]|do
+comprimir	verbo	com|pri|[mir]
+comprimível	adjetivo	com|pri|[mí]|vel
+comprobante	adjetivo	com|pro|[ban]|te
+comprobativamente	advérbio	com|pro|ba|ti|va|[men]|te
+comprobativo	adjetivo	com|pro|ba|[ti]|vo
+comprobatoriamente	advérbio	com|pro|ba|to|ri|a|[men]|te
+comprobatório	adjetivo	com|pro|ba|[tó]|ri|o
+comprometedor	adjetivo	com|pro|me|te|[dor]
+comprometedor	nome masculino	com|pro|me|te|[dor]
+comprometer	verbo	com|pro|me|[ter]
+comprometido	adjetivo	com|pro|me|[ti]|do
+comprometimento	nome masculino	com|pro|me|ti|[men]|to
+compromissar	verbo	com|pro|mis|[sar]
+compromissário	adjetivo	com|pro|mis|[sá]|ri|o
+compromissário	nome masculino	com|pro|mis|[sá]|ri|o
+compromissivo	adjetivo	com|pro|mis|[si]|vo
+compromisso	nome masculino	com|pro|[mis]|so
+compromissório	adjetivo	com|pro|mis|[só]|ri|o
+compromitente	adjetivo	com|pro|mi|[ten]|te
+compromitente	nome masculino	com|pro|mi|[ten]|te
+compromitente	nome feminino	com|pro|mi|[ten]|te
+compropriedade	nome feminino	com|pro|pri|e|[da]|de
+comproprietária	nome feminino	com|pro|pri|e|[tá]|ri|a
+comproprietário	adjetivo	com|pro|pri|e|[tá]|ri|o
+comproprietário	nome masculino	com|pro|pri|e|[tá]|ri|o
+comprotetor	nome masculino	com|pro|te|[tor]
+comprovação	nome feminino	com|pro|va|[ção]
+comprovadamente	advérbio	com|pro|va|da|[men]|te
+comprovado	adjetivo	com|pro|[va]|do
+comprovador	nome masculino	com|pro|va|[dor]
+comprovador	adjetivo	com|pro|va|[dor]
+comprovante	nome masculino	com|pro|[van]|te
+comprovante	adjetivo	com|pro|[van]|te
+comprovar	verbo	com|pro|[var]
+comprovativamente	advérbio	com|pro|va|ti|va|[men]|te
+comprovatividade	nome feminino	com|pro|va|ti|vi|[da]|de
+comprovativo	adjetivo	com|pro|va|[ti]|vo
+comprovativo	nome masculino	com|pro|va|[ti]|vo
+comprovável	adjetivo	com|pro|[vá]|vel
+comprovincial	adjetivo	com|pro|vin|ci|[al]
+comprovincial	nome masculino	com|pro|vin|ci|[al]
+comprovincial	nome feminino	com|pro|vin|ci|[al]
+comprovinciano	adjetivo	com|pro|vin|ci|[a]|no
+comprovinciano	nome masculino	com|pro|vin|ci|[a]|no
+compsano	adjetivo	comp|[sa]|no
+compsano	nome masculino	comp|[sa]|no
+compso	nome masculino	[comp]|so
+compsócero	nome masculino	comp|[só]|ce|ro
+compsossomo	nome masculino	comp|sos|[so]|mo
+compugnar	verbo	com|pug|[nar]
+compulsação	nome feminino	com|pul|sa|[ção]
+compulsador	adjetivo	com|pul|sa|[dor]
+compulsador	nome masculino	com|pul|sa|[dor]
+compulsão	nome feminino	com|pul|[são]
+compulsar	verbo	com|pul|[sar]
+compulsável	adjetivo	com|pul|[sá]|vel
+compulsivamente	advérbio	com|pul|si|va|[men]|te
+compulsividade	nome feminino	com|pul|si|vi|[da]|de
+compulsivo	adjetivo	com|pul|[si]|vo
+compulsória	nome feminino	com|pul|[só]|ri|a
+compulsoriamente	advérbio	com|pul|so|ri|a|[men]|te
+compulsório	adjetivo	com|pul|[só]|ri|o
+compunção	nome feminino	com|pun|[ção]
+compungidamente	advérbio	com|pun|gi|da|[men]|te
+compungido	adjetivo	com|pun|[gi]|do
+compungimento	nome masculino	com|pun|gi|[men]|to
+compungir	verbo	com|pun|[gir]
+compungitivo	adjetivo	com|pun|gi|[ti]|vo
+compurgação	nome feminino	com|pur|ga|[ção]
+compurgador	adjetivo	com|pur|ga|[dor]
+compurgador	nome masculino	com|pur|ga|[dor]
+compurgar	verbo	com|pur|[gar]
+computação	nome feminino	com|pu|ta|[ção]
+computacional	adjetivo	com|pu|ta|ci|o|[nal]
+computador	nome masculino	com|pu|ta|[dor]
+computador	adjetivo	com|pu|ta|[dor]
+computadora	nome feminino	com|pu|ta|[do]|ra
+computadorizado	adjetivo	com|pu|ta|do|ri|[za]|do
+computadorizar	verbo	com|pu|ta|do|ri|[zar]
+computadorizável	adjetivo	com|pu|ta|do|ri|[zá]|vel
+computar	verbo	com|pu|[tar]

@@ -1,0 +1,100 @@
+adê	interjeição	a|[dê]
+adecto	adjetivo	a|[dec]|to
+adedentro	advérbio	a|de|[den]|tro
+adega	nome feminino	a|[de]|ga
+adegar	verbo	a|de|[gar]
+adegueiro	nome masculino	a|de|[guei]|ro
+adeira	nome feminino	a|[dei]|ra
+adeito	nome masculino	a|[dei]|to
+adejante	adjetivo	a|de|[jan]|te
+adejar	verbo	a|de|[jar]
+adejo	nome masculino	a|[de]|jo
+adejo	adjetivo	a|[de]|jo
+adela	nome feminino	a|[de]|la
+adelaidense	nome masculino	a|de|lai|[den]|se
+adelaidense	adjetivo	a|de|lai|[den]|se
+adeleira	nome feminino	a|de|[lei]|ra
+adeleiro	nome masculino	a|de|[lei]|ro
+adelfa	nome feminino	a|[del]|fa
+adelfal	nome masculino	a|del|[fal]
+adelfeira	nome feminino	a|del|[fei]|ra
+adelfia	nome feminino	a|del|[fi]|a
+adélfico	adjetivo	a|[dél]|fi|co
+adelfo	adjetivo	a|[del]|fo
+adelfo	nome masculino	a|[del]|fo
+adelfogamia	nome feminino	a|del|fo|ga|[mi]|a
+adelfogâmico	adjetivo	a|del|fo|[gâ]|mi|co
+adelgaçado	adjetivo	a|del|ga|[ça]|do
+adelgaçador	adjetivo	a|del|ga|ça|[dor]
+adelgaçador	nome masculino	a|del|ga|ça|[dor]
+adelgaçamento	nome masculino	a|del|ga|ça|[men]|to
+adelgaçante	adjetivo	a|del|ga|[çan]|te
+adelgaçante	nome masculino	a|del|ga|[çan]|te
+adelgaçar	verbo	a|del|ga|[çar]
+adelgaçável	adjetivo	a|del|ga|[çá]|vel
+adelgadar	verbo	a|del|ga|[dar]
+adelgar	verbo	a|del|[gar]
+adelha	nome feminino	a|[de]|lha
+adelhão	nome masculino	a|de|[lhão]
+adelo	nome masculino	a|[de]|lo
+adem	nome masculino	[a]|dem
+adem	nome feminino	[a]|dem
+ademã	nome masculino	a|de|[mã]
+adema	nome feminino	a|[de]|ma
+ademães	nome masculino	a|de|[mães]
+ademais	advérbio	a|de|[mais]
+ademane	nome masculino	a|de|[ma]|ne
+ademanes	nome masculino	a|de|[ma]|nes
+adémia	nome feminino	a|[dé]|mi|a
+adêmia	nome feminino	a|[dê]|mi|a
+ademonia	nome feminino	a|de|mo|[ni]|a
+ademônico	adjetivo	a|de|[mô]|ni|co
+ademónico	adjetivo	a|de|[mó]|ni|co
+adempção	nome feminino	a|demp|[ção]
+adenção	nome feminino	a|den|[ção]
+adenda	nome feminino	a|[den]|da
+adenectomia	nome feminino	a|de|nec|to|[mi]|a
+adenectómico	adjetivo	a|de|nec|[tó]|mi|co
+adenectômico	adjetivo	a|de|nec|[tô]|mi|co
+adenectopia	nome feminino	a|de|nec|to|[pi]|a
+adenectópico	adjetivo	a|de|nec|[tó]|pi|co
+adenenfraxia	nome feminino	a|de|nen|fra|[xi]|a
+adengar	verbo	a|den|[gar]
+adenia	nome feminino	a|de|[ni]|a
+adénico	adjetivo	a|[dé]|ni|co
+adênico	adjetivo	a|[dê]|ni|co
+adenina	nome feminino	a|de|[ni]|na
+adenite	nome feminino	a|de|[ni]|te
+adeno-hipófise	nome feminino	a|de|no-hi|[pó]|fi|se
+adenocancro	nome masculino	a|de|no|[can]|cro
+adenocarcinoma	nome masculino	a|de|no|car|ci|[no]|ma
+adenografia	nome feminino	a|de|no|gra|[fi]|a
+adenográfico	adjetivo	a|de|no|[grá]|fi|co
+adenógrafo	nome masculino	a|de|[nó]|gra|fo
+adenoide	adjetivo	a|de|[noi]|de
+adenoide	nome feminino	a|de|[noi]|de
+adenoidectomia	nome feminino	a|de|noi|dec|to|[mi]|a
+adenologia	nome feminino	a|de|no|lo|[gi]|a
+adenológico	adjetivo	a|de|no|[ló]|gi|co
+adenologista	nome masculino	a|de|no|lo|[gis]|ta
+adenologista	nome feminino	a|de|no|lo|[gis]|ta
+adenólogo	nome masculino	a|de|[nó]|lo|go
+adenoma	nome masculino	a|de|[no]|ma
+adenomectomia	nome feminino	a|de|no|mec|to|[mi]|a
+adenonervoso	adjetivo	a|de|no|ner|[vo]|so
+adenopata	nome masculino	a|de|no|[pa]|ta
+adenopata	nome feminino	a|de|no|[pa]|ta
+adenopatia	nome feminino	a|de|no|pa|[ti]|a
+adenopático	adjetivo	a|de|no|[pá]|ti|co
+adenosina	nome feminino	a|de|no|[si]|na
+adenoso	adjetivo	a|de|[no]|so
+adenossarcoma	nome masculino	a|de|nos|sar|[co]|ma
+adenossarcomatoso	adjetivo	a|de|nos|sar|co|ma|[to]|so
+adenovírus	nome masculino	a|de|no|[ví]|rus
+adensa-nuvens	adjetivo	a|den|sa-nu|vens
+adensado	adjetivo	a|den|[sa]|do
+adensador	adjetivo	a|den|sa|[dor]
+adensador	nome masculino	a|den|sa|[dor]
+adensamento	nome masculino	a|den|sa|[men]|to
+adensar	verbo	a|den|[sar]
+adensável	adjetivo	a|den|[sá]|vel

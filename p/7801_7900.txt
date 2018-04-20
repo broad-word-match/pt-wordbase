@@ -1,0 +1,100 @@
+pingorça	nome feminino	pin|[gor]|ça
+pingos de ovos	nome masculino	[pin]|gos de o|vos
+pingoso	adjetivo	pin|[go]|so
+pingota	nome feminino	pin|[go]|ta
+pinguaciba	nome feminino	pin|gua|[ci]|ba
+pinguço	adjetivo	pin|[gu]|ço
+pinguço	nome masculino	pin|[gu]|ço
+pingue	adjetivo	[pin]|gue
+pingue	nome masculino	[pin]|gue
+pingue-pongue	nome masculino	pin|gue-pon|gue
+pingue-ponguista	nome masculino	pin|gue-pon|[guis]|ta
+pingue-ponguista	nome feminino	pin|gue-pon|[guis]|ta
+pinguécula	nome feminino	pin|[gué]|cu|la
+pingueiro	nome masculino	pin|[guei]|ro
+pingueiro	adjetivo	pin|[guei]|ro
+pinguela	nome feminino	pin|[gue]|la
+pinguelete	nome masculino	pin|gue|[le]|te
+pinguelim	nome masculino	pin|gue|[lim]
+pinguelo	nome masculino	pin|[gue]|lo
+pinguemente	advérbio	pin|gue|[men]|te
+pinguicho	nome masculino	pin|[gui]|cho
+pinguifólio	adjetivo	pin|gui|[fó]|li|o
+pinguim	nome masculino	pin|[guim]
+pinguinhas	nome masculino	pin|[gui]|nhas
+pinguinhas	nome feminino	pin|[gui]|nhas
+pinguipedídeo	adjetivo	pin|gui|pe|[dí]|de|o
+pingúrrio	nome masculino	pin|[gúr]|ri|o
+pinguruto	nome masculino	pin|gu|[ru]|to
+pinha	nome feminino	[pi]|nha
+pinha-alta	nome feminino	pi|nha-al|ta
+pinhal	nome masculino	pi|[nhal]
+pinhal-novense	adjetivo	pi|nhal-no|[ven]|se
+pinhal-novense	nome masculino	pi|nhal-no|[ven]|se
+pinhal-novense	nome feminino	pi|nhal-no|[ven]|se
+pinhão	nome masculino	pi|[nhão]
+pinhão	adjetivo	pi|[nhão]
+pinhão-bravo	nome masculino	pi|nhão-bra|vo
+pinhão-de-purga	nome masculino	pi|nhão-de-pur|ga
+pinhão-do-brasil	nome masculino	pi|nhão-do-bra|[sil]
+pinhão-manso	nome masculino	pi|nhão-man|so
+pinhé	nome masculino	pi|[nhé]
+pinheira	nome feminino	pi|[nhei]|ra
+pinheiral	nome masculino	pi|nhei|[ral]
+pinheirame	nome masculino	pi|nhei|[ra]|me
+pinheirinho	nome masculino	pi|nhei|[ri]|nho
+pinheirismo	nome masculino	pi|nhei|[ris]|mo
+pinheirista	adjetivo	pi|nhei|[ris]|ta
+pinheirista	nome masculino	pi|nhei|[ris]|ta
+pinheirista	nome feminino	pi|nhei|[ris]|ta
+pinheiro	nome masculino	pi|[nhei]|ro
+pinheiro-alvar	nome masculino	pi|nhei|ro-al|[var]
+pinheiro-baboso	nome masculino	pi|nhei|ro-ba|[bo]|so
+pinheiro-de-purga	nome masculino	pi|nhei|ro-de-pur|ga
+pinheiro-de-riga	nome masculino	pi|nhei|ro-de-ri|ga
+pinheiro-do-brasil	nome masculino	pi|nhei|ro-do-bra|[sil]
+pinheiro-larício	nome masculino	pi|nhei|ro-la|[rí]|ci|o
+pinheiro-silvestre	nome masculino	pi|nhei|ro-sil|[ves]|tre
+pinhelense	nome masculino	pi|nhe|[len]|se
+pinhelense	adjetivo	pi|nhe|[len]|se
+pinhelense	nome feminino	pi|nhe|[len]|se
+pinho	nome masculino	[pi]|nho
+pinho de Flandres	nome masculino	[pi]|nho de Flan|dres
+pinho de Riga	nome masculino	[pi]|nho de Ri|ga
+pinho-de-riga	nome masculino	pi|nho-de-ri|ga
+pinho-do-brejo	nome masculino	pi|nho-do-bre|jo
+pinho-do-paraná	nome masculino	pi|nho-do-pa|ra|[ná]
+pinhoã	nome feminino	pi|nho|[ã]
+pinhoada	nome feminino	pi|nho|[a]|da
+pinhoca	nome feminino	pi|[nho]|ca
+pinhoela	nome feminino	pi|nho|[e]|la
+pinhola	nome feminino	pi|[nho]|la
+pinhota	nome feminino	pi|[nho]|ta
+pinicada	nome feminino	pi|ni|[ca]|da
+pinicão	nome masculino	pi|ni|[cão]
+pinicar	verbo	pi|ni|[car]
+pínico	adjetivo	[pí]|ni|co
+pinícola	adjetivo	pi|[ní]|co|la
+pinicultura	nome feminino	pi|ni|cul|[tu]|ra
+pinífero	adjetivo	pi|[ní]|fe|ro
+piniforme	adjetivo	pi|ni|[for]|me
+pinígero	adjetivo	pi|[ní]|ge|ro
+pinilho	nome masculino	pi|[ni]|lho
+pinima	nome feminino	pi|[ni]|ma
+pinina	nome feminino	pi|[ni]|na
+pinípede	nome masculino	pi|[ní]|pe|de
+pinípede	adjetivo	pi|[ní]|pe|de
+pinipicrina	nome feminino	pi|ni|pi|[cri]|na
+pinite	nome feminino	pi|[ni]|te
+pino	nome masculino	[pi]|no
+pinoca	adjetivo	pi|[no]|ca
+pinoca	nome masculino	pi|[no]|ca
+pinoca	nome feminino	pi|[no]|ca
+pinocada	nome feminino	pi|no|[ca]|da
+pinocar	verbo	pi|no|[car]
+pinocitose	nome feminino	pi|no|ci|[to]|se
+pinocitótico	adjetivo	pi|no|ci|[tó]|ti|co
+pinoco	nome masculino	pi|[no]|co
+pinoguaçu	nome masculino	pi|no|gua|[çu]
+pinoia	nome feminino	pi|[noi]|a
+pinoia	nome masculino	pi|[noi]|a

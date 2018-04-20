@@ -1,0 +1,100 @@
+geanticlinal	nome masculino	ge|an|ti|cli|[nal]
+gear	verbo	ge|[ar]
+gear	nome masculino	ge|[ar]
+geba	nome feminino	[ge]|ba
+gebada	nome feminino	ge|[ba]|da
+gebadeu	adjetivo	ge|ba|[deu]
+gebadeu	nome masculino	ge|ba|[deu]
+gebadoura	nome feminino	ge|ba|[dou]|ra
+gebanita	adjetivo	ge|ba|[ni]|ta
+gebanita	nome masculino	ge|ba|[ni]|ta
+gebanita	nome feminino	ge|ba|[ni]|ta
+gebar	verbo	ge|[bar]
+gebice	nome feminino	ge|[bi]|ce
+gebo	nome masculino	[ge]|bo
+gebo	adjetivo	[ge]|bo
+geboso	adjetivo	ge|[bo]|so
+gebrar	verbo	ge|[brar]
+gebre	nome masculino	[ge]|bre
+gebreira	nome feminino	ge|[brei]|ra
+geco	nome masculino	[ge]|co
+geconídeo	nome masculino	ge|co|[ní]|de|o
+geconídeo	adjetivo	ge|co|[ní]|de|o
+geconídeo	nome masculino	ge|co|[ní]|de|o
+gediniano	adjetivo	ge|di|ni|[a]|no
+gedrite	nome feminino	ge|[dri]|te
+gedrósio	adjetivo	ge|[dró]|si|o
+gedrósio	nome masculino	ge|[dró]|si|o
+geeiro	nome masculino	ge|[ei]|ro
+geeiro	adjetivo	ge|[ei]|ro
+geena	nome feminino	ge|[e]|na
+geento	adjetivo	ge|[en]|to
+gefíreo	nome masculino	ge|[fí]|re|o
+gefireu	adjetivo	ge|fi|[reu]
+gefireu	nome masculino	ge|fi|[reu]
+gefirino	nome masculino	ge|fi|[ri]|no
+gefirofobia	nome feminino	ge|fi|ro|fo|[bi]|a
+gefirofóbico	adjetivo	ge|fi|ro|[fó]|bi|co
+gefirofóbico	nome masculino	ge|fi|ro|[fó]|bi|co
+gefirófobo	adjetivo	ge|fi|[ró]|fo|bo
+gefirófobo	nome masculino	ge|fi|[ró]|fo|bo
+geidrografia	nome feminino	gei|dro|gra|[fi]|a
+geidrográfico	adjetivo	gei|dro|[grá]|fi|co
+geidrógrafo	nome masculino	gei|[dró]|gra|fo
+geidumno	adjetivo	gei|[dum]|no
+geidumno	nome masculino	gei|[dum]|no
+geigéria	nome feminino	gei|[gé]|ri|a
+geio	nome masculino	[gei]|o
+geiserite	nome feminino	gei|se|[ri]|te
+geiserito	nome masculino	gei|se|[ri]|to
+geisha	nome feminino	[gei]|sha
+geistória	nome feminino	geis|[tó]|ri|a
+geistórico	adjetivo	geis|[tó]|ri|co
+gel	nome masculino	[gel]
+gelada	nome feminino	ge|[la]|da
+geladaria	nome feminino	ge|la|da|[ri]|a
+geladeira	nome feminino	ge|la|[dei]|ra
+geladiço	adjetivo	ge|la|[di]|ço
+gelado	adjetivo	ge|[la]|do
+gelado	nome masculino	ge|[la]|do
+gelador	nome masculino	ge|la|[dor]
+gelador	adjetivo	ge|la|[dor]
+geladura	nome feminino	ge|la|[du]|ra
+gelano	adjetivo	ge|[la]|no
+gelano	nome masculino	ge|[la]|no
+gelanto	nome masculino	ge|[lan]|to
+gelar	verbo	ge|[lar]
+gelásimo	nome masculino	ge|[lá]|si|mo
+gelasina	nome feminino	ge|la|[si]|na
+gelasino	nome masculino	ge|la|[si]|no
+gelataria	nome feminino	ge|la|ta|[ri]|a
+gelatina	nome feminino	ge|la|[ti]|na
+gelatinado	adjetivo	ge|la|ti|[na]|do
+gelatiniforme	adjetivo	ge|la|ti|ni|[for]|me
+gelatinização	nome feminino	ge|la|ti|ni|za|[ção]
+gelatinizar	verbo	ge|la|ti|ni|[zar]
+gelatinografia	nome feminino	ge|la|ti|no|gra|[fi]|a
+gelatinográfico	adjetivo	ge|la|ti|no|[grá]|fi|co
+gelatinoso	adjetivo	ge|la|ti|[no]|so
+geleia	nome feminino	ge|[lei]|a
+geleira	nome feminino	ge|[lei]|ra
+geleiro	nome masculino	ge|[lei]|ro
+gelense	adjetivo	ge|[len]|se
+gelense	nome masculino	ge|[len]|se
+gelense	nome feminino	ge|[len]|se
+geleonte	adjetivo	ge|le|[on]|te
+geleonte	nome masculino	ge|le|[on]|te
+geleonte	nome feminino	ge|le|[on]|te
+gelfa	nome feminino	[gel]|fa
+gelha	nome feminino	[ge]|lha
+gelícola	adjetivo	ge|[lí]|co|la
+gelidamente	advérbio	ge|li|da|[men]|te
+gelidez	nome feminino	ge|li|[dez]
+gélido	adjetivo	[gé]|li|do
+gelifazer	verbo	ge|li|fa|[zer]
+gelificação	nome feminino	ge|li|fi|ca|[ção]
+gelificante	nome masculino	ge|li|fi|[can]|te
+gelificante	adjetivo	ge|li|fi|[can]|te
+gelificar	verbo	ge|li|fi|[car]
+gelificável	adjetivo	ge|li|fi|[cá]|vel
+gelina	nome feminino	ge|[li]|na

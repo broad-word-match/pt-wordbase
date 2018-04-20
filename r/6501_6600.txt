@@ -1,0 +1,100 @@
+revoltado	nome masculino	re|vol|[ta]|do
+revoltador	adjetivo	re|vol|ta|[dor]
+revoltador	nome masculino	re|vol|ta|[dor]
+revoltante	adjetivo	re|vol|[tan]|te
+revoltantemente	advérbio	re|vol|tan|te|[men]|te
+revoltão	nome masculino	re|vol|[tão]
+revoltar	verbo	re|vol|[tar]
+revolteamento	nome masculino	re|vol|te|a|[men]|to
+revoltear	verbo	re|vol|te|[ar]
+revolto	adjetivo	re|[vol]|to
+revoltosa	nome feminino	re|vol|[to]|sa
+revoltoso	adjetivo	re|vol|[to]|so
+revoltoso	nome masculino	re|vol|[to]|so
+revolução	nome feminino	re|vo|lu|[ção]
+revolucionador	adjetivo	re|vo|lu|ci|o|na|[dor]
+revolucionador	nome masculino	re|vo|lu|ci|o|na|[dor]
+revolucionamento	nome masculino	re|vo|lu|ci|o|na|[men]|to
+revolucionar	verbo	re|vo|lu|ci|o|[nar]
+revolucionária	nome feminino	re|vo|lu|ci|o|[ná]|ri|a
+revolucionariamente	advérbio	re|vo|lu|ci|o|na|ri|a|[men]|te
+revolucionário	adjetivo	re|vo|lu|ci|o|[ná]|ri|o
+revolucionário	nome masculino	re|vo|lu|ci|o|[ná]|ri|o
+revolucionarismo	nome masculino	re|vo|lu|ci|o|na|[ris]|mo
+revolucionável	adjetivo	re|vo|lu|ci|o|[ná]|vel
+revolucionismo	nome masculino	re|vo|lu|ci|o|[nis]|mo
+revoluteante	adjetivo	re|vo|lu|te|[an]|te
+revolutear	verbo	re|vo|lu|te|[ar]
+revoluteio	nome masculino	re|vo|lu|[tei]|o
+revolutivo	adjetivo	re|vo|lu|[ti]|vo
+revoluto	adjetivo	re|vo|[lu]|to
+revolutoso	adjetivo	re|vo|lu|[to]|so
+revolúvel	adjetivo	re|vo|[lú]|vel
+revolvedor	adjetivo	re|vol|ve|[dor]
+revolvedor	nome masculino	re|vol|ve|[dor]
+revolver	verbo	re|vol|[ver]
+revólver	nome masculino	re|[vól]|ver
+revolvido	adjetivo	re|vol|[vi]|do
+revolvimento	nome masculino	re|vol|vi|[men]|to
+revoo	nome masculino	re|[vo]|o
+revora	nome feminino	re|[vo]|ra
+revosso	pronome possessivo	re|[vos]|so
+revulsão	nome feminino	re|vul|[são]
+revulsar	verbo	re|vul|[sar]
+revulsivamente	advérbio	re|vul|si|va|[men]|te
+revulsivo	adjetivo	re|vul|[si]|vo
+revulsivo	nome masculino	re|vul|[si]|vo
+revulsor	nome masculino	re|vul|[sor]
+revulsório	adjetivo	re|vul|[só]|ri|o
+rexe	nome masculino	[re]|xe
+rexelo	nome masculino	re|[xe]|lo
+rexenxão	nome masculino	re|xen|[xão]
+rexerta	adjetivo	re|[xer]|ta
+rexerta	nome feminino	re|[xer]|ta
+réxia	nome feminino	[ré]|xi|a
+rexio	nome masculino	re|[xi]|o
+rexoxó	nome masculino	re|xo|[xó]
+reza	nome feminino	[re]|za
+rezada	nome feminino	re|[za]|da
+rezadeira	nome feminino	re|za|[dei]|ra
+rezadeiro	adjetivo	re|za|[dei]|ro
+rezadeiro	nome masculino	re|za|[dei]|ro
+rezado	adjetivo	re|[za]|do
+rezador	adjetivo	re|za|[dor]
+rezador	nome masculino	re|za|[dor]
+rezanada	nome feminino	re|za|[na]|da
+rezão	nome masculino	re|[zão]
+rezão	adjetivo	re|[zão]
+rezar	verbo	re|[zar]
+rezaria	nome feminino	re|za|[ri]|a
+rezentadura	nome feminino	re|zen|ta|[du]|ra
+rezental	adjetivo	re|zen|[tal]
+rezental	nome masculino	re|zen|[tal]
+rezentaleira	nome feminino	re|zen|ta|[lei]|ra
+rezento	adjetivo	re|[zen]|to
+rezina	adjetivo	re|[zi]|na
+rezina	nome masculino	re|[zi]|na
+rezina	nome feminino	re|[zi]|na
+rezinga	nome feminino	re|[zin]|ga
+rezinga	adjetivo	re|[zin]|ga
+rezingação	nome feminino	re|zin|ga|[ção]
+rezingão	adjetivo	re|zin|[gão]
+rezingão	nome masculino	re|zin|[gão]
+rezingar	verbo	re|zin|[gar]
+rezingona	nome feminino	re|zin|[go]|na
+rezingueiro	adjetivo	re|zin|[guei]|ro
+rezingueiro	nome masculino	re|zin|[guei]|ro
+rezinguento	adjetivo	re|zin|[guen]|to
+rézio	adjetivo	[ré]|zi|o
+rezistar	verbo	re|zis|[tar]
+rezisto	nome masculino	re|[zis]|to
+rezo	nome masculino	[re]|zo
+rezona	nome feminino	re|[zo]|na
+rezuela	nome feminino	re|zu|[e]|la
+rhésus	nome masculino	[rhé]|sus
+rhésus	adjetivo	[rhé]|sus
+ri	nome masculino	[ri]
+ria	nome feminino	[ri]|a
+riacho	nome masculino	ri|[a]|cho
+ríade	nome feminino	[rí]|a|de
+rial	nome masculino	ri|[al]

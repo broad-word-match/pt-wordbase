@@ -1,0 +1,100 @@
+manobrabilidade	nome feminino	ma|no|bra|bi|li|[da]|de
+manobrador	nome masculino	ma|no|bra|[dor]
+manobrador	adjetivo	ma|no|bra|[dor]
+manobradora	nome feminino	ma|no|bra|[do]|ra
+manobrar	verbo	ma|no|[brar]
+manobrável	adjetivo	ma|no|[brá]|vel
+manobreira	nome feminino	ma|no|[brei]|ra
+manobreiro	nome masculino	ma|no|[brei]|ro
+manobrista	nome masculino	ma|no|[bris]|ta
+manobrista	nome feminino	ma|no|[bris]|ta
+manoca	nome feminino	ma|[no]|ca
+manocagem	nome feminino	ma|no|[ca]|gem
+manocar	verbo	ma|no|[car]
+manográfico	adjetivo	ma|no|[grá]|fi|co
+manógrafo	nome masculino	ma|[nó]|gra|fo
+manoio	nome masculino	ma|[noi]|o
+manojeiro	nome masculino	ma|no|[jei]|ro
+manojo	nome masculino	ma|[no]|jo
+manola	nome feminino	ma|[no]|la
+manolho	nome masculino	ma|[no]|lho
+manometria	nome feminino	ma|no|me|[tri]|a
+manométrico	adjetivo	ma|no|[mé]|tri|co
+manómetro	nome masculino	ma|[nó]|me|tro
+manômetro	nome masculino	ma|[nô]|me|tro
+manona	nome feminino	ma|[no]|na
+manopé	nome masculino	ma|no|[pé]
+manopla	nome feminino	ma|[no]|pla
+manoscópico	adjetivo	ma|nos|[có]|pi|co
+manoscópio	nome masculino	ma|nos|[có]|pi|o
+manóstato	nome masculino	ma|[nós]|ta|to
+manotaço	nome masculino	ma|no|[ta]|ço
+manoteador	adjetivo	ma|no|te|a|[dor]
+manotear	verbo	ma|no|te|[ar]
+manoteio	nome masculino	ma|no|[tei]|o
+manquecer	verbo	man|que|[cer]
+manqueira	nome feminino	man|[quei]|ra
+manquejante	adjetivo	man|que|[jan]|te
+manquejar	verbo	man|que|[jar]
+manquitar	verbo	man|qui|[tar]
+manquitó	adjetivo	man|qui|[tó]
+manquitó	nome masculino	man|qui|[tó]
+manquitó	nome feminino	man|qui|[tó]
+manquitola	adjetivo	man|qui|[to]|la
+manquitola	nome masculino	man|qui|[to]|la
+manquitola	nome feminino	man|qui|[to]|la
+mansamente	advérbio	man|sa|[men]|te
+mansão	nome feminino	man|[são]
+mansarda	nome feminino	man|[sar]|da
+mansarrão	adjetivo	man|sar|[rão]
+mansarrão	nome masculino	man|sar|[rão]
+mansarrona	nome feminino	man|sar|[ro]|na
+mansedume	nome masculino	man|se|[du]|me
+mansidade	nome feminino	man|si|[da]|de
+mansidão	nome feminino	man|si|[dão]
+mansilha	nome feminino	man|[si]|lha
+mansinho	adjetivo	man|[si]|nho
+mansinho	advérbio	man|[si]|nho
+mansionário	nome masculino	man|si|o|[ná]|ri|o
+manso	advérbio	[man]|so
+manso	adjetivo	[man]|so
+mansoancá	adjetivo	man|so|an|[cá]
+mansoancá	nome feminino	man|so|an|[cá]
+mansoancá	nome masculino	man|so|an|[cá]
+mansuetário	nome masculino	man|su|e|[tá]|ri|o
+mansuetismo	nome masculino	man|su|e|[tis]|mo
+mansuetude	nome feminino	man|su|e|[tu]|de
+mansura	nome feminino	man|[su]|ra
+manta	nome feminino	[man]|ta
+manta-do-gato	nome feminino	man|ta-do-ga|to
+mantalona	nome feminino	man|ta|[lo]|na
+mantalote	nome masculino	man|ta|[lo]|te
+mantampa	nome feminino	man|[tam]|pa
+mantana	nome feminino	man|[ta]|na
+mantão	nome masculino	man|[tão]
+mantar	verbo	man|[tar]
+mantaz	nome masculino	man|[taz]
+manteação	nome feminino	man|te|a|[ção]
+manteador	adjetivo	man|te|a|[dor]
+manteador	nome masculino	man|te|a|[dor]
+mantear	verbo	man|te|[ar]
+mantearia	nome feminino	man|te|a|[ri]|a
+mantedor	nome masculino	man|te|[dor]
+manteeiro	nome masculino	man|te|[ei]|ro
+manteiga	nome feminino	man|[tei]|ga
+manteigaria	nome feminino	man|tei|ga|[ri]|a
+manteigoso	adjetivo	man|tei|[go]|so
+manteigueira	nome feminino	man|tei|[guei]|ra
+manteigueira	adjetivo	man|tei|[guei]|ra
+manteigueiro	adjetivo	man|tei|[guei]|ro
+manteigueiro	nome masculino	man|tei|[guei]|ro
+manteiguense	adjetivo	man|tei|[guen]|se
+manteiguense	nome masculino	man|tei|[guen]|se
+manteiguense	nome feminino	man|tei|[guen]|se
+manteiguento	adjetivo	man|tei|[guen]|to
+manteiguilha	nome feminino	man|tei|[gui]|lha
+manteiro	nome masculino	man|[tei]|ro
+mantel	nome masculino	man|[tel]
+mantela	nome feminino	man|[te]|la
+mantelado	adjetivo	man|te|[la]|do
+mantelão	nome masculino	man|te|[lão]

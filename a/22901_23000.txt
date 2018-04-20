@@ -1,0 +1,100 @@
+avoejo	nome masculino	a|vo|[e]|jo
+avoenga	nome feminino	a|vo|[en]|ga
+avoengo	nome masculino	a|vo|[en]|go
+avoengo	adjetivo	a|vo|[en]|go
+avoengos	nome masculino	a|vo|[en]|gos
+avoengueiro	adjetivo	a|vo|en|[guei]|ro
+avogacia	nome feminino	a|vo|ga|[ci]|a
+avogar	verbo	a|vo|[gar]
+avolumamento	nome masculino	a|vo|lu|ma|[men]|to
+avolumar	verbo	a|vo|lu|[mar]
+avolumável	adjetivo	a|vo|lu|[má]|vel
+avonda	interjeição	a|[von]|da
+avondança	nome feminino	a|von|[dan]|ça
+avondar	verbo	a|von|[dar]
+avonde	advérbio	a|[von]|de
+avondo	advérbio	a|[von]|do
+avondosamente	advérbio	a|von|do|sa|[men]|te
+avondoso	adjetivo	a|von|[do]|so
+avorrecido	adjetivo	a|vor|re|[ci]|do
+avós	nome masculino	a|[vós]
+avosar	verbo	a|vo|[sar]
+avozear	verbo	a|vo|ze|[ar]
+avozinha	nome feminino	a|vo|[zi]|nha
+avozinho	nome masculino	a|vo|[zi]|nho
+avulsamente	advérbio	a|vul|sa|[men]|te
+avulsão	nome feminino	a|vul|[são]
+avulsivo	adjetivo	a|vul|[si]|vo
+avulso	adjetivo	a|[vul]|so
+avultações	nome feminino	a|vul|ta|[ções]
+avultadamente	advérbio	a|vul|ta|da|[men]|te
+avultado	adjetivo	a|vul|[ta]|do
+avultante	adjetivo	a|vul|[tan]|te
+avultar	verbo	a|vul|[tar]
+avultoso	adjetivo	a|vul|[to]|so
+avuncular	adjetivo	a|vun|cu|[lar]
+avunculicida	adjetivo	a|vun|cu|li|[ci]|da
+avunculicida	nome masculino	a|vun|cu|li|[ci]|da
+avunculicida	nome feminino	a|vun|cu|li|[ci]|da
+avunculicídio	nome masculino	a|vun|cu|li|[cí]|di|o
+axá	nome masculino	a|[xá]
+axabeba	nome feminino	a|xa|[be]|ba
+axaboucado	adjetivo	a|xa|bou|[ca]|do
+axadrezada	nome feminino	a|xa|dre|[za]|da
+axadrezado	adjetivo	a|xa|dre|[za]|do
+axadrezado	nome masculino	a|xa|dre|[za]|do
+axadrezar	verbo	a|xa|dre|[zar]
+axandrar	verbo	a|xan|[drar]
+axanto	nome masculino	a|[xan]|to
+axe	nome masculino	[a]|xe
+axi	interjeição	a|[xi]
+axial	adjetivo	a|xi|[al]
+axialmente	advérbio	a|xi|al|[men]|te
+axicarado	adjetivo	a|xi|ca|[ra]|do
+axicarar	verbo	a|xi|ca|[rar]
+axículo	nome masculino	a|[xí]|cu|lo
+axífero	adjetivo	a|[xí]|fe|ro
+axifoide	adjetivo	a|xi|[foi]|de
+axiforme	adjetivo	a|xi|[for]|me
+axífugo	adjetivo	a|[xí]|fu|go
+áxil	adjetivo	[á]|xil
+axila	nome feminino	a|[xi]|la
+axilante	adjetivo	a|xi|[lan]|te
+axilar	adjetivo	a|xi|[lar]
+axilibarbudo	adjetivo	a|xi|li|bar|[bu]|do
+axilifloro	adjetivo	a|xi|li|[flo]|ro
+áxilo	adjetivo	[á]|xi|lo
+aximez	nome masculino	a|xi|[mez]
+axinela	nome feminino	a|xi|[ne]|la
+axiniano	adjetivo	a|xi|ni|[a]|no
+axinita	nome feminino	a|xi|[ni]|ta
+axinite	nome feminino	a|xi|[ni]|te
+axinítico	adjetivo	a|xi|[ní]|ti|co
+axinomancia	nome feminino	a|xi|no|man|[ci]|a
+axinomante	nome masculino	a|xi|no|[man]|te
+axinomante	nome feminino	a|xi|no|[man]|te
+axinomântico	adjetivo	a|xi|no|[mân]|ti|co
+axiologia	nome feminino	a|xi|o|lo|[gi]|a
+axiológico	adjetivo	a|xi|o|[ló]|gi|co
+axioma	nome masculino	a|xi|[o]|ma
+axiomática	nome feminino	a|xi|o|[má]|ti|ca
+axiomaticamente	advérbio	a|xi|o|ma|ti|ca|[men]|te
+axiomático	adjetivo	a|xi|o|[má]|ti|co
+axiômetro	nome masculino	a|xi|[ô]|me|tro
+axiómetro	nome masculino	a|xi|[ó]|me|tro
+axionímia	nome feminino	a|xi|o|[ní]|mi|a
+axionímico	adjetivo	a|xi|o|[ní]|mi|co
+axiônimo	nome masculino	a|xi|[ô]|ni|mo
+axiónimo	nome masculino	a|xi|[ó]|ni|mo
+axiopistia	nome feminino	a|xi|o|pis|[ti]|a
+axiopístico	adjetivo	a|xi|o|[pís]|ti|co
+axiopolitano	adjetivo	a|xi|o|po|li|[ta]|no
+axiopolitano	nome masculino	a|xi|o|po|li|[ta]|no
+axípeto	adjetivo	a|[xí]|pe|to
+axiri	nome masculino	a|xi|[ri]
+áxis	nome masculino	[á]|xis
+axiuetado	adjetivo	a|xi|u|e|[ta]|do
+axófito	nome masculino	a|[xó]|fi|to
+axoide	adjetivo	a|[xoi]|de
+axoide	nome masculino	a|[xoi]|de
+axóideo	adjetivo	a|[xói]|de|o

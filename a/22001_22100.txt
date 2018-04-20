@@ -1,0 +1,100 @@
+autentificador	nome masculino	au|ten|ti|fi|ca|[dor]
+autentificar	verbo	au|ten|ti|fi|[car]
+autentificável	adjetivo	au|ten|ti|fi|[cá]|vel
+autepsa	nome feminino	au|[tep]|sa
+auteu	adjetivo	au|[teu]
+auteu	nome masculino	au|[teu]
+autigéneo	adjetivo	au|ti|[gé]|ne|o
+autígeno	adjetivo	au|[tí]|ge|no
+autismo	nome masculino	au|[tis]|mo
+autista	nome masculino	au|[tis]|ta
+autista	adjetivo	au|[tis]|ta
+autista	nome feminino	au|[tis]|ta
+auto	nome masculino	[au]|to
+auto de fé	nome masculino	[au]|to de fé
+auto-china	nome masculino	au|to-chi|na
+auto-hemoterapia	nome feminino	au|to-he|mo|te|ra|[pi]|a
+auto-hemoterápico	adjetivo	au|to-he|mo|te|[rá]|pi|co
+auto-hipnose	nome feminino	au|to-hip|[no]|se
+auto-observação	nome feminino	au|to-ob|ser|va|[ção]
+auto-ônibus	nome masculino	au|to-ô|ni|bus
+auto-ónibus	nome masculino	au|to-ó|ni|bus
+auto-stop	nome masculino	au|to-stop
+autoabastecer	verbo	au|to|a|bas|te|[cer]
+autoacusação	nome feminino	au|to|a|cu|sa|[ção]
+autoacusador	nome masculino	au|to|a|cu|sa|[dor]
+autoadesivo	nome masculino	au|to|a|de|[si]|vo
+autoadesivo	adjetivo	au|to|a|de|[si]|vo
+autoadministração	nome feminino	au|to|ad|mi|nis|tra|[ção]
+autoadministrar	verbo	au|to|ad|mi|nis|[trar]
+autoadministrável	adjetivo	au|to|ad|mi|nis|[trá]|vel
+autoadmiração	nome feminino	au|to|ad|mi|ra|[ção]
+autoajuda	nome feminino	au|to|a|[ju]|da
+autoanálise	nome feminino	au|to|a|[ná]|li|se
+autoaplicável	adjetivo	au|to|a|pli|[cá]|vel
+autoaprendizagem	nome feminino	au|to|a|pren|di|[za]|gem
+autoavaliação	nome feminino	au|to|a|va|li|a|[ção]
+autobiografia	nome feminino	au|to|bi|o|gra|[fi]|a
+autobiográfico	adjetivo	au|to|bi|o|[grá]|fi|co
+autobiógrafo	nome masculino	au|to|bi|[ó]|gra|fo
+autobomba	nome feminino	au|to|[bom]|ba
+autobus	nome masculino	au|to|[bus]
+autocanhão	nome masculino	au|to|ca|[nhão]
+autocaravana	nome feminino	au|to|ca|ra|[va]|na
+autocarro	nome masculino	au|to|[car]|ro
+autocarro-biblioteca	nome masculino	au|to|car|ro-bi|bli|o|[te]|ca
+autocatálise	nome feminino	au|to|ca|[tá]|li|se
+autocefalia	nome feminino	au|to|ce|fa|[li]|a
+autocéfalo	nome masculino	au|to|[cé]|fa|lo
+autocéfalo	adjetivo	au|to|[cé]|fa|lo
+autocensura	nome feminino	au|to|cen|[su]|ra
+autocensurar	verbo	au|to|cen|su|[rar]
+autocentrado	adjetivo	au|to|cen|[tra]|do
+autociclo	nome masculino	au|to|[ci]|clo
+autocinese	nome feminino	au|to|ci|[ne]|se
+autocinesia	nome feminino	au|to|ci|ne|[si]|a
+autocinésico	adjetivo	au|to|ci|[né]|si|co
+autocinético	adjetivo	au|to|ci|[né]|ti|co
+autoclavagem	nome feminino	au|to|cla|[va]|gem
+autoclave	nome feminino	au|to|[cla]|ve
+autoclínica	nome feminino	au|to|[clí]|ni|ca
+autoclinicamente	advérbio	au|to|cli|ni|ca|[men]|te
+autoclínico	adjetivo	au|to|[clí]|ni|co
+autóclise	nome feminino	au|[tó]|cli|se
+autoclismo	nome masculino	au|to|[clis]|mo
+autoclítico	adjetivo	au|to|[clí]|ti|co
+autocolante	adjetivo	au|to|co|[lan]|te
+autocolante	nome masculino	au|to|co|[lan]|te
+autocolimador	adjetivo	au|to|co|li|ma|[dor]
+autocolimador	nome masculino	au|to|co|li|ma|[dor]
+autocombustão	nome feminino	au|to|com|bus|[tão]
+autocomiseração	nome feminino	au|to|co|mi|se|ra|[ção]
+autocomiserativo	adjetivo	au|to|co|mi|se|ra|[ti]|vo
+autocomplacência	nome feminino	au|to|com|pla|[cên]|ci|a
+autoconceito	nome masculino	au|to|con|[cei]|to
+autocondução	nome feminino	au|to|con|du|[ção]
+autoconfiança	nome feminino	au|to|con|fi|[an]|ça
+autoconfiante	adjetivo	au|to|con|fi|[an]|te
+autoconsciência	nome feminino	au|to|cons|ci|[ên]|ci|a
+autoconservação	nome feminino	au|to|con|ser|va|[ção]
+autoconstrução	nome feminino	au|to|cons|tru|[ção]
+autoconsumo	nome masculino	au|to|con|[su]|mo
+autocontemplativo	adjetivo	au|to|con|tem|pla|[ti]|vo
+autocontrato	nome masculino	au|to|con|[tra]|to
+autocontrole	nome masculino	au|to|con|[tro]|le
+autocontrolo	nome masculino	au|to|con|[tro]|lo
+autocópia	nome feminino	au|to|[có]|pi|a
+autocopiadora	nome feminino	au|to|co|pi|a|[do]|ra
+autocopiar	verbo	au|to|co|pi|[ar]
+autocopista	nome masculino	au|to|co|[pis]|ta
+autocopista	nome feminino	au|to|co|[pis]|ta
+autocorreção	nome feminino	au|to|cor|re|[ção]
+autocorretivo	adjetivo	au|to|cor|re|[ti]|vo
+autocorretor	nome masculino	au|to|cor|re|[tor]
+autocracia	nome feminino	au|to|cra|[ci]|a
+autocrata	nome masculino	au|to|[cra]|ta
+autocrata	adjetivo	au|to|[cra]|ta
+autocrata	nome feminino	au|to|[cra]|ta
+autocraticamente	advérbio	au|to|cra|ti|ca|[men]|te
+autocrático	adjetivo	au|to|[crá]|ti|co
+autocratismo	nome masculino	au|to|cra|[tis]|mo

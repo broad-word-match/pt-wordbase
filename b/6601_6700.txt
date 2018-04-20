@@ -1,0 +1,100 @@
+braquióptero	nome masculino	bra|qui|[óp]|te|ro
+braquiossauro	nome masculino	bra|qui|os|[sau]|ro
+braquióstomo	nome masculino	bra|qui|[ós]|to|mo
+braquiotomia	nome feminino	bra|qui|o|to|[mi]|a
+braquiotômico	adjetivo	bra|qui|o|[tô]|mi|co
+braquiotómico	adjetivo	bra|qui|o|[tó]|mi|co
+braquipinacoide	nome masculino	bra|qui|pi|na|[coi]|de
+braquipneia	nome feminino	bra|quip|[nei]|a
+braquipneico	adjetivo	bra|quip|[nei]|co
+braquípode	adjetivo	bra|[quí]|po|de
+braquípode	nome masculino	bra|[quí]|po|de
+braquíptero	nome masculino	bra|[quíp]|te|ro
+braquíptero	adjetivo	bra|[quíp]|te|ro
+braquirrinco	adjetivo	bra|quir|[rin]|co
+braquirrinia	nome feminino	bra|quir|ri|[ni]|a
+braquirrino	adjetivo	bra|quir|[ri]|no
+braquíscio	nome masculino	bra|[quís]|ci|o
+braquíscios	nome masculino	bra|[quís]|ci|os
+braquissilábico	adjetivo	bra|quis|si|[lá]|bi|co
+braquissílabo	adjetivo	bra|quis|[sí]|la|bo
+braquissílabo	nome masculino	bra|quis|[sí]|la|bo
+braquistégia	nome feminino	bra|quis|[té]|gi|a
+braquistócrona	nome feminino	bra|quis|[tó]|cro|na
+braquiterapêutico	adjetivo	bra|qui|te|ra|[pêu]|ti|co
+braquiterapia	nome feminino	bra|qui|te|ra|[pi]|a
+braquiúro	nome masculino	bra|qui|[ú]|ro
+braquiúro	adjetivo	bra|qui|[ú]|ro
+brasa	nome feminino	[bra]|sa
+brasão	nome masculino	bra|[são]
+brasar	verbo	bra|[sar]
+braseira	nome feminino	bra|[sei]|ra
+braseiro	nome masculino	bra|[sei]|ro
+brasfemar	verbo	bras|fe|[mar]
+brasfémia	nome feminino	bras|[fé]|mi|a
+brasfêmia	nome feminino	bras|[fê]|mi|a
+brasido	nome masculino	bra|[si]|do
+brasil	nome masculino	bra|[sil]
+brasil	nome feminino	bra|[sil]
+brasileira	nome feminino	bra|si|[lei]|ra
+brasileirada	nome feminino	bra|si|lei|[ra]|da
+brasileiramente	advérbio	bra|si|lei|ra|[men]|te
+brasileiresco	adjetivo	bra|si|lei|[res]|co
+brasileirice	nome feminino	bra|si|lei|[ri]|ce
+brasileirismo	nome masculino	bra|si|lei|[ris]|mo
+brasileiro	nome masculino	bra|si|[lei]|ro
+brasileiro	adjetivo	bra|si|[lei]|ro
+brasileirote	nome masculino	bra|si|lei|[ro]|te
+brasilense	adjetivo	bra|si|[len]|se
+brasilês	adjetivo	bra|si|[lês]
+brasilete	nome masculino	bra|si|[le]|te
+brasiliana	nome feminino	bra|si|li|[a]|na
+brasilianismo	nome masculino	bra|si|li|a|[nis]|mo
+brasilianista	adjetivo	bra|si|li|a|[nis]|ta
+brasilianista	nome masculino	bra|si|li|a|[nis]|ta
+brasilianista	nome feminino	bra|si|li|a|[nis]|ta
+brasiliano	adjetivo	bra|si|li|[a]|no
+brasiliano	nome masculino	bra|si|li|[a]|no
+brasilicamente	advérbio	bra|si|li|ca|[men]|te
+brasílico	adjetivo	bra|[sí]|li|co
+brasilidade	nome feminino	bra|si|li|[da]|de
+brasiliense	adjetivo	bra|si|li|[en]|se
+brasiliense	nome masculino	bra|si|li|[en]|se
+brasiliense	nome feminino	bra|si|li|[en]|se
+brasilina	nome feminino	bra|si|[li]|na
+brasílio	adjetivo	bra|[sí]|li|o
+brasílio	nome masculino	bra|[sí]|li|o
+brasílio-argentino	adjetivo	bra|sí|li|o-ar|gen|ti|no
+brasílio-uruguaio	adjetivo	bra|sí|li|o-u|ru|guai|o
+brasiliófila	nome feminino	bra|si|li|[ó]|fi|la
+brasiliofilia	nome feminino	bra|si|li|o|fi|[li]|a
+brasiliófilo	adjetivo	bra|si|li|[ó]|fi|lo
+brasiliófilo	nome masculino	bra|si|li|[ó]|fi|lo
+brasiliófoba	nome feminino	bra|si|li|[ó]|fo|ba
+brasiliofobia	nome feminino	bra|si|li|o|fo|[bi]|a
+brasiliófobo	adjetivo	bra|si|li|[ó]|fo|bo
+brasiliófobo	nome masculino	bra|si|li|[ó]|fo|bo
+brasiliografia	nome feminino	bra|si|li|o|gra|[fi]|a
+brasiliográfico	adjetivo	bra|si|li|o|[grá]|fi|co
+brasiliógrafo	nome masculino	bra|si|li|[ó]|gra|fo
+brasilismo	nome masculino	bra|si|[lis]|mo
+brasilista	adjetivo	bra|si|[lis]|ta
+brasilista	nome masculino	bra|si|[lis]|ta
+brasilista	nome feminino	bra|si|[lis]|ta
+brasilite	nome feminino	bra|si|[li]|te
+brasilização	nome feminino	bra|si|li|za|[ção]
+brasilizante	adjetivo	bra|si|li|[zan]|te
+brasilizar	verbo	bra|si|li|[zar]
+brasilo-argentino	adjetivo	bra|si|lo-ar|gen|[ti]|no
+brasilo-uruguaio	adjetivo	bra|si|lo-u|ru|[guai]|o
+brasilofilia	nome feminino	bra|si|lo|fi|[li]|a
+brasilófilo	adjetivo	bra|si|[ló]|fi|lo
+brasilófilo	nome masculino	bra|si|[ló]|fi|lo
+brasilofobia	nome feminino	bra|si|lo|fo|[bi]|a
+brasilófobo	adjetivo	bra|si|[ló]|fo|bo
+brasilófobo	nome masculino	bra|si|[ló]|fo|bo
+brasilografia	nome feminino	bra|si|lo|gra|[fi]|a
+brasilográfico	adjetivo	bra|si|lo|[grá]|fi|co
+brasilógrafo	nome masculino	bra|si|[ló]|gra|fo
+brasino	nome masculino	bra|[si]|no
+brasino	adjetivo	bra|[si]|no

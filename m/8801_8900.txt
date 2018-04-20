@@ -1,0 +1,100 @@
+modernizar	verbo	mo|der|ni|[zar]
+modernizável	adjetivo	mo|der|ni|[zá]|vel
+moderno	adjetivo	mo|[der]|no
+moderno	nome masculino	mo|[der]|no
+modernos	nome masculino	mo|[der]|nos
+modernoso	adjetivo	mo|der|[no]|so
+modernoso	nome masculino	mo|der|[no]|so
+modestaço	adjetivo	mo|des|[ta]|ço
+modestamente	advérbio	mo|des|ta|[men]|te
+modéstia	nome feminino	mo|[dés]|ti|a
+modestíssimo	adjetivo	mo|des|[tís]|si|mo
+modesto	adjetivo	mo|[des]|to
+modicamente	advérbio	mo|di|ca|[men]|te
+modicar	verbo	mo|di|[car]
+modicidade	nome feminino	mo|di|ci|[da]|de
+módico	adjetivo	[mó]|di|co
+modificabilidade	nome feminino	mo|di|fi|ca|bi|li|[da]|de
+modificação	nome feminino	mo|di|fi|ca|[ção]
+modificado	adjetivo	mo|di|fi|[ca]|do
+modificador	adjetivo	mo|di|fi|ca|[dor]
+modificador	nome masculino	mo|di|fi|ca|[dor]
+modificadora	nome feminino	mo|di|fi|ca|[do]|ra
+modificar	verbo	mo|di|fi|[car]
+modificativo	adjetivo	mo|di|fi|ca|[ti]|vo
+modificável	adjetivo	mo|di|fi|[cá]|vel
+modilhão	nome masculino	mo|di|[lhão]
+modilhar	verbo	mo|di|[lhar]
+modilho	nome masculino	mo|[di]|lho
+modilho	adjetivo	mo|[di]|lho
+modilhonado	adjetivo	mo|di|lho|[na]|do
+modinatura	nome feminino	mo|di|na|[tu]|ra
+modinha	nome feminino	mo|[di]|nha
+modinho	nome masculino	mo|[di]|nho
+módio	nome masculino	[mó]|di|o
+modíola	nome feminino	mo|[dí]|o|la
+modiolária	nome feminino	mo|di|o|[lá]|ri|a
+modíolo	nome masculino	mo|[dí]|o|lo
+modismo	nome masculino	mo|[dis]|mo
+modista	nome feminino	mo|[dis]|ta
+modista	nome masculino	mo|[dis]|ta
+modisto	nome masculino	mo|[dis]|to
+modo	nome masculino	[mo]|do
+modorra	nome feminino	mo|[dor]|ra
+modorral	adjetivo	mo|dor|[ral]
+modorrar	verbo	mo|dor|[rar]
+modorrento	adjetivo	mo|dor|[ren]|to
+modorro	adjetivo	mo|[dor]|ro
+modulação	nome feminino	mo|du|la|[ção]
+modulado	adjetivo	mo|du|[la]|do
+modulador	adjetivo	mo|du|la|[dor]
+modulador	nome masculino	mo|du|la|[dor]
+moduladora	nome feminino	mo|du|la|[do]|ra
+modulagem	nome feminino	mo|du|[la]|gem
+modular	verbo	mo|du|[lar]
+modular	adjetivo	mo|du|[lar]
+modulável	adjetivo	mo|du|[lá]|vel
+módulo	adjetivo	[mó]|du|lo
+módulo	nome masculino	[mó]|du|lo
+modus	nome masculino	mo|[dus]
+moeda	nome feminino	mo|[e]|da
+moedagem	nome feminino	mo|e|[da]|gem
+moedeira	nome feminino	mo|e|[dei]|ra
+moedeiro	nome masculino	mo|e|[dei]|ro
+moedela	nome feminino	mo|e|[de]|la
+moedense	adjetivo	mo|e|[den]|se
+moedense	nome masculino	mo|e|[den]|se
+moedense	nome feminino	mo|e|[den]|se
+moedinha	nome feminino	mo|e|[di]|nha
+moedor	adjetivo	mo|e|[dor]
+moedor	nome masculino	mo|e|[dor]
+moedouro	nome masculino	mo|e|[dou]|ro
+moedura	nome feminino	mo|e|[du]|ra
+moega	nome feminino	mo|[e]|ga
+moeira	nome feminino	mo|[ei]|ra
+moeiro	nome masculino	mo|[ei]|ro
+moela	nome feminino	mo|[e]|la
+moenda	nome feminino	mo|[en]|da
+moendeiro	nome masculino	mo|en|[dei]|ro
+moenga	nome feminino	mo|[en]|ga
+moente	adjetivo	mo|[en]|te
+moente	nome masculino	mo|[en]|te
+moenza	nome feminino	mo|[en]|za
+moer	verbo	mo|[er]
+moeta	nome feminino	mo|[e]|ta
+mofa	nome feminino	[mo]|fa
+mofado	adjetivo	mo|[fa]|do
+mofador	adjetivo	mo|fa|[dor]
+mofador	nome masculino	mo|fa|[dor]
+mofar	verbo	mo|[far]
+mofareiro	adjetivo	mo|fa|[rei]|ro
+mofareiro	nome masculino	mo|fa|[rei]|ro
+mofatra	nome feminino	mo|[fa]|tra
+mofatrão	nome masculino	mo|fa|[trão]
+mofedo	nome masculino	mo|[fe]|do
+mofento	adjetivo	mo|[fen]|to
+mofento	nome masculino	mo|[fen]|to
+mofeta	nome feminino	mo|[fe]|ta
+mofina	nome feminino	mo|[fi]|na
+mofinamente	advérbio	mo|fi|na|[men]|te
+mofineiro	nome masculino	mo|fi|[nei]|ro

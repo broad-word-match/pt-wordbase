@@ -1,0 +1,100 @@
+hidrólito	nome masculino	hi|[dró]|li|to
+hidróloga	nome feminino	hi|[dró]|lo|ga
+hidrologia	nome feminino	hi|dro|lo|[gi]|a
+hidrológico	adjetivo	hi|dro|[ló]|gi|co
+hidrologista	nome masculino	hi|dro|lo|[gis]|ta
+hidrologista	nome feminino	hi|dro|lo|[gis]|ta
+hidrólogo	nome masculino	hi|[dró]|lo|go
+hidroma	nome masculino	hi|[dro]|ma
+hidromancia	nome feminino	hi|dro|man|[ci]|a
+hidromania	nome feminino	hi|dro|ma|[ni]|a
+hidromaníaco	adjetivo	hi|dro|ma|[ní]|a|co
+hidromaníaco	nome masculino	hi|dro|ma|[ní]|a|co
+hidrómano	nome masculino	hi|[dró]|ma|no
+hidrômano	nome masculino	hi|[drô]|ma|no
+hidromante	nome masculino	hi|dro|[man]|te
+hidromante	nome feminino	hi|dro|[man]|te
+hidromântico	nome masculino	hi|dro|[mân]|ti|co
+hidromântico	adjetivo	hi|dro|[mân]|ti|co
+hidromassagem	nome feminino	hi|dro|mas|[sa]|gem
+hidromecânica	nome feminino	hi|dro|me|[câ]|ni|ca
+hidromecânico	adjetivo	hi|dro|me|[câ]|ni|co
+hidromedusa	nome feminino	hi|dro|me|[du]|sa
+hidromel	nome masculino	hi|dro|[mel]
+hidrometeoro	nome masculino	hi|dro|me|te|[o]|ro
+hidrometra	nome feminino	hi|dro|[me]|tra
+hidrometria	nome feminino	hi|dro|me|[tri]|a
+hidrométrico	adjetivo	hi|dro|[mé]|tri|co
+hidrométrida	nome masculino	hi|dro|[mé]|tri|da
+hidrométrida	nome masculino	hi|dro|[mé]|tri|da
+hidrometrídeo	nome masculino	hi|dro|me|[trí]|de|o
+hidrometrídeo	nome masculino	hi|dro|me|[trí]|de|o
+hidrometrídeo	adjetivo	hi|dro|me|[trí]|de|o
+hidrômetro	nome masculino	hi|[drô]|me|tro
+hidrómetro	nome masculino	hi|[dró]|me|tro
+hidromia	nome feminino	hi|dro|[mi]|a
+hidromica	nome feminino	hi|dro|[mi]|ca
+hidromineral	adjetivo	hi|dro|mi|ne|[ral]
+hidromotor	nome masculino	hi|dro|mo|[tor]
+hidronefrose	nome feminino	hi|dro|ne|[fro]|se
+hidronefrótico	adjetivo	hi|dro|ne|[fró]|ti|co
+hidrônfalo	nome masculino	hi|[drôn]|fa|lo
+hidrônio	nome masculino	hi|[drô]|ni|o
+hidrónio	nome masculino	hi|[dró]|ni|o
+hidropata	nome masculino	hi|dro|[pa]|ta
+hidropata	nome feminino	hi|dro|[pa]|ta
+hidropatia	nome feminino	hi|dro|pa|[ti]|a
+hidropático	adjetivo	hi|dro|[pá]|ti|co
+hidropedese	nome feminino	hi|dro|pe|[de]|se
+hidrópico	adjetivo	hi|[dró]|pi|co
+hidrópico	nome masculino	hi|[dró]|pi|co
+hidropirético	adjetivo	hi|dro|pi|[ré]|ti|co
+hidropírico	adjetivo	hi|dro|[pí]|ri|co
+hidropisia	nome feminino	hi|dro|pi|[si]|a
+hidropisina	nome feminino	hi|dro|pi|[si]|na
+hidroplanador	nome masculino	hi|dro|pla|na|[dor]
+hidroplano	nome masculino	hi|dro|[pla]|no
+hidropneumática	nome feminino	hi|drop|neu|[má]|ti|ca
+hidropneumático	adjetivo	hi|drop|neu|[má]|ti|co
+hidropónica	nome feminino	hi|dro|[pó]|ni|ca
+hidropônica	nome feminino	hi|dro|[pô]|ni|ca
+hidropónico	adjetivo	hi|dro|[pó]|ni|co
+hidropônico	adjetivo	hi|dro|[pô]|ni|co
+hidrópota	nome masculino	hi|[dró]|po|ta
+hidrópota	nome feminino	hi|[dró]|po|ta
+hidropúlvis	nome masculino	hi|dro|[púl]|vis
+hidroquinona	nome feminino	hi|dro|qui|[no]|na
+hidroquisto	nome masculino	hi|dro|[quis]|to
+hidrorragia	nome feminino	hi|dror|ra|[gi]|a
+hidrorrágico	adjetivo	hi|dror|[rá]|gi|co
+hidrorreia	nome feminino	hi|dror|[rei]|a
+hidrorreico	adjetivo	hi|dror|[rei]|co
+hidrosadenite	nome feminino	hi|dro|sa|de|[ni]|te
+hidroscopia	nome feminino	hi|dros|co|[pi]|a
+hidroscópico	adjetivo	hi|dros|[có]|pi|co
+hidroscópio	nome masculino	hi|dros|[có]|pi|o
+hidróscopo	nome masculino	hi|[drós]|co|po
+hidrose	nome feminino	hi|[dro]|se
+hidrosfera	nome feminino	hi|dros|[fe]|ra
+hidrosférico	adjetivo	hi|dros|[fé]|ri|co
+hidrospeed	nome masculino	hi|dro|speed
+hidrossácaro	nome masculino	hi|dros|[sá]|ca|ro
+hidrossarcocele	nome feminino	hi|dros|sar|co|[ce]|le
+hidrossáurio	nome masculino	hi|dros|[sáu]|ri|o
+hidrossauro	nome masculino	hi|dros|[sau]|ro
+hidrossilicato	nome masculino	hi|dros|si|li|[ca]|to
+hidrossilicoso	adjetivo	hi|dros|si|li|[co]|so
+hidrossol	nome masculino	hi|dros|[sol]
+hidrossolúvel	adjetivo	hi|dros|so|[lú]|vel
+hidrossulfuroso	adjetivo	hi|dros|sul|fu|[ro]|so
+hidrostática	nome feminino	hi|dros|[tá]|ti|ca
+hidrostático	adjetivo	hi|dros|[tá]|ti|co
+hidróstato	nome masculino	hi|[drós]|ta|to
+hidrotactismo	nome masculino	hi|dro|tac|[tis]|mo
+hidrotatismo	nome masculino	hi|dro|ta|[tis]|mo
+hidrote	nome feminino	hi|[dro]|te
+hidrotecnia	nome feminino	hi|dro|tec|[ni]|a
+hidrotécnico	adjetivo	hi|dro|[téc]|ni|co
+hidroterapeuta	nome masculino	hi|dro|te|ra|[peu]|ta
+hidroterapeuta	nome feminino	hi|dro|te|ra|[peu]|ta
+hidroterapêutica	nome feminino	hi|dro|te|ra|[pêu]|ti|ca

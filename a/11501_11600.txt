@@ -1,0 +1,100 @@
+anacara	nome feminino	a|na|[ca]|ra
+anacarar	verbo	a|na|ca|[rar]
+anacardeiro	nome masculino	a|na|car|[dei]|ro
+anacardiácea	nome feminino	a|na|car|di|[á]|ce|a
+anacardiáceo	adjetivo	a|na|car|di|[á]|ce|o
+anacárdico	adjetivo	a|na|[cár]|di|co
+anacardina	nome feminino	a|na|car|[di]|na
+anacardino	adjetivo	a|na|car|[di]|no
+anacárdio	nome masculino	a|na|[cár]|di|o
+anacardo	nome masculino	a|na|[car]|do
+anacatarse	nome feminino	a|na|ca|[tar]|se
+anacatarsia	nome feminino	a|na|ca|tar|[si]|a
+anacatártico	adjetivo	a|na|ca|[tár]|ti|co
+anacefaleose	nome feminino	a|na|ce|fa|le|[o]|se
+anacíclico	adjetivo	a|na|[cí]|cli|co
+anacíclico	nome masculino	a|na|[cí]|cli|co
+anaciclo	nome masculino	a|na|[ci]|clo
+anacinese	nome feminino	a|na|ci|[ne]|se
+anacinesia	nome feminino	a|na|ci|ne|[si]|a
+anáclase	nome feminino	a|[ná]|cla|se
+anaclástica	nome feminino	a|na|[clás]|ti|ca
+anaclástico	adjetivo	a|na|[clás]|ti|co
+anaco	adjetivo	a|[na]|co
+anaco	nome masculino	a|[na]|co
+anacolutia	nome feminino	a|na|co|lu|[ti]|a
+anacolútico	adjetivo	a|na|co|[lú]|ti|co
+anacoluto	nome masculino	a|na|co|[lu]|to
+anaconda	nome feminino	a|na|[con]|da
+anaconquilismo	nome masculino	a|na|con|qui|[lis]|mo
+anacoreta	nome masculino	a|na|co|[re]|ta
+anacoreticamente	advérbio	a|na|co|re|ti|ca|[men]|te
+anacorético	adjetivo	a|na|co|[ré]|ti|co
+anacoretismo	nome masculino	a|na|co|re|[tis]|mo
+anacreonteu	adjetivo	a|na|cre|on|[teu]
+anacreôntica	nome feminino	a|na|cre|[ôn]|ti|ca
+anacreôntico	adjetivo	a|na|cre|[ôn]|ti|co
+anacreontismo	nome masculino	a|na|cre|on|[tis]|mo
+anacreontista	adjetivo	a|na|cre|on|[tis]|ta
+anacreontista	nome masculino	a|na|cre|on|[tis]|ta
+anacreontista	nome feminino	a|na|cre|on|[tis]|ta
+anacreontístico	adjetivo	a|na|cre|on|[tís]|ti|co
+anacreontizar	verbo	a|na|cre|on|ti|[zar]
+anacroasia	nome feminino	a|na|cro|a|[si]|a
+anacronia	nome feminino	a|na|cro|[ni]|a
+anacronicamente	advérbio	a|na|cro|ni|ca|[men]|te
+anacrônico	adjetivo	a|na|[crô]|ni|co
+anacrónico	adjetivo	a|na|[cró]|ni|co
+anacronismo	nome masculino	a|na|cro|[nis]|mo
+anacronizar	verbo	a|na|cro|ni|[zar]
+anacruse	nome feminino	a|na|[cru]|se
+anacrústico	adjetivo	a|na|[crús]|ti|co
+anactesia	nome feminino	a|nac|te|[si]|a
+anactésico	adjetivo	a|nac|[té]|si|co
+anactético	adjetivo	a|nac|[té]|ti|co
+anacusia	nome feminino	a|na|cu|[si]|a
+anacústico	adjetivo	a|na|[cús]|ti|co
+anadaria	nome feminino	a|na|da|[ri]|a
+anadel	nome masculino	a|na|[del]
+anadel-mor	nome masculino	a|na|del-mor
+anadelaria	nome feminino	a|na|de|la|[ri]|a
+anadema	nome masculino	a|na|[de]|ma
+anadiense	nome masculino	a|na|di|[en]|se
+anadiense	adjetivo	a|na|di|[en]|se
+anadiense	nome feminino	a|na|di|[en]|se
+anadiplose	nome feminino	a|na|di|[plo]|se
+anadiplótico	adjetivo	a|na|di|[pló]|ti|co
+anadipsia	nome feminino	a|na|dip|[si]|a
+anadípsico	adjetivo	a|na|[díp]|si|co
+anádose	nome feminino	a|[ná]|do|se
+anádromo	adjetivo	a|[ná]|dro|mo
+anádromo	nome masculino	a|[ná]|dro|mo
+anaduva	nome feminino	a|na|[du]|va
+anaerobiamente	advérbio	a|na|e|ro|bi|a|[men]|te
+anaeróbio	adjetivo	a|na|e|[ró]|bi|o
+anaeróbio	nome masculino	a|na|e|[ró]|bi|o
+anaerobiose	nome feminino	a|na|e|ro|bi|[o]|se
+anafa	nome feminino	a|[na]|fa
+anafado	adjetivo	a|na|[fa]|do
+anafaia	nome feminino	a|na|[fai]|a
+anafalantíase	nome feminino	a|na|fa|lan|[tí]|a|se
+anafar	verbo	a|na|[far]
+anáfase	nome feminino	a|[ná]|fa|se
+anafe	nome masculino	a|[na]|fe
+anáfega	nome feminino	a|[ná]|fe|ga
+anafia	nome feminino	a|na|[fi]|a
+anafil	nome masculino	a|na|[fil]
+anafil	adjetivo	a|na|[fil]
+anafiláctico	adjetivo	a|na|fi|[lác]|ti|co
+anafilase	nome feminino	a|na|fi|[la]|se
+anafilático	adjetivo	a|na|fi|[lá]|ti|co
+anafilaxia	nome feminino	a|na|fi|la|[xi]|a
+anafileiro	nome masculino	a|na|fi|[lei]|ro
+anáfise	nome feminino	a|[ná]|fi|se
+anafonese	nome feminino	a|na|fo|[ne]|se
+anafonético	adjetivo	a|na|fo|[né]|ti|co
+anáfora	nome feminino	a|[ná]|fo|ra
+anaforese	nome feminino	a|na|fo|[re]|se
+anaforicamente	advérbio	a|na|fo|ri|ca|[men]|te
+anafórico	adjetivo	a|na|[fó]|ri|co
+anaforismo	nome masculino	a|na|fo|[ris]|mo

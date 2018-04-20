@@ -1,0 +1,100 @@
+urro	nome masculino	[ur]|ro
+ursa	nome feminino	[ur]|sa
+ursa-beiçuda	nome feminino	ur|sa-bei|[çu]|da
+ursa-branca	nome feminino	ur|sa-bran|ca
+ursa-de-colar	nome feminino	ur|sa-de-co|[lar]
+ursa-dos-coqueiros	nome feminino	ur|sa-dos-co|[quei]|ros
+ursa-formigueira	nome feminino	ur|sa-for|mi|[guei]|ra
+ursa-malaia	nome feminino	ur|sa-ma|[lai]|a
+ursa-negra	nome feminino	ur|sa-ne|gra
+ursa-parda	nome feminino	ur|sa-par|da
+ursa-polar	nome feminino	ur|sa-po|[lar]
+ursada	nome feminino	ur|[sa]|da
+urselo	nome masculino	ur|[se]|lo
+ursentino	adjetivo	ur|sen|[ti]|no
+ursentino	nome masculino	ur|sen|[ti]|no
+úrsidas	nome masculino	úr|[si]|das
+ursídeo	nome masculino	ur|[sí]|de|o
+ursídeo	nome masculino	ur|[sí]|de|o
+ursídeo	adjetivo	ur|[sí]|de|o
+ursinho	nome masculino	ur|[si]|nho
+ursino	adjetivo	ur|[si]|no
+urso	nome masculino	[ur]|so
+urso	adjetivo	[ur]|so
+urso-beiçudo	nome masculino	ur|so-bei|[çu]|do
+urso-branco	nome masculino	ur|so-bran|co
+urso-d'água-doce	nome masculino	ur|so-d´á|gua-do|ce
+urso-de-colar	nome masculino	ur|so-de-co|[lar]
+urso-dos-coqueiros	nome masculino	ur|so-dos-co|[quei]|ros
+urso-formigueiro	nome masculino	ur|so-for|mi|[guei]|ro
+urso-malaio	nome masculino	ur|so-ma|[lai]|o
+urso-marinho	nome masculino	ur|so-ma|[ri]|nho
+urso-negro	nome masculino	ur|so-ne|gro
+urso-pardo	nome masculino	ur|so-par|do
+urso-polar	nome masculino	ur|so-po|[lar]
+ursulina	nome feminino	ur|su|[li]|na
+ursulina	adjetivo	ur|su|[li]|na
+ursulino	adjetivo	ur|su|[li]|no
+urticação	nome feminino	ur|ti|ca|[ção]
+urticácea	nome feminino	ur|ti|[cá]|ce|a
+urticáceo	adjetivo	ur|ti|[cá]|ce|o
+urticante	adjetivo	ur|ti|[can]|te
+urticar	verbo	ur|ti|[car]
+urticária	nome feminino	ur|ti|[cá]|ri|a
+urticariforme	adjetivo	ur|ti|ca|ri|[for]|me
+urtícea	nome feminino	ur|[tí]|ce|a
+urticifoliado	adjetivo	ur|ti|ci|fo|li|[a]|do
+urticina	nome feminino	ur|ti|[ci]|na
+urtiga	nome feminino	ur|[ti]|ga
+urtiga-branca	nome feminino	ur|ti|ga-bran|ca
+urtiga-de-cipó	nome feminino	ur|ti|ga-de-ci|[pó]
+urtiga-do-mar	nome feminino	ur|ti|ga-do-mar
+urtiga-morta	nome feminino	ur|ti|ga-mor|ta
+urtigação	nome feminino	ur|ti|ga|[ção]
+urtigada	nome feminino	ur|ti|[ga]|da
+urtigal	nome masculino	ur|ti|[gal]
+urtigão	nome masculino	ur|ti|[gão]
+urtigar	verbo	ur|ti|[gar]
+urtigueira	nome feminino	ur|ti|[guei]|ra
+uru	nome masculino	u|[ru]
+uru-mutum	nome masculino	u|ru-mu|[tum]
+uruá	nome masculino	u|ru|[á]
+urubá	nome feminino	u|ru|[bá]
+urubu	nome masculino	u|ru|[bu]
+urubu	nome feminino	u|ru|[bu]
+urubu	adjetivo	u|ru|[bu]
+urubu-caçador	nome masculino	u|ru|bu-ca|ça|[dor]
+urubucaá	nome masculino	u|ru|bu|ca|[á]
+urubupeba	nome masculino	u|ru|bu|[pe]|ba
+urubutinga	nome masculino	u|ru|bu|[tin]|ga
+urubuzinho	nome masculino	u|ru|bu|[zi]|nho
+uruçacanga	nome feminino	u|ru|ça|[can]|ga
+urucari	nome masculino	u|ru|ca|[ri]
+urucatu	nome masculino	u|ru|ca|[tu]
+urucongo	nome masculino	u|ru|[con]|go
+urucu	nome masculino	u|ru|[cu]
+uruçu	nome masculino	u|ru|[çu]
+urucuana	nome feminino	u|ru|cu|[a]|na
+urucubaca	nome feminino	u|ru|cu|[ba]|ca
+uruçuca	nome feminino	u|ru|[çu]|ca
+urucueiro	nome masculino	u|ru|cu|[ei]|ro
+uruçuí	nome masculino	u|ru|çu|[í]
+uruçumirim	nome masculino	u|ru|çu|mi|[rim]
+urucungo	adjetivo	u|ru|[cun]|go
+urucungo	nome masculino	u|ru|[cun]|go
+urucurana	nome feminino	u|ru|cu|[ra]|na
+urucuri	nome masculino	u|ru|cu|[ri]
+urucuuba	nome masculino	u|ru|cu|[u]|ba
+urucuuba	nome feminino	u|ru|cu|[u]|ba
+urucuzeiro	nome masculino	u|ru|cu|[zei]|ro
+uruguaiano	adjetivo	u|ru|guai|[a]|no
+uruguaiano	nome masculino	u|ru|guai|[a]|no
+uruguaio	adjetivo	u|ru|[guai]|o
+uruguaio	nome masculino	u|ru|[guai]|o
+uruiauara	nome feminino	u|rui|au|[a]|ra
+urumbamba	nome feminino	u|rum|[bam]|ba
+urumbeba	nome feminino	u|rum|[be]|ba
+urumbebal	nome masculino	u|rum|be|[bal]
+urunca	adjetivo	u|[run]|ca
+urunca	nome masculino	u|[run]|ca
+urunca	nome feminino	u|[run]|ca

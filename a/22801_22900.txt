@@ -1,0 +1,100 @@
+avidez	nome feminino	a|vi|[dez]
+ávido	adjetivo	[á]|vi|do
+avieirado	adjetivo	a|vi|ei|[ra]|do
+avieiro	nome masculino	a|vi|[ei]|ro
+aviesado	adjetivo	a|vi|e|[sa]|do
+aviesar	verbo	a|vi|e|[sar]
+avifauna	nome feminino	a|vi|[fau]|na
+avigoiro	nome masculino	a|vi|[goi]|ro
+avigorador	adjetivo	a|vi|go|ra|[dor]
+avigorador	nome masculino	a|vi|go|ra|[dor]
+avigoramento	nome masculino	a|vi|go|ra|[men]|to
+avigorar	verbo	a|vi|go|[rar]
+avigorável	adjetivo	a|vi|go|[rá]|vel
+avila	nome feminino	a|[vi]|la
+avilanado	adjetivo	a|vi|la|[na]|do
+avilanar	verbo	a|vi|la|[nar]
+avilhetar	verbo	a|vi|lhe|[tar]
+avilo	nome masculino	a|[vi]|lo
+aviltação	nome feminino	a|vil|ta|[ção]
+aviltado	adjetivo	a|vil|[ta]|do
+aviltador	adjetivo	a|vil|ta|[dor]
+aviltador	nome masculino	a|vil|ta|[dor]
+aviltadora	nome feminino	a|vil|ta|[do]|ra
+aviltamento	nome masculino	a|vil|ta|[men]|to
+aviltante	adjetivo	a|vil|[tan]|te
+aviltar	verbo	a|vil|[tar]
+avinagrado	adjetivo	a|vi|na|[gra]|do
+avinagrar	verbo	a|vi|na|[grar]
+avincar	verbo	a|vin|[car]
+avinda	nome feminino	a|[vin]|da
+avindeiro	nome masculino	a|vin|[dei]|ro
+avindo	adjetivo	a|[vin]|do
+avindo	nome masculino	a|[vin]|do
+avindor	adjetivo	a|vin|[dor]
+avindor	nome masculino	a|vin|[dor]
+avinhado	adjetivo	a|vi|[nha]|do
+avinhado	nome masculino	a|vi|[nha]|do
+avinhar	verbo	a|vi|[nhar]
+ávio	adjetivo	[á]|vi|o
+avio	nome masculino	a|[vi]|o
+aviolado	adjetivo	a|vi|o|[la]|do
+avioletado	adjetivo	a|vi|o|le|[ta]|do
+avioletar	verbo	a|vi|o|le|[tar]
+aviominiatura	nome feminino	a|vi|o|mi|ni|a|[tu]|ra
+avíone	adjetivo	a|[ví]|o|ne
+avíone	nome masculino	a|[ví]|o|ne
+avíone	nome feminino	a|[ví]|o|ne
+avioneta	nome feminino	a|vi|o|[ne]|ta
+avir	verbo	a|[vir]
+avisadamente	advérbio	a|vi|sa|da|[men]|te
+avisado	adjetivo	a|vi|[sa]|do
+avisador	adjetivo	a|vi|sa|[dor]
+avisador	nome masculino	a|vi|sa|[dor]
+avisar	verbo	a|vi|[sar]
+avisense	nome masculino	a|vi|[sen]|se
+avisense	adjetivo	a|vi|[sen]|se
+avisense	nome feminino	a|vi|[sen]|se
+aviso	nome masculino	a|[vi]|so
+aviso-de-guerra	nome masculino	a|vi|so-de-guer|ra
+avissuga	nome feminino	a|vis|[su]|ga
+avistamento	nome masculino	a|vis|ta|[men]|to
+avistar	verbo	a|vis|[tar]
+avistável	adjetivo	a|vis|[tá]|vel
+avitaminose	nome feminino	a|vi|ta|mi|[no]|se
+avito	adjetivo	a|[vi]|to
+avitualhamento	nome masculino	a|vi|tu|a|lha|[men]|to
+avitualhar	verbo	a|vi|tu|a|[lhar]
+aviú	nome masculino	a|vi|[ú]
+aviusado	adjetivo	a|viu|[sa]|do
+aviusar	verbo	a|viu|[sar]
+avivado	adjetivo	a|vi|[va]|do
+avivado	nome masculino	a|vi|[va]|do
+avivador	adjetivo	a|vi|va|[dor]
+avivador	nome masculino	a|vi|va|[dor]
+avivamento	nome masculino	a|vi|va|[men]|to
+avivar	verbo	a|vi|[var]
+aviventador	adjetivo	a|vi|ven|ta|[dor]
+aviventador	nome masculino	a|vi|ven|ta|[dor]
+aviventar	verbo	a|vi|ven|[tar]
+avizinhamento	nome masculino	a|vi|zi|nha|[men]|to
+avizinhar	verbo	a|vi|zi|[nhar]
+avo	nome masculino	[a]|vo
+avó	nome feminino	a|[vó]
+avô	nome masculino	a|[vô]
+avoaçar	verbo	a|vo|a|[çar]
+avoado	adjetivo	a|vo|[a]|do
+avoado	nome masculino	a|vo|[a]|do
+avoamento	nome masculino	a|vo|a|[men]|to
+avoante	nome feminino	a|vo|[an]|te
+avoão	nome masculino	a|vo|[ão]
+avoar	verbo	a|vo|[ar]
+avocação	nome feminino	a|vo|ca|[ção]
+avocamento	nome masculino	a|vo|ca|[men]|to
+avocar	verbo	a|vo|[car]
+avocatório	adjetivo	a|vo|ca|[tó]|ri|o
+avocatura	nome feminino	a|vo|ca|[tu]|ra
+avocável	adjetivo	a|vo|[cá]|vel
+avoceta	nome feminino	a|vo|[ce]|ta
+avoeira	nome feminino	a|vo|[ei]|ra
+avoejar	verbo	a|vo|e|[jar]

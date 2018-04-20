@@ -1,0 +1,100 @@
+extramural	adjetivo	ex|tra|mu|[ral]
+extramuros	advérbio	ex|tra|[mu]|ros
+extranacional	adjetivo	ex|tra|na|ci|o|[nal]
+extranatural	adjetivo	ex|tra|na|tu|[ral]
+extranaturalmente	advérbio	ex|tra|na|tu|ral|[men]|te
+extrâneo	adjetivo	ex|[trâ]|ne|o
+extranet	nome feminino	ex|tra|net
+extranormal	adjetivo	ex|tra|nor|[mal]
+extranumeral	adjetivo	ex|tra|nu|me|[ral]
+extranumerária	nome feminino	ex|tra|nu|me|[rá]|ri|a
+extranumerário	adjetivo	ex|tra|nu|me|[rá]|ri|o
+extranumerário	nome masculino	ex|tra|nu|me|[rá]|ri|o
+extraocular	adjetivo	ex|tra|o|cu|[lar]
+extraoficial	adjetivo	ex|tra|o|fi|ci|[al]
+extraoficialmente	advérbio	ex|tra|o|fi|ci|al|[men]|te
+extraordinariamente	advérbio	ex|tra|or|di|na|ri|a|[men]|te
+extraordinário	nome masculino	ex|tra|or|di|[ná]|ri|o
+extraordinário	adjetivo	ex|tra|or|di|[ná]|ri|o
+extraorgânico	adjetivo	ex|tra|or|[gâ]|ni|co
+extraparlamentar	adjetivo	ex|tra|par|la|men|[tar]
+extrapassar	verbo	ex|tra|pas|[sar]
+extrapiramidal	adjetivo	ex|tra|pi|ra|mi|[dal]
+extrapolação	nome feminino	ex|tra|po|la|[ção]
+extrapolar	verbo	ex|tra|po|[lar]
+extrapolativo	adjetivo	ex|tra|po|la|[ti]|vo
+extrapor	verbo	ex|tra|[por]
+extraprofissional	adjetivo	ex|tra|pro|fis|si|o|[nal]
+extraprograma	adjetivo	ex|tra|pro|[gra]|ma
+extraprograma	nome masculino	ex|tra|pro|[gra]|ma
+extrário	adjetivo	ex|[trá]|ri|o
+extrarregimental	adjetivo	ex|trar|re|gi|men|[tal]
+extrarregulamentar	adjetivo	ex|trar|re|gu|la|men|[tar]
+extrassagital	adjetivo	ex|tras|sa|gi|[tal]
+extrassecular	adjetivo	ex|tras|se|cu|[lar]
+extrassensível	adjetivo	ex|tras|sen|[sí]|vel
+extrassensorial	adjetivo	ex|tras|sen|so|ri|[al]
+extrassensorialidade	nome feminino	ex|tras|sen|so|ri|a|li|[da]|de
+extrassístole	nome feminino	ex|tras|[sís]|to|le
+extrassistólico	adjetivo	ex|tras|sis|[tó]|li|co
+extratar	verbo	ex|tra|[tar]
+extratelúrico	adjetivo	ex|tra|te|[lú]|ri|co
+extraterrena	nome feminino	ex|tra|ter|[re]|na
+extraterreno	adjetivo	ex|tra|ter|[re]|no
+extraterreno	nome masculino	ex|tra|ter|[re]|no
+extraterrestre	nome masculino	ex|tra|ter|[res]|tre
+extraterrestre	adjetivo	ex|tra|ter|[res]|tre
+extraterrestre	nome feminino	ex|tra|ter|[res]|tre
+extraterritorial	adjetivo	ex|tra|ter|ri|to|ri|[al]
+extraterritorialidade	nome feminino	ex|tra|ter|ri|to|ri|a|li|[da]|de
+extratexto	nome masculino	ex|tra|[tex]|to
+extratiforme	adjetivo	ex|tra|ti|[for]|me
+extratimpânico	adjetivo	ex|tra|tim|[pâ]|ni|co
+extrativismo	nome masculino	ex|tra|ti|[vis]|mo
+extrativo	adjetivo	ex|tra|[ti]|vo
+extrativo	nome masculino	ex|tra|[ti]|vo
+extrato	nome masculino	ex|[tra]|to
+extrator	adjetivo	ex|tra|[tor]
+extrator	nome masculino	ex|tra|[tor]
+extratora	nome feminino	ex|tra|[to]|ra
+extratorácico	adjetivo	ex|tra|to|[rá]|ci|co
+extraurbano	adjetivo	ex|tra|ur|[ba]|no
+extrauterino	adjetivo	ex|trau|te|[ri]|no
+extravagância	nome feminino	ex|tra|va|[gân]|ci|a
+extravaganciar	verbo	ex|tra|va|gan|ci|[ar]
+extravagante	adjetivo	ex|tra|va|[gan]|te
+extravagante	nome masculino	ex|tra|va|[gan]|te
+extravagante	nome feminino	ex|tra|va|[gan]|te
+extravagantemente	advérbio	ex|tra|va|gan|te|[men]|te
+extravagar	verbo	ex|tra|va|[gar]
+extravaginal	adjetivo	ex|tra|va|gi|[nal]
+extravasação	nome feminino	ex|tra|va|sa|[ção]
+extravasado	adjetivo	ex|tra|va|[sa]|do
+extravasamento	nome masculino	ex|tra|va|sa|[men]|to
+extravasante	adjetivo	ex|tra|va|[san]|te
+extravasão	nome feminino	ex|tra|va|[são]
+extravasar	verbo	ex|tra|va|[sar]
+extravenado	adjetivo	ex|tra|ve|[na]|do
+extraversão	nome feminino	ex|tra|ver|[são]
+extraverter	verbo	ex|tra|ver|[ter]
+extravertido	adjetivo	ex|tra|ver|[ti]|do
+extravertido	nome masculino	ex|tra|ver|[ti]|do
+extraviada	nome feminino	ex|tra|vi|[a]|da
+extraviado	nome masculino	ex|tra|vi|[a]|do
+extraviado	adjetivo	ex|tra|vi|[a]|do
+extraviador	adjetivo	ex|tra|vi|a|[dor]
+extraviador	nome masculino	ex|tra|vi|a|[dor]
+extraviar	verbo	ex|tra|vi|[ar]
+extraviável	adjetivo	ex|tra|vi|[á]|vel
+extravio	nome masculino	ex|tra|[vi]|o
+extrema	nome feminino	ex|[tre]|ma
+extrema-direita	nome feminino	ex|tre|ma-di|[rei]|ta
+extrema-direita	nome masculino	ex|tre|ma-di|[rei]|ta
+extrema-esquerda	nome masculino	ex|tre|ma-es|[quer]|da
+extrema-esquerda	nome feminino	ex|tre|ma-es|[quer]|da
+extrema-unção	nome feminino	ex|tre|ma-un|[ção]
+extremadamente	advérbio	ex|tre|ma|da|[men]|te
+extremado	adjetivo	ex|tre|[ma]|do
+extremamente	advérbio	ex|tre|ma|[men]|te
+extremar	verbo	ex|tre|[mar]
+extremável	adjetivo	ex|tre|[má]|vel

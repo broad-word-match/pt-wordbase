@@ -1,0 +1,100 @@
+lesim	nome masculino	le|[sim]
+lesinzado	adjetivo	le|sin|[za]|do
+lesionar	verbo	le|si|o|[nar]
+lesivo	adjetivo	le|[si]|vo
+lesma	nome feminino	[les]|ma
+lesma	adjetivo	[les]|ma
+lesma-de-conchinha	nome feminino	les|ma-de-con|[chi]|nha
+lesmar	verbo	les|[mar]
+lesme	nome masculino	[les]|me
+lesmento	adjetivo	les|[men]|to
+lêsmia	nome feminino	[lês]|mi|a
+leso	adjetivo	[le]|so
+leso-patriotismo	nome masculino	le|so-pa|tri|o|[tis]|mo
+leso-sentimento	nome masculino	le|so-sen|ti|[men]|to
+lesotiana	nome feminino	le|so|ti|[a]|na
+lesotiano	nome masculino	le|so|ti|[a]|no
+lesotiano	adjetivo	le|so|ti|[a]|no
+lessértia	nome feminino	les|[sér]|ti|a
+lesta	nome feminino	[les]|ta
+lestada	nome feminino	les|[ta]|da
+lestamente	advérbio	les|ta|[men]|te
+leste	nome masculino	[les]|te
+leste	adjetivo	[les]|te
+lestes	adjetivo	[les]|tes
+lestia	nome feminino	les|[ti]|a
+lesto	adjetivo	[les]|to
+lestra	nome feminino	[les]|tra
+lestrígone	adjetivo	les|[trí]|go|ne
+lestrígone	nome masculino	les|[trí]|go|ne
+lestrígone	nome feminino	les|[trí]|go|ne
+lestrigônio	adjetivo	les|tri|[gô]|ni|o
+lestrigónio	adjetivo	les|tri|[gó]|ni|o
+letã	nome feminino	le|[tã]
+letal	adjetivo	le|[tal]
+letalidade	nome feminino	le|ta|li|[da]|de
+letalmente	advérbio	le|tal|[men]|te
+letão	nome masculino	le|[tão]
+letão	adjetivo	le|[tão]
+letargia	nome feminino	le|tar|[gi]|a
+letargiar	verbo	le|tar|gi|[ar]
+letargicamente	advérbio	le|tar|gi|ca|[men]|te
+letárgico	adjetivo	le|[tár]|gi|co
+letargo	nome masculino	le|[tar]|go
+leteu	adjetivo	le|[teu]
+letícia	nome feminino	le|[tí]|ci|a
+lético	adjetivo	[lé]|ti|co
+lético	nome masculino	[lé]|ti|co
+letífero	adjetivo	le|[tí]|fe|ro
+letificante	adjetivo	le|ti|fi|[can]|te
+letificar	verbo	le|ti|fi|[car]
+letífico	adjetivo	le|[tí]|fi|co
+letissimulação	nome feminino	le|tis|si|mu|la|[ção]
+letivo	adjetivo	le|[ti]|vo
+letomania	nome feminino	le|to|ma|[ni]|a
+letomaníaco	adjetivo	le|to|ma|[ní]|a|co
+letomaníaco	nome masculino	le|to|ma|[ní]|a|co
+letômano	nome masculino	le|[tô]|ma|no
+letómano	nome masculino	le|[tó]|ma|no
+letónico	nome masculino	le|[tó]|ni|co
+letônico	adjetivo	le|[tô]|ni|co
+letônico	nome masculino	le|[tô]|ni|co
+letónico	adjetivo	le|[tó]|ni|co
+letónio	adjetivo	le|[tó]|ni|o
+letónio	nome masculino	le|[tó]|ni|o
+letra	nome feminino	[le]|tra
+letra-morta	nome feminino	le|tra-mor|ta
+letrache	nome masculino	le|[tra]|che
+letradete	nome masculino	le|tra|[de]|te
+letradice	nome feminino	le|tra|[di]|ce
+letrado	nome masculino	le|[tra]|do
+letrado	adjetivo	le|[tra]|do
+letradura	nome feminino	le|tra|[du]|ra
+letrear	verbo	le|tre|[ar]
+letreira	nome feminino	le|[trei]|ra
+letreiro	nome masculino	le|[trei]|ro
+letria	nome feminino	le|[tri]|a
+letrismo	nome masculino	le|[tris]|mo
+letrista	nome masculino	le|[tris]|ta
+letrista	nome feminino	le|[tris]|ta
+letrudo	adjetivo	le|[tru]|do
+letrudo	nome masculino	le|[tru]|do
+letsômia	nome feminino	let|[sô]|mi|a
+letsómia	nome feminino	let|[só]|mi|a
+letsomite	nome feminino	let|so|[mi]|te
+leu	nome masculino	[leu]
+léu	nome masculino	[léu]
+leucacanto	nome masculino	leu|ca|[can]|to
+leucádio	adjetivo	leu|[cá]|di|o
+leucádio	nome masculino	leu|[cá]|di|o
+leucanto	adjetivo	leu|[can]|to
+leucargirite	nome feminino	leu|car|gi|[ri]|te
+leucemia	nome feminino	leu|ce|[mi]|a
+leucémico	adjetivo	leu|[cé]|mi|co
+leucêmico	adjetivo	leu|[cê]|mi|co
+lêucico	adjetivo	[lêu]|ci|co
+leucina	nome feminino	leu|[ci]|na
+leucisco	nome masculino	leu|[cis]|co
+leucita	nome feminino	leu|[ci]|ta
+leucite	nome feminino	leu|[ci]|te
+leucítico	adjetivo	leu|[cí]|ti|co

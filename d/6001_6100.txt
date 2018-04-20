@@ -1,0 +1,100 @@
+desobstruir	verbo	de|sobs|tru|[ir]
+desobstrutivo	adjetivo	de|sobs|tru|[ti]|vo
+desocasionado	adjetivo	de|so|ca|si|o|[na]|do
+desocupação	nome feminino	de|so|cu|pa|[ção]
+desocupado	adjetivo	de|so|cu|[pa]|do
+desocupado	nome masculino	de|so|cu|[pa]|do
+desocupar	verbo	de|so|cu|[par]
+desodorante	adjetivo	de|so|do|[ran]|te
+desodorização	nome feminino	de|so|do|ri|za|[ção]
+desodorizante	nome masculino	de|so|do|ri|[zan]|te
+desodorizante	adjetivo	de|so|do|ri|[zan]|te
+desodorizar	verbo	de|so|do|ri|[zar]
+desoficialização	nome feminino	de|so|fi|ci|a|li|za|[ção]
+desoficializar	verbo	de|so|fi|ci|a|li|[zar]
+desofuscar	verbo	de|so|fus|[car]
+desolação	nome feminino	de|so|la|[ção]
+desoladamente	advérbio	de|so|la|da|[men]|te
+desolado	adjetivo	de|so|[la]|do
+desolador	adjetivo	de|so|la|[dor]
+desolador	nome masculino	de|so|la|[dor]
+desoladoramente	advérbio	de|so|la|do|ra|[men]|te
+desolar	verbo	de|so|[lar]
+desoleificação	nome feminino	de|so|lei|fi|ca|[ção]
+desoleificar	verbo	de|so|lei|fi|[car]
+desolha	nome feminino	de|[so]|lha
+desolhado	adjetivo	de|so|[lha]|do
+desolhar	verbo	de|so|[lhar]
+desoneração	nome feminino	de|so|ne|ra|[ção]
+desonerar	verbo	de|so|ne|[rar]
+desonesta	nome feminino	de|so|[nes]|ta
+desonestamente	advérbio	de|so|nes|ta|[men]|te
+desonestar	verbo	de|so|nes|[tar]
+desonestidade	nome feminino	de|so|nes|ti|[da]|de
+desonesto	adjetivo	de|so|[nes]|to
+desonesto	nome masculino	de|so|[nes]|to
+desonra	nome feminino	de|[son]|ra
+desonradez	nome feminino	de|son|ra|[dez]
+desonrado	adjetivo	de|son|[ra]|do
+desonrado	nome masculino	de|son|[ra]|do
+desonrador	adjetivo	de|son|ra|[dor]
+desonrador	nome masculino	de|son|ra|[dor]
+desonrante	adjetivo	de|son|[ran]|te
+desonrar	verbo	de|son|[rar]
+desonrável	adjetivo	de|son|[rá]|vel
+desonrosamente	advérbio	de|son|ro|sa|[men]|te
+desonroso	adjetivo	de|son|[ro]|so
+desoperculado	adjetivo	de|so|per|cu|[la]|do
+desopilação	nome feminino	de|so|pi|la|[ção]
+desopilante	adjetivo	de|so|pi|[lan]|te
+desopilar	verbo	de|so|pi|[lar]
+desopilativo	adjetivo	de|so|pi|la|[ti]|vo
+desoportuno	adjetivo	de|so|por|[tu]|no
+desopressão	nome feminino	de|so|pres|[são]
+desopressor	adjetivo	de|so|pres|[sor]
+desopressor	nome masculino	de|so|pres|[sor]
+desoprimir	verbo	de|so|pri|[mir]
+desorado	adjetivo	de|so|[ra]|do
+desoras	nome feminino	de|[so]|ras
+desorbitar	verbo	de|sor|bi|[tar]
+desorçamentação	nome feminino	de|sor|ça|men|ta|[ção]
+desordeira	nome feminino	de|sor|[dei]|ra
+desordeiro	adjetivo	de|sor|[dei]|ro
+desordeiro	nome masculino	de|sor|[dei]|ro
+desordem	nome feminino	de|[sor]|dem
+desordenação	nome feminino	de|sor|de|na|[ção]
+desordenadamente	advérbio	de|sor|de|na|da|[men]|te
+desordenado	adjetivo	de|sor|de|[na]|do
+desordenado	nome masculino	de|sor|de|[na]|do
+desordenador	adjetivo	de|sor|de|na|[dor]
+desordenador	nome masculino	de|sor|de|na|[dor]
+desordenamento	nome masculino	de|sor|de|na|[men]|to
+desordenar	verbo	de|sor|de|[nar]
+desorelhado	adjetivo	de|so|re|[lha]|do
+desorelhamento	nome masculino	de|so|re|lha|[men]|to
+desorelhar	verbo	de|so|re|[lhar]
+desorfado	adjetivo	de|sor|[fa]|do
+desorganização	nome feminino	de|sor|ga|ni|za|[ção]
+desorganizadamente	advérbio	de|sor|ga|ni|za|da|[men]|te
+desorganizado	adjetivo	de|sor|ga|ni|[za]|do
+desorganizador	adjetivo	de|sor|ga|ni|za|[dor]
+desorganizador	nome masculino	de|sor|ga|ni|za|[dor]
+desorganizar	verbo	de|sor|ga|ni|[zar]
+desorganizável	adjetivo	de|sor|ga|ni|[zá]|vel
+desorientação	nome feminino	de|so|ri|en|ta|[ção]
+desorientada	nome feminino	de|so|ri|en|[ta]|da
+desorientadamente	advérbio	de|so|ri|en|ta|da|[men]|te
+desorientado	adjetivo	de|so|ri|en|[ta]|do
+desorientado	nome masculino	de|so|ri|en|[ta]|do
+desorientador	adjetivo	de|so|ri|en|ta|[dor]
+desorientador	nome masculino	de|so|ri|en|ta|[dor]
+desorientamento	nome masculino	de|so|ri|en|ta|[men]|to
+desorientar	verbo	de|so|ri|en|[tar]
+desornado	adjetivo	de|sor|[na]|do
+desornamentar	verbo	de|sor|na|men|[tar]
+desornar	verbo	de|sor|[nar]
+desorvalhado	adjetivo	de|sor|va|[lha]|do
+desossado	adjetivo	de|sos|[sa]|do
+desossamento	nome masculino	de|sos|sa|[men]|to
+desossar	verbo	de|sos|[sar]
+desossificação	nome feminino	de|sos|si|fi|ca|[ção]

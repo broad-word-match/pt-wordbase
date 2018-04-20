@@ -1,0 +1,100 @@
+assim	advérbio	as|[sim]
+assim	adjetivo	as|[sim]
+assim	conjunção	as|[sim]
+assim	interjeição	as|[sim]
+assim-assim	advérbio	as|sim-as|[sim]
+assimbolia	nome feminino	as|sim|bo|[li]|a
+assimbólico	adjetivo	as|sim|[bó]|li|co
+assimetria	nome feminino	as|si|me|[tri]|a
+assimetricamente	advérbio	as|si|me|tri|ca|[men]|te
+assimétrico	adjetivo	as|si|[mé]|tri|co
+assimilabilidade	nome feminino	as|si|mi|la|bi|li|[da]|de
+assimilação	nome feminino	as|si|mi|la|[ção]
+assimilacionista	adjetivo	as|si|mi|la|ci|o|[nis]|ta
+assimilacionista	nome masculino	as|si|mi|la|ci|o|[nis]|ta
+assimilacionista	nome feminino	as|si|mi|la|ci|o|[nis]|ta
+assimilada	nome feminino	as|si|mi|[la]|da
+assimilado	nome masculino	as|si|mi|[la]|do
+assimilado	adjetivo	as|si|mi|[la]|do
+assimilador	adjetivo	as|si|mi|la|[dor]
+assimilador	nome masculino	as|si|mi|la|[dor]
+assimilante	adjetivo	as|si|mi|[lan]|te
+assimilar	verbo	as|si|mi|[lar]
+assimilar	adjetivo	as|si|mi|[lar]
+assimilativo	adjetivo	as|si|mi|la|[ti]|vo
+assimilável	adjetivo	as|si|mi|[lá]|vel
+assimptota	nome feminino	as|simp|[to]|ta
+assimptótico	adjetivo	as|simp|[tó]|ti|co
+assimptotismo	nome masculino	as|simp|to|[tis]|mo
+assimulação	nome feminino	as|si|mu|la|[ção]
+assinação	nome feminino	as|si|na|[ção]
+assinado	adjetivo	as|si|[na]|do
+assinado	nome masculino	as|si|[na]|do
+assinalação	nome feminino	as|si|na|la|[ção]
+assinaladamente	advérbio	as|si|na|la|da|[men]|te
+assinalado	adjetivo	as|si|na|[la]|do
+assinalador	adjetivo	as|si|na|la|[dor]
+assinalador	nome masculino	as|si|na|la|[dor]
+assinalamento	nome masculino	as|si|na|la|[men]|to
+assinalante	adjetivo	as|si|na|[lan]|te
+assinalar	verbo	as|si|na|[lar]
+assinalativo	adjetivo	as|si|na|la|[ti]|vo
+assinalável	adjetivo	as|si|na|[lá]|vel
+assinamento	nome masculino	as|si|na|[men]|to
+assinante	nome masculino	as|si|[nan]|te
+assinante	adjetivo	as|si|[nan]|te
+assinante	nome feminino	as|si|[nan]|te
+assinar	verbo	as|si|[nar]
+assinarteto	adjetivo	as|si|nar|[te]|to
+assinarteto	nome masculino	as|si|nar|[te]|to
+assinatura	nome feminino	as|si|na|[tu]|ra
+assinável	adjetivo	as|si|[ná]|vel
+assinclitismo	nome masculino	as|sin|cli|[tis]|mo
+assincronismo	nome masculino	as|sin|cro|[nis]|mo
+assíncrono	adjetivo	as|[sín]|cro|no
+assindeticamente	advérbio	as|sin|de|ti|ca|[men]|te
+assindético	adjetivo	as|sin|[dé]|ti|co
+assíndeto	nome masculino	as|[sín]|de|to
+assíndeton	nome masculino	as|[sín]|de|ton
+assinergia	nome feminino	as|si|ner|[gi]|a
+assinérgico	adjetivo	as|si|[nér]|gi|co
+assingelar	verbo	as|sin|ge|[lar]
+assintáctico	adjetivo	as|sin|[tác]|ti|co
+assintático	adjetivo	as|sin|[tá]|ti|co
+assintomático	adjetivo	as|sin|to|[má]|ti|co
+assíntota	nome feminino	as|[sín]|to|ta
+assintota	nome feminino	as|sin|[to]|ta
+assintótico	adjetivo	as|sin|[tó]|ti|co
+assintotismo	nome masculino	as|sin|to|[tis]|mo
+assinzinho	adjetivo	as|sin|[zi]|nho
+assipôndio	nome masculino	as|si|[pôn]|di|o
+assíria	nome feminino	as|[sí]|ri|a
+assírico	adjetivo	as|[sí]|ri|co
+assírico	nome masculino	as|[sí]|ri|co
+assírio	nome masculino	as|[sí]|ri|o
+assírio	adjetivo	as|[sí]|ri|o
+assírio-babilônico	adjetivo	as|sí|ri|o-ba|bi|lô|ni|co
+assírio-babilónico	adjetivo	as|sí|ri|o-ba|bi|ló|ni|co
+assírio-caldaico	adjetivo	as|sí|ri|o-cal|dai|co
+assiriologia	nome feminino	as|si|ri|o|lo|[gi]|a
+assiriológico	adjetivo	as|si|ri|o|[ló]|gi|co
+assiriologista	nome masculino	as|si|ri|o|lo|[gis]|ta
+assiriologista	nome feminino	as|si|ri|o|lo|[gis]|ta
+assiriólogo	nome masculino	as|si|ri|[ó]|lo|go
+assisadamente	advérbio	as|si|sa|da|[men]|te
+assisadeira	nome feminino	as|si|sa|[dei]|ra
+assisado	adjetivo	as|si|[sa]|do
+assisar	verbo	as|si|[sar]
+assísmico	adjetivo	as|[sís]|mi|co
+assistásia	nome feminino	as|sis|[tá]|si|a
+assistência	nome feminino	as|sis|[tên]|ci|a
+assistencial	adjetivo	as|sis|ten|ci|[al]
+assistencialismo	nome masculino	as|sis|ten|ci|a|[lis]|mo
+assistencialista	adjetivo	as|sis|ten|ci|a|[lis]|ta
+assistencialista	nome masculino	as|sis|ten|ci|a|[lis]|ta
+assistencialista	nome feminino	as|sis|ten|ci|a|[lis]|ta
+assistente	nome feminino	as|sis|[ten]|te
+assistente	adjetivo	as|sis|[ten]|te
+assistente	nome masculino	as|sis|[ten]|te
+assistente-geral	nome masculino	as|sis|ten|te-ge|[ral]
+assistida	nome feminino	as|sis|[ti]|da

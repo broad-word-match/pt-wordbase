@@ -1,0 +1,100 @@
+melanagogo	nome masculino	me|la|na|[go]|go
+melananto	adjetivo	me|la|[nan]|to
+melancia	nome feminino	me|lan|[ci]|a
+melancial	nome masculino	me|lan|ci|[al]
+melancieira	nome feminino	me|lan|ci|[ei]|ra
+melancleno	adjetivo	me|lan|[cle]|no
+melancleno	nome masculino	me|lan|[cle]|no
+melanclorose	nome feminino	me|lan|clo|[ro]|se
+melancolia	nome feminino	me|lan|co|[li]|a
+melancólica	nome feminino	me|lan|[có]|li|ca
+melancolicamente	advérbio	me|lan|co|li|ca|[men]|te
+melancólico	adjetivo	me|lan|[có]|li|co
+melancólico	nome masculino	me|lan|[có]|li|co
+melancolizador	adjetivo	me|lan|co|li|za|[dor]
+melancolizador	nome masculino	me|lan|co|li|za|[dor]
+melancolizar	verbo	me|lan|co|li|[zar]
+melancônio	nome masculino	me|lan|[cô]|ni|o
+melancónio	nome masculino	me|lan|[có]|ni|o
+melândria	nome feminino	me|[lân]|dri|a
+melanemia	nome feminino	me|la|ne|[mi]|a
+melanémico	nome masculino	me|la|[né]|mi|co
+melanémico	adjetivo	me|la|[né]|mi|co
+melanêmico	adjetivo	me|la|[nê]|mi|co
+melanêmico	nome masculino	me|la|[nê]|mi|co
+melanésio	nome masculino	me|la|[né]|si|o
+melanésio	adjetivo	me|la|[né]|si|o
+melania	nome feminino	me|la|[ni]|a
+melânia	nome feminino	me|[lâ]|ni|a
+melânico	adjetivo	me|[lâ]|ni|co
+melanina	nome feminino	me|la|[ni]|na
+melanismo	nome masculino	me|la|[nis]|mo
+melanita	nome feminino	me|la|[ni]|ta
+melanite	nome feminino	me|la|[ni]|te
+melanítico	adjetivo	me|la|[ní]|ti|co
+melanizar	verbo	me|la|ni|[zar]
+melanocarpo	adjetivo	me|la|no|[car]|po
+melanocéfalo	adjetivo	me|la|no|[cé]|fa|lo
+melanocéraso	nome masculino	me|la|no|[cé]|ra|so
+melanócero	adjetivo	me|la|[nó]|ce|ro
+melanócito	nome masculino	me|la|[nó]|ci|to
+melanócomo	adjetivo	me|la|[nó]|co|mo
+melanocrático	adjetivo	me|la|no|[crá]|ti|co
+melanocroíte	nome feminino	me|la|no|cro|[í]|te
+melanoderme	adjetivo	me|la|no|[der]|me
+melanodermia	nome feminino	me|la|no|der|[mi]|a
+melanodérmico	adjetivo	me|la|no|[dér]|mi|co
+melanodoncia	nome feminino	me|la|no|don|[ci]|a
+melanoftalmo	adjetivo	me|la|nof|[tal]|mo
+melanogálico	adjetivo	me|la|no|[gá]|li|co
+melanografite	nome feminino	me|la|no|gra|[fi]|te
+melanólito	nome masculino	me|la|[nó]|li|to
+melanoma	nome masculino	me|la|[no]|ma
+melanope	adjetivo	me|la|[no]|pe
+melanóptero	adjetivo	me|la|[nóp]|te|ro
+melanoquina	nome feminino	me|la|no|[qui]|na
+melanose	nome feminino	me|la|[no]|se
+melanospermo	adjetivo	me|la|nos|[per]|mo
+melanossiderite	nome feminino	me|la|nos|si|de|[ri]|te
+melanostibiano	nome masculino	me|la|nos|ti|bi|[a]|no
+melanostimulina	nome feminino	me|la|nos|ti|mu|[li]|na
+melanóstomo	adjetivo	me|la|[nós]|to|mo
+melanótico	adjetivo	me|la|[nó]|ti|co
+melanótico	nome masculino	me|la|[nó]|ti|co
+melanótrico	adjetivo	me|la|[nó]|tri|co
+melanotriquia	nome feminino	me|la|no|tri|[qui]|a
+melanotropina	nome feminino	me|la|no|tro|[pi]|na
+melanoxanto	nome masculino	me|la|no|[xan]|to
+melanóxilo	nome masculino	me|la|[nó]|xi|lo
+melantácea	nome feminino	me|lan|[tá]|ce|a
+melantáceo	adjetivo	me|lan|[tá]|ce|o
+melântemo	nome masculino	me|[lân]|te|mo
+melantera	nome feminino	me|lan|[te]|ra
+melantéria	nome feminino	me|lan|[té]|ri|a
+melanterite	nome feminino	me|lan|te|[ri]|te
+melântio	nome masculino	me|[lân]|ti|o
+melanto	nome masculino	me|[lan]|to
+melanúria	nome feminino	me|la|[nú]|ri|a
+melanúrico	adjetivo	me|la|[nú]|ri|co
+melanurina	nome feminino	me|la|nu|[ri]|na
+melanuro	adjetivo	me|la|[nu]|ro
+melanzela	nome feminino	me|lan|[ze]|la
+melão	nome masculino	me|[lão]
+melão-de-são-caetano	nome masculino	me|lão-de-são-ca|e|[ta]|no
+melapeiro	nome masculino	me|la|[pei]|ro
+melápio	nome masculino	me|[lá]|pi|o
+melar	verbo	me|[lar]
+melasma	nome masculino	me|[las]|ma
+melasmo	nome masculino	me|[las]|mo
+melassomo	nome masculino	me|las|[so]|mo
+melastomácea	nome feminino	me|las|to|[má]|ce|a
+melastomáceo	adjetivo	me|las|to|[má]|ce|o
+melástomo	nome masculino	me|[lás]|to|mo
+melato	nome masculino	me|[la]|to
+melatonina	nome feminino	me|la|to|[ni]|na
+melatrofia	nome feminino	me|la|tro|[fi]|a
+melatrófico	adjetivo	me|la|[tró]|fi|co
+melaxanto	adjetivo	me|la|[xan]|to
+melca	nome feminino	[mel]|ca
+melcatrefe	nome masculino	mel|ca|[tre]|fe
+meldo	adjetivo	[mel]|do

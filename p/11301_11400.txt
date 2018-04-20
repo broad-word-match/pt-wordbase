@@ -1,0 +1,100 @@
+pós-comunista	adjetivo	pós-co|mu|[nis]|ta
+pós-constitucional	adjetivo	pós-cons|ti|tu|ci|o|[nal]
+pós-cristão	adjetivo	pós-cris|[tão]
+pós-data	nome feminino	pós-da|ta
+pós-datado	adjetivo	pós-da|[ta]|do
+pós-datar	verbo	pós-da|[tar]
+pós-dental	adjetivo	pós-den|[tal]
+pós-dental	nome feminino	pós-den|[tal]
+pós-diluviano	adjetivo	pós-di|lu|vi|[a]|no
+pós-dorsal	adjetivo	pós-dor|[sal]
+pós-dorso	nome masculino	pós-dor|so
+pós-doutorado	nome masculino	pós-dou|to|[ra]|do
+pós-doutorado	adjetivo	pós-dou|to|[ra]|do
+pós-doutoramento	nome masculino	pós-dou|to|ra|[men]|to
+pós-eleitoral	adjetivo	pós-e|lei|to|[ral]
+pós-embrionário	adjetivo	pós-em|bri|o|[ná]|ri|o
+pós-escolar	adjetivo	pós-es|co|[lar]
+pós-escrito	nome masculino	pós-es|[cri]|to
+pós-fenício	adjetivo	pós-fe|[ní]|ci|o
+pós-franquista	adjetivo	pós-fran|[quis]|ta
+pós-frontal	nome masculino	pós-fron|[tal]
+pós-glacial	adjetivo	pós-gla|ci|[al]
+pós-glaciário	adjetivo	pós-gla|ci|[á]|ri|o
+pós-graduação	nome feminino	pós-gra|du|a|[ção]
+pós-graduada	nome feminino	pós-gra|du|[a]|da
+pós-graduado	nome masculino	pós-gra|du|[a]|do
+pós-graduar	verbo	pós-gra|du|[ar]
+pós-guerra	nome masculino	pós-guer|ra
+pós-hipnótico	adjetivo	pós-hip|[nó]|ti|co
+pós-homérico	adjetivo	pós-ho|[mé]|ri|co
+pós-imperial	adjetivo	pós-im|pe|ri|[al]
+pós-impressionismo	nome masculino	pós-im|pres|si|o|[nis]|mo
+pós-impressionista	adjetivo	pós-im|pres|si|o|[nis]|ta
+pós-impressionista	nome masculino	pós-im|pres|si|o|[nis]|ta
+pós-impressionista	nome feminino	pós-im|pres|si|o|[nis]|ta
+pós-industrial	adjetivo	pós-in|dus|tri|[al]
+pós-laboral	adjetivo	pós-la|bo|[ral]
+pós-medieval	adjetivo	pós-me|di|e|[val]
+pós-menstrual	adjetivo	pós-mens|tru|[al]
+pós-meridiano	adjetivo	pós-me|ri|di|[a]|no
+pós-messiânico	adjetivo	pós-mes|si|[â]|ni|co
+pós-militar	adjetivo	pós-mi|li|[tar]
+pós-minimalismo	nome masculino	pós-mi|ni|ma|[lis]|mo
+pós-minimalista	adjetivo	pós-mi|ni|ma|[lis]|ta
+pós-minimalista	nome masculino	pós-mi|ni|ma|[lis]|ta
+pós-minimalista	nome feminino	pós-mi|ni|ma|[lis]|ta
+pós-modernismo	nome masculino	pós-mo|der|[nis]|mo
+pós-modernista	adjetivo	pós-mo|der|[nis]|ta
+pós-modernista	nome masculino	pós-mo|der|[nis]|ta
+pós-modernista	nome feminino	pós-mo|der|[nis]|ta
+pós-moderno	adjetivo	pós-mo|[der]|no
+pós-mosaico	adjetivo	pós-mo|[sai]|co
+pós-natal	adjetivo	pós-na|[tal]
+pós-nominal	adjetivo	pós-no|mi|[nal]
+pós-nominal	nome masculino	pós-no|mi|[nal]
+pós-nupcial	adjetivo	pós-nup|ci|[al]
+pós-operatório	adjetivo	pós-o|pe|ra|[tó]|ri|o
+pós-operatório	nome masculino	pós-o|pe|ra|[tó]|ri|o
+pós-oral	adjetivo	pós-o|[ral]
+pós-palatal	adjetivo	pós-pa|la|[tal]
+pós-palatal	nome masculino	pós-pa|la|[tal]
+pós-palatal	nome feminino	pós-pa|la|[tal]
+pós-palato	nome masculino	pós-pa|[la]|to
+pós-parto	adjetivo	pós-par|to
+pós-parto	nome masculino	pós-par|to
+pós-pliocénico	adjetivo	pós-pli|o|[cé]|ni|co
+pós-plioceno	adjetivo	pós-pli|o|[ce]|no
+pós-plioceno	nome masculino	pós-pli|o|[ce]|no
+pós-prandial	adjetivo	pós-pran|di|[al]
+pós-produção	nome feminino	pós-pro|du|[ção]
+pós-produtor	adjetivo	pós-pro|du|[tor]
+pós-produtor	nome masculino	pós-pro|du|[tor]
+pós-puerperal	adjetivo	pós-pu|er|pe|[ral]
+pós-punk	nome masculino	[pós-punk]
+pós-radical	adjetivo	pós-ra|di|[cal]
+pós-renascentista	adjetivo	pós-re|nas|cen|[tis]|ta
+pós-republicano	adjetivo	pós-re|pu|bli|[ca]|no
+pós-romano	adjetivo	pós-ro|[ma]|no
+pós-romântico	adjetivo	pós-ro|[mân]|ti|co
+pós-socrático	adjetivo	pós-so|[crá]|ti|co
+pós-temporal	adjetivo	pós-tem|po|[ral]
+pós-temporal	nome masculino	pós-tem|po|[ral]
+pós-terciário	adjetivo	pós-ter|ci|[á]|ri|o
+pós-tônico	nome masculino	pós-tô|ni|co
+pós-tónico	nome masculino	pós-tó|ni|co
+pós-tónico	adjetivo	pós-tó|ni|co
+pós-tônico	adjetivo	pós-tô|ni|co
+pós-universitário	adjetivo	pós-u|ni|ver|si|[tá]|ri|o
+pós-védico	adjetivo	pós-vé|di|co
+pós-venda	nome masculino	pós-ven|da
+pós-venda	adjetivo	pós-ven|da
+pós-verbal	adjetivo	pós-ver|[bal]
+pós-verbal	nome masculino	pós-ver|[bal]
+posar	verbo	po|[sar]
+posca	nome feminino	[pos]|ca
+poscefálico	adjetivo	pos|ce|[fá]|li|co
+poscéfalo	nome masculino	pos|[cé]|fa|lo
+poscênio	nome masculino	pos|[cê]|ni|o
+poscénio	nome masculino	pos|[cé]|ni|o
+pose	nome feminino	[po]|se

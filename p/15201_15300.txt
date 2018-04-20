@@ -1,0 +1,100 @@
+psoríase	nome feminino	pso|[rí]|a|se
+psoriático	adjetivo	pso|ri|[á]|ti|co
+psórico	adjetivo	[psó]|ri|co
+psoroftalmia	nome feminino	pso|rof|tal|[mi]|a
+psoroftálmico	adjetivo	pso|rof|[tál]|mi|co
+psoropta	nome masculino	pso|[rop]|ta
+psorospérmia	nome feminino	pso|ros|[pér]|mi|a
+psorospermose	nome feminino	pso|ros|per|[mo]|se
+ptármica	nome feminino	[ptár]|mi|ca
+ptármico	adjetivo	[ptár]|mi|co
+ptênio	nome masculino	[ptê]|ni|o
+pténio	nome masculino	[pté]|ni|o
+ptenoglosso	nome masculino	pte|no|[glos]|so
+pteracanto	nome masculino	pte|ra|[can]|to
+pteranto	nome masculino	pte|[ran]|to
+ptérico	adjetivo	[pté]|ri|co
+ptéride	nome feminino	[pté]|ri|de
+pteridófita	nome feminino	pte|ri|[dó]|fi|ta
+pteridofítico	adjetivo	pte|ri|do|[fí]|ti|co
+ptéridofito	nome masculino	[pté]|ri|do|fi|to
+pteridografia	nome feminino	pte|ri|do|gra|[fi]|a
+pteridográfico	adjetivo	pte|ri|do|[grá]|fi|co
+pteridógrafo	nome masculino	pte|ri|[dó]|gra|fo
+pteridologia	nome feminino	pte|ri|do|lo|[gi]|a
+pteridológico	adjetivo	pte|ri|do|[ló]|gi|co
+pteridólogo	nome masculino	pte|ri|[dó]|lo|go
+pteridospérmicas	nome feminino	pte|ri|dos|[pér]|mi|cas
+pteridospérmico	adjetivo	pte|ri|dos|[pér]|mi|co
+pterígio	nome masculino	pte|[rí]|gi|o
+pterigofaríngeo	adjetivo	pte|ri|go|fa|[rín]|ge|o
+pterigógeno	nome masculino	pte|ri|[gó]|ge|no
+pterigoide	nome masculino	pte|ri|[goi]|de
+pterigoide	adjetivo	pte|ri|[goi]|de
+pterigóideo	adjetivo	pte|ri|[gói]|de|o
+pterigoma	nome masculino	pte|ri|[go]|ma
+ptérila	nome feminino	[pté]|ri|la
+ptério	nome masculino	[pté]|ri|o
+ptérion	nome masculino	[pté]|ri|on
+pternalgia	nome feminino	pter|nal|[gi]|a
+pternálgico	adjetivo	pter|[nál]|gi|co
+pterobrânquio	nome masculino	pte|ro|[brân]|qui|o
+pterobrânquio	adjetivo	pte|ro|[brân]|qui|o
+pterocarpino	nome masculino	pte|ro|car|[pi]|no
+pterocarpo	adjetivo	pte|ro|[car]|po
+pterocarpo	nome masculino	pte|ro|[car]|po
+pterocéfalo	nome masculino	pte|ro|[cé]|fa|lo
+pterócera	nome feminino	pte|[ró]|ce|ra
+pteróclida	nome masculino	pte|[ró]|cli|da
+pteroclídeo	nome masculino	pte|ro|[clí]|de|o
+pteroclídeo	adjetivo	pte|ro|[clí]|de|o
+pterodáctilo	nome masculino	pte|ro|[dác]|ti|lo
+pterodáctilo	adjetivo	pte|ro|[dác]|ti|lo
+pterodátilo	adjetivo	pte|ro|[dá]|ti|lo
+pterodátilo	nome masculino	pte|ro|[dá]|ti|lo
+pterodonte	nome masculino	pte|ro|[don]|te
+pterofagia	nome feminino	pte|ro|fa|[gi]|a
+pterofórida	nome masculino	pte|ro|[fó]|ri|da
+pteroforídeo	nome masculino	pte|ro|fo|[rí]|de|o
+pteroforídeo	adjetivo	pte|ro|fo|[rí]|de|o
+pteróforo	nome masculino	pte|[ró]|fo|ro
+pterogínio	nome masculino	pte|ro|[gí]|ni|o
+pterógono	adjetivo	pte|[ró]|go|no
+pteroide	adjetivo	pte|[roi]|de
+pterólito	nome masculino	pte|[ró]|li|to
+pteron	nome masculino	pte|[ron]
+pterónia	nome feminino	pte|[ró]|ni|a
+pterônia	nome feminino	pte|[rô]|ni|a
+pterópode	nome masculino	pte|[ró]|po|de
+pterópode	adjetivo	pte|[ró]|po|de
+pterospermo	nome masculino	pte|ros|[per]|mo
+pterósporo	nome masculino	pte|[rós]|po|ro
+pterossauro	adjetivo	pte|ros|[sau]|ro
+pterossauro	nome masculino	pte|ros|[sau]|ro
+pterossauros	nome masculino	pte|ros|[sau]|ros
+pterostigma	nome feminino	pte|ros|[tig]|ma
+pteroteca	nome feminino	pte|ro|[te]|ca
+pterótico	nome masculino	pte|[ró]|ti|co
+ptialagogo	adjetivo	pti|a|la|[go]|go
+ptialina	nome feminino	pti|a|[li]|na
+ptialismo	nome masculino	pti|a|[lis]|mo
+ptiânio	adjetivo	pti|[â]|ni|o
+ptiânio	nome masculino	pti|[â]|ni|o
+pticopieurídeo	nome masculino	pti|co|pi|eu|[rí]|de|o
+ptigmático	adjetivo	ptig|[má]|ti|co
+ptilino	nome masculino	pti|[li]|no
+ptilólito	nome masculino	pti|[ló]|li|to
+ptilose	nome feminino	pti|[lo]|se
+ptolemaico	adjetivo	pto|le|[mai]|co
+ptolemense	adjetivo	pto|le|[men]|se
+ptolemense	nome masculino	pto|le|[men]|se
+ptolemense	nome feminino	pto|le|[men]|se
+ptomaína	nome feminino	pto|ma|[í]|na
+ptomatina	nome feminino	pto|ma|[ti]|na
+ptomatofagia	nome feminino	pto|ma|to|fa|[gi]|a
+ptomatófago	adjetivo	pto|ma|[tó]|fa|go
+ptomatófago	nome masculino	pto|ma|[tó]|fa|go
+ptose	nome feminino	[pto]|se
+ptoseonomia	nome feminino	pto|se|o|no|[mi]|a
+ptoseonômico	adjetivo	pto|se|o|[nô]|mi|co
+ptoseonómico	adjetivo	pto|se|o|[nó]|mi|co

@@ -1,0 +1,100 @@
+alquemila	nome feminino	al|que|[mi]|la
+alquequenge	nome masculino	al|que|[quen]|ge
+alqueria	nome feminino	al|que|[ri]|a
+alquermes	nome masculino	al|[quer]|mes
+alqueve	nome masculino	al|[que]|ve
+alquicé	nome masculino	al|qui|[cé]
+alquiez	nome masculino	al|qui|[ez]
+alquifa	nome feminino	al|[qui]|fa
+alquifol	nome masculino	al|qui|[fol]
+alquilador	nome masculino	al|qui|la|[dor]
+alquilar	verbo	al|qui|[lar]
+alquilaria	nome feminino	al|qui|la|[ri]|a
+alquilato	nome masculino	al|qui|[la]|to
+alquilé	nome masculino	al|qui|[lé]
+alquiler	nome masculino	al|qui|[ler]
+alquílio	nome masculino	al|[quí]|li|o
+alquilo	nome masculino	al|[qui]|lo
+alquimão	nome masculino	al|qui|[mão]
+alquime	nome masculino	al|[qui]|me
+alquimia	nome feminino	al|qui|[mi]|a
+alquimiar	verbo	al|qui|mi|[ar]
+alquímico	adjetivo	al|[quí]|mi|co
+alquimista	nome masculino	al|qui|[mis]|ta
+alquimista	nome feminino	al|qui|[mis]|ta
+alquinar	verbo	al|qui|[nar]
+alquitara	nome feminino	al|qui|[ta]|ra
+alquitarra	nome feminino	al|qui|[tar]|ra
+alquitete	nome masculino	al|qui|[te]|te
+alquitira	nome feminino	al|qui|[ti]|ra
+alquitrave	nome feminino	al|qui|[tra]|ve
+alrete	nome masculino	al|[re]|te
+alrotador	adjetivo	al|ro|ta|[dor]
+alrotador	nome masculino	al|ro|ta|[dor]
+alrotar	verbo	al|ro|[tar]
+alrotaria	nome feminino	al|ro|ta|[ri]|a
+alrute	nome masculino	al|[ru]|te
+alsácia	nome feminino	al|[sá]|ci|a
+alsaciana	nome feminino	al|sa|ci|[a]|na
+alsaciano	nome masculino	al|sa|ci|[a]|no
+alsaciano	adjetivo	al|sa|ci|[a]|no
+alsácio-loreno	adjetivo	al|sá|ci|o-lo|re|no
+alsácio-loreno	nome masculino	al|sá|ci|o-lo|re|no
+alsiense	nome masculino	al|si|[en]|se
+alsiense	adjetivo	al|si|[en]|se
+alsiense	nome feminino	al|si|[en]|se
+álsina	nome feminino	[ál]|si|na
+alsinácea	nome feminino	al|si|[ná]|ce|a
+alsináceo	adjetivo	al|si|[ná]|ce|o
+alsófila	nome feminino	al|[só]|fi|la
+alsona	nome feminino	al|[so]|na
+alsonómetro	nome masculino	al|so|[nó]|me|tro
+alstónia	nome feminino	als|[tó]|ni|a
+alstônia	nome feminino	als|[tô]|ni|a
+alstonie	nome feminino	als|to|[ni]|e
+alstonina	nome feminino	als|to|[ni]|na
+alta	nome feminino	[al]|ta
+alta-roda	nome feminino	al|ta-ro|da
+altabaixo	nome masculino	al|ta|[bai]|xo
+altabrava	nome feminino	al|ta|[bra]|va
+altaforma	nome feminino	al|ta|[for]|ma
+altaica	nome feminino	al|[tai]|ca
+altaico	adjetivo	al|[tai]|co
+altaico	nome masculino	al|[tai]|co
+altairano	adjetivo	al|tai|[ra]|no
+altairano	nome masculino	al|tai|[ra]|no
+altaíte	nome feminino	al|ta|[í]|te
+altamado	adjetivo	al|ta|[ma]|do
+altamente	adjetivo	al|ta|[men]|te
+altamente	advérbio	al|ta|[men]|te
+altamia	nome feminino	al|ta|[mi]|a
+altanado	adjetivo	al|ta|[na]|do
+altanado	nome masculino	al|ta|[na]|do
+altanar	verbo	al|ta|[nar]
+altanaria	nome feminino	al|ta|na|[ri]|a
+altâncara	nome feminino	al|[tân]|ca|ra
+altâncaro	nome masculino	al|[tân]|ca|ro
+altaneiramente	advérbio	al|ta|nei|ra|[men]|te
+altaneiro	adjetivo	al|ta|[nei]|ro
+altania	nome feminino	al|ta|[ni]|a
+altar	nome masculino	al|[tar]
+altar-mor	nome masculino	al|tar-mor
+altaragem	nome feminino	al|ta|[ra]|gem
+altareiro	nome masculino	al|ta|[rei]|ro
+altarista	nome masculino	al|ta|[ris]|ta
+altavela	nome feminino	al|ta|[ve]|la
+alteação	nome feminino	al|te|a|[ção]
+alteado	adjetivo	al|te|[a]|do
+alteador	nome masculino	al|te|a|[dor]
+alteamento	nome masculino	al|te|a|[men]|to
+altear	verbo	al|te|[ar]
+alteastro	nome masculino	al|te|[as]|tro
+alteável	adjetivo	al|te|[á]|vel
+alteia	nome feminino	al|[tei]|a
+alteína	nome feminino	al|te|[í]|na
+alter	nome masculino	al|[ter]
+alter-ego	nome masculino	al|ter-e|go
+alterábil	adjetivo	al|te|[rá]|bil
+alterabilidade	nome feminino	al|te|ra|bi|li|[da]|de
+alteração	nome feminino	al|te|ra|[ção]
+alterado	adjetivo	al|te|[ra]|do

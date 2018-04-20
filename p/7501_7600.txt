@@ -1,0 +1,100 @@
+pilantra	nome feminino	pi|[lan]|tra
+pilantragem	nome feminino	pi|lan|[tra]|gem
+pilão	nome masculino	pi|[lão]
+pilar	verbo	pi|[lar]
+pilar	nome masculino	pi|[lar]
+pilarete	nome masculino	pi|la|[re]|te
+pilarte	nome masculino	pi|[lar]|te
+pilastra	nome feminino	pi|[las]|tra
+pilatos	nome masculino	pi|[la]|tos
+pilau	nome masculino	pi|[lau]
+pildar	verbo	pil|[dar]
+pildra	nome feminino	[pil]|dra
+pildrar	verbo	pil|[drar]
+pilé	adjetivo	pi|[lé]
+pilé	nome masculino	pi|[lé]
+pileato	nome masculino	pi|le|[a]|to
+pileca	nome feminino	pi|[le]|ca
+pileca	nome masculino	pi|[le]|ca
+pilecado	adjetivo	pi|le|[ca]|do
+pileiforme	adjetivo	pi|lei|[for]|me
+pilento	nome masculino	pi|[len]|to
+píleo	nome masculino	[pí]|le|o
+piléolo	nome masculino	pi|[lé]|o|lo
+pileorriza	nome feminino	pi|le|or|[ri]|za
+pileque	nome masculino	pi|[le]|que
+pilequinho	nome masculino	pi|le|[qui]|nho
+piléu	nome masculino	pi|[léu]
+pilha	nome feminino	[pi]|lha
+pilha	nome masculino	[pi]|lha
+pilha-galinhas	nome masculino	pi|lha-ga|[li]|nhas
+pilha-ratos	nome masculino	pi|lha-ra|tos
+pilha-três	nome masculino	pi|lha-três
+pilhagem	nome feminino	pi|[lha]|gem
+pilhanço	nome masculino	pi|[lhan]|ço
+pilhante	adjetivo	pi|[lhan]|te
+pilhante	nome masculino	pi|[lhan]|te
+pilhante	nome feminino	pi|[lhan]|te
+pilhar	verbo	pi|[lhar]
+pilharengo	adjetivo	pi|lha|[ren]|go
+pilharete	nome masculino	pi|lha|[re]|te
+pilharia	nome feminino	pi|lha|[ri]|a
+pilhável	adjetivo	pi|[lhá]|vel
+pilheira	nome feminino	pi|[lhei]|ra
+pilheiro	nome masculino	pi|[lhei]|ro
+pilhéria	nome feminino	pi|[lhé]|ri|a
+pilheriador	adjetivo	pi|lhe|ri|a|[dor]
+pilheriador	nome masculino	pi|lhe|ri|a|[dor]
+pilheriar	verbo	pi|lhe|ri|[ar]
+pilhérico	adjetivo	pi|[lhé]|ri|co
+pilheta	nome feminino	pi|[lhe]|ta
+pilho	nome masculino	[pi]|lho
+pília	nome feminino	[pí]|li|a
+pilídio	nome masculino	pi|[lí]|di|o
+pilífero	adjetivo	pi|[lí]|fe|ro
+pilífero	nome masculino	pi|[lí]|fe|ro
+pilífico	adjetivo	pi|[lí]|fi|co
+piliforme	adjetivo	pi|li|[for]|me
+pilim	nome masculino	pi|[lim]
+pilina	nome feminino	pi|[li]|na
+pilinha	nome feminino	pi|[li]|nha
+pílio	adjetivo	[pí]|li|o
+pílio	nome masculino	[pí]|li|o
+pilípede	adjetivo	pi|[lí]|pe|de
+pilo	nome masculino	[pi]|lo
+pilo	adjetivo	[pi]|lo
+piloada	nome feminino	pi|lo|[a]|da
+pilobólea	nome feminino	pi|lo|[bó]|le|a
+pilóbolo	nome masculino	pi|[ló]|bo|lo
+pilocarpácea	nome feminino	pi|lo|car|[pá]|ce|a
+pilocarpina	nome feminino	pi|lo|car|[pi]|na
+pilocarpo	nome masculino	pi|lo|[car]|po
+pilocas	interjeição	pi|[lo]|cas
+piloflebite	nome feminino	pi|lo|fle|[bi]|te
+piloia	nome feminino	pi|[loi]|a
+pilone	nome masculino	pi|[lo]|ne
+pilorectomia	nome feminino	pi|lo|rec|to|[mi]|a
+pilorectômico	adjetivo	pi|lo|rec|[tô]|mi|co
+pilorectómico	adjetivo	pi|lo|rec|[tó]|mi|co
+pilórico	adjetivo	pi|[ló]|ri|co
+pilorismo	nome masculino	pi|lo|[ris]|mo
+piloro	nome masculino	pi|[lo]|ro
+piloroplastia	nome feminino	pi|lo|ro|plas|[ti]|a
+piloroplástico	adjetivo	pi|lo|ro|[plás]|ti|co
+pilorospasmo	nome masculino	pi|lo|ros|[pas]|mo
+pilosela	nome feminino	pi|lo|[se]|la
+pilosela-das-boticas	nome feminino	pi|lo|se|la-das-bo|[ti]|cas
+pilosidade	nome feminino	pi|lo|si|[da]|de
+pilosismo	nome masculino	pi|lo|[sis]|mo
+piloso	adjetivo	pi|[lo]|so
+pilossebáceo	adjetivo	pi|los|se|[bá]|ce|o
+pilota	nome feminino	pi|[lo]|ta
+pilotado	adjetivo	pi|lo|[ta]|do
+pilotagem	nome feminino	pi|lo|[ta]|gem
+pilotar	verbo	pi|lo|[tar]
+pilotável	adjetivo	pi|lo|[tá]|vel
+pilotear	verbo	pi|lo|te|[ar]
+piloti	nome masculino	pi|lo|[ti]
+piloto	nome masculino	pi|[lo]|to
+piloto	adjetivo	pi|[lo]|to
+piloto	nome feminino	pi|[lo]|to

@@ -1,0 +1,100 @@
+goivar	verbo	goi|[var]
+goivaria	nome feminino	goi|va|[ri]|a
+goiveiro	nome masculino	goi|[vei]|ro
+goivete	nome masculino	goi|[ve]|te
+goivo	nome masculino	[goi]|vo
+gol	nome masculino	[gol]
+gola	nome feminino	[go]|la
+golada	nome feminino	go|[la]|da
+golden	adjetivo	gol|[den]
+gole	nome masculino	[go]|le
+goleada	nome feminino	go|le|[a]|da
+goleador	adjetivo	go|le|a|[dor]
+goleador	nome masculino	go|le|a|[dor]
+goleadora	nome feminino	go|le|a|[do]|ra
+golear	verbo	go|le|[ar]
+goleganense	nome masculino	go|le|ga|[nen]|se
+goleganense	adjetivo	go|le|ga|[nen]|se
+goleganense	nome feminino	go|le|ga|[nen]|se
+goleira	nome feminino	go|[lei]|ra
+goleiro	nome masculino	go|[lei]|ro
+golejar	verbo	go|le|[jar]
+golelha	nome feminino	go|[le]|lha
+golelhar	verbo	go|le|[lhar]
+golelheiro	nome masculino	go|le|[lhei]|ro
+goles	nome masculino	[go]|les
+goleta	nome feminino	go|[le]|ta
+golf	nome masculino	[golf]
+golfada	nome feminino	gol|[fa]|da
+gólfão	nome masculino	[gól]|fão
+golfão	nome masculino	gol|[fão]
+golfar	verbo	gol|[far]
+golfe	nome masculino	[gol]|fe
+golfejar	verbo	gol|fe|[jar]
+golfinário	nome masculino	gol|fi|[ná]|ri|o
+golfinho	nome masculino	gol|[fi]|nho
+golfista	nome masculino	gol|[fis]|ta
+golfista	nome feminino	gol|[fis]|ta
+golfístico	adjetivo	gol|[fís]|ti|co
+golfo	nome masculino	[gol]|fo
+golgo	adjetivo	[gol]|go
+golgo	nome masculino	[gol]|go
+gólgota	nome masculino	[gól]|go|ta
+goliardo	adjetivo	go|li|[ar]|do
+goliardo	nome masculino	go|li|[ar]|do
+golilha	nome feminino	go|[li]|lha
+golo	nome masculino	[go]|lo
+golpada	nome masculino	gol|[pa]|da
+golpada	nome feminino	gol|[pa]|da
+golpázio	nome feminino	gol|[pá]|zi|o
+golpázio	nome masculino	gol|[pá]|zi|o
+golpe	nome masculino	[gol]|pe
+golpeado	adjetivo	gol|pe|[a]|do
+golpeadura	nome feminino	gol|pe|a|[du]|ra
+golpeamento	nome masculino	gol|pe|a|[men]|to
+golpeante	adjetivo	gol|pe|[an]|te
+golpear	verbo	gol|pe|[ar]
+golpelha	nome feminino	gol|[pe]|lha
+golpelheira	nome feminino	gol|pe|[lhei]|ra
+golpismo	nome masculino	gol|[pis]|mo
+golpista	nome masculino	gol|[pis]|ta
+golpista	adjetivo	gol|[pis]|ta
+golpista	nome feminino	gol|[pis]|ta
+goma	nome feminino	[go]|ma
+goma	nome masculino	[go]|ma
+goma-arábica	nome feminino	go|ma-a|[rá]|bi|ca
+goma-elástica	nome feminino	go|ma-e|[lás]|ti|ca
+goma-guta	nome feminino	go|ma-gu|ta
+goma-laca	nome feminino	go|ma-la|ca
+goma-resina	nome feminino	go|ma-re|[si]|na
+gomação	nome feminino	go|ma|[ção]
+gomadeira	nome feminino	go|ma|[dei]|ra
+gomado	nome masculino	go|[ma]|do
+gomado	adjetivo	go|[ma]|do
+gomador	nome masculino	go|ma|[dor]
+gomagem	nome feminino	go|[ma]|gem
+gomar	verbo	go|[mar]
+gomarra	nome feminino	go|[mar]|ra
+gomável	adjetivo	go|[má]|vel
+gomba	nome feminino	[gom]|ba
+gombelar	verbo	gom|be|[lar]
+gombir	nome masculino	gom|[bir]
+gombo	nome masculino	[gom]|bo
+gomedar	nome masculino	go|me|[dar]
+gomeiro	nome masculino	go|[mei]|ro
+gomeleira	nome feminino	go|me|[lei]|ra
+gomenol	nome masculino	go|me|[nol]
+gomenolado	adjetivo	go|me|no|[la]|do
+gomia	nome feminino	go|[mi]|a
+gomiada	nome feminino	go|mi|[a]|da
+gômico	adjetivo	[gô]|mi|co
+gómico	adjetivo	[gó]|mi|co
+gomífero	adjetivo	go|[mí]|fe|ro
+gomil	nome masculino	go|[mil]
+gomiloso	adjetivo	go|mi|[lo]|so
+gomitar	verbo	go|mi|[tar]
+gómito	nome masculino	[gó]|mi|to
+gomo	nome masculino	[go]|mo
+gomorreu	adjetivo	go|mor|[reu]
+gomorreu	nome masculino	go|mor|[reu]
+gomose	nome feminino	go|[mo]|se

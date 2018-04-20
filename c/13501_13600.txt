@@ -1,0 +1,100 @@
+complexada	nome feminino	com|ple|[xa]|da
+complexado	adjetivo	com|ple|[xa]|do
+complexado	nome masculino	com|ple|[xa]|do
+complexamente	advérbio	com|ple|xa|[men]|te
+complexão	nome feminino	com|ple|[xão]
+complexidade	nome feminino	com|ple|xi|[da]|de
+complexidão	nome feminino	com|ple|xi|[dão]
+complexificação	nome feminino	com|ple|xi|fi|ca|[ção]
+complexificar	verbo	com|ple|xi|fi|[car]
+complexíssimo	adjetivo	com|ple|[xís]|si|mo
+complexivo	adjetivo	com|ple|[xi]|vo
+complexo	nome masculino	com|[ple]|xo
+complexo	adjetivo	com|[ple]|xo
+complicação	nome feminino	com|pli|ca|[ção]
+complicadamente	advérbio	com|pli|ca|da|[men]|te
+complicadíssimo	adjetivo	com|pli|ca|[dís]|si|mo
+complicado	adjetivo	com|pli|[ca]|do
+complicador	adjetivo	com|pli|ca|[dor]
+complicador	nome masculino	com|pli|ca|[dor]
+complicar	verbo	com|pli|[car]
+complicável	adjetivo	com|pli|[cá]|vel
+complô	nome masculino	com|[plô]
+complot	nome masculino	com|plot
+complúvio	nome masculino	com|[plú]|vi|o
+compodouro	nome masculino	com|po|[dou]|ro
+componedor	nome masculino	com|po|ne|[dor]
+componenda	nome feminino	com|po|[nen]|da
+componente	nome masculino	com|po|[nen]|te
+componente	adjetivo	com|po|[nen]|te
+componente	nome feminino	com|po|[nen]|te
+compônio	nome masculino	com|[pô]|ni|o
+compónio	nome masculino	com|[pó]|ni|o
+componível	adjetivo	com|po|[ní]|vel
+compor	verbo	com|[por]
+comporta	nome feminino	com|[por]|ta
+comportabilidade	nome feminino	com|por|ta|bi|li|[da]|de
+comportação	nome feminino	com|por|ta|[ção]
+comportado	adjetivo	com|por|[ta]|do
+comportamental	adjetivo	com|por|ta|men|[tal]
+comportamentalismo	nome masculino	com|por|ta|men|ta|[lis]|mo
+comportamentalista	adjetivo	com|por|ta|men|ta|[lis]|ta
+comportamento	nome masculino	com|por|ta|[men]|to
+comportar	verbo	com|por|[tar]
+comportável	adjetivo	com|por|[tá]|vel
+comportavelmente	advérbio	com|por|ta|vel|[men]|te
+composição	nome feminino	com|po|si|[ção]
+composicional	adjetivo	com|po|si|ci|o|[nal]
+compositivo	adjetivo	com|po|si|[ti]|vo
+compósito	adjetivo	com|[pó]|si|to
+compósito	nome masculino	com|[pó]|si|to
+compositor	nome masculino	com|po|si|[tor]
+compositora	nome feminino	com|po|si|[to]|ra
+composse	nome feminino	com|[pos]|se
+compossessor	nome masculino	com|pos|ses|[sor]
+compossibilidade	nome feminino	com|pos|si|bi|li|[da]|de
+compossível	adjetivo	com|pos|[sí]|vel
+compossuidor	nome masculino	com|pos|su|i|[dor]
+composta	nome feminino	com|[pos]|ta
+composta	nome feminino	com|[pos]|ta
+compostagem	nome feminino	com|pos|[ta]|gem
+compostamente	advérbio	com|pos|ta|[men]|te
+compostelana	nome feminino	com|pos|te|[la]|na
+compostelano	nome masculino	com|pos|te|[la]|no
+compostelano	adjetivo	com|pos|te|[la]|no
+composto	nome masculino	com|[pos]|to
+composto	adjetivo	com|[pos]|to
+compostura	nome feminino	com|pos|[tu]|ra
+compota	nome feminino	com|[po]|ta
+compoteira	nome feminino	com|po|[tei]|ra
+compra	nome feminino	[com]|pra
+compradiço	adjetivo	com|pra|[di]|ço
+comprador	adjetivo	com|pra|[dor]
+comprador	nome masculino	com|pra|[dor]
+compradora	nome feminino	com|pra|[do]|ra
+comprar	verbo	com|[prar]
+comprativo	adjetivo	com|pra|[ti]|vo
+compratório	adjetivo	com|pra|[tó]|ri|o
+comprável	adjetivo	com|[prá]|vel
+comprazedor	adjetivo	com|pra|ze|[dor]
+comprazedor	nome masculino	com|pra|ze|[dor]
+comprazer	nome masculino	com|pra|[zer]
+comprazer	verbo	com|pra|[zer]
+comprazimento	nome masculino	com|pra|zi|[men]|to
+compreender	verbo	com|pre|en|[der]
+compreendido	adjetivo	com|pre|en|[di]|do
+compreensão	nome feminino	com|pre|en|[são]
+compreensíbil	adjetivo	com|pre|en|[sí]|bil
+compreensibilidade	nome feminino	com|pre|en|si|bi|li|[da]|de
+compreensivamente	advérbio	com|pre|en|si|va|[men]|te
+compreensível	adjetivo	com|pre|en|[sí]|vel
+compreensivelmente	advérbio	com|pre|en|si|vel|[men]|te
+compreensivo	adjetivo	com|pre|en|[si]|vo
+compreensor	nome masculino	com|pre|en|[sor]
+compreição	nome feminino	com|prei|[ção]
+compressa	nome feminino	com|[pres]|sa
+compressão	nome feminino	com|pres|[são]
+compressibilidade	nome feminino	com|pres|si|bi|li|[da]|de
+compressicaude	adjetivo	com|pres|si|[cau]|de
+compressicaule	adjetivo	com|pres|si|[cau]|le
+compressicórneo	adjetivo	com|pres|si|[cór]|ne|o

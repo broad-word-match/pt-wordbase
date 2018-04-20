@@ -1,0 +1,100 @@
+rabia	nome feminino	ra|[bi]|a
+rabialva	nome masculino	ra|bi|[al]|va
+rabialvo	adjetivo	ra|bi|[al]|vo
+rabiar	verbo	ra|bi|[ar]
+rabiça	nome feminino	ra|[bi]|ça
+rabicano	adjetivo	ra|bi|[ca]|no
+rabicão	adjetivo	ra|bi|[cão]
+rabicha	nome feminino	ra|[bi]|cha
+rabichão	adjetivo	ra|bi|[chão]
+rabicheira	nome feminino	ra|bi|[chei]|ra
+rabicho	adjetivo	ra|[bi]|cho
+rabicho	nome masculino	ra|[bi]|cho
+rábico	adjetivo	[rá]|bi|co
+rabiço	nome masculino	ra|[bi]|ço
+rabiçola	nome feminino	ra|bi|[ço]|la
+rabiçolo	nome masculino	ra|bi|[ço]|lo
+rabicurto	adjetivo	ra|bi|[cur]|to
+rabicurto	nome masculino	ra|bi|[cur]|to
+rábida	nome feminino	[rá]|bi|da
+rabidamente	advérbio	ra|bi|da|[men]|te
+rabidância	nome feminino	ra|bi|[dân]|ci|a
+rabidante	nome masculino	ra|bi|[dan]|te
+rabidante	nome feminino	ra|bi|[dan]|te
+rabidar	verbo	ra|bi|[dar]
+rabidez	nome feminino	ra|bi|[dez]
+rábido	adjetivo	[rá]|bi|do
+rabiforcado	adjetivo	ra|bi|for|[ca]|do
+rabifurcado	adjetivo	ra|bi|fur|[ca]|do
+rabigato	nome masculino	ra|bi|[ga]|to
+rabigo	adjetivo	ra|[bi]|go
+rabijunco	nome masculino	ra|bi|[jun]|co
+rabil	nome masculino	ra|[bil]
+rabila	nome feminino	ra|[bi]|la
+rabileiro	nome masculino	ra|bi|[lei]|ro
+rabilha	nome feminino	ra|[bi]|lha
+rabilongo	nome masculino	ra|bi|[lon]|go
+rabilongo	adjetivo	ra|bi|[lon]|go
+rabina	nome feminino	ra|[bi]|na
+rabinice	nome feminino	ra|bi|[ni]|ce
+rabínico	adjetivo	ra|[bí]|ni|co
+rabinismo	nome masculino	ra|bi|[nis]|mo
+rabino	nome masculino	ra|[bi]|no
+rabino	adjetivo	ra|[bi]|no
+rabiosca	nome feminino	ra|bi|[os]|ca
+rabioso	adjetivo	ra|bi|[o]|so
+rabiosque	nome masculino	ra|bi|[os]|que
+rabioste	nome masculino	ra|bi|[os]|te
+rabiote	nome masculino	ra|bi|[o]|te
+rabipreto	adjetivo	ra|bi|[pre]|to
+rabirruiva	nome feminino	ra|bir|[rui]|va
+rabirruivo	nome masculino	ra|bir|[rui]|vo
+rabirruivo	adjetivo	ra|bir|[rui]|vo
+rabisca	nome feminino	ra|[bis]|ca
+rabiscadeira	nome feminino	ra|bis|ca|[dei]|ra
+rabiscado	adjetivo	ra|bis|[ca]|do
+rabiscador	nome masculino	ra|bis|ca|[dor]
+rabiscador	adjetivo	ra|bis|ca|[dor]
+rabiscadora	nome feminino	ra|bis|ca|[do]|ra
+rabiscar	verbo	ra|bis|[car]
+rabisco	nome masculino	ra|[bis]|co
+rabiscoelha	nome feminino	ra|bis|co|[e]|lha
+rabissaca	nome feminino	ra|bis|[sa]|ca
+rabissaltão	adjetivo	ra|bis|sal|[tão]
+rabisseco	adjetivo	ra|bis|[se]|co
+rabisteco	nome masculino	ra|bis|[te]|co
+rabistel	nome masculino	ra|bis|[tel]
+rábita	nome feminino	[rá]|bi|ta
+rabita	nome feminino	ra|[bi]|ta
+rabita-ferreira	nome feminino	ra|bi|ta-fer|[rei]|ra
+rabiteso	adjetivo	ra|bi|[te]|so
+rabo	nome masculino	[ra]|bo
+rabo de andorinha	nome masculino	[ra]|bo de an|do|ri|nha
+rabo de arraia	nome masculino	[ra]|bo de ar|rai|a
+rabo de leque	nome masculino	[ra]|bo de le|que
+rabo de saia	nome masculino	[ra]|bo de sai|a
+rabo de tatu	nome masculino	[ra]|bo de ta|tu
+rabo-branco	nome masculino	ra|bo-bran|co
+rabo-de-asno	nome masculino	ra|bo-de-as|no
+rabo-de-bacalhau	nome masculino	ra|bo-de-ba|ca|[lhau]
+rabo-de-bugio	nome masculino	ra|bo-de-bu|[gi]|o
+rabo-de-cão	nome masculino	ra|bo-de-cão
+rabo-de-cavalo	nome masculino	ra|bo-de-ca|[va]|lo
+rabo-de-foguete	nome masculino	ra|bo-de-fo|[gue]|te
+rabo-de-galo	nome masculino	ra|bo-de-ga|lo
+rabo-de-gato	nome masculino	ra|bo-de-ga|to
+rabo-de-junco	nome masculino	ra|bo-de-jun|co
+rabo-de-lebre	nome masculino	ra|bo-de-le|bre
+rabo-de-macaco	nome masculino	ra|bo-de-ma|[ca]|co
+rabo-de-ovelha	nome masculino	ra|bo-de-o|[ve]|lha
+rabo-de-palha	nome masculino	ra|bo-de-pa|lha
+rabo-de-raposa	nome masculino	ra|bo-de-ra|[po]|sa
+rabo-de-zorra	nome masculino	ra|bo-de-zor|ra
+rabo-leva	nome masculino	ra|bo-le|va
+rabo-queimado	nome masculino	ra|bo-quei|[ma]|do
+rabo-ruço	nome masculino	ra|bo-ru|ço
+rabo-ruivo	nome masculino	ra|bo-rui|vo
+rabocoelha	nome feminino	ra|bo|co|[e]|lha
+rabodarvela	nome masculino	ra|bo|dar|[ve]|la
+rabodarvela	nome feminino	ra|bo|dar|[ve]|la
+rabola	nome feminino	ra|[bo]|la

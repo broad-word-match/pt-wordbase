@@ -1,0 +1,100 @@
+assonia	nome feminino	as|so|[ni]|a
+assonorentado	adjetivo	as|so|no|ren|[ta]|do
+assonsar	verbo	as|son|[sar]
+assopeado	adjetivo	as|so|pe|[a]|do
+assopear	verbo	as|so|pe|[ar]
+assopradela	nome feminino	as|so|pra|[de]|la
+assoprado	adjetivo	as|so|[pra]|do
+assoprador	nome masculino	as|so|pra|[dor]
+assoprador	adjetivo	as|so|pra|[dor]
+assopradura	nome feminino	as|so|pra|[du]|ra
+assopramento	nome masculino	as|so|pra|[men]|to
+assoprar	verbo	as|so|[prar]
+assopro	nome masculino	as|[so]|pro
+assoreado	adjetivo	as|so|re|[a]|do
+assoreamento	nome masculino	as|so|re|a|[men]|to
+assorear	verbo	as|so|re|[ar]
+assorino	adjetivo	as|so|[ri]|no
+assorino	nome masculino	as|so|[ri]|no
+assossegado	adjetivo	as|sos|se|[ga]|do
+assossegador	adjetivo	as|sos|se|ga|[dor]
+assossegador	nome masculino	as|sos|se|ga|[dor]
+assossegar	verbo	as|sos|se|[gar]
+assossego	nome masculino	as|sos|[se]|go
+assotado	adjetivo	as|so|[ta]|do
+assotano	adjetivo	as|so|[ta]|no
+assotano	nome masculino	as|so|[ta]|no
+assotar	verbo	as|so|[tar]
+assoturnado	adjetivo	as|so|tur|[na]|do
+assovacado	adjetivo	as|so|va|[ca]|do
+assovacar	verbo	as|so|va|[car]
+assovelada	nome feminino	as|so|ve|[la]|da
+assovelado	adjetivo	as|so|ve|[la]|do
+assovelar	verbo	as|so|ve|[lar]
+assoviada	nome feminino	as|so|vi|[a]|da
+assoviadeira	nome feminino	as|so|vi|a|[dei]|ra
+assoviadela	nome feminino	as|so|vi|a|[de]|la
+assoviador	adjetivo	as|so|vi|a|[dor]
+assoviador	nome masculino	as|so|vi|a|[dor]
+assoviadura	nome feminino	as|so|vi|a|[du]|ra
+assoviante	adjetivo	as|so|vi|[an]|te
+assoviar	verbo	as|so|vi|[ar]
+assovinado	adjetivo	as|so|vi|[na]|do
+assovinar	verbo	as|so|vi|[nar]
+assovinhar	verbo	as|so|vi|[nhar]
+assovio	nome masculino	as|so|[vi]|o
+assuada	nome feminino	as|su|[a]|da
+assuanês	adjetivo	as|su|a|[nês]
+assuanês	nome masculino	as|su|a|[nês]
+assuar	verbo	as|su|[ar]
+assubstantivar	verbo	as|subs|tan|ti|[var]
+assubtilar	verbo	as|sub|ti|[lar]
+assucador	nome masculino	as|su|ca|[dor]
+assucadouro	nome masculino	as|su|ca|[dou]|ro
+assucar	verbo	as|su|[car]
+assucatado	adjetivo	as|su|ca|[ta]|do
+assucatar	verbo	as|su|ca|[tar]
+assueto	adjetivo	as|su|[e]|to
+assujeitar	verbo	as|su|jei|[tar]
+assumagrado	adjetivo	as|su|ma|[gra]|do
+assumagrar	verbo	as|su|ma|[grar]
+assumagre	nome masculino	as|su|[ma]|gre
+assumidamente	advérbio	as|su|mi|da|[men]|te
+assumido	adjetivo	as|su|[mi]|do
+assumir	verbo	as|su|[mir]
+assumpcionista	adjetivo	as|sump|ci|o|[nis]|ta
+assumpcionista	nome masculino	as|sump|ci|o|[nis]|ta
+assumpcionista	nome feminino	as|sump|ci|o|[nis]|ta
+assumptível	adjetivo	as|sump|[tí]|vel
+assumptivo	adjetivo	as|sump|[ti]|vo
+assumpto	adjetivo	as|[sump]|to
+assumpto	nome masculino	as|[sump]|to
+assunar	verbo	as|su|[nar]
+assunção	nome feminino	as|sun|[ção]
+assuncionista	nome masculino	as|sun|ci|o|[nis]|ta
+assuncionista	nome feminino	as|sun|ci|o|[nis]|ta
+assuncionista	adjetivo	as|sun|ci|o|[nis]|ta
+assuntar	verbo	as|sun|[tar]
+assuntível	adjetivo	as|sun|[tí]|vel
+assuntivo	adjetivo	as|sun|[ti]|vo
+assunto	nome masculino	as|[sun]|to
+assunto	adjetivo	as|[sun]|to
+assurgente	adjetivo	as|sur|[gen]|te
+assustadiço	adjetivo	as|sus|ta|[di]|ço
+assustado	adjetivo	as|sus|[ta]|do
+assustado	nome masculino	as|sus|[ta]|do
+assustador	adjetivo	as|sus|ta|[dor]
+assustador	nome masculino	as|sus|ta|[dor]
+assustadoramente	advérbio	as|sus|ta|do|ra|[men]|te
+assustar	verbo	as|sus|[tar]
+assustável	adjetivo	as|sus|[tá]|vel
+assustoso	adjetivo	as|sus|[to]|so
+assutado	adjetivo	as|su|[ta]|do
+asta	interjeição	[as]|ta
+asta	nome masculino	[as]|ta
+asta	nome feminino	[as]|ta
+astaceno	nome masculino	as|ta|[ce]|no
+astaceno	adjetivo	as|ta|[ce]|no
+astácida	nome masculino	as|[tá]|ci|da
+astacídeo	nome masculino	as|ta|[cí]|de|o
+astacídeo	adjetivo	as|ta|[cí]|de|o

@@ -1,0 +1,100 @@
+diva	nome feminino	[di]|va
+divã-cama	nome masculino	di|vã-ca|ma
+divagação	nome feminino	di|va|ga|[ção]
+divagador	adjetivo	di|va|ga|[dor]
+divagador	nome masculino	di|va|ga|[dor]
+divagante	adjetivo	di|va|[gan]|te
+divagar	verbo	di|va|[gar]
+divalente	adjetivo	di|va|[len]|te
+divaricação	nome feminino	di|va|ri|ca|[ção]
+divaricado	adjetivo	di|va|ri|[ca]|do
+divaricar	verbo	di|va|ri|[car]
+divelente	adjetivo	di|ve|[len]|te
+divérbio	nome masculino	di|[vér]|bi|o
+divergência	nome feminino	di|ver|[gên]|ci|a
+divergente	adjetivo	di|ver|[gen]|te
+divergente	nome masculino	di|ver|[gen]|te
+divergir	verbo	di|ver|[gir]
+diversamente	advérbio	di|ver|sa|[men]|te
+diversão	nome feminino	di|ver|[são]
+diversicolor	adjetivo	di|ver|si|co|[lor]
+diversidade	nome feminino	di|ver|si|[da]|de
+diversificação	nome feminino	di|ver|si|fi|ca|[ção]
+diversificadamente	advérbio	di|ver|si|fi|ca|da|[men]|te
+diversificador	adjetivo	di|ver|si|fi|ca|[dor]
+diversificador	nome masculino	di|ver|si|fi|ca|[dor]
+diversificante	adjetivo	di|ver|si|fi|[can]|te
+diversificar	verbo	di|ver|si|fi|[car]
+diversificável	adjetivo	di|ver|si|fi|[cá]|vel
+diversifloro	adjetivo	di|ver|si|[flo]|ro
+diversifoliado	adjetivo	di|ver|si|fo|li|[a]|do
+diversiforme	adjetivo	di|ver|si|[for]|me
+diversivo	adjetivo	di|ver|[si]|vo
+diverso	adjetivo	di|[ver]|so
+diverso	artigo indefinido	di|[ver]|so
+diversório	nome masculino	di|ver|[só]|ri|o
+diversório	adjetivo	di|ver|[só]|ri|o
+diversos	pronome indefinido	di|[ver]|sos
+diverticular	adjetivo	di|ver|ti|cu|[lar]
+diverticulite	nome feminino	di|ver|ti|cu|[li]|te
+divertículo	nome masculino	di|ver|[tí]|cu|lo
+divertidamente	advérbio	di|ver|ti|da|[men]|te
+divertidíssimo	adjetivo	di|ver|ti|[dís]|si|mo
+divertido	adjetivo	di|ver|[ti]|do
+divertimento	nome masculino	di|ver|ti|[men]|to
+divertir	verbo	di|ver|[tir]
+divícia	nome feminino	di|[ví]|ci|a
+divicioso	adjetivo	di|vi|ci|[o]|so
+dívida	nome feminino	[dí]|vi|da
+dividendo	adjetivo	di|vi|[den]|do
+dividendo	nome masculino	di|vi|[den]|do
+dividido	adjetivo	di|vi|[di]|do
+dividir	verbo	di|vi|[dir]
+dividivi	nome masculino	di|vi|di|[vi]
+dividual	adjetivo	di|vi|du|[al]
+divíduo	adjetivo	di|[ví]|du|o
+divina	nome feminino	di|[vi]|na
+divinação	nome feminino	di|vi|na|[ção]
+divinador	adjetivo	di|vi|na|[dor]
+divinador	nome masculino	di|vi|na|[dor]
+divinal	adjetivo	di|vi|[nal]
+divinalmente	advérbio	di|vi|nal|[men]|te
+divinamente	advérbio	di|vi|na|[men]|te
+divinatório	adjetivo	di|vi|na|[tó]|ri|o
+divinatriz	adjetivo	di|vi|na|[triz]
+divinatriz	nome feminino	di|vi|na|[triz]
+divindade	nome feminino	di|vin|[da]|de
+divinização	nome feminino	di|vi|ni|za|[ção]
+divinizador	adjetivo	di|vi|ni|za|[dor]
+divinizador	nome masculino	di|vi|ni|za|[dor]
+divinizante	adjetivo	di|vi|ni|[zan]|te
+divinizar	verbo	di|vi|ni|[zar]
+divinizável	adjetivo	di|vi|ni|[zá]|vel
+divino	adjetivo	di|[vi]|no
+divino	nome masculino	di|[vi]|no
+divinopolitano	adjetivo	di|vi|no|po|li|[ta]|no
+divinopolitano	nome masculino	di|vi|no|po|li|[ta]|no
+divisa	nome feminino	di|[vi]|sa
+divisão	nome feminino	di|vi|[são]
+divisar	verbo	di|vi|[sar]
+diviseiro	nome masculino	di|vi|[sei]|ro
+divisibilidade	nome feminino	di|vi|si|bi|li|[da]|de
+divisional	adjetivo	di|vi|si|o|[nal]
+divisionário	adjetivo	di|vi|si|o|[ná]|ri|o
+divisionismo	nome masculino	di|vi|si|o|[nis]|mo
+divisionista	nome masculino	di|vi|si|o|[nis]|ta
+divisionista	adjetivo	di|vi|si|o|[nis]|ta
+divisionista	nome feminino	di|vi|si|o|[nis]|ta
+divisionístico	adjetivo	di|vi|si|o|[nís]|ti|co
+divisível	adjetivo	di|vi|[sí]|vel
+divisivo	adjetivo	di|vi|[si]|vo
+diviso	adjetivo	di|[vi]|so
+divisor	nome masculino	di|vi|[sor]
+divisor	adjetivo	di|vi|[sor]
+divisória	nome feminino	di|vi|[só]|ri|a
+divisório	adjetivo	di|vi|[só]|ri|o
+divisório	nome masculino	di|vi|[só]|ri|o
+divo	nome masculino	[di]|vo
+divo	adjetivo	[di]|vo
+divodigno	nome masculino	di|vo|[dig]|no
+divorciação	nome feminino	di|vor|ci|a|[ção]

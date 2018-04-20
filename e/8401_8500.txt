@@ -1,0 +1,100 @@
+escurar	verbo	es|cu|[rar]
+escuras	nome feminino	es|[cu]|ras
+escurecedor	adjetivo	es|cu|re|ce|[dor]
+escurecedor	nome masculino	es|cu|re|ce|[dor]
+escurecer	verbo	es|cu|re|[cer]
+escurecer	nome masculino	es|cu|re|[cer]
+escurecimento	nome masculino	es|cu|re|ci|[men]|to
+escurecível	adjetivo	es|cu|re|[cí]|vel
+escurejar	verbo	es|cu|re|[jar]
+escurentar	verbo	es|cu|ren|[tar]
+escureza	nome feminino	es|cu|[re]|za
+escuriço	adjetivo	es|cu|[ri]|ço
+escuridade	nome feminino	es|cu|ri|[da]|de
+escuridão	nome feminino	es|cu|ri|[dão]
+escuro	adjetivo	es|[cu]|ro
+escuro	nome masculino	es|[cu]|ro
+escurra	nome masculino	es|[cur]|ra
+escurril	adjetivo	es|cur|[ril]
+escurrilidade	nome feminino	es|cur|ri|li|[da]|de
+escusa	nome feminino	es|[cu]|sa
+escusação	nome feminino	es|cu|sa|[ção]
+escusadamente	advérbio	es|cu|sa|da|[men]|te
+escusado	adjetivo	es|cu|[sa]|do
+escusador	nome masculino	es|cu|sa|[dor]
+escusamente	advérbio	es|cu|sa|[men]|te
+escusar	verbo	es|cu|[sar]
+escusatória	nome feminino	es|cu|sa|[tó]|ri|a
+escusatório	adjetivo	es|cu|sa|[tó]|ri|o
+escusável	adjetivo	es|cu|[sá]|vel
+escuso	adjetivo	es|[cu]|so
+escuso	nome masculino	es|[cu]|so
+escusor	nome masculino	es|cu|[sor]
+escuta	nome feminino	es|[cu]|ta
+escuta	nome masculino	es|[cu]|ta
+escutador	adjetivo	es|cu|ta|[dor]
+escutador	nome masculino	es|cu|ta|[dor]
+escutar	verbo	es|cu|[tar]
+escuteira	nome feminino	es|cu|[tei]|ra
+escuteirismo	nome masculino	es|cu|tei|[ris]|mo
+escuteiro	adjetivo	es|cu|[tei]|ro
+escuteiro	nome masculino	es|cu|[tei]|ro
+escutela	nome feminino	es|cu|[te]|la
+escutelária	nome feminino	es|cu|te|[lá]|ri|a
+escutelarina	nome feminino	es|cu|te|la|[ri]|na
+escutelídeo	nome masculino	es|cu|te|[lí]|de|o
+escutelídeo	adjetivo	es|cu|te|[lí]|de|o
+escutelo	nome masculino	es|cu|[te]|lo
+escuterudite	nome feminino	es|cu|te|ru|[di]|te
+escutiforme	adjetivo	es|cu|ti|[for]|me
+escutismo	nome masculino	es|cu|[tis]|mo
+escutista	nome masculino	es|cu|[tis]|ta
+escutista	adjetivo	es|cu|[tis]|ta
+escutista	nome feminino	es|cu|[tis]|ta
+esdrúxula	nome feminino	es|[drú]|xu|la
+esdruxulamente	advérbio	es|dru|xu|la|[men]|te
+esdruxular	verbo	es|dru|xu|[lar]
+esdruxularia	nome feminino	es|dru|xu|la|[ri]|a
+esdruxulez	nome feminino	es|dru|xu|[lez]
+esdruxulidade	nome feminino	es|dru|xu|li|[da]|de
+esdruxulismo	nome masculino	es|dru|xu|[lis]|mo
+esdruxulista	adjetivo	es|dru|xu|[lis]|ta
+esdruxulista	nome masculino	es|dru|xu|[lis]|ta
+esdruxulista	nome feminino	es|dru|xu|[lis]|ta
+esdruxulização	nome feminino	es|dru|xu|li|za|[ção]
+esdruxulizante	adjetivo	es|dru|xu|li|[zan]|te
+esdruxulizante	nome masculino	es|dru|xu|li|[zan]|te
+esdruxulizante	nome feminino	es|dru|xu|li|[zan]|te
+esdruxulizar	verbo	es|dru|xu|li|[zar]
+esdrúxulo	adjetivo	es|[drú]|xu|lo
+esdrúxulo	nome masculino	es|[drú]|xu|lo
+eserina	nome feminino	e|se|[ri]|na
+esernino	adjetivo	e|ser|[ni]|no
+esernino	nome masculino	e|ser|[ni]|no
+esfacelado	adjetivo	es|fa|ce|[la]|do
+esfacelamento	nome masculino	es|fa|ce|la|[men]|to
+esfacelar	verbo	es|fa|ce|[lar]
+esfacelária	nome feminino	es|fa|ce|[lá]|ri|a
+esfacelo	nome masculino	es|fa|[ce]|lo
+esfadigado	adjetivo	es|fa|di|[ga]|do
+esfagnácea	nome feminino	es|fag|[ná]|ce|a
+esfagno	nome masculino	es|[fag]|no
+esfaimado	adjetivo	es|fai|[ma]|do
+esfaimado	nome masculino	es|fai|[ma]|do
+esfaimar	verbo	es|fai|[mar]
+esfalcaçado	adjetivo	es|fal|ca|[ça]|do
+esfalcar	verbo	es|fal|[car]
+esfalerita	nome feminino	es|fa|le|[ri]|ta
+esfalerite	nome feminino	es|fa|le|[ri]|te
+esfalfação	nome feminino	es|fal|fa|[ção]
+esfalfado	adjetivo	es|fal|[fa]|do
+esfalfamento	nome masculino	es|fal|fa|[men]|to
+esfalfante	adjetivo	es|fal|[fan]|te
+esfalfar	verbo	es|fal|[far]
+esfandegado	adjetivo	es|fan|de|[ga]|do
+esfandegar	verbo	es|fan|de|[gar]
+esfanicado	adjetivo	es|fa|ni|[ca]|do
+esfanicar	verbo	es|fa|ni|[car]
+esfaqueado	adjetivo	es|fa|que|[a]|do
+esfaqueador	adjetivo	es|fa|que|a|[dor]
+esfaqueador	nome masculino	es|fa|que|a|[dor]

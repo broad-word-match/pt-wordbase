@@ -1,0 +1,100 @@
+loriga	nome feminino	lo|[ri]|ga
+lorigado	adjetivo	lo|ri|[ga]|do
+lorigão	nome masculino	lo|ri|[gão]
+lorisídeo	nome masculino	lo|ri|[sí]|de|o
+lorisídeo	nome masculino	lo|ri|[sí]|de|o
+lorisídeo	adjetivo	lo|ri|[sí]|de|o
+lornhão	nome masculino	lor|[nhão]
+loro	nome masculino	[lo]|ro
+loroglosso	nome masculino	lo|ro|[glos]|so
+lorota	nome feminino	lo|[ro]|ta
+lorotagem	nome feminino	lo|ro|[ta]|gem
+lorotar	verbo	lo|ro|[tar]
+loroteiro	adjetivo	lo|ro|[tei]|ro
+loroteiro	nome masculino	lo|ro|[tei]|ro
+lorpa	adjetivo	[lor]|pa
+lorpa	nome masculino	[lor]|pa
+lorpa	nome feminino	[lor]|pa
+lorpice	nome feminino	lor|[pi]|ce
+lórulo	nome masculino	[ló]|ru|lo
+lorvanense	adjetivo	lor|va|[nen]|se
+lorvanense	nome masculino	lor|va|[nen]|se
+lorvanense	nome feminino	lor|va|[nen]|se
+losango	nome masculino	lo|[san]|go
+losanja	nome feminino	lo|[san]|ja
+losna	nome feminino	[los]|na
+löss	nome masculino	[löss]
+lostra	nome feminino	[los]|tra
+lota	nome feminino	[lo]|ta
+lotação	nome feminino	lo|ta|[ção]
+lotado	adjetivo	lo|[ta]|do
+lotador	nome masculino	lo|ta|[dor]
+lotador	adjetivo	lo|ta|[dor]
+lotar	verbo	lo|[tar]
+lotaria	nome feminino	lo|ta|[ri]|a
+lotárico	adjetivo	lo|[tá]|ri|co
+lotaringiano	adjetivo	lo|ta|rin|gi|[a]|no
+lotaríngio	adjetivo	lo|ta|[rín]|gi|o
+lotaríngio	nome masculino	lo|ta|[rín]|gi|o
+lote	nome masculino	[lo]|te
+lótea	nome feminino	[ló]|te|a
+loteado	adjetivo	lo|te|[a]|do
+loteamento	nome masculino	lo|te|a|[men]|to
+lotear	verbo	lo|te|[ar]
+lóteo	adjetivo	[ló]|te|o
+loteria	nome feminino	lo|te|[ri]|a
+lotérico	adjetivo	lo|[té]|ri|co
+loti	nome masculino	lo|[ti]
+lótico	adjetivo	[ló]|ti|co
+loto	nome masculino	[lo]|to
+lotófago	adjetivo	lo|[tó]|fa|go
+lotófago	nome masculino	lo|[tó]|fa|go
+lótus	nome masculino	[ló]|tus
+louça	nome feminino	[lou]|ça
+louca	nome feminino	[lou]|ca
+louçainha	nome feminino	lou|ça|[i]|nha
+louçainhar	verbo	lou|ça|i|[nhar]
+louçainho	adjetivo	lou|ça|[i]|nho
+loucamente	advérbio	lou|ca|[men]|te
+louçanear	verbo	lou|ça|ne|[ar]
+louçania	nome feminino	lou|ça|[ni]|a
+loução	adjetivo	lou|[ção]
+louçaria	nome feminino	lou|ça|[ri]|a
+louceira	nome feminino	lou|[cei]|ra
+louceiro	nome masculino	lou|[cei]|ro
+louco	nome masculino	[lou]|co
+louco	adjetivo	[lou]|co
+loucura	nome feminino	lou|[cu]|ra
+loudel	nome masculino	lou|[del]
+louletana	nome feminino	lou|le|[ta]|na
+louletano	nome masculino	lou|le|[ta]|no
+louletano	adjetivo	lou|le|[ta]|no
+lounge	nome masculino	lo|[un]|ge
+louquejar	verbo	lou|que|[jar]
+louquice	nome feminino	lou|[qui]|ce
+loura	nome feminino	[lou]|ra
+loura	nome masculino	[lou]|ra
+louraça	nome feminino	lou|[ra]|ça
+louraça	nome masculino	lou|[ra]|ça
+louraço	adjetivo	lou|[ra]|ço
+louraço	nome masculino	lou|[ra]|ço
+lourar	verbo	lou|[rar]
+lourear	verbo	lou|re|[ar]
+lourecente	adjetivo	lou|re|[cen]|te
+lourecer	verbo	lou|re|[cer]
+loureira	nome feminino	lou|[rei]|ra
+loureiral	nome masculino	lou|rei|[ral]
+loureiro	nome masculino	lou|[rei]|ro
+loureiro-real	nome masculino	lou|rei|ro-re|[al]
+lourejante	adjetivo	lou|re|[jan]|te
+lourejar	verbo	lou|re|[jar]
+lourejo	nome masculino	lou|[re]|jo
+lourenciana	nome feminino	lou|ren|ci|[a]|na
+lourenciano	adjetivo	lou|ren|ci|[a]|no
+lourenciano	nome masculino	lou|ren|ci|[a]|no
+lourenço-marquina	nome feminino	lou|ren|ço-mar|[qui]|na
+lourenço-marquino	adjetivo	lou|ren|ço-mar|[qui]|no
+lourenço-marquino	nome masculino	lou|ren|ço-mar|[qui]|no
+lourense	nome masculino	lou|[ren]|se
+lourense	adjetivo	lou|[ren]|se
+lourense	nome feminino	lou|[ren]|se

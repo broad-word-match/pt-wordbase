@@ -1,0 +1,100 @@
+sublevador	adjetivo	su|ble|va|[dor]
+sublevador	nome masculino	su|ble|va|[dor]
+sublevantamento	nome masculino	sub|le|van|ta|[men]|to
+sublevantar	verbo	sub|le|van|[tar]
+sublevar	verbo	su|ble|[var]
+sublício	adjetivo	sub|[lí]|ci|o
+subligáculo	nome masculino	sub|li|[gá]|cu|lo
+subligar	nome masculino	sub|li|[gar]
+sublimação	nome feminino	su|bli|ma|[ção]
+sublimadamente	advérbio	sub|li|ma|da|[men]|te
+sublimado	nome masculino	su|bli|[ma]|do
+sublimado	adjetivo	su|bli|[ma]|do
+sublimador	adjetivo	sub|li|ma|[dor]
+sublimar	verbo	su|bli|[mar]
+sublimativo	adjetivo	su|bli|ma|[ti]|vo
+sublimatório	adjetivo	su|bli|ma|[tó]|ri|o
+sublimatório	nome masculino	su|bli|ma|[tó]|ri|o
+sublimável	adjetivo	su|bli|[má]|vel
+sublime	nome masculino	su|[bli]|me
+sublime	adjetivo	su|[bli]|me
+sublimemente	advérbio	sub|li|me|[men]|te
+sublimidade	nome feminino	su|bli|mi|[da]|de
+subliminal	adjetivo	sub|li|mi|[nal]
+subliminar	adjetivo	sub|li|mi|[nar]
+subliminarmente	advérbio	sub|li|mi|nar|[men]|te
+sublinear	adjetivo	sub|li|ne|[ar]
+sublingual	adjetivo	sub|lin|[gual]
+sublinha	nome feminino	sub|[li]|nha
+sublinhadamente	advérbio	sub|li|nha|da|[men]|te
+sublinhado	adjetivo	sub|li|[nha]|do
+sublinhado	nome masculino	sub|li|[nha]|do
+sublinhar	verbo	sub|li|[nhar]
+subliterário	adjetivo	sub|li|te|[rá]|ri|o
+subliteratura	nome feminino	sub|li|te|ra|[tu]|ra
+sublobulado	adjetivo	sub|lo|bu|[la]|do
+sublocação	nome feminino	sub|lo|ca|[ção]
+sublocador	adjetivo	sub|lo|ca|[dor]
+sublocador	nome masculino	sub|lo|ca|[dor]
+sublocadora	nome feminino	sub|lo|ca|[do]|ra
+sublocar	verbo	sub|lo|[car]
+sublocatária	nome feminino	sub|lo|ca|[tá]|ri|a
+sublocatário	nome masculino	sub|lo|ca|[tá]|ri|o
+sublunar	adjetivo	sub|lu|[nar]
+subluxação	nome feminino	sub|lu|xa|[ção]
+submaciço	nome masculino	sub|ma|[ci]|ço
+submaciez	nome feminino	sub|ma|ci|[ez]
+submacieza	nome feminino	sub|ma|ci|[e]|za
+submamário	adjetivo	sub|ma|[má]|ri|o
+submandatário	nome masculino	sub|man|da|[tá]|ri|o
+submarginal	adjetivo	sub|mar|gi|[nal]
+submarinista	nome masculino	sub|ma|ri|[nis]|ta
+submarino	adjetivo	sub|ma|[ri]|no
+submarino	nome masculino	sub|ma|[ri]|no
+submaxilar	adjetivo	sub|ma|xi|[lar]
+submáximo	adjetivo	sub|[má]|xi|mo
+submediante	nome feminino	sub|me|di|[an]|te
+submédio	adjetivo	sub|[mé]|di|o
+submembranoso	adjetivo	sub|mem|bra|[no]|so
+submental	adjetivo	sub|men|[tal]
+submergido	adjetivo	sub|mer|[gi]|do
+submergir	verbo	sub|mer|[gir]
+submergível	nome masculino	sub|mer|[gí]|vel
+submergível	adjetivo	sub|mer|[gí]|vel
+submersão	nome feminino	sub|mer|[são]
+submersível	nome masculino	sub|mer|[sí]|vel
+submersível	adjetivo	sub|mer|[sí]|vel
+submerso	adjetivo	sub|[mer]|so
+submetálico	adjetivo	sub|me|[tá]|li|co
+submeter	verbo	sub|me|[ter]
+submetimento	nome masculino	sub|me|ti|[men]|to
+subministração	nome feminino	sub|mi|nis|tra|[ção]
+subministrado	adjetivo	sub|mi|nis|[tra]|do
+subministrador	adjetivo	sub|mi|nis|tra|[dor]
+subministrador	nome masculino	sub|mi|nis|tra|[dor]
+subministrar	verbo	sub|mi|nis|[trar]
+subministrável	adjetivo	sub|mi|nis|[trá]|vel
+submissa	nome feminino	sub|[mis]|sa
+submissamente	advérbio	sub|mis|sa|[men]|te
+submissão	nome feminino	sub|mis|[são]
+submissível	adjetivo	sub|mis|[sí]|vel
+submissivo	adjetivo	sub|mis|[si]|vo
+submisso	adjetivo	sub|[mis]|so
+submisso	nome masculino	sub|[mis]|so
+submucosa	nome feminino	sub|mu|[co]|sa
+submucoso	adjetivo	sub|mu|[co]|so
+submultíplice	adjetivo	sub|mul|[tí]|pli|ce
+submúltiplo	adjetivo	sub|[múl]|ti|plo
+submúltiplo	nome masculino	sub|[múl]|ti|plo
+submundo	nome masculino	sub|[mun]|do
+subnasal	adjetivo	sub|na|[sal]
+subnegar	verbo	sub|ne|[gar]
+subnitrato	nome masculino	sub|ni|[tra]|to
+subnomenclatura	nome feminino	sub|no|men|cla|[tu]|ra
+subnormal	nome feminino	sub|nor|[mal]
+subnúcleo	nome masculino	sub|[nú]|cle|o
+subnutrição	nome feminino	sub|nu|tri|[ção]
+subnutrido	adjetivo	sub|nu|[tri]|do
+subnutrido	nome masculino	sub|nu|[tri]|do
+subnutrir	verbo	sub|nu|[trir]
+suboccipital	adjetivo	su|boc|ci|pi|[tal]

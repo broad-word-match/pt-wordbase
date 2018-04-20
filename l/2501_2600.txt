@@ -1,0 +1,100 @@
+licasta	nome feminino	li|[cas]|ta
+licate	adjetivo	li|[ca]|te
+licate	nome masculino	li|[ca]|te
+licate	nome feminino	li|[ca]|te
+líccio	adjetivo	[líc]|ci|o
+líccio	nome masculino	[líc]|ci|o
+lice	nome feminino	[li]|ce
+liceal	adjetivo	li|ce|[al]
+licealmente	advérbio	li|ce|al|[men]|te
+liceano	adjetivo	li|ce|[a]|no
+liceano	nome masculino	li|ce|[a]|no
+licear	adjetivo	li|ce|[ar]
+liceidade	nome feminino	li|cei|[da]|de
+liceísta	adjetivo	li|ce|[ís]|ta
+liceísta	nome masculino	li|ce|[ís]|ta
+liceísta	nome feminino	li|ce|[ís]|ta
+licena	nome feminino	li|[ce]|na
+licença	nome feminino	li|[cen]|ça
+licenciada	nome feminino	li|cen|ci|[a]|da
+licenciado	adjetivo	li|cen|ci|[a]|do
+licenciado	nome masculino	li|cen|ci|[a]|do
+licenciador	adjetivo	li|cen|ci|a|[dor]
+licenciamento	nome masculino	li|cen|ci|a|[men]|to
+licencianda	nome feminino	li|cen|ci|[an]|da
+licenciando	nome masculino	li|cen|ci|[an]|do
+licenciar	verbo	li|cen|ci|[ar]
+licenciatura	nome feminino	li|cen|ci|a|[tu]|ra
+licenciável	adjetivo	li|cen|ci|[á]|vel
+licenciosamente	advérbio	li|cen|ci|o|sa|[men]|te
+licenciosidade	nome feminino	li|cen|ci|o|si|[da]|de
+licencioso	adjetivo	li|cen|ci|[o]|so
+licenídeo	nome masculino	li|ce|[ní]|de|o
+licênio	nome masculino	li|[cê]|ni|o
+licénio	nome masculino	li|[cé]|ni|o
+liceu	nome masculino	li|[ceu]
+líchia	nome feminino	[lí]|chi|a
+liciatório	nome masculino	li|ci|a|[tó]|ri|o
+lícico	adjetivo	[lí]|ci|co
+lícico	nome masculino	[lí]|ci|co
+licínia	nome feminino	li|[cí]|ni|a
+lício	adjetivo	[lí]|ci|o
+lício	nome masculino	[lí]|ci|o
+licitação	nome feminino	li|ci|ta|[ção]
+licitador	adjetivo	li|ci|ta|[dor]
+licitador	nome masculino	li|ci|ta|[dor]
+licitadora	nome feminino	li|ci|ta|[do]|ra
+licitamente	advérbio	li|ci|ta|[men]|te
+licitante	adjetivo	li|ci|[tan]|te
+licitante	nome masculino	li|ci|[tan]|te
+licitante	nome feminino	li|ci|[tan]|te
+licitar	verbo	li|ci|[tar]
+licitável	adjetivo	li|ci|[tá]|vel
+lícito	adjetivo	[lí]|ci|to
+lícito	nome masculino	[lí]|ci|to
+licitude	nome feminino	li|ci|[tu]|de
+lícnico	adjetivo	[líc]|ni|co
+lícnide	nome feminino	[líc]|ni|de
+licnídea	nome feminino	lic|[ní]|de|a
+licnite	nome feminino	lic|[ni]|te
+licnóbio	nome masculino	lic|[nó]|bi|o
+licnomancia	nome feminino	lic|no|man|[ci]|a
+licnomante	nome masculino	lic|no|[man]|te
+licnomante	nome feminino	lic|no|[man]|te
+licnomântico	adjetivo	lic|no|[mân]|ti|co
+licnoscopia	nome feminino	lic|nos|co|[pi]|a
+licnoscópico	adjetivo	lic|nos|[có]|pi|co
+licnuco	nome masculino	lic|[nu]|co
+liço	nome masculino	[li]|ço
+licodonte	nome masculino	li|co|[don]|te
+licómetro	nome masculino	li|[có]|me|tro
+licômetro	nome masculino	li|[cô]|me|tro
+licondo	nome masculino	li|[con]|do
+licopeno	nome masculino	li|co|[pe]|no
+licoperdácea	nome feminino	li|co|per|[dá]|ce|a
+licoperdo	nome masculino	li|co|[per]|do
+licopina	nome feminino	li|co|[pi]|na
+licopodiácea	nome feminino	li|co|po|di|[á]|ce|a
+licopodiáceo	adjetivo	li|co|po|di|[á]|ce|o
+licopodina	nome feminino	li|co|po|[di]|na
+licopódio	nome masculino	li|co|[pó]|di|o
+licopolitano	adjetivo	li|co|po|li|[ta]|no
+licopolitano	nome masculino	li|co|po|li|[ta]|no
+licopse	nome feminino	li|[cop]|se
+licor	nome masculino	li|[cor]
+licoreira	nome feminino	li|co|[rei]|ra
+licoreiro	nome masculino	li|co|[rei]|ro
+licorexia	nome feminino	li|co|re|[xi]|a
+licorista	nome masculino	li|co|[ris]|ta
+licorista	nome feminino	li|co|[ris]|ta
+licorne	nome masculino	li|[cor]|ne
+licórnio	nome masculino	li|[cór]|ni|o
+licoroso	adjetivo	li|co|[ro]|so
+licorrexia	nome feminino	li|cor|re|[xi]|a
+licose	nome feminino	li|[co]|se
+licosídeo	adjetivo	li|co|[sí]|de|o
+licosídeo	nome masculino	li|co|[sí]|de|o
+licosídeo	nome masculino	li|co|[sí]|de|o
+licra	nome feminino	[li]|cra
+licranço	nome masculino	li|[cran]|ço
+lictor	nome masculino	lic|[tor]

@@ -1,0 +1,100 @@
+peragratório	adjetivo	pe|ra|gra|[tó]|ri|o
+peraíba	nome feminino	pe|ra|[í]|ba
+peral	nome feminino	pe|[ral]
+peral	adjetivo	pe|[ral]
+peral	nome masculino	pe|[ral]
+peralta	adjetivo	pe|[ral]|ta
+peralta	nome masculino	pe|[ral]|ta
+peralta	nome feminino	pe|[ral]|ta
+peraltear	verbo	pe|ral|te|[ar]
+peraltice	nome feminino	pe|ral|[ti]|ce
+peraltismo	nome masculino	pe|ral|[tis]|mo
+peralvilha	nome feminino	pe|ral|[vi]|lha
+peralvilhada	nome feminino	pe|ral|vi|[lha]|da
+peralvilhar	verbo	pe|ral|vi|[lhar]
+peralvilhice	nome feminino	pe|ral|vi|[lhi]|ce
+peralvilho	nome masculino	pe|ral|[vi]|lho
+peralvilho	adjetivo	pe|ral|[vi]|lho
+perambeira	nome feminino	pe|ram|[bei]|ra
+perambulação	nome feminino	pe|ram|bu|la|[ção]
+perambular	verbo	pe|ram|bu|[lar]
+perambulatório	adjetivo	pe|ram|bu|la|[tó]|ri|o
+perante	preposição	pe|[ran]|te
+perapétalo	adjetivo	pe|ra|[pé]|ta|lo
+perárduo	adjetivo	pe|[rár]|du|o
+perau	nome masculino	pe|[rau]
+perborato	nome masculino	per|bo|[ra]|to
+perca	nome feminino	[per]|ca
+perca-negra	nome feminino	per|ca-ne|gra
+percal	nome masculino	per|[cal]
+percalcento	adjetivo	per|cal|[cen]|to
+percalço	nome masculino	per|[cal]|ço
+percalina	nome feminino	per|ca|[li]|na
+perceba	nome feminino	per|[ce]|ba
+percebe	nome masculino	per|[ce]|be
+percebelho	nome masculino	per|ce|[be]|lho
+perceber	verbo	per|ce|[ber]
+percebido	adjetivo	per|ce|[bi]|do
+percebimento	nome masculino	per|ce|bi|[men]|to
+percebível	adjetivo	per|ce|[bí]|vel
+perceção	nome feminino	per|ce|[ção]
+percecionar	verbo	per|ce|ci|o|[nar]
+percecionismo	nome masculino	per|ce|ci|o|[nis]|mo
+percecionista	nome feminino	per|ce|ci|o|[nis]|ta
+percecionista	nome masculino	per|ce|ci|o|[nis]|ta
+percentagem	nome feminino	per|cen|[ta]|gem
+percentagista	nome masculino	per|cen|ta|[gis]|ta
+percentagista	nome feminino	per|cen|ta|[gis]|ta
+percentil	nome masculino	per|cen|[til]
+percentilagem	nome masculino	per|cen|ti|[la]|gem
+percentual	adjetivo	per|cen|tu|[al]
+percentual	nome masculino	per|cen|tu|[al]
+percentualidade	nome feminino	per|cen|tu|a|li|[da]|de
+percepção	nome feminino	per|cep|[ção]
+percepcionar	verbo	per|cep|ci|o|[nar]
+percepcionismo	nome masculino	per|cep|ci|o|[nis]|mo
+percepcionista	nome masculino	per|cep|ci|o|[nis]|ta
+percepcionista	nome feminino	per|cep|ci|o|[nis]|ta
+perceptibilidade	nome feminino	per|cep|ti|bi|li|[da]|de
+perceptivamente	advérbio	per|cep|ti|va|[men]|te
+perceptível	adjetivo	per|cep|[tí]|vel
+perceptivelmente	advérbio	per|cep|ti|vel|[men]|te
+perceptividade	nome feminino	per|cep|ti|vi|[da]|de
+perceptivo	adjetivo	per|cep|[ti]|vo
+percepto	adjetivo	per|[cep]|to
+percepto	nome masculino	per|[cep]|to
+perceptual	adjetivo	per|cep|tu|[al]
+percetibilidade	nome feminino	per|ce|ti|bi|li|[da]|de
+percetivamente	advérbio	per|ce|ti|va|[men]|te
+percetível	adjetivo	per|ce|[tí]|vel
+percetivelmente	advérbio	per|ce|ti|vel|[men]|te
+percetividade	nome feminino	per|ce|ti|vi|[da]|de
+percetivo	adjetivo	per|ce|[ti]|vo
+perceto	adjetivo	per|[ce]|to
+perceto	nome masculino	per|[ce]|to
+percetual	adjetivo	per|ce|tu|[al]
+perceve	nome masculino	per|[ce]|ve
+percevejada	nome feminino	per|ce|ve|[ja]|da
+percevejo	nome masculino	per|ce|[ve]|jo
+percevejo-do-monte	nome masculino	per|ce|ve|jo-do-mon|te
+percevejoso	adjetivo	per|ce|ve|[jo]|so
+percevelho	nome masculino	per|ce|[ve]|lho
+percha	nome feminino	[per]|cha
+perchamento	nome masculino	per|cha|[men]|to
+perchar	verbo	per|[char]
+percherão	nome masculino	per|che|[rão]
+percherão	adjetivo	per|che|[rão]
+perchina	nome feminino	per|[chi]|na
+perchista	nome masculino	per|[chis]|ta
+perchista	nome feminino	per|[chis]|ta
+pércida	nome masculino	[pér]|ci|da
+percídeo	nome masculino	per|[cí]|de|o
+percídeo	nome masculino	per|[cí]|de|o
+percídeo	adjetivo	per|[cí]|de|o
+perciforme	nome masculino	per|ci|[for]|me
+perciforme	adjetivo	per|ci|[for]|me
+percinta	nome feminino	per|[cin]|ta
+percintar	verbo	per|cin|[tar]
+perclaro	adjetivo	per|[cla]|ro
+perclorado	adjetivo	per|clo|[ra]|do
+perclorato	nome masculino	per|clo|[ra]|to

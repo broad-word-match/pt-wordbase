@@ -1,0 +1,100 @@
+arencu	nome masculino	a|ren|[cu]
+arenga	nome feminino	a|[ren]|ga
+arenga	nome masculino	a|[ren]|ga
+arengada	nome feminino	a|ren|[ga]|da
+arengador	adjetivo	a|ren|ga|[dor]
+arengador	nome masculino	a|ren|ga|[dor]
+arengar	verbo	a|ren|[gar]
+arengueiro	adjetivo	a|ren|[guei]|ro
+arengueiro	nome masculino	a|ren|[guei]|ro
+arenícola	nome masculino	a|re|[ní]|co|la
+arenícola	adjetivo	a|re|[ní]|co|la
+arenícola	nome feminino	a|re|[ní]|co|la
+arenífero	adjetivo	a|re|[ní]|fe|ro
+areniforme	adjetivo	a|re|ni|[for]|me
+arenisco	adjetivo	a|re|[nis]|co
+arenito	nome masculino	a|re|[ni]|to
+arenoargiloso	adjetivo	a|re|no|ar|gi|[lo]|so
+arenoso	adjetivo	a|re|[no]|so
+arenque	nome masculino	a|[ren]|que
+arenqueiro	nome masculino	a|ren|[quei]|ro
+arensar	nome masculino	a|ren|[sar]
+arensar	verbo	a|ren|[sar]
+arenuláceo	adjetivo	a|re|nu|[lá]|ce|o
+arenuloso	adjetivo	a|re|nu|[lo]|so
+arenumoso	adjetivo	a|re|nu|[mo]|so
+areocele	nome feminino	a|re|o|[ce]|le
+areografia	nome feminino	a|re|o|gra|[fi]|a
+areográfico	adjetivo	a|re|o|[grá]|fi|co
+areola	adjetivo	a|re|[o]|la
+areola	nome masculino	a|re|[o]|la
+aréola	nome feminino	a|[ré]|o|la
+areola	nome feminino	a|re|[o]|la
+areolação	nome feminino	a|re|o|la|[ção]
+areolado	adjetivo	a|re|o|[la]|do
+areolar	verbo	a|re|o|[lar]
+areolar	adjetivo	a|re|o|[lar]
+areolite	nome feminino	a|re|o|[li]|te
+areometria	nome feminino	a|re|o|me|tri|a
+areométrico	adjetivo	a|re|o|mé|tri|co
+areômetro	nome masculino	a|re|[ô]|me|tro
+areómetro	nome masculino	a|re|[ó]|me|tro
+areopagita	nome masculino	a|re|o|pa|[gi]|ta
+areopagítico	adjetivo	a|re|o|pa|[gí]|ti|co
+areópago	nome masculino	a|re|[ó]|pa|go
+areoso	adjetivo	a|re|[o]|so
+areostilo	nome masculino	a|re|os|[ti]|lo
+areotectônica	nome feminino	a|re|o|tec|[tô]|ni|ca
+areotectónica	nome feminino	a|re|o|tec|[tó]|ni|ca
+areotectônico	adjetivo	a|re|o|tec|[tô]|ni|co
+areotectónico	adjetivo	a|re|o|tec|[tó]|ni|co
+areótico	adjetivo	a|re|[ó]|ti|co
+arepa	nome feminino	a|[re]|pa
+arepene	nome masculino	a|re|[pe]|ne
+arequeira	nome feminino	a|re|[quei]|ra
+aresta	nome feminino	a|[res]|ta
+arestado	adjetivo	a|res|[ta]|do
+arestal	adjetivo	a|res|[tal]
+aresteiro	nome masculino	a|res|[tei]|ro
+arestelado	adjetivo	a|res|te|[la]|do
+arestim	nome masculino	a|res|[tim]
+arestista	nome masculino	a|res|[tis]|ta
+arestista	nome feminino	a|res|[tis]|ta
+arestizar	verbo	a|res|ti|[zar]
+aresto	nome masculino	a|[res]|to
+arestoso	adjetivo	a|res|[to]|so
+arestudo	adjetivo	a|res|[tu]|do
+aretina	nome feminino	a|re|[ti]|na
+aretino	nome masculino	a|re|[ti]|no
+aretino	adjetivo	a|re|[ti]|no
+aretologia	nome feminino	a|re|to|lo|[gi]|a
+aretológico	adjetivo	a|re|to|[ló]|gi|co
+aretólogo	nome masculino	a|re|[tó]|lo|go
+aretúsio	adjetivo	a|re|[tú]|si|o
+aretúsio	nome masculino	a|re|[tú]|si|o
+aréu	adjetivo	a|[réu]
+arevaco	adjetivo	a|re|[va]|co
+arevaco	nome masculino	a|re|[va]|co
+arfada	nome feminino	ar|[fa]|da
+arfador	adjetivo	ar|fa|[dor]
+arfadura	nome feminino	ar|fa|[du]|ra
+arfagem	nome feminino	ar|[fa]|gem
+arfante	adjetivo	ar|[fan]|te
+arfar	verbo	ar|[far]
+arféloa	nome feminino	ar|[fé]|lo|a
+arféria	nome feminino	ar|[fé]|ri|a
+arfil	nome masculino	ar|[fil]
+arfvedsonita	nome feminino	arf|ved|so|[ni]|ta
+arfvedsonite	nome feminino	arf|ved|so|[ni]|te
+arga	nome feminino	[ar]|ga
+argaceiro	nome masculino	ar|ga|[cei]|ro
+argaço	nome masculino	ar|[ga]|ço
+argadeu	adjetivo	ar|ga|[deu]
+argadeu	nome masculino	ar|ga|[deu]
+argadilho	nome masculino	ar|ga|[di]|lho
+argal	nome masculino	ar|[gal]
+argala	nome feminino	ar|[ga]|la
+argalha	nome feminino	ar|[ga]|lha
+argali	nome masculino	ar|ga|[li]
+argamandel	nome masculino	ar|ga|man|[del]
+argamassa	nome feminino	ar|ga|[mas]|sa

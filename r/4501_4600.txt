@@ -1,0 +1,100 @@
+renitente	adjetivo	re|ni|[ten]|te
+renitentemente	advérbio	re|ni|ten|te|[men]|te
+renitir	verbo	re|ni|[tir]
+renixígrado	adjetivo	re|ni|[xí]|gra|do
+reno	adjetivo	[re]|no
+reno	nome masculino	[re]|no
+renomado	adjetivo	re|no|[ma]|do
+renome	nome masculino	re|[no]|me
+renomeação	nome feminino	re|no|me|a|[ção]
+renomeado	adjetivo	re|no|me|[a]|do
+renomear	verbo	re|no|me|[ar]
+renosso	pronome possessivo	re|[nos]|so
+renova	nome feminino	re|[no]|va
+renovação	nome feminino	re|no|va|[ção]
+renovador	adjetivo	re|no|va|[dor]
+renovador	nome masculino	re|no|va|[dor]
+renovadora	nome feminino	re|no|va|[do]|ra
+renovamento	nome masculino	re|no|va|[men]|to
+renovar	verbo	re|no|[var]
+renovável	adjetivo	re|no|[vá]|vel
+renovo	nome masculino	re|[no]|vo
+renque	nome masculino	[ren]|que
+renque	nome feminino	[ren]|que
+rent-a-car	nome masculino	[rent-a-car]
+rentabilidade	nome feminino	ren|ta|bi|li|[da]|de
+rentabilização	nome feminino	ren|ta|bi|li|za|[ção]
+rentabilizar	verbo	ren|ta|bi|li|[zar]
+rentão	adjetivo	ren|[tão]
+rentar	verbo	ren|[tar]
+rentável	adjetivo	ren|[tá]|vel
+rente	nome masculino	[ren]|te
+rente	adjetivo	[ren]|te
+rente	advérbio	[ren]|te
+renteador	adjetivo	ren|te|a|[dor]
+renteador	nome masculino	ren|te|a|[dor]
+rentear	verbo	ren|te|[ar]
+rentês	adjetivo	ren|[tês]
+rentinho	adjetivo	ren|[ti]|nho
+rentinho	nome masculino	ren|[ti]|nho
+rentista	nome masculino	ren|[tis]|ta
+rentista	adjetivo	ren|[tis]|ta
+rentrée	nome feminino	ren|trée
+rentura	nome feminino	ren|[tu]|ra
+renuente	adjetivo	re|nu|[en]|te
+renuído	nome masculino	re|nu|[í]|do
+renuir	verbo	re|nu|[ir]
+renúncia	nome feminino	re|[nún]|ci|a
+renunciação	nome feminino	re|nun|ci|a|[ção]
+renunciado	adjetivo	re|nun|ci|[a]|do
+renunciador	adjetivo	re|nun|ci|a|[dor]
+renunciador	nome masculino	re|nun|ci|a|[dor]
+renunciadora	nome feminino	re|nun|ci|a|[do]|ra
+renunciamento	nome masculino	re|nun|ci|a|[men]|to
+renunciante	adjetivo	re|nun|ci|[an]|te
+renunciante	nome masculino	re|nun|ci|[an]|te
+renunciante	nome feminino	re|nun|ci|[an]|te
+renunciar	verbo	re|nun|ci|[ar]
+renunciatório	nome masculino	re|nun|ci|a|[tó]|ri|o
+renunciatório	adjetivo	re|nun|ci|a|[tó]|ri|o
+renunciável	adjetivo	re|nun|ci|[á]|vel
+renutação	nome feminino	re|nu|ta|[ção]
+renutrição	nome feminino	re|nu|tri|[ção]
+renxenxão	nome masculino	ren|xen|[xão]
+renzilha	nome feminino	ren|[zi]|lha
+renzilhar	verbo	ren|zi|[lhar]
+reocórdio	nome masculino	re|o|[cór]|di|o
+reocupação	nome feminino	re|o|cu|pa|[ção]
+reocupar	verbo	re|o|cu|[par]
+reocupável	adjetivo	re|o|cu|[pá]|vel
+reófilo	adjetivo	re|[ó]|fi|lo
+reófilo	nome masculino	re|[ó]|fi|lo
+reófobo	adjetivo	re|[ó]|fo|bo
+reófobo	nome masculino	re|[ó]|fo|bo
+reóforo	nome masculino	re|[ó]|fo|ro
+reográfico	adjetivo	re|o|[grá]|fi|co
+reógrafo	nome masculino	re|[ó]|gra|fo
+reologia	nome feminino	re|o|lo|[gi]|a
+reológico	adjetivo	re|o|[ló]|gi|co
+reométrico	adjetivo	re|o|[mé]|tri|co
+reómetro	nome masculino	re|[ó]|me|tro
+reômetro	nome masculino	re|[ô]|me|tro
+reordenação	nome feminino	re|or|de|na|[ção]
+reordenador	adjetivo	re|or|de|na|[dor]
+reordenador	nome masculino	re|or|de|na|[dor]
+reordenamento	nome masculino	re|or|de|na|[men]|to
+reordenar	verbo	re|or|de|[nar]
+reordenável	adjetivo	re|or|de|[ná]|vel
+reorganização	nome feminino	re|or|ga|ni|za|[ção]
+reorganizador	adjetivo	re|or|ga|ni|za|[dor]
+reorganizador	nome masculino	re|or|ga|ni|za|[dor]
+reorganizadora	nome feminino	re|or|ga|ni|za|[do]|ra
+reorganizar	verbo	re|or|ga|ni|[zar]
+reorganizável	adjetivo	re|or|ga|ni|[zá]|vel
+reorientação	nome feminino	re|o|ri|en|ta|[ção]
+reorientado	adjetivo	re|o|ri|en|[ta]|do
+reorientar	verbo	re|o|ri|en|[tar]
+reorquestração	nome feminino	re|or|ques|tra|[ção]
+reorquestrar	verbo	re|or|ques|[trar]
+reoscopia	nome feminino	re|os|co|[pi]|a
+reoscópico	adjetivo	re|os|[có]|pi|co

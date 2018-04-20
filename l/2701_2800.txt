@@ -1,0 +1,100 @@
+ligúrico	nome masculino	li|[gú]|ri|co
+ligúrico	adjetivo	li|[gú]|ri|co
+ligurina	nome feminino	li|gu|[ri]|na
+ligurino	adjetivo	li|gu|[ri]|no
+ligurino	nome masculino	li|gu|[ri]|no
+ligurite	nome feminino	li|gu|[ri]|te
+ligústica	nome feminino	li|[gús]|ti|ca
+ligústico	adjetivo	li|[gús]|ti|co
+ligústico	nome masculino	li|[gús]|ti|co
+ligustino	adjetivo	li|gus|[ti]|no
+ligustino	nome masculino	li|gus|[ti]|no
+ligustrina	nome feminino	li|gus|[tri]|na
+ligustro	nome masculino	li|[gus]|tro
+lila	nome feminino	[li]|la
+lilá	adjetivo	li|[lá]
+lilá	nome masculino	li|[lá]
+liláceo	adjetivo	li|[lá]|ce|o
+lilacíneo	adjetivo	li|la|[cí]|ne|o
+lilangeni	nome masculino	li|lan|ge|[ni]
+lilás	adjetivo	li|[lás]
+lilás	nome masculino	li|[lás]
+lilaseiro	nome masculino	li|la|[sei]|ro
+liliácea	nome feminino	li|li|[á]|ce|a
+liliáceo	adjetivo	li|li|[á]|ce|o
+lilial	adjetivo	li|li|[al]
+lilifloro	adjetivo	li|li|[flo]|ro
+liliforme	adjetivo	li|li|[for]|me
+lilinete	nome masculino	li|li|[ne]|te
+lílio	nome masculino	[lí]|li|o
+liliputiana	nome feminino	li|li|pu|ti|[a]|na
+liliputiano	adjetivo	li|li|pu|ti|[a]|no
+liliputiano	nome masculino	li|li|pu|ti|[a]|no
+lima	nome feminino	[li]|ma
+lima-a-serra	nome masculino	li|ma-a-ser|ra
+limácida	nome masculino	li|[má]|ci|da
+limacídeo	nome masculino	li|ma|[cí]|de|o
+limacídeo	adjetivo	li|ma|[cí]|de|o
+limaciforme	adjetivo	li|ma|ci|[for]|me
+limacina	nome feminino	li|ma|[ci]|na
+limacino	adjetivo	li|ma|[ci]|no
+limadeira	nome feminino	li|ma|[dei]|ra
+limado	adjetivo	li|[ma]|do
+limador	adjetivo	li|ma|[dor]
+limador	nome masculino	li|ma|[dor]
+limadora	nome feminino	li|ma|[do]|ra
+limadura	nome feminino	li|ma|[du]|ra
+limagem	nome feminino	li|[ma]|gem
+limalha	nome feminino	li|[ma]|lha
+limalhas	nome feminino	li|[ma]|lhas
+limão	nome masculino	li|[mão]
+limão-bravo	nome masculino	li|mão-bra|vo
+limãozinho	nome masculino	li|mão|[zi]|nho
+limar	verbo	li|[mar]
+limarense	adjetivo	li|ma|[ren]|se
+limarense	nome masculino	li|ma|[ren]|se
+limarense	nome feminino	li|ma|[ren]|se
+limária	nome feminino	li|[má]|ri|a
+limatão	nome masculino	li|ma|[tão]
+limbera	nome feminino	lim|[be]|ra
+límbico	adjetivo	[lím]|bi|co
+limbífero	adjetivo	lim|[bí]|fe|ro
+limbiflora	nome feminino	lim|bi|[flo]|ra
+limbo	nome masculino	[lim]|bo
+limbumbo	nome masculino	lim|[bum]|bo
+limburguês	nome masculino	lim|bur|[guês]
+limburguês	adjetivo	lim|bur|[guês]
+limburguito	nome masculino	lim|bur|[gui]|to
+limeira	nome feminino	li|[mei]|ra
+limeirense	adjetivo	li|mei|[ren]|se
+limeirense	nome masculino	li|mei|[ren]|se
+limeirense	nome feminino	li|mei|[ren]|se
+limenarca	nome masculino	li|me|[nar]|ca
+limenarquia	nome feminino	li|me|nar|[qui]|a
+limenha	nome feminino	li|[me]|nha
+limenho	adjetivo	li|[me]|nho
+limenho	nome masculino	li|[me]|nho
+limento	nome masculino	li|[men]|to
+limético	adjetivo	li|[mé]|ti|co
+limetina	nome feminino	li|me|[ti]|na
+limiano	adjetivo	li|mi|[a]|no
+limiar	nome masculino	li|mi|[ar]
+límico	adjetivo	[lí]|mi|co
+límico	nome masculino	[lí]|mi|co
+limícola	adjetivo	li|[mí]|co|la
+limiforme	adjetivo	li|mi|[for]|me
+liminar	adjetivo	li|mi|[nar]
+liminar	nome masculino	li|mi|[nar]
+liminarmente	advérbio	li|mi|nar|[men]|te
+limireu	adjetivo	li|mi|[reu]
+limireu	nome masculino	li|mi|[reu]
+limitação	nome feminino	li|mi|ta|[ção]
+limitadamente	advérbio	li|mi|ta|da|[men]|te
+limitadíssimo	adjetivo	li|mi|ta|[dís]|si|mo
+limitado	adjetivo	li|mi|[ta]|do
+limitador	adjetivo	li|mi|ta|[dor]
+limitâneo	adjetivo	li|mi|[tâ]|ne|o
+limitante	adjetivo	li|mi|[tan]|te
+limitar	verbo	li|mi|[tar]
+limitativamente	advérbio	li|mi|ta|ti|va|[men]|te
+limitativo	adjetivo	li|mi|ta|[ti]|vo

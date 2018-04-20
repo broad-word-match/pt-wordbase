@@ -1,0 +1,100 @@
+evangelizador	adjetivo	e|van|ge|li|za|[dor]
+evangelizador	nome masculino	e|van|ge|li|za|[dor]
+evangelizadora	nome feminino	e|van|ge|li|za|[do]|ra
+evangelizante	adjetivo	e|van|ge|li|[zan]|te
+evangelizante	nome masculino	e|van|ge|li|[zan]|te
+evangelizante	nome feminino	e|van|ge|li|[zan]|te
+evangelizar	verbo	e|van|ge|li|[zar]
+evânia	nome feminino	e|[vâ]|ni|a
+evaporação	nome feminino	e|va|po|ra|[ção]
+evaporadeira	nome feminino	e|va|po|ra|[dei]|ra
+evaporador	adjetivo	e|va|po|ra|[dor]
+evaporador	nome masculino	e|va|po|ra|[dor]
+evaporante	adjetivo	e|va|po|[ran]|te
+evaporar	verbo	e|va|po|[rar]
+evaporativo	adjetivo	e|va|po|ra|[ti]|vo
+evaporatório	nome masculino	e|va|po|ra|[tó]|ri|o
+evaporatório	adjetivo	e|va|po|ra|[tó]|ri|o
+evaporável	adjetivo	e|va|po|[rá]|vel
+evaporímetro	nome masculino	e|va|po|[rí]|me|tro
+evaporito	nome masculino	e|va|po|[ri]|to
+evaporizar	verbo	e|va|po|ri|[zar]
+evaporométrico	adjetivo	e|va|po|ro|[mé]|tri|co
+evaporómetro	nome masculino	e|va|po|[ró]|me|tro
+evaporômetro	nome masculino	e|va|po|[rô]|me|tro
+evapotranspiração	nome feminino	e|va|po|trans|pi|ra|[ção]
+evapotranspirável	adjetivo	e|va|po|trans|pi|[rá]|vel
+evasão	nome feminino	e|va|[são]
+evasê	adjetivo	e|va|[sê]
+evasé	adjetivo	e|va|[sé]
+evasiva	nome feminino	e|va|[si]|va
+evasivamente	advérbio	e|va|si|va|[men]|te
+evasivo	adjetivo	e|va|[si]|vo
+evaza	adjetivo	e|[va]|za
+evaza	nome masculino	e|[va]|za
+evaza	nome feminino	e|[va]|za
+evecção	nome feminino	e|vec|[ção]
+evelina	nome feminino	e|ve|[li]|na
+evemerismo	nome masculino	e|ve|me|[ris]|mo
+evemerista	adjetivo	e|ve|me|[ris]|ta
+evemerista	nome masculino	e|ve|me|[ris]|ta
+evemerista	nome feminino	e|ve|me|[ris]|ta
+evemia	nome feminino	e|ve|[mi]|a
+evémico	adjetivo	e|[vé]|mi|co
+evêmico	adjetivo	e|[vê]|mi|co
+evencer	verbo	e|ven|[cer]
+evento	nome masculino	e|[ven]|to
+eventração	nome feminino	e|ven|tra|[ção]
+eventual	adjetivo	e|ven|tu|[al]
+eventual	nome masculino	e|ven|tu|[al]
+eventualidade	nome feminino	e|ven|tu|a|li|[da]|de
+eventualmente	advérbio	e|ven|tu|al|[men]|te
+evérgeta	adjetivo	e|[vér]|ge|ta
+evérgeta	nome masculino	e|[vér]|ge|ta
+eversão	nome feminino	e|ver|[são]
+eversivo	adjetivo	e|ver|[si]|vo
+eversor	nome masculino	e|ver|[sor]
+everter	verbo	e|ver|[ter]
+evesperita	adjetivo	e|ves|pe|[ri]|ta
+evesperita	nome masculino	e|ves|pe|[ri]|ta
+evesperita	nome feminino	e|ves|pe|[ri]|ta
+eveu	adjetivo	e|[veu]
+eveu	nome masculino	e|[veu]
+evexia	nome feminino	e|ve|[xi]|a
+evicção	nome feminino	e|vic|[ção]
+evíctio	nome masculino	e|[víc]|ti|o
+evicto	nome masculino	e|[vic]|to
+evicto	adjetivo	e|[vic]|to
+evictor	nome masculino	e|vic|[tor]
+evidência	nome feminino	e|vi|[dên]|ci|a
+evidenciar	verbo	e|vi|den|ci|[ar]
+evidente	adjetivo	e|vi|[den]|te
+evidentemente	advérbio	e|vi|den|te|[men]|te
+evidilha	nome feminino	e|vi|[di]|lha
+evirar	verbo	e|vi|[rar]
+evisceração	nome feminino	e|vis|ce|ra|[ção]
+eviscerar	verbo	e|vis|ce|[rar]
+evitação	nome feminino	e|vi|ta|[ção]
+evitamento	nome masculino	e|vi|ta|[men]|to
+evitando	adjetivo	e|vi|[tan]|do
+evitar	verbo	e|vi|[tar]
+evitável	adjetivo	e|vi|[tá]|vel
+eviternidade	nome feminino	e|vi|ter|ni|[da]|de
+eviterno	adjetivo	e|vi|[ter]|no
+evo	nome masculino	[e]|vo
+evocação	nome feminino	e|vo|ca|[ção]
+evocador	adjetivo	e|vo|ca|[dor]
+evocador	nome masculino	e|vo|ca|[dor]
+evocadora	nome feminino	e|vo|ca|[do]|ra
+evocante	adjetivo	e|vo|[can]|te
+evocar	verbo	e|vo|[car]
+evocativamente	advérbio	e|vo|ca|ti|va|[men]|te
+evocativo	adjetivo	e|vo|ca|[ti]|vo
+evocatório	adjetivo	e|vo|ca|[tó]|ri|o
+evocável	adjetivo	e|vo|[cá]|vel
+evoé	interjeição	e|vo|[é]
+evoé	nome masculino	e|vo|[é]
+evolar	verbo	e|vo|[lar]
+evolução	nome feminino	e|vo|lu|[ção]
+evolucional	adjetivo	e|vo|lu|ci|o|[nal]
+evolucionar	verbo	e|vo|lu|ci|o|[nar]

@@ -1,0 +1,100 @@
+redesconto	nome masculino	re|des|[con]|to
+redesenhado	adjetivo	re|de|se|[nha]|do
+redesenhar	verbo	re|de|se|[nhar]
+redesign	nome masculino	re|de|[sign]
+redestilação	nome feminino	re|des|ti|la|[ção]
+redestilar	verbo	re|des|ti|[lar]
+redibição	nome feminino	re|di|bi|[ção]
+redibir	verbo	re|di|[bir]
+redibitório	adjetivo	re|di|bi|[tó]|ri|o
+redição	nome feminino	re|di|[ção]
+redigido	adjetivo	re|di|[gi]|do
+redigir	verbo	re|di|[gir]
+redil	nome masculino	re|[dil]
+redimensionamento	nome masculino	re|di|men|si|o|na|[men]|to
+redimensionar	verbo	re|di|men|si|o|[nar]
+redimido	adjetivo	re|di|[mi]|do
+redimidor	adjetivo	re|di|mi|[dor]
+redimidor	nome masculino	re|di|mi|[dor]
+redimir	verbo	re|di|[mir]
+redimível	adjetivo	re|di|[mí]|vel
+redingote	nome masculino	re|din|[go]|te
+redinha	nome feminino	re|[di]|nha
+redintegração	nome feminino	re|din|te|gra|[ção]
+redintegrar	verbo	re|din|te|[grar]
+rediosca	nome feminino	re|di|[os]|ca
+redirecionar	verbo	re|di|re|ci|o|[nar]
+redissolução	nome feminino	re|dis|so|lu|[ção]
+redistribuição	nome feminino	re|dis|tri|bu|i|[ção]
+redistribuidor	adjetivo	re|dis|tri|bui|[dor]
+redistribuidor	nome masculino	re|dis|tri|bui|[dor]
+redistribuir	verbo	re|dis|tri|bu|[ir]
+redistribuível	adjetivo	re|dis|tri|bu|[í]|vel
+rédito	nome masculino	[ré]|di|to
+redivinização	nome feminino	re|di|vi|ni|za|[ção]
+redivinizar	verbo	re|di|vi|ni|[zar]
+rediviva	nome feminino	re|di|[vi]|va
+redivivo	adjetivo	re|di|[vi]|vo
+redizer	verbo	re|di|[zer]
+redízima	nome feminino	re|[dí]|zi|ma
+redizimar	verbo	re|di|zi|[mar]
+redneck	nome masculino	[red]|neck
+redobradamente	advérbio	re|do|bra|da|[men]|te
+redobrado	adjetivo	re|do|[bra]|do
+redobradura	nome feminino	re|do|bra|[du]|ra
+redobramento	nome masculino	re|do|bra|[men]|to
+redobrar	verbo	re|do|[brar]
+redobrável	adjetivo	re|do|[brá]|vel
+redobre	adjetivo	re|[do]|bre
+redobre	nome masculino	re|[do]|bre
+redobro	nome masculino	re|[do]|bro
+redoiça	nome feminino	re|[doi]|ça
+redoiçar	verbo	re|doi|[çar]
+redoirar	verbo	re|doi|[rar]
+redol	nome masculino	re|[dol]
+redolente	adjetivo	re|do|[len]|te
+redolho	adjetivo	re|[do]|lho
+redolho	nome masculino	re|[do]|lho
+redom	nome masculino	[re]|dom
+redoma	nome feminino	re|[do]|ma
+redomão	adjetivo	re|do|[mão]
+redomão	nome masculino	re|do|[mão]
+redomoneação	nome feminino	re|do|mo|ne|a|[ção]
+redomonear	verbo	re|do|mo|ne|[ar]
+redonda	nome feminino	re|[don]|da
+redondal	adjetivo	re|don|[dal]
+redondamente	advérbio	re|don|da|[men]|te
+redondear	verbo	re|don|de|[ar]
+redondeira	nome feminino	re|don|[dei]|ra
+redondeiro	adjetivo	re|don|[dei]|ro
+redondeiro	nome masculino	re|don|[dei]|ro
+redondel	nome masculino	re|don|[del]
+redondela	nome feminino	re|don|[de]|la
+redondense	nome masculino	re|don|[den]|se
+redondense	nome feminino	re|don|[den]|se
+redondense	adjetivo	re|don|[den]|se
+redondez	nome feminino	re|don|[dez]
+redondeza	nome feminino	re|don|[de]|za
+redondil	adjetivo	re|don|[dil]
+redondilha	nome feminino	re|don|[di]|lha
+redondo	adjetivo	re|[don]|do
+redondo	nome masculino	re|[don]|do
+rédone	adjetivo	[ré]|do|ne
+rédone	nome masculino	[ré]|do|ne
+rédone	nome feminino	[ré]|do|ne
+redopiar	verbo	re|do|pi|[ar]
+redopio	nome masculino	re|do|[pi]|o
+redor	nome masculino	re|[dor]
+redoria	nome feminino	re|do|[ri]|a
+redouça	nome feminino	re|[dou]|ça
+redouçar	verbo	re|dou|[çar]
+redourar	verbo	re|dou|[rar]
+redra	nome feminino	[re]|dra
+redrar	verbo	re|[drar]
+redução	nome feminino	re|du|[ção]
+reducente	adjetivo	re|du|[cen]|te
+reducionismo	nome masculino	re|du|ci|o|[nis]|mo
+reducionista	adjetivo	re|du|ci|o|[nis]|ta
+reducionístico	adjetivo	re|du|ci|o|[nís]|ti|co
+redundância	nome feminino	re|dun|[dân]|ci|a
+redundante	adjetivo	re|dun|[dan]|te

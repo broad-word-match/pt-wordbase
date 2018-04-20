@@ -1,0 +1,100 @@
+embarrancar	verbo	em|bar|ran|[car]
+embarrar	verbo	em|bar|[rar]
+embarrear	verbo	em|bar|re|[ar]
+embarreirar	verbo	em|bar|rei|[rar]
+embarrelar	verbo	em|bar|re|[lar]
+embarretar	verbo	em|bar|re|[tar]
+embarricado	adjetivo	em|bar|ri|[ca]|do
+embarricamento	nome masculino	em|bar|ri|ca|[men]|to
+embarricar	verbo	em|bar|ri|[car]
+embarrigar	verbo	em|bar|ri|[gar]
+embarrilação	nome feminino	em|bar|ri|la|[ção]
+embarrilado	adjetivo	em|bar|ri|[la]|do
+embarrilagem	nome feminino	em|bar|ri|[la]|gem
+embarrilamento	nome masculino	em|bar|ri|la|[men]|to
+embarrilar	verbo	em|bar|ri|[lar]
+embarrilho	nome masculino	em|bar|[ri]|lho
+embasamento	nome masculino	em|ba|sa|[men]|to
+embasar	verbo	em|ba|[sar]
+embasbacação	nome feminino	em|bas|ba|ca|[ção]
+embasbacado	adjetivo	em|bas|ba|[ca]|do
+embasbacador	adjetivo	em|bas|ba|ca|[dor]
+embasbacamento	nome masculino	em|bas|ba|ca|[men]|to
+embasbacar	verbo	em|bas|ba|[car]
+embastar	verbo	em|bas|[tar]
+embastecer	verbo	em|bas|te|[cer]
+embate	nome masculino	em|[ba]|te
+embater	verbo	em|ba|[ter]
+embatério	nome masculino	em|ba|[té]|ri|o
+embatinar	verbo	em|ba|ti|[nar]
+embatocado	adjetivo	em|ba|to|[ca]|do
+embatocar	verbo	em|ba|to|[car]
+embatucado	adjetivo	em|ba|tu|[ca]|do
+embatucar	verbo	em|ba|tu|[car]
+embaucador	adjetivo	em|ba|u|ca|[dor]
+embaucador	nome masculino	em|ba|u|ca|[dor]
+embaucar	verbo	em|ba|u|[car]
+embaulamento	nome masculino	em|ba|u|la|[men]|to
+embaular	verbo	em|ba|u|[lar]
+embeaxió	nome masculino	em|be|a|xi|[ó]
+embebecer	verbo	em|be|be|[cer]
+embebedado	adjetivo	em|be|be|[da]|do
+embebedamento	nome masculino	em|be|be|da|[men]|to
+embebedar	verbo	em|be|be|[dar]
+embeber	verbo	em|be|[ber]
+embeberar	verbo	em|be|be|[rar]
+embebição	nome feminino	em|be|bi|[ção]
+embebido	adjetivo	em|be|[bi]|do
+embebimento	nome masculino	em|be|bi|[men]|to
+embeiçado	adjetivo	em|bei|[ça]|do
+embeiçamento	nome masculino	em|bei|ça|[men]|to
+embeiçar	verbo	em|bei|[çar]
+embelecador	adjetivo	em|be|le|ca|[dor]
+embelecador	nome masculino	em|be|le|ca|[dor]
+embelecar	verbo	em|be|le|[car]
+embelecer	verbo	em|be|le|[cer]
+embeleco	nome masculino	em|be|[le]|co
+embelezador	adjetivo	em|be|le|za|[dor]
+embelezador	nome masculino	em|be|le|za|[dor]
+embelezamento	nome masculino	em|be|le|za|[men]|to
+embelezante	adjetivo	em|be|le|[zan]|te
+embelezar	verbo	em|be|le|[zar]
+embelezável	adjetivo	em|be|le|[zá]|vel
+embelezo	nome masculino	em|be|[le]|zo
+embelgação	nome feminino	em|bel|ga|[ção]
+embelgador	adjetivo	em|bel|ga|[dor]
+embelgador	nome masculino	em|bel|ga|[dor]
+embelgar	verbo	em|bel|[gar]
+emberiza	nome feminino	em|be|[ri]|za
+emberiza-das-neves	nome feminino	em|be|ri|za-das-ne|ves
+emberiza-dos-caniços	nome feminino	em|be|ri|za-dos-ca|[ni]|ços
+emberiza-dos-juncos	nome feminino	em|be|ri|za-dos-jun|cos
+emberizídeo	adjetivo	em|be|ri|[zí]|de|o
+emberizídeo	nome masculino	em|be|ri|[zí]|de|o
+emberizídeo	nome masculino	em|be|ri|[zí]|de|o
+embernar	verbo	em|ber|[nar]
+embesoirado	adjetivo	em|be|soi|[ra]|do
+embesoirar	verbo	em|be|soi|[rar]
+embesourado	adjetivo	em|be|sou|[ra]|do
+embesourar	verbo	em|be|sou|[rar]
+embespinhar	verbo	em|bes|pi|[nhar]
+embestar	verbo	em|bes|[tar]
+embetesgar	verbo	em|be|tes|[gar]
+embetumar	verbo	em|be|tu|[mar]
+embevecer	verbo	em|be|ve|[cer]
+embevecido	adjetivo	em|be|ve|[ci]|do
+embevecimento	nome masculino	em|be|ve|ci|[men]|to
+embezerrado	adjetivo	em|be|zer|[ra]|do
+embezerramento	nome masculino	em|be|zer|ra|[men]|to
+embezerrar	verbo	em|be|zer|[rar]
+embiara	nome feminino	em|bi|[a]|ra
+embibocado	adjetivo	em|bi|bo|[ca]|do
+embicadeiro	adjetivo	em|bi|ca|[dei]|ro
+embicado	adjetivo	em|bi|[ca]|do
+embicador	adjetivo	em|bi|ca|[dor]
+embicador	nome masculino	em|bi|ca|[dor]
+embicadura	nome feminino	em|bi|ca|[du]|ra
+embicar	verbo	em|bi|[car]
+embicheirar	verbo	em|bi|chei|[rar]
+embida	nome feminino	em|[bi]|da
+embiga	nome feminino	em|[bi]|ga

@@ -1,0 +1,100 @@
+pecante	nome masculino	pe|[can]|te
+pecante	nome feminino	pe|[can]|te
+pecar	verbo	pe|[car]
+pecari	nome masculino	pe|ca|[ri]
+pecável	adjetivo	pe|[cá]|vel
+peceta	nome masculino	pe|[ce]|ta
+peceta	nome feminino	pe|[ce]|ta
+pecha	nome feminino	[pe]|cha
+pechada	nome feminino	pe|[cha]|da
+pechador	nome masculino	pe|cha|[dor]
+pecheblenda	nome feminino	pe|che|[blen]|da
+pechelingue	nome masculino	pe|che|[lin]|gue
+pechilingue	nome masculino	pe|chi|[lin]|gue
+pechincha	nome feminino	pe|[chin]|cha
+pechinchar	verbo	pe|chin|[char]
+pechincheiro	adjetivo	pe|chin|[chei]|ro
+pechincheiro	nome masculino	pe|chin|[chei]|ro
+pechinchinho	adjetivo	pe|chin|[chi]|nho
+pechinchinho	nome masculino	pe|chin|[chi]|nho
+pechincho	adjetivo	pe|[chin]|cho
+pechincho	nome masculino	pe|[chin]|cho
+pechiringar	verbo	pe|chi|rin|[gar]
+pechisbeque	nome masculino	pe|chis|[be]|que
+pechorim	nome masculino	pe|cho|[rim]
+pechorra	nome feminino	pe|[chor]|ra
+pechoso	adjetivo	pe|[cho]|so
+pechurano	nome masculino	pe|chu|[ra]|no
+pecilite	nome feminino	pe|ci|[li]|te
+pecilocromático	adjetivo	pe|ci|lo|cro|[má]|ti|co
+pecilópode	nome masculino	pe|ci|[ló]|po|de
+pecilotérmico	adjetivo	pe|ci|lo|[tér]|mi|co
+peciolação	nome feminino	pe|ci|o|la|[ção]
+pecioláceo	adjetivo	pe|ci|o|[lá]|ce|o
+peciolado	adjetivo	pe|ci|o|[la]|do
+peciolar	adjetivo	pe|ci|o|[lar]
+pecíolo	nome masculino	pe|[cí]|o|lo
+peciolulado	adjetivo	pe|ci|o|lu|[la]|do
+peciolular	adjetivo	pe|ci|o|lu|[lar]
+peciólulo	nome masculino	pe|ci|[ó]|lu|lo
+peco	nome masculino	[pe]|co
+peco	adjetivo	[pe]|co
+peçonha	nome feminino	pe|[ço]|nha
+peçonhentar	verbo	pe|ço|nhen|[tar]
+peçonhento	adjetivo	pe|ço|[nhen]|to
+peçonhoso	adjetivo	pe|ço|[nho]|so
+pécora	nome feminino	[pé]|co|ra
+pecorino	nome masculino	pe|co|[ri]|no
+peçós	nome masculino	pe|[çós]
+peçote	nome masculino	pe|[ço]|te
+pectato	nome masculino	pec|[ta]|to
+pécten	nome masculino	[péc]|ten
+péctico	adjetivo	[péc]|ti|co
+pectina	nome feminino	pec|[ti]|na
+pectinado	adjetivo	pec|ti|[na]|do
+pectíneo	nome masculino	pec|[tí]|ne|o
+pectíneo	adjetivo	pec|[tí]|ne|o
+pectinibrânquio	nome masculino	pec|ti|ni|[brân]|qui|o
+pectinibrânquio	adjetivo	pec|ti|ni|[brân]|qui|o
+pectinicórneo	adjetivo	pec|ti|ni|[cór]|ne|o
+pectinicórneo	nome masculino	pec|ti|ni|[cór]|ne|o
+pectínida	nome masculino	pec|[tí]|ni|da
+pectinídeo	nome masculino	pec|ti|[ní]|de|o
+pectinídeo	nome masculino	pec|ti|[ní]|de|o
+pectinídeo	adjetivo	pec|ti|[ní]|de|o
+pectófito	nome masculino	pec|[tó]|fi|to
+pectólito	nome masculino	pec|[tó]|li|to
+pectoral	adjetivo	pec|to|[ral]
+pectoriloquia	nome feminino	pec|to|ri|lo|[qui]|a
+pectoríloquo	adjetivo	pec|to|[rí]|lo|quo
+pectose	nome feminino	pec|[to]|se
+pectósico	adjetivo	pec|[tó]|si|co
+pectótico	adjetivo	pec|[tó]|ti|co
+pectúnculo	nome masculino	pec|[tún]|cu|lo
+pecuária	nome feminino	pe|cu|[á]|ri|a
+pecuário	adjetivo	pe|cu|[á]|ri|o
+pecuário	nome masculino	pe|cu|[á]|ri|o
+pecuarista	nome masculino	pe|cu|a|[ris]|ta
+pecuarista	nome feminino	pe|cu|a|[ris]|ta
+peculador	nome masculino	pe|cu|la|[dor]
+peculatário	adjetivo	pe|cu|la|[tá]|ri|o
+peculatário	nome masculino	pe|cu|la|[tá]|ri|o
+peculato	nome masculino	pe|cu|[la]|to
+peculiar	adjetivo	pe|cu|li|[ar]
+peculiaridade	nome feminino	pe|cu|li|a|ri|[da]|de
+peculiarizar	verbo	pe|cu|li|a|ri|[zar]
+peculiarmente	advérbio	pe|cu|li|ar|[men]|te
+pecúlio	nome masculino	pe|[cú]|li|o
+pecúnia	nome feminino	pe|[cú]|ni|a
+pecuniariamente	advérbio	pe|cu|ni|a|ri|a|[men]|te
+pecuniário	adjetivo	pe|cu|ni|[á]|ri|o
+pecunioso	adjetivo	pe|cu|ni|[o]|so
+pedação	nome masculino	pe|da|[ção]
+pedacinho	nome masculino	pe|da|[ci]|nho
+pedaço	nome masculino	pe|[da]|ço
+pedaço de asno	nome masculino	pe|[da]|ço de as|no
+pedado	nome masculino	pe|[da]|do
+pedado	adjetivo	pe|[da]|do
+pedágio	nome masculino	pe|[dá]|gi|o
+pedagoga	nome feminino	pe|da|[go]|ga
+pedagogia	nome feminino	pe|da|go|[gi]|a

@@ -1,0 +1,100 @@
+escrapeteador	adjetivo	es|cra|pe|te|a|[dor]
+escrapeteador	nome masculino	es|cra|pe|te|a|[dor]
+escrapetear	verbo	es|cra|pe|te|[ar]
+escrava	nome masculino	es|[cra]|va
+escrava	nome feminino	es|[cra]|va
+escravagem	nome feminino	es|cra|[va]|gem
+escravanada	nome feminino	es|cra|va|[na]|da
+escravaria	nome feminino	es|cra|va|[ri]|a
+escravatura	nome feminino	es|cra|va|[tu]|ra
+escravelha	nome feminino	es|cra|[ve]|lha
+escravelhar	verbo	es|cra|ve|[lhar]
+escravidão	nome masculino	es|cra|vi|[dão]
+escravidão	nome feminino	es|cra|vi|[dão]
+escravismo	nome masculino	es|cra|[vis]|mo
+escravista	adjetivo	es|cra|[vis]|ta
+escravista	nome masculino	es|cra|[vis]|ta
+escravista	nome feminino	es|cra|[vis]|ta
+escravização	nome feminino	es|cra|vi|za|[ção]
+escravizador	adjetivo	es|cra|vi|za|[dor]
+escravizador	nome masculino	es|cra|vi|za|[dor]
+escravizadora	nome feminino	es|cra|vi|za|[do]|ra
+escravizante	adjetivo	es|cra|vi|[zan]|te
+escravizar	verbo	es|cra|vi|[zar]
+escravizável	adjetivo	es|cra|vi|[zá]|vel
+escravo	adjetivo	es|[cra]|vo
+escravo	nome masculino	es|[cra]|vo
+escravocrata	nome masculino	es|cra|vo|[cra]|ta
+escravocrata	nome feminino	es|cra|vo|[cra]|ta
+escravoneta	nome feminino	es|cra|vo|[ne]|ta
+escrete	nome masculino	es|[cre]|te
+escreto	adjetivo	es|[cre]|to
+escrevaninha	nome feminino	es|cre|va|[ni]|nha
+escrevedeira	nome feminino	es|cre|ve|[dei]|ra
+escrevedor	nome masculino	es|cre|ve|[dor]
+escrevedor	adjetivo	es|cre|ve|[dor]
+escrevedora	nome feminino	es|cre|ve|[do]|ra
+escrevedura	nome feminino	es|cre|ve|[du]|ra
+escrevenina	nome feminino	es|cre|ve|[ni]|na
+escrevente	nome masculino	es|cre|[ven]|te
+escrevente	adjetivo	es|cre|[ven]|te
+escrevente	nome feminino	es|cre|[ven]|te
+escrever	verbo	es|cre|[ver]
+escrevinhação	nome feminino	es|cre|vi|nha|[ção]
+escrevinhadeiro	adjetivo	es|cre|vi|nha|[dei]|ro
+escrevinhadeiro	nome masculino	es|cre|vi|nha|[dei]|ro
+escrevinhador	adjetivo	es|cre|vi|nha|[dor]
+escrevinhador	nome masculino	es|cre|vi|nha|[dor]
+escrevinhadora	nome feminino	es|cre|vi|nha|[do]|ra
+escrevinhadura	nome feminino	es|cre|vi|nha|[du]|ra
+escrevinhante	nome masculino	es|cre|vi|[nhan]|te
+escrevinhante	nome feminino	es|cre|vi|[nhan]|te
+escrevinhar	verbo	es|cre|vi|[nhar]
+escrevinhice	nome feminino	es|cre|vi|[nhi]|ce
+escriba	nome masculino	es|[cri]|ba
+escriba	nome feminino	es|[cri]|ba
+escribomania	nome feminino	es|cri|bo|ma|[ni]|a
+escribomaníaco	adjetivo	es|cri|bo|ma|[ní]|a|co
+escribomaníaco	nome masculino	es|cri|bo|ma|[ní]|a|co
+escribómano	nome masculino	es|cri|[bó]|ma|no
+escribômano	nome masculino	es|cri|[bô]|ma|no
+escrinha	nome feminino	es|[cri]|nha
+escrinho	nome masculino	es|[cri]|nho
+escrínio	nome masculino	es|[crí]|ni|o
+escrino	nome masculino	es|[cri]|no
+escriônico	adjetivo	es|cri|[ô]|ni|co
+escriónico	adjetivo	es|cri|[ó]|ni|co
+escriónico	nome masculino	es|cri|[ó]|ni|co
+escriônico	nome masculino	es|cri|[ô]|ni|co
+escrita	nome feminino	es|[cri]|ta
+escrito	adjetivo	es|[cri]|to
+escrito	nome masculino	es|[cri]|to
+escritor	nome masculino	es|cri|[tor]
+escritora	nome feminino	es|cri|[to]|ra
+escritorinho	nome masculino	es|cri|to|[ri]|nho
+escritório	nome masculino	es|cri|[tó]|ri|o
+escritório-sala	nome masculino	es|cri|tó|ri|o-sa|la
+escritura	nome feminino	es|cri|[tu]|ra
+escrituração	nome feminino	es|cri|tu|ra|[ção]
+escriturar	verbo	es|cri|tu|[rar]
+escriturária	nome feminino	es|cri|tu|[rá]|ri|a
+escriturário	nome masculino	es|cri|tu|[rá]|ri|o
+escrivã	nome feminino	es|cri|[vã]
+escrivania	nome feminino	es|cri|va|[ni]|a
+escrivaninha	nome feminino	es|cri|va|[ni]|nha
+escrivão	nome masculino	es|cri|[vão]
+escrivão-mor	nome masculino	es|cri|vão-mor
+escrivar	verbo	es|cri|[var]
+escrobiculado	adjetivo	es|cro|bi|cu|[la]|do
+escrobículo	nome masculino	es|cro|[bí]|cu|lo
+escrobiculoso	adjetivo	es|cro|bi|cu|[lo]|so
+escrófula	nome feminino	es|[cró]|fu|la
+escrofulária	nome feminino	es|cro|fu|[lá]|ri|a
+escrofulariácea	nome feminino	es|cro|fu|la|ri|[á]|ce|a
+escrofulariáceo	adjetivo	es|cro|fu|la|ri|[á]|ce|o
+escrofulismo	nome masculino	es|cro|fu|[lis]|mo
+escrofulizar	verbo	es|cro|fu|li|[zar]
+escrofulosa	nome feminino	es|cro|fu|[lo]|sa
+escrofulose	nome feminino	es|cro|fu|[lo]|se
+escrofuloso	adjetivo	es|cro|fu|[lo]|so
+escrofuloso	nome masculino	es|cro|fu|[lo]|so

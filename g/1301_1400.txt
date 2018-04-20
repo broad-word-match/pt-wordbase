@@ -1,0 +1,100 @@
+garridamente	advérbio	gar|ri|da|[men]|te
+garridice	nome feminino	gar|ri|[di]|ce
+garridismo	nome masculino	gar|ri|[dis]|mo
+garrido	adjetivo	gar|[ri]|do
+garril	nome masculino	gar|[ril]
+garrincha	nome feminino	gar|[rin]|cha
+garrinchão	nome masculino	gar|rin|[chão]
+garrincho	nome masculino	gar|[rin]|cho
+garrir	verbo	gar|[rir]
+garro	nome masculino	[gar]|ro
+garro	adjetivo	[gar]|ro
+garroba	nome feminino	gar|[ro]|ba
+garrocha	nome feminino	gar|[ro]|cha
+garrochada	nome feminino	gar|ro|[cha]|da
+garrochador	nome masculino	gar|ro|cha|[dor]
+garrochão	nome masculino	gar|ro|[chão]
+garrochar	verbo	gar|ro|[char]
+garrocho	nome masculino	gar|[ro]|cho
+garrota	nome feminino	gar|[ro]|ta
+garrotar	verbo	gar|ro|[tar]
+garrote	nome masculino	gar|[ro]|te
+garrotear	verbo	gar|ro|te|[ar]
+garrotilho	nome masculino	gar|ro|[ti]|lho
+garrucha	nome feminino	gar|[ru]|cha
+garruchar	verbo	gar|ru|[char]
+garruchismo	nome masculino	gar|ru|[chis]|mo
+garrucho	nome masculino	gar|[ru]|cho
+garruço	nome masculino	gar|[ru]|ço
+garrulamente	advérbio	gar|ru|la|[men]|te
+garrular	verbo	gar|ru|[lar]
+garrulice	nome feminino	gar|ru|[li]|ce
+garrulidade	nome feminino	gar|ru|li|[da]|de
+gárrulo	adjetivo	[gár]|ru|lo
+gárrulo	nome masculino	[gár]|ru|lo
+garruncho	nome masculino	gar|[run]|cho
+garúmnico	adjetivo	ga|[rúm]|ni|co
+garúmnico	nome masculino	ga|[rúm]|ni|co
+garumno	adjetivo	ga|[rum]|no
+garumno	nome masculino	ga|[rum]|no
+garupa	nome feminino	ga|[ru]|pa
+garupada	nome feminino	ga|ru|[pa]|da
+garupeiro	nome masculino	ga|ru|[pei]|ro
+garuva	nome feminino	ga|[ru]|va
+garvaia	nome feminino	gar|[vai]|a
+garzina	nome feminino	gar|[zi]|na
+gás	nome masculino	[gás]
+gás dos pântanos	nome masculino	gás dos pân|ta|nos
+gás-mil	nome masculino	[gás-mil]
+gasalhado	nome masculino	ga|sa|[lha]|do
+gasalhamento	nome masculino	ga|sa|lha|[men]|to
+gasalhar	verbo	ga|sa|[lhar]
+gasalho	nome masculino	ga|[sa]|lho
+gasalhosamente	advérbio	ga|sa|lho|sa|[men]|te
+gasalhoso	adjetivo	ga|sa|[lho]|so
+gascão	nome masculino	gas|[cão]
+gascão	adjetivo	gas|[cão]
+gascoa	nome feminino	gas|[co]|a
+gascões	nome masculino	gas|[cões]
+gasconada	nome feminino	gas|co|[na]|da
+gaseado	adjetivo	ga|se|[a]|do
+gaseado	nome masculino	ga|se|[a]|do
+gaseamento	nome masculino	ga|se|a|[men]|to
+gasear	verbo	ga|se|[ar]
+gaseificação	nome feminino	ga|sei|fi|ca|[ção]
+gaseificado	adjetivo	ga|sei|fi|[ca]|do
+gaseificador	nome masculino	ga|sei|fi|ca|[dor]
+gaseificador	adjetivo	ga|sei|fi|ca|[dor]
+gaseificar	verbo	ga|sei|fi|[car]
+gaseificável	adjetivo	ga|sei|fi|[cá]|vel
+gaseiforme	adjetivo	ga|sei|[for]|me
+gaseiro	nome masculino	ga|[sei]|ro
+gasganete	nome masculino	gas|ga|[ne]|te
+gasguete	nome masculino	gas|[gue]|te
+gasguita	adjetivo	gas|[gui]|ta
+gasguita	nome masculino	gas|[gui]|ta
+gasguita	nome feminino	gas|[gui]|ta
+gasguito	adjetivo	gas|[gui]|to
+gasificação	nome feminino	ga|si|fi|ca|[ção]
+gasificado	adjetivo	ga|si|fi|[ca]|do
+gasificador	nome masculino	ga|si|fi|ca|[dor]
+gasificador	adjetivo	ga|si|fi|ca|[dor]
+gasificar	verbo	ga|si|fi|[car]
+gasificável	adjetivo	ga|si|fi|[cá]|vel
+gasiforme	adjetivo	ga|si|[for]|me
+gasista	nome masculino	ga|[sis]|ta
+gasista	nome feminino	ga|[sis]|ta
+gasnate	nome masculino	gas|[na]|te
+gasnete	nome masculino	gas|[ne]|te
+gasocarbónico	adjetivo	ga|so|car|[bó]|ni|co
+gasocarbônico	adjetivo	ga|so|car|[bô]|ni|co
+gasoduto	nome masculino	ga|so|[du]|to
+gasogênio	nome masculino	ga|so|[gê]|ni|o
+gasogénio	nome masculino	ga|so|[gé]|ni|o
+gasogenista	nome masculino	ga|so|ge|[nis]|ta
+gasogenista	nome feminino	ga|so|ge|[nis]|ta
+gasógeno	adjetivo	ga|[só]|ge|no
+gasógeno	nome masculino	ga|[só]|ge|no
+gasoleno	nome masculino	ga|so|[le]|no
+gasóleo	nome masculino	ga|[só]|le|o
+gasolina	nome feminino	ga|so|[li]|na

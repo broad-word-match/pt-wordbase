@@ -1,0 +1,100 @@
+acará-guaçu	nome masculino	a|ca|rá-gua|[çu]
+acaracolado	adjetivo	a|ca|ra|co|[la]|do
+acaraí	nome masculino	a|ca|ra|[í]
+acarajá	nome masculino	a|ca|ra|[já]
+acarajé	nome feminino	a|ca|ra|[jé]
+acarajé	nome masculino	a|ca|ra|[jé]
+acaramelado	adjetivo	a|ca|ra|me|[la]|do
+acaramelar	verbo	a|ca|ra|me|[lar]
+acaramujar	verbo	a|ca|ra|mu|[jar]
+acaramular	verbo	a|ca|ra|mu|[lar]
+acarangar	verbo	a|ca|ran|[gar]
+acaranguejado	adjetivo	a|ca|ran|gue|[ja]|do
+acarapi	adjetivo	a|ca|ra|[pi]
+acarapi	nome masculino	a|ca|ra|[pi]
+acarapi	nome feminino	a|ca|ra|[pi]
+acarapinhar	verbo	a|ca|ra|pi|[nhar]
+acarapuçado	adjetivo	a|ca|ra|pu|[ça]|do
+acarapuçar	verbo	a|ca|ra|pu|[çar]
+acarar	verbo	a|ca|[rar]
+acaravelhar	verbo	a|ca|ra|ve|[lhar]
+acarda	nome feminino	a|[car]|da
+acardia	nome feminino	a|car|[di]|a
+acardíaco	adjetivo	a|car|[dí]|a|co
+acardumado	adjetivo	a|car|du|[ma]|do
+acardumar	verbo	a|car|du|[mar]
+acareação	nome feminino	a|ca|re|a|[ção]
+acareado	adjetivo	a|ca|re|[a]|do
+acareador	adjetivo	a|ca|re|a|[dor]
+acareador	nome masculino	a|ca|re|a|[dor]
+acareamento	nome masculino	a|ca|re|a|[men]|to
+acareante	adjetivo	a|ca|re|[an]|te
+acarear	verbo	a|ca|re|[ar]
+acareio	nome masculino	a|ca|[rei]|o
+acarentar	verbo	a|ca|ren|[tar]
+acari	nome masculino	a|ca|[ri]
+acari	nome feminino	a|ca|[ri]
+acária	nome feminino	a|[cá]|ri|a
+acaríase	nome feminino	a|ca|[rí]|a|se
+acariciador	adjetivo	a|ca|ri|ci|a|[dor]
+acariciador	nome masculino	a|ca|ri|ci|a|[dor]
+acariciadora	nome feminino	a|ca|ri|ci|a|[do]|ra
+acariciamento	nome masculino	a|ca|ri|ci|a|[men]|to
+acariciante	adjetivo	a|ca|ri|ci|[an]|te
+acariciar	verbo	a|ca|ri|ci|[ar]
+acariciativo	adjetivo	a|ca|ri|ci|a|[ti]|vo
+acariciável	adjetivo	a|ca|ri|ci|[á]|vel
+acaricida	adjetivo	a|ca|ri|[ci]|da
+acariçoba	nome feminino	a|ca|ri|[ço]|ba
+acaridar	verbo	a|ca|ri|[dar]
+acarídeo	nome masculino	a|ca|[rí]|de|o
+acarídeo	adjetivo	a|ca|[rí]|de|o
+acárido	nome masculino	a|[cá]|ri|do
+acárido	adjetivo	a|[cá]|ri|do
+acarígeno	adjetivo	a|ca|[rí]|ge|no
+acarima	nome masculino	a|ca|[ri]|ma
+acarinhado	adjetivo	a|ca|ri|[nha]|do
+acarinhador	adjetivo	a|ca|ri|nha|[dor]
+acarinhador	nome masculino	a|ca|ri|nha|[dor]
+acarinhamento	nome masculino	a|ca|ri|nha|[men]|to
+acarinhar	verbo	a|ca|ri|[nhar]
+acarinhável	adjetivo	a|ca|ri|[nhá]|vel
+acarino	nome masculino	a|ca|[ri]|no
+acarino	adjetivo	a|ca|[ri]|no
+acarinos	nome masculino	a|ca|[ri]|nos
+acariquara	nome feminino	a|ca|ri|[qua]|ra
+acariúba	nome feminino	a|ca|ri|[ú]|ba
+acarminado	adjetivo	a|car|mi|[na]|do
+acarminar	verbo	a|car|mi|[nar]
+acarnane	adjetivo	a|car|[na]|ne
+acarnane	nome masculino	a|car|[na]|ne
+acarnane	nome feminino	a|car|[na]|ne
+acarnaniano	adjetivo	a|car|na|ni|[a]|no
+acarnaniano	nome masculino	a|car|na|ni|[a]|no
+acarnânico	adjetivo	a|car|[nâ]|ni|co
+acarnânico	nome masculino	a|car|[nâ]|ni|co
+acarnânio	adjetivo	a|car|[nâ]|ni|o
+acarnânio	nome masculino	a|car|[nâ]|ni|o
+acarnano	adjetivo	a|car|[na]|no
+acarnano	nome masculino	a|car|[na]|no
+acarneirado	adjetivo	a|car|nei|[ra]|do
+acarneirar	verbo	a|car|nei|[rar]
+acarneu	adjetivo	a|car|[neu]
+acarneu	nome masculino	a|car|[neu]
+acarno	nome masculino	a|[car]|no
+ácaro	nome masculino	[á]|ca|ro
+acaroação	nome feminino	a|ca|ro|a|[ção]
+acaroamento	nome masculino	a|ca|ro|a|[men]|to
+acaroar	verbo	a|ca|ro|[ar]
+acarochado	adjetivo	a|ca|ro|[cha]|do
+acarófila	nome feminino	a|ca|[ró]|fi|la
+acarofilia	nome feminino	a|ca|ro|fi|[li]|a
+acarófilo	adjetivo	a|ca|[ró]|fi|lo
+acarófito	nome masculino	a|ca|[ró]|fi|to
+acarofobia	nome feminino	a|ca|ro|fo|[bi]|a
+acarófobo	adjetivo	a|ca|[ró]|fo|bo
+acarófobo	nome masculino	a|ca|[ró]|fo|bo
+acaroide	adjetivo	a|ca|[roi]|de
+acaronita	adjetivo	a|ca|ro|[ni]|ta
+acaronita	nome masculino	a|ca|ro|[ni]|ta
+acaronita	nome feminino	a|ca|ro|[ni]|ta

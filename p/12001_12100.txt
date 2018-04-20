@@ -1,0 +1,100 @@
+pré-bizantino	adjetivo	pré-bi|zan|[ti]|no
+pré-cabralino	adjetivo	pré-ca|bra|[li]|no
+pré-câmbrico	nome masculino	pré-câm|bri|co
+pré-camoniano	adjetivo	pré-ca|mo|ni|[a]|no
+pré-campanha	nome feminino	pré-cam|[pa]|nha
+pré-canceroso	adjetivo	pré-can|ce|[ro]|so
+pré-canceroso	nome masculino	pré-can|ce|[ro]|so
+pré-candidatura	nome feminino	pré-can|di|da|[tu]|ra
+pré-céltico	adjetivo	pré-cél|ti|co
+pré-científico	adjetivo	pré-ci|en|[tí]|fi|co
+pré-citado	adjetivo	pré-ci|[ta]|do
+pré-classicismo	nome masculino	pré-clas|si|[cis]|mo
+pré-clássico	adjetivo	pré-clás|si|co
+pré-colombiano	adjetivo	pré-co|lom|bi|[a]|no
+pré-colonial	adjetivo	pré-co|lo|ni|[al]
+pré-coma	nome masculino	pré-co|ma
+pré-comatoso	adjetivo	pré-co|ma|[to]|so
+pré-comprado	adjetivo	pré-com|[pra]|do
+pré-consciente	nome masculino	pré-cons|ci|[en]|te
+pré-constitucional	adjetivo	pré-cons|ti|tu|ci|o|[nal]
+pré-cozido	adjetivo	pré-co|[zi]|do
+pré-cozinhado	adjetivo	pré-co|zi|[nha]|do
+pré-cozinhar	verbo	pré-co|zi|[nhar]
+pré-cristão	adjetivo	pré-cris|[tão]
+pré-data	nome feminino	pré-da|ta
+pré-datado	adjetivo	pré-da|[ta]|do
+pré-datar	verbo	pré-da|[tar]
+pré-definido	adjetivo	pré-de|fi|[ni]|do
+pré-designado	adjetivo	pré-de|sig|[na]|do
+pré-determinado	adjetivo	pré-de|ter|mi|[na]|do
+pré-diluviano	adjetivo	pré-di|lu|vi|[a]|no
+pré-dionisiano	adjetivo	pré-di|o|ni|si|[a]|no
+pré-dorsal	adjetivo	pré-dor|[sal]
+pré-dorso	nome masculino	pré-dor|so
+pré-dorso-dental	adjetivo	pré-dor|so-den|[tal]
+pré-eclâmpsia	nome feminino	pré-e|[clâmp]|si|a
+pré-eclampsia	nome feminino	pré-e|clamp|[si]|a
+pré-eleitoral	adjetivo	pré-e|lei|to|[ral]
+pré-eliminatória	nome feminino	pré-e|li|mi|na|[tó]|ri|a
+pré-época	nome feminino	pré-é|po|ca
+pré-escola	nome feminino	pré-es|[co]|la
+pré-escolar	nome masculino	pré-es|co|[lar]
+pré-escolar	adjetivo	pré-es|co|[lar]
+pré-esdrúxulo	nome masculino	pré-es|[drú]|xu|lo
+pré-esdrúxulo	adjetivo	pré-es|[drú]|xu|lo
+pré-esforçado	nome masculino	pré-es|for|[ça]|do
+pré-esforçado	adjetivo	pré-es|for|[ça]|do
+pré-esforçar	verbo	pré-es|for|[çar]
+pré-esforço	nome masculino	pré-es|[for]|ço
+pré-estreia	nome feminino	pré-es|[trei]|a
+pré-fabricação	nome feminino	pré-fa|bri|ca|[ção]
+pré-fabricado	adjetivo	pré-fa|bri|[ca]|do
+pré-fabricar	verbo	pré-fa|bri|[car]
+pré-falência	nome feminino	pré-fa|[lên]|ci|a
+pré-fenício	adjetivo	pré-fe|[ní]|ci|o
+pré-filosófico	adjetivo	pré-fi|lo|[só]|fi|co
+pré-fixado	adjetivo	pré-fi|[xa]|do
+pré-frontal	nome masculino	pré-fron|[tal]
+pré-glacial	adjetivo	pré-gla|ci|[al]
+pré-glaciar	adjetivo	pré-gla|ci|[ar]
+pré-glaciário	adjetivo	pré-gla|ci|[á]|ri|o
+pré-gramatical	adjetivo	pré-gra|ma|ti|[cal]
+pré-gravação	nome feminino	pré-gra|va|[ção]
+pré-gravado	adjetivo	pré-gra|[va]|do
+pré-helénico	adjetivo	pré-he|[lé]|ni|co
+prê-helênico	adjetivo	prê-he|[lê]|ni|co
+pré-história	nome feminino	pré-his|[tó]|ri|a
+pré-historiador	nome masculino	pré-his|to|ri|a|[dor]
+pré-historicamente	advérbio	pré-his|to|ri|ca|[men]|te
+pré-histórico	adjetivo	pré-his|[tó]|ri|co
+pré-homérico	adjetivo	pré-ho|[mé]|ri|co
+pré-hominídeos	nome masculino	pré-ho|mi|[ní]|de|os
+pré-humanismo	nome masculino	pré-hu|ma|[nis]|mo
+pré-humanístico	adjetivo	pré-hu|ma|[nís]|ti|co
+pré-imaginar	verbo	pré-i|ma|gi|[nar]
+pré-imperial	adjetivo	pré-im|pe|ri|[al]
+pré-impressão	nome feminino	pré-im|pres|[são]
+pré-incaico	adjetivo	pré-in|[cai]|co
+pré-industrial	adjetivo	pré-in|dus|tri|[al]
+pré-islâmico	adjetivo	pré-is|[lâ]|mi|co
+pré-itálico	adjetivo	pré-i|[tá]|li|co
+pré-jurídico	adjetivo	pré-ju|[rí]|di|co
+pré-lançamento	nome masculino	pré-lan|ça|[men]|to
+pré-lavagem	nome feminino	pré-la|[va]|gem
+pré-lavar	verbo	pré-la|[var]
+pré-leitura	nome feminino	pré-lei|[tu]|ra
+pré-literário	adjetivo	pré-li|te|[rá]|ri|o
+pré-lógico	adjetivo	pré-ló|gi|co
+pré-maligno	adjetivo	pré-ma|[lig]|no
+pré-marital	adjetivo	pré-ma|ri|[tal]
+pré-masterizar	verbo	pré-mas|te|ri|[zar]
+pré-maxilar	nome masculino	pré-ma|xi|[lar]
+pré-medicação	nome feminino	pré-me|di|ca|[ção]
+pré-médico	adjetivo	pré-mé|di|co
+pré-medieval	adjetivo	pré-me|di|e|[val]
+pré-menstrual	adjetivo	pré-mens|tru|[al]
+pré-meridiano	adjetivo	pré-me|ri|di|[a]|no
+pré-messiânico	adjetivo	pré-mes|si|[â]|ni|co
+pré-militar	adjetivo	pré-mi|li|[tar]
+pré-molar	adjetivo	pré-mo|[lar]

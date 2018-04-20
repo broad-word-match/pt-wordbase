@@ -1,0 +1,100 @@
+guegue-falso	nome masculino	gue|gue-fal|so
+gueguê-guê	advérbio	gue|guê-guê
+gueguês	adjetivo	gue|[guês]
+gueguês	nome masculino	gue|[guês]
+guéguico	adjetivo	[gué]|gui|co
+guéguico	nome masculino	[gué]|gui|co
+guei	adjetivo	[guei]
+guei	nome masculino	[guei]
+guei	nome feminino	[guei]
+gueira	nome feminino	[guei]|ra
+gueirana	nome feminino	guei|[ra]|na
+gueiro	nome masculino	[guei]|ro
+gueixa	nome feminino	[guei]|xa
+gueixo	nome masculino	[guei]|xo
+gueja	nome feminino	[gue]|ja
+gueldrês	adjetivo	guel|[drês]
+gueldrês	nome masculino	guel|[drês]
+guelengue	nome masculino	gue|[len]|gue
+guelfo	nome masculino	[guel]|fo
+guelmo	nome masculino	[guel]|mo
+guelra	nome feminino	[guel]|ra
+guelricho	nome masculino	guel|[ri]|cho
+guelrita	nome feminino	guel|[ri]|ta
+guembê	nome masculino	guem|[bê]
+guembo	nome masculino	[guem]|bo
+guengar	verbo	guen|[gar]
+guenso	nome masculino	[guen]|so
+guenza	nome feminino	[guen]|za
+guenze	nome masculino	[guen]|ze
+guenzo	adjetivo	[guen]|zo
+guenzo	nome masculino	[guen]|zo
+guepardo	nome masculino	gue|[par]|do
+guere	nome masculino	[gue]|re
+gueredão	nome masculino	gue|re|[dão]
+guerirova	nome feminino	gue|ri|[ro]|va
+guerra	nome feminino	[guer]|ra
+guerreador	adjetivo	guer|re|a|[dor]
+guerreador	nome masculino	guer|re|a|[dor]
+guerreão	nome masculino	guer|re|[ão]
+guerrear	verbo	guer|re|[ar]
+guerreável	adjetivo	guer|re|[á]|vel
+guerreia	nome feminino	guer|[rei]|a
+guerreira	nome feminino	guer|[rei]|ra
+guerreiramente	advérbio	guer|rei|ra|[men]|te
+guerreirismo	nome masculino	guer|rei|[ris]|mo
+guerreiro	adjetivo	guer|[rei]|ro
+guerreiro	nome masculino	guer|[rei]|ro
+guerrento	adjetivo	guer|[ren]|to
+guerrilha	nome feminino	guer|[ri]|lha
+guerrilha	nome masculino	guer|[ri]|lha
+guerrilhagem	nome feminino	guer|ri|[lha]|gem
+guerrilhar	verbo	guer|ri|[lhar]
+guerrilheira	nome feminino	guer|ri|[lhei]|ra
+guerrilheiro	nome masculino	guer|ri|[lhei]|ro
+guerrilheiro	adjetivo	guer|ri|[lhei]|ro
+guesso	adjetivo	[gues]|so
+gueta	adjetivo	[gue]|ta
+gueta	nome feminino	[gue]|ta
+guete	nome masculino	[gue]|te
+gueto	nome masculino	[gue]|to
+guéu	adjetivo	[guéu]
+guéu	nome masculino	[guéu]
+guevarista	adjetivo	gue|va|[ris]|ta
+guevissar	verbo	gue|vis|[sar]
+gufongo	nome masculino	gu|[fon]|go
+gugu	nome masculino	gu|[gu]
+guia	nome feminino	[gui]|a
+guia	adjetivo	[gui]|a
+guia	nome masculino	[gui]|a
+guia-enxerto	nome masculino	gui|a-en|[xer]|to
+guiaca	nome feminino	gui|[a]|ca
+guiacana	nome feminino	gui|a|[ca]|na
+guiada	nome feminino	gui|[a]|da
+guiador	nome masculino	gui|a|[dor]
+guiador	adjetivo	gui|a|[dor]
+guiadora	nome feminino	gui|a|[do]|ra
+guiagem	nome feminino	gui|[a]|gem
+guiamento	nome masculino	gui|a|[men]|to
+guiamu	nome masculino	gui|a|[mu]
+guiana	adjetivo	gui|[a]|na
+guiana	nome masculino	gui|[a]|na
+guiana	nome feminino	gui|[a]|na
+guianense	nome masculino	gui|a|[nen]|se
+guianense	adjetivo	gui|a|[nen]|se
+guianense	nome feminino	gui|a|[nen]|se
+guianês	adjetivo	gui|a|[nês]
+guianês	nome masculino	gui|a|[nês]
+guianesa	nome feminino	gui|a|[ne]|sa
+guiante	adjetivo	gui|[an]|te
+guião	nome masculino	gui|[ão]
+guiar	verbo	gui|[ar]
+guiauto	nome masculino	gui|[au]|to
+guiável	adjetivo	gui|[á]|vel
+guibo	nome masculino	[gui]|bo
+guichê	nome masculino	gui|[chê]
+guiché	nome masculino	gui|[ché]
+guichet	nome masculino	gui|chet
+guicho	adjetivo	[gui]|cho
+guíco	nome masculino	[guí]|co
+guiço	nome masculino	[gui]|ço

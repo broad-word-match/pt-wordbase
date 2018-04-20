@@ -1,0 +1,100 @@
+muramento	nome masculino	mu|ra|[men]|to
+murapiranga	nome feminino	mu|ra|pi|[ran]|ga
+murapuama	nome feminino	mu|ra|pu|[a]|ma
+muraqueteca	nome feminino	mu|ra|que|[te]|ca
+murar	verbo	mu|[rar]
+murário	adjetivo	mu|[rá]|ri|o
+murça	nome feminino	[mur]|ça
+murceiro	nome masculino	mur|[cei]|ro
+murcense	nome masculino	mur|[cen]|se
+murcense	adjetivo	mur|[cen]|se
+murcense	nome feminino	mur|[cen]|se
+murcha	nome feminino	[mur]|cha
+murchar	verbo	mur|[char]
+murchecer	verbo	mur|che|[cer]
+murchecível	adjetivo	mur|che|[cí]|vel
+murchidão	nome feminino	mur|chi|[dão]
+murcho	adjetivo	[mur]|cho
+murchoso	adjetivo	mur|[cho]|so
+murciana	adjetivo	mur|ci|[a]|na
+murciana	nome feminino	mur|ci|[a]|na
+murciano	nome masculino	mur|ci|[a]|no
+murciano	adjetivo	mur|ci|[a]|no
+murco	nome masculino	[mur]|co
+murdanga	nome feminino	mur|[dan]|ga
+murdango	nome masculino	mur|[dan]|go
+murdangueiro	nome masculino	mur|dan|[guei]|ro
+muregona	nome feminino	mu|re|[go]|na
+mureira	nome feminino	mu|[rei]|ra
+murénida	nome masculino	mu|[ré]|ni|da
+murênida	nome masculino	mu|[rê]|ni|da
+murenídeo	nome masculino	mu|re|[ní]|de|o
+murenídeo	adjetivo	mu|re|[ní]|de|o
+murenídeo	nome masculino	mu|re|[ní]|de|o
+murete	nome masculino	mu|[re]|te
+murfela	nome feminino	mur|[fe]|la
+murganho	nome masculino	mur|[ga]|nho
+murgantino	adjetivo	mur|gan|[ti]|no
+murgantino	nome masculino	mur|gan|[ti]|no
+murgeira	nome feminino	mur|[gei]|ra
+murgentino	adjetivo	mur|gen|[ti]|no
+murgentino	nome masculino	mur|gen|[ti]|no
+muri	nome masculino	mu|[ri]
+múria	nome feminino	[mú]|ri|a
+muriaçu	nome masculino	mu|ri|a|[çu]
+murianganga	nome feminino	mu|ri|an|[gan]|ga
+muriangombe	nome masculino	mu|ri|an|[gom]|be
+muriatado	adjetivo	mu|ri|a|[ta]|do
+muriático	adjetivo	mu|ri|[á]|ti|co
+muriato	nome masculino	mu|ri|[a]|to
+muricado	adjetivo	mu|ri|[ca]|do
+múrice	nome masculino	[mú]|ri|ce
+murici	nome masculino	mu|ri|[ci]
+muriciaçu	nome masculino	mu|ri|ci|a|[çu]
+muricida	nome masculino	mu|ri|[ci]|da
+murícida	nome masculino	mu|[rí]|ci|da
+muricida	adjetivo	mu|ri|[ci]|da
+murícida	nome masculino	mu|[rí]|ci|da
+muricídeo	adjetivo	mu|ri|[cí]|de|o
+muricídeo	nome masculino	mu|ri|[cí]|de|o
+muricídeo	nome masculino	mu|ri|[cí]|de|o
+muricita	nome masculino	mu|ri|[ci]|ta
+muricizal	nome masculino	mu|ri|ci|[zal]
+muriçoca	nome feminino	mu|ri|[ço]|ca
+murícola	adjetivo	mu|[rí]|co|la
+múrida	nome masculino	[mú]|ri|da
+múrida	nome masculino	[mú]|ri|da
+murídeo	nome masculino	mu|[rí]|de|o
+murídeo	nome masculino	mu|[rí]|de|o
+murídeo	adjetivo	mu|[rí]|de|o
+murifela	nome feminino	mu|ri|[fe]|la
+murino	adjetivo	mu|[ri]|no
+muriossulfato	nome masculino	mu|ri|os|sul|[fa]|to
+muriossulfúrico	adjetivo	mu|ri|os|sul|[fú]|ri|co
+muriqui	nome masculino	mu|ri|[qui]
+muriti	nome masculino	mu|ri|[ti]
+muritizal	nome masculino	mu|ri|ti|[zal]
+murmulhante	adjetivo	mur|mu|[lhan]|te
+murmulhar	verbo	mur|mu|[lhar]
+murmulho	nome masculino	mur|[mu]|lho
+múrmur	nome masculino	[múr]|mur
+murmuração	nome feminino	mur|mu|ra|[ção]
+murmuradeira	nome feminino	mur|mu|ra|[dei]|ra
+murmurador	adjetivo	mur|mu|ra|[dor]
+murmurador	nome masculino	mur|mu|ra|[dor]
+murmuradora	nome feminino	mur|mu|ra|[do]|ra
+murmurante	adjetivo	mur|mu|[ran]|te
+murmurar	verbo	mur|mu|[rar]
+murmurativo	adjetivo	mur|mu|ra|[ti]|vo
+murmuré	nome masculino	mur|mu|[ré]
+murmurejar	verbo	mur|mu|re|[jar]
+murmurejo	nome masculino	mur|mu|[re]|jo
+murmúreo	adjetivo	mur|[mú]|re|o
+murmurinhar	verbo	mur|mu|ri|[nhar]
+murmurinhento	adjetivo	mur|mu|ri|[nhen]|to
+murmurinho	nome masculino	mur|mu|[ri]|nho
+murmúrio	nome masculino	mur|[mú]|ri|o
+múrmuro	adjetivo	[múr]|mu|ro
+murmuroso	adjetivo	mur|mu|[ro]|so
+muro	nome masculino	[mu]|ro
+murra	nome feminino	[mur]|ra

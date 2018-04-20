@@ -1,0 +1,100 @@
+barrascame	nome masculino	bar|ras|[ca]|me
+barrasco	nome masculino	bar|[ras]|co
+barrasquice	nome feminino	bar|ras|[qui]|ce
+barrear	verbo	bar|re|[ar]
+barredo	nome masculino	bar|[re]|do
+barregã	nome feminino	bar|re|[gã]
+barregana	nome feminino	bar|re|[ga]|na
+barregania	nome feminino	bar|re|ga|[ni]|a
+barregão	nome masculino	bar|re|[gão]
+barregar	verbo	bar|re|[gar]
+barrego	nome masculino	bar|[re]|go
+barregueiro	adjetivo	bar|re|[guei]|ro
+barregueiro	nome masculino	bar|re|[guei]|ro
+barreguice	nome feminino	bar|re|[gui]|ce
+barreio	nome masculino	bar|[rei]|o
+barreira	nome feminino	bar|[rei]|ra
+barreirado	nome masculino	bar|rei|[ra]|do
+barreiral	nome masculino	bar|rei|[ral]
+barreirar	verbo	bar|rei|[rar]
+barreirense	nome masculino	bar|rei|[ren]|se
+barreirense	adjetivo	bar|rei|[ren]|se
+barreirense	nome feminino	bar|rei|[ren]|se
+barreirento	adjetivo	bar|rei|[ren]|to
+barreiro	nome masculino	bar|[rei]|ro
+barrela	nome feminino	bar|[re]|la
+barrelão	nome masculino	bar|re|[lão]
+barreleira	nome feminino	bar|re|[lei]|ra
+barreleiro	adjetivo	bar|re|[lei]|ro
+barreleiro	nome masculino	bar|re|[lei]|ro
+barrelo	nome masculino	bar|[re]|lo
+barrelona	nome feminino	bar|re|[lo]|na
+barrena	nome feminino	bar|[re]|na
+barrenar	verbo	bar|re|[nar]
+barreneiro	adjetivo	bar|re|[nei]|ro
+barreneiro	nome masculino	bar|re|[nei]|ro
+barrenha	nome feminino	bar|[re]|nha
+barrenhão	nome masculino	bar|re|[nhão]
+barreno	nome masculino	bar|[re]|no
+barrense	adjetivo	bar|[ren]|se
+barrense	nome masculino	bar|[ren]|se
+barrense	nome feminino	bar|[ren]|se
+barrento	adjetivo	bar|[ren]|to
+barreta	nome feminino	bar|[re]|ta
+barretada	nome feminino	bar|re|[ta]|da
+barrete	nome masculino	bar|[re]|te
+barrete-de-clérigo	nome masculino	bar|re|te-de-clé|ri|go
+barrete-de-padre	nome masculino	bar|re|te-de-pa|dre
+barretear	verbo	bar|re|te|[ar]
+barreteira	nome feminino	bar|re|[tei]|ra
+barreteiro	nome masculino	bar|re|[tei]|ro
+barretina	nome feminino	bar|re|[ti]|na
+barretinar	verbo	bar|re|ti|[nar]
+barrica	nome feminino	bar|[ri]|ca
+barricada	nome feminino	bar|ri|[ca]|da
+barricar	verbo	bar|ri|[car]
+barrido	nome masculino	bar|[ri]|do
+barriga	nome feminino	bar|[ri]|ga
+barriga de bicho	nome masculino	bar|[ri]|ga de bi|cho
+barriga de freira	nome feminino	bar|[ri]|ga de frei|ra
+barriga-d'água	nome feminino	bar|ri|ga-d´á|gua
+barriga-verde	nome feminino	bar|ri|ga-ver|de
+barriga-verde	nome masculino	bar|ri|ga-ver|de
+barriga-verde	adjetivo	bar|ri|ga-ver|de
+barrigada	nome feminino	bar|ri|[ga]|da
+barrigal	adjetivo	bar|ri|[gal]
+barrigana	adjetivo	bar|ri|[ga]|na
+barrigana	nome masculino	bar|ri|[ga]|na
+barrigana	nome feminino	bar|ri|[ga]|na
+barriganha	adjetivo	bar|ri|[ga]|nha
+barriganha	nome masculino	bar|ri|[ga]|nha
+barriganha	nome feminino	bar|ri|[ga]|nha
+barrigão	nome masculino	bar|ri|[gão]
+barrigona	nome feminino	bar|ri|[go]|na
+barriguda	nome feminino	bar|ri|[gu]|da
+barrigudinho	nome masculino	bar|ri|gu|[di]|nho
+barrigudo	nome masculino	bar|ri|[gu]|do
+barrigudo	adjetivo	bar|ri|[gu]|do
+barrigueira	nome feminino	bar|ri|[guei]|ra
+barriguinha	nome feminino	bar|ri|[gui]|nha
+barriguismo	nome masculino	bar|ri|[guis]|mo
+barriguista	nome masculino	bar|ri|[guis]|ta
+barriguista	nome feminino	bar|ri|[guis]|ta
+barriguista	adjetivo	bar|ri|[guis]|ta
+barril	nome masculino	bar|[ril]
+barrilada	nome feminino	bar|ri|[la]|da
+barrileira	nome feminino	bar|ri|[lei]|ra
+barrileiro	nome masculino	bar|ri|[lei]|ro
+barrilete	nome masculino	bar|ri|[le]|te
+barrilha	nome feminino	bar|[ri]|lha
+barrilheira	nome feminino	bar|ri|[lhei]|ra
+barrinha	nome feminino	bar|[ri]|nha
+barriqueiro	adjetivo	bar|ri|[quei]|ro
+barriqueiro	nome masculino	bar|ri|[quei]|ro
+barrir	verbo	bar|[rir]
+barrisco	nome masculino	bar|[ris]|co
+barrista	nome masculino	bar|[ris]|ta
+barrista	nome feminino	bar|[ris]|ta
+barrito	nome masculino	bar|[ri]|to
+barro	nome masculino	[bar]|ro
+barroa	nome feminino	bar|[ro]|a

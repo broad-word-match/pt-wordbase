@@ -1,0 +1,100 @@
+palmatinervado	adjetivo	pal|ma|ti|ner|[va]|do
+palmatinérveo	adjetivo	pal|ma|ti|[nér]|ve|o
+palmatipartido	adjetivo	pal|ma|ti|par|[ti]|do
+palmato	nome masculino	pal|[ma]|to
+palmatoada	nome feminino	pal|ma|to|[a]|da
+palmatoar	adjetivo	pal|ma|to|[ar]
+palmatoar	verbo	pal|ma|to|[ar]
+palmatória	nome feminino	pal|ma|[tó]|ri|a
+palmatória-do-inferno	nome masculino	pal|ma|tó|ri|a-do-in|fer|no
+palmatoriar	verbo	pal|ma|to|ri|[ar]
+palmatorres	nome masculino	pal|ma|[tor]|res
+palmável	adjetivo	pal|[má]|vel
+palmeador	nome masculino	pal|me|a|[dor]
+palmear	verbo	pal|me|[ar]
+palmeira	nome feminino	pal|[mei]|ra
+palmeira-bordão	nome feminino	pal|mei|ra-bor|[dão]
+palmeira-das-igrejas	nome feminino	pal|mei|ra-das-i|[gre]|jas
+palmeira-do-azeite	nome feminino	pal|mei|ra-do-a|[zei]|te
+palmeiral	nome masculino	pal|mei|[ral]
+palmeireiro	nome masculino	pal|mei|[rei]|ro
+palmeirim	nome masculino	pal|mei|[rim]
+palmeirinha	nome feminino	pal|mei|[ri]|nha
+palmeiro	nome masculino	pal|[mei]|ro
+palmeiro	adjetivo	pal|[mei]|ro
+palmejar	nome masculino	pal|me|[jar]
+palmejar	verbo	pal|me|[jar]
+palmela	nome feminino	pal|[me]|la
+palmelão	nome masculino	pal|me|[lão]
+palmelão	adjetivo	pal|me|[lão]
+palmelense	nome masculino	pal|me|[len]|se
+palmelense	adjetivo	pal|me|[len]|se
+palmelense	nome feminino	pal|me|[len]|se
+palmense	adjetivo	pal|[men]|se
+palmense	nome masculino	pal|[men]|se
+palmense	nome feminino	pal|[men]|se
+pálmer	nome masculino	[pál]|mer
+palmeta	nome feminino	pal|[me]|ta
+palmetear	verbo	pal|me|te|[ar]
+palmicheio	adjetivo	pal|mi|[chei]|o
+pálmico	adjetivo	[pál]|mi|co
+palmiconvexo	adjetivo	pal|mi|con|[ve]|xo
+palmier	nome masculino	pal|mier
+palmífero	adjetivo	pal|[mí]|fe|ro
+palmiforme	adjetivo	pal|mi|[for]|me
+palmilha	nome feminino	pal|[mi]|lha
+palmilhadeira	nome feminino	pal|mi|lha|[dei]|ra
+palmilhador	adjetivo	pal|mi|lha|[dor]
+palmilhador	nome masculino	pal|mi|lha|[dor]
+palmilhar	verbo	pal|mi|[lhar]
+palmina	nome feminino	pal|[mi]|na
+palminervado	adjetivo	pal|mi|ner|[va]|do
+palminérveo	adjetivo	pal|mi|[nér]|ve|o
+palminha	nome feminino	pal|[mi]|nha
+palminho	nome masculino	pal|[mi]|nho
+palmípede	nome masculino	pal|[mí]|pe|de
+palmípede	adjetivo	pal|[mí]|pe|de
+palmireno	nome masculino	pal|mi|[re]|no
+palmireno	adjetivo	pal|mi|[re]|no
+palmiste	nome masculino	pal|[mis]|te
+palmital	nome masculino	pal|mi|[tal]
+palmitato	nome masculino	pal|mi|[ta]|to
+palmiteira	nome feminino	pal|mi|[tei]|ra
+palmiteso	adjetivo	pal|mi|[te]|so
+palmítico	adjetivo	pal|[mí]|ti|co
+palmitina	nome feminino	pal|mi|[ti]|na
+palmitiqueira	nome feminino	pal|mi|ti|[quei]|ra
+palmito	nome masculino	pal|[mi]|to
+palmo	nome masculino	[pal]|mo
+palmoira	nome feminino	pal|[moi]|ra
+palmoneta	nome feminino	pal|mo|[ne]|ta
+palmonete	nome masculino	pal|mo|[ne]|te
+palmoura	nome feminino	pal|[mou]|ra
+palmtop	nome masculino	palm|top
+palmura	nome feminino	pal|[mu]|ra
+paló	adjetivo	pa|[ló]
+paló	nome masculino	pa|[ló]
+paloio	adjetivo	pa|[loi]|o
+paloio	nome masculino	pa|[loi]|o
+paloma	nome feminino	pa|[lo]|ma
+palomadura	nome feminino	pa|lo|ma|[du]|ra
+palomar	verbo	pa|lo|[mar]
+palomar	nome masculino	pa|lo|[mar]
+palomba	nome feminino	pa|[lom]|ba
+palombadura	nome feminino	pa|lom|ba|[du]|ra
+palombar	verbo	pa|lom|[bar]
+palombeta	nome feminino	pa|lom|[be]|ta
+palombino	nome masculino	pa|lom|[bi]|no
+palomeira	nome feminino	pa|lo|[mei]|ra
+palonça	nome feminino	pa|[lon]|ça
+palonçamente	advérbio	pa|lon|ça|[men]|te
+palonço	adjetivo	pa|[lon]|ço
+palonço	nome masculino	pa|[lon]|ço
+palonzano	adjetivo	pa|lon|[za]|no
+palonzano	nome masculino	pa|lon|[za]|no
+palor	nome masculino	pa|[lor]
+palorejar	verbo	pa|lo|re|[jar]
+palote	nome masculino	pa|[lo]|te
+palpabilidade	nome feminino	pal|pa|bi|li|[da]|de
+palpabilizador	adjetivo	pal|pa|bi|li|za|[dor]
+palpabilizador	nome masculino	pal|pa|bi|li|za|[dor]

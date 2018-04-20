@@ -1,0 +1,100 @@
+mondéu	nome masculino	mon|[déu]
+mondilho	nome masculino	mon|[di]|lho
+mondina	nome feminino	mon|[di]|na
+mondinense	nome masculino	mon|di|[nen]|se
+mondinense	adjetivo	mon|di|[nen]|se
+mondinense	nome feminino	mon|di|[nen]|se
+mondino	nome masculino	mon|[di]|no
+mondo	adjetivo	[mon]|do
+mondolim	nome masculino	mon|do|[lim]
+mondonga	nome feminino	mon|[don]|ga
+mondongo	nome masculino	mon|[don]|go
+mondongueira	nome feminino	mon|don|[guei]|ra
+mondongueiro	nome masculino	mon|don|[guei]|ro
+mondrongo	nome masculino	mon|[dron]|go
+monduí	nome masculino	mon|du|[í]
+mondururu	nome masculino	mon|du|ru|[ru]
+monécia	nome feminino	mo|[né]|ci|a
+monecia	nome feminino	mo|ne|[ci]|a
+monécico	adjetivo	mo|[né]|ci|co
+moneco	adjetivo	mo|[ne]|co
+monédula	nome feminino	mo|[né]|du|la
+monegasca	nome feminino	mo|ne|[gas]|ca
+monegasco	adjetivo	mo|ne|[gas]|co
+monegasco	nome masculino	mo|ne|[gas]|co
+monelha	nome feminino	mo|[ne]|lha
+monelho	nome masculino	mo|[ne]|lho
+monema	nome masculino	mo|[ne]|ma
+monémero	nome masculino	mo|[né]|me|ro
+monêmero	nome masculino	mo|[nê]|me|ro
+monera	nome feminino	mo|[ne]|ra
+monere	nome feminino	mo|[ne]|re
+moneta	nome feminino	mo|[ne]|ta
+monetária	nome feminino	mo|ne|[tá]|ri|a
+monetariamente	advérbio	mo|ne|ta|ri|a|[men]|te
+monetário	adjetivo	mo|ne|[tá]|ri|o
+monetário	nome masculino	mo|ne|[tá]|ri|o
+monetarismo	nome masculino	mo|ne|ta|[ris]|mo
+monetarista	nome masculino	mo|ne|ta|[ris]|ta
+monetarista	adjetivo	mo|ne|ta|[ris]|ta
+monetarista	nome feminino	mo|ne|ta|[ris]|ta
+monetarístico	adjetivo	mo|ne|ta|[rís]|ti|co
+monete	nome masculino	mo|[ne]|te
+monetiforme	adjetivo	mo|ne|ti|[for]|me
+monetite	nome feminino	mo|ne|[ti]|te
+monetização	nome feminino	mo|ne|ti|za|[ção]
+monetizado	adjetivo	mo|ne|ti|[za]|do
+monetizar	verbo	mo|ne|ti|[zar]
+monetizável	adjetivo	mo|ne|ti|[zá]|vel
+monezilho	nome masculino	mo|ne|[zi]|lho
+monfi	nome masculino	mon|[fi]
+monfortense	nome masculino	mon|for|[ten]|se
+monfortense	adjetivo	mon|for|[ten]|se
+monfortense	nome feminino	mon|for|[ten]|se
+mongariça	nome feminino	mon|ga|[ri]|ça
+monge	nome masculino	[mon]|ge
+monge	nome feminino	[mon]|ge
+monge-do-mar	nome masculino	mon|ge-do-mar
+mongil	nome masculino	mon|[gil]
+mongil	adjetivo	mon|[gil]
+mongo	nome masculino	[mon]|go
+mongol	nome masculino	mon|[gol]
+mongol	adjetivo	mon|[gol]
+mongol	nome feminino	mon|[gol]
+mongolão	nome masculino	mon|go|[lão]
+mongólica	nome feminino	mon|[gó]|li|ca
+mongólico	adjetivo	mon|[gó]|li|co
+mongólico	nome masculino	mon|[gó]|li|co
+mongolismo	nome masculino	mon|go|[lis]|mo
+mongolista	adjetivo	mon|go|[lis]|ta
+mongolista	nome masculino	mon|go|[lis]|ta
+mongolista	nome feminino	mon|go|[lis]|ta
+mongolização	nome feminino	mon|go|li|za|[ção]
+mongolizar	verbo	mon|go|li|[zar]
+mongoloide	adjetivo	mon|go|[loi]|de
+mongoloide	nome masculino	mon|go|[loi]|de
+mongoloide	nome feminino	mon|go|[loi]|de
+mongu	nome masculino	mon|[gu]
+monha	nome feminino	[mo]|nha
+monhé	nome masculino	mo|[nhé]
+monhiço	nome masculino	mo|[nhi]|ço
+monho	nome masculino	[mo]|nho
+moni	nome feminino	mo|[ni]
+mônica	nome feminino	[mô]|ni|ca
+mónica	nome feminino	[mó]|ni|ca
+monição	nome feminino	mo|ni|[ção]
+monice	nome feminino	mo|[ni]|ce
+monices	nome feminino	mo|[ni]|ces
+monideísmo	nome masculino	mo|ni|de|[ís]|mo
+monidratado	adjetivo	mo|ni|dra|[ta]|do
+monidrato	nome masculino	mo|ni|[dra]|to
+monídrico	adjetivo	mo|[ní]|dri|co
+monília	nome feminino	mo|[ní]|li|a
+monilífero	adjetivo	mo|ni|[lí]|fe|ro
+moniliforme	adjetivo	mo|ni|li|[for]|me
+monilo	adjetivo	mo|[ni]|lo
+monímia	nome feminino	mo|[ní]|mi|a
+monimiácea	nome feminino	mo|ni|mi|[á]|ce|a
+monimiáceo	adjetivo	mo|ni|mi|[á]|ce|o
+monimólito	nome masculino	mo|ni|[mó]|li|to
+monismo	nome masculino	mo|[nis]|mo

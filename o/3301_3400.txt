@@ -1,0 +1,100 @@
+osmométrico	adjetivo	os|mo|[mé]|tri|co
+osmômetro	nome masculino	os|[mô]|me|tro
+osmómetro	nome masculino	os|[mó]|me|tro
+osmonda	nome feminino	os|[mon]|da
+osmorregulação	nome feminino	os|mor|re|gu|la|[ção]
+osmorregulador	nome masculino	os|mor|re|gu|la|[dor]
+osmorregulador	adjetivo	os|mor|re|gu|la|[dor]
+osmose	nome feminino	os|[mo]|se
+osmoticamente	advérbio	os|mo|ti|ca|[men]|te
+osmótico	adjetivo	os|[mó]|ti|co
+osmozómeo	adjetivo	os|mo|[zó]|me|o
+osmozômeo	adjetivo	os|mo|[zô]|me|o
+osmozomo	nome masculino	os|mo|[zo]|mo
+osmunda	nome feminino	os|[mun]|da
+osmundácea	nome feminino	os|mun|[dá]|ce|a
+osmundáceo	adjetivo	os|mun|[dá]|ce|o
+oso	adjetivo	[o]|so
+oso	nome masculino	[o]|so
+osória	nome feminino	o|[só]|ri|a
+osqueíte	nome feminino	os|que|[í]|te
+osqueocele	nome feminino	os|que|o|[ce]|le
+osqueólito	nome masculino	os|que|[ó]|li|to
+osqueoma	nome masculino	os|que|[o]|ma
+osqueoplastia	nome feminino	os|que|o|plas|[ti]|a
+osqueoplástico	adjetivo	os|que|o|[plás]|ti|co
+ossada	nome feminino	os|[sa]|da
+ossama	nome feminino	os|[sa]|ma
+ossame	nome masculino	os|[sa]|me
+óssame	nome masculino	[ós]|sa|me
+ossamenta	nome feminino	os|sa|[men]|ta
+ossamento	nome masculino	os|sa|[men]|to
+ossaria	nome feminino	os|sa|[ri]|a
+ossário	nome masculino	os|[sá]|ri|o
+ossatura	nome feminino	os|sa|[tu]|ra
+osseína	nome feminino	os|se|[í]|na
+ósseo	adjetivo	[ós]|se|o
+osseta	nome feminino	os|[se]|ta
+osseta	adjetivo	os|[se]|ta
+osseta	nome masculino	os|[se]|ta
+ossiandrianismo	nome masculino	os|si|an|dri|a|[nis]|mo
+ossiandriano	adjetivo	os|si|an|dri|[a]|no
+ossiandriano	nome masculino	os|si|an|dri|[a]|no
+ossianesco	adjetivo	os|si|a|[nes]|co
+ossiânico	adjetivo	os|si|[â]|ni|co
+ossianismo	nome masculino	os|si|a|[nis]|mo
+ossianista	adjetivo	os|si|a|[nis]|ta
+ossianista	nome masculino	os|si|a|[nis]|ta
+ossianista	nome feminino	os|si|a|[nis]|ta
+ossicos	nome masculino	os|[si]|cos
+ossiculado	adjetivo	os|si|cu|[la]|do
+ossicular	adjetivo	os|si|cu|[lar]
+ossículo	nome masculino	os|[sí]|cu|lo
+ossífero	adjetivo	os|[sí]|fe|ro
+ossificação	nome feminino	os|si|fi|ca|[ção]
+ossificado	adjetivo	os|si|fi|[ca]|do
+ossificador	adjetivo	os|si|fi|ca|[dor]
+ossificar	verbo	os|si|fi|[car]
+ossífico	adjetivo	os|[sí]|fi|co
+ossifluência	nome feminino	os|si|flu|[ên]|ci|a
+ossifluente	adjetivo	os|si|flu|[en]|te
+ossiforme	adjetivo	os|si|[for]|me
+ossífraga	nome feminino	os|[sí]|fra|ga
+ossífrago	nome masculino	os|[sí]|fra|go
+ossífrago	adjetivo	os|[sí]|fra|go
+ossinho	nome masculino	os|[si]|nho
+ossívoro	adjetivo	os|[sí]|vo|ro
+osso	nome masculino	[os]|so
+ossobó	nome masculino	os|so|[bó]
+ossobuco	nome masculino	os|so|[bu]|co
+ossuário	nome masculino	os|su|[á]|ri|o
+ossudo	adjetivo	os|[su]|do
+ossuoso	adjetivo	os|su|[o]|so
+ostaga	nome feminino	os|[ta]|ga
+ostagadura	nome feminino	os|ta|ga|[du]|ra
+ostagra	nome feminino	os|[ta]|gra
+oste	nome feminino	[os]|te
+ostealgia	nome feminino	os|te|al|[gi]|a
+osteálgico	adjetivo	os|te|[ál]|gi|co
+osteíde	nome masculino	os|te|[í]|de
+osteína	nome feminino	os|te|[í]|na
+osteíte	nome feminino	os|te|[í]|te
+ostensão	nome feminino	os|ten|[são]
+ostensibilidade	nome feminino	os|ten|si|bi|li|[da]|de
+ostensivamente	advérbio	os|ten|si|va|[men]|te
+ostensível	adjetivo	os|ten|[sí]|vel
+ostensivo	adjetivo	os|ten|[si]|vo
+ostensor	adjetivo	os|ten|[sor]
+ostensor	nome masculino	os|ten|[sor]
+ostensora	nome feminino	os|ten|[so]|ra
+ostensório	adjetivo	os|ten|[só]|ri|o
+ostensório	nome masculino	os|ten|[só]|ri|o
+ostentação	nome feminino	os|ten|ta|[ção]
+ostentador	adjetivo	os|ten|ta|[dor]
+ostentador	nome masculino	os|ten|ta|[dor]
+ostentadora	nome feminino	os|ten|ta|[do]|ra
+ostentar	verbo	os|ten|[tar]
+ostentativo	adjetivo	os|ten|ta|[ti]|vo
+ostentável	adjetivo	os|ten|[tá]|vel
+ostentosamente	advérbio	os|ten|to|sa|[men]|te
+ostentoso	adjetivo	os|ten|[to]|so

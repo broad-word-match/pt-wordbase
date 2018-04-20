@@ -1,0 +1,100 @@
+fremente	adjetivo	fre|[men]|te
+fremir	verbo	fre|[mir]
+frémito	nome masculino	[fré]|mi|to
+frêmito	nome masculino	[frê]|mi|to
+frenação	nome feminino	fre|na|[ção]
+frenador	adjetivo	fre|na|[dor]
+frenagem	nome feminino	fre|[na]|gem
+frenal	adjetivo	fre|[nal]
+frenalgia	nome feminino	fre|nal|[gi]|a
+frenálgico	adjetivo	fre|[nál]|gi|co
+frenar	verbo	fre|[nar]
+frendente	adjetivo	fren|[den]|te
+frender	verbo	fren|[der]
+frendor	nome masculino	fren|[dor]
+frenélia	nome feminino	fre|[né]|li|a
+frenesi	nome masculino	fre|ne|[si]
+frenesiar	verbo	fre|ne|si|[ar]
+frenesim	nome masculino	fre|ne|[sim]
+freneticamente	advérbio	fre|ne|ti|ca|[men]|te
+frenético	adjetivo	fre|[né]|ti|co
+frênico	adjetivo	[frê]|ni|co
+frénico	adjetivo	[fré]|ni|co
+frenite	nome feminino	fre|[ni]|te
+frenocardia	nome feminino	fre|no|car|[di]|a
+frenocardíaco	adjetivo	fre|no|car|[dí]|a|co
+frenologia	nome feminino	fre|no|lo|[gi]|a
+frenológico	adjetivo	fre|no|[ló]|gi|co
+frenologismo	nome masculino	fre|no|lo|[gis]|mo
+frenologista	nome masculino	fre|no|lo|[gis]|ta
+frenologista	nome feminino	fre|no|lo|[gis]|ta
+frenólogo	nome masculino	fre|[nó]|lo|go
+frenómetro	nome masculino	fre|[nó]|me|tro
+frenopata	nome masculino	fre|no|[pa]|ta
+frenopata	nome feminino	fre|no|[pa]|ta
+frenopatia	nome feminino	fre|no|pa|[ti]|a
+frenopático	adjetivo	fre|no|[pá]|ti|co
+frenosplénico	adjetivo	fre|nos|[plé]|ni|co
+frenosplênico	adjetivo	fre|nos|[plê]|ni|co
+frentaberta	nome feminino	fren|ta|[ber]|ta
+frentano	adjetivo	fren|[ta]|no
+frentano	nome masculino	fren|[ta]|no
+frente	nome feminino	[fren]|te
+frentear	verbo	fren|te|[ar]
+frentismo	nome masculino	fren|[tis]|mo
+frentista	nome masculino	fren|[tis]|ta
+frentista	nome feminino	fren|[tis]|ta
+frénulo	nome masculino	[fré]|nu|lo
+frênulo	nome masculino	[frê]|nu|lo
+frequência	nome feminino	fre|[quên]|ci|a
+frequencímetro	nome masculino	fre|quen|[cí]|me|tro
+frequentação	nome feminino	fre|quen|ta|[ção]
+frequentado	adjetivo	fre|quen|[ta]|do
+frequentador	adjetivo	fre|quen|ta|[dor]
+frequentador	nome masculino	fre|quen|ta|[dor]
+frequentadora	nome feminino	fre|quen|ta|[do]|ra
+frequentar	verbo	fre|quen|[tar]
+frequentativo	adjetivo	fre|quen|ta|[ti]|vo
+frequentativo	nome masculino	fre|quen|ta|[ti]|vo
+frequentável	adjetivo	fre|quen|[tá]|vel
+frequente	adjetivo	fre|[quen]|te
+frequentemente	advérbio	fre|quen|te|[men]|te
+fresa	nome feminino	[fre]|sa
+fresador	nome masculino	fre|sa|[dor]
+fresadora	nome feminino	fre|sa|[do]|ra
+fresagem	nome feminino	fre|[sa]|gem
+fresar	verbo	fre|[sar]
+fresca	nome feminino	[fres]|ca
+frescaço	adjetivo	fres|[ca]|ço
+frescal	adjetivo	fres|[cal]
+frescalhão	adjetivo	fres|ca|[lhão]
+frescalhote	adjetivo	fres|ca|[lho]|te
+frescamente	advérbio	fres|ca|[men]|te
+frescar	verbo	fres|[car]
+frescata	nome feminino	fres|[ca]|ta
+frescatar	verbo	fres|ca|[tar]
+frescateiro	adjetivo	fres|ca|[tei]|ro
+frescateiro	nome masculino	fres|ca|[tei]|ro
+fresco	nome masculino	[fres]|co
+fresco	adjetivo	[fres]|co
+frescor	nome masculino	fres|[cor]
+frescum	nome masculino	fres|[cum]
+frescura	nome feminino	fres|[cu]|ra
+fresquidão	nome feminino	fres|qui|[dão]
+fresquista	nome masculino	fres|[quis]|ta
+fresquista	nome feminino	fres|[quis]|ta
+fresquita	nome feminino	fres|[qui]|ta
+fressura	nome feminino	fres|[su]|ra
+fressureiro	nome masculino	fres|su|[rei]|ro
+fresta	nome feminino	[fres]|ta
+frestado	adjetivo	fres|[ta]|do
+frestão	nome masculino	fres|[tão]
+fretado	adjetivo	fre|[ta]|do
+fretador	nome masculino	fre|ta|[dor]
+fretadora	nome feminino	fre|ta|[do]|ra
+fretagem	nome feminino	fre|[ta]|gem
+fretamento	nome masculino	fre|ta|[men]|to
+fretar	verbo	fre|[tar]
+frete	nome masculino	[fre]|te
+freteiro	nome masculino	fre|[tei]|ro
+fretejador	adjetivo	fre|te|ja|[dor]

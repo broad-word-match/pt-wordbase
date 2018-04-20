@@ -1,0 +1,100 @@
+zanzibar	nome feminino	zan|zi|[bar]
+zanzibarita	nome masculino	zan|zi|ba|[ri]|ta
+zanzibarita	adjetivo	zan|zi|ba|[ri]|ta
+zanzibarita	nome feminino	zan|zi|ba|[ri]|ta
+zanzino	nome masculino	zan|[zi]|no
+zanzo	nome masculino	[zan]|zo
+zape	interjeição	[za]|pe
+zape	nome masculino	[za]|pe
+zápete	nome masculino	[zá]|pe|te
+zapetrape	nome masculino	za|pe|[tra]|pe
+zapoteca	adjetivo	za|po|[te]|ca
+zapoteca	nome masculino	za|po|[te]|ca
+zapoteca	nome feminino	za|po|[te]|ca
+zapping	nome masculino	[zap]|ping
+zapupe	nome masculino	za|[pu]|pe
+zaquiano	adjetivo	za|qui|[a]|no
+zarabatana	nome feminino	za|ra|ba|[ta]|na
+zarabatanada	nome feminino	za|ra|ba|ta|[na]|da
+zaracoteia	nome feminino	za|ra|co|[tei]|a
+zaragalhada	nome feminino	za|ra|ga|[lha]|da
+zaragata	nome feminino	za|ra|[ga]|ta
+zaragatar	verbo	za|ra|ga|[tar]
+zaragatear	verbo	za|ra|ga|te|[ar]
+zaragateira	nome feminino	za|ra|ga|[tei]|ra
+zaragateiro	adjetivo	za|ra|ga|[tei]|ro
+zaragateiro	nome masculino	za|ra|ga|[tei]|ro
+zaragatoa	nome feminino	za|ra|ga|[to]|a
+zaragatoadela	nome feminino	za|ra|ga|to|a|[de]|la
+zaragatoar	verbo	za|ra|ga|to|[ar]
+zaragota	nome feminino	za|ra|[go]|ta
+zaralha	adjetivo	za|[ra]|lha
+zaralha	nome feminino	za|[ra]|lha
+zaralhice	nome feminino	za|ra|[lhi]|ce
+zaralho	adjetivo	za|[ra]|lho
+zarambelho	nome masculino	za|ram|[be]|lho
+zarandalha	nome feminino	za|ran|[da]|lha
+zaranga	adjetivo	za|[ran]|ga
+zaranga	nome masculino	za|[ran]|ga
+zaranga	nome feminino	za|[ran]|ga
+zaranguilhar	verbo	za|ran|gui|[lhar]
+zaranza	adjetivo	za|[ran]|za
+zaranza	nome masculino	za|[ran]|za
+zaranza	nome feminino	za|[ran]|za
+zaranzar	verbo	za|ran|[zar]
+zarão	nome masculino	za|[rão]
+zarapelho	nome masculino	za|ra|[pe]|lho
+zarapilheira	nome feminino	za|ra|pi|[lhei]|ra
+zarasca	nome feminino	za|[ras]|ca
+zaravalho	nome masculino	za|ra|[va]|lho
+zarba	nome feminino	[zar]|ba
+zarcão	nome masculino	zar|[cão]
+zarco	adjetivo	[zar]|co
+zarcônio	nome masculino	zar|[cô]|ni|o
+zarcónio	nome masculino	zar|[có]|ni|o
+zaré	adjetivo	za|[ré]
+zarelhar	verbo	za|re|[lhar]
+zarelho	nome masculino	za|[re]|lho
+zareta	adjetivo	za|[re]|ta
+zareta	nome masculino	za|[re]|ta
+zareta	nome feminino	za|[re]|ta
+zargo	adjetivo	[zar]|go
+zargunchada	nome feminino	zar|gun|[cha]|da
+zargunchar	verbo	zar|gun|[char]
+zarguncho	nome masculino	zar|[gun]|cho
+zarigão	nome masculino	za|ri|[gão]
+zaro	nome masculino	[za]|ro
+zaroca	nome feminino	za|[ro]|ca
+zarolha	nome feminino	za|[ro]|lha
+zarolhar	verbo	za|ro|[lhar]
+zarolhice	nome feminino	za|ro|[lhi]|ce
+zarolho	adjetivo	za|[ro]|lho
+zarolho	nome masculino	za|[ro]|lho
+zarona	nome feminino	za|[ro]|na
+zarpar	verbo	zar|[par]
+zarro	adjetivo	[zar]|ro
+zarro	nome masculino	[zar]|ro
+zaruca	adjetivo	za|[ru]|ca
+zaruco	adjetivo	za|[ru]|co
+zarza	nome feminino	[zar]|za
+zarzagitânia	nome feminino	zar|za|gi|[tâ]|ni|a
+zarzuela	nome feminino	zar|zu|[e]|la
+zarzuelista	nome masculino	zar|zu|e|[lis]|ta
+zarzuelista	nome feminino	zar|zu|e|[lis]|ta
+zás	interjeição	[zás]
+zás-catrás	interjeição	zás-ca|[trás]
+zás-trás	interjeição	[zás-trás]
+zau	nome masculino	[zau]
+zavada	adjetivo	za|[va]|da
+zavado	adjetivo	za|[va]|do
+zavaneira	nome feminino	za|va|[nei]|ra
+zavar	verbo	za|[var]
+zavece	adjetivo	za|[ve]|ce
+zavece	nome masculino	za|[ve]|ce
+zavece	nome feminino	za|[ve]|ce
+zavra	nome feminino	[za]|vra
+zazo	nome masculino	[za]|zo
+zé	nome masculino	[zé]
+zê	nome masculino	[zê]
+zé da véstia	nome masculino	zé da vés|ti|a
+zé dos anzois	nome masculino	zé dos an|zois

@@ -1,0 +1,100 @@
+açórico	adjetivo	a|[çó]|ri|co
+acorínea	nome feminino	a|co|[rí]|ne|a
+acoríneo	adjetivo	a|co|[rí]|ne|o
+acorite	nome feminino	a|co|[ri]|te
+açorite	nome feminino	a|ço|[ri]|te
+acórmico	adjetivo	a|[cór]|mi|co
+acornar	verbo	a|cor|[nar]
+acoroçoado	adjetivo	a|co|ro|ço|[a]|do
+acoroçoador	nome masculino	a|co|ro|ço|a|[dor]
+acoroçoador	adjetivo	a|co|ro|ço|a|[dor]
+acoroçoadora	nome feminino	a|co|ro|ço|a|[do]|ra
+acoroçoamento	nome masculino	a|co|ro|ço|a|[men]|to
+acoroçoante	adjetivo	a|co|ro|ço|[an]|te
+acoroçoar	verbo	a|co|ro|ço|[ar]
+acoronhar	verbo	a|co|ro|[nhar]
+acorrentado	adjetivo	a|cor|ren|[ta]|do
+acorrentador	adjetivo	a|cor|ren|ta|[dor]
+acorrentador	nome masculino	a|cor|ren|ta|[dor]
+acorrentamento	nome masculino	a|cor|ren|ta|[men]|to
+acorrentar	verbo	a|cor|ren|[tar]
+acorrentável	adjetivo	a|cor|ren|[tá]|vel
+acorrer	verbo	a|cor|[rer]
+acorrilhado	adjetivo	a|cor|ri|[lha]|do
+acorrilhamento	nome masculino	a|cor|ri|lha|[men]|to
+acorrilhar	verbo	a|cor|ri|[lhar]
+acorro	nome masculino	a|[cor]|ro
+acortinado	adjetivo	a|cor|ti|[na]|do
+acortinamento	nome masculino	a|cor|ti|na|[men]|to
+acortinar	verbo	a|cor|ti|[nar]
+acoruchado	adjetivo	a|co|ru|[cha]|do
+acoruchar	verbo	a|co|ru|[char]
+acosmia	nome feminino	a|cos|[mi]|a
+acósmico	adjetivo	a|[cós]|mi|co
+acosmismo	nome masculino	a|cos|[mis]|mo
+acosmista	adjetivo	a|cos|[mis]|ta
+acosmista	nome masculino	a|cos|[mis]|ta
+acosmista	nome feminino	a|cos|[mis]|ta
+acosmístico	adjetivo	a|cos|[mís]|ti|co
+acosmo	nome masculino	a|[cos]|mo
+acossa	nome feminino	a|[cos]|sa
+acossado	adjetivo	a|cos|[sa]|do
+acossador	adjetivo	a|cos|sa|[dor]
+acossador	nome masculino	a|cos|sa|[dor]
+acossamento	nome masculino	a|cos|sa|[men]|to
+acossar	verbo	a|cos|[sar]
+acosso	nome masculino	a|[cos]|so
+acostado	adjetivo	a|cos|[ta]|do
+acostado	nome masculino	a|cos|[ta]|do
+acostagem	nome feminino	a|cos|[ta]|gem
+acostamento	nome masculino	a|cos|ta|[men]|to
+acostar	verbo	a|cos|[tar]
+acostável	adjetivo	a|cos|[tá]|vel
+acosto	nome masculino	a|[cos]|to
+acostumadamente	advérbio	a|cos|tu|ma|da|[men]|te
+acostumado	adjetivo	a|cos|tu|[ma]|do
+acostumado	nome masculino	a|cos|tu|[ma]|do
+acostumar	verbo	a|cos|tu|[mar]
+acostumável	adjetivo	a|cos|tu|[má]|vel
+açoteado	adjetivo	a|ço|te|[a]|do
+açotear	verbo	a|ço|te|[ar]
+açoteia	nome feminino	a|ço|[tei]|a
+acotiar	verbo	a|co|ti|[ar]
+acoticar	verbo	a|co|ti|[car]
+acotilédone	adjetivo	a|co|ti|[lé]|do|ne
+acotiledónea	nome feminino	a|co|ti|le|[dó]|ne|a
+acotiledônea	nome feminino	a|co|ti|le|[dô]|ne|a
+acotiledóneo	adjetivo	a|co|ti|le|[dó]|ne|o
+acotiledôneo	adjetivo	a|co|ti|le|[dô]|ne|o
+acótilo	adjetivo	a|[có]|ti|lo
+acótilo	nome masculino	a|[có]|ti|lo
+acotoamento	nome masculino	a|co|to|a|[men]|to
+acotoar	verbo	a|co|to|[ar]
+acotovelado	adjetivo	a|co|to|ve|[la]|do
+acotovelador	adjetivo	a|co|to|ve|la|[dor]
+acotovelador	nome masculino	a|co|to|ve|la|[dor]
+acotovelamento	nome masculino	a|co|to|ve|la|[men]|to
+acotovelar	verbo	a|co|to|ve|[lar]
+acotular	verbo	a|co|tu|[lar]
+acoturnado	adjetivo	a|co|tur|[na]|do
+acouçar	verbo	a|cou|[çar]
+acouceador	adjetivo	a|cou|ce|a|[dor]
+acouceador	nome masculino	a|cou|ce|a|[dor]
+acouceamento	nome masculino	a|cou|ce|a|[men]|to
+acoucear	verbo	a|cou|ce|[ar]
+açougada	nome feminino	a|çou|[ga]|da
+açougagem	nome feminino	a|çou|[ga]|gem
+açougaria	nome feminino	a|çou|ga|[ri]|a
+açougue	nome masculino	a|[çou]|gue
+açougueiro	nome masculino	a|çou|[guei]|ro
+acouraçado	adjetivo	a|cou|ra|[ça]|do
+acouraçar	verbo	a|cou|ra|[çar]
+acourado	adjetivo	a|cou|[ra]|do
+acourelamento	nome masculino	a|cou|re|la|[men]|to
+acourelar	verbo	a|cou|re|[lar]
+açouta-cavalos	nome masculino	a|çou|ta-ca|[va]|los
+açoutadiço	adjetivo	a|çou|ta|[di]|ço
+açoutado	adjetivo	a|çou|[ta]|do
+acoutado	adjetivo	a|cou|[ta]|do
+acoutador	adjetivo	a|cou|ta|[dor]
+acoutador	nome masculino	a|cou|ta|[dor]

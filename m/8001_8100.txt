@@ -1,0 +1,100 @@
+mioloso	adjetivo	mi|o|[lo]|so
+mioludo	adjetivo	mi|o|[lu]|do
+mioma	nome masculino	mi|[o]|ma
+miomalacia	nome feminino	mi|o|ma|la|[ci]|a
+miomancia	nome feminino	mi|o|man|[ci]|a
+miomante	nome masculino	mi|o|[man]|te
+miomante	nome feminino	mi|o|[man]|te
+miomântico	adjetivo	mi|o|[mân]|ti|co
+miomatoso	adjetivo	mi|o|ma|[to]|so
+miomectomia	nome feminino	mi|o|mec|to|[mi]|a
+miomectômico	adjetivo	mi|o|mec|[tô]|mi|co
+miomectómico	adjetivo	mi|o|mec|[tó]|mi|co
+miomérico	adjetivo	mi|o|[mé]|ri|co
+miomério	nome masculino	mi|o|[mé]|ri|o
+miomerização	nome feminino	mi|o|me|ri|za|[ção]
+miómero	nome masculino	mi|[ó]|me|ro
+miômero	nome masculino	mi|[ô]|me|ro
+miometrite	nome feminino	mi|o|me|[tri]|te
+miómetro	nome masculino	mi|[ó]|me|tro
+miômetro	nome masculino	mi|[ô]|me|tro
+miondona	nome feminino	mi|on|[do]|na
+mioneural	adjetivo	mi|o|neu|[ral]
+mionga	nome feminino	mi|[on]|ga
+miongos	nome masculino	mi|[on]|gos
+mioparão	nome masculino	mi|o|pa|[rão]
+miopatia	nome feminino	mi|o|pa|[ti]|a
+miopático	adjetivo	mi|o|[pá]|ti|co
+míope	nome masculino	[mí]|o|pe
+míope	adjetivo	[mí]|o|pe
+míope	nome feminino	[mí]|o|pe
+miopia	nome feminino	mi|o|[pi]|a
+miopismo	nome masculino	mi|o|[pis]|mo
+mioplasma	nome masculino	mi|o|[plas]|ma
+mioplasmático	adjetivo	mi|o|plas|[má]|ti|co
+mioplastia	nome feminino	mi|o|plas|[ti]|a
+mioplástico	adjetivo	mi|o|[plás]|ti|co
+mioporácea	nome feminino	mi|o|po|[rá]|ce|a
+miopórea	nome feminino	mi|o|[pó]|re|a
+mioporíneo	adjetivo	mi|o|po|[rí]|ne|o
+mióporo	nome masculino	mi|[ó]|po|ro
+miopótamo	nome masculino	mi|o|[pó]|ta|mo
+miopráctico	adjetivo	mi|o|[prác]|ti|co
+mioprático	adjetivo	mi|o|[prá]|ti|co
+miopraxia	nome feminino	mi|o|pra|[xi]|a
+miopresbita	adjetivo	mi|o|pres|[bi]|ta
+miopresbita	nome masculino	mi|o|pres|[bi]|ta
+miopresbita	nome feminino	mi|o|pres|[bi]|ta
+miorrafia	nome feminino	mi|or|ra|[fi]|a
+miorráfico	adjetivo	mi|or|[rá]|fi|co
+miorragia	nome feminino	mi|or|ra|[gi]|a
+miorrágico	adjetivo	mi|or|[rá]|gi|co
+miosalgia	nome feminino	mi|o|sal|[gi]|a
+miose	nome feminino	mi|[o]|se
+miosina	nome feminino	mi|o|[si]|na
+miosite	nome feminino	mi|o|[si]|te
+miosota	nome feminino	mi|o|[so]|ta
+miosótide	nome feminino	mi|o|[só]|ti|de
+miosótis	nome masculino	mi|o|[só]|tis
+miospasia	nome feminino	mi|os|pa|[si]|a
+miosteoma	nome masculino	mi|os|te|[o]|ma
+miosuro	nome masculino	mi|o|[su]|ro
+miótico	adjetivo	mi|[ó]|ti|co
+mioto	nome masculino	mi|[o]|to
+miotomia	nome feminino	mi|o|to|[mi]|a
+miotômico	adjetivo	mi|o|[tô]|mi|co
+miotómico	adjetivo	mi|o|[tó]|mi|co
+miótomo	nome masculino	mi|[ó]|to|mo
+miotonia	nome feminino	mi|o|to|[ni]|a
+mique	nome masculino	[mi]|que
+miqueado	adjetivo	mi|que|[a]|do
+miquelete	nome masculino	mi|que|[le]|te
+mir	nome masculino	[mir]
+mira	nome feminino	[mi]|ra
+mira-mar	nome masculino	mi|ra-mar
+mira-olho	nome masculino	mi|ra-o|lho
+mira-olho	adjetivo	mi|ra-o|lho
+mira-sol	nome masculino	mi|ra-sol
+mirabanda	nome feminino	mi|ra|[ban]|da
+mirabela	nome feminino	mi|ra|[be]|la
+mirabolância	nome feminino	mi|ra|bo|[lân]|ci|a
+mirabolante	adjetivo	mi|ra|bo|[lan]|te
+mirabolantemente	advérbio	mi|ra|bo|lan|te|[men]|te
+miracema	nome feminino	mi|ra|[ce]|ma
+miraculada	nome feminino	mi|ra|cu|[la]|da
+miraculado	nome masculino	mi|ra|cu|[la]|do
+miraculado	adjetivo	mi|ra|cu|[la]|do
+miracular	verbo	mi|ra|cu|[lar]
+miraculosamente	advérbio	mi|ra|cu|lo|sa|[men]|te
+miraculoso	adjetivo	mi|ra|cu|[lo]|so
+mirada	nome feminino	mi|[ra]|da
+miradoiro	nome masculino	mi|ra|[doi]|ro
+miradouro	nome masculino	mi|ra|[dou]|ro
+miragaia	nome feminino	mi|ra|[gai]|a
+miragem	nome feminino	mi|[ra]|gem
+miralmuminim	nome masculino	mi|ral|mu|mi|[nim]
+miramento	nome masculino	mi|ra|[men]|to
+miramolim	nome masculino	mi|ra|mo|[lim]
+mirandeiro	adjetivo	mi|ran|[dei]|ro
+mirandelense	nome masculino	mi|ran|de|[len]|se
+mirandelense	adjetivo	mi|ran|de|[len]|se

@@ -1,0 +1,100 @@
+abaixamento	nome masculino	a|bai|xa|[men]|to
+abaixante	adjetivo	a|bai|[xan]|te
+abaixante	nome masculino	a|bai|[xan]|te
+abaixante	nome feminino	a|bai|[xan]|te
+abaixar	verbo	a|bai|[xar]
+abaixável	adjetivo	a|bai|[xá]|vel
+abaixo	advérbio	a|[bai]|xo
+abaixo	interjeição	a|[bai]|xo
+abaixo-assinado	nome masculino	a|bai|xo-as|si|[na]|do
+abajeru	nome masculino	a|ba|je|[ru]
+abajoujado	adjetivo	a|ba|jou|[ja]|do
+abajoujamento	nome masculino	a|ba|jou|ja|[men]|to
+abajoujar	verbo	a|ba|jou|[jar]
+abajur	nome masculino	a|ba|[jur]
+abalada	nome feminino	a|ba|[la]|da
+abaladela	nome feminino	a|ba|la|[de]|la
+abaladiço	adjetivo	a|ba|la|[di]|ço
+abalado	adjetivo	a|ba|[la]|do
+abalador	adjetivo	a|ba|la|[dor]
+abalador	nome masculino	a|ba|la|[dor]
+abaladura	nome feminino	a|ba|la|[du]|ra
+abalaiado	adjetivo	a|ba|lai|[a]|do
+abalamento	nome masculino	a|ba|la|[men]|to
+abalançado	adjetivo	a|ba|lan|[ça]|do
+abalançamento	nome masculino	a|ba|lan|ça|[men]|to
+abalançar	verbo	a|ba|lan|[çar]
+abalar	verbo	a|ba|[lar]
+abalaustrado	adjetivo	a|ba|la|us|[tra]|do
+abalaustramento	nome masculino	a|ba|la|us|tra|[men]|to
+abalaustrar	verbo	a|ba|la|us|[trar]
+abalaustrável	adjetivo	a|ba|laus|[trá]|vel
+abalável	adjetivo	a|ba|[lá]|vel
+abalçado	adjetivo	a|bal|[ça]|do
+abalçar	verbo	a|bal|[çar]
+abaliedade	nome feminino	a|ba|li|e|[da]|de
+abalienação	nome feminino	a|ba|li|e|na|[ção]
+abalienado	adjetivo	a|ba|li|e|[na]|do
+abalienar	verbo	a|ba|li|e|[nar]
+abalienável	adjetivo	a|ba|li|e|[ná]|vel
+abalistado	adjetivo	a|ba|lis|[ta]|do
+abalistar	verbo	a|ba|lis|[tar]
+abalizadamente	advérbio	a|ba|li|za|da|[men]|te
+abalizado	adjetivo	a|ba|li|[za]|do
+abalizador	nome masculino	a|ba|li|za|[dor]
+abalizador	adjetivo	a|ba|li|za|[dor]
+abalizamento	nome masculino	a|ba|li|za|[men]|to
+abalizante	adjetivo	a|ba|li|[zan]|te
+abalizar	verbo	a|ba|li|[zar]
+abalo	nome masculino	a|[ba]|lo
+abaloado	adjetivo	a|ba|lo|[a]|do
+abaloamento	nome masculino	a|ba|lo|a|[men]|to
+abaloar	verbo	a|ba|lo|[ar]
+abalofado	adjetivo	a|ba|lo|[fa]|do
+abalofar	verbo	a|ba|lo|[far]
+abalona	nome feminino	a|ba|[lo]|na
+abalonado	adjetivo	a|ba|lo|[na]|do
+abalonamento	nome masculino	a|ba|lo|na|[men]|to
+abalonar	verbo	a|ba|lo|[nar]
+abalone	nome masculino	a|ba|[lo]|ne
+abaloso	adjetivo	a|ba|[lo]|so
+abalroa	nome feminino	a|bal|[ro]|a
+abalroação	nome feminino	a|bal|ro|a|[ção]
+abalroada	nome feminino	a|bal|ro|[a]|da
+abalroadela	nome feminino	a|bal|ro|a|[de]|la
+abalroado	adjetivo	a|bal|ro|[a]|do
+abalroador	nome masculino	a|bal|ro|a|[dor]
+abalroador	adjetivo	a|bal|ro|a|[dor]
+abalroadora	nome feminino	a|bal|ro|a|[do]|ra
+abalroamento	nome masculino	a|bal|ro|a|[men]|to
+abalroante	adjetivo	a|bal|ro|[an]|te
+abalroar	verbo	a|bal|ro|[ar]
+abalroável	adjetivo	a|bal|ro|[á]|vel
+abalsado	adjetivo	a|bal|[sa]|do
+abalsamado	adjetivo	a|bal|sa|[ma]|do
+abalsamar	verbo	a|bal|sa|[mar]
+abalsar	verbo	a|bal|[sar]
+abalseirar	verbo	a|bal|sei|[rar]
+abaluartado	adjetivo	a|ba|lu|ar|[ta]|do
+abaluartamento	nome masculino	a|ba|lu|ar|ta|[men]|to
+abaluartar	verbo	a|ba|lu|ar|[tar]
+abalumar	verbo	a|ba|lu|[mar]
+abama	nome feminino	a|[ba]|ma
+abambalhado	adjetivo	a|bam|ba|[lha]|do
+abambolinado	adjetivo	a|bam|bo|li|[na]|do
+abambolinar	verbo	a|bam|bo|li|[nar]
+abambresense	adjetivo	a|bam|bre|[sen]|se
+abambresense	nome feminino	a|bam|bre|[sen]|se
+abambresense	nome masculino	a|bam|bre|[sen]|se
+abâmea	nome feminino	a|[bâ]|me|a
+abana-mosca	nome masculino	a|ba|na-mos|ca
+abanação	nome feminino	a|ba|na|[ção]
+abanadela	nome feminino	a|ba|na|[de]|la
+abanado	adjetivo	a|ba|[na]|do
+abanador	nome masculino	a|ba|na|[dor]
+abanadura	nome feminino	a|ba|na|[du]|ra
+abanadura	nome masculino	a|ba|na|[du]|ra
+abanamento	nome masculino	a|ba|na|[men]|to
+abananado	adjetivo	a|ba|na|[na]|do
+abananar	verbo	a|ba|na|[nar]
+abanante	adjetivo	a|ba|[nan]|te

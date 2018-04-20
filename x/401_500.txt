@@ -1,0 +1,100 @@
+xifópago	nome masculino	xi|[fó]|pa|go
+xifosternal	adjetivo	xi|fos|ter|[nal]
+xifosterno	nome masculino	xi|fos|[ter]|no
+xifosuro	nome masculino	xi|fo|[su]|ro
+xifuro	nome masculino	xi|[fu]|ro
+xigogo	nome masculino	xi|[go]|go
+xigono	nome masculino	xi|[go]|no
+xigubo	nome masculino	xi|[gu]|bo
+xigugo	nome masculino	xi|[gu]|go
+xiismo	nome masculino	xi|[is]|mo
+xiita	nome masculino	xi|[i]|ta
+xiita	adjetivo	xi|[i]|ta
+xiita	nome feminino	xi|[i]|ta
+xila	nome feminino	[xi]|la
+xilarmónico	nome masculino	xi|lar|[mó]|ni|co
+xilarmônico	nome masculino	xi|lar|[mô]|ni|co
+xilema	nome masculino	xi|[le]|ma
+xilemático	adjetivo	xi|le|[má]|ti|co
+xilena	nome feminino	xi|[le]|na
+xilénico	adjetivo	xi|[lé]|ni|co
+xilênico	adjetivo	xi|[lê]|ni|co
+xilênio	nome masculino	xi|[lê]|ni|o
+xilénio	nome masculino	xi|[lé]|ni|o
+xileno	nome masculino	xi|[le]|no
+xilenopolitano	adjetivo	xi|le|no|po|li|[ta]|no
+xilenopolitano	nome masculino	xi|le|no|po|li|[ta]|no
+xilenopolitano	nome feminino	xi|le|no|po|li|[ta]|no
+xílico	adjetivo	[xí]|li|co
+xilidato	nome masculino	xi|li|[da]|to
+xilídico	adjetivo	xi|[lí]|di|co
+xilidina	nome feminino	xi|li|[di]|na
+xilindró	nome masculino	xi|lin|[dró]
+xilite	nome feminino	xi|[li]|te
+xilo	nome masculino	[xi]|lo
+xilobálsamo	nome masculino	xi|lo|[bál]|sa|mo
+xilocarpo	nome masculino	xi|lo|[car]|po
+xilocarpo	adjetivo	xi|lo|[car]|po
+xilocopídeo	adjetivo	xi|lo|co|[pí]|de|o
+xilocopídeos	nome masculino	xi|lo|co|[pí]|de|os
+xilócopo	adjetivo	xi|[ló]|co|po
+xilocultura	nome feminino	xi|lo|cul|[tu]|ra
+xilódio	nome masculino	xi|[ló]|di|o
+xilofagia	nome feminino	xi|lo|fa|[gi]|a
+xilofágico	adjetivo	xi|lo|[fá]|gi|co
+xilófago	adjetivo	xi|[ló]|fa|go
+xilófago	nome masculino	xi|[ló]|fa|go
+xilófilo	adjetivo	xi|[ló]|fi|lo
+xilofilo	nome masculino	xi|lo|[fi]|lo
+xilófilo	nome masculino	xi|[ló]|fi|lo
+xilófito	nome masculino	xi|[ló]|fi|to
+xilofone	nome masculino	xi|lo|[fo]|ne
+xilofonista	nome masculino	xi|lo|fo|[nis]|ta
+xilofonista	nome feminino	xi|lo|fo|[nis]|ta
+xilóforo	nome masculino	xi|[ló]|fo|ro
+xilogénio	nome masculino	xi|lo|[gé]|ni|o
+xilogênio	nome masculino	xi|lo|[gê]|ni|o
+xilógeno	adjetivo	xi|[ló]|ge|no
+xiloglifia	nome feminino	xi|lo|gli|[fi]|a
+xiloglífico	adjetivo	xi|lo|[glí]|fi|co
+xilóglifo	nome masculino	xi|[ló]|gli|fo
+xilografar	verbo	xi|lo|gra|[far]
+xilografia	nome feminino	xi|lo|gra|[fi]|a
+xilográfico	adjetivo	xi|lo|[grá]|fi|co
+xilógrafo	adjetivo	xi|[ló]|gra|fo
+xilógrafo	nome masculino	xi|[ló]|gra|fo
+xilogravador	adjetivo	xi|lo|gra|va|[dor]
+xilogravador	nome masculino	xi|lo|gra|va|[dor]
+xilogravadora	nome feminino	xi|lo|gra|va|[do]|ra
+xilogravar	verbo	xi|lo|gra|[var]
+xilogravura	nome feminino	xi|lo|gra|[vu]|ra
+xilogravurista	adjetivo	xi|lo|gra|vu|[ris]|ta
+xilogravurista	nome masculino	xi|lo|gra|vu|[ris]|ta
+xilogravurista	nome feminino	xi|lo|gra|vu|[ris]|ta
+xiloide	adjetivo	xi|[loi]|de
+xilóidico	adjetivo	xi|[lói]|di|co
+xiloidina	nome feminino	xi|loi|[di]|na
+xilol	nome masculino	xi|[lol]
+xilólatra	nome masculino	xi|[ló]|la|tra
+xilólatra	nome feminino	xi|[ló]|la|tra
+xilolatria	nome feminino	xi|lo|la|[tri]|a
+xilolátrico	adjetivo	xi|lo|[lá]|tri|co
+xilólito	nome masculino	xi|[ló]|li|to
+xilologia	nome feminino	xi|lo|lo|[gi]|a
+xilológico	adjetivo	xi|lo|[ló]|gi|co
+xilólogo	nome masculino	xi|[ló]|lo|go
+xiloma	nome masculino	xi|[lo]|ma
+xilomancia	nome feminino	xi|lo|man|[ci]|a
+xilomante	nome masculino	xi|lo|[man]|te
+xilomante	nome feminino	xi|lo|[man]|te
+xilomântico	adjetivo	xi|lo|[mân]|ti|co
+xilometria	nome feminino	xi|lo|me|[tri]|a
+xilométrico	adjetivo	xi|lo|[mé]|tri|co
+xilomicete	adjetivo	xi|lo|mi|[ce]|te
+xílon	nome masculino	[xí]|lon
+xilópia	nome feminino	xi|[ló]|pi|a
+xilopódio	nome masculino	xi|lo|[pó]|di|o
+xilopolitano	adjetivo	xi|lo|po|li|[ta]|no
+xilopolitano	nome masculino	xi|lo|po|li|[ta]|no
+xilórgão	nome masculino	xi|[lór]|gão
+xilorretina	nome feminino	xi|lor|re|[ti]|na

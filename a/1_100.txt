@@ -1,0 +1,100 @@
+a	artigo definido	a
+a	preposição	a
+á-bê-cê	nome masculino	[á-bê-cê]
+á-é-i-ó-u	nome masculino	[á-é-i-ó-u]
+a-pedido	nome masculino	a-pe|[di]|do
+a-propósito	nome masculino	a-pro|[pó]|si|to
+a-tempo	nome masculino	a-tem|po
+à-toa	adjetivo	à-to|a
+à-toinha	adjetivo	à-to|[i]|nha
+à-vontade	nome masculino	à-von|[ta]|de
+aa	nome feminino	[a]|a
+aabora	nome feminino	a|a|[bo]|ra
+aacheniano	nome masculino	aa|che|ni|a|no
+aacheniano	adjetivo	aa|che|ni|a|no
+aal	nome masculino	a|[al]
+aaleniano	adjetivo	a|a|le|ni|[a]|no
+aaleniense	adjetivo	aa|le|ni|en|se
+aaleniense	nome masculino	aa|le|ni|en|se
+aaleniense	nome feminino	aa|le|ni|en|se
+aalênio	nome masculino	a|a|[lê]|ni|o
+aalénio	nome masculino	a|a|[lé]|ni|o
+aarônico	adjetivo	a|a|[rô]|ni|co
+aarónico	adjetivo	a|a|[ró]|ni|co
+aarônida	nome masculino	a|a|[rô]|ni|da
+aarônida	adjetivo	a|a|[rô]|ni|da
+aarônida	nome feminino	a|a|[rô]|ni|da
+aarónida	adjetivo	a|a|[ró]|ni|da
+aarónida	nome masculino	a|a|[ró]|ni|da
+aarónida	nome feminino	a|a|[ró]|ni|da
+aaronita	nome masculino	a|a|ro|[ni]|ta
+ab-reação	nome feminino	ab-re|a|[ção]
+ab-reativo	adjetivo	ab-re|a|[ti]|vo
+ab-repticiamente	advérbio	ab-rep|ti|ci|a|[men]|te
+ab-reptício	adjetivo	ab-rep|[tí]|ci|o
+ab-rogação	nome feminino	ab-ro|ga|[ção]
+ab-rogado	adjetivo	ab-ro|[ga]|do
+ab-rogador	adjetivo	ab-ro|ga|[dor]
+ab-rogador	nome masculino	ab-ro|ga|[dor]
+ab-rogamento	nome masculino	ab-ro|ga|[men]|to
+ab-rogante	nome masculino	ab-ro|[gan]|te
+ab-rogante	nome feminino	ab-ro|[gan]|te
+ab-rogante	adjetivo	ab-ro|[gan]|te
+ab-rogar	verbo	ab-ro|[gar]
+ab-rogativo	adjetivo	ab-ro|ga|[ti]|vo
+ab-rogatório	adjetivo	ab-ro|ga|[tó]|ri|o
+ab-rogável	adjetivo	ab-ro|[gá]|vel
+aba	nome masculino	[a]|ba
+aba	nome feminino	[a]|ba
+ababá	nome masculino	a|ba|[bá]
+ababá	nome feminino	a|ba|[bá]
+ababá	adjetivo	a|ba|[bá]
+ababalhado	adjetivo	a|ba|ba|[lha]|do
+ababalhar	verbo	a|ba|ba|[lhar]
+ababelado	adjetivo	a|ba|be|[la]|do
+ababelar	verbo	a|ba|be|[lar]
+ababosado	adjetivo	a|ba|bo|[sa]|do
+ababosar	verbo	a|ba|bo|[sar]
+abacá	nome masculino	a|ba|[cá]
+abacalhoadamente	advérbio	a|ba|ca|lho|a|da|[men]|te
+abacalhoado	adjetivo	a|ba|ca|lho|[a]|do
+abacalhoar	verbo	a|ba|ca|lho|[ar]
+abacamartado	adjetivo	a|ba|ca|mar|[ta]|do
+abaçanado	adjetivo	a|ba|ça|[na]|do
+abaçanar	verbo	a|ba|ça|[nar]
+abacanto	nome masculino	a|ba|[can]|to
+abacate	adjetivo	a|ba|[ca]|te
+abacate	nome masculino	a|ba|[ca]|te
+abacate	nome feminino	a|ba|[ca]|te
+abacateira	nome feminino	a|ba|ca|[tei]|ra
+abacateiro	nome masculino	a|ba|ca|[tei]|ro
+abacaxi	adjetivo	a|ba|ca|[xi]
+abacaxi	nome masculino	a|ba|ca|[xi]
+abacaxi	nome feminino	a|ba|ca|[xi]
+abacelado	adjetivo	a|ba|ce|[la]|do
+abacelamento	nome masculino	a|ba|ce|la|[men]|to
+abacelar	verbo	a|ba|ce|[lar]
+abacelável	adjetivo	a|ba|ce|[lá]|vel
+abacenino	adjetivo	a|ba|ce|[ni]|no
+abacenino	nome masculino	a|ba|ce|[ni]|no
+abacense	adjetivo	a|ba|[cen]|se
+abacense	nome masculino	a|ba|[cen]|se
+abacense	nome feminino	a|ba|[cen]|se
+abacharelado	adjetivo	a|ba|cha|re|[la]|do
+abacharelar	verbo	a|ba|cha|re|[lar]
+abacial	adjetivo	a|ba|ci|[al]
+abacinado	adjetivo	a|ba|ci|[na]|do
+abacinamento	nome masculino	a|ba|ci|na|[men]|to
+abacinar	verbo	a|ba|ci|[nar]
+abacisco	nome masculino	a|ba|[cis]|co
+abacista	nome masculino	a|ba|[cis]|ta
+abacista	nome feminino	a|ba|[cis]|ta
+ábaco	nome masculino	[á]|ba|co
+abacomitato	nome masculino	a|ba|co|mi|[ta]|to
+abacómite	nome masculino	a|ba|[có]|mi|te
+abacômite	nome masculino	a|ba|[cô]|mi|te
+abacto	nome masculino	a|[bac]|to
+abactor	nome masculino	a|bac|[tor]
+abáculo	nome masculino	a|[bá]|cu|lo
+abada	nome feminino	a|[ba]|da
+abadado	nome masculino	a|ba|[da]|do

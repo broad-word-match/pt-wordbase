@@ -1,0 +1,100 @@
+combinador	nome masculino	com|bi|na|[dor]
+combinar	verbo	com|bi|[nar]
+combinata	nome feminino	com|bi|[na]|ta
+combinativo	adjetivo	com|bi|na|[ti]|vo
+combinatória	nome feminino	com|bi|na|[tó]|ri|a
+combinatório	adjetivo	com|bi|na|[tó]|ri|o
+combinável	adjetivo	com|bi|[ná]|vel
+combo	nome masculino	[com]|bo
+combói	nome masculino	com|[bói]
+comboia	nome feminino	com|[boi]|a
+comboiamento	nome masculino	com|boi|a|[men]|to
+comboiar	verbo	com|boi|[ar]
+comboieiro	nome masculino	com|boi|[ei]|ro
+comboieiro	adjetivo	com|boi|[ei]|ro
+comboio	nome masculino	com|[boi]|o
+comboio-correio	nome masculino	com|boi|o-cor|[rei]|o
+comboiozinho	nome masculino	com|boi|o|[zi]|nho
+combona	nome feminino	com|[bo]|na
+comborça	nome feminino	com|[bor]|ça
+comborçaria	nome feminino	com|bor|ça|[ri]|a
+comborço	nome masculino	com|[bor]|ço
+combretácea	nome feminino	com|bre|[tá]|ce|a
+combretáceo	adjetivo	com|bre|[tá]|ce|o
+combreto	nome masculino	com|[bre]|to
+combro	nome masculino	[com]|bro
+comburência	nome feminino	com|bu|[rên]|ci|a
+comburente	nome masculino	com|bu|[ren]|te
+comburente	adjetivo	com|bu|[ren]|te
+comburido	adjetivo	com|bu|[ri]|do
+comburir	verbo	com|bu|[rir]
+combustão	nome feminino	com|bus|[tão]
+combustar	verbo	com|bus|[tar]
+combustibilidade	nome feminino	com|bus|ti|bi|li|[da]|de
+combustível	nome masculino	com|bus|[tí]|vel
+combustível	adjetivo	com|bus|[tí]|vel
+combustivo	adjetivo	com|bus|[ti]|vo
+combusto	adjetivo	com|[bus]|to
+combustor	nome masculino	com|bus|[tor]
+come-gente	nome masculino	co|me-gen|te
+come-lhe-tudo	adjetivo	co|me-lhe-tu|do
+come-todos	nome masculino	co|me-to|dos
+começador	adjetivo	co|me|ça|[dor]
+começador	nome masculino	co|me|ça|[dor]
+começante	adjetivo	co|me|[çan]|te
+começante	nome masculino	co|me|[çan]|te
+começante	nome feminino	co|me|[çan]|te
+começar	verbo	co|me|[çar]
+comecilho	nome masculino	co|me|[ci]|lho
+começo	nome masculino	co|[me]|ço
+comedão	nome masculino	co|me|[dão]
+comedeira	nome feminino	co|me|[dei]|ra
+comedeiro	adjetivo	co|me|[dei]|ro
+comedeiro	nome masculino	co|me|[dei]|ro
+comedela	nome feminino	co|me|[de]|la
+comédia	nome feminino	co|[mé]|di|a
+comedia	nome feminino	co|me|[di]|a
+comediador	nome masculino	co|me|di|a|[dor]
+comediante	nome masculino	co|me|di|[an]|te
+comediante	nome feminino	co|me|di|[an]|te
+comediante	adjetivo	co|me|di|[an]|te
+comedidamente	advérbio	co|me|di|da|[men]|te
+comedido	adjetivo	co|me|[di]|do
+comedimento	nome masculino	co|me|di|[men]|to
+comediografia	nome feminino	co|me|di|o|gra|[fi]|a
+comediográfico	adjetivo	co|me|di|o|[grá]|fi|co
+comediógrafo	nome masculino	co|me|di|[ó]|gra|fo
+comedir	verbo	co|me|[dir]
+comedogénico	adjetivo	co|me|do|[gé]|ni|co
+comedoiro	nome masculino	co|me|[doi]|ro
+comedor	adjetivo	co|me|[dor]
+comedor	nome masculino	co|me|[dor]
+comedora	nome feminino	co|me|[do]|ra
+comedoria	nome feminino	co|me|do|[ri]|a
+comedouro	adjetivo	co|me|[dou]|ro
+comedouro	nome masculino	co|me|[dou]|ro
+comelina	nome feminino	co|me|[li]|na
+comelinácea	nome feminino	co|me|li|[ná]|ce|a
+comelináceo	adjetivo	co|me|li|[ná]|ce|o
+comemorabilidade	nome feminino	co|me|mo|ra|bi|li|[da]|de
+comemoração	nome feminino	co|me|mo|ra|[ção]
+comemorador	nome masculino	co|me|mo|ra|[dor]
+comemorando	adjetivo	co|me|mo|[ran]|do
+comemorar	verbo	co|me|mo|[rar]
+comemorativo	adjetivo	co|me|mo|ra|[ti]|vo
+comemorável	adjetivo	co|me|mo|[rá]|vel
+comenda	nome feminino	co|[men]|da
+comendadeira	nome feminino	co|men|da|[dei]|ra
+comendador	nome masculino	co|men|da|[dor]
+comendadoria	nome feminino	co|men|da|do|[ri]|a
+comendataria	nome feminino	co|men|da|ta|[ri]|a
+comendatário	adjetivo	co|men|da|[tá]|ri|o
+comendatário	nome masculino	co|men|da|[tá]|ri|o
+comendatício	adjetivo	co|men|da|[tí]|ci|o
+comendativo	adjetivo	co|men|da|[ti]|vo
+comendatório	adjetivo	co|men|da|[tó]|ri|o
+comenos	nome masculino	co|[me]|nos
+comensal	nome masculino	co|men|[sal]
+comensal	nome feminino	co|men|[sal]
+comensalício	adjetivo	co|men|sa|[lí]|ci|o
+comensalidade	nome feminino	co|men|sa|li|[da]|de

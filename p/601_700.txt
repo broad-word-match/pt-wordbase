@@ -1,0 +1,100 @@
+paleótipo	nome masculino	pa|le|[ó]|ti|po
+paleozoico	adjetivo	pa|le|o|[zoi]|co
+paleozoico	nome masculino	pa|le|o|[zoi]|co
+paleozoologia	nome feminino	pa|le|o|zo|o|lo|[gi]|a
+paleozoológico	adjetivo	pa|le|o|zo|o|[ló]|gi|co
+paleozoologista	nome masculino	pa|le|o|zo|o|lo|[gis]|ta
+paleozoologista	nome feminino	pa|le|o|zo|o|lo|[gis]|ta
+paleozoólogo	nome masculino	pa|le|o|zo|[ó]|lo|go
+palepolitano	adjetivo	pa|le|po|li|[ta]|no
+palepolitano	nome masculino	pa|le|po|li|[ta]|no
+palerma	adjetivo	pa|[ler]|ma
+palerma	nome masculino	pa|[ler]|ma
+palerma	nome feminino	pa|[ler]|ma
+palermar	verbo	pa|ler|[mar]
+palermice	nome feminino	pa|ler|[mi]|ce
+palermitana	nome feminino	pa|ler|mi|[ta]|na
+palermitano	nome masculino	pa|ler|mi|[ta]|no
+palermitano	adjetivo	pa|ler|mi|[ta]|no
+palescência	nome feminino	pa|les|[cên]|ci|a
+palescente	adjetivo	pa|les|[cen]|te
+palesta	nome feminino	pa|[les]|ta
+palestesia	nome feminino	pa|les|te|[si]|a
+palestésico	adjetivo	pa|les|[té]|si|co
+palestético	adjetivo	pa|les|[té]|ti|co
+palestina	nome feminino	pa|les|[ti]|na
+palestinense	adjetivo	pa|les|ti|[nen]|se
+palestinense	nome masculino	pa|les|ti|[nen]|se
+palestinense	nome feminino	pa|les|ti|[nen]|se
+palestiniana	nome feminino	pa|les|ti|ni|[a]|na
+palestiniano	nome masculino	pa|les|ti|ni|[a]|no
+palestiniano	adjetivo	pa|les|ti|ni|[a]|no
+palestino	adjetivo	pa|les|[ti]|no
+palestino	nome masculino	pa|les|[ti]|no
+palestra	nome feminino	pa|[les]|tra
+palestrador	adjetivo	pa|les|tra|[dor]
+palestrador	nome masculino	pa|les|tra|[dor]
+palestrante	adjetivo	pa|les|[tran]|te
+palestrante	nome masculino	pa|les|[tran]|te
+palestrante	nome feminino	pa|les|[tran]|te
+palestrar	verbo	pa|les|[trar]
+palestrear	verbo	pa|les|tre|[ar]
+palestreiro	adjetivo	pa|les|[trei]|ro
+paléstrica	nome feminino	pa|[lés]|tri|ca
+paléstrico	adjetivo	pa|[lés]|tri|co
+palestriniano	adjetivo	pa|les|tri|ni|[a]|no
+palestrita	nome masculino	pa|les|[tri]|ta
+palestrita	nome feminino	pa|les|[tri]|ta
+paleta	nome feminino	pa|[le]|ta
+paletada	nome feminino	pa|le|[ta]|da
+palete	nome feminino	pa|[le]|te
+paleteador	nome masculino	pa|le|te|a|[dor]
+paletear	verbo	pa|le|te|[ar]
+paletô	nome masculino	pa|le|[tô]
+paletó	nome masculino	pa|le|[tó]
+palha	nome feminino	[pa]|lha
+palha	nome masculino	[pa]|lha
+palha	adjetivo	[pa]|lha
+palha de abade	nome feminino	[pa]|lha de a|ba|de
+palha-branca	nome feminino	pa|lha-bran|ca
+palha-d'aço	nome feminino	pa|lha-d´a|ço
+palha-preta	nome feminino	pa|lha-pre|ta
+palhabote	nome masculino	pa|lha|[bo]|te
+palhaboteiro	nome masculino	pa|lha|bo|[tei]|ro
+palhaça	nome feminino	pa|[lha]|ça
+palhaçada	nome feminino	pa|lha|[ça]|da
+palhaçal	adjetivo	pa|lha|[çal]
+palhacarga	nome feminino	pa|lha|[car]|ga
+palhaçaria	nome feminino	pa|lha|ça|[ri]|a
+palhaço	nome masculino	pa|[lha]|ço
+palhaço	adjetivo	pa|[lha]|ço
+palhada	nome feminino	pa|[lha]|da
+palhagem	nome feminino	pa|[lha]|gem
+palhal	nome masculino	pa|[lhal]
+palhana	nome feminino	pa|[lha]|na
+palhar	nome masculino	pa|[lhar]
+palharesco	adjetivo	pa|lha|[res]|co
+palhegal	nome masculino	pa|lhe|[gal]
+palheira	nome feminino	pa|[lhei]|ra
+palheirão	nome masculino	pa|lhei|[rão]
+palheireiro	nome masculino	pa|lhei|[rei]|ro
+palheirinho	nome masculino	pa|lhei|[ri]|nho
+palheiro	nome masculino	pa|[lhei]|ro
+palheiro	adjetivo	pa|[lhei]|ro
+palhento	adjetivo	pa|[lhen]|to
+palheta	nome feminino	pa|[lhe]|ta
+palhetada	nome feminino	pa|lhe|[ta]|da
+palhetão	nome masculino	pa|lhe|[tão]
+palhetar	verbo	pa|lhe|[tar]
+palhetaria	nome feminino	pa|lhe|ta|[ri]|a
+palhete	nome masculino	pa|[lhe]|te
+palhete	adjetivo	pa|[lhe]|te
+palhetear	verbo	pa|lhe|te|[ar]
+palheto	adjetivo	pa|[lhe]|to
+palheto	nome masculino	pa|[lhe]|to
+palhiça	nome feminino	pa|[lhi]|ça
+palhiçar	verbo	pa|lhi|[çar]
+palhiço	adjetivo	pa|[lhi]|ço
+palhiço	nome masculino	pa|[lhi]|ço
+palhinha	nome feminino	pa|[lhi]|nha
+palhinhas	nome masculino	pa|[lhi]|nhas

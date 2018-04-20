@@ -1,0 +1,100 @@
+investigante	nome feminino	in|ves|ti|[gan]|te
+investigante	nome masculino	in|ves|ti|[gan]|te
+investigar	verbo	in|ves|ti|[gar]
+investigativo	adjetivo	in|ves|ti|ga|[ti]|vo
+investigável	adjetivo	in|ves|ti|[gá]|vel
+investimento	nome masculino	in|ves|ti|[men]|to
+investir	verbo	in|ves|[tir]
+inveteração	nome feminino	in|ve|te|ra|[ção]
+inveteradamente	advérbio	in|ve|te|ra|da|[men]|te
+inveterado	adjetivo	in|ve|te|[ra]|do
+inveterar	verbo	in|ve|te|[rar]
+invetiva	nome feminino	in|ve|[ti]|va
+invetivador	adjetivo	in|ve|ti|va|[dor]
+invetivador	nome masculino	in|ve|ti|va|[dor]
+invetivante	adjetivo	in|ve|ti|[van]|te
+invetivar	verbo	in|ve|ti|[var]
+invetivista	nome masculino	in|ve|ti|[vis]|ta
+invetivista	nome feminino	in|ve|ti|[vis]|ta
+invetivo	adjetivo	in|ve|[ti]|vo
+inviabilidade	nome feminino	in|vi|a|bi|li|[da]|de
+inviabilizar	verbo	in|vi|a|bi|li|[zar]
+inviável	adjetivo	in|vi|[á]|vel
+invicção	nome feminino	in|vic|[ção]
+invicto	adjetivo	in|[vic]|to
+invídia	nome feminino	in|[ví]|di|a
+invidiar	verbo	in|vi|di|[ar]
+ínvido	adjetivo	[ín]|vi|do
+invigilância	nome feminino	in|vi|gi|[lân]|ci|a
+invigilante	adjetivo	in|vi|gi|[lan]|te
+ínvio	adjetivo	[ín]|vi|o
+inviolabilidade	nome feminino	in|vi|o|la|bi|li|[da]|de
+inviolado	adjetivo	in|vi|o|[la]|do
+inviolável	adjetivo	in|vi|o|[lá]|vel
+inviolavelmente	advérbio	in|vi|o|la|vel|[men]|te
+inviolentado	adjetivo	in|vi|o|len|[ta]|do
+inviperar	verbo	in|vi|pe|[rar]
+inviril	adjetivo	in|vi|[ril]
+invirilidade	nome feminino	in|vi|ri|li|[da]|de
+invirilmente	advérbio	in|vi|ril|[men]|te
+invirtuoso	adjetivo	in|vir|tu|[o]|so
+invisceração	nome feminino	in|vis|ce|ra|[ção]
+inviscerar	verbo	in|vis|ce|[rar]
+invisíbil	adjetivo	in|vi|[sí]|bil
+invisíbil	nome masculino	in|vi|[sí]|bil
+invisibilidade	nome feminino	in|vi|si|bi|li|[da]|de
+invisibilizar	verbo	in|vi|si|bi|li|[zar]
+invisível	adjetivo	in|vi|[sí]|vel
+invisível	nome masculino	in|vi|[sí]|vel
+invisível	nome feminino	in|vi|[sí]|vel
+invisivelmente	advérbio	in|vi|si|vel|[men]|te
+inviso	adjetivo	in|[vi]|so
+invisual	adjetivo	in|vi|su|[al]
+invisual	nome masculino	in|vi|su|[al]
+invisual	nome feminino	in|vi|su|[al]
+invitação	nome feminino	in|vi|ta|[ção]
+invitador	nome masculino	in|vi|ta|[dor]
+invitamento	nome masculino	in|vi|ta|[men]|to
+invitar	verbo	in|vi|[tar]
+invitatório	nome masculino	in|vi|ta|[tó]|ri|o
+invitatório	adjetivo	in|vi|ta|[tó]|ri|o
+invite	nome masculino	in|[vi]|te
+invito	adjetivo	in|[vi]|to
+invitrescível	adjetivo	in|vi|tres|[cí]|vel
+invivido	adjetivo	in|vi|[vi]|do
+invocação	nome feminino	in|vo|ca|[ção]
+invocado	adjetivo	in|vo|[ca]|do
+invocador	adjetivo	in|vo|ca|[dor]
+invocador	nome masculino	in|vo|ca|[dor]
+invocadora	nome feminino	in|vo|ca|[do]|ra
+invocar	verbo	in|vo|[car]
+invocativamente	advérbio	in|vo|ca|ti|va|[men]|te
+invocativo	adjetivo	in|vo|ca|[ti]|vo
+invocatória	nome feminino	in|vo|ca|[tó]|ri|a
+invocatoriamente	advérbio	in|vo|ca|to|ri|a|[men]|te
+invocatório	adjetivo	in|vo|ca|[tó]|ri|o
+invocável	adjetivo	in|vo|[cá]|vel
+invogal	adjetivo	in|vo|[gal]
+invogal	nome feminino	in|vo|[gal]
+involução	nome feminino	in|vo|lu|[ção]
+involucelado	adjetivo	in|vo|lu|ce|[la]|do
+involucelo	nome masculino	in|vo|lu|[ce]|lo
+involucrado	adjetivo	in|vo|lu|[cra]|do
+involucral	adjetivo	in|vo|lu|[cral]
+involucrar	verbo	in|vo|lu|[crar]
+involucriforme	adjetivo	in|vo|lu|cri|[for]|me
+invólucro	nome masculino	in|[vó]|lu|cro
+involuntariamente	advérbio	in|vo|lun|ta|ri|a|[men]|te
+involuntário	adjetivo	in|vo|lun|[tá]|ri|o
+involutifólio	adjetivo	in|vo|lu|ti|[fó]|li|o
+involutivo	adjetivo	in|vo|lu|[ti]|vo
+involuto	adjetivo	in|vo|[lu]|to
+involutório	nome masculino	in|vo|lu|[tó]|ri|o
+involutoso	adjetivo	in|vo|lu|[to]|so
+involutuoso	adjetivo	in|vo|lu|tu|[o]|so
+invulgar	adjetivo	in|vul|[gar]
+invulgarmente	advérbio	in|vul|gar|[men]|te
+invulnerabilidade	nome feminino	in|vul|ne|ra|bi|li|[da]|de
+invulnerado	adjetivo	in|vul|ne|[ra]|do
+invulnerável	adjetivo	in|vul|ne|[rá]|vel
+invulneravelmente	advérbio	in|vul|ne|ra|vel|[men]|te

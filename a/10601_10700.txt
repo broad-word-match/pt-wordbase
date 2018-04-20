@@ -1,0 +1,100 @@
+ameaço	nome masculino	a|me|[a]|ço
+ameado	adjetivo	a|me|[a]|do
+amealhado	adjetivo	a|me|a|[lha]|do
+amealhador	adjetivo	a|me|a|lha|[dor]
+amealhador	nome masculino	a|me|a|lha|[dor]
+amealhar	verbo	a|me|a|[lhar]
+amear	verbo	a|me|[ar]
+ameba	nome feminino	a|[me]|ba
+amebeu	adjetivo	a|me|[beu]
+amebiano	adjetivo	a|me|bi|[a]|no
+amebíase	nome feminino	a|me|[bí]|a|se
+amébico	adjetivo	a|[mé]|bi|co
+amebiforme	adjetivo	a|me|bi|[for]|me
+amebismo	nome masculino	a|me|[bis]|mo
+amebócito	nome masculino	a|me|[bó]|ci|to
+ameboide	adjetivo	a|me|[boi]|de
+ameboides	nome masculino	a|me|[boi]|des
+amedalhar	verbo	a|me|da|[lhar]
+amedarense	nome masculino	a|me|da|[ren]|se
+amedarense	adjetivo	a|me|da|[ren]|se
+amedarense	nome feminino	a|me|da|[ren]|se
+amedrentar	verbo	a|me|dren|[tar]
+amedrontado	adjetivo	a|me|dron|[ta]|do
+amedrontador	adjetivo	a|me|dron|ta|[dor]
+amedrontador	nome masculino	a|me|dron|ta|[dor]
+amedrontadoramente	advérbio	a|me|dron|ta|do|ra|[men]|te
+amedrontamento	nome masculino	a|me|dron|ta|[men]|to
+amedrontar	verbo	a|me|dron|[tar]
+amedrontável	adjetivo	a|me|dron|[tá]|vel
+ameense	adjetivo	a|me|[en]|se
+ameense	nome masculino	a|me|[en]|se
+ameense	nome feminino	a|me|[en]|se
+ameia	nome feminino	a|[mei]|a
+ameiar	verbo	a|mei|[ar]
+ameigador	adjetivo	a|mei|ga|[dor]
+ameigador	nome masculino	a|mei|ga|[dor]
+ameigamento	nome masculino	a|mei|ga|[men]|to
+ameigar	verbo	a|mei|[gar]
+ameigável	adjetivo	a|mei|[gá]|vel
+amêijoa	nome feminino	a|[mêi]|jo|a
+ameijoada	nome feminino	a|mei|jo|[a]|da
+ameijoar	verbo	a|mei|jo|[ar]
+ameijoeira	nome feminino	a|mei|jo|[ei]|ra
+ameiju	nome masculino	a|mei|[ju]
+ameiva	nome feminino	a|[mei]|va
+ameivídeo	nome masculino	a|mei|[ví]|de|o
+ameixa	nome feminino	a|[mei]|xa
+ameixal	nome masculino	a|mei|[xal]
+ameixeira	nome feminino	a|mei|[xei]|ra
+ameixial	nome masculino	a|mei|xi|[al]
+ameixieira	nome feminino	a|mei|xi|[ei]|ra
+amêixoa	nome feminino	a|[mêi]|xo|a
+ameixoal	nome masculino	a|mei|xo|[al]
+ameixoeira	nome feminino	a|mei|xo|[ei]|ra
+amela	nome feminino	a|[me]|la
+amelaçar	verbo	a|me|la|[çar]
+amelado	adjetivo	a|me|[la]|do
+amelia	nome feminino	a|me|[li]|a
+amelo	nome masculino	a|[me]|lo
+ameloado	adjetivo	a|me|lo|[a]|do
+amelopia	nome feminino	a|me|lo|[pi]|a
+amelópico	adjetivo	a|me|[ló]|pi|co
+amelópico	nome masculino	a|me|[ló]|pi|co
+amelroado	adjetivo	a|mel|ro|[a]|do
+amém	interjeição	a|[mém]
+amém	nome masculino	a|[mém]
+amembranado	adjetivo	a|mem|bra|[na]|do
+ámen	interjeição	[á]|men
+ámen	nome masculino	[á]|men
+amenamente	advérbio	a|me|na|[men]|te
+amência	nome feminino	a|[mên]|ci|a
+amendina	nome feminino	a|men|[di]|na
+amêndoa	nome feminino	a|[mên]|do|a
+amendoada	nome feminino	a|men|do|[a]|da
+amendoado	adjetivo	a|men|do|[a]|do
+amendoado	nome masculino	a|men|do|[a]|do
+amendoal	nome masculino	a|men|do|[al]
+amendoeira	nome feminino	a|men|do|[ei]|ra
+amendoim	nome masculino	a|men|do|[im]
+amendoína	nome feminino	a|men|do|[í]|na
+amenidade	nome feminino	a|me|ni|[da]|de
+ameninado	adjetivo	a|me|ni|[na]|do
+ameninar	verbo	a|me|ni|[nar]
+amenista	adjetivo	a|me|[nis]|ta
+amenista	nome masculino	a|me|[nis]|ta
+amenista	nome feminino	a|me|[nis]|ta
+amenização	nome feminino	a|me|ni|za|[ção]
+amenizador	adjetivo	a|me|ni|za|[dor]
+amenizador	nome masculino	a|me|ni|za|[dor]
+amenizante	adjetivo	a|me|ni|[zan]|te
+amenizar	verbo	a|me|ni|[zar]
+amenizável	adjetivo	a|me|ni|[zá]|vel
+ameno	adjetivo	a|[me]|no
+amenomania	nome feminino	a|me|no|ma|[ni]|a
+amenomaníaco	adjetivo	a|me|no|ma|[ní]|a|co
+amenomaníaco	nome masculino	a|me|no|ma|[ní]|a|co
+amenômano	adjetivo	a|me|[nô]|ma|no
+amenômano	nome masculino	a|me|[nô]|ma|no
+amenómano	adjetivo	a|me|[nó]|ma|no
+amenómano	nome masculino	a|me|[nó]|ma|no

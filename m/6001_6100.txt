@@ -1,0 +1,100 @@
+merídio	adjetivo	me|[rí]|di|o
+merídio	nome masculino	me|[rí]|di|o
+meridional	adjetivo	me|ri|di|o|[nal]
+meridional	nome masculino	me|ri|di|o|[nal]
+meridional	nome feminino	me|ri|di|o|[nal]
+meridostema	nome masculino	me|ri|dos|[te]|ma
+meridostémone	adjetivo	me|ri|dos|[té]|mo|ne
+meridostêmone	adjetivo	me|ri|dos|[tê]|mo|ne
+meriedria	nome feminino	me|ri|e|[dri]|a
+merifela	nome feminino	me|ri|[fe]|la
+merinaque	nome masculino	me|ri|[na]|que
+merinate	adjetivo	me|ri|[na]|te
+merinate	nome masculino	me|ri|[na]|te
+merinate	nome feminino	me|ri|[na]|te
+meringalha	nome feminino	me|rin|[ga]|lha
+merino	nome masculino	me|[ri]|no
+merinó	nome masculino	me|ri|[nó]
+merino	adjetivo	me|[ri]|no
+merioba	nome feminino	me|ri|[o]|ba
+merisma	nome masculino	me|[ris]|ma
+merismático	adjetivo	me|ris|[má]|ti|co
+merismopedia	nome feminino	me|ris|mo|pe|[di]|a
+meristema	nome masculino	me|ris|[te]|ma
+merístico	adjetivo	me|[rís]|ti|co
+meritalo	nome masculino	me|ri|[ta]|lo
+meritamente	advérbio	me|ri|ta|[men]|te
+meriti	nome masculino	me|ri|[ti]
+meritiense	adjetivo	me|ri|ti|[en]|se
+meritiense	nome masculino	me|ri|ti|[en]|se
+meritiense	nome feminino	me|ri|ti|[en]|se
+meritíssimo	adjetivo	me|ri|[tís]|si|mo
+mérito	nome masculino	[mé]|ri|to
+meritocracia	nome feminino	me|ri|to|cra|[ci]|a
+meritocrata	adjetivo	me|ri|to|[cra]|ta
+meritocrata	nome masculino	me|ri|to|[cra]|ta
+meritocrata	nome feminino	me|ri|to|[cra]|ta
+meritocrático	adjetivo	me|ri|to|[crá]|ti|co
+meritoriamente	advérbio	me|ri|to|ri|a|[men]|te
+meritório	adjetivo	me|ri|[tó]|ri|o
+meritoso	adjetivo	me|ri|[to]|so
+merlante	nome masculino	mer|[lan]|te
+merlão	nome masculino	mer|[lão]
+merlim	nome masculino	mer|[lim]
+merlo	adjetivo	[mer]|lo
+merlo	nome masculino	[mer]|lo
+merma	nome feminino	[mer]|ma
+mermar	verbo	mer|[mar]
+mero	adjetivo	[me]|ro
+mero	nome masculino	[me]|ro
+meroblástico	adjetivo	me|ro|[blás]|ti|co
+merobrigense	adjetivo	me|ro|bri|[gen]|se
+merobrigense	nome masculino	me|ro|bri|[gen]|se
+merobrigense	nome feminino	me|ro|bri|[gen]|se
+merocárpio	nome masculino	me|ro|[cár]|pi|o
+merocele	nome feminino	me|ro|[ce]|le
+merócrino	adjetivo	me|[ró]|cri|no
+meroedria	nome feminino	me|ro|e|[dri]|a
+meroédrico	adjetivo	me|ro|[é]|dri|co
+meroeno	adjetivo	me|ro|[e]|no
+meroeno	nome masculino	me|ro|[e]|no
+meroiço	nome masculino	me|[roi]|ço
+merologia	nome feminino	me|ro|lo|[gi]|a
+merológico	adjetivo	me|ro|[ló]|gi|co
+meronímia	nome feminino	me|ro|[ní]|mi|a
+merónimo	nome masculino	me|[ró]|ni|mo
+merônimo	nome masculino	me|[rô]|ni|mo
+merópida	nome masculino	me|[ró]|pi|da
+merópida	nome masculino	me|[ró]|pi|da
+meropídeo	nome masculino	me|ro|[pí]|de|o
+meropídeo	nome masculino	me|ro|[pí]|de|o
+meropídeo	adjetivo	me|ro|[pí]|de|o
+merostomáceo	nome masculino	me|ros|to|[má]|ce|o
+merotalo	nome masculino	me|ro|[ta]|lo
+merotomia	nome feminino	me|ro|to|[mi]|a
+merotômico	adjetivo	me|ro|[tô]|mi|co
+merotómico	adjetivo	me|ro|[tó]|mi|co
+merouço	nome masculino	me|[rou]|ço
+merovíngia	nome feminino	me|ro|[vín]|gi|a
+merovíngio	nome masculino	me|ro|[vín]|gi|o
+merovíngio	adjetivo	me|ro|[vín]|gi|o
+meroxênio	nome masculino	me|ro|[xê]|ni|o
+meroxénio	nome masculino	me|ro|[xé]|ni|o
+merozoito	nome masculino	me|ro|[zoi]|to
+mertolenga	nome feminino	mer|to|[len]|ga
+mertolengo	adjetivo	mer|to|[len]|go
+mertolengo	nome masculino	mer|to|[len]|go
+mertolense	nome masculino	mer|to|[len]|se
+mertolense	adjetivo	mer|to|[len]|se
+mertolense	nome feminino	mer|to|[len]|se
+mertolino	adjetivo	mer|to|[li]|no
+mertolino	nome masculino	mer|to|[li]|no
+meru	nome masculino	me|[ru]
+merua	nome feminino	me|[ru]|a
+meruanha	nome feminino	me|ru|[a]|nha
+merufo	nome masculino	me|[ru]|fo
+meruge	nome feminino	me|[ru]|ge
+merugem	nome feminino	me|[ru]|gem
+meruginha	nome feminino	me|ru|[gi]|nha
+meruja	nome feminino	me|[ru]|ja
+merujar	verbo	me|ru|[jar]

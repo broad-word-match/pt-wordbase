@@ -1,0 +1,100 @@
+captatividade	nome feminino	cap|ta|ti|vi|[da]|de
+captativo	adjetivo	cap|ta|[ti]|vo
+captável	adjetivo	cap|[tá]|vel
+captor	adjetivo	cap|[tor]
+captor	nome masculino	cap|[tor]
+captora	nome feminino	cap|[to]|ra
+captura	nome feminino	cap|[tu]|ra
+capturador	adjetivo	cap|tu|ra|[dor]
+capturador	nome masculino	cap|tu|ra|[dor]
+capturar	verbo	cap|tu|[rar]
+capturável	adjetivo	cap|tu|[rá]|vel
+capuaba	nome masculino	ca|pu|[a]|ba
+capuaba	nome feminino	ca|pu|[a]|ba
+capuano	nome masculino	ca|pu|[a]|no
+capuano	adjetivo	ca|pu|[a]|no
+capucha	nome feminino	ca|[pu]|cha
+capuchana	nome feminino	ca|pu|[cha]|na
+capuchar	verbo	ca|pu|[char]
+capucheiro	nome masculino	ca|pu|[chei]|ro
+capuchinha	nome feminino	ca|pu|[chi]|nha
+capuchinho	nome masculino	ca|pu|[chi]|nho
+capuchinho	adjetivo	ca|pu|[chi]|nho
+capuchino	nome masculino	ca|pu|[chi]|no
+capucho	nome masculino	ca|[pu]|cho
+capucho	adjetivo	ca|[pu]|cho
+capuelé	nome masculino	ca|pu|e|[lé]
+capuense	adjetivo	ca|pu|[en]|se
+capuense	nome masculino	ca|pu|[en]|se
+capuense	nome feminino	ca|pu|[en]|se
+capuíbo	adjetivo	ca|pu|[í]|bo
+capuíbo	nome masculino	ca|pu|[í]|bo
+capulana	nome feminino	ca|pu|[la]|na
+capulho	nome masculino	ca|[pu]|lho
+capunda	nome feminino	ca|[pun]|da
+capuricena	adjetivo	ca|pu|ri|[ce]|na
+capuricena	nome masculino	ca|pu|ri|[ce]|na
+capuricena	nome feminino	ca|pu|ri|[ce]|na
+capuz	nome masculino	ca|[puz]
+capuz-de-fradinho	nome masculino	ca|puz-de-fra|[di]|nho
+caquear	verbo	ca|que|[ar]
+caqueirada	nome feminino	ca|quei|[ra]|da
+caqueiro	nome masculino	ca|[quei]|ro
+caqueticamente	advérbio	ca|que|ti|ca|[men]|te
+caquético	adjetivo	ca|[qué]|ti|co
+caqueu	nome masculino	ca|[queu]
+caquexia	nome feminino	ca|que|[xi]|a
+caqui	nome masculino	ca|[qui]
+caqui	adjetivo	ca|[qui]
+cáqui	nome masculino	[cá]|qui
+caquinar	verbo	ca|qui|[nar]
+caquizeiro	nome masculino	ca|qui|[zei]|ro
+cará	nome masculino	ca|[rá]
+cara	nome feminino	[ca]|ra
+cara	nome masculino	[ca]|ra
+cara de pau	adjetivo	[ca]|ra de pau
+cará-açu	nome masculino	ca|rá-a|[çu]
+cara-de-gato	nome masculino	ca|ra-de-ga|to
+cara-de-nó-cego	nome masculino	ca|ra-de-nó-ce|go
+cara-direita	nome masculino	ca|ra-di|[rei]|ta
+cara-direita	nome feminino	ca|ra-di|[rei]|ta
+cara-inchada	nome feminino	ca|ra-in|[cha]|da
+cara-metade	nome masculino	ca|ra-me|[ta]|de
+cara-metade	nome feminino	ca|ra-me|[ta]|de
+cara-suja	nome masculino	ca|ra-su|ja
+cara-unhaca	nome masculino	ca|ra-u|[nha]|ca
+carábico	nome masculino	ca|[rá]|bi|co
+carábida	nome masculino	ca|[rá]|bi|da
+carabídeo	nome masculino	ca|ra|[bí]|de|o
+carabídeo	adjetivo	ca|ra|[bí]|de|o
+carabídeo	nome masculino	ca|ra|[bí]|de|o
+carabina	nome feminino	ca|ra|[bi]|na
+carabinada	nome feminino	ca|ra|bi|[na]|da
+carabinear	verbo	ca|ra|bi|ne|[ar]
+carabineiro	nome masculino	ca|ra|bi|[nei]|ro
+cárabo	nome masculino	[cá]|ra|bo
+caraça	nome feminino	ca|[ra]|ça
+caraça	adjetivo	ca|[ra]|ça
+caraça	nome masculino	ca|[ra]|ça
+caracal	nome masculino	ca|ra|[cal]
+caracará	nome masculino	ca|ra|ca|[rá]
+caracaraí	nome masculino	ca|ra|ca|ra|[í]
+caraças	interjeição	ca|[ra]|ças
+caracas	nome masculino	ca|[ra]|cas
+caracaxá	nome masculino	ca|ra|ca|[xá]
+carácea	nome feminino	ca|[rá]|ce|a
+caraceno	adjetivo	ca|ra|[ce]|no
+caraceno	nome masculino	ca|ra|[ce]|no
+caracídeo	adjetivo	ca|ra|[cí]|de|o
+caraciforme	adjetivo	ca|ra|ci|[for]|me
+caracol	nome masculino	ca|ra|[col]
+caracolar	verbo	ca|ra|co|[lar]
+caracolear	verbo	ca|ra|co|le|[ar]
+caracoleiro	nome masculino	ca|ra|co|[lei]|ro
+caracoleta	nome feminino	ca|ra|co|[le]|ta
+carácter	nome masculino	ca|[rác]|ter
+caractere	nome masculino	ca|rac|[te]|re
+caracterial	adjetivo	ca|rac|te|ri|[al]
+característica	nome feminino	ca|rac|te|[rís]|ti|ca
+caracteristicamente	advérbio	ca|rac|te|ris|ti|ca|[men]|te
+característico	adjetivo	ca|rac|te|[rís]|ti|co

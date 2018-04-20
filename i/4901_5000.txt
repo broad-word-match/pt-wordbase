@@ -1,0 +1,100 @@
+insubmergível	adjetivo	in|sub|mer|[gí]|vel
+insubmersibilidade	nome feminino	in|sub|mer|si|bi|li|[da]|de
+insubmersível	adjetivo	in|sub|mer|[sí]|vel
+insubmissa	nome feminino	in|sub|[mis]|sa
+insubmissamente	advérbio	in|sub|mis|sa|[men]|te
+insubmissão	nome feminino	in|sub|mis|[são]
+insubmissível	adjetivo	in|sub|mis|[sí]|vel
+insubmisso	adjetivo	in|sub|[mis]|so
+insubmisso	nome masculino	in|sub|[mis]|so
+insubordinação	nome feminino	in|su|bor|di|na|[ção]
+insubordinada	nome feminino	in|su|bor|di|[na]|da
+insubordinadamente	advérbio	in|su|bor|di|na|da|[men]|te
+insubordinado	adjetivo	in|su|bor|di|[na]|do
+insubordinado	nome masculino	in|su|bor|di|[na]|do
+insubordinador	adjetivo	in|su|bor|di|na|[dor]
+insubordinador	nome masculino	in|su|bor|di|na|[dor]
+insubordinadora	nome feminino	in|su|bor|di|na|[do]|ra
+insubordinar	verbo	in|su|bor|di|[nar]
+insubordinável	adjetivo	in|su|bor|di|[ná]|vel
+insubornável	adjetivo	in|su|bor|[ná]|vel
+ínsubre	nome masculino	[ín]|su|bre
+ínsubres	adjetivo	[ín]|su|bres
+insubsistência	nome feminino	in|sub|sis|[tên]|ci|a
+insubsistente	adjetivo	in|sub|sis|[ten]|te
+insubstancial	adjetivo	in|subs|tan|ci|[al]
+insubstancialidade	nome feminino	in|subs|tan|ci|a|li|[da]|de
+insubstituível	adjetivo	in|subs|ti|tu|[í]|vel
+insubversivo	adjetivo	in|sub|ver|[si]|vo
+insucessível	adjetivo	in|su|ces|[sí]|vel
+insucesso	nome masculino	in|su|[ces]|so
+insueto	adjetivo	in|su|[e]|to
+insuficiência	nome feminino	in|su|fi|ci|[ên]|ci|a
+insuficiente	adjetivo	in|su|fi|ci|[en]|te
+insuficientemente	advérbio	in|su|fi|ci|en|te|[men]|te
+insuflação	nome feminino	in|su|fla|[ção]
+insuflador	adjetivo	in|su|fla|[dor]
+insuflador	nome masculino	in|su|fla|[dor]
+insufladora	nome feminino	in|su|fla|[do]|ra
+insuflar	verbo	in|su|[flar]
+insuflável	adjetivo	in|su|[flá]|vel
+ínsula	nome feminino	[ín]|su|la
+insulação	nome feminino	in|su|la|[ção]
+insulado	adjetivo	in|su|[la]|do
+insulador	adjetivo	in|su|la|[dor]
+insulador	nome masculino	in|su|la|[dor]
+insulamento	nome masculino	in|su|la|[men]|to
+insulana	nome feminino	in|su|[la]|na
+insulanamente	advérbio	in|su|la|na|[men]|te
+insulano	nome masculino	in|su|[la]|no
+insulano	adjetivo	in|su|[la]|no
+insulante	adjetivo	in|su|[lan]|te
+insular	adjetivo	in|su|[lar]
+insular	verbo	in|su|[lar]
+insular	nome masculino	in|su|[lar]
+insular	nome feminino	in|su|[lar]
+insularidade	nome feminino	in|su|la|ri|[da]|de
+insularismo	nome masculino	in|su|la|[ris]|mo
+insulativo	adjetivo	in|su|la|[ti]|vo
+insulável	adjetivo	in|su|[lá]|vel
+insulcado	adjetivo	in|sul|[ca]|do
+insulina	nome feminino	in|su|[li]|na
+insulindiano	nome masculino	in|su|lin|di|[a]|no
+insulindiano	adjetivo	in|su|lin|di|[a]|no
+insulínico	adjetivo	in|su|[lí]|ni|co
+insulinodependência	nome feminino	in|su|li|no|de|pen|[dên]|ci|a
+insulinodependente	adjetivo	in|su|li|no|de|pen|[den]|te
+insulinoterapia	nome feminino	in|su|li|no|te|ra|[pi]|a
+insulinoterápico	adjetivo	in|su|li|no|te|[rá]|pi|co
+insulsamente	advérbio	in|sul|sa|[men]|te
+insulsaria	nome feminino	in|sul|sa|[ri]|a
+insulsez	nome feminino	in|sul|[sez]
+insulsidade	nome feminino	in|sul|si|[da]|de
+insulso	adjetivo	in|[sul]|so
+insultado	adjetivo	in|sul|[ta]|do
+insultado	nome masculino	in|sul|[ta]|do
+insultador	adjetivo	in|sul|ta|[dor]
+insultador	nome masculino	in|sul|ta|[dor]
+insultante	adjetivo	in|sul|[tan]|te
+insultante	nome feminino	in|sul|[tan]|te
+insultante	nome masculino	in|sul|[tan]|te
+insultar	verbo	in|sul|[tar]
+insulto	nome masculino	in|[sul]|to
+insultuosamente	advérbio	in|sul|tu|o|sa|[men]|te
+insultuoso	adjetivo	in|sul|tu|[o]|so
+insumo	nome masculino	in|[su]|mo
+insuperabilidade	nome feminino	in|su|pe|ra|bi|li|[da]|de
+insuperável	adjetivo	in|su|pe|[rá]|vel
+insuperavelmente	advérbio	in|su|pe|ra|vel|[men]|te
+insuportabilidade	nome feminino	in|su|por|ta|bi|li|[da]|de
+insuportável	adjetivo	in|su|por|[tá]|vel
+insuportavelmente	advérbio	in|su|por|ta|vel|[men]|te
+insuprível	adjetivo	in|su|[prí]|vel
+insurdescência	nome feminino	in|sur|des|[cên]|ci|a
+insurfável	adjetivo	in|sur|[fá]|vel
+insurgência	nome feminino	in|sur|[gên]|ci|a
+insurgente	adjetivo	in|sur|[gen]|te
+insurgente	nome masculino	in|sur|[gen]|te
+insurgente	nome feminino	in|sur|[gen]|te
+insurgir	verbo	in|sur|[gir]
+insurreccionado	nome masculino	in|sur|rec|ci|o|[na]|do

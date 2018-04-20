@@ -1,0 +1,100 @@
+argamassador	nome masculino	ar|ga|mas|sa|[dor]
+argamassar	verbo	ar|ga|mas|[sar]
+arganaça	nome feminino	ar|ga|[na]|ça
+arganaz	nome masculino	ar|ga|[naz]
+arganel	nome masculino	ar|ga|[nel]
+arganéu	nome masculino	ar|ga|[néu]
+argânia	nome feminino	ar|[gâ]|ni|a
+arganil	nome masculino	ar|ga|[nil]
+arganilense	nome masculino	ar|ga|ni|[len]|se
+arganilense	adjetivo	ar|ga|ni|[len]|se
+arganilense	nome feminino	ar|ga|ni|[len]|se
+arganiz	nome masculino	ar|ga|[niz]
+argano	nome masculino	ar|[ga]|no
+argão	nome masculino	ar|[gão]
+argau	nome masculino	ar|[gau]
+argavaço	nome masculino	ar|ga|[va]|ço
+argel	adjetivo	ar|[gel]
+argel	nome masculino	ar|[gel]
+argelado	adjetivo	ar|ge|[la]|do
+argeliano	adjetivo	ar|ge|li|[a]|no
+argeliano	nome masculino	ar|ge|li|[a]|no
+argelina	nome feminino	ar|ge|[li]|na
+argelino	nome masculino	ar|ge|[li]|no
+argelino	adjetivo	ar|ge|[li]|no
+argelo-marroquino	adjetivo	ar|ge|lo-mar|ro|[qui]|no
+argelo-tunisiano	adjetivo	ar|ge|lo-tu|ni|si|[a]|no
+argelo-tunisino	adjetivo	ar|ge|lo-tu|ni|[si]|no
+argemona	nome feminino	ar|ge|[mo]|na
+argemonina	nome feminino	ar|ge|mo|[ni]|na
+argempel	nome masculino	ar|gem|[pel]
+argentador	adjetivo	ar|gen|ta|[dor]
+argentador	nome masculino	ar|gen|ta|[dor]
+argentamina	nome feminino	ar|gen|ta|[mi]|na
+argentão	nome masculino	ar|gen|[tão]
+argentar	verbo	ar|gen|[tar]
+argentaria	nome feminino	ar|gen|ta|[ri]|a
+argentária	nome feminino	ar|gen|[tá]|ri|a
+argentário	nome masculino	ar|gen|[tá]|ri|o
+argentarismo	nome masculino	ar|gen|ta|[ris]|mo
+argentarístico	adjetivo	ar|gen|ta|[rís]|ti|co
+argentato	nome masculino	ar|gen|[ta]|to
+argentear	verbo	ar|gen|te|[ar]
+argênteo	adjetivo	ar|[gên]|te|o
+argenticerúleo	adjetivo	ar|gen|ti|ce|[rú]|le|o
+argenticérulo	adjetivo	ar|gen|ti|[cé]|ru|lo
+argêntico	adjetivo	ar|[gên]|ti|co
+argentífero	adjetivo	ar|gen|[tí]|fe|ro
+argentífico	adjetivo	ar|gen|[tí]|fi|co
+argentifólio	adjetivo	ar|gen|ti|[fó]|li|o
+argentina	nome feminino	ar|gen|[ti]|na
+argentinada	nome feminino	ar|gen|ti|[na]|da
+argentinar	verbo	ar|gen|ti|[nar]
+argentinidade	nome feminino	ar|gen|ti|ni|[da]|de
+argentino	nome masculino	ar|gen|[ti]|no
+argentino	adjetivo	ar|gen|[ti]|no
+argentita	nome feminino	ar|gen|[ti]|ta
+argentite	nome feminino	ar|gen|[ti]|te
+argento	nome masculino	ar|[gen]|to
+argentometria	nome feminino	ar|gen|to|me|[tri]|a
+argentométrico	adjetivo	ar|gen|to|[mé]|tri|co
+argentómetro	nome masculino	ar|gen|[tó]|me|tro
+argentoso	adjetivo	ar|gen|[to]|so
+argila	nome feminino	ar|[gi]|la
+argiláceo	adjetivo	ar|gi|[lá]|ce|o
+argilarenoso	adjetivo	ar|gi|la|re|[no]|so
+argileira	nome feminino	ar|gi|[lei]|ra
+argiletano	adjetivo	ar|gi|le|[ta]|no
+argiletano	nome masculino	ar|gi|le|[ta]|no
+argília	nome feminino	ar|[gí]|li|a
+argilífero	adjetivo	ar|gi|[lí]|fe|ro
+argiliforme	adjetivo	ar|gi|li|[for]|me
+argilite	nome feminino	ar|gi|[li]|te
+argilito	nome masculino	ar|gi|[li]|to
+argiloarenoso	adjetivo	ar|gi|lo|a|re|[no]|so
+argilofagia	nome feminino	ar|gi|lo|fa|[gi]|a
+argilófiro	nome masculino	ar|gi|[ló]|fi|ro
+argiloide	adjetivo	ar|gi|[loi]|de
+argilolítico	adjetivo	ar|gi|lo|[lí]|ti|co
+argilólito	nome masculino	ar|gi|[ló]|li|to
+argiloso	adjetivo	ar|gi|[lo]|so
+argina	nome feminino	ar|[gi]|na
+arginina	nome feminino	ar|gi|[ni]|na
+argipeu	adjetivo	ar|gi|[peu]
+argipeu	nome masculino	ar|gi|[peu]
+argirântemo	adjetivo	ar|gi|[rân]|te|mo
+argiráspide	nome masculino	ar|gi|[rás]|pi|de
+argírico	adjetivo	ar|[gí]|ri|co
+argirismo	nome masculino	ar|gi|[ris]|mo
+argirite	nome feminino	ar|gi|[ri]|te
+argirocéfalo	adjetivo	ar|gi|ro|[cé]|fa|lo
+argirócomo	adjetivo	ar|gi|[ró]|co|mo
+argirocracia	nome feminino	ar|gi|ro|cra|[ci]|a
+argirocrata	adjetivo	ar|gi|ro|[cra]|ta
+argirocrata	nome masculino	ar|gi|ro|[cra]|ta
+argirocrata	nome feminino	ar|gi|ro|[cra]|ta
+argirocrático	adjetivo	ar|gi|ro|[crá]|ti|co
+argirofilo	adjetivo	ar|gi|ro|[fi]|lo
+argirol	nome masculino	ar|gi|[rol]
+argirólito	nome masculino	ar|gi|[ró]|li|to
+argiróptero	adjetivo	ar|gi|[róp]|te|ro

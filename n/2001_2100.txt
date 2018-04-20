@@ -1,0 +1,100 @@
+nhangue	nome masculino	[nhan]|gue
+nhanhá	nome feminino	nha|[nhá]
+nhanhero	nome masculino	nha|[nhe]|ro
+nhanica	nome feminino	nha|[ni]|ca
+nhanido	adjetivo	nha|[ni]|do
+nhato	adjetivo	[nha]|to
+nheengaíba	adjetivo	nhe|en|ga|[í]|ba
+nheengaíba	nome masculino	nhe|en|ga|[í]|ba
+nheengaíba	nome feminino	nhe|en|ga|[í]|ba
+nheengatu	nome masculino	nhe|en|ga|[tu]
+nhemba	nome masculino	[nhem]|ba
+nhenhenhém	nome masculino	nhe|nhe|[nhém]
+nhinguitimo	nome masculino	nhin|gui|[ti]|mo
+nhô	nome masculino	[nhô]
+nhobedje	nome masculino	nho|[bed]|je
+nhoca	nome feminino	[nho]|ca
+nhocana	nome feminino	nho|[ca]|na
+nhole	nome masculino	[nho]|le
+nhomincá	adjetivo	nho|min|[cá]
+nhomincá	nome masculino	nho|min|[cá]
+nhonha	nome feminino	[nho]|nha
+nhonhô	nome masculino	nho|[nhô]
+nhoque	nome masculino	[nho]|que
+nhor	nome masculino	[nhor]
+nhu	nome masculino	[nhu]
+nhuaçu	nome feminino	nhu|a|[çu]
+nhum	nome masculino	[nhum]
+nhumbo	nome masculino	[nhum]|bo
+nhúndi	nome masculino	[nhún]|di
+nhundu	nome masculino	nhun|[du]
+nhúngue	nome feminino	[nhún]|gue
+nhúngue	adjetivo	[nhún]|gue
+nhúngue	nome masculino	[nhún]|gue
+ni	nome masculino	[ni]
+niabele	nome feminino	ni|a|[be]|le
+niagárico	adjetivo	ni|a|[gá]|ri|co
+nial	nome masculino	ni|[al]
+nianja	adjetivo	ni|[an]|ja
+nianja	nome masculino	ni|[an]|ja
+nianja	nome feminino	ni|[an]|ja
+niassalandês	adjetivo	ni|as|sa|lan|[dês]
+niassalandês	nome masculino	ni|as|sa|lan|[dês]
+nibo	nome masculino	[ni]|bo
+nica	nome feminino	[ni]|ca
+nicada	nome feminino	ni|[ca]|da
+nicanço	nome masculino	ni|[can]|ço
+nicandro	nome masculino	ni|[can]|dro
+nicar	verbo	ni|[car]
+nicaraguana	nome feminino	ni|ca|ra|[gua]|na
+nicaraguano	nome masculino	ni|ca|ra|[gua]|no
+nicaraguano	adjetivo	ni|ca|ra|[gua]|no
+nicaraguense	adjetivo	ni|ca|ra|[guen]|se
+nicaraguense	nome masculino	ni|ca|ra|[guen]|se
+nicaraguense	nome feminino	ni|ca|ra|[guen]|se
+nicate	nome masculino	ni|[ca]|te
+niceense	adjetivo	ni|ce|[en]|se
+niceense	nome masculino	ni|ce|[en]|se
+niceense	nome feminino	ni|ce|[en]|se
+niceno	adjetivo	ni|[ce]|no
+niceno	nome masculino	ni|[ce]|no
+nicense	adjetivo	ni|[cen]|se
+nicense	nome masculino	ni|[cen]|se
+nicense	nome feminino	ni|[cen]|se
+nicerotiano	adjetivo	ni|ce|ro|ti|[a]|no
+nicha	nome feminino	[ni]|cha
+nichado	adjetivo	ni|[cha]|do
+nicho	nome masculino	[ni]|cho
+nicióbrige	adjetivo	ni|ci|[ó]|bri|ge
+nicióbrige	nome masculino	ni|ci|[ó]|bri|ge
+nicióbrige	nome feminino	ni|ci|[ó]|bri|ge
+nicles	advérbio	[ni]|cles
+nicles	pronome	[ni]|cles
+nico	nome masculino	[ni]|co
+nicobarês	adjetivo	ni|co|ba|[rês]
+nicobarês	nome masculino	ni|co|ba|[rês]
+nicociana	nome feminino	ni|co|ci|[a]|na
+nicociânea	nome feminino	ni|co|ci|[â]|ne|a
+nicociâneo	adjetivo	ni|co|ci|[â]|ne|o
+nicocianina	nome feminino	ni|co|ci|a|[ni]|na
+nicol	nome masculino	ni|[col]
+nicola	nome feminino	ni|[co]|la
+nicolaíta	adjetivo	ni|co|la|[í]|ta
+nicolaíta	nome masculino	ni|co|la|[í]|ta
+nicolaíta	nome feminino	ni|co|la|[í]|ta
+nicolato	nome masculino	ni|co|[la]|to
+nicólico	adjetivo	ni|[có]|li|co
+nicomedense	adjetivo	ni|co|me|[den]|se
+nicomedense	nome masculino	ni|co|me|[den]|se
+nicomedense	nome feminino	ni|co|me|[den]|se
+nicopolitano	adjetivo	ni|co|po|li|[ta]|no
+nicopolitano	nome masculino	ni|co|po|li|[ta]|no
+nicoquice	nome feminino	ni|co|[qui]|ce
+nicótico	adjetivo	ni|[có]|ti|co
+nicotina	nome feminino	ni|co|[ti]|na
+nicotinamida	nome feminino	ni|co|ti|na|[mi]|da
+nicotínico	adjetivo	ni|co|[tí]|ni|co
+nicotinismo	nome masculino	ni|co|ti|[nis]|mo
+nicotino	adjetivo	ni|co|[ti]|no
+nicotizar	verbo	ni|co|ti|[zar]
+nictação	nome feminino	nic|ta|[ção]

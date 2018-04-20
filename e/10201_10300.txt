@@ -1,0 +1,100 @@
+espotreador	nome masculino	es|po|tre|a|[dor]
+espotrear	verbo	es|po|tre|[ar]
+espotrejador	nome masculino	es|po|tre|ja|[dor]
+espotrejar	verbo	es|po|tre|[jar]
+espraiado	adjetivo	es|prai|[a]|do
+espraiado	nome masculino	es|prai|[a]|do
+espraiamento	nome masculino	es|prai|a|[men]|to
+espraiar	verbo	es|prai|[ar]
+espreguiçadeira	nome feminino	es|pre|gui|ça|[dei]|ra
+espreguiçadela	nome feminino	es|pre|gui|ça|[de]|la
+espreguiçadoiro	nome masculino	es|pre|gui|ça|[doi]|ro
+espreguiçador	nome masculino	es|pre|gui|ça|[dor]
+espreguiçadouro	nome masculino	es|pre|gui|ça|[dou]|ro
+espreguiçamento	nome masculino	es|pre|gui|ça|[men]|to
+espreguiçar	verbo	es|pre|gui|[çar]
+espreguiceiro	nome masculino	es|pre|gui|[cei]|ro
+espreita	nome feminino	es|[prei]|ta
+espreita-marés	nome masculino	es|prei|ta-ma|[rés]
+espreitadeira	nome feminino	es|prei|ta|[dei]|ra
+espreitadela	nome feminino	es|prei|ta|[de]|la
+espreitador	adjetivo	es|prei|ta|[dor]
+espreitador	nome masculino	es|prei|ta|[dor]
+espreitadora	nome feminino	es|prei|ta|[do]|ra
+espreitança	nome feminino	es|prei|[tan]|ça
+espreitante	adjetivo	es|prei|[tan]|te
+espreitante	nome masculino	es|prei|[tan]|te
+espreitante	nome feminino	es|prei|[tan]|te
+espreitão	nome masculino	es|prei|[tão]
+espreitar	verbo	es|prei|[tar]
+espreiteiro	adjetivo	es|prei|[tei]|ro
+espreiteiro	nome masculino	es|prei|[tei]|ro
+esprém	nome masculino	es|[prém]
+espremeção	nome feminino	es|pre|me|[ção]
+espremedalho	nome masculino	es|pre|me|[da]|lho
+espremedeira	nome feminino	es|pre|me|[dei]|ra
+espremedela	nome feminino	es|pre|me|[de]|la
+espremediço	adjetivo	es|pre|me|[di]|ço
+espremedor	adjetivo	es|pre|me|[dor]
+espremedor	nome masculino	es|pre|me|[dor]
+espremedora	nome feminino	es|pre|me|[do]|ra
+espremedura	nome feminino	es|pre|me|[du]|ra
+espremegado	nome masculino	es|pre|me|[ga]|do
+espremer	verbo	es|pre|[mer]
+espremido	adjetivo	es|pre|[mi]|do
+espremível	adjetivo	es|pre|[mí]|vel
+espriega	nome feminino	es|pri|[e]|ga
+espritado	adjetivo	es|pri|[ta]|do
+esprito	nome masculino	es|[pri]|to
+esprue	nome masculino	es|[pru]|e
+espuição	nome feminino	es|pu|i|[ção]
+espuir	verbo	es|pu|[ir]
+espulgação	nome feminino	es|pul|ga|[ção]
+espulgar	verbo	es|pul|[gar]
+espulgatório	nome masculino	es|pul|ga|[tó]|ri|o
+espuma	nome feminino	es|[pu]|ma
+espumaçar	verbo	es|pu|ma|[çar]
+espumadeira	nome feminino	es|pu|ma|[dei]|ra
+espumante	adjetivo	es|pu|[man]|te
+espumante	nome masculino	es|pu|[man]|te
+espumar	verbo	es|pu|[mar]
+espumarada	nome feminino	es|pu|ma|[ra]|da
+espumear	verbo	es|pu|me|[ar]
+espumejante	adjetivo	es|pu|me|[jan]|te
+espumejar	verbo	es|pu|me|[jar]
+espúmeo	adjetivo	es|[pú]|me|o
+espumífero	adjetivo	es|pu|[mí]|fe|ro
+espumígero	adjetivo	es|pu|[mí]|ge|ro
+espumosidade	nome feminino	es|pu|mo|si|[da]|de
+espumoso	nome masculino	es|pu|[mo]|so
+espumoso	adjetivo	es|pu|[mo]|so
+espúndia	nome feminino	es|[pún]|di|a
+espurcícia	nome feminino	es|pur|[cí]|ci|a
+espurco	adjetivo	es|[pur]|co
+espuriedade	nome feminino	es|pu|ri|e|[da]|de
+espúrio	adjetivo	es|[pú]|ri|o
+esputação	nome feminino	es|pu|ta|[ção]
+esputar	verbo	es|pu|[tar]
+esputo	nome masculino	es|[pu]|to
+esquadra	nome feminino	es|[qua]|dra
+esquadrado	adjetivo	es|qua|[dra]|do
+esquadrão	nome masculino	es|qua|[drão]
+esquadrar	verbo	es|qua|[drar]
+esquadreiro	nome masculino	es|qua|[drei]|ro
+esquadrejado	adjetivo	es|qua|dre|[ja]|do
+esquadrejamento	nome masculino	es|qua|dre|ja|[men]|to
+esquadrejar	verbo	es|qua|dre|[jar]
+esquadria	nome feminino	es|qua|[dri]|a
+esquadriar	verbo	es|qua|dri|[ar]
+esquadrilha	nome feminino	es|qua|[dri]|lha
+esquadrilhado	adjetivo	es|qua|dri|[lha]|do
+esquadrilhar	verbo	es|qua|dri|[lhar]
+esquadrinhador	adjetivo	es|qua|dri|nha|[dor]
+esquadrinhador	nome masculino	es|qua|dri|nha|[dor]
+esquadrinhadora	nome feminino	es|qua|dri|nha|[do]|ra
+esquadrinhadura	nome feminino	es|qua|dri|nha|[du]|ra
+esquadrinhamento	nome masculino	es|qua|dri|nha|[men]|to
+esquadrinhar	verbo	es|qua|dri|[nhar]
+esquadrinhável	adjetivo	es|qua|dri|[nhá]|vel
+esquadro	nome masculino	es|[qua]|dro
+esquadronar	verbo	es|qua|dro|[nar]

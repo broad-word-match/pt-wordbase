@@ -1,0 +1,100 @@
+avergonhar	verbo	a|ver|go|[nhar]
+averiguação	nome feminino	a|ve|ri|gua|[ção]
+averiguado	adjetivo	a|ve|ri|[gua]|do
+averiguador	adjetivo	a|ve|ri|gua|[dor]
+averiguador	nome masculino	a|ve|ri|gua|[dor]
+averiguar	verbo	a|ve|ri|[guar]
+averiguável	adjetivo	a|ve|ri|[guá]|vel
+avermelhado	adjetivo	a|ver|me|[lha]|do
+avermelhado	nome masculino	a|ver|me|[lha]|do
+avermelhar	verbo	a|ver|me|[lhar]
+avernal	adjetivo	a|ver|[nal]
+averno	adjetivo	a|[ver]|no
+avernoso	adjetivo	a|ver|[no]|so
+averroísmo	nome masculino	a|ver|ro|[ís]|mo
+averroísta	adjetivo	a|ver|ro|[ís]|ta
+averroísta	nome masculino	a|ver|ro|[ís]|ta
+averroísta	nome feminino	a|ver|ro|[ís]|ta
+averroístico	adjetivo	a|ver|ro|[ís]|ti|co
+averrugar	verbo	a|ver|ru|[gar]
+averrumar	verbo	a|ver|ru|[mar]
+aversão	nome feminino	a|ver|[são]
+aversivo	adjetivo	a|ver|[si]|vo
+aversivo	nome masculino	a|ver|[si]|vo
+avespa	nome feminino	a|[ves]|pa
+avessada	nome feminino	a|ves|[sa]|da
+avessado	adjetivo	a|ves|[sa]|do
+avessamente	advérbio	a|ves|sa|[men]|te
+avessar	verbo	a|ves|[sar]
+avessas	nome feminino	a|[ves]|sas
+avessedo	nome masculino	a|ves|[se]|do
+avesseiro	adjetivo	a|ves|[sei]|ro
+avesseiro	nome masculino	a|ves|[sei]|ro
+avessia	nome feminino	a|ves|[si]|a
+avessidade	nome feminino	a|ves|si|[da]|de
+avesso	nome masculino	a|[ves]|so
+avesso	adjetivo	a|[ves]|so
+avestaico	adjetivo	a|ves|[tai]|co
+avéstico	adjetivo	a|[vés]|ti|co
+avéstico	nome masculino	a|[vés]|ti|co
+avestrujar	verbo	a|ves|tru|[jar]
+avestruz	nome masculino	a|ves|[truz]
+avestruz	nome feminino	a|ves|[truz]
+avestruzeiro	adjetivo	a|ves|tru|[zei]|ro
+avestruzeiro	nome masculino	a|ves|tru|[zei]|ro
+avetoninha	nome feminino	a|ve|to|[ni]|nha
+avexação	nome feminino	a|ve|xa|[ção]
+avexador	adjetivo	a|ve|xa|[dor]
+avexador	nome masculino	a|ve|xa|[dor]
+avexamento	nome masculino	a|ve|xa|[men]|to
+avexar	verbo	a|ve|[xar]
+avezadamente	advérbio	a|ve|za|da|[men]|te
+avezado	adjetivo	a|ve|[za]|do
+avezar	verbo	a|ve|[zar]
+avezeirar	verbo	a|ve|zei|[rar]
+aviação	nome feminino	a|vi|a|[ção]
+aviado	nome masculino	a|vi|[a]|do
+aviado	adjetivo	a|vi|[a]|do
+aviador	nome masculino	a|vi|a|[dor]
+aviador	adjetivo	a|vi|a|[dor]
+aviadora	nome feminino	a|vi|a|[do]|ra
+aviajado	adjetivo	a|vi|a|[ja]|do
+aviamento	nome masculino	a|vi|a|[men]|to
+avião	nome masculino	a|vi|[ão]
+aviar	verbo	a|vi|[ar]
+aviário	nome masculino	a|vi|[á]|ri|o
+aviário	adjetivo	a|vi|[á]|ri|o
+aviatório	adjetivo	a|vi|a|[tó]|ri|o
+avicênia	nome feminino	a|vi|[cê]|ni|a
+avicénia	nome feminino	a|vi|[cé]|ni|a
+avicenismo	nome masculino	a|vi|ce|[nis]|mo
+avicenista	adjetivo	a|vi|ce|[nis]|ta
+avicenista	nome masculino	a|vi|ce|[nis]|ta
+avicenista	nome feminino	a|vi|ce|[nis]|ta
+aviceptologia	nome feminino	a|vi|cep|to|lo|[gi]|a
+aviceptológico	adjetivo	a|vi|cep|to|[ló]|gi|co
+avicida	adjetivo	a|vi|[ci]|da
+avicida	nome masculino	a|vi|[ci]|da
+avicida	nome feminino	a|vi|[ci]|da
+avicídio	nome masculino	a|vi|[cí]|di|o
+avicínio	nome masculino	a|vi|[cí]|ni|o
+avícola	nome masculino	a|[ví]|co|la
+avícola	adjetivo	a|[ví]|co|la
+avícola	nome feminino	a|[ví]|co|la
+avícula	nome feminino	a|[ví]|cu|la
+avicular	nome masculino	a|vi|cu|[lar]
+avicular	adjetivo	a|vi|cu|[lar]
+aviculário	adjetivo	a|vi|cu|[lá]|ri|o
+aviculário	nome masculino	a|vi|cu|[lá]|ri|o
+avicúlida	nome masculino	a|vi|[cú]|li|da
+avicúlida	nome masculino	a|vi|[cú]|li|da
+aviculídeo	nome masculino	a|vi|cu|[lí]|de|o
+aviculídeo	nome masculino	a|vi|cu|[lí]|de|o
+aviculídeo	adjetivo	a|vi|cu|[lí]|de|o
+aviculinha	nome feminino	a|vi|cu|[li]|nha
+avicultor	adjetivo	a|vi|cul|[tor]
+avicultor	nome masculino	a|vi|cul|[tor]
+avicultora	nome feminino	a|vi|cul|[to]|ra
+avicultura	nome feminino	a|vi|cul|[tu]|ra
+avidamente	advérbio	a|vi|da|[men]|te
+avidar	verbo	a|vi|[dar]

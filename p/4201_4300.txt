@@ -1,0 +1,100 @@
+pedímano	adjetivo	pe|[dí]|ma|no
+pedímano	nome masculino	pe|[dí]|ma|no
+pedimento	nome masculino	pe|di|[men]|to
+pedímetro	nome masculino	pe|[dí]|me|tro
+pedincha	adjetivo	pe|[din]|cha
+pedincha	nome masculino	pe|[din]|cha
+pedincha	nome feminino	pe|[din]|cha
+pedinchão	adjetivo	pe|din|[chão]
+pedinchão	nome masculino	pe|din|[chão]
+pedinchar	verbo	pe|din|[char]
+pedincharia	nome feminino	pe|din|cha|[ri]|a
+pedinchice	nome feminino	pe|din|[chi]|ce
+pedinchona	nome feminino	pe|din|[cho]|na
+pedintão	adjetivo	pe|din|[tão]
+pedintão	nome masculino	pe|din|[tão]
+pedintar	verbo	pe|din|[tar]
+pedintaria	nome feminino	pe|din|ta|[ri]|a
+pedinte	adjetivo	pe|[din]|te
+pedinte	nome masculino	pe|[din]|te
+pedinte	nome feminino	pe|[din]|te
+pedionite	nome feminino	pe|di|o|[ni]|te
+pediônomo	adjetivo	pe|di|[ô]|no|mo
+pediónomo	adjetivo	pe|di|[ó]|no|mo
+pedioso	adjetivo	pe|di|[o]|so
+pedipalpo	nome masculino	pe|di|[pal]|po
+pedipalpo	adjetivo	pe|di|[pal]|po
+pedir	verbo	pe|[dir]
+pedíssequo	adjetivo	pe|[dís]|se|quo
+pédite	adjetivo	[pé]|di|te
+pédite	nome masculino	[pé]|di|te
+peditório	nome masculino	pe|di|[tó]|ri|o
+pedive	nome feminino	pe|[di]|ve
+pedivoso	adjetivo	pe|di|[vo]|so
+pedo	nome masculino	[pe]|do
+pedo	nome masculino	[pe]|do
+pedocal	nome masculino	pe|do|[cal]
+pedófila	nome feminino	pe|[dó]|fi|la
+pedofilia	nome feminino	pe|do|fi|[li]|a
+pedófilo	nome masculino	pe|[dó]|fi|lo
+pedófilo	adjetivo	pe|[dó]|fi|lo
+pedoflebotomia	nome feminino	pe|do|fle|bo|to|[mi]|a
+pedoflebotômico	adjetivo	pe|do|fle|bo|[tô]|mi|co
+pedoflebotómico	adjetivo	pe|do|fle|bo|[tó]|mi|co
+pedofobia	nome feminino	pe|do|fo|[bi]|a
+pedofóbico	adjetivo	pe|do|[fó]|bi|co
+pedofóbico	nome masculino	pe|do|[fó]|bi|co
+pedófobo	adjetivo	pe|[dó]|fo|bo
+pedófobo	nome masculino	pe|[dó]|fo|bo
+pedogamia	nome feminino	pe|do|ga|[mi]|a
+pedogénese	nome feminino	pe|do|[gé]|ne|se
+pedogênese	nome feminino	pe|do|[gê]|ne|se
+pedoiro	nome masculino	pe|[doi]|ro
+pedolexia	nome feminino	pe|do|le|[xi]|a
+pedóloga	nome feminino	pe|[dó]|lo|ga
+pedologia	nome feminino	pe|do|lo|[gi]|a
+pedológico	adjetivo	pe|do|[ló]|gi|co
+pedologista	nome masculino	pe|do|lo|[gis]|ta
+pedologista	nome feminino	pe|do|lo|[gis]|ta
+pedólogo	nome masculino	pe|[dó]|lo|go
+pedometria	nome feminino	pe|do|me|[tri]|a
+pedométrico	adjetivo	pe|do|[mé]|tri|co
+pedómetro	nome masculino	pe|[dó]|me|tro
+pedômetro	nome masculino	pe|[dô]|me|tro
+pedonal	adjetivo	pe|do|[nal]
+pedonomia	nome feminino	pe|do|no|[mi]|a
+pedonômico	adjetivo	pe|do|[nô]|mi|co
+pedonómico	adjetivo	pe|do|[nó]|mi|co
+pedônomo	nome masculino	pe|[dô]|no|mo
+pedónomo	nome masculino	pe|[dó]|no|mo
+pedopsiquiatra	nome masculino	pe|dop|si|qui|[a]|tra
+pedopsiquiatra	nome feminino	pe|dop|si|qui|[a]|tra
+pedopsiquiatria	nome feminino	pe|dop|si|qui|a|[tri]|a
+pedopsiquiátrico	adjetivo	pe|dop|si|qui|[á]|tri|co
+pedotecnia	nome feminino	pe|do|tec|[ni]|a
+pedotécnico	adjetivo	pe|do|[téc]|ni|co
+pedótriba	nome masculino	pe|[dó]|tri|ba
+pedotríbica	nome feminino	pe|do|[trí]|bi|ca
+pedotríbico	adjetivo	pe|do|[trí]|bi|co
+pedotrofia	nome feminino	pe|do|tro|[fi]|a
+pedotrófico	adjetivo	pe|do|[tró]|fi|co
+pedótrofo	nome masculino	pe|[dó]|tro|fo
+pedouro	nome masculino	pe|[dou]|ro
+pedra	nome feminino	[pe]|dra
+pedra de afiar	nome feminino	[pe]|dra de a|fi|ar
+pedra de águia	nome feminino	[pe]|dra de á|gui|a
+pedra de amolar	nome feminino	[pe]|dra de a|mo|lar
+pedra de cevar	nome feminino	[pe]|dra de ce|var
+pedra de raio	nome feminino	[pe]|dra de rai|o
+pedra de sangue	nome feminino	[pe]|dra de san|gue
+pedra de toque	nome feminino	[pe]|dra de to|que
+pedra-canela	nome feminino	pe|dra-ca|[ne]|la
+pedra-escrófula	nome feminino	pe|dra-es|[cró]|fu|la
+pedra-imã	nome feminino	pe|dra-i|[mã]
+pedra-íman	nome feminino	pe|dra-í|man
+pedra-infernal	nome feminino	pe|dra-in|fer|[nal]
+pedra-lipes	nome feminino	pe|dra-li|pes
+pedra-mármore	nome feminino	pe|dra-már|mo|re
+pedra-olar	nome feminino	pe|dra-o|[lar]
+pedra-pomes	nome feminino	pe|dra-po|mes
+pedra-sabão	nome feminino	pe|dra-sa|[bão]

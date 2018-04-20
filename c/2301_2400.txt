@@ -1,0 +1,100 @@
+camarologia	nome feminino	ca|ma|ro|lo|[gi]|a
+camarológico	adjetivo	ca|ma|ro|[ló]|gi|co
+camarólogo	nome masculino	ca|ma|[ró]|lo|go
+camaronense	adjetivo	ca|ma|ro|[nen]|se
+camaronense	nome masculino	ca|ma|ro|[nen]|se
+camaronense	nome feminino	ca|ma|ro|[nen]|se
+camaronês	adjetivo	ca|ma|ro|[nês]
+camaronês	nome masculino	ca|ma|ro|[nês]
+camarote	nome masculino	ca|ma|[ro]|te
+camaroteira	nome feminino	ca|ma|ro|[tei]|ra
+camaroteiro	nome masculino	ca|ma|ro|[tei]|ro
+camaroto	nome masculino	ca|ma|[ro]|to
+camartelada	nome feminino	ca|mar|te|[la]|da
+camartelador	adjetivo	ca|mar|te|la|[dor]
+camartelar	verbo	ca|mar|te|[lar]
+camartelo	nome masculino	ca|mar|[te]|lo
+camatanga	nome feminino	ca|ma|[tan]|ga
+camau	nome masculino	ca|[mau]
+camauro	nome masculino	ca|[mau]|ro
+camavo	adjetivo	ca|[ma]|vo
+camavo	nome masculino	ca|[ma]|vo
+camaxirra	nome feminino	ca|ma|[xir]|ra
+camba	nome feminino	[cam]|ba
+camba	nome masculino	[cam]|ba
+cambaco	nome masculino	cam|[ba]|co
+cambada	nome feminino	cam|[ba]|da
+cambadela	nome feminino	cam|ba|[de]|la
+cambado	adjetivo	cam|[ba]|do
+cambadoiro	nome masculino	cam|ba|[doi]|ro
+cambadouro	nome masculino	cam|ba|[dou]|ro
+cambaia	nome feminino	cam|[bai]|a
+cambaiate	adjetivo	cam|bai|[a]|te
+cambaiate	nome masculino	cam|bai|[a]|te
+cambaiate	nome feminino	cam|bai|[a]|te
+cambaico	adjetivo	cam|[bai]|co
+cambaico	nome masculino	cam|[bai]|co
+cambaio	adjetivo	cam|[bai]|o
+cambaio	nome masculino	cam|[bai]|o
+cambal	nome masculino	cam|[bal]
+cambala	nome feminino	cam|[ba]|la
+cambalachar	verbo	cam|ba|la|[char]
+cambalacho	nome masculino	cam|ba|[la]|cho
+cambaleante	adjetivo	cam|ba|le|[an]|te
+cambalear	verbo	cam|ba|le|[ar]
+cambaleio	nome masculino	cam|ba|[lei]|o
+cambalhão	nome masculino	cam|ba|[lhão]
+cambalhota	nome feminino	cam|ba|[lho]|ta
+cambalhotar	verbo	cam|ba|lho|[tar]
+cambaluço	nome masculino	cam|ba|[lu]|ço
+cambaluz	nome masculino	cam|ba|[luz]
+cambamento	nome masculino	cam|ba|[men]|to
+cambança	nome feminino	cam|[ban]|ça
+cambanito	nome masculino	cam|ba|[ni]|to
+cambanza	nome feminino	cam|[ban]|za
+cambão	nome masculino	cam|[bão]
+cambapé	nome masculino	cam|ba|[pé]
+cambar	verbo	cam|[bar]
+cambará	nome masculino	cam|ba|[rá]
+cambareira	nome feminino	cam|ba|[rei]|ra
+cambaretas	nome feminino	cam|ba|[re]|tas
+cambariçu	nome masculino	cam|ba|ri|[çu]
+cambaritas	nome feminino	cam|ba|[ri]|tas
+cambaritoque	nome masculino	cam|ba|ri|[to]|que
+cambau	nome masculino	cam|[bau]
+cambaxirra	nome feminino	cam|ba|[xir]|ra
+cambaz	adjetivo	cam|[baz]
+cambeba	adjetivo	cam|[be]|ba
+cambeba	nome masculino	cam|[be]|ba
+cambeba	nome feminino	cam|[be]|ba
+cambeira	nome feminino	cam|[bei]|ra
+cambeirada	nome feminino	cam|bei|[ra]|da
+cambeiral	nome masculino	cam|bei|[ral]
+cambeiro	nome masculino	cam|[bei]|ro
+cambembe	adjetivo	cam|[bem]|be
+camber	nome masculino	cam|[ber]
+camberrana	nome feminino	cam|ber|[ra]|na
+camberrano	adjetivo	cam|ber|[ra]|no
+camberrano	nome masculino	cam|ber|[ra]|no
+cambeta	adjetivo	cam|[be]|ta
+cambeta	nome masculino	cam|[be]|ta
+cambeta	nome feminino	cam|[be]|ta
+cambetear	verbo	cam|be|te|[ar]
+cambeúva	adjetivo	cam|be|[ú]|va
+cambiação	nome feminino	cam|bi|a|[ção]
+cambiador	nome masculino	cam|bi|a|[dor]
+cambial	nome feminino	cam|bi|[al]
+cambial	adjetivo	cam|bi|[al]
+cambial	nome masculino	cam|bi|[al]
+cambiância	nome feminino	cam|bi|[ân]|ci|a
+cambiante	adjetivo	cam|bi|[an]|te
+cambiante	nome masculino	cam|bi|[an]|te
+cambiante	nome feminino	cam|bi|[an]|te
+cambiar	verbo	cam|bi|[ar]
+cambiário	adjetivo	cam|bi|[á]|ri|o
+cambiável	adjetivo	cam|bi|[á]|vel
+cambica	nome feminino	cam|[bi]|ca
+câmbio	nome masculino	[câm]|bi|o
+cambiriquito	nome masculino	cam|bi|ri|[qui]|to
+cambismo	nome masculino	cam|[bis]|mo
+cambista	nome masculino	cam|[bis]|ta

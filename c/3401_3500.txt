@@ -1,0 +1,100 @@
+cannabis	nome feminino	can|na|bis
+cannellone	nome masculino	can|nel|lo|ne
+cano	nome masculino	[ca]|no
+cano	adjetivo	[ca]|no
+canoa	nome feminino	ca|[no]|a
+canoa-automóvel	nome feminino	ca|no|a-au|to|[mó]|vel
+canoagem	nome feminino	ca|no|[a]|gem
+canoão	nome masculino	ca|no|[ão]
+canoco	nome masculino	ca|[no]|co
+canoco	adjetivo	ca|[no]|co
+canóculo	nome masculino	ca|[nó]|cu|lo
+canoeira	nome feminino	ca|no|[ei]|ra
+canoeiro	nome masculino	ca|no|[ei]|ro
+canoense	adjetivo	ca|no|[en]|se
+canoense	nome masculino	ca|no|[en]|se
+canoense	nome feminino	ca|no|[en]|se
+canoila	nome feminino	ca|[noi]|la
+canoilo	nome masculino	ca|[noi]|lo
+canoinha	nome feminino	ca|no|[i]|nha
+canoira	nome feminino	ca|[noi]|ra
+canoísta	nome masculino	ca|no|[ís]|ta
+canoísta	nome feminino	ca|no|[ís]|ta
+cânon	nome masculino	[câ]|non
+cânone	nome masculino	[câ]|no|ne
+canonical	adjetivo	ca|no|ni|[cal]
+canonicamente	advérbio	ca|no|ni|ca|[men]|te
+canonicato	nome masculino	ca|no|ni|[ca]|to
+canonicidade	nome feminino	ca|no|ni|ci|[da]|de
+canónico	adjetivo	ca|[nó]|ni|co
+canônico	nome masculino	ca|[nô]|ni|co
+canônico	adjetivo	ca|[nô]|ni|co
+canónico	nome masculino	ca|[nó]|ni|co
+canonista	nome masculino	ca|no|[nis]|ta
+canonista	nome feminino	ca|no|[nis]|ta
+canonização	nome feminino	ca|no|ni|za|[ção]
+canonizador	adjetivo	ca|no|ni|za|[dor]
+canonizador	nome masculino	ca|no|ni|za|[dor]
+canonizar	verbo	ca|no|ni|[zar]
+canonizável	adjetivo	ca|no|ni|[zá]|vel
+canopeu	adjetivo	ca|no|[peu]
+canopeu	nome masculino	ca|no|[peu]
+canopi	nome masculino	ca|no|[pi]
+canopita	adjetivo	ca|no|[pi]|ta
+canopita	nome masculino	ca|no|[pi]|ta
+canopita	nome feminino	ca|no|[pi]|ta
+canoramente	advérbio	ca|no|ra|[men]|te
+canorizar	adjetivo	ca|no|ri|[zar]
+canoro	adjetivo	ca|[no]|ro
+canossiano	nome masculino	ca|nos|si|[a]|no
+canossiano	adjetivo	ca|nos|si|[a]|no
+canotaria	nome feminino	ca|no|ta|[ri]|a
+canoula	nome feminino	ca|[nou]|la
+canoulo	nome masculino	ca|[nou]|lo
+canoura	nome feminino	ca|[nou]|ra
+cansaço	nome masculino	can|[sa]|ço
+cansado	adjetivo	can|[sa]|do
+cansamento	nome masculino	can|sa|[men]|to
+cansanção	nome masculino	can|san|[ção]
+cansar	verbo	can|[sar]
+cansarina	nome feminino	can|sa|[ri]|na
+cansativo	adjetivo	can|sa|[ti]|vo
+cansável	adjetivo	can|[sá]|vel
+canseira	nome feminino	can|[sei]|ra
+canseiroso	adjetivo	can|sei|[ro]|so
+cantabile	adjetivo	can|ta|[bi]|le
+cantabile	nome masculino	can|ta|[bi]|le
+cântabra	nome feminino	[cân]|ta|bra
+cantábria	nome feminino	can|[tá]|bri|a
+cantábrica	nome feminino	can|[tá]|bri|ca
+cantábrico	adjetivo	can|[tá]|bri|co
+cantábrico	nome masculino	can|[tá]|bri|co
+cantábrio	adjetivo	can|[tá]|bri|o
+cantábrio	nome masculino	can|[tá]|bri|o
+cântabro	adjetivo	[cân]|ta|bro
+cântabro	nome masculino	[cân]|ta|bro
+cantada	nome feminino	can|[ta]|da
+cantadeira	nome feminino	can|ta|[dei]|ra
+cantadeiro	nome masculino	can|ta|[dei]|ro
+cantadela	nome feminino	can|ta|[de]|la
+cantadoira	nome feminino	can|ta|[doi]|ra
+cantador	adjetivo	can|ta|[dor]
+cantador	nome masculino	can|ta|[dor]
+cantadora	nome feminino	can|ta|[do]|ra
+cantadoria	nome feminino	can|ta|do|[ri]|a
+cantadoura	nome feminino	can|ta|[dou]|ra
+cantagalo	adjetivo	can|ta|[ga]|lo
+cantalupo	adjetivo	can|ta|[lu]|po
+cantalupo	nome masculino	can|ta|[lu]|po
+cantanhedense	nome masculino	can|ta|nhe|[den]|se
+cantanhedense	adjetivo	can|ta|nhe|[den]|se
+cantanhedense	nome feminino	can|ta|nhe|[den]|se
+cantante	adjetivo	can|[tan]|te
+cantante	nome masculino	can|[tan]|te
+cantão	nome masculino	can|[tão]
+cantar	nome masculino	can|[tar]
+cantar	verbo	can|[tar]
+cântara	nome feminino	[cân]|ta|ra
+cantareira	nome feminino	can|ta|[rei]|ra
+cantareiro	adjetivo	can|ta|[rei]|ro
+cantareiro	nome masculino	can|ta|[rei]|ro

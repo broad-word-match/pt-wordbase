@@ -1,0 +1,100 @@
+barbicha	nome feminino	bar|[bi]|cha
+barbichas	nome masculino	bar|[bi]|chas
+barbicho	nome masculino	bar|[bi]|cho
+barbidju	nome masculino	bar|bid|[ju]
+barbífero	adjetivo	bar|[bí]|fe|ro
+barbiforme	adjetivo	bar|bi|[for]|me
+barbilha	nome feminino	bar|[bi]|lha
+barbilhão	nome masculino	bar|bi|[lhão]
+barbilho	nome masculino	bar|[bi]|lho
+barbiloiro	adjetivo	bar|bi|[loi]|ro
+barbilongo	adjetivo	bar|bi|[lon]|go
+barbilouro	adjetivo	bar|bi|[lou]|ro
+barbinegro	adjetivo	bar|bi|[ne]|gro
+barbino	nome masculino	bar|[bi]|no
+barbípede	adjetivo	bar|[bí]|pe|de
+barbipoente	adjetivo	bar|bi|po|[en]|te
+barbiponente	adjetivo	bar|bi|po|[nen]|te
+barbirrostro	adjetivo	bar|bir|[ros]|tro
+barbirruivo	adjetivo	bar|bir|[rui]|vo
+barbital	nome masculino	bar|bi|[tal]
+barbiteso	adjetivo	bar|bi|[te]|so
+bárbito	nome masculino	[bár]|bi|to
+barbiturato	nome masculino	bar|bi|tu|[ra]|to
+barbitúrico	adjetivo	bar|bi|[tú]|ri|co
+barbitúrico	nome masculino	bar|bi|[tú]|ri|co
+barbiturismo	nome masculino	bar|bi|tu|[ris]|mo
+barbo	nome masculino	[bar]|bo
+barbos	nome masculino	[bar]|bos
+barbosa	nome feminino	bar|[bo]|sa
+barbote	nome masculino	bar|[bo]|te
+barbotina	nome feminino	bar|bo|[ti]|na
+barboto	nome masculino	bar|[bo]|to
+barbozinho	nome masculino	bar|bo|[zi]|nho
+barbuda	nome feminino	bar|[bu]|da
+barbudo	adjetivo	bar|[bu]|do
+barbudo	nome masculino	bar|[bu]|do
+bárbula	nome feminino	[bár]|bu|la
+barbuzano	nome masculino	bar|bu|[za]|no
+barça	nome feminino	[bar]|ça
+barca	nome feminino	[bar]|ca
+barca de ouro	nome feminino	[bar]|ca de ou|ro
+barca-volante	nome feminino	bar|ca-vo|[lan]|te
+barcaça	nome feminino	bar|[ca]|ça
+barcaceiro	nome masculino	bar|ca|[cei]|ro
+barcada	nome feminino	bar|[ca]|da
+barcafom	nome masculino	bar|[ca]|fom
+barcagem	nome feminino	bar|[ca]|gem
+barcana	nome feminino	bar|[ca]|na
+barcano	adjetivo	bar|[ca]|no
+barcano	nome masculino	bar|[ca]|no
+barcarola	nome feminino	bar|ca|[ro]|la
+barceiro	nome masculino	bar|[cei]|ro
+barcelada	nome feminino	bar|ce|[la]|da
+barcelense	nome masculino	bar|ce|[len]|se
+barcelense	adjetivo	bar|ce|[len]|se
+barcelense	nome feminino	bar|ce|[len]|se
+barcelonada	nome feminino	bar|ce|lo|[na]|da
+barcelonense	adjetivo	bar|ce|lo|[nen]|se
+barcelonense	nome masculino	bar|ce|lo|[nen]|se
+barcelonense	nome feminino	bar|ce|lo|[nen]|se
+barcelonês	adjetivo	bar|ce|lo|[nês]
+barcelonês	nome masculino	bar|ce|lo|[nês]
+barcelonesa	nome feminino	bar|ce|lo|[ne]|sa
+barceu	adjetivo	bar|[ceu]
+barceu	nome masculino	bar|[ceu]
+barcinão	adjetivo	bar|ci|[não]
+barcinão	nome masculino	bar|ci|[não]
+barcino	adjetivo	bar|[ci]|no
+barcinonense	adjetivo	bar|ci|no|[nen]|se
+barcinonense	nome masculino	bar|ci|no|[nen]|se
+barcinonense	nome feminino	bar|ci|no|[nen]|se
+barco	nome masculino	[bar]|co
+barco-automóvel	nome masculino	bar|co-au|to|[mó]|vel
+barco-dragão	nome masculino	bar|co-dra|[gão]
+barco-farol	nome masculino	bar|co-fa|[rol]
+barco-patrulha	nome masculino	bar|co-pa|[tru]|lha
+barco-piloto	nome masculino	bar|co-pi|[lo]|to
+barcola	nome feminino	bar|[co]|la
+barcolas	nome feminino	bar|[co]|las
+barcote	nome masculino	bar|[co]|te
+barda	nome feminino	[bar]|da
+bardada	nome feminino	bar|[da]|da
+bardamerda	nome masculino	bar|da|[mer]|da
+bardamerda	nome feminino	bar|da|[mer]|da
+bardamerdas	nome masculino	bar|da|[mer]|das
+bardamerdas	nome feminino	bar|da|[mer]|das
+bardana	nome feminino	bar|[da]|na
+bardana-maior	nome feminino	bar|da|na-mai|[or]
+bardana-menor	nome feminino	bar|da|na-me|[nor]
+bardar	verbo	bar|[dar]
+bardesano	adjetivo	bar|de|[sa]|no
+bardesano	nome masculino	bar|de|[sa]|no
+bardeu	adjetivo	bar|[deu]
+bardeu	nome masculino	bar|[deu]
+bárdico	adjetivo	[bár]|di|co
+bardilho	adjetivo	bar|[di]|lho
+bardino	nome masculino	bar|[di]|no
+bardisano	adjetivo	bar|di|[sa]|no
+bardisano	nome masculino	bar|di|[sa]|no
+bardito	nome masculino	bar|[di]|to

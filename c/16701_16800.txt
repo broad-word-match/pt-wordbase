@@ -1,0 +1,100 @@
+corica	nome feminino	co|[ri]|ca
+coricida	nome masculino	co|ri|[ci]|da
+corício	adjetivo	co|[rí]|ci|o
+corício	nome masculino	co|[rí]|ci|o
+córico	adjetivo	[có]|ri|co
+corículo	nome masculino	co|[rí]|cu|lo
+coridalina	nome feminino	co|ri|da|[li]|na
+corídalo	nome masculino	co|[rí]|da|lo
+corifena	nome feminino	co|ri|[fe]|na
+corifenídeo	nome masculino	co|ri|fe|[ní]|de|o
+corifenídeo	adjetivo	co|ri|fe|[ní]|de|o
+corifenídeo	nome masculino	co|ri|fe|[ní]|de|o
+corifeu	nome masculino	co|ri|[feu]
+corilácea	nome feminino	co|ri|[lá]|ce|a
+coriláceo	adjetivo	co|ri|[lá]|ce|o
+corimbífera	nome feminino	co|rim|[bí]|fe|ra
+corimbífero	adjetivo	co|rim|[bí]|fe|ro
+corimbiforme	adjetivo	co|rim|bi|[for]|me
+corimbo	nome masculino	co|[rim]|bo
+corimboso	adjetivo	co|rim|[bo]|so
+corina	nome feminino	co|[ri]|na
+corindo	nome masculino	co|[rin]|do
+coríndon	nome masculino	co|[rín]|don
+coringa	nome masculino	co|[rin]|ga
+coringa	nome feminino	co|[rin]|ga
+coríntia	nome feminino	co|[rín]|ti|a
+corintíaco	adjetivo	co|rin|[tí]|a|co
+corintiana	nome feminino	co|rin|ti|[a]|na
+corintiano	adjetivo	co|rin|ti|[a]|no
+corintiano	nome masculino	co|rin|ti|[a]|no
+coríntica	nome feminino	co|[rín]|ti|ca
+coríntico	nome masculino	co|[rín]|ti|co
+coríntico	adjetivo	co|[rín]|ti|co
+coríntio	nome masculino	co|[rín]|ti|o
+coríntio	adjetivo	co|[rín]|ti|o
+corinto	nome masculino	co|[rin]|to
+cório	nome masculino	[có]|ri|o
+corioide	nome feminino	co|ri|[oi]|de
+corioidite	nome feminino	co|ri|oi|[di]|te
+coriolano	adjetivo	co|ri|o|[la]|no
+coriolano	nome masculino	co|ri|o|[la]|no
+córion	nome masculino	[có]|ri|on
+coriónico	adjetivo	co|ri|[ó]|ni|co
+coriônico	adjetivo	co|ri|[ô]|ni|co
+corioplastia	nome feminino	co|ri|o|plas|[ti]|a
+corioplástico	adjetivo	co|ri|o|[plás]|ti|co
+corisa	nome feminino	co|[ri]|sa
+coriscação	nome feminino	co|ris|ca|[ção]
+coriscada	nome feminino	co|ris|[ca]|da
+coriscante	adjetivo	co|ris|[can]|te
+coriscar	verbo	co|ris|[car]
+corisco	nome masculino	co|[ris]|co
+corisco	adjetivo	co|[ris]|co
+corista	nome feminino	co|[ris]|ta
+corista	nome masculino	co|[ris]|ta
+corixa	nome feminino	co|[ri]|xa
+corixo	nome masculino	co|[ri]|xo
+coriza	nome feminino	co|[ri]|za
+corizonte	nome masculino	co|ri|[zon]|te
+corja	nome feminino	[cor]|ja
+cormo	nome masculino	[cor]|mo
+cormófita	nome feminino	cor|[mó]|fi|ta
+cormófito	nome masculino	cor|[mó]|fi|to
+cormófito	adjetivo	cor|[mó]|fi|to
+corna	nome feminino	[cor]|na
+cornaca	nome masculino	cor|[na]|ca
+cornácea	nome feminino	cor|[ná]|ce|a
+cornáceo	adjetivo	cor|[ná]|ce|o
+cornacha	nome feminino	cor|[na]|cha
+cornada	nome feminino	cor|[na]|da
+cornado	adjetivo	cor|[na]|do
+cornadura	nome feminino	cor|na|[du]|ra
+cornal	nome masculino	cor|[nal]
+cornalão	adjetivo	cor|na|[lão]
+cornalão	nome masculino	cor|na|[lão]
+cornalheira	nome feminino	cor|na|[lhei]|ra
+cornalhuda	adjetivo	cor|na|[lhu]|da
+cornalina	nome feminino	cor|na|[li]|na
+cornamenta	nome feminino	cor|na|[men]|ta
+cornamusa	nome feminino	cor|na|[mu]|sa
+cornante	adjetivo	cor|[nan]|te
+cornar	verbo	cor|[nar]
+cornaria	nome feminino	cor|na|[ri]|a
+corne	nome masculino	[cor]|ne
+corne-inglês	nome masculino	cor|ne-in|[glês]
+córnea	nome feminino	[cór]|ne|a
+corneação	nome feminino	cor|ne|a|[ção]
+corneador	adjetivo	cor|ne|a|[dor]
+corneal	adjetivo	cor|ne|[al]
+corneamente	advérbio	cor|ne|a|[men]|te
+corneana	nome feminino	cor|ne|[a]|na
+cornear	verbo	cor|ne|[ar]
+cornecha	nome feminino	cor|[ne]|cha
+cornecho	nome masculino	cor|[ne]|cho
+corneira	nome feminino	cor|[nei]|ra
+cornejar	verbo	cor|ne|[jar]
+corneliano	adjetivo	cor|ne|li|[a]|no
+córneo	adjetivo	[cór]|ne|o
+cornéola	nome feminino	cor|[né]|o|la
+corneta	adjetivo	cor|[ne]|ta

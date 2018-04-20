@@ -1,0 +1,100 @@
+otocefalia	nome feminino	o|to|ce|fa|[li]|a
+otocéfalo	adjetivo	o|to|[cé]|fa|lo
+otocéfalo	nome masculino	o|to|[cé]|fa|lo
+otociste	nome masculino	o|to|[cis]|te
+otocofose	nome feminino	o|to|co|[fo]|se
+otocónia	nome feminino	o|to|[có]|ni|a
+otocônia	nome feminino	o|to|[cô]|ni|a
+otodinia	nome feminino	o|to|di|[ni]|a
+otodínico	adjetivo	o|to|[dí]|ni|co
+otóforo	nome masculino	o|[tó]|fo|ro
+otografia	nome feminino	o|to|gra|[fi]|a
+otográfico	adjetivo	o|to|[grá]|fi|co
+otolítico	adjetivo	o|to|[lí]|ti|co
+otólito	nome masculino	o|[tó]|li|to
+otologia	nome feminino	o|to|lo|[gi]|a
+otológico	adjetivo	o|to|[ló]|gi|co
+otologista	nome masculino	o|to|lo|[gis]|ta
+otologista	nome feminino	o|to|lo|[gis]|ta
+otomana	nome feminino	o|to|[ma]|na
+otomano	nome masculino	o|to|[ma]|no
+otomano	adjetivo	o|to|[ma]|no
+otomba	nome feminino	o|[tom]|ba
+otombeira	nome feminino	o|tom|[bei]|ra
+otomicetose	nome feminino	o|to|mi|ce|[to]|se
+otomicose	nome feminino	o|to|mi|[co]|se
+otoneurologia	nome feminino	o|to|neu|ro|lo|[gi]|a
+otoniano	adjetivo	o|to|ni|[a]|no
+otopatia	nome feminino	o|to|pa|[ti]|a
+otopático	adjetivo	o|to|[pá]|ti|co
+otopiorreia	nome feminino	o|to|pi|or|[rei]|a
+otopiorreico	adjetivo	o|to|pi|or|[rei]|co
+otoplastia	nome feminino	o|to|plas|[ti]|a
+otoplástico	adjetivo	o|to|[plás]|ti|co
+otorragia	nome feminino	o|tor|ra|[gi]|a
+otorrágico	adjetivo	o|tor|[rá]|gi|co
+otorreia	nome feminino	o|tor|[rei]|a
+otorreico	adjetivo	o|tor|[rei]|co
+otorrino	adjetivo	o|tor|[ri]|no
+otorrino	nome masculino	o|tor|[ri]|no
+otorrino	nome feminino	o|tor|[ri]|no
+otorrinolaringóloga	nome feminino	o|tor|ri|no|la|rin|[gó]|lo|ga
+otorrinolaringologia	nome feminino	o|tor|ri|no|la|rin|go|lo|[gi]|a
+otorrinolaringológico	adjetivo	o|tor|ri|no|la|rin|go|[ló]|gi|co
+otorrinolaringologista	adjetivo	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringologista	nome masculino	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringologista	nome feminino	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringólogo	nome masculino	o|tor|ri|no|la|rin|[gó]|lo|go
+otosclerose	nome feminino	o|tos|cle|[ro]|se
+otosclerótico	adjetivo	o|tos|cle|[ró]|ti|co
+otoscopia	nome feminino	o|tos|co|[pi]|a
+otoscópico	adjetivo	o|tos|[có]|pi|co
+otoscópio	nome masculino	o|tos|[có]|pi|o
+otostégia	nome feminino	o|tos|[té]|gi|a
+ototerapia	nome feminino	o|to|te|ra|[pi]|a
+ototerápico	adjetivo	o|to|te|[rá]|pi|co
+ototomia	nome feminino	o|to|to|[mi]|a
+ototômico	adjetivo	o|to|[tô]|mi|co
+ototómico	adjetivo	o|to|[tó]|mi|co
+ototóxico	adjetivo	o|to|[tó]|xi|co
+ototóxico	nome masculino	o|to|[tó]|xi|co
+otozamites	nome feminino	o|to|za|[mi]|tes
+otrioneu	adjetivo	o|tri|o|[neu]
+otrioneu	nome masculino	o|tri|o|[neu]
+ou	conjunção	ou
+ouça	nome feminino	[ou]|ça
+oução	nome masculino	ou|[ção]
+ougã	nome masculino	ou|[gã]
+ougado	adjetivo	ou|[ga]|do
+ougar	verbo	ou|[gar]
+ouguiya	nome masculino	ou|guiya
+ouirarema	nome feminino	oui|ra|[re]|ma
+oura	nome feminino	[ou]|ra
+ourado	adjetivo	ou|[ra]|do
+ourama	nome feminino	ou|[ra]|ma
+ouramento	nome masculino	ou|ra|[men]|to
+ourar	verbo	ou|[rar]
+oureça	nome feminino	ou|[re]|ça
+oureense	adjetivo	ou|re|[en]|se
+oureense	nome masculino	ou|re|[en]|se
+oureense	nome feminino	ou|re|[en]|se
+ourégão	nome masculino	ou|[ré]|gão
+ourego	nome masculino	ou|[re]|go
+ourejante	adjetivo	ou|re|[jan]|te
+ourejar	verbo	ou|re|[jar]
+ourela	nome feminino	ou|[re]|la
+ourelado	adjetivo	ou|re|[la]|do
+ourelar	verbo	ou|re|[lar]
+ourelo	nome masculino	ou|[re]|lo
+ourenense	nome masculino	ou|re|[nen]|se
+ourenense	nome feminino	ou|re|[nen]|se
+ourenense	adjetivo	ou|re|[nen]|se
+ouriçado	adjetivo	ou|ri|[ça]|do
+ouriçador	nome masculino	ou|ri|ça|[dor]
+ouriçador	adjetivo	ou|ri|ça|[dor]
+ouriçar	verbo	ou|ri|[çar]
+ouriceira	nome feminino	ou|ri|[cei]|ra
+ouriceiro	nome masculino	ou|ri|[cei]|ro
+ouriço	nome masculino	ou|[ri]|ço
+ouriço-cacheiro	nome masculino	ou|ri|ço-ca|[chei]|ro
+ouriço-do-mar	nome masculino	ou|ri|ço-do-mar

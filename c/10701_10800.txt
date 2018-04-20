@@ -1,0 +1,100 @@
+cisca	nome feminino	[cis]|ca
+ciscada	nome feminino	cis|[ca]|da
+ciscador	nome masculino	cis|ca|[dor]
+ciscalhada	nome feminino	cis|ca|[lha]|da
+ciscalhagem	nome feminino	cis|ca|[lha]|gem
+ciscalho	nome masculino	cis|[ca]|lho
+ciscar	verbo	cis|[car]
+ciscarpático	adjetivo	cis|car|[pá]|ti|co
+cisco	nome masculino	[cis]|co
+cisdanubiano	adjetivo	cis|da|nu|bi|[a]|no
+cisel	nome masculino	ci|[sel]
+cisgangético	adjetivo	cis|gan|[gé]|ti|co
+cisgola	nome feminino	cis|[go]|la
+císio	nome masculino	[cí]|si|o
+cisionista	adjetivo	ci|si|o|[nis]|ta
+cisionista	nome masculino	ci|si|o|[nis]|ta
+cisionista	nome feminino	ci|si|o|[nis]|ta
+cisjordânico	adjetivo	cis|jor|[dâ]|ni|co
+cisjurano	adjetivo	cis|ju|[ra]|no
+cisma	nome masculino	[cis]|ma
+cisma	nome feminino	[cis]|ma
+cismador	adjetivo	cis|ma|[dor]
+cismador	nome masculino	cis|ma|[dor]
+cismar	verbo	cis|[mar]
+cismar	nome masculino	cis|[mar]
+cismática	nome feminino	cis|[má]|ti|ca
+cismático	nome masculino	cis|[má]|ti|co
+cismático	adjetivo	cis|[má]|ti|co
+cismativo	adjetivo	cis|ma|[ti]|vo
+cismontano	adjetivo	cis|mon|[ta]|no
+cisne	nome masculino	[cis]|ne
+cisouro	nome masculino	ci|[sou]|ro
+cispadano	adjetivo	cis|pa|[da]|no
+císpio	adjetivo	[cís]|pi|o
+císpio	nome masculino	[cís]|pi|o
+cispirenaico	adjetivo	cis|pi|re|[nai]|co
+cisplatino	adjetivo	cis|pla|[ti]|no
+cisqueiro	nome masculino	cis|[quei]|ro
+cisquinho	nome masculino	cis|[qui]|nho
+cisrenano	adjetivo	cis|re|[na]|no
+cissampélea	nome feminino	cis|sam|[pé]|le|a
+cissampelina	nome feminino	cis|sam|pe|[li]|na
+cissâmpelo	nome masculino	cis|[sâm]|pe|lo
+cissão	nome feminino	cis|[são]
+cissiparidade	nome feminino	cis|si|pa|ri|[da]|de
+cissíparo	adjetivo	cis|[sí]|pa|ro
+cisso	adjetivo	[cis]|so
+cisso	nome masculino	[cis]|so
+cissoide	adjetivo	cis|[soi]|de
+cissura	nome feminino	cis|[su]|ra
+cista	nome feminino	[cis]|ta
+cistácea	nome feminino	cis|[tá]|ce|a
+cistáceo	adjetivo	cis|[tá]|ce|o
+cistagano	adjetivo	cis|ta|[ga]|no
+cistalgia	nome feminino	cis|tal|[gi]|a
+cistálgico	adjetivo	cis|[tál]|gi|co
+cistectasia	nome feminino	cis|tec|ta|[si]|a
+cistectomia	nome feminino	cis|tec|to|[mi]|a
+cistectômico	adjetivo	cis|tec|[tô]|mi|co
+cistectómico	adjetivo	cis|tec|[tó]|mi|co
+cisteína	nome feminino	cis|te|[í]|na
+cistela	nome feminino	cis|[te]|la
+cistemia	nome feminino	cis|te|[mi]|a
+cistémico	adjetivo	cis|[té]|mi|co
+cistêmico	adjetivo	cis|[tê]|mi|co
+cistencéfalo	nome masculino	cis|ten|[cé]|fa|lo
+cistepático	adjetivo	cis|te|[pá]|ti|co
+cisterciense	adjetivo	cis|ter|ci|[en]|se
+cisterciense	nome masculino	cis|ter|ci|[en]|se
+cisterciense	nome feminino	cis|ter|ci|[en]|se
+cisterna	nome feminino	cis|[ter]|na
+cistialgia	nome feminino	cis|ti|al|[gi]|a
+cistiálgico	adjetivo	cis|ti|[ál]|gi|co
+cistiberino	adjetivo	cis|ti|be|[ri]|no
+cisticerco	nome masculino	cis|ti|[cer]|co
+cisticercoide	adjetivo	cis|ti|cer|[coi]|de
+cisticercose	nome feminino	cis|ti|cer|[co]|se
+cisticercótico	adjetivo	cis|ti|cer|[có]|ti|co
+cístico	adjetivo	[cís]|ti|co
+cisticotomia	nome feminino	cis|ti|co|to|[mi]|a
+cistiectasia	nome feminino	cis|ti|ec|ta|[si]|a
+cistiectomia	nome feminino	cis|ti|ec|to|[mi]|a
+cistiectômico	adjetivo	cis|ti|ec|[tô]|mi|co
+cistiectómico	adjetivo	cis|ti|ec|[tó]|mi|co
+cistiemia	nome feminino	cis|ti|e|[mi]|a
+cistiémico	adjetivo	cis|ti|[é]|mi|co
+cistiêmico	adjetivo	cis|ti|[ê]|mi|co
+cistiencéfalo	nome masculino	cis|ti|en|[cé]|fa|lo
+cistiepático	adjetivo	cis|ti|e|[pá]|ti|co
+cistífero	adjetivo	cis|[tí]|fe|ro
+cistina	nome feminino	cis|[ti]|na
+cistínea	nome feminino	cis|[tí]|ne|a
+cistíneo	adjetivo	cis|[tí]|ne|o
+cistinoso	adjetivo	cis|ti|[no]|so
+cistinúria	nome feminino	cis|ti|[nú]|ri|a
+cistiocele	nome feminino	cis|ti|o|[ce]|le
+cistiocerco	nome masculino	cis|ti|o|[cer]|co
+cistiocercoide	adjetivo	cis|ti|o|cer|[coi]|de
+cistiocercose	nome feminino	cis|ti|o|cer|[co]|se
+cistiodinia	nome feminino	cis|ti|o|di|[ni]|a

@@ -1,0 +1,100 @@
+endeusado	adjetivo	en|deu|[sa]|do
+endeusador	adjetivo	en|deu|sa|[dor]
+endeusador	nome masculino	en|deu|sa|[dor]
+endeusamento	nome masculino	en|deu|sa|[men]|to
+endeusar	verbo	en|deu|[sar]
+endez	nome masculino	en|[dez]
+endiabrada	nome feminino	en|di|a|[bra]|da
+endiabradamente	advérbio	en|di|a|bra|da|[men]|te
+endiabrado	adjetivo	en|di|a|[bra]|do
+endiabrado	nome masculino	en|di|a|[bra]|do
+endiabrar	verbo	en|di|a|[brar]
+endiche	nome masculino	en|[di]|che
+endimenina	nome feminino	en|di|me|[ni]|na
+endinheirado	adjetivo	en|di|nhei|[ra]|do
+endireita	nome masculino	en|di|[rei]|ta
+endireita	nome feminino	en|di|[rei]|ta
+endireitamento	nome masculino	en|di|rei|ta|[men]|to
+endireitar	verbo	en|di|rei|[tar]
+endireitável	adjetivo	en|di|rei|[tá]|vel
+endireito	nome masculino	en|di|[rei]|to
+endiva	nome feminino	en|[di]|va
+endívia	nome feminino	en|[dí]|vi|a
+endividado	adjetivo	en|di|vi|[da]|do
+endividamento	nome masculino	en|di|vi|da|[men]|to
+endividar	verbo	en|di|vi|[dar]
+endoado	adjetivo	en|do|[a]|do
+endoblasto	nome masculino	en|do|[blas]|to
+endocárdico	adjetivo	en|do|[cár]|di|co
+endocárdio	nome masculino	en|do|[cár]|di|o
+endocardite	nome feminino	en|do|car|[di]|te
+endocárpio	nome masculino	en|do|[cár]|pi|o
+endocarpo	nome masculino	en|do|[car]|po
+endocéfalo	adjetivo	en|do|[cé]|fa|lo
+endocélio	nome masculino	en|do|[cé]|li|o
+endocíclicos	nome masculino	en|do|[cí]|cli|cos
+endocitose	nome feminino	en|do|ci|[to]|se
+endocório	nome masculino	en|do|[có]|ri|o
+endocraniano	adjetivo	en|do|cra|ni|[a]|no
+endocrânio	nome masculino	en|do|[crâ]|ni|o
+endocrínico	adjetivo	en|do|[crí]|ni|co
+endócrino	adjetivo	en|[dó]|cri|no
+endocrinóloga	nome feminino	en|do|cri|[nó]|lo|ga
+endocrinologia	nome feminino	en|do|cri|no|lo|[gi]|a
+endocrinológico	adjetivo	en|do|cri|no|[ló]|gi|co
+endocrinologista	nome masculino	en|do|cri|no|lo|[gis]|ta
+endocrinologista	nome feminino	en|do|cri|no|lo|[gis]|ta
+endocrinólogo	nome masculino	en|do|cri|[nó]|lo|go
+endocruzamento	nome masculino	en|do|cru|za|[men]|to
+endoderma	nome masculino	en|do|[der]|ma
+endoderme	nome feminino	en|do|[der]|me
+endodontia	nome feminino	en|do|don|[ti]|a
+endodôntico	adjetivo	en|do|[dôn]|ti|co
+endodontite	nome feminino	en|do|don|[ti]|te
+endofasia	nome feminino	en|do|fa|[si]|a
+endófito	adjetivo	en|[dó]|fi|to
+endófito	nome masculino	en|[dó]|fi|to
+endogamia	nome feminino	en|do|ga|[mi]|a
+endogâmico	adjetivo	en|do|[gâ]|mi|co
+endógamo	adjetivo	en|[dó]|ga|mo
+endógamo	nome masculino	en|[dó]|ga|mo
+endogastrite	nome feminino	en|do|gas|[tri]|te
+endogénese	nome feminino	en|do|[gé]|ne|se
+endogênese	nome feminino	en|do|[gê]|ne|se
+endogenético	adjetivo	en|do|ge|[né]|ti|co
+endogenia	nome feminino	en|do|ge|[ni]|a
+endogênico	adjetivo	en|do|[gê]|ni|co
+endogénico	adjetivo	en|do|[gé]|ni|co
+endógeno	adjetivo	en|[dó]|ge|no
+endógeo	adjetivo	en|[dó]|ge|o
+endogônio	nome masculino	en|do|[gô]|ni|o
+endogónio	nome masculino	en|do|[gó]|ni|o
+endoidar	verbo	en|doi|[dar]
+endoidecedor	adjetivo	en|doi|de|ce|[dor]
+endoidecer	verbo	en|doi|de|[cer]
+endoidecido	adjetivo	en|doi|de|[ci]|do
+endoidecimento	nome masculino	en|doi|de|ci|[men]|to
+endolinfa	nome feminino	en|do|[lin]|fa
+endolinfático	adjetivo	en|do|lin|[fá]|ti|co
+endometamorfismo	nome masculino	en|do|me|ta|mor|[fis]|mo
+endométrico	adjetivo	en|do|[mé]|tri|co
+endométrio	nome masculino	en|do|[mé]|tri|o
+endometriose	nome feminino	en|do|me|tri|[o]|se
+endometriótico	adjetivo	en|do|me|tri|[ó]|ti|co
+endometrite	nome feminino	en|do|me|[tri]|te
+endomicose	nome feminino	en|do|mi|[co]|se
+endomingado	adjetivo	en|do|min|[ga]|do
+endomingar	verbo	en|do|min|[gar]
+endomixia	nome feminino	en|do|mi|[xi]|a
+endomórfico	adjetivo	en|do|[mór]|fi|co
+endomorfismo	nome masculino	en|do|mor|[fis]|mo
+endonefrite	nome feminino	en|do|ne|[fri]|te
+endoneuro	nome masculino	en|do|[neu]|ro
+endoparasita	nome masculino	en|do|pa|ra|[si]|ta
+endoparasitismo	nome masculino	en|do|pa|ra|si|[tis]|mo
+endoparasito	nome masculino	en|do|pa|ra|[si]|to
+endopático	adjetivo	en|do|[pá]|ti|co
+endopeptídase	nome feminino	en|do|pep|[tí]|da|se
+endopericardite	nome feminino	en|do|pe|ri|car|[di]|te
+endoplasma	nome masculino	en|do|[plas]|ma
+endoplasmático	adjetivo	en|do|plas|[má]|ti|co

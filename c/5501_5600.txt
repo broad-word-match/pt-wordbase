@@ -1,0 +1,100 @@
+carvoeiro	nome masculino	car|vo|[ei]|ro
+carvoeiro	adjetivo	car|vo|[ei]|ro
+carvoejar	verbo	car|vo|e|[jar]
+carvoento	adjetivo	car|vo|[en]|to
+carvoíço	nome masculino	car|vo|[í]|ço
+cãs	nome feminino	[cãs]
+casa	nome feminino	[ca]|sa
+casa-alugada	nome masculino	ca|sa-a|lu|[ga]|da
+casa-forte	nome feminino	ca|sa-for|te
+casa-grandense	nome masculino	ca|sa-gran|[den]|se
+casa-grandense	nome feminino	ca|sa-gran|[den]|se
+casa-grandense	adjetivo	ca|sa-gran|[den]|se
+casa-mãe	nome feminino	ca|sa-mãe
+casa-militar	nome feminino	ca|sa-mi|li|[tar]
+casa-modelo	nome feminino	ca|sa-mo|[de]|lo
+casa-museu	nome feminino	ca|sa-mu|[seu]
+casa-roubada	nome masculino	ca|sa-rou|[ba]|da
+casa-torre	nome feminino	ca|sa-tor|re
+casabeque	nome masculino	ca|sa|[be]|que
+casablanquense	adjetivo	ca|sa|blan|[quen]|se
+casablanquense	nome masculino	ca|sa|blan|[quen]|se
+casablanquense	nome feminino	ca|sa|blan|[quen]|se
+casaca	nome masculino	ca|[sa]|ca
+casaca	nome feminino	ca|[sa]|ca
+casaca-amarela	nome feminino	ca|sa|ca-a|ma|[re]|la
+casacão	nome masculino	ca|sa|[cão]
+casaco	nome masculino	ca|[sa]|co
+casaco-de-couro	nome masculino	ca|sa|co-de-cou|ro
+casada	nome feminino	ca|[sa]|da
+casadeiro	adjetivo	ca|sa|[dei]|ro
+casadinho	nome masculino	ca|sa|[di]|nho
+casado	nome masculino	ca|[sa]|do
+casado	adjetivo	ca|[sa]|do
+casadoiro	adjetivo	ca|sa|[doi]|ro
+casadouro	adjetivo	ca|sa|[dou]|ro
+casal	nome masculino	ca|[sal]
+casalar	verbo	ca|sa|[lar]
+casaleiro	nome masculino	ca|sa|[lei]|ro
+casaleiro	adjetivo	ca|sa|[lei]|ro
+casalejo	nome masculino	ca|sa|[le]|jo
+casamata	nome feminino	ca|sa|[ma]|ta
+casamatado	adjetivo	ca|sa|ma|[ta]|do
+casamatar	verbo	ca|sa|ma|[tar]
+casamentar	verbo	ca|sa|men|[tar]
+casamentear	verbo	ca|sa|men|te|[ar]
+casamenteira	nome feminino	ca|sa|men|[tei]|ra
+casamenteiro	nome masculino	ca|sa|men|[tei]|ro
+casamenteiro	adjetivo	ca|sa|men|[tei]|ro
+casamento	nome masculino	ca|sa|[men]|to
+casanova	nome masculino	ca|sa|[no]|va
+casante	nome masculino	ca|[san]|te
+casante	nome feminino	ca|[san]|te
+casão	nome masculino	ca|[são]
+casaquelho	nome masculino	ca|sa|[que]|lho
+casaquilha	nome feminino	ca|sa|[qui]|lha
+casaquinha	nome feminino	ca|sa|[qui]|nha
+casar	verbo	ca|[sar]
+casarão	nome masculino	ca|sa|[rão]
+casaredo	nome masculino	ca|sa|[re]|do
+casaréu	nome masculino	ca|sa|[réu]
+casaria	nome feminino	ca|sa|[ri]|a
+casario	nome masculino	ca|sa|[ri]|o
+casata	nome feminino	ca|[sa]|ta
+casável	adjetivo	ca|[sá]|vel
+casaveque	nome masculino	ca|sa|[ve]|que
+casbá	nome feminino	cas|[bá]
+casca	nome feminino	[cas]|ca
+casca	adjetivo	[cas]|ca
+casca	nome masculino	[cas]|ca
+casca de noz	nome feminino	[cas]|ca de noz
+casca-de-anta	nome feminino	cas|ca-de-an|ta
+casca-de-carvalho	nome masculino	cas|ca-de-car|[va]|lho
+casca-grossa	adjetivo	cas|ca-gros|sa
+casca-grossa	nome masculino	cas|ca-gros|sa
+casca-grossa	nome feminino	cas|ca-gros|sa
+cascabulhada	nome feminino	cas|ca|bu|[lha]|da
+cascabulhagem	nome feminino	cas|ca|bu|[lha]|gem
+cascabulhar	verbo	cas|ca|bu|[lhar]
+cascabulho	nome masculino	cas|ca|[bu]|lho
+cascado	nome masculino	cas|[ca]|do
+cascal	nome masculino	cas|[cal]
+cascaleja	nome feminino	cas|ca|[le]|ja
+cascalejo	adjetivo	cas|ca|[le]|jo
+cascalejo	nome masculino	cas|ca|[le]|jo
+cascalense	nome masculino	cas|ca|[len]|se
+cascalense	adjetivo	cas|ca|[len]|se
+cascalense	nome feminino	cas|ca|[len]|se
+cascalhada	nome feminino	cas|ca|[lha]|da
+cascalhador	adjetivo	cas|ca|lha|[dor]
+cascalhante	adjetivo	cas|ca|[lhan]|te
+cascalhar	verbo	cas|ca|[lhar]
+cascalheira	nome feminino	cas|ca|[lhei]|ra
+cascalhento	adjetivo	cas|ca|[lhen]|to
+cascalhinho	nome masculino	cas|ca|[lhi]|nho
+cascalho	nome masculino	cas|[ca]|lho
+cascalhoso	adjetivo	cas|ca|[lho]|so
+cascalhudo	adjetivo	cas|ca|[lhu]|do
+cascalvo	adjetivo	cas|[cal]|vo
+cascalvo	nome masculino	cas|[cal]|vo
+cascão	nome masculino	cas|[cão]

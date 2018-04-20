@@ -1,0 +1,75 @@
+justapositivo	adjetivo	jus|ta|po|si|[ti]|vo
+justaposto	adjetivo	jus|ta|[pos]|to
+justar	verbo	jus|[tar]
+justatropical	adjetivo	jus|ta|tro|pi|[cal]
+justavertebral	adjetivo	jus|ta|ver|te|[bral]
+justeza	nome feminino	jus|[te]|za
+justiça	nome feminino	jus|[ti]|ça
+justiça-maior	nome masculino	jus|ti|ça-mai|[or]
+justiçado	adjetivo	jus|ti|[ça]|do
+justiçado	nome masculino	jus|ti|[ça]|do
+justiçadouro	adjetivo	jus|ti|ça|[dou]|ro
+justiçar	verbo	jus|ti|[çar]
+justiçável	adjetivo	jus|ti|[çá]|vel
+justiceira	nome feminino	jus|ti|[cei]|ra
+justiceiramente	advérbio	jus|ti|cei|ra|[men]|te
+justiceiro	adjetivo	jus|ti|[cei]|ro
+justiceiro	nome masculino	jus|ti|[cei]|ro
+justicialismo	nome masculino	jus|ti|ci|a|[lis]|mo
+justiçoso	adjetivo	jus|ti|[ço]|so
+justificabilidade	nome feminino	jus|ti|fi|ca|bi|li|[da]|de
+justificação	nome feminino	jus|ti|fi|ca|[ção]
+justificadamente	advérbio	jus|ti|fi|ca|da|[men]|te
+justificado	adjetivo	jus|ti|fi|[ca]|do
+justificador	adjetivo	jus|ti|fi|ca|[dor]
+justificador	nome masculino	jus|ti|fi|ca|[dor]
+justificadora	nome feminino	jus|ti|fi|ca|[do]|ra
+justificante	adjetivo	jus|ti|fi|[can]|te
+justificante	nome masculino	jus|ti|fi|[can]|te
+justificante	nome feminino	jus|ti|fi|[can]|te
+justificar	verbo	jus|ti|fi|[car]
+justificativa	nome feminino	jus|ti|fi|ca|[ti]|va
+justificativo	adjetivo	jus|ti|fi|ca|[ti]|vo
+justificativo	nome masculino	jus|ti|fi|ca|[ti]|vo
+justificatório	adjetivo	jus|ti|fi|ca|[tó]|ri|o
+justificável	adjetivo	jus|ti|fi|[cá]|vel
+justilho	nome masculino	jus|[ti]|lho
+justinianeu	adjetivo	jus|ti|ni|a|[neu]
+justiniano	adjetivo	jus|ti|ni|[a]|no
+justíssimo	adjetivo	jus|[tís]|si|mo
+justo	nome masculino	[jus]|to
+justo	adjetivo	[jus]|to
+justura	nome feminino	jus|[tu]|ra
+juta	nome feminino	[ju]|ta
+jutaí	nome masculino	ju|ta|[í]
+jutaicica	nome masculino	ju|tai|[ci]|ca
+jutaipeba	nome feminino	ju|tai|[pe]|ba
+jutairana	nome masculino	ju|tai|[ra]|na
+jutaúba	nome feminino	ju|ta|[ú]|ba
+juticupiúba	nome feminino	ju|ti|cu|pi|[ú]|ba
+jutlandês	adjetivo	ju|tlan|[dês]
+jutlandês	nome masculino	ju|tlan|[dês]
+juto	adjetivo	[ju]|to
+juto	nome masculino	[ju]|to
+jutuarana	nome feminino	ju|tu|a|[ra]|na
+jutuaúba	nome feminino	ju|tu|a|[ú]|ba
+jutungo	adjetivo	ju|[tun]|go
+jutungo	nome masculino	ju|[tun]|go
+juvenal	adjetivo	ju|ve|[nal]
+juvenalesco	adjetivo	ju|ve|na|[les]|co
+juvenaliano	adjetivo	ju|ve|na|li|[a]|no
+juvenato	nome masculino	ju|ve|[na]|to
+juvenca	nome feminino	ju|[ven]|ca
+juvenco	nome masculino	ju|[ven]|co
+júvene	adjetivo	[jú]|ve|ne
+juvenil	adjetivo	ju|ve|[nil]
+juvenil	nome masculino	ju|ve|[nil]
+juvenil	nome feminino	ju|ve|[nil]
+juvenília	nome feminino	ju|ve|[ní]|li|a
+juvenilidade	nome feminino	ju|ve|ni|li|[da]|de
+juvenilismo	nome masculino	ju|ve|ni|[lis]|mo
+juvenilmente	advérbio	ju|ve|nil|[men]|te
+juventa	nome feminino	ju|[ven]|ta
+juventude	nome feminino	ju|ven|[tu]|de
+juvevê	nome masculino	ju|ve|[vê]
+júvia	nome feminino	[jú]|vi|a

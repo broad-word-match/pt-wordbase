@@ -1,0 +1,100 @@
+menjengra	nome masculino	men|[jen]|gra
+menobardo	adjetivo	me|no|[bar]|do
+menobardo	nome masculino	me|no|[bar]|do
+menológio	nome masculino	me|no|[ló]|gi|o
+menonismo	nome masculino	me|no|[nis]|mo
+menonista	nome masculino	me|no|[nis]|ta
+menonista	nome feminino	me|no|[nis]|ta
+menopausa	nome feminino	me|no|[pau]|sa
+menor	adjetivo	me|[nor]
+menor	nome masculino	me|[nor]
+menor	nome feminino	me|[nor]
+menoridade	nome feminino	me|no|ri|[da]|de
+menorismo	nome masculino	me|no|[ris]|mo
+menorista	adjetivo	me|no|[ris]|ta
+menorista	nome masculino	me|no|[ris]|ta
+menorista	nome feminino	me|no|[ris]|ta
+menorita	nome masculino	me|no|[ri]|ta
+menorita	nome feminino	me|no|[ri]|ta
+menorítico	adjetivo	me|no|[rí]|ti|co
+menorização	nome feminino	me|no|ri|za|[ção]
+menorizar	verbo	me|no|ri|[zar]
+menorragia	nome feminino	me|nor|ra|[gi]|a
+menorrágico	adjetivo	me|nor|[rá]|gi|co
+menorreia	nome feminino	me|nor|[rei]|a
+menorreico	adjetivo	me|nor|[rei]|co
+menos	preposição	[me]|nos
+menos	advérbio	[me]|nos
+menos	artigo indefinido	[me]|nos
+menos	pronome indefinido	[me]|nos
+menos	nome masculino	[me]|nos
+menos-mal	advérbio	me|nos-mal
+menos-mau	adjetivo	me|nos-mau
+menoscabador	adjetivo	me|nos|ca|ba|[dor]
+menoscabador	nome masculino	me|nos|ca|ba|[dor]
+menoscabar	verbo	me|nos|ca|[bar]
+menoscabável	adjetivo	me|nos|ca|[bá]|vel
+menoscabo	nome masculino	me|nos|[ca]|bo
+menospreço	nome masculino	me|nos|[pre]|ço
+menosprezado	adjetivo	me|nos|pre|[za]|do
+menosprezador	adjetivo	me|nos|pre|za|[dor]
+menosprezador	nome masculino	me|nos|pre|za|[dor]
+menosprezamento	nome masculino	me|nos|pre|za|[men]|to
+menosprezar	verbo	me|nos|pre|[zar]
+menosprezativo	adjetivo	me|nos|pre|za|[ti]|vo
+menosprezável	adjetivo	me|nos|pre|[zá]|vel
+menosprezível	adjetivo	me|nos|pre|[zí]|vel
+menosprezivo	adjetivo	me|nos|pre|[zi]|vo
+menosprezo	nome masculino	me|nos|[pre]|zo
+menostasia	nome feminino	me|nos|ta|[si]|a
+menostático	adjetivo	me|nos|[tá]|ti|co
+menoxenia	nome feminino	me|no|xe|[ni]|a
+mensageira	nome feminino	men|sa|[gei]|ra
+mensageiro	nome masculino	men|sa|[gei]|ro
+mensageiro	adjetivo	men|sa|[gei]|ro
+mensagem	nome feminino	men|[sa]|gem
+mensal	adjetivo	men|[sal]
+mensalidade	nome feminino	men|sa|li|[da]|de
+mensalista	nome masculino	men|sa|[lis]|ta
+mensalista	adjetivo	men|sa|[lis]|ta
+mensalista	nome feminino	men|sa|[lis]|ta
+mensalmente	advérbio	men|sal|[men]|te
+mensário	nome masculino	men|[sá]|ri|o
+mensário	adjetivo	men|[sá]|ri|o
+mensório	nome masculino	men|[só]|ri|o
+menstruação	nome feminino	mens|tru|a|[ção]
+menstruada	adjetivo	mens|tru|[a]|da
+menstruado	adjetivo	mens|tru|[a]|do
+menstrual	adjetivo	mens|tru|[al]
+menstruar	verbo	mens|tru|[ar]
+mênstruo	nome masculino	[mêns]|tru|o
+mênsula	nome feminino	[mên]|su|la
+mensura	nome feminino	men|[su]|ra
+mensurabilidade	nome feminino	men|su|ra|bi|li|[da]|de
+mensuração	nome feminino	men|su|ra|[ção]
+mensurador	adjetivo	men|su|ra|[dor]
+mensurador	nome masculino	men|su|ra|[dor]
+mensural	adjetivo	men|su|[ral]
+mensuralidade	nome feminino	men|su|ra|li|[da]|de
+mensuralista	nome masculino	men|su|ra|[lis]|ta
+mensuralista	nome feminino	men|su|ra|[lis]|ta
+mensurar	verbo	men|su|[rar]
+mensurável	adjetivo	men|su|[rá]|vel
+menta	nome feminino	[men]|ta
+mentagra	nome feminino	men|[ta]|gra
+mental	adjetivo	men|[tal]
+mentalidade	nome feminino	men|ta|li|[da]|de
+mentalismo	nome masculino	men|ta|[lis]|mo
+mentalização	nome feminino	men|ta|li|za|[ção]
+mentalizar	verbo	men|ta|li|[zar]
+mentalmente	advérbio	men|tal|[men]|te
+mentano	nome masculino	men|[ta]|no
+mentar	verbo	men|[tar]
+mentastre	nome masculino	men|[tas]|tre
+mentastro	nome masculino	men|[tas]|tro
+mente	nome feminino	[men]|te
+mentecapta	nome feminino	men|te|[cap]|ta
+mentecapto	adjetivo	men|te|[cap]|to
+mentecapto	nome masculino	men|te|[cap]|to
+menteno	nome masculino	men|[te]|no
+mentes	advérbio	[men]|tes

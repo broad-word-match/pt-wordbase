@@ -1,0 +1,100 @@
+bafum	nome masculino	ba|[fum]
+bafurdar	verbo	ba|fur|[dar]
+bafúrdio	nome masculino	ba|[fúr]|di|o
+bafureira	nome feminino	ba|fu|[rei]|ra
+baga	nome feminino	[ba]|ga
+baga-baga	nome feminino	ba|ga-ba|ga
+baga-da-praia	nome feminino	ba|ga-da-prai|a
+bagabaga	nome feminino	ba|ga|[ba]|ga
+bagaçada	nome feminino	ba|ga|[ça]|da
+bagaçal	nome masculino	ba|ga|[çal]
+bagaçaria	nome feminino	ba|ga|ça|[ri]|a
+bagaceira	adjetivo	ba|ga|[cei]|ra
+bagaceira	nome feminino	ba|ga|[cei]|ra
+bagaceiro	nome masculino	ba|ga|[cei]|ro
+bagaceiro	adjetivo	ba|ga|[cei]|ro
+bagaço	nome masculino	ba|[ga]|ço
+bagada	nome feminino	ba|[ga]|da
+bagado	adjetivo	ba|[ga]|do
+bagageira	nome feminino	ba|ga|[gei]|ra
+bagageiro	nome masculino	ba|ga|[gei]|ro
+bagageiro	adjetivo	ba|ga|[gei]|ro
+bagagem	nome feminino	ba|[ga]|gem
+bagagista	nome masculino	ba|ga|[gis]|ta
+bagagista	nome feminino	ba|ga|[gis]|ta
+bagalhão	nome masculino	ba|ga|[lhão]
+bagalho	nome masculino	ba|[ga]|lho
+bagalhoça	nome feminino	ba|ga|[lho]|ça
+bagalhudo	adjetivo	ba|ga|[lhu]|do
+bagana	nome feminino	ba|[ga]|na
+baganda	nome masculino	ba|[gan]|da
+baganda	nome feminino	ba|[gan]|da
+baganha	nome feminino	ba|[ga]|nha
+baganho	nome masculino	ba|[ga]|nho
+bagar	verbo	ba|[gar]
+bagarote	nome masculino	ba|ga|[ro]|te
+bagata	nome feminino	ba|[ga]|ta
+bagata	nome masculino	ba|[ga]|ta
+bagatela	nome feminino	ba|ga|[te]|la
+bagateleiro	nome masculino	ba|ga|te|[lei]|ro
+bagatelório	nome masculino	ba|ga|te|[ló]|ri|o
+bagauda	adjetivo	ba|[gau]|da
+bagauda	nome masculino	ba|[gau]|da
+bagauda	nome feminino	ba|[gau]|da
+bagdali	nome masculino	bag|da|[li]
+bagdali	adjetivo	bag|da|[li]
+bagdali	nome feminino	bag|da|[li]
+bage	nome feminino	[ba]|ge
+bagear	verbo	ba|ge|[ar]
+bagem	nome feminino	[ba]|gem
+bagi	nome masculino	ba|[gi]
+bago	nome masculino	[ba]|go
+bago-grosso	nome masculino	ba|go-gros|so
+bágoa	nome feminino	[bá]|go|a
+bagoado	adjetivo	ba|go|[a]|do
+bagocho	nome masculino	ba|[go]|cho
+bagoeira	nome feminino	ba|go|[ei]|ra
+bagoeirada	nome feminino	ba|go|ei|[ra]|da
+bagoinha	nome feminino	ba|go|[i]|nha
+bagre	nome masculino	[ba]|gre
+baguá	nome masculino	ba|[guá]
+baguaçu	nome masculino	ba|gua|[çu]
+bagual	adjetivo	ba|[gual]
+bagual	nome masculino	ba|[gual]
+bagual	nome feminino	ba|[gual]
+bagualada	nome feminino	ba|gua|[la]|da
+baguari	adjetivo	ba|gua|[ri]
+baguari	nome masculino	ba|gua|[ri]
+bagudo	nome masculino	ba|[gu]|do
+bagudo	adjetivo	ba|[gu]|do
+baguear	verbo	ba|gue|[ar]
+baguera	nome feminino	ba|[gue]|ra
+baguete	nome feminino	ba|[gue]|te
+baguiche	nome masculino	ba|[gui]|che
+baguim	nome masculino	ba|[guim]
+baguixe	nome masculino	ba|[gui]|xe
+bagulhado	adjetivo	ba|gu|[lha]|do
+bagulhento	adjetivo	ba|gu|[lhen]|to
+bagulho	nome masculino	ba|[gu]|lho
+bagulhoso	adjetivo	ba|gu|[lho]|so
+bagunça	nome feminino	ba|[gun]|ça
+bagunçada	nome feminino	ba|gun|[ça]|da
+bagunçado	adjetivo	ba|gun|[ça]|do
+bagunçar	verbo	ba|gun|[çar]
+baguncear	verbo	ba|gun|ce|[ar]
+bagunceira	nome feminino	ba|gun|[cei]|ra
+bagunceiro	nome masculino	ba|gun|[cei]|ro
+bagunceiro	adjetivo	ba|gun|[cei]|ro
+bahamense	nome masculino	ba|ha|[men]|se
+bahamense	nome feminino	ba|ha|[men]|se
+bahamense	adjetivo	ba|ha|[men]|se
+bahamiano	adjetivo	ba|ha|mi|[a]|no
+bahamiano	nome masculino	ba|ha|mi|[a]|no
+baht	nome masculino	[baht]
+bai	interjeição	[bai]
+baia	nome feminino	[bai]|a
+baía	nome feminino	ba|[í]|a
+baiá	nome masculino	bai|[á]
+baiacu	nome masculino	bai|a|[cu]
+baiana	nome feminino	bai|[a]|na
+baianada	nome feminino	bai|a|[na]|da

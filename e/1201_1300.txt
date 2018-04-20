@@ -1,0 +1,100 @@
+eletróptica	nome feminino	e|le|[tróp]|ti|ca
+eletropunctura	nome feminino	e|le|tro|punc|[tu]|ra
+eletropuntura	nome feminino	e|le|tro|pun|[tu]|ra
+eletroquímica	nome feminino	e|le|tro|[quí]|mi|ca
+eletroquímico	adjetivo	e|le|tro|[quí]|mi|co
+eletrorradiologia	nome feminino	e|le|tror|ra|di|o|lo|[gi]|a
+eletrorradiologista	nome masculino	e|le|tror|ra|di|o|lo|[gis]|ta
+eletrorradiologista	nome feminino	e|le|tror|ra|di|o|lo|[gis]|ta
+eletroscopia	nome feminino	e|le|tros|co|[pi]|a
+eletroscópico	adjetivo	e|le|tros|[có]|pi|co
+eletroscópio	nome masculino	e|le|tros|[có]|pi|o
+eletrossemáforo	nome masculino	e|le|tros|se|[má]|fo|ro
+eletrosserra	nome feminino	e|le|tros|[ser]|ra
+eletrossiderurgia	nome feminino	e|le|tros|si|de|rur|[gi]|a
+eletrossiderúrgico	adjetivo	e|le|tros|si|de|[rúr]|gi|co
+eletrossoldadura	nome feminino	e|le|tros|sol|da|[du]|ra
+eletrostática	nome feminino	e|le|tros|[tá]|ti|ca
+eletrostático	adjetivo	e|le|tros|[tá]|ti|co
+eletrostrição	nome feminino	e|le|tros|tri|[ção]
+eletrotanásia	nome feminino	e|le|tro|ta|[ná]|si|a
+eletrotecnia	nome feminino	e|le|tro|tec|[ni]|a
+eletrotécnica	nome feminino	e|le|tro|[téc]|ni|ca
+eletrotécnico	adjetivo	e|le|tro|[téc]|ni|co
+eletrotécnico	nome masculino	e|le|tro|[téc]|ni|co
+eletroterapeuta	nome feminino	e|le|tro|te|ra|[peu]|ta
+eletroterapeuta	nome masculino	e|le|tro|te|ra|[peu]|ta
+eletroterapêutica	nome feminino	e|le|tro|te|ra|[pêu]|ti|ca
+eletroterapêutico	adjetivo	e|le|tro|te|ra|[pêu]|ti|co
+eletroterapia	nome feminino	e|le|tro|te|ra|[pi]|a
+eletroterápico	adjetivo	e|le|tro|te|[rá]|pi|co
+eletrotermia	nome feminino	e|le|tro|ter|[mi]|a
+eletrotérmico	adjetivo	e|le|tro|[tér]|mi|co
+eletrótica	nome feminino	e|le|[tró]|ti|ca
+eletrotipia	nome feminino	e|le|tro|ti|[pi]|a
+eletrotípico	adjetivo	e|le|tro|[tí]|pi|co
+eletrótipo	nome masculino	e|le|[tró]|ti|po
+eletrotónico	adjetivo	e|le|tro|[tó]|ni|co
+eletrotônico	adjetivo	e|le|tro|[tô]|ni|co
+eletrotropia	nome feminino	e|le|tro|tro|[pi]|a
+eletrotrópico	adjetivo	e|le|tro|[tró]|pi|co
+eletrotropismo	nome masculino	e|le|tro|tro|[pis]|mo
+eletrovalência	nome feminino	e|le|tro|va|[lên]|ci|a
+eletrovalente	adjetivo	e|le|tro|va|[len]|te
+eletrovegetómetro	nome masculino	e|le|tro|ve|ge|[tó]|me|tro
+eletrovegetômetro	nome masculino	e|le|tro|ve|ge|[tô]|me|tro
+eletrovital	adjetivo	e|le|tro|vi|[tal]
+eletrovitalismo	nome masculino	e|le|tro|vi|ta|[lis]|mo
+eletrozónio	nome masculino	e|le|tro|[zó]|ni|o
+eletrozônio	nome masculino	e|le|tro|[zô]|ni|o
+eletuário	nome masculino	e|le|tu|[á]|ri|o
+eleu	adjetivo	e|[leu]
+eleu	nome masculino	e|[leu]
+eleúria	nome feminino	e|le|[ú]|ri|a
+eleúrico	adjetivo	e|le|[ú]|ri|co
+eleusínio	adjetivo	e|leu|[sí]|ni|o
+eleusínio	nome masculino	e|leu|[sí]|ni|o
+eleusino	adjetivo	e|leu|[si]|no
+eleusino	nome masculino	e|leu|[si]|no
+eleuterantéreo	adjetivo	e|leu|te|ran|[té]|re|o
+eleuterocílice	adjetivo	e|leu|te|ro|[cí]|li|ce
+eleuterocílice	nome masculino	e|leu|te|ro|[cí]|li|ce
+eleuterocílice	nome feminino	e|leu|te|ro|[cí]|li|ce
+eleuterodáctilo	adjetivo	e|leu|te|ro|[dác]|ti|lo
+eleuterodátilo	adjetivo	e|leu|te|ro|[dá]|ti|lo
+eleuteroginia	nome feminino	e|leu|te|ro|gi|[ni]|a
+eleuterógino	adjetivo	e|leu|te|[ró]|gi|no
+eleuteropolitano	adjetivo	e|leu|te|ro|po|li|[ta]|no
+eleuteropolitano	nome masculino	e|leu|te|ro|po|li|[ta]|no
+eleuterozoário	nome masculino	e|leu|te|ro|zo|[á]|ri|o
+elevação	nome feminino	e|le|va|[ção]
+elevadamente	advérbio	e|le|va|da|[men]|te
+elevadíssimo	adjetivo	e|le|va|[dís]|si|mo
+elevado	adjetivo	e|le|[va]|do
+elevador	nome masculino	e|le|va|[dor]
+elevador	adjetivo	e|le|va|[dor]
+elevar	verbo	e|le|[var]
+elevatório	adjetivo	e|le|va|[tó]|ri|o
+elevável	adjetivo	e|le|[vá]|vel
+elfa	nome feminino	[el]|fa
+elfo	nome masculino	[el]|fo
+eliciação	nome feminino	e|li|ci|a|[ção]
+eliciar	verbo	e|li|ci|[ar]
+elícito	adjetivo	e|[lí]|ci|to
+elidense	adjetivo	e|li|[den]|se
+elidense	nome masculino	e|li|[den]|se
+elidense	nome feminino	e|li|[den]|se
+elidido	adjetivo	e|li|[di]|do
+elidir	verbo	e|li|[dir]
+elidível	adjetivo	e|li|[dí]|vel
+elimeu	adjetivo	e|li|[meu]
+elimeu	nome masculino	e|li|[meu]
+eliminação	nome feminino	e|li|mi|na|[ção]
+eliminador	adjetivo	e|li|mi|na|[dor]
+eliminador	nome masculino	e|li|mi|na|[dor]
+eliminar	verbo	e|li|mi|[nar]
+eliminativo	adjetivo	e|li|mi|na|[ti]|vo
+eliminatória	nome feminino	e|li|mi|na|[tó]|ri|a
+eliminatório	adjetivo	e|li|mi|na|[tó]|ri|o
+eliminável	adjetivo	e|li|mi|[ná]|vel
+elipanto	adjetivo	e|li|[pan]|to

@@ -1,0 +1,100 @@
+usufruto	nome masculino	u|su|[fru]|to
+usufrutuar	verbo	u|su|fru|tu|[ar]
+usufrutuária	nome feminino	u|su|fru|tu|[á]|ri|a
+usufrutuário	adjetivo	u|su|fru|tu|[á]|ri|o
+usufrutuário	nome masculino	u|su|fru|tu|[á]|ri|o
+usufrutueiro	adjetivo	u|su|fru|tu|[ei]|ro
+usura	nome feminino	u|[su]|ra
+usurar	verbo	u|su|[rar]
+usurária	nome feminino	u|su|[rá]|ri|a
+usurariamente	advérbio	u|su|ra|ri|a|[men]|te
+usurário	adjetivo	u|su|[rá]|ri|o
+usurário	nome masculino	u|su|[rá]|ri|o
+usureira	nome feminino	u|su|[rei]|ra
+usureiro	adjetivo	u|su|[rei]|ro
+usureiro	nome masculino	u|su|[rei]|ro
+usurpação	nome feminino	u|sur|pa|[ção]
+usurpador	adjetivo	u|sur|pa|[dor]
+usurpador	nome masculino	u|sur|pa|[dor]
+usurpadora	nome feminino	u|sur|pa|[do]|ra
+usurpar	verbo	u|sur|[par]
+usurpativo	adjetivo	u|sur|pa|[ti]|vo
+usurpatório	adjetivo	u|sur|pa|[tó]|ri|o
+usurpável	adjetivo	u|sur|[pá]|vel
+ut	nome masculino	[ut]
+uta	nome feminino	[u]|ta
+utar	verbo	u|[tar]
+utata	nome feminino	u|[ta]|ta
+utena	nome feminino	u|[te]|na
+utênsil	nome masculino	u|[tên]|sil
+utensilagem	nome feminino	u|ten|si|[la]|gem
+utensiliar	verbo	u|ten|si|li|[ar]
+utensilidade	nome feminino	u|ten|si|li|[da]|de
+utensílio	nome masculino	u|ten|[sí]|li|o
+utente	adjetivo	u|[ten]|te
+utente	nome masculino	u|[ten]|te
+utente	nome feminino	u|[ten]|te
+uteralgia	nome feminino	u|te|ral|[gi]|a
+uterálgico	adjetivo	u|te|[rál]|gi|co
+utérculo	nome masculino	u|[tér]|cu|lo
+uteremia	nome feminino	u|te|re|[mi]|a
+uterémico	adjetivo	u|te|[ré]|mi|co
+uterêmico	adjetivo	u|te|[rê]|mi|co
+uteriforme	adjetivo	u|te|ri|[for]|me
+uterino	adjetivo	u|te|[ri]|no
+uterismo	nome masculino	u|te|[ris]|mo
+uterite	nome feminino	u|te|[ri]|te
+útero	nome masculino	[ú]|te|ro
+uteróceps	nome masculino	u|te|[ró]|ceps
+uterócipe	nome masculino	u|te|[ró]|ci|pe
+uterodinia	nome feminino	u|te|ro|di|[ni]|a
+uterografia	nome feminino	u|te|ro|gra|[fi]|a
+uterolombar	adjetivo	u|te|ro|lom|[bar]
+uterómana	nome feminino	u|te|[ró]|ma|na
+uteromania	nome feminino	u|te|ro|ma|[ni]|a
+uteromaníaca	nome feminino	u|te|ro|ma|[ní]|a|ca
+uteromaníaco	adjetivo	u|te|ro|ma|[ní]|a|co
+uteroplacentário	adjetivo	u|te|ro|pla|cen|[tá]|ri|o
+uterorragia	nome feminino	u|te|ror|ra|[gi]|a
+uterorrágico	adjetivo	u|te|ror|[rá]|gi|co
+uteroscopia	nome feminino	u|te|ros|co|[pi]|a
+uteroscópico	adjetivo	u|te|ros|[có]|pi|co
+uteroscópio	nome masculino	u|te|ros|[có]|pi|o
+uterotomia	nome feminino	u|te|ro|to|[mi]|a
+uterotômico	adjetivo	u|te|ro|[tô]|mi|co
+uterotómico	adjetivo	u|te|ro|[tó]|mi|co
+uterótomo	nome masculino	u|te|[ró]|to|mo
+uterovaginal	adjetivo	u|te|ro|va|gi|[nal]
+uterovariano	adjetivo	u|te|ro|va|ri|[a]|no
+uterovesical	adjetivo	u|te|ro|ve|si|[cal]
+uticense	adjetivo	u|ti|[cen]|se
+uticense	nome masculino	u|ti|[cen]|se
+uticense	nome feminino	u|ti|[cen]|se
+utidorso	adjetivo	u|ti|[dor]|so
+utidorso	nome masculino	u|ti|[dor]|so
+útil	nome masculino	[ú]|til
+útil	adjetivo	[ú]|til
+utilidade	nome feminino	u|ti|li|[da]|de
+utilitária	nome feminino	u|ti|li|[tá]|ri|a
+utilitariamente	advérbio	u|ti|li|ta|ri|a|[men]|te
+utilitário	nome masculino	u|ti|li|[tá]|ri|o
+utilitário	adjetivo	u|ti|li|[tá]|ri|o
+utilitarismo	nome masculino	u|ti|li|ta|[ris]|mo
+utilitarista	adjetivo	u|ti|li|ta|[ris]|ta
+utilitarista	nome masculino	u|ti|li|ta|[ris]|ta
+utilitarista	nome feminino	u|ti|li|ta|[ris]|ta
+utilização	nome feminino	u|ti|li|za|[ção]
+utilizador	adjetivo	u|ti|li|za|[dor]
+utilizador	nome masculino	u|ti|li|za|[dor]
+utilizadora	nome feminino	u|ti|li|za|[do]|ra
+utilizante	adjetivo	u|ti|li|[zan]|te
+utilizante	nome masculino	u|ti|li|[zan]|te
+utilizante	nome feminino	u|ti|li|[zan]|te
+utilizar	verbo	u|ti|li|[zar]
+utilizável	adjetivo	u|ti|li|[zá]|vel
+utilmente	advérbio	u|til|[men]|te
+utopia	nome feminino	u|to|[pi]|a
+utopicamente	advérbio	u|to|pi|ca|[men]|te
+utópico	adjetivo	u|[tó]|pi|co
+utopismo	nome masculino	u|to|[pis]|mo
+utopista	nome masculino	u|to|[pis]|ta

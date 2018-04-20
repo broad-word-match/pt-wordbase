@@ -1,0 +1,100 @@
+patrense	adjetivo	pa|[tren]|se
+patrense	nome feminino	pa|[tren]|se
+pátria	nome feminino	[pá]|tri|a
+patrial	adjetivo	pa|tri|[al]
+patriarca	nome masculino	pa|tri|[ar]|ca
+patriarcado	nome masculino	pa|tri|ar|[ca]|do
+patriarcal	nome feminino	pa|tri|ar|[cal]
+patriarcal	adjetivo	pa|tri|ar|[cal]
+patriarcalismo	nome masculino	pa|tri|ar|ca|[lis]|mo
+patriarcalista	adjetivo	pa|tri|ar|ca|[lis]|ta
+patriarcalista	nome masculino	pa|tri|ar|ca|[lis]|ta
+patriarcalista	nome feminino	pa|tri|ar|ca|[lis]|ta
+patriarcalmente	advérbio	pa|tri|ar|cal|[men]|te
+patriarquia	nome feminino	pa|tri|ar|[qui]|a
+patriárquico	adjetivo	pa|tri|[ár]|qui|co
+patriarquismo	nome masculino	pa|tri|ar|[quis]|mo
+patrícia	nome feminino	pa|[trí]|ci|a
+patriciado	nome masculino	pa|tri|ci|[a]|do
+patriciato	nome masculino	pa|tri|ci|[a]|to
+patrício	nome masculino	pa|[trí]|ci|o
+patrício	adjetivo	pa|[trí]|ci|o
+patridofilia	nome feminino	pa|tri|do|fi|[li]|a
+patridófilo	adjetivo	pa|tri|[dó]|fi|lo
+patridófilo	nome masculino	pa|tri|[dó]|fi|lo
+patridofobia	nome feminino	pa|tri|do|fo|[bi]|a
+patridófobo	adjetivo	pa|tri|[dó]|fo|bo
+patridófobo	nome masculino	pa|tri|[dó]|fo|bo
+patrilateral	adjetivo	pa|tri|la|te|[ral]
+patrilinear	adjetivo	pa|tri|li|ne|[ar]
+patrilocal	adjetivo	pa|tri|lo|[cal]
+patrilocalidade	nome feminino	pa|tri|lo|ca|li|[da]|de
+patrimoniado	adjetivo	pa|tri|mo|ni|[a]|do
+patrimonial	adjetivo	pa|tri|mo|ni|[al]
+patrimonialmente	advérbio	pa|tri|mo|ni|al|[men]|te
+património	nome masculino	pa|tri|[mó]|ni|o
+patrimônio	nome masculino	pa|tri|[mô]|ni|o
+patrínia	nome feminino	pa|[trí]|ni|a
+pátrio	adjetivo	[pá]|tri|o
+patriofilia	nome feminino	pa|tri|o|fi|[li]|a
+patriófilo	adjetivo	pa|tri|[ó]|fi|lo
+patriófilo	nome masculino	pa|tri|[ó]|fi|lo
+patriofobia	nome feminino	pa|tri|o|fo|[bi]|a
+patriófobo	adjetivo	pa|tri|[ó]|fo|bo
+patriófobo	nome masculino	pa|tri|[ó]|fo|bo
+patriota	adjetivo	pa|tri|[o]|ta
+patriota	nome masculino	pa|tri|[o]|ta
+patriota	nome feminino	pa|tri|[o]|ta
+patriotada	nome feminino	pa|tri|o|[ta]|da
+patriotagem	nome feminino	pa|tri|o|[ta]|gem
+patrioteira	nome feminino	pa|tri|o|[tei]|ra
+patrioteiramente	advérbio	pa|tri|o|tei|ra|[men]|te
+patrioteirismo	nome masculino	pa|tri|o|tei|[ris]|mo
+patrioteiro	nome masculino	pa|tri|o|[tei]|ro
+patrioteiro	adjetivo	pa|tri|o|[tei]|ro
+patrioticamente	advérbio	pa|tri|o|ti|ca|[men]|te
+patriotice	nome feminino	pa|tri|o|[ti]|ce
+patriótico	adjetivo	pa|tri|[ó]|ti|co
+patriotismo	nome masculino	pa|tri|o|[tis]|mo
+patriotista	adjetivo	pa|tri|o|[tis]|ta
+patriotista	nome masculino	pa|tri|o|[tis]|ta
+patriotista	nome feminino	pa|tri|o|[tis]|ta
+patrística	nome feminino	pa|[trís]|ti|ca
+patrístico	adjetivo	pa|[trís]|ti|co
+patrizar	verbo	pa|tri|[zar]
+patroa	nome feminino	pa|[tro]|a
+patrocinado	adjetivo	pa|tro|ci|[na]|do
+patrocinador	adjetivo	pa|tro|ci|na|[dor]
+patrocinador	nome masculino	pa|tro|ci|na|[dor]
+patrocinadora	nome feminino	pa|tro|ci|na|[do]|ra
+patrocinante	adjetivo	pa|tro|ci|[nan]|te
+patrocinar	verbo	pa|tro|ci|[nar]
+patrocinato	nome masculino	pa|tro|ci|[na]|to
+patrocínio	nome masculino	pa|tro|[cí]|ni|o
+patróclino	adjetivo	pa|[tró]|cli|no
+patrologia	nome feminino	pa|tro|lo|[gi]|a
+patrológico	adjetivo	pa|tro|[ló]|gi|co
+patrologista	nome masculino	pa|tro|lo|[gis]|ta
+patrologista	nome feminino	pa|tro|lo|[gis]|ta
+patrólogo	nome masculino	pa|[tró]|lo|go
+patrona	nome feminino	pa|[tro]|na
+patronado	nome masculino	pa|tro|[na]|do
+patronagem	nome feminino	pa|tro|[na]|gem
+patronal	adjetivo	pa|tro|[nal]
+patronato	nome masculino	pa|tro|[na]|to
+patronear	verbo	pa|tro|ne|[ar]
+patronímia	nome feminino	pa|tro|[ní]|mi|a
+patronímico	adjetivo	pa|tro|[ní]|mi|co
+patronímico	nome masculino	pa|tro|[ní]|mi|co
+patrónimo	nome masculino	pa|[tró]|ni|mo
+patrônimo	nome masculino	pa|[trô]|ni|mo
+patronizar	verbo	pa|tro|ni|[zar]
+patrono	nome masculino	pa|[tro]|no
+patruça	nome feminino	pa|[tru]|ça
+patrúcia	nome feminino	pa|[trú]|ci|a
+patruicida	adjetivo	pa|trui|[ci]|da
+patruicida	nome masculino	pa|trui|[ci]|da
+patruicida	nome feminino	pa|trui|[ci]|da
+patruicídio	nome masculino	pa|tru|i|[cí]|di|o
+patrulha	nome feminino	pa|[tru]|lha
+patrulhado	adjetivo	pa|tru|[lha]|do

@@ -1,0 +1,100 @@
+sobranceria	nome feminino	so|bran|ce|[ri]|a
+sobrano	nome masculino	so|[bra]|no
+sobrante	adjetivo	so|[bran]|te
+sobrar	verbo	so|[brar]
+sobrasar	verbo	so|bra|[sar]
+sobre	preposição	[so]|bre
+sobre	nome masculino	[so]|bre
+sobre-elevar	verbo	so|bre-e|le|[var]
+sobre-eminência	nome feminino	so|bre-e|mi|[nên]|ci|a
+sobre-eminente	adjetivo	so|bre-e|mi|[nen]|te
+sobre-emissão	nome feminino	so|bre-e|mis|[são]
+sobre-endividamento	nome masculino	so|bre-en|di|vi|da|[men]|to
+sobre-endividar	verbo	so|bre-en|di|vi|[dar]
+sobre-erguer	verbo	so|bre-er|[guer]
+sobre-errogação	nome feminino	so|bre-er|ro|ga|[ção]
+sobre-exaltação	nome feminino	so|bre-e|xal|ta|[ção]
+sobre-exaltar	verbo	so|bre-e|xal|[tar]
+sobre-excedente	adjetivo	so|bre-ex|ce|[den]|te
+sobre-exceder	verbo	so|bre-ex|ce|[der]
+sobre-excelência	nome feminino	so|bre-ex|ce|[lên]|ci|a
+sobre-excelente	adjetivo	so|bre-ex|ce|[len]|te
+sobre-excitação	nome feminino	so|bre-ex|ci|ta|[ção]
+sobre-excitado	adjetivo	so|bre-ex|ci|[ta]|do
+sobre-excitante	adjetivo	so|bre-ex|ci|[tan]|te
+sobre-excitar	verbo	so|bre-ex|ci|[tar]
+sobre-exploração	nome feminino	so|bre-ex|plo|ra|[ção]
+sobre-expor	verbo	so|bre-ex|[por]
+sobre-exposição	nome feminino	so|bre-ex|po|si|[ção]
+sobre-homem	nome masculino	so|bre-ho|mem
+sobre-horrendo	adjetivo	so|bre-hor|[ren]|do
+sobre-humanizar	verbo	so|bre-hu|ma|ni|[zar]
+sobre-humano	adjetivo	so|bre-hu|[ma]|no
+sobreabundância	nome feminino	so|bre|a|bun|[dân]|ci|a
+sobreabundante	adjetivo	so|bre|a|bun|[dan]|te
+sobreabundar	verbo	so|bre|a|bun|[dar]
+sobreafligir	verbo	so|bre|a|fli|[gir]
+sobreaflito	adjetivo	so|bre|a|[fli]|to
+sobreagitar	verbo	so|bre|a|gi|[tar]
+sobreaguado	adjetivo	so|bre|a|[gua]|do
+sobreaguar	verbo	so|bre|a|[guar]
+sobreagudo	adjetivo	so|bre|a|[gu]|do
+sobrealcunha	nome feminino	so|bre|al|[cu]|nha
+sobrealimentação	nome feminino	so|bre|a|li|men|ta|[ção]
+sobrealimentado	adjetivo	so|bre|a|li|men|[ta]|do
+sobrealimentar	verbo	so|bre|a|li|men|[tar]
+sobreanca	nome feminino	so|bre|[an]|ca
+sobreano	nome masculino	so|bre|[a]|no
+sobreapelido	nome masculino	so|bre|a|pe|[li]|do
+sobreaquecer	verbo	so|bre|a|que|[cer]
+sobreaquecido	adjetivo	so|bre|a|que|[ci]|do
+sobreaquecimento	nome masculino	so|bre|a|que|ci|[men]|to
+sobrearco	nome masculino	so|bre|[ar]|co
+sobreasa	nome feminino	so|bre|[a]|sa
+sobreavaliação	nome feminino	so|bre|a|va|li|a|[ção]
+sobreavaliado	adjetivo	so|bre|a|va|li|[a]|do
+sobreavaliar	verbo	so|bre|a|va|li|[ar]
+sobreavisar	verbo	so|bre|a|vi|[sar]
+sobreaviso	nome masculino	so|bre|a|[vi]|so
+sobreaxilar	adjetivo	so|bre|a|xi|[lar]
+sobrebailéu	nome masculino	so|bre|bai|[léu]
+sobrebainha	nome feminino	so|bre|ba|[i]|nha
+sobrebico	nome masculino	so|bre|[bi]|co
+sobrebojo	nome masculino	so|bre|[bo]|jo
+sobrebrocha	nome feminino	so|bre|[bro]|cha
+sobrecabado	adjetivo	so|bre|ca|[ba]|do
+sobrecabeça	nome feminino	so|bre|ca|[be]|ça
+sobrecabeceira	nome feminino	so|bre|ca|be|[cei]|ra
+sobrecadeia	nome feminino	so|bre|ca|[dei]|a
+sobrecalça	nome feminino	so|bre|[cal]|ça
+sobrecama	nome feminino	so|bre|[ca]|ma
+sobrecâmara	nome feminino	so|bre|[câ]|ma|ra
+sobrecana	nome feminino	so|bre|[ca]|na
+sobrecapa	nome feminino	so|bre|[ca]|pa
+sobrecapitalização	nome feminino	so|bre|ca|pi|ta|li|za|[ção]
+sobrecapitalizar	verbo	so|bre|ca|pi|ta|li|[zar]
+sobrecarga	nome feminino	so|bre|[car]|ga
+sobrecarga	nome masculino	so|bre|[car]|ga
+sobrecarregado	adjetivo	so|bre|car|re|[ga]|do
+sobrecarregar	verbo	so|bre|car|re|[gar]
+sobrecarta	nome feminino	so|bre|[car]|ta
+sobrecasaca	nome feminino	so|bre|ca|[sa]|ca
+sobreceia	nome feminino	so|bre|[cei]|a
+sobreceleste	adjetivo	so|bre|ce|[les]|te
+sobrecelestial	adjetivo	so|bre|ce|les|ti|[al]
+sobrecelestialmente	advérbio	so|bre|ce|les|ti|al|[men]|te
+sobrecenho	nome masculino	so|bre|[ce]|nho
+sobrecéu	nome masculino	so|bre|[céu]
+sobrecevadeira	nome feminino	so|bre|ce|va|[dei]|ra
+sobrechedeiro	nome masculino	so|bre|che|[dei]|ro
+sobrechegar	verbo	so|bre|che|[gar]
+sobrecheio	adjetivo	so|bre|[chei]|o
+sobrecilha	nome feminino	so|bre|[ci]|lha
+sobrecincha	nome feminino	so|bre|[cin]|cha
+sobreclaustra	nome feminino	so|bre|[claus]|tra
+sobreclaustro	nome masculino	so|bre|[claus]|tro
+sobrecoberta	nome feminino	so|bre|co|[ber]|ta
+sobrecompensação	nome feminino	so|bre|com|pen|sa|[ção]
+sobrecompensar	verbo	so|bre|com|pen|[sar]
+sobrecomposto	adjetivo	so|bre|com|[pos]|to
+sobrecomum	adjetivo	so|bre|co|[mum]

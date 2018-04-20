@@ -1,0 +1,100 @@
+micróporo	adjetivo	mi|[cró]|po|ro
+microporoso	adjetivo	mi|cro|po|[ro]|so
+microprocessador	nome masculino	mi|cro|pro|ces|sa|[dor]
+micropsia	nome feminino	mi|crop|[si]|a
+micropsiquia	nome feminino	mi|crop|si|[qui]|a
+micropsíquico	adjetivo	mi|crop|[sí]|qui|co
+micropterígio	adjetivo	mi|crop|te|[rí]|gi|o
+micróptero	adjetivo	mi|[cróp]|te|ro
+microquímica	nome feminino	mi|cro|[quí]|mi|ca
+microquímico	adjetivo	mi|cro|[quí]|mi|co
+microrganismo	nome masculino	mi|cror|ga|[nis]|mo
+microrquia	nome feminino	mi|cror|[qui]|a
+microrradiografia	nome feminino	mi|cror|ra|di|o|gra|[fi]|a
+microrradiográfico	adjetivo	mi|cror|ra|di|o|[grá]|fi|co
+microrradiógrafo	nome masculino	mi|cror|ra|di|[ó]|gra|fo
+microrregião	nome feminino	mi|cror|re|gi|[ão]
+microrrizo	adjetivo	mi|cror|[ri]|zo
+microscopia	nome feminino	mi|cros|co|[pi]|a
+microscopicamente	advérbio	mi|cros|co|pi|ca|[men]|te
+microscópico	adjetivo	mi|cros|[có]|pi|co
+microscópio	nome masculino	mi|cros|[có]|pi|o
+microscopista	nome masculino	mi|cros|co|[pis]|ta
+microscopista	nome feminino	mi|cros|co|[pis]|ta
+microsfera	nome feminino	mi|cros|[fe]|ra
+microsférico	adjetivo	mi|cros|[fé]|ri|co
+microsficto	adjetivo	mi|cros|[fic]|to
+microsfigmia	nome feminino	mi|cros|fig|[mi]|a
+microspermo	nome masculino	mi|cros|[per]|mo
+microsporângio	nome masculino	mi|cros|po|[rân]|gi|o
+microsporia	nome feminino	mi|cros|po|[ri]|a
+microspório	nome masculino	mi|cros|[pó]|ri|o
+micrósporo	nome masculino	mi|[crós]|po|ro
+microsporofilo	nome masculino	mi|cros|po|ro|[fi]|lo
+microssegundo	nome masculino	mi|cros|se|[gun]|do
+microssemo	adjetivo	mi|cros|[se]|mo
+microssísmico	adjetivo	mi|cros|[sís]|mi|co
+microssismo	nome masculino	mi|cros|[sis]|mo
+microssismográfico	adjetivo	mi|cros|sis|mo|[grá]|fi|co
+microssismógrafo	nome masculino	mi|cros|sis|[mó]|gra|fo
+microssistema	nome masculino	mi|cros|sis|[te]|ma
+microssociologia	nome feminino	mi|cros|so|ci|o|lo|[gi]|a
+microssomatia	nome feminino	mi|cros|so|ma|[ti]|a
+microssomático	adjetivo	mi|cros|so|[má]|ti|co
+microssomia	nome feminino	mi|cros|so|[mi]|a
+microssómico	adjetivo	mi|cros|[só]|mi|co
+microssômico	adjetivo	mi|cros|[sô]|mi|co
+microssomo	nome masculino	mi|cros|[so]|mo
+microssonda	nome feminino	mi|cros|[son]|da
+microssubmarino	nome masculino	mi|cros|sub|ma|[ri]|no
+microssulco	nome masculino	mi|cros|[sul]|co
+microstómida	nome masculino	mi|cros|[tó]|mi|da
+microstómida	nome masculino	mi|cros|[tó]|mi|da
+microstomídeo	nome masculino	mi|cros|to|[mí]|de|o
+microstomídeo	adjetivo	mi|cros|to|[mí]|de|o
+microstomídeo	nome masculino	mi|cros|to|[mí]|de|o
+micróstomo	nome masculino	mi|[crós]|to|mo
+micróstomo	adjetivo	mi|[crós]|to|mo
+microtelefone	nome masculino	mi|cro|te|le|[fo]|ne
+microtermia	nome feminino	mi|cro|ter|[mi]|a
+micrótide	nome feminino	mi|[cró]|ti|de
+micrótomo	nome masculino	mi|[cró]|to|mo
+microtrauma	nome masculino	mi|cro|[trau]|ma
+microtraumatismo	nome masculino	mi|cro|trau|ma|[tis]|mo
+microtúbulo	nome masculino	mi|cro|[tú]|bu|lo
+microvilosidade	nome feminino	mi|cro|vi|lo|si|[da]|de
+microvolt	nome masculino	mi|[cro]|volt
+microzoário	nome masculino	mi|cro|zo|[á]|ri|o
+microzoologia	nome feminino	mi|cro|zo|o|lo|[gi]|a
+microzoológico	adjetivo	mi|cro|zo|o|[ló]|gi|co
+micrura	nome feminino	mi|[cru]|ra
+micruro	adjetivo	mi|[cru]|ro
+mictar	verbo	mic|[tar]
+mictéria	nome feminino	mic|[té]|ri|a
+micterismo	nome masculino	mic|te|[ris]|mo
+micto	nome masculino	[mic]|to
+mictório	nome masculino	mic|[tó]|ri|o
+mictório	adjetivo	mic|[tó]|ri|o
+micturição	nome feminino	mic|tu|ri|[ção]
+micuim	nome masculino	mi|cu|[im]
+mida	nome feminino	[mi]|da
+midas	nome masculino	[mi]|das
+mídia	nome feminino	[mí]|di|a
+midríase	nome feminino	mi|[drí]|a|se
+midriático	adjetivo	mi|dri|[á]|ti|co
+midriático	nome masculino	mi|dri|[á]|ti|co
+mielastenia	nome feminino	mi|e|las|te|[ni]|a
+mielasténico	adjetivo	mi|e|las|[té]|ni|co
+mielastênico	adjetivo	mi|e|las|[tê]|ni|co
+mielencefálico	adjetivo	mi|e|len|ce|[fá]|li|co
+mielencéfalo	nome masculino	mi|e|len|[cé]|fa|lo
+mielina	nome feminino	mi|e|[li]|na
+mielínico	adjetivo	mi|e|[lí]|ni|co
+mielite	nome feminino	mi|e|[li]|te
+mieloblasto	nome masculino	mi|e|lo|[blas]|to
+mielocítico	adjetivo	mi|e|lo|[cí]|ti|co
+mielócito	nome masculino	mi|e|[ló]|ci|to
+mielografia	nome feminino	mi|e|lo|gra|[fi]|a
+mielográfico	adjetivo	mi|e|lo|[grá]|fi|co
+mieloide	adjetivo	mi|e|[loi]|de
+mieloma	nome masculino	mi|e|[lo]|ma

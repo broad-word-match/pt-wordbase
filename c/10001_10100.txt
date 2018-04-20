@@ -1,0 +1,100 @@
+cílida	nome masculino	[cí]|li|da
+cilídeo	nome masculino	ci|[lí]|de|o
+cilídeo	adjetivo	ci|[lí]|de|o
+cilídeo	nome masculino	ci|[lí]|de|o
+cilífero	adjetivo	ci|[lí]|fe|ro
+ciliforme	adjetivo	ci|li|[for]|me
+cilígero	adjetivo	ci|[lí]|ge|ro
+cilígrado	adjetivo	ci|[lí]|gra|do
+cilindrada	nome feminino	ci|lin|[dra]|da
+cilindragem	nome feminino	ci|lin|[dra]|gem
+cilindrar	verbo	ci|lin|[drar]
+cilindraxe	nome masculino	ci|lin|[dra]|xe
+cilindraxial	adjetivo	ci|lin|dra|xi|[al]
+cilindricamente	advérbio	ci|lin|dri|ca|[men]|te
+cilindricidade	nome feminino	ci|lin|dri|ci|[da]|de
+cilíndrico	adjetivo	ci|[lín]|dri|co
+cilindricórneo	adjetivo	ci|lin|dri|[cór]|ne|o
+cilindrifloro	adjetivo	ci|lin|dri|[flo]|ro
+cilindriforme	adjetivo	ci|lin|dri|[for]|me
+cilindrite	nome feminino	ci|lin|[dri]|te
+cilindro	nome masculino	ci|[lin]|dro
+cilindro-cônico	adjetivo	ci|lin|dro-cô|ni|co
+cilindro-cónico	adjetivo	ci|lin|dro-có|ni|co
+cilindro-eixo	nome masculino	ci|lin|dro-ei|xo
+cilindrocarpo	adjetivo	ci|lin|dro|[car]|po
+cilindrocefalia	nome feminino	ci|lin|dro|ce|fa|[li]|a
+cilindrocéfalo	nome masculino	ci|lin|dro|[cé]|fa|lo
+cilindrogival	adjetivo	ci|lin|dro|gi|[val]
+cilindroide	adjetivo	ci|lin|[droi]|de
+cilindroma	nome masculino	ci|lin|[dro]|ma
+cilindrómetro	nome masculino	ci|lin|[dró]|me|tro
+cilindrômetro	nome masculino	ci|lin|[drô]|me|tro
+cilindrose	nome feminino	ci|lin|[dro]|se
+cilindrossomo	adjetivo	ci|lin|dros|[so]|mo
+cilindrúria	nome feminino	ci|lin|[drú]|ri|a
+cilindrúrico	adjetivo	ci|lin|[drú]|ri|co
+cílio	nome masculino	[cí]|li|o
+ciliobranquiado	adjetivo	ci|li|o|bran|qui|[a]|do
+ciliógrado	adjetivo	ci|li|[ó]|gra|do
+cilíolo	nome masculino	ci|[lí]|o|lo
+cilírio	adjetivo	ci|[lí]|ri|o
+cilírio	nome masculino	ci|[lí]|ri|o
+cilita	nome masculino	ci|[li]|ta
+cilítico	adjetivo	ci|[lí]|ti|co
+cilitina	nome feminino	ci|li|[ti]|na
+cilopodia	nome feminino	ci|lo|po|[di]|a
+cilose	nome feminino	ci|[lo]|se
+cilossomo	nome masculino	ci|los|[so]|mo
+cilúncio	adjetivo	ci|[lún]|ci|o
+cilúncio	nome masculino	ci|[lún]|ci|o
+cima	nome feminino	[ci]|ma
+cimácio	nome masculino	ci|[má]|ci|o
+cimalha	nome feminino	ci|[ma]|lha
+cimba	nome feminino	[cim]|ba
+cimbalária	nome feminino	cim|ba|[lá]|ri|a
+cimbalino	nome masculino	cim|ba|[li]|no
+címbalo	nome masculino	[cím]|ba|lo
+cimboa	nome feminino	cim|[bo]|a
+cimbocefalia	nome feminino	cim|bo|ce|fa|[li]|a
+cimbocéfalo	adjetivo	cim|bo|[cé]|fa|lo
+cimbre	nome masculino	[cim]|bre
+címbrico	adjetivo	[cím]|bri|co
+cimbro	nome masculino	[cim]|bro
+cimbro	adjetivo	[cim]|bro
+cimeira	nome feminino	ci|[mei]|ra
+cimeiro	adjetivo	ci|[mei]|ro
+cimeliarca	nome masculino	ci|me|li|[ar]|ca
+cimélio	nome masculino	ci|[mé]|li|o
+cimentação	nome feminino	ci|men|ta|[ção]
+cimentador	adjetivo	ci|men|ta|[dor]
+cimentador	nome masculino	ci|men|ta|[dor]
+cimentar	verbo	ci|men|[tar]
+cimenteira	nome feminino	ci|men|[tei]|ra
+cimenteiro	adjetivo	ci|men|[tei]|ro
+cimento	nome masculino	ci|[men]|to
+cimentoso	adjetivo	ci|men|[to]|so
+ciméria	nome feminino	ci|[mé]|ri|a
+cimério	adjetivo	ci|[mé]|ri|o
+cimério	nome masculino	ci|[mé]|ri|o
+cimeu	adjetivo	ci|[meu]
+cimicídeo	nome masculino	ci|mi|[cí]|de|o
+cimicídeo	adjetivo	ci|mi|[cí]|de|o
+cimitarra	nome feminino	ci|mi|[tar]|ra
+cimo	nome masculino	[ci]|mo
+cimodoceia	nome feminino	ci|mo|do|[cei]|a
+cimografia	nome feminino	ci|mo|gra|[fi]|a
+cimográfico	adjetivo	ci|mo|[grá]|fi|co
+cimógrafo	nome masculino	ci|[mó]|gra|fo
+cimograma	nome masculino	ci|mo|[gra]|ma
+cimólia	nome feminino	ci|[mó]|li|a
+cimoliano	adjetivo	ci|mo|li|[a]|no
+cimoso	adjetivo	ci|[mo]|so
+cimoteídeo	adjetivo	ci|mo|te|[í]|de|o
+cimoteídeo	nome masculino	ci|mo|te|[í]|de|o
+cimotoídeo	adjetivo	ci|mo|to|[í]|de|o
+cimotoídeo	nome masculino	ci|mo|to|[í]|de|o
+cina	nome feminino	[ci]|na
+cinabre	nome masculino	ci|[na]|bre
+cinabrino	adjetivo	ci|na|[bri]|no
+cinábrio	nome masculino	ci|[ná]|bri|o

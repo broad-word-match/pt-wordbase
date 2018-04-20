@@ -1,0 +1,100 @@
+arquivístico	adjetivo	ar|qui|[vís]|ti|co
+arquivo	nome masculino	ar|[qui]|vo
+arquivologia	nome feminino	ar|qui|vo|lo|[gi]|a
+arquivológico	adjetivo	ar|qui|vo|[ló]|gi|co
+arquivologista	nome masculino	ar|qui|vo|lo|[gis]|ta
+arquivologista	nome feminino	ar|qui|vo|lo|[gis]|ta
+arquivólogo	nome masculino	ar|qui|[vó]|lo|go
+arquivolta	nome feminino	ar|qui|[vol]|ta
+arquivulgar	adjetivo	ar|qui|vul|[gar]
+arquiz	nome masculino	ar|[quiz]
+arrã	nome feminino	ar|[rã]
+arrabaça	nome feminino	ar|ra|[ba]|ça
+arrabalde	nome masculino	ar|ra|[bal]|de
+arrabaldeiro	nome masculino	ar|ra|bal|[dei]|ro
+arrabaldeiro	adjetivo	ar|ra|bal|[dei]|ro
+arrabaldino	adjetivo	ar|ra|bal|[di]|no
+arrabaldino	nome masculino	ar|ra|bal|[di]|no
+arrabar	verbo	ar|ra|[bar]
+arrabeirar	verbo	ar|ra|bei|[rar]
+arrabi	nome masculino	ar|ra|[bi]
+arrabi-mor	nome masculino	ar|ra|bi-mor
+arrábido	nome masculino	ar|[rá]|bi|do
+arrábido	adjetivo	ar|[rá]|bi|do
+arrabil	nome masculino	ar|ra|[bil]
+arrabileiro	nome masculino	ar|ra|bi|[lei]|ro
+arrabilete	nome masculino	ar|ra|bi|[le]|te
+arrabinado	adjetivo	ar|ra|bi|[na]|do
+arrabio	nome masculino	ar|ra|[bi]|o
+arrabujar	verbo	ar|ra|bu|[jar]
+arrabunhar	verbo	ar|ra|bu|[nhar]
+arraçado	adjetivo	ar|ra|[ça]|do
+arraçar	verbo	ar|ra|[çar]
+arracimar	verbo	ar|ra|ci|[mar]
+arraçoamento	nome masculino	ar|ra|ço|a|[men]|to
+arraçoar	verbo	ar|ra|ço|[ar]
+arraia	nome feminino	ar|[rai]|a
+arraia-miúda	nome feminino	ar|rai|a-mi|[ú]|da
+arraiada	nome feminino	ar|rai|[a]|da
+arraiado	adjetivo	ar|rai|[a]|do
+arraial	nome masculino	ar|rai|[al]
+arraial	interjeição	ar|rai|[al]
+arraialar	verbo	ar|rai|a|[lar]
+arraialeiro	nome masculino	ar|rai|a|[lei]|ro
+arraialesco	adjetivo	ar|rai|a|[les]|co
+arraiana	nome feminino	ar|rai|[a]|na
+arraiano	adjetivo	ar|rai|[a]|no
+arraiano	nome masculino	ar|rai|[a]|no
+arraião	nome masculino	ar|rai|[ão]
+arraiar	verbo	ar|rai|[ar]
+arraieira	nome feminino	ar|rai|[ei]|ra
+arraigada	nome feminino	ar|rai|[ga]|da
+arraigadamente	advérbio	ar|rai|ga|da|[men]|te
+arraigado	adjetivo	ar|rai|[ga]|do
+arraigamento	nome masculino	ar|rai|ga|[men]|to
+arraigar	verbo	ar|rai|[gar]
+arraigável	adjetivo	ar|rai|[gá]|vel
+arraigota	nome feminino	ar|rai|[go]|ta
+arraiolense	nome masculino	ar|rai|o|[len]|se
+arraiolense	adjetivo	ar|rai|o|[len]|se
+arraiolense	nome feminino	ar|rai|o|[len]|se
+arraiolos	nome masculino	ar|rai|[o]|los
+arrair	verbo	ar|ra|[ir]
+arrais	nome masculino	ar|[rais]
+arral	adjetivo	ar|[ral]
+arralar	verbo	ar|ra|[lar]
+arralentar	verbo	ar|ra|len|[tar]
+arramada	nome feminino	ar|ra|[ma]|da
+arramado	adjetivo	ar|ra|[ma]|do
+arramalhado	adjetivo	ar|ra|ma|[lha]|do
+arramalhar	verbo	ar|ra|ma|[lhar]
+arramar	verbo	ar|ra|[mar]
+arrampado	adjetivo	ar|ram|[pa]|do
+arrampado	nome masculino	ar|ram|[pa]|do
+arrampadoiro	nome masculino	ar|ram|pa|[doi]|ro
+arrampadouro	nome masculino	ar|ram|pa|[dou]|ro
+arrampanar	verbo	ar|ram|pa|[nar]
+arranca	nome feminino	ar|[ran]|ca
+arranca-dentes	nome masculino	ar|ran|ca-den|tes
+arranca-dentes	nome feminino	ar|ran|ca-den|tes
+arranca-milho	nome masculino	ar|ran|ca-mi|lho
+arranca-pinheiros	nome masculino	ar|ran|ca-pi|[nhei]|ros
+arranca-pregos	nome masculino	ar|ran|ca-pre|gos
+arranca-rabo	nome masculino	ar|ran|ca-ra|bo
+arranca-sonda	nome masculino	ar|ran|ca-son|da
+arranca-tocos	nome masculino	ar|ran|ca-to|cos
+arranca-tubos	nome masculino	ar|ran|ca-tu|bos
+arrancada	nome feminino	ar|ran|[ca]|da
+arrancadamente	advérbio	ar|ran|ca|da|[men]|te
+arrancadeira	nome feminino	ar|ran|ca|[dei]|ra
+arrancadela	nome feminino	ar|ran|ca|[de]|la
+arrancado	adjetivo	ar|ran|[ca]|do
+arrancador	adjetivo	ar|ran|ca|[dor]
+arrancador	nome masculino	ar|ran|ca|[dor]
+arrancadura	nome feminino	ar|ran|ca|[du]|ra
+arrancamento	nome masculino	ar|ran|ca|[men]|to
+arrancão	nome masculino	ar|ran|[cão]
+arrancar	verbo	ar|ran|[car]
+arrancável	adjetivo	ar|ran|[cá]|vel
+arranchação	nome feminino	ar|ran|cha|[ção]
+arranchamento	nome masculino	ar|ran|cha|[men]|to

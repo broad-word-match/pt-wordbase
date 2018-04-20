@@ -1,0 +1,100 @@
+emordaçar	verbo	e|mor|da|[çar]
+emorear	verbo	e|mo|re|[ar]
+emormado	adjetivo	e|mor|[ma]|do
+emorouçar	verbo	e|mo|rou|[çar]
+emorrinhar	verbo	e|mor|ri|[nhar]
+emostar	verbo	e|mos|[tar]
+emotiva	nome feminino	e|mo|[ti]|va
+emotivamente	advérbio	e|mo|ti|va|[men]|te
+emotividade	nome feminino	e|mo|ti|vi|[da]|de
+emotivo	nome masculino	e|mo|[ti]|vo
+emotivo	adjetivo	e|mo|[ti]|vo
+emouquecer	verbo	e|mou|que|[cer]
+emouquecimento	nome masculino	e|mou|que|ci|[men]|to
+emourar	verbo	e|mou|[rar]
+empa	nome feminino	[em]|pa
+empaca	nome feminino	em|[pa]|ca
+empacador	adjetivo	em|pa|ca|[dor]
+empacar	verbo	em|pa|[car]
+empachamento	nome masculino	em|pa|cha|[men]|to
+empachar	verbo	em|pa|[char]
+empache	nome masculino	em|[pa]|che
+empacho	nome masculino	em|[pa]|cho
+empachoso	adjetivo	em|pa|[cho]|so
+empacotadeira	nome feminino	em|pa|co|ta|[dei]|ra
+empacotado	adjetivo	em|pa|co|[ta]|do
+empacotador	adjetivo	em|pa|co|ta|[dor]
+empacotador	nome masculino	em|pa|co|ta|[dor]
+empacotadora	nome feminino	em|pa|co|ta|[do]|ra
+empacotamento	nome masculino	em|pa|co|ta|[men]|to
+empacotar	verbo	em|pa|co|[tar]
+empada	nome masculino	em|[pa]|da
+empada	nome feminino	em|[pa]|da
+empadão	nome masculino	em|pa|[dão]
+empador	nome masculino	em|pa|[dor]
+empadroar	verbo	em|pa|dro|[ar]
+empáfia	nome masculino	em|[pá]|fi|a
+empáfia	nome feminino	em|[pá]|fi|a
+empáfio	adjetivo	em|[pá]|fi|o
+empaiolar	verbo	em|pai|o|[lar]
+empalação	nome feminino	em|pa|la|[ção]
+empalagoso	adjetivo	em|pa|la|[go]|so
+empalamado	adjetivo	em|pa|la|[ma]|do
+empalar	verbo	em|pa|[lar]
+empaleador	adjetivo	em|pa|le|a|[dor]
+empalear	verbo	em|pa|le|[ar]
+empalecer	verbo	em|pa|le|[cer]
+empaletozado	adjetivo	em|pa|le|to|[za]|do
+empalhação	nome feminino	em|pa|lha|[ção]
+empalhada	nome feminino	em|pa|[lha]|da
+empalhadeira	nome feminino	em|pa|lha|[dei]|ra
+empalhado	adjetivo	em|pa|[lha]|do
+empalhado	nome masculino	em|pa|[lha]|do
+empalhador	nome masculino	em|pa|lha|[dor]
+empalhamento	nome masculino	em|pa|lha|[men]|to
+empalhar	verbo	em|pa|[lhar]
+empalheirar	verbo	em|pa|lhei|[rar]
+empalidecer	verbo	em|pa|li|de|[cer]
+empalitar	verbo	em|pa|li|[tar]
+empalmação	nome feminino	em|pal|ma|[ção]
+empalmadela	nome feminino	em|pal|ma|[de]|la
+empalmador	adjetivo	em|pal|ma|[dor]
+empalmador	nome masculino	em|pal|ma|[dor]
+empalmar	verbo	em|pal|[mar]
+empalme	nome masculino	em|[pal]|me
+empampanar	verbo	em|pam|pa|[nar]
+empanada	nome feminino	em|pa|[na]|da
+empanadilha	nome feminino	em|pa|na|[di]|lha
+empanado	adjetivo	em|pa|[na]|do
+empanamento	nome masculino	em|pa|na|[men]|to
+empanar	verbo	em|pa|[nar]
+empancamento	nome masculino	em|pan|ca|[men]|to
+empancar	verbo	em|pan|[car]
+empandeirado	adjetivo	em|pan|dei|[ra]|do
+empandeiramento	nome masculino	em|pan|dei|ra|[men]|to
+empandeirar	verbo	em|pan|dei|[rar]
+empandilhar	verbo	em|pan|di|[lhar]
+empandinar	verbo	em|pan|di|[nar]
+empanque	nome masculino	em|[pan]|que
+empantanar	verbo	em|pan|ta|[nar]
+empantufado	adjetivo	em|pan|tu|[fa]|do
+empantufar	verbo	em|pan|tu|[far]
+empanturrado	adjetivo	em|pan|tur|[ra]|do
+empanturramento	nome masculino	em|pan|tur|ra|[men]|to
+empanturrar	verbo	em|pan|tur|[rar]
+empanzinadela	nome feminino	em|pan|zi|na|[de]|la
+empanzinador	nome masculino	em|pan|zi|na|[dor]
+empanzinamento	nome masculino	em|pan|zi|na|[men]|to
+empanzinar	verbo	em|pan|zi|[nar]
+empapado	adjetivo	em|pa|[pa]|do
+empapagem	nome feminino	em|pa|[pa]|gem
+empapar	verbo	em|pa|[par]
+empapelado	adjetivo	em|pa|pe|[la]|do
+empapelador	adjetivo	em|pa|pe|la|[dor]
+empapelador	nome masculino	em|pa|pe|la|[dor]
+empapelamento	nome masculino	em|pa|pe|la|[men]|to
+empapelar	verbo	em|pa|pe|[lar]
+empapelo	nome masculino	em|pa|[pe]|lo
+empapoilar	verbo	em|pa|poi|[lar]
+empapoular	verbo	em|pa|pou|[lar]
+empapuçado	adjetivo	em|pa|pu|[ça]|do

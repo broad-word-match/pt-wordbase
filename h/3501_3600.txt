@@ -1,0 +1,100 @@
+histriónico	adjetivo	his|tri|[ó]|ni|co
+histrionismo	nome masculino	his|tri|o|[nis]|mo
+hit	nome masculino	[hit]
+hitita	nome masculino	hi|[ti]|ta
+hitita	nome feminino	hi|[ti]|ta
+hitítico	adjetivo	hi|[tí]|ti|co
+hitítico	nome masculino	hi|[tí]|ti|co
+hitleriana	nome feminino	hi|tle|ri|[a]|na
+hitleriano	nome masculino	hi|tle|ri|[a]|no
+hitleriano	adjetivo	hi|tle|ri|[a]|no
+hitlerismo	nome masculino	hi|tle|[ris]|mo
+hitlerista	adjetivo	hi|tle|[ris]|ta
+hitlerista	nome masculino	hi|tle|[ris]|ta
+hitlerista	nome feminino	hi|tle|[ris]|ta
+hiulco	adjetivo	hi|[ul]|co
+hobby	nome masculino	[hob]|by
+hodiernamente	advérbio	ho|di|er|na|[men]|te
+hodiernidade	nome feminino	ho|di|er|ni|[da]|de
+hodierno	adjetivo	ho|di|[er]|no
+hodografia	nome feminino	ho|do|gra|[fi]|a
+hodográfico	adjetivo	ho|do|[grá]|fi|co
+hodógrafo	nome masculino	ho|[dó]|gra|fo
+hodometria	nome feminino	ho|do|me|[tri]|a
+hodométrico	adjetivo	ho|do|[mé]|tri|co
+hodômetro	nome masculino	ho|[dô]|me|tro
+hodómetro	nome masculino	ho|[dó]|me|tro
+hodoscópio	nome masculino	ho|dos|[có]|pi|o
+hoffmânnico	adjetivo	hoff|[mân]|ni|co
+hoje	advérbio	[ho]|je
+holanda	nome feminino	ho|[lan]|da
+holandês	adjetivo	ho|lan|[dês]
+holandês	nome masculino	ho|lan|[dês]
+holandesa	nome feminino	ho|lan|[de]|sa
+holandilha	nome feminino	ho|lan|[di]|lha
+holandilheiro	nome masculino	ho|lan|di|[lhei]|ro
+holandizar	verbo	ho|lan|di|[zar]
+holantárctico	adjetivo	ho|lan|[tárc]|ti|co
+holantártico	adjetivo	ho|lan|[tár]|ti|co
+holárctico	adjetivo	ho|[lárc]|ti|co
+holding	nome feminino	[hol]|ding
+holicismo	nome masculino	ho|li|[cis]|mo
+holígane	nome masculino	ho|[lí]|ga|ne
+holígane	nome feminino	ho|[lí]|ga|ne
+holiganismo	nome masculino	ho|li|ga|[nis]|mo
+holismo	nome masculino	ho|[lis]|mo
+holístico	adjetivo	ho|[lís]|ti|co
+hollywoodesco	adjetivo	hol|ly|woo|des|co
+holmiense	nome masculino	hol|mi|[en]|se
+holmiense	adjetivo	hol|mi|[en]|se
+holmiense	nome feminino	hol|mi|[en]|se
+hólmio	nome masculino	[hól]|mi|o
+holo	nome masculino	[ho]|lo
+holoblástico	adjetivo	ho|lo|[blás]|ti|co
+holobrânquio	adjetivo	ho|lo|[brân]|qui|o
+holocarpo	adjetivo	ho|lo|[car]|po
+holocarpo	nome masculino	ho|lo|[car]|po
+holocausto	nome masculino	ho|lo|[caus]|to
+holocéfalo	adjetivo	ho|lo|[cé]|fa|lo
+holocéfalo	nome masculino	ho|lo|[cé]|fa|lo
+holocénico	adjetivo	ho|lo|[cé]|ni|co
+holococo	nome masculino	ho|lo|[co]|co
+holocrínico	adjetivo	ho|lo|[crí]|ni|co
+holócrino	adjetivo	ho|[ló]|cri|no
+holocristalino	adjetivo	ho|lo|cris|ta|[li]|no
+holoedria	nome feminino	ho|lo|e|[dri]|a
+holoédrico	adjetivo	ho|lo|[é]|dri|co
+holoedro	nome masculino	ho|lo|[e]|dro
+holoenzima	nome feminino	ho|lo|en|[zi]|ma
+holófita	nome feminino	ho|[ló]|fi|ta
+holofítico	nome masculino	ho|lo|[fí]|ti|co
+holofítico	adjetivo	ho|lo|[fí]|ti|co
+holofote	nome masculino	ho|lo|[fo]|te
+holofótico	adjetivo	ho|lo|[fó]|ti|co
+holófrase	nome feminino	ho|[ló]|fra|se
+holofrástico	adjetivo	ho|lo|[frás]|ti|co
+hologamia	nome feminino	ho|lo|ga|[mi]|a
+hologênese	nome feminino	ho|lo|[gê]|ne|se
+hologénese	nome feminino	ho|lo|[gé]|ne|se
+hologenésico	adjetivo	ho|lo|ge|[né]|si|co
+hologenético	adjetivo	ho|lo|ge|[né]|ti|co
+holografia	nome feminino	ho|lo|gra|[fi]|a
+holográfico	adjetivo	ho|lo|[grá]|fi|co
+hológrafo	adjetivo	ho|[ló]|gra|fo
+hológrafo	nome masculino	ho|[ló]|gra|fo
+holograma	nome masculino	ho|lo|[gra]|ma
+holometabólico	adjetivo	ho|lo|me|ta|[bó]|li|co
+holométrico	adjetivo	ho|lo|[mé]|tri|co
+holômetro	nome masculino	ho|[lô]|me|tro
+holómetro	nome masculino	ho|[ló]|me|tro
+holomórfico	adjetivo	ho|lo|[mór]|fi|co
+holomorfismo	nome masculino	ho|lo|mor|[fis]|mo
+holonímia	nome feminino	ho|lo|[ní]|mi|a
+holónimo	nome masculino	ho|[ló]|ni|mo
+holonomia	nome feminino	ho|lo|no|[mi]|a
+holonómico	adjetivo	ho|lo|[nó]|mi|co
+holonômico	adjetivo	ho|lo|[nô]|mi|co
+holónomo	adjetivo	ho|[ló]|no|mo
+holônomo	adjetivo	ho|[lô]|no|mo
+holopatia	nome feminino	ho|lo|pa|[ti]|a
+holopetalar	adjetivo	ho|lo|pe|ta|[lar]

@@ -1,0 +1,100 @@
+telespetador	nome masculino	te|les|pe|ta|[dor]
+telespetadora	nome feminino	te|les|pe|ta|[do]|ra
+telesqui	nome masculino	te|les|[qui]
+telessismo	nome masculino	te|les|[sis]|mo
+telessismográfico	adjetivo	te|les|sis|mo|[grá]|fi|co
+telessismógrafo	nome masculino	te|les|sis|[mó]|gra|fo
+telessonda	nome feminino	te|les|[son]|da
+telestereográfico	adjetivo	te|les|te|re|o|[grá]|fi|co
+telestereógrafo	nome masculino	te|les|te|re|[ó]|gra|fo
+telestereoscópio	nome masculino	te|les|te|re|os|[có]|pi|o
+teletermográfico	adjetivo	te|le|ter|mo|[grá]|fi|co
+teletermógrafo	nome masculino	te|le|ter|[mó]|gra|fo
+teletexto	nome masculino	te|le|[tex]|to
+teletípico	adjetivo	te|le|[tí]|pi|co
+teletipista	nome masculino	te|le|ti|[pis]|ta
+teletipista	nome feminino	te|le|ti|[pis]|ta
+telétipo	nome masculino	te|[lé]|ti|po
+teletrabalhador	nome masculino	te|le|tra|ba|lha|[dor]
+teletrabalhador	adjetivo	te|le|tra|ba|lha|[dor]
+teletrabalhadora	nome feminino	te|le|tra|ba|lha|[do]|ra
+teletrabalhar	verbo	te|le|tra|ba|[lhar]
+teletrabalho	nome masculino	te|le|tra|[ba]|lho
+teletransmissão	nome feminino	te|le|trans|mis|[são]
+teleutospório	nome masculino	te|leu|tos|[pó]|ri|o
+televenda	nome feminino	te|le|[ven]|da
+televisado	adjetivo	te|le|vi|[sa]|do
+televisamento	nome masculino	te|le|vi|sa|[men]|to
+televisão	nome feminino	te|le|vi|[são]
+televisar	verbo	te|le|vi|[sar]
+televisionado	adjetivo	te|le|vi|si|o|[na]|do
+televisionamento	nome masculino	te|le|vi|si|o|na|[men]|to
+televisionar	verbo	te|le|vi|si|o|[nar]
+televisivamente	advérbio	te|le|vi|si|va|[men]|te
+televisível	adjetivo	te|le|vi|[sí]|vel
+televisivo	adjetivo	te|le|vi|[si]|vo
+televisor	nome masculino	te|le|vi|[sor]
+televisor	adjetivo	te|le|vi|[sor]
+televisora	nome feminino	te|le|vi|[so]|ra
+telex	nome masculino	te|[lex]
+telexar	verbo	te|le|[xar]
+telexista	nome masculino	te|le|[xis]|ta
+telexista	nome feminino	te|le|[xis]|ta
+telha	nome feminino	[te]|lha
+telha-vã	nome feminino	te|lha-vã
+telhado	nome masculino	te|[lha]|do
+telhado	adjetivo	te|[lha]|do
+telhador	nome masculino	te|lha|[dor]
+telhadura	nome feminino	te|lha|[du]|ra
+telhal	nome masculino	te|[lhal]
+telhão	nome masculino	te|[lhão]
+telhar	verbo	te|[lhar]
+telheira	nome feminino	te|[lhei]|ra
+telheiro	nome masculino	te|[lhei]|ro
+telhice	nome feminino	te|[lhi]|ce
+telhinhas	nome feminino	te|[lhi]|nhas
+telho	nome masculino	[te]|lho
+telhudo	adjetivo	te|[lhu]|do
+teliconográfico	adjetivo	te|li|co|no|[grá]|fi|co
+teliconógrafo	nome masculino	te|li|co|[nó]|gra|fo
+teliforme	adjetivo	te|li|[for]|me
+teligonácea	nome feminino	te|li|go|[ná]|ce|a
+telilha	nome feminino	te|[li]|lha
+telim	nome masculino	te|[lim]
+telimpressor	nome masculino	te|lim|pres|[sor]
+telina	nome feminino	te|[li]|na
+telinga	adjetivo	te|[lin]|ga
+telinga	nome masculino	te|[lin]|ga
+telinga	nome feminino	te|[lin]|ga
+telínida	nome masculino	te|[lí]|ni|da
+telinídeo	adjetivo	te|li|[ní]|de|o
+telinídeo	nome masculino	te|li|[ní]|de|o
+telinídeo	nome masculino	te|li|[ní]|de|o
+telintar	verbo	te|lin|[tar]
+telite	nome feminino	te|[li]|te
+telitocia	nome feminino	te|li|to|[ci]|a
+teliz	nome masculino	te|[liz]
+telmesse	adjetivo	tel|[mes]|se
+telmesse	nome masculino	tel|[mes]|se
+telmesse	nome feminino	tel|[mes]|se
+telobjectiva	nome feminino	te|lob|jec|[ti]|va
+telobjetiva	nome feminino	te|lob|je|[ti]|va
+telófase	nome feminino	te|[ló]|fa|se
+telolecítico	adjetivo	te|lo|le|[cí]|ti|co
+telolécito	adjetivo	te|lo|[lé]|ci|to
+telómero	nome masculino	te|[ló]|me|ro
+telômero	nome masculino	te|[lô]|me|ro
+telonense	nome masculino	te|lo|[nen]|se
+telonense	adjetivo	te|lo|[nen]|se
+telonense	nome feminino	te|lo|[nen]|se
+telónio	nome masculino	te|[ló]|ni|o
+telônio	nome masculino	te|[lô]|ni|o
+telopsia	nome feminino	te|lop|[si]|a
+telóptico	adjetivo	te|[lóp]|ti|co
+telorragia	nome feminino	te|lor|ra|[gi]|a
+telorrágico	adjetivo	te|lor|[rá]|gi|co
+telosporídeo	nome masculino	te|los|po|[rí]|de|o
+telosporídeo	adjetivo	te|los|po|[rí]|de|o
+telótico	adjetivo	te|[ló]|ti|co
+telotismo	nome masculino	te|lo|[tis]|mo
+telso	nome masculino	[tel]|so

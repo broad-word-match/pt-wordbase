@@ -1,0 +1,100 @@
+retrocedente	adjetivo	re|tro|ce|[den]|te
+retrocedente	nome masculino	re|tro|ce|[den]|te
+retrocedente	nome feminino	re|tro|ce|[den]|te
+retroceder	verbo	re|tro|ce|[der]
+retrocedimento	nome masculino	re|tro|ce|di|[men]|to
+retrocessão	nome feminino	re|tro|ces|[são]
+retrocessivo	adjetivo	re|tro|ces|[si]|vo
+retrocesso	nome masculino	re|tro|[ces]|so
+retrocruzamento	nome masculino	re|tro|cru|za|[men]|to
+retrodatação	nome feminino	re|tro|da|ta|[ção]
+retrodatar	verbo	re|tro|da|[tar]
+retrodesvio	nome masculino	re|tro|des|[vi]|o
+retroescavadora	nome feminino	re|tro|es|ca|va|[do]|ra
+retroflectido	adjetivo	re|tro|flec|[ti]|do
+retroflectir	verbo	re|tro|flec|[tir]
+retrofletido	adjetivo	re|tro|fle|[ti]|do
+retrofletir	verbo	re|tro|fle|[tir]
+retroflexão	nome feminino	re|tro|fle|[xão]
+retroflexo	adjetivo	re|tro|[fle]|xo
+retrofoguete	nome masculino	re|tro|fo|[gue]|te
+retrofrontal	adjetivo	re|tro|fron|[tal]
+retrognatismo	nome masculino	re|trog|na|[tis]|mo
+retrógnato	adjetivo	re|[tróg]|na|to
+retrogosto	nome masculino	re|tro|[gos]|to
+retrógrada	nome feminino	re|[tró]|gra|da
+retrogradação	nome feminino	re|tro|gra|da|[ção]
+retrogradamente	advérbio	re|tro|gra|da|[men]|te
+retrogradar	verbo	re|tro|gra|[dar]
+retrógrado	nome masculino	re|[tró]|gra|do
+retrógrado	adjetivo	re|[tró]|gra|do
+retrogressão	nome feminino	re|tro|gres|[são]
+retrogressivo	adjetivo	re|tro|gres|[si]|vo
+retroinsular	adjetivo	re|tro|in|su|[lar]
+retroo	nome masculino	re|[tro]|o
+retropedalagem	nome feminino	re|tro|pe|da|[la]|gem
+retropedalar	verbo	re|tro|pe|da|[lar]
+retroperitoneal	adjetivo	re|tro|pe|ri|to|ne|[al]
+retropilastra	nome feminino	re|tro|pi|[las]|tra
+retroposição	nome feminino	re|tro|po|si|[ção]
+retroprojeção	nome feminino	re|tro|pro|je|[ção]
+retroprojetar	verbo	re|tro|pro|je|[tar]
+retroprojetor	nome masculino	re|tro|pro|je|[tor]
+retropropulsão	nome feminino	re|tro|pro|pul|[são]
+retropulsão	nome feminino	re|tro|pul|[são]
+retrorso	adjetivo	re|[tror]|so
+retrós	nome masculino	re|[trós]
+retrosaria	nome feminino	re|tro|sa|[ri]|a
+retroseira	nome feminino	re|tro|[sei]|ra
+retroseiro	nome masculino	re|tro|[sei]|ro
+retrospeção	nome feminino	re|tros|pe|[ção]
+retrospecção	nome feminino	re|tros|pec|[ção]
+retrospectiva	nome feminino	re|tros|pec|[ti]|va
+retrospectivamente	advérbio	re|tros|pec|ti|va|[men]|te
+retrospectividade	nome feminino	re|tros|pec|ti|vi|[da]|de
+retrospectivo	adjetivo	re|tros|pec|[ti]|vo
+retrospecto	nome masculino	re|tros|[pec]|to
+retrospetiva	nome feminino	re|tros|pe|[ti]|va
+retrospetivamente	advérbio	re|tros|pe|ti|va|[men]|te
+retrospetividade	nome feminino	re|tros|pe|ti|vi|[da]|de
+retrospetivo	adjetivo	re|tros|pe|[ti]|vo
+retrospeto	nome masculino	re|tros|[pe]|to
+retrosseguir	verbo	re|tros|se|[guir]
+retrossifoniano	adjetivo	re|tros|si|fo|ni|[a]|no
+retrossifoniano	nome masculino	re|tros|si|fo|ni|[a]|no
+retrosternal	adjetivo	re|tros|ter|[nal]
+retrotração	nome feminino	re|tro|tra|[ção]
+retrotrair	verbo	re|tro|tra|[ir]
+retrouterino	adjetivo	re|trou|te|[ri]|no
+retrovenda	nome feminino	re|tro|[ven]|da
+retrovender	verbo	re|tro|ven|[der]
+retrovendição	nome feminino	re|tro|ven|di|[ção]
+retroversão	nome feminino	re|tro|ver|[são]
+retroversidade	nome feminino	re|tro|ver|si|[da]|de
+retroversivo	adjetivo	re|tro|ver|[si]|vo
+retroversivo	nome masculino	re|tro|ver|[si]|vo
+retroverter	verbo	re|tro|ver|[ter]
+retroviral	adjetivo	re|tro|vi|[ral]
+retrovirótico	adjetivo	re|tro|vi|[ró]|ti|co
+retrovírus	nome masculino	re|tro|[ví]|rus
+retrovisor	adjetivo	re|tro|vi|[sor]
+retrovisor	nome masculino	re|tro|vi|[sor]
+retrucar	verbo	re|tru|[car]
+retruque	nome masculino	re|[tru]|que
+retruso	adjetivo	re|[tru]|so
+retumbância	nome feminino	re|tum|[bân]|ci|a
+retumbante	adjetivo	re|tum|[ban]|te
+retumbantemente	advérbio	re|tum|ban|te|[men]|te
+retumbar	verbo	re|tum|[bar]
+retumbo	nome masculino	re|[tum]|bo
+retundir	verbo	re|tun|[dir]
+returetral	adjetivo	re|tu|re|[tral]
+retuso	adjetivo	re|[tu]|so
+rétzia	nome feminino	[rét]|zi|a
+retziácea	nome feminino	ret|zi|[á]|ce|a
+retziáceo	adjetivo	ret|zi|[á]|ce|o
+retzite	nome feminino	ret|[zi]|te
+réu	adjetivo	[réu]
+réu	nome masculino	[réu]
+réu-réu	nome masculino	[réu-réu]
+reubarbo	nome masculino	reu|[bar]|bo

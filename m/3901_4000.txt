@@ -1,0 +1,100 @@
+massambará	nome feminino	mas|sam|ba|[rá]
+massame	nome masculino	mas|[sa]|me
+massamorda	nome feminino	mas|sa|[mor]|da
+massangano	nome masculino	mas|san|[ga]|no
+massango	nome masculino	mas|[san]|go
+massapão	nome masculino	mas|sa|[pão]
+massapé	nome masculino	mas|sa|[pé]
+massapê	nome masculino	mas|sa|[pê]
+massaroca	nome feminino	mas|sa|[ro]|ca
+massaroco	nome masculino	mas|sa|[ro]|co
+massarongo	adjetivo	mas|sa|[ron]|go
+massarongo	nome masculino	mas|sa|[ron]|go
+masse	nome masculino	[mas]|se
+masseira	nome feminino	mas|[sei]|ra
+masseirão	nome masculino	mas|sei|[rão]
+massengane	nome masculino	mas|sen|[ga]|ne
+massesilo	adjetivo	mas|se|[si]|lo
+massesilo	nome masculino	mas|se|[si]|lo
+massesse	nome masculino	mas|[ses]|se
+masséter	nome masculino	mas|[sé]|ter
+massetérico	adjetivo	mas|se|[té]|ri|co
+masseterino	adjetivo	mas|se|te|[ri]|no
+masseve	nome masculino	mas|[se]|ve
+masseve	nome feminino	mas|[se]|ve
+mássico	adjetivo	[más]|si|co
+mássico	nome masculino	[más]|si|co
+massicote	nome masculino	mas|si|[co]|te
+massieno	adjetivo	mas|si|[e]|no
+massieno	nome masculino	mas|si|[e]|no
+massificação	nome feminino	mas|si|fi|ca|[ção]
+massificado	adjetivo	mas|si|fi|[ca]|do
+massificador	adjetivo	mas|si|fi|ca|[dor]
+massificar	verbo	mas|si|fi|[car]
+massilha	nome feminino	mas|[si]|lha
+massiliense	nome masculino	mas|si|li|[en]|se
+massiliense	adjetivo	mas|si|li|[en]|se
+massiliense	nome feminino	mas|si|li|[en]|se
+massilo	adjetivo	mas|[si]|lo
+massilo	nome masculino	mas|[si]|lo
+massinguita	nome feminino	mas|sin|[gui]|ta
+massinha	nome feminino	mas|[si]|nha
+massiquine	nome masculino	mas|si|[qui]|ne
+massivamente	advérbio	mas|si|va|[men]|te
+massivo	adjetivo	mas|[si]|vo
+massoca	nome feminino	mas|[so]|ca
+massorá	nome feminino	mas|so|[rá]
+massoreta	nome masculino	mas|so|[re]|ta
+massorético	adjetivo	mas|so|[ré]|ti|co
+massoterapia	nome feminino	mas|so|te|ra|[pi]|a
+massoterápico	adjetivo	mas|so|te|[rá]|pi|co
+massuca	nome feminino	mas|[su]|ca
+massucas	nome feminino	mas|[su]|cas
+massuco	nome masculino	mas|[su]|co
+massudo	adjetivo	mas|[su]|do
+massuícas	nome feminino	mas|su|[í]|cas
+massulipatão	nome masculino	mas|su|li|pa|[tão]
+mastaba	nome feminino	mas|[ta]|ba
+mastalgia	nome feminino	mas|tal|[gi]|a
+mastaréu	nome masculino	mas|ta|[réu]
+mastaurense	nome masculino	mas|tau|[ren]|se
+mastaurense	adjetivo	mas|tau|[ren]|se
+mastaurense	nome feminino	mas|tau|[ren]|se
+masteação	nome feminino	mas|te|a|[ção]
+mastear	verbo	mas|te|[ar]
+mastectomia	nome feminino	mas|tec|to|[mi]|a
+mastectômico	adjetivo	mas|tec|[tô]|mi|co
+mastectómico	adjetivo	mas|tec|[tó]|mi|co
+máster	nome masculino	[más]|ter
+máster	adjetivo	[más]|ter
+master	nome masculino	mas|[ter]
+masterização	nome feminino	mas|te|ri|za|[ção]
+masterizar	verbo	mas|te|ri|[zar]
+masters	nome masculino	[mas]|ters
+mástica	nome feminino	[más]|ti|ca
+masticatório	adjetivo	mas|ti|ca|[tó]|ri|o
+masticatório	nome masculino	mas|ti|ca|[tó]|ri|o
+mastigação	nome feminino	mas|ti|ga|[ção]
+mastigada	nome feminino	mas|ti|[ga]|da
+mastigado	adjetivo	mas|ti|[ga]|do
+mastigado	nome masculino	mas|ti|[ga]|do
+mastigadoiro	nome masculino	mas|ti|ga|[doi]|ro
+mastigador	adjetivo	mas|ti|ga|[dor]
+mastigador	nome masculino	mas|ti|ga|[dor]
+mastigadora	nome feminino	mas|ti|ga|[do]|ra
+mastigadouro	nome masculino	mas|ti|ga|[dou]|ro
+mastigar	verbo	mas|ti|[gar]
+mastigatório	adjetivo	mas|ti|ga|[tó]|ri|o
+mastigatório	nome masculino	mas|ti|ga|[tó]|ri|o
+mastigável	adjetivo	mas|ti|[gá]|vel
+mastigo	nome masculino	mas|[ti]|go
+mastigócero	nome masculino	mas|ti|[gó]|ce|ro
+mastigóforo	nome masculino	mas|ti|[gó]|fo|ro
+mastigópode	nome masculino	mas|ti|[gó]|po|de
+mastil	nome masculino	mas|[til]
+mastim	nome masculino	mas|[tim]
+mástique	nome feminino	[más]|ti|que
+mastite	nome feminino	mas|[ti]|te
+masto	nome masculino	[mas]|to
+mastócito	nome masculino	mas|[tó]|ci|to
+mastodinia	nome feminino	mas|to|di|[ni]|a

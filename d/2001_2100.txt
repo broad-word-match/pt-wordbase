@@ -1,0 +1,100 @@
+departamentalizador	adjetivo	de|par|ta|men|ta|li|za|[dor]
+departamentalizador	nome masculino	de|par|ta|men|ta|li|za|[dor]
+departamentalizar	verbo	de|par|ta|men|ta|li|[zar]
+departamentalizável	adjetivo	de|par|ta|men|ta|li|[zá]|vel
+departamento	nome masculino	de|par|ta|[men]|to
+departição	nome feminino	de|par|ti|[ção]
+departidor	adjetivo	de|par|ti|[dor]
+departidor	nome masculino	de|par|ti|[dor]
+departimento	nome masculino	de|par|ti|[men]|to
+departir	verbo	de|par|[tir]
+depascente	adjetivo	de|pas|[cen]|te
+depauperação	nome feminino	de|pau|pe|ra|[ção]
+depauperado	adjetivo	de|pau|pe|[ra]|do
+depauperador	adjetivo	de|pau|pe|ra|[dor]
+depauperador	nome masculino	de|pau|pe|ra|[dor]
+depauperamento	nome masculino	de|pau|pe|ra|[men]|to
+depauperante	adjetivo	de|pau|pe|[ran]|te
+depauperar	verbo	de|pau|pe|[rar]
+depauperativo	adjetivo	de|pau|pe|ra|[ti]|vo
+depenado	adjetivo	de|pe|[na]|do
+depenador	adjetivo	de|pe|na|[dor]
+depenador	nome masculino	de|pe|na|[dor]
+depenar	verbo	de|pe|[nar]
+dependência	nome feminino	de|pen|[dên]|ci|a
+dependente	nome masculino	de|pen|[den]|te
+dependente	adjetivo	de|pen|[den]|te
+dependente	nome feminino	de|pen|[den]|te
+depender	verbo	de|pen|[der]
+dependura	nome feminino	de|pen|[du]|ra
+dependura	nome masculino	de|pen|[du]|ra
+dependurado	adjetivo	de|pen|du|[ra]|do
+dependurado	nome masculino	de|pen|du|[ra]|do
+dependurar	verbo	de|pen|du|[rar]
+dependuro	nome masculino	de|pen|[du]|ro
+depenicar	verbo	de|pe|ni|[car]
+depenomania	nome feminino	de|pe|no|ma|[ni]|a
+deperder	verbo	de|per|[der]
+depérdito	adjetivo	de|[pér]|di|to
+deperecer	verbo	de|pe|re|[cer]
+deperecimento	nome masculino	de|pe|re|ci|[men]|to
+depilação	nome feminino	de|pi|la|[ção]
+depilado	adjetivo	de|pi|[la]|do
+depilador	nome masculino	de|pi|la|[dor]
+depiladora	nome feminino	de|pi|la|[do]|ra
+depilar	verbo	de|pi|[lar]
+depilatório	nome masculino	de|pi|la|[tó]|ri|o
+depilatório	adjetivo	de|pi|la|[tó]|ri|o
+deplasmólise	nome feminino	de|plas|[mó]|li|se
+depleção	nome feminino	de|ple|[ção]
+depletivo	adjetivo	de|ple|[ti]|vo
+deploração	nome feminino	de|plo|ra|[ção]
+deplorado	adjetivo	de|plo|[ra]|do
+deplorador	adjetivo	de|plo|ra|[dor]
+deplorador	nome masculino	de|plo|ra|[dor]
+deplorando	adjetivo	de|plo|[ran]|do
+deplorar	verbo	de|plo|[rar]
+deplorativamente	advérbio	de|plo|ra|ti|va|[men]|te
+deplorativo	adjetivo	de|plo|ra|[ti]|vo
+deploratório	adjetivo	de|plo|ra|[tó]|ri|o
+deplorável	adjetivo	de|plo|[rá]|vel
+deploravelmente	advérbio	de|plo|ra|vel|[men]|te
+deplumar	verbo	de|plu|[mar]
+depoência	nome feminino	de|po|[ên]|ci|a
+depoente	nome masculino	de|po|[en]|te
+depoente	adjetivo	de|po|[en]|te
+depoente	nome feminino	de|po|[en]|te
+depoimento	nome masculino	de|poi|[men]|to
+depois	advérbio	de|[pois]
+depolarização	nome feminino	de|po|la|ri|za|[ção]
+depolarizar	verbo	de|po|la|ri|[zar]
+deponência	nome feminino	de|po|[nên]|ci|a
+deponente	adjetivo	de|po|[nen]|te
+deponente	nome masculino	de|po|[nen]|te
+deponente	nome feminino	de|po|[nen]|te
+depopulação	nome feminino	de|po|pu|la|[ção]
+depopulado	adjetivo	de|po|pu|[la]|do
+depopular	verbo	de|po|pu|[lar]
+depopulável	adjetivo	de|po|pu|[lá]|vel
+depor	verbo	de|[por]
+deportação	nome feminino	de|por|ta|[ção]
+deportada	nome feminino	de|por|[ta]|da
+deportado	nome masculino	de|por|[ta]|do
+deportado	adjetivo	de|por|[ta]|do
+deportar	verbo	de|por|[tar]
+deportável	adjetivo	de|por|[tá]|vel
+deporte	nome masculino	de|[por]|te
+deporto	nome masculino	de|[por]|to
+depós	preposição	de|[pós]
+deposição	nome feminino	de|po|si|[ção]
+depositado	adjetivo	de|po|si|[ta]|do
+depositador	nome masculino	de|po|si|ta|[dor]
+depositante	adjetivo	de|po|si|[tan]|te
+depositante	nome masculino	de|po|si|[tan]|te
+depositante	nome feminino	de|po|si|[tan]|te
+depositar	verbo	de|po|si|[tar]
+depositária	nome feminino	de|po|si|[tá]|ri|a
+depositário	nome masculino	de|po|si|[tá]|ri|o
+depositável	adjetivo	de|po|si|[tá]|vel
+depósito	nome masculino	de|[pó]|si|to
+deposto	adjetivo	de|[pos]|to

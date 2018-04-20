@@ -1,0 +1,100 @@
+zá	nome masculino	[zá]
+zabaneira	nome feminino	za|ba|[nei]|ra
+zabdiceno	adjetivo	zab|di|[ce]|no
+zabdiceno	nome masculino	zab|di|[ce]|no
+zabelê	nome masculino	za|be|[lê]
+zabra	nome feminino	[za]|bra
+zabumba	nome masculino	za|[bum]|ba
+zabumbar	verbo	za|bum|[bar]
+zabumbeiro	nome masculino	za|bum|[bei]|ro
+zabumbeiro	adjetivo	za|bum|[bei]|ro
+zaburreira	nome feminino	za|bur|[rei]|ra
+zaburreiro	nome masculino	za|bur|[rei]|ro
+zaburro	nome masculino	za|[bur]|ro
+zaca	nome masculino	[za]|ca
+zacíntio	adjetivo	za|[cín]|ti|o
+zacíntio	nome masculino	za|[cín]|ti|o
+zacinto	nome masculino	za|[cin]|to
+zaco	nome masculino	[za]|co
+zacônico	adjetivo	za|[cô]|ni|co
+zacónico	adjetivo	za|[có]|ni|co
+zacónico	nome masculino	za|[có]|ni|co
+zacônico	nome masculino	za|[cô]|ni|co
+zacum	nome masculino	za|[cum]
+zafarrancho	nome masculino	za|far|[ran]|cho
+zafece	adjetivo	za|[fe]|ce
+zafece	nome masculino	za|[fe]|ce
+zafece	nome feminino	za|[fe]|ce
+zafimeiro	adjetivo	za|fi|[mei]|ro
+zaga	nome feminino	[za]|ga
+zagaia	nome feminino	za|[gai]|a
+zagaiada	nome feminino	za|gai|[a]|da
+zagaiar	verbo	za|gai|[ar]
+zagaieiro	nome masculino	za|gai|[ei]|ro
+zagaio	nome masculino	za|[gai]|o
+zagal	nome masculino	za|[gal]
+zagala	nome feminino	za|[ga]|la
+zagalejo	nome masculino	za|ga|[le]|jo
+zagalete	nome masculino	za|ga|[le]|te
+zagaleto	nome masculino	za|ga|[le]|to
+zagalotada	nome feminino	za|ga|lo|[ta]|da
+zagalote	nome masculino	za|ga|[lo]|te
+zagão	nome masculino	za|[gão]
+zagatai	nome masculino	za|ga|[tai]
+zagaté	nome masculino	za|ga|[té]
+zagor	nome masculino	za|[gor]
+zagorrino	adjetivo	za|gor|[ri]|no
+zagorrino	nome masculino	za|gor|[ri]|no
+zagorro	adjetivo	za|[gor]|ro
+zagorro	nome masculino	za|[gor]|ro
+zagrão	nome masculino	za|[grão]
+zagre	nome masculino	[za]|gre
+zagrebina	nome feminino	za|gre|[bi]|na
+zagrebino	adjetivo	za|gre|[bi]|no
+zagrebino	nome masculino	za|gre|[bi]|no
+zagucho	adjetivo	za|[gu]|cho
+zagueiro	nome masculino	za|[guei]|ro
+zagunchada	nome feminino	za|gun|[cha]|da
+zagunchar	verbo	za|gun|[char]
+zaguncho	nome masculino	za|[gun]|cho
+zãibo	adjetivo	[zãi]|bo
+zaida	nome feminino	[zai]|da
+zaikó	nome masculino	zai|[kó]
+zaina	nome feminino	[zai]|na
+zaine	nome masculino	[zai]|ne
+zaino	nome masculino	[zai]|no
+zaino	adjetivo	[zai]|no
+zaipana	nome masculino	zai|[pa]|na
+zaira	nome feminino	[zai]|ra
+zaire	nome masculino	[zai]|re
+zairense	adjetivo	zai|[ren]|se
+zairense	nome masculino	zai|[ren]|se
+zairense	nome feminino	zai|[ren]|se
+zairota	nome masculino	zai|[ro]|ta
+zairota	nome feminino	zai|[ro]|ta
+zalumar	verbo	za|lu|[mar]
+zama	nome masculino	[za]|ma
+zamacueca	nome feminino	za|ma|cu|[e]|ca
+zamareno	adjetivo	za|ma|[re]|no
+zamareno	nome masculino	za|ma|[re]|no
+zamba	nome feminino	[zam]|ba
+zambaio	adjetivo	zam|[bai]|o
+zambaio	nome masculino	zam|[bai]|o
+zambana	adjetivo	zam|[ba]|na
+zambana	nome masculino	zam|[ba]|na
+zambana	nome feminino	zam|[ba]|na
+zambê	nome masculino	zam|[bê]
+zambeque	nome masculino	zam|[be]|que
+zambeta	adjetivo	zam|[be]|ta
+zambeta	nome masculino	zam|[be]|ta
+zambeziano	adjetivo	zam|be|zi|[a]|no
+zambeziano	nome masculino	zam|be|zi|[a]|no
+zambi	nome masculino	zam|[bi]
+zambiana	nome feminino	zam|bi|[a]|na
+zambiano	adjetivo	zam|bi|[a]|no
+zambiano	nome masculino	zam|bi|[a]|no
+zambiapunga	nome feminino	zam|bi|a|[pun]|ga
+zambo	adjetivo	[zam]|bo
+zambo	nome masculino	[zam]|bo
+zamboa	nome feminino	zam|[bo]|a
+zamboada	nome feminino	zam|bo|[a]|da

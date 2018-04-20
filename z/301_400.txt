@@ -1,0 +1,100 @@
+zé-cuecas	nome masculino	zé-cu|[e]|cas
+zé-faz-formas	nome masculino	zé-faz-for|mas
+zé-godes	nome masculino	zé-go|des
+zé-goelas	nome masculino	zé-go|[e]|las
+zé-ninguém	nome masculino	zé-nin|[guém]
+zé-pereira	nome masculino	zé-pe|[rei]|ra
+zé-povinho	nome masculino	zé-po|[vi]|nho
+zé-povo	nome masculino	zé-po|vo
+zé-pregos	nome masculino	zé-pre|gos
+zé-prequeté	nome masculino	zé-pre|que|[té]
+zé-quitólis	nome masculino	zé-qui|[tó]|lis
+zebo	nome masculino	[ze]|bo
+zebra	nome feminino	[ze]|bra
+zebrado	nome masculino	ze|[bra]|do
+zebrado	adjetivo	ze|[bra]|do
+zebrainho	nome masculino	ze|bra|[i]|nho
+zebral	adjetivo	ze|[bral]
+zebrar	verbo	ze|[brar]
+zebrário	adjetivo	ze|[brá]|ri|o
+zebre	nome masculino	[ze]|bre
+zebrino	adjetivo	ze|[bri]|no
+zebro	nome masculino	[ze]|bro
+zebroide	nome masculino	ze|[broi]|de
+zebroide	adjetivo	ze|[broi]|de
+zebrum	adjetivo	ze|[brum]
+zebruno	adjetivo	ze|[bru]|no
+zebu	nome masculino	ze|[bu]
+zebu	adjetivo	ze|[bu]
+zebueiro	nome masculino	ze|bu|[ei]|ro
+zebuzeiro	nome masculino	ze|bu|[zei]|ro
+zécora	nome feminino	[zé]|co|ra
+zedoária	nome feminino	ze|do|[á]|ri|a
+zefir	nome masculino	ze|[fir]
+zéfir	nome masculino	[zé]|fir
+zefire	nome masculino	ze|[fi]|re
+zefirino	adjetivo	ze|fi|[ri]|no
+zefírio	adjetivo	ze|[fí]|ri|o
+zefírio	nome masculino	ze|[fí]|ri|o
+zéfiro	nome masculino	[zé]|fi|ro
+zegri	adjetivo	ze|[gri]
+zegri	nome masculino	ze|[gri]
+zegri	nome feminino	ze|[gri]
+zegulo	nome masculino	ze|[gu]|lo
+zeia	nome feminino	[zei]|a
+zeida	nome masculino	[zei]|da
+zeídeo	nome masculino	ze|[í]|de|o
+zeídeo	adjetivo	ze|[í]|de|o
+zeimão	nome masculino	zei|[mão]
+zeína	nome feminino	ze|[í]|na
+zeísmo	nome masculino	ze|[ís]|mo
+zeitgeist	nome masculino	[zeit]|geist
+zekel	nome masculino	ze|kel
+zelação	nome feminino	ze|la|[ção]
+zelador	nome masculino	ze|la|[dor]
+zelador	adjetivo	ze|la|[dor]
+zeladoria	nome feminino	ze|la|do|[ri]|a
+zelandês	nome masculino	ze|lan|[dês]
+zelandês	adjetivo	ze|lan|[dês]
+zelandesa	nome feminino	ze|lan|[de]|sa
+zelante	adjetivo	ze|[lan]|te
+zelar	verbo	ze|[lar]
+zelha	nome feminino	[ze]|lha
+zelo	nome masculino	[ze]|lo
+zelosamente	advérbio	ze|lo|sa|[men]|te
+zelosia	nome feminino	ze|lo|[si]|a
+zeloso	adjetivo	ze|[lo]|so
+zelote	adjetivo	ze|[lo]|te
+zelote	nome masculino	ze|[lo]|te
+zelotipia	nome feminino	ze|lo|ti|[pi]|a
+zelotípico	adjetivo	ze|lo|[tí]|pi|co
+zelotismo	nome masculino	ze|lo|[tis]|mo
+zembro	adjetivo	[zem]|bro
+zemindar	nome masculino	ze|min|[dar]
+zemiobiose	nome feminino	ze|mi|o|bi|[o]|se
+zemiodemia	nome feminino	ze|mi|o|de|[mi]|a
+zen	nome masculino	[zen]
+zen	adjetivo	[zen]
+zenana	nome masculino	ze|[na]|na
+zenana	nome feminino	ze|[na]|na
+zenata	adjetivo	ze|[na]|ta
+zenata	nome masculino	ze|[na]|ta
+zenata	nome feminino	ze|[na]|ta
+zenda	nome masculino	[zen]|da
+zende	nome masculino	[zen]|de
+zendicismo	nome masculino	zen|di|[cis]|mo
+zendicista	nome masculino	zen|di|[cis]|ta
+zendicista	nome feminino	zen|di|[cis]|ta
+zendismo	nome masculino	zen|[dis]|mo
+zendista	nome masculino	zen|[dis]|ta
+zendista	nome feminino	zen|[dis]|ta
+zenéria	nome feminino	ze|[né]|ri|a
+zeneta	nome masculino	ze|[ne]|ta
+zeneta	adjetivo	ze|[ne]|ta
+zeneta	nome feminino	ze|[ne]|ta
+zengue-zengue	nome masculino	zen|gue-zen|gue
+zenha	nome feminino	[ze]|nha
+zenir	verbo	ze|[nir]
+zenital	adjetivo	ze|ni|[tal]
+zénite	nome masculino	[zé]|ni|te
+zênite	nome masculino	[zê]|ni|te

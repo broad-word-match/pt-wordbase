@@ -1,0 +1,100 @@
+desaproveitar	verbo	de|sa|pro|vei|[tar]
+desaproveitável	adjetivo	de|sa|pro|vei|[tá]|vel
+desaproximar	verbo	de|sa|pro|xi|[mar]
+desaprumar	verbo	de|sa|pru|[mar]
+desaprumo	nome masculino	de|sa|[pru]|mo
+desapurado	adjetivo	de|sa|pu|[ra]|do
+desapuro	nome masculino	de|sa|[pu]|ro
+desaquartelamento	nome masculino	de|sa|quar|te|la|[men]|to
+desaquartelar	verbo	de|sa|quar|te|[lar]
+desaquecer	verbo	de|sa|que|[cer]
+desaquinhoamento	nome masculino	de|sa|qui|nho|a|[men]|to
+desaquinhoar	verbo	de|sa|qui|nho|[ar]
+desar	nome masculino	de|[sar]
+desaranhar	verbo	de|sa|ra|[nhar]
+desarar	verbo	de|sa|[rar]
+desarborização	nome feminino	de|sar|bo|ri|za|[ção]
+desarborizado	adjetivo	de|sar|bo|ri|[za]|do
+desarborizador	adjetivo	de|sar|bo|ri|za|[dor]
+desarborizador	nome masculino	de|sar|bo|ri|za|[dor]
+desarborizar	verbo	de|sar|bo|ri|[zar]
+desarcado	adjetivo	de|sar|[ca]|do
+desarcar	verbo	de|sar|[car]
+desareador	nome masculino	de|sa|re|a|[dor]
+desarear	verbo	de|sa|re|[ar]
+desarestar	verbo	de|sa|res|[tar]
+desaristado	adjetivo	de|sa|ris|[ta]|do
+desaristar	verbo	de|sa|ris|[tar]
+desarmação	nome feminino	de|sar|ma|[ção]
+desarmadilhar	verbo	de|sar|ma|di|[lhar]
+desarmado	adjetivo	de|sar|[ma]|do
+desarmador	adjetivo	de|sar|ma|[dor]
+desarmador	nome masculino	de|sar|ma|[dor]
+desarmadora	nome feminino	de|sar|ma|[do]|ra
+desarmamento	nome masculino	de|sar|ma|[men]|to
+desarmante	adjetivo	de|sar|[man]|te
+desarmar	verbo	de|sar|[mar]
+desarmável	adjetivo	de|sar|[má]|vel
+desarme	nome masculino	de|[sar]|me
+desarmonia	nome feminino	de|sar|mo|[ni]|a
+desarmônico	adjetivo	de|sar|[mô]|ni|co
+desarmónico	adjetivo	de|sar|[mó]|ni|co
+desarmoniosamente	advérbio	de|sar|mo|ni|o|sa|[men]|te
+desarmonioso	adjetivo	de|sar|mo|ni|[o]|so
+desarmonização	nome feminino	de|sar|mo|ni|za|[ção]
+desarmonizador	adjetivo	de|sar|mo|ni|za|[dor]
+desarmonizador	nome masculino	de|sar|mo|ni|za|[dor]
+desarmonizadora	nome feminino	de|sar|mo|ni|za|[do]|ra
+desarmonizar	verbo	de|sar|mo|ni|[zar]
+desaromar	verbo	de|sa|ro|[mar]
+desaromatização	nome feminino	de|sa|ro|ma|ti|za|[ção]
+desaromatizar	verbo	de|sa|ro|ma|ti|[zar]
+desarquear	verbo	de|sar|que|[ar]
+desarquitetar	verbo	de|sar|qui|te|[tar]
+desarraigamento	nome masculino	de|sar|rai|ga|[men]|to
+desarraigar	verbo	de|sar|rai|[gar]
+desarraigável	adjetivo	de|sar|rai|[gá]|vel
+desarrancar	verbo	de|sar|ran|[car]
+desarranchar	verbo	de|sar|ran|[char]
+desarranjada	nome feminino	de|sar|ran|[ja]|da
+desarranjadamente	advérbio	de|sar|ran|ja|da|[men]|te
+desarranjado	adjetivo	de|sar|ran|[ja]|do
+desarranjado	nome masculino	de|sar|ran|[ja]|do
+desarranjador	adjetivo	de|sar|ran|ja|[dor]
+desarranjador	nome masculino	de|sar|ran|ja|[dor]
+desarranjamento	nome masculino	de|sar|ran|ja|[men]|to
+desarranjar	verbo	de|sar|ran|[jar]
+desarranjo	nome masculino	de|sar|[ran]|jo
+desarrazoadamente	advérbio	de|sar|ra|zo|a|da|[men]|te
+desarrazoado	nome masculino	de|sar|ra|zo|[a]|do
+desarrazoado	adjetivo	de|sar|ra|zo|[a]|do
+desarrazoamento	nome masculino	de|sar|ra|zo|a|[men]|to
+desarrazoar	verbo	de|sar|ra|zo|[ar]
+desarrear	verbo	de|sar|re|[ar]
+desarreatar	verbo	de|sar|re|a|[tar]
+desarrebitar	verbo	de|sar|re|bi|[tar]
+desarredar	verbo	de|sar|re|[dar]
+desarredondar	verbo	de|sar|re|don|[dar]
+desarregaçar	verbo	de|sar|re|ga|[çar]
+desarreigamento	nome masculino	de|sar|rei|ga|[men]|to
+desarreigar	verbo	de|sar|rei|[gar]
+desarreigável	adjetivo	de|sar|rei|[gá]|vel
+desarrenegar	verbo	de|sar|re|ne|[gar]
+desarrimar	verbo	de|sar|ri|[mar]
+desarrimo	nome masculino	de|sar|[ri]|mo
+desarrisca	nome feminino	de|sar|[ris]|ca
+desarriscar	verbo	de|sar|ris|[car]
+desarrochar	verbo	de|sar|ro|[char]
+desarrolhamento	nome masculino	de|sar|ro|lha|[men]|to
+desarrolhar	verbo	de|sar|ro|[lhar]
+desarruar	verbo	de|sar|ru|[ar]
+desarrufar	verbo	de|sar|ru|[far]
+desarrufo	nome masculino	de|sar|[ru]|fo
+desarrugamento	nome masculino	de|sar|ru|ga|[men]|to
+desarrugar	verbo	de|sar|ru|[gar]
+desarrumação	nome feminino	de|sar|ru|ma|[ção]
+desarrumada	nome feminino	de|sar|ru|[ma]|da
+desarrumado	adjetivo	de|sar|ru|[ma]|do
+desarrumado	nome masculino	de|sar|ru|[ma]|do
+desarrumar	verbo	de|sar|ru|[mar]
+desarrumo	nome masculino	de|sar|[ru]|mo

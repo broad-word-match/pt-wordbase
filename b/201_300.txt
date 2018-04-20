@@ -1,0 +1,100 @@
+baciloterapia	nome feminino	ba|ci|lo|te|ra|[pi]|a
+bacineta	nome feminino	ba|ci|[ne]|ta
+bacinete	nome masculino	ba|ci|[ne]|te
+bacinica	nome feminino	ba|ci|[ni]|ca
+bacinico	nome masculino	ba|ci|[ni]|co
+baciniqueiro	adjetivo	ba|ci|ni|[quei]|ro
+baciniqueiro	nome masculino	ba|ci|ni|[quei]|ro
+bacio	nome masculino	ba|[ci]|o
+bacívoro	adjetivo	ba|[cí]|vo|ro
+back-up	nome masculino	[back-up]
+background	nome masculino	[back]|ground
+backstage	nome masculino	back|sta|ge
+backup	nome masculino	[bac]|kup
+baço	adjetivo	[ba]|ço
+baço	nome masculino	[ba]|ço
+bacoca	nome feminino	ba|[co]|ca
+bacoco	adjetivo	ba|[co]|co
+bacoco	nome masculino	ba|[co]|co
+bacon	nome masculino	[ba]|con
+bacongo	adjetivo	ba|[con]|go
+bacongo	nome masculino	ba|[con]|go
+baconiano	adjetivo	ba|co|ni|[a]|no
+baconismo	nome masculino	ba|co|[nis]|mo
+bacoquice	nome feminino	ba|co|[qui]|ce
+bacoquismo	nome masculino	ba|co|[quis]|mo
+bácora	nome feminino	[bá]|co|ra
+bacorada	nome feminino	ba|co|[ra]|da
+bacoragem	nome feminino	ba|co|[ra]|gem
+bacoreira	nome feminino	ba|co|[rei]|ra
+bacorejar	verbo	ba|co|re|[jar]
+bacorejo	nome masculino	ba|co|[re]|jo
+bacorice	nome feminino	ba|co|[ri]|ce
+bacorim	nome masculino	ba|co|[rim]
+baçorina	nome feminino	ba|ço|[ri]|na
+bacorinha	nome feminino	ba|co|[ri]|nha
+bacorinhar	verbo	ba|co|ri|[nhar]
+bacorinho	nome masculino	ba|co|[ri]|nho
+bácoro	nome masculino	[bá]|co|ro
+bacorote	nome masculino	ba|co|[ro]|te
+bactéria	nome feminino	bac|[té]|ri|a
+bacteriácea	nome feminino	bac|te|ri|[á]|ce|a
+bacteriáceo	adjetivo	bac|te|ri|[á]|ce|o
+bacterial	adjetivo	bac|te|ri|[al]
+bacteriano	adjetivo	bac|te|ri|[a]|no
+bactericida	adjetivo	bac|te|ri|[ci]|da
+bactérico	adjetivo	bac|[té]|ri|co
+bacterídio	nome masculino	bac|te|[rí]|di|o
+bacteriemia	nome feminino	bac|te|ri|e|[mi]|a
+bacteriêmico	adjetivo	bac|te|ri|[ê]|mi|co
+bacteriémico	adjetivo	bac|te|ri|[é]|mi|co
+bacteriófago	nome masculino	bac|te|ri|[ó]|fa|go
+bacteriólise	nome feminino	bac|te|ri|[ó]|li|se
+bacteriolítico	adjetivo	bac|te|ri|o|[lí]|ti|co
+bacteriolítico	nome masculino	bac|te|ri|o|[lí]|ti|co
+bacterióloga	nome feminino	bac|te|ri|[ó]|lo|ga
+bacteriologia	nome feminino	bac|te|ri|o|lo|[gi]|a
+bacteriologicamente	advérbio	bac|te|ri|o|lo|gi|ca|[men]|te
+bacteriológico	adjetivo	bac|te|ri|o|[ló]|gi|co
+bacteriologista	adjetivo	bac|te|ri|o|lo|[gis]|ta
+bacteriologista	nome masculino	bac|te|ri|o|lo|[gis]|ta
+bacteriologista	nome feminino	bac|te|ri|o|lo|[gis]|ta
+bacteriólogo	nome masculino	bac|te|ri|[ó]|lo|go
+bacterioscopia	nome feminino	bac|te|ri|os|co|[pi]|a
+bacterioscópico	adjetivo	bac|te|ri|os|[có]|pi|co
+bacteriose	nome feminino	bac|te|ri|[o]|se
+bacteriostático	adjetivo	bac|te|ri|os|[tá]|ti|co
+bacteriostático	nome masculino	bac|te|ri|os|[tá]|ti|co
+bacterioterapia	nome feminino	bac|te|ri|o|te|ra|[pi]|a
+bacterioterápico	adjetivo	bac|te|ri|o|te|[rá]|pi|co
+bacteriótico	adjetivo	bac|te|ri|[ó]|ti|co
+bacteriotoxina	nome feminino	bac|te|ri|o|to|[xi]|na
+bacteriúria	nome feminino	bac|te|ri|[ú]|ri|a
+bacteriúrico	adjetivo	bac|te|ri|[ú]|ri|co
+bactriano	adjetivo	bac|tri|[a]|no
+bactriano	nome masculino	bac|tri|[a]|no
+báctrico	adjetivo	[bác]|tri|co
+báctrico	nome masculino	[bác]|tri|co
+bactrino	adjetivo	bac|[tri]|no
+bactrino	nome masculino	bac|[tri]|no
+báctrio	adjetivo	[bác]|tri|o
+báctrio	nome masculino	[bác]|tri|o
+bactro	adjetivo	[bac]|tro
+bactro	nome masculino	[bac]|tro
+bactromancia	nome feminino	bac|tro|man|[ci]|a
+bactromante	nome masculino	bac|tro|[man]|te
+bactromante	nome feminino	bac|tro|[man]|te
+bactromântico	adjetivo	bac|tro|[mân]|ti|co
+bacu	nome masculino	ba|[cu]
+bacubixá	nome masculino	ba|cu|bi|[xá]
+bacucu	nome masculino	ba|cu|[cu]
+bacuçu	nome masculino	ba|cu|[çu]
+baculífero	adjetivo	ba|cu|[lí]|fe|ro
+baculiforme	adjetivo	ba|cu|li|[for]|me
+baculino	adjetivo	ba|cu|[li]|no
+báculo	nome masculino	[bá]|cu|lo
+baculometria	nome feminino	ba|cu|lo|me|[tri]|a
+baculométrico	adjetivo	ba|cu|lo|[mé]|tri|co
+bacumixá	nome masculino	ba|cu|mi|[xá]
+bacupã	nome masculino	ba|cu|[pã]
+bacupari	nome masculino	ba|cu|pa|[ri]

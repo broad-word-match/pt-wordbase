@@ -1,0 +1,100 @@
+hipergenético	adjetivo	hi|per|ge|[né]|ti|co
+hiperginismo	nome masculino	hi|per|gi|[nis]|mo
+hiperglicemia	nome feminino	hi|per|gli|ce|[mi]|a
+hiperglicêmico	adjetivo	hi|per|gli|[cê]|mi|co
+hiperglicémico	adjetivo	hi|per|gli|[cé]|mi|co
+hiperglobulia	nome feminino	hi|per|glo|bu|[li]|a
+hiperglote	nome feminino	hi|per|[glo]|te
+hipericácea	nome feminino	hi|pe|ri|[cá]|ce|a
+hipericáceo	adjetivo	hi|pe|ri|[cá]|ce|o
+hipericão	nome masculino	hi|pe|ri|[cão]
+hipérico	nome masculino	hi|[pé]|ri|co
+hiperidrose	nome feminino	hi|pe|ri|[dro]|se
+hiperinflação	nome feminino	hi|pe|rin|fla|[ção]
+hiperinflacionário	adjetivo	hi|pe|rin|fla|ci|o|[ná]|ri|o
+hiperinose	nome feminino	hi|pe|ri|[no]|se
+hiperintelectualidade	nome feminino	hi|pe|rin|te|lec|tu|a|li|[da]|de
+hiperiodato	nome masculino	hi|pe|ri|o|[da]|to
+hiperiódico	adjetivo	hi|pe|ri|[ó]|di|co
+hiperiônico	adjetivo	hi|pe|ri|[ô]|ni|co
+hiperiónico	adjetivo	hi|pe|ri|[ó]|ni|co
+hiperiônio	adjetivo	hi|pe|ri|[ô]|ni|o
+hiperiónio	adjetivo	hi|pe|ri|[ó]|ni|o
+hiperionismo	nome masculino	hi|pe|ri|o|[nis]|mo
+hiperjônico	adjetivo	hi|per|[jô]|ni|co
+hiperjónico	adjetivo	hi|per|[jó]|ni|co
+hiperjonismo	nome masculino	hi|per|jo|[nis]|mo
+hiperligação	nome feminino	hi|per|li|ga|[ção]
+hiperlinfia	nome feminino	hi|per|lin|[fi]|a
+hiperlínfico	adjetivo	hi|per|[lín]|fi|co
+hiperlipemia	nome feminino	hi|per|li|pe|[mi]|a
+hiperlipêmico	adjetivo	hi|per|li|[pê]|mi|co
+hiperlipémico	adjetivo	hi|per|li|[pé]|mi|co
+hipermastia	nome feminino	hi|per|mas|[ti]|a
+hipermástico	adjetivo	hi|per|[más]|ti|co
+hipermédia	nome masculino	hi|per|[mé]|di|a
+hipermenorreia	nome feminino	hi|per|me|nor|[rei]|a
+hipermercado	nome masculino	hi|per|mer|[ca]|do
+hipermetamorfose	nome feminino	hi|per|me|ta|mor|[fo]|se
+hipermetria	nome feminino	hi|per|me|[tri]|a
+hipermétrico	adjetivo	hi|per|[mé]|tri|co
+hipérmetro	nome masculino	hi|[pér]|me|tro
+hipérmetro	adjetivo	hi|[pér]|me|tro
+hipermetrope	adjetivo	hi|per|me|[tro]|pe
+hipermetrope	nome masculino	hi|per|me|[tro]|pe
+hipermétrope	adjetivo	hi|per|[mé]|tro|pe
+hipermétrope	nome masculino	hi|per|[mé]|tro|pe
+hipermetrope	nome feminino	hi|per|me|[tro]|pe
+hipermetropia	nome feminino	hi|per|me|tro|[pi]|a
+hipermíope	adjetivo	hi|per|[mí]|o|pe
+hipermíope	nome masculino	hi|per|[mí]|o|pe
+hipermíope	nome feminino	hi|per|[mí]|o|pe
+hipermiopia	nome feminino	hi|per|mi|o|[pi]|a
+hipermisticismo	nome masculino	hi|per|mis|ti|[cis]|mo
+hipermístico	adjetivo	hi|per|[mís]|ti|co
+hipermnésia	nome feminino	hi|perm|[né]|si|a
+hipermnesia	nome feminino	hi|perm|ne|[si]|a
+hipermnésico	adjetivo	hi|perm|[né]|si|co
+hipermnéstico	adjetivo	hi|perm|[nés]|ti|co
+hipernefroma	nome masculino	hi|per|ne|[fro]|ma
+hiperneuria	nome feminino	hi|per|neu|[ri]|a
+hiperonímia	nome feminino	hi|pe|ro|[ní]|mi|a
+hiperónimo	nome masculino	hi|pe|[ró]|ni|mo
+hiperônimo	nome masculino	hi|pe|[rô]|ni|mo
+hipérope	adjetivo	hi|[pé]|ro|pe
+hiperope	adjetivo	hi|pe|[ro]|pe
+hiperope	nome masculino	hi|pe|[ro]|pe
+hiperope	nome feminino	hi|pe|[ro]|pe
+hiperopia	nome feminino	hi|pe|ro|[pi]|a
+hiperorexia	nome feminino	hi|pe|ro|re|[xi]|a
+hiperortografismo	nome masculino	hi|pe|ror|to|gra|[fis]|mo
+hiperosmia	nome feminino	hi|pe|ros|[mi]|a
+hiperósmico	adjetivo	hi|pe|[rós]|mi|co
+hiperosteose	nome feminino	hi|pe|ros|te|[o]|se
+hiperóxido	nome masculino	hi|pe|[ró]|xi|do
+hiperpatia	nome masculino	hi|per|pa|[ti]|a
+hiperpepsia	nome feminino	hi|per|pep|[si]|a
+hiperpéptico	adjetivo	hi|per|[pép]|ti|co
+hiperpiese	nome feminino	hi|per|pi|[e]|se
+hiperpigmentado	adjetivo	hi|per|pig|men|[ta]|do
+hiperpirético	adjetivo	hi|per|pi|[ré]|ti|co
+hiperpirético	nome masculino	hi|per|pi|[ré]|ti|co
+hiperpirexia	nome feminino	hi|per|pi|re|[xi]|a
+hiperplasia	nome feminino	hi|per|pla|[si]|a
+hiperplástico	adjetivo	hi|per|[plás]|ti|co
+hiperprodução	nome feminino	hi|per|pro|du|[ção]
+hipersalino	adjetivo	hi|per|sa|[li]|no
+hipersarcoma	nome masculino	hi|per|sar|[co]|ma
+hipersarcose	nome feminino	hi|per|sar|[co]|se
+hipersecreção	nome feminino	hi|per|se|cre|[ção]
+hipersecretor	adjetivo	hi|per|se|cre|[tor]
+hipersecretor	nome masculino	hi|per|se|cre|[tor]
+hipersensibilidade	nome feminino	hi|per|sen|si|bi|li|[da]|de
+hipersensível	adjetivo	hi|per|sen|[sí]|vel
+hipersentimentalidade	nome feminino	hi|per|sen|ti|men|ta|li|[da]|de
+hipersialose	nome feminino	hi|per|si|a|[lo]|se
+hipersistolia	nome feminino	hi|per|sis|to|[li]|a
+hipersistólico	adjetivo	hi|per|sis|[tó]|li|co
+hipersónia	nome feminino	hi|per|[só]|ni|a
+hipersônico	adjetivo	hi|per|[sô]|ni|co
+hipersónico	adjetivo	hi|per|[só]|ni|co

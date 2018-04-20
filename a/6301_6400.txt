@@ -1,0 +1,100 @@
+agonizante	nome feminino	a|go|ni|[zan]|te
+agonizar	verbo	a|go|ni|[zar]
+ágono	adjetivo	[á]|go|no
+agonografia	nome feminino	a|go|no|gra|[fi]|a
+agonográfico	adjetivo	a|go|no|[grá]|fi|co
+agonóteta	nome masculino	a|go|[nó]|te|ta
+agora	advérbio	a|[go]|ra
+ágora	nome feminino	[á]|go|ra
+agora	interjeição	a|[go]|ra
+agorafobia	nome feminino	a|go|ra|fo|[bi]|a
+agoráfobo	adjetivo	a|go|[rá]|fo|bo
+agoráfobo	nome masculino	a|go|[rá]|fo|bo
+agoranomia	nome feminino	a|go|ra|no|[mi]|a
+agoranômico	adjetivo	a|go|ra|[nô]|mi|co
+agoranómico	adjetivo	a|go|ra|[nó]|mi|co
+agorânomo	nome masculino	a|go|[râ]|no|mo
+agorentar	verbo	a|go|ren|[tar]
+agorinha	advérbio	a|go|[ri]|nha
+agostado	adjetivo	a|gos|[ta]|do
+agostadoiro	nome masculino	a|gos|ta|[doi]|ro
+agostadouro	nome masculino	a|gos|ta|[dou]|ro
+agostar	verbo	a|gos|[tar]
+agosteiro	adjetivo	a|gos|[tei]|ro
+agostinha	nome feminino	a|gos|[ti]|nha
+agostinho	adjetivo	a|gos|[ti]|nho
+agostinho	nome masculino	a|gos|[ti]|nho
+agostinianismo	nome masculino	a|gos|ti|ni|a|[nis]|mo
+agostiniano	adjetivo	a|gos|ti|ni|[a]|no
+agosto	nome masculino	a|[gos]|to
+agote	nome masculino	a|[go]|te
+agourado	adjetivo	a|gou|[ra]|do
+agoural	adjetivo	a|gou|[ral]
+agourar	verbo	a|gou|[rar]
+agoureira	nome feminino	a|gou|[rei]|ra
+agoureiro	nome masculino	a|gou|[rei]|ro
+agoureiro	adjetivo	a|gou|[rei]|ro
+agourentar	verbo	a|gou|ren|[tar]
+agourento	adjetivo	a|gou|[ren]|to
+agouro	nome masculino	a|[gou]|ro
+agra	nome feminino	[a]|gra
+agraciação	nome feminino	a|gra|ci|a|[ção]
+agraciado	adjetivo	a|gra|ci|[a]|do
+agraciado	nome masculino	a|gra|ci|[a]|do
+agraciador	adjetivo	a|gra|ci|a|[dor]
+agraciador	nome masculino	a|gra|ci|a|[dor]
+agraciamento	nome masculino	a|gra|ci|a|[men]|to
+agraciar	verbo	a|gra|ci|[ar]
+agraciável	adjetivo	a|gra|ci|[á]|vel
+agraço	nome masculino	a|[gra]|ço
+agraço	adjetivo	a|[gra]|ço
+agradábil	adjetivo	a|gra|[dá]|bil
+agradabilidade	nome feminino	a|gra|da|bi|li|[da]|de
+agradabilíssimo	adjetivo	a|gra|da|bi|[lís]|si|mo
+agradado	adjetivo	a|gra|[da]|do
+agradar	verbo	a|gra|[dar]
+agradável	adjetivo	a|gra|[dá]|vel
+agradável	nome masculino	a|gra|[dá]|vel
+agradavelmente	advérbio	a|gra|da|vel|[men]|te
+agradecer	verbo	a|gra|de|[cer]
+agradecido	adjetivo	a|gra|de|[ci]|do
+agradecimento	nome masculino	a|gra|de|ci|[men]|to
+agradecível	adjetivo	a|gra|de|[cí]|vel
+agrado	nome masculino	a|[gra]|do
+agrafador	nome masculino	a|gra|fa|[dor]
+agrafar	verbo	a|gra|[far]
+agrafe	nome masculino	a|[gra]|fe
+agrafia	nome feminino	a|gra|[fi]|a
+agráfico	adjetivo	a|[grá]|fi|co
+ágrafo	adjetivo	[á]|gra|fo
+agrafo	nome masculino	a|[gra]|fo
+agragantino	adjetivo	a|gra|gan|[ti]|no
+agragantino	nome masculino	a|gra|gan|[ti]|no
+agramatical	adjetivo	a|gra|ma|ti|[cal]
+agramaticalidade	nome feminino	a|gra|ma|ti|ca|li|[da]|de
+agranar	verbo	a|gra|[nar]
+agranelar	verbo	a|gra|ne|[lar]
+agranjado	adjetivo	a|gran|[ja]|do
+agranulócito	adjetivo	a|gra|nu|[ló]|ci|to
+agranulócito	nome masculino	a|gra|nu|[ló]|ci|to
+agranulocitose	nome feminino	a|gra|nu|lo|ci|[to]|se
+agranulocitótico	adjetivo	a|gra|nu|lo|ci|[tó]|ti|co
+agrar	verbo	a|[grar]
+agrarianismo	nome masculino	a|gra|ri|a|[nis]|mo
+agrariano	adjetivo	a|gra|ri|[a]|no
+agrariano	nome masculino	a|gra|ri|[a]|no
+agrário	adjetivo	a|[grá]|ri|o
+agrário	nome masculino	a|[grá]|ri|o
+agrarismo	nome masculino	a|gra|[ris]|mo
+agraudar	verbo	a|gra|u|[dar]
+agraula	nome feminino	a|[grau]|la
+agráulia	nome feminino	a|[gráu]|li|a
+agraulo	nome masculino	a|[grau]|lo
+agravação	nome feminino	a|gra|va|[ção]
+agravada	nome feminino	a|gra|[va]|da
+agravado	adjetivo	a|gra|[va]|do
+agravado	nome masculino	a|gra|[va]|do
+agravador	adjetivo	a|gra|va|[dor]
+agravador	nome masculino	a|gra|va|[dor]
+agravamento	nome masculino	a|gra|va|[men]|to
+agravante	nome masculino	a|gra|[van]|te

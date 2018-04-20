@@ -1,0 +1,100 @@
+abusado	adjetivo	a|bu|[sa]|do
+abusador	adjetivo	a|bu|sa|[dor]
+abusador	nome masculino	a|bu|sa|[dor]
+abusadora	nome feminino	a|bu|sa|[do]|ra
+abusão	nome feminino	a|bu|[são]
+abusar	verbo	a|bu|[sar]
+abusivamente	advérbio	a|bu|si|va|[men]|te
+abusivo	adjetivo	a|bu|[si]|vo
+abuso	nome masculino	a|[bu]|so
+abuta	nome feminino	a|[bu]|ta
+abúter	nome masculino	a|[bú]|ter
+abutilão	nome masculino	a|bu|ti|[lão]
+abutiloide	nome feminino	a|bu|ti|[loi]|de
+abutre	nome masculino	a|[bu]|tre
+abutre-fusco	nome masculino	a|bu|tre-fus|co
+abutreiro	nome masculino	a|bu|[trei]|ro
+abútua	nome feminino	a|[bú]|tu|a
+abuzinado	adjetivo	a|bu|zi|[na]|do
+abuzinar	verbo	a|bu|zi|[nar]
+abziritano	adjetivo	ab|zi|ri|[ta]|no
+abziritano	nome masculino	ab|zi|ri|[ta]|no
+abzoa	adjetivo	ab|[zo]|a
+abzoa	nome masculino	ab|[zo]|a
+abzoa	nome feminino	ab|[zo]|a
+aca	nome masculino	[a]|ca
+aça	adjetivo	[a]|ça
+aça	nome masculino	[a]|ça
+açã	nome masculino	a|[çã]
+aça	nome feminino	[a]|ça
+acá	advérbio	a|[cá]
+acaba-novenas	nome masculino	a|ca|ba-no|[ve]|nas
+acaba-novenas	nome feminino	a|ca|ba-no|[ve]|nas
+acabaçado	adjetivo	a|ca|ba|[ça]|do
+acabaçar	verbo	a|ca|ba|[çar]
+acabadamente	advérbio	a|ca|ba|da|[men]|te
+acabadela	nome feminino	a|ca|ba|[de]|la
+acabadiço	adjetivo	a|ca|ba|[di]|ço
+acabadinho	adjetivo	a|ca|ba|[di]|nho
+acabado	adjetivo	a|ca|[ba]|do
+acabado	nome masculino	a|ca|[ba]|do
+acabador	adjetivo	a|ca|ba|[dor]
+acabador	nome masculino	a|ca|ba|[dor]
+acabadora	nome feminino	a|ca|ba|[do]|ra
+acabadote	adjetivo	a|ca|ba|[do]|te
+acabamento	nome masculino	a|ca|ba|[men]|to
+acabanado	adjetivo	a|ca|ba|[na]|do
+acabanar	verbo	a|ca|ba|[nar]
+acabante	adjetivo	a|ca|[ban]|te
+acabar	verbo	a|ca|[bar]
+açabarcação	nome feminino	a|ça|bar|ca|[ção]
+açabarcador	adjetivo	a|ça|bar|ca|[dor]
+açabarcador	nome masculino	a|ça|bar|ca|[dor]
+açabarcagem	nome feminino	a|ça|bar|[ca]|gem
+açabarcamento	nome masculino	a|ça|bar|ca|[men]|to
+açabarcante	adjetivo	a|ça|bar|[can]|te
+açabarcante	nome masculino	a|ça|bar|[can]|te
+açabarcante	nome feminino	a|ça|bar|[can]|te
+açabarcar	verbo	a|ça|bar|[car]
+açabarcável	adjetivo	a|ça|bar|[cá]|vel
+acabável	adjetivo	a|ca|[bá]|vel
+acabelar	verbo	a|ca|be|[lar]
+acaboclado	adjetivo	a|ca|bo|[cla]|do
+acaboclar	verbo	a|ca|bo|[clar]
+acabotinado	adjetivo	a|ca|bo|ti|[na]|do
+acabotinar	verbo	a|ca|bo|ti|[nar]
+acabramar	verbo	a|ca|bra|[mar]
+acabramo	nome masculino	a|ca|[bra]|mo
+acabritado	adjetivo	a|ca|bri|[ta]|do
+acabrunhadamente	advérbio	a|ca|bru|nha|da|[men]|te
+acabrunhado	adjetivo	a|ca|bru|[nha]|do
+acabrunhador	adjetivo	a|ca|bru|nha|[dor]
+acabrunhador	nome masculino	a|ca|bru|nha|[dor]
+acabrunhamento	nome masculino	a|ca|bru|nha|[men]|to
+acabrunhante	adjetivo	a|ca|bru|[nhan]|te
+acabrunhar	verbo	a|ca|bru|[nhar]
+acaburro	adjetivo	a|ca|[bur]|ro
+acaburro	nome masculino	a|ca|[bur]|ro
+acaçá	nome masculino	a|ca|[çá]
+açacal	nome masculino	a|ça|[cal]
+açacaladeira	nome feminino	a|ça|ca|la|[dei]|ra
+açacalador	nome masculino	a|ça|ca|la|[dor]
+açacaladura	nome feminino	a|ça|ca|la|[du]|ra
+açacalamento	nome masculino	a|ça|ca|la|[men]|to
+açacalar	verbo	a|ça|ca|[lar]
+acaçapadamente	advérbio	a|ca|ça|pa|da|[men]|te
+acaçapado	adjetivo	a|ca|ça|[pa]|do
+acaçapador	adjetivo	a|ca|ça|pa|[dor]
+acaçapador	nome masculino	a|ca|ça|pa|[dor]
+acaçapamento	nome masculino	a|ca|ça|pa|[men]|to
+acaçapar	verbo	a|ca|ça|[par]
+acachafundar	verbo	a|ca|cha|fun|[dar]
+acachapadamente	advérbio	a|ca|cha|pa|da|[men]|te
+acachapado	adjetivo	a|ca|cha|[pa]|do
+acachapador	adjetivo	a|ca|cha|pa|[dor]
+acachapador	nome masculino	a|ca|cha|pa|[dor]
+acachapamento	nome masculino	a|ca|cha|pa|[men]|to
+acachapar	verbo	a|ca|cha|[par]
+acachimbado	adjetivo	a|ca|chim|[ba]|do
+acachimbar	verbo	a|ca|chim|[bar]
+acachoado	adjetivo	a|ca|cho|[a]|do

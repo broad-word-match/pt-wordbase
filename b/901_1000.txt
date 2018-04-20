@@ -1,0 +1,100 @@
+balharino	nome masculino	ba|lha|[ri]|no
+balhariqueiro	adjetivo	ba|lha|ri|[quei]|ro
+balhariqueiro	nome masculino	ba|lha|ri|[quei]|ro
+balharota	nome feminino	ba|lha|[ro]|ta
+balharote	nome masculino	ba|lha|[ro]|te
+balhe	nome masculino	[ba]|lhe
+balheiro	adjetivo	ba|[lhei]|ro
+balheiro	nome masculino	ba|[lhei]|ro
+balhesteira	nome feminino	ba|lhes|[tei]|ra
+balhestro	nome masculino	ba|[lhes]|tro
+balho	nome masculino	[ba]|lho
+baliado	nome masculino	ba|li|[a]|do
+balichão	nome masculino	ba|li|[chão]
+balido	nome masculino	ba|[li]|do
+balinês	nome masculino	ba|li|[nês]
+balinês	adjetivo	ba|li|[nês]
+balinesa	nome feminino	ba|li|[ne]|sa
+baliniense	adjetivo	ba|li|ni|[en]|se
+baliniense	nome masculino	ba|li|ni|[en]|se
+baliniense	nome feminino	ba|li|ni|[en]|se
+balio	nome masculino	ba|[li]|o
+balio-mor	nome masculino	ba|li|o-mor
+balir	verbo	ba|[lir]
+balissa	nome feminino	ba|[lis]|sa
+balista	nome feminino	ba|[lis]|ta
+balistário	nome masculino	ba|lis|[tá]|ri|o
+balística	nome feminino	ba|[lís]|ti|ca
+balístico	adjetivo	ba|[lís]|ti|co
+balistídeo	nome masculino	ba|lis|[tí]|de|o
+balistídeo	adjetivo	ba|lis|[tí]|de|o
+balistite	nome feminino	ba|lis|[ti]|te
+baliza	nome feminino	ba|[li]|za
+balizado	adjetivo	ba|li|[za]|do
+balizador	adjetivo	ba|li|za|[dor]
+balizador	nome masculino	ba|li|za|[dor]
+balizagem	nome feminino	ba|li|[za]|gem
+balizamento	nome masculino	ba|li|za|[men]|to
+balizar	verbo	ba|li|[zar]
+balizeiro	nome masculino	ba|li|[zei]|ro
+ballatta	nome feminino	bal|lat|ta
+ballet	nome masculino	bal|let
+ballotage	nome feminino	bal|lo|ta|ge
+balmaz	nome masculino	bal|[maz]
+balmázio	nome masculino	bal|[má]|zi|o
+balneação	nome feminino	bal|ne|a|[ção]
+balnear	verbo	bal|ne|[ar]
+balnear	adjetivo	bal|ne|[ar]
+balneário	nome masculino	bal|ne|[á]|ri|o
+balneário	adjetivo	bal|ne|[á]|ri|o
+balneatório	adjetivo	bal|ne|a|[tó]|ri|o
+balneável	adjetivo	bal|ne|[á]|vel
+balneografia	nome feminino	bal|ne|o|gra|[fi]|a
+balneográfico	adjetivo	bal|ne|o|[grá]|fi|co
+balneoterapia	nome feminino	bal|ne|o|te|ra|[pi]|a
+balneoterápico	adjetivo	bal|ne|o|te|[rá]|pi|co
+balo	nome masculino	[ba]|lo
+baloba	nome feminino	ba|[lo]|ba
+balobeira	nome feminino	ba|lo|[bei]|ra
+balobeiro	nome masculino	ba|lo|[bei]|ro
+baloche	adjetivo	ba|[lo]|che
+baloche	nome masculino	ba|[lo]|che
+baloche	nome feminino	ba|[lo]|che
+balofice	nome feminino	ba|lo|[fi]|ce
+balofo	adjetivo	ba|[lo]|fo
+baloiçador	adjetivo	ba|loi|ça|[dor]
+baloiçador	nome masculino	ba|loi|ça|[dor]
+baloiçamento	nome masculino	ba|loi|ça|[men]|to
+baloiçante	adjetivo	ba|loi|[çan]|te
+baloiçar	verbo	ba|loi|[çar]
+baloiço	nome masculino	ba|[loi]|ço
+baloiçoso	adjetivo	ba|loi|[ço]|so
+balona	nome feminino	ba|[lo]|na
+balonismo	nome masculino	ba|lo|[nis]|mo
+balonista	nome masculino	ba|lo|[nis]|ta
+balonista	nome feminino	ba|lo|[nis]|ta
+balônoto	nome masculino	ba|[lô]|no|to
+balônoto	adjetivo	ba|[lô]|no|to
+balónoto	adjetivo	ba|[ló]|no|to
+balónoto	nome masculino	ba|[ló]|no|to
+balordo	adjetivo	ba|[lor]|do
+balordo	nome masculino	ba|[lor]|do
+balota	nome feminino	ba|[lo]|ta
+balotada	nome feminino	ba|lo|[ta]|da
+balote	nome masculino	ba|[lo]|te
+balótea	nome feminino	ba|[ló]|te|a
+balotina	nome feminino	ba|lo|[ti]|na
+balouçador	adjetivo	ba|lou|ça|[dor]
+balouçador	nome masculino	ba|lou|ça|[dor]
+balouçamento	nome masculino	ba|lou|ça|[men]|to
+balouçante	adjetivo	ba|lou|[çan]|te
+balouçar	verbo	ba|lou|[çar]
+balouço	nome masculino	ba|[lou]|ço
+balouçoso	adjetivo	ba|lou|[ço]|so
+balroa	nome feminino	bal|[ro]|a
+balroação	nome feminino	bal|ro|a|[ção]
+balroada	nome feminino	bal|ro|[a]|da
+balroadela	nome feminino	bal|ro|a|[de]|la
+balroador	adjetivo	bal|ro|a|[dor]
+balroador	nome masculino	bal|ro|a|[dor]
+balroamento	nome masculino	bal|ro|a|[men]|to

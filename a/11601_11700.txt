@@ -1,0 +1,100 @@
+anaforista	adjetivo	a|na|fo|[ris]|ta
+anaforista	nome masculino	a|na|fo|[ris]|ta
+anaforista	nome feminino	a|na|fo|[ris]|ta
+anaforístico	adjetivo	a|na|fo|[rís]|ti|co
+anafrodisia	nome feminino	a|na|fro|di|[si]|a
+anafrodisíaca	nome feminino	a|na|fro|di|[sí]|a|ca
+anafrodisíaco	adjetivo	a|na|fro|di|[sí]|a|co
+anafrodisíaco	nome masculino	a|na|fro|di|[sí]|a|co
+anafrodisiano	adjetivo	a|na|fro|di|si|[a]|no
+anafrodita	adjetivo	a|na|fro|[di]|ta
+anafrodita	nome masculino	a|na|fro|[di]|ta
+anafrodita	nome feminino	a|na|fro|[di]|ta
+anafrodítico	adjetivo	a|na|fro|[dí]|ti|co
+anafrodito	adjetivo	a|na|fro|[di]|to
+anafrodito	nome masculino	a|na|fro|[di]|to
+anagalhar	verbo	a|na|ga|[lhar]
+anagálide	nome feminino	a|na|[gá]|li|de
+anagalídea	nome feminino	a|na|ga|[lí]|de|a
+anagalidínea	nome feminino	a|na|ga|li|[dí]|ne|a
+anagénese	nome feminino	a|na|[gé]|ne|se
+anagênese	nome feminino	a|na|[gê]|ne|se
+anagenésico	adjetivo	a|na|ge|[né]|si|co
+anagenético	adjetivo	a|na|ge|[né]|ti|co
+anagenite	nome feminino	a|na|ge|[ni]|te
+anagire	nome feminino	a|na|[gi]|re
+anagíris	nome feminino	a|na|[gí]|ris
+anáglifa	nome feminino	a|[ná]|gli|fa
+anaglífico	adjetivo	a|na|[glí]|fi|co
+anáglifo	nome masculino	a|[ná]|gli|fo
+anaglíptico	adjetivo	a|na|[glíp]|ti|co
+anaglipto	nome masculino	a|na|[glip]|to
+anagliptografia	nome feminino	a|na|glip|to|gra|[fi]|a
+anagliptográfico	adjetivo	a|na|glip|to|[grá]|fi|co
+anagliptógrafo	nome masculino	a|na|glip|[tó]|gra|fo
+anagnino	nome masculino	a|nag|[ni]|no
+anagnino	adjetivo	a|nag|[ni]|no
+anagnórise	nome feminino	a|nag|[nó]|ri|se
+anagnosiografia	nome feminino	a|nag|no|si|o|gra|[fi]|a
+anagnosiográfico	adjetivo	a|nag|no|si|o|[grá]|fi|co
+anagnosiógrafo	nome masculino	a|nag|no|si|[ó]|gra|fo
+anagnosta	nome masculino	a|nag|[nos]|ta
+anagnóstico	adjetivo	a|nag|[nós]|ti|co
+anagogia	nome feminino	a|na|go|[gi]|a
+anagógico	adjetivo	a|na|[gó]|gi|co
+anagogismo	nome masculino	a|na|go|[gis]|mo
+anagogista	nome masculino	a|na|go|[gis]|ta
+anagogista	nome feminino	a|na|go|[gis]|ta
+anagogístico	adjetivo	a|na|go|[gís]|ti|co
+anagrama	nome masculino	a|na|[gra]|ma
+anagramaticamente	advérbio	a|na|gra|ma|ti|ca|[men]|te
+anagramático	adjetivo	a|na|gra|[má]|ti|co
+anagramatismo	nome masculino	a|na|gra|ma|[tis]|mo
+anagramatista	nome masculino	a|na|gra|ma|[tis]|ta
+anagramatista	nome feminino	a|na|gra|ma|[tis]|ta
+anagramatizar	verbo	a|na|gra|ma|ti|[zar]
+anágua	nome feminino	a|[ná]|gua
+anágua-de-vénus	nome feminino	a|ná|gua-de-vé|nus
+anágua-de-vênus	nome feminino	a|ná|gua-de-vê|nus
+anaguar	verbo	a|na|[guar]
+anaguel	nome masculino	a|na|[guel]
+anaia	nome feminino	a|[nai]|a
+anainho	adjetivo	a|na|[i]|nho
+anainho	nome masculino	a|na|[i]|nho
+anais	nome masculino	a|[nais]
+anajá	adjetivo	a|na|[já]
+anajá	nome masculino	a|na|[já]
+anajá	nome feminino	a|na|[já]
+anajá-mirim	nome masculino	a|na|já-mi|[rim]
+anajé	nome masculino	a|na|[jé]
+anal	adjetivo	a|[nal]
+anal	nome masculino	a|[nal]
+análabo	nome masculino	a|[ná]|la|bo
+analampo	nome masculino	a|na|[lam]|po
+análcime	nome masculino	a|[nál]|ci|me
+análcimo	nome masculino	a|[nál]|ci|mo
+analcita	nome feminino	a|nal|[ci]|ta
+analcite	nome feminino	a|nal|[ci]|te
+analecta	nome feminino	a|na|[lec]|ta
+analecto	nome masculino	a|na|[lec]|to
+analector	nome masculino	a|na|lec|[tor]
+analema	nome masculino	a|na|[le]|ma
+analemático	adjetivo	a|na|le|[má]|ti|co
+analepse	nome feminino	a|na|[lep]|se
+analepsia	nome feminino	a|na|lep|[si]|a
+analéptica	nome feminino	a|na|[lép]|ti|ca
+analéptico	adjetivo	a|na|[lép]|ti|co
+analéptico	nome masculino	a|na|[lép]|ti|co
+analergia	nome feminino	a|na|ler|[gi]|a
+analérgico	adjetivo	a|na|[lér]|gi|co
+analfabeta	nome feminino	a|nal|fa|[be]|ta
+analfabeticamente	advérbio	a|nal|fa|be|ti|ca|[men]|te
+analfabético	adjetivo	a|nal|fa|[bé]|ti|co
+analfabetismo	nome masculino	a|nal|fa|be|[tis]|mo
+analfabeto	adjetivo	a|nal|fa|[be]|to
+analfabeto	nome masculino	a|nal|fa|[be]|to
+analgesia	nome feminino	a|nal|ge|[si]|a
+analgésico	nome masculino	a|nal|[gé]|si|co
+analgésico	adjetivo	a|nal|[gé]|si|co
+analgético	adjetivo	a|nal|[gé]|ti|co
+analgia	nome feminino	a|nal|[gi]|a

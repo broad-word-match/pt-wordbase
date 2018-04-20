@@ -1,0 +1,100 @@
+nesga	nome feminino	[nes]|ga
+nesgalho	nome masculino	nes|[ga]|lho
+nésico	adjetivo	[né]|si|co
+nésico	nome masculino	[né]|si|co
+nésio	adjetivo	[né]|si|o
+nésio	nome masculino	[né]|si|o
+nesiota	adjetivo	ne|si|[o]|ta
+nesiota	nome masculino	ne|si|[o]|ta
+nesiota	nome feminino	ne|si|[o]|ta
+néslia	nome feminino	[nés]|li|a
+nesografia	nome feminino	ne|so|gra|[fi]|a
+nesográfico	adjetivo	ne|so|[grá]|fi|co
+nesossilicato	nome masculino	ne|sos|si|li|[ca]|to
+nêspera	nome feminino	[nês]|pe|ra
+nespereira	nome feminino	nes|pe|[rei]|ra
+nêspero	nome masculino	[nês]|pe|ro
+nesqui	adjetivo	nes|[qui]
+nesqui	nome masculino	nes|[qui]
+nesse	contração	[nes]|se
+nessora	advérbio	nes|[so]|ra
+nessoutro	contração	nes|[sou]|tro
+neste	contração	[nes]|te
+nestiatria	nome feminino	nes|ti|a|[tri]|a
+nestiátrico	adjetivo	nes|ti|[á]|tri|co
+nestólatra	adjetivo	nes|[tó]|la|tra
+nestólatra	nome masculino	nes|[tó]|la|tra
+nestólatra	nome feminino	nes|[tó]|la|tra
+nestolatria	nome feminino	nes|to|la|[tri]|a
+nestolátrico	adjetivo	nes|to|[lá]|tri|co
+nestor	nome masculino	nes|[tor]
+nestóreo	adjetivo	nes|[tó]|re|o
+nestorianismo	nome masculino	nes|to|ri|a|[nis]|mo
+nestoriano	adjetivo	nes|to|ri|[a]|no
+nestoriano	nome masculino	nes|to|ri|[a]|no
+nestoterapia	nome feminino	nes|to|te|ra|[pi]|a
+nestoterápico	adjetivo	nes|to|te|[rá]|pi|co
+nestoutro	contração	nes|[tou]|tro
+net	nome feminino	[net]
+net	adjetivo	[net]
+neta	nome feminino	[ne]|ta
+neta	pronome indefinido	[ne]|ta
+netalhada	nome feminino	ne|ta|[lha]|da
+netas	nome feminino	[ne]|tas
+netinha	nome feminino	ne|[ti]|nha
+netino	adjetivo	ne|[ti]|no
+netino	nome masculino	ne|[ti]|no
+netiqueta	nome feminino	ne|ti|[que]|ta
+neto	nome masculino	[ne]|to
+netsplit	nome masculino	[net]|split
+netuniano	adjetivo	ne|tu|ni|[a]|no
+netunino	adjetivo	ne|tu|[ni]|no
+netúnio	nome masculino	ne|[tú]|ni|o
+netunismo	nome masculino	ne|tu|[nis]|mo
+netunista	adjetivo	ne|tu|[nis]|ta
+netunista	nome masculino	ne|tu|[nis]|ta
+netunista	nome feminino	ne|tu|[nis]|ta
+network	nome feminino	[net]|work
+neuma	nome masculino	[neu]|ma
+neumado	adjetivo	neu|[ma]|do
+neumado	nome masculino	neu|[ma]|do
+neumático	adjetivo	neu|[má]|ti|co
+neura	nome feminino	[neu]|ra
+neura	adjetivo	[neu]|ra
+neuracanto	nome masculino	neu|ra|[can]|to
+neuracne	nome feminino	neu|[rac]|ne
+nêurade	nome feminino	[nêu]|ra|de
+neurádea	nome feminino	neu|[rá]|de|a
+neuragmia	nome feminino	neu|rag|[mi]|a
+neurágmico	adjetivo	neu|[rág]|mi|co
+neural	adjetivo	neu|[ral]
+neuralgia	nome feminino	neu|ral|[gi]|a
+neurálgico	adjetivo	neu|[rál]|gi|co
+neurarterial	adjetivo	neu|rar|te|ri|[al]
+neurartrítico	adjetivo	neu|rar|[trí]|ti|co
+neurartrítico	nome masculino	neu|rar|[trí]|ti|co
+neurartritismo	nome masculino	neu|rar|tri|[tis]|mo
+neurastenia	nome feminino	neu|ras|te|[ni]|a
+neurasténica	nome feminino	neu|ras|[té]|ni|ca
+neurastênico	adjetivo	neu|ras|[tê]|ni|co
+neurastênico	nome masculino	neu|ras|[tê]|ni|co
+neurasténico	nome masculino	neu|ras|[té]|ni|co
+neurasténico	adjetivo	neu|ras|[té]|ni|co
+neurastenizar	verbo	neu|ras|te|ni|[zar]
+neuraxe	nome feminino	neu|[ra]|xe
+neurectomia	nome feminino	neu|rec|to|[mi]|a
+neurectômico	adjetivo	neu|rec|[tô]|mi|co
+neurectómico	adjetivo	neu|rec|[tó]|mi|co
+nêuria	nome feminino	[nêu]|ri|a
+neuriatria	nome feminino	neu|ri|a|[tri]|a
+neuriátrico	adjetivo	neu|ri|[á]|tri|co
+neuriatro	nome masculino	neu|ri|[a]|tro
+nêurico	adjetivo	[nêu]|ri|co
+neurilema	nome masculino	neu|ri|[le]|ma
+neurilemático	adjetivo	neu|ri|le|[má]|ti|co
+neurilemite	nome feminino	neu|ri|le|[mi]|te
+neurilidade	nome feminino	neu|ri|li|[da]|de
+neuriloma	nome masculino	neu|ri|[lo]|ma
+neurina	nome feminino	neu|[ri]|na
+neurino	adjetivo	neu|[ri]|no
+neurinoma	nome masculino	neu|ri|[no]|ma

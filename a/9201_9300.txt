@@ -1,0 +1,100 @@
+alogonite	nome feminino	a|lo|go|[ni]|te
+alógono	adjetivo	a|[ló]|go|no
+alografia	nome feminino	a|lo|gra|[fi]|a
+alográfico	adjetivo	a|lo|[grá]|fi|co
+alógrafo	nome masculino	a|[ló]|gra|fo
+aloilado	adjetivo	a|loi|[la]|do
+aloína	nome feminino	a|lo|[í]|na
+aloinado	adjetivo	a|loi|[na]|do
+aloirado	adjetivo	a|loi|[ra]|do
+aloirar	verbo	a|loi|[rar]
+aloisar	verbo	a|loi|[sar]
+alojação	nome feminino	a|lo|ja|[ção]
+alojador	adjetivo	a|lo|ja|[dor]
+alojador	nome masculino	a|lo|ja|[dor]
+alojamento	nome masculino	a|lo|ja|[men]|to
+alojar	verbo	a|lo|[jar]
+alojável	adjetivo	a|lo|[já]|vel
+alojo	nome masculino	a|[lo]|jo
+alolalia	nome feminino	a|lo|la|[li]|a
+alombamento	nome masculino	a|lom|ba|[men]|to
+alombar	verbo	a|lom|[bar]
+alomborar	verbo	a|lom|bo|[rar]
+alomear	verbo	a|lo|me|[ar]
+alomerismo	nome masculino	a|lo|me|[ris]|mo
+alometria	nome feminino	a|lo|me|[tri]|a
+alométrico	adjetivo	a|lo|[mé]|tri|co
+alomorfe	nome masculino	a|lo|[mor]|fe
+alomorfia	nome feminino	a|lo|mor|[fi]|a
+alomórfico	adjetivo	a|lo|[mór]|fi|co
+alomorfismo	nome masculino	a|lo|mor|[fis]|mo
+alonga	nome feminino	a|[lon]|ga
+alongadamente	advérbio	a|lon|ga|da|[men]|te
+alongado	adjetivo	a|lon|[ga]|do
+alongador	adjetivo	a|lon|ga|[dor]
+alongador	nome masculino	a|lon|ga|[dor]
+alongamento	nome masculino	a|lon|ga|[men]|to
+alongar	verbo	a|lon|[gar]
+alongável	adjetivo	a|lon|[gá]|vel
+alonge	advérbio	a|[lon]|ge
+alonímia	nome feminino	a|lo|[ní]|mi|a
+alonímico	adjetivo	a|lo|[ní]|mi|co
+alónimo	adjetivo	a|[ló]|ni|mo
+alônimo	adjetivo	a|[lô]|ni|mo
+alônimo	nome masculino	a|[lô]|ni|mo
+alónimo	nome masculino	a|[ló]|ni|mo
+alonsa	nome feminino	a|[lon]|sa
+alonso	adjetivo	a|[lon]|so
+alonso	nome masculino	a|[lon]|so
+alopata	nome masculino	a|lo|[pa]|ta
+alópata	nome feminino	a|[ló]|pa|ta
+alopata	nome feminino	a|lo|[pa]|ta
+alópata	nome masculino	a|[ló]|pa|ta
+alopatia	nome feminino	a|lo|pa|[ti]|a
+alopático	adjetivo	a|lo|[pá]|ti|co
+alopatizar	verbo	a|lo|pa|ti|[zar]
+alopatria	nome feminino	a|lo|pa|[tri]|a
+alopátrico	adjetivo	a|lo|[pá]|tri|co
+alopecia	nome feminino	a|lo|pe|[ci]|a
+alopécico	adjetivo	a|lo|[pé]|ci|co
+alopécico	nome masculino	a|lo|[pé]|ci|co
+alopecura	nome feminino	a|lo|pe|[cu]|ra
+alópia	nome feminino	a|[ló]|pi|a
+aloplastia	nome feminino	a|lo|plas|[ti]|a
+aloque	nome masculino	a|[lo]|que
+aloquete	nome masculino	a|lo|[que]|te
+alor	nome masculino	a|[lor]
+alorita	nome masculino	a|lo|[ri]|ta
+alorita	adjetivo	a|lo|[ri]|ta
+alorita	nome feminino	a|lo|[ri]|ta
+alorpado	adjetivo	a|lor|[pa]|do
+alorritmia	nome feminino	a|lor|rit|[mi]|a
+alorrítmico	adjetivo	a|lor|[rít]|mi|co
+alosna	nome feminino	a|[los]|na
+alosteria	nome feminino	a|los|te|[ri]|a
+alostérico	adjetivo	a|los|[té]|ri|co
+alotador	nome masculino	a|lo|ta|[dor]
+alotar	verbo	a|lo|[tar]
+alote	nome masculino	a|[lo]|te
+alotigénico	adjetivo	a|lo|ti|[gé]|ni|co
+alotigénico	nome masculino	a|lo|ti|[gé]|ni|co
+alotígeno	adjetivo	a|lo|[tí]|ge|no
+alotransplantar	verbo	a|lo|trans|plan|[tar]
+alotransplante	nome masculino	a|lo|trans|[plan]|te
+alotriodontia	nome feminino	a|lo|tri|o|don|[ti]|a
+alotriofagia	nome feminino	a|lo|tri|o|fa|[gi]|a
+alotriologia	nome feminino	a|lo|tri|o|lo|[gi]|a
+alotriológico	adjetivo	a|lo|tri|o|[ló]|gi|co
+alotriomórfico	adjetivo	a|lo|tri|o|[mór]|fi|co
+alotriomorfo	adjetivo	a|lo|tri|o|[mor]|fo
+alotropia	nome feminino	a|lo|tro|[pi]|a
+alotrópico	adjetivo	a|lo|[tró]|pi|co
+alotropismo	nome masculino	a|lo|tro|[pis]|mo
+alótropo	adjetivo	a|[ló]|tro|po
+alótropo	nome masculino	a|[ló]|tro|po
+aloucadamente	advérbio	a|lou|ca|da|[men]|te
+aloucado	adjetivo	a|lou|[ca]|do
+aloucamento	nome masculino	a|lou|ca|[men]|to
+aloucar	verbo	a|lou|[car]
+alourado	adjetivo	a|lou|[ra]|do
+alourar	verbo	a|lou|[rar]

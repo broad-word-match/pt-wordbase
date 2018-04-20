@@ -1,0 +1,100 @@
+macaeense	adjetivo	ma|ca|e|[en]|se
+macaeense	nome masculino	ma|ca|e|[en]|se
+macaeense	nome feminino	ma|ca|e|[en]|se
+macaense	nome masculino	ma|ca|[en]|se
+macaense	adjetivo	ma|ca|[en]|se
+maçaense	adjetivo	ma|ça|[en]|se
+maçaense	nome masculino	ma|ça|[en]|se
+macaense	nome feminino	ma|ca|[en]|se
+maçaense	nome feminino	ma|ça|[en]|se
+maçagem	nome feminino	ma|[ça]|gem
+macaguá	nome masculino	ma|ca|[guá]
+macaia	nome feminino	ma|[cai]|a
+macaíba	nome feminino	ma|ca|[í]|ba
+macaibeira	nome feminino	ma|cai|[bei]|ra
+macaio	nome masculino	ma|[cai]|o
+macaísta	adjetivo	ma|ca|[ís]|ta
+macaísta	nome masculino	ma|ca|[ís]|ta
+macaísta	nome feminino	ma|ca|[ís]|ta
+macajá	nome masculino	ma|ca|[já]
+macajuba	nome feminino	ma|ca|[ju]|ba
+macajubeira	nome feminino	ma|ca|ju|[bei]|ra
+maçal	nome masculino	ma|[çal]
+macala	nome masculino	ma|[ca]|la
+maçala	nome feminino	ma|[ça]|la
+macalanhana	nome masculino	ma|ca|la|[nha]|na
+macamã	nome masculino	ma|ca|[mã]
+macamba	nome masculino	ma|[cam]|ba
+macamba	nome feminino	ma|[cam]|ba
+macambacamba	nome feminino	ma|cam|ba|[cam]|ba
+macambalá	nome masculino	ma|cam|ba|[lá]
+maçambará	nome masculino	ma|çam|ba|[rá]
+macambeira	nome feminino	ma|cam|[bei]|ra
+macambira	nome feminino	ma|cam|[bi]|ra
+macambiral	nome masculino	ma|cam|bi|[ral]
+macamblalá	nome masculino	ma|cam|bla|[lá]
+macambuz	nome masculino	ma|cam|[buz]
+macambúzia	nome feminino	ma|cam|[bú]|zi|a
+macambuziar	verbo	ma|cam|bu|zi|[ar]
+macambuzice	nome feminino	ma|cam|bu|[zi]|ce
+macambúzio	adjetivo	ma|cam|[bú]|zi|o
+macambúzio	nome masculino	ma|cam|[bú]|zi|o
+macamecrã	adjetivo	ma|ca|me|[crã]
+macamecrã	nome masculino	ma|ca|me|[crã]
+macamecrã	nome feminino	ma|ca|me|[crã]
+macaná	nome masculino	ma|ca|[ná]
+maçanaria	nome feminino	ma|ça|na|[ri]|a
+maçaneira	nome feminino	ma|ça|[nei]|ra
+maçaneta	nome feminino	ma|ça|[ne]|ta
+maçanetar	verbo	ma|ça|ne|[tar]
+macangueiro	nome masculino	ma|can|[guei]|ro
+macanha	nome feminino	ma|[ca]|nha
+maçanica	nome feminino	ma|ça|[ni]|ca
+maçanico	adjetivo	ma|ça|[ni]|co
+maçanico	nome masculino	ma|ça|[ni]|co
+maçanilha	nome feminino	ma|ça|[ni]|lha
+macanjice	nome feminino	ma|can|[ji]|ce
+macanjo	nome masculino	ma|[can]|jo
+macanjo	adjetivo	ma|[can]|jo
+maçante	adjetivo	ma|[çan]|te
+maçante	nome masculino	ma|[çan]|te
+maçante	nome feminino	ma|[çan]|te
+macanudo	adjetivo	ma|ca|[nu]|do
+mação	nome masculino	ma|[ção]
+macapaense	nome masculino	ma|ca|pa|[en]|se
+macapaense	adjetivo	ma|ca|pa|[en]|se
+macapaense	nome feminino	ma|ca|pa|[en]|se
+maçapão	nome masculino	ma|ça|[pão]
+maçaquara	nome feminino	ma|ça|[qua]|ra
+macaqueação	nome feminino	ma|ca|que|a|[ção]
+macaqueador	adjetivo	ma|ca|que|a|[dor]
+macaqueador	nome masculino	ma|ca|que|a|[dor]
+macaqueadora	nome feminino	ma|ca|que|a|[do]|ra
+macaquear	verbo	ma|ca|que|[ar]
+macaqueiro	adjetivo	ma|ca|[quei]|ro
+maçaqueta	nome feminino	ma|ça|[que]|ta
+macaquice	nome feminino	ma|ca|[qui]|ce
+macaquinho	nome masculino	ma|ca|[qui]|nho
+macaquinhos	nome masculino	ma|ca|[qui]|nhos
+maçar	verbo	ma|[çar]
+maçarandiba	nome feminino	ma|ça|ran|[di]|ba
+maçaranduba	nome feminino	ma|ça|ran|[du]|ba
+maçarandubeira	nome feminino	ma|ça|ran|du|[bei]|ra
+macaranga	nome feminino	ma|ca|[ran]|ga
+macareno	adjetivo	ma|ca|[re]|no
+macareno	nome masculino	ma|ca|[re]|no
+macaréu	nome masculino	ma|ca|[réu]
+macária	nome feminino	ma|[cá]|ri|a
+maçarica	nome feminino	ma|ça|[ri]|ca
+maçaricão	nome masculino	ma|ça|ri|[cão]
+maçarico	nome masculino	ma|ça|[ri]|co
+maçarico-das-rochas	nome masculino	ma|ça|ri|co-das-ro|chas
+maçarico-de-bico-direito	nome masculino	ma|ça|ri|co-de-bi|co-di|[rei]|to
+maçarico-galego	nome masculino	ma|ça|ri|co-ga|[le]|go
+maçarico-preto	nome masculino	ma|ça|ri|co-pre|to
+maçarico-real	nome masculino	ma|ça|ri|co-re|[al]
+maçariqueiro	nome masculino	ma|ça|ri|[quei]|ro
+macarismo	nome masculino	ma|ca|[ris]|mo
+macarite	nome feminino	ma|ca|[ri]|te
+maçaroca	nome feminino	ma|ça|[ro]|ca
+maçaroco	nome masculino	ma|ça|[ro]|co

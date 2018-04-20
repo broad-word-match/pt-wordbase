@@ -1,0 +1,100 @@
+farroma	nome feminino	far|[ro]|ma
+farromba	nome masculino	far|[rom]|ba
+farromba	nome feminino	far|[rom]|ba
+farromeiro	adjetivo	far|ro|[mei]|ro
+farromeiro	nome masculino	far|ro|[mei]|ro
+farronca	nome feminino	far|[ron]|ca
+farronca	nome masculino	far|[ron]|ca
+farroncar	verbo	far|ron|[car]
+farronfa	nome feminino	far|[ron]|fa
+farronfear	verbo	far|ron|fe|[ar]
+farronquear	verbo	far|ron|que|[ar]
+farronqueiro	adjetivo	far|ron|[quei]|ro
+farroupa	nome masculino	far|[rou]|pa
+farroupa	nome feminino	far|[rou]|pa
+farroupeiro	nome masculino	far|rou|[pei]|ro
+farroupilha	nome masculino	far|rou|[pi]|lha
+farroupilha	nome feminino	far|rou|[pi]|lha
+farroupinho	nome masculino	far|rou|[pi]|nho
+farroupo	nome masculino	far|[rou]|po
+farruco	nome masculino	far|[ru]|co
+farruma	nome feminino	far|[ru]|ma
+farrusca	nome feminino	far|[rus]|ca
+farrusco	adjetivo	far|[rus]|co
+farrusquento	adjetivo	far|rus|[quen]|to
+farsa	nome feminino	[far]|sa
+farsada	nome feminino	far|[sa]|da
+farsalhão	nome masculino	far|sa|[lhão]
+farsálico	adjetivo	far|[sá]|li|co
+farsálio	nome masculino	far|[sá]|li|o
+farsálio	adjetivo	far|[sá]|li|o
+farsante	adjetivo	far|[san]|te
+farsante	nome masculino	far|[san]|te
+farsante	nome feminino	far|[san]|te
+farsantear	verbo	far|san|te|[ar]
+farsilhão	nome masculino	far|si|[lhão]
+farsista	adjetivo	far|[sis]|ta
+farsista	nome masculino	far|[sis]|ta
+farsista	nome feminino	far|[sis]|ta
+farsola	nome masculino	far|[so]|la
+farsola	nome feminino	far|[so]|la
+farsolar	verbo	far|so|[lar]
+farsolice	nome feminino	far|so|[li]|ce
+farta	nome feminino	[far]|ta
+farta-rapazes	nome masculino	far|ta-ra|[pa]|zes
+farta-velhaco	nome masculino	far|ta-ve|[lha]|co
+fartação	nome feminino	far|ta|[ção]
+fartacaz	nome masculino	far|ta|[caz]
+fartadela	nome feminino	far|ta|[de]|la
+fartalejo	nome masculino	far|ta|[le]|jo
+fartamente	advérbio	far|ta|[men]|te
+fartança	nome feminino	far|[tan]|ça
+fartão	nome masculino	far|[tão]
+fartar	verbo	far|[tar]
+fartável	adjetivo	far|[tá]|vel
+fartazana	nome feminino	far|ta|[za]|na
+farte	nome masculino	[far]|te
+fartem	nome masculino	[far]|tem
+farteza	nome feminino	far|[te]|za
+farto	adjetivo	[far]|to
+farto	nome masculino	[far]|to
+fartote	nome masculino	far|[to]|te
+fartum	nome masculino	far|[tum]
+fartura	nome feminino	far|[tu]|ra
+farúsio	adjetivo	fa|[rú]|si|o
+farúsio	nome masculino	fa|[rú]|si|o
+fás	nome masculino	[fás]
+fasca	nome feminino	[fas]|ca
+fascal	nome masculino	fas|[cal]
+fasces	nome masculino	[fas]|ces
+fáscia	nome feminino	[fás]|ci|a
+fasciação	nome feminino	fas|ci|a|[ção]
+fascial	adjetivo	fas|ci|[al]
+fasciculação	nome feminino	fas|ci|cu|la|[ção]
+fasciculado	adjetivo	fas|ci|cu|[la]|do
+fascicular	adjetivo	fas|ci|cu|[lar]
+fascicular	verbo	fas|ci|cu|[lar]
+fascículo	nome masculino	fas|[cí]|cu|lo
+fasciite	nome feminino	fas|ci|[i]|te
+fascinação	nome feminino	fas|ci|na|[ção]
+fascinado	adjetivo	fas|ci|[na]|do
+fascinador	adjetivo	fas|ci|na|[dor]
+fascinador	nome masculino	fas|ci|na|[dor]
+fascinadora	nome feminino	fas|ci|na|[do]|ra
+fascinadoramente	advérbio	fas|ci|na|do|ra|[men]|te
+fascinante	adjetivo	fas|ci|[nan]|te
+fascinantemente	advérbio	fas|ci|nan|te|[men]|te
+fascinar	verbo	fas|ci|[nar]
+fascinável	adjetivo	fas|ci|[ná]|vel
+fascínio	nome masculino	fas|[cí]|ni|o
+fascíola	nome feminino	fas|[cí]|o|la
+fasciolar	adjetivo	fas|ci|o|[lar]
+fasciolária	nome feminino	fas|ci|o|[lá]|ri|a
+fasciolíase	nome feminino	fas|ci|o|[lí]|a|se
+fascipene	adjetivo	fas|ci|[pe]|ne
+fascismo	nome masculino	fas|[cis]|mo
+fascista	adjetivo	fas|[cis]|ta
+fascista	nome masculino	fas|[cis]|ta
+fascista	nome feminino	fas|[cis]|ta
+fascistoide	adjetivo	fas|cis|[toi]|de
+fascistoide	nome masculino	fas|cis|[toi]|de

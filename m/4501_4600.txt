@@ -1,0 +1,100 @@
+mayonnaise	nome feminino	may|on|nai|se
+mayor	nome masculino	may|or
+maz	nome masculino	[maz]
+mazá	nome masculino	ma|[zá]
+mázace	adjetivo	[má]|za|ce
+mázace	nome masculino	[má]|za|ce
+mázace	nome feminino	[má]|za|ce
+mazagania	nome feminino	ma|za|ga|[ni]|a
+mazagrã	nome masculino	ma|za|[grã]
+mazama	nome masculino	ma|[za]|ma
+mazamorra	nome feminino	ma|za|[mor]|ra
+mazanaria	nome feminino	ma|za|na|[ri]|a
+mazane	nome masculino	ma|[za]|ne
+mazania	nome feminino	ma|za|[ni]|a
+mazaniga	adjetivo	ma|za|[ni]|ga
+mazaniga	nome masculino	ma|za|[ni]|ga
+mazaniga	nome feminino	ma|za|[ni]|ga
+mazanza	adjetivo	ma|[zan]|za
+mazarize	nome masculino	ma|za|[ri]|ze
+mazarulho	nome masculino	ma|za|[ru]|lho
+mazarulho	adjetivo	ma|za|[ru]|lho
+mazdeísmo	nome masculino	maz|de|[ís]|mo
+mazdeísta	nome masculino	maz|de|[ís]|ta
+mazdeísta	adjetivo	maz|de|[ís]|ta
+mazdeísta	nome feminino	maz|de|[ís]|ta
+mazela	nome feminino	ma|[ze]|la
+mazelar	verbo	ma|ze|[lar]
+mazelento	adjetivo	ma|ze|[len]|to
+mazeu	adjetivo	ma|[zeu]
+mazeu	nome masculino	ma|[zeu]
+mázice	adjetivo	[má]|zi|ce
+mázice	nome masculino	[má]|zi|ce
+mázice	nome feminino	[má]|zi|ce
+mazombice	nome feminino	ma|zom|[bi]|ce
+mazombo	adjetivo	ma|[zom]|bo
+mazombo	nome masculino	ma|[zom]|bo
+mazorca	nome feminino	ma|[zor]|ca
+mazorqueiro	nome masculino	ma|zor|[quei]|ro
+mazorral	adjetivo	ma|zor|[ral]
+mazorro	adjetivo	ma|[zor]|ro
+mazorro	nome masculino	ma|[zor]|ro
+mazundo	nome masculino	ma|[zun]|do
+mazurca	nome feminino	ma|[zur]|ca
+mazurcar	verbo	ma|zur|[car]
+mazuriano	adjetivo	ma|zu|ri|[a]|no
+mazute	nome masculino	ma|[zu]|te
+mbaco	adjetivo	[mba]|co
+mbaco	nome masculino	[mba]|co
+mbalale	nome masculino	mba|[la]|le
+mbama	nome feminino	[mba]|ma
+mbaula	nome masculino	[mbau]|la
+mbava	nome masculino	[mba]|va
+mbelele	nome masculino	mbe|[le]|le
+mbenga	nome feminino	[mben]|ga
+mbetê	nome masculino	mbe|[tê]
+mbeua	nome feminino	[mbeu]|a
+mboa	nome feminino	[mbo]|a
+mê	nome masculino	[mê]
+me	pronome pessoal	me
+mé	nome masculino	[mé]
+meã	nome feminino	me|[ã]
+mea-culpa	nome masculino	me|a-cul|pa
+meaça	nome feminino	me|[a]|ça
+meação	nome feminino	me|a|[ção]
+meaço	nome masculino	me|[a]|ço
+meada	nome feminino	me|[a]|da
+meadeira	nome feminino	me|a|[dei]|ra
+meadinha de ouro	nome feminino	me|a|[di]|nha de ou|ro
+meado	adjetivo	me|[a]|do
+meado	nome masculino	me|[a]|do
+mealha	nome feminino	me|[a]|lha
+mealhadense	nome masculino	me|a|lha|[den]|se
+mealhadense	adjetivo	me|a|lha|[den]|se
+mealhadense	nome feminino	me|a|lha|[den]|se
+mealhar	verbo	me|a|[lhar]
+mealharia	nome feminino	me|a|lha|[ri]|a
+mealheiro	nome masculino	me|a|[lhei]|ro
+mealheiro	adjetivo	me|a|[lhei]|ro
+mealho	nome masculino	me|[a]|lho
+meandrar	verbo	me|an|[drar]
+meândrico	adjetivo	me|[ân]|dri|co
+meandrina	nome feminino	me|an|[dri]|na
+meandro	nome masculino	me|[an]|dro
+meandropolitano	adjetivo	me|an|dro|po|li|[ta]|no
+meandropolitano	nome masculino	me|an|dro|po|li|[ta]|no
+meandroso	adjetivo	me|an|[dro]|so
+meano	adjetivo	me|[a]|no
+meante	adjetivo	me|[an]|te
+meão	adjetivo	me|[ão]
+meão	nome masculino	me|[ão]
+mear	verbo	me|[ar]
+meático	adjetivo	me|[á]|ti|co
+meato	nome masculino	me|[a]|to
+meatotomia	nome feminino	me|a|to|to|[mi]|a
+meatotómico	adjetivo	me|a|to|[tó]|mi|co
+meatotômico	adjetivo	me|a|to|[tô]|mi|co
+meca	nome feminino	[me]|ca
+mecaju	nome masculino	me|ca|[ju]
+mecânica	nome feminino	me|[câ]|ni|ca
+mecanicamente	advérbio	me|ca|ni|ca|[men]|te

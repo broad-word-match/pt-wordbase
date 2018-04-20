@@ -1,0 +1,100 @@
+fatigável	adjetivo	fa|ti|[gá]|vel
+fatigoso	adjetivo	fa|ti|[go]|so
+fatiloquente	adjetivo	fa|ti|lo|[quen]|te
+fatíloquo	adjetivo	fa|[tí]|lo|quo
+fatimense	adjetivo	fa|ti|[men]|se
+fatimense	nome masculino	fa|ti|[men]|se
+fatimense	nome feminino	fa|ti|[men]|se
+fatimita	adjetivo	fa|ti|[mi]|ta
+fatimita	nome masculino	fa|ti|[mi]|ta
+fatimita	nome feminino	fa|ti|[mi]|ta
+fatiota	nome feminino	fa|ti|[o]|ta
+fatitivo	adjetivo	fa|ti|[ti]|vo
+fatível	adjetivo	fa|[tí]|vel
+fatniorragia	nome feminino	fat|ni|or|ra|[gi]|a
+fatniorrágico	adjetivo	fat|ni|or|[rá]|gi|co
+fato	nome masculino	[fa]|to
+fato de banho	nome masculino	[fa]|to de ba|nho
+fato de macaco	nome masculino	[fa]|to de ma|ca|co
+fato de saia e casaco	nome masculino	[fa]|to de sai|a e ca|sa|co
+fato de treino	nome masculino	[fa]|to de trei|no
+fato-macaco	nome masculino	fa|to-ma|[ca]|co
+fatoco	nome masculino	fa|[to]|co
+fator	nome masculino	fa|[tor]
+fator-chave	nome masculino	fa|tor-cha|ve
+fatorial	adjetivo	fa|to|ri|[al]
+fatorial	nome masculino	fa|to|ri|[al]
+fatorial	nome feminino	fa|to|ri|[al]
+fatorizar	verbo	fa|to|ri|[zar]
+fatual	adjetivo	fa|tu|[al]
+fatuamente	advérbio	fa|tu|a|[men]|te
+fatuidade	nome feminino	fa|tu|i|[da]|de
+fátuo	adjetivo	[fá]|tu|o
+fatura	nome feminino	fa|[tu]|ra
+faturação	nome feminino	fa|tu|ra|[ção]
+faturar	verbo	fa|tu|[rar]
+faturável	adjetivo	fa|tu|[rá]|vel
+fatwa	nome feminino	[fa]|twa
+faucal	adjetivo	fau|[cal]
+fauce	nome feminino	[fau]|ce
+faúla	nome feminino	fa|[ú]|la
+faulante	adjetivo	fa|u|[lan]|te
+faular	verbo	fa|u|[lar]
+faúlha	nome feminino	fa|[ú]|lha
+faulhante	adjetivo	fau|[lhan]|te
+faulhar	verbo	fa|u|[lhar]
+faulhento	adjetivo	fa|u|[lhen]|to
+fauna	nome feminino	[fau]|na
+faunesa	nome feminino	fau|[ne]|sa
+faunfurriar	verbo	fa|un|fur|ri|[ar]
+fauniano	adjetivo	fau|ni|[a]|no
+faunígena	nome masculino	fau|[ní]|ge|na
+faunígena	nome feminino	fau|[ní]|ge|na
+faunístico	adjetivo	fau|[nís]|ti|co
+faunizona	nome feminino	fau|ni|[zo]|na
+fauno	nome masculino	[fau]|no
+fáunula	nome feminino	[fáu]|nu|la
+faustiano	adjetivo	faus|ti|[a]|no
+fáustico	adjetivo	[fáus]|ti|co
+faustino	adjetivo	faus|[ti]|no
+faustinopolitano	adjetivo	faus|ti|no|po|li|[ta]|no
+faustinopolitano	nome masculino	faus|ti|no|po|li|[ta]|no
+fausto	nome masculino	[faus]|to
+fausto	adjetivo	[faus]|to
+faustosamente	advérbio	faus|to|sa|[men]|te
+faustoso	adjetivo	faus|[to]|so
+faustuosamente	advérbio	faus|tu|o|sa|[men]|te
+faustuoso	adjetivo	faus|tu|[o]|so
+fauteuil	nome feminino	fau|teuil
+fautor	adjetivo	fau|[tor]
+fautor	nome masculino	fau|[tor]
+fautora	nome feminino	fau|[to]|ra
+fautoria	nome feminino	fau|to|[ri]|a
+fautorizar	verbo	fau|to|ri|[zar]
+fautriz	nome feminino	fau|[triz]
+fauvismo	nome masculino	fau|[vis]|mo
+fava	nome feminino	[fa]|va
+fava-cavalinha	nome feminino	fa|va-ca|va|[li]|nha
+fava-da-índia	nome feminino	fa|va-da-ín|di|a
+fava-de-bolota	nome feminino	fa|va-de-bo|[lo]|ta
+fava-de-calabar	nome feminino	fa|va-de-ca|la|[bar]
+fava-de-holanda	nome feminino	fa|va-de-ho|[lan]|da
+fava-de-malaca	nome feminino	fa|va-de-ma|[la]|ca
+fava-de-santo-inácio	nome feminino	fa|va-de-san|to-i|[ná]|ci|o
+fava-do-egito	nome feminino	fa|va-do-e|[gi]|to
+fava-rica	nome feminino	fa|va-ri|ca
+fava-tonca	nome feminino	fa|va-ton|ca
+faval	nome masculino	fa|[val]
+favalinha	nome feminino	fa|va|[li]|nha
+favar	verbo	fa|[var]
+favária	nome feminino	fa|[vá]|ri|a
+favária-maior	nome feminino	fa|vá|ri|a-mai|or
+favarola	nome feminino	fa|va|[ro]|la
+faveca	nome feminino	fa|[ve]|ca
+faveco	nome masculino	fa|[ve]|co
+faveira	nome feminino	fa|[vei]|ra
+faveiro	nome masculino	fa|[vei]|ro
+favela	nome feminino	fa|[ve]|la
+favela-branca	nome feminino	fa|ve|la-bran|ca
+favelada	nome feminino	fa|ve|[la]|da
+favelado	adjetivo	fa|ve|[la]|do

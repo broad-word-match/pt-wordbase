@@ -1,0 +1,100 @@
+peixe-elétrico	nome masculino	pei|xe-e|[lé]|tri|co
+peixe-escama	nome masculino	pei|xe-es|[ca]|ma
+peixe-espada	nome masculino	pei|xe-es|[pa]|da
+peixe-espada-preto	nome masculino	pei|xe-es|pa|da-pre|to
+peixe-espinho	nome masculino	pei|xe-es|[pi]|nho
+peixe-frade	nome masculino	pei|xe-fra|de
+peixe-frito	nome masculino	pei|xe-fri|to
+peixe-galo	nome masculino	pei|xe-ga|lo
+peixe-gato	nome masculino	pei|xe-ga|to
+peixe-judeu	nome masculino	pei|xe-ju|[deu]
+peixe-lima	nome masculino	pei|xe-li|ma
+peixe-lua	nome masculino	pei|xe-lu|a
+peixe-martelo	nome masculino	pei|xe-mar|[te]|lo
+peixe-pau	nome masculino	pei|xe-pau
+peixe-pimenta	nome masculino	pei|xe-pi|[men]|ta
+peixe-piolho	nome masculino	pei|xe-pi|[o]|lho
+peixe-porco	nome masculino	pei|xe-por|co
+peixe-prata	nome masculino	pei|xe-pra|ta
+peixe-prego	nome masculino	pei|xe-pre|go
+peixe-raposo	nome masculino	pei|xe-ra|[po]|so
+peixe-rato	nome masculino	pei|xe-ra|to
+peixe-rei	nome masculino	pei|xe-rei
+peixe-sapo	nome masculino	pei|xe-sa|po
+peixe-serra	nome masculino	pei|xe-ser|ra
+peixe-verde	nome masculino	pei|xe-ver|de
+peixe-vermelho	nome masculino	pei|xe-ver|[me]|lho
+peixe-voador	nome masculino	pei|xe-vo|a|[dor]
+peixe-zorro	nome masculino	pei|xe-zor|ro
+peixeira	nome feminino	pei|[xei]|ra
+peixeirada	nome feminino	pei|xei|[ra]|da
+peixeiro	nome masculino	pei|[xei]|ro
+peixelim	nome masculino	pei|xe|[lim]
+peixeteiro	nome masculino	pei|xe|[tei]|ro
+peixinheiro	nome masculino	pei|xi|[nhei]|ro
+peixinho	nome masculino	pei|[xi]|nho
+peixinho-de-prata	nome masculino	pei|xi|nho-de-pra|ta
+peixol	nome masculino	pei|[xol]
+peixota	nome feminino	pei|[xo]|ta
+peixote	nome masculino	pei|[xo]|te
+peja	nome feminino	[pe]|ja
+pejada	adjetivo	pe|[ja]|da
+pejado	adjetivo	pe|[ja]|do
+pejadoiro	nome masculino	pe|ja|[doi]|ro
+pejadouro	nome masculino	pe|ja|[dou]|ro
+pejamento	nome masculino	pe|ja|[men]|to
+pejar	verbo	pe|[jar]
+pejeiro	nome masculino	pe|[jei]|ro
+peji	nome masculino	pe|[ji]
+pejo	nome masculino	[pe]|jo
+pejorar	verbo	pe|jo|[rar]
+pejorativamente	advérbio	pe|jo|ra|ti|va|[men]|te
+pejorativo	adjetivo	pe|jo|ra|[ti]|vo
+pejoso	adjetivo	pe|[jo]|so
+pela	nome feminino	[pe]|la
+pelada	nome feminino	pe|[la]|da
+peladela	nome feminino	pe|la|[de]|la
+peladiço	adjetivo	pe|la|[di]|ço
+peladinha	nome feminino	pe|la|[di]|nha
+pelado	adjetivo	pe|[la]|do
+pelado	nome masculino	pe|[la]|do
+pelador	adjetivo	pe|la|[dor]
+pelador	nome masculino	pe|la|[dor]
+peladura	nome feminino	pe|la|[du]|ra
+pelagão	adjetivo	pe|la|[gão]
+pelagão	nome masculino	pe|la|[gão]
+pelagem	nome feminino	pe|[la]|gem
+pelágia	nome feminino	pe|[lá]|gi|a
+pelagianismo	nome masculino	pe|la|gi|a|[nis]|mo
+pelagiano	nome masculino	pe|la|gi|[a]|no
+pelágico	adjetivo	pe|[lá]|gi|co
+pelágio	adjetivo	pe|[lá]|gi|o
+pelagite	nome feminino	pe|la|[gi]|te
+pélago	nome masculino	[pé]|la|go
+pelagobático	adjetivo	pe|la|go|[bá]|ti|co
+pelagófito	nome masculino	pe|la|[gó]|fi|to
+pelágone	adjetivo	pe|[lá]|go|ne
+pelágone	nome masculino	pe|[lá]|go|ne
+pelágone	nome feminino	pe|[lá]|go|ne
+pelagoscopia	nome feminino	pe|la|gos|co|[pi]|a
+pelagoscópico	adjetivo	pe|la|gos|[có]|pi|co
+pelagoscópio	nome masculino	pe|la|gos|[có]|pi|o
+pelagosite	nome feminino	pe|la|go|[si]|te
+pelagossáurio	nome masculino	pe|la|gos|[sáu]|ri|o
+pelagra	nome feminino	pe|[la]|gra
+pelagroso	adjetivo	pe|la|[gro]|so
+pelagroso	nome masculino	pe|la|[gro]|so
+pelame	nome masculino	pe|[la]|me
+pelanca	nome feminino	pe|[lan]|ca
+pelanco	nome masculino	pe|[lan]|co
+pelancudo	adjetivo	pe|lan|[cu]|do
+pelanga	nome feminino	pe|[lan]|ga
+pelangana	nome feminino	pe|lan|[ga]|na
+pelão	nome masculino	pe|[lão]
+pelar	verbo	pe|[lar]
+pelargonato	nome masculino	pe|lar|go|[na]|to
+pelargônico	adjetivo	pe|lar|[gô]|ni|co
+pelargónico	adjetivo	pe|lar|[gó]|ni|co
+pelargónio	nome masculino	pe|lar|[gó]|ni|o
+pelargônio	nome masculino	pe|lar|[gô]|ni|o
+pelaria	nome feminino	pe|la|[ri]|a

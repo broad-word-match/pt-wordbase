@@ -1,0 +1,100 @@
+contragoverno	nome masculino	con|tra|go|[ver]|no
+contraguarda	nome feminino	con|tra|[guar]|da
+contraguerrilha	nome feminino	con|tra|guer|[ri]|lha
+contraído	adjetivo	con|tra|[í]|do
+contraindicação	nome feminino	con|tra|in|di|ca|[ção]
+contraindicado	adjetivo	con|tra|in|di|[ca]|do
+contraindicar	verbo	con|tra|in|di|[car]
+contraindício	nome masculino	con|train|[dí]|ci|o
+contrainformação	nome feminino	con|tra|in|for|ma|[ção]
+contrainformar	verbo	con|tra|in|for|[mar]
+contrainterpelação	nome feminino	con|train|ter|pe|la|[ção]
+contrainterrogatório	nome masculino	con|tra|in|ter|ro|ga|[tó]|ri|o
+contrair	verbo	con|tra|[ir]
+contrairo	nome masculino	con|[trai]|ro
+contraível	adjetivo	con|tra|[í]|vel
+contrajustiça	nome feminino	con|tra|jus|[ti]|ça
+contralais	nome masculino	con|tra|[lais]
+contraliga	nome feminino	con|tra|[li]|ga
+contralto	nome masculino	con|[tral]|to
+contralto	nome feminino	con|[tral]|to
+contraluz	nome feminino	con|tra|[luz]
+contramalha	nome feminino	con|tra|[ma]|lha
+contramalhar	verbo	con|tra|ma|[lhar]
+contramandado	nome masculino	con|tra|man|[da]|do
+contramandar	verbo	con|tra|man|[dar]
+contramanga	nome feminino	con|tra|[man]|ga
+contramangas	nome feminino	con|tra|[man]|gas
+contramanifestação	nome feminino	con|tra|ma|ni|fes|ta|[ção]
+contramanifestante	nome masculino	con|tra|ma|ni|fes|[tan]|te
+contramanifestante	nome feminino	con|tra|ma|ni|fes|[tan]|te
+contramanifestar	verbo	con|tra|ma|ni|fes|[tar]
+contramanobra	nome feminino	con|tra|ma|[no]|bra
+contramanobrar	verbo	con|tra|ma|no|[brar]
+contramão	nome feminino	con|tra|[mão]
+contramarca	nome feminino	con|tra|[mar]|ca
+contramarcação	nome feminino	con|tra|mar|ca|[ção]
+contramarcar	verbo	con|tra|mar|[car]
+contramarcha	nome feminino	con|tra|[mar]|cha
+contramarchar	verbo	con|tra|mar|[char]
+contramaré	nome feminino	con|tra|ma|[ré]
+contramargem	nome feminino	con|tra|[mar]|gem
+contramartelo	nome masculino	con|tra|mar|[te]|lo
+contramedida	nome feminino	con|tra|me|[di]|da
+contramérico	adjetivo	con|tra|[mé]|ri|co
+contrâmero	nome masculino	con|[trâ]|me|ro
+contramestre	nome masculino	con|tra|[mes]|tre
+contrametade	nome feminino	con|tra|me|[ta]|de
+contramezena	nome feminino	con|tra|me|[ze]|na
+contramina	nome feminino	con|tra|[mi]|na
+contraminar	verbo	con|tra|mi|[nar]
+contraminuta	nome feminino	con|tra|mi|[nu]|ta
+contramoldagem	nome feminino	con|tra|mol|[da]|gem
+contramoldar	verbo	con|tra|mol|[dar]
+contramolde	nome masculino	con|tra|[mol]|de
+contramonção	nome feminino	con|tra|mon|[ção]
+contramovimento	nome masculino	con|tra|mo|vi|[men]|to
+contramuralha	nome feminino	con|tra|mu|[ra]|lha
+contramurar	verbo	con|tra|mu|[rar]
+contramuro	nome masculino	con|tra|[mu]|ro
+contranatura	advérbio	con|tra|na|[tu]|ra
+contranatura	adjetivo	con|tra|na|[tu]|ra
+contranatural	adjetivo	con|tra|na|tu|[ral]
+contranaturalidade	nome feminino	con|tra|na|tu|ra|li|[da]|de
+contranaturo	adjetivo	con|tra|na|[tu]|ro
+contranitência	nome feminino	con|tra|ni|[tên]|ci|a
+contranitente	adjetivo	con|tra|ni|[ten]|te
+contranível	nome masculino	con|tra|[ní]|vel
+contranome	nome masculino	con|tra|[no]|me
+contranota	nome feminino	con|tra|[no]|ta
+contraofensiva	nome feminino	con|tra|o|fen|[si]|va
+contraoferta	nome feminino	con|tra|o|[fer]|ta
+contraoitava	nome feminino	con|traoi|[ta]|va
+contraordem	nome feminino	con|tra|[or]|dem
+contraordenação	nome feminino	con|tra|or|de|na|[ção]
+contraordenacional	adjetivo	con|tra|or|de|na|ci|o|[nal]
+contraordenar	verbo	con|tra|or|de|[nar]
+contrapala	nome feminino	con|tra|[pa]|la
+contrapalado	adjetivo	con|tra|pa|[la]|do
+contrapancada	nome feminino	con|tra|pan|[ca]|da
+contraparente	nome masculino	con|tra|pa|[ren]|te
+contraparente	nome feminino	con|tra|pa|[ren]|te
+contraparentesco	nome masculino	con|tra|pa|ren|[tes]|co
+contraparte	nome feminino	con|tra|[par]|te
+contrapartida	nome feminino	con|tra|par|[ti]|da
+contrapassantes	adjetivo	con|tra|pas|[san]|tes
+contrapasso	nome masculino	con|tra|[pas]|so
+contrapatarrás	nome masculino	con|tra|pa|tar|[rás]
+contrapé	nome masculino	con|tra|[pé]
+contrapeçonha	nome feminino	con|tra|pe|[ço]|nha
+contrapedal	nome masculino	con|tra|pe|[dal]
+contrapedal	adjetivo	con|tra|pe|[dal]
+contrapedalar	verbo	con|tra|pe|da|[lar]
+contrapelo	nome masculino	con|tra|[pe]|lo
+contraperna	nome feminino	con|tra|[per]|na
+contrapesar	verbo	con|tra|pe|[sar]
+contrapeso	nome masculino	con|tra|[pe]|so
+contrapilastra	nome feminino	con|tra|pi|[las]|tra
+contrapinázio	nome masculino	con|tra|pi|[ná]|zi|o
+contrapino	nome masculino	con|tra|[pi]|no
+contrapisa	nome feminino	con|tra|[pi]|sa

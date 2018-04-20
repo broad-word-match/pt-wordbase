@@ -1,0 +1,100 @@
+exclusivo	nome masculino	ex|clu|[si]|vo
+exclusivo	adjetivo	ex|clu|[si]|vo
+excluso	adjetivo	ex|[clu]|so
+excogitação	nome feminino	ex|co|gi|ta|[ção]
+excogitador	adjetivo	ex|co|gi|ta|[dor]
+excogitador	nome masculino	ex|co|gi|ta|[dor]
+excogitar	verbo	ex|co|gi|[tar]
+excogitável	adjetivo	ex|co|gi|[tá]|vel
+excomungação	nome feminino	ex|co|mun|ga|[ção]
+excomungada	nome feminino	ex|co|mun|[ga]|da
+excomungado	nome masculino	ex|co|mun|[ga]|do
+excomungado	adjetivo	ex|co|mun|[ga]|do
+excomungador	adjetivo	ex|co|mun|ga|[dor]
+excomungador	nome masculino	ex|co|mun|ga|[dor]
+excomungadouro	nome masculino	ex|co|mun|ga|[dou]|ro
+excomungar	verbo	ex|co|mun|[gar]
+excomungável	adjetivo	ex|co|mun|[gá]|vel
+excomunhal	adjetivo	ex|co|mu|[nhal]
+excomunhão	nome feminino	ex|co|mu|[nhão]
+excreação	nome feminino	ex|cre|a|[ção]
+excreção	nome feminino	ex|cre|[ção]
+excrementar	verbo	ex|cre|men|[tar]
+excrementício	adjetivo	ex|cre|men|[tí]|ci|o
+excremento	nome masculino	ex|cre|[men]|to
+excrementoso	adjetivo	ex|cre|men|[to]|so
+excrescência	nome feminino	ex|cres|[cên]|ci|a
+excrescente	adjetivo	ex|cres|[cen]|te
+excrescer	verbo	ex|cres|[cer]
+excretar	verbo	ex|cre|[tar]
+excretício	adjetivo	ex|cre|[tí]|ci|o
+excreto	nome masculino	ex|[cre]|to
+excreto	adjetivo	ex|[cre]|to
+excretor	adjetivo	ex|cre|[tor]
+excretório	adjetivo	ex|cre|[tó]|ri|o
+excruciação	nome feminino	ex|cru|ci|a|[ção]
+excruciador	adjetivo	ex|cru|ci|a|[dor]
+excruciante	adjetivo	ex|cru|ci|[an]|te
+excruciar	verbo	ex|cru|ci|[ar]
+exculpação	nome feminino	ex|cul|pa|[ção]
+exculpar	verbo	ex|cul|[par]
+excursão	nome feminino	ex|cur|[são]
+excursar	verbo	ex|cur|[sar]
+excursionar	verbo	ex|cur|si|o|[nar]
+excursionismo	nome masculino	ex|cur|si|o|[nis]|mo
+excursionista	nome masculino	ex|cur|si|o|[nis]|ta
+excursionista	nome feminino	ex|cur|si|o|[nis]|ta
+excursivo	adjetivo	ex|cur|[si]|vo
+excurso	nome masculino	ex|[cur]|so
+excursor	nome masculino	ex|cur|[sor]
+excurvação	nome feminino	ex|cur|va|[ção]
+excurvado	adjetivo	ex|cur|[va]|do
+excurvar	verbo	ex|cur|[var]
+excussão	nome feminino	ex|cus|[são]
+excutir	verbo	ex|cu|[tir]
+execrabilidade	nome feminino	e|xe|cra|bi|li|[da]|de
+execração	nome feminino	e|xe|cra|[ção]
+execrador	adjetivo	e|xe|cra|[dor]
+execrador	nome masculino	e|xe|cra|[dor]
+execrando	adjetivo	e|xe|[cran]|do
+execrar	verbo	e|xe|[crar]
+execrativo	adjetivo	e|xe|cra|[ti]|vo
+execratório	adjetivo	e|xe|cra|[tó]|ri|o
+execrável	adjetivo	e|xe|[crá]|vel
+execravelmente	advérbio	e|xe|cra|vel|[men]|te
+execução	nome feminino	e|xe|cu|[ção]
+executada	nome feminino	e|xe|cu|[ta]|da
+executado	adjetivo	e|xe|cu|[ta]|do
+executado	nome masculino	e|xe|cu|[ta]|do
+executante	adjetivo	e|xe|cu|[tan]|te
+executante	nome masculino	e|xe|cu|[tan]|te
+executante	nome feminino	e|xe|cu|[tan]|te
+executar	verbo	e|xe|cu|[tar]
+executável	adjetivo	e|xe|cu|[tá]|vel
+executiva	nome feminino	e|xe|cu|[ti]|va
+executivamente	advérbio	e|xe|cu|ti|va|[men]|te
+executivo	nome masculino	e|xe|cu|[ti]|vo
+executivo	adjetivo	e|xe|cu|[ti]|vo
+executor	nome masculino	e|xe|cu|[tor]
+executória	nome feminino	e|xe|cu|[tó]|ri|a
+executoriamente	advérbio	e|xe|cu|to|ri|a|[men]|te
+executório	adjetivo	e|xe|cu|[tó]|ri|o
+êxedra	nome feminino	[ê]|xe|dra
+exegese	nome feminino	e|xe|[ge]|se
+exegeta	nome masculino	e|xe|[ge]|ta
+exegeta	nome feminino	e|xe|[ge]|ta
+exegética	nome feminino	e|xe|[gé]|ti|ca
+exegeticamente	advérbio	e|xe|ge|ti|ca|[men]|te
+exegético	adjetivo	e|xe|[gé]|ti|co
+exempção	nome feminino	e|xemp|[ção]
+exemplador	adjetivo	e|xem|pla|[dor]
+exemplador	nome masculino	e|xem|pla|[dor]
+exemplar	adjetivo	e|xem|[plar]
+exemplar	nome masculino	e|xem|[plar]
+exemplaridade	nome feminino	e|xem|pla|ri|[da]|de
+exemplário	nome masculino	e|xem|[plá]|ri|o
+exemplarmente	advérbio	e|xem|plar|[men]|te
+exemplificação	nome feminino	e|xem|pli|fi|ca|[ção]
+exemplificante	adjetivo	e|xem|pli|fi|[can]|te
+exemplificar	verbo	e|xem|pli|fi|[car]
+exemplificativamente	advérbio	e|xem|pli|fi|ca|ti|va|[men]|te

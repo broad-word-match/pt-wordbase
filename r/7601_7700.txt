@@ -1,0 +1,100 @@
+romana	nome feminino	ro|[ma]|na
+romanamente	advérbio	ro|ma|na|[men]|te
+romança	nome feminino	ro|[man]|ça
+romançada	nome feminino	ro|man|[ça]|da
+romançaria	nome feminino	ro|man|ça|[ri]|a
+romance	nome masculino	ro|[man]|ce
+romanceação	nome feminino	ro|man|ce|a|[ção]
+romanceado	adjetivo	ro|man|ce|[a]|do
+romancear	verbo	ro|man|ce|[ar]
+romanceiro	nome masculino	ro|man|[cei]|ro
+romanche	nome masculino	ro|[man]|che
+romancice	nome feminino	ro|man|[ci]|ce
+romancilho	nome masculino	ro|man|[ci]|lho
+romancismo	nome masculino	ro|man|[cis]|mo
+romancista	nome masculino	ro|man|[cis]|ta
+romancista	nome feminino	ro|man|[cis]|ta
+romanço	nome masculino	ro|[man]|ço
+romando	adjetivo	ro|[man]|do
+romaneira	nome feminino	ro|ma|[nei]|ra
+romanescado	adjetivo	ro|ma|nes|[ca]|do
+romanescamente	advérbio	ro|ma|nes|ca|[men]|te
+romanesco	adjetivo	ro|ma|[nes]|co
+romanesco	nome masculino	ro|ma|[nes]|co
+romanho	nome masculino	ro|[ma]|nho
+romani	nome masculino	ro|ma|[ni]
+romania	nome feminino	ro|ma|[ni]|a
+romanicamente	advérbio	ro|ma|ni|ca|[men]|te
+românico	nome masculino	ro|[mâ]|ni|co
+românico	adjetivo	ro|[mâ]|ni|co
+romanidade	nome feminino	ro|ma|ni|[da]|de
+romanim	nome masculino	ro|ma|[nim]
+romanisco	adjetivo	ro|ma|[nis]|co
+romanismo	nome masculino	ro|ma|[nis]|mo
+romanista	nome masculino	ro|ma|[nis]|ta
+romanista	adjetivo	ro|ma|[nis]|ta
+romanista	nome feminino	ro|ma|[nis]|ta
+romanística	nome feminino	ro|ma|[nís]|ti|ca
+romanisticamente	advérbio	ro|ma|nis|ti|ca|[men]|te
+romanístico	adjetivo	ro|ma|[nís]|ti|co
+romanização	nome feminino	ro|ma|ni|za|[ção]
+romanizado	adjetivo	ro|ma|ni|[za]|do
+romanizador	adjetivo	ro|ma|ni|za|[dor]
+romanizador	nome masculino	ro|ma|ni|za|[dor]
+romanizar	verbo	ro|ma|ni|[zar]
+romanizável	adjetivo	ro|ma|ni|[zá]|vel
+romano	nome masculino	ro|[ma]|no
+romano	adjetivo	ro|[ma]|no
+romano-clássico	adjetivo	ro|ma|no-clás|si|co
+romano-germânico	adjetivo	ro|ma|no-ger|[mâ]|ni|co
+romano-vulgar	adjetivo	ro|ma|no-vul|[gar]
+romanofilia	nome feminino	ro|ma|no|fi|[li]|a
+romanófilo	adjetivo	ro|ma|[nó]|fi|lo
+romanófilo	nome masculino	ro|ma|[nó]|fi|lo
+romanóloga	nome feminino	ro|ma|[nó]|lo|ga
+romanologia	nome feminino	ro|ma|no|lo|[gi]|a
+romanológico	adjetivo	ro|ma|no|[ló]|gi|co
+romanologista	nome masculino	ro|ma|no|lo|[gis]|ta
+romanologista	nome feminino	ro|ma|no|lo|[gis]|ta
+romanólogo	nome masculino	ro|ma|[nó]|lo|go
+romântica	nome feminino	ro|[mân]|ti|ca
+romanticamente	advérbio	ro|man|ti|ca|[men]|te
+romanticismo	nome masculino	ro|man|ti|[cis]|mo
+romântico	adjetivo	ro|[mân]|ti|co
+romântico	nome masculino	ro|[mân]|ti|co
+romantismo	nome masculino	ro|man|[tis]|mo
+romantização	nome feminino	ro|man|ti|za|[ção]
+romantizador	adjetivo	ro|man|ti|za|[dor]
+romantizador	nome masculino	ro|man|ti|za|[dor]
+romantizar	verbo	ro|man|ti|[zar]
+romanza	nome feminino	ro|[man]|za
+romão	adjetivo	ro|[mão]
+romão	nome masculino	ro|[mão]
+romãozinho	nome masculino	ro|[mão]|zi|nho
+romaria	nome feminino	ro|ma|[ri]|a
+romãzeira	nome feminino	ro|[mã]|zei|ra
+romãzeiral	nome masculino	ro|[mã]|zei|ral
+rômbico	adjetivo	[rôm]|bi|co
+rombífero	adjetivo	rom|[bí]|fe|ro
+rombifoliado	adjetivo	rom|bi|fo|li|[a]|do
+rombifólio	adjetivo	rom|bi|[fó]|li|o
+rombiforme	adjetivo	rom|bi|[for]|me
+rombo	nome masculino	[rom]|bo
+rombo	adjetivo	[rom]|bo
+rombocéfalo	nome masculino	rom|bo|[cé]|fa|lo
+rombododecaedro	nome masculino	rom|bo|do|de|ca|[e]|dro
+romboédrico	adjetivo	rom|bo|[é]|dri|co
+romboedro	nome masculino	rom|bo|[e]|dro
+romboglosso	nome masculino	rom|bo|[glos]|so
+romboidal	adjetivo	rom|boi|[dal]
+romboidal	nome masculino	rom|boi|[dal]
+romboide	adjetivo	rom|[boi]|de
+romboide	nome masculino	rom|[boi]|de
+rombopalpo	nome masculino	rom|bo|[pal]|po
+rombospermo	adjetivo	rom|bos|[per]|mo
+rombósporo	nome masculino	rom|[bós]|po|ro
+rombudo	adjetivo	rom|[bu]|do
+romeína	nome feminino	ro|me|[í]|na
+romeira	nome feminino	ro|[mei]|ra
+romeiral	nome masculino	ro|mei|[ral]
+romeirinho	nome masculino	ro|mei|[ri]|nho

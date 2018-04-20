@@ -1,0 +1,100 @@
+bibliotécnico	nome masculino	bi|bli|o|[téc]|ni|co
+bibliotécnico	adjetivo	bi|bli|o|[téc]|ni|co
+bibliotecografia	nome feminino	bi|bli|o|te|co|gra|[fi]|a
+bibliotecográfico	adjetivo	bi|bli|o|te|co|[grá]|fi|co
+biblioteconomia	nome feminino	bi|bli|o|te|co|no|[mi]|a
+biblioteconômico	adjetivo	bi|bli|o|te|co|[nô]|mi|co
+biblioteconómico	adjetivo	bi|bli|o|te|co|[nó]|mi|co
+biblismo	nome masculino	bi|[blis]|mo
+biblista	nome masculino	bi|[blis]|ta
+biblista	nome feminino	bi|[blis]|ta
+biblística	nome feminino	bi|[blís]|ti|ca
+biblístico	adjetivo	bi|[blís]|ti|co
+bibó	nome masculino	bi|[bó]
+bibo	nome masculino	[bi]|bo
+biboca	nome feminino	bi|[bo]|ca
+bibói	nome masculino	bi|[bói]
+biboqueira	nome feminino	bi|bo|[quei]|ra
+bibra	nome feminino	[bi]|bra
+bibracteado	adjetivo	bi|brac|te|[a]|do
+bibrácteo	adjetivo	bi|[brác]|te|o
+bibracteolado	adjetivo	bi|brac|te|o|[la]|do
+bíbroco	adjetivo	[bí]|bro|co
+bíbroco	nome masculino	[bí]|bro|co
+bíbulo	adjetivo	[bí]|bu|lo
+biça	nome feminino	[bi]|ça
+bica	nome feminino	[bi]|ca
+bicaço	nome masculino	bi|[ca]|ço
+bicada	nome feminino	bi|[ca]|da
+bicado	adjetivo	bi|[ca]|do
+bical	nome masculino	bi|[cal]
+bical	adjetivo	bi|[cal]
+bical	nome feminino	bi|[cal]
+bicalado	nome masculino	bi|ca|[la]|do
+bicaliculado	adjetivo	bi|ca|li|cu|[la]|do
+bicamaral	nome masculino	bi|ca|ma|[ral]
+bicame	nome masculino	bi|[ca]|me
+bicameral	adjetivo	bi|ca|me|[ral]
+bicameralismo	nome masculino	bi|ca|me|ra|[lis]|mo
+bicameralista	adjetivo	bi|ca|me|ra|[lis]|ta
+bicampeã	nome feminino	bi|cam|pe|[ã]
+bicampeão	nome masculino	bi|cam|pe|[ão]
+bicampeão	adjetivo	bi|cam|pe|[ão]
+bicanca	nome masculino	bi|[can]|ca
+bicanca	nome feminino	bi|[can]|ca
+bicanço	nome masculino	bi|[can]|ço
+bicancra	adjetivo	bi|[can]|cra
+bicancra	nome masculino	bi|[can]|cra
+bicancra	nome feminino	bi|[can]|cra
+bicancudo	adjetivo	bi|can|[cu]|do
+bicançudo	nome masculino	bi|can|[çu]|do
+bicão	nome masculino	bi|[cão]
+bicão	adjetivo	bi|[cão]
+bicapsulado	adjetivo	bi|cap|su|[la]|do
+bicapsular	adjetivo	bi|cap|su|[lar]
+bicar	verbo	bi|[car]
+bicaracterística	nome feminino	bi|ca|rac|te|[rís]|ti|ca
+bicaraterística	nome feminino	bi|ca|ra|te|[rís]|ti|ca
+bicarbonado	adjetivo	bi|car|bo|[na]|do
+bicarbonarado	adjetivo	bi|car|bo|na|[ra]|do
+bicarbonatado	adjetivo	bi|car|bo|na|[ta]|do
+bicarbonato	nome masculino	bi|car|bo|[na]|to
+bicarboneto	nome masculino	bi|car|bo|[ne]|to
+bicarbureto	nome masculino	bi|car|bu|[re]|to
+bicardia	nome feminino	bi|car|[di]|a
+bicarenado	adjetivo	bi|ca|re|[na]|do
+bicarpelado	adjetivo	bi|car|pe|[la]|do
+bicatenário	adjetivo	bi|ca|te|[ná]|ri|o
+bicato	nome masculino	bi|[ca]|to
+bicaudado	adjetivo	bi|cau|[da]|do
+bicaude	adjetivo	bi|[cau]|de
+bicefalia	nome feminino	bi|ce|fa|[li]|a
+bicéfalo	adjetivo	bi|[cé]|fa|lo
+bicelular	adjetivo	bi|ce|lu|[lar]
+bicentenário	nome masculino	bi|cen|te|[ná]|ri|o
+bicentenário	adjetivo	bi|cen|te|[ná]|ri|o
+bíceps	nome masculino	[bí]|ceps
+bicha	nome feminino	[bi]|cha
+bicha de rabear	nome feminino	[bi]|cha de ra|be|ar
+bicha de sete cabeças	nome feminino	[bi]|cha de se|te ca|be|ças
+bicha-amarela	nome feminino	bi|cha-a|ma|[re]|la
+bicha-barbeira	nome feminino	bi|cha-bar|[bei]|ra
+bicha-cadela	nome feminino	bi|cha-ca|[de]|la
+bicha-do-milho	nome feminino	bi|cha-do-mi|lho
+bicha-galo	nome feminino	bi|cha-ga|lo
+bicha-solitária	nome feminino	bi|cha-so|li|[tá]|ri|a
+bichaço	nome masculino	bi|[cha]|ço
+bichado	adjetivo	bi|[cha]|do
+bichana	nome feminino	bi|[cha]|na
+bichanada	nome feminino	bi|cha|[na]|da
+bichanado	adjetivo	bi|cha|[na]|do
+bichanar	verbo	bi|cha|[nar]
+bichancrice	nome feminino	bi|chan|[cri]|ce
+bichancros	nome masculino	bi|[chan]|cros
+bichaneira	nome feminino	bi|cha|[nei]|ra
+bichaneiro	adjetivo	bi|cha|[nei]|ro
+bichanice	nome feminino	bi|cha|[ni]|ce
+bichaninha	nome feminino	bi|cha|[ni]|nha
+bichano	nome masculino	bi|[cha]|no
+bichão	nome masculino	bi|[chão]
+bichar	verbo	bi|[char]

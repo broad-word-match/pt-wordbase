@@ -1,0 +1,100 @@
+salvacionista	nome feminino	sal|va|ci|o|[nis]|ta
+salvada	nome feminino	sal|[va]|da
+salvádego	adjetivo	sal|[vá]|de|go
+salvádego	nome masculino	sal|[vá]|de|go
+salvado	nome masculino	sal|[va]|do
+salvador	nome masculino	sal|va|[dor]
+salvador	adjetivo	sal|va|[dor]
+salvadora	nome feminino	sal|va|[do]|ra
+salvadorácea	nome feminino	sal|va|do|[rá]|ce|a
+salvadorenha	nome feminino	sal|va|do|[re]|nha
+salvadorenho	adjetivo	sal|va|do|[re]|nho
+salvadorenho	nome masculino	sal|va|do|[re]|nho
+salvadorense	adjetivo	sal|va|do|[ren]|se
+salvadorense	nome masculino	sal|va|do|[ren]|se
+salvadorense	nome feminino	sal|va|do|[ren]|se
+salvados	nome masculino	sal|[va]|dos
+salvagem	nome feminino	sal|[va]|gem
+salvagem	nome masculino	sal|[va]|gem
+salvagino	adjetivo	sal|va|[gi]|no
+salvaguarda	nome feminino	sal|va|[guar]|da
+salvaguardar	verbo	sal|va|guar|[dar]
+salvamento	nome masculino	sal|va|[men]|to
+salvanda	nome feminino	sal|[van]|da
+salvante	preposição	sal|[van]|te
+salvante	adjetivo	sal|[van]|te
+salvar	verbo	sal|[var]
+salvarana	nome feminino	sal|va|[ra]|na
+salvatela	adjetivo	sal|va|[te]|la
+salvatela	nome feminino	sal|va|[te]|la
+salvatério	nome masculino	sal|va|[té]|ri|o
+salvaterra	nome feminino	sal|va|[ter]|ra
+salvaterriana	nome feminino	sal|va|ter|ri|[a]|na
+salvaterriano	adjetivo	sal|va|ter|ri|[a]|no
+salvaterriano	nome masculino	sal|va|ter|ri|[a]|no
+salvatoriana	nome feminino	sal|va|to|ri|[a]|na
+salvatoriano	adjetivo	sal|va|to|ri|[a]|no
+salvatoriano	nome masculino	sal|va|to|ri|[a]|no
+salvável	adjetivo	sal|[vá]|vel
+salve	interjeição	[sal]|ve
+salve	nome masculino	[sal]|ve
+salve-rainha	nome feminino	sal|ve-ra|[i]|nha
+salve-regina	nome feminino	sal|ve-re|[gi]|na
+salveta	nome feminino	sal|[ve]|ta
+sálvia	nome feminino	[sál]|vi|a
+salvífico	adjetivo	sal|[ví]|fi|co
+salvínia	nome feminino	sal|[ví]|ni|a
+salviniácea	nome feminino	sal|vi|ni|[á]|ce|a
+salviniáceo	adjetivo	sal|vi|ni|[á]|ce|o
+salvo	adjetivo	[sal]|vo
+salvo	preposição	[sal]|vo
+salvo-conduto	nome masculino	sal|vo-con|[du]|to
+sama	nome feminino	[sa]|ma
+samabumbulo	nome masculino	sa|ma|bum|[bu]|lo
+samagaio	nome masculino	sa|ma|[gai]|o
+sâmago	nome masculino	[sâ]|ma|go
+samambaia	nome feminino	sa|mam|[bai]|a
+samambaial	nome masculino	sa|mam|bai|[al]
+samambaiuçu	nome masculino	sa|mam|bai|u|[çu]
+samanco	nome masculino	sa|[man]|co
+samangar	verbo	sa|man|[gar]
+samango	nome masculino	sa|[man]|go
+samanguaiá	nome masculino	sa|man|guai|[á]
+sâmara	nome feminino	[sâ]|ma|ra
+samarídio	nome masculino	sa|ma|[rí]|di|o
+samarinês	adjetivo	sa|ma|ri|[nês]
+samarinês	nome masculino	sa|ma|ri|[nês]
+samário	nome masculino	sa|[má]|ri|o
+samarita	nome feminino	sa|ma|[ri]|ta
+samarita	adjetivo	sa|ma|[ri]|ta
+samarita	nome masculino	sa|ma|[ri]|ta
+samaritanismo	nome masculino	sa|ma|ri|ta|[nis]|mo
+samaritano	adjetivo	sa|ma|ri|[ta]|no
+samaritano	nome masculino	sa|ma|ri|[ta]|no
+samarkiano	nome masculino	sa|mar|ki|a|no
+samarra	nome masculino	sa|[mar]|ra
+samarra	nome feminino	sa|[mar]|ra
+samarrão	nome masculino	sa|mar|[rão]
+samarreiro	nome masculino	sa|mar|[rei]|ro
+samarrinho	nome masculino	sa|mar|[ri]|nho
+samarro	nome masculino	sa|[mar]|ro
+samarskita	nome feminino	sa|mars|ki|ta
+samarskite	nome feminino	sa|mars|ki|te
+samartinhego	nome masculino	sa|mar|ti|[nhe]|go
+samatra	nome feminino	sa|[ma]|tra
+samaúma	nome feminino	sa|ma|[ú]|ma
+samaumeira	nome feminino	sa|mau|[mei]|ra
+samba	nome feminino	[sam]|ba
+samba	nome masculino	[sam]|ba
+samba-canção	nome masculino	sam|ba-can|[ção]
+sambacaeté	nome masculino	sam|ba|ca|e|[té]
+sambacuim	nome masculino	sam|ba|cu|[im]
+sambador	adjetivo	sam|ba|[dor]
+sambador	nome masculino	sam|ba|[dor]
+sambaíba	nome feminino	sam|ba|[í]|ba
+sambaibinha	nome feminino	sam|bai|[bi]|nha
+sambambaia	nome feminino	sam|bam|[bai]|a
+sambambaial	nome masculino	sam|bam|bai|[al]
+sambanga	adjetivo	sam|[ban]|ga
+sambaqui	nome masculino	sam|ba|[qui]
+sambar	verbo	sam|[bar]

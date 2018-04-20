@@ -1,0 +1,100 @@
+subvencional	adjetivo	sub|ven|ci|o|[nal]
+subvencionar	verbo	sub|ven|ci|o|[nar]
+subvencionável	adjetivo	sub|ven|ci|o|[ná]|vel
+subvencionista	adjetivo	sub|ven|ci|o|[nis]|ta
+subvencionista	nome masculino	sub|ven|ci|o|[nis]|ta
+subvencionista	nome feminino	sub|ven|ci|o|[nis]|ta
+subventâneo	adjetivo	sub|ven|[tâ]|ne|o
+subventral	adjetivo	sub|ven|[tral]
+subversão	nome feminino	sub|ver|[são]
+subversivamente	advérbio	sub|ver|si|va|[men]|te
+subversividade	nome feminino	sub|ver|si|vi|[da]|de
+subversivo	adjetivo	sub|ver|[si]|vo
+subversor	adjetivo	sub|ver|[sor]
+subversor	nome masculino	sub|ver|[sor]
+subversora	nome feminino	sub|ver|[so]|ra
+subvertedor	adjetivo	sub|ver|te|[dor]
+subvertedor	nome masculino	sub|ver|te|[dor]
+subverter	verbo	sub|ver|[ter]
+subvertimento	nome masculino	sub|ver|ti|[men]|to
+subvéspero	nome masculino	sub|[vés]|pe|ro
+subviragem	nome feminino	sub|vi|[ra]|gem
+subwoofer	nome masculino	sub|wo|o|[fer]
+subzona	nome feminino	sub|[zo]|na
+suca	interjeição	[su]|ca
+sucanga	nome feminino	su|[can]|ga
+sução	nome feminino	su|[ção]
+sucar	verbo	su|[car]
+sucará	nome feminino	su|ca|[rá]
+sucará	nome masculino	su|ca|[rá]
+sucata	nome feminino	su|[ca]|ta
+sucatar	verbo	su|ca|[tar]
+sucateamento	nome masculino	su|ca|te|a|[men]|to
+sucatear	verbo	su|ca|te|[ar]
+sucateira	nome feminino	su|ca|[tei]|ra
+sucateiro	nome masculino	su|ca|[tei]|ro
+sucção	nome feminino	suc|[ção]
+succionar	verbo	suc|ci|o|[nar]
+sucedaneamente	advérbio	su|ce|da|ne|a|[men]|te
+sucedâneo	nome masculino	su|ce|[dâ]|ne|o
+sucedâneo	adjetivo	su|ce|[dâ]|ne|o
+suceder	verbo	su|ce|[der]
+sucedido	adjetivo	su|ce|[di]|do
+sucedido	nome masculino	su|ce|[di]|do
+sucedimento	nome masculino	su|ce|di|[men]|to
+sucedo	nome masculino	su|[ce]|do
+sucenturiado	adjetivo	su|cen|tu|ri|[a]|do
+sucessão	nome feminino	su|ces|[são]
+sucessibilidade	nome feminino	su|ces|si|bi|li|[da]|de
+sucessivamente	advérbio	su|ces|si|va|[men]|te
+sucessível	adjetivo	su|ces|[sí]|vel
+sucessível	nome masculino	su|ces|[sí]|vel
+sucessível	nome feminino	su|ces|[sí]|vel
+sucessividade	nome feminino	su|ces|si|vi|[da]|de
+sucessivo	adjetivo	su|ces|[si]|vo
+sucesso	nome masculino	su|[ces]|so
+sucessor	adjetivo	su|ces|[sor]
+sucessor	nome masculino	su|ces|[sor]
+sucessora	nome feminino	su|ces|[so]|ra
+sucessoral	adjetivo	su|ces|so|[ral]
+sucessoriamente	advérbio	su|ces|so|ri|a|[men]|te
+sucessório	adjetivo	su|ces|[só]|ri|o
+sucho	nome masculino	[su]|cho
+súcia	nome feminino	[sú]|ci|a
+suciar	verbo	su|ci|[ar]
+suciata	nome feminino	su|ci|[a]|ta
+sucinato	nome masculino	su|ci|[na]|to
+sucínea	nome feminino	su|[cí]|ne|a
+sucíneo	adjetivo	su|[cí]|ne|o
+sucínico	adjetivo	su|[cí]|ni|co
+sucinite	nome feminino	su|ci|[ni]|te
+súcino	nome masculino	[sú]|ci|no
+sucintamente	advérbio	su|cin|ta|[men]|te
+sucinto	adjetivo	su|[cin]|to
+súcio	adjetivo	[sú]|ci|o
+súcio	nome masculino	[sú]|ci|o
+suco	nome masculino	[su]|co
+sucosidade	nome feminino	su|co|si|[da]|de
+sucoso	adjetivo	su|[co]|so
+sucre	nome masculino	[su]|cre
+sucrinha	nome feminino	su|[cri]|nha
+sucrose	nome feminino	su|[cro]|se
+suctório	nome masculino	suc|[tó]|ri|o
+suctório	adjetivo	suc|[tó]|ri|o
+sucuabo	nome masculino	su|cu|[a]|bo
+suçuaia	nome feminino	su|çu|[ai]|a
+suçuapara	nome masculino	su|çu|a|[pa]|ra
+suçuarana	nome masculino	su|çu|a|[ra]|na
+súcuba	nome feminino	[sú]|cu|ba
+sucubato	nome masculino	su|cu|[ba]|to
+sucúbico	adjetivo	su|[cú]|bi|co
+súcubo	nome masculino	[sú]|cu|bo
+súcubo	adjetivo	[sú]|cu|bo
+suculência	nome feminino	su|cu|[lên]|ci|a
+suculentamente	advérbio	su|cu|len|ta|[men]|te
+suculêntea	nome feminino	su|cu|[lên]|te|a
+suculento	adjetivo	su|cu|[len]|to
+sucumbência	nome feminino	su|cum|[bên]|ci|a
+sucumbido	adjetivo	su|cum|[bi]|do
+sucumbimento	nome masculino	su|cum|bi|[men]|to
+sucumbir	verbo	su|cum|[bir]

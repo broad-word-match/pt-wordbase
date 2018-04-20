@@ -1,0 +1,100 @@
+estipular	adjetivo	es|ti|pu|[lar]
+estipulável	adjetivo	es|ti|pu|[lá]|vel
+estipuliforme	adjetivo	es|ti|pu|li|[for]|me
+estipuloso	adjetivo	es|ti|pu|[lo]|so
+estíquico	adjetivo	es|[tí]|qui|co
+estira	nome feminino	es|[ti]|ra
+estiracácea	nome feminino	es|ti|ra|[cá]|ce|a
+estiracáceo	adjetivo	es|ti|ra|[cá]|ce|o
+estiraçar	verbo	es|ti|ra|[çar]
+estírace	nome masculino	es|[tí]|ra|ce
+estiraço	nome masculino	es|ti|[ra]|ço
+estirada	nome feminino	es|ti|[ra]|da
+estiradeira	nome feminino	es|ti|ra|[dei]|ra
+estirado	adjetivo	es|ti|[ra]|do
+estirador	nome masculino	es|ti|ra|[dor]
+estirador	adjetivo	es|ti|ra|[dor]
+estiragem	nome feminino	es|ti|[ra]|gem
+estiramento	nome masculino	es|ti|ra|[men]|to
+estiranço	nome masculino	es|ti|[ran]|ço
+estirão	nome masculino	es|ti|[rão]
+estirar	verbo	es|ti|[rar]
+estireno	nome masculino	es|ti|[re]|no
+estireu	adjetivo	es|ti|[reu]
+estireu	nome masculino	es|ti|[reu]
+estírio	adjetivo	es|[tí]|ri|o
+estírio	nome masculino	es|[tí]|ri|o
+estirita	adjetivo	es|ti|[ri]|ta
+estirita	nome masculino	es|ti|[ri]|ta
+estirita	nome feminino	es|ti|[ri]|ta
+estirote	nome masculino	es|ti|[ro]|te
+estirpe	nome feminino	es|[tir]|pe
+estirpicultura	nome feminino	es|tir|pi|cul|[tu]|ra
+estítico	adjetivo	es|[tí]|ti|co
+estiva	nome feminino	es|[ti]|va
+estivação	nome feminino	es|ti|va|[ção]
+estivado	adjetivo	es|ti|[va]|do
+estivador	adjetivo	es|ti|va|[dor]
+estivador	nome masculino	es|ti|va|[dor]
+estivagem	nome feminino	es|ti|[va]|gem
+estival	adjetivo	es|ti|[val]
+estival	nome masculino	es|ti|[val]
+estivar	verbo	es|ti|[var]
+estivo	adjetivo	es|[ti]|vo
+esto	nome masculino	[es]|to
+estocada	nome feminino	es|to|[ca]|da
+estocar	verbo	es|to|[car]
+estocástico	adjetivo	es|to|[cás]|ti|co
+estocável	adjetivo	es|to|[cá]|vel
+estofa	nome feminino	es|[to]|fa
+estofado	nome masculino	es|to|[fa]|do
+estofado	adjetivo	es|to|[fa]|do
+estofador	nome masculino	es|to|fa|[dor]
+estofador	adjetivo	es|to|fa|[dor]
+estofadora	nome feminino	es|to|fa|[do]|ra
+estofamento	nome masculino	es|to|fa|[men]|to
+estofar	verbo	es|to|[far]
+estofo	adjetivo	es|[to]|fo
+estofo	nome masculino	es|[to]|fo
+estoica	nome feminino	es|[toi]|ca
+estoicamente	advérbio	es|toi|ca|[men]|te
+estoicidade	nome feminino	es|toi|ci|[da]|de
+estoicismo	nome masculino	es|toi|[cis]|mo
+estoico	adjetivo	es|[toi]|co
+estoico	nome masculino	es|[toi]|co
+estoira-fole	nome masculino	es|toi|ra-fo|le
+estoira-vergas	nome masculino	es|toi|ra-ver|gas
+estoira-vergas	nome feminino	es|toi|ra-ver|gas
+estoiraço	nome masculino	es|toi|[ra]|ço
+estoirada	nome feminino	es|toi|[ra]|da
+estoiradinho	nome masculino	es|toi|ra|[di]|nho
+estoirado	adjetivo	es|toi|[ra]|do
+estoirado	nome masculino	es|toi|[ra]|do
+estoirar	verbo	es|toi|[rar]
+estoiraria	nome feminino	es|toi|ra|[ri]|a
+estoiraz	adjetivo	es|toi|[raz]
+estoirinhar	verbo	es|toi|ri|[nhar]
+estoiro	nome masculino	es|[toi]|ro
+estojar	verbo	es|to|[jar]
+estojaria	nome feminino	es|to|ja|[ri]|a
+estojeiro	nome masculino	es|to|[jei]|ro
+estojo	nome masculino	es|[to]|jo
+estola	nome feminino	es|[to]|la
+estolão	nome masculino	es|to|[lão]
+estolho	nome masculino	es|[to]|lho
+estolhosa	nome feminino	es|to|[lho]|sa
+estolhoso	adjetivo	es|to|[lho]|so
+estolidamente	advérbio	es|to|li|da|[men]|te
+estolidez	nome feminino	es|to|li|[dez]
+estólido	adjetivo	es|[tó]|li|do
+estolonífero	adjetivo	es|to|lo|[ní]|fe|ro
+estoloniforme	adjetivo	es|to|lo|ni|[for]|me
+estoma	nome masculino	es|[to]|ma
+estomacal	adjetivo	es|to|ma|[cal]
+estomagar	verbo	es|to|ma|[gar]
+estômago	nome masculino	es|[tô]|ma|go
+estomáquico	adjetivo	es|to|[má]|qui|co
+estomatalgia	nome feminino	es|to|ma|tal|[gi]|a
+estomatálgico	adjetivo	es|to|ma|[tál]|gi|co
+estomático	adjetivo	es|to|[má]|ti|co
+estomatite	nome feminino	es|to|ma|[ti]|te

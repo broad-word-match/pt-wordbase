@@ -1,0 +1,100 @@
+paraelétrico	adjetivo	pa|ra|e|[lé]|tri|co
+paraense	adjetivo	pa|ra|[en]|se
+paraense	nome masculino	pa|ra|[en]|se
+paraense	nome feminino	pa|ra|[en]|se
+paraescolar	adjetivo	pa|ra|es|co|[lar]
+paraestatal	adjetivo	pa|ra|es|ta|[tal]
+parafasia	nome feminino	pa|ra|fa|[si]|a
+parafásico	adjetivo	pa|ra|[fá]|si|co
+parafático	adjetivo	pa|ra|[fá]|ti|co
+parafemia	nome feminino	pa|ra|fe|[mi]|a
+parafémico	adjetivo	pa|ra|[fé]|mi|co
+parafêmico	adjetivo	pa|ra|[fê]|mi|co
+parafernais	nome masculino	pa|ra|fer|[nais]
+parafernal	adjetivo	pa|ra|fer|[nal]
+parafernália	nome feminino	pa|ra|fer|[ná]|li|a
+parafernalidade	nome feminino	pa|ra|fer|na|li|[da]|de
+parafilia	nome feminino	pa|ra|fi|[li]|a
+parafimose	nome feminino	pa|ra|fi|[mo]|se
+parafina	nome feminino	pa|ra|[fi]|na
+parafinagem	nome feminino	pa|ra|fi|[na]|gem
+parafinar	verbo	pa|ra|fi|[nar]
+parafinaria	nome feminino	pa|ra|fi|na|[ri]|a
+parafínico	adjetivo	pa|ra|[fí]|ni|co
+parafinização	nome feminino	pa|ra|fi|ni|za|[ção]
+parafinizar	verbo	pa|ra|fi|ni|[zar]
+parafinizar	nome feminino	pa|ra|fi|ni|[zar]
+parafiscal	adjetivo	pa|ra|fis|[cal]
+parafiscalidade	nome feminino	pa|ra|fis|ca|li|[da]|de
+paráfise	nome feminino	pa|[rá]|fi|se
+parafitas	nome masculino	pa|ra|[fi]|tas
+parafonia	nome feminino	pa|ra|fo|[ni]|a
+parafônico	adjetivo	pa|ra|[fô]|ni|co
+parafónico	adjetivo	pa|ra|[fó]|ni|co
+parafonista	nome masculino	pa|ra|fo|[nis]|ta
+parafosfato	nome masculino	pa|ra|fos|[fa]|to
+parafosfórico	adjetivo	pa|ra|fos|[fó]|ri|co
+paráfrase	nome feminino	pa|[rá]|fra|se
+parafraseador	nome masculino	pa|ra|fra|se|a|[dor]
+parafraseadora	nome feminino	pa|ra|fra|se|a|[do]|ra
+parafrasear	verbo	pa|ra|fra|se|[ar]
+parafraseável	adjetivo	pa|ra|fra|se|[á]|vel
+parafrasia	nome feminino	pa|ra|fra|[si]|a
+parafrasta	nome masculino	pa|ra|[fras]|ta
+parafrasta	nome feminino	pa|ra|[fras]|ta
+parafraste	nome masculino	pa|ra|[fras]|te
+parafraste	nome feminino	pa|ra|[fras]|te
+parafrasticamente	advérbio	pa|ra|fras|ti|ca|[men]|te
+parafrástico	adjetivo	pa|ra|[frás]|ti|co
+parafrenia	nome feminino	pa|ra|fre|[ni]|a
+parafrénico	adjetivo	pa|ra|[fré]|ni|co
+parafrênico	adjetivo	pa|ra|[frê]|ni|co
+parafrônico	adjetivo	pa|ra|[frô]|ni|co
+parafrónico	adjetivo	pa|ra|[fró]|ni|co
+parafrósina	nome feminino	pa|ra|[fró]|si|na
+parafusa	nome feminino	pa|ra|[fu]|sa
+parafusação	nome feminino	pa|ra|fu|sa|[ção]
+parafusador	adjetivo	pa|ra|fu|sa|[dor]
+parafusador	nome masculino	pa|ra|fu|sa|[dor]
+parafusante	adjetivo	pa|ra|fu|[san]|te
+parafusão	nome masculino	pa|ra|fu|[são]
+parafusar	verbo	pa|ra|fu|[sar]
+parafusaria	nome feminino	pa|ra|fu|sa|[ri]|a
+parafuso	nome masculino	pa|ra|[fu]|so
+paragamacismo	nome masculino	pa|ra|ga|ma|[cis]|mo
+paragão	nome masculino	pa|ra|[gão]
+paragem	nome feminino	pa|[ra]|gem
+paragênese	nome feminino	pa|ra|[gê]|ne|se
+paragénese	nome feminino	pa|ra|[gé]|ne|se
+paragenesia	nome feminino	pa|ra|ge|ne|[si]|a
+paragenésico	adjetivo	pa|ra|ge|[né]|si|co
+paragenético	adjetivo	pa|ra|ge|[né]|ti|co
+parageusia	nome feminino	pa|ra|geu|[si]|a
+paraglobulina	nome feminino	pa|ra|glo|bu|[li]|na
+paragnaisse	nome masculino	pa|rag|[nais]|se
+parágnato	adjetivo	pa|[rág]|na|to
+parágnato	nome masculino	pa|[rág]|na|to
+paragoge	nome feminino	pa|ra|[go]|ge
+paragogicamente	advérbio	pa|ra|go|gi|ca|[men]|te
+paragógico	adjetivo	pa|ra|[gó]|gi|co
+paragonar	verbo	pa|ra|go|[nar]
+paragrafação	nome feminino	pa|ra|gra|fa|[ção]
+paragrafar	verbo	pa|ra|gra|[far]
+paragrafia	nome feminino	pa|ra|gra|[fi]|a
+paragráfico	adjetivo	pa|ra|[grá]|fi|co
+parágrafo	nome masculino	pa|[rá]|gra|fo
+paragrama	nome masculino	pa|ra|[gra]|ma
+paragramatismo	nome masculino	pa|ra|gra|ma|[tis]|mo
+paraguaia	nome feminino	pa|ra|[guai]|a
+paraguaiano	adjetivo	pa|ra|guai|[a]|no
+paraguaiano	nome masculino	pa|ra|guai|[a]|no
+paraguaio	adjetivo	pa|ra|[guai]|o
+paraguaio	nome masculino	pa|ra|[guai]|o
+paraguatã	nome masculino	pa|ra|gua|[tã]
+paraíba	nome feminino	pa|ra|[í]|ba
+paraíbana	nome feminino	pa|ra|[í]|ba|na
+paraíbano	adjetivo	pa|ra|[í]|ba|no
+paraíbano	nome masculino	pa|ra|[í]|ba|no
+paraidrogênio	nome masculino	pa|rai|dro|[gê]|ni|o
+paraidrogénio	nome masculino	pa|rai|dro|[gé]|ni|o
+paraíso	nome masculino	pa|ra|[í]|so

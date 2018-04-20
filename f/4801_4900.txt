@@ -1,0 +1,100 @@
+fosforino	nome masculino	fos|fo|[ri]|no
+fosforismo	nome masculino	fos|fo|[ris]|mo
+fosforista	adjetivo	fos|fo|[ris]|ta
+fosforista	nome masculino	fos|fo|[ris]|ta
+fosforista	nome feminino	fos|fo|[ris]|ta
+fosforita	nome feminino	fos|fo|[ri]|ta
+fosforite	nome feminino	fos|fo|[ri]|te
+fosforito	nome masculino	fos|fo|[ri]|to
+fosforização	nome feminino	fos|fo|ri|za|[ção]
+fosforizar	verbo	fos|fo|ri|[zar]
+fósforo	nome masculino	[fós]|fo|ro
+fosforocalcite	nome feminino	fos|fo|ro|cal|[ci]|te
+fosforóforo	adjetivo	fos|fo|[ró]|fo|ro
+fosforogéneo	adjetivo	fos|fo|ro|[gé]|ne|o
+fosforogêneo	adjetivo	fos|fo|ro|[gê]|ne|o
+fosforoglicerato	nome masculino	fos|fo|ro|gli|ce|[ra]|to
+fosforoglicérico	adjetivo	fos|fo|ro|gli|[cé]|ri|co
+fosforoscópio	nome masculino	fos|fo|ros|[có]|pi|o
+fosforoso	adjetivo	fos|fo|[ro]|so
+fosforossiderite	nome feminino	fos|fo|ros|si|de|[ri]|te
+fosga	nome feminino	[fos]|ga
+fosgênio	nome masculino	fos|[gê]|ni|o
+fosgénio	nome masculino	fos|[gé]|ni|o
+fósmea	nome feminino	[fós]|me|a
+fósmeo	adjetivo	[fós]|me|o
+foso	adjetivo	[fo]|so
+foso	nome masculino	[fo]|so
+fosquinha	nome feminino	fos|[qui]|nha
+fosquista	nome masculino	fos|[quis]|ta
+fosquista	nome feminino	fos|[quis]|ta
+fossa	nome feminino	[fos]|sa
+fossa-moira	nome feminino	fos|sa-moi|ra
+fossa-moura	nome feminino	fos|sa-mou|ra
+fossada	nome feminino	fos|[sa]|da
+fossadeira	nome feminino	fos|sa|[dei]|ra
+fossado	nome masculino	fos|[sa]|do
+fossado	adjetivo	fos|[sa]|do
+fossador	adjetivo	fos|sa|[dor]
+fossador	nome masculino	fos|sa|[dor]
+fossalista	nome masculino	fos|sa|[lis]|ta
+fossalista	nome feminino	fos|sa|[lis]|ta
+fossanguice	nome feminino	fos|san|[gui]|ce
+fossão	adjetivo	fos|[são]
+fossão	nome masculino	fos|[são]
+fossar	verbo	fos|[sar]
+fossário	nome masculino	fos|[sá]|ri|o
+fosseta	nome feminino	fos|[se]|ta
+fossetado	adjetivo	fos|se|[ta]|do
+fossete	nome masculino	fos|[se]|te
+fossiforme	adjetivo	fos|si|[for]|me
+fóssil	adjetivo	[fós]|sil
+fóssil	nome masculino	[fós]|sil
+fossilidade	nome feminino	fos|si|li|[da]|de
+fossilífero	adjetivo	fos|si|[lí]|fe|ro
+fossilificar	verbo	fos|si|li|fi|[car]
+fossilismo	nome masculino	fos|si|[lis]|mo
+fossilista	nome masculino	fos|si|[lis]|ta
+fossilista	nome feminino	fos|si|[lis]|ta
+fossilização	nome feminino	fos|si|li|za|[ção]
+fossilizado	adjetivo	fos|si|li|[za]|do
+fossilizar	verbo	fos|si|li|[zar]
+fossípede	adjetivo	fos|[sí]|pe|de
+fossípede	nome masculino	fos|[sí]|pe|de
+fosso	nome masculino	[fos]|so
+fossona	nome feminino	fos|[so]|na
+fóssula	nome feminino	[fós]|su|la
+foste	nome masculino	[fos]|te
+fot	nome masculino	[fot]
+fota	nome feminino	[fo]|ta
+fotã	nome masculino	fo|[tã]
+fotão	nome masculino	fo|[tão]
+foteado	adjetivo	fo|te|[a]|do
+fotear	verbo	fo|te|[ar]
+fotelectrão	nome masculino	fo|te|lec|[trão]
+foteléctrico	adjetivo	fo|te|[léc]|tri|co
+foteletrão	nome masculino	fo|te|le|[trão]
+foteletricidade	nome feminino	fo|te|le|tri|ci|[da]|de
+fotelétrico	adjetivo	fo|te|[lé]|tri|co
+fotelétron	nome masculino	fo|te|[lé]|tron
+foteliografia	nome feminino	fo|te|li|o|gra|[fi]|a
+foteliográfico	adjetivo	fo|te|li|o|[grá]|fi|co
+foteliógrafo	nome masculino	fo|te|li|[ó]|gra|fo
+fótico	adjetivo	[fó]|ti|co
+fotínia	nome feminino	fo|[tí]|ni|a
+fotiniano	adjetivo	fo|ti|ni|[a]|no
+fotiniano	nome masculino	fo|ti|ni|[a]|no
+fotismo	nome masculino	fo|[tis]|mo
+foto	nome feminino	[fo]|to
+fotobiografia	nome feminino	fo|to|bi|o|gra|[fi]|a
+fotobiologia	nome feminino	fo|to|bi|o|lo|[gi]|a
+fotobiológico	adjetivo	fo|to|bi|o|[ló]|gi|co
+fotocartografia	nome feminino	fo|to|car|to|gra|[fi]|a
+fotocartográfico	adjetivo	fo|to|car|to|[grá]|fi|co
+fotocélula	nome feminino	fo|to|[cé]|lu|la
+fotocerâmica	nome feminino	fo|to|ce|[râ]|mi|ca
+fotocerâmico	adjetivo	fo|to|ce|[râ]|mi|co
+fotocinese	nome feminino	fo|to|ci|[ne]|se
+fotocisão	nome feminino	fo|to|ci|[são]
+fotocolografia	nome feminino	fo|to|co|lo|gra|[fi]|a
+fotocolográfico	adjetivo	fo|to|co|lo|[grá]|fi|co

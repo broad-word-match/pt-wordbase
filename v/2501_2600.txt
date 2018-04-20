@@ -1,0 +1,100 @@
+viciadora	nome feminino	vi|ci|a|[do]|ra
+viciamento	nome masculino	vi|ci|a|[men]|to
+viciante	adjetivo	vi|ci|[an]|te
+viciar	verbo	vi|ci|[ar]
+viciável	adjetivo	vi|ci|[á]|vel
+vicilino	nome masculino	vi|ci|[li]|no
+vicinal	adjetivo	vi|ci|[nal]
+vicinalidade	nome feminino	vi|ci|na|li|[da]|de
+vício	nome masculino	[ví]|ci|o
+viciosa	nome feminino	vi|ci|[o]|sa
+viciosamente	advérbio	vi|ci|o|sa|[men]|te
+viciosidade	nome feminino	vi|ci|o|si|[da]|de
+vicioso	adjetivo	vi|ci|[o]|so
+vicioso	nome masculino	vi|ci|[o]|so
+vicissitude	nome feminino	vi|cis|si|[tu]|de
+vicissitudinário	adjetivo	vi|cis|si|tu|di|[ná]|ri|o
+viço	nome masculino	[vi]|ço
+vicomagíster	nome masculino	vi|co|ma|[gís]|ter
+viçor	nome masculino	vi|[çor]
+viçosamente	advérbio	vi|ço|sa|[men]|te
+viçoso	adjetivo	vi|[ço]|so
+victovalo	adjetivo	vic|to|[va]|lo
+victovalo	nome masculino	vic|to|[va]|lo
+victrice	adjetivo	vic|[tri]|ce
+victrice	nome feminino	vic|[tri]|ce
+victricense	adjetivo	vic|tri|[cen]|se
+victricense	nome masculino	vic|tri|[cen]|se
+victricense	nome feminino	vic|tri|[cen]|se
+vicunha	nome feminino	vi|[cu]|nha
+vida	nome feminino	[vi]|da
+vidama	nome masculino	vi|[da]|ma
+vidamia	nome feminino	vi|da|[mi]|a
+vidão	nome masculino	vi|[dão]
+vidar	verbo	vi|[dar]
+vidar	nome masculino	vi|[dar]
+vide	nome feminino	[vi]|de
+videar	verbo	vi|de|[ar]
+videasta	nome masculino	vi|de|[as]|ta
+videasta	nome feminino	vi|de|[as]|ta
+videira	nome feminino	vi|[dei]|ra
+videirinho	adjetivo	vi|dei|[ri]|nho
+videirinho	nome masculino	vi|dei|[ri]|nho
+videirismo	nome masculino	vi|dei|[ris]|mo
+videirista	adjetivo	vi|dei|[ris]|ta
+videirista	nome masculino	vi|dei|[ris]|ta
+videirista	nome feminino	vi|dei|[ris]|ta
+videiro	adjetivo	vi|[dei]|ro
+videiro	nome masculino	vi|[dei]|ro
+vidência	nome feminino	vi|[dên]|ci|a
+vidente	adjetivo	vi|[den]|te
+vidente	nome masculino	vi|[den]|te
+vidente	nome feminino	vi|[den]|te
+videntismo	nome masculino	vi|den|[tis]|mo
+vídeo	nome masculino	[ví]|de|o
+vídeo	adjetivo	[ví]|de|o
+videoamador	nome masculino	vi|de|o|a|ma|[dor]
+videoarte	nome feminino	vi|de|o|[ar]|te
+videocassete	nome feminino	vi|de|o|cas|[se]|te
+videoclip	nome masculino	vi|deo|clip
+videoclipe	nome masculino	vi|de|o|[cli]|pe
+videoclube	nome masculino	vi|de|o|[clu]|be
+videoconferência	nome feminino	vi|de|o|con|fe|[rên]|ci|a
+videodisco	nome masculino	vi|de|o|[dis]|co
+videofone	nome masculino	vi|de|o|[fo]|ne
+videofrequência	nome feminino	vi|de|o|fre|[quên]|ci|a
+videogame	nome masculino	vi|deo|ga|me
+videograma	nome masculino	vi|de|o|[gra]|ma
+videogravador	nome masculino	vi|de|o|gra|va|[dor]
+videojogo	nome masculino	vi|de|o|[jo]|go
+videolocadora	nome feminino	vi|de|o|lo|ca|[do]|ra
+videoporteiro	nome masculino	vi|de|o|por|[tei]|ro
+videotape	nome masculino	vi|deo|ta|pe
+videoteca	nome feminino	vi|de|o|[te]|ca
+videotelefone	nome masculino	vi|de|o|te|le|[fo]|ne
+videotex	nome masculino	vi|de|o|[tex]
+videotexto	nome masculino	vi|de|o|[tex]|to
+videotransmissão	nome feminino	vi|de|o|trans|mis|[são]
+videovigilância	nome feminino	vi|de|o|vi|gi|[lân]|ci|a
+videowall	nome masculino	vi|deo|wall
+vidiano	adjetivo	vi|di|[a]|no
+vidigueirense	nome masculino	vi|di|guei|[ren]|se
+vidigueirense	adjetivo	vi|di|guei|[ren]|se
+vidigueirense	nome feminino	vi|di|guei|[ren]|se
+vidinha	nome feminino	vi|[di]|nha
+vido	nome masculino	[vi]|do
+vidoeiro	nome masculino	vi|do|[ei]|ro
+vidonha	nome feminino	vi|[do]|nha
+vidonho	nome masculino	vi|[do]|nho
+vidouro	nome masculino	vi|[dou]|ro
+vidraça	nome feminino	vi|[dra]|ça
+vidração	nome feminino	vi|dra|[ção]
+vidraçaria	nome feminino	vi|dra|ça|[ri]|a
+vidraceira	nome feminino	vi|dra|[cei]|ra
+vidraceiro	nome masculino	vi|dra|[cei]|ro
+vidracento	adjetivo	vi|dra|[cen]|to
+vidracista	nome masculino	vi|dra|[cis]|ta
+vidracista	nome feminino	vi|dra|[cis]|ta
+vidraço	nome masculino	vi|[dra]|ço
+vidrado	adjetivo	vi|[dra]|do
+vidrado	nome masculino	vi|[dra]|do

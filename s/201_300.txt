@@ -1,0 +1,100 @@
+sabugalense	adjetivo	sa|bu|ga|[len]|se
+sabugalense	nome feminino	sa|bu|ga|[len]|se
+sabugar	verbo	sa|bu|[gar]
+sabugo	nome masculino	sa|[bu]|go
+sabugueirinho	nome masculino	sa|bu|guei|[ri]|nho
+sabugueiro	nome masculino	sa|bu|[guei]|ro
+sabujar	verbo	sa|bu|[jar]
+sabujice	nome feminino	sa|bu|[ji]|ce
+sabujismo	nome masculino	sa|bu|[jis]|mo
+sabujo	nome masculino	sa|[bu]|jo
+sabulante	nome masculino	sa|bu|[lan]|te
+sabulante	nome feminino	sa|bu|[lan]|te
+sabular	verbo	sa|bu|[lar]
+sabuloso	adjetivo	sa|bu|[lo]|so
+sabura	nome feminino	sa|[bu]|ra
+saburá	nome masculino	sa|bu|[rá]
+saburra	nome masculino	sa|[bur]|ra
+saburra	nome feminino	sa|[bur]|ra
+saburral	adjetivo	sa|bur|[ral]
+saburrar	verbo	sa|bur|[rar]
+saburrento	adjetivo	sa|bur|[ren]|to
+saburrinha	nome feminino	sa|bur|[ri]|nha
+saburrosidade	nome feminino	sa|bur|ro|si|[da]|de
+saburroso	adjetivo	sa|bur|[ro]|so
+saca	nome feminino	[sa]|ca
+saca	nome masculino	[sa]|ca
+saca de carvão	nome masculino	[sa]|ca de car|vão
+saca-balas	nome masculino	sa|ca-ba|las
+saca-bocado	nome masculino	sa|ca-bo|[ca]|do
+saca-bocados	nome masculino	sa|ca-bo|[ca]|dos
+saca-bucha	nome masculino	sa|ca-bu|cha
+saca-buchas	nome masculino	sa|ca-bu|chas
+saca-estrepe	nome masculino	sa|ca-es|[tre]|pe
+saca-filaça	nome feminino	sa|ca-fi|[la]|ça
+saca-filaça	nome masculino	sa|ca-fi|[la]|ça
+saca-fundo	nome masculino	sa|ca-fun|do
+saca-gachetas	nome masculino	sa|ca-ga|[che]|tas
+saca-la-mana	nome masculino	sa|ca-la-ma|na
+saca-metal	nome masculino	sa|ca-me|[tal]
+saca-molas	nome masculino	sa|ca-mo|las
+saca-nabo	nome masculino	sa|ca-na|bo
+saca-peloiro	nome masculino	sa|ca-pe|[loi]|ro
+saca-projétil	nome masculino	sa|ca-pro|[jé]|til
+saca-rabo	nome masculino	sa|ca-ra|bo
+saca-rolhas	nome masculino	sa|ca-ro|lhas
+saca-trapo	nome masculino	sa|ca-tra|po
+saca-trapos	nome masculino	sa|ca-tra|pos
+sacabuxa	nome feminino	sa|ca|[bu]|xa
+sacada	nome feminino	sa|[ca]|da
+sacadela	nome feminino	sa|ca|[de]|la
+sacado	adjetivo	sa|[ca]|do
+sacado	nome masculino	sa|[ca]|do
+sacador	adjetivo	sa|ca|[dor]
+sacador	nome masculino	sa|ca|[dor]
+sacadora	nome feminino	sa|ca|[do]|ra
+sacadoria	nome feminino	sa|ca|do|[ri]|a
+sacaí	nome masculino	sa|ca|[í]
+sacalão	nome masculino	sa|ca|[lão]
+sacalhada	nome feminino	sa|ca|[lha]|da
+sacalho	nome masculino	sa|[ca]|lho
+sacalinha	nome feminino	sa|ca|[li]|nha
+sacamalo	nome masculino	sa|ca|[ma]|lo
+sacamecrã	adjetivo	sa|ca|me|[crã]
+sacamecrã	nome masculino	sa|ca|me|[crã]
+sacamecrã	nome feminino	sa|ca|me|[crã]
+sacamelo	nome masculino	sa|ca|[me]|lo
+sacana	adjetivo	sa|[ca]|na
+sacana	nome masculino	sa|[ca]|na
+sacana	nome feminino	sa|[ca]|na
+sacanagem	nome feminino	sa|ca|[na]|gem
+sacanear	verbo	sa|ca|ne|[ar]
+sacanga	nome feminino	sa|[can]|ga
+saçanga	nome feminino	sa|[çan]|ga
+sacanice	nome feminino	sa|ca|[ni]|ce
+sacão	nome masculino	sa|[cão]
+sacaputo	nome masculino	sa|ca|[pu]|to
+sacar	verbo	sa|[car]
+sacarato	nome masculino	sa|ca|[ra]|to
+sacaria	nome feminino	sa|ca|[ri]|a
+saçaricar	verbo	sa|ça|ri|[car]
+sacárico	adjetivo	sa|[cá]|ri|co
+sacarídeo	nome masculino	sa|ca|[rí]|de|o
+sacarídeo	adjetivo	sa|ca|[rí]|de|o
+sacárido	nome masculino	sa|[cá]|ri|do
+sacarífero	adjetivo	sa|ca|[rí]|fe|ro
+sacarificação	nome feminino	sa|ca|ri|fi|ca|[ção]
+sacarificador	nome masculino	sa|ca|ri|fi|ca|[dor]
+sacarificante	adjetivo	sa|ca|ri|fi|[can]|te
+sacarificar	verbo	sa|ca|ri|fi|[car]
+sacarificável	adjetivo	sa|ca|ri|fi|[cá]|vel
+sacarígeno	adjetivo	sa|ca|[rí]|ge|no
+sacarimetria	nome feminino	sa|ca|ri|me|[tri]|a
+sacarimétrico	adjetivo	sa|ca|ri|[mé]|tri|co
+sacarímetro	nome masculino	sa|ca|[rí]|me|tro
+sacarina	nome feminino	sa|ca|[ri]|na
+sacaríneas	nome feminino	sa|ca|[rí]|ne|as
+sacarino	adjetivo	sa|ca|[ri]|no
+sacário	nome masculino	sa|[cá]|ri|o
+sacarismo	nome masculino	sa|ca|[ris]|mo
+sacarite	nome feminino	sa|ca|[ri]|te

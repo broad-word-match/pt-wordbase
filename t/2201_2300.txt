@@ -1,0 +1,100 @@
+tectósage	nome masculino	tec|[tó]|sa|ge
+tectósage	nome feminino	tec|[tó]|sa|ge
+tectriz	nome feminino	tec|[triz]
+tectriz	adjetivo	tec|[triz]
+tecueno	adjetivo	te|cu|[e]|no
+tecueno	nome masculino	te|cu|[e]|no
+tecuíta	adjetivo	te|cu|[í]|ta
+tecuíta	nome masculino	te|cu|[í]|ta
+tecuíta	nome feminino	te|cu|[í]|ta
+tecum	nome masculino	te|[cum]
+tecumã	nome feminino	te|cu|[mã]
+tecuna	adjetivo	te|[cu]|na
+tecuna	nome masculino	te|[cu]|na
+tecuna	nome feminino	te|[cu]|na
+teda	nome feminino	[te]|da
+tedesca	nome feminino	te|[des]|ca
+tedesco	adjetivo	te|[des]|co
+tedesco	nome masculino	te|[des]|co
+tedéu	nome masculino	te|[déu]
+tedífero	adjetivo	te|[dí]|fe|ro
+tédio	nome masculino	[té]|di|o
+tediosamente	advérbio	te|di|o|sa|[men]|te
+tedioso	adjetivo	te|di|[o]|so
+tee	nome masculino	[tee]
+teenager	nome masculino	tee|na|ger
+teenager	nome feminino	tee|na|ger
+tefe-tefe	nome masculino	te|fe-te|fe
+tefe-tefe	advérbio	te|fe-te|fe
+teflão	nome masculino	te|[flão]
+teflon	nome masculino	te|[flon]
+tefrina	nome feminino	te|[fri]|na
+tefrite	nome feminino	te|[fri]|te
+tefroíte	nome feminino	te|fro|[í]|te
+tefromancia	nome feminino	te|fro|man|[ci]|a
+tefromante	nome masculino	te|fro|[man]|te
+tefromante	nome feminino	te|fro|[man]|te
+tefromântico	adjetivo	te|fro|[mân]|ti|co
+tefromielite	nome feminino	te|fro|mi|e|[li]|te
+tefrósia	nome feminino	te|[fró]|si|a
+tegão	nome masculino	te|[gão]
+tegeata	adjetivo	te|ge|[a]|ta
+tegeata	nome masculino	te|ge|[a]|ta
+tegeata	nome feminino	te|ge|[a]|ta
+tegeático	adjetivo	te|ge|[á]|ti|co
+tegeático	nome masculino	te|ge|[á]|ti|co
+tegeeu	adjetivo	te|ge|[eu]
+tegeeu	nome masculino	te|ge|[eu]
+tegianense	adjetivo	te|gi|a|[nen]|se
+tegianense	nome masculino	te|gi|a|[nen]|se
+tegianense	nome feminino	te|gi|a|[nen]|se
+tegireu	adjetivo	te|gi|[reu]
+tegireu	nome masculino	te|gi|[reu]
+tegme	nome masculino	[teg]|me
+tégmen	nome masculino	[tég]|men
+tégula	nome feminino	[té]|gu|la
+tegular	adjetivo	te|gu|[lar]
+tegumentar	adjetivo	te|gu|men|[tar]
+tegumentário	adjetivo	te|gu|men|[tá]|ri|o
+tegumento	nome masculino	te|gu|[men]|to
+tegumentoso	adjetivo	te|gu|men|[to]|so
+teia	nome feminino	[tei]|a
+teicultor	nome masculino	tei|cul|[tor]
+teicultor	adjetivo	tei|cul|[tor]
+teicultura	nome feminino	tei|cul|[tu]|ra
+teifol	nome masculino	tei|[fol]
+teiforme	adjetivo	tei|[for]|me
+teiga	nome feminino	[tei]|ga
+teigo	nome masculino	[tei]|go
+teigueiro	nome masculino	tei|[guei]|ro
+teijão	nome masculino	tei|[jão]
+teima	nome feminino	[tei]|ma
+teimar	verbo	tei|[mar]
+teimice	nome feminino	tei|[mi]|ce
+teimosa	nome feminino	tei|[mo]|sa
+teimosamente	advérbio	tei|mo|sa|[men]|te
+teimosia	nome feminino	tei|mo|[si]|a
+teimosice	nome feminino	tei|mo|[si]|ce
+teimoso	adjetivo	tei|[mo]|so
+teimoso	nome masculino	tei|[mo]|so
+teína	nome feminino	te|[í]|na
+teio	adjetivo	[tei]|o
+teio	nome masculino	[tei]|o
+teipoca	nome feminino	tei|[po]|ca
+teira	nome feminino	[tei]|ra
+teiró	nome masculino	tei|[ró]
+teiró	nome feminino	tei|[ró]
+teiroga	nome feminino	tei|[ro]|ga
+teiru	nome masculino	tei|[ru]
+teísmo	nome masculino	te|[ís]|mo
+teísta	adjetivo	te|[ís]|ta
+teísta	nome masculino	te|[ís]|ta
+teísta	nome feminino	te|[ís]|ta
+teístico	adjetivo	te|[ís]|ti|co
+teité	interjeição	tei|[té]
+teito	nome masculino	[tei]|to
+teiú	nome masculino	tei|[ú]
+teiú-açu	nome masculino	tei|ú-a|[çu]
+teixe	nome masculino	[tei]|xe
+teixo	nome masculino	[tei]|xo
+teixosense	nome masculino	tei|xo|[sen]|se

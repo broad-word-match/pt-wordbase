@@ -1,0 +1,100 @@
+iconismo	nome masculino	i|co|[nis]|mo
+iconista	nome masculino	i|co|[nis]|ta
+iconista	nome feminino	i|co|[nis]|ta
+iconístico	adjetivo	i|co|[nís]|ti|co
+iconoclasia	nome feminino	i|co|no|cla|[si]|a
+iconoclasmo	nome masculino	i|co|no|[clas]|mo
+iconoclasta	adjetivo	i|co|no|[clas]|ta
+iconoclasta	nome masculino	i|co|no|[clas]|ta
+iconoclasta	nome feminino	i|co|no|[clas]|ta
+iconoclastia	nome feminino	i|co|no|clas|[ti]|a
+iconoclástico	adjetivo	i|co|no|[clás]|ti|co
+iconofilia	nome feminino	i|co|no|fi|[li]|a
+iconófilo	adjetivo	i|co|[nó]|fi|lo
+iconófilo	nome masculino	i|co|[nó]|fi|lo
+iconogénio	nome masculino	i|co|no|[gé]|ni|o
+iconógrafa	nome feminino	i|co|[nó]|gra|fa
+iconografia	nome feminino	i|co|no|gra|[fi]|a
+iconograficamente	advérbio	i|co|no|gra|fi|ca|[men]|te
+iconográfico	adjetivo	i|co|no|[grá]|fi|co
+iconógrafo	nome masculino	i|co|[nó]|gra|fo
+iconólatra	adjetivo	i|co|[nó]|la|tra
+iconólatra	nome masculino	i|co|[nó]|la|tra
+iconólatra	nome feminino	i|co|[nó]|la|tra
+iconolatria	nome feminino	i|co|no|la|[tri]|a
+iconolátrico	adjetivo	i|co|no|[lá]|tri|co
+iconologia	nome feminino	i|co|no|lo|[gi]|a
+iconológico	adjetivo	i|co|no|[ló]|gi|co
+iconologista	nome masculino	i|co|no|lo|[gis]|ta
+iconologista	nome feminino	i|co|no|lo|[gis]|ta
+iconólogo	nome masculino	i|co|[nó]|lo|go
+iconômaco	adjetivo	i|co|[nô]|ma|co
+iconômaco	nome masculino	i|co|[nô]|ma|co
+iconómaco	adjetivo	i|co|[nó]|ma|co
+iconómaco	nome masculino	i|co|[nó]|ma|co
+iconomania	nome feminino	i|co|no|ma|[ni]|a
+iconomaníaco	adjetivo	i|co|no|ma|[ní]|a|co
+iconomaníaco	nome masculino	i|co|no|ma|[ní]|a|co
+iconómano	nome masculino	i|co|[nó]|ma|no
+iconômano	nome masculino	i|co|[nô]|ma|no
+iconometria	nome feminino	i|co|no|me|[tri]|a
+iconométrico	adjetivo	i|co|no|[mé]|tri|co
+iconómetro	nome masculino	i|co|[nó]|me|tro
+iconômetro	nome masculino	i|co|[nô]|me|tro
+iconoscópio	nome masculino	i|co|nos|[có]|pi|o
+iconóstase	nome feminino	i|co|[nós]|ta|se
+iconostrófico	adjetivo	i|co|nos|[tró]|fi|co
+iconóstrofo	nome masculino	i|co|[nós]|tro|fo
+iconoteca	nome feminino	i|co|no|[te]|ca
+icor	nome masculino	i|[cor]
+ícore	nome masculino	[í]|co|re
+icoroso	adjetivo	i|co|[ro]|so
+icosaedro	nome masculino	i|co|sa|[e]|dro
+icosagonal	adjetivo	i|co|sa|go|[nal]
+icoságono	nome masculino	i|co|[sá]|go|no
+icosandria	nome feminino	i|co|san|[dri]|a
+icosândria	nome feminino	i|co|[sân]|dri|a
+icosandro	adjetivo	i|co|[san]|dro
+icositano	adjetivo	i|co|si|[ta]|no
+icositano	nome masculino	i|co|si|[ta]|no
+icositetraedro	nome masculino	i|co|si|te|tra|[e]|dro
+icozeiral	nome masculino	i|co|zei|[ral]
+icozeiro	nome masculino	i|[cozei]|ro
+ictéria	nome feminino	ic|[té]|ri|a
+ictérica	nome feminino	ic|[té]|ri|ca
+icterícia	nome feminino	ic|te|[rí]|ci|a
+ictérico	adjetivo	ic|[té]|ri|co
+ictérico	nome masculino	ic|[té]|ri|co
+icterídeo	nome masculino	ic|te|[rí]|de|o
+icterídeo	nome masculino	ic|te|[rí]|de|o
+icterídeo	adjetivo	ic|te|[rí]|de|o
+íctero	nome masculino	[íc]|te|ro
+icterocéfalo	adjetivo	ic|te|ro|[cé]|fa|lo
+icterode	adjetivo	ic|te|[ro]|de
+icteroide	nome masculino	ic|te|[roi]|de
+icteroide	adjetivo	ic|te|[roi]|de
+icteroide	nome feminino	ic|te|[roi]|de
+icterópode	adjetivo	ic|te|[ró]|po|de
+ictíaco	adjetivo	ic|[tí]|a|co
+ictíico	adjetivo	ic|[tí]|i|co
+ictínia	nome feminino	ic|[tí]|ni|a
+ictiocola	nome feminino	ic|ti|o|[co]|la
+ictiodonte	nome masculino	ic|ti|o|[don]|te
+ictiófaga	nome feminino	ic|ti|[ó]|fa|ga
+ictiofagia	nome feminino	ic|ti|o|fa|[gi]|a
+ictiófago	adjetivo	ic|ti|[ó]|fa|go
+ictiófago	nome masculino	ic|ti|[ó]|fa|go
+ictiofobia	nome feminino	ic|ti|o|fo|[bi]|a
+ictiógrafa	nome feminino	ic|ti|[ó]|gra|fa
+ictiografia	nome feminino	ic|ti|o|gra|[fi]|a
+ictiográfico	adjetivo	ic|ti|o|[grá]|fi|co
+ictiógrafo	nome masculino	ic|ti|[ó]|gra|fo
+ictioide	adjetivo	ic|ti|[oi]|de
+ictiol	nome masculino	ic|ti|[ol]
+ictiólito	nome masculino	ic|ti|[ó]|li|to
+ictióloga	nome feminino	ic|ti|[ó]|lo|ga
+ictiologia	nome feminino	ic|ti|o|lo|[gi]|a
+ictiológico	adjetivo	ic|ti|o|[ló]|gi|co
+ictiologista	nome masculino	ic|ti|o|lo|[gis]|ta
+ictiologista	nome feminino	ic|ti|o|lo|[gis]|ta
+ictiólogo	nome masculino	ic|ti|[ó]|lo|go

@@ -1,0 +1,100 @@
+sentido	interjeição	sen|[ti]|do
+sentimental	nome masculino	sen|ti|men|[tal]
+sentimental	adjetivo	sen|ti|men|[tal]
+sentimental	nome feminino	sen|ti|men|[tal]
+sentimentalão	adjetivo	sen|ti|men|ta|[lão]
+sentimentalão	nome masculino	sen|ti|men|ta|[lão]
+sentimentalidade	nome feminino	sen|ti|men|ta|li|[da]|de
+sentimentalismo	nome masculino	sen|ti|men|ta|[lis]|mo
+sentimentalista	adjetivo	sen|ti|men|ta|[lis]|ta
+sentimentalista	nome masculino	sen|ti|men|ta|[lis]|ta
+sentimentalista	nome feminino	sen|ti|men|ta|[lis]|ta
+sentimentalizar	verbo	sen|ti|men|ta|li|[zar]
+sentimentalmente	advérbio	sen|ti|men|tal|[men]|te
+sentimentaloide	adjetivo	sen|ti|men|ta|[loi]|de
+sentimentaloide	nome masculino	sen|ti|men|ta|[loi]|de
+sentimentaloide	nome feminino	sen|ti|men|ta|[loi]|de
+sentimentalona	nome feminino	sen|ti|men|ta|[lo]|na
+sentimento	nome masculino	sen|ti|[men]|to
+sentina	nome feminino	sen|[ti]|na
+sentinate	adjetivo	sen|ti|[na]|te
+sentinate	nome masculino	sen|ti|[na]|te
+sentinate	nome feminino	sen|ti|[na]|te
+sentinela	nome feminino	sen|ti|[ne]|la
+sentir	verbo	sen|[tir]
+sentir	nome masculino	sen|[tir]
+senzala	nome feminino	sen|[za]|la
+sépala	nome feminino	[sé]|pa|la
+sepaloide	adjetivo	se|pa|[loi]|de
+separabilidade	nome feminino	se|pa|ra|bi|li|[da]|de
+separação	nome feminino	se|pa|ra|[ção]
+separadamente	advérbio	se|pa|ra|da|[men]|te
+separado	adjetivo	se|pa|[ra]|do
+separador	adjetivo	se|pa|ra|[dor]
+separador	nome masculino	se|pa|ra|[dor]
+separadora	nome feminino	se|pa|ra|[do]|ra
+separar	verbo	se|pa|[rar]
+separata	nome feminino	se|pa|[ra]|ta
+separatismo	nome masculino	se|pa|ra|[tis]|mo
+separatista	adjetivo	se|pa|ra|[tis]|ta
+separatista	nome masculino	se|pa|ra|[tis]|ta
+separatista	nome feminino	se|pa|ra|[tis]|ta
+separativo	adjetivo	se|pa|ra|[ti]|vo
+separatório	adjetivo	se|pa|ra|[tó]|ri|o
+separatório	nome masculino	se|pa|ra|[tó]|ri|o
+separável	adjetivo	se|pa|[rá]|vel
+sepedônio	nome masculino	se|pe|[dô]|ni|o
+sepedónio	nome masculino	se|pe|[dó]|ni|o
+sepegar	verbo	se|pe|[gar]
+sépia	nome masculino	[sé]|pi|a
+sépia	nome feminino	[sé]|pi|a
+sépia	adjetivo	[sé]|pi|a
+sepícola	adjetivo	se|[pí]|co|la
+sepídio	nome masculino	se|[pí]|di|o
+sepiídeo	adjetivo	se|pi|[í]|de|o
+sepiídeo	nome masculino	se|pi|[í]|de|o
+sepíola	nome feminino	se|[pí]|o|la
+sepiolita	nome feminino	se|pi|o|[li]|ta
+sepiolite	nome feminino	se|pi|o|[li]|te
+sepiosteário	nome masculino	se|pi|os|te|[á]|ri|o
+sepiotêutide	nome feminino	se|pi|o|[têu]|ti|de
+seposição	nome feminino	se|po|si|[ção]
+sepse	nome feminino	[sep]|se
+sepsia	nome feminino	sep|[si]|a
+sepsiador	adjetivo	sep|si|a|[dor]
+sepsiador	nome masculino	sep|si|a|[dor]
+sepsiar	verbo	sep|si|[ar]
+sepsina	nome feminino	sep|[si]|na
+sepsioquimia	nome feminino	sep|si|o|qui|[mi]|a
+septa	nome feminino	[sep]|ta
+septado	adjetivo	sep|[ta]|do
+septempedano	nome masculino	sep|tem|pe|[da]|no
+septempedano	adjetivo	sep|tem|pe|[da]|no
+septêmplice	adjetivo	sep|[têm]|pli|ce
+septena	nome feminino	sep|[te]|na
+septena	adjetivo	sep|[te]|na
+septenado	adjetivo	sep|te|[na]|do
+septenado	nome masculino	sep|te|[na]|do
+septenal	adjetivo	sep|te|[nal]
+septenalidade	nome feminino	sep|te|na|li|[da]|de
+septenário	adjetivo	sep|te|[ná]|ri|o
+septenário	nome masculino	sep|te|[ná]|ri|o
+septenato	nome masculino	sep|te|[na]|to
+septênfluo	adjetivo	sep|[tên]|flu|o
+septenfoliolado	adjetivo	sep|ten|fo|li|o|[la]|do
+septenial	adjetivo	sep|te|ni|[al]
+septénio	nome masculino	sep|[té]|ni|o
+septênio	nome masculino	sep|[tê]|ni|o
+septenlobado	adjetivo	sep|ten|lo|[ba]|do
+septennervado	adjetivo	sep|ten|ner|[va]|do
+septenvirado	nome masculino	sep|ten|vi|[ra]|do
+septenviral	adjetivo	sep|ten|vi|[ral]
+septenvirato	nome masculino	sep|ten|vi|[ra]|to
+septênviro	nome masculino	sep|[tên]|vi|ro
+septeto	nome masculino	sep|[te]|to
+septiangulado	adjetivo	sep|ti|an|gu|[la]|do
+septicemia	nome feminino	sep|ti|ce|[mi]|a
+septicémia	nome feminino	sep|ti|[cé]|mi|a
+septicémico	adjetivo	sep|ti|[cé]|mi|co
+septicêmico	adjetivo	sep|ti|[cê]|mi|co
+septiciana	nome feminino	sep|ti|ci|[a]|na

@@ -1,0 +1,100 @@
+vigilengo	nome masculino	vi|gi|[len]|go
+vigília	nome feminino	vi|[gí]|li|a
+vigintivirado	nome masculino	vi|gin|ti|vi|[ra]|do
+vigintiviral	adjetivo	vi|gin|ti|vi|[ral]
+vigintivirato	nome masculino	vi|gin|ti|vi|[ra]|to
+vigintíviro	nome masculino	vi|gin|[tí]|vi|ro
+vigonho	nome masculino	vi|[go]|nho
+vigor	nome masculino	vi|[gor]
+vigorante	adjetivo	vi|go|[ran]|te
+vigorar	verbo	vi|go|[rar]
+vigorite	nome feminino	vi|go|[ri]|te
+vigorizar	verbo	vi|go|ri|[zar]
+vigorosamente	advérbio	vi|go|ro|sa|[men]|te
+vigoroso	adjetivo	vi|go|[ro]|so
+vigota	nome feminino	vi|[go]|ta
+vigote	nome masculino	vi|[go]|te
+viguês	adjetivo	vi|[guês]
+viguês	nome masculino	vi|[guês]
+viking	adjetivo	[vi]|king
+viking	nome masculino	[vi]|king
+viking	nome feminino	[vi]|king
+vil	adjetivo	[vil]
+vil	nome masculino	[vil]
+vil	nome feminino	[vil]
+vila	nome feminino	[vi]|la
+vila-bispense	adjetivo	vi|la-bis|[pen]|se
+vila-bispense	nome masculino	vi|la-bis|[pen]|se
+vila-bispense	nome feminino	vi|la-bis|[pen]|se
+vila-condense	nome masculino	vi|la-con|[den]|se
+vila-condense	adjetivo	vi|la-con|[den]|se
+vila-condense	nome feminino	vi|la-con|[den]|se
+vila-florense	nome masculino	vi|la-flo|[ren]|se
+vila-florense	adjetivo	vi|la-flo|[ren]|se
+vila-florense	nome feminino	vi|la-flo|[ren]|se
+vila-franquense	adjetivo	vi|la-fran|[quen]|se
+vila-franquense	nome masculino	vi|la-fran|[quen]|se
+vila-franquense	nome feminino	vi|la-fran|[quen]|se
+vila-museu	nome feminino	vi|la-mu|[seu]
+vila-novense	adjetivo	vi|la-no|[ven]|se
+vila-novense	nome masculino	vi|la-no|[ven]|se
+vila-novense	nome feminino	vi|la-no|[ven]|se
+vila-portense	adjetivo	vi|la-por|[ten]|se
+vila-portense	nome masculino	vi|la-por|[ten]|se
+vila-portense	nome feminino	vi|la-por|[ten]|se
+vila-realense	adjetivo	vi|la-re|a|[len]|se
+vila-realense	nome masculino	vi|la-re|a|[len]|se
+vila-realense	nome feminino	vi|la-re|a|[len]|se
+vila-regense	nome masculino	vi|la-re|[gen]|se
+vila-regense	adjetivo	vi|la-re|[gen]|se
+vila-regense	nome feminino	vi|la-re|[gen]|se
+vila-riquense	nome masculino	vi|la-ri|[quen]|se
+vila-riquense	adjetivo	vi|la-ri|[quen]|se
+vila-riquense	nome feminino	vi|la-ri|[quen]|se
+vila-verde	nome feminino	vi|la-ver|de
+vila-verdense	adjetivo	vi|la-ver|[den]|se
+vila-verdense	nome masculino	vi|la-ver|[den]|se
+vila-verdense	nome feminino	vi|la-ver|[den]|se
+vila-viçosense	adjetivo	vi|la-vi|ço|[sen]|se
+vila-viçosense	nome masculino	vi|la-vi|ço|[sen]|se
+vila-viçosense	nome feminino	vi|la-vi|ço|[sen]|se
+vilaçorano	nome masculino	vi|la|ço|[ra]|no
+vilaçorano	adjetivo	vi|la|ço|[ra]|no
+vilãmente	advérbio	vi|lã|[men]|te
+vilanaço	adjetivo	vi|la|[na]|ço
+vilanaço	nome masculino	vi|la|[na]|ço
+vilanagem	nome feminino	vi|la|[na]|gem
+vilanaz	adjetivo	vi|la|[naz]
+vilanaz	nome masculino	vi|la|[naz]
+vilanaz	nome feminino	vi|la|[naz]
+vilancete	nome masculino	vi|lan|[ce]|te
+vilancico	nome masculino	vi|lan|[ci]|co
+vilanesco	adjetivo	vi|la|[nes]|co
+vilania	nome feminino	vi|la|[ni]|a
+vilão	adjetivo	vi|[lão]
+vilão	nome masculino	vi|[lão]
+vilar	nome masculino	vi|[lar]
+vilarejo	nome masculino	vi|la|[re]|jo
+vilarelho	nome masculino	vi|la|[re]|lho
+vilarinho	nome masculino	vi|la|[ri]|nho
+vilastro	nome masculino	vi|[las]|tro
+vileco	nome masculino	vi|[le]|co
+vilegiatura	nome feminino	vi|le|gi|a|[tu]|ra
+vilegiaturar	verbo	vi|le|gi|a|tu|[rar]
+vilegiaturista	nome masculino	vi|le|gi|a|tu|[ris]|ta
+vilegiaturista	nome feminino	vi|le|gi|a|tu|[ris]|ta
+vilela	nome feminino	vi|[le]|la
+vilescer	verbo	vi|les|[cer]
+vileta	nome feminino	vi|[le]|ta
+vileza	nome feminino	vi|[le]|za
+vilhancete	nome masculino	vi|lhan|[ce]|te
+vilhancico	nome masculino	vi|lhan|[ci]|co
+vilhanesca	nome feminino	vi|lha|[nes]|ca
+vilicar	verbo	vi|li|[car]
+vílico	nome masculino	[ví]|li|co
+vilificação	nome feminino	vi|li|fi|ca|[ção]
+vilificar	verbo	vi|li|fi|[car]
+vilipendiação	nome feminino	vi|li|pen|di|a|[ção]
+vilipendiado	adjetivo	vi|li|pen|di|[a]|do
+vilipendiador	adjetivo	vi|li|pen|di|a|[dor]
+vilipendiador	nome masculino	vi|li|pen|di|a|[dor]

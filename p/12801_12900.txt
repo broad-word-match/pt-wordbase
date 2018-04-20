@@ -1,0 +1,100 @@
+prescrito	adjetivo	pres|[cri]|to
+prescritor	nome masculino	pres|cri|[tor]
+prescritora	nome feminino	pres|cri|[to]|ra
+presença	nome feminino	pre|[sen]|ça
+presencial	adjetivo	pre|sen|ci|[al]
+presencialmente	advérbio	pre|sen|ci|al|[men]|te
+presenciar	verbo	pre|sen|ci|[ar]
+presenciável	adjetivo	pre|sen|ci|[á]|vel
+presencismo	nome masculino	pre|sen|[cis]|mo
+presencista	nome masculino	pre|sen|[cis]|ta
+presencista	adjetivo	pre|sen|[cis]|ta
+presencista	nome feminino	pre|sen|[cis]|ta
+presentação	nome feminino	pre|sen|ta|[ção]
+presentaneamente	advérbio	pre|sen|ta|ne|a|[men]|te
+presentâneo	adjetivo	pre|sen|[tâ]|ne|o
+presentar	verbo	pre|sen|[tar]
+presente	adjetivo	pre|[sen]|te
+presente	nome masculino	pre|[sen]|te
+presenteação	nome feminino	pre|sen|te|a|[ção]
+presenteado	adjetivo	pre|sen|te|[a]|do
+presenteador	adjetivo	pre|sen|te|a|[dor]
+presenteador	nome masculino	pre|sen|te|a|[dor]
+presenteadora	nome feminino	pre|sen|te|a|[do]|ra
+presentear	verbo	pre|sen|te|[ar]
+presenteável	adjetivo	pre|sen|te|[á]|vel
+presenteiro	adjetivo	pre|sen|[tei]|ro
+presentemente	advérbio	pre|sen|te|[men]|te
+presepada	nome feminino	pre|se|[pa]|da
+presepe	nome masculino	pre|[se]|pe
+presepeiro	nome masculino	pre|se|[pei]|ro
+presépio	nome masculino	pre|[sé]|pi|o
+presepista	nome masculino	pre|se|[pis]|ta
+presepista	nome feminino	pre|se|[pis]|ta
+preservação	nome feminino	pre|ser|va|[ção]
+preservador	adjetivo	pre|ser|va|[dor]
+preservador	nome masculino	pre|ser|va|[dor]
+preservar	verbo	pre|ser|[var]
+preservativo	nome masculino	pre|ser|va|[ti]|vo
+preservativo	adjetivo	pre|ser|va|[ti]|vo
+preservável	adjetivo	pre|ser|[vá]|vel
+preseta	nome feminino	pre|[se]|ta
+presidência	nome feminino	pre|si|[dên]|ci|a
+presidencial	adjetivo	pre|si|den|ci|[al]
+presidencialismo	nome masculino	pre|si|den|ci|a|[lis]|mo
+presidencialista	adjetivo	pre|si|den|ci|a|[lis]|ta
+presidencialista	nome masculino	pre|si|den|ci|a|[lis]|ta
+presidencialista	nome feminino	pre|si|den|ci|a|[lis]|ta
+presidencialização	nome feminino	pre|si|den|ci|a|li|za|[ção]
+presidenciável	adjetivo	pre|si|den|ci|[á]|vel
+presidenta	nome feminino	pre|si|[den]|ta
+presidente	nome masculino	pre|si|[den]|te
+presidente	adjetivo	pre|si|[den]|te
+presidente	nome feminino	pre|si|[den]|te
+presidiar	verbo	pre|si|di|[ar]
+presidiário	adjetivo	pre|si|di|[á]|ri|o
+presidiário	nome masculino	pre|si|di|[á]|ri|o
+presídio	nome masculino	pre|[sí]|di|o
+presidir	verbo	pre|si|[dir]
+presiganga	nome feminino	pre|si|[gan]|ga
+presigar	verbo	pre|si|[gar]
+presigo	nome masculino	pre|[si]|go
+presilha	nome feminino	pre|[si]|lha
+presilhar	verbo	pre|si|[lhar]
+presilheiro	nome masculino	pre|si|[lhei]|ro
+préslia	nome feminino	[prés]|li|a
+preso	nome masculino	[pre]|so
+preso	adjetivo	[pre]|so
+presor	nome masculino	pre|[sor]
+pressa	nome feminino	[pres]|sa
+pressagamente	advérbio	pres|sa|ga|[men]|te
+pressagiador	nome masculino	pres|sa|gi|a|[dor]
+pressagiar	verbo	pres|sa|gi|[ar]
+presságio	nome masculino	pres|[sá]|gi|o
+pressagiosamente	advérbio	pres|sa|gi|o|sa|[men]|te
+pressagioso	adjetivo	pres|sa|gi|[o]|so
+pressago	adjetivo	pres|[sa]|go
+pressama	nome feminino	pres|[sa]|ma
+pressão	nome feminino	pres|[são]
+pressentido	adjetivo	pres|sen|[ti]|do
+pressentimento	nome masculino	pres|sen|ti|[men]|to
+pressentir	verbo	pres|sen|[tir]
+pressentível	adjetivo	pres|sen|[tí]|vel
+pressing	nome masculino	[pres]|sing
+pressionado	adjetivo	pres|si|o|[na]|do
+pressionante	adjetivo	pres|si|o|[nan]|te
+pressionar	verbo	pres|si|o|[nar]
+pressirrostro	nome masculino	pres|sir|[ros]|tro
+pressirrostro	adjetivo	pres|sir|[ros]|tro
+pressor	nome masculino	pres|[sor]
+pressupor	verbo	pres|su|[por]
+pressuposição	nome feminino	pres|su|po|si|[ção]
+pressuposto	adjetivo	pres|su|[pos]|to
+pressuposto	nome masculino	pres|su|[pos]|to
+pressurização	nome feminino	pres|su|ri|za|[ção]
+pressurizado	adjetivo	pres|su|ri|[za]|do
+pressurizar	verbo	pres|su|ri|[zar]
+pressurosamente	advérbio	pres|su|ro|sa|[men]|te
+pressuroso	adjetivo	pres|su|[ro]|so
+prestabilidade	nome feminino	pres|ta|bi|li|[da]|de
+prestação	nome feminino	pres|ta|[ção]

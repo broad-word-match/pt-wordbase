@@ -1,0 +1,100 @@
+bígamo	adjetivo	[bí]|ga|mo
+bígamo	nome masculino	[bí]|ga|mo
+bigémeo	adjetivo	bi|[gé]|me|o
+bigêmeo	adjetivo	bi|[gê]|me|o
+bigeminado	adjetivo	bi|ge|mi|[na]|do
+bigeminia	nome feminino	bi|ge|mi|[ni]|a
+bigeminismo	nome masculino	bi|ge|mi|[nis]|mo
+bigémino	adjetivo	bi|[gé]|mi|no
+bigêmino	adjetivo	bi|[gê]|mi|no
+bigénero	adjetivo	bi|[gé]|ne|ro
+bigênero	adjetivo	bi|[gê]|ne|ro
+bigênito	adjetivo	bi|[gê]|ni|to
+bigénito	adjetivo	bi|[gé]|ni|to
+bigerrião	nome masculino	bi|ger|ri|[ão]
+bigerrião	adjetivo	bi|ger|ri|[ão]
+bigerro	adjetivo	bi|[ger]|ro
+bigerro	nome masculino	bi|[ger]|ro
+biglandular	adjetivo	bi|glan|du|[lar]
+biglanduloso	adjetivo	bi|glan|du|[lo]|so
+bigle	nome masculino	[bi]|gle
+biglobular	adjetivo	bi|glo|bu|[lar]
+bignônia	nome feminino	big|[nô]|ni|a
+bignónia	nome feminino	big|[nó]|ni|a
+bignoniácea	nome feminino	big|no|ni|[á]|ce|a
+bignoniáceo	adjetivo	big|no|ni|[á]|ce|o
+bigodaça	nome masculino	bi|go|[da]|ça
+bigodaças	nome masculino	bi|go|[da]|ças
+bigodaço	nome masculino	bi|go|[da]|ço
+bigodado	adjetivo	bi|go|[da]|do
+bigode	nome masculino	bi|[go]|de
+bigodeado	adjetivo	bi|go|de|[a]|do
+bigodear	verbo	bi|go|de|[ar]
+bigodeira	nome feminino	bi|go|[dei]|ra
+bigodeiro	nome masculino	bi|go|[dei]|ro
+bigodelha	nome feminino	bi|go|[de]|lha
+bigodes	nome masculino	bi|[go]|des
+bigodi	nome masculino	bi|go|[di]
+bigodinho	nome masculino	bi|go|[di]|nho
+bigoduda	nome feminino	bi|go|[du]|da
+bigodudo	adjetivo	bi|go|[du]|do
+bigodudo	nome masculino	bi|go|[du]|do
+bigole-malagueta	nome masculino	bi|go|le-ma|la|[gue]|ta
+bigorna	nome feminino	bi|[gor]|na
+bigorrilha	nome masculino	bi|gor|[ri]|lha
+bigorrilhas	nome masculino	bi|gor|[ri]|lhas
+bigota	nome feminino	bi|[go]|ta
+bigote	nome masculino	bi|[go]|te
+bigotismo	nome masculino	bi|go|[tis]|mo
+bigoudi	nome masculino	bi|gou|di
+biguá	nome feminino	bi|[guá]
+biguane	adjetivo	bi|[gua]|ne
+biguar	verbo	bi|[guar]
+bigudi	nome masculino	bi|gu|[di]
+bigúmeo	adjetivo	bi|[gú]|me|o
+bijagó	adjetivo	bi|ja|[gó]
+bijagó	nome masculino	bi|ja|[gó]
+bijagó	nome feminino	bi|ja|[gó]
+bijeção	nome feminino	bi|je|[ção]
+bijecção	nome feminino	bi|jec|[ção]
+bijou	nome masculino	bi|jou
+biju	nome masculino	bi|[ju]
+bijugado	adjetivo	bi|ju|[ga]|do
+bíjugo	adjetivo	[bí]|ju|go
+bijupirá	nome masculino	bi|ju|pi|[rá]
+bijutaria	nome feminino	bi|ju|ta|[ri]|a
+bijuteria	nome feminino	bi|ju|te|[ri]|a
+bikini	nome masculino	bi|ki|ni
+bila	nome feminino	[bi]|la
+bilabiado	adjetivo	bi|la|bi|[a]|do
+bilabial	nome feminino	bi|la|bi|[al]
+bilabial	adjetivo	bi|la|bi|[al]
+bilabiodental	adjetivo	bi|la|bi|o|den|[tal]
+bilabiodental	nome feminino	bi|la|bi|o|den|[tal]
+bilaminado	adjetivo	bi|la|mi|[na]|do
+bilaminoso	adjetivo	bi|la|mi|[no]|so
+bilar	verbo	bi|[lar]
+bilaterado	adjetivo	bi|la|te|[ra]|do
+bilateral	adjetivo	bi|la|te|[ral]
+bilateralidade	nome feminino	bi|la|te|ra|li|[da]|de
+bilateralmente	advérbio	bi|la|te|ral|[men]|te
+bilbaíno	adjetivo	bil|ba|[í]|no
+bilbaíno	nome masculino	bil|ba|[í]|no
+bilbode	nome masculino	bil|[bo]|de
+bilboqué	nome masculino	bil|bo|[qué]
+bilboquê	nome masculino	bil|bo|[quê]
+bile	nome feminino	[bi]|le
+bilene	nome masculino	bi|[le]|ne
+bilênio	nome masculino	bi|[lê]|ni|o
+bilénio	nome masculino	bi|[lé]|ni|o
+bilha	nome feminino	[bi]|lha
+bilhafre	nome masculino	bi|[lha]|fre
+bilhão	adjetivo	bi|[lhão]
+bilhão	nome masculino	bi|[lhão]
+bilhar	nome masculino	bi|[lhar]
+bilharda	nome feminino	bi|[lhar]|da
+bilhardão	nome masculino	bi|lhar|[dão]
+bilhardar	verbo	bi|lhar|[dar]
+bilhardeira	nome feminino	bi|lhar|[dei]|ra
+bilhardeiro	nome masculino	bi|lhar|[dei]|ro
+bilharista	adjetivo	bi|lha|[ris]|ta

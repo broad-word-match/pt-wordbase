@@ -1,0 +1,100 @@
+neuropsiquiatra	nome masculino	neu|rop|si|qui|[a]|tra
+neuropsiquiatra	nome feminino	neu|rop|si|qui|[a]|tra
+neuropsiquiatria	nome feminino	neu|rop|si|qui|a|[tri]|a
+neuropsiquiátrico	adjetivo	neu|rop|si|qui|[á]|tri|co
+neuróptero	nome masculino	neu|[róp]|te|ro
+neuróptero	adjetivo	neu|[róp]|te|ro
+neuropterologia	nome feminino	neu|rop|te|ro|lo|[gi]|a
+neuropterológico	adjetivo	neu|rop|te|ro|[ló]|gi|co
+neurorradiologia	nome feminino	neu|ror|ra|di|o|lo|[gi]|a
+neurorradiológico	adjetivo	neu|ror|ra|di|o|[ló]|gi|co
+neurorradiologista	nome masculino	neu|ror|ra|di|o|lo|[gis]|ta
+neurorradiologista	nome feminino	neu|ror|ra|di|o|lo|[gis]|ta
+neurosado	adjetivo	neu|ro|[sa]|do
+neurosado	nome masculino	neu|ro|[sa]|do
+neurosclerose	nome feminino	neu|ros|cle|[ro]|se
+neurosclerótico	adjetivo	neu|ros|cle|[ró]|ti|co
+neurose	nome feminino	neu|[ro]|se
+neurossecreção	nome feminino	neu|ros|se|cre|[ção]
+neurossemiologia	nome feminino	neu|ros|se|mi|o|lo|[gi]|a
+neurossemiológico	adjetivo	neu|ros|se|mi|o|[ló]|gi|co
+neurostenia	nome feminino	neu|ros|te|[ni]|a
+neurosténico	adjetivo	neu|ros|[té]|ni|co
+neurostênico	adjetivo	neu|ros|[tê]|ni|co
+neurótica	nome feminino	neu|[ró]|ti|ca
+neurótico	adjetivo	neu|[ró]|ti|co
+neurótico	nome masculino	neu|[ró]|ti|co
+neurotização	nome feminino	neu|ro|ti|za|[ção]
+neurotizado	adjetivo	neu|ro|ti|[za]|do
+neurotizante	adjetivo	neu|ro|ti|[zan]|te
+neurotizar	verbo	neu|ro|ti|[zar]
+neurotomia	nome feminino	neu|ro|to|[mi]|a
+neurotômico	adjetivo	neu|ro|[tô]|mi|co
+neurotómico	adjetivo	neu|ro|[tó]|mi|co
+neurótomo	nome masculino	neu|[ró]|to|mo
+neurotoxina	nome feminino	neu|ro|to|[xi]|na
+neurotransmissor	nome masculino	neu|ro|trans|mis|[sor]
+neurotripsia	nome feminino	neu|ro|trip|[si]|a
+neurotríptico	adjetivo	neu|ro|[tríp]|ti|co
+neurovegetativo	adjetivo	neu|ro|ve|ge|ta|[ti]|vo
+nêurula	nome feminino	[nêu]|ru|la
+neurulação	nome feminino	neu|ru|la|[ção]
+nêustrio	adjetivo	[nêus]|tri|o
+nêustrio	nome masculino	[nêus]|tri|o
+neutral	adjetivo	neu|[tral]
+neutralidade	nome feminino	neu|tra|li|[da]|de
+neutralismo	nome masculino	neu|tra|[lis]|mo
+neutralista	adjetivo	neu|tra|[lis]|ta
+neutralista	nome masculino	neu|tra|[lis]|ta
+neutralista	nome feminino	neu|tra|[lis]|ta
+neutralístico	adjetivo	neu|tra|[lís]|ti|co
+neutralização	nome feminino	neu|tra|li|za|[ção]
+neutralizado	adjetivo	neu|tra|li|[za]|do
+neutralizador	nome masculino	neu|tra|li|za|[dor]
+neutralizador	adjetivo	neu|tra|li|za|[dor]
+neutralizante	adjetivo	neu|tra|li|[zan]|te
+neutralizar	verbo	neu|tra|li|[zar]
+neutralizável	adjetivo	neu|tra|li|[zá]|vel
+neutralmente	advérbio	neu|tral|[men]|te
+neutrão	nome masculino	neu|[trão]
+neutreto	nome masculino	neu|[tre]|to
+neutrino	nome masculino	neu|[tri]|no
+neutro	adjetivo	[neu]|tro
+neutro	nome masculino	[neu]|tro
+neutrófilo	adjetivo	neu|[tró]|fi|lo
+neutrófilo	nome masculino	neu|[tró]|fi|lo
+nêutron	nome masculino	[nêu]|tron
+neutrónica	nome feminino	neu|[tró]|ni|ca
+neutrónico	adjetivo	neu|[tró]|ni|co
+neutrônico	adjetivo	neu|[trô]|ni|co
+neutropenia	nome feminino	neu|tro|pe|[ni]|a
+nevação	nome feminino	ne|va|[ção]
+nevada	nome feminino	ne|[va]|da
+nevado	nome masculino	ne|[va]|do
+nevado	adjetivo	ne|[va]|do
+nevão	nome masculino	ne|[vão]
+nevar	verbo	ne|[var]
+nevasca	nome feminino	ne|[vas]|ca
+nevasqueira	nome feminino	ne|vas|[quei]|ra
+neve	nome feminino	[ne]|ve
+nêveda	nome feminino	[nê]|ve|da
+neveira	nome feminino	ne|[vei]|ra
+neveiro	nome masculino	ne|[vei]|ro
+neviano	adjetivo	ne|vi|[a]|no
+neviscar	verbo	ne|vis|[car]
+nevo	nome masculino	[ne]|vo
+névoa	nome feminino	[né]|vo|a
+nevoaça	nome feminino	ne|vo|[a]|ça
+nevoado	adjetivo	ne|vo|[a]|do
+nevoar	verbo	ne|vo|[ar]
+nevoeira	nome feminino	ne|vo|[ei]|ra
+nevoeirada	nome feminino	ne|vo|ei|[ra]|da
+nevoeirento	adjetivo	ne|vo|ei|[ren]|to
+nevoeiro	nome masculino	ne|vo|[ei]|ro
+nevoentar	verbo	ne|vo|en|[tar]
+nevoento	adjetivo	ne|vo|[en]|to
+nevómetro	nome masculino	ne|[vó]|me|tro
+nevômetro	nome masculino	ne|[vô]|me|tro
+nevoso	adjetivo	ne|[vo]|so
+nevragmia	nome feminino	ne|vrag|[mi]|a
+nevrágmico	adjetivo	ne|[vrág]|mi|co

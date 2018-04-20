@@ -1,0 +1,100 @@
+abjeto	nome masculino	ab|[je]|to
+abjudicação	nome feminino	ab|ju|di|ca|[ção]
+abjudicador	adjetivo	ab|ju|di|ca|[dor]
+abjudicador	nome masculino	ab|ju|di|ca|[dor]
+abjudicadora	nome feminino	ab|ju|di|ca|[do]|ra
+abjudicante	adjetivo	ab|ju|di|[can]|te
+abjudicante	nome masculino	ab|ju|di|[can]|te
+abjudicante	nome feminino	ab|ju|di|[can]|te
+abjudicar	verbo	ab|ju|di|[car]
+abjudicável	adjetivo	ab|ju|di|[cá]|vel
+abjugado	adjetivo	ab|ju|[ga]|do
+abjugar	verbo	ab|ju|[gar]
+abjugativo	adjetivo	ab|ju|ga|[ti]|vo
+abjunção	nome feminino	ab|jun|[ção]
+abjungir	verbo	ab|jun|[gir]
+abjuntivo	adjetivo	ab|jun|[ti]|vo
+abjuração	nome feminino	ab|ju|ra|[ção]
+abjurado	adjetivo	ab|ju|[ra]|do
+abjurador	adjetivo	ab|ju|ra|[dor]
+abjurador	nome masculino	ab|ju|ra|[dor]
+abjuradora	nome feminino	ab|ju|ra|[do]|ra
+abjuramento	nome masculino	ab|ju|ra|[men]|to
+abjurando	adjetivo	ab|ju|[ran]|do
+abjurante	adjetivo	ab|ju|[ran]|te
+abjurante	nome masculino	ab|ju|[ran]|te
+abjurante	nome feminino	ab|ju|[ran]|te
+abjurar	verbo	ab|ju|[rar]
+abjuratório	adjetivo	ab|ju|ra|[tó]|ri|o
+abjurável	adjetivo	ab|ju|[rá]|vel
+abjurgar	verbo	ab|jur|[gar]
+abjurgatório	adjetivo	ab|jur|ga|[tó]|ri|o
+ablação	nome feminino	a|bla|[ção]
+ablactação	nome feminino	a|blac|ta|[ção]
+ablactar	verbo	a|blac|[tar]
+ablamelar	adjetivo	a|bla|me|[lar]
+ablamelária	nome feminino	a|bla|me|[lá]|ri|a
+ablaminar	adjetivo	a|bla|mi|[nar]
+ablaminária	nome feminino	a|bla|mi|[ná]|ri|a
+ablânia	nome feminino	a|[blâ]|ni|a
+ablaqueação	nome feminino	a|bla|que|a|[ção]
+ablaquear	verbo	a|bla|que|[ar]
+ablaquetar	verbo	a|bla|que|[tar]
+ablativismo	nome masculino	a|bla|ti|[vis]|mo
+ablativo	nome masculino	a|bla|[ti]|vo
+ablativo	adjetivo	a|bla|[ti]|vo
+ablator	adjetivo	a|bla|[tor]
+ablator	nome masculino	a|bla|[tor]
+ablecto	nome masculino	a|[blec]|to
+ablefaria	nome feminino	a|ble|fa|[ri]|a
+abléfaro	nome masculino	a|[blé]|fa|ro
+abléfaro	adjetivo	a|[blé]|fa|ro
+ablefaroptose	nome feminino	a|ble|fa|rop|[to]|se
+ablegação	nome feminino	ab|le|ga|[ção]
+ablegado	nome masculino	ab|le|[ga]|do
+ablegado	adjetivo	ab|le|[ga]|do
+ablegador	adjetivo	a|ble|ga|[dor]
+ablegador	nome masculino	a|ble|ga|[dor]
+ablegante	adjetivo	a|ble|[gan]|te
+ablegante	nome masculino	a|ble|[gan]|te
+ablegante	nome feminino	a|ble|[gan]|te
+ablegar	verbo	ab|le|[gar]
+ableitação	nome feminino	a|blei|ta|[ção]
+ableitar	verbo	a|blei|[tar]
+ablepsia	nome feminino	a|blep|[si]|a
+abléptico	adjetivo	a|[blép]|ti|co
+abliteiro	adjetivo	a|bli|[tei]|ro
+abliteiro	nome masculino	a|bli|[tei]|ro
+ablitense	nome feminino	a|bli|[ten]|se
+ablitense	adjetivo	a|bli|[ten]|se
+ablitense	nome masculino	a|bli|[ten]|se
+ablocação	nome feminino	a|blo|ca|[ção]
+ablocado	adjetivo	a|blo|[ca]|do
+ablocador	adjetivo	a|blo|ca|[dor]
+ablocador	nome masculino	a|blo|ca|[dor]
+ablocar	verbo	a|blo|[car]
+ablocatário	nome masculino	a|blo|ca|[tá]|ri|o
+ablocável	adjetivo	a|blo|[cá]|vel
+ablução	nome feminino	a|blu|[ção]
+abluente	adjetivo	a|blu|[en]|te
+abluente	nome masculino	a|blu|[en]|te
+abluente	nome feminino	a|blu|[en]|te
+abluir	verbo	a|blu|[ir]
+ablutor	adjetivo	a|blu|[tor]
+ablutor	nome masculino	a|blu|[tor]
+abluvião	nome feminino	a|blu|vi|[ão]
+ablúvio	nome masculino	a|[blú]|vi|o
+abnegação	nome feminino	ab|ne|ga|[ção]
+abnegadamente	advérbio	ab|ne|ga|da|[men]|te
+abnegado	adjetivo	ab|ne|[ga]|do
+abnegado	nome masculino	ab|ne|[ga]|do
+abnegador	adjetivo	ab|ne|ga|[dor]
+abnegador	nome masculino	ab|ne|ga|[dor]
+abnegar	verbo	ab|ne|[gar]
+abnegativo	adjetivo	ab|ne|ga|[ti]|vo
+abneto	nome masculino	ab|[ne]|to
+abnodação	nome feminino	ab|no|da|[ção]
+abnodar	verbo	ab|no|[dar]
+abnodoso	adjetivo	ab|no|[do]|so
+abnormal	adjetivo	ab|nor|[mal]
+abnorme	adjetivo	ab|[nor]|me

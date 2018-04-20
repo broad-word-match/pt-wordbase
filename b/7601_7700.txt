@@ -1,0 +1,100 @@
+bulhão	nome masculino	bu|[lhão]
+bulhão	adjetivo	bu|[lhão]
+bulhar	verbo	bu|[lhar]
+bulhenta	nome feminino	bu|[lhen]|ta
+bulhento	adjetivo	bu|[lhen]|to
+bulhento	nome masculino	bu|[lhen]|to
+bulhufas	pronome indefinido	bu|[lhu]|fas
+buli	nome masculino	bu|[li]
+buliceira	nome feminino	bu|li|[cei]|ra
+bulício	nome masculino	bu|[lí]|ci|o
+buliçosamente	advérbio	bu|li|ço|sa|[men]|te
+buliçoso	adjetivo	bu|li|[ço]|so
+bulideira	nome feminino	bu|li|[dei]|ra
+bulideiro	adjetivo	bu|li|[dei]|ro
+bulidela	nome feminino	bu|li|[de]|la
+bulidense	adjetivo	bu|li|[den]|se
+bulidense	nome masculino	bu|li|[den]|se
+bulidense	nome feminino	bu|li|[den]|se
+bulidor	adjetivo	bu|li|[dor]
+bulimento	nome masculino	bu|li|[men]|to
+bulimia	nome feminino	bu|li|[mi]|a
+bulimíase	nome feminino	bu|li|[mí]|a|se
+bulímico	nome masculino	bu|[lí]|mi|co
+bulímico	adjetivo	bu|[lí]|mi|co
+bulimo	nome masculino	bu|[li]|mo
+búlino	adjetivo	[bú]|li|no
+búlino	nome masculino	[bú]|li|no
+bulir	verbo	bu|[lir]
+bulista	nome masculino	bu|[lis]|ta
+bulldog	nome masculino	[bull]|dog
+bulldozer	nome masculino	bull|do|zer
+bulunga	nome feminino	bu|[lun]|ga
+bum	interjeição	[bum]
+bumba	interjeição	[bum]|ba
+bumba-meu-boi	nome masculino	bum|ba-meu-boi
+bumbar	verbo	bum|[bar]
+bumbo	nome masculino	[bum]|bo
+bumbum	nome masculino	bum|[bum]
+bume	nome masculino	[bu]|me
+bumerangue	nome masculino	bu|me|[ran]|gue
+bunda	nome feminino	[bun]|da
+bunda	nome masculino	[bun]|da
+bundana	nome feminino	bun|[da]|na
+bundar	verbo	bun|[dar]
+bundo	nome masculino	[bun]|do
+bungá	nome masculino	bun|[gá]
+bungalow	nome masculino	bun|ga|low
+bungee-jumping	nome masculino	bun|gee-jum|ping
+bungular	verbo	bun|gu|[lar]
+bunhar	verbo	bu|[nhar]
+bunheiro	nome masculino	bu|[nhei]|ro
+bunho	nome masculino	[bu]|nho
+bunídea	nome feminino	bu|[ní]|de|a
+búnio	nome masculino	[bú]|ni|o
+bunker	nome masculino	[bun]|ker
+bunodonte	adjetivo	bu|no|[don]|te
+búnquer	nome masculino	[bún]|quer
+bupreste	nome masculino	bu|[pres]|te
+bupreste	nome feminino	bu|[pres]|te
+bupréstida	nome masculino	bu|[prés]|ti|da
+buprestídeo	nome masculino	bu|pres|[tí]|de|o
+buprestídeo	adjetivo	bu|pres|[tí]|de|o
+buquê	nome masculino	bu|[quê]
+buque	nome masculino	[bu]|que
+bur	adjetivo	[bur]
+bur	nome masculino	[bur]
+bur	nome feminino	[bur]
+buraca	nome feminino	bu|[ra]|ca
+buraçanga	nome feminino	bu|ra|[çan]|ga
+buracão	nome masculino	bu|ra|[cão]
+buracar	verbo	bu|ra|[car]
+buraco	nome masculino	bu|[ra]|co
+buranhém	nome masculino	bu|ra|[nhém]
+buraqueira	nome feminino	bu|ra|[quei]|ra
+burara	nome feminino	bu|[ra]|ra
+burarema	nome feminino	bu|ra|[re]|ma
+burato	nome masculino	bu|[ra]|to
+burburejar	verbo	bur|bu|re|[jar]
+burburijar	verbo	bur|bu|ri|[jar]
+burburinhar	verbo	bur|bu|ri|[nhar]
+burburinho	nome masculino	bur|bu|[ri]|nho
+burca	nome feminino	[bur]|ca
+burdegalense	adjetivo	bur|de|ga|[len]|se
+burdegalense	nome masculino	bur|de|ga|[len]|se
+burdegalense	nome feminino	bur|de|ga|[len]|se
+burdigalense	adjetivo	bur|di|ga|[len]|se
+burdigalense	nome masculino	bur|di|ga|[len]|se
+burdigalense	nome feminino	bur|di|ga|[len]|se
+burdigaliano	adjetivo	bur|di|ga|li|[a]|no
+burdo	adjetivo	[bur]|do
+buré	nome masculino	bu|[ré]
+bureau	nome masculino	bu|reau
+burel	nome masculino	bu|[rel]
+burela	nome feminino	bu|[re]|la
+burelado	adjetivo	bu|re|[la]|do
+burelina	nome feminino	bu|re|[li]|na
+bureta	nome feminino	bu|[re]|ta
+bureva	nome feminino	bu|[re]|va
+burgalês	adjetivo	bur|ga|[lês]
+burgalês	nome masculino	bur|ga|[lês]

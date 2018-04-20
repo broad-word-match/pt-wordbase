@@ -1,0 +1,100 @@
+mentes	conjunção	[men]|tes
+mentesano	nome masculino	men|te|[sa]|no
+mentesano	adjetivo	men|te|[sa]|no
+mentideiro	nome masculino	men|ti|[dei]|ro
+mentido	adjetivo	men|[ti]|do
+mentigem	nome feminino	men|[ti]|gem
+mentigo	nome masculino	men|[ti]|go
+mentílico	adjetivo	men|[tí]|li|co
+mentilo	nome masculino	men|[ti]|lo
+mentir	verbo	men|[tir]
+mentira	nome feminino	men|[ti]|ra
+mentirada	nome feminino	men|ti|[ra]|da
+mentireiro	adjetivo	men|ti|[rei]|ro
+mentireiro	nome masculino	men|ti|[rei]|ro
+mentirola	nome masculino	men|ti|[ro]|la
+mentirola	nome feminino	men|ti|[ro]|la
+mentirosa	nome feminino	men|ti|[ro]|sa
+mentirosamente	advérbio	men|ti|ro|sa|[men]|te
+mentiroso	adjetivo	men|ti|[ro]|so
+mentiroso	nome masculino	men|ti|[ro]|so
+mentismo	nome masculino	men|[tis]|mo
+mento	nome masculino	[men]|to
+mento-faríngeo	adjetivo	men|to-fa|[rín]|ge|o
+mentol	nome masculino	men|[tol]
+mentolabial	adjetivo	men|to|la|bi|[al]
+mentolado	adjetivo	men|to|[la]|do
+mentólico	adjetivo	men|[tó]|li|co
+mentor	nome masculino	men|[tor]
+mentora	nome feminino	men|[to]|ra
+mentraste	nome masculino	men|[tras]|te
+mentrasto	nome masculino	men|[tras]|to
+mentrastro	nome masculino	men|[tras]|tro
+mentruz	nome masculino	men|[truz]
+mêntula	nome feminino	[mên]|tu|la
+mentulagra	nome feminino	men|tu|[la]|gra
+menu	nome masculino	me|[nu]
+menúrida	nome masculino	me|[nú]|ri|da
+menurídeo	nome masculino	me|nu|[rí]|de|o
+menurídeo	nome masculino	me|nu|[rí]|de|o
+menurídeo	adjetivo	me|nu|[rí]|de|o
+meócio	adjetivo	me|[ó]|ci|o
+meônio	adjetivo	me|[ô]|ni|o
+meônio	nome masculino	me|[ô]|ni|o
+meónio	adjetivo	me|[ó]|ni|o
+meónio	nome masculino	me|[ó]|ni|o
+meota	nome feminino	me|[o]|ta
+meota	adjetivo	me|[o]|ta
+meota	nome masculino	me|[o]|ta
+meote	nome masculino	me|[o]|te
+meótico	adjetivo	me|[ó]|ti|co
+mepinda	nome masculino	me|[pin]|da
+mequetrefe	nome masculino	me|que|[tre]|fe
+mera	nome feminino	[me]|ra
+merada	nome feminino	me|[ra]|da
+meralgia	nome feminino	me|ral|[gi]|a
+merálgico	adjetivo	me|[rál]|gi|co
+meramente	advérbio	me|ra|[men]|te
+merapinima	nome feminino	me|ra|pi|[ni]|ma
+merarca	nome masculino	me|[rar]|ca
+meraró	nome masculino	me|ra|[ró]
+merarquia	nome feminino	me|rar|[qui]|a
+meratrofia	nome feminino	me|ra|tro|[fi]|a
+merca	nome feminino	[mer]|ca
+merca-honra	nome feminino	mer|ca-hon|ra
+merca-honra	nome masculino	mer|ca-hon|ra
+merca-tudo	nome masculino	mer|ca-tu|do
+mercaço	nome masculino	mer|[ca]|ço
+mercadejante	adjetivo	mer|ca|de|[jan]|te
+mercadejar	verbo	mer|ca|de|[jar]
+mercadejável	adjetivo	mer|ca|de|[já]|vel
+mercado	nome masculino	mer|[ca]|do
+mercado-alvo	nome masculino	mer|ca|do-al|vo
+mercadologia	nome feminino	mer|ca|do|lo|[gi]|a
+mercadológico	adjetivo	mer|ca|do|[ló]|gi|co
+mercador	nome masculino	mer|ca|[dor]
+mercadora	nome feminino	mer|ca|[do]|ra
+mercadoria	nome feminino	mer|ca|do|[ri]|a
+mercancia	nome feminino	mer|can|[ci]|a
+mercanciar	verbo	mer|can|ci|[ar]
+mercante	nome masculino	mer|[can]|te
+mercante	adjetivo	mer|[can]|te
+mercante	nome feminino	mer|[can]|te
+mercantel	nome masculino	mer|can|[tel]
+mercantil	adjetivo	mer|can|[til]
+mercantilagem	nome feminino	mer|can|ti|[la]|gem
+mercantilidade	nome feminino	mer|can|ti|li|[da]|de
+mercantilismo	nome masculino	mer|can|ti|[lis]|mo
+mercantilista	nome masculino	mer|can|ti|[lis]|ta
+mercantilista	adjetivo	mer|can|ti|[lis]|ta
+mercantilista	nome feminino	mer|can|ti|[lis]|ta
+mercantilístico	adjetivo	mer|can|ti|[lís]|ti|co
+mercantilização	nome feminino	mer|can|ti|li|za|[ção]
+mercantilizar	verbo	mer|can|ti|li|[zar]
+mercantilmente	advérbio	mer|can|til|[men]|te
+mercantismo	nome masculino	mer|can|[tis]|mo
+mercar	verbo	mer|[car]
+mercar	nome masculino	mer|[car]
+mercaria	nome feminino	mer|ca|[ri]|a
+mercatório	adjetivo	mer|ca|[tó]|ri|o
+mercatura	nome feminino	mer|ca|[tu]|ra

@@ -1,0 +1,100 @@
+andícola	nome masculino	an|[dí]|co|la
+andícola	nome feminino	an|[dí]|co|la
+andilhas	nome feminino	an|[di]|lhas
+andilheiro	nome masculino	an|di|[lhei]|ro
+andim	nome masculino	an|[dim]
+andina	nome feminino	an|[di]|na
+andineiro	nome masculino	an|di|[nei]|ro
+andinhas	nome feminino	an|[di]|nhas
+andino	adjetivo	an|[di]|no
+andino	nome masculino	an|[di]|no
+andirá	nome masculino	an|di|[rá]
+andirá-açu	nome masculino	an|di|rá-a|[çu]
+andirá-guaçu	nome masculino	an|di|rá-gua|[çu]
+andiroba	nome feminino	an|di|[ro]|ba
+andirobal	nome masculino	an|di|ro|[bal]
+andirobeira	nome feminino	an|di|ro|[bei]|ra
+ândito	nome masculino	[ân]|di|to
+andoa	nome feminino	an|[do]|a
+andoar	verbo	an|do|[ar]
+andóbia	nome feminino	an|[dó]|bi|a
+andolo	nome masculino	an|[do]|lo
+andongo	adjetivo	an|[don]|go
+andongo	nome masculino	an|[don]|go
+andor	nome masculino	an|[dor]
+andorinha	nome feminino	an|do|[ri]|nha
+andorinha-da-serra	nome feminino	an|do|ri|nha-da-ser|ra
+andorinha-do-mar	nome feminino	an|do|ri|nha-do-mar
+andorinha-do-mato	nome feminino	an|do|ri|nha-do-ma|to
+andorinha-grande	nome feminino	an|do|ri|nha-gran|de
+andorinhagem	nome feminino	an|do|ri|[nha]|gem
+andorinhão	nome masculino	an|do|ri|[nhão]
+andorinho	nome masculino	an|do|[ri]|nho
+andorinho	adjetivo	an|do|[ri]|nho
+andorino	adjetivo	an|do|[ri]|no
+andorisco	nome masculino	an|do|[ris]|co
+andorrana	nome feminino	an|dor|[ra]|na
+andorrano	nome masculino	an|dor|[ra]|no
+andorrano	adjetivo	an|dor|[ra]|no
+andorrense	adjetivo	an|dor|[ren]|se
+andorrense	nome masculino	an|dor|[ren]|se
+andorrense	nome feminino	an|dor|[ren]|se
+andorriano	adjetivo	an|dor|ri|[a]|no
+andorriano	nome masculino	an|dor|ri|[a]|no
+andracneia	nome feminino	an|drac|[nei]|a
+andradita	nome feminino	an|dra|[di]|ta
+andradite	nome feminino	an|dra|[di]|te
+andradítico	adjetivo	an|dra|[dí]|ti|co
+andrajo	nome masculino	an|[dra]|jo
+andrajosamente	advérbio	an|dra|jo|sa|[men]|te
+andrajosidade	nome feminino	an|dra|jo|si|[da]|de
+andrajoso	adjetivo	an|dra|[jo]|so
+andré-belo	nome masculino	an|dré-be|lo
+andreácea	nome feminino	an|dre|[á]|ce|a
+andrebelo	nome masculino	an|dre|[be]|lo
+andreense	adjetivo	an|dre|[en]|se
+andreense	nome masculino	an|dre|[en]|se
+andreense	nome feminino	an|dre|[en]|se
+andreia	nome feminino	an|[drei]|a
+andrena	nome feminino	an|[dre]|na
+andrenoide	adjetivo	an|dre|[noi]|de
+andrequicé	nome masculino	an|dre|qui|[cé]
+andrino	adjetivo	an|[dri]|no
+andrinopla	nome feminino	an|dri|[no]|pla
+andrinopolitano	adjetivo	an|dri|no|po|li|[ta]|no
+andrinopolitano	nome masculino	an|dri|no|po|li|[ta]|no
+andrio	nome masculino	an|[dri]|o
+androceu	nome masculino	an|dro|[ceu]
+andróctono	nome masculino	an|[dróc]|to|no
+androdamante	nome masculino	an|dro|da|[man]|te
+androdínamo	adjetivo	an|dro|[dí]|na|mo
+androdínamo	nome masculino	an|dro|[dí]|na|mo
+andrófaga	nome feminino	an|[dró]|fa|ga
+androfagia	nome feminino	an|dro|fa|[gi]|a
+andrófago	adjetivo	an|[dró]|fa|go
+andrófago	nome masculino	an|[dró]|fa|go
+andrófila	nome feminino	an|[dró]|fi|la
+androfilia	nome feminino	an|dro|fi|[li]|a
+andrófilo	adjetivo	an|[dró]|fi|lo
+andrófilo	nome masculino	an|[dró]|fi|lo
+andrófoba	nome feminino	an|[dró]|fo|ba
+androfobia	nome feminino	an|dro|fo|[bi]|a
+andrófobo	adjetivo	an|[dró]|fo|bo
+andrófobo	nome masculino	an|[dró]|fo|bo
+andróforo	nome masculino	an|[dró]|fo|ro
+androgenesia	nome feminino	an|dro|ge|ne|[si]|a
+androgenésico	adjetivo	an|dro|ge|[né]|si|co
+androgenético	adjetivo	an|dro|ge|[né]|ti|co
+androgenia	nome feminino	an|dro|ge|[ni]|a
+androgénico	adjetivo	an|dro|[gé]|ni|co
+androgênico	adjetivo	an|dro|[gê]|ni|co
+androgénio	nome masculino	an|dro|[gé]|ni|o
+androgênio	adjetivo	an|dro|[gê]|ni|o
+androgênio	nome masculino	an|dro|[gê]|ni|o
+androgénio	adjetivo	an|dro|[gé]|ni|o
+andrógeno	adjetivo	an|[dró]|ge|no
+andrógina	nome feminino	an|[dró]|gi|na
+androginia	nome feminino	an|dro|gi|[ni]|a
+androgínico	adjetivo	an|dro|[gí]|ni|co
+androginismo	nome masculino	an|dro|gi|[nis]|mo
+andrógino	adjetivo	an|[dró]|gi|no

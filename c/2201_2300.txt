@@ -1,0 +1,100 @@
+camacho	nome masculino	ca|[ma]|cho
+camacoza	nome masculino	ca|ma|[co]|za
+camacoza	nome feminino	ca|ma|[co]|za
+camada	nome feminino	ca|[ma]|da
+camafeu	nome masculino	ca|ma|[feu]
+camafonje	nome masculino	ca|ma|[fon]|je
+camal	nome masculino	ca|[mal]
+camáldula	nome feminino	ca|[mál]|du|la
+camáldulas	nome feminino	ca|[mál]|du|las
+camaldulense	adjetivo	ca|mal|du|[len]|se
+camáldulo	nome masculino	ca|[mál]|du|lo
+camaleão	nome masculino	ca|ma|le|[ão]
+camaleão-de-asas	nome masculino	ca|ma|le|ão-de-a|sas
+camalenga	nome feminino	ca|ma|[len]|ga
+camaleónico	adjetivo	ca|ma|le|[ó]|ni|co
+camaleônico	adjetivo	ca|ma|le|[ô]|ni|co
+camaleonídeo	nome masculino	ca|ma|le|o|[ní]|de|o
+camaleonismo	nome masculino	ca|ma|le|o|[nis]|mo
+camalha	nome feminino	ca|[ma]|lha
+camalhão	nome masculino	ca|ma|[lhão]
+camalho	nome masculino	ca|[ma]|lho
+camalongo	nome masculino	ca|ma|[lon]|go
+camalote	nome masculino	ca|ma|[lo]|te
+camamu	adjetivo	ca|ma|[mu]
+camamu	nome masculino	ca|ma|[mu]
+camamu	nome feminino	ca|ma|[mu]
+camamuri	nome masculino	ca|ma|mu|[ri]
+camândulas	nome feminino	ca|[mân]|du|las
+camanga	nome feminino	ca|[man]|ga
+camanguista	nome masculino	ca|man|[guis]|ta
+camanguista	nome feminino	ca|man|[guis]|ta
+camão	nome masculino	ca|[mão]
+camapé	nome masculino	ca|ma|[pé]
+camapu	nome masculino	ca|ma|[pu]
+camar	verbo	ca|[mar]
+câmara	nome masculino	[câ]|ma|ra
+câmara	nome feminino	[câ]|ma|ra
+câmara de ar	nome feminino	[câ]|ma|ra de ar
+câmara-ardente	nome feminino	câ|ma|ra-ar|[den]|te
+câmara-lobense	nome masculino	câ|ma|ra-lo|[ben]|se
+câmara-lobense	adjetivo	câ|ma|ra-lo|[ben]|se
+câmara-lobense	nome feminino	câ|ma|ra-lo|[ben]|se
+camaracubo	nome masculino	ca|ma|ra|[cu]|bo
+camarada	nome masculino	ca|ma|[ra]|da
+camarada	nome feminino	ca|ma|[ra]|da
+camarada	adjetivo	ca|ma|[ra]|da
+camaradagem	nome feminino	ca|ma|ra|[da]|gem
+camaradão	nome masculino	ca|ma|ra|[dão]
+camaradar	verbo	ca|ma|ra|[dar]
+camaradesco	adjetivo	ca|ma|ra|[des]|co
+camaradia	nome feminino	ca|ma|ra|[di]|a
+camaradinha	nome feminino	ca|ma|ra|[di]|nha
+camarajapo	nome masculino	ca|ma|ra|[ja]|po
+camarajuba	nome feminino	ca|ma|ra|[ju]|ba
+camarambaia	nome feminino	ca|ma|ram|[bai]|a
+camaranchão	nome masculino	ca|ma|ran|[chão]
+camarano	adjetivo	ca|ma|[ra]|no
+camarão	nome masculino	ca|ma|[rão]
+camarão-bruxo	nome masculino	ca|ma|rão-bru|xo
+camarão-mouro	nome masculino	ca|ma|rão-mou|ro
+camararé	adjetivo	ca|ma|ra|[ré]
+camararé	nome masculino	ca|ma|ra|[ré]
+camararé	nome feminino	ca|ma|ra|[ré]
+camararia	nome feminino	ca|ma|ra|[ri]|a
+camarário	adjetivo	ca|ma|[rá]|ri|o
+camarário	nome masculino	ca|ma|[rá]|ri|o
+câmaras	nome feminino	[câ]|ma|ras
+camarata	nome feminino	ca|ma|[ra]|ta
+camarate	nome masculino	ca|ma|[ra]|te
+camaratinga	nome feminino	ca|ma|ra|[tin]|ga
+camarau	nome masculino	ca|ma|[rau]
+camarazal	nome masculino	ca|ma|ra|[zal]
+camarçada	nome feminino	ca|mar|[ça]|da
+camarção	nome masculino	ca|mar|[ção]
+camarço	nome masculino	ca|[mar]|ço
+camareira	nome feminino	ca|ma|[rei]|ra
+camareiro	nome masculino	ca|ma|[rei]|ro
+camareiro-mor	nome masculino	ca|ma|rei|ro-mor
+camarento	adjetivo	ca|ma|[ren]|to
+camaria	nome feminino	ca|ma|[ri]|a
+camarilha	nome feminino	ca|ma|[ri]|lha
+camarim	nome masculino	ca|ma|[rim]
+camarinha	nome feminino	ca|ma|[ri]|nha
+camarinhar	verbo	ca|ma|ri|[nhar]
+camarinheira	nome feminino	ca|ma|ri|[nhei]|ra
+camarino	adjetivo	ca|ma|[ri]|no
+camarino	nome masculino	ca|ma|[ri]|no
+camarista	nome masculino	ca|ma|[ris]|ta
+camarista	nome feminino	ca|ma|[ris]|ta
+camarita	adjetivo	ca|ma|[ri]|ta
+camarita	nome masculino	ca|ma|[ri]|ta
+camarita	nome feminino	ca|ma|[ri]|ta
+camarlengado	nome masculino	ca|mar|len|[ga]|do
+camarlengo	nome masculino	ca|mar|[len]|go
+camaroeira	nome feminino	ca|ma|ro|[ei]|ra
+camaroeiro	nome masculino	ca|ma|ro|[ei]|ro
+camarografia	nome feminino	ca|ma|ro|gra|[fi]|a
+camarográfico	adjetivo	ca|ma|ro|[grá]|fi|co
+camarógrafo	nome masculino	ca|ma|[ró]|gra|fo
+camarólito	nome masculino	ca|ma|[ró]|li|to

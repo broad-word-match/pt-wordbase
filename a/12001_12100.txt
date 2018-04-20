@@ -1,0 +1,100 @@
+ancirano	nome masculino	an|ci|[ra]|no
+ancirano	adjetivo	an|ci|[ra]|no
+anciroide	adjetivo	an|ci|[roi]|de
+anco	nome masculino	[an]|co
+ancol	nome masculino	an|[col]
+ancólia	nome feminino	an|[có]|li|a
+anconagra	nome feminino	an|co|[na]|gra
+ancóneo	adjetivo	an|[có]|ne|o
+ancôneo	adjetivo	an|[cô]|ne|o
+anconitano	nome masculino	an|co|ni|[ta]|no
+anconitano	adjetivo	an|co|ni|[ta]|no
+âncora	nome feminino	[ân]|co|ra
+ancoração	nome feminino	an|co|ra|[ção]
+ancorado	adjetivo	an|co|[ra]|do
+ancoradoiro	nome masculino	an|co|ra|[doi]|ro
+ancoradouro	nome masculino	an|co|ra|[dou]|ro
+ancoragem	nome feminino	an|co|[ra]|gem
+ancorar	verbo	an|co|[rar]
+ancoreta	nome feminino	an|co|[re]|ta
+ancorete	nome masculino	an|co|[re]|te
+ancorote	nome masculino	an|co|[ro]|te
+ancudo	adjetivo	an|[cu]|do
+ancusa	nome feminino	an|[cu]|sa
+ancusina	nome feminino	an|cu|[si]|na
+anda	nome feminino	[an]|da
+andá	nome masculino	an|[dá]
+andá-açu	nome masculino	an|dá-a|[çu]
+andá-guaçu	nome masculino	an|dá-gua|[çu]
+andábata	nome masculino	an|[dá]|ba|ta
+andaca	nome feminino	an|[da]|ca
+andaço	nome masculino	an|[da]|ço
+andada	nome feminino	an|[da]|da
+andadeira	nome feminino	an|da|[dei]|ra
+andadeiro	adjetivo	an|da|[dei]|ro
+andadeiro	nome masculino	an|da|[dei]|ro
+andador	nome masculino	an|da|[dor]
+andador	adjetivo	an|da|[dor]
+andadoria	nome feminino	an|da|do|[ri]|a
+andadura	nome feminino	an|da|[du]|ra
+andaia	nome feminino	an|[dai]|a
+andaiá-guaçu	nome feminino	an|dai|á-gua|[çu]
+andaimada	nome feminino	an|dai|[ma]|da
+andaimar	verbo	an|dai|[mar]
+andaimaria	nome feminino	an|dai|ma|[ri]|a
+andaime	nome masculino	an|[dai]|me
+andaimo	nome masculino	an|[dai]|mo
+andaina	nome feminino	an|[dai]|na
+andala	nome feminino	an|[da]|la
+andaluz	adjetivo	an|da|[luz]
+andaluz	nome masculino	an|da|[luz]
+andaluza	nome feminino	an|da|[lu]|za
+andaluzita	nome feminino	an|da|lu|[zi]|ta
+andaluzite	nome feminino	an|da|lu|[zi]|te
+andaluzítico	adjetivo	an|da|lu|[zí]|ti|co
+andamanês	adjetivo	an|da|ma|[nês]
+andamanês	nome masculino	an|da|ma|[nês]
+andamento	nome masculino	an|da|[men]|to
+andana	nome feminino	an|[da]|na
+andança	nome feminino	an|[dan]|ça
+andanhos	nome masculino	an|[da]|nhos
+andante	nome masculino	an|[dan]|te
+andante	adjetivo	an|[dan]|te
+andante	nome feminino	an|[dan]|te
+andantesco	adjetivo	an|dan|[tes]|co
+andantino	nome masculino	an|dan|[ti]|no
+andapé	nome masculino	an|da|[pé]
+andar	verbo	an|[dar]
+andar	nome masculino	an|[dar]
+andar-modelo	nome masculino	an|dar-mo|[de]|lo
+andara	adjetivo	an|[da]|ra
+andara	nome masculino	an|[da]|ra
+andara	nome feminino	an|[da]|ra
+andareco	nome masculino	an|da|[re]|co
+andarego	adjetivo	an|da|[re]|go
+andarejo	adjetivo	an|da|[re]|jo
+andarengo	adjetivo	an|da|[ren]|go
+andarilha	nome feminino	an|da|[ri]|lha
+andarilhar	verbo	an|da|ri|[lhar]
+andarilho	nome masculino	an|da|[ri]|lho
+andarilho	adjetivo	an|da|[ri]|lho
+andarivel	nome masculino	an|da|ri|[vel]
+andarivelo	nome masculino	an|da|ri|[ve]|lo
+andas	nome feminino	[an]|das
+andável	adjetivo	an|[dá]|vel
+ande	adjetivo	[an]|de
+ande	nome masculino	[an]|de
+ande	nome feminino	[an]|de
+andebol	nome masculino	an|de|[bol]
+andebolista	nome masculino	an|de|bo|[lis]|ta
+andebolista	nome feminino	an|de|bo|[lis]|ta
+andebolístico	adjetivo	an|de|bo|[lís]|ti|co
+andecavo	adjetivo	an|de|[ca]|vo
+andecavo	nome masculino	an|de|[ca]|vo
+andeiro	adjetivo	an|[dei]|ro
+andejar	verbo	an|de|[jar]
+andejo	adjetivo	an|[de]|jo
+andesina	nome feminino	an|de|[si]|na
+andesite	nome feminino	an|de|[si]|te
+andesito	nome masculino	an|de|[si]|to
+andícola	adjetivo	an|[dí]|co|la

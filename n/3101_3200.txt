@@ -1,0 +1,100 @@
+novela	nome feminino	no|[ve]|la
+novelão	nome masculino	no|ve|[lão]
+novelar	verbo	no|ve|[lar]
+noveleira	nome feminino	no|ve|[lei]|ra
+noveleiro	nome masculino	no|ve|[lei]|ro
+noveleiro	adjetivo	no|ve|[lei]|ro
+novelesco	adjetivo	no|ve|[les]|co
+noveleta	nome feminino	no|ve|[le]|ta
+novelista	nome masculino	no|ve|[lis]|ta
+novelista	nome feminino	no|ve|[lis]|ta
+novelística	nome feminino	no|ve|[lís]|ti|ca
+novelisticamente	advérbio	no|ve|lis|ti|ca|[men]|te
+novelístico	adjetivo	no|ve|[lís]|ti|co
+novelo	nome masculino	no|[ve]|lo
+novembro	nome masculino	no|[vem]|bro
+novempópulo	adjetivo	no|vem|[pó]|pu|lo
+novempópulo	nome masculino	no|vem|[pó]|pu|lo
+novena	nome feminino	no|[ve]|na
+novenal	adjetivo	no|ve|[nal]
+novenário	nome masculino	no|ve|[ná]|ri|o
+novença	nome feminino	no|[ven]|ça
+novendial	adjetivo	no|ven|di|[al]
+novendial	nome masculino	no|ven|di|[al]
+novendigitado	adjetivo	no|ven|di|gi|[ta]|do
+novêndio	nome masculino	no|[vên]|di|o
+novenervado	adjetivo	no|ve|ner|[va]|do
+novenfoliado	adjetivo	no|ven|fo|li|[a]|do
+novénio	nome masculino	no|[vé]|ni|o
+novênio	nome masculino	no|[vê]|ni|o
+novenlobado	adjetivo	no|ven|lo|[ba]|do
+novennervado	adjetivo	no|ven|ner|[va]|do
+noveno	adjetivo	no|[ve]|no
+noventa	nome masculino	no|[ven]|ta
+noventa	número cardinal	no|[ven]|ta
+noventa	adjetivo	no|[ven]|ta
+novenvirado	nome masculino	no|ven|vi|[ra]|do
+novenvirato	nome masculino	no|ven|vi|[ra]|to
+novênviro	nome masculino	no|[vên]|vi|ro
+novercal	adjetivo	no|ver|[cal]
+noviça	nome feminino	no|[vi]|ça
+novice	nome feminino	no|[vi]|ce
+noviciado	nome masculino	no|vi|ci|[a]|do
+noviciar	verbo	no|vi|ci|[ar]
+noviciaria	nome feminino	no|vi|ci|a|[ri]|a
+noviciário	adjetivo	no|vi|ci|[á]|ri|o
+noviclassicismo	nome masculino	no|vi|clas|si|[cis]|mo
+noviclássico	adjetivo	no|vi|[clás]|si|co
+noviclássico	nome masculino	no|vi|[clás]|si|co
+noviço	adjetivo	no|[vi]|ço
+noviço	nome masculino	no|[vi]|ço
+novidade	nome feminino	no|vi|[da]|de
+novidadeira	nome feminino	no|vi|da|[dei]|ra
+novidadeiro	adjetivo	no|vi|da|[dei]|ro
+novidadeiro	nome masculino	no|vi|da|[dei]|ro
+novilatino	adjetivo	no|vi|la|[ti]|no
+novilha	nome feminino	no|[vi]|lha
+novilhada	nome feminino	no|vi|[lha]|da
+novilheiro	nome masculino	no|vi|[lhei]|ro
+novilho	nome masculino	no|[vi]|lho
+novilhote	nome masculino	no|vi|[lho]|te
+novilunar	adjetivo	no|vi|lu|[nar]
+novilúnio	nome masculino	no|vi|[lú]|ni|o
+novinho	adjetivo	no|[vi]|nho
+noviorquina	nome feminino	no|vi|or|[qui]|na
+noviorquino	adjetivo	no|vi|or|[qui]|no
+noviorquino	nome masculino	no|vi|or|[qui]|no
+novíssimo	adjetivo	no|[vís]|si|mo
+novíssimo	nome masculino	no|[vís]|si|mo
+novíssimos	nome masculino	no|[vís]|si|mos
+novo	adjetivo	[no]|vo
+novo	nome masculino	[no]|vo
+novo-rico	nome masculino	no|vo-ri|co
+novo-rico	adjetivo	no|vo-ri|co
+novo-riquismo	nome masculino	no|vo-ri|[quis]|mo
+novocaína	nome feminino	no|vo|ca|[í]|na
+novos	nome masculino	[no]|vos
+noxa	nome feminino	[no]|xa
+nóxio	adjetivo	[nó]|xi|o
+noz	nome feminino	[noz]
+noz-da-índia	nome feminino	noz-da-ín|di|a
+noz-de-areca	nome feminino	noz-de-a|[re]|ca
+noz-de-coco	nome feminino	noz-de-co|co
+noz-de-galha	nome feminino	noz-de-ga|lha
+noz-macadâmia	nome feminino	noz-ma|ca|[dâ]|mi|a
+noz-moscada	nome feminino	noz-mos|[ca]|da
+noz-vômica	nome feminino	noz-vô|mi|ca
+noz-vómica	nome feminino	noz-vó|mi|ca
+nozado	nome masculino	no|[za]|do
+nozeira	nome feminino	no|[zei]|ra
+nozelha	nome feminino	no|[ze]|lha
+nozelhão	nome masculino	no|ze|[lhão]
+nozilhão	nome masculino	no|zi|[lhão]
+npavo	nome masculino	[npa]|vo
+nquenho	nome masculino	[nque]|nho
+nsima	nome feminino	[nsi]|ma
+ntela	nome feminino	[nte]|la
+nthurre	nome masculino	[nthur]|re
+ntuculo	nome masculino	ntu|[cu]|lo
+ntumbulucu	nome masculino	ntum|bu|lu|[cu]
+ntxuva	nome masculino	[ntxu]|va

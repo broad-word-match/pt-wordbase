@@ -1,0 +1,100 @@
+couveiro	adjetivo	cou|[vei]|ro
+couvert	nome masculino	[cou]|vert
+couviniano	adjetivo	cou|vi|ni|[a]|no
+cova	nome feminino	[co]|va
+cova do ladrão	nome feminino	[co]|va do la|drão
+covacho	nome masculino	co|[va]|cho
+côvado	nome masculino	[cô]|va|do
+covador	nome masculino	co|va|[dor]
+covagem	nome feminino	co|[va]|gem
+coval	nome masculino	co|[val]
+covalência	nome feminino	co|va|[lên]|ci|a
+covalente	adjetivo	co|va|[len]|te
+covanca	nome feminino	co|[van]|ca
+covão	nome masculino	co|[vão]
+côvão	nome masculino	[cô]|vão
+covarde	adjetivo	co|[var]|de
+covarde	nome masculino	co|[var]|de
+covarde	nome feminino	co|[var]|de
+covardemente	advérbio	co|var|de|[men]|te
+covardia	nome feminino	co|var|[di]|a
+covariância	nome feminino	co|va|ri|[ân]|ci|a
+covariante	adjetivo	co|va|ri|[an]|te
+covato	nome masculino	co|[va]|to
+coveiro	nome masculino	co|[vei]|ro
+covelina	nome feminino	co|ve|[li]|na
+covelite	nome feminino	co|ve|[li]|te
+covellita	nome feminino	co|vel|[li]|ta
+covendedor	nome masculino	co|ven|de|[dor]
+cover	nome feminino	co|[ver]
+covidente	nome masculino	co|vi|[den]|te
+covidente	nome feminino	co|vi|[den]|te
+covil	nome masculino	co|[vil]
+covileiro	adjetivo	co|vi|[lei]|ro
+covilhanense	adjetivo	co|vi|lha|[nen]|se
+covilhanense	nome masculino	co|vi|lha|[nen]|se
+covilhanense	nome feminino	co|vi|lha|[nen]|se
+covilhete	nome masculino	co|vi|[lhe]|te
+covinha	nome feminino	co|[vi]|nha
+covo	adjetivo	[co]|vo
+covo	nome masculino	[co]|vo
+covoada	nome feminino	co|vo|[a]|da
+covocó	nome masculino	co|vo|[có]
+cowboy	nome masculino	cow|boy
+coxa	nome feminino	[co]|xa
+coxa-de-dama	nome feminino	co|xa-de-da|ma
+coxa-de-freira	nome feminino	co|xa-de-frei|ra
+coxal	adjetivo	co|[xal]
+coxal	nome masculino	co|[xal]
+coxalgia	nome feminino	co|xal|[gi]|a
+coxálgico	adjetivo	co|[xál]|gi|co
+coxão	nome masculino	co|[xão]
+coxartrose	nome feminino	co|xar|[tro]|se
+coxé	adjetivo	co|[xé]
+coxeadura	nome feminino	co|xe|a|[du]|ra
+coxeante	adjetivo	co|xe|[an]|te
+coxear	verbo	co|xe|[ar]
+coxeio	nome masculino	co|[xei]|o
+coxeira	nome feminino	co|[xei]|ra
+coxelas	nome masculino	co|[xe]|las
+coxêndico	adjetivo	co|[xên]|di|co
+coxete	nome masculino	co|[xe]|te
+coxia	nome feminino	co|[xi]|a
+coxilha	nome feminino	co|[xi]|lha
+coxilhão	nome masculino	co|xi|[lhão]
+coxim	nome masculino	co|[xim]
+coxinilho	nome masculino	co|xi|[ni]|lho
+coxípede	adjetivo	co|[xí]|pe|de
+coxite	nome feminino	co|[xi]|te
+coxo	adjetivo	[co]|xo
+coxo	nome masculino	[co]|xo
+coxofemoral	adjetivo	co|xo|fe|mo|[ral]
+coxonilho	nome masculino	co|xo|[ni]|lho
+coxote	nome masculino	co|[xo]|te
+coxovertebral	adjetivo	co|xo|ver|te|[bral]
+cozedeira	nome feminino	co|ze|[dei]|ra
+cozedor	adjetivo	co|ze|[dor]
+cozedor	nome masculino	co|ze|[dor]
+cozedura	nome feminino	co|ze|[du]|ra
+cozer	verbo	co|[zer]
+cozido	adjetivo	co|[zi]|do
+cozido	nome masculino	co|[zi]|do
+cozimento	nome masculino	co|zi|[men]|to
+cozinha	nome feminino	co|[zi]|nha
+cozinhada	nome feminino	co|zi|[nha]|da
+cozinhado	adjetivo	co|zi|[nha]|do
+cozinhado	nome masculino	co|zi|[nha]|do
+cozinhar	verbo	co|zi|[nhar]
+cozinhável	adjetivo	co|zi|[nhá]|vel
+cozinheira	nome feminino	co|zi|[nhei]|ra
+cozinheiro	nome masculino	co|zi|[nhei]|ro
+crabro	nome masculino	[cra]|bro
+craca	nome feminino	[cra]|ca
+crachá	nome masculino	cra|[chá]
+crache	nome masculino	[cra]|che
+crack	nome masculino	[crack]
+cracolé	nome masculino	cra|co|[lé]
+cracoviana	nome feminino	cra|co|vi|[a]|na
+cracoviano	adjetivo	cra|co|vi|[a]|no
+cracoviano	nome masculino	cra|co|vi|[a]|no
+craguatá	nome masculino	cra|gua|[tá]

@@ -1,0 +1,100 @@
+furoar	verbo	fu|ro|[ar]
+furoeira	nome feminino	fu|ro|[ei]|ra
+furoeiro	adjetivo	fu|ro|[ei]|ro
+furoeiro	nome masculino	fu|ro|[ei]|ro
+furona	nome feminino	fu|[ro]|na
+furor	nome masculino	fu|[ror]
+furriel	nome masculino	fur|ri|[el]
+furriel-mor	nome masculino	fur|ri|el-mor
+furrundu	nome masculino	fur|run|[du]
+furta	nome feminino	[fur]|ta
+furta-capa	nome masculino	fur|ta-ca|pa
+furta-cor	adjetivo	fur|ta-cor
+furta-cor	nome masculino	fur|ta-cor
+furta-cores	adjetivo	fur|ta-co|res
+furta-fogo	nome masculino	fur|ta-fo|go
+furta-passo	nome masculino	fur|ta-pas|so
+furtadela	nome feminino	fur|ta|[de]|la
+furtado	adjetivo	fur|[ta]|do
+furtante	nome masculino	fur|[tan]|te
+furtante	nome feminino	fur|[tan]|te
+furtar	verbo	fur|[tar]
+furtivamente	advérbio	fur|ti|va|[men]|te
+furtivo	adjetivo	fur|[ti]|vo
+furto	nome masculino	[fur]|to
+furufuru	nome masculino	fu|ru|fu|[ru]
+furuncular	adjetivo	fu|run|cu|[lar]
+furúnculo	nome masculino	fu|[rún]|cu|lo
+furunculose	nome feminino	fu|run|cu|[lo]|se
+furunculoso	adjetivo	fu|run|cu|[lo]|so
+fusa	nome feminino	[fu]|sa
+fusada	nome feminino	fu|[sa]|da
+fusano	nome masculino	fu|[sa]|no
+fusão	nome feminino	fu|[são]
+fusário	nome masculino	fu|[sá]|ri|o
+fúsaro	nome masculino	[fú]|sa|ro
+fusca	nome feminino	[fus]|ca
+fusca	nome masculino	[fus]|ca
+fuscalvo	adjetivo	fus|[cal]|vo
+fuscar	verbo	fus|[car]
+fuscicolo	adjetivo	fus|ci|[co]|lo
+fuscicórneo	adjetivo	fus|ci|[cór]|ne|o
+fuscímano	adjetivo	fus|[cí]|ma|no
+fuscina	nome feminino	fus|[ci]|na
+fuscipene	adjetivo	fus|ci|[pe]|ne
+fuscipéneo	adjetivo	fus|ci|[pé]|ne|o
+fuscipêneo	adjetivo	fus|ci|[pê]|ne|o
+fuscirrostro	adjetivo	fus|cir|[ros]|tro
+fuscite	nome feminino	fus|[ci]|te
+fusco	adjetivo	[fus]|co
+fuseira	nome feminino	fu|[sei]|ra
+fuseiro	nome masculino	fu|[sei]|ro
+fusela	nome feminino	fu|[se]|la
+fuselado	adjetivo	fu|se|[la]|do
+fuselagem	nome feminino	fu|se|[la]|gem
+fuselo	nome masculino	fu|[se]|lo
+fusibilidade	nome feminino	fu|si|bi|li|[da]|de
+fusicórneo	adjetivo	fu|si|[cór]|ne|o
+fusiforme	adjetivo	fu|si|[for]|me
+fúsil	adjetivo	[fú]|sil
+fusiloa	nome feminino	fu|si|[lo]|a
+fusionar	verbo	fu|si|o|[nar]
+fusionismo	nome masculino	fu|si|o|[nis]|mo
+fusionista	adjetivo	fu|si|o|[nis]|ta
+fusionista	nome masculino	fu|si|o|[nis]|ta
+fusionista	nome feminino	fu|si|o|[nis]|ta
+fusípede	adjetivo	fu|[sí]|pe|de
+fusível	adjetivo	fu|[sí]|vel
+fusível	nome masculino	fu|[sí]|vel
+fuso	nome masculino	[fu]|so
+fusoide	adjetivo	fu|[soi]|de
+fusório	adjetivo	fu|[só]|ri|o
+fusque-fusque	nome masculino	fus|que-fus|que
+fusquidão	nome feminino	fus|qui|[dão]
+fusta	nome feminino	[fus]|ta
+fustalha	nome feminino	fus|[ta]|lha
+fustão	nome masculino	fus|[tão]
+fustarrão	nome masculino	fus|tar|[rão]
+fuste	nome masculino	[fus]|te
+fuste	nome feminino	[fus]|te
+fustel	nome masculino	fus|[tel]
+fustete	nome masculino	fus|[te]|te
+fustiga	nome feminino	fus|[ti]|ga
+fustigação	nome feminino	fus|ti|ga|[ção]
+fustigada	nome feminino	fus|ti|[ga]|da
+fustigadela	nome feminino	fus|ti|ga|[de]|la
+fustigador	adjetivo	fus|ti|ga|[dor]
+fustigador	nome masculino	fus|ti|ga|[dor]
+fustigante	adjetivo	fus|ti|[gan]|te
+fustigar	verbo	fus|ti|[gar]
+fustigo	nome masculino	fus|[ti]|go
+fustina	nome feminino	fus|[ti]|na
+fusulina	nome feminino	fu|su|[li]|na
+fusulinídeo	nome masculino	fu|su|li|[ní]|de|o
+fusulinídeo	adjetivo	fu|su|li|[ní]|de|o
+futa	nome feminino	[fu]|ta
+futa-fula	nome feminino	fu|ta-fu|la
+futa-fula	nome masculino	fu|ta-fu|la
+futa-fula	adjetivo	fu|ta-fu|la
+futebol	nome masculino	fu|te|[bol]
+futebolês	nome feminino	fu|te|bo|[lês]

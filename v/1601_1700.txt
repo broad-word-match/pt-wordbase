@@ -1,0 +1,100 @@
+verberador	nome masculino	ver|be|ra|[dor]
+verberadora	nome feminino	ver|be|ra|[do]|ra
+verberante	adjetivo	ver|be|[ran]|te
+verberantemente	advérbio	ver|be|ran|te|[men]|te
+verberão	nome masculino	ver|be|[rão]
+verberar	verbo	ver|be|[rar]
+verberativo	adjetivo	ver|be|ra|[ti]|vo
+verberável	adjetivo	ver|be|[rá]|vel
+verbesina	nome feminino	ver|be|[si]|na
+verbetar	verbo	ver|be|[tar]
+verbete	nome masculino	ver|[be]|te
+verbeteiro	nome masculino	ver|be|[tei]|ro
+verbetista	nome masculino	ver|be|[tis]|ta
+verbetista	nome feminino	ver|be|[tis]|ta
+verbiagem	nome feminino	ver|bi|[a]|gem
+verbo	nome masculino	[ver]|bo
+verbo de encher	nome masculino	[ver]|bo de en|cher
+verbomania	nome feminino	ver|bo|ma|[ni]|a
+verbomaníaco	adjetivo	ver|bo|ma|[ní]|a|co
+verbomaníaco	nome masculino	ver|bo|ma|[ní]|a|co
+verbómano	adjetivo	ver|[bó]|ma|no
+verbómano	nome masculino	ver|[bó]|ma|no
+verbômano	adjetivo	ver|[bô]|ma|no
+verbômano	nome masculino	ver|[bô]|ma|no
+verborragia	nome feminino	ver|bor|ra|[gi]|a
+verborrágico	adjetivo	ver|bor|[rá]|gi|co
+verborreia	nome feminino	ver|bor|[rei]|a
+verborreico	adjetivo	ver|bor|[rei]|co
+verbosamente	advérbio	ver|bo|sa|[men]|te
+verbosidade	nome feminino	ver|bo|si|[da]|de
+verboso	adjetivo	ver|[bo]|so
+verça	nome feminino	[ver]|ça
+verça-de-cão	nome feminino	ver|ça-de-cão
+verçudo	adjetivo	ver|[çu]|do
+verdacho	adjetivo	ver|[da]|cho
+verdacho	nome masculino	ver|[da]|cho
+verdade	nome feminino	ver|[da]|de
+verdadeiramente	advérbio	ver|da|dei|ra|[men]|te
+verdadeiro	adjetivo	ver|da|[dei]|ro
+verdadeiro	nome masculino	ver|da|[dei]|ro
+verdasca	nome feminino	ver|[das]|ca
+verdasca	nome masculino	ver|[das]|ca
+verdascada	nome feminino	ver|das|[ca]|da
+verdascar	verbo	ver|das|[car]
+verdasco	nome masculino	ver|[das]|co
+verdasco	adjetivo	ver|[das]|co
+verdasto	adjetivo	ver|[das]|to
+verde	nome masculino	[ver]|de
+verde	adjetivo	[ver]|de
+verde-alface	adjetivo	ver|de-al|[fa]|ce
+verde-alface	nome masculino	ver|de-al|[fa]|ce
+verde-amarelado	nome masculino	ver|de-a|ma|re|[la]|do
+verde-amarelado	adjetivo	ver|de-a|ma|re|[la]|do
+verde-azeitona	adjetivo	ver|de-a|zei|[to]|na
+verde-azeitona	nome masculino	ver|de-a|zei|[to]|na
+verde-azulado	nome masculino	ver|de-a|zu|[la]|do
+verde-azulado	adjetivo	ver|de-a|zu|[la]|do
+verde-bexiga	nome masculino	ver|de-be|[xi]|ga
+verde-bronze	nome masculino	ver|de-bron|ze
+verde-bronze	adjetivo	ver|de-bron|ze
+verde-claro	nome masculino	ver|de-cla|ro
+verde-claro	adjetivo	ver|de-cla|ro
+verde-cré	nome masculino	ver|de-cré
+verde-ervilha	adjetivo	ver|de-er|[vi]|lha
+verde-ervilha	nome masculino	ver|de-er|[vi]|lha
+verde-escuro	adjetivo	ver|de-es|[cu]|ro
+verde-escuro	nome masculino	ver|de-es|[cu]|ro
+verde-esmeralda	adjetivo	ver|de-es|me|[ral]|da
+verde-esmeralda	nome masculino	ver|de-es|me|[ral]|da
+verde-gaio	nome masculino	ver|de-gai|o
+verde-gaio	adjetivo	ver|de-gai|o
+verde-garrafa	adjetivo	ver|de-gar|[ra]|fa
+verde-garrafa	nome masculino	ver|de-gar|[ra]|fa
+verde-limo	nome masculino	ver|de-li|mo
+verde-limo	adjetivo	ver|de-li|mo
+verde-maçã	nome masculino	ver|de-ma|[çã]
+verde-maçã	adjetivo	ver|de-ma|[çã]
+verde-malva	nome masculino	ver|de-mal|va
+verde-malva	adjetivo	ver|de-mal|va
+verde-mar	adjetivo	ver|de-mar
+verde-mar	nome masculino	ver|de-mar
+verde-mau	nome masculino	ver|de-mau
+verde-montanha	nome masculino	ver|de-mon|[ta]|nha
+verde-montanha	adjetivo	ver|de-mon|[ta]|nha
+verde-musgo	nome masculino	ver|de-mus|go
+verde-musgo	adjetivo	ver|de-mus|go
+verde-negro	adjetivo	ver|de-ne|gro
+verde-negro	nome masculino	ver|de-ne|gro
+verde-rubro	adjetivo	ver|de-ru|bro
+verde-salsa	adjetivo	ver|de-sal|sa
+verde-salsa	nome masculino	ver|de-sal|sa
+verde-verdete	nome masculino	ver|de-ver|[de]|te
+verde-verdete	adjetivo	ver|de-ver|[de]|te
+verdeal	nome masculino	ver|de|[al]
+verdeal	adjetivo	ver|de|[al]
+verdear	verbo	ver|de|[ar]
+verdecer	verbo	ver|de|[cer]
+verdegais	nome masculino	ver|de|[gais]
+verdegar	verbo	ver|de|[gar]
+verdegulho	nome masculino	ver|de|[gu]|lho

@@ -1,0 +1,100 @@
+zigonema	nome masculino	zi|go|[ne]|ma
+zigopétalo	nome masculino	zi|go|[pé]|ta|lo
+zigopolitano	adjetivo	zi|go|po|li|[ta]|no
+zigopolitano	nome masculino	zi|go|po|li|[ta]|no
+zigose	nome feminino	zi|[go]|se
+zigospório	nome masculino	zi|gos|[pó]|ri|o
+zigósporo	nome masculino	zi|[gós]|po|ro
+zigóstata	nome masculino	zi|[gós]|ta|ta
+zigotáctico	adjetivo	zi|go|[tác]|ti|co
+zigotactismo	nome masculino	zi|go|tac|[tis]|mo
+zigotático	adjetivo	zi|go|[tá]|ti|co
+zigotatismo	nome masculino	zi|go|ta|[tis]|mo
+zigoteno	adjetivo	zi|go|[te]|no
+zigótico	adjetivo	zi|[gó]|ti|co
+zigoto	nome masculino	zi|[go]|to
+zigotoblasto	nome masculino	zi|go|to|[blas]|to
+zigotómero	nome masculino	zi|go|[tó]|me|ro
+zigrita	adjetivo	zi|[gri]|ta
+zigrita	nome masculino	zi|[gri]|ta
+zigrita	nome feminino	zi|[gri]|ta
+ziguezague	nome masculino	zi|gue|[za]|gue
+ziguezagueante	adjetivo	zi|gue|za|gue|[an]|te
+ziguezaguear	verbo	zi|gue|za|gue|[ar]
+ziguezigue	nome masculino	zi|gue|[zi]|gue
+zigurate	nome masculino	zi|gu|[ra]|te
+zílea	nome feminino	[zí]|le|a
+zilhão	nome masculino	zi|[lhão]
+zilro	nome masculino	[zil]|ro
+zímase	nome feminino	[zí]|ma|se
+zimba	adjetivo	[zim]|ba
+zimba	nome masculino	[zim]|ba
+zimba	nome feminino	[zim]|ba
+zimbabuano	adjetivo	zim|ba|bu|[a]|no
+zimbabuano	nome masculino	zim|ba|bu|[a]|no
+zimbábue	nome masculino	zim|[bá]|bu|e
+zimbabuense	adjetivo	zim|ba|bu|[en]|se
+zimbabuense	nome masculino	zim|ba|bu|[en]|se
+zimbabuense	nome feminino	zim|ba|bu|[en]|se
+zimbabwense	adjetivo	zim|ba|bwen|se
+zimbabwense	nome feminino	zim|ba|bwen|se
+zimbabwense	nome masculino	zim|ba|bwen|se
+zimbabwiana	nome feminino	zim|ba|bwi|a|na
+zimbabwiano	adjetivo	zim|ba|bwi|a|no
+zimbabwiano	nome masculino	zim|ba|bwi|[a]|no
+zimbo	nome masculino	[zim]|bo
+zimbório	nome masculino	zim|[bó]|ri|o
+zimbrada	nome feminino	zim|[bra]|da
+zimbradura	nome feminino	zim|bra|[du]|ra
+zimbral	nome masculino	zim|[bral]
+zimbrão	nome masculino	zim|[brão]
+zimbrar	verbo	zim|[brar]
+zimbreiral	nome masculino	zim|brei|[ral]
+zimbreiro	nome masculino	zim|[brei]|ro
+zimbro	nome masculino	[zim]|bro
+zimbro-rasteiro	nome masculino	zim|bro-ras|[tei]|ro
+zímico	adjetivo	[zí]|mi|co
+zimidrólise	nome feminino	zi|mi|[dró]|li|se
+zimodiagnóstico	nome masculino	zi|mo|di|ag|[nós]|ti|co
+zimóforo	adjetivo	zi|[mó]|fo|ro
+zimogenia	nome feminino	zi|mo|ge|[ni]|a
+zimogénico	adjetivo	zi|mo|[gé]|ni|co
+zimogênico	adjetivo	zi|mo|[gê]|ni|co
+zimogénio	nome masculino	zi|mo|[gé]|ni|o
+zimogênio	nome masculino	zi|mo|[gê]|ni|o
+zimógeno	adjetivo	zi|[mó]|ge|no
+zimologia	nome feminino	zi|mo|lo|[gi]|a
+zimológico	adjetivo	zi|mo|[ló]|gi|co
+zimoma	nome masculino	zi|[mo]|ma
+zimoplasma	nome masculino	zi|mo|[plas]|ma
+zimoproteína	nome feminino	zi|mo|pro|te|[í]|na
+zimoscópico	adjetivo	zi|mos|[có]|pi|co
+zimoscópio	nome masculino	zi|mos|[có]|pi|o
+zimose	nome feminino	zi|[mo]|se
+zimosimetria	nome feminino	zi|mo|si|me|[tri]|a
+zimosimétrico	adjetivo	zi|mo|si|[mé]|tri|co
+zimosímetro	nome masculino	zi|mo|[sí]|me|tro
+zimosiometria	nome feminino	zi|mo|si|o|me|[tri]|a
+zimosiométrico	adjetivo	zi|mo|si|o|[mé]|tri|co
+zimosiómetro	nome masculino	zi|mo|si|[ó]|me|tro
+zimosiômetro	nome masculino	zi|mo|si|[ô]|me|tro
+zimotecnia	nome feminino	zi|mo|tec|[ni]|a
+zimotécnico	adjetivo	zi|mo|[téc]|ni|co
+zimoterapia	nome feminino	zi|mo|te|ra|[pi]|a
+zimótico	adjetivo	zi|[mó]|ti|co
+zina	nome feminino	[zi]|na
+zinabre	nome masculino	zi|[na]|bre
+zincagem	nome feminino	zin|[ca]|gem
+zincaluminite	nome feminino	zin|ca|lu|mi|[ni]|te
+zincar	verbo	zin|[car]
+zincato	nome masculino	zin|[ca]|to
+zíncico	adjetivo	[zín]|ci|co
+zincífero	adjetivo	zin|[cí]|fe|ro
+zincita	nome feminino	zin|[ci]|ta
+zincite	nome feminino	zin|[ci]|te
+zinco	nome masculino	[zin]|co
+zincografar	verbo	zin|co|gra|[far]
+zincografia	nome feminino	zin|co|gra|[fi]|a
+zincográfico	adjetivo	zin|co|[grá]|fi|co
+zincógrafo	nome masculino	zin|[có]|gra|fo
+zincogravador	nome masculino	zin|co|gra|va|[dor]

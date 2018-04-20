@@ -1,0 +1,100 @@
+bragado	adjetivo	bra|[ga]|do
+bragadura	nome feminino	bra|ga|[du]|ra
+bragal	nome masculino	bra|[gal]
+bragança	nome masculino	bra|[gan]|ça
+bragança	nome feminino	bra|[gan]|ça
+bragançana	nome feminino	bra|gan|[ça]|na
+bragançano	adjetivo	bra|gan|[ça]|no
+bragançano	nome masculino	bra|gan|[ça]|no
+braganção	adjetivo	bra|gan|[ção]
+braganção	nome masculino	bra|gan|[ção]
+bragancês	adjetivo	bra|gan|[cês]
+bragancês	nome masculino	bra|gan|[cês]
+bragancesa	nome feminino	bra|gan|[ce]|sa
+bragançoa	nome feminino	bra|gan|[ço]|a
+bragano	adjetivo	bra|[ga]|no
+bragano	nome masculino	bra|[ga]|no
+bragantão	nome masculino	bra|gan|[tão]
+bragante	nome masculino	bra|[gan]|te
+bragantina	nome feminino	bra|gan|[ti]|na
+bragantinismo	nome masculino	bra|gan|ti|[nis]|mo
+bragantinista	adjetivo	bra|gan|ti|[nis]|ta
+bragantinista	nome masculino	bra|gan|ti|[nis]|ta
+bragantinista	nome feminino	bra|gan|ti|[nis]|ta
+bragantino	adjetivo	bra|gan|[ti]|no
+bragantino	nome masculino	bra|gan|[ti]|no
+bragas	nome feminino	[bra]|gas
+bragueiro	nome masculino	bra|[guei]|ro
+braguês	adjetivo	bra|[guês]
+braguês	nome masculino	bra|[guês]
+braguesa	nome feminino	bra|[gue]|sa
+braguilha	nome feminino	bra|[gui]|lha
+braguinha	nome feminino	bra|[gui]|nha
+brai	nome masculino	[brai]
+braile	nome masculino	[brai]|le
+braille	nome masculino	[brail]|le
+brainstorming	nome masculino	brain|stor|ming
+bralha	nome feminino	[bra]|lha
+bralhar	verbo	bra|[lhar]
+bramá	adjetivo	bra|[má]
+bramá	nome masculino	bra|[má]
+brama	nome feminino	[bra]|ma
+bramá	nome feminino	bra|[má]
+bramadeiro	nome masculino	bra|ma|[dei]|ro
+bramador	adjetivo	bra|ma|[dor]
+bramador	nome masculino	bra|ma|[dor]
+brâmane	nome masculino	[brâ]|ma|ne
+brâmane	nome feminino	[brâ]|ma|ne
+bramânico	adjetivo	bra|[mâ]|ni|co
+bramanismo	nome masculino	bra|ma|[nis]|mo
+bramanista	nome masculino	bra|ma|[nis]|ta
+bramanista	nome feminino	bra|ma|[nis]|ta
+bramante	adjetivo	bra|[man]|te
+bramar	verbo	bra|[mar]
+brame	nome masculino	[bra]|me
+brame	adjetivo	[bra]|me
+brame	nome feminino	[bra]|me
+brâmene	adjetivo	[brâ]|me|ne
+brâmene	nome masculino	[brâ]|me|ne
+brâmene	nome feminino	[brâ]|me|ne
+brami	nome masculino	bra|[mi]
+bramido	nome masculino	bra|[mi]|do
+bramidor	adjetivo	bra|mi|[dor]
+bramidor	nome masculino	bra|mi|[dor]
+brâmine	adjetivo	[brâ]|mi|ne
+brâmine	nome masculino	[brâ]|mi|ne
+brâmine	nome feminino	[brâ]|mi|ne
+bramir	verbo	bra|[mir]
+bramismo	nome masculino	bra|[mis]|mo
+bramista	nome masculino	bra|[mis]|ta
+bramista	nome feminino	bra|[mis]|ta
+bramoso	adjetivo	bra|[mo]|so
+branacense	nome masculino	bra|na|[cen]|se
+branacense	adjetivo	bra|na|[cen]|se
+branacense	nome feminino	bra|na|[cen]|se
+branca	nome feminino	[bran]|ca
+branca-ursina	nome feminino	bran|ca-ur|[si]|na
+brancacento	adjetivo	bran|ca|[cen]|to
+brancaço	adjetivo	bran|[ca]|ço
+brancagem	nome feminino	bran|[ca]|gem
+brancal	adjetivo	bran|[cal]
+brançal	nome masculino	bran|[çal]
+brancarana	nome feminino	bran|ca|[ra]|na
+brancarão	adjetivo	bran|ca|[rão]
+brancarão	nome masculino	bran|ca|[rão]
+brancaria	nome feminino	bran|ca|[ri]|a
+brancelhe	nome masculino	bran|[ce]|lhe
+branco	adjetivo	[bran]|co
+branco	nome masculino	[bran]|co
+branco de baleia	nome masculino	[bran]|co de ba|lei|a
+branco-marfim	nome masculino	bran|co-mar|[fim]
+branco-marfim	adjetivo	bran|co-mar|[fim]
+branco-pérola	adjetivo	bran|co-pé|ro|la
+branco-pérola	nome masculino	bran|co-pé|ro|la
+branco-sujo	adjetivo	bran|co-su|jo
+brancor	nome masculino	bran|[cor]
+brancoso	adjetivo	bran|[co]|so
+brancura	nome feminino	bran|[cu]|ra
+branda	nome feminino	[bran]|da
+brandal	nome masculino	bran|[dal]
+brandalhão	adjetivo	bran|da|[lhão]

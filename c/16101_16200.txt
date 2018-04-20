@@ -1,0 +1,100 @@
+conventual	adjetivo	con|ven|tu|[al]
+conventual	nome masculino	con|ven|tu|[al]
+conventual	nome feminino	con|ven|tu|[al]
+conventualidade	nome feminino	con|ven|tu|a|li|[da]|de
+conventualmente	advérbio	con|ven|tu|al|[men]|te
+convergência	nome feminino	con|ver|[gên]|ci|a
+convergente	adjetivo	con|ver|[gen]|te
+convergente	nome masculino	con|ver|[gen]|te
+convergir	verbo	con|ver|[gir]
+conversa	nome feminino	con|[ver]|sa
+conversação	nome feminino	con|ver|sa|[ção]
+conversada	nome feminino	con|ver|[sa]|da
+conversadeira	nome feminino	con|ver|sa|[dei]|ra
+conversado	adjetivo	con|ver|[sa]|do
+conversado	nome masculino	con|ver|[sa]|do
+conversador	adjetivo	con|ver|sa|[dor]
+conversador	nome masculino	con|ver|sa|[dor]
+conversadora	nome feminino	con|ver|sa|[do]|ra
+conversalhar	verbo	con|ver|sa|[lhar]
+conversante	adjetivo	con|ver|[san]|te
+conversão	nome feminino	con|ver|[são]
+conversar	verbo	con|ver|[sar]
+conversativo	adjetivo	con|ver|sa|[ti]|vo
+conversável	adjetivo	con|ver|[sá]|vel
+conversibilidade	nome feminino	con|ver|si|bi|li|[da]|de
+conversível	adjetivo	con|ver|[sí]|vel
+conversível	nome masculino	con|ver|[sí]|vel
+conversividade	nome feminino	con|ver|si|vi|[da]|de
+conversivo	adjetivo	con|ver|[si]|vo
+converso	adjetivo	con|[ver]|so
+converso	nome masculino	con|[ver]|so
+conversor	adjetivo	con|ver|[sor]
+conversor	nome masculino	con|ver|[sor]
+conversora	nome feminino	con|ver|[so]|ra
+convertedor	nome masculino	con|ver|te|[dor]
+convertedor	adjetivo	con|ver|te|[dor]
+converter	verbo	con|ver|[ter]
+convertibilidade	nome feminino	con|ver|ti|bi|li|[da]|de
+convertida	nome feminino	con|ver|[ti]|da
+convertido	adjetivo	con|ver|[ti]|do
+convertido	nome masculino	con|ver|[ti]|do
+convertimento	nome feminino	con|ver|ti|[men]|to
+convertimento	nome masculino	con|ver|ti|[men]|to
+convertível	adjetivo	con|ver|[tí]|vel
+convertível	nome masculino	con|ver|[tí]|vel
+convés	nome masculino	con|[vés]
+convescote	nome masculino	con|ves|[co]|te
+convetor	nome masculino	con|ve|[tor]
+convexão	nome feminino	con|ve|[xão]
+convexidade	nome feminino	con|ve|xi|[da]|de
+convexirrostro	adjetivo	con|ve|xir|[ros]|tro
+convexo	adjetivo	con|[ve]|xo
+convexo-côncavo	adjetivo	con|ve|xo-côn|ca|vo
+convexo-convexo	adjetivo	con|ve|xo-con|[ve]|xo
+convicção	nome feminino	con|vic|[ção]
+convício	nome masculino	con|[ví]|ci|o
+convicioso	adjetivo	con|vi|ci|[o]|so
+convictamente	advérbio	con|vic|ta|[men]|te
+convicto	adjetivo	con|[vic]|to
+convidada	nome feminino	con|vi|[da]|da
+convidado	adjetivo	con|vi|[da]|do
+convidado	nome masculino	con|vi|[da]|do
+convidador	adjetivo	con|vi|da|[dor]
+convidador	nome masculino	con|vi|da|[dor]
+convidante	adjetivo	con|vi|[dan]|te
+convidar	verbo	con|vi|[dar]
+convidativamente	advérbio	con|vi|da|ti|va|[men]|te
+convidativo	adjetivo	con|vi|da|[ti]|vo
+convidável	adjetivo	con|vi|[dá]|vel
+convide	nome masculino	con|[vi]|de
+convincente	adjetivo	con|vin|[cen]|te
+convincentemente	advérbio	con|vin|cen|te|[men]|te
+convinhável	adjetivo	con|vi|[nhá]|vel
+convir	verbo	con|[vir]
+convite	nome masculino	con|[vi]|te
+conviva	nome masculino	con|[vi]|va
+conviva	nome feminino	con|[vi]|va
+convival	adjetivo	con|vi|[val]
+convivência	nome feminino	con|vi|[vên]|ci|a
+convivente	adjetivo	con|vi|[ven]|te
+convivente	nome masculino	con|vi|[ven]|te
+convivente	nome feminino	con|vi|[ven]|te
+conviver	verbo	con|vi|[ver]
+convivial	adjetivo	con|vi|vi|[al]
+convivialidade	nome feminino	con|vi|vi|a|li|[da]|de
+convívio	nome masculino	con|[ví]|vi|o
+convizinhança	nome feminino	con|vi|zi|[nhan]|ça
+convizinhar	verbo	con|vi|zi|[nhar]
+convizinho	nome masculino	con|vi|[zi]|nho
+convizinho	adjetivo	con|vi|[zi]|nho
+convocação	nome feminino	con|vo|ca|[ção]
+convocador	adjetivo	con|vo|ca|[dor]
+convocador	nome masculino	con|vo|ca|[dor]
+convocadora	nome feminino	con|vo|ca|[do]|ra
+convocar	verbo	con|vo|[car]
+convocatória	nome feminino	con|vo|ca|[tó]|ri|a
+convocatório	adjetivo	con|vo|ca|[tó]|ri|o
+convocável	adjetivo	con|vo|[cá]|vel
+convolação	nome feminino	con|vo|la|[ção]
+convolar	verbo	con|vo|[lar]

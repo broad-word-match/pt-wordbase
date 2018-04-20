@@ -1,0 +1,100 @@
+catabatista	nome feminino	ca|ta|ba|[tis]|ta
+catabólico	adjetivo	ca|ta|[bó]|li|co
+catabolismo	nome masculino	ca|ta|bo|[lis]|mo
+catabólito	nome masculino	ca|ta|[bó]|li|to
+catabolito	nome masculino	ca|ta|bo|[li]|to
+catabolizar	verbo	ca|ta|bo|li|[zar]
+catacáustica	nome feminino	ca|ta|[cáus]|ti|ca
+catacáustico	adjetivo	ca|ta|[cáus]|ti|co
+catacego	adjetivo	ca|ta|[ce]|go
+catáclase	nome feminino	ca|[tá]|cla|se
+cataclasia	nome feminino	ca|ta|cla|[si]|a
+cataclasito	nome masculino	ca|ta|cla|[si]|to
+cataclástico	adjetivo	ca|ta|[clás]|ti|co
+cataclísmico	adjetivo	ca|ta|[clís]|mi|co
+cataclismo	nome masculino	ca|ta|[clis]|mo
+cataclismologia	nome feminino	ca|ta|clis|mo|lo|[gi]|a
+cataclismológico	adjetivo	ca|ta|clis|mo|[ló]|gi|co
+catacrese	nome feminino	ca|ta|[cre]|se
+catacréstico	adjetivo	ca|ta|[crés]|ti|co
+catacumba	nome feminino	ca|ta|[cum]|ba
+catacumbal	adjetivo	ca|ta|cum|[bal]
+catacus	nome masculino	ca|ta|[cus]
+catacústica	nome feminino	ca|ta|[cús]|ti|ca
+catacústico	adjetivo	ca|ta|[cús]|ti|co
+catadeira	nome feminino	ca|ta|[dei]|ra
+catadióptrica	nome feminino	ca|ta|di|[óp]|tri|ca
+catadióptrico	adjetivo	ca|ta|di|[óp]|tri|co
+catador	nome masculino	ca|ta|[dor]
+catádromo	nome masculino	ca|[tá]|dro|mo
+catadupa	nome feminino	ca|ta|[du]|pa
+catadupejar	verbo	ca|ta|du|pe|[jar]
+catadupo	adjetivo	ca|ta|[du]|po
+catadupo	nome masculino	ca|ta|[du]|po
+catadura	nome feminino	ca|ta|[du]|ra
+catafalco	nome masculino	ca|ta|[fal]|co
+catafasia	nome feminino	ca|ta|fa|[si]|a
+catafásico	adjetivo	ca|ta|[fá]|si|co
+catafático	adjetivo	ca|ta|[fá]|ti|co
+catafeder	verbo	ca|ta|fe|[der]
+catafelho	nome masculino	ca|ta|[fe]|lho
+catafiláctico	adjetivo	ca|ta|fi|[lác]|ti|co
+catafilático	adjetivo	ca|ta|fi|[lá]|ti|co
+catafilaxia	nome feminino	ca|ta|fi|la|[xi]|a
+catafonia	nome feminino	ca|ta|fo|[ni]|a
+catafónica	nome feminino	ca|ta|[fó]|ni|ca
+catafônica	nome feminino	ca|ta|[fô]|ni|ca
+catafônico	adjetivo	ca|ta|[fô]|ni|co
+catafónico	adjetivo	ca|ta|[fó]|ni|co
+catáfora	nome feminino	ca|[tá]|fo|ra
+cataforese	nome feminino	ca|ta|fo|[re]|se
+cataforético	adjetivo	ca|ta|fo|[ré]|ti|co
+catafórico	adjetivo	ca|ta|[fó]|ri|co
+catafracta	nome feminino	ca|ta|[frac]|ta
+catafractário	adjetivo	ca|ta|frac|[tá]|ri|o
+catafractário	nome masculino	ca|ta|frac|[tá]|ri|o
+catafrígio	adjetivo	ca|ta|[frí]|gi|o
+catafrígio	nome masculino	ca|ta|[frí]|gi|o
+catagénese	nome feminino	ca|ta|[gé]|ne|se
+catagênese	nome feminino	ca|ta|[gê]|ne|se
+catagenésico	adjetivo	ca|ta|ge|[né]|si|co
+catagenético	adjetivo	ca|ta|ge|[né]|ti|co
+cataglóssio	nome masculino	ca|ta|[glós]|si|o
+cataglosso	nome masculino	ca|ta|[glos]|so
+cataglótico	adjetivo	ca|ta|[gló]|ti|co
+cataglotismo	nome masculino	ca|ta|glo|[tis]|mo
+catagmático	adjetivo	ca|tag|[má]|ti|co
+cataguá	adjetivo	ca|ta|[guá]
+cataguá	nome masculino	ca|ta|[guá]
+cataguá	nome feminino	ca|ta|[guá]
+cataia	nome feminino	ca|[tai]|a
+catalã	nome feminino	ca|ta|[lã]
+catalanesco	adjetivo	ca|ta|la|[nes]|co
+catalânico	adjetivo	ca|ta|[lâ]|ni|co
+catalanismo	nome masculino	ca|ta|la|[nis]|mo
+catalanista	adjetivo	ca|ta|la|[nis]|ta
+catalanista	nome masculino	ca|ta|la|[nis]|ta
+catalanista	nome feminino	ca|ta|la|[nis]|ta
+catalão	adjetivo	ca|ta|[lão]
+catalão	nome masculino	ca|ta|[lão]
+catálase	nome feminino	ca|[tá]|la|se
+cataláunico	adjetivo	ca|ta|[láu]|ni|co
+catalauno	adjetivo	ca|ta|[lau]|no
+catalauno	nome masculino	ca|ta|[lau]|no
+cataléctico	adjetivo	ca|ta|[léc]|ti|co
+cataléctico	nome masculino	ca|ta|[léc]|ti|co
+catalecto	nome masculino	ca|ta|[lec]|to
+catalepsia	nome feminino	ca|ta|lep|[si]|a
+cataléptica	nome feminino	ca|ta|[lép]|ti|ca
+cataléptico	adjetivo	ca|ta|[lép]|ti|co
+cataléptico	nome masculino	ca|ta|[lép]|ti|co
+catalético	adjetivo	ca|ta|[lé]|ti|co
+catalético	nome masculino	ca|ta|[lé]|ti|co
+cataleto	nome masculino	ca|ta|[le]|to
+catalexe	nome feminino	ca|ta|[le]|xe
+catalisação	nome feminino	ca|ta|li|sa|[ção]
+catalisador	nome masculino	ca|ta|li|sa|[dor]
+catalisador	adjetivo	ca|ta|li|sa|[dor]
+catalisar	verbo	ca|ta|li|[sar]
+catálise	nome feminino	ca|[tá]|li|se
+cataliticamente	advérbio	ca|ta|li|ti|ca|[men]|te

@@ -1,0 +1,100 @@
+restritivo	nome masculino	res|tri|[ti]|vo
+restritivo	adjetivo	res|tri|[ti]|vo
+restrito	adjetivo	res|[tri]|to
+restrugir	verbo	res|tru|[gir]
+restruturação	nome feminino	res|tru|tu|ra|[ção]
+restruturar	verbo	res|tru|tu|[rar]
+restucar	verbo	res|tu|[car]
+restumenga	nome feminino	res|tu|[men]|ga
+resulta	nome feminino	re|[sul]|ta
+resultado	nome masculino	re|sul|[ta]|do
+resultância	nome feminino	re|sul|[tân]|ci|a
+resultante	nome feminino	re|sul|[tan]|te
+resultante	adjetivo	re|sul|[tan]|te
+resultar	verbo	re|sul|[tar]
+resultativo	adjetivo	re|sul|ta|[ti]|vo
+resumidamente	advérbio	re|su|mi|da|[men]|te
+resumido	adjetivo	re|su|[mi]|do
+resumidor	adjetivo	re|su|mi|[dor]
+resumidor	nome masculino	re|su|mi|[dor]
+resumir	verbo	re|su|[mir]
+resumível	adjetivo	re|su|[mí]|vel
+resumo	nome masculino	re|[su]|mo
+resura	nome feminino	re|[su]|ra
+resvaladeiro	nome masculino	res|va|la|[dei]|ro
+resvaladiço	adjetivo	res|va|la|[di]|ço
+resvaladio	adjetivo	res|va|la|[di]|o
+resvaladoiro	nome masculino	res|va|la|[doi]|ro
+resvaladouro	nome masculino	res|va|la|[dou]|ro
+resvaladura	nome feminino	res|va|la|[du]|ra
+resvalamento	nome masculino	res|va|la|[men]|to
+resvalante	adjetivo	res|va|[lan]|te
+resvalar	verbo	res|va|[lar]
+resvalo	nome masculino	res|[va]|lo
+resveratrol	nome masculino	res|ve|ra|[trol]
+resvés	adjetivo	res|[vés]
+resvés	advérbio	res|[vés]
+reta	nome feminino	[re]|ta
+reta-pronúncia	nome feminino	re|ta-pro|[nún]|ci|a
+reta-pronúncia	nome masculino	re|ta-pro|[nún]|ci|a
+retabular	adjetivo	re|ta|bu|[lar]
+retábulo	nome masculino	re|[tá]|bu|lo
+retacar	verbo	re|ta|[car]
+retaco	adjetivo	re|[ta]|co
+retada	nome feminino	re|[ta]|da
+retador	nome masculino	re|ta|[dor]
+retaguarda	nome feminino	re|ta|[guar]|da
+retal	adjetivo	re|[tal]
+retalgia	nome feminino	re|tal|[gi]|a
+retalhadamente	advérbio	re|ta|lha|da|[men]|te
+retalhado	nome masculino	re|ta|[lha]|do
+retalhado	adjetivo	re|ta|[lha]|do
+retalhador	adjetivo	re|ta|lha|[dor]
+retalhador	nome masculino	re|ta|lha|[dor]
+retalhadura	nome feminino	re|ta|lha|[du]|ra
+retalhamento	nome masculino	re|ta|lha|[men]|to
+retalhante	adjetivo	re|ta|[lhan]|te
+retalhar	verbo	re|ta|[lhar]
+retalhável	adjetivo	re|ta|[lhá]|vel
+retalheiro	adjetivo	re|ta|[lhei]|ro
+retalheiro	nome masculino	re|ta|[lhei]|ro
+retalhista	nome masculino	re|ta|[lhis]|ta
+retalhista	nome feminino	re|ta|[lhis]|ta
+retalhista	adjetivo	re|ta|[lhis]|ta
+retalho	nome masculino	re|[ta]|lho
+retaliação	nome feminino	re|ta|li|a|[ção]
+retaliar	verbo	re|ta|li|[ar]
+retaliativo	adjetivo	re|ta|li|a|[ti]|vo
+retaliatório	adjetivo	re|ta|li|a|[tó]|ri|o
+retama	nome feminino	re|[ta]|ma
+retambana	nome feminino	re|tam|[ba]|na
+retame	adjetivo	re|[ta]|me
+retame	nome masculino	re|[ta]|me
+retâmea	nome feminino	re|[tâ]|me|a
+retamente	advérbio	re|ta|[men]|te
+retancha	nome feminino	re|[tan]|cha
+retanchamento	nome masculino	re|tan|cha|[men]|to
+retanchar	verbo	re|tan|[char]
+retanchoa	nome feminino	re|tan|[cho]|a
+retangueira	nome feminino	re|tan|[guei]|ra
+retangular	adjetivo	re|tan|gu|[lar]
+retangularidade	nome feminino	re|tan|gu|la|ri|[da]|de
+retangularmente	advérbio	re|tan|gu|lar|[men]|te
+retângulo	adjetivo	re|[tân]|gu|lo
+retângulo	nome masculino	re|[tân]|gu|lo
+retanha	nome feminino	re|[ta]|nha
+retanto	advérbio	re|[tan]|to
+retanto	pronome indefinido	re|[tan]|to
+retardação	nome feminino	re|tar|da|[ção]
+retardada	nome feminino	re|tar|[da]|da
+retardadamente	advérbio	re|tar|da|da|[men]|te
+retardado	adjetivo	re|tar|[da]|do
+retardado	nome masculino	re|tar|[da]|do
+retardador	adjetivo	re|tar|da|[dor]
+retardador	nome masculino	re|tar|da|[dor]
+retardamento	nome masculino	re|tar|da|[men]|to
+retardança	nome feminino	re|tar|[dan]|ça
+retardante	adjetivo	re|tar|[dan]|te
+retardante	nome masculino	re|tar|[dan]|te
+retardão	adjetivo	re|tar|[dão]
+retardão	nome masculino	re|tar|[dão]

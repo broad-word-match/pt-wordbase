@@ -1,0 +1,100 @@
+saveirista	nome feminino	sa|vei|[ris]|ta
+saveiro	nome masculino	sa|[vei]|ro
+sável	nome masculino	[sá]|vel
+savelha	nome feminino	sa|[ve]|lha
+savica	nome feminino	sa|[vi]|ca
+savicão	nome masculino	sa|vi|[cão]
+savitu	nome masculino	sa|vi|[tu]
+savoga	nome feminino	sa|[vo]|ga
+savoir-faire	nome masculino	sa|voir-fai|re
+savoir-vivre	nome masculino	sa|voir-vi|vre
+savônulo	nome masculino	sa|[vô]|nu|lo
+savónulo	nome masculino	sa|[vó]|nu|lo
+sax	nome masculino	[sax]
+sax-tenor	nome masculino	sax-te|[nor]
+sax-tenorista	nome feminino	sax-te|no|[ris]|ta
+sax-tenorista	nome masculino	sax-te|no|[ris]|ta
+sax-tenorista	adjetivo	sax-te|no|[ris]|ta
+saxã	nome feminino	sa|[xã]
+saxão	nome masculino	sa|[xão]
+saxão	adjetivo	sa|[xão]
+saxátil	adjetivo	sa|[xá]|til
+sáxeo	adjetivo	[sá]|xe|o
+saxhorn	nome masculino	sax|[horn]
+saxicava	nome feminino	sa|xi|[ca]|va
+saxícola	adjetivo	sa|[xí]|co|la
+saxícola	nome masculino	sa|[xí]|co|la
+saxícola	nome feminino	sa|[xí]|co|la
+saxificar	verbo	sa|xi|fi|[car]
+saxífico	adjetivo	sa|[xí]|fi|co
+saxífraga	nome feminino	sa|[xí]|fra|ga
+saxífraga-do-reino	nome feminino	sa|xí|fra|ga-do-rei|no
+saxifragácea	nome feminino	sa|xi|fra|[gá]|ce|a
+saxifragáceo	adjetivo	sa|xi|fra|[gá]|ce|o
+saxífrago	adjetivo	sa|[xí]|fra|go
+sáxina	adjetivo	[sá]|xi|na
+sáxina	nome masculino	[sá]|xi|na
+saxina	nome feminino	sa|[xi]|na
+sáxina	nome feminino	[sá]|xi|na
+saxissonante	adjetivo	sa|xis|so|[nan]|te
+saxitoxina	nome feminino	sa|xi|to|[xi]|na
+saxofone	nome masculino	sa|xo|[fo]|ne
+saxofonista	nome masculino	sa|xo|fo|[nis]|ta
+saxofonista	nome feminino	sa|xo|fo|[nis]|ta
+sáxone	adjetivo	[sá]|xo|ne
+sáxone	nome masculino	[sá]|xo|ne
+sáxone	nome feminino	[sá]|xo|ne
+saxónia	nome feminino	sa|[xó]|ni|a
+saxoniano	adjetivo	sa|xo|ni|[a]|no
+saxónico	adjetivo	sa|[xó]|ni|co
+saxônico	adjetivo	sa|[xô]|ni|co
+saxónio	adjetivo	sa|[xó]|ni|o
+saxónio	nome masculino	sa|[xó]|ni|o
+saxônio	adjetivo	sa|[xô]|ni|o
+saxônio	nome masculino	sa|[xô]|ni|o
+saxorne	nome masculino	sa|[xor]|ne
+saxoso	adjetivo	sa|[xo]|so
+saxotrompa	nome feminino	sa|xo|[trom]|pa
+saxotrompista	nome masculino	sa|xo|trom|[pis]|ta
+saxotrompista	nome feminino	sa|xo|trom|[pis]|ta
+sazão	nome feminino	sa|[zão]
+sazeiro	nome masculino	sa|[zei]|ro
+sazo	nome masculino	[sa]|zo
+sazoamento	nome masculino	sa|zo|a|[men]|to
+sazoar	verbo	sa|zo|[ar]
+sazonação	nome feminino	sa|zo|na|[ção]
+sazonado	adjetivo	sa|zo|[na]|do
+sazonador	adjetivo	sa|zo|na|[dor]
+sazonal	adjetivo	sa|zo|[nal]
+sazonalidade	nome feminino	sa|zo|na|li|[da]|de
+sazonalmente	advérbio	sa|zo|nal|[men]|te
+sazonamento	nome masculino	sa|zo|na|[men]|to
+sazonar	verbo	sa|zo|[nar]
+sazonável	adjetivo	sa|zo|[ná]|vel
+sazu	nome masculino	sa|[zu]
+scanner	nome masculino	scan|ner
+scat	nome masculino	[scat]
+scheelita	nome feminino	schee|[li]|ta
+scheelite	nome feminino	schee|[li]|te
+scherzando	advérbio	scher|zan|do
+scherzo	nome masculino	[scher]|zo
+scheuchzéria	nome feminino	scheuch|[zé]|ri|a
+scone	nome masculino	[sco]|ne
+scooter	nome feminino	[scoo]|ter
+scope	nome masculino	[sco]|pe
+score	nome masculino	[sco]|re
+scotch	nome masculino	[scotch]
+screensaver	nome masculino	screen|sa|ver
+screwball	adjetivo	screw|ball
+script	nome masculino	[script]
+scriptorium	nome masculino	scrip|to|ri|[um]
+se	pronome pessoal	se
+se	conjunção	se
+sé	nome feminino	[sé]
+sê	nome masculino	[sê]
+seabórgio	nome masculino	se|a|[bór]|gi|o
+seara	nome feminino	se|[a]|ra
+searedo	nome masculino	se|a|[re]|do
+seareira	nome feminino	se|a|[rei]|ra
+seareiro	nome masculino	se|a|[rei]|ro
+seareiro	adjetivo	se|a|[rei]|ro

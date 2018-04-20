@@ -1,0 +1,100 @@
+laminar	verbo	la|mi|[nar]
+laminar	adjetivo	la|mi|[nar]
+laminária	nome feminino	la|mi|[ná]|ri|a
+laminariácea	nome feminino	la|mi|na|ri|[á]|ce|a
+laminariáceo	adjetivo	la|mi|na|ri|[á]|ce|o
+laminectomia	nome feminino	la|mi|nec|to|[mi]|a
+laminectómico	adjetivo	la|mi|nec|[tó]|mi|co
+laminectômico	adjetivo	la|mi|nec|[tô]|mi|co
+laminoso	adjetivo	la|mi|[no]|so
+lamínula	nome feminino	la|[mí]|nu|la
+lâmio	nome masculino	[lâ]|mi|o
+lamiré	nome masculino	la|mi|[ré]
+lâmnida	nome masculino	[lâm]|ni|da
+lamnídeo	nome masculino	lam|[ní]|de|o
+lamnídeo	adjetivo	lam|[ní]|de|o
+lamoja	nome feminino	la|[mo]|ja
+lamoso	adjetivo	la|[mo]|so
+lampa	nome feminino	[lam]|pa
+lâmpada	nome feminino	[lâm]|pa|da
+lâmpada-piloto	nome feminino	lâm|pa|da-pi|[lo]|to
+lampadário	nome masculino	lam|pa|[dá]|ri|o
+lampadeiro	nome masculino	lam|pa|[dei]|ro
+lampadejar	verbo	lam|pa|de|[jar]
+lampadodromias	nome feminino	lam|pa|do|dro|[mi]|as
+lampadofórias	nome feminino	lam|pa|do|[fó]|ri|as
+lampadóforo	nome masculino	lam|pa|[dó]|fo|ro
+lampadomancia	nome feminino	lam|pa|do|man|[ci]|a
+lampana	nome feminino	lam|[pa]|na
+lâmpão	adjetivo	[lâm]|pão
+lamparão	nome masculino	lam|pa|[rão]
+lamparejar	verbo	lam|pa|re|[jar]
+lamparina	nome feminino	lam|pa|[ri]|na
+lampascópio	nome masculino	lam|pas|[có]|pi|o
+lampassado	adjetivo	lam|pas|[sa]|do
+lampeiro	adjetivo	lam|[pei]|ro
+lampejante	adjetivo	lam|pe|[jan]|te
+lampejar	verbo	lam|pe|[jar]
+lampejo	nome masculino	lam|[pe]|jo
+lampianista	nome masculino	lam|pi|a|[nis]|ta
+lampião	nome masculino	lam|pi|[ão]
+lampinho	adjetivo	lam|[pi]|nho
+lampírida	nome masculino	lam|[pí]|ri|da
+lampíride	nome masculino	lam|[pí]|ri|de
+lampirídeo	nome masculino	lam|pi|[rí]|de|o
+lampirídeo	adjetivo	lam|pi|[rí]|de|o
+lampista	nome masculino	lam|[pis]|ta
+lampo	adjetivo	[lam]|po
+lampo	nome masculino	[lam]|po
+lamprã	nome masculino	lam|[prã]
+lamprear	verbo	lam|pre|[ar]
+lampreeira	nome feminino	lam|pre|[ei]|ra
+lampreia	nome feminino	lam|[prei]|a
+lamprídida	nome masculino	lam|[prí]|di|da
+lampridídeo	nome masculino	lam|pri|[dí]|de|o
+lampridídeo	adjetivo	lam|pri|[dí]|de|o
+lamprófiro	nome masculino	lam|[pró]|fi|ro
+lampsana	nome feminino	lamp|[sa]|na
+lâmpsana	nome feminino	[lâmp]|sa|na
+lamúria	nome feminino	la|[mú]|ri|a
+lamuriador	adjetivo	la|mu|ri|a|[dor]
+lamuriador	nome masculino	la|mu|ri|a|[dor]
+lamuriante	adjetivo	la|mu|ri|[an]|te
+lamuriar	verbo	la|mu|ri|[ar]
+lamuriento	adjetivo	la|mu|ri|[en]|to
+lamurioso	adjetivo	la|mu|ri|[o]|so
+lan	nome masculino	[lan]
+lana-caprina	nome feminino	la|na-ca|[pri]|na
+lanada	nome feminino	la|[na]|da
+lanar	adjetivo	la|[nar]
+lança	nome feminino	[lan]|ça
+lança-bombas	nome masculino	lan|ça-bom|bas
+lança-chamas	nome masculino	lan|ça-cha|mas
+lança-foguetes	nome masculino	lan|ça-fo|[gue]|tes
+lança-granadas	nome masculino	lan|ça-gra|[na]|das
+lança-minas	nome masculino	lan|ça-mi|nas
+lança-mísseis	nome masculino	lan|ça-mís|seis
+lança-perfume	nome masculino	lan|ça-per|[fu]|me
+lança-satélites	nome masculino	lan|ça-sa|[té]|li|tes
+lança-torpedos	nome masculino	lan|ça-tor|[pe]|dos
+lançaço	nome masculino	lan|[ça]|ço
+lancada	nome feminino	lan|[ca]|da
+lançada	nome feminino	lan|[ça]|da
+lançadeira	nome feminino	lan|ça|[dei]|ra
+lançadiço	adjetivo	lan|ça|[di]|ço
+lançado	nome masculino	lan|[ça]|do
+lançado	adjetivo	lan|[ça]|do
+lançador	nome masculino	lan|ça|[dor]
+lançador	adjetivo	lan|ça|[dor]
+lançadora	nome feminino	lan|ça|[do]|ra
+lançadura	nome feminino	lan|ça|[du]|ra
+lançamento	nome masculino	lan|ça|[men]|to
+lançante	adjetivo	lan|[çan]|te
+lançante	nome masculino	lan|[çan]|te
+lançar	verbo	lan|[çar]
+lancastriano	adjetivo	lan|cas|tri|[a]|no
+lancastriano	nome masculino	lan|cas|tri|[a]|no
+lançável	adjetivo	lan|[çá]|vel
+lance	nome masculino	[lan]|ce
+lanceador	adjetivo	lan|ce|a|[dor]
+lancear	verbo	lan|ce|[ar]

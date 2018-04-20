@@ -1,0 +1,100 @@
+rotativismo	nome masculino	ro|ta|ti|[vis]|mo
+rotativista	adjetivo	ro|ta|ti|[vis]|ta
+rotativista	nome masculino	ro|ta|ti|[vis]|ta
+rotativista	nome feminino	ro|ta|ti|[vis]|ta
+rotativo	adjetivo	ro|ta|[ti]|vo
+rotatório	adjetivo	ro|ta|[tó]|ri|o
+rotatório	nome masculino	ro|ta|[tó]|ri|o
+rotavírus	nome masculino	ro|ta|[ví]|rus
+roteadura	nome feminino	ro|te|a|[du]|ra
+rotear	verbo	ro|te|[ar]
+rotearia	nome feminino	ro|te|a|[ri]|a
+roteia	nome feminino	ro|[tei]|a
+roteirista	nome masculino	ro|tei|[ris]|ta
+roteirista	nome feminino	ro|tei|[ris]|ta
+roteirístico	adjetivo	ro|tei|[rís]|ti|co
+roteiro	nome masculino	ro|[tei]|ro
+rotejar	verbo	ro|te|[jar]
+rotela	nome feminino	ro|[te]|la
+roterdamês	adjetivo	ro|ter|da|[mês]
+roterdamês	nome masculino	ro|ter|da|[mês]
+rotífero	nome masculino	ro|[tí]|fe|ro
+rotífero	adjetivo	ro|[tí]|fe|ro
+rotiforme	adjetivo	ro|ti|[for]|me
+rotim	nome masculino	ro|[tim]
+rotina	nome feminino	ro|[ti]|na
+rotinado	adjetivo	ro|ti|[na]|do
+rotineira	nome feminino	ro|ti|[nei]|ra
+rotineiramente	advérbio	ro|ti|nei|ra|[men]|te
+rotineiro	adjetivo	ro|ti|[nei]|ro
+rotineiro	nome masculino	ro|ti|[nei]|ro
+rotinização	nome feminino	ro|ti|ni|za|[ção]
+rotinizar	verbo	ro|ti|ni|[zar]
+rotisseria	nome feminino	ro|tis|se|[ri]|a
+roto	nome masculino	[ro]|to
+roto	adjetivo	[ro]|to
+rotogravador	adjetivo	ro|to|gra|va|[dor]
+rotogravador	nome masculino	ro|to|gra|va|[dor]
+rotogravar	verbo	ro|to|gra|[var]
+rotogravura	nome feminino	ro|to|gra|[vu]|ra
+rotor	nome masculino	ro|[tor]
+rototípico	adjetivo	ro|to|[tí]|pi|co
+rotótipo	nome masculino	ro|[tó]|ti|po
+rottweiler	nome masculino	rott|wei|ler
+rótula	nome feminino	[ró]|tu|la
+rotulação	nome feminino	ro|tu|la|[ção]
+rotulado	adjetivo	ro|tu|[la]|do
+rotulado	nome masculino	ro|tu|[la]|do
+rotulador	adjetivo	ro|tu|la|[dor]
+rotulador	nome masculino	ro|tu|la|[dor]
+rotuladora	nome feminino	ro|tu|la|[do]|ra
+rotulagem	nome feminino	ro|tu|[la]|gem
+rotular	verbo	ro|tu|[lar]
+rotular	adjetivo	ro|tu|[lar]
+rótulo	nome masculino	[ró]|tu|lo
+rotunda	nome feminino	ro|[tun]|da
+rotundamente	advérbio	ro|tun|da|[men]|te
+rotundicolo	adjetivo	ro|tun|di|[co]|lo
+rotundidade	nome feminino	ro|tun|di|[da]|de
+rotundifólio	adjetivo	ro|tun|di|[fó]|li|o
+rotundiventre	adjetivo	ro|tun|di|[ven]|tre
+rotundo	adjetivo	ro|[tun]|do
+rotura	nome feminino	ro|[tu]|ra
+rou-rou	nome masculino	[rou-rou]
+roubador	adjetivo	rou|ba|[dor]
+roubador	nome masculino	rou|ba|[dor]
+roubadora	nome feminino	rou|ba|[do]|ra
+roubalheira	nome feminino	rou|ba|[lhei]|ra
+roubar	verbo	rou|[bar]
+roubável	adjetivo	rou|[bá]|vel
+roubo	nome masculino	[rou]|bo
+rouca	nome feminino	[rou]|ca
+rouçador	adjetivo	rou|ça|[dor]
+rouçador	nome masculino	rou|ça|[dor]
+roucamente	advérbio	rou|ca|[men]|te
+roução	nome masculino	rou|[ção]
+rouçar	verbo	rou|[çar]
+rouco	adjetivo	[rou]|co
+rouço	nome masculino	[rou]|ço
+roufenhamente	advérbio	rou|fe|nha|[men]|te
+roufenhar	verbo	rou|fe|[nhar]
+roufenho	adjetivo	rou|[fe]|nho
+rouge	nome masculino	[rou]|ge
+roulement	nome masculino	rou|le|ment
+roulotte	nome feminino	rou|lot|te
+round	nome masculino	[round]
+roupa	nome feminino	[rou]|pa
+roupa de franceses	nome feminino	[rou]|pa de fran|ce|ses
+roupa-velha	nome feminino	rou|pa-ve|lha
+roupa-velheiro	nome masculino	rou|pa-ve|[lhei]|ro
+roupagem	nome feminino	rou|[pa]|gem
+roupão	nome masculino	rou|[pão]
+roupar	verbo	rou|[par]
+rouparia	nome feminino	rou|pa|[ri]|a
+roupeira	adjetivo	rou|[pei]|ra
+roupeira	nome feminino	rou|[pei]|ra
+roupeiro	nome masculino	rou|[pei]|ro
+roupeta	nome masculino	rou|[pe]|ta
+roupeta	nome feminino	rou|[pe]|ta
+roupido	adjetivo	rou|[pi]|do
+roupinha	nome feminino	rou|[pi]|nha

@@ -1,0 +1,100 @@
+flausina	nome feminino	flau|[si]|na
+flauta	nome masculino	[flau]|ta
+flauta	nome feminino	[flau]|ta
+flautado	adjetivo	flau|[ta]|do
+flautar	verbo	flau|[tar]
+flauteado	adjetivo	flau|te|[a]|do
+flauteador	nome masculino	flau|te|a|[dor]
+flautear	verbo	flau|te|[ar]
+flauteio	nome masculino	flau|[tei]|o
+flauteira	nome feminino	flau|[tei]|ra
+flauteiro	nome masculino	flau|[tei]|ro
+flautim	nome masculino	flau|[tim]
+flautinista	nome masculino	flau|ti|[nis]|ta
+flautinista	nome feminino	flau|ti|[nis]|ta
+flautista	nome masculino	flau|[tis]|ta
+flautista	nome feminino	flau|[tis]|ta
+flavéria	nome feminino	fla|[vé]|ri|a
+flavescência	nome feminino	fla|ves|[cên]|ci|a
+flavescente	adjetivo	fla|ves|[cen]|te
+flavescer	verbo	fla|ves|[cer]
+flaviano	adjetivo	fla|vi|[a]|no
+flavibico	adjetivo	fla|vi|[bi]|co
+flaviense	nome masculino	fla|vi|[en]|se
+flaviense	adjetivo	fla|vi|[en]|se
+flaviense	nome feminino	fla|vi|[en]|se
+flavífluo	adjetivo	fla|[ví]|flu|o
+flavínio	adjetivo	fla|[ví]|ni|o
+flavínio	nome masculino	fla|[ví]|ni|o
+flávio	adjetivo	[flá]|vi|o
+flaviopolitano	adjetivo	fla|vi|o|po|li|[ta]|no
+flaviopolitano	nome masculino	fla|vi|o|po|li|[ta]|no
+flavípede	adjetivo	fla|[ví]|pe|de
+flavivírus	nome masculino	fla|vi|[ví]|rus
+flavo	adjetivo	[fla]|vo
+flavonoide	nome masculino	fla|vo|[noi]|de
+flavor	nome masculino	fla|[vor]
+flé	nome masculino	[flé]
+flebanestesia	nome feminino	fle|ba|nes|te|[si]|a
+flebarterite	nome feminino	fle|bar|te|[ri]|te
+flebectasia	nome feminino	fle|bec|ta|[si]|a
+flebectásico	adjetivo	fle|bec|[tá]|si|co
+flebectático	adjetivo	fle|bec|[tá]|ti|co
+flébico	adjetivo	[flé]|bi|co
+flébil	adjetivo	[flé]|bil
+flebilmente	advérbio	fle|bil|[men]|te
+flebite	nome feminino	fle|[bi]|te
+flebocele	nome feminino	fle|bo|[ce]|le
+flebografia	nome feminino	fle|bo|gra|[fi]|a
+flebográfico	adjetivo	fle|bo|[grá]|fi|co
+flebógrafo	nome masculino	fle|[bó]|gra|fo
+flebólito	nome masculino	fle|[bó]|li|to
+flebologia	nome feminino	fle|bo|lo|[gi]|a
+flebológico	adjetivo	fle|bo|[ló]|gi|co
+flebomalacia	nome feminino	fle|bo|ma|la|[ci]|a
+flebopéctico	adjetivo	fle|bo|[péc]|ti|co
+flebopético	adjetivo	fle|bo|[pé]|ti|co
+flebopexia	nome feminino	fle|bo|pe|[xi]|a
+flebóptero	adjetivo	fle|[bóp]|te|ro
+fleborragia	nome feminino	fle|bor|ra|[gi]|a
+fleborrágico	adjetivo	fle|bor|[rá]|gi|co
+flebosclerose	nome feminino	fle|bos|cle|[ro]|se
+flebotomia	nome feminino	fle|bo|to|[mi]|a
+flebotómico	adjetivo	fle|bo|[tó]|mi|co
+flebotômico	adjetivo	fle|bo|[tô]|mi|co
+flebotomizar	verbo	fle|bo|to|mi|[zar]
+flebótomo	nome masculino	fle|[bó]|to|mo
+flebotrombose	nome feminino	fle|bo|trom|[bo]|se
+flecha	nome feminino	[fle]|cha
+flechada	nome feminino	fle|[cha]|da
+flechar	verbo	fle|[char]
+flecharia	nome feminino	fle|cha|[ri]|a
+flecheiro	nome masculino	fle|[chei]|ro
+flechilha	nome feminino	fle|[chi]|lha
+flectido	adjetivo	flec|[ti]|do
+flectir	verbo	flec|[tir]
+flectômetro	nome masculino	flec|[tô]|me|tro
+flector	adjetivo	flec|[tor]
+flégia	adjetivo	[flé]|gi|a
+flégia	nome masculino	[flé]|gi|a
+flégia	nome feminino	[flé]|gi|a
+flegma	nome feminino	[fleg]|ma
+flegmão	nome masculino	fleg|[mão]
+flegmasia	nome feminino	fleg|ma|[si]|a
+flegmático	adjetivo	fleg|[má]|ti|co
+flegmatorragia	nome feminino	fleg|ma|tor|ra|[gi]|a
+flegmatorrágico	adjetivo	fleg|ma|tor|[rá]|gi|co
+flegmonoso	adjetivo	fleg|mo|[no]|so
+flegreu	adjetivo	fle|[greu]
+flegreu	nome masculino	fle|[greu]
+fleima	nome feminino	[flei]|ma
+fleimão	nome masculino	flei|[mão]
+fleimonoso	adjetivo	flei|mo|[no]|so
+fleimoso	adjetivo	flei|[mo]|so
+flema	nome feminino	[fle]|ma
+fleme	nome masculino	[fle]|me
+flemes	nome masculino	[fle]|mes
+flente	adjetivo	[flen]|te
+fléolo	nome masculino	[flé]|o|lo
+flertar	verbo	fler|[tar]
+flerte	nome masculino	[fler]|te

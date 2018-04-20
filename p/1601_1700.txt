@@ -1,0 +1,100 @@
+papelagem	nome feminino	pa|pe|[la]|gem
+papelão	nome masculino	pa|pe|[lão]
+papelaria	nome feminino	pa|pe|la|[ri]|a
+papelázio	nome masculino	pa|pe|[lá]|zi|o
+papeleira	nome feminino	pa|pe|[lei]|ra
+papeleiro	adjetivo	pa|pe|[lei]|ro
+papeleiro	nome masculino	pa|pe|[lei]|ro
+papelejo	nome masculino	pa|pe|[le]|jo
+papeleta	nome feminino	pa|pe|[le]|ta
+papelete	nome masculino	pa|pe|[le]|te
+papeliço	nome masculino	pa|pe|[li]|ço
+papelinho	nome masculino	pa|pe|[li]|nho
+papelinhos	nome masculino	pa|pe|[li]|nhos
+papelista	nome masculino	pa|pe|[lis]|ta
+papelista	nome feminino	pa|pe|[lis]|ta
+papelístico	adjetivo	pa|pe|[lís]|ti|co
+papelocracia	nome feminino	pa|pe|lo|cra|[ci]|a
+papelório	nome masculino	pa|pe|[ló]|ri|o
+papelosa	nome feminino	pa|pe|[lo]|sa
+papeloso	adjetivo	pa|pe|[lo]|so
+papelota	nome feminino	pa|pe|[lo]|ta
+papelote	nome masculino	pa|pe|[lo]|te
+papelotes	nome masculino	pa|pe|[lo]|tes
+papelucho	nome masculino	pa|pe|[lu]|cho
+papião	nome masculino	pa|pi|[ão]
+papiar	verbo	pa|pi|[ar]
+papícola	adjetivo	pa|[pí]|co|la
+papícola	nome masculino	pa|[pí]|co|la
+papícola	nome feminino	pa|[pí]|co|la
+papífero	adjetivo	pa|[pí]|fe|ro
+papiforme	adjetivo	pa|pi|[for]|me
+papila	nome feminino	pa|[pi]|la
+papilar	adjetivo	pa|pi|[lar]
+papilho	nome masculino	pa|[pi]|lho
+papilhoso	adjetivo	pa|pi|[lho]|so
+papilião	nome masculino	pa|pi|li|[ão]
+papiliforme	adjetivo	pa|pi|li|[for]|me
+papilionácea	nome feminino	pa|pi|li|o|[ná]|ce|a
+papilionáceo	adjetivo	pa|pi|li|o|[ná]|ce|o
+papiliônida	nome masculino	pa|pi|li|[ô]|ni|da
+papiliónida	nome masculino	pa|pi|li|[ó]|ni|da
+papilionídeo	nome masculino	pa|pi|li|o|[ní]|de|o
+papilionídeo	adjetivo	pa|pi|li|o|[ní]|de|o
+papilionídeo	nome masculino	pa|pi|li|o|[ní]|de|o
+papillon	nome masculino	pa|pil|lon
+papiloma	nome masculino	pa|pi|[lo]|ma
+papilomatose	nome feminino	pa|pi|lo|ma|[to]|se
+papilomatoso	adjetivo	pa|pi|lo|ma|[to]|so
+papilorretinite	nome feminino	pa|pi|lor|re|ti|[ni]|te
+papilossarcoma	nome masculino	pa|pi|los|sar|[co]|ma
+papinha	nome feminino	pa|[pi]|nha
+papiráceo	adjetivo	pa|pi|[rá]|ce|o
+papíreo	adjetivo	pa|[pí]|re|o
+papírico	adjetivo	pa|[pí]|ri|co
+papirífero	adjetivo	pa|pi|[rí]|fe|ro
+papiriforme	adjetivo	pa|pi|ri|[for]|me
+papiro	nome masculino	pa|[pi]|ro
+papirografia	nome feminino	pa|pi|ro|gra|[fi]|a
+papirográfico	adjetivo	pa|pi|ro|[grá]|fi|co
+papirógrafo	nome masculino	pa|pi|[ró]|gra|fo
+papirólito	nome masculino	pa|pi|[ró]|li|to
+papirologia	nome feminino	pa|pi|ro|lo|[gi]|a
+papirológico	adjetivo	pa|pi|ro|[ló]|gi|co
+papirologista	nome masculino	pa|pi|ro|lo|[gis]|ta
+papirologista	nome feminino	pa|pi|ro|lo|[gis]|ta
+papirólogo	nome masculino	pa|pi|[ró]|lo|go
+papironga	nome feminino	pa|pi|[ron]|ga
+papiroteca	nome feminino	pa|pi|ro|[te]|ca
+papisa	nome feminino	pa|[pi]|sa
+papismo	nome masculino	pa|[pis]|mo
+papista	nome masculino	pa|[pis]|ta
+papista	nome feminino	pa|[pis]|ta
+papístico	adjetivo	pa|[pís]|ti|co
+papo	nome masculino	[pa]|po
+papo de anjo	nome masculino	[pa]|po de an|jo
+papo de rola	nome masculino	[pa]|po de ro|la
+papo-branco	nome masculino	pa|po-bran|co
+papo-de-peru	nome masculino	pa|po-de-pe|[ru]
+papo-roxo	nome masculino	pa|po-ro|xo
+papo-seco	nome masculino	pa|po-se|co
+papocar	verbo	pa|po|[car]
+papoco	nome masculino	pa|[po]|co
+papóforo	nome masculino	pa|[pó]|fo|ro
+papoias	nome feminino	pa|[poi]|as
+papoiço	nome masculino	pa|[poi]|ço
+papoila	nome feminino	pa|[poi]|la
+papoilar	verbo	pa|poi|[lar]
+papola	nome masculino	pa|[po]|la
+papola	nome feminino	pa|[po]|la
+papólatra	adjetivo	pa|[pó]|la|tra
+papólatra	nome masculino	pa|[pó]|la|tra
+papólatra	nome feminino	pa|[pó]|la|tra
+papolatria	nome feminino	pa|po|la|[tri]|a
+papolátrico	adjetivo	pa|po|[lá]|tri|co
+papolino	adjetivo	pa|po|[li]|no
+papote	nome masculino	pa|[po]|te
+papouço	nome masculino	pa|[pou]|ço
+papoula	nome feminino	pa|[pou]|la
+paprica	nome feminino	pa|[pri]|ca
+paprika	nome feminino	pa|pri|ka

@@ -1,0 +1,100 @@
+suboccipital	nome masculino	su|boc|ci|pi|[tal]
+subocrino	adjetivo	su|bo|[cri]|no
+subocrino	nome masculino	su|bo|[cri]|no
+subocular	adjetivo	su|bo|cu|[lar]
+suboficial	nome masculino	su|bo|fi|ci|[al]
+suboleato	nome masculino	su|bo|le|[a]|to
+subopérculo	nome masculino	su|bo|[pér]|cu|lo
+suborbicular	adjetivo	su|bor|bi|cu|[lar]
+suborbital	adjetivo	su|bor|bi|[tal]
+suborbitário	adjetivo	su|bor|bi|[tá]|ri|o
+subordem	nome feminino	su|[bor]|dem
+subordinação	nome feminino	su|bor|di|na|[ção]
+subordinacionismo	nome masculino	su|bor|di|na|ci|o|[nis]|mo
+subordinacionista	adjetivo	su|bor|di|na|ci|o|[nis]|ta
+subordinacionista	nome masculino	su|bor|di|na|ci|o|[nis]|ta
+subordinacionista	nome feminino	su|bor|di|na|ci|o|[nis]|ta
+subordinada	nome feminino	su|bor|di|[na]|da
+subordinadamente	advérbio	su|bor|di|na|da|[men]|te
+subordinado	nome masculino	su|bor|di|[na]|do
+subordinado	adjetivo	su|bor|di|[na]|do
+subordinador	adjetivo	su|bor|di|na|[dor]
+subordinador	nome masculino	su|bor|di|na|[dor]
+subordinante	adjetivo	su|bor|di|[nan]|te
+subordinante	nome feminino	su|bor|di|[nan]|te
+subordinantemente	advérbio	su|bor|di|nan|te|[men]|te
+subordinar	verbo	su|bor|di|[nar]
+subordinatismo	nome masculino	su|bor|di|na|[tis]|mo
+subordinatista	adjetivo	su|bor|di|na|[tis]|ta
+subordinatista	nome masculino	su|bor|di|na|[tis]|ta
+subordinatista	nome feminino	su|bor|di|na|[tis]|ta
+subordinativo	adjetivo	su|bor|di|na|[ti]|vo
+subordinável	adjetivo	su|bor|di|[ná]|vel
+subornação	nome feminino	su|bor|na|[ção]
+subornador	adjetivo	su|bor|na|[dor]
+subornador	nome masculino	su|bor|na|[dor]
+subornadora	nome feminino	su|bor|na|[do]|ra
+subornamento	nome masculino	su|bor|na|[men]|to
+subornar	verbo	su|bor|[nar]
+subornável	adjetivo	su|bor|[ná]|vel
+suborno	nome masculino	su|[bor]|no
+subósseo	adjetivo	su|[bós]|se|o
+suboxalato	nome masculino	su|bo|xa|[la]|to
+subóxido	nome masculino	su|[bó]|xi|do
+subparasito	adjetivo	sub|pa|ra|[si]|to
+subparasito	nome masculino	sub|pa|ra|[si]|to
+subpeciolado	adjetivo	sub|pe|ci|o|[la]|do
+subpeciolar	adjetivo	sub|pe|ci|o|[lar]
+subpectíneo	adjetivo	sub|pec|[tí]|ne|o
+subpedroso	adjetivo	sub|pe|[dro]|so
+subpenitenciaria	nome feminino	sub|pe|ni|ten|ci|a|[ri]|a
+subpenitencieiro	nome masculino	sub|pe|ni|ten|ci|[ei]|ro
+subpentâmere	adjetivo	sub|pen|[tâ]|me|re
+subpentâmero	adjetivo	sub|pen|[tâ]|me|ro
+subpericárdico	adjetivo	sub|pe|ri|[cár]|di|co
+subperiosteal	adjetivo	sub|pe|ri|os|te|[al]
+subperiósteo	adjetivo	sub|pe|ri|[ós]|te|o
+subperpendicular	adjetivo	sub|per|pen|di|cu|[lar]
+subpolar	adjetivo	sub|po|[lar]
+subpor	verbo	sub|[por]
+subposto	nome masculino	sub|[pos]|to
+subpovoado	adjetivo	sub|po|vo|[a]|do
+subpovoamento	nome masculino	sub|po|vo|a|[men]|to
+subpovoar	verbo	sub|po|vo|[ar]
+subprefeito	nome masculino	sub|pre|[fei]|to
+subprefeitura	nome feminino	sub|pre|fei|[tu]|ra
+subprefeitural	adjetivo	sub|pre|fei|tu|[ral]
+subpressão	nome feminino	sub|pres|[são]
+subprior	nome masculino	sub|pri|[or]
+subpriorado	nome masculino	sub|pri|o|[ra]|do
+subpriorato	nome masculino	sub|pri|o|[ra]|to
+subprodução	nome feminino	sub|pro|du|[ção]
+subproduto	nome masculino	sub|pro|[du]|to
+subprograma	nome masculino	sub|pro|[gra]|ma
+subpromotor	nome masculino	sub|pro|mo|[tor]
+subpúbico	adjetivo	sub|[pú]|bi|co
+subquádruplo	adjetivo	sub|[quá]|dru|plo
+subquíntuplo	adjetivo	sub|[quín]|tu|plo
+subraji	nome feminino	sub|ra|[ji]
+subre	nome masculino	[sub]|re
+subsalário	nome masculino	sub|sa|[lá]|ri|o
+subsariano	adjetivo	sub|sa|ri|[a]|no
+subscrever	verbo	subs|cre|[ver]
+subscrição	nome feminino	subs|cri|[ção]
+subscritar	verbo	subs|cri|[tar]
+subscrito	adjetivo	subs|[cri]|to
+subscrito	nome masculino	subs|[cri]|to
+subscritor	adjetivo	subs|cri|[tor]
+subscritor	nome masculino	subs|cri|[tor]
+subscritora	nome feminino	subs|cri|[to]|ra
+subseção	nome feminino	sub|se|[ção]
+subsecção	nome feminino	sub|sec|[ção]
+subsecivo	adjetivo	sub|se|[ci]|vo
+subsecretariado	nome masculino	sub|se|cre|ta|ri|[a]|do
+subsecretariar	verbo	sub|se|cre|ta|ri|[ar]
+subsecretário	nome masculino	sub|se|cre|[tá]|ri|o
+subsector	nome masculino	sub|sec|[tor]
+subsecutivamente	advérbio	sub|se|cu|ti|va|[men]|te
+subsecutivo	adjetivo	sub|se|cu|[ti]|vo
+subseguir	verbo	sub|se|[guir]
+subseguro	nome masculino	sub|se|[gu]|ro

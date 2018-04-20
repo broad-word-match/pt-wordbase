@@ -1,0 +1,100 @@
+rato-chino	nome masculino	ra|to-chi|no
+rato-da-índia	nome masculino	ra|to-da-ín|di|a
+rato-de-faraó	nome masculino	ra|to-de-fa|ra|[ó]
+rato-do-egito	nome masculino	ra|to-do-e|[gi]|to
+rato-do-monte	nome masculino	ra|to-do-mon|te
+rato-dos-pomares	nome masculino	ra|to-dos-po|[ma]|res
+rato-musgo	nome masculino	ra|to-mus|go
+ratoeira	nome feminino	ra|to|[ei]|ra
+ratoíce	nome feminino	ra|to|[í]|ce
+ratona	nome feminino	ra|[to]|na
+ratonar	verbo	ra|to|[nar]
+ratonear	verbo	ra|to|ne|[ar]
+ratoneira	nome feminino	ra|to|[nei]|ra
+ratoneiro	nome masculino	ra|to|[nei]|ro
+ratoneiro	adjetivo	ra|to|[nei]|ro
+ratonice	nome feminino	ra|to|[ni]|ce
+rau	nome masculino	[rau]
+rauçar	verbo	rau|[çar]
+raucíssono	adjetivo	rau|[cís]|so|no
+raucitroante	adjetivo	rau|ci|tro|[an]|te
+rauço	nome masculino	[rau]|ço
+raudal	nome masculino	rau|[dal]
+raudão	nome masculino	rau|[dão]
+rauraciano	adjetivo	rau|ra|ci|[a]|no
+ráuraco	adjetivo	[ráu]|ra|co
+ráuraco	nome masculino	[ráu]|ra|co
+rauwólfia	nome feminino	rau|wól|fi|a
+ravasca	nome feminino	ra|[vas]|ca
+ravasco	nome masculino	ra|[vas]|co
+rave	nome feminino	[ra]|ve
+ravenala	nome feminino	ra|ve|[na]|la
+ravenate	adjetivo	ra|ve|[na]|te
+ravenate	nome masculino	ra|ve|[na]|te
+ravenate	nome feminino	ra|ve|[na]|te
+ravensara	nome feminino	ra|ven|[sa]|ra
+ravessa	nome feminino	ra|[ves]|sa
+ravina	nome feminino	ra|[vi]|na
+ravinado	adjetivo	ra|vi|[na]|do
+ravinamento	nome masculino	ra|vi|na|[men]|to
+ravinar	verbo	ra|vi|[nar]
+ravinhar	verbo	ra|vi|[nhar]
+ravinhento	adjetivo	ra|vi|[nhen]|to
+ravinhoso	adjetivo	ra|vi|[nho]|so
+ravinoso	adjetivo	ra|vi|[no]|so
+ravióis	nome masculino	ra|vi|[óis]
+ravióli	nome masculino	ra|vi|[ó]|li
+ravioli	nome masculino	ra|vio|li
+raxa	nome feminino	[ra]|xa
+raxeta	nome feminino	ra|[xe]|ta
+raz	nome masculino	[raz]
+razão	nome masculino	ra|[zão]
+razão	nome feminino	ra|[zão]
+razia	nome feminino	ra|[zi]|a
+raziar	verbo	ra|zi|[ar]
+razinza	adjetivo	ra|[zin]|za
+razinza	nome masculino	ra|[zin]|za
+razinza	nome feminino	ra|[zin]|za
+razinzar	verbo	ra|zin|[zar]
+razoabilidade	nome feminino	ra|zo|a|bi|li|[da]|de
+razoadamente	advérbio	ra|zo|a|da|[men]|te
+razoado	adjetivo	ra|zo|[a]|do
+razoado	nome masculino	ra|zo|[a]|do
+razoador	nome masculino	ra|zo|a|[dor]
+razoamento	nome masculino	ra|zo|a|[men]|to
+razoar	verbo	ra|zo|[ar]
+razoável	adjetivo	ra|zo|[á]|vel
+razoavelmente	advérbio	ra|zo|a|vel|[men]|te
+rê	nome masculino	[rê]
+ré	nome feminino	[ré]
+ré	nome masculino	[ré]
+reabastecedor	adjetivo	re|a|bas|te|ce|[dor]
+reabastecedor	nome masculino	re|a|bas|te|ce|[dor]
+reabastecer	verbo	re|a|bas|te|[cer]
+reabastecido	adjetivo	re|a|bas|te|[ci]|do
+reabastecimento	nome masculino	re|a|bas|te|ci|[men]|to
+reabastecível	adjetivo	re|a|bas|te|[cí]|vel
+reabertura	nome feminino	re|a|ber|[tu]|ra
+reabilitação	nome feminino	re|a|bi|li|ta|[ção]
+reabilitada	nome feminino	re|a|bi|li|[ta]|da
+reabilitado	adjetivo	re|a|bi|li|[ta]|do
+reabilitado	nome masculino	re|a|bi|li|[ta]|do
+reabilitador	adjetivo	re|a|bi|li|ta|[dor]
+reabilitador	nome masculino	re|a|bi|li|ta|[dor]
+reabilitante	adjetivo	re|a|bi|li|[tan]|te
+reabilitar	verbo	re|a|bi|li|[tar]
+reabilitativo	adjetivo	re|a|bi|li|ta|[ti]|vo
+reabilitável	adjetivo	re|a|bi|li|[tá]|vel
+reabitação	nome feminino	re|a|bi|ta|[ção]
+reabitar	verbo	re|a|bi|[tar]
+reabitável	adjetivo	re|a|bi|[tá]|vel
+reabituado	adjetivo	re|a|bi|tu|[a]|do
+reabituar	verbo	re|a|bi|tu|[ar]
+reabraçar	verbo	re|a|bra|[çar]
+reabrir	verbo	re|a|[brir]
+reabsorção	nome feminino	re|ab|sor|[ção]
+reabsorvedor	adjetivo	re|ab|sor|ve|[dor]
+reabsorvedor	nome masculino	re|ab|sor|ve|[dor]
+reabsorver	verbo	re|ab|sor|[ver]
+reabsorvido	adjetivo	re|ab|sor|[vi]|do
+reabsorvível	adjetivo	re|ab|sor|[ví]|vel

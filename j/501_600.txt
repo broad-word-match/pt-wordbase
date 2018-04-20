@@ -1,0 +1,100 @@
+jasmineiro-galego	nome masculino	jas|mi|nei|ro-ga|[le]|go
+jasmíneo	adjetivo	jas|[mí]|ne|o
+jasónia	nome feminino	ja|[só]|ni|a
+jasônia	nome feminino	ja|[sô]|ni|a
+jaspe	nome masculino	[jas]|pe
+jaspe-negro	nome masculino	jas|pe-ne|gro
+jaspeado	adjetivo	jas|pe|[a]|do
+jaspeador	nome masculino	jas|pe|a|[dor]
+jaspeadura	nome feminino	jas|pe|a|[du]|ra
+jaspear	verbo	jas|pe|[ar]
+jáspeo	adjetivo	[jás]|pe|o
+jáspico	adjetivo	[jás]|pi|co
+jaspoide	adjetivo	jas|[poi]|de
+jassaí	nome masculino	jas|sa|[í]
+jataí	nome feminino	ja|ta|[í]
+jataí	nome masculino	ja|ta|[í]
+jataíba	nome feminino	ja|ta|[í]|ba
+jataicica	nome feminino	ja|tai|[ci]|ca
+jatância	nome feminino	ja|[tân]|ci|a
+jatanciar	verbo	ja|tan|ci|[ar]
+jatanciosidade	nome feminino	ja|tan|ci|o|si|[da]|de
+jatancioso	adjetivo	ja|tan|ci|[o]|so
+jatante	adjetivo	ja|[tan]|te
+jatar	verbo	ja|[tar]
+jataúba	nome feminino	ja|ta|[ú]|ba
+jatemar	nome masculino	ja|te|[mar]
+jati	nome feminino	ja|[ti]
+jatibá	nome masculino	ja|ti|[bá]
+jaticá	nome masculino	ja|ti|[cá]
+jatium	nome masculino	ja|ti|[um]
+jato	nome masculino	[ja]|to
+jato	nome feminino	[ja]|to
+jatobá	nome masculino	ja|to|[bá]
+jatoplanador	nome masculino	ja|to|pla|na|[dor]
+jatuarana	nome feminino	ja|tu|a|[ra]|na
+jatuaúba	nome feminino	ja|tu|a|[ú]|ba
+jatura	nome feminino	ja|[tu]|ra
+jaú	nome masculino	ja|[ú]
+jau	adjetivo	[jau]
+jau	nome masculino	[jau]
+jau	nome feminino	[jau]
+jauá	nome masculino	jau|[á]
+jauaraicica	nome feminino	jau|a|rai|[ci]|ca
+jauari	nome masculino	jau|a|[ri]
+jauense	adjetivo	jau|[en]|se
+jauense	nome masculino	jau|[en]|se
+jauense	nome feminino	jau|[en]|se
+jaula	nome feminino	[jau]|la
+jauna	nome feminino	[jau]|na
+jaupati	nome masculino	jau|pa|[ti]
+java	nome feminino	[ja]|va
+java	nome masculino	[ja]|va
+javali	nome masculino	ja|va|[li]
+javalina	nome feminino	ja|va|[li]|na
+javalino	adjetivo	ja|va|[li]|no
+javanco	nome masculino	ja|[van]|co
+javanês	nome masculino	ja|va|[nês]
+javanês	adjetivo	ja|va|[nês]
+javanesa	nome feminino	ja|va|[ne]|sa
+javarda	nome feminino	ja|[var]|da
+javardeiro	nome masculino	ja|var|[dei]|ro
+javardice	nome feminino	ja|var|[di]|ce
+javardo	nome masculino	ja|[var]|do
+javardo	adjetivo	ja|[var]|do
+javardolas	nome masculino	ja|var|[do]|las
+javardolas	nome feminino	ja|var|[do]|las
+javari	nome masculino	ja|va|[ri]
+javeísta	adjetivo	ja|ve|[ís]|ta
+javeísta	nome masculino	ja|ve|[ís]|ta
+javeísta	nome feminino	ja|ve|[ís]|ta
+javevó	adjetivo	ja|ve|[vó]
+javite	nome masculino	ja|[vi]|te
+javradeira	nome feminino	ja|vra|[dei]|ra
+javradoura	nome feminino	ja|vra|[dou]|ra
+javrar	verbo	ja|[vrar]
+javre	nome masculino	[ja]|vre
+jaxâmata	adjetivo	ja|[xâ]|ma|ta
+jaxâmata	nome masculino	ja|[xâ]|ma|ta
+jaxâmata	nome feminino	ja|[xâ]|ma|ta
+jaza	nome feminino	[ja]|za
+jazente	adjetivo	ja|[zen]|te
+jazente	nome feminino	ja|[zen]|te
+jazente	nome masculino	ja|[zen]|te
+jazer	nome masculino	ja|[zer]
+jazer	verbo	ja|[zer]
+jazerão	nome masculino	ja|ze|[rão]
+jazerina	nome feminino	ja|ze|[ri]|na
+jazerino	adjetivo	ja|ze|[ri]|no
+jazida	nome feminino	ja|[zi]|da
+jazido	nome masculino	ja|[zi]|do
+jázige	adjetivo	[já]|zi|ge
+jázige	nome masculino	[já]|zi|ge
+jázige	nome feminino	[já]|zi|ge
+jazigo	nome masculino	ja|[zi]|go
+jazz	nome masculino	[jazz]
+jazz	adjetivo	[jazz]
+jazzista	adjetivo	jaz|[zis]|ta
+jazzista	nome masculino	jaz|[zis]|ta
+jazzista	nome feminino	jaz|[zis]|ta
+jazzístico	adjetivo	jaz|[zís]|ti|co

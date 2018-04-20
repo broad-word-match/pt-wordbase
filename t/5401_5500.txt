@@ -1,0 +1,100 @@
+toluol	nome masculino	to|lu|[ol]
+tom	nome masculino	[tom]
+toma	nome feminino	[to]|ma
+toma	interjeição	[to]|ma
+toma	nome masculino	[to]|ma
+toma-largura	nome masculino	to|ma-lar|[gu]|ra
+tomada	nome feminino	to|[ma]|da
+tomadeira	nome feminino	to|ma|[dei]|ra
+tomadete	adjetivo	to|ma|[de]|te
+tomadia	nome feminino	to|ma|[di]|a
+tomadiço	adjetivo	to|ma|[di]|ço
+tomado	nome masculino	to|[ma]|do
+tomado	adjetivo	to|[ma]|do
+tomador	nome masculino	to|ma|[dor]
+tomador	adjetivo	to|ma|[dor]
+tomadora	nome feminino	to|ma|[do]|ra
+tomadote	adjetivo	to|ma|[do]|te
+tomadouro	nome masculino	to|ma|[dou]|ro
+tomadura	nome feminino	to|ma|[du]|ra
+tomamento	nome masculino	to|ma|[men]|to
+tomar	verbo	to|[mar]
+tomara	interjeição	to|[ma]|ra
+tomarense	nome masculino	to|ma|[ren]|se
+tomarense	adjetivo	to|ma|[ren]|se
+tomarense	nome feminino	to|ma|[ren]|se
+tomares	nome masculino	to|[ma]|res
+tomarista	nome masculino	to|ma|[ris]|ta
+tomarista	adjetivo	to|ma|[ris]|ta
+tomarista	nome feminino	to|ma|[ris]|ta
+tomasinense	adjetivo	to|ma|si|[nen]|se
+tomasinense	nome masculino	to|ma|si|[nen]|se
+tomasinense	nome feminino	to|ma|si|[nen]|se
+tomata	nome feminino	to|[ma]|ta
+tomatada	nome feminino	to|ma|[ta]|da
+tomatal	nome masculino	to|ma|[tal]
+tomate	nome masculino	to|[ma]|te
+tomate-de-sodoma	nome masculino	to|ma|te-de-so|[do]|ma
+tomateira	nome feminino	to|ma|[tei]|ra
+tomateiro	nome masculino	to|ma|[tei]|ro
+tomateiro-do-diabo	nome masculino	to|ma|tei|ro-do-di|[a]|bo
+tomatinho-de-capucho	nome masculino	to|ma|ti|nho-de-ca|[pu]|cho
+tomável	adjetivo	to|[má]|vel
+tomba	nome feminino	[tom]|ba
+tomba-ladeiras	nome masculino	tom|ba-la|[dei]|ras
+tomba-lobos	nome masculino	tom|ba-lo|bos
+tomba-lombos	nome masculino	tom|ba-lom|bos
+tombada	nome feminino	tom|[ba]|da
+tombadilho	nome masculino	tom|ba|[di]|lho
+tombador	adjetivo	tom|ba|[dor]
+tombador	nome masculino	tom|ba|[dor]
+tombamento	nome masculino	tom|ba|[men]|to
+tombante	adjetivo	tom|[ban]|te
+tombar	verbo	tom|[bar]
+tombasana	nome feminino	tom|ba|[sa]|na
+tombear	verbo	tom|be|[ar]
+tombeirinho	nome masculino	tom|bei|[ri]|nho
+tombeiro	adjetivo	tom|[bei]|ro
+tombo	nome masculino	[tom]|bo
+tômbola	nome feminino	[tôm]|bo|la
+tombolar	verbo	tom|bo|[lar]
+tômbolo	nome masculino	[tôm]|bo|lo
+tômboro	nome masculino	[tôm]|bo|ro
+tomentelho	nome masculino	to|men|[te]|lho
+tomentelo	nome masculino	to|men|[te]|lo
+tomentilho	nome masculino	to|men|[ti]|lho
+tomento	nome masculino	to|[men]|to
+tomentoso	adjetivo	to|men|[to]|so
+tomilhal	nome masculino	to|mi|[lhal]
+tomilhinha	nome feminino	to|mi|[lhi]|nha
+tomilho	nome masculino	to|[mi]|lho
+tomim	nome masculino	to|[mim]
+tomíparo	adjetivo	to|[mí]|pa|ro
+tomismo	nome masculino	to|[mis]|mo
+tomista	adjetivo	to|[mis]|ta
+tomista	nome masculino	to|[mis]|ta
+tomista	nome feminino	to|[mis]|ta
+tomístico	adjetivo	to|[mís]|ti|co
+tomita	adjetivo	to|[mi]|ta
+tomita	nome masculino	to|[mi]|ta
+tomita	nome feminino	to|[mi]|ta
+tommasínia	nome feminino	tom|ma|[sí]|ni|a
+tomo	nome masculino	[to]|mo
+tomografia	nome feminino	to|mo|gra|[fi]|a
+tomográfico	adjetivo	to|mo|[grá]|fi|co
+tomógrafo	nome masculino	to|[mó]|gra|fo
+tomograma	nome masculino	to|mo|[gra]|ma
+tômolo	nome masculino	[tô]|mo|lo
+tomóptero	nome masculino	to|[móp]|te|ro
+tômoro	nome masculino	[tô]|mo|ro
+tomotocia	nome feminino	to|mo|to|[ci]|a
+tomotócico	adjetivo	to|mo|[tó]|ci|co
+tona	nome feminino	[to]|na
+tonabeu	adjetivo	to|na|[beu]
+tonabeu	nome masculino	to|na|[beu]
+tonadilha	nome feminino	to|na|[di]|lha
+tonal	adjetivo	to|[nal]
+tonalidade	nome feminino	to|na|li|[da]|de
+tonalito	nome masculino	to|na|[li]|to
+tonalizar	verbo	to|na|li|[zar]
+tonalmente	advérbio	to|nal|[men]|te

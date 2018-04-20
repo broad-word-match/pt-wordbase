@@ -1,0 +1,100 @@
+cateniforme	adjetivo	ca|te|ni|[for]|me
+catenoide	nome feminino	ca|te|[noi]|de
+caténula	nome feminino	ca|[té]|nu|la
+catênula	nome feminino	ca|[tê]|nu|la
+catenulado	adjetivo	ca|te|nu|[la]|do
+catequese	nome feminino	ca|te|[que]|se
+catequético	adjetivo	ca|te|[qué]|ti|co
+catequista	nome masculino	ca|te|[quis]|ta
+catequista	nome feminino	ca|te|[quis]|ta
+catequista	adjetivo	ca|te|[quis]|ta
+catequístico	adjetivo	ca|te|[quís]|ti|co
+catequização	nome feminino	ca|te|qui|za|[ção]
+catequizador	nome masculino	ca|te|qui|za|[dor]
+catequizante	adjetivo	ca|te|qui|[zan]|te
+catequizante	nome masculino	ca|te|qui|[zan]|te
+catequizante	nome feminino	ca|te|qui|[zan]|te
+catequizar	verbo	ca|te|qui|[zar]
+catequizável	adjetivo	ca|te|qui|[zá]|vel
+catérese	nome feminino	ca|[té]|re|se
+cateretê	nome masculino	ca|te|re|[tê]
+caterético	adjetivo	ca|te|[ré]|ti|co
+caterético	nome masculino	ca|te|[ré]|ti|co
+catering	nome masculino	[ca]|te|ring
+caterpílar	nome masculino	ca|ter|[pí]|lar
+caterpillar	nome masculino	ca|ter|pil|lar
+caterva	nome feminino	ca|[ter]|va
+catesbeia	nome feminino	ca|tes|[bei]|a
+catete	adjetivo	ca|[te]|te
+catete	nome masculino	ca|[te]|te
+catete	nome feminino	ca|[te]|te
+cateter	nome masculino	ca|te|[ter]
+cateterismo	nome masculino	ca|te|te|[ris]|mo
+cateterista	adjetivo	ca|te|te|[ris]|ta
+cateterista	nome masculino	ca|te|te|[ris]|ta
+cateterista	nome feminino	ca|te|te|[ris]|ta
+cateterístico	adjetivo	ca|te|te|[rís]|ti|co
+cateterizar	verbo	ca|te|te|ri|[zar]
+cateto	nome masculino	ca|[te]|to
+cateto	adjetivo	ca|[te]|to
+catetométrico	adjetivo	ca|te|to|[mé]|tri|co
+catetômetro	nome masculino	ca|te|[tô]|me|tro
+catetómetro	nome masculino	ca|te|[tó]|me|tro
+catgut	nome masculino	cat|gut
+catiano	nome masculino	ca|ti|[a]|no
+catião	nome masculino	ca|ti|[ão]
+catiguá	nome masculino	ca|ti|[guá]
+catilinária	nome feminino	ca|ti|li|[ná]|ri|a
+catimba	nome feminino	ca|[tim]|ba
+catimbau	nome masculino	ca|tim|[bau]
+catimbauzeiro	nome masculino	ca|tim|bau|[zei]|ro
+catimbó	nome masculino	ca|tim|[bó]
+catimbozeiro	nome masculino	ca|tim|bo|[zei]|ro
+catimbueira	nome feminino	ca|tim|bu|[ei]|ra
+catimpuera	nome feminino	ca|tim|pu|[e]|ra
+catinga	nome feminino	ca|[tin]|ga
+catinga	nome masculino	ca|[tin]|ga
+catinga-branca	nome feminino	ca|tin|ga-bran|ca
+catinga-de-bode	nome feminino	ca|tin|ga-de-bo|de
+catingal	nome masculino	ca|tin|[gal]
+catingante	adjetivo	ca|tin|[gan]|te
+catingão	nome masculino	ca|tin|[gão]
+catingar	verbo	ca|tin|[gar]
+catingoso	adjetivo	ca|tin|[go]|so
+catingudo	adjetivo	ca|tin|[gu]|do
+catingueira	nome feminino	ca|tin|[guei]|ra
+catingueiro	nome masculino	ca|tin|[guei]|ro
+catingueiro	adjetivo	ca|tin|[guei]|ro
+catinguento	adjetivo	ca|tin|[guen]|to
+catininga	nome feminino	ca|ti|[nin]|ga
+catiônico	adjetivo	ca|ti|[ô]|ni|co
+catiónico	adjetivo	ca|ti|[ó]|ni|co
+cationte	nome masculino	ca|ti|[on]|te
+catita	adjetivo	ca|[ti]|ta
+catita	nome masculino	ca|[ti]|ta
+catita	nome feminino	ca|[ti]|ta
+catitar	verbo	ca|ti|[tar]
+catitice	nome feminino	ca|ti|[ti]|ce
+catitismo	nome masculino	ca|ti|[tis]|mo
+cativa	nome feminino	ca|[ti]|va
+cativação	nome feminino	ca|ti|va|[ção]
+cativador	adjetivo	ca|ti|va|[dor]
+cativador	nome masculino	ca|ti|va|[dor]
+cativante	adjetivo	ca|ti|[van]|te
+cativantemente	advérbio	ca|ti|van|te|[men]|te
+cativar	verbo	ca|ti|[var]
+cativável	adjetivo	ca|ti|[vá]|vel
+cativeiro	nome masculino	ca|ti|[vei]|ro
+catividade	nome feminino	ca|ti|vi|[da]|de
+cativo	nome masculino	ca|[ti]|vo
+cativo	adjetivo	ca|[ti]|vo
+catixa	interjeição	ca|[ti]|xa
+catizo	adjetivo	ca|[ti]|zo
+catizo	nome masculino	ca|[ti]|zo
+catle	nome masculino	[ca]|tle
+cato	adjetivo	[ca]|to
+cato	nome masculino	[ca]|to
+catodal	adjetivo	ca|to|[dal]
+catódico	adjetivo	ca|[tó]|di|co
+catódio	nome masculino	ca|[tó]|di|o
+catodioluminescência	nome feminino	ca|to|di|o|lu|mi|nes|[cên]|ci|a

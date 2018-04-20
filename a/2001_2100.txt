@@ -1,0 +1,100 @@
+açambarcamento	nome masculino	a|çam|bar|ca|[men]|to
+açambarcante	adjetivo	a|çam|bar|[can]|te
+açambarcante	nome masculino	a|çam|bar|[can]|te
+açambarcante	nome feminino	a|çam|bar|[can]|te
+açambarcar	verbo	a|çam|bar|[car]
+açambarcável	adjetivo	a|çam|bar|[cá]|vel
+açambarque	nome masculino	a|çam|[bar]|que
+acambetado	adjetivo	a|cam|be|[ta]|do
+acambetar	verbo	a|cam|be|[tar]
+acamboar	verbo	a|cam|bo|[ar]
+acambraiado	adjetivo	a|cam|brai|[a]|do
+acambraiar	verbo	a|cam|brai|[ar]
+acambulhar	verbo	a|cam|bu|[lhar]
+açame	nome masculino	a|[ça]|me
+acamelado	adjetivo	a|ca|me|[la]|do
+acamelar	verbo	a|ca|me|[lar]
+acamisado	adjetivo	a|ca|mi|[sa]|do
+açamo	nome masculino	a|[ça]|mo
+acamonia	nome feminino	a|ca|mo|[ni]|a
+açamoucado	adjetivo	a|ça|mou|[ca]|do
+açamoucado	nome masculino	a|ça|mou|[ca]|do
+acampado	adjetivo	a|cam|[pa]|do
+acampainhado	adjetivo	a|cam|pa|i|[nha]|do
+acampainhar	verbo	a|cam|pa|i|[nhar]
+acampamento	nome masculino	a|cam|pa|[men]|to
+acampanado	adjetivo	a|cam|pa|[na]|do
+acampanar	verbo	a|cam|pa|[nar]
+acampar	verbo	a|cam|[par]
+acampsia	nome feminino	a|camp|[si]|a
+acampto	adjetivo	a|[camp]|to
+acamptossomo	adjetivo	a|camp|tos|[so]|mo
+acamptossomo	nome masculino	a|camp|tos|[so]|mo
+acamurçado	adjetivo	a|ca|mur|[ça]|do
+acamurçamento	nome masculino	a|ca|mur|ça|[men]|to
+acamurçar	verbo	a|ca|mur|[çar]
+acamutanga	nome feminino	a|ca|mu|[tan]|ga
+açanã	nome feminino	a|ça|[nã]
+acanalado	adjetivo	a|ca|na|[la]|do
+acanalador	adjetivo	a|ca|na|la|[dor]
+acanalador	nome masculino	a|ca|na|la|[dor]
+acanaladura	nome feminino	a|ca|na|la|[du]|ra
+acanalamento	nome masculino	a|ca|na|la|[men]|to
+acanalar	verbo	a|ca|na|[lar]
+acanalhadamente	advérbio	a|ca|na|lha|da|[men]|te
+acanalhado	adjetivo	a|ca|na|[lha]|do
+acanalhador	adjetivo	a|ca|na|lha|[dor]
+acanalhador	nome masculino	a|ca|na|lha|[dor]
+acanalhamento	nome masculino	a|ca|na|lha|[men]|to
+acanalhante	adjetivo	a|ca|na|[lhan]|te
+acanalhar	verbo	a|ca|na|[lhar]
+acanastrado	adjetivo	a|ca|nas|[tra]|do
+acanastrar	verbo	a|ca|nas|[trar]
+acanaveado	adjetivo	a|ca|na|ve|[a]|do
+acanaveadura	nome feminino	a|ca|na|ve|a|[du]|ra
+acanaveamento	nome masculino	a|ca|na|ve|a|[men]|to
+acanavear	verbo	a|ca|na|ve|[ar]
+acancelado	adjetivo	a|can|ce|[la]|do
+acancelar	verbo	a|can|ce|[lar]
+acancerado	adjetivo	a|can|ce|[ra]|do
+acandilado	adjetivo	a|can|di|[la]|do
+acandilar	verbo	a|can|di|[lar]
+acanelado	adjetivo	a|ca|ne|[la]|do
+acanelado	nome masculino	a|ca|ne|[la]|do
+acanelador	adjetivo	a|ca|ne|la|[dor]
+acanelador	nome masculino	a|ca|ne|la|[dor]
+acaneladura	nome feminino	a|ca|ne|la|[du]|ra
+acanelamento	nome masculino	a|ca|ne|la|[men]|to
+acanelar	verbo	a|ca|ne|[lar]
+acangaceirado	adjetivo	a|can|ga|cei|[ra]|do
+acangaceirar	verbo	a|can|ga|cei|[rar]
+acangatar	nome masculino	a|can|ga|[tar]
+acanguape	nome masculino	a|can|[gua]|pe
+acanguçu	nome masculino	a|can|gu|[çu]
+acangulado	adjetivo	a|can|gu|[la]|do
+acangundado	adjetivo	a|can|gun|[da]|do
+acanhadamente	advérbio	a|ca|nha|da|[men]|te
+acanhado	adjetivo	a|ca|[nha]|do
+acanhado	nome masculino	a|ca|[nha]|do
+acanhador	adjetivo	a|ca|nha|[dor]
+acanhador	nome masculino	a|ca|nha|[dor]
+acanhamento	nome masculino	a|ca|nha|[men]|to
+acanhar	verbo	a|ca|[nhar]
+acanho	nome masculino	a|[ca]|nho
+acanhoar	verbo	a|ca|nho|[ar]
+acanhonear	verbo	a|ca|nho|ne|[ar]
+acanhotadamente	advérbio	a|ca|nho|ta|da|[men]|te
+acanhotado	adjetivo	a|ca|nho|[ta]|do
+acânia	nome feminino	a|[câ]|ni|a
+acaniano	adjetivo	a|ca|ni|[a]|no
+acaniano	nome masculino	a|ca|ni|[a]|no
+acanivetar	verbo	a|ca|ni|ve|[tar]
+acanonicamente	advérbio	a|ca|no|ni|ca|[men]|te
+acanónico	adjetivo	a|ca|[nó]|ni|co
+acanônico	adjetivo	a|ca|[nô]|ni|co
+acanonista	nome masculino	a|ca|no|[nis]|ta
+acanonista	nome feminino	a|ca|no|[nis]|ta
+acantácea	nome feminino	a|can|[tá]|ce|a
+acantáceo	adjetivo	a|can|[tá]|ce|o
+acanteirado	adjetivo	a|can|tei|[ra]|do
+acanteirar	verbo	a|can|tei|[rar]

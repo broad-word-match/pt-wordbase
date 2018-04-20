@@ -1,0 +1,100 @@
+remelosa	nome feminino	re|me|[lo]|sa
+remeloso	adjetivo	re|me|[lo]|so
+remeloso	nome masculino	re|me|[lo]|so
+remembrança	nome feminino	re|mem|[bran]|ça
+remembrar	verbo	re|mem|[brar]
+rememoração	nome feminino	re|me|mo|ra|[ção]
+rememorador	adjetivo	re|me|mo|ra|[dor]
+rememorar	verbo	re|me|mo|[rar]
+rememorativo	adjetivo	re|me|mo|ra|[ti]|vo
+rememorável	adjetivo	re|me|mo|[rá]|vel
+remémoro	adjetivo	re|[mé]|mo|ro
+remêmoro	adjetivo	re|[mê]|mo|ro
+remendadamente	advérbio	re|men|da|da|[men]|te
+remendado	adjetivo	re|men|[da]|do
+remendador	adjetivo	re|men|da|[dor]
+remendador	nome masculino	re|men|da|[dor]
+remendagem	nome feminino	re|men|[da]|gem
+remendão	adjetivo	re|men|[dão]
+remendão	nome masculino	re|men|[dão]
+remendar	verbo	re|men|[dar]
+remendaria	nome feminino	re|men|da|[ri]|a
+remendeiro	adjetivo	re|men|[dei]|ro
+remendeiro	nome masculino	re|men|[dei]|ro
+remendo	nome masculino	re|[men]|do
+remendona	nome feminino	re|men|[do]|na
+remeneio	nome masculino	re|me|[nei]|o
+remenicar	verbo	re|me|ni|[car]
+remense	nome masculino	re|[men]|se
+remense	adjetivo	re|[men]|se
+remense	nome feminino	re|[men]|se
+remercear	verbo	re|mer|ce|[ar]
+remerecedor	adjetivo	re|me|re|ce|[dor]
+remerecer	verbo	re|me|re|[cer]
+remergulhar	verbo	re|mer|gu|[lhar]
+remergulho	nome masculino	re|mer|[gu]|lho
+remessa	nome feminino	re|[mes]|sa
+remessão	nome masculino	re|mes|[são]
+remessar	verbo	re|mes|[sar]
+remesso	nome masculino	re|[mes]|so
+remestre	nome masculino	re|[mes]|tre
+remetedeira	nome feminino	re|me|te|[dei]|ra
+remetedura	nome feminino	re|me|te|[du]|ra
+remetente	nome masculino	re|me|[ten]|te
+remetente	adjetivo	re|me|[ten]|te
+remetente	nome feminino	re|me|[ten]|te
+remeter	verbo	re|me|[ter]
+remetida	nome feminino	re|me|[ti]|da
+remetimento	nome masculino	re|me|ti|[men]|to
+remeu	pronome possessivo	re|[meu]
+remexão	adjetivo	re|me|[xão]
+remexão	nome masculino	re|me|[xão]
+remexedor	adjetivo	re|me|xe|[dor]
+remexer	verbo	re|me|[xer]
+remexida	nome feminino	re|me|[xi]|da
+remexidamente	advérbio	re|me|xi|da|[men]|te
+remexido	adjetivo	re|me|[xi]|do
+remexido	nome masculino	re|me|[xi]|do
+remição	nome feminino	re|mi|[ção]
+remida	nome feminino	re|[mi]|da
+remido	adjetivo	re|[mi]|do
+remido	nome masculino	re|[mi]|do
+remidor	adjetivo	re|mi|[dor]
+remidor	nome masculino	re|mi|[dor]
+remífero	adjetivo	re|[mí]|fe|ro
+remiforme	adjetivo	re|mi|[for]|me
+rémige	adjetivo	[ré]|mi|ge
+rémige	nome feminino	[ré]|mi|ge
+rêmige	adjetivo	[rê]|mi|ge
+rêmige	nome feminino	[rê]|mi|ge
+remígero	adjetivo	re|[mí]|ge|ro
+remígio	nome masculino	re|[mí]|gi|o
+remigração	nome feminino	re|mi|gra|[ção]
+remigrar	verbo	re|mi|[grar]
+remijar	verbo	re|mi|[jar]
+remijo	nome masculino	re|[mi]|jo
+remimento	nome masculino	re|mi|[men]|to
+reminar	verbo	re|mi|[nar]
+remineralização	nome feminino	re|mi|ne|ra|li|za|[ção]
+remineralizar	verbo	re|mi|ne|ra|li|[zar]
+reminhol	nome masculino	re|mi|[nhol]
+reminiscência	nome feminino	re|mi|nis|[cên]|ci|a
+reminiscente	adjetivo	re|mi|nis|[cen]|te
+remípede	adjetivo	re|[mí]|pe|de
+remípede	nome masculino	re|[mí]|pe|de
+remir	verbo	re|[mir]
+remirar	verbo	re|mi|[rar]
+remisga	nome feminino	re|[mis]|ga
+remissa	nome feminino	re|[mis]|sa
+remissamente	advérbio	re|mis|sa|[men]|te
+remissão	nome feminino	re|mis|[são]
+remissibilidade	nome feminino	re|mis|si|bi|li|[da]|de
+remissivamente	advérbio	re|mis|si|va|[men]|te
+remissível	adjetivo	re|mis|[sí]|vel
+remissivo	adjetivo	re|mis|[si]|vo
+remisso	adjetivo	re|[mis]|so
+remissor	adjetivo	re|mis|[sor]
+remissório	adjetivo	re|mis|[só]|ri|o
+remitarso	adjetivo	re|mi|[tar]|so
+remitência	nome feminino	re|mi|[tên]|ci|a
+remitente	adjetivo	re|mi|[ten]|te

@@ -1,0 +1,81 @@
+futebolista	nome masculino	fu|te|bo|[lis]|ta
+futebolista	nome feminino	fu|te|bo|[lis]|ta
+futebolisticamente	advérbio	fu|te|bo|lis|ti|ca|[men]|te
+futebolístico	adjetivo	fu|te|bo|[lís]|ti|co
+futicar	verbo	fu|ti|[car]
+fútil	adjetivo	[fú]|til
+fútil	nome masculino	[fú]|til
+fútil	nome feminino	[fú]|til
+futilidade	nome feminino	fu|ti|li|[da]|de
+futilizar	verbo	fu|ti|li|[zar]
+futilmente	advérbio	fu|til|[men]|te
+futisso	nome masculino	fu|[tis]|so
+futon	nome masculino	fu|ton
+futre	nome masculino	[fu]|tre
+futre	adjetivo	[fu]|tre
+futrica	nome feminino	fu|[tri]|ca
+futrica	nome masculino	fu|[tri]|ca
+futricada	nome feminino	fu|tri|[ca]|da
+futricagem	nome feminino	fu|tri|[ca]|gem
+futricar	verbo	fu|tri|[car]
+futricaria	nome feminino	fu|tri|ca|[ri]|a
+futriqueira	nome feminino	fu|tri|[quei]|ra
+futriqueiro	nome masculino	fu|tri|[quei]|ro
+futriquice	nome feminino	fu|tri|[qui]|ce
+futriquismo	nome masculino	fu|tri|[quis]|mo
+futsal	nome masculino	fut|[sal]
+futura	nome feminino	fu|[tu]|ra
+futuração	nome feminino	fu|tu|ra|[ção]
+futurado	adjetivo	fu|tu|[ra]|do
+futuramente	advérbio	fu|tu|ra|[men]|te
+futurar	verbo	fu|tu|[rar]
+futurável	adjetivo	fu|tu|[rá]|vel
+futurição	nome feminino	fu|tu|ri|[ção]
+futuridade	nome feminino	fu|tu|ri|[da]|de
+futurismo	nome masculino	fu|tu|[ris]|mo
+futurista	adjetivo	fu|tu|[ris]|ta
+futurista	nome masculino	fu|tu|[ris]|ta
+futurista	nome feminino	fu|tu|[ris]|ta
+futurístico	adjetivo	fu|tu|[rís]|ti|co
+futurível	adjetivo	fu|tu|[rí]|vel
+futuro	nome masculino	fu|[tu]|ro
+futuro	adjetivo	fu|[tu]|ro
+futurologia	nome feminino	fu|tu|ro|lo|[gi]|a
+futurológico	adjetivo	fu|tu|ro|[ló]|gi|co
+futurologista	adjetivo	fu|tu|ro|lo|[gis]|ta
+futurologista	nome masculino	fu|tu|ro|lo|[gis]|ta
+futurologista	nome feminino	fu|tu|ro|lo|[gis]|ta
+futurólogo	nome masculino	fu|tu|[ró]|lo|go
+futuroso	adjetivo	fu|tu|[ro]|so
+fuxicação	nome feminino	fu|xi|ca|[ção]
+fuxicar	verbo	fu|xi|[car]
+fuxico	nome masculino	fu|[xi]|co
+fuxiqueira	nome feminino	fu|xi|[quei]|ra
+fuxiqueiro	adjetivo	fu|xi|[quei]|ro
+fuxiqueiro	nome masculino	fu|xi|[quei]|ro
+fuxiquento	adjetivo	fu|xi|[quen]|to
+fuxiquento	nome masculino	fu|xi|[quen]|to
+fuzarca	nome feminino	fu|[zar]|ca
+fuzarquear	verbo	fu|zar|que|[ar]
+fuzarqueiro	adjetivo	fu|zar|[quei]|ro
+fuzarqueiro	nome masculino	fu|zar|[quei]|ro
+fuzil	nome masculino	fu|[zil]
+fuzilação	nome feminino	fu|zi|la|[ção]
+fuzilada	nome feminino	fu|zi|[la]|da
+fuzilado	adjetivo	fu|zi|[la]|do
+fuzilado	nome masculino	fu|zi|[la]|do
+fuzilador	adjetivo	fu|zi|la|[dor]
+fuzilador	nome masculino	fu|zi|la|[dor]
+fuziladora	nome feminino	fu|zi|la|[do]|ra
+fuziladouro	nome masculino	fu|zi|la|[dou]|ro
+fuzilamento	nome masculino	fu|zi|la|[men]|to
+fuzilante	adjetivo	fu|zi|[lan]|te
+fuzilão	nome masculino	fu|zi|[lão]
+fuzilar	verbo	fu|zi|[lar]
+fuzilaria	nome feminino	fu|zi|la|[ri]|a
+fuzilável	adjetivo	fu|zi|[lá]|vel
+fuzileiro	nome masculino	fu|zi|[lei]|ro
+fuzileiro	nome feminino	fu|zi|[lei]|ro
+fuzilhão	nome masculino	fu|zi|[lhão]
+fuzo	nome masculino	[fu]|zo
+fuzuê	nome masculino	fu|zu|[ê]

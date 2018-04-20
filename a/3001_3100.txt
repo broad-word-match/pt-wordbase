@@ -1,0 +1,100 @@
+acidímetro	nome masculino	a|ci|[dí]|me|tro
+acidioso	adjetivo	a|ci|di|[o]|so
+ácido	nome masculino	[á]|ci|do
+ácido	adjetivo	[á]|ci|do
+acidobásico	adjetivo	a|ci|do|[bá]|si|co
+acidófilo	nome masculino	a|ci|[dó]|fi|lo
+acidófilo	adjetivo	a|ci|[dó]|fi|lo
+acidogéneo	adjetivo	a|ci|do|[gé]|ne|o
+acidogêneo	adjetivo	a|ci|do|[gê]|ne|o
+acidol	nome masculino	a|ci|[dol]
+acidometria	nome feminino	a|ci|do|me|[tri]|a
+acidométrico	adjetivo	a|ci|do|[mé]|tri|co
+acidómetro	nome masculino	a|ci|[dó]|me|tro
+acidômetro	nome masculino	a|ci|[dô]|me|tro
+acidopirástica	nome feminino	a|ci|do|pi|[rás]|ti|ca
+acidorresistência	nome feminino	a|ci|dor|re|sis|[tên]|ci|a
+acidorresistente	adjetivo	a|ci|dor|re|sis|[ten]|te
+acidose	nome feminino	a|ci|[do]|se
+acidósico	adjetivo	a|ci|[dó]|si|co
+acidótico	adjetivo	a|ci|[dó]|ti|co
+acidoto	adjetivo	a|ci|[do]|to
+acidoto	nome masculino	a|ci|[do]|to
+acidrado	adjetivo	a|ci|[dra]|do
+acidrar	verbo	a|ci|[drar]
+acidulação	nome feminino	a|ci|du|la|[ção]
+acidulado	adjetivo	a|ci|du|[la]|do
+acidulante	adjetivo	a|ci|du|[lan]|te
+acidular	verbo	a|ci|du|[lar]
+acídulo	adjetivo	a|[cí]|du|lo
+acidúria	nome feminino	a|ci|[dú]|ri|a
+acidúrico	adjetivo	a|ci|[dú]|ri|co
+aciense	adjetivo	a|ci|[en]|se
+aciense	nome masculino	a|ci|[en]|se
+aciense	nome feminino	a|ci|[en]|se
+aciesia	nome feminino	a|ci|e|[si]|a
+aciésico	adjetivo	a|ci|[é]|si|co
+aciético	adjetivo	a|ci|[é]|ti|co
+acifilo	adjetivo	a|ci|[fi]|lo
+acifilo	nome masculino	a|ci|[fi]|lo
+aciforme	adjetivo	a|ci|[for]|me
+acíforo	adjetivo	a|[cí]|fo|ro
+acíforo	nome masculino	a|[cí]|fo|ro
+aciganado	adjetivo	a|ci|ga|[na]|do
+aciganar	verbo	a|ci|ga|[nar]
+acilitano	adjetivo	a|ci|li|[ta]|no
+acilitano	nome masculino	a|ci|li|[ta]|no
+acilo	nome masculino	a|[ci]|lo
+acima	advérbio	a|[ci]|ma
+acimar	verbo	a|ci|[mar]
+acínace	nome masculino	a|[cí]|na|ce
+acináceo	adjetivo	a|ci|[ná]|ce|o
+acináceo	nome masculino	a|ci|[ná]|ce|o
+acinacifólio	adjetivo	a|ci|na|ci|[fó]|li|o
+acinaciforme	adjetivo	a|ci|na|ci|[for]|me
+acincho	nome masculino	a|[cin]|cho
+acinese	nome feminino	a|ci|[ne]|se
+acinesia	nome feminino	a|ci|ne|[si]|a
+acinésico	adjetivo	a|ci|[né]|si|co
+acinético	adjetivo	a|ci|[né]|ti|co
+acinetino	nome masculino	a|ci|ne|[ti]|no
+acínia	nome feminino	a|[cí]|ni|a
+acínico	adjetivo	a|[cí]|ni|co
+aciniforme	adjetivo	a|ci|ni|[for]|me
+ácino	nome masculino	[á]|ci|no
+acinócore	nome masculino	a|ci|[nó]|co|re
+acinodendro	adjetivo	a|ci|no|[den]|dro
+acinópode	nome masculino	a|ci|[nó]|po|de
+acinoso	adjetivo	a|ci|[no]|so
+acinte	advérbio	a|[cin]|te
+acinte	nome masculino	a|[cin]|te
+acintosamente	advérbio	a|cin|to|sa|[men]|te
+acintoso	adjetivo	a|cin|[to]|so
+acínulo	nome masculino	a|[cí]|nu|lo
+acinzado	adjetivo	a|cin|[za]|do
+acinzador	adjetivo	a|cin|za|[dor]
+acinzador	nome masculino	a|cin|za|[dor]
+acinzamento	nome masculino	a|cin|za|[men]|to
+acinzar	verbo	a|cin|[zar]
+acinzelar	verbo	a|cin|ze|[lar]
+acinzentado	nome masculino	a|cin|zen|[ta]|do
+acinzentado	adjetivo	a|cin|zen|[ta]|do
+acinzentar	verbo	a|cin|zen|[tar]
+acionabilidade	nome feminino	a|ci|o|na|bi|li|[da]|de
+acionadamente	advérbio	a|ci|o|na|da|[men]|te
+acionado	adjetivo	a|ci|o|[na]|do
+acionado	nome masculino	a|ci|o|[na]|do
+acionador	adjetivo	a|ci|o|na|[dor]
+acionador	nome masculino	a|ci|o|na|[dor]
+acional	adjetivo	a|ci|o|[nal]
+acionamento	nome masculino	a|ci|o|na|[men]|to
+acionar	verbo	a|ci|o|[nar]
+acionário	nome masculino	a|ci|o|[ná]|ri|o
+acionável	adjetivo	a|ci|o|[ná]|vel
+acionista	adjetivo	a|ci|o|[nis]|ta
+acionista	nome masculino	a|ci|o|[nis]|ta
+acionista	nome feminino	a|ci|o|[nis]|ta
+acipênser	nome masculino	a|ci|[pên]|ser
+acipenserídeo	nome masculino	a|ci|pen|se|[rí]|de|o
+acipitrário	nome masculino	a|ci|pi|[trá]|ri|o
+acípitre	nome masculino	a|[cí]|pi|tre

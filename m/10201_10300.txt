@@ -1,0 +1,100 @@
+morense	adjetivo	mo|[ren]|se
+morense	nome masculino	mo|[ren]|se
+morense	nome feminino	mo|[ren]|se
+moreota	adjetivo	mo|re|[o]|ta
+moreota	nome masculino	mo|re|[o]|ta
+moreota	nome feminino	mo|re|[o]|ta
+morerê	nome masculino	mo|re|[rê]
+morerenga	nome feminino	mo|re|[ren]|ga
+moreto	nome masculino	mo|[re]|to
+morfanho	adjetivo	mor|[fa]|nho
+morfar	verbo	mor|[far]
+morfe	nome masculino	[mor]|fe
+morfeia	nome feminino	mor|[fei]|a
+morfeico	nome masculino	mor|[fei]|co
+morfema	nome masculino	mor|[fe]|ma
+morfemático	adjetivo	mor|fe|[má]|ti|co
+morfenho	adjetivo	mor|[fe]|nho
+morfes	nome masculino	[mor]|fes
+morfético	adjetivo	mor|[fé]|ti|co
+morfetina	nome feminino	mor|fe|[ti]|na
+mórfico	adjetivo	[mór]|fi|co
+mórfico-sintáctico	adjetivo	mór|fi|co-sin|[tác]|ti|co
+mórfico-sintático	adjetivo	mór|fi|co-sin|[tá]|ti|co
+morfimomaníaco	adjetivo	mor|fi|mo|ma|[ní]|a|co
+morfina	nome feminino	mor|[fi]|na
+morfínico	adjetivo	mor|[fí]|ni|co
+morfinismo	nome masculino	mor|fi|[nis]|mo
+morfinização	nome feminino	mor|fi|ni|za|[ção]
+morfinizar	verbo	mor|fi|ni|[zar]
+morfinómana	nome feminino	mor|fi|[nó]|ma|na
+morfinomania	nome feminino	mor|fi|no|ma|[ni]|a
+morfinomaníaco	adjetivo	mor|fi|no|ma|[ní]|a|co
+morfinomaníaco	nome masculino	mor|fi|no|ma|[ní]|a|co
+morfinômano	adjetivo	mor|fi|[nô]|ma|no
+morfinômano	nome masculino	mor|fi|[nô]|ma|no
+morfinómano	adjetivo	mor|fi|[nó]|ma|no
+morfinómano	nome masculino	mor|fi|[nó]|ma|no
+morfno	nome masculino	[morf]|no
+morfodinâmica	nome feminino	mor|fo|di|[nâ]|mi|ca
+morfodinâmico	adjetivo	mor|fo|di|[nâ]|mi|co
+morfogénese	nome feminino	mor|fo|[gé]|ne|se
+morfogênese	nome feminino	mor|fo|[gê]|ne|se
+morfogenético	adjetivo	mor|fo|ge|[né]|ti|co
+morfogenia	nome feminino	mor|fo|ge|[ni]|a
+morfogênico	adjetivo	mor|fo|[gê]|ni|co
+morfogénico	adjetivo	mor|fo|[gé]|ni|co
+morfografia	nome feminino	mor|fo|gra|[fi]|a
+morfográfico	adjetivo	mor|fo|[grá]|fi|co
+morfógrafo	nome masculino	mor|[fó]|gra|fo
+morfóloga	nome feminino	mor|[fó]|lo|ga
+morfologia	nome feminino	mor|fo|lo|[gi]|a
+morfologicamente	advérbio	mor|fo|lo|gi|ca|[men]|te
+morfológico	adjetivo	mor|fo|[ló]|gi|co
+morfologista	nome masculino	mor|fo|lo|[gis]|ta
+morfologista	nome feminino	mor|fo|lo|[gis]|ta
+morfólogo	nome masculino	mor|[fó]|lo|go
+morfometria	nome feminino	mor|fo|me|[tri]|a
+morfométrico	adjetivo	mor|fo|[mé]|tri|co
+morfoplasma	nome masculino	mor|fo|[plas]|ma
+morfoplástico	adjetivo	mor|fo|[plás]|ti|co
+morfopsicologia	nome feminino	mor|fop|si|co|lo|[gi]|a
+morfoscopia	nome feminino	mor|fos|co|[pi]|a
+morfoscópico	adjetivo	mor|fos|[có]|pi|co
+morfose	nome feminino	mor|[fo]|se
+morfossintáctico	adjetivo	mor|fos|sin|[tác]|ti|co
+morfossintático	adjetivo	mor|fos|sin|[tá]|ti|co
+morfossintaxe	nome feminino	mor|fos|sin|[ta]|xe
+morfostequia	nome feminino	mor|fos|te|[qui]|a
+morfozoário	nome masculino	mor|fo|zo|[á]|ri|o
+morgada	nome feminino	mor|[ga]|da
+morgadelho	nome masculino	mor|ga|[de]|lho
+morgadete	nome masculino	mor|ga|[de]|te
+morgadia	nome feminino	mor|ga|[di]|a
+morgadio	nome masculino	mor|ga|[di]|o
+morgadio	adjetivo	mor|ga|[di]|o
+morgado	nome masculino	mor|[ga]|do
+morgado	adjetivo	mor|[ga]|do
+morganaticamente	advérbio	mor|ga|na|ti|ca|[men]|te
+morganático	adjetivo	mor|ga|[ná]|ti|co
+morganheira	nome feminino	mor|ga|[nhei]|ra
+morganheira-das-praias	nome feminino	mor|ga|nhei|ra-das-prai|as
+morganho	nome masculino	mor|[ga]|nho
+morgete	adjetivo	mor|[ge]|te
+morgete	nome masculino	mor|[ge]|te
+morgete	nome feminino	mor|[ge]|te
+morgue	nome feminino	[mor]|gue
+moribunda	nome feminino	mo|ri|[bun]|da
+moribundo	adjetivo	mo|ri|[bun]|do
+moribundo	nome masculino	mo|ri|[bun]|do
+mórico	adjetivo	[mó]|ri|co
+morigeração	nome feminino	mo|ri|ge|ra|[ção]
+morigerado	adjetivo	mo|ri|ge|[ra]|do
+morigerador	adjetivo	mo|ri|ge|ra|[dor]
+morigerador	nome masculino	mo|ri|ge|ra|[dor]
+morigerante	adjetivo	mo|ri|ge|[ran]|te
+morigerar	verbo	mo|ri|ge|[rar]
+morigerável	adjetivo	mo|ri|ge|[rá]|vel
+morígero	adjetivo	mo|[rí]|ge|ro
+morilhão	nome masculino	mo|ri|[lhão]
+morilho	nome masculino	mo|[ri]|lho

@@ -1,0 +1,100 @@
+lipoproteína	nome feminino	li|po|pro|te|[í]|na
+lipopsiquia	nome feminino	li|pop|si|[qui]|a
+lipopsíquico	adjetivo	li|pop|[sí]|qui|co
+liposo	adjetivo	li|[po]|so
+lipossolúvel	adjetivo	li|pos|so|[lú]|vel
+lipossoma	nome masculino	li|pos|[so]|ma
+lipossomo	nome masculino	li|pos|[so]|mo
+lipossução	nome feminino	li|pos|su|[ção]
+lipossucção	nome feminino	li|pos|suc|[ção]
+lipotimia	nome feminino	li|po|ti|[mi]|a
+lipotímico	adjetivo	li|po|[tí]|mi|co
+lipsiense	adjetivo	lip|si|[en]|se
+lipsiense	nome masculino	lip|si|[en]|se
+lipsiense	nome feminino	lip|si|[en]|se
+lipúria	nome feminino	li|[pú]|ri|a
+lipúrico	adjetivo	li|[pú]|ri|co
+liquação	nome feminino	li|qua|[ção]
+liquefação	nome feminino	li|que|fa|[ção]
+liquefacção	nome feminino	li|que|fac|[ção]
+liquefactivo	adjetivo	li|que|fac|[ti]|vo
+liquefacto	adjetivo	li|que|[fac]|to
+liquefactor	nome masculino	li|que|fac|[tor]
+liquefativo	adjetivo	li|que|fa|[ti]|vo
+liquefato	adjetivo	li|que|[fa]|to
+liquefator	nome masculino	li|que|fa|[tor]
+liquefazer	verbo	li|que|fa|[zer]
+liquefeito	adjetivo	li|que|[fei]|to
+liqueficável	adjetivo	li|que|fi|[cá]|vel
+líquen	nome masculino	[lí]|quen
+liquenácea	nome feminino	li|que|[ná]|ce|a
+liquenáceo	adjetivo	li|que|[ná]|ce|o
+liquénico	adjetivo	li|[qué]|ni|co
+liquênico	adjetivo	li|[quê]|ni|co
+liquenificação	nome feminino	li|que|ni|fi|ca|[ção]
+liquenina	nome feminino	li|que|[ni]|na
+liquenografia	nome feminino	li|que|no|gra|[fi]|a
+liquenográfico	adjetivo	li|que|no|[grá]|fi|co
+liquenoide	adjetivo	li|que|[noi]|de
+liques	nome masculino	[li]|ques
+liquescente	adjetivo	li|ques|[cen]|te
+liquescer	verbo	li|ques|[cer]
+líquida	nome feminino	[lí]|qui|da
+liquidação	nome feminino	li|qui|da|[ção]
+liquidado	adjetivo	li|qui|[da]|do
+liquidador	adjetivo	li|qui|da|[dor]
+liquidador	nome masculino	li|qui|da|[dor]
+liquidadora	nome feminino	li|qui|da|[do]|ra
+liquidâmbar	nome masculino	li|qui|[dâm]|bar
+liquidando	adjetivo	li|qui|[dan]|do
+liquidante	nome masculino	li|qui|[dan]|te
+liquidante	adjetivo	li|qui|[dan]|te
+liquidante	nome feminino	li|qui|[dan]|te
+liquidar	verbo	li|qui|[dar]
+liquidatária	nome feminino	li|qui|da|[tá]|ri|a
+liquidatário	adjetivo	li|qui|da|[tá]|ri|o
+liquidatário	nome masculino	li|qui|da|[tá]|ri|o
+liquidável	adjetivo	li|qui|[dá]|vel
+liquidez	nome feminino	li|qui|[dez]
+liquidificação	nome feminino	li|qui|di|fi|ca|[ção]
+liquidificador	adjetivo	li|qui|di|fi|ca|[dor]
+liquidificador	nome masculino	li|qui|di|fi|ca|[dor]
+liquidificadora	nome feminino	li|qui|di|fi|ca|[do]|ra
+liquidificante	adjetivo	li|qui|di|fi|[can]|te
+liquidificar	verbo	li|qui|di|fi|[car]
+liquidificável	adjetivo	li|qui|di|fi|[cá]|vel
+líquido	nome masculino	[lí]|qui|do
+líquido	adjetivo	[lí]|qui|do
+liquométrico	adjetivo	li|quo|[mé]|tri|co
+liquômetro	nome masculino	li|[quô]|me|tro
+liquómetro	nome masculino	li|[quó]|me|tro
+lira	nome feminino	[li]|ra
+lirado	adjetivo	li|[ra]|do
+liral	adjetivo	li|[ral]
+lirão	nome masculino	li|[rão]
+líria	nome feminino	[lí]|ri|a
+lirial	adjetivo	li|ri|[al]
+lírica	nome feminino	[lí]|ri|ca
+liricamente	advérbio	li|ri|ca|[men]|te
+lírico	nome masculino	[lí]|ri|co
+lírico	adjetivo	[lí]|ri|co
+lírico-dramático	adjetivo	lí|ri|co-dra|[má]|ti|co
+liriforme	adjetivo	li|ri|[for]|me
+lírio	nome masculino	[lí]|ri|o
+lírio-convale	nome masculino	lí|ri|o-con|va|le
+lírio-das-areias	nome masculino	lí|ri|o-das-a|rei|as
+lírio-dos-tintureiros	nome masculino	lí|rio-dos-tin|tu|[rei]|ros
+lírio-ferro	nome masculino	lí|ri|o-fer|ro
+lírio-mártago	nome masculino	lí|ri|o-már|ta|go
+liriodendrina	nome feminino	li|ri|o|den|[dri]|na
+liriodendro	nome masculino	li|ri|o|[den]|dro
+lirioide	adjetivo	li|ri|[oi]|de
+liríope	nome feminino	li|[rí]|o|pe
+lirismo	nome masculino	li|[ris]|mo
+lirista	nome masculino	li|[ris]|ta
+lirista	nome feminino	li|[ris]|ta
+lirnéssio	adjetivo	lir|[nés]|si|o
+lirnéssio	nome masculino	lir|[nés]|si|o
+liró	adjetivo	li|[ró]
+lirodo	nome masculino	li|[ro]|do
+liru	adjetivo	li|[ru]

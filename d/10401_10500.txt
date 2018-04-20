@@ -1,0 +1,100 @@
+droo	adjetivo	[dro]|o
+droo	nome masculino	[dro]|o
+dropacismo	nome masculino	dro|pa|[cis]|mo
+drópax	nome masculino	[dró]|pax
+dropes	nome masculino	[dro]|pes
+drópico	adjetivo	[dró]|pi|co
+drópico	nome masculino	[dró]|pi|co
+droseáceo	adjetivo	dro|se|[á]|ce|o
+drósera	nome feminino	[dró]|se|ra
+droserácea	nome feminino	dro|se|[rá]|ce|a
+drosófila	nome feminino	dro|[só]|fi|la
+drosometria	nome feminino	dro|so|me|[tri]|a
+drosométrico	adjetivo	dro|so|[mé]|tri|co
+drosômetro	nome masculino	dro|[sô]|me|tro
+drosómetro	nome masculino	dro|[só]|me|tro
+drugstore	nome feminino	drug|sto|re
+druida	nome masculino	[drui]|da
+druídico	adjetivo	dru|[í]|di|co
+druidismo	nome masculino	drui|[dis]|mo
+drunfado	adjetivo	drun|[fa]|do
+drunfar	verbo	drun|[far]
+drunfo	nome masculino	[drun]|fo
+drupa	nome feminino	[dru]|pa
+drupáceo	adjetivo	dru|[pá]|ce|o
+drupéola	nome feminino	dru|[pé]|o|la
+drupeolado	adjetivo	dru|pe|o|[la]|do
+drupífero	adjetivo	dru|[pí]|fe|ro
+drusa	nome feminino	[dru]|sa
+drusiforme	adjetivo	dru|si|[for]|me
+druso	adjetivo	[dru]|so
+druso	nome masculino	[dru]|so
+dual	adjetivo	du|[al]
+dual	nome masculino	du|[al]
+duala	adjetivo	du|[a]|la
+duala	nome masculino	du|[a]|la
+duala	nome feminino	du|[a]|la
+dualidade	nome feminino	du|a|li|[da]|de
+dualismo	nome masculino	du|a|[lis]|mo
+dualista	adjetivo	du|a|[lis]|ta
+dualista	nome masculino	du|a|[lis]|ta
+dualista	nome feminino	du|a|[lis]|ta
+dualístico	adjetivo	du|a|[lís]|ti|co
+dualização	nome feminino	du|a|li|za|[ção]
+dualizador	adjetivo	du|a|li|za|[dor]
+dualizar	verbo	du|a|li|[zar]
+duatlo	nome masculino	du|[a]|tlo
+dub	adjetivo	[dub]
+dub	nome masculino	[dub]
+dubiamente	advérbio	du|bi|a|[men]|te
+dubiedade	nome feminino	du|bi|e|[da]|de
+dubiez	nome feminino	du|bi|[ez]
+dúbio	adjetivo	[dú]|bi|o
+dubitabilidade	nome feminino	du|bi|ta|bi|li|[da]|de
+dubitação	nome feminino	du|bi|ta|[ção]
+dubitativamente	advérbio	du|bi|ta|ti|va|[men]|te
+dubitativo	adjetivo	du|bi|ta|[ti]|vo
+dubitável	adjetivo	du|bi|[tá]|vel
+dublá	adjetivo	du|[blá]
+dublá	nome masculino	du|[blá]
+dublá	nome feminino	du|[blá]
+dublado	adjetivo	du|[bla]|do
+dublagem	nome feminino	du|[bla]|gem
+dublar	verbo	du|[blar]
+dublinense	nome masculino	du|bli|[nen]|se
+dublinense	adjetivo	du|bli|[nen]|se
+dublinense	nome feminino	du|bli|[nen]|se
+dúbnio	nome masculino	[dúb]|ni|o
+dubúria	nome feminino	du|[bú]|ri|a
+ducado	nome masculino	du|[ca]|do
+ducal	adjetivo	du|[cal]
+ducatão	nome masculino	du|ca|[tão]
+duce	nome masculino	[du]|ce
+ducentésimo	adjetivo	du|cen|[té]|si|mo
+ducentésimo	número fraccional	du|cen|[té]|si|mo
+ducentésimo	número ordinal	du|cen|[té]|si|mo
+ducentésimo	nome masculino	du|cen|[té]|si|mo
+ducentista	adjetivo	du|cen|[tis]|ta
+ducentista	nome masculino	du|cen|[tis]|ta
+ducentista	nome feminino	du|cen|[tis]|ta
+ducha	nome feminino	[du]|cha
+duchal	adjetivo	du|[chal]
+duchamento	nome masculino	du|cha|[men]|to
+duchar	verbo	du|[char]
+duche	nome masculino	[du]|che
+duchese	nome masculino	du|[che]|se
+duchista	nome masculino	du|[chis]|ta
+duchista	nome feminino	du|[chis]|ta
+ducina	nome feminino	du|[ci]|na
+dúctil	adjetivo	[dúc]|til
+ductilidade	nome feminino	duc|ti|li|[da]|de
+ductilímetro	nome masculino	duc|ti|[lí]|me|tro
+ductilização	nome feminino	duc|ti|li|za|[ção]
+ductilizador	adjetivo	duc|ti|li|za|[dor]
+ductilizar	verbo	duc|ti|li|[zar]
+ductilizável	adjetivo	duc|ti|li|[zá]|vel
+ductilmente	advérbio	duc|til|[men]|te
+ducto	nome masculino	[duc]|to
+duelar	verbo	du|e|[lar]
+duelar	adjetivo	du|e|[lar]
+duelista	nome masculino	du|e|[lis]|ta

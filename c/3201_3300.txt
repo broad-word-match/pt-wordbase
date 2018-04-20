@@ -1,0 +1,100 @@
+canfênico	adjetivo	can|[fê]|ni|co
+canfeno	nome masculino	can|[fe]|no
+cânfora	nome feminino	[cân]|fo|ra
+canforáceo	adjetivo	can|fo|[rá]|ce|o
+canforado	adjetivo	can|fo|[ra]|do
+canforar	verbo	can|fo|[rar]
+canforato	nome masculino	can|fo|[ra]|to
+canforeira	nome feminino	can|fo|[rei]|ra
+canforeiro	nome masculino	can|fo|[rei]|ro
+canfórico	adjetivo	can|[fó]|ri|co
+canforífero	adjetivo	can|fo|[rí]|fe|ro
+canforina	nome feminino	can|fo|[ri]|na
+canforoide	adjetivo	can|fo|[roi]|de
+canforomania	nome feminino	can|fo|ro|ma|[ni]|a
+canforomaníaco	adjetivo	can|fo|ro|ma|[ní]|a|co
+canforomaníaco	nome masculino	can|fo|ro|ma|[ní]|a|co
+canforómano	nome masculino	can|fo|[ró]|ma|no
+canforômano	nome masculino	can|fo|[rô]|ma|no
+canforosol	nome masculino	can|fo|ro|[sol]
+canforovínico	adjetivo	can|fo|ro|[ví]|ni|co
+canfulado	nome masculino	can|fu|[la]|do
+canga	nome feminino	[can]|ga
+cangá	nome masculino	can|[gá]
+cangabicha	nome feminino	can|ga|[bi]|cha
+cangaçais	nome masculino	can|ga|[çais]
+cangaceirada	nome feminino	can|ga|cei|[ra]|da
+cangaceirismo	nome masculino	can|ga|cei|[ris]|mo
+cangaceiro	nome masculino	can|ga|[cei]|ro
+cangaço	nome masculino	can|[ga]|ço
+cangado	nome masculino	can|[ga]|do
+cangalha	nome feminino	can|[ga]|lha
+cangalhada	nome feminino	can|ga|[lha]|da
+cangalhas	nome feminino	can|[ga]|lhas
+cangalheiras	nome feminino	can|ga|[lhei]|ras
+cangalheiro	adjetivo	can|ga|[lhei]|ro
+cangalheiro	nome masculino	can|ga|[lhei]|ro
+cangalho	nome masculino	can|[ga]|lho
+cangamba	nome masculino	can|[gam]|ba
+cangamba	adjetivo	can|[gam]|ba
+cangancha	nome feminino	can|[gan]|cha
+cangancheiro	nome masculino	can|gan|[chei]|ro
+canganguá	nome masculino	can|gan|[guá]
+canganhiça	nome feminino	can|ga|[nhi]|ça
+canganho	nome masculino	can|[ga]|nho
+cangapara	nome feminino	can|ga|[pa]|ra
+cangapé	nome masculino	can|ga|[pé]
+cangar	verbo	can|[gar]
+cangarilhada	nome feminino	can|ga|ri|[lha]|da
+cangarinha	nome feminino	can|ga|[ri]|nha
+cangarra	nome feminino	can|[gar]|ra
+cangatá	nome masculino	can|ga|[tá]
+cangati	nome masculino	can|ga|[ti]
+cango	nome masculino	[can]|go
+cangoeira	nome feminino	can|go|[ei]|ra
+cangongo	nome masculino	can|[gon]|go
+cangosta	nome feminino	can|[gos]|ta
+cangote	nome masculino	can|[go]|te
+cangotilho	nome masculino	can|go|[ti]|lho
+cangrejo	nome masculino	can|[gre]|jo
+canguara	nome feminino	can|[gua]|ra
+canguari	nome masculino	can|gua|[ri]
+canguçu	nome masculino	can|gu|[çu]
+cangudo	nome masculino	can|[gu]|do
+cangue	nome masculino	[can]|gue
+cangueira	nome feminino	can|[guei]|ra
+cangueirão	adjetivo	can|guei|[rão]
+cangueiro	nome masculino	can|[guei]|ro
+cangueiro	adjetivo	can|[guei]|ro
+canguinha	nome masculino	can|[gui]|nha
+canguinhar	verbo	can|gui|[nhar]
+canguinhas	nome masculino	can|[gui]|nhas
+canguinhas	nome feminino	can|[gui]|nhas
+cangulo	nome masculino	can|[gu]|lo
+cangulo	adjetivo	can|[gu]|lo
+cangundo	nome masculino	can|[gun]|do
+canguru	nome masculino	can|gu|[ru]
+canha	nome feminino	[ca]|nha
+canhaco	nome masculino	ca|[nha]|co
+canhada	nome feminino	ca|[nha]|da
+canhadão	nome masculino	ca|nha|[dão]
+canhamaça	nome feminino	ca|nha|[ma]|ça
+canhamaço	nome masculino	ca|nha|[ma]|ço
+canhambora	nome masculino	ca|nham|[bo]|ra
+canhambora	nome feminino	ca|nham|[bo]|ra
+canhameira	nome feminino	ca|nha|[mei]|ra
+canhameiral	nome masculino	ca|nha|mei|[ral]
+canhameiro	nome masculino	ca|nha|[mei]|ro
+canhamiço	adjetivo	ca|nha|[mi]|ço
+cânhamo	nome masculino	[câ]|nha|mo
+cânhamo-de-manila	nome masculino	câ|nha|mo-de-ma|[ni]|la
+canhangulo	nome masculino	ca|nhan|[gu]|lo
+canhanha	nome feminino	ca|[nha]|nha
+canhão	nome masculino	ca|[nhão]
+canhar	verbo	ca|[nhar]
+canhári	nome masculino	ca|[nhá]|ri
+canheiro	nome masculino	ca|[nhei]|ro
+canhembora	nome masculino	ca|nhem|[bo]|ra
+canhembora	nome feminino	ca|nhem|[bo]|ra
+canhengue	adjetivo	ca|[nhen]|gue
+canhenha	nome feminino	ca|[nhe]|nha

@@ -1,0 +1,100 @@
+criptodonte	nome masculino	crip|to|[don]|te
+criptófago	nome masculino	crip|[tó]|fa|go
+criptófito	nome masculino	crip|[tó]|fi|to
+criptofone	nome masculino	crip|to|[fo]|ne
+criptogamia	nome feminino	crip|to|ga|[mi]|a
+criptogâmica	nome feminino	crip|to|[gâ]|mi|ca
+criptogâmico	adjetivo	crip|to|[gâ]|mi|co
+criptógamo	adjetivo	crip|[tó]|ga|mo
+criptogénese	nome feminino	crip|to|[gé]|ne|se
+criptogênese	nome feminino	crip|to|[gê]|ne|se
+criptogenésico	adjetivo	crip|to|ge|[né]|si|co
+criptogenético	adjetivo	crip|to|ge|[né]|ti|co
+criptógeno	adjetivo	crip|[tó]|ge|no
+criptografar	verbo	crip|to|gra|[far]
+criptografia	nome feminino	crip|to|gra|[fi]|a
+criptograficamente	advérbio	crip|to|gra|fi|ca|[men]|te
+criptográfico	adjetivo	crip|to|[grá]|fi|co
+criptógrafo	nome masculino	crip|[tó]|gra|fo
+criptograma	nome masculino	crip|to|[gra]|ma
+criptogramista	nome masculino	crip|to|gra|[mis]|ta
+criptogramista	nome feminino	crip|to|gra|[mis]|ta
+criptojudaico	adjetivo	crip|to|ju|[dai]|co
+criptojudaísmo	nome masculino	crip|to|ju|da|[ís]|mo
+criptólito	nome masculino	crip|[tó]|li|to
+criptologia	nome feminino	crip|to|lo|[gi]|a
+criptológico	adjetivo	crip|to|[ló]|gi|co
+criptólogo	nome masculino	crip|[tó]|lo|go
+criptomnesia	nome feminino	crip|tom|ne|[si]|a
+crípton	nome masculino	[críp]|ton
+criptonímia	nome feminino	crip|to|[ní]|mi|a
+criptonímico	nome masculino	crip|to|[ní]|mi|co
+criptonímico	adjetivo	crip|to|[ní]|mi|co
+criptônimo	adjetivo	crip|[tô]|ni|mo
+criptônimo	nome masculino	crip|[tô]|ni|mo
+criptónimo	nome masculino	crip|[tó]|ni|mo
+criptónimo	adjetivo	crip|[tó]|ni|mo
+criptônio	nome masculino	crip|[tô]|ni|o
+criptónio	nome masculino	crip|[tó]|ni|o
+criptópode	adjetivo	crip|[tó]|po|de
+criptopóde	nome masculino	crip|to|[pó]|de
+criptóporo	adjetivo	crip|[tó]|po|ro
+criptopórtico	nome masculino	crip|to|[pór]|ti|co
+criptorquia	nome feminino	crip|tor|[qui]|a
+criptorquidia	nome feminino	crip|tor|qui|[di]|a
+criptorquismo	nome masculino	crip|tor|[quis]|mo
+criptostémone	adjetivo	crip|tos|[té]|mo|ne
+criptóstomo	nome masculino	crip|[tós]|to|mo
+criptozoico	adjetivo	crip|to|[zoi]|co
+cripturgo	nome masculino	crip|[tur]|go
+críquete	nome masculino	[crí]|que|te
+cris	adjetivo	[cris]
+cris	nome masculino	[cris]
+crisada	nome feminino	cri|[sa]|da
+crisálida	nome feminino	cri|[sá]|li|da
+crisalidação	nome feminino	cri|sa|li|da|[ção]
+crisalidar	verbo	cri|sa|li|[dar]
+crisálide	nome feminino	cri|[sá]|li|de
+crisântemo	nome masculino	cri|[sân]|te|mo
+crisanto	nome masculino	cri|[san]|to
+crise	nome feminino	[cri]|se
+criselefantina	nome feminino	cri|se|le|fan|[ti]|na
+criselefantino	adjetivo	cri|se|le|fan|[ti]|no
+críside	nome feminino	[crí]|si|de
+crisma	nome masculino	[cris]|ma
+crisma	nome feminino	[cris]|ma
+crismador	adjetivo	cris|ma|[dor]
+crismador	nome masculino	cris|ma|[dor]
+crismal	nome masculino	cris|[mal]
+crismar	verbo	cris|[mar]
+crisoberilo	nome masculino	cri|so|be|[ri]|lo
+crisocalco	nome masculino	cri|so|[cal]|co
+crisocarpo	adjetivo	cri|so|[car]|po
+crisocéfalo	adjetivo	cri|so|[cé]|fa|lo
+crisofilia	nome feminino	cri|so|fi|[li]|a
+crisófilo	adjetivo	cri|[só]|fi|lo
+crisofilo	adjetivo	cri|so|[fi]|lo
+crisófilo	nome masculino	cri|[só]|fi|lo
+crisofobia	nome feminino	cri|so|fo|[bi]|a
+crisófobo	adjetivo	cri|[só]|fo|bo
+crisoftalmia	nome feminino	cri|sof|tal|[mi]|a
+crisoftalmo	adjetivo	cri|sof|[tal]|mo
+crisoglifia	nome feminino	cri|so|gli|[fi]|a
+crisoglífico	adjetivo	cri|so|[glí]|fi|co
+crisografia	nome feminino	cri|so|gra|[fi]|a
+crisográfico	adjetivo	cri|so|[grá]|fi|co
+crisógrafo	nome masculino	cri|[só]|gra|fo
+crisol	nome masculino	cri|[sol]
+crisólita	nome feminino	cri|[só]|li|ta
+crisólito	nome masculino	cri|[só]|li|to
+crisologia	nome feminino	cri|so|lo|[gi]|a
+crisólogo	adjetivo	cri|[só]|lo|go
+crisomelídeo	nome masculino	cri|so|me|[lí]|de|o
+crisomelídeo	adjetivo	cri|so|me|[lí]|de|o
+crisomelídeo	nome masculino	cri|so|me|[lí]|de|o
+crisopeia	nome feminino	cri|so|[pei]|a
+crisopolitano	adjetivo	cri|so|po|li|[ta]|no
+crisopolitano	nome masculino	cri|so|po|li|[ta]|no
+crisoprásio	nome masculino	cri|so|[prá]|si|o
+crisópraso	nome masculino	cri|[só]|pra|so
+crisóptero	adjetivo	cri|[sóp]|te|ro

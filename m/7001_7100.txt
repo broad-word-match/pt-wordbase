@@ -1,0 +1,100 @@
+microbiano	adjetivo	mi|cro|bi|[a]|no
+microbicida	nome masculino	mi|cro|bi|[ci]|da
+microbicida	adjetivo	mi|cro|bi|[ci]|da
+micróbico	adjetivo	mi|[cró]|bi|co
+micróbio	nome masculino	mi|[cró]|bi|o
+microbióloga	nome feminino	mi|cro|bi|[ó]|lo|ga
+microbiologia	nome feminino	mi|cro|bi|o|lo|[gi]|a
+microbiológico	adjetivo	mi|cro|bi|o|[ló]|gi|co
+microbiologista	nome masculino	mi|cro|bi|o|lo|[gis]|ta
+microbiologista	nome feminino	mi|cro|bi|o|lo|[gis]|ta
+microbiólogo	nome masculino	mi|cro|bi|[ó]|lo|go
+microbismo	nome masculino	mi|cro|[bis]|mo
+microbista	nome masculino	mi|cro|[bis]|ta
+microbista	nome feminino	mi|cro|[bis]|ta
+microbjectiva	nome feminino	mi|crob|jec|[ti]|va
+microbjetiva	nome feminino	mi|crob|je|[ti]|va
+microcápsula	nome feminino	mi|cro|[cáp]|su|la
+microcapsular	adjetivo	mi|cro|cap|su|[lar]
+microcarpo	adjetivo	mi|cro|[car]|po
+microcaulia	nome feminino	mi|cro|cau|[li]|a
+microcéfala	nome feminino	mi|cro|[cé]|fa|la
+microcefalia	nome feminino	mi|cro|ce|fa|[li]|a
+microcefálico	adjetivo	mi|cro|ce|[fá]|li|co
+microcéfalo	adjetivo	mi|cro|[cé]|fa|lo
+microcéfalo	nome masculino	mi|cro|[cé]|fa|lo
+microcentro	nome masculino	mi|cro|[cen]|tro
+micrócero	adjetivo	mi|[cró]|ce|ro
+microchip	nome masculino	mi|cro|chip
+microcinematografia	nome feminino	mi|cro|ci|ne|ma|to|gra|[fi]|a
+microcinematográfico	adjetivo	mi|cro|ci|ne|ma|to|[grá]|fi|co
+microcinematógrafo	nome masculino	mi|cro|ci|ne|ma|[tó]|gra|fo
+microcircuito	nome masculino	mi|cro|cir|[cui]|to
+microcirculação	nome feminino	mi|cro|cir|cu|la|[ção]
+microcirurgia	nome feminino	mi|cro|ci|rur|[gi]|a
+microcirurgiã	nome feminino	mi|cro|ci|rur|gi|[ã]
+microcirurgião	nome masculino	mi|cro|ci|rur|gi|[ão]
+microcitemia	nome feminino	mi|cro|ci|te|[mi]|a
+micrócito	nome masculino	mi|[cró]|ci|to
+microclima	nome masculino	mi|cro|[cli]|ma
+microclimático	adjetivo	mi|cro|cli|[má]|ti|co
+microclina	nome feminino	mi|cro|[cli]|na
+microclínio	nome masculino	mi|cro|[clí]|ni|o
+micrococo	nome masculino	mi|cro|[co]|co
+microcomputador	nome masculino	mi|cro|com|pu|ta|[dor]
+microcontrolador	nome masculino	mi|cro|con|tro|la|[dor]
+microcópia	nome feminino	mi|cro|[có]|pi|a
+microcopiar	verbo	mi|cro|co|pi|[ar]
+microcósmico	adjetivo	mi|cro|[cós]|mi|co
+microcosmo	nome masculino	mi|cro|[cos]|mo
+microcosmologia	nome feminino	mi|cro|cos|mo|lo|[gi]|a
+microcosmológico	adjetivo	mi|cro|cos|mo|[ló]|gi|co
+microcosmos	nome masculino	mi|cro|[cos]|mos
+microcristalino	adjetivo	mi|cro|cris|ta|[li]|no
+microcronómetro	nome masculino	mi|cro|cro|[nó]|me|tro
+microcronômetro	nome masculino	mi|cro|cro|[nô]|me|tro
+microcultura	nome feminino	mi|cro|cul|[tu]|ra
+microdactilia	nome feminino	mi|cro|dac|ti|[li]|a
+microdáctilo	adjetivo	mi|cro|[dác]|ti|lo
+microdátilo	adjetivo	mi|cro|[dá]|ti|lo
+microdensitometria	nome feminino	mi|cro|den|si|to|me|[tri]|a
+microdensitométrico	adjetivo	mi|cro|den|si|to|[mé]|tri|co
+microdicionário	nome masculino	mi|cro|di|ci|o|[ná]|ri|o
+microdiorito	nome masculino	mi|cro|di|o|[ri]|to
+microdissecação	nome feminino	mi|cro|dis|se|ca|[ção]
+microdonte	adjetivo	mi|cro|[don]|te
+microdontismo	nome masculino	mi|cro|don|[tis]|mo
+microdulia	nome feminino	mi|cro|du|[li]|a
+microeconomia	nome feminino	mi|cro|e|co|no|[mi]|a
+microeconómico	adjetivo	mi|cro|e|co|[nó]|mi|co
+microeconômico	adjetivo	mi|cro|e|co|[nô]|mi|co
+microelectrônica	nome feminino	mi|cro|e|lec|[trô]|ni|ca
+microelemento	nome masculino	mi|cro|e|le|[men]|to
+microeletrónica	nome feminino	mi|cro|e|le|[tró]|ni|ca
+microeletrônica	nome feminino	mi|cro|e|le|[trô]|ni|ca
+microempresa	nome feminino	mi|cro|em|[pre]|sa
+microempresário	nome masculino	mi|cro|em|pre|[sá]|ri|o
+microengenharia	nome feminino	mi|cro|en|ge|nha|[ri]|a
+microengenheiro	nome masculino	mi|cro|en|ge|[nhei]|ro
+microestado	nome masculino	mi|cro|es|[ta]|do
+microestrutura	nome feminino	mi|cro|es|tru|[tu]|ra
+microevolução	nome feminino	mi|cro|e|vo|lu|[ção]
+microevolutivo	adjetivo	mi|cro|e|vo|lu|[ti]|vo
+micrófago	nome masculino	mi|[cró]|fa|go
+micrófago	adjetivo	mi|[cró]|fa|go
+microfarad	nome masculino	mi|cro|[fa]|rad
+microfauna	nome feminino	mi|cro|[fau]|na
+microfaunístico	adjetivo	mi|cro|fau|[nís]|ti|co
+microficha	nome feminino	mi|cro|[fi]|cha
+microfilia	nome feminino	mi|cro|fi|[li]|a
+microfilite	nome feminino	mi|cro|fi|[li]|te
+microfilmagem	nome feminino	mi|cro|fil|[ma]|gem
+microfilmar	verbo	mi|cro|fil|[mar]
+microfilme	nome masculino	mi|cro|[fil]|me
+microfilo	adjetivo	mi|cro|[fi]|lo
+microfísica	nome feminino	mi|cro|[fí]|si|ca
+microfítico	adjetivo	mi|cro|[fí]|ti|co
+micrófito	nome masculino	mi|[cró]|fi|to
+microflora	nome feminino	mi|cro|[flo]|ra
+microfone	nome masculino	mi|cro|[fo]|ne
+microfonia	nome feminino	mi|cro|fo|[ni]|a

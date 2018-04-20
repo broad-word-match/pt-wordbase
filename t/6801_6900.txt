@@ -1,0 +1,100 @@
+transcodificar	verbo	trans|co|di|fi|[car]
+transcodificável	adjetivo	trans|co|di|fi|[cá]|vel
+transcolação	nome feminino	trans|co|la|[ção]
+transcolar	verbo	trans|co|[lar]
+transcolatório	adjetivo	trans|co|la|[tó]|ri|o
+transcondutância	nome feminino	trans|con|du|[tân]|ci|a
+transcontinental	adjetivo	trans|con|ti|nen|[tal]
+transcorno	nome masculino	trans|[cor]|no
+transcorrência	nome feminino	trans|cor|[rên]|ci|a
+transcorrente	adjetivo	trans|cor|[ren]|te
+transcorrer	verbo	trans|cor|[rer]
+transcorrido	adjetivo	trans|cor|[ri]|do
+transcorvo	adjetivo	trans|[cor]|vo
+transcrever	verbo	trans|cre|[ver]
+transcriação	nome feminino	trans|cri|a|[ção]
+transcrição	nome feminino	trans|cri|[ção]
+transcriptase	nome feminino	trans|crip|[ta]|se
+transcríptase	nome feminino	trans|[críp]|ta|se
+transcrito	adjetivo	trans|[cri]|to
+transcrito	nome masculino	trans|[cri]|to
+transcritor	adjetivo	trans|cri|[tor]
+transcritor	nome masculino	trans|cri|[tor]
+transcritora	nome feminino	trans|cri|[to]|ra
+transcudano	adjetivo	trans|cu|[da]|no
+transcudano	nome masculino	trans|cu|[da]|no
+transculturação	nome feminino	trans|cul|tu|ra|[ção]
+transcurar	verbo	trans|cu|[rar]
+transcurral	nome masculino	trans|cur|[ral]
+transcursão	nome feminino	trans|cur|[são]
+transcursar	verbo	trans|cur|[sar]
+transcurso	nome masculino	trans|[cur]|so
+transcurvo	adjetivo	trans|[cur]|vo
+transdanubiano	adjetivo	trans|da|nu|bi|[a]|no
+transdanubiano	nome masculino	trans|da|nu|bi|[a]|no
+transdisciplinar	adjetivo	trans|dis|ci|pli|[nar]
+transdisciplinaridade	nome feminino	trans|dis|ci|pli|na|ri|[da]|de
+transdução	nome feminino	trans|du|[ção]
+transdutor	nome masculino	trans|du|[tor]
+transe	nome masculino	[tran]|se
+transecular	adjetivo	tran|se|cu|[lar]
+transena	nome feminino	tran|[se]|na
+transeptal	adjetivo	tran|sep|[tal]
+transepto	nome masculino	tran|[sep]|to
+transequatorial	adjetivo	tran|se|qua|to|ri|[al]
+transerrano	adjetivo	tran|ser|[ra]|no
+transeunte	nome masculino	tran|se|[un]|te
+transeunte	adjetivo	tran|se|[un]|te
+transeunte	nome feminino	tran|se|[un]|te
+transeuropeu	adjetivo	tran|seu|ro|[peu]
+transexual	adjetivo	tran|se|xu|[al]
+transexual	nome masculino	tran|se|xu|[al]
+transexual	nome feminino	tran|se|xu|[al]
+transexualidade	nome feminino	tran|se|xu|a|li|[da]|de
+transexualismo	nome masculino	tran|se|xu|a|[lis]|mo
+transferase	nome feminino	trans|fe|[ra]|se
+transferência	nome feminino	trans|fe|[rên]|ci|a
+transferente	adjetivo	trans|fe|[ren]|te
+transferibilidade	nome feminino	trans|fe|ri|bi|li|[da]|de
+transferidor	adjetivo	trans|fe|ri|[dor]
+transferidor	nome masculino	trans|fe|ri|[dor]
+transferidora	nome feminino	trans|fe|ri|[do]|ra
+transferir	verbo	trans|fe|[rir]
+transferível	adjetivo	trans|fe|[rí]|vel
+transfiguração	nome feminino	trans|fi|gu|ra|[ção]
+transfigurado	nome masculino	trans|fi|gu|[ra]|do
+transfigurado	adjetivo	trans|fi|gu|[ra]|do
+transfigurador	adjetivo	trans|fi|gu|ra|[dor]
+transfigurador	nome masculino	trans|fi|gu|ra|[dor]
+transfiguramento	nome masculino	trans|fi|gu|ra|[men]|to
+transfigurar	verbo	trans|fi|gu|[rar]
+transfigurável	adjetivo	trans|fi|gu|[rá]|vel
+transfiltrar	verbo	trans|fil|[trar]
+transfinito	adjetivo	trans|fi|[ni]|to
+transfixação	nome feminino	trans|fi|xa|[ção]
+transfixão	nome feminino	trans|fi|[xão]
+transfixar	verbo	trans|fi|[xar]
+transfolado	adjetivo	trans|fo|[la]|do
+transfonação	nome feminino	trans|fo|na|[ção]
+transfonar	verbo	trans|fo|[nar]
+transforação	nome feminino	trans|fo|ra|[ção]
+transforador	nome masculino	trans|fo|ra|[dor]
+transforar	verbo	trans|fo|[rar]
+transformabilidade	nome feminino	trans|for|ma|bi|li|[da]|de
+transformação	nome feminino	trans|for|ma|[ção]
+transformacional	adjetivo	trans|for|ma|ci|o|[nal]
+transformada	nome feminino	trans|for|[ma]|da
+transformado	adjetivo	trans|for|[ma]|do
+transformador	nome masculino	trans|for|ma|[dor]
+transformador	adjetivo	trans|for|ma|[dor]
+transformadora	nome feminino	trans|for|ma|[do]|ra
+transformante	adjetivo	trans|for|[man]|te
+transformar	verbo	trans|for|[mar]
+transformativo	adjetivo	trans|for|ma|[ti]|vo
+transformável	adjetivo	trans|for|[má]|vel
+transformismo	nome masculino	trans|for|[mis]|mo
+transformista	nome masculino	trans|for|[mis]|ta
+transformista	adjetivo	trans|for|[mis]|ta
+transformista	nome feminino	trans|for|[mis]|ta
+transfretano	adjetivo	trans|fre|[ta]|no
+transfretar	verbo	trans|fre|[tar]

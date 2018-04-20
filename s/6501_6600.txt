@@ -1,0 +1,100 @@
+sinieta	nome masculino	si|ni|[e]|ta
+sinieta	nome feminino	si|ni|[e]|ta
+sinimbu	nome masculino	si|nim|[bu]
+sinistra	nome feminino	si|[nis]|tra
+sinistrada	nome feminino	si|nis|[tra]|da
+sinistrado	adjetivo	si|nis|[tra]|do
+sinistrado	nome masculino	si|nis|[tra]|do
+sinistralidade	nome feminino	si|nis|tra|li|[da]|de
+sinistramente	advérbio	si|nis|tra|[men]|te
+sinistrar	verbo	si|nis|[trar]
+sinistrato	adjetivo	si|nis|[tra]|to
+sinistrato	nome masculino	si|nis|[tra]|to
+sinistrismo	nome masculino	si|nis|[tris]|mo
+sinistrizar	verbo	si|nis|tri|[zar]
+sinistro	nome masculino	si|[nis]|tro
+sinistro	adjetivo	si|[nis]|tro
+sinistrocardia	nome feminino	si|nis|tro|car|[di]|a
+sinistrogiro	adjetivo	si|nis|tro|[gi]|ro
+sinistrógrado	adjetivo	si|nis|[tró]|gra|do
+sinistrorso	adjetivo	si|nis|[tror]|so
+sinistrose	nome feminino	si|nis|[tro]|se
+sinistrovolúvel	adjetivo	si|nis|tro|vo|[lú]|vel
+sinizese	nome feminino	si|ni|[ze]|se
+sinizético	adjetivo	si|ni|[zé]|ti|co
+sino	nome masculino	[si]|no
+sino-japonês	adjetivo	si|no-ja|po|[nês]
+sino-russo	adjetivo	si|no-rus|so
+sino-saimão	nome masculino	si|no-sai|[mão]
+sino-salomão	nome masculino	si|no-sa|lo|[mão]
+sino-soviético	adjetivo	si|no-so|vi|[é]|ti|co
+sinoble	adjetivo	si|[no]|ble
+sinoble	nome masculino	si|[no]|ble
+sínoco	adjetivo	[sí]|no|co
+sinodal	adjetivo	si|no|[dal]
+sinodático	adjetivo	si|no|[dá]|ti|co
+sinódico	adjetivo	si|[nó]|di|co
+sinódico	nome masculino	si|[nó]|di|co
+sínodo	nome masculino	[sí]|no|do
+sinodonte	nome masculino	si|no|[don]|te
+sinoico	adjetivo	si|[noi]|co
+sinóloga	nome feminino	si|[nó]|lo|ga
+sinologia	nome feminino	si|no|lo|[gi]|a
+sinológico	adjetivo	si|no|[ló]|gi|co
+sinólogo	adjetivo	si|[nó]|lo|go
+sinólogo	nome masculino	si|[nó]|lo|go
+sinonimar	verbo	si|no|ni|[mar]
+sinonímia	nome feminino	si|no|[ní]|mi|a
+sinonímica	nome feminino	si|no|[ní]|mi|ca
+sinonimicamente	advérbio	si|no|ni|mi|ca|[men]|te
+sinonímico	adjetivo	si|no|[ní]|mi|co
+sinonimista	adjetivo	si|no|ni|[mis]|ta
+sinonimista	nome masculino	si|no|ni|[mis]|ta
+sinonimista	nome feminino	si|no|ni|[mis]|ta
+sinonimizar	verbo	si|no|ni|mi|[zar]
+sinónimo	adjetivo	si|[nó]|ni|mo
+sinónimo	nome masculino	si|[nó]|ni|mo
+sinônimo	adjetivo	si|[nô]|ni|mo
+sinônimo	nome masculino	si|[nô]|ni|mo
+sinopite	nome feminino	si|no|[pi]|te
+sinopla	nome feminino	si|[no]|pla
+sinople	nome masculino	si|[no]|ple
+sinopse	nome feminino	si|[nop]|se
+sinopsia	nome feminino	si|nop|[si]|a
+sinopticamente	advérbio	si|nop|ti|ca|[men]|te
+sinóptico	adjetivo	si|[nóp]|ti|co
+sinóptico	nome masculino	si|[nóp]|ti|co
+sinoptizar	verbo	si|nop|ti|[zar]
+sinoquite	nome feminino	si|no|[qui]|te
+sinorquia	nome feminino	si|nor|[qui]|a
+sinosteografia	nome feminino	si|nos|te|o|gra|[fi]|a
+sinosteográfico	adjetivo	si|nos|te|o|[grá]|fi|co
+sinosteologia	nome feminino	si|nos|te|o|lo|[gi]|a
+sinosteológico	adjetivo	si|nos|te|o|[ló]|gi|co
+sinosteose	nome feminino	si|nos|te|[o]|se
+sinosteotomia	nome feminino	si|nos|te|o|to|[mi]|a
+sinosteotômico	adjetivo	si|nos|te|o|[tô]|mi|co
+sinosteotómico	adjetivo	si|nos|te|o|[tó]|mi|co
+sinotia	nome feminino	si|no|[ti]|a
+sinoticamente	advérbio	si|no|ti|ca|[men]|te
+sinótico	adjetivo	si|[nó]|ti|co
+sinótico	nome masculino	si|[nó]|ti|co
+sinoto	nome masculino	si|[no]|to
+sinóvia	nome feminino	si|[nó]|vi|a
+sinovial	adjetivo	si|no|vi|[al]
+sinovial	nome feminino	si|no|vi|[al]
+sinovina	nome feminino	si|no|[vi]|na
+sinovite	nome feminino	si|no|[vi]|te
+sinquilia	nome feminino	sin|qui|[li]|a
+sínquise	nome feminino	[sín]|qui|se
+sinsépalo	adjetivo	sin|[sé]|pa|lo
+sintacticamente	advérbio	sin|tac|ti|ca|[men]|te
+sintacticista	nome masculino	sin|tac|ti|[cis]|ta
+sintacticista	nome feminino	sin|tac|ti|[cis]|ta
+sintáctico	adjetivo	sin|[tác]|ti|co
+sintagma	nome masculino	sin|[tag]|ma
+sintagmatarca	nome masculino	sin|tag|ma|[tar]|ca
+sintagmatarquia	nome feminino	sin|tag|ma|tar|[qui]|a
+sintagmática	nome feminino	sin|tag|[má]|ti|ca
+sintagmático	adjetivo	sin|tag|[má]|ti|co
+sintagmatite	nome feminino	sin|tag|ma|[ti]|te

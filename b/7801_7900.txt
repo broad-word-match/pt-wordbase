@@ -1,0 +1,100 @@
+burragem	nome feminino	bur|[ra]|gem
+burrama	nome feminino	bur|[ra]|ma
+burrana	nome masculino	bur|[ra]|na
+burranca	nome feminino	bur|[ran]|ca
+burranca	adjetivo	bur|[ran]|ca
+burranca	nome masculino	bur|[ran]|ca
+burrão	nome masculino	bur|[rão]
+burrar	verbo	bur|[rar]
+burreco	nome masculino	bur|[re]|co
+burrego	adjetivo	bur|[re]|go
+burrego	nome masculino	bur|[re]|go
+burrica	nome feminino	bur|[ri]|ca
+burricada	nome feminino	bur|ri|[ca]|da
+burrical	adjetivo	bur|ri|[cal]
+burricalho	nome masculino	bur|ri|[ca]|lho
+burrice	nome feminino	bur|[ri]|ce
+burricego	adjetivo	bur|ri|[ce]|go
+burrico	nome masculino	bur|[ri]|co
+burrié	nome masculino	bur|ri|[é]
+burriélia	nome feminino	bur|ri|[é]|li|a
+burrificar	verbo	bur|ri|fi|[car]
+burrinhar	verbo	bur|ri|[nhar]
+burrinho	nome masculino	bur|[ri]|nho
+burriqueiro	nome masculino	bur|ri|[quei]|ro
+burriquete	nome masculino	bur|ri|[que]|te
+burriquice	nome feminino	bur|ri|[qui]|ce
+burrito	nome masculino	bur|[ri]|to
+burro	adjetivo	[bur]|ro
+burro	nome masculino	[bur]|ro
+burro-alto	nome masculino	bur|ro-al|to
+bursa	nome feminino	[bur]|sa
+bursaonense	adjetivo	bur|sa|o|[nen]|se
+bursaonense	nome masculino	bur|sa|o|[nen]|se
+bursaonense	nome feminino	bur|sa|o|[nen]|se
+bursária	nome feminino	bur|[sá]|ri|a
+búrsera	nome feminino	[búr]|se|ra
+burserácea	nome feminino	bur|se|[rá]|ce|a
+burserina	nome feminino	bur|se|[ri]|na
+bursite	nome feminino	bur|[si]|te
+buruçanga	nome feminino	bu|ru|[çan]|ga
+burundanga	nome feminino	bu|run|[dan]|ga
+burúndia	nome feminino	bu|[rún]|di|a
+burundiana	nome feminino	bu|run|di|[a]|na
+burundiano	adjetivo	bu|run|di|[a]|no
+burundiano	nome masculino	bu|run|di|[a]|no
+burundiense	nome masculino	bu|run|di|[en]|se
+burundiense	nome feminino	bu|run|di|[en]|se
+burundiense	adjetivo	bu|run|di|[en]|se
+burundinês	nome masculino	bu|run|di|[nês]
+burundinês	adjetivo	bu|run|di|[nês]
+burundinesa	nome feminino	bu|run|di|[ne]|sa
+burúndio	adjetivo	bu|[rún]|di|o
+burúndio	nome masculino	bu|[rún]|di|o
+burundum	nome masculino	bu|run|[dum]
+bururu	adjetivo	bu|ru|[ru]
+bururu	nome masculino	bu|ru|[ru]
+bururu	nome feminino	bu|ru|[ru]
+burusso	nome masculino	bu|[rus]|so
+burzigada	nome feminino	bur|zi|[ga]|da
+bus	nome masculino	[bus]
+busano	nome masculino	bu|[sa]|no
+busaranho	nome masculino	bu|sa|[ra]|nho
+busardo	nome masculino	bu|[sar]|do
+busca	nome feminino	[bus]|ca
+busca	nome masculino	[bus]|ca
+busca	interjeição	[bus]|ca
+busca-pé	nome masculino	bus|ca-pé
+busca-polos	nome masculino	bus|ca-po|los
+busca-três	nome masculino	bus|ca-três
+busca-vida	nome masculino	bus|ca-vi|da
+busca-vida	nome feminino	bus|ca-vi|da
+busca-vidas	nome masculino	bus|ca-vi|das
+buscado	adjetivo	bus|[ca]|do
+buscador	adjetivo	bus|ca|[dor]
+buscador	nome masculino	bus|ca|[dor]
+buscante	nome masculino	bus|[can]|te
+buscante	adjetivo	bus|[can]|te
+buscar	verbo	bus|[car]
+buscável	adjetivo	bus|[cá]|vel
+buscular	verbo	bus|cu|[lar]
+buseira	nome feminino	bu|[sei]|ra
+buseiro	nome masculino	bu|[sei]|ro
+busílis	nome masculino	bu|[sí]|lis
+business	nome masculino	[busi]|ness
+businessman	nome masculino	bu|si|ness|[man]
+bússola	nome feminino	[bús]|so|la
+bussolar	verbo	bus|so|[lar]
+busto	nome masculino	[bus]|to
+bustrofédon	nome masculino	bus|tro|[fé]|don
+bustuário	nome masculino	bus|tu|[á]|ri|o
+buta	nome feminino	[bu]|ta
+buta	nome masculino	[bu]|ta
+butaca	nome feminino	bu|[ta]|ca
+butadieno	nome masculino	bu|ta|di|[e]|no
+butanense	nome masculino	bu|ta|[nen]|se
+butanense	nome feminino	bu|ta|[nen]|se
+butanense	adjetivo	bu|ta|[nen]|se
+butanês	nome masculino	bu|ta|[nês]
+butanês	adjetivo	bu|ta|[nês]
+butanesa	nome feminino	bu|ta|[ne]|sa

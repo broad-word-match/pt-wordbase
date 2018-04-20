@@ -1,0 +1,100 @@
+espetável	adjetivo	es|pe|[tá]|vel
+espeteira	nome feminino	es|pe|[tei]|ra
+espeto	nome masculino	es|[pe]|to
+espetral	adjetivo	es|pe|[tral]
+espetralidade	nome feminino	es|pe|tra|li|[da]|de
+espetro	nome masculino	es|[pe]|tro
+espetrofobia	nome feminino	es|pe|tro|fo|[bi]|a
+espetrofotometria	nome feminino	es|pe|tro|fo|to|me|[tri]|a
+espetrofotométrico	adjetivo	es|pe|tro|fo|to|[mé]|tri|co
+espetrofotómetro	nome masculino	es|pe|tro|fo|[tó]|me|tro
+espetrofotômetro	nome masculino	es|pe|tro|fo|[tô]|me|tro
+espetrografia	nome feminino	es|pe|tro|gra|[fi]|a
+espetrográfico	adjetivo	es|pe|tro|[grá]|fi|co
+espetrógrafo	nome masculino	es|pe|[tró]|gra|fo
+espetrograma	nome masculino	es|pe|tro|[gra]|ma
+espetrologia	nome feminino	es|pe|tro|lo|[gi]|a
+espetrológico	adjetivo	es|pe|tro|[ló]|gi|co
+espetrometria	nome feminino	es|pe|tro|me|[tri]|a
+espetrométrico	adjetivo	es|pe|tro|[mé]|tri|co
+espetrómetro	nome masculino	es|pe|[tró]|me|tro
+espetrômetro	nome masculino	es|pe|[trô]|me|tro
+espetroscopia	nome feminino	es|pe|tros|co|[pi]|a
+espetroscópico	adjetivo	es|pe|tros|[có]|pi|co
+espetroscópio	nome masculino	es|pe|tros|[có]|pi|o
+espetroscopista	nome feminino	es|pe|tros|co|[pis]|ta
+espetroscopista	nome masculino	es|pe|tros|co|[pis]|ta
+espevitada	nome feminino	es|pe|vi|[ta]|da
+espevitadamente	advérbio	es|pe|vi|ta|da|[men]|te
+espevitadeira	nome feminino	es|pe|vi|ta|[dei]|ra
+espevitado	adjetivo	es|pe|vi|[ta]|do
+espevitado	nome masculino	es|pe|vi|[ta]|do
+espevitador	adjetivo	es|pe|vi|ta|[dor]
+espevitador	nome masculino	es|pe|vi|ta|[dor]
+espevitadora	nome feminino	es|pe|vi|ta|[do]|ra
+espevitar	verbo	es|pe|vi|[tar]
+espezinhado	adjetivo	es|pe|zi|[nha]|do
+espezinhador	adjetivo	es|pe|zi|nha|[dor]
+espezinhador	nome masculino	es|pe|zi|nha|[dor]
+espezinhamento	nome masculino	es|pe|zi|nha|[men]|to
+espezinhar	verbo	es|pe|zi|[nhar]
+espia	nome feminino	es|[pi]|a
+espia	nome masculino	es|[pi]|a
+espiã	nome feminino	es|pi|[ã]
+espia-caminho	nome masculino	es|pi|a-ca|[mi]|nho
+espia-maré	nome masculino	es|pi|a-ma|[ré]
+espiada	nome feminino	es|pi|[a]|da
+espiador	nome masculino	es|pi|a|[dor]
+espiadoura	nome feminino	es|pi|a|[dou]|ra
+espiagem	nome feminino	es|pi|[a]|gem
+espiantador	nome masculino	es|pi|an|ta|[dor]
+espiantar	verbo	es|pi|an|[tar]
+espião	nome masculino	es|pi|[ão]
+espiar	verbo	es|pi|[ar]
+espicaçadela	nome feminino	es|pi|ca|ça|[de]|la
+espicaçado	adjetivo	es|pi|ca|[ça]|do
+espicaçamento	nome masculino	es|pi|ca|ça|[men]|to
+espicaçar	verbo	es|pi|ca|[çar]
+espicanardo	nome masculino	es|pi|ca|[nar]|do
+espicha	nome feminino	es|[pi]|cha
+espichadeira	nome feminino	es|pi|cha|[dei]|ra
+espichadela	nome feminino	es|pi|cha|[de]|la
+espichar	verbo	es|pi|[char]
+espicharete	nome masculino	es|pi|cha|[re]|te
+espiche	nome masculino	es|[pi]|che
+espichel	nome masculino	es|pi|[chel]
+espichelito	nome masculino	es|pi|che|[li]|to
+espicho	nome masculino	es|[pi]|cho
+espicifloro	adjetivo	es|pi|ci|[flo]|ro
+espiciforme	adjetivo	es|pi|ci|[for]|me
+espicilégio	nome masculino	es|pi|ci|[lé]|gi|o
+espiclondrífico	adjetivo	es|pi|clon|[drí]|fi|co
+espícula	nome feminino	es|[pí]|cu|la
+espicular	adjetivo	es|pi|cu|[lar]
+espicular	verbo	es|pi|cu|[lar]
+espicúlea	nome feminino	es|pi|[cú]|le|a
+espículo	nome masculino	es|[pí]|cu|lo
+espiga	nome feminino	es|[pi]|ga
+espigado	adjetivo	es|pi|[ga]|do
+espigador	adjetivo	es|pi|ga|[dor]
+espigadote	adjetivo	es|pi|ga|[do]|te
+espigame	nome masculino	es|pi|[ga]|me
+espigamento	nome masculino	es|pi|ga|[men]|to
+espigão	nome masculino	es|pi|[gão]
+espigar	verbo	es|pi|[gar]
+espigo	nome masculino	es|[pi]|go
+espigoso	adjetivo	es|pi|[go]|so
+espigueira	nome feminino	es|pi|[guei]|ra
+espigueiro	nome masculino	es|pi|[guei]|ro
+espigueta	nome feminino	es|pi|[gue]|ta
+espiguilha	nome feminino	es|pi|[gui]|lha
+espiguilhar	verbo	es|pi|gui|[lhar]
+espildrar	verbo	es|pil|[drar]
+espilrar	verbo	es|pil|[rar]
+espilro	nome masculino	es|[pil]|ro
+espim	adjetivo	es|[pim]
+espina	nome feminino	es|[pi]|na
+espinácida	nome masculino	es|pi|[ná]|ci|da
+espinacídeo	nome masculino	es|pi|na|[cí]|de|o
+espinacídeo	adjetivo	es|pi|na|[cí]|de|o
+espinafração	nome feminino	es|pi|na|fra|[ção]

@@ -1,0 +1,100 @@
+medronho	nome masculino	me|[dro]|nho
+medrosa	nome feminino	me|[dro]|sa
+medrosamente	advérbio	me|dro|sa|[men]|te
+medroso	adjetivo	me|[dro]|so
+medroso	nome masculino	me|[dro]|so
+medubrigense	nome masculino	me|du|bri|[gen]|se
+medubrigense	adjetivo	me|du|bri|[gen]|se
+medubrigense	nome feminino	me|du|bri|[gen]|se
+medula	nome feminino	me|[du]|la
+medulante	adjetivo	me|du|[lan]|te
+medular	adjetivo	me|du|[lar]
+medular	verbo	me|du|[lar]
+medularmente	advérbio	me|du|lar|[men]|te
+medúlico	adjetivo	me|[dú]|li|co
+medulina	nome feminino	me|du|[li]|na
+medulino	adjetivo	me|du|[li]|no
+medulino	nome masculino	me|du|[li]|no
+medulite	nome feminino	me|du|[li]|te
+medulo	adjetivo	me|[du]|lo
+médulo	adjetivo	[mé]|du|lo
+medulo	nome masculino	me|[du]|lo
+médulo	nome masculino	[mé]|du|lo
+meduloblastoma	nome masculino	me|du|lo|blas|[to]|ma
+meduloso	adjetivo	me|du|[lo]|so
+medusa	nome feminino	me|[du]|sa
+medusa-acalefa	nome feminino	me|du|sa-a|ca|[le]|fa
+medusário	adjetivo	me|du|[sá]|ri|o
+medúseo	adjetivo	me|[dú]|se|o
+meduseu	adjetivo	me|du|[seu]
+medúsico	adjetivo	me|[dú]|si|co
+medusoide	nome masculino	me|du|[soi]|de
+meeira	nome feminino	me|[ei]|ra
+meeiro	adjetivo	me|[ei]|ro
+meeiro	nome masculino	me|[ei]|ro
+meeting	nome masculino	[mee]|ting
+mefistofelicamente	advérbio	me|fis|to|fe|li|ca|[men]|te
+mefistofélico	adjetivo	me|fis|to|[fé]|li|co
+mefiticamente	advérbio	me|fi|ti|ca|[men]|te
+mefítico	adjetivo	me|[fí]|ti|co
+mefitismo	nome masculino	me|fi|[tis]|mo
+mega	nome masculino	[me]|ga
+mega	nome feminino	[me]|ga
+megabarragem	nome feminino	me|ga|bar|[ra]|gem
+megabarro	adjetivo	me|ga|[bar]|ro
+megabarro	nome masculino	me|ga|[bar]|ro
+megabit	nome masculino	me|ga|bit
+megabyte	nome masculino	me|ga|by|te
+megacariócito	nome masculino	me|ga|ca|ri|[ó]|ci|to
+megácero	adjetivo	me|[gá]|ce|ro
+megácero	nome masculino	me|[gá]|ce|ro
+megaciclo	nome masculino	me|ga|[ci]|clo
+megacolo	nome masculino	me|ga|[co]|lo
+megacólon	nome masculino	me|ga|[có]|lon
+megaconcerto	nome masculino	me|ga|con|[cer]|to
+megadine	nome masculino	me|ga|[di]|ne
+megadose	nome feminino	me|ga|[do]|se
+megaesófago	nome masculino	me|ga|e|[só]|fa|go
+megaestrutura	nome feminino	me|ga|es|tru|[tu]|ra
+megaevento	nome masculino	me|ga|e|[ven]|to
+megafone	nome masculino	me|ga|[fo]|ne
+megagrama	nome masculino	me|ga|[gra]|ma
+megahertz	nome masculino	me|ga|[hertz]
+megajoule	nome masculino	me|ga|[jou]|le
+megalanto	adjetivo	me|ga|[lan]|to
+megalantropogenesia	nome feminino	me|ga|lan|tro|po|ge|ne|[si]|a
+megalantropogenético	adjetivo	me|ga|lan|tro|po|ge|[né]|ti|co
+megalegoria	nome feminino	me|ga|le|go|[ri]|a
+megalegórico	adjetivo	me|ga|le|[gó]|ri|co
+megalepatia	nome feminino	me|ga|le|pa|[ti]|a
+megalepático	adjetivo	me|ga|le|[pá]|ti|co
+megalesíaco	adjetivo	me|ga|le|[sí]|a|co
+megalésias	nome feminino	me|ga|[lé]|si|as
+megalésio	adjetivo	me|ga|[lé]|si|o
+megálio	nome masculino	me|[gá]|li|o
+megalítico	nome masculino	me|ga|[lí]|ti|co
+megalítico	adjetivo	me|ga|[lí]|ti|co
+megalitismo	nome masculino	me|ga|li|[tis]|mo
+megálito	nome masculino	me|[gá]|li|to
+megaloblástico	adjetivo	me|ga|lo|[blás]|ti|co
+megaloblasto	nome masculino	me|ga|lo|[blas]|to
+megalocardia	nome feminino	me|ga|lo|car|[di]|a
+megalocéfala	nome feminino	me|ga|lo|[cé]|fa|la
+megalocefalia	nome feminino	me|ga|lo|ce|fa|[li]|a
+megalocéfalo	adjetivo	me|ga|lo|[cé]|fa|lo
+megalocéfalo	nome masculino	me|ga|lo|[cé]|fa|lo
+megalocele	nome feminino	me|ga|lo|[ce]|le
+megalocélio	nome masculino	me|ga|lo|[cé]|li|o
+megalodactilia	nome feminino	me|ga|lo|dac|ti|[li]|a
+megalodáctilo	adjetivo	me|ga|lo|[dác]|ti|lo
+megalodatilia	nome feminino	me|ga|lo|da|ti|[li]|a
+megalodátilo	adjetivo	me|ga|lo|[dá]|ti|lo
+megalofonia	nome feminino	me|ga|lo|fo|[ni]|a
+megalofônico	adjetivo	me|ga|lo|[fô]|ni|co
+megalofónico	adjetivo	me|ga|lo|[fó]|ni|co
+megaloftalmia	nome feminino	me|ga|lof|tal|[mi]|a
+megaloftálmico	adjetivo	me|ga|lof|[tál]|mi|co
+megaloftalmo	nome masculino	me|ga|lof|[tal]|mo
+megalógono	adjetivo	me|ga|[ló]|go|no
+megalografia	nome feminino	me|ga|lo|gra|[fi]|a
+megalográfico	adjetivo	me|ga|lo|[grá]|fi|co

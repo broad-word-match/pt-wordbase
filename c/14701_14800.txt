@@ -1,0 +1,100 @@
+conhecido	nome masculino	co|nhe|[ci]|do
+conhecido	adjetivo	co|nhe|[ci]|do
+conhecimento	nome masculino	co|nhe|ci|[men]|to
+conhecível	adjetivo	co|nhe|[cí]|vel
+conho	nome masculino	[co]|nho
+coniaciano	nome masculino	co|ni|a|ci|[a]|no
+cónica	nome feminino	[có]|ni|ca
+cônica	nome feminino	[cô]|ni|ca
+conicidade	nome feminino	co|ni|ci|[da]|de
+conicina	nome feminino	co|ni|[ci]|na
+cônico	adjetivo	[cô]|ni|co
+cónico	adjetivo	[có]|ni|co
+cónida	nome masculino	[có]|ni|da
+cónida	nome masculino	[có]|ni|da
+conídeo	nome masculino	co|[ní]|de|o
+conídeo	adjetivo	co|[ní]|de|o
+conídeo	nome masculino	co|[ní]|de|o
+conídio	nome masculino	co|[ní]|di|o
+conidióforo	nome masculino	co|ni|di|[ó]|fo|ro
+conífera	nome feminino	co|[ní]|fe|ra
+conífero	adjetivo	co|[ní]|fe|ro
+conifloro	adjetivo	co|ni|[flo]|ro
+coniforme	adjetivo	co|ni|[for]|me
+conimbricense	adjetivo	co|nim|bri|[cen]|se
+conimbricense	nome masculino	co|nim|bri|[cen]|se
+conimbricense	nome feminino	co|nim|bri|[cen]|se
+conimbrigense	adjetivo	co|nim|bri|[gen]|se
+conimbrigense	nome masculino	co|nim|bri|[gen]|se
+conimbrigense	nome feminino	co|nim|bri|[gen]|se
+conina	nome feminino	co|[ni]|na
+coninhas	nome masculino	co|[ni]|nhas
+coniomicete	nome masculino	co|ni|o|mi|[ce]|te
+conioteca	nome feminino	co|ni|o|[te]|ca
+conirrostro	nome masculino	co|nir|[ros]|tro
+conirrostro	adjetivo	co|nir|[ros]|tro
+conistério	nome masculino	co|nis|[té]|ri|o
+conistra	nome feminino	co|[nis]|tra
+conivalve	adjetivo	co|ni|[val]|ve
+conivência	nome feminino	co|ni|[vên]|ci|a
+conivente	adjetivo	co|ni|[ven]|te
+coniza	nome feminino	co|[ni]|za
+conjectânea	nome feminino	con|jec|[tâ]|ne|a
+conjectura	nome feminino	con|jec|[tu]|ra
+conjecturabilidade	nome feminino	con|jec|tu|ra|bi|li|[da]|de
+conjecturador	adjetivo	con|jec|tu|ra|[dor]
+conjecturador	nome masculino	con|jec|tu|ra|[dor]
+conjectural	adjetivo	con|jec|tu|[ral]
+conjecturalmente	advérbio	con|jec|tu|ral|[men]|te
+conjecturante	adjetivo	con|jec|tu|[ran]|te
+conjecturar	verbo	con|jec|tu|[rar]
+conjecturável	adjetivo	con|jec|tu|[rá]|vel
+conjecturista	adjetivo	con|jec|tu|[ris]|ta
+conjecturista	nome masculino	con|jec|tu|[ris]|ta
+conjecturista	nome feminino	con|jec|tu|[ris]|ta
+conjeitura	nome feminino	con|jei|[tu]|ra
+conjeiturar	verbo	con|jei|tu|[rar]
+conjetânea	nome feminino	con|je|[tâ]|ne|a
+conjetura	nome feminino	con|je|[tu]|ra
+conjeturabilidade	nome feminino	con|je|tu|ra|bi|li|[da]|de
+conjeturador	adjetivo	con|je|tu|ra|[dor]
+conjeturador	nome masculino	con|je|tu|ra|[dor]
+conjetural	adjetivo	con|je|tu|[ral]
+conjeturalmente	advérbio	con|je|tu|ral|[men]|te
+conjeturante	adjetivo	con|je|tu|[ran]|te
+conjeturar	verbo	con|je|tu|[rar]
+conjeturável	adjetivo	con|je|tu|[rá]|vel
+conjeturista	nome feminino	con|je|tu|[ris]|ta
+conjeturista	nome masculino	con|je|tu|[ris]|ta
+conjeturista	adjetivo	con|je|tu|[ris]|ta
+conjugabilidade	nome feminino	con|ju|ga|bi|li|[da]|de
+conjugação	nome feminino	con|ju|ga|[ção]
+conjugada	nome feminino	con|ju|[ga]|da
+conjugado	adjetivo	con|ju|[ga]|do
+conjugado	nome masculino	con|ju|[ga]|do
+conjugador	adjetivo	con|ju|ga|[dor]
+conjugador	nome masculino	con|ju|ga|[dor]
+conjugal	adjetivo	con|ju|[gal]
+conjugalidade	nome feminino	con|ju|ga|li|[da]|de
+conjugalmente	advérbio	con|ju|gal|[men]|te
+conjugante	adjetivo	con|ju|[gan]|te
+conjugar	verbo	con|ju|[gar]
+conjugativo	adjetivo	con|ju|ga|[ti]|vo
+conjugável	adjetivo	con|ju|[gá]|vel
+cônjuge	nome masculino	[côn]|ju|ge
+conjugicida	nome masculino	con|ju|gi|[ci]|da
+conjugicida	nome feminino	con|ju|gi|[ci]|da
+conjugicídio	nome masculino	con|ju|gi|[cí]|di|o
+conjúgio	nome masculino	con|[jú]|gi|o
+conjunção	nome feminino	con|jun|[ção]
+conjuncional	adjetivo	con|jun|ci|o|[nal]
+conjuncionalmente	advérbio	con|jun|ci|o|nal|[men]|te
+conjungir	verbo	con|jun|[gir]
+conjungo	nome masculino	con|[jun]|go
+conjunta	nome feminino	con|[jun]|ta
+conjuntamente	advérbio	con|jun|ta|[men]|te
+conjuntar	verbo	con|jun|[tar]
+conjuntiva	nome feminino	con|jun|[ti]|va
+conjuntival	adjetivo	con|jun|ti|[val]
+conjuntividade	nome feminino	con|jun|ti|vi|[da]|de
+conjuntivite	nome feminino	con|jun|ti|[vi]|te

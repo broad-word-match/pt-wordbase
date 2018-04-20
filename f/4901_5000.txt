@@ -1,0 +1,100 @@
+fotocolorímetro	nome masculino	fo|to|co|lo|[rí]|me|tro
+fotocompor	verbo	fo|to|com|[por]
+fotocomposição	nome feminino	fo|to|com|po|si|[ção]
+fotocompositor	nome masculino	fo|to|com|po|si|[tor]
+fotocompositora	nome feminino	fo|to|com|po|si|[to]|ra
+fotocondutividade	nome feminino	fo|to|con|du|ti|vi|[da]|de
+fotocondutivo	adjetivo	fo|to|con|du|[ti]|vo
+fotocondutor	adjetivo	fo|to|con|du|[tor]
+fotocópia	nome feminino	fo|to|[có]|pi|a
+fotocopiador	adjetivo	fo|to|co|pi|a|[dor]
+fotocopiador	nome masculino	fo|to|co|pi|a|[dor]
+fotocopiadora	nome feminino	fo|to|co|pi|a|[do]|ra
+fotocopiar	verbo	fo|to|co|pi|[ar]
+fotocopista	nome masculino	fo|to|co|[pis]|ta
+fotocopista	nome feminino	fo|to|co|[pis]|ta
+fotocromaticamente	advérbio	fo|to|cro|ma|ti|ca|[men]|te
+fotocromático	adjetivo	fo|to|cro|[má]|ti|co
+fotocromia	nome feminino	fo|to|cro|[mi]|a
+fotocrômico	adjetivo	fo|to|[crô]|mi|co
+fotocrómico	adjetivo	fo|to|[cró]|mi|co
+fotocromografia	nome feminino	fo|to|cro|mo|gra|[fi]|a
+fotocromográfico	adjetivo	fo|to|cro|mo|[grá]|fi|co
+fotodecomposição	nome feminino	fo|to|de|com|po|si|[ção]
+fotodermatose	nome feminino	fo|to|der|ma|[to]|se
+fotodesintegração	nome feminino	fo|to|de|sin|te|gra|[ção]
+fotodieléctrico	nome masculino	fo|to|di|e|[léc]|tri|co
+fotodieléctrico	adjetivo	fo|to|di|e|[léc]|tri|co
+fotodielétrico	adjetivo	fo|to|di|e|[lé]|tri|co
+fotodielétrico	nome masculino	fo|to|di|e|[lé]|tri|co
+fotodinâmica	nome feminino	fo|to|di|[nâ]|mi|ca
+fotodinâmico	adjetivo	fo|to|di|[nâ]|mi|co
+fotodoscópio	nome masculino	fo|to|dos|[có]|pi|o
+fotoelasticidade	nome feminino	fo|to|e|las|ti|ci|[da]|de
+fotoelectrão	nome masculino	fo|to|e|lec|[trão]
+fotoeléctrico	adjetivo	fo|to|e|[léc]|tri|co
+fotoeletrão	nome masculino	fo|to|e|le|[trão]
+fotoeletricidade	nome feminino	fo|to|e|le|tri|ci|[da]|de
+fotoelétrico	adjetivo	fo|to|e|[lé]|tri|co
+fotoemissão	nome feminino	fo|to|e|mis|[são]
+fotoemissor	adjetivo	fo|to|e|mis|[sor]
+fotoemissor	nome masculino	fo|to|e|mis|[sor]
+fotoenvelhecimento	nome masculino	fo|to|en|ve|lhe|ci|[men]|to
+fotofobia	nome feminino	fo|to|fo|[bi]|a
+fotofóbico	adjetivo	fo|to|[fó]|bi|co
+fotófobo	adjetivo	fo|[tó]|fo|bo
+fotófobo	nome masculino	fo|[tó]|fo|bo
+fotofone	nome masculino	fo|to|[fo]|ne
+fotofônico	adjetivo	fo|to|[fô]|ni|co
+fotofónico	adjetivo	fo|to|[fó]|ni|co
+fotóforo	nome masculino	fo|[tó]|fo|ro
+fotóforo	adjetivo	fo|[tó]|fo|ro
+fotofosforilação	nome feminino	fo|to|fos|fo|ri|la|[ção]
+fotogénese	nome feminino	fo|to|[gé]|ne|se
+fotogênese	nome feminino	fo|to|[gê]|ne|se
+fotogenia	nome feminino	fo|to|ge|[ni]|a
+fotogênico	adjetivo	fo|to|[gê]|ni|co
+fotogénico	adjetivo	fo|to|[gé]|ni|co
+fotogênio	nome masculino	fo|to|[gê]|ni|o
+fotogénio	nome masculino	fo|to|[gé]|ni|o
+fotógeno	adjetivo	fo|[tó]|ge|no
+fotogeologia	nome feminino	fo|to|ge|o|lo|[gi]|a
+fotogeológico	adjetivo	fo|to|ge|o|[ló]|gi|co
+fotogeólogo	nome masculino	fo|to|ge|[ó]|lo|go
+fotógrafa	nome feminino	fo|[tó]|gra|fa
+fotografação	nome feminino	fo|to|gra|fa|[ção]
+fotografar	verbo	fo|to|gra|[far]
+fotografável	adjetivo	fo|to|gra|[fá]|vel
+fotografia	nome feminino	fo|to|gra|[fi]|a
+fotograficamente	advérbio	fo|to|gra|fi|ca|[men]|te
+fotográfico	adjetivo	fo|to|[grá]|fi|co
+fotógrafo	nome masculino	fo|[tó]|gra|fo
+fotograma	nome masculino	fo|to|[gra]|ma
+fotogrametria	nome feminino	fo|to|gra|me|[tri]|a
+fotogramétrico	adjetivo	fo|to|gra|[mé]|tri|co
+fotogravador	adjetivo	fo|to|gra|va|[dor]
+fotogravador	nome masculino	fo|to|gra|va|[dor]
+fotogravadora	nome feminino	fo|to|gra|va|[do]|ra
+fotogravar	verbo	fo|to|gra|[var]
+fotogravura	nome feminino	fo|to|gra|[vu]|ra
+fotointerpretação	nome feminino	fo|to|in|ter|pre|ta|[ção]
+fotoionização	nome feminino	fo|toi|o|ni|za|[ção]
+fotojornalismo	nome masculino	fo|to|jor|na|[lis]|mo
+fotojornalista	nome masculino	fo|to|jor|na|[lis]|ta
+fotojornalista	nome feminino	fo|to|jor|na|[lis]|ta
+fotojornalístico	adjetivo	fo|to|jor|na|[lís]|ti|co
+fotoleitura	nome feminino	fo|to|lei|[tu]|ra
+fotolesão	nome feminino	fo|to|le|[são]
+fotólise	nome feminino	fo|[tó]|li|se
+fotolitar	verbo	fo|to|li|[tar]
+fotolítico	adjetivo	fo|to|[lí]|ti|co
+fotólito	nome masculino	fo|[tó]|li|to
+fotolito	nome masculino	fo|to|[li]|to
+fotolitografar	verbo	fo|to|li|to|gra|[far]
+fotolitografia	nome feminino	fo|to|li|to|gra|[fi]|a
+fotolitográfico	adjetivo	fo|to|li|to|[grá]|fi|co
+fotolitógrafo	nome masculino	fo|to|li|[tó]|gra|fo
+fotologia	nome feminino	fo|to|lo|[gi]|a
+fotológico	adjetivo	fo|to|[ló]|gi|co
+fotoluminescência	nome feminino	fo|to|lu|mi|nes|[cên]|ci|a
+fotoluminescente	adjetivo	fo|to|lu|mi|nes|[cen]|te

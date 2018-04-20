@@ -1,0 +1,100 @@
+estratonicense	adjetivo	es|tra|to|ni|[cen]|se
+estratonicense	nome masculino	es|tra|to|ni|[cen]|se
+estratonicense	nome feminino	es|tra|to|ni|[cen]|se
+estratoniceu	adjetivo	es|tra|to|ni|[ceu]
+estratoniceu	nome masculino	es|tra|to|ni|[ceu]
+estratopausa	nome feminino	es|tra|to|[pau]|sa
+estratosfera	nome feminino	es|tra|tos|[fe]|ra
+estratosférico	adjetivo	es|tra|tos|[fé]|ri|co
+estratóstato	nome masculino	es|tra|[tós]|ta|to
+estravante	nome masculino	es|tra|[van]|te
+estravar	verbo	es|tra|[var]
+estravo	nome masculino	es|[tra]|vo
+estreante	adjetivo	es|tre|[an]|te
+estreante	nome masculino	es|tre|[an]|te
+estreante	nome feminino	es|tre|[an]|te
+estrear	verbo	es|tre|[ar]
+estrebaria	nome feminino	es|tre|ba|[ri]|a
+estrebordar	verbo	es|tre|bor|[dar]
+estrebuchamento	nome masculino	es|tre|bu|cha|[men]|to
+estrebuchar	verbo	es|tre|bu|[char]
+estrefega	nome feminino	es|tre|[fe]|ga
+estrefegar	verbo	es|tre|fe|[gar]
+estregar	verbo	es|tre|[gar]
+estreia	nome feminino	es|[trei]|a
+estreitador	adjetivo	es|trei|ta|[dor]
+estreitador	nome masculino	es|trei|ta|[dor]
+estreitamente	advérbio	es|trei|ta|[men]|te
+estreitamento	nome masculino	es|trei|ta|[men]|to
+estreitar	verbo	es|trei|[tar]
+estreiteza	nome feminino	es|trei|[te]|za
+estreito	adjetivo	es|[trei]|to
+estreito	nome masculino	es|[trei]|to
+estreitura	nome feminino	es|trei|[tu]|ra
+estrela	nome feminino	es|[tre]|la
+estrela-azul	nome feminino	es|tre|la-a|[zul]
+estrela-cadente	nome feminino	es|tre|la-ca|[den]|te
+estrela-d'alva	nome feminino	es|tre|la-d´al|va
+estrela-de-ouro	nome feminino	es|tre|la-de-ou|ro
+estrela-do-mar	nome feminino	es|tre|la-do-mar
+estrela-do-norte	nome feminino	es|tre|la-do-nor|te
+estrelada	nome feminino	es|tre|[la]|da
+estreladeira	nome feminino	es|tre|la|[dei]|ra
+estrelado	adjetivo	es|tre|[la]|do
+estrelamim	nome masculino	es|tre|la|[mim]
+estrelante	adjetivo	es|tre|[lan]|te
+estrelar	adjetivo	es|tre|[lar]
+estrelar	verbo	es|tre|[lar]
+estrelário	adjetivo	es|tre|[lá]|ri|o
+estrelato	nome masculino	es|tre|[la]|to
+estreleiro	adjetivo	es|tre|[lei]|ro
+estrelejar	verbo	es|tre|le|[jar]
+estrelícia	nome feminino	es|tre|[lí]|ci|a
+estrelinha	nome feminino	es|tre|[li]|nha
+estrelismo	nome masculino	es|tre|[lis]|mo
+estrelista	adjetivo	es|tre|[lis]|ta
+estrelista	nome masculino	es|tre|[lis]|ta
+estrelista	nome feminino	es|tre|[lis]|ta
+estrelo	adjetivo	es|[tre]|lo
+estreloiçar	verbo	es|tre|loi|[çar]
+estrelouçar	verbo	es|tre|lou|[çar]
+estrém	nome masculino	es|[trém]
+estrema	nome feminino	es|[tre]|ma
+estremadela	nome feminino	es|tre|ma|[de]|la
+estremado	adjetivo	es|tre|[ma]|do
+estremadura	nome feminino	es|tre|ma|[du]|ra
+estremalhar	verbo	es|tre|ma|[lhar]
+estremalho	nome masculino	es|tre|[ma]|lho
+estremar	verbo	es|tre|[mar]
+estremável	adjetivo	es|tre|[má]|vel
+estreme	adjetivo	es|[tre]|me
+estremeção	nome masculino	es|tre|me|[ção]
+estremecer	verbo	es|tre|me|[cer]
+estremecidamente	advérbio	es|tre|me|ci|da|[men]|te
+estremecido	adjetivo	es|tre|me|[ci]|do
+estremecimento	nome masculino	es|tre|me|ci|[men]|to
+estremenha	nome feminino	es|tre|[me]|nha
+estremenho	adjetivo	es|tre|[me]|nho
+estremenho	nome masculino	es|tre|[me]|nho
+estremocense	nome masculino	es|tre|mo|[cen]|se
+estremocense	adjetivo	es|tre|mo|[cen]|se
+estremocense	nome feminino	es|tre|mo|[cen]|se
+estremudar	verbo	es|tre|mu|[dar]
+estremunhado	adjetivo	es|tre|mu|[nha]|do
+estremunhamento	nome masculino	es|tre|mu|nha|[men]|to
+estremunhar	verbo	es|tre|mu|[nhar]
+estremunhento	adjetivo	es|tre|mu|[nhen]|to
+estrenoitar	verbo	es|tre|noi|[tar]
+estrenoutar	verbo	es|tre|nou|[tar]
+estrenuamente	advérbio	es|tre|nu|a|[men]|te
+estrénuo	adjetivo	es|[tré]|nu|o
+estrênuo	adjetivo	es|[trê]|nu|o
+estrepada	nome feminino	es|tre|[pa]|da
+estrepadela	nome feminino	es|tre|pa|[de]|la
+estrepar	verbo	es|tre|[par]
+estrepe	nome masculino	es|[tre]|pe
+estrepeiro	nome masculino	es|tre|[pei]|ro
+estrepitante	adjetivo	es|tre|pi|[tan]|te
+estrepitar	verbo	es|tre|pi|[tar]
+estrépito	nome masculino	es|[tré]|pi|to
+estrepitosamente	advérbio	es|tre|pi|to|sa|[men]|te

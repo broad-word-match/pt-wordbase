@@ -1,0 +1,100 @@
+cardeal-arcebispo	nome masculino	car|de|al-ar|ce|[bis]|po
+cardeal-bispo	nome masculino	car|de|al-bis|po
+cardeal-duque	nome masculino	car|de|al-du|que
+cardeal-infante	nome masculino	car|de|al-in|[fan]|te
+cardeal-patriarca	nome masculino	car|de|al-pa|tri|[ar]|ca
+cardeal-rei	nome masculino	car|de|al-rei
+cardealado	nome masculino	car|de|a|[la]|do
+cardealina	nome feminino	car|de|a|[li]|na
+cardear	verbo	car|de|[ar]
+cardeira	nome feminino	car|[dei]|ra
+cardeiro	nome masculino	car|[dei]|ro
+cardenha	nome feminino	car|[de]|nha
+cardenho	nome masculino	car|[de]|nho
+cardenilho	nome masculino	car|de|[ni]|lho
+cárdeno	adjetivo	[cár]|de|no
+cárdeno	nome masculino	[cár]|de|no
+cárdeo	adjetivo	[cár]|de|o
+cárdeo	nome masculino	[cár]|de|o
+cardete	nome masculino	car|[de]|te
+cárdia	nome feminino	[cár]|di|a
+cardíaca	nome feminino	car|[dí]|a|ca
+cardiácea	nome feminino	car|di|[á]|ce|a
+cardiáceo	adjetivo	car|di|[á]|ce|o
+cardíaco	nome masculino	car|[dí]|a|co
+cardíaco	adjetivo	car|[dí]|a|co
+cardial	adjetivo	car|di|[al]
+cardialgia	nome feminino	car|di|al|[gi]|a
+cardialgíaco	adjetivo	car|di|al|[gí]|a|co
+cardiálgico	adjetivo	car|di|[ál]|gi|co
+cardianastrofia	nome feminino	car|di|a|nas|tro|[fi]|a
+cardiano	adjetivo	car|di|[a]|no
+cardiano	nome masculino	car|di|[a]|no
+cárdico	adjetivo	[cár]|di|co
+cárdico	nome masculino	[cár]|di|co
+cardiço	nome masculino	car|[di]|ço
+cardido	adjetivo	car|[di]|do
+cardiectasia	nome feminino	car|di|ec|ta|[si]|a
+cardiectásico	adjetivo	car|di|ec|[tá]|si|co
+cardiectático	adjetivo	car|di|ec|[tá]|ti|co
+cardiela	nome feminino	car|di|[e]|la
+cardife	nome masculino	car|[di]|fe
+cardigã	nome masculino	car|di|[gã]
+cardigan	nome masculino	[car]|di|gan
+cardigueira	nome feminino	car|di|[guei]|ra
+cardíida	nome masculino	car|[dí]|i|da
+cardiídeo	nome masculino	car|di|[í]|de|o
+cardiídeo	adjetivo	car|di|[í]|de|o
+cardiídeo	nome masculino	car|di|[í]|de|o
+cardim	adjetivo	car|[dim]
+cardina	nome feminino	car|[di]|na
+cardinal	adjetivo	car|di|[nal]
+cardinal	nome masculino	car|di|[nal]
+cardinalado	nome masculino	car|di|na|[la]|do
+cardinalato	nome masculino	car|di|na|[la]|to
+cardinalício	adjetivo	car|di|na|[lí]|ci|o
+cardinalidade	nome feminino	car|di|na|li|[da]|de
+cardinalista	nome masculino	car|di|na|[lis]|ta
+cardinho	nome masculino	car|[di]|nho
+cardinífero	adjetivo	car|di|[ní]|fe|ro
+cardiocele	nome feminino	car|di|o|[ce]|le
+cardiodemia	nome feminino	car|di|o|de|[mi]|a
+cardiodémico	adjetivo	car|di|o|[dé]|mi|co
+cardiodêmico	adjetivo	car|di|o|[dê]|mi|co
+cardiodinia	nome feminino	car|di|o|di|[ni]|a
+cardiofilo	adjetivo	car|di|o|[fi]|lo
+cardiofitness	nome masculino	car|di|o|[fit]|ness
+cardióforo	nome masculino	car|di|[ó]|fo|ro
+cardiografia	nome feminino	car|di|o|gra|[fi]|a
+cardiográfico	adjetivo	car|di|o|[grá]|fi|co
+cardiógrafo	nome masculino	car|di|[ó]|gra|fo
+cardiograma	nome masculino	car|di|o|[gra]|ma
+cardioide	adjetivo	car|di|[oi]|de
+cardioide	nome masculino	car|di|[oi]|de
+cardiologia	nome feminino	car|di|o|lo|[gi]|a
+cardiológico	adjetivo	car|di|o|[ló]|gi|co
+cardiologista	nome masculino	car|di|o|lo|[gis]|ta
+cardiologista	nome feminino	car|di|o|lo|[gis]|ta
+cardiólogo	nome masculino	car|di|[ó]|lo|go
+cardiomalacia	nome feminino	car|di|o|ma|la|[ci]|a
+cardiométrico	adjetivo	car|di|o|[mé]|tri|co
+cardiómetro	nome masculino	car|di|[ó]|me|tro
+cardiômetro	nome masculino	car|di|[ô]|me|tro
+cardiomiopatia	nome feminino	car|di|o|mi|o|pa|[ti]|a
+cardiopata	nome masculino	car|di|o|[pa]|ta
+cardiopata	nome feminino	car|di|o|[pa]|ta
+cardiopatia	nome feminino	car|di|o|pa|[ti]|a
+cardiopático	adjetivo	car|di|o|[pá]|ti|co
+cardiopericardite	nome feminino	car|di|o|pe|ri|car|[di]|te
+cardiopétalo	adjetivo	car|di|o|[pé]|ta|lo
+cardioplegia	nome feminino	car|di|o|ple|[gi]|a
+cardioplégico	adjetivo	car|di|o|[plé]|gi|co
+cardióptero	adjetivo	car|di|[óp]|te|ro
+cardioptose	nome feminino	car|di|op|[to]|se
+cardioptótico	adjetivo	car|di|op|[tó]|ti|co
+cardiopulmonar	adjetivo	car|di|o|pul|mo|[nar]
+cardiopunctura	nome feminino	car|di|o|punc|[tu]|ra
+cardiopuntura	nome feminino	car|di|o|pun|[tu]|ra
+cardiorrafia	nome feminino	car|di|or|ra|[fi]|a
+cardiorráfico	adjetivo	car|di|or|[rá]|fi|co
+cardiorréctico	adjetivo	car|di|or|[réc]|ti|co

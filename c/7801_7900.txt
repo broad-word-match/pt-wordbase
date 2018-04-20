@@ -1,0 +1,100 @@
+cerceal	nome masculino	cer|ce|[al]
+cerceamento	nome masculino	cer|ce|a|[men]|to
+cercear	verbo	cer|ce|[ar]
+cerceável	adjetivo	cer|ce|[á]|vel
+cercécio	adjetivo	cer|[cé]|ci|o
+cercécio	nome masculino	cer|[cé]|ci|o
+cercefi	nome masculino	cer|ce|[fi]
+cerceio	nome masculino	cer|[cei]|o
+cérceo	adjetivo	[cér]|ce|o
+cerceta	nome feminino	cer|[ce]|ta
+cérceta	nome masculino	[cér]|ce|ta
+cercilhar	verbo	cer|ci|[lhar]
+cercilho	nome masculino	cer|[ci]|lho
+cercinitano	adjetivo	cer|ci|ni|[ta]|no
+cercinitano	nome masculino	cer|ci|ni|[ta]|no
+cerco	nome masculino	[cer]|co
+cercomônade	nome feminino	cer|co|[mô]|na|de
+cercomónade	nome feminino	cer|co|[mó]|na|de
+cercomonadídeo	nome masculino	cer|co|mo|na|[dí]|de|o
+cercope	nome masculino	cer|[co]|pe
+cercopitécida	nome masculino	cer|co|pi|[té]|ci|da
+cercopitecídeo	nome masculino	cer|co|pi|te|[cí]|de|o
+cercopitecídeo	adjetivo	cer|co|pi|te|[cí]|de|o
+cercopiteco	nome masculino	cer|co|pi|[te]|co
+cercostilo	nome masculino	cer|cos|[ti]|lo
+cerda	nome feminino	[cer]|da
+cerdana	nome feminino	cer|[da]|na
+cerdão	nome masculino	cer|[dão]
+cerdas	nome feminino	[cer]|das
+cerdeira	nome feminino	cer|[dei]|ra
+cerdeiro	nome masculino	cer|[dei]|ro
+cerdiciate	adjetivo	cer|di|ci|[a]|te
+cerdiciate	nome masculino	cer|di|ci|[a]|te
+cerdiciate	nome feminino	cer|di|ci|[a]|te
+cerdo	nome masculino	[cer]|do
+cerdoeira	nome feminino	cer|do|[ei]|ra
+cerdoeiro	nome masculino	cer|do|[ei]|ro
+cerdoso	adjetivo	cer|[do]|so
+cereal	nome masculino	ce|re|[al]
+cereal	adjetivo	ce|re|[al]
+cerealicultura	nome feminino	ce|re|a|li|cul|[tu]|ra
+cerealífero	adjetivo	ce|re|a|[lí]|fe|ro
+cerealina	nome feminino	ce|re|a|[li]|na
+cerebelar	adjetivo	ce|re|be|[lar]
+cerebelite	nome feminino	ce|re|be|[li]|te
+cerebelo	nome masculino	ce|re|[be]|lo
+cerebeloso	adjetivo	ce|re|be|[lo]|so
+cerebelospasmódico	adjetivo	ce|re|be|los|pas|[mó]|di|co
+cerebração	nome feminino	ce|re|bra|[ção]
+cerebral	adjetivo	ce|re|[bral]
+cerebral	nome masculino	ce|re|[bral]
+cerebral	nome feminino	ce|re|[bral]
+cerebralidade	nome feminino	ce|re|bra|li|[da]|de
+cerebralizar	verbo	ce|re|bra|li|[zar]
+cerebralmente	advérbio	ce|re|bral|[men]|te
+cerebrastenia	nome feminino	ce|re|bras|te|[ni]|a
+cerebrasténico	adjetivo	ce|re|bras|[té]|ni|co
+cerebrastênico	adjetivo	ce|re|bras|[tê]|ni|co
+cerébrico	adjetivo	ce|[ré]|bri|co
+cerebriforme	adjetivo	ce|re|bri|[for]|me
+cerebrina	nome feminino	ce|re|[bri]|na
+cerebrinamente	advérbio	ce|re|bri|na|[men]|te
+cerebrino	adjetivo	ce|re|[bri]|no
+cerebrite	nome feminino	ce|re|[bri]|te
+cérebro	nome masculino	[cé]|re|bro
+cerebroide	adjetivo	ce|re|[broi]|de
+cerebroma	nome masculino	ce|re|[bro]|ma
+cerebromalacia	nome feminino	ce|re|bro|ma|la|[ci]|a
+cerebropata	nome masculino	ce|re|bro|[pa]|ta
+cerebropata	nome feminino	ce|re|bro|[pa]|ta
+cerebropatia	nome feminino	ce|re|bro|pa|[ti]|a
+cerebropático	adjetivo	ce|re|bro|[pá]|ti|co
+cerebroscopia	nome feminino	ce|re|bros|co|[pi]|a
+cerebrospinal	adjetivo	ce|re|bros|pi|[nal]
+cerebrovascular	adjetivo	ce|re|bro|vas|cu|[lar]
+cerebrovisceral	adjetivo	ce|re|bro|vis|ce|[ral]
+cerefolho	nome masculino	ce|re|[fo]|lho
+cerefólio	nome masculino	ce|re|[fó]|li|o
+cereira	nome feminino	ce|[rei]|ra
+cereira-do-japão	nome feminino	ce|rei|ra-do-ja|[pão]
+cereja	nome feminino	ce|[re]|ja
+cereja	adjetivo	ce|[re]|ja
+cereja-de-caiena	nome feminino	ce|re|ja-de-cai|[e]|na
+cereja-do-rio-grande	nome feminino	ce|re|ja-do-ri|o-gran|de
+cerejal	nome masculino	ce|re|[jal]
+cerejeira	nome feminino	ce|re|[jei]|ra
+cerejo	nome masculino	ce|[re]|jo
+céreo	adjetivo	[cé]|re|o
+céreo	nome masculino	[cé]|re|o
+cerésia	nome feminino	ce|[ré]|si|a
+ceresina	nome feminino	ce|re|[si]|na
+ceresitar	verbo	ce|re|si|[tar]
+ceresite	nome feminino	ce|re|[si]|te
+cereso	adjetivo	ce|[re]|so
+cereso	nome masculino	ce|[re]|so
+cerezina	nome feminino	ce|re|[zi]|na
+cerezino	nome masculino	ce|re|[zi]|no
+cerfenino	adjetivo	cer|fe|[ni]|no
+cerfenino	nome masculino	cer|fe|[ni]|no
+ceriato	adjetivo	ce|ri|[a]|to

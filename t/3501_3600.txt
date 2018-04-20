@@ -1,0 +1,100 @@
+termólise	nome feminino	ter|[mó]|li|se
+termologia	nome feminino	ter|mo|lo|[gi]|a
+termológico	adjetivo	ter|mo|[ló]|gi|co
+termoluminescência	nome feminino	ter|mo|lu|mi|nes|[cên]|ci|a
+termomagnético	adjetivo	ter|mo|mag|[né]|ti|co
+termomagnetismo	nome masculino	ter|mo|mag|ne|[tis]|mo
+termomanómetro	nome masculino	ter|mo|ma|[nó]|me|tro
+termomanômetro	nome masculino	ter|mo|ma|[nô]|me|tro
+termomecânica	nome feminino	ter|mo|me|[câ]|ni|ca
+termomecânico	adjetivo	ter|mo|me|[câ]|ni|co
+termometabolia	nome feminino	ter|mo|me|ta|bo|[li]|a
+termometabólico	adjetivo	ter|mo|me|ta|[bó]|li|co
+termometamorfismo	nome masculino	ter|mo|me|ta|mor|[fis]|mo
+termometria	nome feminino	ter|mo|me|[tri]|a
+termométrico	adjetivo	ter|mo|[mé]|tri|co
+termometrização	nome feminino	ter|mo|me|tri|za|[ção]
+termómetro	nome masculino	ter|[mó]|me|tro
+termômetro	nome masculino	ter|[mô]|me|tro
+termometrográfico	adjetivo	ter|mo|me|tro|[grá]|fi|co
+termometrógrafo	nome masculino	ter|mo|me|[tró]|gra|fo
+termomineral	adjetivo	ter|mo|mi|ne|[ral]
+termomultiplicador	nome masculino	ter|mo|mul|ti|pli|ca|[dor]
+termonuclear	adjetivo	ter|mo|nu|cle|[ar]
+termopar	nome masculino	ter|mo|[par]
+termopileu	adjetivo	ter|mo|pi|[leu]
+termopilha	nome feminino	ter|mo|[pi]|lha
+termoplástico	nome masculino	ter|mo|[plás]|ti|co
+termoquímica	nome feminino	ter|mo|[quí]|mi|ca
+termoquímico	adjetivo	ter|mo|[quí]|mi|co
+termorregulação	nome feminino	ter|mor|re|gu|la|[ção]
+termorregulador	adjetivo	ter|mor|re|gu|la|[dor]
+termorregulador	nome masculino	ter|mor|re|gu|la|[dor]
+termorregular	verbo	ter|mor|re|gu|[lar]
+termorregular	adjetivo	ter|mor|re|gu|[lar]
+termorregulável	adjetivo	ter|mor|re|gu|[lá]|vel
+termorreóstato	nome masculino	ter|mor|re|[ós]|ta|to
+termorresistente	adjetivo	ter|mor|re|sis|[ten]|te
+termoscopia	nome feminino	ter|mos|co|[pi]|a
+termoscópico	adjetivo	ter|mos|[có]|pi|co
+termoscópio	nome masculino	ter|mos|[có]|pi|o
+termosfera	nome feminino	ter|mos|[fe]|ra
+termosférico	adjetivo	ter|mos|[fé]|ri|co
+termossemiologia	nome feminino	ter|mos|se|mi|o|lo|[gi]|a
+termossemiológico	adjetivo	ter|mos|se|mi|o|[ló]|gi|co
+termossifão	nome masculino	ter|mos|si|[fão]
+termossistáltico	adjetivo	ter|mos|sis|[tál]|ti|co
+termostática	nome feminino	ter|mos|[tá]|ti|ca
+termostático	adjetivo	ter|mos|[tá]|ti|co
+termostato	nome masculino	ter|mos|[ta]|to
+termóstato	nome masculino	ter|[mós]|ta|to
+termotáctico	adjetivo	ter|mo|[tác]|ti|co
+termotactismo	nome masculino	ter|mo|tac|[tis]|mo
+termotático	adjetivo	ter|mo|[tá]|ti|co
+termotatismo	nome masculino	ter|mo|ta|[tis]|mo
+termotaxia	nome feminino	ter|mo|ta|[xi]|a
+termoterapia	nome feminino	ter|mo|te|ra|[pi]|a
+termoterápico	adjetivo	ter|mo|te|[rá]|pi|co
+termotropia	nome feminino	ter|mo|tro|[pi]|a
+termotrópico	adjetivo	ter|mo|[tró]|pi|co
+termotropismo	nome masculino	ter|mo|tro|[pis]|mo
+ternado	adjetivo	ter|[na]|do
+ternamente	advérbio	ter|na|[men]|te
+ternário	adjetivo	ter|[ná]|ri|o
+ternário	nome masculino	ter|[ná]|ri|o
+ternate	adjetivo	ter|[na]|te
+ternate	nome masculino	ter|[na]|te
+ternate	nome feminino	ter|[na]|te
+ternatês	adjetivo	ter|na|[tês]
+ternatês	nome masculino	ter|na|[tês]
+terneira	nome feminino	ter|[nei]|ra
+terneirada	nome feminino	ter|nei|[ra]|da
+terneiro	nome masculino	ter|[nei]|ro
+ternifloro	adjetivo	ter|ni|[flo]|ro
+ternifólio	adjetivo	ter|ni|[fó]|li|o
+terninho	nome masculino	ter|[ni]|nho
+terno	adjetivo	[ter]|no
+terno	nome masculino	[ter]|no
+ternstrémia	nome feminino	terns|[tré]|mi|a
+ternstrêmia	nome feminino	terns|[trê]|mi|a
+ternstremiácea	nome feminino	terns|tre|mi|[á]|ce|a
+ternura	nome feminino	ter|[nu]|ra
+ternurento	adjetivo	ter|nu|[ren]|to
+tero	nome masculino	[te]|ro
+terolero	nome masculino	te|ro|[le]|ro
+teromorfo	nome masculino	te|ro|[mor]|fo
+terópode	nome masculino	te|[ró]|po|de
+terótoe	adjetivo	te|[ró]|to|e
+terótoe	nome masculino	te|[ró]|to|e
+terótoe	nome feminino	te|[ró]|to|e
+terpénico	adjetivo	ter|[pé]|ni|co
+terpênico	adjetivo	ter|[pê]|ni|co
+terpeno	nome masculino	ter|[pe]|no
+terpina	nome feminino	ter|[pi]|na
+terpinol	nome masculino	ter|pi|[nol]
+terpola	nome feminino	ter|[po]|la
+terpsicórico	adjetivo	terp|si|[có]|ri|co
+terra	nome feminino	[ter]|ra
+terra a terra	adjetivo	[ter]|ra a ter|ra
+terra de ninguém	nome feminino	[ter]|ra de nin|guém
+terra de Sevilha	nome feminino	[ter]|ra de Se|vi|lha

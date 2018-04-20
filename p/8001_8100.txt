@@ -1,0 +1,100 @@
+pioneira	nome feminino	pi|o|[nei]|ra
+pioneirismo	nome masculino	pi|o|nei|[ris]|mo
+pioneiro	adjetivo	pi|o|[nei]|ro
+pioneiro	nome masculino	pi|o|[nei]|ro
+pionés	nome masculino	pi|o|[nés]
+pioninha	nome feminino	pi|o|[ni]|nha
+pionita	adjetivo	pi|o|[ni]|ta
+pionita	nome masculino	pi|o|[ni]|ta
+pionita	nome feminino	pi|o|[ni]|ta
+pior	nome masculino	pi|[or]
+pior	adjetivo	pi|[or]
+pior	advérbio	pi|[or]
+piora	nome feminino	pi|[o]|ra
+piorada	nome feminino	pi|o|[ra]|da
+pioramento	nome masculino	pi|o|ra|[men]|to
+piorar	verbo	pi|o|[rar]
+piorativo	adjetivo	pi|o|ra|[ti]|vo
+pioria	nome feminino	pi|o|[ri]|a
+piorio	nome masculino	pi|o|[ri]|o
+piormente	advérbio	pi|or|[men]|te
+piorna	nome feminino	pi|[or]|na
+piornal	nome masculino	pi|or|[nal]
+piorneira	nome feminino	pi|or|[nei]|ra
+piorno	nome masculino	pi|[or]|no
+piorno-dos-tintureiros	nome masculino	pi|or|no-dos-tin|tu|[rei]|ros
+piorra	nome feminino	pi|[or]|ra
+piorreia	nome feminino	pi|or|[rei]|a
+piorreico	adjetivo	pi|or|[rei]|co
+piorro	nome masculino	pi|[or]|ro
+piossalpingite	nome feminino	pi|os|sal|pin|[gi]|te
+piovês	nome masculino	pi|o|[vês]
+pioxantina	nome feminino	pi|o|xan|[ti]|na
+pioxantose	nome feminino	pi|o|xan|[to]|se
+pipa	nome feminino	[pi]|pa
+pipá	nome masculino	pi|[pá]
+piparota	nome feminino	pi|pa|[ro]|ta
+piparotar	verbo	pi|pa|ro|[tar]
+piparote	nome masculino	pi|pa|[ro]|te
+piparotear	verbo	pi|pa|ro|te|[ar]
+pipeline	nome masculino	pi|pe|li|ne
+piperácea	nome feminino	pi|pe|[rá]|ce|a
+piperáceo	adjetivo	pi|pe|[rá]|ce|o
+piperazina	nome feminino	pi|pe|ra|[zi]|na
+pipérico	adjetivo	pi|[pé]|ri|co
+piperidina	nome feminino	pi|pe|ri|[di]|na
+piperina	nome feminino	pi|pe|[ri]|na
+piperino	nome masculino	pi|pe|[ri]|no
+piperioca	nome feminino	pi|pe|ri|[o]|ca
+pipeta	nome feminino	pi|[pe]|ta
+pipetar	verbo	pi|pe|[tar]
+pipi	nome masculino	pi|[pi]
+pipi	adjetivo	pi|[pi]
+pipi	nome feminino	pi|[pi]
+pipia	nome feminino	pi|[pi]|a
+pipião	nome masculino	pi|pi|[ão]
+pipiar	verbo	pi|pi|[ar]
+pipiar	nome masculino	pi|pi|[ar]
+pipilante	adjetivo	pi|pi|[lan]|te
+pipilar	verbo	pi|pi|[lar]
+pipilar	nome masculino	pi|pi|[lar]
+pipilo	nome masculino	pi|[pi]|lo
+pipilro	nome masculino	pi|[pil]|ro
+pipio	nome masculino	pi|[pi]|o
+pipira	nome feminino	pi|[pi]|ra
+pipirete	nome masculino	pi|pi|[re]|te
+pipiri	nome masculino	pi|pi|[ri]
+pipiricar	verbo	pi|pi|ri|[car]
+pipirioca	nome feminino	pi|pi|ri|[o]|ca
+pipitar	verbo	pi|pi|[tar]
+pipito	nome masculino	pi|[pi]|to
+pipleu	adjetivo	pi|[pleu]
+pipo	nome masculino	[pi]|po
+pipoca	nome feminino	pi|[po]|ca
+pipocamento	nome masculino	pi|po|ca|[men]|to
+pipocar	verbo	pi|po|[car]
+pipoco	nome masculino	pi|[po]|co
+pipoqueamento	nome masculino	pi|po|que|a|[men]|to
+pipoquear	verbo	pi|po|que|[ar]
+pipoqueiro	nome masculino	pi|po|[quei]|ro
+pipote	nome masculino	pi|[po]|te
+pipra	nome feminino	[pi]|pra
+píprida	adjetivo	[pí]|pri|da
+píprida	nome masculino	[pí]|pri|da
+píprida	nome masculino	[pí]|pri|da
+piprídeo	nome masculino	pi|[prí]|de|o
+piprídeo	adjetivo	pi|[prí]|de|o
+piprídeo	nome masculino	pi|[prí]|de|o
+pique	nome masculino	[pi]|que
+piquê	nome masculino	pi|[quê]
+piqué	nome masculino	pi|[qué]
+piqueiro	nome masculino	pi|[quei]|ro
+piquenique	nome masculino	pi|que|[ni]|que
+piqueno	adjetivo	pi|[que]|no
+piqueno	nome masculino	pi|[que]|no
+piquente	adjetivo	pi|[quen]|te
+piquente	nome masculino	pi|[quen]|te
+piquente	nome feminino	pi|[quen]|te
+piquentino	adjetivo	pi|quen|[ti]|no
+piquentino	nome masculino	pi|quen|[ti]|no
+piqueta	nome feminino	pi|[que]|ta

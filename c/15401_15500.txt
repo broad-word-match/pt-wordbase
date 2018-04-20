@@ -1,0 +1,100 @@
+contentadiço	adjetivo	con|ten|ta|[di]|ço
+contentamento	nome masculino	con|ten|ta|[men]|to
+contentar	verbo	con|ten|[tar]
+contentável	adjetivo	con|ten|[tá]|vel
+contente	adjetivo	con|[ten]|te
+contentíssimo	adjetivo	con|ten|[tís]|si|mo
+contentivo	adjetivo	con|ten|[ti]|vo
+contento	nome masculino	con|[ten]|to
+contentor	nome masculino	con|ten|[tor]
+contentorização	nome feminino	con|ten|to|ri|za|[ção]
+contentorizar	verbo	con|ten|to|ri|[zar]
+conter	verbo	con|[ter]
+contérmino	nome masculino	con|[tér]|mi|no
+contérmino	adjetivo	con|[tér]|mi|no
+conterrânea	nome feminino	con|ter|[râ]|ne|a
+conterrâneo	adjetivo	con|ter|[râ]|ne|o
+conterrâneo	nome masculino	con|ter|[râ]|ne|o
+contérrito	adjetivo	con|[tér]|ri|to
+contestabilidade	nome feminino	con|tes|ta|bi|li|[da]|de
+contestação	nome feminino	con|tes|ta|[ção]
+contestado	adjetivo	con|tes|[ta]|do
+contestado	nome masculino	con|tes|[ta]|do
+contestador	adjetivo	con|tes|ta|[dor]
+contestador	nome masculino	con|tes|ta|[dor]
+contestadora	nome feminino	con|tes|ta|[do]|ra
+contestante	adjetivo	con|tes|[tan]|te
+contestante	nome masculino	con|tes|[tan]|te
+contestante	nome feminino	con|tes|[tan]|te
+contestar	verbo	con|tes|[tar]
+contestatária	nome feminino	con|tes|ta|[tá]|ri|a
+contestatário	adjetivo	con|tes|ta|[tá]|ri|o
+contestatário	nome masculino	con|tes|ta|[tá]|ri|o
+contestável	adjetivo	con|tes|[tá]|vel
+conteste	adjetivo	con|[tes]|te
+conteudismo	nome masculino	con|teu|[dis]|mo
+conteudista	adjetivo	con|teu|[dis]|ta
+conteudista	nome masculino	con|teu|[dis]|ta
+conteudista	nome feminino	con|teu|[dis]|ta
+conteudístico	adjetivo	con|teu|[dís]|ti|co
+conteúdo	nome masculino	con|te|[ú]|do
+conteúdo	adjetivo	con|te|[ú]|do
+contexto	nome masculino	con|[tex]|to
+contextuação	nome feminino	con|tex|tu|a|[ção]
+contextual	adjetivo	con|tex|tu|[al]
+contextualização	nome feminino	con|tex|tu|a|li|za|[ção]
+contextualizar	verbo	con|tex|tu|a|li|[zar]
+contextuar	verbo	con|tex|tu|[ar]
+contextura	nome feminino	con|tex|[tu]|ra
+contia	nome feminino	con|[ti]|a
+contido	adjetivo	con|[ti]|do
+contigo	pronome pessoal	con|[ti]|go
+contiguamente	advérbio	con|ti|gua|[men]|te
+contiguar	verbo	con|ti|[guar]
+contiguidade	nome feminino	con|ti|gui|[da]|de
+contíguo	adjetivo	con|[tí]|guo
+contilheira	nome feminino	con|ti|[lhei]|ra
+continência	nome feminino	con|ti|[nên]|ci|a
+continental	adjetivo	con|ti|nen|[tal]
+continental	nome feminino	con|ti|nen|[tal]
+continental	nome masculino	con|ti|nen|[tal]
+continentalidade	nome feminino	con|ti|nen|ta|li|[da]|de
+continente	adjetivo	con|ti|[nen]|te
+continente	nome masculino	con|ti|[nen]|te
+contingência	nome feminino	con|tin|[gên]|ci|a
+contingencial	adjetivo	con|tin|gen|ci|[al]
+contingentação	nome feminino	con|tin|gen|ta|[ção]
+contingentar	verbo	con|tin|gen|[tar]
+contingente	adjetivo	con|tin|[gen]|te
+contingente	nome masculino	con|tin|[gen]|te
+contingentemente	advérbio	con|tin|gen|te|[men]|te
+contingentismo	nome masculino	con|tin|gen|[tis]|mo
+contino	advérbio	con|[ti]|no
+contínua	nome feminino	con|[tí]|nu|a
+continuação	nome feminino	con|ti|nu|a|[ção]
+continuadamente	advérbio	con|ti|nu|a|da|[men]|te
+continuado	nome masculino	con|ti|nu|[a]|do
+continuado	adjetivo	con|ti|nu|[a]|do
+continuador	adjetivo	con|ti|nu|a|[dor]
+continuador	nome masculino	con|ti|nu|a|[dor]
+continuadora	nome feminino	con|ti|nu|a|[do]|ra
+continuamente	advérbio	con|ti|nu|a|[men]|te
+continuamento	nome masculino	con|ti|nu|a|[men]|to
+continuar	verbo	con|ti|nu|[ar]
+continuativo	adjetivo	con|ti|nu|a|[ti]|vo
+continuável	adjetivo	con|ti|nu|[á]|vel
+continuidade	nome feminino	con|ti|nu|i|[da]|de
+contínuo	adjetivo	con|[tí]|nu|o
+contínuo	nome masculino	con|[tí]|nu|o
+continuum	nome masculino	con|ti|nu|[um]
+contista	nome masculino	con|[tis]|ta
+contista	adjetivo	con|[tis]|ta
+contista	nome feminino	con|[tis]|ta
+contitularidade	nome feminino	con|ti|tu|la|ri|[da]|de
+conto	nome masculino	[con]|to
+conto da carochinha	nome feminino	[con]|to da ca|ro|chi|nha
+conto da carochinha	nome masculino	[con]|to da ca|ro|chi|nha
+conto do vigário	nome masculino	[con]|to do vi|gá|ri|o
+contoada	nome feminino	con|to|[a]|da
+contorção	nome feminino	con|tor|[ção]
+contorcer	verbo	con|tor|[cer]

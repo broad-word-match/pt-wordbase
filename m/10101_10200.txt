@@ -1,0 +1,100 @@
+morango	nome masculino	mo|[ran]|go
+morangueira	nome feminino	mo|ran|[guei]|ra
+morangueiro	nome masculino	mo|ran|[guei]|ro
+morangueiro	adjetivo	mo|ran|[guei]|ro
+morão	nome masculino	mo|[rão]
+morar	verbo	mo|[rar]
+morateira	nome feminino	mo|ra|[tei]|ra
+morato	adjetivo	mo|[ra]|to
+moratória	nome feminino	mo|ra|[tó]|ri|a
+moratório	adjetivo	mo|ra|[tó]|ri|o
+morávio	adjetivo	mo|[rá]|vi|o
+morávio	nome masculino	mo|[rá]|vi|o
+morbidade	nome feminino	mor|bi|[da]|de
+morbidamente	advérbio	mor|bi|da|[men]|te
+morbidez	nome feminino	mor|bi|[dez]
+morbideza	nome feminino	mor|bi|[de]|za
+morbidizar	verbo	mor|bi|di|[zar]
+mórbido	adjetivo	[mór]|bi|do
+morbífico	adjetivo	mor|[bí]|fi|co
+morbígeno	adjetivo	mor|[bí]|ge|no
+morbígero	adjetivo	mor|[bí]|ge|ro
+morbilidade	nome feminino	mor|bi|li|[da]|de
+morbiliforme	adjetivo	mor|bi|li|[for]|me
+morbiloso	adjetivo	mor|bi|[lo]|so
+morbíparo	adjetivo	mor|[bí]|pa|ro
+morbo	nome masculino	[mor]|bo
+morbosidade	nome feminino	mor|bo|si|[da]|de
+morboso	adjetivo	mor|[bo]|so
+mórbus	nome masculino	[mór]|bus
+morca	nome feminino	[mor]|ca
+morcão	nome masculino	mor|[cão]
+morcas	nome masculino	[mor]|cas
+morcegal	adjetivo	mor|ce|[gal]
+morcegal	nome masculino	mor|ce|[gal]
+morcegão	nome masculino	mor|ce|[gão]
+morcegar	verbo	mor|ce|[gar]
+morcego	nome masculino	mor|[ce]|go
+morcego-de-ferradura	nome masculino	mor|ce|go-de-fer|ra|[du]|ra
+morcego-orelhudo	nome masculino	mor|ce|go-o|re|[lhu]|do
+morcegueiro	nome masculino	mor|ce|[guei]|ro
+morcela	nome feminino	mor|[ce]|la
+morcilha	nome feminino	mor|[ci]|lha
+morco	nome masculino	[mor]|co
+morcona	nome feminino	mor|[co]|na
+mordaça	nome feminino	mor|[da]|ça
+mordaçagem	nome feminino	mor|da|[ça]|gem
+mordaçar	verbo	mor|da|[çar]
+mordacidade	nome feminino	mor|da|ci|[da]|de
+mordaz	adjetivo	mor|[daz]
+mordazmente	advérbio	mor|daz|[men]|te
+mordedela	nome feminino	mor|de|[de]|la
+mordedor	adjetivo	mor|de|[dor]
+mordedor	nome masculino	mor|de|[dor]
+mordedouro	nome masculino	mor|de|[dou]|ro
+mordedura	nome feminino	mor|de|[du]|ra
+mordente	nome masculino	mor|[den]|te
+mordente	adjetivo	mor|[den]|te
+morder	verbo	mor|[der]
+mordexi	nome masculino	mor|de|[xi]
+mordexim	nome masculino	mor|de|[xim]
+mordicação	nome feminino	mor|di|ca|[ção]
+mordicadela	nome feminino	mor|di|ca|[de]|la
+mordicante	adjetivo	mor|di|[can]|te
+mordicar	verbo	mor|di|[car]
+mordicativo	adjetivo	mor|di|ca|[ti]|vo
+mordico	nome masculino	mor|[di]|co
+mordida	nome feminino	mor|[di]|da
+mordidela	nome feminino	mor|di|[de]|la
+mordido	adjetivo	mor|[di]|do
+mordimento	nome masculino	mor|di|[men]|to
+mordiscar	verbo	mor|dis|[car]
+mordível	adjetivo	mor|[dí]|vel
+mordixi	nome masculino	mor|di|[xi]
+mordixim	nome masculino	mor|di|[xim]
+mordo	nome masculino	[mor]|do
+mordomado	nome masculino	mor|do|[ma]|do
+mordomar	verbo	mor|do|[mar]
+mordomeiro	adjetivo	mor|do|[mei]|ro
+mordomia	nome feminino	mor|do|[mi]|a
+mordomice	nome feminino	mor|do|[mi]|ce
+mordomo	nome masculino	mor|[do]|mo
+mordomo-mor	nome masculino	mor|do|mo-mor
+mordoviano	nome masculino	mor|do|vi|[a]|no
+mordoviano	adjetivo	mor|do|vi|[a]|no
+morduínico	adjetivo	mor|du|[í]|ni|co
+morduíno	nome masculino	mor|du|[í]|no
+moreáceo	adjetivo	mo|re|[á]|ce|o
+moreão	nome masculino	mo|re|[ão]
+moreia	nome feminino	mo|[rei]|a
+moreira	nome feminino	mo|[rei]|ra
+moreiredo	nome masculino	mo|rei|[re]|do
+morena	nome feminino	mo|[re]|na
+morenaça	nome feminino	mo|re|[na]|ça
+morenaço	nome masculino	mo|re|[na]|ço
+morenaço	adjetivo	mo|re|[na]|ço
+morenado	adjetivo	mo|re|[na]|do
+morénico	adjetivo	mo|[ré]|ni|co
+morênico	adjetivo	mo|[rê]|ni|co
+moreno	nome masculino	mo|[re]|no
+moreno	adjetivo	mo|[re]|no

@@ -1,0 +1,100 @@
+picadete	adjetivo	pi|ca|[de]|te
+picadilho	nome masculino	pi|ca|[di]|lho
+picadinho	adjetivo	pi|ca|[di]|nho
+picadinho	nome masculino	pi|ca|[di]|nho
+picado	nome masculino	pi|[ca]|do
+picado	adjetivo	pi|[ca]|do
+picador	nome masculino	pi|ca|[dor]
+picador	adjetivo	pi|ca|[dor]
+picadora	nome feminino	pi|ca|[do]|ra
+picadura	nome feminino	pi|ca|[du]|ra
+picaim	nome masculino	pi|ca|[im]
+piçamá	nome masculino	pi|ça|[má]
+picana	nome feminino	pi|[ca]|na
+picancilho	nome masculino	pi|can|[ci]|lho
+picanço	nome masculino	pi|[can]|ço
+picanço-barreteiro	nome masculino	pi|can|ço-bar|re|[tei]|ro
+picanço-de-dorso-vermelho	nome masculino	pi|can|ço-de-dor|so-ver|[me]|lho
+picanha	nome feminino	pi|[ca]|nha
+picante	adjetivo	pi|[can]|te
+picante	nome masculino	pi|[can]|te
+picão	nome masculino	pi|[cão]
+picar	verbo	pi|[car]
+pícara	nome feminino	[pí]|ca|ra
+picaramente	advérbio	pi|ca|ra|[men]|te
+picarço	nome masculino	pi|[car]|ço
+picarda	nome feminino	pi|[car]|da
+picardia	nome feminino	pi|car|[di]|a
+picardo	nome masculino	pi|[car]|do
+picardo	adjetivo	pi|[car]|do
+picarescamente	advérbio	pi|ca|res|ca|[men]|te
+picaresco	adjetivo	pi|ca|[res]|co
+picareta	nome feminino	pi|ca|[re]|ta
+picareta	nome masculino	pi|ca|[re]|ta
+picaria	nome feminino	pi|ca|[ri]|a
+picarnel	nome masculino	pi|car|[nel]
+pícaro	adjetivo	[pí]|ca|ro
+pícaro	nome masculino	[pí]|ca|ro
+picarota	nome feminino	pi|ca|[ro]|ta
+picaroto	nome masculino	pi|ca|[ro]|to
+picaroto	adjetivo	pi|ca|[ro]|to
+piçarra	nome feminino	pi|[çar]|ra
+piçarral	nome masculino	pi|çar|[ral]
+piçarreira	nome feminino	pi|çar|[rei]|ra
+piçarro	nome masculino	pi|[çar]|ro
+piçarroso	adjetivo	pi|çar|[ro]|so
+picas	pronome indefinido	[pi]|cas
+picassiano	adjetivo	pi|cas|si|[a]|no
+picatoste	nome masculino	pi|ca|[tos]|te
+picaveco	nome masculino	pi|ca|[ve]|co
+piceno	adjetivo	pi|[ce]|no
+picente	adjetivo	pi|[cen]|te
+picente	nome masculino	pi|[cen]|te
+picente	nome feminino	pi|[cen]|te
+picentino	nome masculino	pi|cen|[ti]|no
+picentino	adjetivo	pi|cen|[ti]|no
+píceo	adjetivo	[pí]|ce|o
+picha	nome feminino	[pi]|cha
+pichação	nome feminino	pi|cha|[ção]
+pichagem	nome feminino	pi|[cha]|gem
+pichão	nome masculino	pi|[chão]
+pichar	verbo	pi|[char]
+piche	nome masculino	[pi]|che
+picheira	nome feminino	pi|[chei]|ra
+picheiro	nome masculino	pi|[chei]|ro
+pichel	nome masculino	pi|[chel]
+pichela	nome feminino	pi|[che]|la
+pichelaria	nome feminino	pi|che|la|[ri]|a
+picheleiro	nome masculino	pi|che|[lei]|ro
+pichelim	nome masculino	pi|che|[lim]
+pichelo	nome masculino	pi|[che]|lo
+pichi	nome masculino	pi|[chi]
+picho	nome masculino	[pi]|cho
+pichorra	nome feminino	pi|[chor]|ra
+pichorro	nome masculino	pi|[chor]|ro
+picica	nome masculino	pi|[ci]|ca
+picica	nome feminino	pi|[ci]|ca
+pícida	nome masculino	[pí]|ci|da
+picídeo	nome masculino	pi|[cí]|de|o
+picídeo	nome masculino	pi|[cí]|de|o
+picídeo	adjetivo	pi|[cí]|de|o
+piciforme	adjetivo	pi|ci|[for]|me
+picite	nome feminino	pi|[ci]|te
+pick-up	nome feminino	[pick-up]
+pick-up	nome masculino	[pick-up]
+pickle	nome masculino	[pic]|kle
+pickpocket	nome masculino	pick|poc|ket
+picle	nome masculino	[pi]|cle
+picles	nome masculino	[pi]|cles
+picnic	nome masculino	pic|nic
+pícnico	adjetivo	[píc]|ni|co
+picnodonte	nome masculino	pic|no|[don]|te
+picnogonídeo	adjetivo	pic|no|go|[ní]|de|o
+picnogonídeo	nome masculino	pic|no|go|[ní]|de|o
+picnometria	nome feminino	pic|no|me|[tri]|a
+picnométrico	adjetivo	pic|no|[mé]|tri|co
+picnômetro	nome masculino	pic|[nô]|me|tro
+picnómetro	nome masculino	pic|[nó]|me|tro
+picnoscopia	nome feminino	pic|nos|co|[pi]|a
+picnose	nome feminino	pic|[no]|se
+picnostilo	nome masculino	pic|nos|[ti]|lo

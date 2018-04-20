@@ -1,0 +1,100 @@
+verdeia	nome feminino	ver|[dei]|a
+verdeio	nome masculino	ver|[dei]|o
+verdeiro	nome masculino	ver|[dei]|ro
+verdejância	nome feminino	ver|de|[jân]|ci|a
+verdejante	adjetivo	ver|de|[jan]|te
+verdejar	verbo	ver|de|[jar]
+verdelha	nome feminino	ver|[de]|lha
+verdelhão	nome masculino	ver|de|[lhão]
+verdelho	nome masculino	ver|[de]|lho
+verdelho	adjetivo	ver|[de]|lho
+verdelinho	nome masculino	ver|de|[li]|nho
+verdenegro	adjetivo	ver|de|[ne]|gro
+verdenegro	nome masculino	ver|de|[ne]|gro
+verdengório	nome masculino	ver|den|[gó]|ri|o
+verdento	adjetivo	ver|[den]|to
+verderol	nome masculino	ver|de|[rol]
+verdete	nome masculino	ver|[de]|te
+verdezelha	nome feminino	ver|de|[ze]|lha
+vérdico	adjetivo	[vér]|di|co
+verdilhão	nome masculino	ver|di|[lhão]
+verdilhento	adjetivo	ver|di|[lhen]|to
+verdilhote	nome masculino	ver|di|[lho]|te
+verdinegro	adjetivo	ver|di|[ne]|gro
+verdinhento	adjetivo	ver|di|[nhen]|to
+verdinzela	nome feminino	ver|din|[ze]|la
+verdisseco	adjetivo	ver|dis|[se]|co
+verdizel	nome masculino	ver|di|[zel]
+verdizela	nome feminino	ver|di|[ze]|la
+verdizela	nome masculino	ver|di|[ze]|la
+verdizelo	nome masculino	ver|di|[ze]|lo
+verdoega	nome feminino	ver|do|[e]|ga
+verdoengo	adjetivo	ver|do|[en]|go
+verdolengo	adjetivo	ver|do|[len]|go
+verdor	nome masculino	ver|[dor]
+verdoso	adjetivo	ver|[do]|so
+verdoso	nome masculino	ver|[do]|so
+verdote	adjetivo	ver|[do]|te
+verdugada	nome feminino	ver|du|[ga]|da
+verdugadim	nome masculino	ver|du|ga|[dim]
+verdugal	nome masculino	ver|du|[gal]
+verdugão	nome masculino	ver|du|[gão]
+verdugo	nome masculino	ver|[du]|go
+verduguilho	nome masculino	ver|du|[gui]|lho
+verdum	nome masculino	ver|[dum]
+verdume	nome masculino	ver|[du]|me
+verdunização	nome feminino	ver|du|ni|za|[ção]
+verdunizar	verbo	ver|du|ni|[zar]
+verdura	nome feminino	ver|[du]|ra
+verdureira	nome feminino	ver|du|[rei]|ra
+verdureiro	nome masculino	ver|du|[rei]|ro
+verdurengo	adjetivo	ver|du|[ren]|go
+verduroso	adjetivo	ver|du|[ro]|so
+vereação	nome feminino	ve|re|a|[ção]
+vereador	nome masculino	ve|re|a|[dor]
+vereadora	nome feminino	ve|re|a|[do]|ra
+vereamento	nome masculino	ve|re|a|[men]|to
+vereança	nome feminino	ve|re|[an]|ça
+verear	verbo	ve|re|[ar]
+verecúndia	nome feminino	ve|re|[cún]|di|a
+verecundo	adjetivo	ve|re|[cun]|do
+vereda	nome feminino	ve|[re]|da
+veredicto	nome masculino	ve|re|[dic]|to
+veredito	nome masculino	ve|re|[di]|to
+vereia	nome feminino	ve|[rei]|a
+verendo	adjetivo	ve|[ren]|do
+vereno	adjetivo	ve|[re]|no
+veretino	adjetivo	ve|re|[ti]|no
+veretino	nome masculino	ve|re|[ti]|no
+verga	nome feminino	[ver]|ga
+verga-áurea	nome feminino	ver|ga-áu|re|a
+verga-de-ouro	nome feminino	ver|ga-de-ou|ro
+vergada	nome feminino	ver|[ga]|da
+vergadiço	adjetivo	ver|ga|[di]|ço
+vergado	adjetivo	ver|[ga]|do
+vergadura	nome feminino	ver|ga|[du]|ra
+vergal	nome masculino	ver|[gal]
+vergalhada	nome feminino	ver|ga|[lha]|da
+vergalhamento	nome masculino	ver|ga|lha|[men]|to
+vergalhão	nome masculino	ver|ga|[lhão]
+vergalhar	verbo	ver|ga|[lhar]
+vergalho	nome masculino	ver|[ga]|lho
+vergame	nome masculino	ver|[ga]|me
+vergamota	nome feminino	ver|ga|[mo]|ta
+vergancha	nome feminino	ver|[gan]|cha
+vergão	nome masculino	ver|[gão]
+vergar	verbo	ver|[gar]
+vergasta	nome feminino	ver|[gas]|ta
+vergastada	nome feminino	ver|gas|[ta]|da
+vergastador	adjetivo	ver|gas|ta|[dor]
+vergastador	nome masculino	ver|gas|ta|[dor]
+vergastão	nome masculino	ver|gas|[tão]
+vergastar	verbo	ver|gas|[tar]
+vergasteiro	nome masculino	ver|gas|[tei]|ro
+vergáurea	nome feminino	ver|[gáu]|re|a
+vergável	adjetivo	ver|[gá]|vel
+vergel	nome masculino	ver|[gel]
+vergência	nome feminino	ver|[gên]|ci|a
+vergestano	adjetivo	ver|ges|[ta]|no
+vergestano	nome masculino	ver|ges|[ta]|no
+vergoada	nome feminino	ver|go|[a]|da

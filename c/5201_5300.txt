@@ -1,0 +1,100 @@
+carrê	nome masculino	car|[rê]
+carreação	nome feminino	car|re|a|[ção]
+carreada	nome feminino	car|re|[a]|da
+carreador	nome masculino	car|re|a|[dor]
+carreadouro	nome masculino	car|re|a|[dou]|ro
+carreamento	nome masculino	car|re|a|[men]|to
+carrear	verbo	car|re|[ar]
+carrega	nome feminino	car|[re]|ga
+carrega-besta	nome feminino	car|re|ga-bes|ta
+carrega-burro	nome feminino	car|re|ga-bur|ro
+carregação	nome feminino	car|re|ga|[ção]
+carregadeira	nome feminino	car|re|ga|[dei]|ra
+carregadíssimo	adjetivo	car|re|ga|[dís]|si|mo
+carregado	adjetivo	car|re|[ga]|do
+carregador	nome masculino	car|re|ga|[dor]
+carregadora	nome feminino	car|re|ga|[do]|ra
+carregal	nome masculino	car|re|[gal]
+carregalense	nome masculino	car|re|ga|[len]|se
+carregalense	adjetivo	car|re|ga|[len]|se
+carregalense	nome feminino	car|re|ga|[len]|se
+carregamento	nome masculino	car|re|ga|[men]|to
+carregar	verbo	car|re|[gar]
+carrego	nome masculino	car|[re]|go
+carregoso	adjetivo	car|re|[go]|so
+carregoso	nome masculino	car|re|[go]|so
+carreia	nome feminino	car|[rei]|a
+carreira	nome feminino	car|[rei]|ra
+carreira de tiro	nome feminino	car|[rei]|ra de ti|ro
+carreirão	nome masculino	car|rei|[rão]
+carreirismo	nome masculino	car|rei|[ris]|mo
+carreirista	adjetivo	car|rei|[ris]|ta
+carreirista	nome masculino	car|rei|[ris]|ta
+carreirista	nome feminino	car|rei|[ris]|ta
+carreiro	nome masculino	car|[rei]|ro
+carreiro	adjetivo	car|[rei]|ro
+carreirola	nome feminino	car|rei|[ro]|la
+carreirote	nome masculino	car|rei|[ro]|te
+carreja	nome feminino	car|[re]|ja
+carrejão	nome masculino	car|re|[jão]
+carrejar	verbo	car|re|[jar]
+carrejo	nome masculino	car|[re]|jo
+carrela	nome feminino	car|[re]|la
+carrelo	nome masculino	car|[re]|lo
+carretã	nome feminino	car|re|[tã]
+carreta	nome feminino	car|[re]|ta
+carretada	nome feminino	car|re|[ta]|da
+carretador	nome masculino	car|re|ta|[dor]
+carretagem	nome feminino	car|re|[ta]|gem
+carretama	nome feminino	car|re|[ta]|ma
+carretão	nome masculino	car|re|[tão]
+carretar	verbo	car|re|[tar]
+carrete	nome masculino	car|[re]|te
+carretear	verbo	car|re|te|[ar]
+carreteira	nome feminino	car|re|[tei]|ra
+carreteiro	nome masculino	car|re|[tei]|ro
+carreteiro	adjetivo	car|re|[tei]|ro
+carretel	nome masculino	car|re|[tel]
+carretilha	nome feminino	car|re|[ti]|lha
+carreto	nome masculino	car|[re]|to
+carriagem	nome feminino	car|ri|[a]|gem
+carrião	nome masculino	car|ri|[ão]
+carriça	nome feminino	car|[ri]|ça
+carriçada	nome feminino	car|ri|[ça]|da
+carriçagem	nome feminino	car|ri|[ça]|gem
+carriçal	nome masculino	car|ri|[çal]
+carricha	nome feminino	car|[ri]|cha
+carricinha	nome feminino	car|ri|[ci]|nha
+carricinha-de-rabo	nome feminino	car|ri|ci|nha-de-ra|bo
+carriço	nome masculino	car|[ri]|ço
+carrieira	nome feminino	car|ri|[ei]|ra
+carrijó	nome masculino	car|ri|[jó]
+carril	nome masculino	car|[ril]
+carrilamento	nome masculino	car|ri|la|[men]|to
+carrilar	verbo	car|ri|[lar]
+carrilhador	nome masculino	car|ri|lha|[dor]
+carrilhanista	nome masculino	car|ri|lha|[nis]|ta
+carrilhanor	nome masculino	car|ri|lha|[nor]
+carrilhão	nome masculino	car|ri|[lhão]
+carrilheira	nome feminino	car|ri|[lhei]|ra
+carrilho	nome masculino	car|[ri]|lho
+carrilhonar	verbo	car|ri|lho|[nar]
+carrilhoneiro	nome masculino	car|ri|lho|[nei]|ro
+carrilhonista	nome masculino	car|ri|lho|[nis]|ta
+carrilhonista	nome feminino	car|ri|lho|[nis]|ta
+carrimónia	nome feminino	car|ri|[mó]|ni|a
+carrimônia	nome feminino	car|ri|[mô]|ni|a
+carrinha	nome feminino	car|[ri]|nha
+carrinho	nome masculino	car|[ri]|nho
+carriola	nome feminino	car|ri|[o]|la
+carripana	nome feminino	car|ri|[pa]|na
+carro	nome masculino	[car]|ro
+carro-bomba	nome masculino	car|ro-bom|ba
+carro-de-vénus	nome masculino	car|ro-de-vé|nus
+carro-de-vênus	nome masculino	car|ro-de-vê|nus
+carro-patrulha	nome masculino	car|ro-pa|[tru]|lha
+carro-vassoura	nome masculino	car|ro-vas|[sou]|ra
+carroça	nome feminino	car|[ro]|ça
+carroçada	nome feminino	car|ro|[ça]|da
+carroção	nome masculino	car|ro|[ção]
+carroçar	verbo	car|ro|[çar]

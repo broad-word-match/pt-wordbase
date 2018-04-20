@@ -1,0 +1,100 @@
+trovento	adjetivo	tro|[ven]|to
+troviscada	nome feminino	tro|vis|[ca]|da
+troviscado	adjetivo	tro|vis|[ca]|do
+troviscal	nome masculino	tro|vis|[cal]
+troviscar	verbo	tro|vis|[car]
+trovisco	nome masculino	tro|[vis]|co
+troviscoso	adjetivo	tro|vis|[co]|so
+trovisqueira	nome feminino	tro|vis|[quei]|ra
+trovista	nome masculino	tro|[vis]|ta
+trovista	nome feminino	tro|[vis]|ta
+trovoada	nome feminino	tro|vo|[a]|da
+trovoar	verbo	tro|vo|[ar]
+trovoso	adjetivo	tro|[vo]|so
+truaca	nome feminino	tru|[a]|ca
+truanaz	nome masculino	tru|a|[naz]
+truanear	verbo	tru|a|ne|[ar]
+truanesco	adjetivo	tru|a|[nes]|co
+truania	nome feminino	tru|a|[ni]|a
+truanice	nome feminino	tru|a|[ni]|ce
+truão	nome masculino	tru|[ão]
+trubufu	adjetivo	tru|bu|[fu]
+truca	nome feminino	[tru]|ca
+trucada	nome feminino	tru|[ca]|da
+trucagem	nome feminino	tru|[ca]|gem
+trucar	verbo	tru|[car]
+trucidação	nome feminino	tru|ci|da|[ção]
+trucidado	adjetivo	tru|ci|[da]|do
+trucidador	adjetivo	tru|ci|da|[dor]
+trucidamento	nome masculino	tru|ci|da|[men]|to
+trucidante	adjetivo	tru|ci|[dan]|te
+trucidar	verbo	tru|ci|[dar]
+trucilador	adjetivo	tru|ci|la|[dor]
+trucilar	verbo	tru|ci|[lar]
+trucilar	nome masculino	tru|ci|[lar]
+truco	nome masculino	[tru]|co
+truculência	nome feminino	tru|cu|[lên]|ci|a
+truculentamente	advérbio	tru|cu|len|ta|[men]|te
+truculento	adjetivo	tru|cu|[len]|to
+trude	nome feminino	[tru]|de
+trudo	nome masculino	[tru]|do
+truentino	adjetivo	tru|en|[ti]|no
+truentino	nome masculino	tru|en|[ti]|no
+trufa	nome feminino	[tru]|fa
+trufar	verbo	tru|[far]
+trufeira	nome feminino	tru|[fei]|ra
+trufeiro	nome masculino	tru|[fei]|ro
+trufeiro	adjetivo	tru|[fei]|ro
+truficultor	nome masculino	tru|fi|cul|[tor]
+truficultura	nome feminino	tru|fi|cul|[tu]|ra
+trugimão	nome masculino	tru|gi|[mão]
+truísmo	nome masculino	tru|[ís]|mo
+truísta	adjetivo	tru|[ís]|ta
+truístico	adjetivo	tru|[ís]|ti|co
+truita	nome feminino	[trui]|ta
+truliforme	adjetivo	tru|li|[for]|me
+trumaí	adjetivo	tru|ma|[í]
+trumaí	nome masculino	tru|ma|[í]
+trumaí	nome feminino	tru|ma|[í]
+trumbuca	nome feminino	trum|[bu]|ca
+trumó	nome masculino	tru|[mó]
+trumpilino	adjetivo	trum|pi|[li]|no
+trumpilino	nome masculino	trum|pi|[li]|no
+truncado	adjetivo	trun|[ca]|do
+truncadura	nome feminino	trun|ca|[du]|ra
+truncagem	nome feminino	trun|[ca]|gem
+truncamento	nome masculino	trun|ca|[men]|to
+truncar	verbo	trun|[car]
+truncária	nome feminino	trun|[cá]|ri|a
+truncatura	nome feminino	trun|ca|[tu]|ra
+truncável	adjetivo	trun|[cá]|vel
+truncha	nome feminino	[trun]|cha
+trunfa	nome feminino	[trun]|fa
+trunfada	nome feminino	trun|[fa]|da
+trunfado	adjetivo	trun|[fa]|do
+trunfar	verbo	trun|[far]
+trunfeira	nome feminino	trun|[fei]|ra
+trunfo	nome masculino	[trun]|fo
+trupar	verbo	tru|[par]
+trupe	nome feminino	[tru]|pe
+trupe	nome masculino	[tru]|pe
+trupe	interjeição	[tru]|pe
+trupe-trupe	nome masculino	tru|pe-tru|pe
+trupezupe	nome masculino	tru|pe|[zu]|pe
+trúpia	nome feminino	[trú]|pi|a
+trupido	nome masculino	tru|[pi]|do
+trupitante	adjetivo	tru|pi|[tan]|te
+trupitar	verbo	tru|pi|[tar]
+trupo	nome masculino	[tru]|po
+truque	nome masculino	[tru]|que
+truqueiro	nome masculino	tru|[quei]|ro
+truqui	nome masculino	tru|[qui]
+trusse	nome masculino	[trus]|se
+trusse	nome feminino	[trus]|se
+trusses	nome feminino	[trus]|ses
+trust	nome masculino	[trust]
+truste	nome masculino	[trus]|te
+truta	nome feminino	[tru]|ta
+truta-salmonada	nome feminino	tru|ta-sal|mo|[na]|da
+truticultor	adjetivo	tru|ti|cul|[tor]
+truticultor	nome masculino	tru|ti|cul|[tor]

@@ -1,0 +1,100 @@
+inabalavelmente	advérbio	i|na|ba|la|vel|[men]|te
+inabarcável	adjetivo	i|na|bar|[cá]|vel
+inabdicável	adjetivo	i|nab|di|[cá]|vel
+inábil	adjetivo	i|[ná]|bil
+inabilidade	nome feminino	i|na|bi|li|[da]|de
+inabilidoso	adjetivo	i|na|bi|li|[do]|so
+inabilitação	nome feminino	i|na|bi|li|ta|[ção]
+inabilitada	nome feminino	i|na|bi|li|[ta]|da
+inabilitado	adjetivo	i|na|bi|li|[ta]|do
+inabilitado	nome masculino	i|na|bi|li|[ta]|do
+inabilitar	verbo	i|na|bi|li|[tar]
+inabilmente	advérbio	i|na|bil|[men]|te
+inabitabilidade	nome feminino	i|na|bi|ta|bi|li|[da]|de
+inabitação	nome feminino	i|na|bi|ta|[ção]
+inabitado	adjetivo	i|na|bi|[ta]|do
+inabitar	verbo	i|na|bi|[tar]
+inabitável	adjetivo	i|na|bi|[tá]|vel
+inabitual	adjetivo	i|na|bi|tu|[al]
+inabordabilidade	nome feminino	i|na|bor|da|bi|li|[da]|de
+inabordável	adjetivo	i|na|bor|[dá]|vel
+inabsoluto	adjetivo	i|nab|so|[lu]|to
+inabsolvido	adjetivo	i|nab|sol|[vi]|do
+inacabado	adjetivo	i|na|ca|[ba]|do
+inacabável	adjetivo	i|na|ca|[bá]|vel
+inação	nome feminino	i|na|[ção]
+inaceitabilidade	nome feminino	i|na|cei|ta|bi|li|[da]|de
+inaceitável	adjetivo	i|na|cei|[tá]|vel
+inaceitavelmente	advérbio	i|na|cei|ta|vel|[men]|te
+inacentuado	adjetivo	i|na|cen|tu|[a]|do
+inacentuável	adjetivo	i|na|cen|tu|[á]|vel
+inacessibilidade	nome feminino	i|na|ces|si|bi|li|[da]|de
+inacessível	adjetivo	i|na|ces|[sí]|vel
+inacessivelmente	advérbio	i|na|ces|si|vel|[men]|te
+inacesso	adjetivo	i|na|[ces]|so
+inaciana	nome feminino	i|na|ci|[a]|na
+inaciano	adjetivo	i|na|ci|[a]|no
+inaciano	nome masculino	i|na|ci|[a]|no
+inaclimável	adjetivo	i|na|cli|[má]|vel
+inacomodável	adjetivo	i|na|co|mo|[dá]|vel
+inacostumado	adjetivo	i|na|cos|tu|[ma]|do
+inacreditável	adjetivo	i|na|cre|di|[tá]|vel
+inacreditavelmente	advérbio	i|na|cre|di|ta|vel|[men]|te
+inacumulação	nome feminino	i|na|cu|mu|la|[ção]
+inacumulável	adjetivo	i|na|cu|mu|[lá]|vel
+inacusável	adjetivo	i|na|cu|[sá]|vel
+inadaptabilidade	nome feminino	i|na|dap|ta|bi|li|[da]|de
+inadaptação	nome feminino	i|na|dap|ta|[ção]
+inadaptada	nome feminino	i|na|dap|[ta]|da
+inadaptado	adjetivo	i|na|dap|[ta]|do
+inadaptado	nome masculino	i|na|dap|[ta]|do
+inadaptável	adjetivo	i|na|dap|[tá]|vel
+inadequabilidade	nome feminino	i|na|de|qua|bi|li|[da]|de
+inadequação	nome feminino	i|na|de|qua|[ção]
+inadequadamente	advérbio	i|na|de|qua|da|[men]|te
+inadequado	adjetivo	i|na|de|[qua]|do
+inadequável	adjetivo	i|na|de|[quá]|vel
+inaderente	adjetivo	i|na|de|[ren]|te
+inadestrado	adjetivo	i|na|des|[tra]|do
+inadiabilidade	nome feminino	i|na|di|a|bi|li|[da]|de
+inadiável	adjetivo	i|na|di|[á]|vel
+inadimplemento	nome masculino	i|na|dim|ple|[men]|to
+inadimplente	adjetivo	i|na|dim|[plen]|te
+inadimplente	nome masculino	i|na|dim|[plen]|te
+inadimplente	nome feminino	i|na|dim|[plen]|te
+inadmissão	nome feminino	i|nad|mis|[são]
+inadmissibilidade	nome feminino	i|nad|mis|si|bi|li|[da]|de
+inadmissível	adjetivo	i|nad|mis|[sí]|vel
+inadmissivelmente	advérbio	i|nad|mis|si|vel|[men]|te
+inadmitido	adjetivo	i|nad|mi|[ti]|do
+inadotável	adjetivo	i|na|do|[tá]|vel
+inadquirível	adjetivo	i|nad|qui|[rí]|vel
+inadvertência	nome feminino	i|nad|ver|[tên]|ci|a
+inadvertidamente	advérbio	i|nad|ver|ti|da|[men]|te
+inadvertido	adjetivo	i|nad|ver|[ti]|do
+inafabilidade	nome feminino	i|na|fa|bi|li|[da]|de
+inafável	adjetivo	i|na|[fá]|vel
+inaferível	adjetivo	i|na|fe|[rí]|vel
+inafetivo	adjetivo	i|na|fe|[ti]|vo
+inafiançabilidade	nome feminino	i|na|fi|an|ça|bi|li|[da]|de
+inafiançável	adjetivo	i|na|fi|an|[çá]|vel
+inafirmativo	adjetivo	i|na|fir|ma|[ti]|vo
+inafrontável	adjetivo	i|na|fron|[tá]|vel
+inafugentável	adjetivo	i|na|fu|gen|[tá]|vel
+inafundável	adjetivo	i|na|fun|[dá]|vel
+inagitável	adjetivo	i|na|gi|[tá]|vel
+inagrupado	adjetivo	i|na|gru|[pa]|do
+inajá	nome masculino	i|na|[já]
+inajarana	nome feminino	i|na|ja|[ra]|na
+inalação	nome feminino	i|na|la|[ção]
+inalado	adjetivo	i|na|[la]|do
+inalador	nome masculino	i|na|la|[dor]
+inalador	adjetivo	i|na|la|[dor]
+inalante	adjetivo	i|na|[lan]|te
+inalar	verbo	i|na|[lar]
+inalbuminado	adjetivo	i|nal|bu|mi|[na]|do
+inalcançabilidade	nome feminino	i|nal|can|ça|bi|li|[da]|de
+inalcançado	adjetivo	i|nal|can|[ça]|do
+inalcançável	adjetivo	i|nal|can|[çá]|vel
+inaliável	adjetivo	i|na|li|[á]|vel
+inalienabilidade	nome feminino	i|na|li|e|na|bi|li|[da]|de

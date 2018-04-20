@@ -1,0 +1,100 @@
+arrebanhadura	nome feminino	ar|re|ba|nha|[du]|ra
+arrebanhamento	nome masculino	ar|re|ba|nha|[men]|to
+arrebanhar	verbo	ar|re|ba|[nhar]
+arrebanhável	adjetivo	ar|re|ba|[nhá]|vel
+arrebanho	nome masculino	ar|re|[ba]|nho
+arrebata-punhadas	nome masculino	ar|re|ba|ta-pu|[nha]|das
+arrebatadamente	advérbio	ar|re|ba|ta|da|[men]|te
+arrebatado	adjetivo	ar|re|ba|[ta]|do
+arrebatador	adjetivo	ar|re|ba|ta|[dor]
+arrebatador	nome masculino	ar|re|ba|ta|[dor]
+arrebatadora	nome feminino	ar|re|ba|ta|[do]|ra
+arrebatadoramente	advérbio	ar|re|ba|ta|do|ra|[men]|te
+arrebatadura	nome feminino	ar|re|ba|ta|[du]|ra
+arrebatamento	nome masculino	ar|re|ba|ta|[men]|to
+arrebatante	adjetivo	ar|re|ba|[tan]|te
+arrebatar	verbo	ar|re|ba|[tar]
+arrebatável	adjetivo	ar|re|ba|[tá]|vel
+arrebate	nome masculino	ar|re|[ba]|te
+arrebatinha	nome feminino	ar|re|ba|[ti]|nha
+arrebato	nome masculino	ar|re|[ba]|to
+arrebém	nome masculino	ar|re|[bém]
+arrebenta	nome masculino	ar|re|[ben]|ta
+arrebenta-boi	nome masculino	ar|re|ben|ta-boi
+arrebenta-bois	nome masculino	ar|re|ben|ta-bois
+arrebenta-cavalo	nome masculino	ar|re|ben|ta-ca|[va]|lo
+arrebenta-diabos	nome masculino	ar|re|ben|ta-di|[a]|bos
+arrebenta-pedra	nome feminino	ar|re|ben|ta-pe|dra
+arrebentação	nome feminino	ar|re|ben|ta|[ção]
+arrebentadela	nome feminino	ar|re|ben|ta|[de]|la
+arrebentadiço	adjetivo	ar|re|ben|ta|[di]|ço
+arrebentado	adjetivo	ar|re|ben|[ta]|do
+arrebentadouro	nome masculino	ar|re|ben|ta|[dou]|ro
+arrebentamento	nome masculino	ar|re|ben|ta|[men]|to
+arrebentante	adjetivo	ar|re|ben|[tan]|te
+arrebentão	nome masculino	ar|re|ben|[tão]
+arrebentar	verbo	ar|re|ben|[tar]
+arrebento	nome masculino	ar|re|[ben]|to
+arrebicadamente	advérbio	ar|re|bi|ca|da|[men]|te
+arrebicado	adjetivo	ar|re|bi|[ca]|do
+arrebicar	verbo	ar|re|bi|[car]
+arrebique	nome masculino	ar|re|[bi]|que
+arrebitaço	nome masculino	ar|re|bi|[ta]|ço
+arrebitado	adjetivo	ar|re|bi|[ta]|do
+arrebitamento	nome masculino	ar|re|bi|ta|[men]|to
+arrebitar	verbo	ar|re|bi|[tar]
+arrebite	nome masculino	ar|re|[bi]|te
+arrebito	nome masculino	ar|re|[bi]|to
+arrebol	nome masculino	ar|re|[bol]
+arrebolar	verbo	ar|re|bo|[lar]
+arrebunhar	verbo	ar|re|bu|[nhar]
+arreçã	nome feminino	ar|re|[çã]
+arrecaba	nome feminino	ar|re|[ca]|ba
+arrecabe	nome masculino	ar|re|[ca]|be
+arrecabo	nome masculino	ar|re|[ca]|bo
+arrecada	nome feminino	ar|re|[ca]|da
+arrecadação	nome feminino	ar|re|ca|da|[ção]
+arrecadado	adjetivo	ar|re|ca|[da]|do
+arrecadador	nome masculino	ar|re|ca|da|[dor]
+arrecadamento	nome masculino	ar|re|ca|da|[men]|to
+arrecadar	verbo	ar|re|ca|[dar]
+arrecadável	adjetivo	ar|re|ca|[dá]|vel
+arreçal	nome masculino	ar|re|[çal]
+arreçanha	nome feminino	ar|re|[ça]|nha
+arreçanhal	nome masculino	ar|re|ça|[nhal]
+arrecear	verbo	ar|re|ce|[ar]
+arreceio	nome masculino	ar|re|[cei]|o
+arreceoso	adjetivo	ar|re|ce|[o]|so
+arrecife	nome masculino	ar|re|[ci]|fe
+arrecova	nome feminino	ar|re|[co]|va
+arrecuão	nome masculino	ar|re|cu|[ão]
+arrecuar	verbo	ar|re|cu|[ar]
+arrecuas	nome feminino	ar|re|[cu]|as
+arreda	interjeição	ar|[re]|da
+arredado	adjetivo	ar|re|[da]|do
+arredamento	nome masculino	ar|re|da|[men]|to
+arredar	verbo	ar|re|[dar]
+arredável	adjetivo	ar|re|[dá]|vel
+arredio	adjetivo	ar|re|[di]|o
+arredondado	adjetivo	ar|re|don|[da]|do
+arredondamento	nome masculino	ar|re|don|da|[men]|to
+arredondar	verbo	ar|re|don|[dar]
+arredondável	adjetivo	ar|re|don|[dá]|vel
+arredor	advérbio	ar|re|[dor]
+arredor	adjetivo	ar|re|[dor]
+arredor	nome masculino	ar|re|[dor]
+arrefanhar	verbo	ar|re|fa|[nhar]
+arrefeçar	verbo	ar|re|fe|[çar]
+arrefecedor	adjetivo	ar|re|fe|ce|[dor]
+arrefecedor	nome masculino	ar|re|fe|ce|[dor]
+arrefecer	verbo	ar|re|fe|[cer]
+arrefecido	adjetivo	ar|re|fe|[ci]|do
+arrefecimento	nome masculino	ar|re|fe|ci|[men]|to
+arrefém	nome masculino	ar|re|[fém]
+arrefentar	verbo	ar|re|fen|[tar]
+arrefertar	verbo	ar|re|fer|[tar]
+arreforia	nome feminino	ar|re|fo|[ri]|a
+arréforo	nome masculino	ar|[ré]|fo|ro
+arregaçada	nome feminino	ar|re|ga|[ça]|da
+arregaçado	adjetivo	ar|re|ga|[ça]|do
+arregaçamento	nome masculino	ar|re|ga|ça|[men]|to

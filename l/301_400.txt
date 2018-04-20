@@ -1,0 +1,100 @@
+ladrador	adjetivo	la|dra|[dor]
+ladrador	nome masculino	la|dra|[dor]
+ladradura	nome feminino	la|dra|[du]|ra
+ladranzana	nome masculino	la|dran|[za]|na
+ladranzana	nome feminino	la|dran|[za]|na
+ladrão	adjetivo	la|[drão]
+ladrão	nome masculino	la|[drão]
+ladrar	verbo	la|[drar]
+ladraria	nome feminino	la|dra|[ri]|a
+ladravão	nome masculino	la|dra|[vão]
+ladravão	adjetivo	la|dra|[vão]
+ladravaz	nome masculino	la|dra|[vaz]
+ladravaz	adjetivo	la|dra|[vaz]
+ladriço	nome masculino	la|[dri]|ço
+ladrido	nome masculino	la|[dri]|do
+ladrilhado	adjetivo	la|dri|[lha]|do
+ladrilhador	adjetivo	la|dri|lha|[dor]
+ladrilhador	nome masculino	la|dri|lha|[dor]
+ladrilhadora	nome feminino	la|dri|lha|[do]|ra
+ladrilhagem	nome feminino	la|dri|[lha]|gem
+ladrilhar	verbo	la|dri|[lhar]
+ladrilheiro	nome masculino	la|dri|[lhei]|ro
+ladrilho	nome masculino	la|[dri]|lho
+ladripar	verbo	la|dri|[par]
+ladripo	nome masculino	la|[dri]|po
+ladrisco	nome masculino	la|[dris]|co
+ladro	adjetivo	[la]|dro
+ladro	nome masculino	[la]|dro
+ladroa	nome feminino	la|[dro]|a
+ladroaço	nome masculino	la|dro|[a]|ço
+ladroagem	nome masculino	la|dro|[a]|gem
+ladroar	verbo	la|dro|[ar]
+ladroeira	nome feminino	la|dro|[ei]|ra
+ladroeirar	verbo	la|dro|ei|[rar]
+ladroeiro	nome masculino	la|dro|[ei]|ro
+ladroíce	nome feminino	la|dro|[í]|ce
+ladrona	nome feminino	la|[dro]|na
+ladu	nome masculino	la|[du]
+lafaietense	adjetivo	la|fai|e|[ten]|se
+lafaietense	nome masculino	la|fai|e|[ten]|se
+lafaietense	nome feminino	la|fai|e|[ten]|se
+laga	nome feminino	[la]|ga
+lagaia	nome feminino	la|[gai]|a
+lagalhé	nome masculino	la|ga|[lhé]
+lagamar	nome masculino	la|ga|[mar]
+laganha	nome feminino	la|[ga]|nha
+laganhento	adjetivo	la|ga|[nhen]|to
+laganhoso	adjetivo	la|ga|[nho]|so
+lagão	nome masculino	la|[gão]
+lagar	nome masculino	la|[gar]
+lagarada	nome feminino	la|ga|[ra]|da
+lagaragem	nome feminino	la|ga|[ra]|gem
+lagareiro	nome masculino	la|ga|[rei]|ro
+lagareiro	adjetivo	la|ga|[rei]|ro
+lagareta	nome feminino	la|ga|[re]|ta
+lagariça	nome feminino	la|ga|[ri]|ça
+lagariço	adjetivo	la|ga|[ri]|ço
+lagarinho	nome masculino	la|ga|[ri]|nho
+lagarta	nome feminino	la|[gar]|ta
+lagarta-mede-palmos	nome feminino	la|gar|ta-me|de-pal|mos
+lagarteado	adjetivo	la|gar|te|[a]|do
+lagartear	verbo	la|gar|te|[ar]
+lagarteira	nome feminino	la|gar|[tei]|ra
+lagarteiro	nome masculino	la|gar|[tei]|ro
+lagartixa	nome feminino	la|gar|[ti]|xa
+lagarto	nome masculino	la|[gar]|to
+lagena	nome feminino	la|[ge]|na
+lago	nome masculino	[la]|go
+lagoa	nome feminino	la|[go]|a
+lagoa-santense	adjetivo	la|go|a-san|[ten]|se
+lagoa-santense	nome masculino	la|go|a-san|[ten]|se
+lagoa-santense	nome feminino	la|go|a-san|[ten]|se
+lagocéfalo	adjetivo	la|go|[cé]|fa|lo
+lagoeiro	nome masculino	la|go|[ei]|ro
+lagoenha	nome feminino	la|go|[e]|nha
+lagoenho	adjetivo	la|go|[e]|nho
+lagoenho	nome masculino	la|go|[e]|nho
+lagoense	nome masculino	la|go|[en]|se
+lagoense	adjetivo	la|go|[en]|se
+lagoense	nome feminino	la|go|[en]|se
+lagoftalmia	nome feminino	la|gof|tal|[mi]|a
+lagoftalmo	adjetivo	la|gof|[tal]|mo
+lagópode	nome masculino	la|[gó]|po|de
+lagópode	adjetivo	la|[gó]|po|de
+lagosta	nome feminino	la|[gos]|ta
+lagosta-das-pedras	nome feminino	la|gos|ta-das-pe|dras
+lagosteira	nome feminino	la|gos|[tei]|ra
+lagosteiro	nome masculino	la|gos|[tei]|ro
+lagosteiro	adjetivo	la|gos|[tei]|ro
+lagostim	nome masculino	la|gos|[tim]
+lagostomídeo	adjetivo	la|gos|to|[mí]|de|o
+lagostomídeo	nome masculino	la|gos|to|[mí]|de|o
+lágrima	nome feminino	[lá]|gri|ma
+lágrima-de-job	nome feminino	lá|gri|ma-de-job
+lágrima-de-nossa-senhora	nome feminino	lá|gri|ma-de-nos|sa-se|[nho]|ra
+lágrima-de-sangue	nome feminino	lá|gri|ma-de-san|gue
+lagrimação	nome feminino	la|gri|ma|[ção]
+lagrimal	adjetivo	la|gri|[mal]
+lagrimante	adjetivo	la|gri|[man]|te
+lagrimar	verbo	la|gri|[mar]

@@ -1,0 +1,100 @@
+epanortose	nome feminino	e|pa|nor|[to]|se
+epantério	adjetivo	e|pan|[té]|ri|o
+epantério	nome masculino	e|pan|[té]|ri|o
+eparco	nome masculino	e|[par]|co
+eparquia	nome feminino	e|par|[qui]|a
+epata	nome feminino	e|[pa]|ta
+epéctase	nome feminino	e|[péc]|ta|se
+epêndima	nome masculino	e|[pên]|di|ma
+ependimário	adjetivo	e|pen|di|[má]|ri|o
+ependimite	nome feminino	e|pen|di|[mi]|te
+epêntese	nome feminino	e|[pên]|te|se
+epenteticamente	advérbio	e|pen|te|ti|ca|[men]|te
+epentético	adjetivo	e|pen|[té]|ti|co
+epéolo	nome masculino	e|[pé]|o|lo
+eperlano	nome masculino	e|per|[la]|no
+epetino	adjetivo	e|pe|[ti]|no
+epetino	nome masculino	e|pe|[ti]|no
+epetrimo	adjetivo	e|pe|[tri]|mo
+epetrimo	nome masculino	e|pe|[tri]|mo
+epeu	adjetivo	e|[peu]
+epeu	nome masculino	e|[peu]
+epexegese	nome feminino	e|pe|xe|[ge]|se
+epexegético	adjetivo	e|pe|xe|[gé]|ti|co
+epíalo	adjetivo	e|[pí]|a|lo
+epiblástico	adjetivo	e|pi|[blás]|ti|co
+epiblasto	nome masculino	e|pi|[blas]|to
+epibolia	nome feminino	e|pi|bo|[li]|a
+epibólico	adjetivo	e|pi|[bó]|li|co
+epibolito	nome masculino	e|pi|bo|[li]|to
+épica	nome feminino	[é]|pi|ca
+epicálice	nome masculino	e|pi|[cá]|li|ce
+epicalícia	nome feminino	e|pi|ca|[lí]|ci|a
+epicamente	advérbio	e|pi|ca|[men]|te
+epicanto	nome masculino	e|pi|[can]|to
+epicárdio	nome masculino	e|pi|[cár]|di|o
+epicárpico	adjetivo	e|pi|[cár]|pi|co
+epicárpio	nome masculino	e|pi|[cár]|pi|o
+epicarpo	nome masculino	e|pi|[car]|po
+epicaule	adjetivo	e|pi|[cau]|le
+epicauma	nome masculino	e|pi|[cau]|ma
+epícea	nome feminino	e|[pí]|ce|a
+epicédio	nome masculino	e|pi|[cé]|di|o
+epicefalia	nome feminino	e|pi|ce|fa|[li]|a
+epicéfalo	adjetivo	e|pi|[cé]|fa|lo
+epicéfalo	nome masculino	e|pi|[cé]|fa|lo
+epiceia	nome feminino	e|pi|[cei]|a
+epiceno	adjetivo	e|pi|[ce]|no
+epicentral	adjetivo	e|pi|cen|[tral]
+epicêntrico	adjetivo	e|pi|[cên]|tri|co
+epicentro	nome masculino	e|pi|[cen]|tro
+epicerástico	adjetivo	e|pi|ce|[rás]|ti|co
+epiciclo	nome masculino	e|pi|[ci]|clo
+epicicloidal	adjetivo	e|pi|ci|cloi|[dal]
+epicicloide	nome feminino	e|pi|ci|[cloi]|de
+epiclera	nome feminino	e|pi|[cle]|ra
+epiclerato	nome masculino	e|pi|cle|[ra]|to
+epiclese	nome feminino	e|pi|[cle]|se
+epiclino	adjetivo	e|pi|[cli]|no
+epicnemídio	adjetivo	e|pic|ne|[mí]|di|o
+epicnemídio	nome masculino	e|pic|ne|[mí]|di|o
+épico	nome masculino	[é]|pi|co
+épico	adjetivo	[é]|pi|co
+epicólico	adjetivo	e|pi|[có]|li|co
+epicombio	nome masculino	e|pi|com|[bi]|o
+epícomo	nome masculino	e|[pí]|co|mo
+epicondilalgia	nome feminino	e|pi|con|di|lal|[gi]|a
+epicondilar	adjetivo	e|pi|con|di|[lar]
+epicondilite	nome feminino	e|pi|con|di|[li]|te
+epicôndilo	nome masculino	e|pi|[côn]|di|lo
+epicondilocubital	adjetivo	e|pi|con|di|lo|cu|bi|[tal]
+epicontinental	adjetivo	e|pi|con|ti|nen|[tal]
+epícopo	nome masculino	e|[pí]|co|po
+epicório	nome masculino	e|pi|[có]|ri|o
+epicórion	nome masculino	e|pi|[có]|ri|on
+epicótilo	nome masculino	e|pi|[có]|ti|lo
+epicraniano	adjetivo	e|pi|cra|ni|[a]|no
+epicrânico	adjetivo	e|pi|[crâ]|ni|co
+epicrânio	nome masculino	e|pi|[crâ]|ni|o
+epícrase	nome feminino	e|[pí]|cra|se
+epícrate	nome masculino	e|[pí]|cra|te
+epicrático	adjetivo	e|pi|[crá]|ti|co
+epícrise	nome feminino	e|[pí]|cri|se
+epicrítico	adjetivo	e|pi|[crí]|ti|co
+epícroco	nome masculino	e|[pí]|cro|co
+epictônio	adjetivo	e|pic|[tô]|ni|o
+epictónio	adjetivo	e|pic|[tó]|ni|o
+epicureia	nome feminino	e|pi|cu|[rei]|a
+epicureu	adjetivo	e|pi|cu|[reu]
+epicureu	nome masculino	e|pi|cu|[reu]
+epicurismo	nome masculino	e|pi|cu|[ris]|mo
+epicurista	adjetivo	e|pi|cu|[ris]|ta
+epicurista	nome masculino	e|pi|cu|[ris]|ta
+epicurista	nome feminino	e|pi|cu|[ris]|ta
+epicurizar	verbo	e|pi|cu|ri|[zar]
+epidáurico	adjetivo	e|pi|[dáu]|ri|co
+epidáurico	nome masculino	e|pi|[dáu]|ri|co
+epidáurio	adjetivo	e|pi|[dáu]|ri|o
+epidáurio	nome masculino	e|pi|[dáu]|ri|o
+epídema	nome masculino	e|[pí]|de|ma
+epidemia	nome feminino	e|pi|de|[mi]|a

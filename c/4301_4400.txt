@@ -1,0 +1,100 @@
+carate	nome masculino	ca|[ra]|te
+caráter	nome masculino	ca|[rá]|ter
+caraterial	adjetivo	ca|ra|te|ri|[al]
+caraterística	nome feminino	ca|ra|te|[rís]|ti|ca
+carateristicamente	advérbio	ca|ra|te|ris|ti|ca|[men]|te
+caraterístico	adjetivo	ca|ra|te|[rís]|ti|co
+caraterístico	nome masculino	ca|ra|te|[rís]|ti|co
+caraterização	nome feminino	ca|ra|te|ri|za|[ção]
+caraterizador	adjetivo	ca|ra|te|ri|za|[dor]
+caraterizador	nome masculino	ca|ra|te|ri|za|[dor]
+caraterizadora	nome feminino	ca|ra|te|ri|za|[do]|ra
+caraterizante	adjetivo	ca|ra|te|ri|[zan]|te
+caraterizar	verbo	ca|ra|te|ri|[zar]
+caraterizável	adjetivo	ca|ra|te|ri|[zá]|vel
+caraterologia	nome feminino	ca|ra|te|ro|lo|[gi]|a
+caraterológico	adjetivo	ca|ra|te|ro|[ló]|gi|co
+caratuã	nome masculino	ca|ra|tu|[ã]
+caraúba	nome feminino	ca|ra|[ú]|ba
+caraúna	nome feminino	ca|ra|[ú]|na
+caraúno	adjetivo	ca|ra|[ú]|no
+carava	nome feminino	ca|[ra]|va
+caravana	nome feminino	ca|ra|[va]|na
+caravançarai	nome masculino	ca|ra|van|ça|[rai]
+caravancerai	nome masculino	ca|ra|van|ce|[rai]
+caravaneiro	nome masculino	ca|ra|va|[nei]|ro
+caravanismo	nome masculino	ca|ra|va|[nis]|mo
+caraveiro	nome masculino	ca|ra|[vei]|ro
+caravela	nome feminino	ca|ra|[ve]|la
+caravelão	nome masculino	ca|ra|ve|[lão]
+caraveleiro	nome masculino	ca|ra|ve|[lei]|ro
+caravelha	nome feminino	ca|ra|[ve]|lha
+caravelho	nome masculino	ca|ra|[ve]|lho
+cáravo	nome masculino	[cá]|ra|vo
+caraxixu	nome masculino	ca|ra|xi|[xu]
+caraxué	nome masculino	ca|ra|xu|[é]
+carbalílico	adjetivo	car|ba|[lí]|li|co
+carbâmico	adjetivo	car|[bâ]|mi|co
+carbamida	nome feminino	car|ba|[mi]|da
+cárbaso	nome masculino	[cár]|ba|so
+carbeto	nome masculino	car|[be]|to
+carbilamina	nome feminino	car|bi|la|[mi]|na
+carbileso	adjetivo	car|bi|[le]|so
+carbileso	nome masculino	car|bi|[le]|so
+carbite	nome feminino	car|[bi]|te
+carboemoglobina	nome feminino	car|bo|e|mo|glo|[bi]|na
+carbogasoso	adjetivo	car|bo|ga|[so]|so
+carbólico	adjetivo	car|[bó]|li|co
+carbonação	nome feminino	car|bo|na|[ção]
+carbonáceo	adjetivo	car|bo|[ná]|ce|o
+carbonado	adjetivo	car|bo|[na]|do
+carbonado	nome masculino	car|bo|[na]|do
+carbonador	nome masculino	car|bo|na|[dor]
+carbonar	verbo	car|bo|[nar]
+carbonária	nome feminino	car|bo|[ná]|ri|a
+carbonário	nome masculino	car|bo|[ná]|ri|o
+carbonarismo	nome masculino	car|bo|na|[ris]|mo
+carbonatação	nome feminino	car|bo|na|ta|[ção]
+carbonatado	adjetivo	car|bo|na|[ta]|do
+carbonatar	verbo	car|bo|na|[tar]
+carbonato	nome masculino	car|bo|[na]|to
+carbone	nome masculino	car|[bo]|ne
+carbóneo	adjetivo	car|[bó]|ne|o
+carbôneo	adjetivo	car|[bô]|ne|o
+carbonetação	nome feminino	car|bo|ne|ta|[ção]
+carbonetar	verbo	car|bo|ne|[tar]
+carboneto	nome masculino	car|bo|[ne]|to
+carbônico	adjetivo	car|[bô]|ni|co
+carbónico	adjetivo	car|[bó]|ni|co
+carbonífero	adjetivo	car|bo|[ní]|fe|ro
+carbonificar	verbo	car|bo|ni|fi|[car]
+carbonilo	nome masculino	car|bo|[ni]|lo
+carbónio	nome masculino	car|[bó]|ni|o
+carbônio	nome masculino	car|[bô]|ni|o
+carbonite	nome feminino	car|bo|[ni]|te
+carbonito	nome masculino	car|bo|[ni]|to
+carbonizabilidade	nome feminino	car|bo|ni|za|bi|li|[da]|de
+carbonização	nome feminino	car|bo|ni|za|[ção]
+carbonizado	adjetivo	car|bo|ni|[za]|do
+carbonizador	adjetivo	car|bo|ni|za|[dor]
+carbonizador	nome masculino	car|bo|ni|za|[dor]
+carbonizante	adjetivo	car|bo|ni|[zan]|te
+carbonizar	verbo	car|bo|ni|[zar]
+carbonizável	adjetivo	car|bo|ni|[zá]|vel
+carbono	nome masculino	car|[bo]|no
+carbonometria	nome feminino	car|bo|no|me|[tri]|a
+carbonométrico	adjetivo	car|bo|no|[mé]|tri|co
+carbonoso	adjetivo	car|bo|[no]|so
+carborundo	nome masculino	car|bo|[run]|do
+carbossulfureto	nome masculino	car|bos|sul|fu|[re]|to
+carbossulfuroso	adjetivo	car|bos|sul|fu|[ro]|so
+carboxiemoglobina	nome feminino	car|bo|xi|e|mo|glo|[bi]|na
+carboxilato	nome masculino	car|bo|xi|[la]|to
+carboxílico	adjetivo	car|bo|[xí]|li|co
+carboxilo	nome masculino	car|bo|[xi]|lo
+carbuncular	adjetivo	car|bun|cu|[lar]
+carbúnculo	nome masculino	car|[bún]|cu|lo
+carbunculose	nome feminino	car|bun|cu|[lo]|se
+carbunculoso	adjetivo	car|bun|cu|[lo]|so
+carburação	nome feminino	car|bu|ra|[ção]
+carburador	nome masculino	car|bu|ra|[dor]

@@ -1,0 +1,100 @@
+histogéneo	adjetivo	his|to|[gé]|ne|o
+histogêneo	adjetivo	his|to|[gê]|ne|o
+histogênese	nome feminino	his|to|[gê]|ne|se
+histogénese	nome feminino	his|to|[gé]|ne|se
+histogenésico	adjetivo	his|to|ge|[né]|si|co
+histogenético	adjetivo	his|to|ge|[né]|ti|co
+histogenia	nome feminino	his|to|ge|[ni]|a
+histogênico	adjetivo	his|to|[gê]|ni|co
+histogénico	adjetivo	his|to|[gé]|ni|co
+histografia	nome feminino	his|to|gra|[fi]|a
+histográfico	adjetivo	his|to|[grá]|fi|co
+histógrafo	nome masculino	his|[tó]|gra|fo
+histograma	nome masculino	his|to|[gra]|ma
+histólise	nome feminino	his|[tó]|li|se
+histolítico	adjetivo	his|to|[lí]|ti|co
+históloga	nome feminino	his|[tó]|lo|ga
+histologia	nome feminino	his|to|lo|[gi]|a
+histológico	adjetivo	his|to|[ló]|gi|co
+histologista	adjetivo	his|to|lo|[gis]|ta
+histologista	nome masculino	his|to|lo|[gis]|ta
+histologista	nome feminino	his|to|lo|[gis]|ta
+histólogo	nome masculino	his|[tó]|lo|go
+histoma	nome masculino	his|[to]|ma
+histona	nome feminino	his|[to]|na
+histoneurologia	nome feminino	his|to|neu|ro|lo|[gi]|a
+histoneurológico	adjetivo	his|to|neu|ro|[ló]|gi|co
+histoneurologista	nome masculino	his|to|neu|ro|lo|[gis]|ta
+histoneurologista	nome feminino	his|to|neu|ro|lo|[gis]|ta
+histoneurólogo	nome masculino	his|to|neu|[ró]|lo|go
+histonomia	nome feminino	his|to|no|[mi]|a
+histonômico	adjetivo	his|to|[nô]|mi|co
+histonómico	adjetivo	his|to|[nó]|mi|co
+histopatologia	nome feminino	his|to|pa|to|lo|[gi]|a
+histopatológico	adjetivo	his|to|pa|to|[ló]|gi|co
+histoplasma	nome masculino	his|to|[plas]|ma
+histoplasmose	nome feminino	his|to|plas|[mo]|se
+histoquímica	nome feminino	his|to|[quí]|mi|ca
+histoquímico	adjetivo	his|to|[quí]|mi|co
+história	nome feminino	his|[tó]|ri|a
+historiada	nome feminino	his|to|ri|[a]|da
+historiado	adjetivo	his|to|ri|[a]|do
+historiador	nome masculino	his|to|ri|a|[dor]
+historiadora	nome feminino	his|to|ri|a|[do]|ra
+historial	adjetivo	his|to|ri|[al]
+historial	nome masculino	his|to|ri|[al]
+historiar	verbo	his|to|ri|[ar]
+historiável	adjetivo	his|to|ri|[á]|vel
+historicamente	advérbio	his|to|ri|ca|[men]|te
+historicidade	nome feminino	his|to|ri|ci|[da]|de
+historicismo	nome masculino	his|to|ri|[cis]|mo
+historicista	adjetivo	his|to|ri|[cis]|ta
+historicista	nome masculino	his|to|ri|[cis]|ta
+historicista	nome feminino	his|to|ri|[cis]|ta
+historicístico	adjetivo	his|to|ri|[cís]|ti|co
+histórico	adjetivo	his|[tó]|ri|co
+histórico	nome masculino	his|[tó]|ri|co
+histórico-comparativo	adjetivo	his|tó|ri|co-com|pa|ra|[ti]|vo
+histórico-cultural	adjetivo	his|tó|ri|co-cul|tu|[ral]
+histórico-etimológico	adjetivo	his|tó|ri|co-e|ti|mo|[ló]|gi|co
+histórico-filosófico	adjetivo	his|tó|ri|co-fi|lo|[só]|fi|co
+histórico-geográfico	adjetivo	his|tó|ri|co-ge|o|[grá]|fi|co
+histórico-linguístico	adjetivo	his|tó|ri|co-lin|[guís]|ti|co
+histórico-literário	adjetivo	his|tó|ri|co-li|te|[rá]|ri|o
+histórico-natural	adjetivo	his|tó|ri|co-na|tu|[ral]
+histórico-social	adjetivo	his|tó|ri|co-so|ci|[al]
+historieiro	adjetivo	his|to|ri|[ei]|ro
+historiento	adjetivo	his|to|ri|[en]|to
+historieta	nome feminino	his|to|ri|[e]|ta
+historiografia	nome feminino	his|to|ri|o|gra|[fi]|a
+historiográfico	adjetivo	his|to|ri|o|[grá]|fi|co
+historiógrafo	nome masculino	his|to|ri|[ó]|gra|fo
+historíola	nome feminino	his|to|[rí]|o|la
+historiologia	nome feminino	his|to|ri|o|lo|[gi]|a
+historiológico	adjetivo	his|to|ri|o|[ló]|gi|co
+historismo	nome masculino	his|to|[ris]|mo
+historista	adjetivo	his|to|[ris]|ta
+historista	nome masculino	his|to|[ris]|ta
+historista	nome feminino	his|to|[ris]|ta
+historiúncula	nome feminino	his|to|ri|[ún]|cu|la
+historizar	verbo	his|to|ri|[zar]
+histotomia	nome feminino	his|to|to|[mi]|a
+histotômico	adjetivo	his|to|[tô]|mi|co
+histotómico	adjetivo	his|to|[tó]|mi|co
+histotomista	adjetivo	his|to|to|[mis]|ta
+histotomista	nome masculino	his|to|to|[mis]|ta
+histotomista	nome feminino	his|to|to|[mis]|ta
+histótomo	nome masculino	his|[tó]|to|mo
+histótribo	nome masculino	his|[tó]|tri|bo
+histotripsia	nome feminino	his|to|trip|[si]|a
+histotromia	nome feminino	his|to|tro|[mi]|a
+histrião	nome masculino	his|tri|[ão]
+histrícida	nome masculino	his|[trí]|ci|da
+histrícida	nome masculino	his|[trí]|ci|da
+histricídeo	nome masculino	his|tri|[cí]|de|o
+histricídeo	nome masculino	his|tri|[cí]|de|o
+histricídeo	adjetivo	his|tri|[cí]|de|o
+histrionia	nome feminino	his|tri|o|[ni]|a
+histrionicamente	advérbio	his|tri|o|ni|ca|[men]|te
+histrionice	nome feminino	his|tri|o|[ni]|ce
+histriônico	adjetivo	his|tri|[ô]|ni|co

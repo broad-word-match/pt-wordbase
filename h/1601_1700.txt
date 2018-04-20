@@ -1,0 +1,100 @@
+heterogamia	nome feminino	he|te|ro|ga|[mi]|a
+heterogâmico	adjetivo	he|te|ro|[gâ]|mi|co
+heterógamo	adjetivo	he|te|[ró]|ga|mo
+heterogeneamente	advérbio	he|te|ro|ge|ne|a|[men]|te
+heterogeneidade	nome feminino	he|te|ro|ge|nei|[da]|de
+heterogeneização	nome feminino	he|te|ro|ge|nei|za|[ção]
+heterogeneizado	adjetivo	he|te|ro|ge|nei|[za]|do
+heterogeneizador	adjetivo	he|te|ro|ge|nei|za|[dor]
+heterogeneizador	nome masculino	he|te|ro|ge|nei|za|[dor]
+heterogeneizante	adjetivo	he|te|ro|ge|nei|[zan]|te
+heterogeneizar	verbo	he|te|ro|ge|nei|[zar]
+heterogéneo	adjetivo	he|te|ro|[gé]|ne|o
+heterogêneo	adjetivo	he|te|ro|[gê]|ne|o
+heterogênese	nome feminino	he|te|ro|[gê]|ne|se
+heterogénese	nome feminino	he|te|ro|[gé]|ne|se
+heterogenesia	nome feminino	he|te|ro|ge|ne|[si]|a
+heterogenésico	adjetivo	he|te|ro|ge|[né]|si|co
+heterogenético	adjetivo	he|te|ro|ge|[né]|ti|co
+heterogenia	nome feminino	he|te|ro|ge|[ni]|a
+heterogênico	adjetivo	he|te|ro|[gê]|ni|co
+heterogénico	adjetivo	he|te|ro|[gé]|ni|co
+heterógino	adjetivo	he|te|[ró]|gi|no
+heterógino	nome masculino	he|te|[ró]|gi|no
+heterogonia	nome feminino	he|te|ro|go|[ni]|a
+heterógono	adjetivo	he|te|[ró]|go|no
+heteroide	adjetivo	he|te|[roi]|de
+heteroinfeção	nome feminino	he|te|ro|in|fe|[ção]
+heteroinfecção	nome feminino	he|te|ro|in|fec|[ção]
+heterolécito	adjetivo	he|te|ro|[lé]|ci|to
+heterólobo	adjetivo	he|te|[ró]|lo|bo
+heterologia	nome feminino	he|te|ro|lo|[gi]|a
+heterólogo	adjetivo	he|te|[ró]|lo|go
+heterômero	adjetivo	he|te|[rô]|me|ro
+heterómero	nome masculino	he|te|[ró]|me|ro
+heterômero	nome masculino	he|te|[rô]|me|ro
+heterómero	adjetivo	he|te|[ró]|me|ro
+heterometabólico	adjetivo	he|te|ro|me|ta|[bó]|li|co
+heterometria	nome feminino	he|te|ro|me|[tri]|a
+heterométrico	adjetivo	he|te|ro|[mé]|tri|co
+heteromorfia	nome feminino	he|te|ro|mor|[fi]|a
+heteromórfico	adjetivo	he|te|ro|[mór]|fi|co
+heteromorfismo	nome masculino	he|te|ro|mor|[fis]|mo
+heteromorfite	nome feminino	he|te|ro|mor|[fi]|te
+heteromorfo	nome masculino	he|te|ro|[mor]|fo
+heteromorfo	adjetivo	he|te|ro|[mor]|fo
+heteromorfose	nome feminino	he|te|ro|mor|[fo]|se
+heteronímia	nome feminino	he|te|ro|[ní]|mi|a
+heteronímico	adjetivo	he|te|ro|[ní]|mi|co
+heterónimo	adjetivo	he|te|[ró]|ni|mo
+heterônimo	adjetivo	he|te|[rô]|ni|mo
+heterônimo	nome masculino	he|te|[rô]|ni|mo
+heterónimo	nome masculino	he|te|[ró]|ni|mo
+heteronomia	nome feminino	he|te|ro|no|[mi]|a
+heteronômico	adjetivo	he|te|ro|[nô]|mi|co
+heteronómico	adjetivo	he|te|ro|[nó]|mi|co
+heterónomo	adjetivo	he|te|[ró]|no|mo
+heterônomo	adjetivo	he|te|[rô]|no|mo
+heteronuclear	adjetivo	he|te|ro|nu|cle|[ar]
+heteropagia	nome feminino	he|te|ro|pa|[gi]|a
+heterópago	adjetivo	he|te|[ró]|pa|go
+heteropatia	nome feminino	he|te|ro|pa|[ti]|a
+heteropático	adjetivo	he|te|ro|[pá]|ti|co
+heteropétalo	adjetivo	he|te|ro|[pé]|ta|lo
+heteroplasia	nome feminino	he|te|ro|pla|[si]|a
+heteroplásico	adjetivo	he|te|ro|[plá]|si|co
+heteroplasma	nome masculino	he|te|ro|[plas]|ma
+heteroplastia	nome feminino	he|te|ro|plas|[ti]|a
+heteroplástico	adjetivo	he|te|ro|[plás]|ti|co
+heterópode	adjetivo	he|te|[ró]|po|de
+heterópode	nome masculino	he|te|[ró]|po|de
+heteropolar	adjetivo	he|te|ro|po|[lar]
+heteróporo	adjetivo	he|te|[ró]|po|ro
+heteroproteína	nome feminino	he|te|ro|pro|te|[í]|na
+heteróptero	adjetivo	he|te|[róp]|te|ro
+heteróptero	nome masculino	he|te|[róp]|te|ro
+heterorgânico	adjetivo	he|te|ror|[gâ]|ni|co
+heterorréctico	adjetivo	he|te|ror|[réc]|ti|co
+heterorrético	adjetivo	he|te|ror|[ré]|ti|co
+heterorrexia	nome feminino	he|te|ror|re|[xi]|a
+heteróscio	nome masculino	he|te|[rós]|ci|o
+heteróscio	adjetivo	he|te|[rós]|ci|o
+heteroscopia	nome feminino	he|te|ros|co|[pi]|a
+heterósido	nome masculino	he|te|[ró]|si|do
+heterospóreo	adjetivo	he|te|ros|[pó]|re|o
+heterospórico	adjetivo	he|te|ros|[pó]|ri|co
+heterossepsia	nome feminino	he|te|ros|sep|[si]|a
+heterosséptico	adjetivo	he|te|ros|[sép]|ti|co
+heterossético	adjetivo	he|te|ros|[sé]|ti|co
+heterossexual	nome masculino	he|te|ros|se|xu|[al]
+heterossexual	adjetivo	he|te|ros|se|xu|[al]
+heterossexual	nome feminino	he|te|ros|se|xu|[al]
+heterossexualidade	nome feminino	he|te|ros|se|xu|a|li|[da]|de
+heterossilábico	adjetivo	he|te|ros|si|[lá]|bi|co
+heterossomo	adjetivo	he|te|ros|[so]|mo
+heterostilia	nome feminino	he|te|ros|ti|[li]|a
+heterostilo	adjetivo	he|te|ros|[ti]|lo
+heterotáctico	adjetivo	he|te|ro|[tác]|ti|co
+heterotálico	adjetivo	he|te|ro|[tá]|li|co
+heterotalismo	nome masculino	he|te|ro|ta|[lis]|mo
+heterotático	adjetivo	he|te|ro|[tá]|ti|co

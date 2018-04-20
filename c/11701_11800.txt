@@ -1,0 +1,100 @@
+coalhada	nome feminino	co|a|[lha]|da
+coalhado	adjetivo	co|a|[lha]|do
+coalhadoiro	nome masculino	co|a|lha|[doi]|ro
+coalhadouro	nome masculino	co|a|lha|[dou]|ro
+coalhadura	nome feminino	co|a|lha|[du]|ra
+coalhamento	nome masculino	co|a|lha|[men]|to
+coalhar	verbo	co|a|[lhar]
+coalheira	nome feminino	co|a|[lhei]|ra
+coalho	nome masculino	co|[a]|lho
+coalizão	nome feminino	co|a|li|[zão]
+coalizar	verbo	co|a|li|[zar]
+coaluno	nome masculino	co|a|[lu]|no
+coanha	nome feminino	co|[a]|nha
+coanhar	verbo	co|a|[nhar]
+coanho	nome masculino	co|[a]|nho
+coanhos	nome masculino	co|[a]|nhos
+coano	adjetivo	co|[a]|no
+coano	nome masculino	co|[a]|no
+cóano	nome masculino	[có]|a|no
+coanócito	nome masculino	co|a|[nó]|ci|to
+coanoide	adjetivo	co|a|[noi]|de
+coapóstolo	nome masculino	co|a|[pós]|to|lo
+coaptação	nome feminino	co|ap|ta|[ção]
+coaptar	verbo	co|ap|[tar]
+coaptidão	nome feminino	co|ap|ti|[dão]
+coaquisição	nome feminino	co|a|qui|si|[ção]
+coar	verbo	co|[ar]
+coarctação	nome feminino	co|arc|ta|[ção]
+coarctada	nome feminino	co|arc|[ta]|da
+coarctar	verbo	co|arc|[tar]
+coarctativo	adjetivo	co|arc|ta|[ti]|vo
+coarguida	nome feminino	co|ar|[gui]|da
+coarguido	nome masculino	co|ar|[gui]|do
+coarrendador	nome masculino	co|ar|ren|da|[dor]
+coarrendamento	nome masculino	co|ar|ren|da|[men]|to
+coarrendar	verbo	co|ar|ren|[dar]
+coarrendatária	nome feminino	co|ar|ren|da|[tá]|ri|a
+coarrendatário	nome masculino	co|ar|ren|da|[tá]|ri|o
+coartação	nome feminino	co|ar|ta|[ção]
+coartada	nome feminino	co|ar|[ta]|da
+coartar	verbo	co|ar|[tar]
+coartativo	adjetivo	co|ar|ta|[ti]|vo
+coassociado	nome masculino	co|as|so|ci|[a]|do
+coatá	nome masculino	co|a|[tá]
+coatar	verbo	co|a|[tar]
+coati	nome masculino	co|a|[ti]
+coátil	adjetivo	co|[á]|til
+coativamente	advérbio	co|a|ti|va|[men]|te
+coatividade	nome feminino	co|a|ti|vi|[da]|de
+coativo	adjetivo	co|a|[ti]|vo
+coato	adjetivo	co|[a]|to
+coator	adjetivo	co|a|[tor]
+coator	nome masculino	co|a|[tor]
+coatora	nome feminino	co|a|[to]|ra
+coatra	adjetivo	co|[a]|tra
+coatra	nome masculino	co|[a]|tra
+coatra	nome feminino	co|[a]|tra
+coautor	nome masculino	co|au|[tor]
+coautora	nome feminino	co|au|[to]|ra
+coautoria	nome feminino	co|au|to|[ri]|a
+coável	adjetivo	co|[á]|vel
+coaxação	nome feminino	co|a|xa|[ção]
+coaxada	nome feminino	co|a|[xa]|da
+coaxante	adjetivo	co|a|[xan]|te
+coaxar	verbo	co|a|[xar]
+coaxial	adjetivo	co|a|xi|[al]
+coaxo	nome masculino	co|[a]|xo
+coba	nome feminino	[co]|ba
+cobaia	nome feminino	co|[bai]|a
+cobaio	nome masculino	co|[bai]|o
+cobaltagem	nome feminino	co|bal|[ta]|gem
+cobáltico	adjetivo	co|[bál]|ti|co
+cobaltífero	adjetivo	co|bal|[tí]|fe|ro
+cobaltina	nome feminino	co|bal|[ti]|na
+cobaltita	nome feminino	co|bal|[ti]|ta
+cobaltite	nome feminino	co|bal|[ti]|te
+cobaltizagem	nome feminino	co|bal|ti|[za]|gem
+cobaltizar	verbo	co|bal|ti|[zar]
+cobalto	nome masculino	co|[bal]|to
+cobaltoso	adjetivo	co|bal|[to]|so
+cobaltoterapia	nome feminino	co|bal|to|te|ra|[pi]|a
+cobaltoterápico	adjetivo	co|bal|to|te|[rá]|pi|co
+cobarde	adjetivo	co|[bar]|de
+cobarde	nome masculino	co|[bar]|de
+cobarde	nome feminino	co|[bar]|de
+cobardemente	advérbio	co|bar|de|[men]|te
+cobardia	nome feminino	co|bar|[di]|a
+cobardice	nome feminino	co|bar|[di]|ce
+cobardolas	nome masculino	co|bar|[do]|las
+cobardolas	nome feminino	co|bar|[do]|las
+cobardolas	adjetivo	co|bar|[do]|las
+cobeia	nome feminino	co|[bei]|a
+coberta	nome feminino	co|[ber]|ta
+cobertalho	nome masculino	co|ber|[ta]|lho
+coberteira	nome feminino	co|ber|[tei]|ra
+coberteiras	nome feminino	co|ber|[tei]|ras
+coberto	adjetivo	co|[ber]|to
+coberto	nome masculino	co|[ber]|to
+cobertor	nome masculino	co|ber|[tor]
+cobertoura	nome feminino	co|ber|[tou]|ra

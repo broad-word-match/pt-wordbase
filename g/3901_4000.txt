@@ -1,0 +1,100 @@
+governamento	nome masculino	go|ver|na|[men]|to
+governança	nome feminino	go|ver|[nan]|ça
+governanta	nome feminino	go|ver|[nan]|ta
+governante	nome masculino	go|ver|[nan]|te
+governante	adjetivo	go|ver|[nan]|te
+governante	nome feminino	go|ver|[nan]|te
+governar	verbo	go|ver|[nar]
+governativo	adjetivo	go|ver|na|[ti]|vo
+governatório	adjetivo	go|ver|na|[tó]|ri|o
+governatriz	nome feminino	go|ver|na|[triz]
+governável	adjetivo	go|ver|[ná]|vel
+governichar	verbo	go|ver|ni|[char]
+governicho	nome masculino	go|ver|[ni]|cho
+governículo	nome masculino	go|ver|[ní]|cu|lo
+governismo	nome masculino	go|ver|[nis]|mo
+governista	nome masculino	go|ver|[nis]|ta
+governista	adjetivo	go|ver|[nis]|ta
+governista	nome feminino	go|ver|[nis]|ta
+governístico	adjetivo	go|ver|[nís]|ti|co
+governo	nome masculino	go|[ver]|no
+governo-geral	nome masculino	go|ver|no-ge|[ral]
+governo-sombra	nome masculino	go|ver|no-som|bra
+goveta	nome feminino	go|[ve]|ta
+govete	nome masculino	go|[ve]|te
+gozação	nome feminino	go|za|[ção]
+gozado	adjetivo	go|[za]|do
+gozão	nome masculino	go|[zão]
+gozão	adjetivo	go|[zão]
+gozar	verbo	go|[zar]
+gozo	nome masculino	[go]|zo
+gozona	nome feminino	go|[zo]|na
+gozosamente	advérbio	go|zo|sa|[men]|te
+gozoso	adjetivo	go|[zo]|so
+grã	nome feminino	[grã]
+grã-besta	nome feminino	grã-bes|ta
+grã-cruz	nome feminino	[grã-cruz]
+grã-cruz	nome masculino	[grã-cruz]
+grã-delfim	nome masculino	grã-del|[fim]
+grã-ducado	nome masculino	grã-du|[ca]|do
+grã-ducal	adjetivo	grã-du|[cal]
+grã-duque	nome masculino	grã-du|que
+grã-duquesa	nome feminino	grã-du|[que]|sa
+grã-fino	nome masculino	grã-fi|no
+grã-marechal	nome masculino	grã-ma|re|[chal]
+grã-mestrado	nome masculino	grã-mes|[tra]|do
+grã-mestre	nome masculino	grã-mes|tre
+grã-prior	nome masculino	grã-pri|[or]
+grã-priorado	nome masculino	grã-pri|o|[ra]|do
+grã-sacerdote	nome masculino	grã-sa|cer|[do]|te
+grã-tinhoso	nome masculino	grã-ti|[nho]|so
+grã-turco	nome masculino	grã-tur|co
+grã-vizir	nome masculino	grã-vi|[zir]
+graal	nome masculino	gra|[al]
+grabatério	nome masculino	gra|ba|[té]|ri|o
+grabato	nome masculino	gra|[ba]|to
+graben	nome masculino	gra|[ben]
+grabosa	nome feminino	gra|[bo]|sa
+graça	nome feminino	[gra]|ça
+gracejador	adjetivo	gra|ce|ja|[dor]
+gracejador	nome masculino	gra|ce|ja|[dor]
+gracejadora	nome feminino	gra|ce|ja|[do]|ra
+gracejante	adjetivo	gra|ce|[jan]|te
+gracejar	verbo	gra|ce|[jar]
+gracejo	nome masculino	gra|[ce]|jo
+graceta	nome feminino	gra|[ce]|ta
+graciano	nome masculino	gra|ci|[a]|no
+gracianopolitano	adjetivo	gra|ci|a|no|po|li|[ta]|no
+gracianopolitano	nome masculino	gra|ci|a|no|po|li|[ta]|no
+grácil	adjetivo	[grá]|cil
+gracilidade	nome feminino	gra|ci|li|[da]|de
+gracilifoliado	adjetivo	gra|ci|li|fo|li|[a]|do
+gracílimo	adjetivo	gra|[cí]|li|mo
+gracilípede	adjetivo	gra|ci|[lí]|pe|de
+gracilirrostro	adjetivo	gra|ci|lir|[ros]|tro
+gracilmente	advérbio	gra|cil|[men]|te
+gracinha	nome feminino	gra|[ci]|nha
+gracíola	nome feminino	gra|[cí]|o|la
+graciolada	nome feminino	gra|ci|o|[la]|da
+graciolado	adjetivo	gra|ci|o|[la]|do
+graciolina	nome feminino	gra|ci|o|[li]|na
+graciosa	nome feminino	gra|ci|[o]|sa
+graciosamente	advérbio	gra|ci|o|sa|[men]|te
+graciosense	nome masculino	gra|ci|o|[sen]|se
+graciosense	adjetivo	gra|ci|o|[sen]|se
+graciosense	nome feminino	gra|ci|o|[sen]|se
+graciosidade	nome feminino	gra|ci|o|si|[da]|de
+gracioso	nome masculino	gra|ci|[o]|so
+gracioso	adjetivo	gra|ci|[o]|so
+gracitar	verbo	gra|ci|[tar]
+graçola	nome masculino	gra|[ço]|la
+graçola	nome feminino	gra|[ço]|la
+graçolar	verbo	gra|ço|[lar]
+gracuritano	adjetivo	gra|cu|ri|[ta]|no
+gracuritano	nome masculino	gra|cu|ri|[ta]|no
+grada	nome feminino	[gra]|da
+gradação	nome feminino	gra|da|[ção]
+gradador	nome masculino	gra|da|[dor]
+gradadura	nome feminino	gra|da|[du]|ra
+gradagem	nome feminino	gra|[da]|gem
+gradar	verbo	gra|[dar]

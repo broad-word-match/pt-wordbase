@@ -1,0 +1,100 @@
+tuiuca	nome feminino	tui|[u]|ca
+tuiuiú	nome masculino	tui|ui|[ú]
+tuiupara	nome masculino	tui|u|[pa]|ra
+tuiutuiú	nome masculino	tui|u|tui|[ú]
+tuja	nome feminino	[tu]|ja
+túji	nome masculino	[tú]|ji
+tujuba	nome feminino	tu|[ju]|ba
+tujuca	nome feminino	tu|[ju]|ca
+tujuco	nome masculino	tu|[ju]|co
+tujumirim	nome masculino	tu|ju|mi|[rim]
+tujupar	nome masculino	tu|ju|[par]
+tujupi	nome masculino	tu|ju|[pi]
+tujuva	nome feminino	tu|[ju]|va
+tulangue	nome masculino	tu|[lan]|gue
+tule	nome masculino	[tu]|le
+tulha	nome feminino	[tu]|lha
+tulheira	nome feminino	tu|[lhei]|ra
+tulheiro	adjetivo	tu|[lhei]|ro
+tuliano	adjetivo	tu|li|[a]|no
+tulingo	adjetivo	tu|[lin]|go
+tulingo	nome masculino	tu|[lin]|go
+túlio	nome masculino	[tú]|li|o
+tulipa	nome feminino	tu|[li]|pa
+túlipa	nome feminino	[tú]|li|pa
+tulipáceo	adjetivo	tu|li|[pá]|ce|o
+tulípea	nome feminino	tu|[lí]|pe|a
+tulipeira	nome feminino	tu|li|[pei]|ra
+tulipeiro	nome masculino	tu|li|[pei]|ro
+tulipífero	adjetivo	tu|li|[pí]|fe|ro
+tulipomania	nome feminino	tu|li|po|ma|[ni]|a
+tulipomaníaco	adjetivo	tu|li|po|ma|[ní]|a|co
+tulipomaníaco	nome masculino	tu|li|po|ma|[ní]|a|co
+tulipómano	nome masculino	tu|li|[pó]|ma|no
+tulipômano	nome masculino	tu|li|[pô]|ma|no
+tulo	nome masculino	[tu]|lo
+tulocarpo	nome masculino	tu|lo|[car]|po
+túluva	nome masculino	[tú]|lu|va
+tum	interjeição	[tum]
+tumba	nome feminino	[tum]|ba
+tumba	interjeição	[tum]|ba
+tumba	nome masculino	[tum]|ba
+tumba-catatumba	interjeição	tum|ba-ca|ta|[tum]|ba
+tumbal	adjetivo	tum|[bal]
+tumbança	nome feminino	tum|[ban]|ça
+tumbar	verbo	tum|[bar]
+tumbeiro	adjetivo	tum|[bei]|ro
+tumbeiro	nome masculino	tum|[bei]|ro
+tumbice	nome feminino	tum|[bi]|ce
+tumbinho	nome masculino	tum|[bi]|nho
+tumbo	nome masculino	[tum]|bo
+tumefação	nome feminino	tu|me|fa|[ção]
+tumefacção	nome feminino	tu|me|fac|[ção]
+tumefaciente	adjetivo	tu|me|fa|ci|[en]|te
+tumefacto	adjetivo	tu|me|[fac]|to
+tumefato	adjetivo	tu|me|[fa]|to
+tumefazer	verbo	tu|me|fa|[zer]
+tumefeito	adjetivo	tu|me|[fei]|to
+tumeficante	adjetivo	tu|me|fi|[can]|te
+tumeficar	verbo	tu|me|fi|[car]
+tumente	adjetivo	tu|[men]|te
+tumescência	nome feminino	tu|mes|[cên]|ci|a
+tumescente	adjetivo	tu|mes|[cen]|te
+tumescer	verbo	tu|mes|[cer]
+tumescimento	nome masculino	tu|mes|ci|[men]|to
+tumidamente	advérbio	tu|mi|da|[men]|te
+tumidez	nome feminino	tu|mi|[dez]
+tumideza	nome feminino	tu|mi|[de]|za
+tumidificar	verbo	tu|mi|di|fi|[car]
+túmido	adjetivo	[tú]|mi|do
+tumor	nome masculino	tu|[mor]
+tumoral	adjetivo	tu|mo|[ral]
+tumorização	nome feminino	tu|mo|ri|za|[ção]
+tumoroso	adjetivo	tu|mo|[ro]|so
+tumular	adjetivo	tu|mu|[lar]
+tumular	verbo	tu|mu|[lar]
+tumulário	adjetivo	tu|mu|[lá]|ri|o
+tumulização	nome feminino	tu|mu|li|za|[ção]
+tumulizar	verbo	tu|mu|li|[zar]
+túmulo	nome masculino	[tú]|mu|lo
+tumulto	nome masculino	tu|[mul]|to
+tumultuado	adjetivo	tu|mul|tu|[a]|do
+tumultuador	adjetivo	tu|mul|tu|a|[dor]
+tumultuador	nome masculino	tu|mul|tu|a|[dor]
+tumultuadora	nome feminino	tu|mul|tu|a|[do]|ra
+tumultuante	adjetivo	tu|mul|tu|[an]|te
+tumultuar	verbo	tu|mul|tu|[ar]
+tumultuariamente	advérbio	tu|mul|tu|a|ri|a|[men]|te
+tumultuário	adjetivo	tu|mul|tu|[á]|ri|o
+tumultuosamente	advérbio	tu|mul|tu|o|sa|[men]|te
+tumultuoso	adjetivo	tu|mul|tu|[o]|so
+tumungão	nome masculino	tu|mun|[gão]
+tuna	nome feminino	[tu]|na
+tuna	nome masculino	[tu]|na
+tunador	adjetivo	tu|na|[dor]
+tunador	nome masculino	tu|na|[dor]
+tunal	nome masculino	tu|[nal]
+tunantagem	nome feminino	tu|nan|[ta]|gem
+tunantaria	nome feminino	tu|nan|ta|[ri]|a
+tunante	adjetivo	tu|[nan]|te
+tunante	nome masculino	tu|[nan]|te

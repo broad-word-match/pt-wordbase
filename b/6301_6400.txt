@@ -1,0 +1,100 @@
+braçadeira	nome feminino	bra|ça|[dei]|ra
+braçado	nome masculino	bra|[ça]|do
+braçadura	nome feminino	bra|ça|[du]|ra
+braçagem	nome feminino	bra|[ça]|gem
+braçal	nome masculino	bra|[çal]
+braçal	adjetivo	bra|[çal]
+braçalmente	advérbio	bra|çal|[men]|te
+bracamarte	nome masculino	bra|ca|[mar]|te
+brácara	nome feminino	[brá]|ca|ra
+bracaraugustano	nome masculino	bra|ca|rau|gus|[ta]|no
+bracaraugustano	adjetivo	bra|ca|rau|gus|[ta]|no
+bracarense	nome masculino	bra|ca|[ren]|se
+bracarense	adjetivo	bra|ca|[ren]|se
+bracarense	nome feminino	bra|ca|[ren]|se
+braçaria	nome feminino	bra|ça|[ri]|a
+brácaro	adjetivo	[brá]|ca|ro
+brácaro	nome masculino	[brá]|ca|ro
+braceagem	nome feminino	bra|ce|[a]|gem
+bracear	verbo	bra|ce|[ar]
+braceira	nome feminino	bra|[cei]|ra
+braceiro	adjetivo	bra|[cei]|ro
+braceiro	nome masculino	bra|[cei]|ro
+bracejador	adjetivo	bra|ce|ja|[dor]
+bracejamento	nome masculino	bra|ce|ja|[men]|to
+bracejante	adjetivo	bra|ce|[jan]|te
+bracejar	verbo	bra|ce|[jar]
+bracejo	nome masculino	bra|[ce]|jo
+bracel	nome masculino	bra|[cel]
+braceleira	nome feminino	bra|ce|[lei]|ra
+bracelete	nome masculino	bra|ce|[le]|te
+bracelões	nome masculino	bra|ce|[lões]
+bracelote	nome masculino	bra|ce|[lo]|te
+bracicândido	adjetivo	bra|ci|[cân]|di|do
+bracicurto	adjetivo	bra|ci|[cur]|to
+bracilonga	nome feminino	bra|ci|[lon]|ga
+braço	nome masculino	[bra]|ço
+braço de armas	nome masculino	[bra]|ço de ar|mas
+braço de ferro	nome masculino	[bra]|ço de fer|ro
+braço-de-mono	nome masculino	bra|ço-de-mo|no
+braço-de-preguiça	nome masculino	bra|ço-de-pre|[gui]|ça
+braçolas	nome feminino	bra|[ço]|las
+bráctea	nome feminino	[brác]|te|a
+bracteado	adjetivo	brac|te|[a]|do
+bracteal	adjetivo	brac|te|[al]
+bracteífero	adjetivo	brac|te|[í]|fe|ro
+bracteiforme	adjetivo	brac|tei|[for]|me
+bractéola	nome feminino	brac|[té]|o|la
+bracteolado	adjetivo	brac|te|o|[la]|do
+bracteolar	adjetivo	brac|te|o|[lar]
+bracteoso	adjetivo	brac|te|[o]|so
+braçudo	adjetivo	bra|[çu]|do
+bracuí	nome masculino	bra|cu|[í]
+brada	nome masculino	[bra]|da
+bradado	nome masculino	bra|[da]|do
+bradado	adjetivo	bra|[da]|do
+bradador	adjetivo	bra|da|[dor]
+bradador	nome masculino	bra|da|[dor]
+bradados	nome masculino	bra|[da]|dos
+bradal	nome masculino	bra|[dal]
+bradante	adjetivo	bra|[dan]|te
+bradar	verbo	bra|[dar]
+bradejar	verbo	bra|de|[jar]
+bradiartria	nome feminino	bra|di|ar|[tri]|a
+bradiártrico	adjetivo	bra|di|[ár]|tri|co
+bradicardia	nome feminino	bra|di|car|[di]|a
+bradicardíaco	nome masculino	bra|di|car|[dí]|a|co
+bradicardíaco	adjetivo	bra|di|car|[dí]|a|co
+bradicárdico	adjetivo	bra|di|[cár]|di|co
+bradicinese	nome feminino	bra|di|ci|[ne]|se
+bradicinesia	nome feminino	bra|di|ci|ne|[si]|a
+bradifasia	nome feminino	bra|di|fa|[si]|a
+bradifásico	nome masculino	bra|di|[fá]|si|co
+bradifásico	adjetivo	bra|di|[fá]|si|co
+bradifático	adjetivo	bra|di|[fá]|ti|co
+bradifemia	nome feminino	bra|di|fe|[mi]|a
+bradifémico	adjetivo	bra|di|[fé]|mi|co
+bradifémico	nome masculino	bra|di|[fé]|mi|co
+bradifêmico	adjetivo	bra|di|[fê]|mi|co
+bradifêmico	nome masculino	bra|di|[fê]|mi|co
+bradiglossia	nome feminino	bra|di|glos|[si]|a
+bradigrafia	nome feminino	bra|di|gra|[fi]|a
+bradilalia	nome feminino	bra|di|la|[li]|a
+bradilálico	adjetivo	bra|di|[lá]|li|co
+bradilálico	nome masculino	bra|di|[lá]|li|co
+bradilexia	nome feminino	bra|di|le|[xi]|a
+bradipepsia	nome feminino	bra|di|pep|[si]|a
+bradipéptico	adjetivo	bra|di|[pép]|ti|co
+bradipneia	nome feminino	bra|dip|[nei]|a
+bradipneico	adjetivo	bra|dip|[nei]|co
+bradípode	adjetivo	bra|[dí]|po|de
+bradípode	nome masculino	bra|[dí]|po|de
+bradissismo	nome masculino	bra|dis|[sis]|mo
+braditrofia	nome feminino	bra|di|tro|[fi]|a
+braditrófico	adjetivo	bra|di|[tró]|fi|co
+brado	nome masculino	[bra]|do
+bradório	nome masculino	bra|[dó]|ri|o
+braga	nome feminino	[bra]|ga
+bragada	nome feminino	bra|[ga]|da
+bragádiga	nome feminino	bra|[gá]|di|ga
+bragado	nome masculino	bra|[ga]|do

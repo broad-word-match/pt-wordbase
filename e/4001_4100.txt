@@ -1,0 +1,100 @@
+engaiolado	adjetivo	en|gai|o|[la]|do
+engaiolamento	nome masculino	en|gai|o|la|[men]|to
+engaiolar	verbo	en|gai|o|[lar]
+engajada	nome feminino	en|ga|[ja]|da
+engajado	adjetivo	en|ga|[ja]|do
+engajado	nome masculino	en|ga|[ja]|do
+engajador	adjetivo	en|ga|ja|[dor]
+engajador	nome masculino	en|ga|ja|[dor]
+engajadora	nome feminino	en|ga|ja|[do]|ra
+engajamento	nome masculino	en|ga|ja|[men]|to
+engajar	verbo	en|ga|[jar]
+engajatado	adjetivo	en|ga|ja|[ta]|do
+engajavatado	adjetivo	en|ga|ja|va|[ta]|do
+engalanado	adjetivo	en|ga|la|[na]|do
+engalanar	verbo	en|ga|la|[nar]
+engalar	verbo	en|ga|[lar]
+engaldrapar	verbo	en|gal|dra|[par]
+engaldripar	verbo	en|gal|dri|[par]
+engalfinhamento	nome masculino	en|gal|fi|nha|[men]|to
+engalfinhar	verbo	en|gal|fi|[nhar]
+engalgar	verbo	en|gal|[gar]
+engalhar	verbo	en|ga|[lhar]
+engalhardear	verbo	en|ga|lhar|de|[ar]
+engalhardetar	verbo	en|ga|lhar|de|[tar]
+engalinhar	verbo	en|ga|li|[nhar]
+engalispar	verbo	en|ga|lis|[par]
+engalriçar	verbo	en|gal|ri|[çar]
+engambelar	verbo	en|gam|be|[lar]
+engambelo	nome masculino	en|gam|[be]|lo
+engana-rapazes	nome feminino	en|ga|na-ra|[pa]|zes
+engana-vista	nome masculino	en|ga|na-vis|ta
+enganação	nome feminino	en|ga|na|[ção]
+enganadiço	adjetivo	en|ga|na|[di]|ço
+enganado	adjetivo	en|ga|[na]|do
+enganador	adjetivo	en|ga|na|[dor]
+enganador	nome masculino	en|ga|na|[dor]
+enganadora	nome feminino	en|ga|na|[do]|ra
+enganar	verbo	en|ga|[nar]
+enganável	adjetivo	en|ga|[ná]|vel
+enganchamento	nome masculino	en|gan|cha|[men]|to
+enganchar	verbo	en|gan|[char]
+engangorrado	adjetivo	en|gan|gor|[ra]|do
+enganha	nome feminino	en|[ga]|nha
+enganido	adjetivo	en|ga|[ni]|do
+enganir	verbo	en|ga|[nir]
+enganjento	adjetivo	en|gan|[jen]|to
+engano	nome masculino	en|[ga]|no
+enganosamente	advérbio	en|ga|no|sa|[men]|te
+enganoso	adjetivo	en|ga|[no]|so
+engar	verbo	en|[gar]
+engarampar	verbo	en|ga|ram|[par]
+engaranhado	adjetivo	en|ga|ra|[nha]|do
+engaranhar	verbo	en|ga|ra|[nhar]
+engaranhido	adjetivo	en|ga|ra|[nhi]|do
+engarantar	verbo	en|ga|ran|[tar]
+engarapar	verbo	en|ga|ra|[par]
+engaravitado	adjetivo	en|ga|ra|vi|[ta]|do
+engaravitar	verbo	en|ga|ra|vi|[tar]
+engarela	nome feminino	en|ga|[re]|la
+engarfar	verbo	en|gar|[far]
+engargantar	verbo	en|gar|gan|[tar]
+engarilho	nome masculino	en|ga|[ri]|lho
+engarnachar	verbo	en|gar|na|[char]
+engarradeira	nome feminino	en|gar|ra|[dei]|ra
+engarrafadeira	nome feminino	en|gar|ra|fa|[dei]|ra
+engarrafado	adjetivo	en|gar|ra|[fa]|do
+engarrafador	nome masculino	en|gar|ra|fa|[dor]
+engarrafador	adjetivo	en|gar|ra|fa|[dor]
+engarrafadora	nome feminino	en|gar|ra|fa|[do]|ra
+engarrafagem	nome feminino	en|gar|ra|[fa]|gem
+engarrafamento	nome masculino	en|gar|ra|fa|[men]|to
+engarrafar	verbo	en|gar|ra|[far]
+engarrafonamento	nome masculino	en|gar|ra|fo|na|[men]|to
+engarrafonar	verbo	en|gar|ra|fo|[nar]
+engarupar	verbo	en|ga|ru|[par]
+engasgado	adjetivo	en|gas|[ga]|do
+engasgalhado	adjetivo	en|gas|ga|[lha]|do
+engasgalhar	verbo	en|gas|ga|[lhar]
+engasgamento	nome masculino	en|gas|ga|[men]|to
+engasgar	verbo	en|gas|[gar]
+engasgo	nome masculino	en|[gas]|go
+engasgue	nome masculino	en|[gas]|gue
+engastado	adjetivo	en|gas|[ta]|do
+engastador	adjetivo	en|gas|ta|[dor]
+engastador	nome masculino	en|gas|ta|[dor]
+engastalhar	verbo	en|gas|ta|[lhar]
+engastar	verbo	en|gas|[tar]
+engaste	nome masculino	en|[gas]|te
+engastrimitismo	nome masculino	en|gas|tri|mi|[tis]|mo
+engastrimitista	adjetivo	en|gas|tri|mi|[tis]|ta
+engastrimitista	nome masculino	en|gas|tri|mi|[tis]|ta
+engastrimitista	nome feminino	en|gas|tri|mi|[tis]|ta
+engatadeira	nome feminino	en|ga|ta|[dei]|ra
+engatado	adjetivo	en|ga|[ta]|do
+engatador	adjetivo	en|ga|ta|[dor]
+engatador	nome masculino	en|ga|ta|[dor]
+engatadora	nome feminino	en|ga|ta|[do]|ra
+engatar	verbo	en|ga|[tar]
+engatatão	nome masculino	en|ga|ta|[tão]
+engatatão	adjetivo	en|ga|ta|[tão]

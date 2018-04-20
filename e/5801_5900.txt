@@ -1,0 +1,100 @@
+enxalmadura	nome feminino	en|xal|ma|[du]|ra
+enxalmar	verbo	en|xal|[mar]
+enxalmeiro	nome masculino	en|xal|[mei]|ro
+enxalmo	nome masculino	en|[xal]|mo
+enxama	nome feminino	en|[xa]|ma
+enxamagem	nome feminino	en|xa|[ma]|gem
+enxamblador	nome masculino	en|xam|bla|[dor]
+enxamblar	verbo	en|xam|[blar]
+enxambrado	adjetivo	en|xam|[bra]|do
+enxambramento	nome masculino	en|xam|bra|[men]|to
+enxambrar	verbo	en|xam|[brar]
+enxame	nome masculino	en|[xa]|me
+enxameação	nome feminino	en|xa|me|a|[ção]
+enxameador	nome masculino	en|xa|me|a|[dor]
+enxameagem	nome feminino	en|xa|me|[a]|gem
+enxameal	nome masculino	en|xa|me|[al]
+enxameamento	nome masculino	en|xa|me|a|[men]|to
+enxameante	adjetivo	en|xa|me|[an]|te
+enxamear	verbo	en|xa|me|[ar]
+enxameio	nome masculino	en|xa|[mei]|o
+enxaqueca	nome feminino	en|xa|[que]|ca
+enxaquetado	adjetivo	en|xa|que|[ta]|do
+enxara	nome feminino	en|[xa]|ra
+enxaral	nome masculino	en|xa|[ral]
+enxaravia	nome feminino	en|xa|ra|[vi]|a
+enxárcia	nome feminino	en|[xár]|ci|a
+enxarciar	verbo	en|xar|ci|[ar]
+enxarel	nome masculino	en|xa|[rel]
+enxário	nome masculino	en|[xá]|ri|o
+enxaropar	verbo	en|xa|ro|[par]
+enxarope	nome masculino	en|xa|[ro]|pe
+enxarroco	nome masculino	en|xar|[ro]|co
+enxaugar	verbo	en|xau|[gar]
+enxávega	nome feminino	en|[xá]|ve|ga
+enxávegos	nome masculino	en|[xá]|ve|gos
+enxebre	adjetivo	en|[xe]|bre
+enxecar	verbo	en|xe|[car]
+enxeco	nome masculino	en|[xe]|co
+enxerca	nome feminino	en|[xer]|ca
+enxercar	verbo	en|xer|[car]
+enxerco	nome masculino	en|[xer]|co
+enxerga	nome feminino	en|[xer]|ga
+enxergão	nome masculino	en|xer|[gão]
+enxergar	verbo	en|xer|[gar]
+enxergueiro	nome masculino	en|xer|[guei]|ro
+enxerido	adjetivo	en|xe|[ri]|do
+enxerido	nome masculino	en|xe|[ri]|do
+enxerir	verbo	en|xe|[rir]
+enxermada	adjetivo	en|xer|[ma]|da
+enxerqueiro	nome masculino	en|xer|[quei]|ro
+enxerta	nome feminino	en|[xer]|ta
+enxertadeira	nome feminino	en|xer|ta|[dei]|ra
+enxertado	adjetivo	en|xer|[ta]|do
+enxertador	adjetivo	en|xer|ta|[dor]
+enxertador	nome masculino	en|xer|ta|[dor]
+enxertadora	nome feminino	en|xer|ta|[do]|ra
+enxertadura	nome feminino	en|xer|ta|[du]|ra
+enxertar	verbo	en|xer|[tar]
+enxertário	nome masculino	en|xer|[tá]|ri|o
+enxertia	nome feminino	en|xer|[ti]|a
+enxerto	nome masculino	en|[xer]|to
+enxiar	verbo	en|xi|[ar]
+enxilhar	verbo	en|xi|[lhar]
+enxilhar	nome masculino	en|xi|[lhar]
+enxilharia	nome feminino	en|xi|lha|[ri]|a
+enxó	nome feminino	en|[xó]
+enxoada	nome feminino	en|xo|[a]|da
+enxofra	nome feminino	en|[xo]|fra
+enxofração	nome feminino	en|xo|fra|[ção]
+enxofradeira	nome feminino	en|xo|fra|[dei]|ra
+enxofrador	nome masculino	en|xo|fra|[dor]
+enxofrador	adjetivo	en|xo|fra|[dor]
+enxofradora	nome feminino	en|xo|fra|[do]|ra
+enxoframento	nome masculino	en|xo|fra|[men]|to
+enxofrante	adjetivo	en|xo|[fran]|te
+enxofrar	verbo	en|xo|[frar]
+enxofrável	adjetivo	en|xo|[frá]|vel
+enxofre	nome masculino	en|[xo]|fre
+enxofreira	nome feminino	en|xo|[frei]|ra
+enxofrento	adjetivo	en|xo|[fren]|to
+enxota-cães	nome masculino	en|xo|ta-cães
+enxota-diabos	nome masculino	en|xo|ta-di|[a]|bos
+enxota-moscas	nome masculino	en|xo|ta-mos|cas
+enxotador	adjetivo	en|xo|ta|[dor]
+enxotador	nome masculino	en|xo|ta|[dor]
+enxotadura	nome feminino	en|xo|ta|[du]|ra
+enxotar	verbo	en|xo|[tar]
+enxova	nome feminino	en|[xo]|va
+enxoval	nome masculino	en|xo|[val]
+enxovalhadamente	advérbio	en|xo|va|lha|da|[men]|te
+enxovalhado	adjetivo	en|xo|va|[lha]|do
+enxovalhamento	nome masculino	en|xo|va|lha|[men]|to
+enxovalhar	verbo	en|xo|va|[lhar]
+enxovalhável	adjetivo	en|xo|va|[lhá]|vel
+enxovalho	nome masculino	en|xo|[va]|lho
+enxovedo	nome masculino	en|xo|[ve]|do
+enxovia	nome feminino	en|xo|[vi]|a
+enxu	nome masculino	en|[xu]
+enxudreira	nome feminino	en|xu|[drei]|ra
+enxudreiro	nome masculino	en|xu|[drei]|ro

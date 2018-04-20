@@ -1,0 +1,100 @@
+escalpelante	adjetivo	es|cal|pe|[lan]|te
+escalpelar	verbo	es|cal|pe|[lar]
+escalpelização	nome feminino	es|cal|pe|li|za|[ção]
+escalpelizador	adjetivo	es|cal|pe|li|za|[dor]
+escalpelizador	nome masculino	es|cal|pe|li|za|[dor]
+escalpelizar	verbo	es|cal|pe|li|[zar]
+escalpelo	nome masculino	es|cal|[pe]|lo
+escalpo	nome masculino	es|[cal]|po
+escalrachar	verbo	es|cal|ra|[char]
+escalracho	nome masculino	es|cal|[ra]|cho
+escalte	adjetivo	es|[cal]|te
+escalte	nome masculino	es|[cal]|te
+escalte	nome feminino	es|[cal]|te
+escalvação	nome feminino	es|cal|va|[ção]
+escalvado	adjetivo	es|cal|[va]|do
+escalvado	nome masculino	es|cal|[va]|do
+escalvar	verbo	es|cal|[var]
+escama	nome feminino	es|[ca]|ma
+escamação	nome feminino	es|ca|ma|[ção]
+escamadeira	nome feminino	es|ca|ma|[dei]|ra
+escamado	nome masculino	es|ca|[ma]|do
+escamado	nome masculino	es|ca|[ma]|do
+escamado	adjetivo	es|ca|[ma]|do
+escamador	adjetivo	es|ca|ma|[dor]
+escamador	nome masculino	es|ca|ma|[dor]
+escamadura	nome feminino	es|ca|ma|[du]|ra
+escamagem	nome feminino	es|ca|[ma]|gem
+escamalhoar	verbo	es|ca|ma|lho|[ar]
+escamão	nome masculino	es|ca|[mão]
+escamar	verbo	es|ca|[mar]
+escamaria	nome feminino	es|ca|ma|[ri]|a
+escambador	nome masculino	es|cam|ba|[dor]
+escambar	verbo	es|cam|[bar]
+escambiar	verbo	es|cam|bi|[ar]
+escâmbio	nome masculino	es|[câm]|bi|o
+escambo	nome masculino	es|[cam]|bo
+escambra	nome feminino	es|[cam]|bra
+escambrão	nome masculino	es|cam|[brão]
+escambrar	verbo	es|cam|[brar]
+escambroeiro	nome masculino	es|cam|bro|[ei]|ro
+escameado	adjetivo	es|ca|me|[a]|do
+escamechar	verbo	es|ca|me|[char]
+escamel	nome masculino	es|ca|[mel]
+escamento	adjetivo	es|ca|[men]|to
+escâmeo	adjetivo	es|[câ]|me|o
+escameta	nome feminino	es|ca|[me]|ta
+escamífero	adjetivo	es|ca|[mí]|fe|ro
+escamiforme	adjetivo	es|ca|mi|[for]|me
+escamígero	adjetivo	es|ca|[mí]|ge|ro
+escamisada	nome feminino	es|ca|mi|[sa]|da
+escamisar	verbo	es|ca|mi|[sar]
+escamões	nome masculino	es|ca|[mões]
+escamondar	verbo	es|ca|mon|[dar]
+escamônea	nome feminino	es|ca|[mô]|ne|a
+escamónea	nome feminino	es|ca|[mó]|ne|a
+escamônea-de-mompilher	nome feminino	es|ca|mô|ne|a-de-mom|pi|lher
+escamónea-de-mompilher	nome feminino	es|ca|mó|ne|a-de-mom|pi|lher
+escamonear	verbo	es|ca|mo|ne|[ar]
+escamoso	adjetivo	es|ca|[mo]|so
+escamotação	nome feminino	es|ca|mo|ta|[ção]
+escamotar	verbo	es|ca|mo|[tar]
+escamoteação	nome feminino	es|ca|mo|te|a|[ção]
+escamoteadela	nome feminino	es|ca|mo|te|a|[de]|la
+escamoteador	nome masculino	es|ca|mo|te|a|[dor]
+escamotear	verbo	es|ca|mo|te|[ar]
+escamoteável	adjetivo	es|ca|mo|te|[á]|vel
+escamoteio	nome masculino	es|ca|mo|[tei]|o
+escampado	nome masculino	es|cam|[pa]|do
+escampado	adjetivo	es|cam|[pa]|do
+escampar	verbo	es|cam|[par]
+escampo	adjetivo	es|[cam]|po
+escampo	nome masculino	es|[cam]|po
+escamudo	adjetivo	es|ca|[mu]|do
+escamugir	verbo	es|ca|mu|[gir]
+escâmula	nome feminino	es|[câ]|mu|la
+escamuloso	adjetivo	es|ca|mu|[lo]|so
+escanado	adjetivo	es|ca|[na]|do
+escanar	verbo	es|ca|[nar]
+escanastrado	adjetivo	es|ca|nas|[tra]|do
+escanção	nome masculino	es|can|[ção]
+escançar	verbo	es|can|[çar]
+escâncara	nome feminino	es|[cân]|ca|ra
+escancaração	nome feminino	es|can|ca|ra|[ção]
+escancarado	adjetivo	es|can|ca|[ra]|do
+escancarar	verbo	es|can|ca|[rar]
+escancear	verbo	es|can|ce|[ar]
+escancelamento	nome masculino	es|can|ce|la|[men]|to
+escancelar	verbo	es|can|ce|[lar]
+escancha	nome feminino	es|[can]|cha
+escanchado	adjetivo	es|can|[cha]|do
+escanchar	verbo	es|can|[char]
+escanche	nome masculino	es|[can]|che
+escandaleira	nome feminino	es|can|da|[lei]|ra
+escandalização	nome feminino	es|can|da|li|za|[ção]
+escandalizado	adjetivo	es|can|da|li|[za]|do
+escandalizador	adjetivo	es|can|da|li|za|[dor]
+escandalizador	nome masculino	es|can|da|li|za|[dor]
+escandalizante	adjetivo	es|can|da|li|[zan]|te
+escandalizar	verbo	es|can|da|li|[zar]
+escandalizável	adjetivo	es|can|da|li|[zá]|vel

@@ -1,0 +1,100 @@
+entejar	verbo	en|te|[jar]
+entejo	nome masculino	en|[te]|jo
+entelequia	nome feminino	en|te|le|[qui]|a
+enteléquia	nome feminino	en|te|[lé]|qui|a
+entelhar	verbo	en|te|[lhar]
+entelino	adjetivo	en|te|[li]|no
+entelino	nome masculino	en|te|[li]|no
+entenal	nome masculino	en|te|[nal]
+entendedor	nome masculino	en|ten|de|[dor]
+entendedor	adjetivo	en|ten|de|[dor]
+entendedora	nome feminino	en|ten|de|[do]|ra
+entender	verbo	en|ten|[der]
+entender	nome masculino	en|ten|[der]
+entendida	nome feminino	en|ten|[di]|da
+entendido	nome masculino	en|ten|[di]|do
+entendido	adjetivo	en|ten|[di]|do
+entendimento	nome masculino	en|ten|di|[men]|to
+entendível	adjetivo	en|ten|[dí]|vel
+entenebrar	verbo	en|te|ne|[brar]
+entenebrecer	verbo	en|te|ne|bre|[cer]
+entenebrecimento	nome masculino	en|te|ne|bre|ci|[men]|to
+entenrecer	verbo	en|ten|re|[cer]
+entente	nome feminino	en|[ten]|te
+entepidecer	verbo	en|te|pi|de|[cer]
+enteradênio	nome masculino	en|te|ra|[dê]|ni|o
+enteradénio	nome masculino	en|te|ra|[dé]|ni|o
+enteradenografia	nome feminino	en|te|ra|de|no|gra|[fi]|a
+enteradenográfico	adjetivo	en|te|ra|de|no|[grá]|fi|co
+enteradenologia	nome feminino	en|te|ra|de|no|lo|[gi]|a
+enteradenológico	adjetivo	en|te|ra|de|no|[ló]|gi|co
+enteralgia	nome feminino	en|te|ral|[gi]|a
+enterálgico	adjetivo	en|te|[rál]|gi|co
+enterecoco	nome masculino	en|te|re|[co]|co
+enterectasia	nome feminino	en|te|rec|ta|[si]|a
+enterectásico	adjetivo	en|te|rec|[tá]|si|co
+enterectático	adjetivo	en|te|rec|[tá]|ti|co
+enterectomia	nome feminino	en|te|rec|to|[mi]|a
+enterectômico	adjetivo	en|te|rec|[tô]|mi|co
+enterectómico	adjetivo	en|te|rec|[tó]|mi|co
+enteremia	nome feminino	en|te|re|[mi]|a
+enterémico	adjetivo	en|te|[ré]|mi|co
+enterêmico	adjetivo	en|te|[rê]|mi|co
+enteremorragia	nome feminino	en|te|re|mor|ra|[gi]|a
+enteremorrágico	adjetivo	en|te|re|mor|[rá]|gi|co
+enterepatocele	nome feminino	en|te|re|pa|to|[ce]|le
+enterepiplocele	nome feminino	en|te|re|pi|plo|[ce]|le
+entérico	adjetivo	en|[té]|ri|co
+enteridrocele	nome feminino	en|te|ri|dro|[ce]|le
+enterite	nome feminino	en|te|[ri]|te
+enterítico	adjetivo	en|te|[rí]|ti|co
+enternecedor	adjetivo	en|ter|ne|ce|[dor]
+enternecer	verbo	en|ter|ne|[cer]
+enternecidamente	advérbio	en|ter|ne|ci|da|[men]|te
+enternecido	adjetivo	en|ter|ne|[ci]|do
+enternecimento	nome masculino	en|ter|ne|ci|[men]|to
+enternecível	adjetivo	en|ter|ne|[cí]|vel
+êntero	nome masculino	[ên]|te|ro
+enterobíase	nome feminino	en|te|ro|[bí]|a|se
+enterocele	nome feminino	en|te|ro|[ce]|le
+enterocélico	adjetivo	en|te|ro|[cé]|li|co
+enterocistocele	nome feminino	en|te|ro|cis|to|[ce]|le
+enteróclise	nome feminino	en|te|[ró]|cli|se
+enterocolite	nome feminino	en|te|ro|co|[li]|te
+enterodelo	nome masculino	en|te|ro|[de]|lo
+enteroderma	nome masculino	en|te|ro|[der]|ma
+enteroderme	nome feminino	en|te|ro|[der]|me
+enterodinia	nome feminino	en|te|ro|di|[ni]|a
+enterogastrite	nome feminino	en|te|ro|gas|[tri]|te
+enterografia	nome feminino	en|te|ro|gra|[fi]|a
+enterográfico	adjetivo	en|te|ro|[grá]|fi|co
+enterólito	nome masculino	en|te|[ró]|li|to
+enterologia	nome feminino	en|te|ro|lo|[gi]|a
+enterológico	adjetivo	en|te|ro|[ló]|gi|co
+enterologista	nome masculino	en|te|ro|lo|[gis]|ta
+enterologista	nome feminino	en|te|ro|lo|[gis]|ta
+enteromerocele	nome feminino	en|te|ro|me|ro|[ce]|le
+enteromesentérico	adjetivo	en|te|ro|me|sen|[té]|ri|co
+enteropatia	nome feminino	en|te|ro|pa|[ti]|a
+enteropático	adjetivo	en|te|ro|[pá]|ti|co
+enteropneusto	adjetivo	en|te|rop|[neus]|to
+enteropneusto	nome masculino	en|te|rop|[neus]|to
+enteroptose	nome feminino	en|te|rop|[to]|se
+enteroquínase	nome feminino	en|te|ro|[quí]|na|se
+enterorrafia	nome feminino	en|te|ror|ra|[fi]|a
+enterorráfico	adjetivo	en|te|ror|[rá]|fi|co
+enterorragia	nome feminino	en|te|ror|ra|[gi]|a
+enterorrágico	adjetivo	en|te|ror|[rá]|gi|co
+enteroscopia	nome feminino	en|te|ros|co|[pi]|a
+enterose	nome feminino	en|te|[ro]|se
+enterossarcocele	nome feminino	en|te|ros|sar|co|[ce]|le
+enterostomia	nome feminino	en|te|ros|to|[mi]|a
+enterostômico	adjetivo	en|te|ros|[tô]|mi|co
+enterostómico	adjetivo	en|te|ros|[tó]|mi|co
+enterotomia	nome feminino	en|te|ro|to|[mi]|a
+enterotômico	adjetivo	en|te|ro|[tô]|mi|co
+enterotómico	adjetivo	en|te|ro|[tó]|mi|co
+enterótomo	nome masculino	en|te|[ró]|to|mo
+enterotoxina	nome feminino	en|te|ro|to|[xi]|na
+enterovacina	nome feminino	en|te|ro|va|[ci]|na
+enterozoário	nome masculino	en|te|ro|zo|[á]|ri|o

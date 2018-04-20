@@ -1,0 +1,100 @@
+betoia	adjetivo	be|[toi]|a
+betoia	nome masculino	be|[toi]|a
+betoia	nome feminino	be|[toi]|a
+betoira	nome feminino	be|[toi]|ra
+betoiro	nome masculino	be|[toi]|ro
+betol	nome masculino	be|[tol]
+betonado	adjetivo	be|to|[na]|do
+betonagem	nome feminino	be|to|[na]|gem
+betonar	verbo	be|to|[nar]
+betoneira	nome feminino	be|to|[nei]|ra
+betônica	nome feminino	be|[tô]|ni|ca
+betónica	nome feminino	be|[tó]|ni|ca
+betônica-bastarda	nome feminino	be|tô|ni|ca-bas|[tar]|da
+betónica-bastarda	nome feminino	be|tó|ni|ca-bas|[tar]|da
+betonicina	nome feminino	be|to|ni|[ci]|na
+betonilha	nome feminino	be|to|[ni]|lha
+betonização	nome feminino	be|to|ni|za|[ção]
+betoura	nome feminino	be|[tou]|ra
+betouro	nome masculino	be|[tou]|ro
+betral	nome masculino	be|[tral]
+betre	nome masculino	[be]|tre
+betsamita	adjetivo	bet|sa|[mi]|ta
+betsamita	nome masculino	bet|sa|[mi]|ta
+betsamita	nome feminino	bet|sa|[mi]|ta
+betu	nome masculino	be|[tu]
+bétula	nome feminino	[bé]|tu|la
+betulácea	nome feminino	be|tu|[lá]|ce|a
+betuláceo	adjetivo	be|tu|[lá]|ce|o
+betulíneo	adjetivo	be|tu|[lí]|ne|o
+betulonense	adjetivo	be|tu|lo|[nen]|se
+betulonense	nome masculino	be|tu|lo|[nen]|se
+betulonense	nome feminino	be|tu|lo|[nen]|se
+betumadeira	nome feminino	be|tu|ma|[dei]|ra
+betumado	adjetivo	be|tu|[ma]|do
+betumador	adjetivo	be|tu|ma|[dor]
+betumador	nome masculino	be|tu|ma|[dor]
+betumagem	nome feminino	be|tu|[ma]|gem
+betumar	verbo	be|tu|[mar]
+betume	nome masculino	be|[tu]|me
+betumeiro	nome masculino	be|tu|[mei]|ro
+betuminífero	adjetivo	be|tu|mi|[ní]|fe|ro
+betuminização	nome feminino	be|tu|mi|ni|za|[ção]
+betuminoso	adjetivo	be|tu|mi|[no]|so
+béu	nome masculino	[béu]
+béu-béu	nome masculino	[béu-béu]
+béu-béu	interjeição	[béu-béu]
+bêvera	nome feminino	[bê]|ve|ra
+bexiga	nome feminino	be|[xi]|ga
+bexiga-de-lobo	nome feminino	be|xi|ga-de-lo|bo
+bexiga-natatória	nome feminino	be|xi|ga-na|ta|[tó]|ri|a
+bexigada	nome feminino	be|xi|[ga]|da
+bexigal	adjetivo	be|xi|[gal]
+bexigão	nome masculino	be|xi|[gão]
+bexigar	verbo	be|xi|[gar]
+bexigosa	nome feminino	be|xi|[go]|sa
+bexigoso	adjetivo	be|xi|[go]|so
+bexigoso	nome masculino	be|xi|[go]|so
+bexigudo	adjetivo	be|xi|[gu]|do
+bexigueiro	adjetivo	be|xi|[guei]|ro
+bexiguenta	nome feminino	be|xi|[guen]|ta
+bexiguento	adjetivo	be|xi|[guen]|to
+bexiguento	nome masculino	be|xi|[guen]|to
+bexuana	adjetivo	be|xu|[a]|na
+bexuana	nome masculino	be|xu|[a]|na
+bexuana	nome feminino	be|xu|[a]|na
+bexuco	nome masculino	be|[xu]|co
+bezana	nome feminino	be|[za]|na
+bezedor	nome masculino	be|ze|[dor]
+bezerra	nome feminino	be|[zer]|ra
+bezerrada	nome feminino	be|zer|[ra]|da
+bezerro	nome masculino	be|[zer]|ro
+bezerrote	nome masculino	be|zer|[ro]|te
+bezoante	adjetivo	be|zo|[an]|te
+bezoar	verbo	be|zo|[ar]
+bezoar	nome masculino	be|zo|[ar]
+bezoarticar	verbo	be|zo|ar|ti|[car]
+bezoártico	nome masculino	be|zo|[ár]|ti|co
+biaba	nome feminino	bi|[a]|ba
+biácido	nome masculino	bi|[á]|ci|do
+biaco	nome masculino	bi|[a]|co
+biaculeado	adjetivo	bi|a|cu|le|[a]|do
+biacuminado	adjetivo	bi|a|cu|mi|[na]|do
+biafada	nome masculino	bi|a|[fa]|da
+biafada	adjetivo	bi|a|[fa]|da
+biafada	nome feminino	bi|a|[fa]|da
+biafar	adjetivo	bi|a|[far]
+biafar	nome masculino	bi|a|[far]
+biafar	nome feminino	bi|a|[far]
+biafrense	nome masculino	bi|a|[fren]|se
+biafrense	adjetivo	bi|a|[fren]|se
+biafrense	nome feminino	bi|a|[fren]|se
+bialado	adjetivo	bi|a|[la]|do
+biamericano	adjetivo	bi|a|me|ri|[ca]|no
+bianda	nome feminino	bi|[an]|da
+bianejo	adjetivo	bi|a|[ne]|jo
+bianejo	nome masculino	bi|a|[ne]|jo
+biangulado	adjetivo	bi|an|gu|[la]|do
+biangular	adjetivo	bi|an|gu|[lar]
+bianual	adjetivo	bi|a|nu|[al]
+bianualmente	advérbio	bi|a|nu|al|[men]|te

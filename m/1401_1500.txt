@@ -1,0 +1,100 @@
+malaquista	nome masculino	ma|la|[quis]|ta
+malaquista	adjetivo	ma|la|[quis]|ta
+malaquista	nome feminino	ma|la|[quis]|ta
+malaquita	nome feminino	ma|la|[qui]|ta
+malaquite	nome feminino	ma|la|[qui]|te
+malar	adjetivo	ma|[lar]
+malar	nome masculino	ma|[lar]
+malári	nome masculino	ma|[lá]|ri
+malária	nome feminino	ma|[lá]|ri|a
+malaria	nome feminino	ma|la|[ri]|a
+malaricidade	nome feminino	ma|la|ri|ci|[da]|de
+malárico	adjetivo	ma|[lá]|ri|co
+malarífero	adjetivo	ma|la|[rí]|fe|ro
+malarígeno	adjetivo	ma|la|[rí]|ge|no
+malarina	nome feminino	ma|la|[ri]|na
+malariologia	nome feminino	ma|la|ri|o|lo|[gi]|a
+malariológico	adjetivo	ma|la|ri|o|[ló]|gi|co
+malariologista	nome masculino	ma|la|ri|o|lo|[gis]|ta
+malariologista	nome feminino	ma|la|ri|o|lo|[gis]|ta
+malarioterapia	nome feminino	ma|la|ri|o|te|ra|[pi]|a
+malas-artes	nome feminino	ma|las-ar|tes
+malas-artes	nome masculino	ma|las-ar|tes
+malas-caras	nome masculino	ma|las-ca|ras
+malásio	nome masculino	ma|[lá]|si|o
+malásio	adjetivo	ma|[lá]|si|o
+malassada	nome feminino	ma|las|[sa]|da
+malateca	nome feminino	ma|la|[te]|ca
+malático	adjetivo	ma|[lá]|ti|co
+malato	nome masculino	ma|[la]|to
+malauiano	adjetivo	ma|lau|i|[a]|no
+malauiano	nome masculino	ma|lau|i|[a]|no
+malaviano	adjetivo	ma|la|vi|[a]|no
+malaviano	nome masculino	ma|la|vi|[a]|no
+malavo	nome masculino	ma|[la]|vo
+malawiano	adjetivo	ma|la|wi|a|no
+malawiano	nome masculino	ma|la|wi|a|no
+malaxação	nome feminino	ma|la|xa|[ção]
+malaxador	nome masculino	ma|la|xa|[dor]
+malaxagem	nome feminino	ma|la|[xa]|gem
+malaxar	verbo	ma|la|[xar]
+malazengo	adjetivo	ma|la|[zen]|go
+malbaratado	adjetivo	mal|ba|ra|[ta]|do
+malbaratador	adjetivo	mal|ba|ra|ta|[dor]
+malbaratador	nome masculino	mal|ba|ra|ta|[dor]
+malbaratamento	nome masculino	mal|ba|ra|ta|[men]|to
+malbaratar	verbo	mal|ba|ra|[tar]
+malbaratear	verbo	mal|ba|ra|te|[ar]
+malbarato	nome masculino	mal|ba|[ra]|to
+malcasada	nome feminino	mal|ca|[sa]|da
+malcasado	adjetivo	mal|ca|[sa]|do
+malcasado	nome masculino	mal|ca|[sa]|do
+malcatenho	adjetivo	mal|ca|[te]|nho
+malcheirante	adjetivo	mal|chei|[ran]|te
+malcheiroso	adjetivo	mal|chei|[ro]|so
+malcoado	nome masculino	malco|[a]|do
+malcômia	nome feminino	mal|[cô]|mi|a
+malcómia	nome feminino	mal|[có]|mi|a
+malcomido	adjetivo	mal|co|[mi]|do
+malcomportado	adjetivo	mal|com|por|[ta]|do
+malconceituado	adjetivo	mal|con|cei|tu|[a]|do
+malconduzido	adjetivo	mal|con|du|[zi]|do
+malconformado	adjetivo	mal|con|for|[ma]|do
+malcontentadiço	adjetivo	mal|con|ten|ta|[di]|ço
+malcontente	adjetivo	mal|con|[ten]|te
+malcorreito	adjetivo	mal|cor|[rei]|to
+malcorrente	adjetivo	mal|cor|[ren]|te
+malcozer	verbo	mal|co|[zer]
+malcozido	adjetivo	mal|co|[zi]|do
+malcozinhado	adjetivo	mal|co|zi|[nha]|do
+malcozinhado	nome masculino	mal|co|zi|[nha]|do
+malcriação	nome feminino	mal|cri|a|[ção]
+malcriada	nome feminino	mal|cri|[a]|da
+malcriadamente	advérbio	mal|cri|a|da|[men]|te
+malcriadez	nome feminino	mal|cri|a|[dez]
+malcriado	nome masculino	mal|cri|[a]|do
+malcriado	adjetivo	mal|cri|[a]|do
+malcuidado	adjetivo	mal|cui|[da]|do
+malcurada	nome feminino	mal|cu|[ra]|da
+maldade	nome feminino	mal|[da]|de
+maldar	verbo	mal|[dar]
+maldestro	adjetivo	mal|[des]|tro
+maldição	nome feminino	mal|di|[ção]
+maldiçoar	verbo	mal|di|ço|[ar]
+maldigno	adjetivo	mal|[dig]|no
+maldispor	verbo	mal|dis|[por]
+maldisposto	adjetivo	mal|dis|[pos]|to
+maldita	nome feminino	mal|[di]|ta
+maldito	adjetivo	mal|[di]|to
+maldito	nome masculino	mal|[di]|to
+malditoso	adjetivo	mal|di|[to]|so
+maldiva	nome feminino	mal|[di]|va
+maldivana	nome feminino	mal|di|[va]|na
+maldivano	adjetivo	mal|di|[va]|no
+maldivano	nome masculino	mal|di|[va]|no
+maldívio	adjetivo	mal|[dí]|vi|o
+maldívio	nome masculino	mal|[dí]|vi|o
+maldivo	adjetivo	mal|[di]|vo
+maldivo	nome masculino	mal|[di]|vo
+maldizedor	adjetivo	mal|di|ze|[dor]
+maldizedor	nome masculino	mal|di|ze|[dor]

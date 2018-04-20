@@ -1,0 +1,100 @@
+diamagnético	adjetivo	di|a|mag|[né]|ti|co
+diamagnetismo	nome masculino	di|a|mag|ne|[tis]|mo
+diamantado	adjetivo	di|a|man|[ta]|do
+diamante	adjetivo	di|a|[man]|te
+diamante	nome masculino	di|a|[man]|te
+diamântico	adjetivo	di|a|[mân]|ti|co
+diamantífero	adjetivo	di|a|man|[tí]|fe|ro
+diamantinamente	advérbio	di|a|man|ti|na|[men]|te
+diamantinense	adjetivo	di|a|man|ti|[nen]|se
+diamantinense	nome masculino	di|a|man|ti|[nen]|se
+diamantinense	nome feminino	di|a|man|ti|[nen]|se
+diamantino	adjetivo	di|a|man|[ti]|no
+diamantista	nome masculino	di|a|man|[tis]|ta
+diamantista	nome feminino	di|a|man|[tis]|ta
+diamantizar	verbo	di|a|man|ti|[zar]
+diamantoide	nome masculino	di|a|man|[toi]|de
+diamastigose	nome feminino	di|a|mas|ti|[go]|se
+diamático	adjetivo	di|a|[má]|ti|co
+diamatismo	nome masculino	di|a|ma|[tis]|mo
+diamba	nome feminino	di|[am]|ba
+diametral	adjetivo	di|a|me|[tral]
+diametralmente	advérbio	di|a|me|tral|[men]|te
+diâmetro	nome masculino	di|[â]|me|tro
+diamido	nome masculino	di|a|[mi]|do
+diamina	nome feminino	di|a|[mi]|na
+diaminúria	nome feminino	di|a|mi|[nú]|ri|a
+diamoro	nome masculino	di|a|[mo]|ro
+diândria	nome feminino	di|[ân]|dri|a
+diandria	nome feminino	di|an|[dri]|a
+diandro	adjetivo	di|[an]|dro
+dianegativo	nome masculino	di|a|ne|ga|[ti]|vo
+dianela	nome feminino	di|a|[ne]|la
+dianética	nome feminino	di|a|[né]|ti|ca
+dianético	adjetivo	di|a|[né]|ti|co
+dianho	nome masculino	di|[a]|nho
+dianoético	adjetivo	di|a|no|[é]|ti|co
+dianoilogia	nome feminino	di|a|noi|lo|[gi]|a
+dianopolitano	adjetivo	di|a|no|po|li|[ta]|no
+dianopolitano	nome masculino	di|a|no|po|li|[ta]|no
+diantácea	nome feminino	di|an|[tá]|ce|a
+diante	advérbio	di|[an]|te
+dianteira	nome feminino	di|an|[tei]|ra
+dianteiro	adjetivo	di|an|[tei]|ro
+dianteiro	nome masculino	di|an|[tei]|ro
+dianto	adjetivo	di|[an]|to
+dianto	nome masculino	di|[an]|to
+diapasão	nome masculino	di|a|pa|[são]
+diapedese	nome feminino	di|a|pe|[de]|se
+diapente	nome masculino	di|a|[pen]|te
+diápero	nome masculino	di|[á]|pe|ro
+diapiético	adjetivo	di|a|pi|[é]|ti|co
+diápiro	nome masculino	di|[á]|pi|ro
+diaplegia	nome feminino	di|a|ple|[gi]|a
+diaplégico	adjetivo	di|a|[plé]|gi|co
+diapneia	nome feminino	di|ap|[nei]|a
+diapnoico	adjetivo	di|ap|[noi]|co
+diapnoico	nome masculino	di|ap|[noi]|co
+diaporama	nome masculino	di|a|po|[ra]|ma
+diaporese	nome feminino	di|a|po|[re]|se
+diaporético	adjetivo	di|a|po|[ré]|ti|co
+diapositivo	nome masculino	di|a|po|si|[ti]|vo
+diaptose	nome feminino	di|ap|[to]|se
+diaquénio	nome masculino	di|a|[qué]|ni|o
+diaquênio	nome masculino	di|a|[quê]|ni|o
+diaquilão	nome masculino	di|a|qui|[lão]
+diária	nome feminino	di|[á]|ri|a
+diariamente	advérbio	di|a|ri|a|[men]|te
+diário	nome masculino	di|[á]|ri|o
+diário	adjetivo	di|[á]|ri|o
+diarismo	nome masculino	di|a|[ris]|mo
+diarista	nome masculino	di|a|[ris]|ta
+diarista	nome feminino	di|a|[ris]|ta
+diarístico	adjetivo	di|a|[rís]|ti|co
+diarquia	nome feminino	di|ar|[qui]|a
+diárquico	adjetivo	di|[ár]|qui|co
+diarreia	nome feminino	di|ar|[rei]|a
+diarreico	adjetivo	di|ar|[rei]|co
+diarreico	nome masculino	di|ar|[rei]|co
+diartrose	nome feminino	di|ar|[tro]|se
+diartrótico	adjetivo	di|ar|[tró]|ti|co
+diásceva	nome feminino	di|[ás]|ce|va
+diascevasta	nome masculino	di|as|ce|[vas]|ta
+diascopia	nome feminino	di|as|co|[pi]|a
+diascópico	adjetivo	di|as|[có]|pi|co
+diascópio	nome masculino	di|as|[có]|pi|o
+diascórdio	nome masculino	di|as|[cór]|di|o
+diasirmo	nome masculino	di|a|[sir]|mo
+diasóstica	nome feminino	di|a|[sós]|ti|ca
+diasóstico	adjetivo	di|a|[sós]|ti|co
+diáspide	nome feminino	di|[ás]|pi|de
+diaspório	nome masculino	di|as|[pó]|ri|o
+diásporo	nome masculino	di|[ás]|po|ro
+diasporometria	nome feminino	di|as|po|ro|me|[tri]|a
+diasporométrico	adjetivo	di|as|po|ro|[mé]|tri|co
+diasporômetro	nome masculino	di|as|po|[rô]|me|tro
+diasporómetro	nome masculino	di|as|po|[ró]|me|tro
+diaspro	nome masculino	di|[as]|pro
+diastáltico	adjetivo	di|as|[tál]|ti|co
+diástase	nome feminino	di|[ás]|ta|se
+diastásico	adjetivo	di|as|[tá]|si|co

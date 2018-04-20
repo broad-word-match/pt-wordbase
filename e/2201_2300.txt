@@ -1,0 +1,100 @@
+empapuçar	verbo	em|pa|pu|[çar]
+empaquifado	adjetivo	em|pa|qui|[fa]|do
+empar	verbo	em|[par]
+emparar	verbo	em|pa|[rar]
+emparcar	verbo	em|par|[car]
+emparceiramento	nome masculino	em|par|cei|ra|[men]|to
+emparceirar	verbo	em|par|cei|[rar]
+emparcelamento	nome masculino	em|par|ce|la|[men]|to
+emparcelar	verbo	em|par|ce|[lar]
+empardecer	verbo	em|par|de|[cer]
+empardecimento	nome masculino	em|par|de|ci|[men]|to
+emparedada	nome feminino	em|pa|re|[da]|da
+emparedado	adjetivo	em|pa|re|[da]|do
+emparedado	nome masculino	em|pa|re|[da]|do
+emparedamento	nome masculino	em|pa|re|da|[men]|to
+emparedar	verbo	em|pa|re|[dar]
+emparelhado	adjetivo	em|pa|re|[lha]|do
+emparelhamento	nome masculino	em|pa|re|lha|[men]|to
+emparelhar	verbo	em|pa|re|[lhar]
+emparentar	verbo	em|pa|ren|[tar]
+emparo	nome masculino	em|[pa]|ro
+emparrar	verbo	em|par|[rar]
+emparreirar	verbo	em|par|rei|[rar]
+emparvecer	verbo	em|par|ve|[cer]
+emparvecimento	nome masculino	em|par|ve|ci|[men]|to
+emparvoar	verbo	em|par|vo|[ar]
+emparvoecer	verbo	em|par|vo|e|[cer]
+empasma	nome masculino	em|[pas]|ma
+empasmar	verbo	em|pas|[mar]
+empastado	adjetivo	em|pas|[ta]|do
+empastador	nome masculino	em|pas|ta|[dor]
+empastagem	nome feminino	em|pas|[ta]|gem
+empastamento	nome masculino	em|pas|ta|[men]|to
+empastar	verbo	em|pas|[tar]
+empaste	nome masculino	em|[pas]|te
+empastelado	adjetivo	em|pas|te|[la]|do
+empastelador	adjetivo	em|pas|te|la|[dor]
+empastelador	nome masculino	em|pas|te|la|[dor]
+empastelamento	nome masculino	em|pas|te|la|[men]|to
+empastelar	verbo	em|pas|te|[lar]
+empata	nome masculino	em|[pa]|ta
+empata	nome feminino	em|[pa]|ta
+empata-vazas	nome masculino	em|pa|ta-va|zas
+empatado	adjetivo	em|pa|[ta]|do
+empatador	adjetivo	em|pa|ta|[dor]
+empatador	nome masculino	em|pa|ta|[dor]
+empatadora	nome feminino	em|pa|ta|[do]|ra
+empatamento	nome masculino	em|pa|ta|[men]|to
+empatar	verbo	em|pa|[tar]
+empate	nome masculino	em|[pa]|te
+empatia	nome feminino	em|pa|[ti]|a
+empático	adjetivo	em|[pá]|ti|co
+empausadamente	advérbio	em|pau|sa|da|[men]|te
+empavear	verbo	em|pa|ve|[ar]
+empavesamento	nome masculino	em|pa|ve|sa|[men]|to
+empavesar	verbo	em|pa|ve|[sar]
+empavoar	verbo	em|pa|vo|[ar]
+empavonado	adjetivo	em|pa|vo|[na]|do
+empavonar	verbo	em|pa|vo|[nar]
+empecadado	adjetivo	em|pe|ca|[da]|do
+empecadar	verbo	em|pe|ca|[dar]
+empeçado	adjetivo	em|pe|[ça]|do
+empeçar	verbo	em|pe|[çar]
+empecer	verbo	em|pe|[cer]
+empecilhar	verbo	em|pe|ci|[lhar]
+empecilho	nome masculino	em|pe|[ci]|lho
+empecimento	nome masculino	em|pe|ci|[men]|to
+empecível	adjetivo	em|pe|[cí]|vel
+empecivo	adjetivo	em|pe|[ci]|vo
+empeço	nome masculino	em|[pe]|ço
+empeçonhamento	nome masculino	em|pe|ço|nha|[men]|to
+empeçonhar	verbo	em|pe|ço|[nhar]
+empeçonhentar	verbo	em|pe|ço|nhen|[tar]
+empedernecer	verbo	em|pe|der|ne|[cer]
+empedernido	adjetivo	em|pe|der|[ni]|do
+empedernimento	nome masculino	em|pe|der|ni|[men]|to
+empedernir	verbo	em|pe|der|[nir]
+empedocliano	adjetivo	em|pe|do|cli|[a]|no
+empedrado	nome masculino	em|pe|[dra]|do
+empedrado	adjetivo	em|pe|[dra]|do
+empedrador	nome masculino	em|pe|dra|[dor]
+empedradura	nome feminino	em|pe|dra|[du]|ra
+empedramento	nome masculino	em|pe|dra|[men]|to
+empedrar	verbo	em|pe|[drar]
+empegar	verbo	em|pe|[gar]
+empeirar	verbo	em|pei|[rar]
+empeiticação	nome feminino	em|pei|ti|ca|[ção]
+empeiticar	verbo	em|pei|ti|[car]
+empeladoiro	nome masculino	em|pe|la|[doi]|ro
+empeladouro	nome masculino	em|pe|la|[dou]|ro
+empelamar	verbo	em|pe|la|[mar]
+empelar	verbo	em|pe|[lar]
+empelicado	adjetivo	em|pe|li|[ca]|do
+empelicar	verbo	em|pe|li|[car]
+empelicular	verbo	em|pe|li|cu|[lar]
+empelo	nome masculino	em|[pe]|lo
+empelota	nome feminino	em|pe|[lo]|ta
+empelotado	adjetivo	em|pe|lo|[ta]|do
+empelotar	verbo	em|pe|lo|[tar]
+empena	nome feminino	em|[pe]|na

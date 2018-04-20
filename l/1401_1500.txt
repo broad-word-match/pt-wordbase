@@ -1,0 +1,100 @@
+lechetrez	nome masculino	le|che|[trez]
+lecionação	nome feminino	le|ci|o|na|[ção]
+lecionador	adjetivo	le|ci|o|na|[dor]
+lecionador	nome masculino	le|ci|o|na|[dor]
+lecionando	nome masculino	le|ci|o|[nan]|do
+lecionar	verbo	le|ci|o|[nar]
+lecionário	nome masculino	le|ci|o|[ná]|ri|o
+lecionável	adjetivo	le|ci|o|[ná]|vel
+lecionista	nome masculino	le|ci|o|[nis]|ta
+lecionista	nome feminino	le|ci|o|[nis]|ta
+lecitidácea	nome feminino	le|ci|ti|[dá]|ce|a
+lecitidáceo	adjetivo	le|ci|ti|[dá]|ce|o
+lecitina	nome feminino	le|ci|[ti]|na
+lécito	nome masculino	[lé]|ci|to
+leco	nome masculino	[le]|co
+léctica	nome feminino	[léc]|ti|ca
+lecticário	nome masculino	lec|ti|[cá]|ri|o
+lectícola	adjetivo	lec|[tí]|co|la
+lectícula	nome feminino	lec|[tí]|cu|la
+lectistérnio	nome masculino	lec|tis|[tér]|ni|o
+lectivo	adjetivo	lec|[ti]|vo
+lectocéfalo	adjetivo	lec|to|[cé]|fa|lo
+lectocéfalo	nome masculino	lec|to|[cé]|fa|lo
+led	nome masculino	[led]
+leda	nome feminino	[le]|da
+ledamente	advérbio	le|da|[men]|te
+ledeu	adjetivo	le|[deu]
+lediano	adjetivo	le|di|[a]|no
+ledice	nome feminino	le|[di]|ce
+ledo	adjetivo	[le]|do
+ledor	adjetivo	le|[dor]
+ledor	nome masculino	le|[dor]
+ledora	nome feminino	le|[do]|ra
+leelite	nome feminino	le|e|[li]|te
+leérsia	nome feminino	le|[ér]|si|a
+legação	nome feminino	le|ga|[ção]
+legacão	nome masculino	le|ga|[cão]
+legacia	nome feminino	le|ga|[ci]|a
+legada	nome feminino	le|[ga]|da
+legado	nome masculino	le|[ga]|do
+legal	adjetivo	le|[gal]
+legalidade	nome feminino	le|ga|li|[da]|de
+legalismo	nome masculino	le|ga|[lis]|mo
+legalista	nome masculino	le|ga|[lis]|ta
+legalista	adjetivo	le|ga|[lis]|ta
+legalista	nome feminino	le|ga|[lis]|ta
+legalístico	adjetivo	le|ga|[lís]|ti|co
+legalitário	adjetivo	le|ga|li|[tá]|ri|o
+legalização	nome feminino	le|ga|li|za|[ção]
+legalizado	adjetivo	le|ga|li|[za]|do
+legalizador	adjetivo	le|ga|li|za|[dor]
+legalizador	nome masculino	le|ga|li|za|[dor]
+legalizar	verbo	le|ga|li|[zar]
+legalizável	adjetivo	le|ga|li|[zá]|vel
+legalmente	advérbio	le|gal|[men]|te
+legar	verbo	le|[gar]
+legatária	nome feminino	le|ga|[tá]|ri|a
+legatário	nome masculino	le|ga|[tá]|ri|o
+legato	adjetivo	le|[ga]|to
+legato	nome masculino	le|[ga]|to
+legatório	adjetivo	le|ga|[tó]|ri|o
+legável	adjetivo	le|[gá]|vel
+legenda	nome feminino	le|[gen]|da
+legendado	adjetivo	le|gen|[da]|do
+legendagem	nome feminino	le|gen|[da]|gem
+legendar	verbo	le|gen|[dar]
+legendário	nome masculino	le|gen|[dá]|ri|o
+legendário	adjetivo	le|gen|[dá]|ri|o
+legião	nome feminino	le|gi|[ão]
+legibilidade	nome feminino	le|gi|bi|li|[da]|de
+legiferação	nome feminino	le|gi|fe|ra|[ção]
+legiferar	verbo	le|gi|fe|[rar]
+legífero	adjetivo	le|[gí]|fe|ro
+legífero	nome masculino	le|[gí]|fe|ro
+legionário	nome masculino	le|gi|o|[ná]|ri|o
+legionário	adjetivo	le|gi|o|[ná]|ri|o
+legislação	nome feminino	le|gis|la|[ção]
+legislado	adjetivo	le|gis|[la]|do
+legislador	adjetivo	le|gis|la|[dor]
+legislador	nome masculino	le|gis|la|[dor]
+legislar	verbo	le|gis|[lar]
+legislativamente	advérbio	le|gis|la|ti|va|[men]|te
+legislativo	adjetivo	le|gis|la|[ti]|vo
+legislatorial	adjetivo	le|gis|la|to|ri|[al]
+legislatório	adjetivo	le|gis|la|[tó]|ri|o
+legislatura	nome feminino	le|gis|la|[tu]|ra
+legislável	adjetivo	le|gis|[lá]|vel
+legismo	nome masculino	le|[gis]|mo
+legisperito	nome masculino	le|gis|pe|[ri]|to
+legista	nome masculino	le|[gis]|ta
+legista	nome feminino	le|[gis]|ta
+legítima	nome feminino	le|[gí]|ti|ma
+legitimação	nome feminino	le|gi|ti|ma|[ção]
+legitimada	nome feminino	le|gi|ti|[ma]|da
+legitimado	adjetivo	le|gi|ti|[ma]|do
+legitimado	nome masculino	le|gi|ti|[ma]|do
+legitimador	adjetivo	le|gi|ti|ma|[dor]
+legitimador	nome masculino	le|gi|ti|ma|[dor]
+legitimamente	advérbio	le|gi|ti|ma|[men]|te
+legitimar	verbo	le|gi|ti|[mar]

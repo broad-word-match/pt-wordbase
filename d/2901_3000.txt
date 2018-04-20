@@ -1,0 +1,100 @@
+desanojo	nome masculino	de|sa|[no]|jo
+desanuviado	adjetivo	de|sa|nu|vi|[a]|do
+desanuviador	adjetivo	de|sa|nu|vi|a|[dor]
+desanuviamento	nome masculino	de|sa|nu|vi|a|[men]|to
+desanuviar	verbo	de|sa|nu|vi|[ar]
+desapacientar	verbo	de|sa|pa|ci|en|[tar]
+desapadrinhar	verbo	de|sa|pa|dri|[nhar]
+desapagar	verbo	de|sa|pa|[gar]
+desapaixonadamente	advérbio	de|sa|pai|xo|na|da|[men]|te
+desapaixonado	adjetivo	de|sa|pai|xo|[na]|do
+desapaixonar	verbo	de|sa|pai|xo|[nar]
+desaparafusado	adjetivo	de|sa|pa|ra|fu|[sa]|do
+desaparafusamento	nome masculino	de|sa|pa|ra|fu|sa|[men]|to
+desaparafusar	verbo	de|sa|pa|ra|fu|[sar]
+desaparatoso	adjetivo	de|sa|pa|ra|[to]|so
+desaparecer	verbo	de|sa|pa|re|[cer]
+desaparecida	nome feminino	de|sa|pa|re|[ci]|da
+desaparecido	adjetivo	de|sa|pa|re|[ci]|do
+desaparecido	nome masculino	de|sa|pa|re|[ci]|do
+desaparecimento	nome masculino	de|sa|pa|re|ci|[men]|to
+desaparelhamento	nome masculino	de|sa|pa|re|lha|[men]|to
+desaparelhar	verbo	de|sa|pa|re|[lhar]
+desaparelho	nome masculino	de|sa|pa|[re]|lho
+desaparentado	adjetivo	de|sa|pa|ren|[ta]|do
+desaparição	nome feminino	de|sa|pa|ri|[ção]
+desapartar	verbo	de|sa|par|[tar]
+desapavorar	verbo	de|sa|pa|vo|[rar]
+desapaziguar	verbo	de|sa|pa|zi|[guar]
+desapear	verbo	de|sa|pe|[ar]
+desapeçonhentar	verbo	de|sa|pe|ço|nhen|[tar]
+desapegado	adjetivo	de|sa|pe|[ga]|do
+desapegamento	nome masculino	de|sa|pe|ga|[men]|to
+desapegar	verbo	de|sa|pe|[gar]
+desapego	nome masculino	de|sa|[pe]|go
+desapeirar	verbo	de|sa|pei|[rar]
+desaperceber	verbo	de|sa|per|ce|[ber]
+desapercebido	adjetivo	de|sa|per|ce|[bi]|do
+desapercebimento	nome masculino	de|sa|per|ce|bi|[men]|to
+desaperrar	verbo	de|sa|per|[rar]
+desapertado	adjetivo	de|sa|per|[ta]|do
+desapertar	verbo	de|sa|per|[tar]
+desaperto	nome masculino	de|sa|[per]|to
+desapetitoso	adjetivo	de|sa|pe|ti|[to]|so
+desapiedadamente	advérbio	de|sa|pi|e|da|da|[men]|te
+desapiedado	adjetivo	de|sa|pi|e|[da]|do
+desapiedar	verbo	de|sa|pi|e|[dar]
+desaplaudir	verbo	de|sa|plau|[dir]
+desaplauso	nome masculino	de|sa|[plau]|so
+desaplicação	nome feminino	de|sa|pli|ca|[ção]
+desaplicado	adjetivo	de|sa|pli|[ca]|do
+desaplicar	verbo	de|sa|pli|[car]
+desaplumar	verbo	de|sa|plu|[mar]
+desapoderado	adjetivo	de|sa|po|de|[ra]|do
+desapoderar	verbo	de|sa|po|de|[rar]
+desapoiado	adjetivo	de|sa|poi|[a]|do
+desapoiar	verbo	de|sa|poi|[ar]
+desapoio	nome masculino	de|sa|[poi]|o
+desapolvilhar	verbo	de|sa|pol|vi|[lhar]
+desapontado	adjetivo	de|sa|pon|[ta]|do
+desapontamento	nome masculino	de|sa|pon|ta|[men]|to
+desapontante	adjetivo	de|sa|pon|[tan]|te
+desapontar	verbo	de|sa|pon|[tar]
+desapoquentação	nome feminino	de|sa|po|quen|ta|[ção]
+desapoquentar	verbo	de|sa|po|quen|[tar]
+desapor	verbo	de|sa|[por]
+desaportuguesamento	nome masculino	de|sa|por|tu|gue|sa|[men]|to
+desaportuguesar	verbo	de|sa|por|tu|gue|[sar]
+desaposentar	verbo	de|sa|po|sen|[tar]
+desapossado	adjetivo	de|sa|pos|[sa]|do
+desapossamento	nome masculino	de|sa|pos|sa|[men]|to
+desapossar	verbo	de|sa|pos|[sar]
+desaprazer	verbo	de|sa|pra|[zer]
+desaprazível	adjetivo	de|sa|pra|[zí]|vel
+desapreciar	verbo	de|sa|pre|ci|[ar]
+desapreço	nome masculino	de|sa|[pre]|ço
+desaprender	verbo	de|sa|pren|[der]
+desaprendido	adjetivo	de|sa|pren|[di]|do
+desapressar	verbo	de|sa|pres|[sar]
+desaprestar	verbo	de|sa|pres|[tar]
+desapresto	nome masculino	de|sa|[pres]|to
+desaprimorado	adjetivo	de|sa|pri|mo|[ra]|do
+desaprimorar	verbo	de|sa|pri|mo|[rar]
+desapropositado	adjetivo	de|sa|pro|po|si|[ta]|do
+desapropósito	nome masculino	de|sa|pro|[pó]|si|to
+desapropriação	nome feminino	de|sa|pro|pri|a|[ção]
+desapropriado	adjetivo	de|sa|pro|pri|[a]|do
+desapropriador	adjetivo	de|sa|pro|pri|a|[dor]
+desapropriador	nome masculino	de|sa|pro|pri|a|[dor]
+desapropriamento	nome masculino	de|sa|pro|pri|a|[men]|to
+desapropriar	verbo	de|sa|pro|pri|[ar]
+desaprovação	nome feminino	de|sa|pro|va|[ção]
+desaprovado	adjetivo	de|sa|pro|[va]|do
+desaprovador	adjetivo	de|sa|pro|va|[dor]
+desaprovador	nome masculino	de|sa|pro|va|[dor]
+desaprovadora	nome feminino	de|sa|pro|va|[do]|ra
+desaprovar	verbo	de|sa|pro|[var]
+desaprovativo	adjetivo	de|sa|pro|va|[ti]|vo
+desaproveitado	nome masculino	de|sa|pro|vei|[ta]|do
+desaproveitado	adjetivo	de|sa|pro|vei|[ta]|do
+desaproveitamento	nome masculino	de|sa|pro|vei|ta|[men]|to

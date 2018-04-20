@@ -1,0 +1,100 @@
+rasante	nome feminino	ra|[san]|te
+rasão	nome masculino	ra|[são]
+rasão	nome feminino	ra|[são]
+rasar	verbo	ra|[sar]
+rasca	adjetivo	[ras]|ca
+rasca	nome feminino	[ras]|ca
+rascada	nome feminino	ras|[ca]|da
+rascadeira	nome feminino	ras|ca|[dei]|ra
+rascador	nome masculino	ras|ca|[dor]
+rascadura	nome feminino	ras|ca|[du]|ra
+rascância	nome feminino	ras|[cân]|ci|a
+rascanhão	nome masculino	ras|ca|[nhão]
+rascanhar	verbo	ras|ca|[nhar]
+rascante	adjetivo	ras|[can]|te
+rascante	nome masculino	ras|[can]|te
+rascão	nome masculino	ras|[cão]
+rascar	verbo	ras|[car]
+rascasso	nome masculino	ras|[cas]|so
+rasco	nome masculino	[ras]|co
+rascoa	nome feminino	ras|[co]|a
+rascoagem	nome feminino	ras|co|[a]|gem
+rascoeira	nome feminino	ras|co|[ei]|ra
+rascoeiro	nome masculino	ras|co|[ei]|ro
+rascoíce	nome feminino	ras|co|[í]|ce
+rascol	nome masculino	ras|[col]
+rascolnismo	nome masculino	ras|col|[nis]|mo
+rascolnista	adjetivo	ras|col|[nis]|ta
+rascolnista	nome masculino	ras|col|[nis]|ta
+rascolnista	nome feminino	ras|col|[nis]|ta
+rascote	nome masculino	ras|[co]|te
+rascunhar	verbo	ras|cu|[nhar]
+rascunho	nome masculino	ras|[cu]|nho
+raseiro	adjetivo	ra|[sei]|ro
+raseiro	nome masculino	ra|[sei]|ro
+rasga-mortalha	nome feminino	ras|ga-mor|[ta]|lha
+rasgadamente	advérbio	ras|ga|da|[men]|te
+rasgadela	nome feminino	ras|ga|[de]|la
+rasgado	adjetivo	ras|[ga]|do
+rasgado	nome masculino	ras|[ga]|do
+rasgador	adjetivo	ras|ga|[dor]
+rasgador	nome masculino	ras|ga|[dor]
+rasgadura	nome feminino	ras|ga|[du]|ra
+rasgamento	nome masculino	ras|ga|[men]|to
+rasgão	nome masculino	ras|[gão]
+rasgar	verbo	ras|[gar]
+rasgável	adjetivo	ras|[gá]|vel
+rasgo	nome masculino	[ras]|go
+rasgue	nome masculino	[ras]|gue
+rasgueado	nome masculino	ras|gue|[a]|do
+rasmonino	nome masculino	ras|mo|[ni]|no
+rasmono	nome masculino	ras|[mo]|no
+raso	nome masculino	[ra]|so
+raso	adjetivo	[ra]|so
+rasoila	nome feminino	ra|[soi]|la
+rasoilo	nome masculino	ra|[soi]|lo
+rasoira	nome feminino	ra|[soi]|ra
+rasoirar	verbo	ra|soi|[rar]
+rasoura	nome feminino	ra|[sou]|ra
+rasourante	adjetivo	ra|sou|[ran]|te
+rasourar	verbo	ra|sou|[rar]
+rasouro	nome masculino	ra|[sou]|ro
+raspa	nome feminino	[ras]|pa
+raspa-língua	nome feminino	ras|pa-lín|gua
+raspadeira	nome feminino	ras|pa|[dei]|ra
+raspadela	nome feminino	ras|pa|[de]|la
+raspadinha	nome feminino	ras|pa|[di]|nha
+raspado	adjetivo	ras|[pa]|do
+raspador	nome masculino	ras|pa|[dor]
+raspador	adjetivo	ras|pa|[dor]
+raspadora	nome feminino	ras|pa|[do]|ra
+raspadura	nome feminino	ras|pa|[du]|ra
+raspagem	nome feminino	ras|[pa]|gem
+raspalho	nome masculino	ras|[pa]|lho
+raspança	nome feminino	ras|[pan]|ça
+raspançadura	nome feminino	ras|pan|ça|[du]|ra
+raspançar	verbo	ras|pan|[çar]
+raspanço	nome masculino	ras|[pan]|ço
+raspanete	nome masculino	ras|pa|[ne]|te
+raspão	nome masculino	ras|[pão]
+raspar	verbo	ras|[par]
+raspável	adjetivo	ras|[pá]|vel
+raspilha	nome feminino	ras|[pi]|lha
+raspinha	nome feminino	ras|[pi]|nha
+raspinhadeira	nome feminino	ras|pi|nha|[dei]|ra
+raspinhar	verbo	ras|pi|[nhar]
+rasqueiro	nome masculino	ras|[quei]|ro
+rasqueta	nome feminino	ras|[que]|ta
+rasquetear	verbo	ras|que|te|[ar]
+rasquido	nome masculino	ras|[qui]|do
+rasta	adjetivo	[ras]|ta
+rastão	nome masculino	ras|[tão]
+rastaquera	adjetivo	ras|ta|[que]|ra
+rastaquera	nome masculino	ras|ta|[que]|ra
+rastaquera	nome feminino	ras|ta|[que]|ra
+rasteador	adjetivo	ras|te|a|[dor]
+rasteador	nome masculino	ras|te|a|[dor]
+rastear	verbo	ras|te|[ar]
+rasteira	nome feminino	ras|[tei]|ra
+rasteiramente	advérbio	ras|tei|ra|[men]|te
+rasteirar	verbo	ras|tei|[rar]

@@ -1,0 +1,100 @@
+canalhocrata	nome masculino	ca|na|lho|[cra]|ta
+canalhocrata	nome feminino	ca|na|lho|[cra]|ta
+canalícula	nome feminino	ca|na|[lí]|cu|la
+canaliculado	adjetivo	ca|na|li|cu|[la]|do
+canalicular	adjetivo	ca|na|li|cu|[lar]
+canalículo	nome masculino	ca|na|[lí]|cu|lo
+canalífero	adjetivo	ca|na|[lí]|fe|ro
+canaliforme	adjetivo	ca|na|li|[for]|me
+canalização	nome feminino	ca|na|li|za|[ção]
+canalizador	nome masculino	ca|na|li|za|[dor]
+canalizador	adjetivo	ca|na|li|za|[dor]
+canalizadora	nome feminino	ca|na|li|za|[do]|ra
+canalizar	verbo	ca|na|li|[zar]
+canalizável	adjetivo	ca|na|li|[zá]|vel
+canamão	nome masculino	ca|na|[mão]
+canambaia	nome feminino	ca|nam|[bai]|a
+canamilha	nome feminino	ca|na|[mi]|lha
+canana	nome feminino	ca|[na]|na
+cananeia	nome feminino	ca|na|[nei]|a
+cananeira	nome feminino	ca|na|[nei]|ra
+cananeu	adjetivo	ca|na|[neu]
+cananeu	nome masculino	ca|na|[neu]
+cananga	nome feminino	ca|[nan]|ga
+canapé	nome masculino	ca|na|[pé]
+canapístula	nome feminino	ca|na|[pís]|tu|la
+canaponga	nome feminino	ca|na|[pon]|ga
+canapu	nome masculino	ca|na|[pu]
+canará	adjetivo	ca|na|[rá]
+canará	nome masculino	ca|na|[rá]
+canará	nome feminino	ca|na|[rá]
+canarana	nome feminino	ca|na|[ra]|na
+canareira	nome feminino	ca|na|[rei]|ra
+canarês	adjetivo	ca|na|[rês]
+canarês	nome masculino	ca|na|[rês]
+canária	nome feminino	ca|[ná]|ri|a
+canaria	nome feminino	ca|na|[ri]|a
+canaricultura	nome feminino	ca|na|ri|cul|[tu]|ra
+canariense	adjetivo	ca|na|ri|[en]|se
+canariense	nome masculino	ca|na|ri|[en]|se
+canariense	nome feminino	ca|na|ri|[en]|se
+canarim	adjetivo	ca|na|[rim]
+canarim	nome masculino	ca|na|[rim]
+canarim	nome feminino	ca|na|[rim]
+canarina	nome feminino	ca|na|[ri]|na
+canarinha	nome feminino	ca|na|[ri]|nha
+canarinho	nome masculino	ca|na|[ri]|nho
+canarinho	adjetivo	ca|na|[ri]|nho
+canarino	adjetivo	ca|na|[ri]|no
+canarino	nome masculino	ca|na|[ri]|no
+canário	nome masculino	ca|[ná]|ri|o
+canário	adjetivo	ca|[ná]|ri|o
+canário-da-índia	nome masculino	ca|ná|ri|o-da-ín|di|a
+canário-da-terra	nome masculino	ca|ná|ri|o-da-ter|ra
+canário-do-mar	nome masculino	ca|ná|ri|o-do-mar
+canasta	nome feminino	ca|[nas]|ta
+canastra	nome feminino	ca|[nas]|tra
+canastrada	nome feminino	ca|nas|[tra]|da
+canastrado	adjetivo	ca|nas|[tra]|do
+canastrão	nome masculino	ca|nas|[trão]
+canastrão	adjetivo	ca|nas|[trão]
+canastreira	nome feminino	ca|nas|[trei]|ra
+canastreiro	nome masculino	ca|nas|[trei]|ro
+canastrel	nome masculino	ca|nas|[trel]
+canastro	nome masculino	ca|[nas]|tro
+canastrona	nome feminino	ca|nas|[tro]|na
+canato	nome masculino	ca|[na]|to
+canavã	nome feminino	ca|na|[vã]
+cânave	nome masculino	[câ]|na|ve
+canaveia	nome feminino	ca|na|[vei]|a
+canaveira	nome feminino	ca|na|[vei]|ra
+canavês	nome masculino	ca|na|[vês]
+canavês	adjetivo	ca|na|[vês]
+canavesa	nome feminino	ca|na|[ve]|sa
+canavial	nome masculino	ca|na|vi|[al]
+canavial	adjetivo	ca|na|vi|[al]
+canavieira	nome feminino	ca|na|vi|[ei]|ra
+canavieiro	adjetivo	ca|na|vi|[ei]|ro
+canavoura	nome feminino	ca|na|[vou]|ra
+canaz	nome masculino	ca|[naz]
+cancã	nome masculino	can|[cã]
+cancã	nome feminino	can|[cã]
+cancaborrada	nome feminino	can|ca|bor|[ra]|da
+cancaburra	nome feminino	can|ca|[bur]|ra
+cancanada	nome feminino	can|ca|[na]|da
+cancanar	verbo	can|ca|[nar]
+cancanear	verbo	can|ca|ne|[ar]
+cancanista	nome masculino	can|ca|[nis]|ta
+cancanista	adjetivo	can|ca|[nis]|ta
+cancanista	nome feminino	can|ca|[nis]|ta
+cancanizar	verbo	can|ca|ni|[zar]
+canção	nome feminino	can|[ção]
+cancão	nome masculino	can|[cão]
+cancarã	nome feminino	can|ca|[rã]
+câncara	nome feminino	[cân]|ca|ra
+cancaro	nome masculino	can|[ca]|ro
+cancatá	nome masculino	can|ca|[tá]
+cancela	nome feminino	can|[ce]|la
+cancelação	nome feminino	can|ce|la|[ção]
+cancelada	nome feminino	can|ce|[la]|da
+cancelado	adjetivo	can|ce|[la]|do

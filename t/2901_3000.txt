@@ -1,0 +1,100 @@
+tenontagra	nome feminino	te|non|[ta]|gra
+tenontalgia	nome feminino	te|non|tal|[gi]|a
+tenontálgico	adjetivo	te|non|[tál]|gi|co
+tenontografia	nome feminino	te|non|to|gra|[fi]|a
+tenontográfico	adjetivo	te|non|to|[grá]|fi|co
+tenontologia	nome feminino	te|non|to|lo|[gi]|a
+tenontológico	adjetivo	te|non|to|[ló]|gi|co
+tenontopéctico	adjetivo	te|non|to|[péc]|ti|co
+tenontopético	adjetivo	te|non|to|[pé]|ti|co
+tenontopexia	nome feminino	te|non|to|pe|[xi]|a
+tenontoplastia	nome feminino	te|non|to|plas|[ti]|a
+tenontoplástico	adjetivo	te|non|to|[plás]|ti|co
+tenontorrafia	nome feminino	te|non|tor|ra|[fi]|a
+tenontorráfico	adjetivo	te|non|tor|[rá]|fi|co
+tenontossinite	nome feminino	te|non|tos|si|[ni]|te
+tenontotomia	nome feminino	te|non|to|to|[mi]|a
+tenontotômico	adjetivo	te|non|to|[tô]|mi|co
+tenontotómico	adjetivo	te|non|to|[tó]|mi|co
+tenontótomo	nome masculino	te|non|[tó]|to|mo
+tenopatia	nome feminino	te|no|pa|[ti]|a
+tenopéctico	adjetivo	te|no|[péc]|ti|co
+tenopético	adjetivo	te|no|[pé]|ti|co
+tenopexia	nome feminino	te|no|pe|[xi]|a
+tenoplastia	nome feminino	te|no|plas|[ti]|a
+tenoplástico	adjetivo	te|no|[plás]|ti|co
+tenor	adjetivo	te|[nor]
+tenor	nome masculino	te|[nor]
+tenorino	nome masculino	te|no|[ri]|no
+tenório	nome masculino	te|[nó]|ri|o
+tenorite	nome feminino	te|no|[ri]|te
+tenorrafia	nome feminino	te|nor|ra|[fi]|a
+tenorráfico	adjetivo	te|nor|[rá]|fi|co
+tenossinite	nome feminino	te|nos|si|[ni]|te
+tenotomia	nome feminino	te|no|to|[mi]|a
+tenotómico	adjetivo	te|no|[tó]|mi|co
+tenotômico	adjetivo	te|no|[tô]|mi|co
+tenótomo	nome masculino	te|[nó]|to|mo
+tenrada	nome feminino	ten|[ra]|da
+tenramente	advérbio	ten|ra|[men]|te
+tenreira	nome feminino	ten|[rei]|ra
+tenreiro	nome masculino	ten|[rei]|ro
+tenreiro	adjetivo	ten|[rei]|ro
+tenríssimo	adjetivo	ten|[rís]|si|mo
+tenro	adjetivo	[ten]|ro
+tenrura	nome feminino	ten|[ru]|ra
+tensa	nome feminino	[ten]|sa
+tensamente	advérbio	ten|sa|[men]|te
+tensão	nome feminino	ten|[são]
+tênsil	adjetivo	[tên]|sil
+tensímetro	nome masculino	ten|[sí]|me|tro
+tensioativo	adjetivo	ten|si|o|a|[ti]|vo
+tensivo	adjetivo	ten|[si]|vo
+tenso	adjetivo	[ten]|so
+tensoativo	adjetivo	ten|so|a|[ti]|vo
+tensográfico	adjetivo	ten|so|[grá]|fi|co
+tensógrafo	nome masculino	ten|[só]|gra|fo
+tensor	nome masculino	ten|[sor]
+tensor	adjetivo	ten|[sor]
+tensorial	adjetivo	ten|so|ri|[al]
+tenta	nome feminino	[ten]|ta
+tenta-cânulas	nome masculino	ten|ta-câ|nu|las
+tentação	nome feminino	ten|ta|[ção]
+tentação	nome masculino	ten|ta|[ção]
+tentaculado	nome masculino	ten|ta|cu|[la]|do
+tentaculado	adjetivo	ten|ta|cu|[la]|do
+tentacular	adjetivo	ten|ta|cu|[lar]
+tentaculífero	adjetivo	ten|ta|cu|[lí]|fe|ro
+tentaculífero	nome masculino	ten|ta|cu|[lí]|fe|ro
+tentaculiforme	adjetivo	ten|ta|cu|li|[for]|me
+tentáculo	nome masculino	ten|[tá]|cu|lo
+tentadeiro	nome masculino	ten|ta|[dei]|ro
+tentadiço	adjetivo	ten|ta|[di]|ço
+tentado	adjetivo	ten|[ta]|do
+tentador	adjetivo	ten|ta|[dor]
+tentador	nome masculino	ten|ta|[dor]
+tentadora	nome feminino	ten|ta|[do]|ra
+tentadoramente	advérbio	ten|ta|do|ra|[men]|te
+tentame	nome masculino	ten|[ta]|me
+tentâmen	nome masculino	ten|[tâ]|men
+tentamento	nome masculino	ten|ta|[men]|to
+tentante	adjetivo	ten|[tan]|te
+tentar	verbo	ten|[tar]
+tentarraiz	nome masculino	ten|tar|ra|[iz]
+tentativa	nome feminino	ten|ta|[ti]|va
+tentativo	adjetivo	ten|ta|[ti]|vo
+tentável	adjetivo	ten|[tá]|vel
+tentê	nome masculino	ten|[tê]
+tenteador	adjetivo	ten|te|a|[dor]
+tenteador	nome masculino	ten|te|a|[dor]
+tenteante	adjetivo	ten|te|[an]|te
+tentear	verbo	ten|te|[ar]
+tenteio	nome masculino	ten|[tei]|o
+tentelhão	nome masculino	ten|te|[lhão]
+tenter	verbo	ten|[ter]
+tenterê	nome masculino	ten|te|[rê]
+tentilha	nome feminino	ten|[ti]|lha
+tentilhão	nome masculino	ten|ti|[lhão]
+tentilheira	nome feminino	ten|ti|[lhei]|ra
+tentirita	adjetivo	ten|ti|[ri]|ta
+tentirita	nome masculino	ten|ti|[ri]|ta

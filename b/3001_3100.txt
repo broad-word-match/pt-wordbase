@@ -1,0 +1,100 @@
+bem-me-quer	nome masculino	[bem-me-quer]
+bem-merecer	verbo	bem-me|re|[cer]
+bem-nado	adjetivo	bem-na|do
+bem-nascido	adjetivo	bem-nas|[ci]|do
+bem-parado	adjetivo	bem-pa|[ra]|do
+bem-parecido	adjetivo	bem-pa|re|[ci]|do
+bem-posto	adjetivo	bem-pos|to
+bem-querente	adjetivo	bem-que|[ren]|te
+bem-querer	verbo	bem-que|[rer]
+bem-querer	nome masculino	bem-que|[rer]
+bem-sabido	adjetivo	bem-sa|[bi]|do
+bem-sabido	nome masculino	bem-sa|[bi]|do
+bem-soante	adjetivo	bem-so|[an]|te
+bem-sonância	nome feminino	bem-so|[nân]|ci|a
+bem-sonante	adjetivo	bem-so|[nan]|te
+bem-talhado	adjetivo	bem-ta|[lha]|do
+bem-te-vi	nome masculino	[bem-te-vi]
+bem-te-vi	nome masculino	[bem-te-vi]
+bem-temente	adjetivo	bem-te|[men]|te
+bem-trajado	adjetivo	bem-tra|[ja]|do
+bem-vestir	nome masculino	bem-ves|[tir]
+bem-vindo	adjetivo	bem-vin|do
+bem-visto	adjetivo	bem-vis|to
+bemba	nome feminino	[bem]|ba
+bemol	nome masculino	be|[mol]
+bemolado	adjetivo	be|mo|[la]|do
+bemolar	verbo	be|mo|[lar]
+bemolizar	verbo	be|mo|li|[zar]
+bemposta	nome feminino	bem|[pos]|ta
+benacense	adjetivo	be|na|[cen]|se
+benacense	nome masculino	be|na|[cen]|se
+benacense	nome feminino	be|na|[cen]|se
+benaventense	adjetivo	be|na|ven|[ten]|se
+benaventense	nome masculino	be|na|ven|[ten]|se
+benaventense	nome feminino	be|na|ven|[ten]|se
+benaventina	nome feminino	be|na|ven|[ti]|na
+benaventino	nome masculino	be|na|ven|[ti]|no
+benaventino	adjetivo	be|na|ven|[ti]|no
+bênção	nome feminino	[bên]|ção
+bênção-de-deus	nome feminino	bên|ção-de-deus
+benchmarking	nome masculino	bench|mar|king
+benco	nome masculino	[ben]|co
+bênçoa	nome feminino	[bên]|ço|a
+bençoar	verbo	ben|ço|[ar]
+bencu	nome feminino	ben|[cu]
+bendencha	nome feminino	ben|[den]|cha
+bendenguê	nome masculino	ben|den|[guê]
+bendeucha	nome masculino	ben|[deu]|cha
+bendição	nome feminino	ben|di|[ção]
+bendidio	adjetivo	ben|di|[di]|o
+bendito	nome masculino	ben|[di]|to
+bendito	adjetivo	ben|[di]|to
+bendizer	verbo	ben|di|[zer]
+benedictus	nome masculino	be|ne|dic|[tus]
+benedita	nome feminino	be|ne|[di]|ta
+beneditina	nome feminino	be|ne|di|[ti]|na
+beneditino	adjetivo	be|ne|di|[ti]|no
+beneditino	nome masculino	be|ne|di|[ti]|no
+beneditismo	nome masculino	be|ne|di|[tis]|mo
+benedito	nome masculino	be|ne|[di]|to
+benefe	nome feminino	be|[ne]|fe
+beneficamente	advérbio	be|ne|fi|ca|[men]|te
+beneficência	nome feminino	be|ne|fi|[cên]|ci|a
+beneficente	adjetivo	be|ne|fi|[cen]|te
+beneficentíssimo	adjetivo	be|ne|fi|cen|[tís]|si|mo
+beneficiação	nome feminino	be|ne|fi|ci|a|[ção]
+beneficiada	nome feminino	be|ne|fi|ci|[a]|da
+beneficiado	nome masculino	be|ne|fi|ci|[a]|do
+beneficiado	adjetivo	be|ne|fi|ci|[a]|do
+beneficiador	adjetivo	be|ne|fi|ci|a|[dor]
+beneficiador	nome masculino	be|ne|fi|ci|a|[dor]
+beneficiadora	nome feminino	be|ne|fi|ci|a|[do]|ra
+beneficial	adjetivo	be|ne|fi|ci|[al]
+beneficiamento	nome masculino	be|ne|fi|ci|a|[men]|to
+beneficiar	verbo	be|ne|fi|ci|[ar]
+beneficiária	nome feminino	be|ne|fi|ci|[á]|ri|a
+beneficiário	adjetivo	be|ne|fi|ci|[á]|ri|o
+beneficiário	nome masculino	be|ne|fi|ci|[á]|ri|o
+beneficiável	adjetivo	be|ne|fi|ci|[á]|vel
+benefício	nome masculino	be|ne|[fí]|ci|o
+beneficiosamente	advérbio	be|ne|fi|ci|o|sa|[men]|te
+beneficioso	adjetivo	be|ne|fi|ci|[o]|so
+benéfico	adjetivo	be|[né]|fi|co
+benemerência	nome feminino	be|ne|me|[rên]|ci|a
+benemerente	adjetivo	be|ne|me|[ren]|te
+benemerente	nome masculino	be|ne|me|[ren]|te
+benemerente	nome feminino	be|ne|me|[ren]|te
+benemérita	nome feminino	be|ne|[mé]|ri|ta
+benemeritamente	advérbio	be|ne|me|ri|ta|[men]|te
+benemérito	adjetivo	be|ne|[mé]|ri|to
+benemérito	nome masculino	be|ne|[mé]|ri|to
+beneplácito	nome masculino	be|ne|[plá]|ci|to
+benesse	nome feminino	be|[nes]|se
+beneventano	nome masculino	be|ne|ven|[ta]|no
+beneventano	adjetivo	be|ne|ven|[ta]|no
+benevolamente	advérbio	be|ne|vo|la|[men]|te
+benevolência	nome feminino	be|ne|vo|[lên]|ci|a
+benevolente	adjetivo	be|ne|vo|[len]|te
+benevolentemente	advérbio	be|ne|vo|len|te|[men]|te
+benevolentíssimo	adjetivo	be|ne|vo|len|[tís]|si|mo

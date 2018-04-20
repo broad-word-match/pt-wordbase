@@ -1,0 +1,100 @@
+europeizável	adjetivo	eu|ro|pei|[zá]|vel
+europessimismo	nome masculino	eu|ro|pes|si|[mis]|mo
+europeu	adjetivo	eu|ro|[peu]
+europeu	nome masculino	eu|ro|[peu]
+európio	nome masculino	eu|[ró]|pi|o
+europtimismo	nome masculino	eu|rop|ti|[mis]|mo
+eurotimismo	nome masculino	eu|ro|ti|[mis]|mo
+eurotúnel	nome masculino	eu|ro|[tú]|nel
+eurovisão	nome feminino	eu|ro|vi|[são]
+eurozona	nome feminino	eu|ro|[zo]|na
+eurreta	nome feminino	e|ur|[re]|ta
+eurritmia	nome feminino	e|ur|rit|[mi]|a
+eurrítmico	adjetivo	e|ur|[rít]|mi|co
+euscaldune	adjetivo	eus|cal|[du]|ne
+euscaldune	nome masculino	eus|cal|[du]|ne
+euscaldune	nome feminino	eus|cal|[du]|ne
+euscalduno	adjetivo	eus|cal|[du]|no
+euscalduno	nome masculino	eus|cal|[du]|no
+êuscaro	nome masculino	[êus]|ca|ro
+êuscaro	adjetivo	[êus]|ca|ro
+eusebiana	nome feminino	eu|se|bi|[a]|na
+eusebiano	adjetivo	eu|se|bi|[a]|no
+eusebiano	nome masculino	eu|se|bi|[a]|no
+eussemia	nome feminino	eus|se|[mi]|a
+eussêmico	adjetivo	eus|[sê]|mi|co
+eussémico	adjetivo	eus|[sé]|mi|co
+eustaquiano	adjetivo	eus|ta|qui|[a]|no
+eustasia	nome feminino	eus|ta|[si]|a
+eustática	nome feminino	eus|[tá]|ti|ca
+eustático	adjetivo	eus|[tá]|ti|co
+eustatite	nome feminino	eus|ta|[ti]|te
+eustilo	nome masculino	eus|[ti]|lo
+eustomia	nome feminino	eus|to|[mi]|a
+eustômico	adjetivo	eus|[tô]|mi|co
+eustómico	adjetivo	eus|[tó]|mi|co
+eutáctico	adjetivo	eu|[tác]|ti|co
+eutanásia	nome feminino	eu|ta|[ná]|si|a
+eutanásico	adjetivo	eu|ta|[ná]|si|co
+eutático	adjetivo	eu|[tá]|ti|co
+eutaxia	nome feminino	eu|ta|[xi]|a
+eutéctico	adjetivo	eu|[téc]|ti|co
+eutério	nome masculino	eu|[té]|ri|o
+eutério	adjetivo	eu|[té]|ri|o
+eutético	adjetivo	eu|[té]|ti|co
+eutexia	nome feminino	eu|te|[xi]|a
+eutícomo	adjetivo	eu|[tí]|co|mo
+eutimia	nome feminino	eu|ti|[mi]|a
+eutiquianismo	nome masculino	eu|ti|qui|a|[nis]|mo
+eutiquiano	adjetivo	eu|ti|qui|[a]|no
+eutiquiano	nome masculino	eu|ti|qui|[a]|no
+eutocia	nome feminino	eu|to|[ci]|a
+eutócico	adjetivo	eu|[tó]|ci|co
+eutrapelia	nome feminino	eu|tra|pe|[li]|a
+eutrapélico	adjetivo	eu|tra|[pé]|li|co
+eutrofia	nome feminino	eu|tro|[fi]|a
+eutrófico	adjetivo	eu|[tró]|fi|co
+eutrofização	nome feminino	eu|tro|fi|za|[ção]
+eutrofizar	verbo	eu|tro|fi|[zar]
+eutuberácea	nome feminino	eu|tu|be|[rá]|ce|a
+euxântico	adjetivo	eu|[xân]|ti|co
+euxantina	nome feminino	eu|xan|[ti]|na
+euxénia	nome feminino	eu|[xé]|ni|a
+euxênia	nome feminino	eu|[xê]|ni|a
+euxenita	nome feminino	eu|xe|[ni]|ta
+euxenite	nome feminino	eu|xe|[ni]|te
+euzimo	nome masculino	eu|[zi]|mo
+evacuação	nome feminino	e|va|cu|a|[ção]
+evacuador	adjetivo	e|va|cu|a|[dor]
+evacuador	nome masculino	e|va|cu|a|[dor]
+evacuamento	nome masculino	e|va|cu|a|[men]|to
+evacuante	adjetivo	e|va|cu|[an]|te
+evacuante	nome masculino	e|va|cu|[an]|te
+evacuar	verbo	e|va|cu|[ar]
+evacuativo	adjetivo	e|va|cu|a|[ti]|vo
+evacuatório	adjetivo	e|va|cu|a|[tó]|ri|o
+evacuável	adjetivo	e|va|cu|[á]|vel
+evadido	adjetivo	e|va|[di]|do
+evadido	nome masculino	e|va|[di]|do
+evadir	verbo	e|va|[dir]
+evagação	nome feminino	e|va|ga|[ção]
+evaginação	nome feminino	e|va|gi|na|[ção]
+evaginador	adjetivo	e|va|gi|na|[dor]
+evaginador	nome masculino	e|va|gi|na|[dor]
+evaginamento	nome masculino	e|va|gi|na|[men]|to
+evaginante	adjetivo	e|va|gi|[nan]|te
+evaginar	verbo	e|va|gi|[nar]
+evalve	adjetivo	e|[val]|ve
+evanescência	nome feminino	e|va|nes|[cên]|ci|a
+evanescente	adjetivo	e|va|nes|[cen]|te
+evangelho	nome masculino	e|van|[ge]|lho
+evangeliário	nome masculino	e|van|ge|li|[á]|ri|o
+evangélica	nome feminino	e|van|[gé]|li|ca
+evangelicamente	advérbio	e|van|ge|li|ca|[men]|te
+evangélico	adjetivo	e|van|[gé]|li|co
+evangélico	nome masculino	e|van|[gé]|li|co
+evangelismo	nome masculino	e|van|ge|[lis]|mo
+evangelista	nome masculino	e|van|ge|[lis]|ta
+evangelista	nome feminino	e|van|ge|[lis]|ta
+evangelístico	adjetivo	e|van|ge|[lís]|ti|co
+evangelização	nome feminino	e|van|ge|li|za|[ção]

@@ -1,0 +1,100 @@
+palearqueologia	nome feminino	pa|le|ar|que|o|lo|[gi]|a
+palearqueológico	adjetivo	pa|le|ar|que|o|[ló]|gi|co
+paleártica	nome feminino	pa|le|[ár]|ti|ca
+paleártico	adjetivo	pa|le|[ár]|ti|co
+paleetnologia	nome feminino	pa|le|et|no|lo|[gi]|a
+paleetnológico	adjetivo	pa|le|et|no|[ló]|gi|co
+paleetnologista	nome masculino	pa|le|et|no|lo|[gis]|ta
+paleetnologista	nome feminino	pa|le|et|no|lo|[gis]|ta
+paleetnólogo	nome masculino	pa|le|et|[nó]|lo|go
+palega	nome feminino	pa|[le]|ga
+paleiforme	adjetivo	pa|lei|[for]|me
+paleio	nome masculino	pa|[lei]|o
+palémon	nome masculino	pa|[lé]|mon
+palêmon	nome masculino	pa|[lê]|mon
+palemónida	nome masculino	pa|le|[mó]|ni|da
+palemonídeo	adjetivo	pa|le|mo|[ní]|de|o
+palemonídeo	nome masculino	pa|le|mo|[ní]|de|o
+palemonídeo	nome masculino	pa|le|mo|[ní]|de|o
+palemônio	adjetivo	pa|le|[mô]|ni|o
+palemónio	adjetivo	pa|le|[mó]|ni|o
+palenense	adjetivo	pa|le|[nen]|se
+palenense	nome masculino	pa|le|[nen]|se
+palenense	nome feminino	pa|le|[nen]|se
+paleneu	adjetivo	pa|le|[neu]
+paleneu	nome masculino	pa|le|[neu]
+palense	nome masculino	pa|[len]|se
+palense	adjetivo	pa|[len]|se
+palense	nome feminino	pa|[len]|se
+palente	adjetivo	pa|[len]|te
+paleoantropóloga	nome feminino	pa|le|o|an|tro|[pó]|lo|ga
+paleoantropologia	nome feminino	pa|le|o|an|tro|po|lo|[gi]|a
+paleoantropológico	adjetivo	pa|le|o|an|tro|po|[ló]|gi|co
+paleoantropólogo	nome masculino	pa|le|o|an|tro|[pó]|lo|go
+paleobióloga	nome feminino	pa|le|o|bi|[ó]|lo|ga
+paleobiologia	nome feminino	pa|le|o|bi|o|lo|[gi]|a
+paleobiológico	adjetivo	pa|le|o|bi|o|[ló]|gi|co
+paleobiólogo	nome masculino	pa|le|o|bi|[ó]|lo|go
+paleobotânica	nome feminino	pa|le|o|bo|[tâ]|ni|ca
+paleobotânico	adjetivo	pa|le|o|bo|[tâ]|ni|co
+paleobotânico	nome masculino	pa|le|o|bo|[tâ]|ni|co
+paleoceno	adjetivo	pa|le|o|[ce]|no
+paleoclimatologia	nome feminino	pa|le|o|cli|ma|to|lo|[gi]|a
+paleoclimatológico	adjetivo	pa|le|o|cli|ma|to|[ló]|gi|co
+paleoclimatologista	nome masculino	pa|le|o|cli|ma|to|lo|[gis]|ta
+paleoclimatologista	nome feminino	pa|le|o|cli|ma|to|lo|[gis]|ta
+paleocristão	adjetivo	pa|le|o|cris|[tão]
+paleoecologia	nome feminino	pa|le|o|e|co|lo|[gi]|a
+paleoecológico	adjetivo	pa|le|o|e|co|[ló]|gi|co
+paleoecologista	nome masculino	pa|le|o|e|co|lo|[gis]|ta
+paleoecologista	nome feminino	pa|le|o|e|co|lo|[gis]|ta
+paleofilia	nome feminino	pa|le|o|fi|[li]|a
+paleófilo	adjetivo	pa|le|[ó]|fi|lo
+paleófilo	nome masculino	pa|le|[ó]|fi|lo
+paleofitologia	nome feminino	pa|le|o|fi|to|lo|[gi]|a
+paleofitológico	adjetivo	pa|le|o|fi|to|[ló]|gi|co
+paleofitólogo	nome masculino	pa|le|o|fi|[tó]|lo|go
+paleofobia	nome feminino	pa|le|o|fo|[bi]|a
+paleófobo	adjetivo	pa|le|[ó]|fo|bo
+paleófobo	nome masculino	pa|le|[ó]|fo|bo
+paleogéneo	adjetivo	pa|le|o|[gé]|ne|o
+paleogêneo	adjetivo	pa|le|o|[gê]|ne|o
+paleogênico	adjetivo	pa|le|o|[gê]|ni|co
+paleogénico	adjetivo	pa|le|o|[gé]|ni|co
+paleogeógrafa	nome feminino	pa|le|o|ge|[ó]|gra|fa
+paleogeografia	nome feminino	pa|le|o|ge|o|gra|[fi]|a
+paleogeográfico	adjetivo	pa|le|o|ge|o|[grá]|fi|co
+paleogeógrafo	nome masculino	pa|le|o|ge|[ó]|gra|fo
+paleógrafa	nome feminino	pa|le|[ó]|gra|fa
+paleografar	verbo	pa|le|o|gra|[far]
+paleografia	nome feminino	pa|le|o|gra|[fi]|a
+paleograficamente	advérbio	pa|le|o|gra|fi|ca|[men]|te
+paleográfico	adjetivo	pa|le|o|[grá]|fi|co
+paleógrafo	nome masculino	pa|le|[ó]|gra|fo
+paleoicnitologia	nome feminino	pa|le|oic|ni|to|lo|[gi]|a
+paléola	nome feminino	pa|[lé]|o|la
+paleolífero	adjetivo	pa|le|o|[lí]|fe|ro
+paleolítica	nome feminino	pa|le|o|[lí]|ti|ca
+paleolítico	adjetivo	pa|le|o|[lí]|ti|co
+paleolítico	nome masculino	pa|le|o|[lí]|ti|co
+paleóloga	nome feminino	pa|le|[ó]|lo|ga
+paleologia	nome feminino	pa|le|o|lo|[gi]|a
+paleológico	adjetivo	pa|le|o|[ló]|gi|co
+paleólogo	adjetivo	pa|le|[ó]|lo|go
+paleólogo	nome masculino	pa|le|[ó]|lo|go
+paleontógrafa	nome feminino	pa|le|on|[tó]|gra|fa
+paleontografia	nome feminino	pa|le|on|to|gra|[fi]|a
+paleontográfico	adjetivo	pa|le|on|to|[grá]|fi|co
+paleontógrafo	nome masculino	pa|le|on|[tó]|gra|fo
+paleontóloga	nome feminino	pa|le|on|[tó]|lo|ga
+paleontologia	nome feminino	pa|le|on|to|lo|[gi]|a
+paleontológico	adjetivo	pa|le|on|to|[ló]|gi|co
+paleontologista	nome masculino	pa|le|on|to|lo|[gis]|ta
+paleontologista	nome feminino	pa|le|on|to|lo|[gis]|ta
+paleontólogo	nome masculino	pa|le|on|[tó]|lo|go
+paleopatologia	nome feminino	pa|le|o|pa|to|lo|[gi]|a
+paleostráceo	nome masculino	pa|le|os|[trá]|ce|o
+paleostráceo	adjetivo	pa|le|os|[trá]|ce|o
+paleotemperatura	nome feminino	pa|le|o|tem|pe|ra|[tu]|ra
+paleotério	nome masculino	pa|le|o|[té]|ri|o
+paleotípico	adjetivo	pa|le|o|[tí]|pi|co

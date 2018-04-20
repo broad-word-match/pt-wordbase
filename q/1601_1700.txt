@@ -1,0 +1,100 @@
+quitação	nome feminino	qui|ta|[ção]
+quitador	adjetivo	qui|ta|[dor]
+quitador	nome masculino	qui|ta|[dor]
+quitadora	nome feminino	qui|ta|[do]|ra
+quitambuera	adjetivo	qui|tam|bu|[e]|ra
+quitambuera	nome feminino	qui|tam|bu|[e]|ra
+quitamento	nome masculino	qui|ta|[men]|to
+quitança	nome feminino	qui|[tan]|ça
+quitanda	nome feminino	qui|[tan]|da
+quitandar	verbo	qui|tan|[dar]
+quitandeira	nome feminino	qui|tan|[dei]|ra
+quitandeiro	nome masculino	qui|tan|[dei]|ro
+quitanga	nome feminino	qui|[tan]|ga
+quitante	adjetivo	qui|[tan]|te
+quitante	nome masculino	qui|[tan]|te
+quitante	nome feminino	qui|[tan]|te
+quitão	nome masculino	qui|[tão]
+quitar	verbo	qui|[tar]
+quitare	nome masculino	qui|[ta]|re
+quite	nome masculino	[qui]|te
+quite	adjetivo	[qui]|te
+quitece	nome masculino	qui|[te]|ce
+quitemente	advérbio	qui|te|[men]|te
+quitenho	adjetivo	qui|[te]|nho
+quitenho	nome masculino	qui|[te]|nho
+quitetas	nome feminino	qui|[te]|tas
+quiteve	nome masculino	qui|[te]|ve
+quiti	nome masculino	qui|[ti]
+quitia	nome feminino	qui|[ti]|a
+quitiaquenene	nome masculino	qui|ti|a|que|[ne]|ne
+quitina	nome feminino	qui|[ti]|na
+quitinóforo	nome masculino	qui|ti|[nó]|fo|ro
+quitinoso	adjetivo	qui|ti|[no]|so
+quitó	nome masculino	qui|[tó]
+quito	nome masculino	[qui]|to
+quitoco	nome masculino	qui|[to]|co
+quitólis	nome masculino	qui|[tó]|lis
+quíton	nome masculino	[quí]|ton
+quitôni	nome masculino	qui|[tô]|ni
+quitóni	nome masculino	qui|[tó]|ni
+quitonídeo	nome masculino	qui|to|[ní]|de|o
+quitoto	nome masculino	qui|[to]|to
+quitué	nome masculino	qui|tu|[é]
+quituio	nome masculino	qui|[tui]|o
+quitumbata	nome feminino	qui|tum|[ba]|ta
+quitundo	nome masculino	qui|[tun]|do
+quitundulo	nome masculino	qui|tun|[du]|lo
+quitungo	nome masculino	qui|[tun]|go
+quitura	nome feminino	qui|[tu]|ra
+quitute	nome masculino	qui|[tu]|te
+quituteiro	adjetivo	qui|tu|[tei]|ro
+quituteiro	nome masculino	qui|tu|[tei]|ro
+quituxe	nome masculino	qui|[tu]|xe
+quituza	nome feminino	qui|[tu]|za
+quiúto	nome masculino	qui|[ú]|to
+quiúza	nome feminino	qui|[ú]|za
+quivi	nome masculino	qui|[vi]
+quivória	nome feminino	qui|[vó]|ri|a
+quivúvi	nome masculino	qui|[vú]|vi
+quixaba	nome feminino	qui|[xa]|ba
+quixabeira	nome feminino	qui|xa|[bei]|ra
+quixeramobinense	adjetivo	qui|xe|ra|mo|bi|[nen]|se
+quixeramobinense	nome masculino	qui|xe|ra|mo|bi|[nen]|se
+quixeramobinense	nome feminino	qui|xe|ra|mo|bi|[nen]|se
+quixibá	nome masculino	qui|xi|[bá]
+quixicongo	nome masculino	qui|xi|[con]|go
+quixiligangue	nome masculino	qui|xi|li|[gan]|gue
+quixiluanda	nome feminino	qui|xi|lu|[an]|da
+quixipá	nome masculino	qui|xi|[pá]
+quixó	nome masculino	qui|[xó]
+quixobo	nome masculino	qui|[xo]|bo
+quixotada	nome feminino	qui|xo|[ta]|da
+quixote	nome masculino	qui|[xo]|te
+quixotear	verbo	qui|xo|te|[ar]
+quixotescamente	advérbio	qui|xo|tes|ca|[men]|te
+quixotesco	adjetivo	qui|xo|[tes]|co
+quixotice	nome feminino	qui|xo|[ti]|ce
+quixótico	adjetivo	qui|[xó]|ti|co
+quixotismo	nome masculino	qui|xo|[tis]|mo
+quizaca	nome feminino	qui|[za]|ca
+quizango	nome masculino	qui|[zan]|go
+quizengo	nome masculino	qui|[zen]|go
+quizila	nome masculino	qui|[zi]|la
+quizila	nome feminino	qui|[zi]|la
+quizilar	verbo	qui|zi|[lar]
+quizilento	adjetivo	qui|zi|[len]|to
+quizília	nome feminino	qui|[zí]|li|a
+quizoco	nome masculino	qui|[zo]|co
+quizomba	nome feminino	qui|[zom]|ba
+quizomba	nome masculino	qui|[zom]|ba
+quizúbi	nome masculino	qui|[zú]|bi
+quizumba	nome feminino	qui|[zum]|ba
+quizumbento	adjetivo	qui|zum|[ben]|to
+quizunda	nome feminino	qui|[zun]|da
+quizungrila	nome feminino	qui|zun|[gri]|la
+quocientar	verbo	quo|ci|en|[tar]
+quociente	nome masculino	quo|ci|[en]|te
+quodlibetário	adjetivo	quo|dli|be|[tá]|ri|o
+quodlibético	adjetivo	quo|dli|[bé]|ti|co
+quodlibeto	nome masculino	quo|dli|[be]|to

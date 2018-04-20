@@ -1,0 +1,100 @@
+aturável	adjetivo	a|tu|[rá]|vel
+aturdido	adjetivo	a|tur|[di]|do
+aturdidor	adjetivo	a|tur|di|[dor]
+aturdidor	nome masculino	a|tur|di|[dor]
+aturdimento	nome masculino	a|tur|di|[men]|to
+aturdir	verbo	a|tur|[dir]
+aturdizar	verbo	a|tur|di|[zar]
+aturgir	verbo	a|tur|[gir]
+aturiá	nome masculino	a|tu|ri|[á]
+aturiazal	nome masculino	a|tu|ri|a|[zal]
+aturrear	verbo	a|tur|re|[ar]
+aturvar	verbo	a|tur|[var]
+au-au	nome masculino	[au-au]
+auaçu	nome masculino	au|a|[çu]
+auati	nome masculino	au|a|[ti]
+aubriécia	nome feminino	au|bri|[é]|ci|a
+auçá	nome masculino	au|[çá]
+aução	nome feminino	au|[ção]
+aucuba	nome feminino	au|[cu]|ba
+aucúpio	nome masculino	au|[cú]|pi|o
+audace	adjetivo	au|[da]|ce
+audácia	nome feminino	au|[dá]|ci|a
+audaciosa	nome feminino	au|da|ci|[o]|sa
+audaciosamente	advérbio	au|da|ci|o|sa|[men]|te
+audacioso	adjetivo	au|da|ci|[o]|so
+audacioso	nome masculino	au|da|ci|[o]|so
+audacíssimo	adjetivo	au|da|[cís]|si|mo
+audaz	adjetivo	au|[daz]
+audazmente	advérbio	au|daz|[men]|te
+aúde	nome feminino	a|[ú]|de
+audião	nome masculino	au|di|[ão]
+audibilidade	nome feminino	au|di|bi|li|[da]|de
+audição	nome feminino	au|di|[ção]
+audiença	nome feminino	au|di|[en]|ça
+audiência	nome feminino	au|di|[ên]|ci|a
+audiente	adjetivo	au|di|[en]|te
+audimetria	nome feminino	au|di|me|[tri]|a
+audímetro	nome masculino	au|[dí]|me|tro
+audimudez	nome feminino	au|di|mu|[dez]
+audimudo	adjetivo	au|di|[mu]|do
+audimudo	nome masculino	au|di|[mu]|do
+áudio	adjetivo	[áu]|di|o
+áudio	nome masculino	[áu]|di|o
+audiocassete	nome feminino	au|di|o|cas|[se]|te
+audiofone	nome masculino	au|di|o|[fo]|ne
+audiofônico	adjetivo	au|di|o|[fô]|ni|co
+audiofónico	adjetivo	au|di|o|[fó]|ni|co
+audiofrequência	nome feminino	au|di|o|fre|[quên]|ci|a
+audiograma	nome masculino	au|di|o|[gra]|ma
+audiologia	nome feminino	au|di|o|lo|[gi]|a
+audiológico	adjetivo	au|di|o|[ló]|gi|co
+audiologista	nome masculino	au|di|o|lo|[gis]|ta
+audiologista	nome feminino	au|di|o|lo|[gis]|ta
+audiólogo	nome masculino	au|di|[ó]|lo|go
+audiometria	nome feminino	au|di|o|me|[tri]|a
+audiométrico	adjetivo	au|di|o|[mé]|tri|co
+audiómetro	nome masculino	au|di|[ó]|me|tro
+audiômetro	nome masculino	au|di|[ô]|me|tro
+audiovisual	nome masculino	au|di|o|vi|su|[al]
+audiovisual	adjetivo	au|di|o|vi|su|[al]
+auditar	verbo	au|di|[tar]
+auditivamente	advérbio	au|di|ti|va|[men]|te
+auditividade	nome feminino	au|di|ti|vi|[da]|de
+auditivo	adjetivo	au|di|[ti]|vo
+audito	nome masculino	au|[di]|to
+auditor	nome masculino	au|di|[tor]
+auditora	nome feminino	au|di|[to]|ra
+auditoria	nome feminino	au|di|to|[ri]|a
+auditório	nome masculino	au|di|[tó]|ri|o
+auditório	adjetivo	au|di|[tó]|ri|o
+audível	adjetivo	au|[dí]|vel
+audivelmente	advérbio	au|di|vel|[men]|te
+auê	nome masculino	au|[ê]
+aueti	nome feminino	au|e|[ti]
+aueti	adjetivo	au|e|[ti]
+aueti	nome masculino	au|e|[ti]
+auferir	verbo	au|fe|[rir]
+auferível	adjetivo	au|fe|[rí]|vel
+aufidenate	adjetivo	au|fi|de|[na]|te
+aufidenate	nome masculino	au|fi|de|[na]|te
+aufidenate	nome feminino	au|fi|de|[na]|te
+aufúgio	nome masculino	au|[fú]|gi|o
+augado	adjetivo	au|[ga]|do
+augar	verbo	au|[gar]
+auge	nome masculino	[au]|ge
+augir	verbo	au|[gir]
+augita	nome feminino	au|[gi]|ta
+augite	nome feminino	au|[gi]|te
+augítico	adjetivo	au|[gí]|ti|co
+augitito	nome masculino	au|gi|[ti]|to
+augueira	nome feminino	au|[guei]|ra
+augueiro	nome masculino	au|[guei]|ro
+auguração	nome feminino	au|gu|ra|[ção]
+augurador	adjetivo	au|gu|ra|[dor]
+augurador	nome masculino	au|gu|ra|[dor]
+augural	adjetivo	au|gu|[ral]
+augurar	verbo	au|gu|[rar]
+augurato	nome masculino	au|gu|[ra]|to
+auguratório	adjetivo	au|gu|ra|[tó]|ri|o
+auguratório	nome masculino	au|gu|ra|[tó]|ri|o

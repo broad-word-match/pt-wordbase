@@ -1,0 +1,100 @@
+penhor	nome masculino	pe|[nhor]
+penhora	nome feminino	pe|[nho]|ra
+penhoradamente	advérbio	pe|nho|ra|da|[men]|te
+penhorado	adjetivo	pe|nho|[ra]|do
+penhorante	adjetivo	pe|nho|[ran]|te
+penhorantemente	advérbio	pe|nho|ran|te|[men]|te
+penhorar	verbo	pe|nho|[rar]
+penhoratício	nome masculino	pe|nho|ra|[tí]|ci|o
+penhorável	adjetivo	pe|nho|[rá]|vel
+penhorista	nome masculino	pe|nho|[ris]|ta
+penhorista	adjetivo	pe|nho|[ris]|ta
+penhorista	nome feminino	pe|nho|[ris]|ta
+pêni	nome masculino	[pê]|ni
+péni	nome masculino	[pé]|ni
+pénia	nome feminino	[pé]|ni|a
+pênia	nome feminino	[pê]|ni|a
+peniano	adjetivo	pe|ni|[a]|no
+penicada	nome feminino	pe|ni|[ca]|da
+penicar	verbo	pe|ni|[car]
+penicheira	nome feminino	pe|ni|[chei]|ra
+penicheiro	adjetivo	pe|ni|[chei]|ro
+penicheiro	nome masculino	pe|ni|[chei]|ro
+penichense	nome masculino	pe|ni|[chen]|se
+penichense	adjetivo	pe|ni|[chen]|se
+penichense	nome feminino	pe|ni|[chen]|se
+penicilária	nome feminino	pe|ni|ci|[lá]|ri|a
+peniciliforme	adjetivo	pe|ni|ci|li|[for]|me
+penicilina	nome feminino	pe|ni|ci|[li]|na
+penicílio	nome masculino	pe|ni|[cí]|li|o
+penicilo	nome masculino	pe|ni|[ci]|lo
+pénico	adjetivo	[pé]|ni|co
+pénico	nome masculino	[pé]|ni|co
+penico	nome masculino	pe|[ni]|co
+pênico	adjetivo	[pê]|ni|co
+pênico	nome masculino	[pê]|ni|co
+penífero	adjetivo	pe|[ní]|fe|ro
+penificar	verbo	pe|ni|fi|[car]
+peniforme	adjetivo	pe|ni|[for]|me
+penígero	adjetivo	pe|[ní]|ge|ro
+penilho	nome masculino	pe|[ni]|lho
+penina	nome feminino	pe|[ni]|na
+peninervado	adjetivo	pe|ni|ner|[va]|do
+peninérveo	adjetivo	pe|ni|[nér]|ve|o
+peninho	nome masculino	pe|[ni]|nho
+peninita	nome feminino	pe|ni|[ni]|ta
+peninite	nome feminino	pe|ni|[ni]|te
+penino	adjetivo	pe|[ni]|no
+península	nome feminino	pe|[nín]|su|la
+peninsular	adjetivo	pe|nin|su|[lar]
+peninsular	nome masculino	pe|nin|su|[lar]
+peninsular	nome feminino	pe|nin|su|[lar]
+peniposte	nome masculino	pe|ni|[pos]|te
+penipotente	adjetivo	pe|ni|po|[ten]|te
+peniqueira	nome feminino	pe|ni|[quei]|ra
+pênis	nome masculino	[pê]|nis
+pénis	nome masculino	[pé]|nis
+penisco	nome masculino	pe|[nis]|co
+penite	nome feminino	pe|[ni]|te
+penitência	nome feminino	pe|ni|[tên]|ci|a
+penitenciado	nome masculino	pe|ni|ten|ci|[a]|do
+penitenciado	adjetivo	pe|ni|ten|ci|[a]|do
+penitencial	adjetivo	pe|ni|ten|ci|[al]
+penitencial	nome masculino	pe|ni|ten|ci|[al]
+penitenciar	verbo	pe|ni|ten|ci|[ar]
+penitenciária	nome feminino	pe|ni|ten|ci|[á]|ri|a
+penitenciaria	nome feminino	pe|ni|ten|ci|a|[ri]|a
+penitenciário	nome masculino	pe|ni|ten|ci|[á]|ri|o
+penitenciário	adjetivo	pe|ni|ten|ci|[á]|ri|o
+penitenciário-mor	nome masculino	pe|ni|ten|ci|á|ri|o-mor
+penitencieiro	nome masculino	pe|ni|ten|ci|[ei]|ro
+penitente	adjetivo	pe|ni|[ten]|te
+penitente	nome masculino	pe|ni|[ten]|te
+penitente	nome feminino	pe|ni|[ten]|te
+penível	adjetivo	pe|[ní]|vel
+penjabês	adjetivo	pen|ja|[bês]
+penjabês	nome masculino	pen|ja|[bês]
+penjábico	adjetivo	pen|[já]|bi|co
+penjábico	nome masculino	pen|[já]|bi|co
+peno	adjetivo	[pe]|no
+peno	nome masculino	[pe]|no
+penoca	nome feminino	pe|[no]|ca
+penoco	nome masculino	pe|[no]|co
+penol	nome masculino	pe|[nol]
+penologia	nome feminino	pe|no|lo|[gi]|a
+penológico	adjetivo	pe|no|[ló]|gi|co
+penologista	nome masculino	pe|no|lo|[gis]|ta
+penologista	nome feminino	pe|no|lo|[gis]|ta
+penólogo	nome masculino	pe|[nó]|lo|go
+penosa	nome feminino	pe|[no]|sa
+penosa	nome masculino	pe|[no]|sa
+penosamente	advérbio	pe|no|sa|[men]|te
+penoso	adjetivo	pe|[no]|so
+penoso	nome masculino	pe|[no]|so
+penostro	nome masculino	pe|[nos]|tro
+pensadamente	advérbio	pen|sa|da|[men]|te
+pensado	adjetivo	pen|[sa]|do
+pensador	nome masculino	pen|sa|[dor]
+pensador	adjetivo	pen|sa|[dor]
+pensadora	nome feminino	pen|sa|[do]|ra
+pensadouro	nome masculino	pen|sa|[dou]|ro

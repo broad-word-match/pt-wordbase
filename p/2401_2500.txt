@@ -1,0 +1,100 @@
+pardejar	verbo	par|de|[jar]
+pardejo	nome masculino	par|[de]|jo
+pardela	nome feminino	par|[de]|la
+pardelha	nome feminino	par|[de]|lha
+pardelhas	interjeição	par|[de]|lhas
+pardelho	nome masculino	par|[de]|lho
+pardento	adjetivo	par|[den]|to
+pardês	interjeição	par|[dês]
+pardeus	interjeição	par|[deus]
+pardicas	interjeição	par|[di]|cas
+pardieiro	nome masculino	par|di|[ei]|ro
+pardilhal	nome masculino	par|di|[lhal]
+pardilhão	nome masculino	par|di|[lhão]
+pardilheira	nome feminino	par|di|[lhei]|ra
+pardilho	nome masculino	par|[di]|lho
+pardilho	adjetivo	par|[di]|lho
+pardinha	nome feminino	par|[di]|nha
+pardinho	nome masculino	par|[di]|nho
+pardo	adjetivo	[par]|do
+pardo	nome masculino	[par]|do
+pardo-amarelado	adjetivo	par|do-a|ma|re|[la]|do
+pardo-escuro	adjetivo	par|do-es|[cu]|ro
+pardo-escuro	nome masculino	par|do-es|[cu]|ro
+pardo-lindo	nome masculino	par|do-lin|do
+pardo-violeta	adjetivo	par|do-vi|o|[le]|ta
+pardo-violeta	nome masculino	par|do-vi|o|[le]|ta
+pardoca	nome feminino	par|[do]|ca
+pardoca-francesa	nome feminino	par|do|ca-fran|[ce]|sa
+pardusco	adjetivo	par|[dus]|co
+pareador	adjetivo	pa|re|a|[dor]
+pareador	nome masculino	pa|re|a|[dor]
+parear	verbo	pa|re|[ar]
+páreas	nome feminino	[pá]|re|as
+parecença	nome feminino	pa|re|[cen]|ça
+parecente	adjetivo	pa|re|[cen]|te
+parecer	nome masculino	pa|re|[cer]
+parecer	verbo	pa|re|[cer]
+pareci	adjetivo	pa|re|[ci]
+pareci	nome masculino	pa|re|[ci]
+pareci	nome feminino	pa|re|[ci]
+parecidamente	advérbio	pa|re|ci|da|[men]|te
+parecido	adjetivo	pa|re|[ci]|do
+paréctase	nome feminino	pa|[réc]|ta|se
+paredão	nome masculino	pa|re|[dão]
+parede	nome feminino	pa|[re]|de
+paredeiro	adjetivo	pa|re|[dei]|ro
+paredeiro	nome masculino	pa|re|[dei]|ro
+paredense	nome masculino	pa|re|[den]|se
+paredense	adjetivo	pa|re|[den]|se
+paredense	nome feminino	pa|re|[den]|se
+paredismo	nome masculino	pa|re|[dis]|mo
+paredista	nome masculino	pa|re|[dis]|ta
+paredista	nome feminino	pa|re|[dis]|ta
+paredro	nome masculino	pa|[re]|dro
+paregoria	nome feminino	pa|re|go|[ri]|a
+paregórico	adjetivo	pa|re|[gó]|ri|co
+pareia	nome feminino	pa|[rei]|a
+pareléctrico	adjetivo	pa|re|[léc]|tri|co
+parelétrico	adjetivo	pa|re|[lé]|tri|co
+parelha	nome feminino	pa|[re]|lha
+parelhamente	advérbio	pa|re|lha|[men]|te
+parelhão	nome masculino	pa|re|[lhão]
+parelheiro	adjetivo	pa|re|[lhei]|ro
+parelheiro	nome masculino	pa|re|[lhei]|ro
+parelho	adjetivo	pa|[re]|lho
+parelho	nome masculino	pa|[re]|lho
+parélico	adjetivo	pa|[ré]|li|co
+parélio	nome masculino	pa|[ré]|li|o
+parêmbole	nome feminino	pa|[rêm]|bo|le
+parêmia	nome feminino	pa|[rê]|mi|a
+parémia	nome feminino	pa|[ré]|mi|a
+paremíaco	adjetivo	pa|re|[mí]|a|co
+paremíaco	nome masculino	pa|re|[mí]|a|co
+paremiedria	nome feminino	pa|re|mi|e|[dri]|a
+paremiografia	nome feminino	pa|re|mi|o|gra|[fi]|a
+paremiográfico	adjetivo	pa|re|mi|o|[grá]|fi|co
+paremiógrafo	nome masculino	pa|re|mi|[ó]|gra|fo
+paremiologia	nome feminino	pa|re|mi|o|lo|[gi]|a
+paremiológico	adjetivo	pa|re|mi|o|[ló]|gi|co
+paremiologista	nome masculino	pa|re|mi|o|lo|[gis]|ta
+paremiologista	nome feminino	pa|re|mi|o|lo|[gis]|ta
+paremiólogo	nome masculino	pa|re|mi|[ó]|lo|go
+paremptose	nome feminino	pa|remp|[to]|se
+parencefálico	adjetivo	pa|ren|ce|[fá]|li|co
+parencéfalo	nome masculino	pa|ren|[cé]|fa|lo
+parencefalocele	nome feminino	pa|ren|ce|fa|lo|[ce]|le
+parênese	nome feminino	pa|[rê]|ne|se
+parénese	nome feminino	pa|[ré]|ne|se
+parenética	nome feminino	pa|re|[né]|ti|ca
+parenético	adjetivo	pa|re|[né]|ti|co
+parênquima	nome masculino	pa|[rên]|qui|ma
+parenquimático	adjetivo	pa|ren|qui|[má]|ti|co
+parenquimatoso	adjetivo	pa|ren|qui|ma|[to]|so
+parental	adjetivo	pa|ren|[tal]
+parentalha	nome feminino	pa|ren|[ta]|lha
+parentano	adjetivo	pa|ren|[ta]|no
+parentano	nome masculino	pa|ren|[ta]|no
+parentar	verbo	pa|ren|[tar]
+parente	adjetivo	pa|[ren]|te
+parente	nome masculino	pa|[ren]|te

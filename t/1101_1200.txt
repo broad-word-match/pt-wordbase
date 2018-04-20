@@ -1,0 +1,100 @@
+tantinho	adjetivo	tan|[ti]|nho
+tantinho	nome masculino	tan|[ti]|nho
+tantíssimo	adjetivo	tan|[tís]|si|mo
+tantito	adjetivo	tan|[ti]|to
+tantito	nome masculino	tan|[ti]|to
+tanto	artigo indefinido	[tan]|to
+tanto	pronome indefinido	[tan]|to
+tanto	nome masculino	[tan]|to
+tanto	advérbio	[tan]|to
+tantra	nome masculino	[tan]|tra
+tântrico	adjetivo	[tân]|tri|co
+tantrismo	nome masculino	tan|[tris]|mo
+tantundem	nome masculino	tan|[tun]|dem
+tantúrrios	nome masculino	tan|[túr]|ri|os
+tanxina	nome masculino	tan|[xi]|na
+tanzaniana	nome feminino	tan|za|ni|[a]|na
+tanzaniano	adjetivo	tan|za|ni|[a]|no
+tanzaniano	nome masculino	tan|za|ni|[a]|no
+tao	nome masculino	[tao]
+tão	advérbio	[tão]
+tão-balalão	nome masculino	tão-ba|la|[lão]
+tão-pouco	advérbio	tão-pou|co
+tão-só	advérbio	tão-só
+taoca	nome feminino	ta|[o]|ca
+taoismo	nome masculino	tao|[is]|mo
+taoista	nome masculino	ta|[ois]|ta
+taoista	nome feminino	ta|[ois]|ta
+taoista	adjetivo	ta|[ois]|ta
+taoístico	adjetivo	tao|[ís]|ti|co
+tapa	nome feminino	[ta]|pa
+tapa-boca	nome masculino	ta|pa-bo|ca
+tapa-boquilha	nome masculino	ta|pa-bo|[qui]|lha
+tapa-buracos	nome masculino	ta|pa-bu|[ra]|cos
+tapa-cu	nome masculino	ta|pa-cu
+tapa-embornais	nome masculino	ta|pa-em|bor|[nais]
+tapa-esteiros	nome masculino	ta|pa-es|[tei]|ros
+tapa-furos	nome masculino	ta|pa-fu|ros
+tapa-luz	nome masculino	ta|pa-luz
+tapa-misérias	nome masculino	ta|pa-mi|[sé]|ri|as
+tapa-olho	nome masculino	ta|pa-o|lho
+tapa-olhos	nome masculino	ta|pa-o|lhos
+tapa-rosto	nome masculino	ta|pa-ros|to
+tapa-sexo	nome masculino	ta|pa-se|xo
+tapa-sol	nome masculino	ta|pa-sol
+tapaciriba	nome feminino	ta|pa|ci|[ri]|ba
+tapada	nome feminino	ta|[pa]|da
+tapadão	nome masculino	ta|pa|[dão]
+tapadeira	nome feminino	ta|pa|[dei]|ra
+tapadeiro	nome masculino	ta|pa|[dei]|ro
+tapado	adjetivo	ta|[pa]|do
+tapado	nome masculino	ta|[pa]|do
+tapadoira	nome feminino	ta|pa|[doi]|ra
+tapadoiro	nome masculino	ta|pa|[doi]|ro
+tapadona	nome feminino	ta|pa|[do]|na
+tapador	nome masculino	ta|pa|[dor]
+tapadote	adjetivo	ta|pa|[do]|te
+tapadoura	nome feminino	ta|pa|[dou]|ra
+tapadouro	nome masculino	ta|pa|[dou]|ro
+tapadura	nome feminino	ta|pa|[du]|ra
+tapagem	nome feminino	ta|[pa]|gem
+tapajiba	nome feminino	ta|pa|[ji]|ba
+tapajó	adjetivo	ta|pa|[jó]
+tapajó	nome masculino	ta|pa|[jó]
+tapajó	nome feminino	ta|pa|[jó]
+tapamento	nome masculino	ta|pa|[men]|to
+tapanhoacanga	nome feminino	ta|pa|nho|a|[can]|ga
+tapanhuna	adjetivo	ta|pa|[nhu]|na
+tapanhuna	nome masculino	ta|pa|[nhu]|na
+tapanhuna	nome feminino	ta|pa|[nhu]|na
+tapanhuno	nome masculino	ta|pa|[nhu]|no
+tapar	verbo	ta|[par]
+tapari	nome masculino	ta|pa|[ri]
+tape	adjetivo	[ta]|pe
+tape	nome masculino	[ta]|pe
+tape	nome feminino	[ta]|pe
+tape-tape	nome masculino	ta|pe-ta|pe
+tapeação	nome feminino	ta|pe|a|[ção]
+tapeador	adjetivo	ta|pe|a|[dor]
+tapeador	nome masculino	ta|pe|a|[dor]
+tapeamento	nome masculino	ta|pe|a|[men]|to
+tapeante	adjetivo	ta|pe|[an]|te
+tapear	verbo	ta|pe|[ar]
+tapeçar	verbo	ta|pe|[çar]
+tapeçaria	nome feminino	ta|pe|ça|[ri]|a
+tapeceiro	nome masculino	ta|pe|[cei]|ro
+tapeíra	nome feminino	ta|pe|[í]|ra
+tapejara	nome masculino	ta|pe|[ja]|ra
+tapejara	nome feminino	ta|pe|[ja]|ra
+tapema	nome masculino	ta|[pe]|ma
+tapera	nome feminino	ta|[pe]|ra
+taperá	nome masculino	ta|pe|[rá]
+taperebá	nome masculino	ta|pe|re|[bá]
+taperebazeiro	nome masculino	ta|pe|re|ba|[zei]|ro
+taperebazinho	nome masculino	ta|pe|re|ba|[zi]|nho
+taperoá	nome masculino	ta|pe|ro|[á]
+taperu	nome masculino	ta|pe|[ru]
+taperuçu	nome masculino	ta|pe|ru|[çu]
+tapeta	nome feminino	ta|[pe]|ta
+tapetar	verbo	ta|pe|[tar]
+tapete	nome masculino	ta|[pe]|te

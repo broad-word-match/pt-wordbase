@@ -1,0 +1,100 @@
+assémio	adjetivo	as|[sé]|mi|o
+assémio	nome masculino	as|[sé]|mi|o
+assenhorado	adjetivo	as|se|nho|[ra]|do
+assenhorar	verbo	as|se|nho|[rar]
+assenhoreamento	nome masculino	as|se|nho|re|a|[men]|to
+assenhorear	verbo	as|se|nho|re|[ar]
+assenso	nome masculino	as|[sen]|so
+assentada	nome feminino	as|sen|[ta]|da
+assentadeira	nome feminino	as|sen|ta|[dei]|ra
+assentado	adjetivo	as|sen|[ta]|do
+assentador	nome masculino	as|sen|ta|[dor]
+assentadora	nome feminino	as|sen|ta|[do]|ra
+assentamento	nome masculino	as|sen|ta|[men]|to
+assentar	verbo	as|sen|[tar]
+assentável	adjetivo	as|sen|[tá]|vel
+assente	adjetivo	as|[sen]|te
+assentimento	nome masculino	as|sen|ti|[men]|to
+assentir	verbo	as|sen|[tir]
+assentista	nome masculino	as|sen|[tis]|ta
+assento	nome masculino	as|[sen]|to
+assépalo	adjetivo	as|[sé]|pa|lo
+assepsia	nome feminino	as|sep|[si]|a
+assepsiar	verbo	as|sep|si|[ar]
+assepticamente	advérbio	as|sep|ti|ca|[men]|te
+asséptico	adjetivo	as|[sép]|ti|co
+asseptização	nome feminino	as|sep|ti|za|[ção]
+asseptol	nome masculino	as|sep|[tol]
+asserção	nome feminino	as|ser|[ção]
+asserenar	verbo	as|se|re|[nar]
+asseriate	adjetivo	as|se|ri|[a]|te
+asseriate	nome masculino	as|se|ri|[a]|te
+asseriate	nome feminino	as|se|ri|[a]|te
+asserio	nome masculino	as|se|[ri]|o
+asserir	verbo	as|se|[rir]
+assertar	verbo	as|ser|[tar]
+assertiva	nome feminino	as|ser|[ti]|va
+assertivamente	advérbio	as|ser|ti|va|[men]|te
+assertividade	nome feminino	as|ser|ti|vi|[da]|de
+assertivo	adjetivo	as|ser|[ti]|vo
+asserto	nome masculino	as|[ser]|to
+assertoado	adjetivo	as|ser|to|[a]|do
+assertoar	verbo	as|ser|to|[ar]
+assertor	nome masculino	as|ser|[tor]
+assertórico	adjetivo	as|ser|[tó]|ri|co
+assertório	adjetivo	as|ser|[tó]|ri|o
+assesiate	adjetivo	as|se|si|[a]|te
+assesiate	nome masculino	as|se|si|[a]|te
+assesiate	nome feminino	as|se|si|[a]|te
+assessegar	verbo	as|ses|se|[gar]
+assessor	nome masculino	as|ses|[sor]
+assessor	adjetivo	as|ses|[sor]
+assessora	nome feminino	as|ses|[so]|ra
+assessorado	nome masculino	as|ses|so|[ra]|do
+assessorado	adjetivo	as|ses|so|[ra]|do
+assessorar	verbo	as|ses|so|[rar]
+assessoria	nome feminino	as|ses|so|[ri]|a
+assessorial	adjetivo	as|ses|so|ri|[al]
+assessório	adjetivo	as|ses|[só]|ri|o
+assestar	verbo	as|ses|[tar]
+assesto	nome masculino	as|[ses]|to
+assetar	verbo	as|se|[tar]
+asseteador	adjetivo	as|se|te|a|[dor]
+asseteador	nome masculino	as|se|te|a|[dor]
+assetear	verbo	as|se|te|[ar]
+assético	adjetivo	as|[sé]|ti|co
+assevandijamento	nome masculino	as|se|van|di|ja|[men]|to
+assevandijar	verbo	as|se|van|di|[jar]
+asseveração	nome feminino	as|se|ve|ra|[ção]
+asseverador	adjetivo	as|se|ve|ra|[dor]
+asseverador	nome masculino	as|se|ve|ra|[dor]
+asseverante	adjetivo	as|se|ve|[ran]|te
+asseverar	verbo	as|se|ve|[rar]
+asseverativamente	advérbio	as|se|ve|ra|ti|va|[men]|te
+asseverativo	adjetivo	as|se|ve|ra|[ti]|vo
+asseverável	adjetivo	as|se|ve|[rá]|vel
+assexo	adjetivo	as|[se]|xo
+assexuado	adjetivo	as|se|xu|[a]|do
+assexual	adjetivo	as|se|xu|[al]
+assexualidade	nome feminino	as|se|xu|a|li|[da]|de
+assezoar	verbo	as|se|zo|[ar]
+assi	advérbio	as|[si]
+assialia	nome feminino	as|si|a|[li]|a
+assiálico	adjetivo	as|si|[á]|li|co
+assibilação	nome feminino	as|si|bi|la|[ção]
+assibilar	verbo	as|si|bi|[lar]
+assidente	adjetivo	as|si|[den]|te
+assideração	nome feminino	as|si|de|ra|[ção]
+assidrado	adjetivo	as|si|[dra]|do
+assidrar	verbo	as|si|[drar]
+assiduamente	advérbio	as|si|du|a|[men]|te
+assiduidade	nome feminino	as|si|du|i|[da]|de
+assíduo	adjetivo	as|[sí]|du|o
+assifôneo	nome masculino	as|si|[fô]|ne|o
+assifóneo	nome masculino	as|si|[fó]|ne|o
+assigmático	adjetivo	as|sig|[má]|ti|co
+assigmo	adjetivo	as|[sig]|mo
+assilabia	nome feminino	as|si|la|[bi]|a
+assilabicamente	advérbio	as|si|la|bi|ca|[men]|te
+assilábico	adjetivo	as|si|[lá]|bi|co
+assílabo	nome masculino	as|[sí]|la|bo

@@ -1,0 +1,100 @@
+compactas	nome feminino	com|[pac]|tas
+compactidade	nome feminino	com|pac|ti|[da]|de
+compacto	adjetivo	com|[pac]|to
+compacto	nome masculino	com|[pac]|to
+compactuar	verbo	com|pac|tu|[ar]
+compadecedor	nome masculino	com|pa|de|ce|[dor]
+compadecedor	adjetivo	com|pa|de|ce|[dor]
+compadecer	verbo	com|pa|de|[cer]
+compadecidamente	advérbio	com|pa|de|ci|da|[men]|te
+compadecido	adjetivo	com|pa|de|[ci]|do
+compadecimento	nome masculino	com|pa|de|ci|[men]|to
+compadrada	nome feminino	com|pa|[dra]|da
+compadrado	nome masculino	com|pa|[dra]|do
+compadrado	adjetivo	com|pa|[dra]|do
+compadrar	verbo	com|pa|[drar]
+compadre	nome masculino	com|[pa]|dre
+compadrear	verbo	com|pa|dre|[ar]
+compadresco	adjetivo	com|pa|[dres]|co
+compadresco	nome masculino	com|pa|[dres]|co
+compadria	nome feminino	com|pa|[dri]|a
+compadrice	nome feminino	com|pa|[dri]|ce
+compadrio	nome masculino	com|pa|[dri]|o
+compaginação	nome feminino	com|pa|gi|na|[ção]
+compaginador	nome masculino	com|pa|gi|na|[dor]
+compaginar	verbo	com|pa|gi|[nar]
+compaginável	adjetivo	com|pa|gi|[ná]|vel
+compaixão	nome feminino	com|pai|[xão]
+companha	nome feminino	com|[pa]|nha
+companheira	nome feminino	com|pa|[nhei]|ra
+companheirão	nome masculino	com|pa|nhei|[rão]
+companheirismo	nome masculino	com|pa|nhei|[ris]|mo
+companheiro	nome masculino	com|pa|[nhei]|ro
+companheiro	adjetivo	com|pa|[nhei]|ro
+companheirona	nome feminino	com|pa|nhei|[ro]|na
+companhia	nome feminino	com|pa|[nhi]|a
+cômpar	adjetivo	[côm]|par
+comparabilidade	nome feminino	com|pa|ra|bi|li|[da]|de
+comparação	nome feminino	com|pa|ra|[ção]
+comparado	adjetivo	com|pa|[ra]|do
+comparador	nome masculino	com|pa|ra|[dor]
+comparador	adjetivo	com|pa|ra|[dor]
+comparadora	nome feminino	com|pa|ra|[do]|ra
+comparança	nome feminino	com|pa|[ran]|ça
+comparar	verbo	com|pa|[rar]
+comparatístico	adjetivo	com|pa|ra|[tís]|ti|co
+comparativamente	advérbio	com|pa|ra|ti|va|[men]|te
+comparativismo	nome masculino	com|pa|ra|ti|[vis]|mo
+comparativista	nome masculino	com|pa|ra|ti|[vis]|ta
+comparativista	nome feminino	com|pa|ra|ti|[vis]|ta
+comparativo	nome masculino	com|pa|ra|[ti]|vo
+comparativo	adjetivo	com|pa|ra|[ti]|vo
+comparável	adjetivo	com|pa|[rá]|vel
+comparavelmente	advérbio	com|pa|ra|vel|[men]|te
+comparecência	nome feminino	com|pa|re|[cên]|ci|a
+comparecente	adjetivo	com|pa|re|[cen]|te
+comparecer	verbo	com|pa|re|[cer]
+comparecimento	nome masculino	com|pa|re|ci|[men]|to
+comparência	nome feminino	com|pa|[rên]|ci|a
+comparoquiano	nome masculino	com|pa|ro|qui|[a]|no
+comparsa	nome masculino	com|[par]|sa
+comparsa	nome feminino	com|[par]|sa
+comparsaria	nome feminino	com|par|sa|[ri]|a
+comparte	adjetivo	com|[par]|te
+comparte	nome masculino	com|[par]|te
+comparte	nome feminino	com|[par]|te
+compartição	nome feminino	com|par|ti|[ção]
+comparticipação	nome feminino	com|par|ti|ci|pa|[ção]
+comparticipado	adjetivo	com|par|ti|ci|[pa]|do
+comparticipante	adjetivo	com|par|ti|ci|[pan]|te
+comparticipante	nome masculino	com|par|ti|ci|[pan]|te
+comparticipante	nome feminino	com|par|ti|ci|[pan]|te
+comparticipar	verbo	com|par|ti|ci|[par]
+comparticipável	adjetivo	com|par|ti|ci|[pá]|vel
+compartícipe	adjetivo	com|par|[tí]|ci|pe
+compartilha	nome feminino	com|par|[ti]|lha
+compartilhador	adjetivo	com|par|ti|lha|[dor]
+compartilhador	nome masculino	com|par|ti|lha|[dor]
+compartilhante	adjetivo	com|par|ti|[lhan]|te
+compartilhante	nome masculino	com|par|ti|[lhan]|te
+compartilhante	nome feminino	com|par|ti|[lhan]|te
+compartilhar	verbo	com|par|ti|[lhar]
+compartilhável	adjetivo	com|par|ti|[lhá]|vel
+compartimentação	nome feminino	com|par|ti|men|ta|[ção]
+compartimentar	verbo	com|par|ti|men|[tar]
+compartimento	nome masculino	com|par|ti|[men]|to
+compartir	verbo	com|par|[tir]
+compáscuo	nome masculino	com|[pás]|cu|o
+compassadamente	advérbio	com|pas|sa|da|[men]|te
+compassado	adjetivo	com|pas|[sa]|do
+compassageiro	nome masculino	com|pas|sa|[gei]|ro
+compassar	verbo	com|pas|[sar]
+compassibilidade	nome feminino	com|pas|si|bi|li|[da]|de
+compassivamente	advérbio	com|pas|si|va|[men]|te
+compassível	adjetivo	com|pas|[sí]|vel
+compassividade	nome feminino	com|pas|si|vi|[da]|de
+compassivo	adjetivo	com|pas|[si]|vo
+compasso	nome masculino	com|[pas]|so
+compaternidade	nome feminino	com|pa|ter|ni|[da]|de
+compatibilidade	nome feminino	com|pa|ti|bi|li|[da]|de
+compatibilização	nome feminino	com|pa|ti|bi|li|za|[ção]

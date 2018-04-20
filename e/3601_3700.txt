@@ -1,0 +1,100 @@
+endopleura	nome feminino	en|do|[pleu]|ra
+endópode	nome masculino	en|[dó]|po|de
+endopódio	nome masculino	en|do|[pó]|di|o
+endóptera	nome feminino	en|[dóp]|te|ra
+endorfina	nome feminino	en|dor|[fi]|na
+endorreico	adjetivo	en|dor|[rei]|co
+endorrizo	adjetivo	en|dor|[ri]|zo
+endorsar	verbo	en|dor|[sar]
+endoscopia	nome feminino	en|dos|co|[pi]|a
+endoscópico	adjetivo	en|dos|[có]|pi|co
+endoscópio	nome masculino	en|dos|[có]|pi|o
+endosfera	nome feminino	en|dos|[fe]|ra
+endosférico	adjetivo	en|dos|[fé]|ri|co
+endosmométrico	adjetivo	en|dos|mo|[mé]|tri|co
+endosmômetro	nome masculino	en|dos|[mô]|me|tro
+endosmómetro	nome masculino	en|dos|[mó]|me|tro
+endosmose	nome feminino	en|dos|[mo]|se
+endosmótico	adjetivo	en|dos|[mó]|ti|co
+endosperma	nome masculino	en|dos|[per]|ma
+endospérmico	adjetivo	en|dos|[pér]|mi|co
+endósporo	nome masculino	en|[dós]|po|ro
+endósporo	adjetivo	en|[dós]|po|ro
+endosquelético	adjetivo	en|dos|que|[lé]|ti|co
+endosqueleto	nome masculino	en|dos|que|[le]|to
+endossada	nome feminino	en|dos|[sa]|da
+endossado	nome masculino	en|dos|[sa]|do
+endossado	adjetivo	en|dos|[sa]|do
+endossador	adjetivo	en|dos|sa|[dor]
+endossador	nome masculino	en|dos|sa|[dor]
+endossadora	nome feminino	en|dos|sa|[do]|ra
+endossamento	nome masculino	en|dos|sa|[men]|to
+endossante	adjetivo	en|dos|[san]|te
+endossante	nome masculino	en|dos|[san]|te
+endossante	nome feminino	en|dos|[san]|te
+endossar	verbo	en|dos|[sar]
+endossarco	nome masculino	en|dos|[sar]|co
+endossatário	nome masculino	en|dos|sa|[tá]|ri|o
+endossável	adjetivo	en|dos|[sá]|vel
+endosse	nome masculino	en|[dos]|se
+endossimbiose	nome feminino	en|dos|sim|bi|[o]|se
+endossimbiótico	adjetivo	en|dos|sim|bi|[ó]|ti|co
+endosso	nome masculino	en|[dos]|so
+endossoma	nome masculino	en|dos|[so]|ma
+endossomo	nome masculino	en|dos|[so]|mo
+endostilo	nome masculino	en|dos|[ti]|lo
+endóstomo	nome masculino	en|[dós]|to|mo
+endotelial	adjetivo	en|do|te|li|[al]
+endotélio	nome masculino	en|do|[té]|li|o
+endotelioma	nome masculino	en|do|te|li|[o]|ma
+endotérmico	adjetivo	en|do|[tér]|mi|co
+endotoxina	nome feminino	en|do|to|[xi]|na
+endoudar	verbo	en|dou|[dar]
+endoudecedor	adjetivo	en|dou|de|ce|[dor]
+endoudecer	verbo	en|dou|de|[cer]
+endoudecimento	nome masculino	en|dou|de|ci|[men]|to
+endovenoso	adjetivo	en|do|ve|[no]|so
+endozoário	nome masculino	en|do|zo|[á]|ri|o
+endrão	nome masculino	en|[drão]
+endro	nome masculino	[en]|dro
+endrômide	nome feminino	en|[drô]|mi|de
+endrómide	nome feminino	en|[dró]|mi|de
+endrômina	nome feminino	en|[drô]|mi|na
+endrómina	nome feminino	en|[dró]|mi|na
+endrómina	nome masculino	en|[dró]|mi|na
+endrômina	nome masculino	en|[drô]|mi|na
+endrominar	verbo	en|dro|mi|[nar]
+êndua	nome feminino	[ên]|du|a
+enduape	nome masculino	en|du|[a]|pe
+endumba	nome feminino	en|[dum]|ba
+enduração	nome feminino	en|du|ra|[ção]
+enduramento	nome masculino	en|du|ra|[men]|to
+endurar	verbo	en|du|[rar]
+endurecedor	adjetivo	en|du|re|ce|[dor]
+endurecedor	nome masculino	en|du|re|ce|[dor]
+endurecer	verbo	en|du|re|[cer]
+endurecido	adjetivo	en|du|re|[ci]|do
+endurecimento	nome masculino	en|du|re|ci|[men]|to
+endurentar	verbo	en|du|ren|[tar]
+enduro	nome masculino	en|[du]|ro
+ene	nome masculino	[e]|ne
+ene-agá	nome masculino	e|ne-a|[gá]
+eneadáctilo	adjetivo	e|ne|a|[dác]|ti|lo
+enéade	nome feminino	e|[né]|a|de
+eneaginia	nome feminino	e|ne|a|gi|[ni]|a
+eneagínia	nome feminino	e|ne|a|[gí]|ni|a
+eneágino	adjetivo	e|ne|[á]|gi|no
+eneagonal	adjetivo	e|ne|a|go|[nal]
+eneágono	nome masculino	e|ne|[á]|go|no
+eneagrama	nome masculino	e|ne|a|[gra]|ma
+eneândria	nome feminino	e|ne|[ân]|dri|a
+eneandria	nome feminino	e|ne|an|[dri]|a
+eneandro	adjetivo	e|ne|[an]|dro
+eneapétalo	adjetivo	e|ne|a|[pé]|ta|lo
+eneapolitano	adjetivo	e|ne|a|po|li|[ta]|no
+eneapolitano	nome masculino	e|ne|a|po|li|[ta]|no
+eneassépalo	adjetivo	e|ne|as|[sé]|pa|lo
+eneassilábico	adjetivo	e|ne|as|si|[lá]|bi|co
+eneassílabo	adjetivo	e|ne|as|[sí]|la|bo
+eneassílabo	nome masculino	e|ne|as|[sí]|la|bo
+eneemímere	adjetivo	e|ne|e|[mí]|me|re

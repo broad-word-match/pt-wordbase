@@ -1,0 +1,100 @@
+teixosense	adjetivo	tei|xo|[sen]|se
+teixosense	nome feminino	tei|xo|[sen]|se
+teixugo	nome masculino	tei|[xu]|go
+tejadilho	nome masculino	te|ja|[di]|lho
+tejasno	nome masculino	te|[jas]|no
+téjida	nome masculino	[té]|ji|da
+tejídeo	nome masculino	te|[jí]|de|o
+tejídeo	nome masculino	te|[jí]|de|o
+tejídeo	adjetivo	te|[jí]|de|o
+tejo	nome masculino	[te]|jo
+tejoila	nome feminino	te|[joi]|la
+tejoula	nome feminino	te|[jou]|la
+teju	nome masculino	te|[ju]
+tejuaçu	nome masculino	te|ju|a|[çu]
+tejubina	nome feminino	te|ju|[bi]|na
+tejubu	nome masculino	te|ju|[bu]
+tejuco	nome masculino	te|[ju]|co
+tejunhana	nome masculino	te|ju|[nha]|na
+tejupim	nome masculino	te|ju|[pim]
+tela	nome feminino	[te]|la
+telagarça	nome feminino	te|la|[gar]|ça
+telalgia	nome feminino	te|lal|[gi]|a
+telálgico	adjetivo	te|[lál]|gi|co
+telamão	nome masculino	te|la|[mão]
+télamon	nome masculino	[té]|la|mon
+telangiectasia	nome feminino	te|lan|gi|ec|ta|[si]|a
+telangiectásico	adjetivo	te|lan|gi|ec|[tá]|si|co
+telangiectático	adjetivo	te|lan|gi|ec|[tá]|ti|co
+telangioma	nome masculino	te|lan|gi|[o]|ma
+telão	nome masculino	te|[lão]
+telaria	nome feminino	te|la|[ri]|a
+telária	nome feminino	te|[lá]|ri|a
+telautografia	nome feminino	te|lau|to|gra|[fi]|a
+telautográfico	adjetivo	te|lau|to|[grá]|fi|co
+telautógrafo	nome masculino	te|lau|[tó]|gra|fo
+tele	nome masculino	[te]|le
+telearco	nome masculino	te|le|[ar]|co
+telearquia	nome feminino	te|le|ar|[qui]|a
+teléboa	adjetivo	te|[lé]|bo|a
+teléboa	nome masculino	te|[lé]|bo|a
+teléboa	nome feminino	te|[lé]|bo|a
+telecarregamento	nome masculino	te|le|car|re|ga|[men]|to
+telecêntrico	adjetivo	te|le|[cên]|tri|co
+telecinema	nome masculino	te|le|ci|[ne]|ma
+telecinematográfico	adjetivo	te|le|ci|ne|ma|to|[grá]|fi|co
+telecinematógrafo	nome masculino	te|le|ci|ne|ma|[tó]|gra|fo
+telecinesia	nome feminino	te|le|ci|ne|[si]|a
+telecinético	adjetivo	te|le|ci|[né]|ti|co
+telecomandado	adjetivo	te|le|co|man|[da]|do
+telecomandar	verbo	te|le|co|man|[dar]
+telecomando	nome masculino	te|le|co|[man]|do
+telecomércio	nome masculino	te|le|co|[mér]|ci|o
+telecompra	nome feminino	te|le|[com]|pra
+telecomunicação	nome feminino	te|le|co|mu|ni|ca|[ção]
+telecomunicações	nome feminino	te|le|co|mu|ni|ca|[ções]
+telecomunicar	verbo	te|le|co|mu|ni|[car]
+teleconduzido	adjetivo	te|le|con|du|[zi]|do
+teleconduzir	verbo	te|le|con|du|[zir]
+teleconferência	nome feminino	te|le|con|fe|[rên]|ci|a
+telecópia	nome feminino	te|le|[có]|pi|a
+telecopiador	adjetivo	te|le|co|pi|a|[dor]
+telecopiador	nome masculino	te|le|co|pi|a|[dor]
+telecopiadora	nome feminino	te|le|co|pi|a|[do]|ra
+telecriptografia	nome feminino	te|le|crip|to|gra|[fi]|a
+telecriptográfico	adjetivo	te|le|crip|to|[grá]|fi|co
+telecriptógrafo	nome masculino	te|le|crip|[tó]|gra|fo
+teledeteção	nome feminino	te|le|de|te|[ção]
+teledetecção	nome feminino	te|le|de|tec|[ção]
+teledetectar	verbo	te|le|de|tec|[tar]
+teledetetar	verbo	te|le|de|te|[tar]
+telediágrafo	nome masculino	te|le|di|[á]|gra|fo
+teledifundir	verbo	te|le|di|fun|[dir]
+teledifusão	nome feminino	te|le|di|fu|[são]
+teledinâmica	nome feminino	te|le|di|[nâ]|mi|ca
+teledinâmico	adjetivo	te|le|di|[nâ]|mi|co
+teledirigido	adjetivo	te|le|di|ri|[gi]|do
+teledirigir	verbo	te|le|di|ri|[gir]
+teledisco	nome masculino	te|le|[dis]|co
+telefax	nome masculino	te|le|fax
+telefaxe	nome masculino	te|le|[fa]|xe
+teleférico	nome masculino	te|le|[fé]|ri|co
+teleférico	adjetivo	te|le|[fé]|ri|co
+telefilme	nome masculino	te|le|[fil]|me
+teléfio	nome masculino	te|[lé]|fi|o
+telefonada	nome feminino	te|le|fo|[na]|da
+telefonadela	nome feminino	te|le|fo|na|[de]|la
+telefonado	adjetivo	te|le|fo|[na]|do
+telefonar	verbo	te|le|fo|[nar]
+telefone	nome masculino	te|le|[fo]|ne
+telefonema	nome masculino	te|le|fo|[ne]|ma
+telefonia	nome feminino	te|le|fo|[ni]|a
+telefonicamente	advérbio	te|le|fo|ni|ca|[men]|te
+telefónico	adjetivo	te|le|[fó]|ni|co
+telefônico	adjetivo	te|le|[fô]|ni|co
+telefonista	nome masculino	te|le|fo|[nis]|ta
+telefonista	nome feminino	te|le|fo|[nis]|ta
+telefonizar	verbo	te|le|fo|ni|[zar]
+teléfono-postal	adjetivo	te|lé|fo|no-pos|[tal]
+telefonográfico	adjetivo	te|le|fo|no|[grá]|fi|co
+telefonógrafo	nome masculino	te|le|fo|[nó]|gra|fo

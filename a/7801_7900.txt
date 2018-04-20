@@ -1,0 +1,100 @@
+alcoutinense	nome masculino	al|cou|ti|[nen]|se
+alcoutinense	nome feminino	al|cou|ti|[nen]|se
+alcova	nome feminino	al|[co]|va
+alcovês	nome masculino	al|co|[vês]
+alcoveta	nome feminino	al|co|[ve]|ta
+alcoveto	nome masculino	al|co|[ve]|to
+alcovista	nome masculino	al|co|[vis]|ta
+alcovitar	verbo	al|co|vi|[tar]
+alcovitaria	nome feminino	al|co|vi|ta|[ri]|a
+alcoviteira	nome feminino	al|co|vi|[tei]|ra
+alcoviteirice	nome feminino	al|co|vi|tei|[ri]|ce
+alcoviteiro	adjetivo	al|co|vi|[tei]|ro
+alcoviteiro	nome masculino	al|co|vi|[tei]|ro
+alcovitice	nome feminino	al|co|vi|[ti]|ce
+alcóxido	nome masculino	al|[có]|xi|do
+alcunha	nome feminino	al|[cu]|nha
+alcunhar	verbo	al|cu|[nhar]
+alcunho	nome masculino	al|[cu]|nho
+alçuz	nome masculino	al|[çuz]
+alda	nome feminino	[al]|da
+aldavana	nome feminino	al|da|[va]|na
+aldeã	nome feminino	al|de|[ã]
+aldeaga	nome masculino	al|de|[a]|ga
+aldeaga	nome feminino	al|de|[a]|ga
+aldeagante	nome masculino	al|de|a|[gan]|te
+aldeagante	nome feminino	al|de|a|[gan]|te
+aldeagar	verbo	al|de|a|[gar]
+aldeamento	nome masculino	al|de|a|[men]|to
+aldeano	adjetivo	al|de|[a]|no
+aldeano	nome masculino	al|de|[a]|no
+aldeante	nome masculino	al|de|[an]|te
+aldeão	nome masculino	al|de|[ão]
+aldeão	adjetivo	al|de|[ão]
+aldear	verbo	al|de|[ar]
+aldegalense	adjetivo	al|de|ga|[len]|se
+aldegalense	nome masculino	al|de|ga|[len]|se
+aldegalense	nome feminino	al|de|ga|[len]|se
+aldeia	nome feminino	al|[dei]|a
+aldeidato	nome masculino	al|dei|[da]|to
+aldeídico	adjetivo	al|de|[í]|di|co
+aldeído	nome masculino	al|de|[í]|do
+aldeidofórmico	adjetivo	al|dei|do|[fór]|mi|co
+aldemenos	advérbio	al|de|[me]|nos
+aldeola	nome feminino	al|de|[o]|la
+aldeota	nome feminino	al|de|[o]|ta
+aldino	adjetivo	al|[di]|no
+aldo	nome masculino	[al]|do
+aldobrandino	adjetivo	al|do|bran|[di]|no
+aldose	nome feminino	al|[do]|se
+aldosterona	nome feminino	al|dos|te|[ro]|na
+aldóxima	nome feminino	al|[dó]|xi|ma
+aldraba	nome feminino	al|[dra]|ba
+aldrabação	nome feminino	al|dra|ba|[ção]
+aldrabada	nome feminino	al|dra|[ba]|da
+aldrabado	adjetivo	al|dra|[ba]|do
+aldrabagate	nome masculino	al|dra|ba|[ga]|te
+aldrabão	nome masculino	al|dra|[bão]
+aldrabão	adjetivo	al|dra|[bão]
+aldrabar	verbo	al|dra|[bar]
+aldrabeiro	adjetivo	al|dra|[bei]|ro
+aldrabeiro	nome masculino	al|dra|[bei]|ro
+aldrabice	nome feminino	al|dra|[bi]|ce
+aldrabona	nome feminino	al|dra|[bo]|na
+aldrabos	nome masculino	al|[dra]|bos
+aldrava	nome feminino	al|[dra]|va
+aldravada	nome feminino	al|dra|[va]|da
+aldravão	nome masculino	al|dra|[vão]
+aldravão	adjetivo	al|dra|[vão]
+aldravar	verbo	al|dra|[var]
+aldraveiro	adjetivo	al|dra|[vei]|ro
+aldraveiro	nome masculino	al|dra|[vei]|ro
+aldravice	nome feminino	al|dra|[vi]|ce
+aldravona	nome feminino	al|dra|[vo]|na
+aldravos	nome masculino	al|[dra]|vos
+aldrope	nome masculino	al|[dro]|pe
+aldrúbia	nome feminino	al|[drú]|bi|a
+aldrúbio	adjetivo	al|[drú]|bi|o
+aldrúbio	nome masculino	al|[drú]|bi|o
+aleá	nome feminino	a|le|[á]
+álea	nome feminino	[á]|le|a
+alealdar	verbo	a|le|al|[dar]
+alear	verbo	a|le|[ar]
+aleatoriamente	advérbio	a|le|a|to|ri|a|[men]|te
+aleatoriedade	nome feminino	a|le|a|to|ri|e|[da]|de
+aleatório	adjetivo	a|le|a|[tó]|ri|o
+alecítico	adjetivo	a|le|[cí]|ti|co
+alécito	adjetivo	a|[lé]|ci|to
+alecrim	nome masculino	a|le|[crim]
+alecrim-das-paredes	nome masculino	a|le|crim-das-pa|[re]|des
+alecrim-do-norte	nome masculino	a|le|crim-do-nor|te
+alecrineiro	nome masculino	a|le|cri|[nei]|ro
+alecrinzeiro	nome masculino	a|le|crin|[zei]|ro
+aléctico	adjetivo	a|[léc]|ti|co
+alecto	nome masculino	a|[lec]|to
+aléctore	nome masculino	a|[léc]|to|re
+alectória	nome feminino	a|lec|[tó]|ri|a
+alectório	adjetivo	a|lec|[tó]|ri|o
+alectoromancia	nome feminino	a|lec|to|ro|man|[ci]|a
+alectoromante	nome masculino	a|lec|to|ro|[man]|te
+alectoromante	nome feminino	a|lec|to|ro|[man]|te

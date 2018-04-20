@@ -1,0 +1,100 @@
+megalómana	nome feminino	me|ga|[ló]|ma|na
+megalomania	nome feminino	me|ga|lo|ma|[ni]|a
+megalomaníaca	nome feminino	me|ga|lo|ma|[ní]|a|ca
+megalomaníaco	adjetivo	me|ga|lo|ma|[ní]|a|co
+megalomaníaco	nome masculino	me|ga|lo|ma|[ní]|a|co
+megalómano	adjetivo	me|ga|[ló]|ma|no
+megalómano	nome masculino	me|ga|[ló]|ma|no
+megalômano	adjetivo	me|ga|[lô]|ma|no
+megalômano	nome masculino	me|ga|[lô]|ma|no
+megalópode	adjetivo	me|ga|[ló]|po|de
+megalopodia	nome feminino	me|ga|lo|po|[di]|a
+megalópole	nome feminino	me|ga|[ló]|po|le
+megalópolis	nome feminino	me|ga|[ló]|po|lis
+megalopolitano	adjetivo	me|ga|lo|po|li|[ta]|no
+megalopolitano	nome masculino	me|ga|lo|po|li|[ta]|no
+megalóporo	adjetivo	me|ga|[ló]|po|ro
+megalopsia	nome feminino	me|ga|lop|[si]|a
+megalópsico	adjetivo	me|ga|[lóp]|si|co
+megalorrizo	adjetivo	me|ga|lor|[ri]|zo
+megalosplenia	nome feminino	me|ga|los|ple|[ni]|a
+megalosplénico	adjetivo	me|ga|los|[plé]|ni|co
+megalosplênico	adjetivo	me|ga|los|[plê]|ni|co
+megalossauro	nome masculino	me|ga|los|[sau]|ro
+megalossauros	nome masculino	me|ga|los|[sau]|ros
+megalossomo	nome masculino	me|ga|los|[so]|mo
+megalostilo	nome masculino	me|ga|los|[ti]|lo
+megalóstomo	adjetivo	me|ga|[lós]|to|mo
+megaluro	nome masculino	me|ga|[lu]|ro
+megâmetro	nome masculino	me|[gâ]|me|tro
+megametrópole	nome feminino	me|ga|me|[tró]|po|le
+megaohm	nome masculino	me|[ga]|ohm
+megaoperação	nome feminino	me|ga|o|pe|ra|[ção]
+megaparsec	nome masculino	me|ga|[par]|sec
+megápode	nome masculino	me|[gá]|po|de
+megapolitano	nome masculino	me|ga|po|li|[ta]|no
+megapolitano	adjetivo	me|ga|po|li|[ta]|no
+megaprocesso	nome masculino	me|ga|pro|[ces]|so
+megaprodução	nome feminino	me|ga|pro|du|[ção]
+megaprojeto	nome masculino	me|ga|pro|[je]|to
+megareio	adjetivo	me|ga|[rei]|o
+megareio	nome masculino	me|ga|[rei]|o
+megarense	adjetivo	me|ga|[ren]|se
+megarense	nome masculino	me|ga|[ren]|se
+megarense	nome feminino	me|ga|[ren]|se
+megareu	adjetivo	me|ga|[reu]
+megareu	nome masculino	me|ga|[reu]
+megárico	adjetivo	me|[gá]|ri|co
+megárico	nome masculino	me|[gá]|ri|co
+mégaro	adjetivo	[mé]|ga|ro
+mégaro	nome masculino	[mé]|ga|ro
+megarríneo	nome masculino	me|gar|[rí]|ne|o
+megascópico	adjetivo	me|gas|[có]|pi|co
+megascópio	nome masculino	me|gas|[có]|pi|o
+megasférico	adjetivo	me|gas|[fé]|ri|co
+megásporo	nome masculino	me|[gás]|po|ro
+megasporofilo	nome masculino	me|gas|po|ro|[fi]|lo
+megassemo	adjetivo	me|gas|[se]|mo
+megassemo	nome masculino	me|gas|[se]|mo
+megassismo	nome masculino	me|gas|[sis]|mo
+megastomídeo	nome masculino	me|gas|to|[mí]|de|o
+megastore	nome feminino	me|gas|[to]|re
+megatério	nome masculino	me|ga|[té]|ri|o
+megatérmico	adjetivo	me|ga|[tér]|mi|co
+megaton	nome masculino	me|ga|[ton]
+megatonelada	nome feminino	me|ga|to|ne|[la]|da
+megatron	nome masculino	me|ga|[tron]
+megavolt	nome masculino	me|[ga]|volt
+megavolt-ampere	nome masculino	me|ga|volt-am|[pe]|re
+megawatt	nome masculino	me|[ga]|watt
+megera	nome feminino	me|[ge]|ra
+megistocéfalo	adjetivo	me|gis|to|[cé]|fa|lo
+megohm	nome masculino	[me]|gohm
+meia	nome feminino	[mei]|a
+meia de leite	nome feminino	[mei]|a de lei|te
+meia-água	nome feminino	mei|a-á|gua
+meia-cana	nome feminino	mei|a-ca|na
+meia-cara	nome masculino	mei|a-ca|ra
+meia-coroa	nome feminino	mei|a-co|[ro]|a
+meia-desfeita	nome feminino	mei|a-des|[fei]|ta
+meia-direita	nome masculino	mei|a-di|[rei]|ta
+meia-encadernação	nome feminino	mei|a-en|ca|der|na|[ção]
+meia-esquadria	nome feminino	mei|a-es|qua|[dri]|a
+meia-esquerda	nome masculino	mei|a-es|[quer]|da
+meia-final	nome feminino	mei|a-fi|[nal]
+meia-galeota	nome feminino	mei|a-ga|le|[o]|ta
+meia-hora	nome feminino	mei|a-ho|ra
+meia-idade	nome feminino	mei|a-i|[da]|de
+meia-inglesa	nome feminino	mei|a-in|[gle]|sa
+meia-irmã	nome feminino	mei|a-ir|[mã]
+meia-laranja	nome feminino	mei|a-la|[ran]|ja
+meia-lona	nome feminino	mei|a-lo|na
+meia-lua	nome feminino	mei|a-lu|a
+meia-luva	nome feminino	mei|a-lu|va
+meia-luz	nome feminino	mei|a-luz
+meia-maratona	nome feminino	mei|a-ma|ra|[to]|na
+meia-mourisca	nome feminino	mei|a-mou|[ris]|ca
+meia-murça	nome feminino	mei|a-mur|ça
+meia-nau	nome feminino	mei|a-nau
+meia-noite	nome feminino	mei|a-noi|te
+meia-noute	nome feminino	mei|a-nou|te

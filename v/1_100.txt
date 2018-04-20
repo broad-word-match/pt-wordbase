@@ -1,0 +1,100 @@
+vá-de-viró	interjeição	vá-de-vi|[ró]
+vaabismo	nome masculino	va|a|[bis]|mo
+vaabita	adjetivo	va|a|[bi]|ta
+vaabita	nome masculino	va|a|[bi]|ta
+vaabita	nome feminino	va|a|[bi]|ta
+vaca	nome feminino	[va]|ca
+vaca-fria	nome feminino	va|ca-fri|a
+vaca-loira	nome feminino	va|ca-loi|ra
+vaca-loura	nome feminino	va|ca-lou|ra
+vaca-marinha	nome feminino	va|ca-ma|[ri]|nha
+vacação	nome feminino	va|ca|[ção]
+vacada	nome feminino	va|[ca]|da
+vacagem	nome feminino	va|[ca]|gem
+vacância	nome feminino	va|[cân]|ci|a
+vacante	adjetivo	va|[can]|te
+vacão	nome masculino	va|[cão]
+vacar	verbo	va|[car]
+vacaraí	nome masculino	va|ca|ra|[í]
+vacari	nome masculino	va|ca|[ri]
+vacaria	nome feminino	va|ca|[ri]|a
+vacaril	adjetivo	va|ca|[ril]
+vacaril	nome masculino	va|ca|[ril]
+vacarino	adjetivo	va|ca|[ri]|no
+vacarrona	nome feminino	va|car|[ro]|na
+vacatura	nome feminino	va|ca|[tu]|ra
+vaceu	adjetivo	va|[ceu]
+vaceu	nome masculino	va|[ceu]
+vacilação	nome feminino	va|ci|la|[ção]
+vacilância	nome feminino	va|ci|[lân]|ci|a
+vacilante	adjetivo	va|ci|[lan]|te
+vacilantemente	advérbio	va|ci|lan|te|[men]|te
+vacilar	verbo	va|ci|[lar]
+vacilatório	adjetivo	va|ci|la|[tó]|ri|o
+vacina	nome feminino	va|[ci]|na
+vacinação	nome feminino	va|ci|na|[ção]
+vacinado	adjetivo	va|ci|[na]|do
+vacinador	nome masculino	va|ci|na|[dor]
+vacinador	adjetivo	va|ci|na|[dor]
+vacinadora	nome feminino	va|ci|na|[do]|ra
+vacinal	adjetivo	va|ci|[nal]
+vacinar	verbo	va|ci|[nar]
+vacinável	adjetivo	va|ci|[ná]|vel
+vaciniácea	nome feminino	va|ci|ni|[á]|ce|a
+vaciniáceo	adjetivo	va|ci|ni|[á]|ce|o
+vacínico	adjetivo	va|[cí]|ni|co
+vacinífero	adjetivo	va|ci|[ní]|fe|ro
+vaciniforme	adjetivo	va|ci|ni|[for]|me
+vacínio	nome masculino	va|[cí]|ni|o
+vacinogenia	nome feminino	va|ci|no|ge|[ni]|a
+vacinogênico	adjetivo	va|ci|no|[gê]|ni|co
+vacinogénico	adjetivo	va|ci|no|[gé]|ni|co
+vacinoide	nome feminino	va|ci|[noi]|de
+vacinoide	adjetivo	va|ci|[noi]|de
+vacinostilo	nome masculino	va|ci|nos|[ti]|lo
+vacinoterapia	nome feminino	va|ci|no|te|ra|[pi]|a
+vacinoterápico	adjetivo	va|ci|no|te|[rá]|pi|co
+vacu	nome masculino	va|[cu]
+vacuá	nome masculino	va|cu|[á]
+vacuidade	nome feminino	va|cui|[da]|de
+vacuísmo	nome masculino	va|cu|[ís]|mo
+vacuísta	nome masculino	va|cu|[ís]|ta
+vacuísta	adjetivo	va|cu|[ís]|ta
+vacuísta	nome feminino	va|cu|[ís]|ta
+vacum	adjetivo	va|[cum]
+vacum	nome masculino	va|[cum]
+vácuo	adjetivo	[vá]|cu|o
+vácuo	nome masculino	[vá]|cu|o
+vacuolar	adjetivo	va|cu|o|[lar]
+vacuolização	nome feminino	va|cu|o|li|za|[ção]
+vacuolizado	adjetivo	va|cu|o|li|[za]|do
+vacúolo	nome masculino	va|[cú]|o|lo
+vacuoma	nome masculino	va|cu|[o]|ma
+vacuómetro	nome masculino	va|cu|[ó]|me|tro
+vacuômetro	nome masculino	va|cu|[ô]|me|tro
+vadagaio	nome masculino	va|da|[gai]|o
+vade-mécum	nome masculino	va|de-mé|cum
+vade-retro	interjeição	va|de-re|tro
+vadeação	nome feminino	va|de|a|[ção]
+vadear	verbo	va|de|[ar]
+vadeável	adjetivo	va|de|[á]|vel
+vadeoso	adjetivo	va|de|[o]|so
+vadeu	adjetivo	va|[deu]
+vadeu	nome masculino	va|[deu]
+vadia	nome feminino	va|[di]|a
+vadiação	nome feminino	va|di|a|[ção]
+vadiador	adjetivo	va|di|a|[dor]
+vadiador	nome masculino	va|di|a|[dor]
+vadiagem	nome feminino	va|di|[a]|gem
+vadiamente	advérbio	va|di|a|[men]|te
+vadiante	adjetivo	va|di|[an]|te
+vadiante	nome masculino	va|di|[an]|te
+vadiante	nome feminino	va|di|[an]|te
+vadiar	verbo	va|di|[ar]
+vadiaria	nome feminino	va|di|a|[ri]|a
+vadiice	nome feminino	va|di|[i]|ce
+vadiismo	nome masculino	va|di|[is]|mo
+vadio	nome masculino	va|[di]|o
+vadio	adjetivo	va|[di]|o
+vadiote	nome masculino	va|di|[o]|te
+vadoso	adjetivo	va|[do]|so

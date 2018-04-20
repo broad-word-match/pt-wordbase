@@ -1,0 +1,100 @@
+serrafar	verbo	ser|ra|[far]
+serrafo	nome masculino	ser|[ra]|fo
+serragem	nome feminino	ser|[ra]|gem
+serrajão	nome masculino	ser|ra|[jão]
+serralha	nome feminino	ser|[ra]|lha
+serralhar	verbo	ser|ra|[lhar]
+serralharia	nome feminino	ser|ra|lha|[ri]|a
+serralheira	nome feminino	ser|ra|[lhei]|ra
+serralheiro	nome masculino	ser|ra|[lhei]|ro
+serralhinha	nome feminino	ser|ra|[lhi]|nha
+serralho	nome masculino	ser|[ra]|lho
+serramento	nome masculino	ser|ra|[men]|to
+serrana	nome feminino	ser|[ra]|na
+serrania	nome feminino	ser|ra|[ni]|a
+serranice	nome feminino	ser|ra|[ni]|ce
+serrânida	nome masculino	ser|[râ]|ni|da
+serranídeo	nome masculino	ser|ra|[ní]|de|o
+serranídeo	adjetivo	ser|ra|[ní]|de|o
+serranilha	nome feminino	ser|ra|[ni]|lha
+serrano	adjetivo	ser|[ra]|no
+serrano	nome masculino	ser|[ra]|no
+serrão	nome masculino	ser|[rão]
+serrão	adjetivo	ser|[rão]
+serrar	verbo	ser|[rar]
+serraria	nome feminino	ser|ra|[ri]|a
+serratifólio	adjetivo	ser|ra|ti|[fó]|li|o
+serratiforme	adjetivo	ser|ra|ti|[for]|me
+serrátil	adjetivo	ser|[rá]|til
+serratura	nome feminino	ser|ra|[tu]|ra
+serrazina	nome feminino	ser|ra|[zi]|na
+serrazina	nome masculino	ser|ra|[zi]|na
+serrazina	adjetivo	ser|ra|[zi]|na
+serrazinação	nome feminino	ser|ra|zi|na|[ção]
+serrazinar	verbo	ser|ra|zi|[nar]
+serreado	adjetivo	ser|re|[a]|do
+serrear	verbo	ser|re|[ar]
+serredo	nome masculino	ser|[re]|do
+serrenho	adjetivo	ser|[re]|nho
+serrenho	nome masculino	ser|[re]|nho
+sérreo	adjetivo	[sér]|re|o
+serreta	nome feminino	ser|[re]|ta
+serrete	adjetivo	ser|[re]|te
+serrete	nome masculino	ser|[re]|te
+serrete	nome feminino	ser|[re]|te
+serricórneo	adjetivo	ser|ri|[cór]|ne|o
+serricórneo	nome masculino	ser|ri|[cór]|ne|o
+serridentado	adjetivo	ser|ri|den|[ta]|do
+serridênteo	adjetivo	ser|ri|[dên]|te|o
+serriforme	adjetivo	ser|ri|[for]|me
+serril	adjetivo	ser|[ril]
+serrilha	nome feminino	ser|[ri]|lha
+serrilhado	adjetivo	ser|ri|[lha]|do
+serrilhador	nome masculino	ser|ri|lha|[dor]
+serrilhar	verbo	ser|ri|[lhar]
+serrilho	nome masculino	ser|[ri]|lho
+serrim	nome masculino	ser|[rim]
+serrino	adjetivo	ser|[ri]|no
+serrípede	adjetivo	ser|[rí]|pe|de
+serrirrostro	adjetivo	ser|rir|[ros]|tro
+serro	nome masculino	[ser]|ro
+serrobeco	nome masculino	ser|ro|[be]|co
+serrócero	nome masculino	ser|[ró]|ce|ro
+serropalpo	nome masculino	ser|ro|[pal]|po
+serrota	nome feminino	ser|[ro]|ta
+serrotagem	nome feminino	ser|ro|[ta]|gem
+serrotar	verbo	ser|ro|[tar]
+serrote	nome masculino	ser|[ro]|te
+sertã	nome feminino	ser|[tã]
+sertaginense	nome masculino	ser|ta|gi|[nen]|se
+sertaginense	adjetivo	ser|ta|gi|[nen]|se
+sertaginense	nome feminino	ser|ta|gi|[nen]|se
+sertainha	nome feminino	ser|ta|[i]|nha
+sertainho	adjetivo	ser|ta|[i]|nho
+sertainho	nome masculino	ser|ta|[i]|nho
+sertaneja	nome feminino	ser|ta|[ne]|ja
+sertanejar	verbo	ser|ta|ne|[jar]
+sertanejo	nome masculino	ser|ta|[ne]|jo
+sertanejo	adjetivo	ser|ta|[ne]|jo
+sertanense	adjetivo	ser|ta|[nen]|se
+sertanense	nome masculino	ser|ta|[nen]|se
+sertanense	nome feminino	ser|ta|[nen]|se
+sertania	nome feminino	ser|ta|[ni]|a
+sertanista	nome masculino	ser|ta|[nis]|ta
+sertanista	adjetivo	ser|ta|[nis]|ta
+sertanista	nome feminino	ser|ta|[nis]|ta
+sertanopolitano	adjetivo	ser|ta|no|po|li|[ta]|no
+sertanopolitano	nome masculino	ser|ta|no|po|li|[ta]|no
+sertão	nome masculino	ser|[tão]
+sertela	nome feminino	ser|[te]|la
+sertelha	nome feminino	ser|[te]|lha
+sertoriano	adjetivo	ser|to|ri|[a]|no
+sertulária	nome feminino	ser|tu|[lá]|ri|a
+sertulário	nome masculino	ser|tu|[lá]|ri|o
+sertum	nome masculino	ser|[tum]
+serubuna	nome feminino	se|ru|[bu]|na
+sérum	nome masculino	[sé]|rum
+serutinga	nome feminino	se|ru|[tin]|ga
+serva	nome feminino	[ser]|va
+servador	adjetivo	ser|va|[dor]
+servência	nome feminino	ser|[vên]|ci|a

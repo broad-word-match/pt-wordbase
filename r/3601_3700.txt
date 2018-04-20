@@ -1,0 +1,100 @@
+regra	nome feminino	[re]|gra
+regradamente	advérbio	re|gra|da|[men]|te
+regradeira	nome feminino	re|gra|[dei]|ra
+regrado	adjetivo	re|[gra]|do
+regrado	nome masculino	re|[gra]|do
+regrador	nome masculino	re|gra|[dor]
+regrante	adjetivo	re|[gran]|te
+regrão	nome masculino	re|[grão]
+regrar	verbo	re|[grar]
+regravação	nome feminino	re|gra|va|[ção]
+regravar	verbo	re|gra|[var]
+regravável	adjetivo	re|gra|[vá]|vel
+regrável	adjetivo	re|[grá]|vel
+regraxar	verbo	re|gra|[xar]
+regraxo	nome masculino	re|[gra]|xo
+regredir	verbo	re|gre|[dir]
+regressante	adjetivo	re|gres|[san]|te
+regressante	nome masculino	re|gres|[san]|te
+regressante	nome feminino	re|gres|[san]|te
+regressão	nome feminino	re|gres|[são]
+regressar	verbo	re|gres|[sar]
+regressismo	nome masculino	re|gres|[sis]|mo
+regressista	adjetivo	re|gres|[sis]|ta
+regressista	nome masculino	re|gres|[sis]|ta
+regressista	nome feminino	re|gres|[sis]|ta
+regressivamente	advérbio	re|gres|si|va|[men]|te
+regressividade	nome feminino	re|gres|si|vi|[da]|de
+regressivo	adjetivo	re|gres|[si]|vo
+regresso	nome masculino	re|[gres]|so
+regreta	nome feminino	re|[gre]|ta
+regrista	nome masculino	re|[gris]|ta
+regrista	nome feminino	re|[gris]|ta
+régua	nome feminino	[ré]|gua
+régua-tê	nome feminino	ré|gua-tê
+reguada	nome feminino	re|[gua]|da
+reguarda	nome feminino	re|[guar]|da
+reguçar	verbo	re|gu|[çar]
+regueifa	nome feminino	re|[guei]|fa
+regueifar	verbo	re|guei|[far]
+regueifeiro	nome masculino	re|guei|[fei]|ro
+regueira	nome feminino	re|[guei]|ra
+regueirão	nome masculino	re|guei|[rão]
+regueiro	nome masculino	re|[guei]|ro
+reguenga	nome feminino	re|[guen]|ga
+reguengo	nome masculino	re|[guen]|go
+reguengo	adjetivo	re|[guen]|go
+reguengueiro	adjetivo	re|guen|[guei]|ro
+reguenguense	adjetivo	re|guen|[guen]|se
+reguenguense	nome masculino	re|guen|[guen]|se
+reguenguense	nome feminino	re|guen|[guen]|se
+reguense	adjetivo	re|[guen]|se
+reguense	nome masculino	re|[guen]|se
+reguense	nome feminino	re|[guen]|se
+reguiço	nome masculino	re|[gui]|ço
+reguila	adjetivo	re|[gui]|la
+reguila	nome masculino	re|[gui]|la
+reguila	nome feminino	re|[gui]|la
+reguinga	nome feminino	re|[guin]|ga
+reguinga	nome masculino	re|[guin]|ga
+reguingar	verbo	re|guin|[gar]
+reguingote	nome masculino	re|guin|[go]|te
+reguingueiro	adjetivo	re|guin|[guei]|ro
+reguingueiro	nome masculino	re|guin|[guei]|ro
+reguinguete	nome masculino	re|guin|[gue]|te
+regulação	nome feminino	re|gu|la|[ção]
+regulado	adjetivo	re|gu|[la]|do
+regulado	nome masculino	re|gu|[la]|do
+regulador	adjetivo	re|gu|la|[dor]
+regulador	nome masculino	re|gu|la|[dor]
+reguladora	nome feminino	re|gu|la|[do]|ra
+regulagem	nome feminino	re|gu|[la]|gem
+regulamentação	nome feminino	re|gu|la|men|ta|[ção]
+regulamentador	adjetivo	re|gu|la|men|ta|[dor]
+regulamentador	nome masculino	re|gu|la|men|ta|[dor]
+regulamentar	adjetivo	re|gu|la|men|[tar]
+regulamentar	verbo	re|gu|la|men|[tar]
+regulamentário	adjetivo	re|gu|la|men|[tá]|ri|o
+regulamentarmente	advérbio	re|gu|la|men|tar|[men]|te
+regulamentável	adjetivo	re|gu|la|men|[tá]|vel
+regulamento	nome masculino	re|gu|la|[men]|to
+regular	nome masculino	re|gu|[lar]
+regular	adjetivo	re|gu|[lar]
+regular	verbo	re|gu|[lar]
+regularidade	nome feminino	re|gu|la|ri|[da]|de
+regularifloro	adjetivo	re|gu|la|ri|[flo]|ro
+regulariforme	adjetivo	re|gu|la|ri|[for]|me
+regularização	nome feminino	re|gu|la|ri|za|[ção]
+regularizador	adjetivo	re|gu|la|ri|za|[dor]
+regularizador	nome masculino	re|gu|la|ri|za|[dor]
+regularizadora	nome feminino	re|gu|la|ri|za|[do]|ra
+regularizar	verbo	re|gu|la|ri|[zar]
+regularizável	adjetivo	re|gu|la|ri|[zá]|vel
+regularmente	advérbio	re|gu|lar|[men]|te
+regulável	adjetivo	re|gu|[lá]|vel
+regulete	nome masculino	re|gu|[le]|te
+regúlida	nome masculino	re|[gú]|li|da
+regúlida	nome masculino	re|[gú]|li|da
+regulídeo	adjetivo	re|gu|[lí]|de|o
+regulídeo	nome masculino	re|gu|[lí]|de|o
+regulídeo	nome masculino	re|gu|[lí]|de|o

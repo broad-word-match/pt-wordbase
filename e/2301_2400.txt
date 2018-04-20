@@ -1,0 +1,100 @@
+empenachar	verbo	em|pe|na|[char]
+empenado	adjetivo	em|pe|[na]|do
+empenagem	nome feminino	em|pe|[na]|gem
+empenamento	nome masculino	em|pe|na|[men]|to
+empenar	verbo	em|pe|[nar]
+empencar	verbo	em|pen|[car]
+empendoar	verbo	em|pen|do|[ar]
+empenha	nome feminino	em|[pe]|nha
+empenhadamente	advérbio	em|pe|nha|da|[men]|te
+empenhadíssimo	adjetivo	em|pe|nha|[dís]|si|mo
+empenhado	adjetivo	em|pe|[nha]|do
+empenhador	adjetivo	em|pe|nha|[dor]
+empenhador	nome masculino	em|pe|nha|[dor]
+empenhamento	nome masculino	em|pe|nha|[men]|to
+empenhar	verbo	em|pe|[nhar]
+empenhável	adjetivo	em|pe|[nhá]|vel
+empenho	nome masculino	em|[pe]|nho
+empenhoca	nome feminino	em|pe|[nho]|ca
+empenhoramento	nome masculino	em|pe|nho|ra|[men]|to
+empenhorar	verbo	em|pe|nho|[rar]
+empeno	nome masculino	em|[pe]|no
+empepinar	verbo	em|pe|pi|[nar]
+empequenecer	verbo	em|pe|que|ne|[cer]
+empequenecimento	nome masculino	em|pe|que|ne|ci|[men]|to
+empequenitar	verbo	em|pe|que|ni|[tar]
+emperador	nome masculino	em|pe|ra|[dor]
+emperlar	verbo	em|per|[lar]
+empernamento	nome masculino	em|per|na|[men]|to
+empernar	verbo	em|per|[nar]
+empernicar	verbo	em|per|ni|[car]
+emperrado	adjetivo	em|per|[ra]|do
+emperramento	nome masculino	em|per|ra|[men]|to
+emperrar	verbo	em|per|[rar]
+emperro	nome masculino	em|[per]|ro
+empertigadamente	advérbio	em|per|ti|ga|da|[men]|te
+empertigado	adjetivo	em|per|ti|[ga]|do
+empertigamento	nome masculino	em|per|ti|ga|[men]|to
+empertigar	verbo	em|per|ti|[gar]
+empesa	nome feminino	em|[pe]|sa
+empesadura	nome feminino	em|pe|sa|[du]|ra
+empesar	verbo	em|pe|[sar]
+empescoçado	adjetivo	em|pes|co|[ça]|do
+empesgadura	nome feminino	em|pes|ga|[du]|ra
+empesgar	verbo	em|pes|[gar]
+empeso	nome masculino	em|[pe]|so
+empessoamento	nome masculino	em|pes|so|a|[men]|to
+empessoar	verbo	em|pes|so|[ar]
+empestada	nome feminino	em|pes|[ta]|da
+empestado	adjetivo	em|pes|[ta]|do
+empestado	nome masculino	em|pes|[ta]|do
+empestador	adjetivo	em|pes|ta|[dor]
+empestador	nome masculino	em|pes|ta|[dor]
+empestamento	nome masculino	em|pes|ta|[men]|to
+empestar	verbo	em|pes|[tar]
+empetrácea	nome feminino	em|pe|[trá]|ce|a
+empetráceo	adjetivo	em|pe|[trá]|ce|o
+empeugar	verbo	em|peu|[gar]
+empezar	verbo	em|pe|[zar]
+empezinhar	verbo	em|pe|zi|[nhar]
+empicotamento	nome masculino	em|pi|co|ta|[men]|to
+empicotar	verbo	em|pi|co|[tar]
+empiema	nome masculino	em|pi|[e]|ma
+empiemático	adjetivo	em|pi|e|[má]|ti|co
+empiese	nome feminino	em|pi|[e]|se
+empilchar	verbo	em|pil|[char]
+empilhadeira	nome feminino	em|pi|lha|[dei]|ra
+empilhado	adjetivo	em|pi|[lha]|do
+empilhadora	nome feminino	em|pi|lha|[do]|ra
+empilhamento	nome masculino	em|pi|lha|[men]|to
+empilhar	verbo	em|pi|[lhar]
+empinadela	nome feminino	em|pi|na|[de]|la
+empinado	adjetivo	em|pi|[na]|do
+empinanço	nome masculino	em|pi|[nan]|ço
+empinar	verbo	em|pi|[nar]
+empinhocar	verbo	em|pi|nho|[car]
+empino	nome masculino	em|[pi]|no
+empinocar	verbo	em|pi|no|[car]
+empiocele	nome feminino	em|pi|o|[ce]|le
+empiônfalo	nome masculino	em|pi|[ôn]|fa|lo
+empioramento	nome masculino	em|pi|o|ra|[men]|to
+empiorar	verbo	em|pi|o|[rar]
+empiose	nome feminino	em|pi|[o]|se
+empipar	verbo	em|pi|[par]
+empipocar	verbo	em|pi|po|[car]
+empíreo	adjetivo	em|[pí]|re|o
+empíreo	nome masculino	em|[pí]|re|o
+empireuma	nome masculino	em|pi|[reu]|ma
+empireumático	adjetivo	em|pi|reu|[má]|ti|co
+empírica	nome feminino	em|[pí]|ri|ca
+empiricamente	advérbio	em|pi|ri|ca|[men]|te
+empírico	adjetivo	em|[pí]|ri|co
+empírico	nome masculino	em|[pí]|ri|co
+empiriocriticismo	nome masculino	em|pi|ri|o|cri|ti|[cis]|mo
+empirismo	nome masculino	em|pi|[ris]|mo
+empirista	adjetivo	em|pi|[ris]|ta
+empirista	nome masculino	em|pi|[ris]|ta
+empirista	nome feminino	em|pi|[ris]|ta
+empirístico	adjetivo	em|pi|[rís]|ti|co
+empiscar	verbo	em|pis|[car]
+empistolar	verbo	em|pis|to|[lar]

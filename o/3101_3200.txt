@@ -1,0 +1,100 @@
+ortoepicamente	advérbio	or|to|e|pi|ca|[men]|te
+ortoépico	adjetivo	or|to|[é]|pi|co
+ortofirite	nome feminino	or|to|fi|[ri]|te
+ortófiro	nome masculino	or|[tó]|fi|ro
+ortofonia	nome feminino	or|to|fo|[ni]|a
+ortofonicamente	advérbio	or|to|fo|ni|ca|[men]|te
+ortofônico	adjetivo	or|to|[fô]|ni|co
+ortofónico	adjetivo	or|to|[fó]|ni|co
+ortoforia	nome feminino	or|to|fo|[ri]|a
+ortofórmio	nome masculino	or|to|[fór]|mi|o
+ortofrenia	nome feminino	or|to|fre|[ni]|a
+ortofrénico	adjetivo	or|to|[fré]|ni|co
+ortofrênico	adjetivo	or|to|[frê]|ni|co
+ortogénese	nome feminino	or|to|[gé]|ne|se
+ortogênese	nome feminino	or|to|[gê]|ne|se
+ortogenético	adjetivo	or|to|ge|[né]|ti|co
+ortognaisse	nome masculino	or|tog|[nais]|se
+ortognatia	nome feminino	or|tog|na|[ti]|a
+ortognatismo	nome masculino	or|tog|na|[tis]|mo
+ortógnato	adjetivo	or|[tóg]|na|to
+ortogonal	adjetivo	or|to|go|[nal]
+ortogonalmente	advérbio	or|to|go|nal|[men]|te
+ortógono	adjetivo	or|[tó]|go|no
+ortógrafa	nome feminino	or|[tó]|gra|fa
+ortografar	verbo	or|to|gra|[far]
+ortografia	nome feminino	or|to|gra|[fi]|a
+ortograficamente	advérbio	or|to|gra|fi|ca|[men]|te
+ortográfico	adjetivo	or|to|[grá]|fi|co
+ortografista	nome masculino	or|to|gra|[fis]|ta
+ortografista	nome feminino	or|to|gra|[fis]|ta
+ortógrafo	nome masculino	or|[tó]|gra|fo
+ortoidrogênio	nome masculino	or|toi|dro|[gê]|ni|o
+ortoidrogénio	nome masculino	or|toi|dro|[gé]|ni|o
+ortolexia	nome feminino	or|to|le|[xi]|a
+ortoléxico	adjetivo	or|to|[lé]|xi|co
+ortólito	nome masculino	or|[tó]|li|to
+ortologia	nome feminino	or|to|lo|[gi]|a
+ortológico	adjetivo	or|to|[ló]|gi|co
+ortômega	nome masculino	or|[tô]|me|ga
+ortómega	nome masculino	or|[tó]|me|ga
+ortometamórfico	adjetivo	or|to|me|ta|[mór]|fi|co
+ortometria	nome feminino	or|to|me|[tri]|a
+ortométrico	adjetivo	or|to|[mé]|tri|co
+ortomorfia	nome feminino	or|to|mor|[fi]|a
+ortomórfico	adjetivo	or|to|[mór]|fi|co
+ortomorfismo	nome masculino	or|to|mor|[fis]|mo
+ortoneuróptero	nome masculino	or|to|neu|[róp]|te|ro
+ortonímia	nome feminino	or|to|[ní]|mi|a
+ortonímico	adjetivo	or|to|[ní]|mi|co
+ortônimo	nome masculino	or|[tô]|ni|mo
+ortónimo	nome masculino	or|[tó]|ni|mo
+ortonormado	adjetivo	or|to|nor|[ma]|do
+ortonormal	adjetivo	or|to|nor|[mal]
+ortopantomografia	nome feminino	or|to|pan|to|mo|gra|[fi]|a
+ortopedia	nome feminino	or|to|pe|[di]|a
+ortopédico	adjetivo	or|to|[pé]|di|co
+ortopedista	adjetivo	or|to|pe|[dis]|ta
+ortopedista	nome masculino	or|to|pe|[dis]|ta
+ortopedista	nome feminino	or|to|pe|[dis]|ta
+ortopinacoide	nome masculino	or|to|pi|na|[coi]|de
+ortopneia	nome feminino	or|top|[nei]|a
+ortopnoico	nome masculino	or|top|[noi]|co
+ortopnoico	adjetivo	or|top|[noi]|co
+ortópode	nome masculino	or|[tó]|po|de
+ortopolitano	adjetivo	or|to|po|li|[ta]|no
+ortopolitano	nome masculino	or|to|po|li|[ta]|no
+ortopsicopedia	nome feminino	or|top|si|co|pe|[di]|a
+ortóptero	nome masculino	or|[tóp]|te|ro
+ortóptero	adjetivo	or|[tóp]|te|ro
+ortóptica	nome feminino	or|[tóp]|ti|ca
+ortóptico	adjetivo	or|[tóp]|ti|co
+ortoptista	nome masculino	or|top|[tis]|ta
+ortoptista	nome feminino	or|top|[tis]|ta
+ortoquartzito	nome masculino	or|to|quart|[zi]|to
+ortorrômbico	adjetivo	or|tor|[rôm]|bi|co
+ortóscele	nome masculino	or|[tós]|ce|le
+ortoscópico	adjetivo	or|tos|[có]|pi|co
+ortoscópio	nome masculino	or|tos|[có]|pi|o
+ortose	nome feminino	or|[to]|se
+ortósia	nome feminino	or|[tó]|si|a
+ortósio	nome masculino	or|[tó]|si|o
+ortospermo	adjetivo	or|tos|[per]|mo
+ortossomo	nome masculino	or|tos|[so]|mo
+ortostasia	nome feminino	or|tos|ta|[si]|a
+ortostático	adjetivo	or|tos|[tá]|ti|co
+ortostatismo	nome masculino	or|tos|ta|[tis]|mo
+ortostilo	nome masculino	or|tos|[ti]|lo
+ortóstomo	nome masculino	or|[tós]|to|mo
+ortoteca	nome feminino	or|to|[te]|ca
+ortoterapia	nome feminino	or|to|te|ra|[pi]|a
+ortótese	nome feminino	or|[tó]|te|se
+ortotómico	adjetivo	or|to|[tó]|mi|co
+ortotômico	adjetivo	or|to|[tô]|mi|co
+ortótomo	nome masculino	or|[tó]|to|mo
+ortotônico	adjetivo	or|to|[tô]|ni|co
+ortotónico	adjetivo	or|to|[tó]|ni|co
+ortótono	nome masculino	or|[tó]|to|no
+ortotonúmeno	adjetivo	or|to|to|[nú]|me|no
+ortotrícia	nome feminino	or|to|[trí]|ci|a
+ortotropia	nome feminino	or|to|tro|[pi]|a

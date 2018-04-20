@@ -1,0 +1,100 @@
+parrado	adjetivo	par|[ra]|do
+parrana	adjetivo	par|[ra]|na
+parrana	nome masculino	par|[ra]|na
+parrana	nome feminino	par|[ra]|na
+parrança	nome masculino	par|[ran]|ça
+parrança	nome feminino	par|[ran]|ça
+parrançar	verbo	par|ran|[çar]
+parrancice	nome feminino	par|ran|[ci]|ce
+parranice	nome feminino	par|ra|[ni]|ce
+parrar	verbo	par|[rar]
+parrascana	nome feminino	par|ras|[ca]|na
+parrascana	nome masculino	par|ras|[ca]|na
+parrascano	nome masculino	par|ras|[ca]|no
+parrásio	adjetivo	par|[rá]|si|o
+parrásio	nome masculino	par|[rá]|si|o
+parreco	nome masculino	par|[re]|co
+parreira	nome feminino	par|[rei]|ra
+parreiral	adjetivo	par|rei|[ral]
+parreiral	nome masculino	par|rei|[ral]
+parreirão	nome masculino	par|rei|[rão]
+parrésia	nome feminino	par|[ré]|si|a
+párria	nome feminino	[pár]|ri|a
+parricida	nome masculino	par|ri|[ci]|da
+parricida	adjetivo	par|ri|[ci]|da
+parricida	nome feminino	par|ri|[ci]|da
+parricídio	nome masculino	par|ri|[cí]|di|o
+parricrinito	adjetivo	par|ri|cri|[ni]|to
+parrilha	nome feminino	par|[ri]|lha
+parrilha	adjetivo	par|[ri]|lha
+parro	nome masculino	[par]|ro
+parruá	nome masculino	par|ru|[á]
+parrudo	adjetivo	par|[ru]|do
+parrudo	nome masculino	par|[ru]|do
+parruma	nome feminino	par|[ru]|ma
+parsano	adjetivo	par|[sa]|no
+parse	nome masculino	[par]|se
+parse	adjetivo	[par]|se
+parse	nome feminino	[par]|se
+parsec	nome masculino	par|sec
+párseo	adjetivo	[pár]|se|o
+párseo	nome masculino	[pár]|se|o
+parsiano	adjetivo	par|si|[a]|no
+parsina	nome feminino	par|[si]|na
+parsismo	nome masculino	par|[sis]|mo
+parsônsia	nome feminino	par|[sôn]|si|a
+part-time	adjetivo	part-ti|me
+part-time	nome masculino	part-ti|me
+partasana	nome masculino	par|ta|[sa]|na
+partasana	nome feminino	par|ta|[sa]|na
+partasanada	nome feminino	par|ta|sa|[na]|da
+parte	nome feminino	[par]|te
+parteira	nome feminino	par|[tei]|ra
+parteiro	adjetivo	par|[tei]|ro
+parteiro	nome masculino	par|[tei]|ro
+partejamento	nome masculino	par|te|ja|[men]|to
+partejar	verbo	par|te|[jar]
+partejo	nome masculino	par|[te]|jo
+partenaire	nome masculino	par|te|nai|re
+partenão	nome masculino	par|te|[não]
+parteneu	nome masculino	par|te|[neu]
+parténia	nome masculino	par|[té]|ni|a
+parténia	nome feminino	par|[té]|ni|a
+partênia	nome feminino	par|[tê]|ni|a
+partênia	nome masculino	par|[tê]|ni|a
+partenina	nome feminino	par|te|[ni]|na
+partenocarpia	nome feminino	par|te|no|car|[pi]|a
+partenocárpico	adjetivo	par|te|no|[cár]|pi|co
+partenocisso	nome masculino	par|te|no|[cis]|so
+partenogênese	nome feminino	par|te|no|[gê]|ne|se
+partenogénese	nome feminino	par|te|no|[gé]|ne|se
+partenogenésico	adjetivo	par|te|no|ge|[né]|si|co
+partenogenético	adjetivo	par|te|no|ge|[né]|ti|co
+partenologia	nome feminino	par|te|no|lo|[gi]|a
+partenológico	adjetivo	par|te|no|[ló]|gi|co
+partenomancia	nome feminino	par|te|no|man|[ci]|a
+partenomante	nome masculino	par|te|no|[man]|te
+partenomante	nome feminino	par|te|no|[man]|te
+partenomântico	adjetivo	par|te|no|[mân]|ti|co
+pártenon	nome masculino	[pár]|te|non
+parténope	nome feminino	par|[té]|no|pe
+partênope	nome feminino	par|[tê]|no|pe
+partenopeu	adjetivo	par|te|no|[peu]
+partenopeu	nome masculino	par|te|no|[peu]
+partenopolitano	adjetivo	par|te|no|po|li|[ta]|no
+partenopolitano	nome masculino	par|te|no|po|li|[ta]|no
+partição	nome feminino	par|ti|[ção]
+participação	nome feminino	par|ti|ci|pa|[ção]
+participador	adjetivo	par|ti|ci|pa|[dor]
+participador	nome masculino	par|ti|ci|pa|[dor]
+participal	adjetivo	par|ti|ci|[pal]
+participante	adjetivo	par|ti|ci|[pan]|te
+participante	nome masculino	par|ti|ci|[pan]|te
+participante	nome feminino	par|ti|ci|[pan]|te
+participar	verbo	par|ti|ci|[par]
+participativo	adjetivo	par|ti|ci|pa|[ti]|vo
+participável	adjetivo	par|ti|ci|[pá]|vel
+partícipe	adjetivo	par|[tí]|ci|pe
+partícipe	nome masculino	par|[tí]|ci|pe
+partícipe	nome feminino	par|[tí]|ci|pe
+participial	adjetivo	par|ti|ci|pi|[al]

@@ -1,0 +1,100 @@
+hepatogastrite	nome feminino	he|pa|to|gas|[tri]|te
+hepatografia	nome feminino	he|pa|to|gra|[fi]|a
+hepatográfico	adjetivo	he|pa|to|[grá]|fi|co
+hepatóloga	nome feminino	he|pa|[tó]|lo|ga
+hepatologia	nome feminino	he|pa|to|lo|[gi]|a
+hepatológico	adjetivo	he|pa|to|[ló]|gi|co
+hepatólogo	nome masculino	he|pa|[tó]|lo|go
+hepatoma	nome masculino	he|pa|[to]|ma
+hepatomegalia	nome feminino	he|pa|to|me|ga|[li]|a
+hepatomegálico	adjetivo	he|pa|to|me|[gá]|li|co
+hepatônfalo	nome masculino	he|pa|[tôn]|fa|lo
+hepatopâncreas	nome masculino	he|pa|to|[pân]|cre|as
+hepatopatia	nome feminino	he|pa|to|pa|[ti]|a
+hepatopático	adjetivo	he|pa|to|[pá]|ti|co
+hepatopéctico	adjetivo	he|pa|to|[péc]|ti|co
+hepatopético	adjetivo	he|pa|to|[pé]|ti|co
+hepatopexia	nome feminino	he|pa|to|pe|[xi]|a
+hepatoptose	nome feminino	he|pa|top|[to]|se
+hepatorrafia	nome feminino	he|pa|tor|ra|[fi]|a
+hepatorráfico	adjetivo	he|pa|tor|[rá]|fi|co
+hepatorragia	nome feminino	he|pa|tor|ra|[gi]|a
+hepatorreia	nome feminino	he|pa|tor|[rei]|a
+hepatorreico	adjetivo	he|pa|tor|[rei]|co
+hepatoscopia	nome feminino	he|pa|tos|co|[pi]|a
+hepatoscópico	adjetivo	he|pa|tos|[có]|pi|co
+hepatotectomia	nome feminino	he|pa|to|tec|to|[mi]|a
+hepatoterapia	nome feminino	he|pa|to|te|ra|[pi]|a
+hepatoterápico	adjetivo	he|pa|to|te|[rá]|pi|co
+hepatotomia	nome feminino	he|pa|to|to|[mi]|a
+hepatotómico	adjetivo	he|pa|to|[tó]|mi|co
+hepatotômico	adjetivo	he|pa|to|[tô]|mi|co
+heptacanto	adjetivo	hep|ta|[can]|to
+heptacorde	nome masculino	hep|ta|[cor]|de
+heptacórdio	nome masculino	hep|ta|[cór]|di|o
+heptacordo	nome masculino	hep|ta|[cor]|do
+heptacordo	adjetivo	hep|ta|[cor]|do
+heptadáctilo	adjetivo	hep|ta|[dác]|ti|lo
+heptadátilo	adjetivo	hep|ta|[dá]|ti|lo
+heptaédrico	adjetivo	hep|ta|[é]|dri|co
+heptaedro	nome masculino	hep|ta|[e]|dro
+heptafilo	adjetivo	hep|ta|[fi]|lo
+heptaginia	nome feminino	hep|ta|gi|[ni]|a
+heptagínia	nome feminino	hep|ta|[gí]|ni|a
+heptágino	adjetivo	hep|[tá]|gi|no
+heptagonal	adjetivo	hep|ta|go|[nal]
+heptágono	nome masculino	hep|[tá]|go|no
+heptâmetro	adjetivo	hep|[tâ]|me|tro
+heptâmetro	nome masculino	hep|[tâ]|me|tro
+heptamina	nome feminino	hep|ta|[mi]|na
+heptândria	nome feminino	hep|[tân]|dri|a
+heptandria	nome feminino	hep|tan|[dri]|a
+heptandro	adjetivo	hep|[tan]|dro
+heptanemo	adjetivo	hep|ta|[ne]|mo
+heptano	nome masculino	hep|[ta]|no
+heptapétalo	adjetivo	hep|ta|[pé]|ta|lo
+heptápilo	adjetivo	hep|[tá]|pi|lo
+heptarca	nome masculino	hep|[tar]|ca
+heptarquia	nome feminino	hep|tar|[qui]|a
+heptárquico	adjetivo	hep|[tár]|qui|co
+heptassépalo	adjetivo	hep|tas|[sé]|pa|lo
+heptassilábico	adjetivo	hep|tas|si|[lá]|bi|co
+heptassílabo	adjetivo	hep|tas|[sí]|la|bo
+heptassílabo	nome masculino	hep|tas|[sí]|la|bo
+heptástico	adjetivo	hep|[tás]|ti|co
+heptástico	nome masculino	hep|[tás]|ti|co
+heptateuco	nome masculino	hep|ta|[teu]|co
+heptatlo	nome masculino	hep|[ta]|tlo
+heptátomo	adjetivo	hep|[tá]|to|mo
+héptico	adjetivo	[hép]|ti|co
+heptileno	nome masculino	hep|ti|[le]|no
+heptílico	adjetivo	hep|[tí]|li|co
+heptilo	nome masculino	hep|[ti]|lo
+heptina	nome feminino	hep|[ti]|na
+héptodo	nome masculino	[hép]|to|do
+heptona	nome feminino	hep|[to]|na
+hera	nome feminino	[he]|ra
+hera-terrestre	nome feminino	he|ra-ter|[res]|tre
+heracleense	adjetivo	he|ra|cle|[en]|se
+heracleense	nome masculino	he|ra|cle|[en]|se
+heracleense	nome feminino	he|ra|cle|[en]|se
+heracleu	adjetivo	he|ra|[cleu]
+heraclida	adjetivo	he|ra|[cli]|da
+heraclida	nome masculino	he|ra|[cli]|da
+heraclida	nome feminino	he|ra|[cli]|da
+heraclitiano	adjetivo	he|ra|cli|ti|[a]|no
+heraclítico	adjetivo	he|ra|[clí]|ti|co
+heraclitismo	nome masculino	he|ra|cli|[tis]|mo
+heráldica	nome feminino	he|[rál]|di|ca
+heraldicamente	advérbio	he|ral|di|ca|[men]|te
+heráldico	nome masculino	he|[rál]|di|co
+heráldico	adjetivo	he|[rál]|di|co
+heraldista	nome masculino	he|ral|[dis]|ta
+heraldista	nome feminino	he|ral|[dis]|ta
+heraldo	nome masculino	he|[ral]|do
+heraldoteca	nome feminino	he|ral|do|[te]|ca
+herança	nome feminino	he|[ran]|ça
+herbáceo	adjetivo	her|[bá]|ce|o
+herbanário	nome masculino	her|ba|[ná]|ri|o
+herbário	nome masculino	her|[bá]|ri|o
+herbático	adjetivo	her|[bá]|ti|co

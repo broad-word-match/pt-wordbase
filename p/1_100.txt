@@ -1,0 +1,100 @@
+pá	interjeição	[pá]
+pá	nome masculino	[pá]
+pá	nome feminino	[pá]
+paanga	nome masculino	pa|an|ga
+pabulagem	nome feminino	pa|bu|[la]|gem
+pabular	verbo	pa|bu|[lar]
+pábulo	nome masculino	[pá]|bu|lo
+pábulo	adjetivo	[pá]|bu|lo
+paca	nome feminino	[pa]|ca
+paca	adjetivo	[pa]|ca
+pacabote	nome masculino	pa|ca|[bo]|te
+pacaça	nome feminino	pa|[ca]|ça
+pacajá	adjetivo	pa|ca|[já]
+pacajá	nome masculino	pa|ca|[já]
+pacajá	nome feminino	pa|ca|[já]
+pacalho	nome masculino	pa|[ca]|lho
+pacamão	nome masculino	pa|ca|[mão]
+pação	nome masculino	pa|[ção]
+pação	adjetivo	pa|[ção]
+pacapaca	nome feminino	pa|ca|[pa]|ca
+pacará	nome masculino	pa|ca|[rá]
+pacaratepu	nome masculino	pa|ca|ra|te|[pu]
+pacari	nome masculino	pa|ca|[ri]
+pacata	nome feminino	pa|[ca]|ta
+pacatamente	advérbio	pa|ca|ta|[men]|te
+pacatez	nome feminino	pa|ca|[tez]
+pacato	adjetivo	pa|[ca]|to
+pacato	nome masculino	pa|[ca]|to
+pacatório	adjetivo	pa|ca|[tó]|ri|o
+pacau	nome masculino	pa|[cau]
+pacavira	nome feminino	pa|ca|[vi]|ra
+páccie	adjetivo	[pác]|ci|e
+páccie	nome masculino	[pác]|ci|e
+páccie	nome feminino	[pác]|ci|e
+paceiro	adjetivo	pa|[cei]|ro
+paceiro	nome masculino	pa|[cei]|ro
+paceiro-mor	nome masculino	pa|cei|ro-mor
+pacemaker	nome masculino	pa|ce|ma|ker
+pacenha	nome feminino	pa|[ce]|nha
+pacenho	nome masculino	pa|[ce]|nho
+pacenho	adjetivo	pa|[ce]|nho
+pacense	nome masculino	pa|[cen]|se
+pacense	adjetivo	pa|[cen]|se
+pacense	nome feminino	pa|[cen]|se
+pachacim	nome masculino	pa|cha|[cim]
+pacharil	nome masculino	pa|cha|[ril]
+pacharro	nome masculino	pa|[char]|ro
+pachavelão	nome masculino	pa|cha|ve|[lão]
+pachecada	nome feminino	pa|che|[ca]|da
+pachecal	adjetivo	pa|che|[cal]
+pachel	nome masculino	pa|[chel]
+pachelgas	nome masculino	pa|[chel]|gas
+pachequice	nome feminino	pa|che|[qui]|ce
+pacho	nome masculino	[pa]|cho
+pachochada	nome feminino	pa|cho|[cha]|da
+pachocho	nome masculino	pa|[cho]|cho
+pachola	nome masculino	pa|[cho]|la
+pachola	adjetivo	pa|[cho]|la
+pachola	nome feminino	pa|[cho]|la
+pacholice	nome feminino	pa|cho|[li]|ce
+pachorra	nome feminino	pa|[chor]|ra
+pachorrentamente	advérbio	pa|chor|ren|ta|[men]|te
+pachorrento	adjetivo	pa|chor|[ren]|to
+pachouchada	nome feminino	pa|chou|[cha]|da
+pachoucheta	nome feminino	pa|chou|[che]|ta
+pachuli	nome masculino	pa|chu|[li]
+paciência	nome feminino	pa|ci|[ên]|ci|a
+paciência	interjeição	pa|ci|[ên]|ci|a
+pacientar	verbo	pa|ci|en|[tar]
+paciente	nome masculino	pa|ci|[en]|te
+paciente	adjetivo	pa|ci|[en]|te
+paciente	nome feminino	pa|ci|[en]|te
+pacientemente	advérbio	pa|ci|en|te|[men]|te
+pacificação	nome feminino	pa|ci|fi|ca|[ção]
+pacificado	adjetivo	pa|ci|fi|[ca]|do
+pacificador	adjetivo	pa|ci|fi|ca|[dor]
+pacificador	nome masculino	pa|ci|fi|ca|[dor]
+pacificadora	nome feminino	pa|ci|fi|ca|[do]|ra
+pacificamente	advérbio	pa|ci|fi|ca|[men]|te
+pacificar	verbo	pa|ci|fi|[car]
+pacificável	adjetivo	pa|ci|fi|[cá]|vel
+pacificidade	nome feminino	pa|ci|fi|ci|[da]|de
+pacífico	adjetivo	pa|[cí]|fi|co
+pacífico	nome masculino	pa|[cí]|fi|co
+pacifismo	nome masculino	pa|ci|[fis]|mo
+pacifista	adjetivo	pa|ci|[fis]|ta
+pacifista	nome masculino	pa|ci|[fis]|ta
+pacifista	nome feminino	pa|ci|[fis]|ta
+pacivira	nome feminino	pa|ci|[vi]|ra
+pack	nome masculino	[pack]
+package	nome masculino	pac|ka|ge
+paco	nome masculino	[pa]|co
+paço	nome masculino	[pa]|ço
+paço-ferreirense	adjetivo	pa|ço-fer|rei|[ren]|se
+paço-ferreirense	nome masculino	pa|ço-fer|rei|[ren]|se
+paço-ferreirense	nome feminino	pa|ço-fer|rei|[ren]|se
+pacoba	nome feminino	pa|[co]|ba
+pacobala	nome feminino	pa|co|[ba]|la
+pacobalo	nome masculino	pa|co|[ba]|lo
+pacobeira	nome feminino	pa|co|[bei]|ra

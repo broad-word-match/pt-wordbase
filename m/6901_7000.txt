@@ -1,0 +1,100 @@
+mica	nome feminino	[mi]|ca
+micáceo	adjetivo	mi|[cá]|ce|o
+micado	nome masculino	mi|[ca]|do
+micaelense	nome masculino	mi|ca|e|[len]|se
+micaelense	adjetivo	mi|ca|e|[len]|se
+micaelense	nome feminino	mi|ca|e|[len]|se
+micageiro	adjetivo	mi|ca|[gei]|ro
+micagem	nome feminino	mi|[ca]|gem
+micaia	nome feminino	mi|[cai]|a
+micante	adjetivo	mi|[can]|te
+micar	verbo	mi|[car]
+micaxisto	nome masculino	mi|ca|[xis]|to
+micaxistoso	adjetivo	mi|ca|xis|[to]|so
+micção	nome feminino	mic|[ção]
+micela	nome feminino	mi|[ce]|la
+micélio	nome masculino	mi|[cé]|li|o
+micendeira	nome feminino	mi|cen|[dei]|ra
+micenense	adjetivo	mi|ce|[nen]|se
+micenense	nome masculino	mi|ce|[nen]|se
+micenense	nome feminino	mi|ce|[nen]|se
+miceneu	adjetivo	mi|ce|[neu]
+miceneu	nome masculino	mi|ce|[neu]
+miceniano	adjetivo	mi|ce|ni|[a]|no
+miceniano	nome masculino	mi|ce|ni|[a]|no
+micénica	nome feminino	mi|[cé]|ni|ca
+micénico	nome masculino	mi|[cé]|ni|co
+micénico	adjetivo	mi|[cé]|ni|co
+micênico	adjetivo	mi|[cê]|ni|co
+micênico	nome masculino	mi|[cê]|ni|co
+micetina	nome feminino	mi|ce|[ti]|na
+micetófago	adjetivo	mi|ce|[tó]|fa|go
+micetófago	nome masculino	mi|ce|[tó]|fa|go
+micetografia	nome feminino	mi|ce|to|gra|[fi]|a
+micetográfico	adjetivo	mi|ce|to|[grá]|fi|co
+micetógrafo	nome masculino	mi|ce|[tó]|gra|fo
+micetoide	adjetivo	mi|ce|[toi]|de
+micetologia	nome feminino	mi|ce|to|lo|[gi]|a
+micetológico	adjetivo	mi|ce|to|[ló]|gi|co
+micetologista	nome feminino	mi|ce|to|lo|[gis]|ta
+micetologista	nome masculino	mi|ce|to|lo|[gis]|ta
+micetólogo	nome masculino	mi|ce|[tó]|lo|go
+micetoma	nome masculino	mi|ce|[to]|ma
+micetose	nome feminino	mi|ce|[to]|se
+micetótico	adjetivo	mi|ce|[tó]|ti|co
+micetozoário	nome masculino	mi|ce|to|zo|[á]|ri|o
+micetozoário	adjetivo	mi|ce|to|zo|[á]|ri|o
+micha	nome feminino	[mi]|cha
+michela	nome feminino	mi|[che]|la
+michelo	nome masculino	mi|[che]|lo
+micho	nome masculino	[mi]|cho
+mico	nome masculino	[mi]|co
+micobactéria	nome feminino	mi|co|bac|[té]|ri|a
+micocó	nome masculino	mi|co|[có]
+micoderma	nome masculino	mi|co|[der]|ma
+micodérmico	adjetivo	mi|co|[dér]|mi|co
+micogenia	nome feminino	mi|co|ge|[ni]|a
+micogénico	adjetivo	mi|co|[gé]|ni|co
+micogênico	adjetivo	mi|co|[gê]|ni|co
+micografia	nome feminino	mi|co|gra|[fi]|a
+micográfico	adjetivo	mi|co|[grá]|fi|co
+micógrafo	nome masculino	mi|[có]|gra|fo
+micóloga	nome feminino	mi|[có]|lo|ga
+micologia	nome feminino	mi|co|lo|[gi]|a
+micológico	adjetivo	mi|co|[ló]|gi|co
+micologista	nome masculino	mi|co|lo|[gis]|ta
+micologista	nome feminino	mi|co|lo|[gis]|ta
+micólogo	nome masculino	mi|[có]|lo|go
+micondó	nome masculino	mi|con|[dó]
+micondo	nome masculino	mi|[con]|do
+micônio	nome masculino	mi|[cô]|ni|o
+micônio	adjetivo	mi|[cô]|ni|o
+micónio	adjetivo	mi|[có]|ni|o
+micónio	nome masculino	mi|[có]|ni|o
+micoplasma	nome masculino	mi|co|[plas]|ma
+micorriza	nome feminino	mi|cor|[ri]|za
+micorrizo	nome masculino	mi|cor|[ri]|zo
+micose	nome feminino	mi|[co]|se
+micota	adjetivo	mi|[co]|ta
+micota	nome masculino	mi|[co]|ta
+micota	nome feminino	mi|[co]|ta
+micoteca	nome feminino	mi|co|[te]|ca
+micoterapia	nome feminino	mi|co|te|ra|[pi]|a
+micótico	adjetivo	mi|[có]|ti|co
+micra	nome feminino	[mi]|cra
+micracústico	adjetivo	mi|cra|[cús]|ti|co
+micreletrônica	nome feminino	mi|cre|le|[trô]|ni|ca
+micrestesia	nome feminino	mi|cres|te|[si]|a
+micrestético	adjetivo	mi|cres|[té]|ti|co
+micro	nome masculino	[mi]|cro
+micro-onda	nome feminino	mi|cro-on|da
+micro-ondas	nome masculino	mi|cro-on|das
+micro-organismo	nome masculino	mi|cro-or|ga|[nis]|mo
+microacústico	adjetivo	mi|cro|a|[cús]|ti|co
+microadenopatia	nome feminino	mi|cro|a|de|no|pa|[ti]|a
+microalga	nome feminino	mi|cro|[al]|ga
+microampere	nome masculino	mi|cro|am|[pe]|re
+microaspersor	nome masculino	mi|cro|as|per|[sor]
+microbalança	nome feminino	mi|cro|ba|[lan]|ça
+microbar	nome masculino	mi|cro|[bar]
+microbial	adjetivo	mi|cro|bi|[al]

@@ -1,0 +1,100 @@
+catalítico	adjetivo	ca|ta|[lí]|ti|co
+catalítico	nome masculino	ca|ta|[lí]|ti|co
+cátalo	adjetivo	[cá]|ta|lo
+cátalo	nome masculino	[cá]|ta|lo
+catalogação	nome feminino	ca|ta|lo|ga|[ção]
+catalogador	adjetivo	ca|ta|lo|ga|[dor]
+catalogador	nome masculino	ca|ta|lo|ga|[dor]
+catalogadora	nome feminino	ca|ta|lo|ga|[do]|ra
+catalogal	adjetivo	ca|ta|lo|[gal]
+catalogar	verbo	ca|ta|lo|[gar]
+catalogizar	verbo	ca|ta|lo|gi|[zar]
+catálogo	nome masculino	ca|[tá]|lo|go
+catalografia	nome feminino	ca|ta|lo|gra|[fi]|a
+catalográfico	adjetivo	ca|ta|lo|[grá]|fi|co
+catalpa	nome feminino	ca|[tal]|pa
+cataluna	nome feminino	ca|ta|[lu]|na
+catamarã	nome masculino	ca|ta|ma|[rã]
+catamaran	nome masculino	ca|ta|ma|ran
+catambá	nome masculino	ca|tam|[bá]
+catamenial	adjetivo	ca|ta|me|ni|[al]
+catamênio	nome masculino	ca|ta|[mê]|ni|o
+cataménio	nome masculino	ca|ta|[mé]|ni|o
+catamento	nome masculino	ca|ta|[men]|to
+catamito	nome masculino	ca|ta|[mi]|to
+catamorfismo	nome masculino	ca|ta|mor|[fis]|mo
+catana	nome feminino	ca|[ta]|na
+catanada	nome feminino	ca|ta|[na]|da
+catanar	verbo	ca|ta|[nar]
+catanari	nome masculino	ca|ta|na|[ri]
+catanduva	nome feminino	ca|tan|[du]|va
+catanduval	nome masculino	ca|tan|du|[val]
+catanear	verbo	ca|ta|ne|[ar]
+catanga	nome feminino	ca|[tan]|ga
+catanguera	nome feminino	ca|tan|[gue]|ra
+catanguês	adjetivo	ca|tan|[guês]
+catanguês	nome masculino	ca|tan|[guês]
+catanguesa	nome feminino	ca|tan|[gue]|sa
+catanhedense	adjetivo	ca|ta|nhe|[den]|se
+catanhedense	nome masculino	ca|ta|nhe|[den]|se
+catanhedense	nome feminino	ca|ta|nhe|[den]|se
+catano	nome masculino	ca|[ta]|no
+catão	nome masculino	ca|[tão]
+catáone	adjetivo	ca|[tá]|o|ne
+catáone	nome masculino	ca|[tá]|o|ne
+catáone	nome feminino	ca|[tá]|o|ne
+catapasma	nome masculino	ca|ta|[pas]|ma
+catapereiro	nome masculino	ca|ta|pe|[rei]|ro
+catapétalo	adjetivo	ca|ta|[pé]|ta|lo
+cataplana	nome feminino	ca|ta|[pla]|na
+cataplasma	nome feminino	ca|ta|[plas]|ma
+cataplasmado	adjetivo	ca|ta|plas|[ma]|do
+cataplasmar	verbo	ca|ta|plas|[mar]
+catapléctico	adjetivo	ca|ta|[pléc]|ti|co
+cataplético	adjetivo	ca|ta|[plé]|ti|co
+cataplexia	nome feminino	ca|ta|ple|[xi]|a
+cataporas	nome feminino	ca|ta|[po]|ras
+cataptose	nome feminino	ca|tap|[to]|se
+cataptótico	adjetivo	ca|tap|[tó]|ti|co
+catapúcia	nome feminino	ca|ta|[pú]|ci|a
+catapuia	adjetivo	ca|ta|[pui]|a
+catapuia	nome masculino	ca|ta|[pui]|a
+catapuia	nome feminino	ca|ta|[pui]|a
+catapulta	nome feminino	ca|ta|[pul]|ta
+catapultar	verbo	ca|ta|pul|[tar]
+catapus	nome masculino	ca|ta|[pus]
+catar	nome masculino	ca|[tar]
+catar	verbo	ca|[tar]
+cataraca	nome feminino	ca|ta|[ra]|ca
+catarata	nome feminino	ca|ta|[ra]|ta
+catarateiro	adjetivo	ca|ta|ra|[tei]|ro
+catarateiro	nome masculino	ca|ta|ra|[tei]|ro
+catarense	nome masculino	ca|ta|[ren]|se
+catarense	adjetivo	ca|ta|[ren]|se
+catarense	nome feminino	ca|ta|[ren]|se
+catariano	adjetivo	ca|ta|ri|[a]|no
+catariano	nome masculino	ca|ta|ri|[a]|no
+catarina	nome feminino	ca|ta|[ri]|na
+catarina-queimada	nome feminino	ca|ta|ri|na-quei|[ma]|da
+catarinense	nome masculino	ca|ta|ri|[nen]|se
+catarinense	nome feminino	ca|ta|ri|[nen]|se
+catarinense	adjetivo	ca|ta|ri|[nen]|se
+catarineta	nome masculino	ca|ta|ri|[ne]|ta
+catarineta	nome feminino	ca|ta|ri|[ne]|ta
+catarineta	adjetivo	ca|ta|ri|[ne]|ta
+catarinete	nome masculino	ca|ta|ri|[ne]|te
+catarinete	adjetivo	ca|ta|ri|[ne]|te
+catarinete	nome feminino	ca|ta|ri|[ne]|te
+catarino	adjetivo	ca|ta|[ri]|no
+catarino	nome masculino	ca|ta|[ri]|no
+catarista	adjetivo	ca|ta|[ris]|ta
+catarista	nome masculino	ca|ta|[ris]|ta
+catarista	nome feminino	ca|ta|[ris]|ta
+cátaro	adjetivo	[cá]|ta|ro
+cátaro	nome masculino	[cá]|ta|ro
+catarral	adjetivo	ca|tar|[ral]
+catarral	nome masculino	ca|tar|[ral]
+catarral	nome feminino	ca|tar|[ral]
+catarrão	nome masculino	ca|tar|[rão]
+catarrear	verbo	ca|tar|re|[ar]
+catarréctico	adjetivo	ca|tar|[réc]|ti|co

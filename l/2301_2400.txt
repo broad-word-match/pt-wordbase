@@ -1,0 +1,100 @@
+lexiologia	nome feminino	le|xi|o|lo|[gi]|a
+lexiológico	adjetivo	le|xi|o|[ló]|gi|co
+lexipíreto	adjetivo	le|xi|[pí]|re|to
+lexipíreto	nome masculino	le|xi|[pí]|re|to
+lexipirexia	nome feminino	le|xi|pi|re|[xi]|a
+léxis	nome feminino	[lé]|xis
+lexóvio	adjetivo	le|[xó]|vi|o
+lexóvio	nome masculino	le|[xó]|vi|o
+lezira	nome feminino	le|[zi]|ra
+lezirão	nome masculino	le|zi|[rão]
+lezirão	adjetivo	le|zi|[rão]
+lezíria	nome feminino	le|[zí]|ri|a
+lhama	nome feminino	[lha]|ma
+lhama	nome masculino	[lha]|ma
+lhanamente	advérbio	lha|na|[men]|te
+lhaneza	nome feminino	lha|[ne]|za
+lhano	adjetivo	[lha]|no
+lhanura	nome feminino	lha|[nu]|ra
+lhe	pronome pessoal	lhe
+lherzólito	nome masculino	lher|[zó]|li|to
+lho	contração	[lho]
+li	nome masculino	[li]
+lia	nome feminino	[li]|a
+lia	adjetivo	[li]|a
+liaça	nome feminino	li|[a]|ça
+liação	nome feminino	li|a|[ção]
+liáculo	nome masculino	li|[á]|cu|lo
+liadoiro	nome masculino	li|a|[doi]|ro
+liador	nome masculino	li|a|[dor]
+liadouro	nome masculino	li|a|[dou]|ro
+liadura	nome feminino	li|a|[du]|ra
+liágora	nome feminino	li|[á]|go|ra
+liagórea	nome feminino	li|a|[gó]|re|a
+liágoro	nome masculino	li|[á]|go|ro
+liamba	nome feminino	li|[am]|ba
+liame	nome masculino	li|[a]|me
+liana	nome feminino	li|[a]|na
+liança	nome feminino	li|[an]|ça
+liandras	nome feminino	li|[an]|dras
+liar	verbo	li|[ar]
+liase	nome feminino	li|[a]|se
+liásico	adjetivo	li|[á]|si|co
+liável	adjetivo	li|[á]|vel
+libação	nome feminino	li|ba|[ção]
+libambo	nome masculino	li|[bam]|bo
+libame	nome masculino	li|[ba]|me
+libamento	nome masculino	li|ba|[men]|to
+libanês	nome masculino	li|ba|[nês]
+libanês	adjetivo	li|ba|[nês]
+libanesa	nome feminino	li|ba|[ne]|sa
+libanomância	nome feminino	li|ba|no|[mân]|ci|a
+libanomante	nome masculino	li|ba|no|[man]|te
+libanomante	nome feminino	li|ba|no|[man]|te
+libanomântico	adjetivo	li|ba|no|[mân]|ti|co
+libar	verbo	li|[bar]
+libata	nome feminino	li|[ba]|ta
+libatório	nome masculino	li|ba|[tó]|ri|o
+libau	nome masculino	li|[bau]
+libela	nome feminino	li|[be]|la
+libelar	verbo	li|be|[lar]
+libelário	nome masculino	li|be|[lá]|ri|o
+libelático	nome masculino	li|be|[lá]|ti|co
+libelinha	nome feminino	li|be|[li]|nha
+libelista	nome masculino	li|be|[lis]|ta
+libelista	nome feminino	li|be|[lis]|ta
+libelo	nome masculino	li|[be]|lo
+libélula	nome feminino	li|[bé]|lu|la
+libelúlida	nome masculino	li|be|[lú]|li|da
+libelulídeo	nome masculino	li|be|lu|[lí]|de|o
+libelulídeo	adjetivo	li|be|lu|[lí]|de|o
+libente	adjetivo	li|[ben]|te
+libentemente	advérbio	li|ben|te|[men]|te
+líber	nome masculino	[lí]|ber
+liberação	nome feminino	li|be|ra|[ção]
+liberado	adjetivo	li|be|[ra]|do
+liberal	nome masculino	li|be|[ral]
+liberal	adjetivo	li|be|[ral]
+liberal	nome feminino	li|be|[ral]
+liberal-democrata	nome feminino	li|be|ral-de|mo|[cra]|ta
+liberal-democrata	nome masculino	li|be|ral-de|mo|[cra]|ta
+liberal-democrata	adjetivo	li|be|ral-de|mo|[cra]|ta
+liberalão	adjetivo	li|be|ra|[lão]
+liberalão	nome masculino	li|be|ra|[lão]
+liberalengo	adjetivo	li|be|ra|[len]|go
+liberalesco	adjetivo	li|be|ra|[les]|co
+liberalidade	nome feminino	li|be|ra|li|[da]|de
+liberalismo	nome masculino	li|be|ra|[lis]|mo
+liberalista	adjetivo	li|be|ra|[lis]|ta
+liberalista	nome masculino	li|be|ra|[lis]|ta
+liberalista	nome feminino	li|be|ra|[lis]|ta
+liberalização	nome feminino	li|be|ra|li|za|[ção]
+liberalizador	adjetivo	li|be|ra|li|za|[dor]
+liberalizador	nome masculino	li|be|ra|li|za|[dor]
+liberalizadora	nome feminino	li|be|ra|li|za|[do]|ra
+liberalizante	adjetivo	li|be|ra|li|[zan]|te
+liberalizar	verbo	li|be|ra|li|[zar]
+liberalizável	adjetivo	li|be|ra|li|[zá]|vel
+liberalmente	advérbio	li|be|ral|[men]|te
+liberar	verbo	li|be|[rar]
+liberativo	adjetivo	li|be|ra|[ti]|vo

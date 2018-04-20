@@ -1,0 +1,96 @@
+dupleto	nome masculino	du|[ple]|to
+dúplex	nome masculino	[dú]|plex
+dúplex	adjetivo	[dú]|plex
+duplex	nome masculino	du|[plex]
+duplicabilidade	nome feminino	du|pli|ca|bi|li|[da]|de
+duplicação	nome feminino	du|pli|ca|[ção]
+duplicadamente	advérbio	du|pli|ca|da|[men]|te
+duplicado	adjetivo	du|pli|[ca]|do
+duplicado	nome masculino	du|pli|[ca]|do
+duplicador	adjetivo	du|pli|ca|[dor]
+duplicador	nome masculino	du|pli|ca|[dor]
+duplicadora	nome feminino	du|pli|ca|[do]|ra
+duplicante	adjetivo	du|pli|[can]|te
+duplicar	verbo	du|pli|[car]
+duplicário	nome masculino	du|pli|[cá]|ri|o
+duplicata	nome feminino	du|pli|[ca]|ta
+duplicativo	adjetivo	du|pli|ca|[ti]|vo
+duplicatura	nome feminino	du|pli|ca|[tu]|ra
+duplicável	adjetivo	du|pli|[cá]|vel
+dúplice	adjetivo	[dú]|pli|ce
+duplicemente	advérbio	du|pli|ce|[men]|te
+duplicidade	nome feminino	du|pli|ci|[da]|de
+duplipene	adjetivo	du|pli|[pe]|ne
+duplo	número multiplicativo	[du]|plo
+duplo	adjetivo	[du]|plo
+duplo	nome masculino	[du]|plo
+dupôndio	nome masculino	du|[pôn]|di|o
+duque	nome masculino	[du]|que
+duquesa	nome feminino	du|[que]|sa
+dura	nome feminino	[du]|ra
+dura-máter	nome feminino	du|ra-má|ter
+durabilidade	nome feminino	du|ra|bi|li|[da]|de
+duração	nome feminino	du|ra|[ção]
+duradoiro	adjetivo	du|ra|[doi]|ro
+durador	adjetivo	du|ra|[dor]
+duradouramente	advérbio	du|ra|dou|ra|[men]|te
+duradouro	adjetivo	du|ra|[dou]|ro
+duralumínio	nome masculino	du|ra|lu|[mí]|ni|o
+durame	nome masculino	du|[ra]|me
+durâmen	nome masculino	du|[râ]|men
+duramente	advérbio	du|ra|[men]|te
+duranta	nome feminino	du|[ran]|ta
+durante	preposição	du|[ran]|te
+durante	adjetivo	du|[ran]|te
+durante	nome masculino	du|[ran]|te
+durão	nome masculino	du|[rão]
+duraque	nome masculino	du|[ra]|que
+durar	verbo	du|[rar]
+duras	nome feminino	[du]|ras
+durativo	adjetivo	du|ra|[ti]|vo
+durável	adjetivo	du|[rá]|vel
+duravelmente	advérbio	du|ra|vel|[men]|te
+duraz	adjetivo	du|[raz]
+durázia	nome feminino	du|[rá]|zi|a
+durázio	adjetivo	du|[rá]|zi|o
+durbar	nome masculino	dur|[bar]
+durex	nome masculino	du|[rex]
+durez	nome feminino	du|[rez]
+dureza	nome feminino	du|[re]|za
+duríade	nome feminino	du|[rí]|a|de
+duriango	nome masculino	du|ri|[an]|go
+durião	nome masculino	du|ri|[ão]
+duriense	nome masculino	du|ri|[en]|se
+duriense	adjetivo	du|ri|[en]|se
+duriense	nome feminino	du|ri|[en]|se
+durimínio	adjetivo	du|ri|[mí]|ni|o
+durina	nome feminino	du|[ri]|na
+durindana	nome feminino	du|rin|[da]|na
+dúrio	nome masculino	[dú]|ri|o
+duríssimo	adjetivo	du|[rís]|si|mo
+duriúsculo	adjetivo	du|ri|[ús]|cu|lo
+duro	adjetivo	[du]|ro
+duro	nome masculino	[du]|ro
+duro	advérbio	[du]|ro
+duroplástico	adjetivo	du|ro|[plás]|ti|co
+durra	nome feminino	[dur]|ra
+duto	nome masculino	[du]|to
+duunvirado	nome masculino	du|un|vi|[ra]|do
+duunviral	adjetivo	du|un|vi|[ral]
+duunviralício	adjetivo	du|un|vi|ra|[lí]|ci|o
+duunvirato	nome masculino	du|un|vi|[ra]|to
+duúnviro	nome masculino	du|[ún]|vi|ro
+duvália	nome feminino	du|[vá]|li|a
+dúvida	nome feminino	[dú]|vi|da
+duvidador	nome masculino	du|vi|da|[dor]
+duvidar	verbo	du|vi|[dar]
+duvidável	adjetivo	du|vi|[dá]|vel
+duvidosamente	advérbio	du|vi|do|sa|[men]|te
+duvidoso	adjetivo	du|vi|[do]|so
+duvidoso	nome masculino	du|vi|[do]|so
+duzentos	nome masculino	du|[zen]|tos
+duzentos	número cardinal	du|[zen]|tos
+duzentos	adjetivo	du|[zen]|tos
+dúzia	nome feminino	[dú]|zi|a
+dzeta	nome masculino	[dze]|ta
+dzovo	nome masculino	[dzo]|vo

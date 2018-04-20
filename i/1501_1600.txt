@@ -1,0 +1,100 @@
+impolidamente	advérbio	im|po|li|da|[men]|te
+impolidez	nome feminino	im|po|li|[dez]
+impolido	adjetivo	im|po|[li]|do
+impolítica	nome feminino	im|po|[lí]|ti|ca
+impoliticamente	advérbio	im|po|li|ti|ca|[men]|te
+impolítico	adjetivo	im|po|[lí]|ti|co
+impoluível	adjetivo	im|po|lu|[í]|vel
+impolutamente	advérbio	im|po|lu|ta|[men]|te
+impoluto	adjetivo	im|po|[lu]|to
+imponderabilidade	nome feminino	im|pon|de|ra|bi|li|[da]|de
+imponderação	nome feminino	im|pon|de|ra|[ção]
+imponderadamente	advérbio	im|pon|de|ra|da|[men]|te
+imponderado	adjetivo	im|pon|de|[ra]|do
+imponderável	adjetivo	im|pon|de|[rá]|vel
+imponderável	nome masculino	im|pon|de|[rá]|vel
+imponderavelmente	advérbio	im|pon|de|ra|vel|[men]|te
+imponência	nome feminino	im|po|[nên]|ci|a
+imponente	adjetivo	im|po|[nen]|te
+imponentemente	advérbio	im|po|nen|te|[men]|te
+imponível	adjetivo	im|po|[ní]|vel
+impontão	nome masculino	im|pon|[tão]
+impontar	verbo	im|pon|[tar]
+impontual	adjetivo	im|pon|tu|[al]
+impontualidade	nome feminino	im|pon|tu|a|li|[da]|de
+impopular	adjetivo	im|po|pu|[lar]
+impopularidade	nome feminino	im|po|pu|la|ri|[da]|de
+impopularizar	verbo	im|po|pu|la|ri|[zar]
+impopularizarão	nome feminino	im|po|pu|la|ri|za|[rão]
+impopularmente	advérbio	im|po|pu|lar|[men]|te
+impor	verbo	im|[por]
+imporém	nome masculino	im|po|[rém]
+import-export	nome masculino	im|port-ex|port
+importabilidade	nome feminino	im|por|ta|bi|li|[da]|de
+importação	nome feminino	im|por|ta|[ção]
+importação-exportação	nome masculino	im|por|ta|ção-ex|por|ta|[ção]
+importado	adjetivo	im|por|[ta]|do
+importador	adjetivo	im|por|ta|[dor]
+importador	nome masculino	im|por|ta|[dor]
+importadora	nome feminino	im|por|ta|[do]|ra
+importância	nome feminino	im|por|[tân]|ci|a
+importante	nome masculino	im|por|[tan]|te
+importante	adjetivo	im|por|[tan]|te
+importantíssimo	adjetivo	im|por|tan|[tís]|si|mo
+importar	verbo	im|por|[tar]
+importável	adjetivo	im|por|[tá]|vel
+importe	nome masculino	im|[por]|te
+importuna	nome feminino	im|por|[tu]|na
+importunação	nome feminino	im|por|tu|na|[ção]
+importunado	adjetivo	im|por|tu|[na]|do
+importunador	adjetivo	im|por|tu|na|[dor]
+importunador	nome masculino	im|por|tu|na|[dor]
+importunadora	nome feminino	im|por|tu|na|[do]|ra
+importunamente	advérbio	im|por|tu|na|[men]|te
+importunância	nome feminino	im|por|tu|[nân]|ci|a
+importunar	verbo	im|por|tu|[nar]
+importunidade	nome feminino	im|por|tu|ni|[da]|de
+importuno	adjetivo	im|por|[tu]|no
+importuno	nome masculino	im|por|[tu]|no
+imposição	nome feminino	im|po|si|[ção]
+impositivo	adjetivo	im|po|si|[ti]|vo
+impositor	adjetivo	im|po|si|[tor]
+impositor	nome masculino	im|po|si|[tor]
+impossança	nome feminino	im|pos|[san]|ça
+impossíbil	adjetivo	im|pos|[sí]|bil
+impossíbil	nome masculino	im|pos|[sí]|bil
+impossibilidade	nome feminino	im|pos|si|bi|li|[da]|de
+impossibilitado	adjetivo	im|pos|si|bi|li|[ta]|do
+impossibilitar	verbo	im|pos|si|bi|li|[tar]
+impossível	nome masculino	im|pos|[sí]|vel
+impossível	adjetivo	im|pos|[sí]|vel
+imposta	nome feminino	im|[pos]|ta
+impostação	nome feminino	im|pos|ta|[ção]
+imposto	adjetivo	im|[pos]|to
+imposto	nome masculino	im|[pos]|to
+impostor	adjetivo	im|pos|[tor]
+impostor	nome masculino	im|pos|[tor]
+impostora	nome feminino	im|pos|[to]|ra
+impostoraço	nome masculino	im|pos|to|[ra]|ço
+impostoria	nome feminino	im|pos|to|[ri]|a
+impostura	nome feminino	im|pos|[tu]|ra
+imposturar	verbo	im|pos|tu|[rar]
+imposturice	nome feminino	im|pos|tu|[ri]|ce
+impotabilidade	nome feminino	im|po|ta|bi|li|[da]|de
+impotável	adjetivo	im|po|[tá]|vel
+impotência	nome feminino	im|po|[tên]|ci|a
+impotente	adjetivo	im|po|[ten]|te
+impotente	nome masculino	im|po|[ten]|te
+impotentemente	advérbio	im|po|ten|te|[men]|te
+impraticabilidade	nome feminino	im|pra|ti|ca|bi|li|[da]|de
+impraticado	adjetivo	im|pra|ti|[ca]|do
+impraticável	adjetivo	im|pra|ti|[cá]|vel
+impraticavelmente	advérbio	im|pra|ti|ca|vel|[men]|te
+imprecação	nome feminino	im|pre|ca|[ção]
+imprecar	verbo	im|pre|[car]
+imprecatado	adjetivo	im|pre|ca|[ta]|do
+imprecativamente	advérbio	im|pre|ca|ti|va|[men]|te
+imprecatividade	nome feminino	im|pre|ca|ti|vi|[da]|de
+imprecativo	adjetivo	im|pre|ca|[ti]|vo
+imprecatoriamente	advérbio	im|pre|ca|to|ri|a|[men]|te
+imprecatório	adjetivo	im|pre|ca|[tó]|ri|o

@@ -1,0 +1,100 @@
+xantocrómico	adjetivo	xan|to|[cró]|mi|co
+xantodermia	nome feminino	xan|to|der|[mi]|a
+xantodérmico	adjetivo	xan|to|[dér]|mi|co
+xantofila	nome feminino	xan|to|[fi]|la
+xantofilite	nome feminino	xan|to|fi|[li]|te
+xantogénico	adjetivo	xan|to|[gé]|ni|co
+xantogênico	adjetivo	xan|to|[gê]|ni|co
+xantogénio	nome masculino	xan|to|[gé]|ni|o
+xantogênio	nome masculino	xan|to|[gê]|ni|o
+xantoleucito	nome masculino	xan|to|leu|[ci]|to
+xantolite	nome feminino	xan|to|[li]|te
+xantólito	nome masculino	xan|[tó]|li|to
+xantoma	nome masculino	xan|[to]|ma
+xantomatose	nome feminino	xan|to|ma|[to]|se
+xantopicrito	nome masculino	xan|to|pi|[cri]|to
+xantopirite	nome feminino	xan|to|pi|[ri]|te
+xantoplasta	nome masculino	xan|to|[plas]|ta
+xantoplastídio	nome masculino	xan|to|plas|[tí]|di|o
+xantoproteico	adjetivo	xan|to|pro|[tei]|co
+xantopsia	nome feminino	xan|top|[si]|a
+xantóptero	adjetivo	xan|[tóp]|te|ro
+xantóptero	nome masculino	xan|[tóp]|te|ro
+xantorreia	nome feminino	xan|tor|[rei]|a
+xantorreico	adjetivo	xan|tor|[rei]|co
+xantorrizo	adjetivo	xan|tor|[ri]|zo
+xantortite	nome feminino	xan|tor|[ti]|te
+xantose	nome feminino	xan|[to]|se
+xantospermo	adjetivo	xan|tos|[per]|mo
+xantossiderite	nome feminino	xan|tos|si|de|[ri]|te
+xantoxilácea	nome feminino	xan|to|xi|[lá]|ce|a
+xantoxílea	nome feminino	xan|to|[xí]|le|a
+xantoxileno	nome masculino	xan|to|xi|[le]|no
+xantoxilina	nome feminino	xan|to|xi|[li]|na
+xantóxilo	adjetivo	xan|[tó]|xi|lo
+xantóxilo	nome masculino	xan|[tó]|xi|lo
+xantungue	nome masculino	xan|[tun]|gue
+xantúria	nome feminino	xan|[tú]|ri|a
+xapacura	adjetivo	xa|pa|[cu]|ra
+xapacura	nome masculino	xa|pa|[cu]|ra
+xapacura	nome feminino	xa|pa|[cu]|ra
+xaperu	adjetivo	xa|pe|[ru]
+xaperu	nome masculino	xa|pe|[ru]
+xaperu	nome feminino	xa|pe|[ru]
+xaputa	nome feminino	xa|[pu]|ta
+xaque	nome masculino	[xa]|que
+xaque-mate	nome masculino	xa|que-ma|te
+xaqueador	adjetivo	xa|que|a|[dor]
+xaqueador	nome masculino	xa|que|a|[dor]
+xaquear	verbo	xa|que|[ar]
+xaqueca	nome feminino	xa|[que]|ca
+xáquema	nome feminino	[xá]|que|ma
+xaquiaísmo	nome masculino	xa|qui|a|[ís]|mo
+xaquiaísta	adjetivo	xa|qui|a|[ís]|ta
+xaquiaísta	nome masculino	xa|qui|a|[ís]|ta
+xaquiaísta	nome feminino	xa|qui|a|[ís]|ta
+xáquima	nome feminino	[xá]|qui|ma
+xar-pei	nome masculino	[xar-pei]
+xara	nome feminino	[xa]|ra
+xará	nome masculino	xa|[rá]
+xará	nome feminino	xa|[rá]
+xara-branca	nome feminino	xa|ra-bran|ca
+xara-preta	nome feminino	xa|ra-pre|ta
+xarafim	nome masculino	xa|ra|[fim]
+xarafo	nome masculino	xa|[ra]|fo
+xarapa	nome masculino	xa|[ra]|pa
+xarapa	nome feminino	xa|[ra]|pa
+xarapim	nome masculino	xa|ra|[pim]
+xarapim	nome feminino	xa|ra|[pim]
+xaraque	nome masculino	xa|[ra]|que
+xarau	nome masculino	xa|[rau]
+xarda	nome feminino	[xar]|da
+xarda	nome masculino	[xar]|da
+xardas	nome feminino	[xar]|das
+xardo	adjetivo	[xar]|do
+xardoso	adjetivo	xar|[do]|so
+xarel	nome masculino	xa|[rel]
+xarelete	nome masculino	xa|re|[le]|te
+xarém	nome masculino	xa|[rém]
+xarepe	nome masculino	xa|[re]|pe
+xareta	nome feminino	xa|[re]|ta
+xaretar	verbo	xa|re|[tar]
+xaréu	nome masculino	xa|[réu]
+xarifado	nome masculino	xa|ri|[fa]|do
+xarife	nome masculino	xa|[ri]|fe
+xarifino	adjetivo	xa|ri|[fi]|no
+xarifo	nome masculino	xa|[ri]|fo
+xaroco	nome masculino	xa|[ro]|co
+xaropada	nome feminino	xa|ro|[pa]|da
+xaropar	verbo	xa|ro|[par]
+xarope	nome masculino	xa|[ro]|pe
+xaroposo	adjetivo	xa|ro|[po]|so
+xarrasca	nome feminino	xar|[ras]|ca
+xarroco	nome masculino	xar|[ro]|co
+xastre	nome masculino	[xas]|tre
+xátria	nome masculino	[xá]|tri|a
+xátria	nome feminino	[xá]|tri|a
+xauim	nome masculino	xau|[im]
+xauter	nome masculino	xau|[ter]
+xavante	nome masculino	xa|[van]|te
+xavante	adjetivo	xa|[van]|te

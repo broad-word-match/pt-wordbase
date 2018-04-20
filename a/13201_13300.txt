@@ -1,0 +1,100 @@
+anomiano	adjetivo	a|no|mi|[a]|no
+anomiano	nome masculino	a|no|mi|[a]|no
+anominação	nome feminino	a|no|mi|na|[ção]
+anomocefalia	nome feminino	a|no|mo|ce|fa|[li]|a
+anomocéfalo	adjetivo	a|no|mo|[cé]|fa|lo
+anomodonte	nome masculino	a|no|mo|[don]|te
+anona	nome feminino	a|[no]|na
+anonácea	nome feminino	a|no|[ná]|ce|a
+anonáceo	adjetivo	a|no|[ná]|ce|o
+anonário	adjetivo	a|no|[ná]|ri|o
+anoneira	nome feminino	a|no|[nei]|ra
+anônfalo	adjetivo	a|[nôn]|fa|lo
+anónima	nome feminino	a|[nó]|ni|ma
+anonimado	nome masculino	a|no|ni|[ma]|do
+anonimamente	advérbio	a|no|ni|ma|[men]|te
+anonimar	verbo	a|no|ni|[mar]
+anonimato	nome masculino	a|no|ni|[ma]|to
+anonímia	nome feminino	a|no|[ní]|mi|a
+anonimizar	verbo	a|no|ni|mi|[zar]
+anónimo	nome masculino	a|[nó]|ni|mo
+anônimo	adjetivo	a|[nô]|ni|mo
+anônimo	nome masculino	a|[nô]|ni|mo
+anónimo	adjetivo	a|[nó]|ni|mo
+anoniquia	nome feminino	a|no|ni|[qui]|a
+anopétalo	adjetivo	a|no|[pé]|ta|lo
+anoplo	nome masculino	a|[no]|plo
+anopluro	adjetivo	a|no|[plu]|ro
+anopluro	nome masculino	a|no|[plu]|ro
+anopsia	nome feminino	a|nop|[si]|a
+anóptico	adjetivo	a|[nóp]|ti|co
+anoque	nome masculino	a|[no]|que
+anorak	nome masculino	a|no|rak
+anoraque	nome masculino	a|no|[ra]|que
+anordestear	verbo	a|nor|des|te|[ar]
+anoréctico	adjetivo	a|no|[réc]|ti|co
+anoréctico	nome masculino	a|no|[réc]|ti|co
+anorético	adjetivo	a|no|[ré]|ti|co
+anorético	nome masculino	a|no|[ré]|ti|co
+anorexia	nome feminino	a|no|re|[xi]|a
+anoréxico	adjetivo	a|no|[ré]|xi|co
+anorexigênio	adjetivo	a|no|re|xi|[gê]|ni|o
+anorexigênio	nome masculino	a|no|re|xi|[gê]|ni|o
+anorexigénio	nome masculino	a|no|re|xi|[gé]|ni|o
+anorexigénio	adjetivo	a|no|re|xi|[gé]|ni|o
+anorgânico	adjetivo	a|nor|[gâ]|ni|co
+anori	nome masculino	a|no|[ri]
+anormal	adjetivo	a|nor|[mal]
+anormal	nome masculino	a|nor|[mal]
+anormal	nome feminino	a|nor|[mal]
+anormalidade	nome feminino	a|nor|ma|li|[da]|de
+anormalíssimo	adjetivo	a|nor|ma|[lís]|si|mo
+anormalmente	advérbio	a|nor|mal|[men]|te
+anorquia	nome feminino	a|nor|[qui]|a
+anorteamento	nome masculino	a|nor|te|a|[men]|to
+anortear	verbo	a|nor|te|[ar]
+anortita	nome feminino	a|nor|[ti]|ta
+anortite	nome feminino	a|nor|[ti]|te
+anortítico	adjetivo	a|nor|[tí]|ti|co
+anortóclase	nome feminino	a|nor|[tó]|cla|se
+anortografia	nome feminino	a|nor|to|gra|[fi]|a
+anortográfico	adjetivo	a|nor|to|[grá]|fi|co
+anortosito	nome masculino	a|nor|to|[si]|to
+anosfresia	nome feminino	a|nos|fre|[si]|a
+anosfrésico	adjetivo	a|nos|[fré]|si|co
+anosfrético	adjetivo	a|nos|[fré]|ti|co
+anosia	nome feminino	a|no|[si]|a
+anosidade	nome feminino	a|no|si|[da]|de
+anosmia	nome feminino	a|nos|[mi]|a
+anósmico	adjetivo	a|[nós]|mi|co
+anoso	adjetivo	a|[no]|so
+anosognosia	nome feminino	a|no|sog|no|[si]|a
+anosteose	nome feminino	a|nos|te|[o]|se
+anosteozoário	adjetivo	a|nos|te|o|zo|[á]|ri|o
+anosteozoário	nome masculino	a|nos|te|o|zo|[á]|ri|o
+anotação	nome feminino	a|no|ta|[ção]
+anotado	adjetivo	a|no|[ta]|do
+anotador	nome masculino	a|no|ta|[dor]
+anotador	adjetivo	a|no|ta|[dor]
+anotadora	nome feminino	a|no|ta|[do]|ra
+anotar	verbo	a|no|[tar]
+anotável	adjetivo	a|no|[tá]|vel
+anotia	nome feminino	a|no|[ti]|a
+anótico	adjetivo	a|[nó]|ti|co
+anoto	adjetivo	a|[no]|to
+anoutar	verbo	a|nou|[tar]
+anoutecer	verbo	a|nou|te|[cer]
+anovamento	nome masculino	a|no|va|[men]|to
+anovar	verbo	a|no|[var]
+anovear	verbo	a|no|ve|[ar]
+anóveas	nome feminino	a|[nó]|ve|as
+anovelar	verbo	a|no|ve|[lar]
+anoxemia	nome feminino	a|no|xe|[mi]|a
+anoxémico	adjetivo	a|no|[xé]|mi|co
+anoxêmico	adjetivo	a|no|[xê]|mi|co
+anoxia	nome feminino	a|no|[xi]|a
+anóxico	adjetivo	a|[nó]|xi|co
+anoxiemia	nome feminino	a|no|xi|e|[mi]|a
+anoxítona	nome feminino	a|no|[xí]|to|na
+anoxítono	adjetivo	a|no|[xí]|to|no
+anquilha	nome feminino	an|[qui]|lha

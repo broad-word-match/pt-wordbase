@@ -1,0 +1,100 @@
+distraído	nome masculino	dis|tra|[í]|do
+distraidor	adjetivo	dis|trai|[dor]
+distraidor	nome masculino	dis|trai|[dor]
+distraimento	nome masculino	dis|trai|[men]|to
+distrair	verbo	dis|tra|[ir]
+distraível	adjetivo	dis|tra|[í]|vel
+distratar	verbo	dis|tra|[tar]
+distrate	nome masculino	dis|[tra]|te
+distrátil	adjetivo	dis|[trá]|til
+distrativo	adjetivo	dis|tra|[ti]|vo
+distrato	nome masculino	dis|[tra]|to
+distribuição	nome feminino	dis|tri|bu|i|[ção]
+distribuidor	adjetivo	dis|tri|bu|i|[dor]
+distribuidor	nome masculino	dis|tri|bu|i|[dor]
+distribuidora	nome feminino	dis|tri|bu|i|[do]|ra
+distribuir	verbo	dis|tri|bu|[ir]
+distribuível	adjetivo	dis|tri|bu|[í]|vel
+distributário	adjetivo	dis|tri|bu|[tá]|ri|o
+distributário	nome masculino	dis|tri|bu|[tá]|ri|o
+distributivamente	advérbio	dis|tri|bu|ti|va|[men]|te
+distributividade	nome feminino	dis|tri|bu|ti|vi|[da]|de
+distributivo	adjetivo	dis|tri|bu|[ti]|vo
+distrição	nome feminino	dis|tri|[ção]
+distrital	adjetivo	dis|tri|[tal]
+distrito	nome masculino	dis|[tri]|to
+distrofia	nome feminino	dis|tro|[fi]|a
+distrófico	adjetivo	dis|[tró]|fi|co
+disturbar	verbo	dis|tur|[bar]
+distúrbio	nome masculino	dis|[túr]|bi|o
+disúria	nome feminino	di|[sú]|ri|a
+disúrico	nome masculino	di|[sú]|ri|co
+disúrico	adjetivo	di|[sú]|ri|co
+dita	nome feminino	[di]|ta
+ditado	adjetivo	di|[ta]|do
+ditado	nome masculino	di|[ta]|do
+ditador	nome masculino	di|ta|[dor]
+ditadora	nome feminino	di|ta|[do]|ra
+ditadura	nome feminino	di|ta|[du]|ra
+ditafone	nome masculino	di|ta|[fo]|ne
+ditame	nome masculino	di|[ta]|me
+ditamno	nome masculino	di|[tam]|no
+ditar	verbo	di|[tar]
+ditatorial	adjetivo	di|ta|to|ri|[al]
+ditatorialmente	advérbio	di|ta|to|ri|al|[men]|te
+ditatório	adjetivo	di|ta|[tó]|ri|o
+ditável	adjetivo	di|[tá]|vel
+diteísmo	nome masculino	di|te|[ís]|mo
+diteísta	adjetivo	di|te|[ís]|ta
+diteísta	nome masculino	di|te|[ís]|ta
+diteísta	nome feminino	di|te|[ís]|ta
+ditenda	nome feminino	di|[ten]|da
+ditério	nome masculino	di|[té]|ri|o
+dítico	adjetivo	[dí]|ti|co
+dítico	nome masculino	[dí]|ti|co
+ditinho	nome masculino	di|[ti]|nho
+ditionato	nome masculino	di|ti|o|[na]|to
+ditiónico	adjetivo	di|ti|[ó]|ni|co
+ditiônico	adjetivo	di|ti|[ô]|ni|co
+ditirambicamente	advérbio	di|ti|ram|bi|ca|[men]|te
+ditirâmbico	adjetivo	di|ti|[râm]|bi|co
+ditirambo	nome masculino	di|ti|[ram]|bo
+dito	adjetivo	[di]|to
+dito	nome masculino	[di]|to
+dito-cujo	nome masculino	di|to-cu|jo
+ditoba	nome feminino	di|[to]|ba
+ditografia	nome feminino	di|to|gra|[fi]|a
+ditográfico	adjetivo	di|to|[grá]|fi|co
+ditologia	nome feminino	di|to|lo|[gi]|a
+ditológico	adjetivo	di|to|[ló]|gi|co
+dítomo	adjetivo	[dí]|to|mo
+ditongação	nome feminino	di|ton|ga|[ção]
+ditongal	adjetivo	di|ton|[gal]
+ditongar	verbo	di|ton|[gar]
+ditongo	nome masculino	di|[ton]|go
+dítono	nome masculino	[dí]|to|no
+ditosamente	advérbio	di|to|sa|[men]|te
+ditoso	adjetivo	di|[to]|so
+ditote	nome masculino	di|[to]|te
+ditríglifo	nome masculino	di|[trí]|gli|fo
+ditrocaico	adjetivo	di|tro|[cai]|co
+dítropo	adjetivo	[dí]|tro|po
+ditroqueu	nome masculino	di|tro|[queu]
+dituma	nome feminino	di|[tu]|ma
+diuense	nome masculino	di|u|[en]|se
+diuense	adjetivo	di|u|[en]|se
+diuense	nome feminino	di|u|[en]|se
+diurese	nome feminino	diu|[re]|se
+diurético	adjetivo	diu|[ré]|ti|co
+diurético	nome masculino	diu|[ré]|ti|co
+diuretina	nome feminino	diu|re|[ti]|na
+diurnal	adjetivo	di|ur|[nal]
+diurnal	nome masculino	di|ur|[nal]
+diurno	nome masculino	di|[ur]|no
+diurno	adjetivo	di|[ur]|no
+diuso	nome masculino	[diu]|so
+diúta	nome feminino	di|[ú]|ta
+diuturnamente	advérbio	diu|tur|na|[men]|te
+diuturnidade	nome feminino	diu|tur|ni|[da]|de
+diuturno	adjetivo	diu|[tur]|no
+divã	nome masculino	di|[vã]

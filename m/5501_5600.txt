@@ -1,0 +1,100 @@
+meloterapia	nome feminino	me|lo|te|ra|[pi]|a
+meloterápico	adjetivo	me|lo|te|[rá]|pi|co
+melótropo	nome masculino	me|[ló]|tro|po
+melquetrefe	nome masculino	mel|que|[tre]|fe
+melra	nome feminino	[mel]|ra
+melriacho	nome masculino	mel|ri|[a]|cho
+melro	nome masculino	[mel]|ro
+melro-azul	nome masculino	mel|ro-a|[zul]
+melro-buraqueiro	nome masculino	mel|ro-bu|ra|[quei]|ro
+melro-cachoeiro	nome masculino	mel|ro-ca|cho|[ei]|ro
+melro-da-rocha	nome masculino	mel|ro-da-ro|cha
+melro-do-rio	nome masculino	mel|ro-do-ri|o
+melro-pedreiro	nome masculino	mel|ro-pe|[drei]|ro
+melro-peixeiro	nome masculino	mel|ro-pei|[xei]|ro
+melro-preto	nome masculino	mel|ro-pre|to
+mélroa	nome feminino	[mél]|ro|a
+melroado	adjetivo	mel|ro|[a]|do
+mélton	nome masculino	[mél]|ton
+melúria	nome feminino	me|[lú]|ri|a
+melúria	nome masculino	me|[lú]|ri|a
+melusina	nome feminino	me|lu|[si]|na
+memaceno	adjetivo	me|ma|[ce]|no
+memaceno	nome masculino	me|ma|[ce]|no
+membeca	adjetivo	mem|[be]|ca
+membi	nome masculino	mem|[bi]
+membiapiara	nome feminino	mem|bi|a|pi|[a]|ra
+membrado	adjetivo	mem|[bra]|do
+membrana	nome feminino	mem|[bra]|na
+membranáceo	adjetivo	mem|bra|[ná]|ce|o
+membranar	adjetivo	mem|bra|[nar]
+membranela	nome feminino	mem|bra|[ne]|la
+membraniforme	adjetivo	mem|bra|ni|[for]|me
+membranofone	nome masculino	mem|bra|no|[fo]|ne
+membranogéneo	adjetivo	mem|bra|no|[gé]|ne|o
+membranogêneo	adjetivo	mem|bra|no|[gê]|ne|o
+membranoso	adjetivo	mem|bra|[no]|so
+membrânula	nome feminino	mem|[brâ]|nu|la
+membro	nome masculino	[mem]|bro
+membrudo	adjetivo	mem|[bru]|do
+membrura	nome feminino	mem|[bru]|ra
+membura	nome feminino	mem|[bu]|ra
+meme	nome masculino	[me]|me
+memecílea	nome feminino	me|me|[cí]|le|a
+memécilo	nome masculino	me|[mé]|ci|lo
+memento	nome masculino	me|[men]|to
+meminho	nome masculino	me|[mi]|nho
+memoração	nome feminino	me|mo|ra|[ção]
+memorando	nome masculino	me|mo|[ran]|do
+memorando	adjetivo	me|mo|[ran]|do
+memorandum	nome masculino	me|mo|ran|[dum]
+memorar	verbo	me|mo|[rar]
+memorativo	adjetivo	me|mo|ra|[ti]|vo
+memorável	adjetivo	me|mo|[rá]|vel
+memoravelmente	advérbio	me|mo|ra|vel|[men]|te
+memória	nome feminino	me|[mó]|ri|a
+memorial	nome masculino	me|mo|ri|[al]
+memorial	adjetivo	me|mo|ri|[al]
+memorialismo	nome masculino	me|mo|ri|a|[lis]|mo
+memorialista	nome masculino	me|mo|ri|a|[lis]|ta
+memorialista	adjetivo	me|mo|ri|a|[lis]|ta
+memorialista	nome feminino	me|mo|ri|a|[lis]|ta
+memorialístico	adjetivo	me|mo|ri|a|[lís]|ti|co
+memorião	nome masculino	me|mo|ri|[ão]
+memoriar	verbo	me|mo|ri|[ar]
+memoriável	adjetivo	me|mo|ri|[á]|vel
+memorioso	adjetivo	me|mo|ri|[o]|so
+memorista	nome masculino	me|mo|[ris]|ta
+memorista	nome feminino	me|mo|[ris]|ta
+memorização	nome feminino	me|mo|ri|za|[ção]
+memorizar	verbo	me|mo|ri|[zar]
+memorizável	adjetivo	me|mo|ri|[zá]|vel
+menacma	nome feminino	me|[nac]|ma
+mênade	nome feminino	[mê]|na|de
+ménade	nome feminino	[mé]|na|de
+menagem	nome feminino	me|[na]|gem
+menálio	adjetivo	me|[ná]|li|o
+menápio	nome masculino	me|[ná]|pi|o
+menarca	nome feminino	me|[nar]|ca
+menarquia	nome feminino	me|nar|[qui]|a
+menção	nome feminino	men|[ção]
+menchevique	nome masculino	men|che|[vi]|que
+menchevique	adjetivo	men|che|[vi]|que
+menchevique	nome feminino	men|che|[vi]|que
+mencheviquismo	nome masculino	men|che|vi|[quis]|mo
+menchevismo	nome masculino	men|che|[vis]|mo
+mencionado	adjetivo	men|ci|o|[na]|do
+mencionar	verbo	men|ci|o|[nar]
+mencionável	adjetivo	men|ci|o|[ná]|vel
+mendace	adjetivo	men|[da]|ce
+mendácia	nome feminino	men|[dá]|ci|a
+mendacidade	nome feminino	men|da|ci|[da]|de
+mendáculo	nome masculino	men|[dá]|cu|lo
+mendaz	adjetivo	men|[daz]
+mendelévio	nome masculino	men|de|[lé]|vi|o
+mendeliano	nome masculino	men|de|li|[a]|no
+mendeliano	adjetivo	men|de|li|[a]|no
+mendelismo	nome masculino	men|de|[lis]|mo
+mendésio	nome masculino	men|[dé]|si|o
+mendésio	adjetivo	men|[dé]|si|o
+mendicância	nome feminino	men|di|[cân]|ci|a

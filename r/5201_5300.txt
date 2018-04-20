@@ -1,0 +1,100 @@
+reservador	adjetivo	re|ser|va|[dor]
+reservador	nome masculino	re|ser|va|[dor]
+reservar	verbo	re|ser|[var]
+reservatário	nome masculino	re|ser|va|[tá]|ri|o
+reservativo	adjetivo	re|ser|va|[ti]|vo
+reservatório	nome masculino	re|ser|va|[tó]|ri|o
+reservatório	adjetivo	re|ser|va|[tó]|ri|o
+reservável	adjetivo	re|ser|[vá]|vel
+reservista	nome masculino	re|ser|[vis]|ta
+reservista	nome feminino	re|ser|[vis]|ta
+reservo	nome masculino	re|[ser]|vo
+resfolegado	adjetivo	res|fo|le|[ga]|do
+resfolegadoiro	nome masculino	res|fo|le|ga|[doi]|ro
+resfolegadouro	nome masculino	res|fo|le|ga|[dou]|ro
+resfolegante	adjetivo	res|fo|le|[gan]|te
+resfolegar	verbo	res|fo|le|[gar]
+resfôlego	nome masculino	res|[fô]|le|go
+resfolgado	adjetivo	res|fol|[ga]|do
+resfolgadoiro	nome masculino	res|fol|ga|[doi]|ro
+resfolgadouro	nome masculino	res|fol|ga|[dou]|ro
+resfolgante	adjetivo	res|fol|[gan]|te
+resfolgar	verbo	res|fol|[gar]
+resfolgo	nome masculino	res|[fol]|go
+resfriadeira	nome feminino	res|fri|a|[dei]|ra
+resfriado	adjetivo	res|fri|[a]|do
+resfriado	nome masculino	res|fri|[a]|do
+resfriadoiro	nome masculino	res|fri|a|[doi]|ro
+resfriador	adjetivo	res|fri|a|[dor]
+resfriador	nome masculino	res|fri|a|[dor]
+resfriadouro	nome masculino	res|fri|a|[dou]|ro
+resfriamento	nome masculino	res|fri|a|[men]|to
+resfriar	verbo	res|fri|[ar]
+resgalha	nome feminino	res|[ga]|lha
+resgar	verbo	res|[gar]
+resgatabilidade	nome feminino	res|ga|ta|bi|li|[da]|de
+resgatador	adjetivo	res|ga|ta|[dor]
+resgatador	nome masculino	res|ga|ta|[dor]
+resgatadora	nome feminino	res|ga|ta|[do]|ra
+resgatar	verbo	res|ga|[tar]
+resgatável	adjetivo	res|ga|[tá]|vel
+resgate	nome masculino	res|[ga]|te
+resgo	nome masculino	[res]|go
+resguardador	adjetivo	res|guar|da|[dor]
+resguardador	nome masculino	res|guar|da|[dor]
+resguardar	verbo	res|guar|[dar]
+resguardável	adjetivo	res|guar|[dá]|vel
+resguardo	nome masculino	res|[guar]|do
+residência	nome feminino	re|si|[dên]|ci|a
+residência-geral	nome feminino	re|si
+residencial	adjetivo	re|si|den|ci|[al]
+residencial	nome feminino	re|si|den|ci|[al]
+residente	adjetivo	re|si|[den]|te
+residente	nome masculino	re|si|[den]|te
+residente	nome feminino	re|si|[den]|te
+residente-geral	nome masculino	re|si
+residio	nome masculino	re|si|[di]|o
+residir	verbo	re|si|[dir]
+residual	adjetivo	re|si|du|[al]
+residuário	adjetivo	re|si|du|[á]|ri|o
+resíduo	nome masculino	re|[sí]|du|o
+resíduo	adjetivo	re|[sí]|du|o
+resignação	nome feminino	re|sig|na|[ção]
+resignadamente	advérbio	re|sig|na|da|[men]|te
+resignado	adjetivo	re|sig|[na]|do
+resignante	adjetivo	re|sig|[nan]|te
+resignante	nome masculino	re|sig|[nan]|te
+resignante	nome feminino	re|sig|[nan]|te
+resignar	verbo	re|sig|[nar]
+resignatária	nome feminino	re|sig|na|[tá]|ri|a
+resignatário	adjetivo	re|sig|na|[tá]|ri|o
+resignatário	nome masculino	re|sig|na|[tá]|ri|o
+resignável	adjetivo	re|sig|[ná]|vel
+resilição	nome feminino	re|si|li|[ção]
+resiliência	nome feminino	re|si|li|[ên]|ci|a
+resiliente	adjetivo	re|si|li|[en]|te
+resilir	verbo	re|si|[lir]
+resilível	adjetivo	re|si|[lí]|vel
+resina	nome feminino	re|[si]|na
+resina de jalapa	nome feminino	re|[si]|na de ja|la|pa
+resinação	nome feminino	re|si|na|[ção]
+resinado	adjetivo	re|si|[na]|do
+resinagem	nome feminino	re|si|[na]|gem
+resinar	verbo	re|si|[nar]
+resineiro	adjetivo	re|si|[nei]|ro
+resineiro	nome masculino	re|si|[nei]|ro
+resinento	adjetivo	re|si|[nen]|to
+resíneo	adjetivo	re|[sí]|ne|o
+resinífero	adjetivo	re|si|[ní]|fe|ro
+resinificação	nome feminino	re|si|ni|fi|ca|[ção]
+resinificar	verbo	re|si|ni|fi|[car]
+resinificável	adjetivo	re|si|ni|fi|[cá]|vel
+resiniforme	adjetivo	re|si|ni|[for]|me
+resinite	nome feminino	re|si|[ni]|te
+resinocero	nome masculino	re|si|no|[ce]|ro
+resinoide	adjetivo	re|si|[noi]|de
+resinosa	nome feminino	re|si|[no]|sa
+resinoso	adjetivo	re|si|[no]|so
+resinoso	nome masculino	re|si|[no]|so
+resipiscência	nome feminino	re|si|pis|[cên]|ci|a
+resispicência	nome feminino	re|sis|pi|[cên]|ci|a

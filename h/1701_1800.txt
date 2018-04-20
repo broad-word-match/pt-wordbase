@@ -1,0 +1,100 @@
+heterotaxia	nome feminino	he|te|ro|ta|[xi]|a
+heterotecnia	nome feminino	he|te|ro|tec|[ni]|a
+heterotécnico	adjetivo	he|te|ro|[téc]|ni|co
+heterotermia	nome feminino	he|te|ro|ter|[mi]|a
+heterotérmico	adjetivo	he|te|ro|[tér]|mi|co
+heterotético	adjetivo	he|te|ro|[té]|ti|co
+heterotipia	nome feminino	he|te|ro|ti|[pi]|a
+heterotípico	adjetivo	he|te|ro|[tí]|pi|co
+heterótipo	adjetivo	he|te|[ró]|ti|po
+heterótomo	adjetivo	he|te|[ró]|to|mo
+heterotopia	nome feminino	he|te|ro|to|[pi]|a
+heterotópico	adjetivo	he|te|ro|[tó]|pi|co
+heterótrico	nome masculino	he|te|[ró]|tri|co
+heterótrico	adjetivo	he|te|[ró]|tri|co
+heterotrófico	adjetivo	he|te|ro|[tró]|fi|co
+heterotropia	nome feminino	he|te|ro|tro|[pi]|a
+heterotrópico	adjetivo	he|te|ro|[tró]|pi|co
+heterótropo	adjetivo	he|te|[ró]|tro|po
+heterovacina	nome feminino	he|te|ro|va|[ci]|na
+heterozigótico	adjetivo	he|te|ro|zi|[gó]|ti|co
+heterozigoto	nome masculino	he|te|ro|zi|[go]|to
+heterozigoto	adjetivo	he|te|ro|zi|[go]|to
+heterozoário	nome masculino	he|te|ro|zo|[á]|ri|o
+heterozoário	adjetivo	he|te|ro|zo|[á]|ri|o
+heteu	adjetivo	he|[teu]
+heteu	nome masculino	he|[teu]
+hética	nome feminino	[hé]|ti|ca
+heticidade	nome feminino	he|ti|ci|[da]|de
+hético	adjetivo	[hé]|ti|co
+hético	nome masculino	[hé]|ti|co
+hétigo	adjetivo	[hé]|ti|go
+hetiguidade	nome feminino	he|ti|gui|[da]|de
+hétman	nome masculino	[hét]|man
+heu	interjeição	[heu]
+heureca	interjeição	heu|[re]|ca
+heurema	nome feminino	heu|[re]|ma
+heurema	nome masculino	heu|[re]|ma
+heuremática	nome feminino	heu|re|[má]|ti|ca
+heuremático	adjetivo	heu|re|[má]|ti|co
+heurética	nome feminino	heu|[ré]|ti|ca
+heurético	adjetivo	heu|[ré]|ti|co
+heurística	nome feminino	heu|[rís]|ti|ca
+heuristicamente	advérbio	heu|ris|ti|ca|[men]|te
+heurístico	adjetivo	heu|[rís]|ti|co
+hévea	nome feminino	[hé]|ve|a
+heveena	nome feminino	he|ve|[e]|na
+hexacampeão	nome masculino	he|xa|cam|pe|[ão]
+hexacampeão	adjetivo	he|xa|cam|pe|[ão]
+hexacanto	adjetivo	he|xa|[can]|to
+hexacêntrico	adjetivo	he|xa|[cên]|tri|co
+hexaciclo	adjetivo	he|xa|[ci]|clo
+hexacorália	nome feminino	he|xa|co|[rá]|li|a
+hexacoraliário	adjetivo	he|xa|co|ra|li|[á]|ri|o
+hexacoraliário	nome masculino	he|xa|co|ra|li|[á]|ri|o
+hexacorde	nome masculino	he|xa|[cor]|de
+hexacórdio	nome masculino	he|xa|[cór]|di|o
+hexacordo	nome masculino	he|xa|[cor]|do
+hexactinelídeo	nome masculino	he|xac|ti|ne|[lí]|de|o
+hexactinelídeo	adjetivo	he|xac|ti|ne|[lí]|de|o
+hexadactilia	nome feminino	he|xa|dac|ti|[li]|a
+hexadáctilo	adjetivo	he|xa|[dác]|ti|lo
+hexadátilo	adjetivo	he|xa|[dá]|ti|lo
+hexaédrico	adjetivo	he|xa|[é]|dri|co
+hexaedro	nome masculino	he|xa|[e]|dro
+hexafilo	adjetivo	he|xa|[fi]|lo
+hexáforo	nome masculino	he|[xá]|fo|ro
+hexaginia	nome feminino	he|xa|gi|[ni]|a
+hexagínia	nome feminino	he|xa|[gí]|ni|a
+hexágino	adjetivo	he|[xá]|gi|no
+hexagonal	adjetivo	he|xa|go|[nal]
+hexágono	nome masculino	he|[xá]|go|no
+hexágono	adjetivo	he|[xá]|go|no
+hexagrama	nome masculino	he|xa|[gra]|ma
+hexalépide	adjetivo	he|xa|[lé]|pi|de
+hexâmero	adjetivo	he|[xâ]|me|ro
+hexametilenotetramina	nome feminino	he|xa|me|ti|le|no|te|tra|[mi]|na
+hexamétrico	adjetivo	he|xa|[mé]|tri|co
+hexâmetro	adjetivo	he|[xâ]|me|tro
+hexâmetro	nome masculino	he|[xâ]|me|tro
+hexamina	nome feminino	he|xa|[mi]|na
+hexândria	nome feminino	he|[xân]|dri|a
+hexandria	nome feminino	he|xan|[dri]|a
+hexandro	adjetivo	he|[xan]|dro
+hexano	nome masculino	he|[xa]|no
+hexantéreo	adjetivo	he|xan|[té]|re|o
+hexaoctaedro	nome masculino	he|xa|oc|ta|[e]|dro
+hexapétalo	adjetivo	he|xa|[pé]|ta|lo
+hexápode	nome masculino	he|[xá]|po|de
+hexápode	adjetivo	he|[xá]|po|de
+hexapodia	nome feminino	he|xa|po|[di]|a
+hexáptero	adjetivo	he|[xáp]|te|ro
+hexaptoto	adjetivo	he|xap|[to]|to
+hexaptoto	nome masculino	he|xap|[to]|to
+hexarquia	nome feminino	he|xar|[qui]|a
+hexáscele	nome masculino	he|[xás]|ce|le
+hexaspermo	adjetivo	he|xas|[per]|mo
+hexassépalo	adjetivo	he|xas|[sé]|pa|lo
+hexassilábico	adjetivo	he|xas|si|[lá]|bi|co
+hexassílabo	adjetivo	he|xas|[sí]|la|bo
+hexassílabo	nome masculino	he|xas|[sí]|la|bo

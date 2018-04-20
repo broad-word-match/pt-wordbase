@@ -1,0 +1,100 @@
+parisiano	nome masculino	pa|ri|si|[a]|no
+parisiense	nome masculino	pa|ri|si|[en]|se
+parisiense	adjetivo	pa|ri|si|[en]|se
+parisiense	nome feminino	pa|ri|si|[en]|se
+parisina	nome feminino	pa|ri|[si]|na
+parisino	adjetivo	pa|ri|[si]|no
+parisino	nome masculino	pa|ri|[si]|no
+parísio	nome masculino	pa|[rí]|si|o
+parísio	adjetivo	pa|[rí]|si|o
+parisite	nome feminino	pa|ri|[si]|te
+páriso	nome masculino	[pá]|ri|so
+párison	nome masculino	[pá]|ri|son
+parissilábico	adjetivo	pa|ris|si|[lá]|bi|co
+parissílabo	adjetivo	pa|ris|[sí]|la|bo
+parissílabo	nome masculino	pa|ris|[sí]|la|bo
+parissonante	adjetivo	pa|ris|so|[nan]|te
+paritá	nome masculino	pa|ri|[tá]
+paritário	adjetivo	pa|ri|[tá]|ri|o
+parizátaco	nome masculino	pa|ri|[zá]|ta|co
+parka	nome feminino	[par]|ka
+parking	nome masculino	[par]|king
+parkinsónia	nome feminino	par|kin|[só]|ni|a
+parkinsônia	nome feminino	par|kin|[sô]|ni|a
+parkinsoniano	adjetivo	par|kin|so|ni|a|no
+parkinsoniano	nome masculino	par|kin|so|ni|a|no
+parkinsonismo	nome masculino	par|kin|so|nis|mo
+parla	nome feminino	[par]|la
+parlamentação	nome feminino	par|la|men|ta|[ção]
+parlamentar	adjetivo	par|la|men|[tar]
+parlamentar	nome masculino	par|la|men|[tar]
+parlamentar	verbo	par|la|men|[tar]
+parlamentar	nome feminino	par|la|men|[tar]
+parlamentário	nome masculino	par|la|men|[tá]|ri|o
+parlamentário	adjetivo	par|la|men|[tá]|ri|o
+parlamentarismo	nome masculino	par|la|men|ta|[ris]|mo
+parlamentarista	nome masculino	par|la|men|ta|[ris]|ta
+parlamentarista	adjetivo	par|la|men|ta|[ris]|ta
+parlamentarista	nome feminino	par|la|men|ta|[ris]|ta
+parlamentarizar	verbo	par|la|men|ta|ri|[zar]
+parlamentarmente	advérbio	par|la|men|tar|[men]|te
+parlamentear	verbo	par|la|men|te|[ar]
+parlamento	nome masculino	par|la|[men]|to
+parlanda	nome feminino	par|[lan]|da
+parlante	nome masculino	par|[lan]|te
+parlapatão	adjetivo	par|la|pa|[tão]
+parlapatão	nome masculino	par|la|pa|[tão]
+parlapatear	verbo	par|la|pa|te|[ar]
+parlapatice	nome feminino	par|la|pa|[ti]|ce
+parlapatona	nome feminino	par|la|pa|[to]|na
+parlapatório	nome masculino	par|la|pa|[tó]|ri|o
+parlar	verbo	par|[lar]
+parlatório	nome masculino	par|la|[tó]|ri|o
+parlenda	nome feminino	par|[len]|da
+parlendar	verbo	par|len|[dar]
+parlenga	nome feminino	par|[len]|ga
+parlengada	nome feminino	par|len|[ga]|da
+parlengar	verbo	par|len|[gar]
+parma	nome feminino	[par]|ma
+parmano	adjetivo	par|[ma]|no
+parmano	nome masculino	par|[ma]|no
+parmélia	nome feminino	par|[mé]|li|a
+parmeliácea	nome feminino	par|me|li|[á]|ce|a
+parmense	adjetivo	par|[men]|se
+parmense	nome masculino	par|[men]|se
+parmense	nome feminino	par|[men]|se
+parmesã	nome feminino	par|me|[sã]
+parmesão	nome masculino	par|me|[são]
+parmesão	adjetivo	par|me|[são]
+parnaíba	nome feminino	par|na|[í]|ba
+parnão	adjetivo	par|[não]
+parnásia	nome feminino	par|[ná]|si|a
+parnasiana	nome feminino	par|na|si|[a]|na
+parnasianismo	nome masculino	par|na|si|a|[nis]|mo
+parnasianista	adjetivo	par|na|si|a|[nis]|ta
+parnasianista	nome masculino	par|na|si|a|[nis]|ta
+parnasianista	nome feminino	par|na|si|a|[nis]|ta
+parnasiano	nome masculino	par|na|si|[a]|no
+parnasiano	adjetivo	par|na|si|[a]|no
+parnasismo	nome masculino	par|na|[sis]|mo
+parnaso	nome masculino	par|[na]|so
+parnassino	nome masculino	par|nas|[si]|no
+parné	nome masculino	par|[né]
+paro	nome masculino	[pa]|ro
+paroara	adjetivo	pa|ro|[a]|ra
+paroara	nome masculino	pa|ro|[a]|ra
+paroara	nome feminino	pa|ro|[a]|ra
+pároco	nome masculino	[pá]|ro|co
+paródia	nome feminino	pa|[ró]|di|a
+parodiador	nome masculino	pa|ro|di|a|[dor]
+parodiante	adjetivo	pa|ro|di|[an]|te
+parodiante	nome masculino	pa|ro|di|[an]|te
+parodiante	nome feminino	pa|ro|di|[an]|te
+parodiar	verbo	pa|ro|di|[ar]
+parodicamente	advérbio	pa|ro|di|ca|[men]|te
+paródico	adjetivo	pa|[ró]|di|co
+paródico	nome masculino	pa|[ró]|di|co
+parodinia	nome feminino	pa|ro|di|[ni]|a
+parodínico	adjetivo	pa|ro|[dí]|ni|co
+parodista	nome masculino	pa|ro|[dis]|ta
+parodista	nome feminino	pa|ro|[dis]|ta

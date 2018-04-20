@@ -1,0 +1,100 @@
+choupaneiro	nome masculino	chou|pa|[nei]|ro
+choupar	verbo	chou|[par]
+choupeiro	nome masculino	chou|[pei]|ro
+choupo	nome masculino	[chou]|po
+choura	nome feminino	[chou]|ra
+chouriça	nome feminino	chou|[ri]|ça
+chouriçada	nome feminino	chou|ri|[ça]|da
+chouriceira	nome feminino	chou|ri|[cei]|ra
+chouriceiro	nome masculino	chou|ri|[cei]|ro
+chouriço	nome masculino	chou|[ri]|ço
+chousa	nome feminino	[chou]|sa
+chousal	nome masculino	chou|[sal]
+chousar	verbo	chou|[sar]
+chouseira	nome feminino	chou|[sei]|ra
+chouso	nome masculino	[chou]|so
+choussa	nome feminino	[chous]|sa
+choussar	verbo	chous|[sar]
+chousseira	nome feminino	chous|[sei]|ra
+chousura	nome feminino	chou|[su]|ra
+choutador	adjetivo	chou|ta|[dor]
+choutão	adjetivo	chou|[tão]
+choutar	verbo	chou|[tar]
+choutear	verbo	chou|te|[ar]
+chouteiro	adjetivo	chou|[tei]|ro
+chouto	nome masculino	[chou]|to
+chovar	verbo	cho|[var]
+chove-não-molha	nome masculino	cho|ve-não-mo|lha
+chovediço	adjetivo	cho|ve|[di]|ço
+chovedio	adjetivo	cho|ve|[di]|o
+chovedor	adjetivo	cho|ve|[dor]
+chover	verbo	cho|[ver]
+chovido	adjetivo	cho|[vi]|do
+chuaba	nome feminino	chu|[a]|ba
+chuabo	adjetivo	chu|[a]|bo
+chuabo	nome masculino	chu|[a]|bo
+chuanga	nome masculino	chu|[an]|ga
+chuca	nome feminino	[chu]|ca
+chuçada	nome feminino	chu|[ça]|da
+chuçar	verbo	chu|[çar]
+chuceiro	nome masculino	chu|[cei]|ro
+chucha	nome feminino	[chu]|cha
+chucha-mel	nome masculino	chu|cha-mel
+chucha-pitos	nome masculino	chu|cha-pi|tos
+chuchadeira	nome feminino	chu|cha|[dei]|ra
+chuchado	adjetivo	chu|[cha]|do
+chuchar	verbo	chu|[char]
+chucharrão	adjetivo	chu|char|[rão]
+chucharrão	nome masculino	chu|char|[rão]
+chucho	nome masculino	[chu]|cho
+chuchu	nome masculino	chu|[chu]
+chuchu	nome feminino	chu|[chu]
+chuchumecar	verbo	chu|chu|me|[car]
+chuchurreada	nome feminino	chu|chur|re|[a]|da
+chuchurreado	adjetivo	chu|chur|re|[a]|do
+chuchurrear	verbo	chu|chur|re|[ar]
+chuchurreio	nome masculino	chu|chur|[rei]|o
+chuchurrubiado	adjetivo	chu|chur|ru|bi|[a]|do
+chuchuzeiro	nome masculino	chu|chu|[zei]|ro
+chuço	nome masculino	[chu]|ço
+chuco	nome masculino	[chu]|co
+chucrute	nome masculino	chu|[cru]|te
+chué	adjetivo	chu|[é]
+chufa	nome feminino	[chu]|fa
+chufar	verbo	chu|[far]
+chufear	verbo	chu|fe|[ar]
+chufista	nome masculino	chu|[fis]|ta
+chufista	nome feminino	chu|[fis]|ta
+chui	nome masculino	[chui]
+chuinga	nome masculino	chu|[in]|ga
+chuinho	nome masculino	chu|[i]|nho
+chula	nome feminino	[chu]|la
+chulamente	advérbio	chu|la|[men]|te
+chularia	nome feminino	chu|la|[ri]|a
+chulé	nome masculino	chu|[lé]
+chulear	verbo	chu|le|[ar]
+chuleio	nome masculino	chu|[lei]|o
+chuleiro	adjetivo	chu|[lei]|ro
+chuleiro	nome masculino	chu|[lei]|ro
+chulice	nome feminino	chu|[li]|ce
+chulipa	nome feminino	chu|[li]|pa
+chulismo	nome masculino	chu|[lis]|mo
+chulista	adjetivo	chu|[lis]|ta
+chulista	nome masculino	chu|[lis]|ta
+chulista	nome feminino	chu|[lis]|ta
+chulo	nome masculino	[chu]|lo
+chulo	adjetivo	[chu]|lo
+chumaçar	verbo	chu|ma|[çar]
+chumaceira	nome feminino	chu|ma|[cei]|ra
+chumacete	nome masculino	chu|ma|[ce]|te
+chumaço	nome masculino	chu|[ma]|ço
+chumbada	nome feminino	chum|[ba]|da
+chumbado	adjetivo	chum|[ba]|do
+chumbadoiro	nome masculino	chum|ba|[doi]|ro
+chumbador	nome masculino	chum|ba|[dor]
+chumbadouro	nome masculino	chum|ba|[dou]|ro
+chumbagem	nome feminino	chum|[ba]|gem
+chumbar	verbo	chum|[bar]
+chumbear	verbo	chum|be|[ar]
+chúmbeas	nome feminino	[chúm]|be|as
+chumbeira	nome feminino	chum|[bei]|ra

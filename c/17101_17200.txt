@@ -1,0 +1,100 @@
+corretã	nome feminino	cor|re|[tã]
+corretagem	nome feminino	cor|re|[ta]|gem
+corretamente	advérbio	cor|re|ta|[men]|te
+corretar	verbo	cor|re|[tar]
+corretismo	nome masculino	cor|re|[tis]|mo
+corretivamente	advérbio	cor|re|ti|va|[men]|te
+corretivo	adjetivo	cor|re|[ti]|vo
+corretivo	nome masculino	cor|re|[ti]|vo
+correto	adjetivo	cor|[re]|to
+corretor	nome masculino	cor|re|[tor]
+corretor	adjetivo	cor|re|[tor]
+corretora	nome feminino	cor|re|[to]|ra
+corretoria	nome feminino	cor|re|to|[ri]|a
+corretório	adjetivo	cor|re|[tó]|ri|o
+corretório	nome masculino	cor|re|[tó]|ri|o
+corretriz	nome feminino	cor|re|[triz]
+corréu	nome masculino	cor|[réu]
+corréu	nome masculino	cor|[réu]
+corrica	nome feminino	cor|[ri]|ca
+corricão	nome masculino	cor|ri|[cão]
+corricar	verbo	cor|ri|[car]
+corrichar	verbo	cor|ri|[char]
+corrico	nome masculino	cor|[ri]|co
+corricoche	nome masculino	cor|ri|[co]|che
+corrida	nome feminino	cor|[ri]|da
+corridinho	adjetivo	cor|ri|[di]|nho
+corridinho	nome masculino	cor|ri|[di]|nho
+corrido	adjetivo	cor|[ri]|do
+corrido	nome masculino	cor|[ri]|do
+corriento	adjetivo	cor|ri|[en]|to
+corrigenda	nome feminino	cor|ri|[gen]|da
+corrigibilidade	nome feminino	cor|ri|gi|bi|li|[da]|de
+corrigido	adjetivo	cor|ri|[gi]|do
+corrigíola	nome feminino	cor|ri|[gí]|o|la
+corrigir	verbo	cor|ri|[gir]
+corrigível	adjetivo	cor|ri|[gí]|vel
+corrijó	nome feminino	cor|ri|[jó]
+corrijola	nome feminino	cor|ri|[jo]|la
+corrilheiro	nome masculino	cor|ri|[lhei]|ro
+corrilho	nome masculino	cor|[ri]|lho
+corrilório	nome masculino	cor|ri|[ló]|ri|o
+corrimaça	nome feminino	cor|ri|[ma]|ça
+corrimão	nome masculino	cor|ri|[mão]
+corrimento	nome masculino	cor|ri|[men]|to
+corriola	nome feminino	cor|ri|[o]|la
+corriola-bastarda	nome feminino	cor|ri|o|la-bas|[tar]|da
+corripar	verbo	cor|ri|[par]
+corripo	nome masculino	cor|[ri]|po
+corriqueirice	nome feminino	cor|ri|quei|[ri]|ce
+corriqueirismo	nome masculino	cor|ri|quei|[ris]|mo
+corriqueiro	adjetivo	cor|ri|[quei]|ro
+corrixo	nome masculino	cor|[ri]|xo
+corro	nome masculino	[cor]|ro
+corroboração	nome feminino	cor|ro|bo|ra|[ção]
+corroborador	adjetivo	cor|ro|bo|ra|[dor]
+corroborador	nome masculino	cor|ro|bo|ra|[dor]
+corroborante	adjetivo	cor|ro|bo|[ran]|te
+corroborar	verbo	cor|ro|bo|[rar]
+corroborativo	adjetivo	cor|ro|bo|ra|[ti]|vo
+corroborável	adjetivo	cor|ro|bo|[rá]|vel
+corroer	verbo	cor|ro|[er]
+corroído	adjetivo	cor|ro|[í]|do
+corrompedor	adjetivo	cor|rom|pe|[dor]
+corrompedor	nome masculino	cor|rom|pe|[dor]
+corromper	verbo	cor|rom|[per]
+corrompido	adjetivo	cor|rom|[pi]|do
+corrompimento	nome masculino	cor|rom|pi|[men]|to
+corrompível	adjetivo	cor|rom|[pí]|vel
+corrosão	nome feminino	cor|ro|[são]
+corrosibilidade	nome feminino	cor|ro|si|bi|li|[da]|de
+corrosivamente	advérbio	cor|ro|si|va|[men]|te
+corrosível	adjetivo	cor|ro|[sí]|vel
+corrosividade	nome feminino	cor|ro|si|vi|[da]|de
+corrosivo	adjetivo	cor|ro|[si]|vo
+corrosivo	nome masculino	cor|ro|[si]|vo
+corrução	nome feminino	cor|ru|[ção]
+corruda	nome feminino	cor|[ru]|da
+corrugação	nome feminino	cor|ru|ga|[ção]
+corrugar	verbo	cor|ru|[gar]
+corruíra	nome feminino	cor|ru|[í]|ra
+corrume	nome masculino	cor|[ru]|me
+corrupção	nome feminino	cor|rup|[ção]
+corrupia	nome feminino	cor|ru|[pi]|a
+corrupiana	nome feminino	cor|ru|pi|[a]|na
+corrupião	nome masculino	cor|ru|pi|[ão]
+corrupiar	verbo	cor|ru|pi|[ar]
+corrupio	nome masculino	cor|ru|[pi]|o
+corrupixel	nome masculino	cor|ru|pi|[xel]
+corrupta	nome feminino	cor|[rup]|ta
+corruptamente	advérbio	cor|rup|ta|[men]|te
+corruptela	nome feminino	cor|rup|[te]|la
+corruptibilidade	nome feminino	cor|rup|ti|bi|li|[da]|de
+corruptícola	adjetivo	cor|rup|[tí]|co|la
+corruptícola	nome masculino	cor|rup|[tí]|co|la
+corruptícola	nome feminino	cor|rup|[tí]|co|la
+corruptível	adjetivo	cor|rup|[tí]|vel
+corruptivo	adjetivo	cor|rup|[ti]|vo
+corrupto	adjetivo	cor|[rup]|to
+corrupto	nome masculino	cor|[rup]|to
+corruptor	adjetivo	cor|rup|[tor]

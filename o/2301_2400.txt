@@ -1,0 +1,100 @@
+opresso	adjetivo	o|[pres]|so
+opressor	adjetivo	o|pres|[sor]
+opressor	nome masculino	o|pres|[sor]
+opressora	nome feminino	o|pres|[so]|ra
+opressório	adjetivo	o|pres|[só]|ri|o
+oprimente	adjetivo	o|pri|[men]|te
+oprimida	nome feminino	o|pri|[mi]|da
+oprimido	adjetivo	o|pri|[mi]|do
+oprimido	nome masculino	o|pri|[mi]|do
+oprimir	verbo	o|pri|[mir]
+oprimível	adjetivo	o|pri|[mí]|vel
+opróbrio	nome masculino	o|[pró]|bri|o
+oprobriosamente	advérbio	o|pro|bri|o|sa|[men]|te
+oprobrioso	adjetivo	o|pro|bri|[o]|so
+opsígono	adjetivo	op|[sí]|go|no
+opsimatia	nome feminino	op|si|ma|[ti]|a
+opsimático	adjetivo	op|si|[má]|ti|co
+opsiometria	nome feminino	op|si|o|me|[tri]|a
+opsiométrico	adjetivo	op|si|o|[mé]|tri|co
+opsiómetro	nome masculino	op|si|[ó]|me|tro
+opsiômetro	nome masculino	op|si|[ô]|me|tro
+opsiúria	nome feminino	op|si|[ú]|ri|a
+opsiúrico	adjetivo	op|si|[ú]|ri|co
+opsofagia	nome feminino	op|so|fa|[gi]|a
+opsófago	adjetivo	op|[só]|fa|go
+opsófago	nome masculino	op|[só]|fa|go
+opsologia	nome feminino	op|so|lo|[gi]|a
+opsológico	adjetivo	op|so|[ló]|gi|co
+opsomania	nome feminino	op|so|ma|[ni]|a
+opsomaníaco	adjetivo	op|so|ma|[ní]|a|co
+opsomaníaco	nome masculino	op|so|ma|[ní]|a|co
+opsómano	nome masculino	op|[só]|ma|no
+opsômano	nome masculino	op|[sô]|ma|no
+opsónico	adjetivo	op|[só]|ni|co
+opsônico	adjetivo	op|[sô]|ni|co
+opsonina	nome feminino	op|so|[ni]|na
+optação	nome feminino	op|ta|[ção]
+optante	adjetivo	op|[tan]|te
+optante	nome masculino	op|[tan]|te
+optante	nome feminino	op|[tan]|te
+optar	verbo	op|[tar]
+optativamente	advérbio	op|ta|ti|va|[men]|te
+optativo	adjetivo	op|ta|[ti]|vo
+optativo	nome masculino	op|ta|[ti]|vo
+óptica	nome feminino	[óp]|ti|ca
+opticidade	nome feminino	op|ti|ci|[da]|de
+opticista	adjetivo	op|ti|[cis]|ta
+opticista	nome masculino	op|ti|[cis]|ta
+opticista	nome feminino	op|ti|[cis]|ta
+óptico	nome masculino	[óp]|ti|co
+óptico	adjetivo	[óp]|ti|co
+opticografia	nome feminino	op|ti|co|gra|[fi]|a
+opticográfico	adjetivo	op|ti|co|[grá]|fi|co
+opticógrafo	nome masculino	op|ti|[có]|gra|fo
+opticometria	nome feminino	op|ti|co|me|[tri]|a
+opticométrico	adjetivo	op|ti|co|[mé]|tri|co
+opticómetro	nome masculino	op|ti|[có]|me|tro
+opticômetro	nome masculino	op|ti|[cô]|me|tro
+optimacia	nome feminino	op|ti|ma|[ci]|a
+optimamente	advérbio	op|ti|ma|[men]|te
+optimate	nome masculino	op|ti|[ma]|te
+optimates	nome masculino	op|ti|[ma]|tes
+optimatia	nome feminino	op|ti|ma|[ti]|a
+optimismo	nome masculino	op|ti|[mis]|mo
+optimista	nome masculino	op|ti|[mis]|ta
+optimista	adjetivo	op|ti|[mis]|ta
+optimista	nome feminino	op|ti|[mis]|ta
+optimístico	adjetivo	op|ti|[mís]|ti|co
+optimização	nome feminino	op|ti|mi|za|[ção]
+optimizar	verbo	op|ti|mi|[zar]
+óptimo	adjetivo	[óp]|ti|mo
+óptimo	nome masculino	[óp]|ti|mo
+óptimo	interjeição	[óp]|ti|mo
+optofone	nome masculino	op|to|[fo]|ne
+optografia	nome feminino	op|to|gra|[fi]|a
+optográfico	adjetivo	op|to|[grá]|fi|co
+optógrafo	nome masculino	op|[tó]|gra|fo
+optometria	nome feminino	op|to|me|[tri]|a
+optométrico	adjetivo	op|to|[mé]|tri|co
+optometrista	nome masculino	op|to|me|[tris]|ta
+optometrista	nome feminino	op|to|me|[tris]|ta
+optômetro	nome masculino	op|[tô]|me|tro
+optómetro	nome masculino	op|[tó]|me|tro
+opugnação	nome feminino	o|pug|na|[ção]
+opugnador	adjetivo	o|pug|na|[dor]
+opugnador	nome masculino	o|pug|na|[dor]
+opugnar	verbo	o|pug|[nar]
+opugnável	adjetivo	o|pug|[ná]|vel
+opulência	nome feminino	o|pu|[lên]|ci|a
+opulenta	nome feminino	o|pu|[len]|ta
+opulentamente	advérbio	o|pu|len|ta|[men]|te
+opulentar	verbo	o|pu|len|[tar]
+opulento	adjetivo	o|pu|[len]|to
+opulento	nome masculino	o|pu|[len]|to
+opúncia	nome feminino	o|[pún]|ci|a
+opunciácea	nome feminino	o|pun|ci|[á]|ce|a
+opúncio	adjetivo	o|[pún]|ci|o
+opúncio	nome masculino	o|[pún]|ci|o
+opus	nome masculino	o|[pus]
+opuscular	verbo	o|pus|cu|[lar]

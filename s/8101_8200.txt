@@ -1,0 +1,100 @@
+soluto	nome masculino	so|[lu]|to
+solutol	nome masculino	so|lu|[tol]
+solutreano	adjetivo	so|lu|tre|[a]|no
+solúvel	adjetivo	so|[lú]|vel
+solvabilidade	nome feminino	sol|va|bi|li|[da]|de
+solvável	adjetivo	sol|[vá]|vel
+solvência	nome feminino	sol|[vên]|ci|a
+solvense	nome masculino	sol|[ven]|se
+solvense	adjetivo	sol|[ven]|se
+solvense	nome feminino	sol|[ven]|se
+solvente	adjetivo	sol|[ven]|te
+solvente	nome masculino	sol|[ven]|te
+solveol	nome masculino	sol|ve|[ol]
+solver	verbo	sol|[ver]
+solvibilidade	nome feminino	sol|vi|bi|li|[da]|de
+solvido	nome masculino	sol|[vi]|do
+solvido	adjetivo	sol|[vi]|do
+solvível	adjetivo	sol|[ví]|vel
+som	nome masculino	[som]
+soma	nome masculino	[so]|ma
+soma	nome feminino	[so]|ma
+somada	nome feminino	so|[ma]|da
+somali	adjetivo	so|ma|[li]
+somali	nome masculino	so|ma|[li]
+somali	nome feminino	so|ma|[li]
+somaliano	adjetivo	so|ma|li|[a]|no
+somaliano	nome masculino	so|ma|li|[a]|no
+somana	nome feminino	so|[ma]|na
+somar	verbo	so|[mar]
+somasco	nome masculino	so|[mas]|co
+somaticamente	advérbio	so|ma|ti|ca|[men]|te
+somático	adjetivo	so|[má]|ti|co
+somatista	adjetivo	so|ma|[tis]|ta
+somatista	nome masculino	so|ma|[tis]|ta
+somatista	nome feminino	so|ma|[tis]|ta
+somatização	nome feminino	so|ma|ti|za|[ção]
+somatizar	verbo	so|ma|ti|[zar]
+somatoagnosia	nome feminino	so|ma|to|ag|no|[si]|a
+somatocromo	adjetivo	so|ma|to|[cro]|mo
+somatognosia	nome feminino	so|ma|tog|no|[si]|a
+somatologia	nome feminino	so|ma|to|lo|[gi]|a
+somatológico	adjetivo	so|ma|to|[ló]|gi|co
+somatologista	adjetivo	so|ma|to|lo|[gis]|ta
+somatologista	nome masculino	so|ma|to|lo|[gis]|ta
+somatologista	nome feminino	so|ma|to|lo|[gis]|ta
+somatólogo	nome masculino	so|ma|[tó]|lo|go
+somatomancia	nome feminino	so|ma|to|man|[ci]|a
+somatometria	nome feminino	so|ma|to|me|[tri]|a
+somatométrico	adjetivo	so|ma|to|[mé]|tri|co
+somatopleura	nome feminino	so|ma|to|[pleu]|ra
+somatório	adjetivo	so|ma|[tó]|ri|o
+somatório	nome masculino	so|ma|[tó]|ri|o
+somatoscopia	nome feminino	so|ma|tos|co|[pi]|a
+somatoscópico	adjetivo	so|ma|tos|[có]|pi|co
+somatose	nome feminino	so|ma|[to]|se
+somatostatina	nome feminino	so|ma|tos|ta|[ti]|na
+somatotopia	nome feminino	so|ma|to|to|[pi]|a
+somatotópico	adjetivo	so|ma|to|[tó]|pi|co
+somável	adjetivo	so|[má]|vel
+sombo	nome masculino	[som]|bo
+sombra	nome feminino	[som]|bra
+sombra-de-touro	nome feminino	som|bra-de-tou|ro
+sombracho	nome masculino	som|[bra]|cho
+sombral	nome masculino	som|[bral]
+sombreação	nome feminino	som|bre|a|[ção]
+sombreado	nome masculino	som|bre|[a]|do
+sombreado	adjetivo	som|bre|[a]|do
+sombreamento	nome masculino	som|bre|a|[men]|to
+sombrear	verbo	som|bre|[ar]
+sombreira	nome feminino	som|[brei]|ra
+sombreireira	nome feminino	som|brei|[rei]|ra
+sombreireiro	nome masculino	som|brei|[rei]|ro
+sombreirete	nome masculino	som|brei|[re]|te
+sombreirinho	nome masculino	som|brei|[ri]|nho
+sombreirinho-dos-telhados	nome masculino	som|brei|ri|nho-dos-te|[lha]|dos
+sombreiro	adjetivo	som|[brei]|ro
+sombreiro	nome masculino	som|[brei]|ro
+sombrejar	verbo	som|bre|[jar]
+sombrejo	nome masculino	som|[bre]|jo
+sombrela	nome feminino	som|[bre]|la
+sombrero	nome masculino	som|bre|ro
+sombria	nome feminino	som|[bri]|a
+sombria-brava	nome feminino	som|bri|a-bra|va
+sombriamente	advérbio	som|bri|a|[men]|te
+sombrinha	nome feminino	som|[bri]|nha
+sombrio	adjetivo	som|[bri]|o
+sombrio	nome masculino	som|[bri]|o
+sombró	nome masculino	som|[bró]
+sombroso	adjetivo	som|[bro]|so
+someiro	adjetivo	so|[mei]|ro
+someiro	nome masculino	so|[mei]|ro
+somelga	nome feminino	so|[mel]|ga
+somenos	adjetivo	so|[me]|nos
+somente	advérbio	so|[men]|te
+sometidinho	adjetivo	so|me|ti|[di]|nho
+sometimento	nome masculino	so|me|ti|[men]|to
+somilher	nome masculino	so|mi|[lher]
+somissão	nome feminino	so|mis|[são]
+somítica	nome feminino	so|[mí]|ti|ca
+somiticamente	advérbio	so|mi|ti|ca|[men]|te

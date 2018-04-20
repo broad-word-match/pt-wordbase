@@ -1,0 +1,100 @@
+pérmico	adjetivo	[pér]|mi|co
+pérmico	nome masculino	[pér]|mi|co
+permilagem	nome feminino	per|mi|[la]|gem
+permissão	nome feminino	per|mis|[são]
+permissionário	adjetivo	per|mis|si|o|[ná]|ri|o
+permissionário	nome masculino	per|mis|si|o|[ná]|ri|o
+permissivamente	advérbio	per|mis|si|va|[men]|te
+permissível	adjetivo	per|mis|[sí]|vel
+permissividade	nome feminino	per|mis|si|vi|[da]|de
+permissivismo	nome masculino	per|mis|si|[vis]|mo
+permissivo	adjetivo	per|mis|[si]|vo
+permisso	nome masculino	per|[mis]|so
+permissor	adjetivo	per|mis|[sor]
+permissor	nome masculino	per|mis|[sor]
+permissório	adjetivo	per|mis|[só]|ri|o
+permistão	nome feminino	per|mis|[tão]
+permisto	adjetivo	per|[mis]|to
+permitido	adjetivo	per|mi|[ti]|do
+permitidor	adjetivo	per|mi|ti|[dor]
+permitir	verbo	per|mi|[tir]
+permitividade	nome feminino	per|mi|ti|vi|[da]|de
+permocarbónico	adjetivo	per|mo|car|[bó]|ni|co
+permudar	verbo	per|mu|[dar]
+permuta	nome feminino	per|[mu]|ta
+permutabilidade	nome feminino	per|mu|ta|bi|li|[da]|de
+permutação	nome feminino	per|mu|ta|[ção]
+permutador	adjetivo	per|mu|ta|[dor]
+permutador	nome masculino	per|mu|ta|[dor]
+permutadora	nome feminino	per|mu|ta|[do]|ra
+permutar	verbo	per|mu|[tar]
+permutativo	adjetivo	per|mu|ta|[ti]|vo
+permutável	adjetivo	per|mu|[tá]|vel
+perna	nome feminino	[per]|na
+perna da serra	nome feminino	[per]|na da ser|ra
+perna-de-moça	nome feminino	per|na-de-mo|ça
+perna-de-pau	nome feminino	per|na-de-pau
+perna-fina	nome masculino	per|na-fi|na
+perna-lavada	nome feminino	per|na-la|[va]|da
+perna-longa	nome feminino	per|na-lon|ga
+perna-manca	nome feminino	per|na-man|ca
+perna-tesa	nome masculino	per|na-te|sa
+perna-vermelha	nome feminino	per|na-ver|[me]|lha
+pernaça	nome feminino	per|[na]|ça
+pernada	nome feminino	per|[na]|da
+pernadeira	nome feminino	per|na|[dei]|ra
+pernadinha	nome feminino	per|na|[di]|nha
+pernalta	adjetivo	per|[nal]|ta
+pernalta	nome feminino	per|[nal]|ta
+pernalta	nome masculino	per|[nal]|ta
+pernalteira	nome feminino	per|nal|[tei]|ra
+pernalteiro	adjetivo	per|nal|[tei]|ro
+pernalto	adjetivo	per|[nal]|to
+pernaltudo	adjetivo	per|nal|[tu]|do
+pernambucana	nome feminino	per|nam|bu|[ca]|na
+pernambucanismo	nome masculino	per|nam|bu|ca|[nis]|mo
+pernambucano	adjetivo	per|nam|bu|[ca]|no
+pernambucano	nome masculino	per|nam|bu|[ca]|no
+pernão	adjetivo	per|[não]
+pernão	nome masculino	per|[não]
+pernavilheiro	nome masculino	per|na|vi|[lhei]|ro
+perne	nome masculino	[per]|ne
+pérnea	nome feminino	[pér]|ne|a
+perneador	adjetivo	per|ne|a|[dor]
+pernear	verbo	per|ne|[ar]
+pernegão	nome masculino	per|ne|[gão]
+pernegudo	adjetivo	per|ne|[gu]|do
+perneira	nome feminino	per|[nei]|ra
+pernejar	verbo	per|ne|[jar]
+perneta	nome feminino	per|[ne]|ta
+perneta	adjetivo	per|[ne]|ta
+perneta	nome masculino	per|[ne]|ta
+pernetear	verbo	per|ne|te|[ar]
+perniaberto	adjetivo	per|ni|a|[ber]|to
+pernibambo	adjetivo	per|ni|[bam]|bo
+pernície	nome feminino	per|[ní]|ci|e
+perniciosa	nome feminino	per|ni|ci|[o]|sa
+perniciosamente	advérbio	per|ni|ci|o|sa|[men]|te
+perniciosidade	nome feminino	per|ni|ci|o|si|[da]|de
+pernicioso	adjetivo	per|ni|ci|[o]|so
+pernicurto	adjetivo	per|ni|[cur]|to
+pernigrande	adjetivo	per|ni|[gran]|de
+pernil	nome masculino	per|[nil]
+pernilongo	nome masculino	per|ni|[lon]|go
+pernilongo	adjetivo	per|ni|[lon]|go
+perningau	nome masculino	per|nin|[gau]
+pernitorto	adjetivo	per|ni|[tor]|to
+pernitrato	nome masculino	per|ni|[tra]|to
+pernítrico	adjetivo	per|[ní]|tri|co
+pernitroso	adjetivo	per|ni|[tro]|so
+perno	nome masculino	[per]|no
+pernoca	nome feminino	per|[no]|ca
+pernoita	nome feminino	per|[noi]|ta
+pernoitamento	nome masculino	per|noi|ta|[men]|to
+pernoitar	verbo	per|noi|[tar]
+pernoite	nome masculino	per|[noi]|te
+pernosticidade	nome feminino	per|nos|ti|ci|[da]|de
+pernosticismo	nome masculino	per|nos|ti|[cis]|mo
+pernóstico	adjetivo	per|[nós]|ti|co
+pernouta	nome feminino	per|[nou]|ta
+pernoutamento	nome masculino	per|nou|ta|[men]|to

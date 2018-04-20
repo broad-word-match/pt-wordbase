@@ -1,0 +1,100 @@
+espectar	verbo	es|pec|[tar]
+espectável	adjetivo	es|pec|[tá]|vel
+espectral	adjetivo	es|pec|[tral]
+espectralidade	nome feminino	es|pec|tra|li|[da]|de
+espectro	nome masculino	es|[pec]|tro
+espectrofobia	nome feminino	es|pec|tro|fo|[bi]|a
+espectrofotometria	nome feminino	es|pec|tro|fo|to|me|[tri]|a
+espectrofotométrico	adjetivo	es|pec|tro|fo|to|[mé]|tri|co
+espectrofotómetro	nome masculino	es|pec|tro|fo|[tó]|me|tro
+espectrofotômetro	nome masculino	es|pec|tro|fo|[tô]|me|tro
+espectrografia	nome feminino	es|pec|tro|gra|[fi]|a
+espectrográfico	adjetivo	es|pec|tro|[grá]|fi|co
+espectrógrafo	nome masculino	es|pec|[tró]|gra|fo
+espectrograma	nome masculino	es|pec|tro|[gra]|ma
+espectrologia	nome feminino	es|pec|tro|lo|[gi]|a
+espectrológico	adjetivo	es|pec|tro|[ló]|gi|co
+espectrometria	nome feminino	es|pec|tro|me|[tri]|a
+espectrométrico	adjetivo	es|pec|tro|[mé]|tri|co
+espectrómetro	nome masculino	es|pec|[tró]|me|tro
+espectrômetro	nome masculino	es|pec|[trô]|me|tro
+espectroscopia	nome feminino	es|pec|tros|co|[pi]|a
+espectroscópico	adjetivo	es|pec|tros|[có]|pi|co
+espectroscópio	nome masculino	es|pec|tros|[có]|pi|o
+espectroscopista	nome masculino	es|pec|tros|co|[pis]|ta
+espectroscopista	nome feminino	es|pec|tros|co|[pis]|ta
+especulação	nome feminino	es|pe|cu|la|[ção]
+especulador	adjetivo	es|pe|cu|la|[dor]
+especulador	nome masculino	es|pe|cu|la|[dor]
+especuladora	nome feminino	es|pe|cu|la|[do]|ra
+especular	verbo	es|pe|cu|[lar]
+especular	adjetivo	es|pe|cu|[lar]
+especulária	nome feminino	es|pe|cu|[lá]|ri|a
+especulativa	nome feminino	es|pe|cu|la|[ti]|va
+especulativamente	advérbio	es|pe|cu|la|ti|va|[men]|te
+especulativo	adjetivo	es|pe|cu|la|[ti]|vo
+especulatória	nome feminino	es|pe|cu|la|[tó]|ri|a
+especulatório	adjetivo	es|pe|cu|la|[tó]|ri|o
+especulífero	adjetivo	es|pe|cu|[lí]|fe|ro
+espéculo	nome masculino	es|[pé]|cu|lo
+espedaçador	adjetivo	es|pe|da|ça|[dor]
+espedaçador	nome masculino	es|pe|da|ça|[dor]
+espedaçamento	nome masculino	es|pe|da|ça|[men]|to
+espedaçar	verbo	es|pe|da|[çar]
+espedida	nome feminino	es|pe|[di]|da
+espedir	verbo	es|pe|[dir]
+espedregar	verbo	es|pe|dre|[gar]
+espeitamento	nome masculino	es|pei|ta|[men]|to
+espeitar	verbo	es|pei|[tar]
+espeleologia	nome feminino	es|pe|le|o|lo|[gi]|a
+espeleológico	adjetivo	es|pe|le|o|[ló]|gi|co
+espeleologista	nome masculino	es|pe|le|o|lo|[gis]|ta
+espeleologista	nome feminino	es|pe|le|o|lo|[gis]|ta
+espeleólogo	nome masculino	es|pe|le|[ó]|lo|go
+espeleu	nome masculino	es|pe|[leu]
+espelhação	nome feminino	es|pe|lha|[ção]
+espelhado	adjetivo	es|pe|[lha]|do
+espelhagem	nome feminino	es|pe|[lha]|gem
+espelhamento	nome masculino	es|pe|lha|[men]|to
+espelhante	adjetivo	es|pe|[lhan]|te
+espelhar	verbo	es|pe|[lhar]
+espelharia	nome feminino	es|pe|lha|[ri]|a
+espelhável	adjetivo	es|pe|[lhá]|vel
+espelheira	nome feminino	es|pe|[lhei]|ra
+espelheiro	nome masculino	es|pe|[lhei]|ro
+espelhento	adjetivo	es|pe|[lhen]|to
+espelhim	nome masculino	es|pe|[lhim]
+espelho	nome masculino	es|[pe]|lho
+espelho-de-vénus	nome masculino	es|pe|lho-de-vé|nus
+espelho-de-vênus	nome masculino	es|pe|lho-de-vê|nus
+espelina	nome feminino	es|pe|[li]|na
+espeloteado	adjetivo	es|pe|lo|te|[a]|do
+espelta	nome feminino	es|[pel]|ta
+espelunca	nome feminino	es|pe|[lun]|ca
+espenda	nome feminino	es|[pen]|da
+espenejar	verbo	es|pe|ne|[jar]
+espenicar	verbo	es|pe|ni|[car]
+espenifrar	verbo	es|pe|ni|[frar]
+espenifre	nome masculino	es|pe|[ni]|fre
+espenujar	verbo	es|pe|nu|[jar]
+espeque	nome masculino	es|[pe]|que
+espera	nome feminino	es|[pe]|ra
+espera-galego	nome masculino	es|pe|ra-ga|[le]|go
+espera-marido	nome masculino	es|pe|ra-ma|[ri]|do
+esperado	adjetivo	es|pe|[ra]|do
+esperadoiro	nome masculino	es|pe|ra|[doi]|ro
+esperador	adjetivo	es|pe|ra|[dor]
+esperador	nome masculino	es|pe|ra|[dor]
+esperadouro	nome masculino	es|pe|ra|[dou]|ro
+esperança	nome feminino	es|pe|[ran]|ça
+esperançado	adjetivo	es|pe|ran|[ça]|do
+esperançar	verbo	es|pe|ran|[çar]
+esperançosamente	advérbio	es|pe|ran|ço|sa|[men]|te
+esperançoso	adjetivo	es|pe|ran|[ço]|so
+esperantismo	nome masculino	es|pe|ran|[tis]|mo
+esperantista	nome masculino	es|pe|ran|[tis]|ta
+esperantista	nome feminino	es|pe|ran|[tis]|ta
+esperantista	adjetivo	es|pe|ran|[tis]|ta
+esperanto	nome masculino	es|pe|[ran]|to
+esperar	verbo	es|pe|[rar]
+esperável	adjetivo	es|pe|[rá]|vel

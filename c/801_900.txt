@@ -1,0 +1,100 @@
+caçoula	nome feminino	ca|[çou]|la
+caçoulada	nome feminino	ca|çou|[la]|da
+caçoulo	nome masculino	ca|[çou]|lo
+caçouro	nome masculino	ca|[çou]|ro
+cacóxi	nome masculino	ca|[có]|xi
+cacozelia	nome feminino	ca|co|ze|[li]|a
+cacozélico	adjetivo	ca|co|[zé]|li|co
+cacre	nome masculino	[ca]|cre
+cactácea	nome feminino	cac|[tá]|ce|a
+cactáceo	adjetivo	cac|[tá]|ce|o
+cactiforme	adjetivo	cac|ti|[for]|me
+cacto	nome masculino	[cac]|to
+cacto	adjetivo	[cac]|to
+cactoide	adjetivo	cac|[toi]|de
+cactomorfo	adjetivo	cac|to|[mor]|fo
+cácu	nome masculino	[cá]|cu
+caçuá	nome masculino	ca|çu|[á]
+cacual	nome masculino	ca|cu|[al]
+cacuala	nome feminino	ca|cu|[a]|la
+cacuço	nome masculino	ca|[cu]|ço
+cacueiro	nome masculino	ca|cu|[ei]|ro
+cacuenje	nome masculino	ca|cu|[en]|je
+caçula	nome feminino	ca|[çu]|la
+caçula	nome masculino	ca|[çu]|la
+caçula	adjetivo	ca|[çu]|la
+caçulê	nome masculino	ca|çu|[lê]
+caculo	nome masculino	ca|[cu]|lo
+cacumá	nome masculino	ca|cu|[má]
+cacumbi	nome masculino	ca|cum|[bi]
+cacumbu	nome masculino	ca|cum|[bu]
+caçumbula	nome masculino	ca|çum|[bu]|la
+cacume	nome masculino	ca|[cu]|me
+cacúmen	nome masculino	ca|[cú]|men
+cacuminal	adjetivo	ca|cu|mi|[nal]
+cacuminal	nome feminino	ca|cu|mi|[nal]
+cacuminalização	nome feminino	ca|cu|mi|na|li|za|[ção]
+cacuminalizar	verbo	ca|cu|mi|na|li|[zar]
+cacunda	nome feminino	ca|[cun]|da
+cacundê	nome masculino	ca|cun|[dê]
+cacundeiro	adjetivo	ca|cun|[dei]|ro
+cacundeiro	nome masculino	ca|cun|[dei]|ro
+cacundo	nome masculino	ca|[cun]|do
+caçungo	adjetivo	ca|[çun]|go
+caçungo	nome masculino	ca|[çun]|go
+caçununga	nome feminino	ca|çu|[nun]|ga
+cacuri	nome masculino	ca|cu|[ri]
+caçurrento	adjetivo	ca|çur|[ren]|to
+caçurro	nome masculino	ca|[çur]|ro
+cacussaria	nome feminino	ca|cus|sa|[ri]|a
+cacusso	nome masculino	ca|[cus]|so
+cacutu	nome masculino	ca|cu|[tu]
+cada	artigo indefinido	[ca]|da
+cadabulhar	verbo	ca|da|bu|[lhar]
+cadabulho	nome masculino	ca|da|[bu]|lho
+cadafalso	nome masculino	ca|da|[fal]|so
+cadamo	nome masculino	ca|[da]|mo
+cadaneiro	adjetivo	ca|da|[nei]|ro
+cadarçado	adjetivo	ca|dar|[ça]|do
+cadarço	nome masculino	ca|[dar]|ço
+cadaste	nome masculino	ca|[das]|te
+cadastrada	nome feminino	ca|das|[tra]|da
+cadastrado	adjetivo	ca|das|[tra]|do
+cadastrado	nome masculino	ca|das|[tra]|do
+cadastragem	nome feminino	ca|das|[tra]|gem
+cadastral	adjetivo	ca|das|[tral]
+cadastrar	verbo	ca|das|[trar]
+cadastro	nome masculino	ca|[das]|tro
+cádava	nome feminino	[cá]|da|va
+cadaval	nome masculino	ca|da|[val]
+cadavalense	adjetivo	ca|da|va|[len]|se
+cadavalense	nome masculino	ca|da|va|[len]|se
+cadavalense	nome feminino	ca|da|va|[len]|se
+cadáver	nome masculino	ca|[dá]|ver
+cadavericamente	advérbio	ca|da|ve|ri|ca|[men]|te
+cadavérico	adjetivo	ca|da|[vé]|ri|co
+cadaverina	nome feminino	ca|da|ve|[ri]|na
+cadaverismo	nome masculino	ca|da|ve|[ris]|mo
+cadaverização	nome feminino	ca|da|ve|ri|za|[ção]
+cadaverizar	verbo	ca|da|ve|ri|[zar]
+cadaveroso	adjetivo	ca|da|ve|[ro]|so
+cadaxo	nome masculino	ca|[da]|xo
+caddie	nome masculino	[cad]|die
+caddy	nome masculino	[cad]|dy
+cade	nome masculino	[ca]|de
+cadê	advérbio	ca|[dê]
+cadeado	nome masculino	ca|de|[a]|do
+cadeeiro	nome masculino	ca|de|[ei]|ro
+cadeia	nome feminino	ca|[dei]|a
+cadeira	nome feminino	ca|[dei]|ra
+cadeirado	nome masculino	ca|dei|[ra]|do
+cadeirado	adjetivo	ca|dei|[ra]|do
+cadeiral	nome masculino	ca|dei|[ral]
+cadeirão	nome masculino	ca|dei|[rão]
+cadeireiro	nome masculino	ca|dei|[rei]|ro
+cadeirinha	nome feminino	ca|dei|[ri]|nha
+cadeirinha	nome masculino	ca|dei|[ri]|nha
+cadeiruda	adjetivo	ca|dei|[ru]|da
+cadeixo	nome masculino	ca|[dei]|xo
+cadela	nome feminino	ca|[de]|la
+cadeleira	nome feminino	ca|de|[lei]|ra

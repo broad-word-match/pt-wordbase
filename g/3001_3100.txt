@@ -1,0 +1,100 @@
+glaciológico	adjetivo	gla|ci|o|[ló]|gi|co
+glaciologista	nome masculino	gla|ci|o|lo|[gis]|ta
+glaciologista	nome feminino	gla|ci|o|lo|[gis]|ta
+gladiado	adjetivo	gla|di|[a]|do
+gladiador	nome masculino	gla|di|a|[dor]
+gladiadora	nome feminino	gla|di|a|[do]|ra
+gladiar	verbo	gla|di|[ar]
+gladiatório	adjetivo	gla|di|a|[tó]|ri|o
+gladiatura	nome feminino	gla|di|a|[tu]|ra
+gladífero	adjetivo	gla|[dí]|fe|ro
+gladiforme	adjetivo	gla|di|[for]|me
+gládio	nome masculino	[glá]|di|o
+gladíolo	nome masculino	gla|[dí]|o|lo
+glagolítico	adjetivo	gla|go|[lí]|ti|co
+glaiadina	nome feminino	glai|a|[di]|na
+glam	nome masculino	[glam]
+glamoroso	adjetivo	gla|mo|[ro]|so
+glamour	nome masculino	[gla]|mour
+glamouroso	adjetivo	gla|mou|[ro]|so
+glandado	adjetivo	glan|[da]|do
+glande	nome feminino	[glan]|de
+glandífero	adjetivo	glan|[dí]|fe|ro
+glandiforme	adjetivo	glan|di|[for]|me
+glandívoro	adjetivo	glan|[dí]|vo|ro
+glândula	nome feminino	[glân]|du|la
+glandulação	nome feminino	glan|du|la|[ção]
+glandular	adjetivo	glan|du|[lar]
+glandulífero	adjetivo	glan|du|[lí]|fe|ro
+glanduliforme	adjetivo	glan|du|li|[for]|me
+glandulina	nome feminino	glan|du|[li]|na
+glanduloso	adjetivo	glan|du|[lo]|so
+glasnost	nome feminino	[glas]|nost
+glauberite	nome feminino	glau|be|[ri]|te
+gláucia	nome feminino	[gláu]|ci|a
+gláucico	adjetivo	[gláu]|ci|co
+glaucina	nome feminino	glau|[ci]|na
+gláucio	nome masculino	[gláu]|ci|o
+glauco	adjetivo	[glau]|co
+glaucófano	nome masculino	glau|[có]|fa|no
+glaucofilo	adjetivo	glau|co|[fi]|lo
+glaucólito	nome masculino	glau|[có]|li|to
+glaucoma	nome masculino	glau|[co]|ma
+glaucomatoso	adjetivo	glau|co|ma|[to]|so
+glaucomatoso	nome masculino	glau|co|ma|[to]|so
+glauconita	nome feminino	glau|co|[ni]|ta
+glauconite	nome feminino	glau|co|[ni]|te
+glaucope	nome masculino	glau|[co]|pe
+glaucopicrina	nome feminino	glau|co|pi|[cri]|na
+glaucopirite	nome feminino	glau|co|pi|[ri]|te
+gleba	nome feminino	[gle]|ba
+glebário	adjetivo	gle|[bá]|ri|o
+glebário	nome masculino	gle|[bá]|ri|o
+glena	nome feminino	[gle]|na
+glenoidal	adjetivo	gle|noi|[dal]
+glenoide	adjetivo	gle|[noi]|de
+glenóideo	adjetivo	gle|[nói]|de|o
+gleucométrico	adjetivo	gleu|co|[mé]|tri|co
+gleucômetro	nome masculino	gleu|[cô]|me|tro
+gleucómetro	nome masculino	gleu|[có]|me|tro
+glia	nome feminino	[gli]|a
+gliadina	nome feminino	gli|a|[di]|na
+glial	adjetivo	gli|[al]
+glibenclamida	nome feminino	gli|ben|cla|[mi]|da
+glicato	nome masculino	gli|[ca]|to
+glicemia	nome feminino	gli|ce|[mi]|a
+glicémia	nome feminino	gli|[cé]|mi|a
+glicémico	adjetivo	gli|[cé]|mi|co
+glicêmico	adjetivo	gli|[cê]|mi|co
+glícera	nome feminino	[glí]|ce|ra
+glicerado	nome masculino	gli|ce|[ra]|do
+gliceramina	nome feminino	gli|ce|ra|[mi]|na
+glicerato	nome masculino	gli|ce|[ra]|to
+glicéreo	adjetivo	gli|[cé]|re|o
+glicéria	nome feminino	gli|[cé]|ri|a
+glicérico	adjetivo	gli|[cé]|ri|co
+glicerídeo	nome masculino	gli|ce|[rí]|de|o
+glicerídeo	adjetivo	gli|ce|[rí]|de|o
+glicérido	nome masculino	gli|[cé]|ri|do
+glicerilo	nome masculino	gli|ce|[ri]|lo
+glicerina	nome feminino	gli|ce|[ri]|na
+glicerinar	verbo	gli|ce|ri|[nar]
+glicerofosfato	nome masculino	gli|ce|ro|fos|[fa]|to
+glicerofosfórico	adjetivo	gli|ce|ro|fos|[fó]|ri|co
+glicerol	nome masculino	gli|ce|[rol]
+gliceróleo	nome masculino	gli|ce|[ró]|le|o
+glícico	adjetivo	[glí]|ci|co
+glicídico	adjetivo	gli|[cí]|di|co
+glícido	nome masculino	[glí]|ci|do
+glicina	nome feminino	gli|[ci]|na
+glicínia	nome feminino	gli|[cí]|ni|a
+glicínio	nome masculino	gli|[cí]|ni|o
+glicocálice	nome masculino	gli|co|[cá]|li|ce
+glicocola	nome feminino	gli|co|[co]|la
+glicocólico	adjetivo	gli|co|[có]|li|co
+glicofosfato	nome masculino	gli|co|fos|[fa]|to
+glicogénese	nome feminino	gli|co|[gé]|ne|se
+glicogênese	nome feminino	gli|co|[gê]|ne|se
+glicogenia	nome feminino	gli|co|ge|[ni]|a
+glicogénico	adjetivo	gli|co|[gé]|ni|co
+glicogênico	adjetivo	gli|co|[gê]|ni|co

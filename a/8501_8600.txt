@@ -1,0 +1,100 @@
+algólogo	nome masculino	al|[gó]|lo|go
+algomania	nome feminino	al|go|ma|[ni]|a
+algomaníaco	adjetivo	al|go|ma|[ní]|a|co
+algomaníaco	nome masculino	al|go|ma|[ní]|a|co
+algómano	adjetivo	al|[gó]|ma|no
+algómano	nome masculino	al|[gó]|ma|no
+algômano	adjetivo	al|[gô]|ma|no
+algômano	nome masculino	al|[gô]|ma|no
+algomia	nome feminino	al|go|[mi]|a
+algonquiano	adjetivo	al|gon|qui|[a]|no
+algonquina	nome feminino	al|gon|[qui]|na
+algonquino	nome masculino	al|gon|[qui]|no
+algonquino	adjetivo	al|gon|[qui]|no
+algor	nome masculino	al|[gor]
+algorabão	nome masculino	al|go|ra|[bão]
+algoritmia	nome feminino	al|go|rit|[mi]|a
+algorítmico	adjetivo	al|go|[rít]|mi|co
+algoritmo	nome masculino	al|go|[rit]|mo
+algoso	adjetivo	al|[go]|so
+algospasmo	nome masculino	al|gos|[pas]|mo
+algoz	nome masculino	al|[goz]
+algozar	verbo	al|go|[zar]
+algozaria	nome feminino	al|go|za|[ri]|a
+algrame	nome masculino	al|[gra]|me
+algravão	nome masculino	al|gra|[vão]
+algravia	nome feminino	al|gra|[vi]|a
+algraviada	nome feminino	al|gra|vi|[a]|da
+algraviar	verbo	al|gra|vi|[ar]
+algregue	nome masculino	al|[gre]|gue
+algreme	nome masculino	al|[gre]|me
+algrivão	nome masculino	al|gri|[vão]
+algrouvão	nome masculino	al|grou|[vão]
+algrubão	nome masculino	al|gru|[bão]
+alguazil	nome masculino	al|gua|[zil]
+alguém	pronome indefinido	al|[guém]
+alguém	nome masculino	al|[guém]
+alguergar	verbo	al|guer|[gar]
+alguergue	nome masculino	al|[guer]|gue
+algueta	nome feminino	al|[gue]|ta
+alguidar	nome masculino	al|gui|[dar]
+alguidarada	nome feminino	al|gui|da|[ra]|da
+alguirradeira	nome feminino	al|guir|ra|[dei]|ra
+algum	artigo indefinido	al|[gum]
+algum	pronome indefinido	al|[gum]
+algum	nome masculino	al|[gum]
+alguma	nome feminino	al|[gu]|ma
+algures	advérbio	al|[gu]|res
+alhada	nome feminino	a|[lha]|da
+alhal	nome masculino	a|[lhal]
+alhanar	verbo	a|lha|[nar]
+alhandrense	adjetivo	a|lhan|[dren]|se
+alhandrense	nome masculino	a|lhan|[dren]|se
+alhandrense	nome feminino	a|lhan|[dren]|se
+alharca	nome feminino	a|[lhar]|ca
+alheabilidade	nome feminino	a|lhe|a|bi|li|[da]|de
+alheação	nome feminino	a|lhe|a|[ção]
+alheadamente	advérbio	a|lhe|a|da|[men]|te
+alheado	adjetivo	a|lhe|[a]|do
+alheador	nome masculino	a|lhe|a|[dor]
+alheamento	nome masculino	a|lhe|a|[men]|to
+alhear	verbo	a|lhe|[ar]
+alheativo	adjetivo	a|lhe|a|[ti]|vo
+alheatório	adjetivo	a|lhe|a|[tó]|ri|o
+alheável	adjetivo	a|lhe|[á]|vel
+alheiamente	advérbio	a|lhei|a|[men]|te
+alheio	nome masculino	a|[lhei]|o
+alheio	adjetivo	a|[lhei]|o
+alheira	nome feminino	a|[lhei]|ra
+alheiro	nome masculino	a|[lhei]|ro
+alhela	nome feminino	a|[lhe]|la
+alhendros	nome masculino	a|[lhen]|dros
+alheta	nome feminino	a|[lhe]|ta
+alhete	nome masculino	a|[lhe]|te
+alheto	nome masculino	a|[lhe]|to
+alho	nome masculino	[a]|lho
+alho	adjetivo	[a]|lho
+alho-francês	nome masculino	a|lho-fran|[cês]
+alho-porro	nome masculino	a|lho-por|ro
+alhodra	nome feminino	a|[lho]|dra
+alhora	interjeição	a|[lho]|ra
+alhorca	nome feminino	a|[lhor]|ca
+alhures	advérbio	a|[lhu]|res
+ali	advérbio	a|[li]
+aliá	nome feminino	a|li|[á]
+aliácea	nome feminino	a|li|[á]|ce|a
+aliáceo	adjetivo	a|li|[á]|ce|o
+aliada	nome feminino	a|li|[a]|da
+aliado	adjetivo	a|li|[a]|do
+aliado	nome masculino	a|li|[a]|do
+aliadofilia	nome feminino	a|li|a|do|fi|[li]|a
+aliadófilo	adjetivo	a|li|a|[dó]|fi|lo
+aliadófilo	nome masculino	a|li|a|[dó]|fi|lo
+aliadofobia	nome feminino	a|li|a|do|fo|[bi]|a
+aliadófobo	adjetivo	a|li|a|[dó]|fo|bo
+aliadófobo	nome masculino	a|li|a|[dó]|fo|bo
+aliagem	nome feminino	a|li|[a]|gem
+aliança	nome feminino	a|li|[an]|ça
+aliançar	verbo	a|li|an|[çar]
+aliar	verbo	a|li|[ar]
+aliária	nome feminino	a|li|[á]|ri|a

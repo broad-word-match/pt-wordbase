@@ -1,0 +1,100 @@
+lo	pronome demostrativo	[lo]
+loa	nome feminino	[lo]|a
+loacos	nome masculino	lo|[a]|cos
+loasa	nome feminino	lo|[a]|sa
+loasácea	nome feminino	lo|a|[sá]|ce|a
+loba	nome feminino	[lo]|ba
+lobacho	nome masculino	lo|[ba]|cho
+lobado	nome masculino	lo|[ba]|do
+lobado	adjetivo	lo|[ba]|do
+lobagante	nome masculino	lo|ba|[gan]|te
+lobal	adjetivo	lo|[bal]
+lobão	nome masculino	lo|[bão]
+lobar	adjetivo	lo|[bar]
+lobato	nome masculino	lo|[ba]|to
+lobaz	nome masculino	lo|[baz]
+lobby	nome masculino	[lob]|by
+lobecão	nome masculino	lo|be|[cão]
+lobectomia	nome feminino	lo|bec|to|[mi]|a
+lobectómico	adjetivo	lo|bec|[tó]|mi|co
+lobectômico	adjetivo	lo|bec|[tô]|mi|co
+lobegante	nome masculino	lo|be|[gan]|te
+lobegão	nome masculino	lo|be|[gão]
+lobeiro	adjetivo	lo|[bei]|ro
+lobeiro	nome masculino	lo|[bei]|ro
+lobélia	nome feminino	lo|[bé]|li|a
+lobeliácea	nome feminino	lo|be|li|[á]|ce|a
+lobeliáceo	adjetivo	lo|be|li|[á]|ce|o
+lobelina	nome feminino	lo|be|[li]|na
+lobélio	nome masculino	lo|[bé]|li|o
+lobete	nome masculino	lo|[be]|te
+lobeto	nome masculino	lo|[be]|to
+lóbi	nome masculino	[ló]|bi
+lobinho	nome masculino	lo|[bi]|nho
+lobisomem	nome masculino	lo|bi|[so]|mem
+lobista	nome masculino	lo|[bis]|ta
+lobista	nome feminino	lo|[bis]|ta
+lobístico	adjetivo	lo|[bís]|ti|co
+lobito	nome masculino	lo|[bi]|to
+lobo	nome masculino	[lo]|bo
+lobo do mar	nome masculino	[lo]|bo do mar
+lobo-cerval	nome masculino	lo|bo-cer|[val]
+lobo-d'alsácia	nome masculino	lo|bo-d´al|[sá]|ci|a
+lobo-do-mar	nome masculino	lo|bo-do-mar
+lobo-gato	nome masculino	lo|bo-ga|to
+lobo-marinho	nome masculino	lo|bo-ma|[ri]|nho
+lobo-tigre	nome masculino	lo|bo-ti|gre
+lobolar	verbo	lo|bo|[lar]
+lobolo	nome masculino	lo|[bo]|lo
+lobotomia	nome feminino	lo|bo|to|[mi]|a
+lobotomizar	verbo	lo|bo|to|mi|[zar]
+lobregamente	advérbio	lo|bre|ga|[men]|te
+lobregar	verbo	lo|bre|[gar]
+lôbrego	adjetivo	[lô]|bre|go
+lobreguidão	nome feminino	lo|bre|gui|[dão]
+lobregura	nome feminino	lo|bre|[gu]|ra
+lobrigador	adjetivo	lo|bri|ga|[dor]
+lobrigador	nome masculino	lo|bri|ga|[dor]
+lobrigar	verbo	lo|bri|[gar]
+lobrigável	adjetivo	lo|bri|[gá]|vel
+lobulação	nome feminino	lo|bu|la|[ção]
+lobulado	adjetivo	lo|bu|[la]|do
+lobular	adjetivo	lo|bu|[lar]
+lóbulo	nome masculino	[ló]|bu|lo
+lobuloso	adjetivo	lo|bu|[lo]|so
+lobuno	adjetivo	lo|[bu]|no
+loca	nome feminino	[lo]|ca
+locação	nome feminino	lo|ca|[ção]
+locador	nome masculino	lo|ca|[dor]
+locador	adjetivo	lo|ca|[dor]
+locadora	nome feminino	lo|ca|[do]|ra
+locago	nome masculino	lo|[ca]|go
+locaia	nome feminino	lo|[cai]|a
+local	adjetivo	lo|[cal]
+local	nome feminino	lo|[cal]
+local	nome masculino	lo|[cal]
+localidade	nome feminino	lo|ca|li|[da]|de
+localismo	nome masculino	lo|ca|[lis]|mo
+localista	nome masculino	lo|ca|[lis]|ta
+localista	nome feminino	lo|ca|[lis]|ta
+localização	nome feminino	lo|ca|li|za|[ção]
+localizado	adjetivo	lo|ca|li|[za]|do
+localizador	adjetivo	lo|ca|li|za|[dor]
+localizador	nome masculino	lo|ca|li|za|[dor]
+localizar	verbo	lo|ca|li|[zar]
+localizável	adjetivo	lo|ca|li|[zá]|vel
+localmente	advérbio	lo|cal|[men]|te
+locanda	nome feminino	lo|[can]|da
+locandeira	nome feminino	lo|can|[dei]|ra
+locandeiro	nome masculino	lo|can|[dei]|ro
+loção	nome feminino	lo|[ção]
+locar	verbo	lo|[car]
+lóçara	nome feminino	[ló]|ça|ra
+locário	nome masculino	lo|[cá]|ri|o
+locatária	nome feminino	lo|ca|[tá]|ri|a
+locatário	nome masculino	lo|ca|[tá]|ri|o
+locativo	adjetivo	lo|ca|[ti]|vo
+locativo	nome masculino	lo|ca|[ti]|vo
+locável	adjetivo	lo|[cá]|vel
+locengue	nome masculino	lo|[cen]|gue
+locionar	verbo	lo|ci|o|[nar]

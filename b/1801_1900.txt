@@ -1,0 +1,100 @@
+barografia	nome feminino	ba|ro|gra|[fi]|a
+barográfico	adjetivo	ba|ro|[grá]|fi|co
+barógrafo	nome masculino	ba|[ró]|gra|fo
+barograma	nome masculino	ba|ro|[gra]|ma
+barologia	nome feminino	ba|ro|lo|[gi]|a
+barológico	adjetivo	ba|ro|[ló]|gi|co
+barometria	nome feminino	ba|ro|me|[tri]|a
+barometricamente	advérbio	ba|ro|me|tri|ca|[men]|te
+barométrico	adjetivo	ba|ro|[mé]|tri|co
+barômetro	nome masculino	ba|[rô]|me|tro
+barómetro	nome masculino	ba|[ró]|me|tro
+barometrografia	nome feminino	ba|ro|me|tro|gra|[fi]|a
+barometrográfico	adjetivo	ba|ro|me|tro|[grá]|fi|co
+barometrógrafo	nome masculino	ba|ro|me|[tró]|gra|fo
+barona	nome feminino	ba|[ro]|na
+baronato	nome masculino	ba|ro|[na]|to
+baronesa	nome feminino	ba|ro|[ne]|sa
+baroneso	nome masculino	ba|ro|[ne]|so
+baronete	nome masculino	ba|ro|[ne]|te
+baronia	nome feminino	ba|ro|[ni]|a
+baronial	adjetivo	ba|ro|ni|[al]
+baronizar	verbo	ba|ro|ni|[zar]
+barosânemo	nome masculino	ba|ro|[sâ]|ne|mo
+baroscopia	nome feminino	ba|ros|co|[pi]|a
+baroscópico	adjetivo	ba|ros|[có]|pi|co
+baroscópio	nome masculino	ba|ros|[có]|pi|o
+barossensibilidade	nome feminino	ba|ros|sen|si|bi|li|[da]|de
+barossensível	adjetivo	ba|ros|sen|[sí]|vel
+barostática	nome feminino	ba|ros|[tá]|ti|ca
+barostático	adjetivo	ba|ros|[tá]|ti|co
+baróstato	nome masculino	ba|[rós]|ta|to
+barotáctico	adjetivo	ba|ro|[tác]|ti|co
+barotático	adjetivo	ba|ro|[tá]|ti|co
+barotaxia	nome feminino	ba|ro|ta|[xi]|a
+barotermógrafo	nome masculino	ba|ro|ter|[mó]|gra|fo
+barotermómetro	nome masculino	ba|ro|ter|[mó]|me|tro
+barotermômetro	nome masculino	ba|ro|ter|[mô]|me|tro
+barotrauma	nome masculino	ba|ro|[trau]|ma
+barotraumático	adjetivo	ba|ro|trau|[má]|ti|co
+barotraumatismo	nome masculino	ba|ro|trau|ma|[tis]|mo
+barotropia	nome feminino	ba|ro|tro|[pi]|a
+barotrópico	adjetivo	ba|ro|[tró]|pi|co
+barotropismo	nome masculino	ba|ro|tro|[pis]|mo
+barquear	verbo	bar|que|[ar]
+barqueira	nome feminino	bar|[quei]|ra
+barqueiro	nome masculino	bar|[quei]|ro
+barquejar	verbo	bar|que|[jar]
+barquense	nome masculino	bar|[quen]|se
+barquense	adjetivo	bar|[quen]|se
+barquense	nome feminino	bar|[quen]|se
+barqueta	nome feminino	bar|[que]|ta
+barquete	nome masculino	bar|[que]|te
+barquilha	nome feminino	bar|[qui]|lha
+barquilheiro	nome masculino	bar|qui|[lhei]|ro
+barquilho	nome masculino	bar|[qui]|lho
+barquinha	nome feminino	bar|[qui]|nha
+barquinhense	adjetivo	bar|qui|[nhen]|se
+barquinhense	nome masculino	bar|qui|[nhen]|se
+barquinhense	nome feminino	bar|qui|[nhen]|se
+barquinho	nome masculino	bar|[qui]|nho
+barquino	nome masculino	bar|[qui]|no
+barra	nome masculino	[bar]|ra
+barra	nome feminino	[bar]|ra
+barraca	nome feminino	bar|[ra]|ca
+barracão	nome masculino	bar|ra|[cão]
+barracar	verbo	bar|ra|[car]
+barracento	adjetivo	bar|ra|[cen]|to
+barrachel	nome masculino	bar|ra|[chel]
+barraco	nome masculino	bar|[ra]|co
+barracório	nome masculino	bar|ra|[có]|ri|o
+barracuda	nome feminino	bar|ra|[cu]|da
+barradela	nome feminino	bar|ra|[de]|la
+barrado	adjetivo	bar|[ra]|do
+barrado	nome masculino	bar|[ra]|do
+barradura	nome feminino	bar|ra|[du]|ra
+barragem	nome feminino	bar|[ra]|gem
+barral	nome masculino	bar|[ral]
+barramaque	nome masculino	bar|ra|[ma]|que
+barramento	nome masculino	bar|ra|[men]|to
+barranca	nome feminino	bar|[ran]|ca
+barrancal	nome masculino	bar|ran|[cal]
+barranceira	nome feminino	bar|ran|[cei]|ra
+barranco	nome masculino	bar|[ran]|co
+barrancoso	adjetivo	bar|ran|[co]|so
+barranha	nome feminino	bar|[ra]|nha
+barranhão	nome masculino	bar|ra|[nhão]
+barranhar	verbo	bar|ra|[nhar]
+barranqueira	nome feminino	bar|ran|[quei]|ra
+barranqueiro	nome masculino	bar|ran|[quei]|ro
+barranquenha	nome feminino	bar|ran|[que]|nha
+barranquenho	nome masculino	bar|ran|[que]|nho
+barranquenho	adjetivo	bar|ran|[que]|nho
+barrão	nome masculino	bar|[rão]
+barraqueira	nome feminino	bar|ra|[quei]|ra
+barraqueiro	adjetivo	bar|ra|[quei]|ro
+barraqueiro	nome masculino	bar|ra|[quei]|ro
+barraquim	nome masculino	bar|ra|[quim]
+barraquinha	nome feminino	bar|ra|[qui]|nha
+barraquista	nome masculino	bar|ra|[quis]|ta
+barrar	verbo	bar|[rar]

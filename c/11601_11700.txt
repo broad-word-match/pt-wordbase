@@ -1,0 +1,100 @@
+cnídico	adjetivo	[cní]|di|co
+cnídico	nome masculino	[cní]|di|co
+cnídio	adjetivo	[cní]|di|o
+cnídio	nome masculino	[cní]|di|o
+cnidoblasto	nome masculino	cni|do|[blas]|to
+cnidocílio	nome masculino	cni|do|[cí]|li|o
+cnidose	nome feminino	cni|[do]|se
+cnossíaco	adjetivo	cnos|[sí]|a|co
+cnóssio	nome masculino	[cnós]|si|o
+cnóssio	adjetivo	[cnós]|si|o
+cnute	nome masculino	[cnu]|te
+co	contração	[co]
+co-herdar	verbo	co-her|[dar]
+co-herdeira	nome feminino	co-her|[dei]|ra
+co-herdeiro	nome masculino	co-her|[dei]|ro
+co-herdeiro	adjetivo	co-her|[dei]|ro
+coa	nome feminino	[co]|a
+coabitação	nome feminino	co|a|bi|ta|[ção]
+coabitador	nome masculino	co|a|bi|ta|[dor]
+coabitante	adjetivo	co|a|bi|[tan]|te
+coabitante	nome masculino	co|a|bi|[tan]|te
+coabitante	nome feminino	co|a|bi|[tan]|te
+coabitar	verbo	co|a|bi|[tar]
+coação	nome feminino	co|a|[ção]
+coacervação	nome feminino	co|a|cer|va|[ção]
+coacervar	verbo	co|a|cer|[var]
+coactar	verbo	co|ac|[tar]
+coáctil	adjetivo	co|[ác]|til
+coactivamente	advérbio	co|ac|ti|va|[men]|te
+coactividade	nome feminino	co|ac|ti|vi|[da]|de
+coactivo	adjetivo	co|ac|[ti]|vo
+coacto	adjetivo	co|[ac]|to
+coactor	adjetivo	co|ac|[tor]
+coactor	nome masculino	co|ac|[tor]
+coactora	nome feminino	co|ac|[to]|ra
+coacusado	nome masculino	co|a|cu|[sa]|do
+coada	nome feminino	co|[a]|da
+coadaptar	verbo	co|a|dap|[tar]
+coadeira	nome feminino	co|a|[dei]|ra
+coadjuntor	adjetivo	co|ad|jun|[tor]
+coadjuntor	nome masculino	co|ad|jun|[tor]
+coadjuntora	nome feminino	co|ad|jun|[to]|ra
+coadjutor	nome masculino	co|ad|ju|[tor]
+coadjutoria	nome feminino	co|ad|ju|to|[ri]|a
+coadjuvação	nome feminino	co|ad|ju|va|[ção]
+coadjuvador	adjetivo	co|ad|ju|va|[dor]
+coadjuvador	nome masculino	co|ad|ju|va|[dor]
+coadjuvante	adjetivo	co|ad|ju|[van]|te
+coadjuvante	nome masculino	co|ad|ju|[van]|te
+coadjuvante	nome feminino	co|ad|ju|[van]|te
+coadjuvar	verbo	co|ad|ju|[var]
+coadjuvável	adjetivo	co|ad|ju|[vá]|vel
+coadministração	nome feminino	co|ad|mi|nis|tra|[ção]
+coadministrador	adjetivo	co|ad|mi|nis|tra|[dor]
+coadministrador	nome masculino	co|ad|mi|nis|tra|[dor]
+coadministradora	nome feminino	co|ad|mi|nis|tra|[do]|ra
+coadministrar	verbo	co|ad|mi|nis|[trar]
+coado	adjetivo	co|[a]|do
+coadoiro	nome masculino	co|a|[doi]|ro
+coador	adjetivo	co|a|[dor]
+coador	nome masculino	co|a|[dor]
+coadouro	nome masculino	co|a|[dou]|ro
+coadquirente	adjetivo	co|ad|qui|[ren]|te
+coadquirente	nome masculino	co|ad|qui|[ren]|te
+coadquirente	nome feminino	co|ad|qui|[ren]|te
+coadquirição	nome feminino	co|ad|qui|ri|[ção]
+coadquirir	verbo	co|ad|qui|[rir]
+coadquirível	adjetivo	co|ad|qui|[rí]|vel
+coadunabilidade	nome feminino	co|a|du|na|bi|li|[da]|de
+coadunação	nome feminino	co|a|du|na|[ção]
+coadunado	adjetivo	co|a|du|[na]|do
+coadunador	adjetivo	co|a|du|na|[dor]
+coadunador	nome masculino	co|a|du|na|[dor]
+coadunar	verbo	co|a|du|[nar]
+coadunável	adjetivo	co|a|du|[ná]|vel
+coadura	nome feminino	co|a|[du]|ra
+coagente	adjetivo	co|a|[gen]|te
+coagido	adjetivo	co|a|[gi]|do
+coagir	verbo	co|a|[gir]
+coagível	adjetivo	co|a|[gí]|vel
+coagmentação	nome feminino	co|ag|men|ta|[ção]
+coagmentar	verbo	co|ag|men|[tar]
+coagmento	nome masculino	co|ag|[men]|to
+coagulabilidade	nome feminino	co|a|gu|la|bi|li|[da]|de
+coagulação	nome feminino	co|a|gu|la|[ção]
+coagulado	adjetivo	co|a|gu|[la]|do
+coagulador	adjetivo	co|a|gu|la|[dor]
+coagulador	nome masculino	co|a|gu|la|[dor]
+coagulante	nome masculino	co|a|gu|[lan]|te
+coagulante	adjetivo	co|a|gu|[lan]|te
+coagular	verbo	co|a|gu|[lar]
+coagulável	adjetivo	co|a|gu|[lá]|vel
+coágulo	nome masculino	co|[á]|gu|lo
+coajinguva	nome feminino	co|a|jin|[gu]|va
+coajuba	nome feminino	co|a|[ju]|ba
+coala	nome masculino	co|[a]|la
+coale	nome masculino	co|[a]|le
+coalescência	nome feminino	co|a|les|[cên]|ci|a
+coalescente	adjetivo	co|a|les|[cen]|te
+coalescer	verbo	co|a|les|[cer]

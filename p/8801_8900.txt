@@ -1,0 +1,100 @@
+piza	nome feminino	[pi]|za
+pizaria	nome feminino	pi|za|[ri]|a
+pizicato	adjetivo	pi|zi|[ca]|to
+pizicato	nome masculino	pi|zi|[ca]|to
+pizza	nome feminino	[piz]|za
+pizzaria	nome feminino	piz|za|ri|a
+pizzeria	nome feminino	piz|ze|ri|a
+pizzicato	adjetivo	piz|zi|ca|to
+pizzicato	nome masculino	piz|zi|ca|to
+placá	nome masculino	pla|[cá]
+placa	nome feminino	[pla]|ca
+placa-mãe	nome feminino	pla|ca-mãe
+placabilidade	nome feminino	pla|ca|bi|li|[da]|de
+placagem	nome feminino	pla|[ca]|gem
+placar	nome masculino	pla|[car]
+placar	verbo	pla|[car]
+placard	nome masculino	pla|card
+placável	adjetivo	pla|[cá]|vel
+placebo	nome masculino	pla|[ce]|bo
+placenciano	adjetivo	pla|cen|ci|[a]|no
+placenta	nome feminino	pla|[cen]|ta
+placentação	nome feminino	pla|cen|ta|[ção]
+placentário	adjetivo	pla|cen|[tá]|ri|o
+placentário	nome masculino	pla|cen|[tá]|ri|o
+placentino	nome masculino	pla|cen|[ti]|no
+placentino	adjetivo	pla|cen|[ti]|no
+placentite	nome feminino	pla|cen|[ti]|te
+plácer	nome masculino	[plá]|cer
+placidamente	advérbio	pla|ci|da|[men]|te
+placidez	nome feminino	pla|ci|[dez]
+plácido	adjetivo	[plá]|ci|do
+placitar	verbo	pla|ci|[tar]
+plácito	nome masculino	[plá]|ci|to
+placitude	nome feminino	pla|ci|[tu]|de
+placodermos	nome masculino	pla|co|[der]|mos
+placodontes	nome masculino	pla|co|[don]|tes
+placóforo	nome masculino	pla|[có]|fo|ro
+placoide	adjetivo	pla|[coi]|de
+placoide	nome masculino	pla|[coi]|de
+pladarose	nome feminino	pla|da|[ro]|se
+plafom	nome masculino	[pla]|fom
+plafond	nome masculino	pla|fond
+plaga	nome feminino	[pla]|ga
+plagal	adjetivo	pla|[gal]
+plagão	nome masculino	pla|[gão]
+plagiado	adjetivo	pla|gi|[a]|do
+plagiado	nome masculino	pla|gi|[a]|do
+plagiador	nome masculino	pla|gi|a|[dor]
+plagiante	adjetivo	pla|gi|[an]|te
+plagiar	verbo	pla|gi|[ar]
+plagiária	nome feminino	pla|gi|[á]|ri|a
+plagiário	nome masculino	pla|gi|[á]|ri|o
+plagiário	adjetivo	pla|gi|[á]|ri|o
+plagiato	nome masculino	pla|gi|[a]|to
+plagiável	adjetivo	pla|gi|[á]|vel
+plagiedria	nome feminino	pla|gi|e|[dri]|a
+plagiédrico	adjetivo	pla|gi|[é]|dri|co
+plagiedro	adjetivo	pla|gi|[e]|dro
+plágio	nome masculino	[plá]|gi|o
+plagiobásico	adjetivo	pla|gi|o|[bá]|si|co
+plagiocefalia	nome feminino	pla|gi|o|ce|fa|[li]|a
+plagiocéfalo	adjetivo	pla|gi|o|[cé]|fa|lo
+plagióclase	nome feminino	pla|gi|[ó]|cla|se
+plagioclásio	nome masculino	pla|gi|o|[clá]|si|o
+plagioclasite	nome feminino	pla|gi|o|cla|[si]|te
+plagioclástico	adjetivo	pla|gi|o|[clás]|ti|co
+plagiomorfia	nome feminino	pla|gi|o|mor|[fi]|a
+plagiomórfico	adjetivo	pla|gi|o|[mór]|fi|co
+plagionite	nome feminino	pla|gi|o|[ni]|te
+plagióstomo	adjetivo	pla|gi|[ós]|to|mo
+plagióstomo	nome masculino	pla|gi|[ós]|to|mo
+plaina	nome feminino	[plai]|na
+plainete	nome masculino	plai|[ne]|te
+plainista	nome masculino	plai|[nis]|ta
+plaino	adjetivo	[plai]|no
+plaino	nome masculino	[plai]|no
+plameira	nome feminino	pla|[mei]|ra
+plana	nome feminino	[pla]|na
+planada	nome feminino	pla|[na]|da
+planado	adjetivo	pla|[na]|do
+planador	nome masculino	pla|na|[dor]
+planador	adjetivo	pla|na|[dor]
+planáltico	adjetivo	pla|[nál]|ti|co
+planalto	nome masculino	pla|[nal]|to
+planamente	advérbio	pla|na|[men]|te
+planar	verbo	pla|[nar]
+planária	nome feminino	pla|[ná]|ri|a
+planchada	nome feminino	plan|[cha]|da
+planchador	nome masculino	plan|cha|[dor]
+planchear	verbo	plan|che|[ar]
+plancto	nome masculino	[planc]|to
+plâncton	nome masculino	[plânc]|ton
+planctónico	adjetivo	planc|[tó]|ni|co
+planctônico	adjetivo	planc|[tô]|ni|co
+planeado	adjetivo	pla|ne|[a]|do
+planeador	nome masculino	pla|ne|a|[dor]
+planeador	adjetivo	pla|ne|a|[dor]
+planeamento	nome masculino	pla|ne|a|[men]|to
+planear	verbo	pla|ne|[ar]
+planeável	adjetivo	pla|ne|[á]|vel

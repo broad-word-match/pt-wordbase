@@ -1,0 +1,100 @@
+factorial	adjetivo	fac|to|ri|[al]
+factorial	nome feminino	fac|to|ri|[al]
+factoring	nome masculino	[fac]|to|ring
+factorizar	verbo	fac|to|ri|[zar]
+factoto	nome masculino	fac|[to]|to
+factótum	nome masculino	fac|[tó]|tum
+factual	adjetivo	fac|tu|[al]
+factura	nome feminino	fac|[tu]|ra
+facturamento	nome masculino	fac|tu|ra|[men]|to
+façudo	adjetivo	fa|[çu]|do
+fácula	nome feminino	[fá]|cu|la
+faculdade	nome feminino	fa|cul|[da]|de
+facultade	nome feminino	fa|cul|[ta]|de
+facultado	adjetivo	fa|cul|[ta]|do
+facultar	verbo	fa|cul|[tar]
+facultativa	nome feminino	fa|cul|ta|[ti]|va
+facultativamente	advérbio	fa|cul|ta|ti|va|[men]|te
+facultativo	adjetivo	fa|cul|ta|[ti]|vo
+facultativo	nome masculino	fa|cul|ta|[ti]|vo
+facultável	adjetivo	fa|cul|[tá]|vel
+facultoso	adjetivo	fa|cul|[to]|so
+facúndia	nome feminino	fa|[cún]|di|a
+facundidade	nome feminino	fa|cun|di|[da]|de
+facundo	adjetivo	fa|[cun]|do
+fada	nome feminino	[fa]|da
+fadado	adjetivo	fa|[da]|do
+fadar	verbo	fa|[dar]
+fadário	nome masculino	fa|[dá]|ri|o
+fadejar	verbo	fa|de|[jar]
+fadiá	nome masculino	fa|di|[á]
+fádico	adjetivo	[fá]|di|co
+fadiga	nome feminino	fa|[di]|ga
+fadigar	verbo	fa|di|[gar]
+fadigosamente	advérbio	fa|di|go|sa|[men]|te
+fadigoso	adjetivo	fa|di|[go]|so
+fadinho	nome masculino	fa|[di]|nho
+fadista	nome masculino	fa|[dis]|ta
+fadista	nome feminino	fa|[dis]|ta
+fadistagem	nome feminino	fa|dis|[ta]|gem
+fadistal	adjetivo	fa|dis|[tal]
+fadistão	nome masculino	fa|dis|[tão]
+fadistar	verbo	fa|dis|[tar]
+fadistice	nome feminino	fa|dis|[ti]|ce
+fadistismo	nome masculino	fa|dis|[tis]|mo
+fado	nome masculino	[fa]|do
+faduncho	nome masculino	fa|[dun]|cho
+faena	nome feminino	fa|[e]|na
+fáeton	nome masculino	[fá]|e|ton
+faetonte	nome masculino	fa|e|[ton]|te
+faetonteu	adjetivo	fa|e|ton|[teu]
+faetontídeo	nome feminino	fa|e|ton|[tí]|de|o
+faetontídeo	adjetivo	fa|e|ton|[tí]|de|o
+fafense	adjetivo	fa|[fen]|se
+fafense	nome masculino	fa|[fen]|se
+fafense	nome feminino	fa|[fen]|se
+fafetine	nome masculino	fa|fe|[ti]|ne
+fagácea	nome feminino	fa|[gá]|ce|a
+fagáceo	adjetivo	fa|[gá]|ce|o
+fagedena	nome feminino	fa|ge|[de]|na
+fagedénico	adjetivo	fa|ge|[dé]|ni|co
+fagedênico	adjetivo	fa|ge|[dê]|ni|co
+fagedenismo	nome masculino	fa|ge|de|[nis]|mo
+fagícola	adjetivo	fa|[gí]|co|la
+fago	nome masculino	[fa]|go
+fagocitário	adjetivo	fa|go|ci|[tá]|ri|o
+fagócito	nome masculino	fa|[gó]|ci|to
+fagocitose	nome feminino	fa|go|ci|[to]|se
+fagólise	nome feminino	fa|[gó]|li|se
+fagolítico	adjetivo	fa|go|[lí]|ti|co
+fagomania	nome feminino	fa|go|ma|[ni]|a
+fagonia	nome feminino	fa|go|[ni]|a
+fagópiro	nome masculino	fa|[gó]|pi|ro
+fagossoma	nome masculino	fa|gos|[so]|ma
+fagote	nome masculino	fa|[go]|te
+fagoterapia	nome feminino	fa|go|te|ra|[pi]|a
+fagoterápico	adjetivo	fa|go|te|[rá]|pi|co
+fagotista	nome masculino	fa|go|[tis]|ta
+fagotista	nome feminino	fa|go|[tis]|ta
+fagueiramente	advérbio	fa|guei|ra|[men]|te
+fagueiro	adjetivo	fa|[guei]|ro
+faguice	nome feminino	fa|[gui]|ce
+fagulha	nome masculino	fa|[gu]|lha
+fagulha	nome feminino	fa|[gu]|lha
+fagulhação	nome feminino	fa|gu|lha|[ção]
+fagulhante	adjetivo	fa|gu|[lhan]|te
+fagulhar	verbo	fa|gu|[lhar]
+fagulharia	nome feminino	fa|gu|lha|[ri]|a
+fagulheiro	nome masculino	fa|gu|[lhei]|ro
+fagulhento	adjetivo	fa|gu|[lhen]|to
+fagundes	nome masculino	fa|[gun]|des
+fahrenheit	adjetivo	fah|re|nheit
+faia	nome masculino	[fai]|a
+faia	nome feminino	[fai]|a
+faia-branca	nome feminino	fai|a-bran|ca
+faia-preta	nome feminino	fai|a-pre|ta
+faial	nome masculino	fai|[al]
+faialense	adjetivo	fai|a|[len]|se
+faialense	nome masculino	fai|a|[len]|se
+faialense	nome feminino	fai|a|[len]|se
+faialita	nome feminino	fai|a|[li]|ta

@@ -1,0 +1,100 @@
+interpretável	adjetivo	in|ter|pre|[tá]|vel
+intérprete	nome masculino	in|[tér]|pre|te
+intérprete	nome feminino	in|[tér]|pre|te
+interprofissional	adjetivo	in|ter|pro|fis|si|o|[nal]
+interprovincial	adjetivo	in|ter|pro|vin|ci|[al]
+interquartil	nome masculino	in|ter|quar|[til]
+interregno	nome masculino	in|ter|[reg]|no
+intérrito	adjetivo	in|[tér]|ri|to
+interrogação	nome feminino	in|ter|ro|ga|[ção]
+interrogado	adjetivo	in|ter|ro|[ga]|do
+interrogado	nome masculino	in|ter|ro|[ga]|do
+interrogador	adjetivo	in|ter|ro|ga|[dor]
+interrogador	nome masculino	in|ter|ro|ga|[dor]
+interrogadora	nome feminino	in|ter|ro|ga|[do]|ra
+interrogadoramente	advérbio	in|ter|ro|ga|do|ra|[men]|te
+interrogamento	nome masculino	in|ter|ro|ga|[men]|to
+interrogante	adjetivo	in|ter|ro|[gan]|te
+interrogante	nome masculino	in|ter|ro|[gan]|te
+interrogante	nome feminino	in|ter|ro|[gan]|te
+interrogar	verbo	in|ter|ro|[gar]
+interrogativa	nome feminino	in|ter|ro|ga|[ti]|va
+interrogativamente	advérbio	in|ter|ro|ga|ti|va|[men]|te
+interrogativo	adjetivo	in|ter|ro|ga|[ti]|vo
+interrogativo	nome masculino	in|ter|ro|ga|[ti]|vo
+interrogativo-exclamativo	adjetivo	in|ter|ro|ga|ti|vo-ex|cla|ma|[ti]|vo
+interrogatório	adjetivo	in|ter|ro|ga|[tó]|ri|o
+interrogatório	nome masculino	in|ter|ro|ga|[tó]|ri|o
+interrogável	adjetivo	in|ter|ro|[gá]|vel
+interrompedor	adjetivo	in|ter|rom|pe|[dor]
+interrompedor	nome masculino	in|ter|rom|pe|[dor]
+interromper	verbo	in|ter|rom|[per]
+interrompido	adjetivo	in|ter|rom|[pi]|do
+interrompível	adjetivo	in|ter|rom|[pí]|vel
+interrupção	nome feminino	in|ter|rup|[ção]
+interruptamente	advérbio	in|ter|rup|ta|[men]|te
+interruptivo	adjetivo	in|ter|rup|[ti]|vo
+interrupto	adjetivo	in|ter|[rup]|to
+interruptor	adjetivo	in|ter|rup|[tor]
+interruptor	nome masculino	in|ter|rup|[tor]
+interruptora	nome feminino	in|ter|rup|[to]|ra
+interrutor	nome masculino	in|ter|ru|[tor]
+interrutor	adjetivo	in|ter|ru|[tor]
+interrutora	nome feminino	in|ter|ru|[to]|ra
+interscálmio	nome masculino	in|ters|[cál]|mi|o
+interseção	nome feminino	in|ter|se|[ção]
+intersecção	nome feminino	in|ter|sec|[ção]
+interseccional	adjetivo	in|ter|sec|ci|o|[nal]
+interseccionismo	nome masculino	in|ter|sec|ci|o|[nis]|mo
+intersecional	adjetivo	in|ter|se|ci|o|[nal]
+intersecionismo	nome masculino	in|ter|se|ci|o|[nis]|mo
+intersectar	verbo	in|ter|sec|[tar]
+interserir	verbo	in|ter|se|[rir]
+intersetar	verbo	in|ter|se|[tar]
+intersexual	adjetivo	in|ter|se|xu|[al]
+intersexualidade	nome feminino	in|ter|se|xu|a|li|[da]|de
+intersideral	adjetivo	in|ter|si|de|[ral]
+intersilhado	adjetivo	in|ter|si|[lha]|do
+intersindical	adjetivo	in|ter|sin|di|[cal]
+intersocial	adjetivo	in|ter|so|ci|[al]
+interspinoso	adjetivo	in|ters|pi|[no]|so
+interstelar	adjetivo	in|ters|te|[lar]
+intersticial	adjetivo	in|ters|ti|ci|[al]
+interstício	nome masculino	in|ters|[tí]|ci|o
+intersubjetividade	nome feminino	in|ter|sub|je|ti|vi|[da]|de
+intersubjetivo	adjetivo	in|ter|sub|je|[ti]|vo
+interterritorial	adjetivo	in|ter|ter|ri|to|ri|[al]
+intertexto	nome masculino	in|ter|[tex]|to
+intertextual	adjetivo	in|ter|tex|tu|[al]
+intertextualidade	nome feminino	in|ter|tex|tu|a|li|[da]|de
+intertipo	nome feminino	in|ter|[ti]|po
+intertransversário	adjetivo	in|ter|trans|ver|[sá]|ri|o
+intertrigem	nome feminino	in|ter|[tri]|gem
+intertriginoso	adjetivo	in|ter|tri|gi|[no]|so
+intertrigo	nome masculino	in|ter|[tri]|go
+intertropical	adjetivo	in|ter|tro|pi|[cal]
+interuniversitário	adjetivo	in|te|ru|ni|ver|si|[tá]|ri|o
+interurbano	adjetivo	in|te|rur|[ba]|no
+interutricular	adjetivo	in|te|ru|tri|cu|[lar]
+intervaladamente	advérbio	in|ter|va|la|da|[men]|te
+intervalado	adjetivo	in|ter|va|[la]|do
+intervalar	verbo	in|ter|va|[lar]
+intervalar	adjetivo	in|ter|va|[lar]
+intervalarmente	advérbio	in|ter|va|lar|[men]|te
+intervaleiro	nome masculino	in|ter|va|[lei]|ro
+intervalo	nome masculino	in|ter|[va]|lo
+intervenção	nome feminino	in|ter|ven|[ção]
+intervencionado	adjetivo	in|ter|ven|ci|o|[na]|do
+intervencionar	verbo	in|ter|ven|ci|o|[nar]
+intervencionismo	nome masculino	in|ter|ven|ci|o|[nis]|mo
+intervencionista	adjetivo	in|ter|ven|ci|o|[nis]|ta
+intervencionista	nome masculino	in|ter|ven|ci|o|[nis]|ta
+intervencionista	nome feminino	in|ter|ven|ci|o|[nis]|ta
+interveniência	nome feminino	in|ter|ve|ni|[ên]|ci|a
+interveniente	nome masculino	in|ter|ve|ni|[en]|te
+interveniente	adjetivo	in|ter|ve|ni|[en]|te
+interveniente	nome feminino	in|ter|ve|ni|[en]|te
+interventivamente	advérbio	in|ter|ven|ti|va|[men]|te
+interventivo	adjetivo	in|ter|ven|[ti]|vo
+interventor	adjetivo	in|ter|ven|[tor]
+interventor	nome masculino	in|ter|ven|[tor]

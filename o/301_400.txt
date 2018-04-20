@@ -1,0 +1,100 @@
+obsessivo	nome masculino	ob|ses|[si]|vo
+obsessivo-compulsivo	adjetivo	ob|ses|si|vo-com|pul|[si]|vo
+obsesso	nome masculino	ob|[ses]|so
+obsesso	adjetivo	ob|[ses]|so
+obsessor	adjetivo	ob|ses|[sor]
+obsessor	nome masculino	ob|ses|[sor]
+obsessora	nome feminino	ob|ses|[so]|ra
+obsiana	nome feminino	ob|si|[a]|na
+obsidente	adjetivo	ob|si|[den]|te
+obsidente	nome masculino	ob|si|[den]|te
+obsidente	nome feminino	ob|si|[den]|te
+obsidiana	nome feminino	ob|si|di|[a]|na
+obsidiante	adjetivo	ob|si|di|[an]|te
+obsidiar	verbo	ob|si|di|[ar]
+obsidional	adjetivo	ob|si|di|o|[nal]
+obsignador	nome masculino	ob|sig|na|[dor]
+obsolescência	nome feminino	ob|so|les|[cên]|ci|a
+obsolescente	adjetivo	ob|so|les|[cen]|te
+obsoletismo	nome masculino	ob|so|le|[tis]|mo
+obsoleto	adjetivo	ob|so|[le]|to
+obstaculizar	verbo	obs|ta|cu|li|[zar]
+obstáculo	nome masculino	obs|[tá]|cu|lo
+obstante	adjetivo	obs|[tan]|te
+obstar	verbo	obs|[tar]
+obstativo	adjetivo	obs|ta|[ti]|vo
+obstável	adjetivo	obs|[tá]|vel
+obstetra	nome masculino	obs|[te]|tra
+obstetra	nome feminino	obs|[te]|tra
+obstétrica	nome feminino	obs|[té]|tri|ca
+obstetrical	adjetivo	obs|te|tri|[cal]
+obstetricano	nome masculino	obs|te|tri|[ca]|no
+obstetrícia	nome feminino	obs|te|[trí]|ci|a
+obstetrício	adjetivo	obs|te|[trí]|ci|o
+obstétrico	adjetivo	obs|[té]|tri|co
+obstetriz	nome feminino	obs|te|[triz]
+obstinação	nome feminino	obs|ti|na|[ção]
+obstinada	nome feminino	obs|ti|[na]|da
+obstinadamente	advérbio	obs|ti|na|da|[men]|te
+obstinado	adjetivo	obs|ti|[na]|do
+obstinado	nome masculino	obs|ti|[na]|do
+obstinar	verbo	obs|ti|[nar]
+obstipação	nome feminino	obs|ti|pa|[ção]
+obstipante	adjetivo	obs|ti|[pan]|te
+obstipar	verbo	obs|ti|[par]
+obstipidade	nome feminino	obs|ti|pi|[da]|de
+obstringir	verbo	obs|trin|[gir]
+obstrito	adjetivo	obs|[tri]|to
+obstrução	nome feminino	obs|tru|[ção]
+obstrucionismo	nome masculino	obs|tru|ci|o|[nis]|mo
+obstrucionista	nome masculino	obs|tru|ci|o|[nis]|ta
+obstrucionista	adjetivo	obs|tru|ci|o|[nis]|ta
+obstrucionista	nome feminino	obs|tru|ci|o|[nis]|ta
+obstruente	adjetivo	obs|tru|[en]|te
+obstruído	adjetivo	obs|tru|[í]|do
+obstruir	verbo	obs|tru|[ir]
+obstruível	adjetivo	obs|tru|[í]|vel
+obstrutivo	adjetivo	obs|tru|[ti]|vo
+obstrutor	adjetivo	obs|tru|[tor]
+obstrutor	nome masculino	obs|tru|[tor]
+obstrutora	nome feminino	obs|tru|[to]|ra
+obstupefação	nome feminino	obs|tu|pe|fa|[ção]
+obstupefacto	adjetivo	obs|tu|pe|[fac]|to
+obstupefato	adjetivo	obs|tu|pe|[fa]|to
+obstúpido	adjetivo	obs|[tú]|pi|do
+obsubulado	adjetivo	ob|su|bu|[la]|do
+obsutural	adjetivo	ob|su|tu|[ral]
+obtéctea	nome feminino	ob|[téc]|te|a
+obtemperação	nome feminino	ob|tem|pe|ra|[ção]
+obtemperante	adjetivo	ob|tem|pe|[ran]|te
+obtemperar	verbo	ob|tem|pe|[rar]
+obtenção	nome feminino	ob|ten|[ção]
+obtenível	adjetivo	ob|te|[ní]|vel
+obtentor	adjetivo	ob|ten|[tor]
+obtentor	nome masculino	ob|ten|[tor]
+obter	verbo	ob|[ter]
+obtestação	nome feminino	ob|tes|ta|[ção]
+obtestar	verbo	ob|tes|[tar]
+obtido	adjetivo	ob|[ti]|do
+obtundente	adjetivo	ob|tun|[den]|te
+obtundir	verbo	ob|tun|[dir]
+obturação	nome feminino	ob|tu|ra|[ção]
+obturador	nome masculino	ob|tu|ra|[dor]
+obturador	adjetivo	ob|tu|ra|[dor]
+obturante	adjetivo	ob|tu|[ran]|te
+obturante	nome masculino	ob|tu|[ran]|te
+obturar	verbo	ob|tu|[rar]
+obturável	adjetivo	ob|tu|[rá]|vel
+obturbinado	adjetivo	ob|tur|bi|[na]|do
+obtusado	adjetivo	ob|tu|[sa]|do
+obtusamente	advérbio	ob|tu|sa|[men]|te
+obtusangulado	adjetivo	ob|tu|san|gu|[la]|do
+obtusângulo	adjetivo	ob|tu|[sân]|gu|lo
+obtusão	nome feminino	ob|tu|[são]
+obtusidade	nome feminino	ob|tu|si|[da]|de
+obtusífido	adjetivo	ob|tu|[sí]|fi|do
+obtusifloro	adjetivo	ob|tu|si|[flo]|ro
+obtusifoliado	adjetivo	ob|tu|si|fo|li|[a]|do
+obtusifólio	adjetivo	ob|tu|si|[fó]|li|o
+obtusilíngue	adjetivo	ob|tu|si|[lín]|gue
+obtusilobulado	adjetivo	ob|tu|si|lo|bu|[la]|do

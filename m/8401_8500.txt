@@ -1,0 +1,100 @@
+mistificador	nome masculino	mis|ti|fi|ca|[dor]
+mistificadora	nome feminino	mis|ti|fi|ca|[do]|ra
+mistificante	adjetivo	mis|ti|fi|[can]|te
+mistificar	verbo	mis|ti|fi|[car]
+mistificatório	adjetivo	mis|ti|fi|ca|[tó]|ri|o
+mistificável	adjetivo	mis|ti|fi|[cá]|vel
+mistifório	nome masculino	mis|ti|[fó]|ri|o
+mistilíneo	adjetivo	mis|ti|[lí]|ne|o
+mistilíngue	adjetivo	mis|ti|[lín]|gue
+mistilingue	adjetivo	mis|ti|[lin]|gue
+mistinérveo	adjetivo	mis|ti|[nér]|ve|o
+mistiternário	adjetivo	mis|ti|ter|[ná]|ri|o
+mistitriunitário	adjetivo	mis|ti|triu|ni|[tá]|ri|o
+mistiunibinário	adjetivo	mis|tiu|ni|bi|[ná]|ri|o
+misto	nome masculino	[mis]|to
+misto	adjetivo	[mis]|to
+mistonco	nome masculino	mis|[ton]|co
+mistral	nome masculino	mis|[tral]
+mistro	nome masculino	[mis]|tro
+mistura	nome feminino	mis|[tu]|ra
+misturação	nome feminino	mis|tu|ra|[ção]
+misturada	nome feminino	mis|tu|[ra]|da
+misturadeira	nome feminino	mis|tu|ra|[dei]|ra
+misturado	adjetivo	mis|tu|[ra]|do
+misturador	adjetivo	mis|tu|ra|[dor]
+misturador	nome masculino	mis|tu|ra|[dor]
+misturadora	nome feminino	mis|tu|ra|[do]|ra
+misturar	verbo	mis|tu|[rar]
+misturável	adjetivo	mis|tu|[rá]|vel
+mistureiro	nome masculino	mis|tu|[rei]|ro
+mísula	nome feminino	[mí]|su|la
+mitacismo	nome masculino	mi|ta|[cis]|mo
+mitene	nome feminino	mi|[te]|ne
+miticamente	advérbio	mi|ti|ca|[men]|te
+mítico	adjetivo	[mí]|ti|co
+mitificação	nome feminino	mi|ti|fi|ca|[ção]
+mitificado	adjetivo	mi|ti|fi|[ca]|do
+mitificador	adjetivo	mi|ti|fi|ca|[dor]
+mitificador	nome masculino	mi|ti|fi|ca|[dor]
+mitificante	adjetivo	mi|ti|fi|[can]|te
+mitificar	verbo	mi|ti|fi|[car]
+mitificável	adjetivo	mi|ti|fi|[cá]|vel
+mitigação	nome feminino	mi|ti|ga|[ção]
+mitigado	adjetivo	mi|ti|[ga]|do
+mitigador	adjetivo	mi|ti|ga|[dor]
+mitigador	nome masculino	mi|ti|ga|[dor]
+mitigadora	nome feminino	mi|ti|ga|[do]|ra
+mitigante	adjetivo	mi|ti|[gan]|te
+mitigar	verbo	mi|ti|[gar]
+mitigativo	adjetivo	mi|ti|ga|[ti]|vo
+mitigatório	adjetivo	mi|ti|ga|[tó]|ri|o
+mitigável	adjetivo	mi|ti|[gá]|vel
+mitileneu	adjetivo	mi|ti|le|[neu]
+mitileneu	nome masculino	mi|ti|le|[neu]
+mitilense	adjetivo	mi|ti|[len]|se
+mitilense	nome masculino	mi|ti|[len]|se
+mitilense	nome feminino	mi|ti|[len]|se
+mitilícola	adjetivo	mi|ti|[lí]|co|la
+mitilicultor	adjetivo	mi|ti|li|cul|[tor]
+mitilicultor	nome masculino	mi|ti|li|cul|[tor]
+mitilicultura	nome feminino	mi|ti|li|cul|[tu]|ra
+mitílida	nome masculino	mi|[tí]|li|da
+mitílida	nome masculino	mi|[tí]|li|da
+mitilídeo	nome masculino	mi|ti|[lí]|de|o
+mitilídeo	nome masculino	mi|ti|[lí]|de|o
+mitilídeo	adjetivo	mi|ti|[lí]|de|o
+mitilotoxina	nome feminino	mi|ti|lo|to|[xi]|na
+mitismo	nome masculino	mi|[tis]|mo
+mito	nome masculino	[mi]|to
+mitocôndria	nome feminino	mi|to|[côn]|dri|a
+mitocondrial	adjetivo	mi|to|con|dri|[al]
+mitocôndrico	adjetivo	mi|to|[côn]|dri|co
+mitógrafa	nome feminino	mi|[tó]|gra|fa
+mitografia	nome feminino	mi|to|gra|[fi]|a
+mitográfico	adjetivo	mi|to|[grá]|fi|co
+mitógrafo	nome masculino	mi|[tó]|gra|fo
+mitóloga	nome feminino	mi|[tó]|lo|ga
+mitologia	nome feminino	mi|to|lo|[gi]|a
+mitologicamente	advérbio	mi|to|lo|gi|ca|[men]|te
+mitológico	adjetivo	mi|to|[ló]|gi|co
+mitologismo	nome masculino	mi|to|lo|[gis]|mo
+mitologista	nome masculino	mi|to|lo|[gis]|ta
+mitologista	nome feminino	mi|to|lo|[gis]|ta
+mitólogo	nome masculino	mi|[tó]|lo|go
+mitómana	nome feminino	mi|[tó]|ma|na
+mitomania	nome feminino	mi|to|ma|[ni]|a
+mitomaníaco	adjetivo	mi|to|ma|[ní]|a|co
+mitomaníaco	nome masculino	mi|to|ma|[ní]|a|co
+mitômano	adjetivo	mi|[tô]|ma|no
+mitômano	nome masculino	mi|[tô]|ma|no
+mitómano	adjetivo	mi|[tó]|ma|no
+mitómano	nome masculino	mi|[tó]|ma|no
+mitombo	nome masculino	mi|[tom]|bo
+mitonde	nome masculino	mi|[ton]|de
+mitonímia	nome feminino	mi|to|[ní]|mi|a
+mitonímico	adjetivo	mi|to|[ní]|mi|co
+mitônimo	nome masculino	mi|[tô]|ni|mo
+mitónimo	nome masculino	mi|[tó]|ni|mo
+mitopoese	nome feminino	mi|to|po|[e]|se
+mitopoética	nome feminino	mi|to|po|[é]|ti|ca

@@ -1,0 +1,100 @@
+pelioma	nome masculino	pe|li|[o]|ma
+peliose	nome feminino	pe|li|[o]|se
+peliqueiro	nome masculino	pe|li|[quei]|ro
+pelitaria	nome feminino	pe|li|ta|[ri]|a
+peliteiro	nome masculino	pe|li|[tei]|ro
+pelítico	adjetivo	pe|[lí]|ti|co
+pelitina	nome feminino	pe|li|[ti]|na
+pelito	nome masculino	pe|[li]|to
+pelitrapo	nome masculino	pe|li|[tra]|po
+pelitre	nome masculino	pe|[li]|tre
+pelmatozoário	adjetivo	pel|ma|to|zo|[á]|ri|o
+pelmatozoário	nome masculino	pel|ma|to|zo|[á]|ri|o
+pelo	nome masculino	[pe]|lo
+pelo	contração	[pe]|lo
+pelóbata	nome masculino	pe|[ló]|ba|ta
+pelobatídeo	nome masculino	pe|lo|ba|[tí]|de|o
+peloconite	nome feminino	pe|lo|co|[ni]|te
+pelógeno	adjetivo	pe|[ló]|ge|no
+peloirada	nome feminino	pe|loi|[ra]|da
+peloirinho	nome masculino	pe|loi|[ri]|nho
+peloiro	nome masculino	pe|[loi]|ro
+pelomancia	nome feminino	pe|lo|man|[ci]|a
+pelomante	nome masculino	pe|lo|[man]|te
+pelomante	nome feminino	pe|lo|[man]|te
+pelomântico	adjetivo	pe|lo|[mân]|ti|co
+pelónia	nome feminino	pe|[ló]|ni|a
+pelônia	nome feminino	pe|[lô]|ni|a
+pelópico	adjetivo	pe|[ló]|pi|co
+pelópio	nome masculino	pe|[ló]|pi|o
+peloponense	nome masculino	pe|lo|po|[nen]|se
+peloponense	adjetivo	pe|lo|po|[nen]|se
+peloponense	nome feminino	pe|lo|po|[nen]|se
+peloponésia	nome feminino	pe|lo|po|[né]|si|a
+peloponesíaca	nome feminino	pe|lo|po|ne|[sí]|a|ca
+peloponesíaco	adjetivo	pe|lo|po|ne|[sí]|a|co
+peloponesíaco	nome masculino	pe|lo|po|ne|[sí]|a|co
+peloponésio	adjetivo	pe|lo|po|[né]|si|o
+peloponésio	nome masculino	pe|lo|po|[né]|si|o
+peloria	nome feminino	pe|lo|[ri]|a
+peloso	adjetivo	pe|[lo]|so
+pelossiderite	nome feminino	pe|los|si|de|[ri]|te
+pelota	nome feminino	pe|[lo]|ta
+pelotada	nome feminino	pe|lo|[ta]|da
+pelotão	nome masculino	pe|lo|[tão]
+pelotar	nome masculino	pe|lo|[tar]
+pelotário	nome masculino	pe|lo|[tá]|ri|o
+pelote	nome masculino	pe|[lo]|te
+pelotear	verbo	pe|lo|te|[ar]
+peloteiro	nome masculino	pe|lo|[tei]|ro
+pelotense	adjetivo	pe|lo|[ten]|se
+pelotense	nome masculino	pe|lo|[ten]|se
+pelotense	nome feminino	pe|lo|[ten]|se
+pelotica	nome feminino	pe|lo|[ti]|ca
+pelotilha	nome feminino	pe|lo|[ti]|lha
+pelotina	nome feminino	pe|lo|[ti]|na
+pelotiqueiro	nome masculino	pe|lo|ti|[quei]|ro
+pelotiquice	nome feminino	pe|lo|ti|[qui]|ce
+pelotro	nome masculino	pe|[lo]|tro
+pelourada	nome feminino	pe|lou|[ra]|da
+pelourinho	nome masculino	pe|lou|[ri]|nho
+pelouro	nome masculino	pe|[lou]|ro
+pelta	nome feminino	[pel]|ta
+peltado	adjetivo	pel|[ta]|do
+peltária	nome feminino	pel|[tá]|ri|a
+peltasta	nome masculino	pel|[tas]|ta
+pelteno	adjetivo	pel|[te]|no
+pelteno	nome masculino	pel|[te]|no
+peltífido	adjetivo	pel|[tí]|fi|do
+peltifólio	adjetivo	pel|ti|[fó]|li|o
+peltiforme	adjetivo	pel|ti|[for]|me
+peltígera	nome feminino	pel|[tí]|ge|ra
+peltinérveo	adjetivo	pel|ti|[nér]|ve|o
+peltipartido	adjetivo	pel|ti|par|[ti]|do
+peltocéfalo	adjetivo	pel|to|[cé]|fa|lo
+peltospermo	nome masculino	pel|tos|[per]|mo
+peltre	nome masculino	[pel]|tre
+peltre	adjetivo	[pel]|tre
+peltuinate	nome masculino	pel|tui|[na]|te
+peltuinate	adjetivo	pel|tui|[na]|te
+peltuinate	nome feminino	pel|tui|[na]|te
+peltuíno	adjetivo	pel|tu|[í]|no
+peltuíno	nome masculino	pel|tu|[í]|no
+peluche	nome masculino	pe|[lu]|che
+pelúcia	nome feminino	pe|[lú]|ci|a
+pelúcido	adjetivo	pe|[lú]|ci|do
+peluda	nome feminino	pe|[lu]|da
+peludear	verbo	pe|lu|de|[ar]
+peludo	adjetivo	pe|[lu]|do
+peludo	nome masculino	pe|[lu]|do
+pelugem	nome feminino	pe|[lu]|gem
+peluginoso	adjetivo	pe|lu|gi|[no]|so
+pelusíaco	adjetivo	pe|lu|[sí]|a|co
+pelusíaco	nome masculino	pe|lu|[sí]|a|co
+pelusiano	adjetivo	pe|lu|si|[a]|no
+pelusiota	adjetivo	pe|lu|si|[o]|ta
+pelusiota	nome masculino	pe|lu|si|[o]|ta
+pelusiota	nome feminino	pe|lu|si|[o]|ta
+pelváptero	adjetivo	pel|[váp]|te|ro
+pelve	nome feminino	[pel]|ve
+pélvi	adjetivo	[pél]|vi

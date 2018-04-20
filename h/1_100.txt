@@ -1,0 +1,100 @@
+hã	interjeição	[hã]
+há	nome masculino	[há]
+há-de-haver	nome masculino	há-de-ha|[ver]
+habanera	nome feminino	ha|ba|[ne]|ra
+habé	adjetivo	ha|[bé]
+habé	nome masculino	ha|[bé]
+habé	nome feminino	ha|[bé]
+habena	nome feminino	ha|[be]|na
+hábia	nome feminino	[há]|bi|a
+hábil	adjetivo	[há]|bil
+habilidade	nome feminino	ha|bi|li|[da]|de
+habilidosa	nome feminino	ha|bi|li|[do]|sa
+habilidosamente	advérbio	ha|bi|li|do|sa|[men]|te
+habilidoso	adjetivo	ha|bi|li|[do]|so
+habilidoso	nome masculino	ha|bi|li|[do]|so
+habilitação	nome feminino	ha|bi|li|ta|[ção]
+habilitado	adjetivo	ha|bi|li|[ta]|do
+habilitador	adjetivo	ha|bi|li|ta|[dor]
+habilitador	nome masculino	ha|bi|li|ta|[dor]
+habilitanço	nome masculino	ha|bi|li|[tan]|ço
+habilitando	adjetivo	ha|bi|li|[tan]|do
+habilitando	nome masculino	ha|bi|li|[tan]|do
+habilitante	adjetivo	ha|bi|li|[tan]|te
+habilitante	nome masculino	ha|bi|li|[tan]|te
+habilitante	nome feminino	ha|bi|li|[tan]|te
+habilitar	verbo	ha|bi|li|[tar]
+habilitável	adjetivo	ha|bi|li|[tá]|vel
+habilmente	advérbio	ha|bil|[men]|te
+habitabilidade	nome feminino	ha|bi|ta|bi|li|[da]|de
+habitação	nome feminino	ha|bi|ta|[ção]
+habitação-modelo	nome feminino	ha|bi|ta|ção-mo|[de]|lo
+habitacional	adjetivo	ha|bi|ta|ci|o|[nal]
+habitáculo	nome masculino	ha|bi|[tá]|cu|lo
+habitado	adjetivo	ha|bi|[ta]|do
+habitador	adjetivo	ha|bi|ta|[dor]
+habitador	nome masculino	ha|bi|ta|[dor]
+habitante	adjetivo	ha|bi|[tan]|te
+habitante	nome masculino	ha|bi|[tan]|te
+habitante	nome feminino	ha|bi|[tan]|te
+habitar	verbo	ha|bi|[tar]
+habitat	nome masculino	ha|bi|tat
+habitável	adjetivo	ha|bi|[tá]|vel
+hábito	nome masculino	[há]|bi|to
+habituação	nome feminino	ha|bi|tu|a|[ção]
+habituado	adjetivo	ha|bi|tu|[a]|do
+habitual	adjetivo	ha|bi|tu|[al]
+habitualidade	nome feminino	ha|bi|tu|a|li|[da]|de
+habitualismo	nome masculino	ha|bi|tu|a|[lis]|mo
+habitualmente	advérbio	ha|bi|tu|al|[men]|te
+habituante	adjetivo	ha|bi|tu|[an]|te
+habituar	verbo	ha|bi|tu|[ar]
+habituável	adjetivo	ha|bi|tu|[á]|vel
+habitude	nome feminino	ha|bi|[tu]|de
+habitudinário	adjetivo	ha|bi|tu|di|[ná]|ri|o
+habitué	nome masculino	ha|bi|tué
+habitus	nome masculino	ha|bi|[tus]
+haca	nome feminino	[ha]|ca
+hacaneia	nome feminino	ha|ca|[nei]|a
+hacata	nome feminino	ha|[ca]|ta
+hacer	nome masculino	ha|[cer]
+hacker	nome masculino	[hac]|ker
+hacker	nome feminino	[hac]|ker
+haco	nome masculino	[ha]|co
+haco	adjetivo	[ha]|co
+hacpólique	nome masculino	hac|[pó]|li|que
+hacube	nome masculino	ha|[cu]|be
+hadoque	nome masculino	ha|[do]|que
+haeckeliano	adjetivo	haec|ke|li|a|no
+hafalgesia	nome feminino	ha|fal|ge|[si]|a
+hafalgésico	adjetivo	ha|fal|[gé]|si|co
+hafiestesímetro	nome masculino	ha|fi|es|te|[sí]|me|tro
+háfnio	nome masculino	[háf]|ni|o
+hafométrico	adjetivo	ha|fo|[mé]|tri|co
+hagiastério	nome masculino	ha|gi|as|[té]|ri|o
+hágibe	nome masculino	[há]|gi|be
+hagiógrafa	nome feminino	ha|gi|[ó]|gra|fa
+hagiografia	nome feminino	ha|gi|o|gra|[fi]|a
+hagiográfico	adjetivo	ha|gi|o|[grá]|fi|co
+hagiografista	nome masculino	ha|gi|o|gra|[fis]|ta
+hagiografista	nome feminino	ha|gi|o|gra|[fis]|ta
+hagiógrafo	nome masculino	ha|gi|[ó]|gra|fo
+hagiolatria	nome feminino	ha|gi|o|la|[tri]|a
+hagiolátrico	adjetivo	ha|gi|o|[lá]|tri|co
+hagióloga	nome feminino	ha|gi|[ó]|lo|ga
+hagiologia	nome feminino	ha|gi|o|lo|[gi]|a
+hagiológico	adjetivo	ha|gi|o|[ló]|gi|co
+hagiológio	nome masculino	ha|gi|o|[ló]|gi|o
+hagiologista	nome masculino	ha|gi|o|lo|[gis]|ta
+hagiologista	nome feminino	ha|gi|o|lo|[gis]|ta
+hagiólogo	nome masculino	ha|gi|[ó]|lo|go
+hagiómaco	nome masculino	ha|gi|[ó]|ma|co
+hagiômaco	nome masculino	ha|gi|[ô]|ma|co
+hagiomaquia	nome feminino	ha|gi|o|ma|[qui]|a
+hagiomáquico	adjetivo	ha|gi|o|[má]|qui|co
+hagionímia	nome feminino	ha|gi|o|[ní]|mi|a
+hagionímico	adjetivo	ha|gi|o|[ní]|mi|co
+hagiônimo	nome masculino	ha|gi|[ô]|ni|mo
+hagiónimo	nome masculino	ha|gi|[ó]|ni|mo
+hagiossemantro	nome masculino	ha|gi|os|se|[man]|tro
+hagiossidero	nome masculino	ha|gi|os|si|[de]|ro

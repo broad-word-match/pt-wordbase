@@ -1,0 +1,100 @@
+lógico	nome masculino	[ló]|gi|co
+lógico	adjetivo	[ló]|gi|co
+login	nome masculino	lo|[gin]
+logística	nome feminino	lo|[gís]|ti|ca
+logisticamente	advérbio	lo|gis|ti|ca|[men]|te
+logístico	adjetivo	lo|[gís]|ti|co
+logístico	nome masculino	lo|[gís]|ti|co
+logo	advérbio	[lo]|go
+logo	conjunção	[lo]|go
+logo	nome masculino	[lo]|go
+logo-tenente	nome masculino	lo|go-te|[nen]|te
+logoclonia	nome feminino	lo|go|clo|[ni]|a
+logofania	nome feminino	lo|go|fa|[ni]|a
+logofobia	nome feminino	lo|go|fo|[bi]|a
+logófobo	adjetivo	lo|[gó]|fo|bo
+logografia	nome feminino	lo|go|gra|[fi]|a
+logográfico	adjetivo	lo|go|[grá]|fi|co
+logógrafo	nome masculino	lo|[gó]|gra|fo
+logograma	nome masculino	lo|go|[gra]|ma
+logogrífico	adjetivo	lo|go|[grí]|fi|co
+logogrifo	nome masculino	lo|go|[gri]|fo
+logomania	nome feminino	lo|go|ma|[ni]|a
+logomaníaco	adjetivo	lo|go|ma|[ní]|a|co
+logomaníaco	nome masculino	lo|go|ma|[ní]|a|co
+logómano	nome masculino	lo|[gó]|ma|no
+logômano	nome masculino	lo|[gô]|ma|no
+logomaquia	nome feminino	lo|go|ma|[qui]|a
+logomáquico	adjetivo	lo|go|[má]|qui|co
+logomarca	nome feminino	lo|go|[mar]|ca
+logopedia	nome feminino	lo|go|pe|[di]|a
+logopédico	adjetivo	lo|go|[pé]|di|co
+logopedista	nome feminino	lo|go|pe|[dis]|ta
+logopedista	nome masculino	lo|go|pe|[dis]|ta
+logorreia	nome feminino	lo|gor|[rei]|a
+logorreico	adjetivo	lo|gor|[rei]|co
+logorreico	nome masculino	lo|gor|[rei]|co
+logos	nome masculino	[lo]|gos
+logotecnia	nome feminino	lo|go|tec|[ni]|a
+logotécnico	nome masculino	lo|go|[téc]|ni|co
+logotécnico	adjetivo	lo|go|[téc]|ni|co
+logóteta	nome masculino	lo|[gó]|te|ta
+logótipo	nome masculino	lo|[gó]|ti|po
+logotipo	nome masculino	lo|go|[ti]|po
+logótropo	nome masculino	lo|[gó]|tro|po
+logração	nome feminino	lo|gra|[ção]
+logrado	adjetivo	lo|[gra]|do
+logradoiro	nome masculino	lo|gra|[doi]|ro
+logrador	adjetivo	lo|gra|[dor]
+logrador	nome masculino	lo|gra|[dor]
+logradouro	nome masculino	lo|gra|[dou]|ro
+logramento	nome masculino	lo|gra|[men]|to
+logrão	nome masculino	lo|[grão]
+lograr	verbo	lo|[grar]
+logrativamente	advérbio	lo|gra|ti|va|[men]|te
+logrativo	adjetivo	lo|gra|[ti]|vo
+logrável	adjetivo	lo|[grá]|vel
+logreiro	adjetivo	lo|[grei]|ro
+logreiro	nome masculino	lo|[grei]|ro
+logro	nome masculino	[lo]|gro
+logudorês	nome masculino	lo|gu|do|[rês]
+loguinho	advérbio	lo|[gui]|nho
+loibé	nome masculino	loi|[bé]
+loiça	nome feminino	[loi]|ça
+loiçaria	nome feminino	loi|ça|[ri]|a
+loiceira	nome feminino	loi|[cei]|ra
+loiceiro	nome masculino	loi|[cei]|ro
+loio	adjetivo	[loi]|o
+loio	nome masculino	[loi]|o
+loio-de-jardim	nome masculino	loi|o-de-jar|[dim]
+loio-do-jardim	nome masculino	loi|o-do-jar|[dim]
+loiolista	adjetivo	loi|o|[lis]|ta
+loiolista	nome masculino	loi|o|[lis]|ta
+loira	nome feminino	[loi]|ra
+loira	nome masculino	[loi]|ra
+loiraça	nome feminino	loi|[ra]|ça
+loiraça	nome masculino	loi|[ra]|ça
+loiraço	adjetivo	loi|[ra]|ço
+loiraço	nome masculino	loi|[ra]|ço
+loirar	verbo	loi|[rar]
+loirear	verbo	loi|re|[ar]
+loirecente	adjetivo	loi|re|[cen]|te
+loirecer	verbo	loi|re|[cer]
+loireira	nome feminino	loi|[rei]|ra
+loireiral	nome masculino	loi|rei|[ral]
+loireiro	nome masculino	loi|[rei]|ro
+loirejante	adjetivo	loi|re|[jan]|te
+loirejar	verbo	loi|re|[jar]
+loirejo	nome masculino	loi|[re]|jo
+loiro	adjetivo	[loi]|ro
+loiro	nome masculino	[loi]|ro
+loiro-cerejo	nome masculino	loi|ro-ce|[re]|jo
+loiro-rosa	nome masculino	loi|ro-ro|sa
+loiro-rosa	adjetivo	loi|ro-ro|sa
+loisa	nome feminino	[loi]|sa
+loisador	nome masculino	loi|sa|[dor]
+loisão	nome masculino	loi|[são]
+loiseira	nome feminino	loi|[sei]|ra
+loiseiro	nome masculino	loi|[sei]|ro
+loisífero	adjetivo	loi|[sí]|fe|ro
+loisinha	nome feminino	loi|[si]|nha

@@ -1,0 +1,100 @@
+albanesa	nome feminino	al|ba|[ne]|sa
+albano	adjetivo	al|[ba]|no
+albano	nome masculino	al|[ba]|no
+albarca	nome feminino	al|[bar]|ca
+albarda	nome feminino	al|[bar]|da
+albardada	nome feminino	al|bar|[da]|da
+albardado	adjetivo	al|bar|[da]|do
+albardador	adjetivo	al|bar|da|[dor]
+albardador	nome masculino	al|bar|da|[dor]
+albardadura	nome feminino	al|bar|da|[du]|ra
+albardão	nome masculino	al|bar|[dão]
+albardão	adjetivo	al|bar|[dão]
+albardar	verbo	al|bar|[dar]
+albardaria	nome feminino	al|bar|da|[ri]|a
+albardeira	nome feminino	al|bar|[dei]|ra
+albardeiro	nome masculino	al|bar|[dei]|ro
+albardeiro	adjetivo	al|bar|[dei]|ro
+albardilha	nome feminino	al|bar|[di]|lha
+albardina	nome feminino	al|bar|[di]|na
+albarela	nome feminino	al|ba|[re]|la
+albarelo	nome masculino	al|ba|[re]|lo
+albaricoque	nome masculino	al|ba|ri|[co]|que
+albarrã	nome feminino	al|bar|[rã]
+albarrada	nome feminino	al|bar|[ra]|da
+albatroz	nome masculino	al|ba|[troz]
+albedo	nome feminino	al|[be]|do
+albena	nome feminino	al|[be]|na
+albense	nome masculino	al|[ben]|se
+albense	adjetivo	al|[ben]|se
+albense	nome feminino	al|[ben]|se
+albente	adjetivo	al|[ben]|te
+alberca	nome feminino	al|[ber]|ca
+albercoque	nome masculino	al|ber|[co]|que
+albergador	adjetivo	al|ber|ga|[dor]
+albergador	nome masculino	al|ber|ga|[dor]
+albergagem	nome feminino	al|ber|[ga]|gem
+albergamento	nome masculino	al|ber|ga|[men]|to
+albergar	verbo	al|ber|[gar]
+albergaria	nome feminino	al|ber|ga|[ri]|a
+albergariense	adjetivo	al|ber|ga|ri|[en]|se
+albergariense	nome masculino	al|ber|ga|ri|[en]|se
+albergariense	nome feminino	al|ber|ga|ri|[en]|se
+albergável	adjetivo	al|ber|[gá]|vel
+albergue	nome masculino	al|[ber]|gue
+albergueiro	nome masculino	al|ber|[guei]|ro
+alberguista	nome masculino	al|ber|[guis]|ta
+alberguista	adjetivo	al|ber|[guis]|ta
+alberguista	nome feminino	al|ber|[guis]|ta
+albernó	nome masculino	al|ber|[nó]
+albernoz	nome masculino	al|ber|[noz]
+alberta	nome feminino	al|[ber]|ta
+albertina	nome feminino	al|ber|[ti]|na
+albertinho	nome masculino	al|ber|[ti]|nho
+alberto	nome masculino	al|[ber]|to
+albiano	adjetivo	al|bi|[a]|no
+albicastrense	nome masculino	al|bi|cas|[tren]|se
+albicastrense	adjetivo	al|bi|cas|[tren]|se
+albicastrense	nome feminino	al|bi|cas|[tren]|se
+albicaude	adjetivo	al|bi|[cau]|de
+albicaule	adjetivo	al|bi|[cau]|le
+albicense	nome masculino	al|bi|[cen]|se
+albicense	adjetivo	al|bi|[cen]|se
+albíceps	adjetivo	al|[bí]|ceps
+albicípite	adjetivo	al|bi|[cí]|pi|te
+albicole	adjetivo	al|bi|[co]|le
+albicórneo	adjetivo	al|bi|[cór]|ne|o
+albificação	nome feminino	al|bi|fi|ca|[ção]
+albificar	verbo	al|bi|fi|[car]
+albiflor	adjetivo	al|bi|[flor]
+albifloro	adjetivo	al|bi|[flo]|ro
+albigense	nome masculino	al|bi|[gen]|se
+albigense	adjetivo	al|bi|[gen]|se
+albigense	nome feminino	al|bi|[gen]|se
+albímano	adjetivo	al|[bí]|ma|no
+albina	nome feminino	al|[bi]|na
+albinágio	nome masculino	al|bi|[ná]|gi|o
+albinérveo	adjetivo	al|bi|[nér]|ve|o
+albingaunense	nome masculino	al|bin|gau|[nen]|se
+albingaunense	adjetivo	al|bin|gau|[nen]|se
+albingaunense	nome feminino	al|bin|gau|[nen]|se
+albingauno	adjetivo	al|bin|[gau]|no
+albingauno	nome masculino	al|bin|[gau]|no
+albinia	nome feminino	al|bi|[ni]|a
+albinismo	nome masculino	al|bi|[nis]|mo
+albino	adjetivo	al|[bi]|no
+albino	nome masculino	al|[bi]|no
+albintimiliense	nome masculino	al|bin|ti|mi|li|[en]|se
+albintimiliense	adjetivo	al|bin|ti|mi|li|[en]|se
+albintimiliense	nome feminino	al|bin|ti|mi|li|[en]|se
+albípede	adjetivo	al|[bí]|pe|de
+albipene	adjetivo	al|bi|[pe]|ne
+albirrosado	adjetivo	al|bir|ro|[sa]|do
+albirrostro	adjetivo	al|bir|[ros]|tro
+albita	nome feminino	al|[bi]|ta
+albite	nome feminino	al|[bi]|te
+albite	nome masculino	al|[bi]|te
+albítico	adjetivo	al|[bí]|ti|co
+albitito	nome masculino	al|bi|[ti]|to
+albitização	nome feminino	al|bi|ti|za|[ção]
+albitófiro	nome masculino	al|bi|[tó]|fi|ro

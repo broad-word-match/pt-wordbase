@@ -1,0 +1,100 @@
+antropotomia	nome feminino	an|tro|po|to|[mi]|a
+antropotômico	adjetivo	an|tro|po|[tô]|mi|co
+antropotómico	adjetivo	an|tro|po|[tó]|mi|co
+antropozoico	adjetivo	an|tro|po|[zoi]|co
+antrossalpingite	nome feminino	an|tros|sal|pin|[gi]|te
+antrotomia	nome feminino	an|tro|to|[mi]|a
+antrotômico	adjetivo	an|tro|[tô]|mi|co
+antrotómico	adjetivo	an|tro|[tó]|mi|co
+antrustião	nome masculino	an|trus|ti|[ão]
+antuerpiana	nome feminino	an|tu|er|pi|[a]|na
+antuerpiano	nome masculino	an|tu|er|pi|[a]|no
+antuerpiano	adjetivo	an|tu|er|pi|[a]|no
+antura	nome feminino	an|[tu]|ra
+anturídeo	nome masculino	an|tu|[rí]|de|o
+antúrio	nome masculino	an|[tú]|ri|o
+antusa	nome feminino	an|[tu]|sa
+antuviado	adjetivo	an|tu|vi|[a]|do
+anu	nome masculino	a|[nu]
+ânua	nome feminino	[â]|nu|a
+anual	adjetivo	a|nu|[al]
+anualidade	nome feminino	a|nu|a|li|[da]|de
+anualizar	verbo	a|nu|a|li|[zar]
+anualmente	advérbio	a|nu|al|[men]|te
+anuário	nome masculino	a|nu|[á]|ri|o
+anúduva	nome feminino	a|[nú]|du|va
+anuência	nome feminino	a|nu|[ên]|ci|a
+anuente	adjetivo	a|nu|[en]|te
+anuente	nome masculino	a|nu|[en]|te
+anuente	nome feminino	a|nu|[en]|te
+anuíba	nome feminino	a|nu|[í]|ba
+anuição	nome feminino	a|nu|i|[ção]
+anuidade	nome feminino	a|nu|i|[da]|de
+anuir	verbo	a|nu|[ir]
+anuitário	adjetivo	a|nu|i|[tá]|ri|o
+anujá	nome masculino	a|nu|[já]
+anulabilidade	nome feminino	a|nu|la|bi|li|[da]|de
+anulação	nome feminino	a|nu|la|[ção]
+anulado	adjetivo	a|nu|[la]|do
+anulador	adjetivo	a|nu|la|[dor]
+anulador	nome masculino	a|nu|la|[dor]
+anuladora	nome feminino	a|nu|la|[do]|ra
+anulamento	nome masculino	a|nu|la|[men]|to
+anulante	adjetivo	a|nu|[lan]|te
+anular	adjetivo	a|nu|[lar]
+anular	verbo	a|nu|[lar]
+anulativo	adjetivo	a|nu|la|[ti]|vo
+anulatório	adjetivo	a|nu|la|[tó]|ri|o
+anulável	adjetivo	a|nu|[lá]|vel
+anulicorne	adjetivo	a|nu|li|[cor]|ne
+anulífero	adjetivo	a|nu|[lí]|fe|ro
+ânulo	nome masculino	[â]|nu|lo
+anuloso	adjetivo	a|nu|[lo]|so
+anum	nome masculino	a|[num]
+anumeração	nome feminino	a|nu|me|ra|[ção]
+anumerar	verbo	a|nu|me|[rar]
+anunciação	nome feminino	a|nun|ci|a|[ção]
+anunciada	nome feminino	a|nun|ci|[a]|da
+anunciado	adjetivo	a|nun|ci|[a]|do
+anunciador	adjetivo	a|nun|ci|a|[dor]
+anunciador	nome masculino	a|nun|ci|a|[dor]
+anunciadora	nome feminino	a|nun|ci|a|[do]|ra
+anunciante	adjetivo	a|nun|ci|[an]|te
+anunciante	nome masculino	a|nun|ci|[an]|te
+anunciante	nome feminino	a|nun|ci|[an]|te
+anunciar	verbo	a|nun|ci|[ar]
+anunciativo	adjetivo	a|nun|ci|a|[ti]|vo
+anunciável	adjetivo	a|nun|ci|[á]|vel
+anúncio	nome masculino	a|[nún]|ci|o
+ânuo	adjetivo	[â]|nu|o
+anurese	nome feminino	a|nu|[re]|se
+anúria	nome feminino	a|[nú]|ri|a
+anúrico	adjetivo	a|[nú]|ri|co
+anuro	nome masculino	a|[nu]|ro
+ânus	nome masculino	[â]|nus
+anusvara	nome masculino	a|nus|[va]|ra
+anuviado	adjetivo	a|nu|vi|[a]|do
+anuviador	adjetivo	a|nu|vi|a|[dor]
+anuviador	nome masculino	a|nu|vi|a|[dor]
+anuviamento	nome masculino	a|nu|vi|a|[men]|to
+anuviar	verbo	a|nu|vi|[ar]
+anverso	nome masculino	an|[ver]|so
+anvula	nome feminino	an|[vu]|la
+anxurnate	adjetivo	an|xur|[na]|te
+anxurnate	nome masculino	an|xur|[na]|te
+anxurnate	nome feminino	an|xur|[na]|te
+anzaruto	nome masculino	an|za|[ru]|to
+anzico	adjetivo	an|[zi]|co
+anzico	nome masculino	an|[zi]|co
+anzol	nome masculino	an|[zol]
+anzolado	adjetivo	an|zo|[la]|do
+anzoleiro	nome masculino	an|zo|[lei]|ro
+anzolo	nome masculino	an|[zo]|lo
+anzolos	nome masculino	an|[zo]|los
+anzoneiro	adjetivo	an|zo|[nei]|ro
+anzoneiro	nome masculino	an|zo|[nei]|ro
+ao	contração	[ao]
+aonde	advérbio	a|[on]|de
+aonde	pronome relativo	a|[on]|de
+aonde	interjeição	a|[on]|de
+aónida	adjetivo	a|[ó]|ni|da

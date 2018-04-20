@@ -1,0 +1,100 @@
+quiloso	adjetivo	qui|[lo]|so
+quilostomatoplastia	nome feminino	qui|los|to|ma|to|plas|[ti]|a
+quilostomatoplástico	adjetivo	qui|los|to|ma|to|[plás]|ti|co
+quilóstomo	nome masculino	qui|[lós]|to|mo
+quilotonelada	nome feminino	qui|lo|to|ne|[la]|da
+quilovátio	nome masculino	qui|lo|[vá]|ti|o
+quilovátio-hora	nome masculino	qui|lo|vá|ti|o-ho|ra
+quilovolt	nome masculino	qui|[lo]|volt
+quilovolt-ampere	nome masculino	qui|lo|volt-am|[pe]|re
+quilovóltio-ampério	nome masculino	qui|lo|vól|ti|o-am|pé|ri|o
+quilowatt	nome masculino	qui|[lo]|watt
+quilowatt-hora	nome masculino	qui|lo|watt-ho|ra
+quiluanje	nome masculino	qui|lu|[an]|je
+quiluanza	nome feminino	qui|lu|[an]|za
+quilúbio	nome masculino	qui|[lú]|bi|o
+quilulo	nome masculino	qui|[lu]|lo
+quilumba	nome feminino	qui|[lum]|ba
+quilundo	nome masculino	qui|[lun]|do
+quilunje	nome masculino	qui|[lun]|je
+quilunza	nome feminino	qui|[lun]|za
+quilunzar	verbo	qui|lun|[zar]
+quilúria	nome feminino	qui|[lú]|ri|a
+quilúrico	adjetivo	qui|[lú]|ri|co
+quilúrico	nome masculino	qui|[lú]|ri|co
+quimalanca	nome feminino	qui|ma|[lan]|ca
+quimama	nome feminino	qui|[ma]|ma
+quimana	nome feminino	qui|[ma]|na
+quimanga	nome feminino	qui|[man]|ga
+quimangata	nome feminino	qui|man|[ga]|ta
+quimano	nome masculino	qui|[ma]|no
+quimão	nome masculino	qui|[mão]
+quimbala	nome feminino	quim|[ba]|la
+quimbamba	nome feminino	quim|[bam]|ba
+quimbanda	nome masculino	quim|[ban]|da
+quimbanda	nome feminino	quim|[ban]|da
+quimbanze	nome masculino	quim|[ban]|ze
+quimbar	nome masculino	quim|[bar]
+quimbári	nome masculino	quim|[bá]|ri
+quimbemba	nome feminino	quim|[bem]|ba
+quimbembé	nome masculino	quim|bem|[bé]
+quimbembe	nome masculino	quim|[bem]|be
+quimbembeques	nome masculino	quim|bem|[be]|ques
+quimbete	nome masculino	quim|[be]|te
+quimbimbe	nome masculino	quim|[bim]|be
+quimbo	nome masculino	[quim]|bo
+quimboa	nome feminino	quim|[bo]|a
+quimbólio	nome masculino	quim|[bó]|li|o
+quimbombeiro	nome masculino	quim|bom|[bei]|ro
+quimbombo	nome masculino	quim|[bom]|bo
+quimbondo	nome masculino	quim|[bon]|do
+quimbuca	nome feminino	quim|[bu]|ca
+quimbunda	nome feminino	quim|[bun]|da
+quimbundo	nome masculino	quim|[bun]|do
+quimbundo	adjetivo	quim|[bun]|do
+quimé	nome masculino	qui|[mé]
+quimenga	nome feminino	qui|[men]|ga
+quimera	nome feminino	qui|[me]|ra
+quimericamente	advérbio	qui|me|ri|ca|[men]|te
+quimérico	adjetivo	qui|[mé]|ri|co
+quimérida	nome masculino	qui|[mé]|ri|da
+quimerídeo	nome masculino	qui|me|[rí]|de|o
+quimerídeo	adjetivo	qui|me|[rí]|de|o
+quimerista	nome masculino	qui|me|[ris]|ta
+quimerista	nome feminino	qui|me|[ris]|ta
+quimerizar	verbo	qui|me|ri|[zar]
+quimi	nome masculino	qui|[mi]
+quimiatria	nome feminino	qui|mi|a|[tri]|a
+quimiátrico	adjetivo	qui|mi|[á]|tri|co
+quimiatro	nome masculino	qui|mi|[a]|tro
+química	nome feminino	[quí]|mi|ca
+quimicamente	advérbio	qui|mi|ca|[men]|te
+químico	nome masculino	[quí]|mi|co
+químico	adjetivo	[quí]|mi|co
+quimificação	nome feminino	qui|mi|fi|ca|[ção]
+quimificar	verbo	qui|mi|fi|[car]
+quimiluminescência	nome feminino	qui|mi|lu|mi|nes|[cên]|ci|a
+quimiluminescente	adjetivo	qui|mi|lu|mi|nes|[cen]|te
+quimioprofilaxia	nome feminino	qui|mi|o|pro|fi|la|[xi]|a
+quimiorreceção	nome feminino	qui|mi|or|re|ce|[ção]
+quimiorrecepção	nome feminino	qui|mi|or|re|cep|[ção]
+quimiorreceptividade	nome feminino	qui|mi|or|re|cep|ti|vi|[da]|de
+quimiorreceptivo	adjetivo	qui|mi|or|re|cep|[ti]|vo
+quimiorreceptor	nome masculino	qui|mi|or|re|cep|[tor]
+quimiorrecetividade	nome feminino	qui|mi|or|re|ce|ti|vi|[da]|de
+quimiorrecetivo	adjetivo	qui|mi|or|re|ce|[ti]|vo
+quimiorrecetor	nome masculino	qui|mi|or|re|ce|[tor]
+quimiosfera	nome feminino	qui|mi|os|[fe]|ra
+quimiossíntese	nome feminino	qui|mi|os|[sín]|te|se
+quimiotáctico	adjetivo	qui|mi|o|[tác]|ti|co
+quimiotactismo	nome masculino	qui|mi|o|tac|[tis]|mo
+quimiotático	adjetivo	qui|mi|o|[tá]|ti|co
+quimiotatismo	nome masculino	qui|mi|o|ta|[tis]|mo
+quimiotaxia	nome feminino	qui|mi|o|ta|[xi]|a
+quimioterapia	nome feminino	qui|mi|o|te|ra|[pi]|a
+quimioterápico	adjetivo	qui|mi|o|te|[rá]|pi|co
+quimiotripsina	nome feminino	qui|mi|o|trip|[si]|na
+quimiotrópico	adjetivo	qui|mi|o|[tró]|pi|co
+quimiotropismo	nome masculino	qui|mi|o|tro|[pis]|mo
+quimismo	nome masculino	qui|[mis]|mo
+quimitipia	nome feminino	qui|mi|ti|[pi]|a

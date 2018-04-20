@@ -1,0 +1,100 @@
+colunário	adjetivo	co|lu|[ná]|ri|o
+colunata	nome feminino	co|lu|[na]|ta
+colunato	nome masculino	co|lu|[na]|to
+colunável	adjetivo	co|lu|[ná]|vel
+colunável	nome masculino	co|lu|[ná]|vel
+colunável	nome feminino	co|lu|[ná]|vel
+colunelo	nome masculino	co|lu|[ne]|lo
+coluneta	nome feminino	co|lu|[ne]|ta
+colunista	nome masculino	co|lu|[nis]|ta
+colunista	nome feminino	co|lu|[nis]|ta
+colúria	nome feminino	co|[lú]|ri|a
+colúrico	adjetivo	co|[lú]|ri|co
+colurno	nome masculino	co|[lur]|no
+coluro	nome masculino	co|[lu]|ro
+colusão	nome feminino	co|lu|[são]
+colusivo	adjetivo	co|lu|[si]|vo
+colusório	adjetivo	co|lu|[só]|ri|o
+colútea	nome feminino	co|[lú]|te|a
+colutório	nome masculino	co|lu|[tó]|ri|o
+coluvião	nome feminino	co|lu|vi|[ão]
+colza	nome feminino	[col]|za
+com	preposição	com
+com-aluno	nome masculino	com-a|[lu]|no
+com-irmão	nome masculino	com-ir|[mão]
+coma	nome masculino	[co]|ma
+coma	nome feminino	[co]|ma
+comácio	nome masculino	co|[má]|ci|o
+comado	adjetivo	co|[ma]|do
+comadre	nome feminino	co|[ma]|dre
+comadresco	adjetivo	co|ma|[dres]|co
+comadrice	nome feminino	co|ma|[dri]|ce
+comadrio	nome masculino	co|ma|[dri]|o
+comageno	adjetivo	co|ma|[ge]|no
+comageno	nome masculino	co|ma|[ge]|no
+comanche	adjetivo	co|[man]|che
+comanche	nome masculino	co|[man]|che
+comanche	nome feminino	co|[man]|che
+comandaíba	nome feminino	co|man|da|[í]|ba
+comandamento	nome masculino	co|man|da|[men]|to
+comandância	nome feminino	co|man|[dân]|ci|a
+comandante	adjetivo	co|man|[dan]|te
+comandante	nome masculino	co|man|[dan]|te
+comandante	nome feminino	co|man|[dan]|te
+comandante-chefe	nome masculino	co|man|dan|te-che|fe
+comandante-geral	nome masculino	co|man|dan|te-ge|[ral]
+comandar	verbo	co|man|[dar]
+comandita	nome feminino	co|man|[di]|ta
+comanditado	nome masculino	co|man|di|[ta]|do
+comanditar	verbo	co|man|di|[tar]
+comanditário	nome masculino	co|man|di|[tá]|ri|o
+comando	nome masculino	co|[man]|do
+comando-geral	nome masculino	co|man|do-ge|[ral]
+comano	adjetivo	co|[ma]|no
+comano	nome masculino	co|[ma]|no
+comante	adjetivo	co|[man]|te
+comarca	nome feminino	co|[mar]|ca
+comarcão	adjetivo	co|mar|[cão]
+comarcão	nome masculino	co|mar|[cão]
+comarcar	verbo	co|mar|[car]
+comarco	nome masculino	co|[mar]|co
+cômaro	nome masculino	[cô]|ma|ro
+comarqueiro	adjetivo	co|mar|[quei]|ro
+comarqueiro	nome masculino	co|mar|[quei]|ro
+comarquia	nome feminino	co|mar|[qui]|a
+comas	nome feminino	[co]|mas
+comasta	nome masculino	co|[mas]|ta
+comato	adjetivo	co|[ma]|to
+comatosidade	nome feminino	co|ma|to|si|[da]|de
+comatoso	adjetivo	co|ma|[to]|so
+comátula	nome feminino	co|[má]|tu|la
+comatúlida	nome masculino	co|ma|[tú]|li|da
+comatulídeo	nome masculino	co|ma|tu|[lí]|de|o
+comatulídeo	adjetivo	co|ma|tu|[lí]|de|o
+comba	nome feminino	[com]|ba
+comba	nome masculino	[com]|ba
+combaditoqua	nome feminino	com|ba|di|[to]|qua
+combalido	adjetivo	com|ba|[li]|do
+combalir	verbo	com|ba|[lir]
+combarim	nome masculino	com|ba|[rim]
+combataria	nome feminino	com|ba|ta|[ri]|a
+combate	nome masculino	com|[ba]|te
+combatedor	adjetivo	com|ba|te|[dor]
+combatedor	nome masculino	com|ba|te|[dor]
+combatente	nome masculino	com|ba|[ten]|te
+combatente	adjetivo	com|ba|[ten]|te
+combatente	nome feminino	com|ba|[ten]|te
+combater	verbo	com|ba|[ter]
+combatibilidade	nome feminino	com|ba|ti|bi|li|[da]|de
+combatido	adjetivo	com|ba|[ti]|do
+combativamente	advérbio	com|ba|ti|va|[men]|te
+combatível	adjetivo	com|ba|[tí]|vel
+combatividade	nome feminino	com|ba|ti|vi|[da]|de
+combativo	adjetivo	com|ba|[ti]|vo
+combeiro	nome masculino	com|[bei]|ro
+combinabilidade	nome feminino	com|bi|na|bi|li|[da]|de
+combinação	nome feminino	com|bi|na|[ção]
+combinada	nome feminino	com|bi|[na]|da
+combinado	nome masculino	com|bi|[na]|do
+combinado	adjetivo	com|bi|[na]|do
+combinador	adjetivo	com|bi|na|[dor]

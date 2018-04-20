@@ -1,0 +1,100 @@
+casório	nome masculino	ca|[só]|ri|o
+casota	nome feminino	ca|[so]|ta
+casoto	nome masculino	ca|[so]|to
+caspa	nome feminino	[cas]|pa
+caspacho	nome masculino	cas|[pa]|cho
+casparra	nome feminino	cas|[par]|ra
+caspeira	nome feminino	cas|[pei]|ra
+caspento	adjetivo	cas|[pen]|to
+caspíada	adjetivo	cas|[pí]|a|da
+caspíada	nome masculino	cas|[pí]|a|da
+caspíada	nome feminino	cas|[pí]|a|da
+caspiano	adjetivo	cas|pi|[a]|no
+caspiano	nome masculino	cas|pi|[a]|no
+caspilra	nome feminino	cas|[pil]|ra
+cáspio	adjetivo	[cás]|pi|o
+cáspite	interjeição	[cás]|pi|te
+casposo	adjetivo	cas|[po]|so
+casquear	verbo	cas|que|[ar]
+casqueira	nome feminino	cas|[quei]|ra
+casqueiro	nome masculino	cas|[quei]|ro
+casquejar	verbo	cas|que|[jar]
+casquento	adjetivo	cas|[quen]|to
+casqueta	nome feminino	cas|[que]|ta
+casquete	nome masculino	cas|[que]|te
+casquibrando	adjetivo	cas|qui|[bran]|do
+casquicheio	adjetivo	cas|qui|[chei]|o
+casquilha	nome feminino	cas|[qui]|lha
+casquilhada	nome feminino	cas|qui|[lha]|da
+casquilhagem	nome feminino	cas|qui|[lha]|gem
+casquilhar	verbo	cas|qui|[lhar]
+casquilharia	nome feminino	cas|qui|lha|[ri]|a
+casquilheira	nome feminino	cas|qui|[lhei]|ra
+casquilhice	nome feminino	cas|qui|[lhi]|ce
+casquilho	adjetivo	cas|[qui]|lho
+casquilho	nome masculino	cas|[qui]|lho
+casquimole	adjetivo	cas|qui|[mo]|le
+casquinada	nome feminino	cas|qui|[na]|da
+casquinador	adjetivo	cas|qui|na|[dor]
+casquinador	nome masculino	cas|qui|na|[dor]
+casquinar	verbo	cas|qui|[nar]
+casquinha	nome feminino	cas|[qui]|nha
+casquinheiro	nome masculino	cas|qui|[nhei]|ro
+casquinho	adjetivo	cas|[qui]|nho
+casquisseco	adjetivo	cas|quis|[se]|co
+cassa	nome feminino	[cas]|sa
+cassabé	nome masculino	cas|sa|[bé]
+cassação	nome feminino	cas|sa|[ção]
+cassadia	nome feminino	cas|sa|[di]|a
+cassandra	nome feminino	cas|[san]|dra
+cassandrense	adjetivo	cas|san|[dren]|se
+cassandrense	nome masculino	cas|san|[dren]|se
+cassandrense	nome feminino	cas|san|[dren]|se
+cassanga	adjetivo	cas|[san]|ga
+cassanga	nome masculino	cas|[san]|ga
+cassanga	nome feminino	cas|[san]|ga
+cassanje	adjetivo	cas|[san]|je
+cassanje	nome masculino	cas|[san]|je
+cassanje	nome feminino	cas|[san]|je
+cassar	verbo	cas|[sar]
+cassata	nome feminino	cas|[sa]|ta
+casse	nome masculino	[cas]|se
+cassear	verbo	cas|se|[ar]
+cassenje	adjetivo	cas|[sen]|je
+cassenje	nome masculino	cas|[sen]|je
+cassenje	nome feminino	cas|[sen]|je
+cassequé	nome masculino	cas|se|[qué]
+cassete	nome feminino	cas|[se]|te
+cassetete	nome masculino	cas|se|[te]|te
+cássia	nome feminino	[cás]|si|a
+cassia	nome feminino	cas|[si]|a
+cássia-branca	nome feminino	cás|si|a-bran|ca
+cassiácea	nome feminino	cas|si|[á]|ce|a
+cassiafístula	nome feminino	cas|si|a|[fís]|tu|la
+cassico	nome masculino	cas|[si]|co
+cássida	nome feminino	[cás]|si|da
+cassidário	nome masculino	cas|si|[dá]|ri|o
+cassídida	nome masculino	cas|[sí]|di|da
+cassídida	nome masculino	cas|[sí]|di|da
+cassidídeo	nome masculino	cas|si|[dí]|de|o
+cassidídeo	nome masculino	cas|si|[dí]|de|o
+cassidónia	nome feminino	cas|si|[dó]|ni|a
+cassidônia	nome feminino	cas|si|[dô]|ni|a
+cassidulina	nome feminino	cas|si|du|[li]|na
+cassídulo	nome masculino	cas|[sí]|du|lo
+cassina	nome feminino	cas|[si]|na
+cassineta	nome feminino	cas|si|[ne]|ta
+cassínia	nome feminino	cas|[sí]|ni|a
+cassino	nome masculino	cas|[si]|no
+cassiopeu	adjetivo	cas|si|o|[peu]
+cassiopeu	nome masculino	cas|si|o|[peu]
+cassiópico	adjetivo	cas|si|[ó]|pi|co
+cassiópico	nome masculino	cas|si|[ó]|pi|co
+cassiópio	nome masculino	cas|si|[ó]|pi|o
+cassique	nome masculino	cas|[si]|que
+cássis	nome masculino	[cás]|sis
+cassiterita	nome feminino	cas|si|te|[ri]|ta
+cassiterite	nome feminino	cas|si|te|[ri]|te
+casso	adjetivo	[cas]|so
+casso	nome masculino	[cas]|so
+cassoa	nome feminino	cas|[so]|a

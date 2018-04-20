@@ -1,0 +1,100 @@
+cocção	nome feminino	coc|[ção]
+coccídeo	adjetivo	coc|[cí]|de|o
+coccídeo	nome masculino	coc|[cí]|de|o
+coccige	nome masculino	coc|[ci]|ge
+coccigeano	adjetivo	coc|ci|ge|[a]|no
+coccígeo	adjetivo	coc|[cí]|ge|o
+coccigodinia	nome feminino	coc|ci|go|di|[ni]|a
+coccigotomia	nome feminino	coc|ci|go|to|[mi]|a
+coccigotômico	adjetivo	coc|ci|go|[tô]|mi|co
+coccigotómico	adjetivo	coc|ci|go|[tó]|mi|co
+coccinela	nome feminino	coc|ci|[ne]|la
+coccinelídeo	adjetivo	coc|ci|ne|[lí]|de|o
+coccinelídeo	nome masculino	coc|ci|ne|[lí]|de|o
+coccinelídeo	nome masculino	coc|ci|ne|[lí]|de|o
+coccíneo	adjetivo	coc|[cí]|ne|o
+cóccix	nome masculino	[cóc]|cix
+cocegante	adjetivo	co|ce|[gan]|te
+cocegar	verbo	co|ce|[gar]
+cócegas	nome feminino	[có]|ce|gas
+coceguento	adjetivo	co|ce|[guen]|to
+coceira	nome feminino	co|[cei]|ra
+cocha	nome feminino	[co]|cha
+cochada	nome feminino	co|[cha]|da
+cochado	adjetivo	co|[cha]|do
+cochar	verbo	co|[char]
+cocharra	nome feminino	co|[char]|ra
+cocharrada	nome feminino	co|char|[ra]|da
+cocharro	nome masculino	co|[char]|ro
+coche	nome masculino	[co]|che
+coche	interjeição	[co]|che
+cocheira	nome feminino	co|[chei]|ra
+cocheiral	adjetivo	co|chei|[ral]
+cocheiro	nome masculino	co|[chei]|ro
+cochela	nome feminino	co|[che]|la
+cochenilha	nome feminino	co|che|[ni]|lha
+cóchi	nome masculino	[có]|chi
+cochicha	nome feminino	co|[chi]|cha
+cochichada	nome feminino	co|chi|[cha]|da
+cochichador	nome masculino	co|chi|cha|[dor]
+cochichar	verbo	co|chi|[char]
+cochicho	nome masculino	co|[chi]|cho
+cochicholo	nome masculino	co|chi|[cho]|lo
+cochido	adjetivo	co|[chi]|do
+cochila	nome feminino	co|[chi]|la
+cochilar	verbo	co|chi|[lar]
+cochilo	nome masculino	co|[chi]|lo
+cochina	nome feminino	co|[chi]|na
+cochinada	nome feminino	co|chi|[na]|da
+cochinar	verbo	co|chi|[nar]
+cochinchina	nome feminino	co|chin|[chi]|na
+cochinchinense	adjetivo	co|chin|chi|[nen]|se
+cochinchinense	nome masculino	co|chin|chi|[nen]|se
+cochinchinense	nome feminino	co|chin|chi|[nen]|se
+cochinchinês	adjetivo	co|chin|chi|[nês]
+cochinchinês	nome masculino	co|chin|chi|[nês]
+cochinchino	nome masculino	co|chin|[chi]|no
+cochinchino	adjetivo	co|chin|[chi]|no
+cochinês	adjetivo	co|chi|[nês]
+cochinês	nome masculino	co|chi|[nês]
+cochinilha	nome feminino	co|chi|[ni]|lha
+cochino	nome masculino	co|[chi]|no
+cochir	verbo	co|[chir]
+cocho	nome masculino	[co]|cho
+cochonilha	nome feminino	co|cho|[ni]|lha
+cochovelho	nome masculino	co|cho|[ve]|lho
+cociente	nome masculino	co|ci|[en]|te
+cocirinha	nome feminino	co|ci|[ri]|nha
+cocker	nome masculino	[coc]|ker
+cockpit	nome masculino	cock|pit
+cocktail	nome masculino	[cock]|tail
+cóclea	nome feminino	[có]|cle|a
+cocleado	adjetivo	co|cle|[a]|do
+coclear	adjetivo	co|cle|[ar]
+cocleária	nome feminino	co|cle|[á]|ri|a
+cocleariforme	adjetivo	co|cle|a|ri|[for]|me
+cocleiforme	adjetivo	co|clei|[for]|me
+coclospermácea	nome feminino	co|clos|per|[má]|ce|a
+coclospermáceo	adjetivo	co|clos|per|[má]|ce|o
+coco	nome masculino	[co]|co
+cocô	nome masculino	co|[cô]
+cocó	nome masculino	co|[có]
+cocó	adjetivo	co|[có]
+cocó	nome feminino	co|[có]
+coconote	nome masculino	co|co|[no]|te
+cócoras	nome feminino	[có]|co|ras
+cocoré	nome masculino	co|co|[ré]
+cocorocó	nome masculino	co|co|ro|[có]
+cocorocô	nome masculino	co|co|ro|[cô]
+cocorocó	interjeição	co|co|ro|[có]
+cocorote	nome masculino	co|co|[ro]|te
+cocosate	adjetivo	co|co|[sa]|te
+cocosate	nome masculino	co|co|[sa]|te
+cocosate	nome feminino	co|co|[sa]|te
+cocote	nome feminino	co|[co]|te
+cocre	nome masculino	[co]|cre
+cocredor	nome masculino	co|cre|[dor]
+cocredora	nome feminino	co|cre|[do]|ra
+cocriador	nome masculino	co|cri|a|[dor]
+cocriadora	nome feminino	co|cri|a|[do]|ra
+cocto	adjetivo	[coc]|to

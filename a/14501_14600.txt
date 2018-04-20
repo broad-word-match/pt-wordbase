@@ -1,0 +1,100 @@
+antirrínea	nome feminino	an|tir|[rí]|ne|a
+antirrínico	adjetivo	an|tir|[rí]|ni|co
+antirrino	nome masculino	an|tir|[ri]|no
+antirroubo	adjetivo	an|tir|[rou]|bo
+antirroubo	nome masculino	an|tir|[rou]|bo
+antirrugas	adjetivo	an|tir|[ru]|gas
+antisagoge	nome feminino	an|ti|sa|[go]|ge
+antíscios	nome masculino	an|[tís]|ci|os
+antíspase	nome feminino	an|[tís]|pa|se
+antispástico	adjetivo	an|tis|[pás]|ti|co
+antispasto	nome masculino	an|tis|[pas]|to
+antispódio	nome masculino	an|tis|[pó]|di|o
+antíspodo	nome masculino	an|[tís]|po|do
+antissalazarista	adjetivo	an|tis|sa|la|za|[ris]|ta
+antissátira	nome feminino	an|tis|[sá]|ti|ra
+antissemita	nome masculino	an|tis|se|[mi]|ta
+antissemita	adjetivo	an|tis|se|[mi]|ta
+antissemita	nome feminino	an|tis|se|[mi]|ta
+antissemítico	adjetivo	an|tis|se|[mí]|ti|co
+antissemitismo	nome masculino	an|tis|se|mi|[tis]|mo
+antissepsia	nome feminino	an|tis|sep|[si]|a
+antissepsiador	adjetivo	an|tis|sep|si|a|[dor]
+antissepsiador	nome masculino	an|tis|sep|si|a|[dor]
+antissepsiar	verbo	an|tis|sep|si|[ar]
+antisséptico	adjetivo	an|tissép|ti|co
+antisséptico	nome masculino	an|tissép|ti|co
+antissético	nome masculino	an|tis|[sé]|ti|co
+antissético	adjetivo	an|tis|[sé]|ti|co
+antisseu	nome masculino	an|tis|[seu]
+antisseu	adjetivo	an|tis|[seu]
+antissezonático	adjetivo	an|tis|se|zo|[ná]|ti|co
+antissialagogo	adjetivo	an|tis|si|a|la|[go]|go
+antissialagogo	nome masculino	an|tis|si|a|la|[go]|go
+antissiálico	nome masculino	an|tis|si|[á]|li|co
+antissiálico	adjetivo	an|tis|si|[á]|li|co
+antissida	nome feminino	an|tis|[si]|da
+antissifilítico	adjetivo	an|tis|si|fi|[lí]|ti|co
+antissigma	nome masculino	an|tis|[sig]|ma
+antissimbólico	adjetivo	an|tis|sim|[bó]|li|co
+antissinodal	adjetivo	an|tis|si|no|[dal]
+antissísmico	adjetivo	an|tis|[sís]|mi|co
+antissistema	adjetivo	an|tis|sis|[te]|ma
+antissocial	adjetivo	an|tis|so|ci|[al]
+antissocialismo	nome masculino	an|tis|so|ci|a|[lis]|mo
+antissocialista	nome feminino	an|tis|so|ci|a|[lis]|ta
+antissocialista	adjetivo	an|tis|so|ci|a|[lis]|ta
+antissocialista	nome masculino	an|tis|so|ci|a|[lis]|ta
+antissociável	adjetivo	an|tis|so|ci|[á]|vel
+antissofista	adjetivo	an|tis|so|[fis]|ta
+antissofista	nome masculino	an|tis|so|[fis]|ta
+antissofista	nome feminino	an|tis|so|[fis]|ta
+antissoro	nome masculino	an|tis|[so]|ro
+antissoviético	adjetivo	an|tis|so|vi|[é]|ti|co
+antissubmarino	adjetivo	an|tis|sub|ma|[ri]|no
+antissubversão	nome feminino	an|tis|sub|ver|[são]
+antissudoral	adjetivo	an|tis|su|do|[ral]
+antissudorífico	adjetivo	an|tis|su|do|[rí]|fi|co
+antístite	nome masculino	an|[tís]|ti|te
+antístomo	nome masculino	an|[tís]|to|mo
+antístrofe	nome feminino	an|[tís]|tro|fe
+antistrófico	adjetivo	an|tis|[tró]|fi|co
+antitabaco	adjetivo	an|ti|ta|[ba]|co
+antitabagismo	nome masculino	an|ti|ta|ba|[gis]|mo
+antitabagista	adjetivo	an|ti|ta|ba|[gis]|ta
+antitabagista	nome masculino	an|ti|ta|ba|[gis]|ta
+antitabagista	nome feminino	an|ti|ta|ba|[gis]|ta
+antitanque	adjetivo	an|ti|[tan]|que
+antitanque	nome masculino	an|ti|[tan]|que
+antitártaro	adjetivo	an|ti|[tár]|ta|ro
+antiteatral	adjetivo	an|ti|te|a|[tral]
+antiteatro	nome masculino	an|ti|te|[a]|tro
+antiteísmo	nome masculino	an|ti|te|[ís]|mo
+antiteísta	nome masculino	an|ti|te|[ís]|ta
+antiteísta	nome feminino	an|ti|te|[ís]|ta
+antitenar	nome masculino	an|ti|te|[nar]
+antiteológico	adjetivo	an|ti|te|o|[ló]|gi|co
+antitérmico	adjetivo	an|ti|[tér]|mi|co
+antiterrorismo	nome masculino	an|ti|ter|ro|[ris]|mo
+antiterrorismo	adjetivo	an|ti|ter|ro|[ris]|mo
+antiterrorista	adjetivo	an|ti|ter|ro|[ris]|ta
+antiterrorista	nome masculino	an|ti|ter|ro|[ris]|ta
+antiterrorista	nome feminino	an|ti|ter|ro|[ris]|ta
+antítese	nome feminino	an|[tí]|te|se
+antitetânico	adjetivo	an|ti|te|[tâ]|ni|co
+antiteticamente	advérbio	an|ti|te|ti|ca|[men]|te
+antitético	adjetivo	an|ti|[té]|ti|co
+antitífico	adjetivo	an|ti|[tí]|fi|co
+antitipia	nome feminino	an|ti|ti|[pi]|a
+antitípico	adjetivo	an|ti|[tí]|pi|co
+antítipo	nome masculino	an|[tí]|ti|po
+antitísico	adjetivo	an|ti|[tí]|si|co
+antitotalitário	adjetivo	an|ti|to|ta|li|[tá]|ri|o
+antitóxico	nome masculino	an|ti|[tó]|xi|co
+antitóxico	adjetivo	an|ti|[tó]|xi|co
+antitoxina	nome feminino	an|ti|to|[xi]|na
+antitradicionalismo	nome masculino	an|ti|tra|di|ci|o|na|[lis]|mo
+antitradicionalista	adjetivo	an|ti|tra|di|ci|o|na|[lis]|ta
+antitradicionalista	nome masculino	an|ti|tra|di|ci|o|na|[lis]|ta
+antitradicionalista	nome feminino	an|ti|tra|di|ci|o|na|[lis]|ta
+antítrago	nome masculino	an|[tí]|tra|go

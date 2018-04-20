@@ -1,0 +1,100 @@
+quintanista	nome feminino	quin|ta|[nis]|ta
+quintano	nome masculino	quin|[ta]|no
+quintano	adjetivo	quin|[ta]|no
+quintante	nome masculino	quin|[tan]|te
+quintão	adjetivo	quin|[tão]
+quintão	nome masculino	quin|[tão]
+quintar	verbo	quin|[tar]
+quintarola	nome feminino	quin|ta|[ro]|la
+quinté	nome masculino	quin|[té]
+quinteira	nome feminino	quin|[tei]|ra
+quinteiro	nome masculino	quin|[tei]|ro
+quintessencial	adjetivo	quin|tes|sen|ci|[al]
+quinteto	nome masculino	quin|[te]|to
+quinti	adjetivo	quin|[ti]
+quintifalange	nome feminino	quin|ti|fa|[lan]|ge
+quintifalangeta	nome feminino	quin|ti|fa|lan|[ge]|ta
+quintifalanginha	nome feminino	quin|ti|fa|lan|[gi]|nha
+quintil	adjetivo	quin|[til]
+quintilha	nome feminino	quin|[ti]|lha
+quintilhão	adjetivo	quin|ti|[lhão]
+quintilhão	nome masculino	quin|ti|[lhão]
+quintilianismo	nome masculino	quin|ti|li|a|[nis]|mo
+quintiliano	adjetivo	quin|ti|li|[a]|no
+quintilião	adjetivo	quin|ti|li|[ão]
+quintilião	nome masculino	quin|ti|li|[ão]
+quintílio	nome masculino	quin|[tí]|li|o
+quintimetatársico	adjetivo	quin|ti|me|ta|[tár]|si|co
+quintissecular	adjetivo	quin|tis|se|cu|[lar]
+quinto	número ordinal	[quin]|to
+quinto	número fraccional	[quin]|to
+quinto	nome masculino	[quin]|to
+quinto	adjetivo	[quin]|to
+quintório	nome masculino	quin|[tó]|ri|o
+quintupleta	nome feminino	quin|tu|[ple]|ta
+quintuplicação	nome feminino	quin|tu|pli|ca|[ção]
+quintuplicador	adjetivo	quin|tu|pli|ca|[dor]
+quintuplicador	nome masculino	quin|tu|pli|ca|[dor]
+quintuplicar	verbo	quin|tu|pli|[car]
+quintuplicável	adjetivo	quin|tu|pli|[cá]|vel
+quintuplinérveo	adjetivo	quin|tu|pli|[nér]|ve|o
+quíntuplo	nome masculino	[quín]|tu|plo
+quíntuplo	adjetivo	[quín]|tu|plo
+quíntuplo	número multiplicativo	[quín]|tu|plo
+quinzare	nome masculino	quin|[za]|re
+quinze	nome masculino	[quin]|ze
+quinze	número cardinal	[quin]|ze
+quinze	adjetivo	[quin]|ze
+quinzena	nome feminino	quin|[ze]|na
+quinzenal	adjetivo	quin|ze|[nal]
+quinzenalmente	advérbio	quin|ze|nal|[men]|te
+quinzenário	nome masculino	quin|ze|[ná]|ri|o
+quinzo	nome masculino	[quin]|zo
+quinzol	nome masculino	quin|[zol]
+quinzongo	nome masculino	quin|[zon]|go
+quinzunguila	nome feminino	quin|zun|[gui]|la
+quio	adjetivo	[qui]|o
+quio	nome masculino	[qui]|o
+quioca	nome feminino	qui|[o]|ca
+quioco	adjetivo	qui|[o]|co
+quioco	nome masculino	qui|[o]|co
+quioiô	nome masculino	qui|oi|[ô]
+quionococo	nome masculino	qui|o|no|[co]|co
+quionólito	nome masculino	qui|o|[nó]|li|to
+quionótomo	nome masculino	qui|o|[nó]|to|mo
+quiosque	nome masculino	qui|[os]|que
+quiosqueiro	nome masculino	qui|os|[quei]|ro
+quipá	nome masculino	qui|[pá]
+quipapá	nome masculino	qui|pa|[pá]
+quipele	nome masculino	qui|[pe]|le
+quipembe	nome masculino	qui|[pem]|be
+quipico	nome masculino	qui|[pi]|co
+quipo	nome masculino	[qui]|po
+quipoqué	nome masculino	qui|po|[qué]
+quipos	nome masculino	[qui]|pos
+quiproquó	nome masculino	qui|pro|[quó]
+quipuculo	nome masculino	qui|pu|[cu]|lo
+quipululo	nome masculino	qui|pu|[lu]|lo
+quipúndi	nome masculino	qui|[pún]|di
+quipungo	adjetivo	qui|[pun]|go
+quipungo	nome masculino	qui|[pun]|go
+quipungulo	nome masculino	qui|pun|[gu]|lo
+quiqueriqui	nome masculino	qui|que|ri|[qui]
+quiquerismo	nome masculino	qui|que|[ris]|mo
+quíquero	nome masculino	[quí]|que|ro
+quiqui	nome masculino	qui|[qui]
+quiquia	nome feminino	qui|[qui]|a
+quiquiqui	nome masculino	qui|qui|[qui]
+quirábi	nome masculino	qui|[rá]|bi
+quiragra	nome feminino	qui|[ra]|gra
+quiragra	adjetivo	qui|[ra]|gra
+quiraita	nome feminino	qui|[rai]|ta
+quiral	adjetivo	qui|[ral]
+quiralgia	nome feminino	qui|ral|[gi]|a
+quirálgico	adjetivo	qui|[rál]|gi|co
+quiralidade	nome feminino	qui|ra|li|[da]|de
+quirana	nome feminino	qui|[ra]|na
+quiranto	nome masculino	qui|[ran]|to
+quirate	nome masculino	qui|[ra]|te
+quirato	nome masculino	qui|[ra]|to
+quirche	nome masculino	[quir]|che

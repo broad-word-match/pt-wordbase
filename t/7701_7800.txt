@@ -1,0 +1,100 @@
+tremelear	verbo	tre|me|le|[ar]
+tremelejar	verbo	tre|me|le|[jar]
+tremelejo	nome masculino	tre|me|[le]|jo
+tremelga	nome feminino	tre|[mel]|ga
+tremelhicar	verbo	tre|me|lhi|[car]
+tremelhique	nome masculino	tre|me|[lhi]|que
+tremelica	adjetivo	tre|me|[li]|ca
+tremelica	nome masculino	tre|me|[li]|ca
+tremelica	nome feminino	tre|me|[li]|ca
+tremelicação	nome feminino	tre|me|li|ca|[ção]
+tremelicante	adjetivo	tre|me|li|[can]|te
+tremelicar	verbo	tre|me|li|[car]
+tremelicas	adjetivo	tre|me|[li]|cas
+tremelicas	nome masculino	tre|me|[li]|cas
+tremelicas	nome feminino	tre|me|[li]|cas
+tremelicoso	adjetivo	tre|me|li|[co]|so
+tremelique	nome masculino	tre|me|[li]|que
+tremelique	adjetivo	tre|me|[li]|que
+tremeliquento	adjetivo	tre|me|li|[quen]|to
+tremeliques	nome masculino	tre|me|[li]|ques
+tremeliques	nome feminino	tre|me|[li]|ques
+tremeliques	adjetivo	tre|me|[li]|ques
+tremeluzente	adjetivo	tre|me|lu|[zen]|te
+tremeluzir	verbo	tre|me|lu|[zir]
+tremembé	adjetivo	tre|mem|[bé]
+tremembé	nome masculino	tre|mem|[bé]
+tremembé	nome feminino	tre|mem|[bé]
+tremenda	nome feminino	tre|[men]|da
+tremendamente	advérbio	tre|men|da|[men]|te
+tremendo	adjetivo	tre|[men]|do
+tremenho	nome masculino	tre|[me]|nho
+tremente	adjetivo	tre|[men]|te
+trementina	nome feminino	tre|men|[ti]|na
+tremer	verbo	tre|[mer]
+tremês	adjetivo	tre|[mês]
+tremesada	nome feminino	tre|me|[sa]|da
+tremesinho	adjetivo	tre|me|[si]|nho
+tremiculoso	adjetivo	tre|mi|cu|[lo]|so
+tremidamente	advérbio	tre|mi|da|[men]|te
+tremido	adjetivo	tre|[mi]|do
+tremido	nome masculino	tre|[mi]|do
+tremifusa	nome feminino	tre|mi|[fu]|sa
+tremilongo	nome masculino	tre|mi|[lon]|go
+tremisse	nome masculino	tre|[mis]|se
+trémito	nome masculino	[tré]|mi|to
+trêmito	nome masculino	[trê]|mi|to
+tremó	nome masculino	tre|[mó]
+tremoçada	nome feminino	tre|mo|[ça]|da
+tremoçagem	nome feminino	tre|mo|[ça]|gem
+tremoçal	nome masculino	tre|mo|[çal]
+tremoção	nome masculino	tre|mo|[ção]
+tremoçar	verbo	tre|mo|[çar]
+tremoceira	nome feminino	tre|mo|[cei]|ra
+tremoceiro	nome masculino	tre|mo|[cei]|ro
+tremocilho	nome masculino	tre|mo|[ci]|lho
+tremoço	nome masculino	tre|[mo]|ço
+tremoia	nome feminino	tre|[moi]|a
+tremolar	verbo	tre|mo|[lar]
+tremolita	nome feminino	tre|mo|[li]|ta
+tremolite	nome feminino	tre|mo|[li]|te
+tremolo	nome masculino	tre|[mo]|lo
+tremonha	nome feminino	tre|[mo]|nha
+tremonhado	nome masculino	tre|mo|[nha]|do
+tremonhal	nome masculino	tre|mo|[nhal]
+tremontelo	nome masculino	tre|mon|[te]|lo
+tremor	nome masculino	tre|[mor]
+trempe	nome feminino	[trem]|pe
+trempem	nome feminino	[trem]|pem
+tremudar	verbo	tre|mu|[dar]
+tremulação	nome feminino	tre|mu|la|[ção]
+tremulamente	advérbio	tre|mu|la|[men]|te
+tremulamento	nome masculino	tre|mu|la|[men]|to
+tremulante	adjetivo	tre|mu|[lan]|te
+tremular	verbo	tre|mu|[lar]
+tremúleo	adjetivo	tre|[mú]|le|o
+tremulim	nome masculino	tre|mu|[lim]
+tremulina	nome feminino	tre|mu|[li]|na
+tremulinar	verbo	tre|mu|li|[nar]
+trémulo	adjetivo	[tré]|mu|lo
+trémulo	nome masculino	[tré]|mu|lo
+trêmulo	adjetivo	[trê]|mu|lo
+trêmulo	nome masculino	[trê]|mu|lo
+tremuloso	adjetivo	tre|mu|[lo]|so
+tremunido	nome masculino	tre|mu|[ni]|do
+tremura	nome feminino	tre|[mu]|ra
+trena	nome feminino	[tre]|na
+trenar	verbo	tre|[nar]
+trenel	nome masculino	tre|[nel]
+trenético	adjetivo	tre|[né]|ti|co
+trenético	nome masculino	tre|[né]|ti|co
+trengo	adjetivo	[tren]|go
+trengo	nome masculino	[tren]|go
+trenguice	nome feminino	tren|[gui]|ce
+trénico	adjetivo	[tré]|ni|co
+trênico	adjetivo	[trê]|ni|co
+treno	nome masculino	[tre]|no
+trenó	nome masculino	tre|[nó]
+trentino	adjetivo	tren|[ti]|no
+trentino	nome masculino	tren|[ti]|no
+trentoura	nome feminino	tren|[tou]|ra

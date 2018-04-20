@@ -1,0 +1,100 @@
+educacionista	nome masculino	e|du|ca|ci|o|[nis]|ta
+educacionista	nome feminino	e|du|ca|ci|o|[nis]|ta
+educadamente	advérbio	e|du|ca|da|[men]|te
+educado	adjetivo	e|du|[ca]|do
+educador	adjetivo	e|du|ca|[dor]
+educador	nome masculino	e|du|ca|[dor]
+educadora	nome feminino	e|du|ca|[do]|ra
+educanda	nome feminino	e|du|[can]|da
+educandário	nome masculino	e|du|can|[dá]|ri|o
+educando	nome masculino	e|du|[can]|do
+edução	nome feminino	e|du|[ção]
+educar	verbo	e|du|[car]
+educativamente	advérbio	e|du|ca|ti|va|[men]|te
+educativo	adjetivo	e|du|ca|[ti]|vo
+educável	adjetivo	e|du|[cá]|vel
+edul	adjetivo	e|[dul]
+edulcoração	nome feminino	e|dul|co|ra|[ção]
+edulcorado	adjetivo	e|dul|co|[ra]|do
+edulcorante	adjetivo	e|dul|co|[ran]|te
+edulcorante	nome masculino	e|dul|co|[ran]|te
+edulcorar	verbo	e|dul|co|[rar]
+edulcorativo	adjetivo	e|dul|co|ra|[ti]|vo
+edule	adjetivo	e|[du]|le
+eduzir	verbo	e|du|[zir]
+efabulação	nome feminino	e|fa|bu|la|[ção]
+efabular	verbo	e|fa|bu|[lar]
+efe	nome masculino	[e]|fe
+efebato	nome masculino	e|fe|[ba]|to
+efebia	nome feminino	e|fe|[bi]|a
+efebismo	nome masculino	e|fe|[bis]|mo
+efebo	nome masculino	e|[fe]|bo
+efectivador	adjetivo	e|fec|ti|va|[dor]
+efectivador	nome masculino	e|fec|ti|va|[dor]
+efedrácea	nome feminino	e|fe|[drá]|ce|a
+efedráceo	adjetivo	e|fe|[drá]|ce|o
+efedrina	nome feminino	e|fe|[dri]|na
+efeitarrão	nome masculino	e|fei|tar|[rão]
+efeito	nome masculino	e|[fei]|to
+efeituação	nome feminino	e|fei|tu|a|[ção]
+efeituador	adjetivo	e|fei|tu|a|[dor]
+efeituador	nome masculino	e|fei|tu|a|[dor]
+efeituar	verbo	e|fei|tu|[ar]
+efeituável	adjetivo	e|fei|tu|[á]|vel
+efelcístico	adjetivo	e|fel|[cís]|ti|co
+efélide	nome feminino	e|[fé]|li|de
+efémera	nome feminino	e|[fé]|me|ra
+efemérida	nome masculino	e|fe|[mé]|ri|da
+efemérida	adjetivo	e|fe|[mé]|ri|da
+efemérida	nome masculino	e|fe|[mé]|ri|da
+efemeridade	nome feminino	e|fe|me|ri|[da]|de
+efeméride	nome feminino	e|fe|[mé]|ri|de
+efemerídeo	nome masculino	e|fe|me|[rí]|de|o
+efemerídeo	nome masculino	e|fe|me|[rí]|de|o
+efemerídeo	adjetivo	e|fe|me|[rí]|de|o
+efemérides	nome feminino	e|fe|[mé]|ri|des
+efemerina	nome feminino	e|fe|me|[ri]|na
+efemerizar	verbo	e|fe|me|ri|[zar]
+efêmero	adjetivo	e|[fê]|me|ro
+efêmero	nome masculino	e|[fê]|me|ro
+efémero	adjetivo	e|[fé]|me|ro
+efémero	nome masculino	e|[fé]|me|ro
+efeminação	nome feminino	e|fe|mi|na|[ção]
+efeminadamente	advérbio	e|fe|mi|na|da|[men]|te
+efeminado	adjetivo	e|fe|mi|[na]|do
+efeminado	nome masculino	e|fe|mi|[na]|do
+efeminar	verbo	e|fe|mi|[nar]
+efeminizar	verbo	e|fe|mi|ni|[zar]
+eferente	adjetivo	e|fe|[ren]|te
+efervescência	nome feminino	e|fer|ves|[cên]|ci|a
+efervescente	adjetivo	e|fer|ves|[cen]|te
+efervescer	verbo	e|fer|ves|[cer]
+efes-e-erres	nome masculino	e|fes-e-er|res
+efesíaco	adjetivo	e|fe|[sí]|a|co
+efésico	adjetivo	e|[fé]|si|co
+efésico	nome masculino	e|[fé]|si|co
+efésio	adjetivo	e|[fé]|si|o
+efésio	nome masculino	e|[fé]|si|o
+efetivação	nome feminino	e|fe|ti|va|[ção]
+efetivador	nome masculino	e|fe|ti|va|[dor]
+efetivador	adjetivo	e|fe|ti|va|[dor]
+efetivamente	advérbio	e|fe|ti|va|[men]|te
+efetivar	verbo	e|fe|ti|[var]
+efetivável	adjetivo	e|fe|ti|[vá]|vel
+efetível	adjetivo	e|fe|[tí]|vel
+efetividade	nome feminino	e|fe|ti|vi|[da]|de
+efetivo	adjetivo	e|fe|[ti]|vo
+efetivo	nome masculino	e|fe|[ti]|vo
+efetuação	nome feminino	e|fe|tu|a|[ção]
+efetuador	adjetivo	e|fe|tu|a|[dor]
+efetuador	nome masculino	e|fe|tu|a|[dor]
+efetuar	verbo	e|fe|tu|[ar]
+efetuável	adjetivo	e|fe|tu|[á]|vel
+efetuoso	adjetivo	e|fe|tu|[o]|so
+efialta	nome masculino	e|fi|[al]|ta
+eficácia	nome feminino	e|fi|[cá]|ci|a
+eficacidade	nome feminino	e|fi|ca|ci|[da]|de
+eficacíssimo	adjetivo	e|fi|ca|[cís]|si|mo
+eficaz	adjetivo	e|fi|[caz]
+eficazmente	advérbio	e|fi|caz|[men]|te
+eficiência	nome feminino	e|fi|ci|[ên]|ci|a

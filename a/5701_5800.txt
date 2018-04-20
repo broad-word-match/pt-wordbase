@@ -1,0 +1,100 @@
+aforradamente	advérbio	a|for|ra|da|[men]|te
+aforrado	adjetivo	a|for|[ra]|do
+aforrador	adjetivo	a|for|ra|[dor]
+aforrador	nome masculino	a|for|ra|[dor]
+aforradora	nome feminino	a|for|ra|[do]|ra
+aforramento	nome masculino	a|for|ra|[men]|to
+aforrar	verbo	a|for|[rar]
+aforrista	nome masculino	a|for|[ris]|ta
+aforrista	nome feminino	a|for|[ris]|ta
+aforro	nome masculino	a|[for]|ro
+afortalezamento	nome masculino	a|for|ta|le|za|[men]|to
+afortalezar	verbo	a|for|ta|le|[zar]
+afortunação	nome feminino	a|for|tu|na|[ção]
+afortunada	nome feminino	a|for|tu|[na]|da
+afortunadamente	advérbio	a|for|tu|na|da|[men]|te
+afortunado	adjetivo	a|for|tu|[na]|do
+afortunado	nome masculino	a|for|tu|[na]|do
+afortunar	verbo	a|for|tu|[nar]
+afortunoso	adjetivo	a|for|tu|[no]|so
+afótico	adjetivo	a|[fó]|ti|co
+afouçado	adjetivo	a|fou|[ça]|do
+afouta	nome feminino	a|[fou]|ta
+afoutamente	advérbio	a|fou|ta|[men]|te
+afoutamento	nome masculino	a|fou|ta|[men]|to
+afoutar	verbo	a|fou|[tar]
+afouteza	nome feminino	a|fou|[te]|za
+afouto	adjetivo	a|[fou]|to
+afouto	nome masculino	a|[fou]|to
+afra	nome feminino	[a]|fra
+afracamento	nome masculino	a|fra|ca|[men]|to
+afracar	verbo	a|fra|[car]
+afracto	nome masculino	a|[frac]|to
+afragatadamente	advérbio	a|fra|ga|ta|da|[men]|te
+afragatado	adjetivo	a|fra|ga|[ta]|do
+afragatar	verbo	a|fra|ga|[tar]
+aframengado	adjetivo	a|fra|men|[ga]|do
+afrancesada	nome feminino	a|fran|ce|[sa]|da
+afrancesadamente	advérbio	a|fran|ce|sa|da|[men]|te
+afrancesado	nome masculino	a|fran|ce|[sa]|do
+afrancesado	adjetivo	a|fran|ce|[sa]|do
+afrancesamento	nome masculino	a|fran|ce|sa|[men]|to
+afrancesar	verbo	a|fran|ce|[sar]
+afrânia	nome feminino	a|[frâ]|ni|a
+afranzinar	verbo	a|fran|zi|[nar]
+afrasia	nome feminino	a|fra|[si]|a
+afrástico	adjetivo	a|[frás]|ti|co
+afrechado	adjetivo	a|fre|[cha]|do
+afrechar	verbo	a|fre|[char]
+afreguesado	adjetivo	a|fre|gue|[sa]|do
+afreguesamento	nome masculino	a|fre|gue|sa|[men]|to
+afreguesar	verbo	a|fre|gue|[sar]
+afregulhado	adjetivo	a|fre|gu|[lha]|do
+afreimar	verbo	a|frei|[mar]
+afrentado	adjetivo	a|fren|[ta]|do
+afrentar	verbo	a|fren|[tar]
+afrescar	verbo	a|fres|[car]
+afresco	nome masculino	a|[fres]|co
+afretador	nome masculino	a|fre|ta|[dor]
+afretamento	nome masculino	a|fre|ta|[men]|to
+afretar	verbo	a|fre|[tar]
+áfrica	nome feminino	[á]|fri|ca
+africação	nome feminino	a|fri|ca|[ção]
+africada	nome feminino	a|fri|[ca]|da
+africado	adjetivo	a|fri|[ca]|do
+africana	nome feminino	a|fri|[ca]|na
+africanada	nome feminino	a|fri|ca|[na]|da
+africanamente	advérbio	a|fri|ca|na|[men]|te
+africanar	verbo	a|fri|ca|[nar]
+africanas	nome feminino	a|fri|[ca]|nas
+africânder	adjetivo	a|fri|[cân]|der
+africânder	nome masculino	a|fri|[cân]|der
+africânder	nome feminino	a|fri|[cân]|der
+africâner	nome feminino	a|fri|[câ]|ner
+africâner	adjetivo	a|fri|[câ]|ner
+africâner	nome masculino	a|fri|[câ]|ner
+africanês	adjetivo	a|fri|ca|[nês]
+africanês	nome masculino	a|fri|ca|[nês]
+africânico	adjetivo	a|fri|[câ]|ni|co
+africânico	nome masculino	a|fri|[câ]|ni|co
+africanidade	nome feminino	a|fri|ca|ni|[da]|de
+africanismo	nome masculino	a|fri|ca|[nis]|mo
+africanista	nome masculino	a|fri|ca|[nis]|ta
+africanista	adjetivo	a|fri|ca|[nis]|ta
+africanista	nome feminino	a|fri|ca|[nis]|ta
+africanístico	adjetivo	a|fri|ca|[nís]|ti|co
+africanização	nome feminino	a|fri|ca|ni|za|[ção]
+africanizado	adjetivo	a|fri|ca|ni|[za]|do
+africanizar	verbo	a|fri|ca|ni|[zar]
+africanizável	adjetivo	a|fri|ca|ni|[zá]|vel
+africano	adjetivo	a|fri|[ca]|no
+africano	nome masculino	a|fri|[ca]|no
+africano-árabe	adjetivo	a|fri|ca|no-á|ra|be
+africanologia	nome feminino	a|fri|ca|no|lo|[gi]|a
+africanológico	adjetivo	a|fri|ca|no|[ló]|gi|co
+africanologista	nome masculino	a|fri|ca|no|lo|[gis]|ta
+africanologista	nome feminino	a|fri|ca|no|lo|[gis]|ta
+africanólogo	nome masculino	a|fri|ca|[nó]|lo|go
+africar	verbo	a|fri|[car]
+africata	nome feminino	a|fri|[ca]|ta
+africato	adjetivo	a|fri|[ca]|to

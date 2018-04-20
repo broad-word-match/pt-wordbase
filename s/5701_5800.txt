@@ -1,0 +1,100 @@
+silenciar	verbo	si|len|ci|[ar]
+silenciário	nome masculino	si|len|ci|[á]|ri|o
+silêncio	nome masculino	si|[lên]|ci|o
+silêncio	interjeição	si|[lên]|ci|o
+silenciosa	nome feminino	si|len|ci|[o]|sa
+silenciosamente	advérbio	si|len|ci|o|sa|[men]|te
+silencioso	nome masculino	si|len|ci|[o]|so
+silencioso	adjetivo	si|len|ci|[o]|so
+sileno	nome masculino	si|[le]|no
+silente	adjetivo	si|[len]|te
+silepse	nome feminino	si|[lep]|se
+siléptico	adjetivo	si|[lép]|ti|co
+silesiano	adjetivo	si|le|si|[a]|no
+silesiano	nome masculino	si|le|si|[a]|no
+sílex	nome masculino	[sí]|lex
+silfa	nome feminino	[sil]|fa
+sílfide	nome feminino	[síl]|fi|de
+silfídeo	nome masculino	sil|[fí]|de|o
+silfídico	adjetivo	sil|[fí]|di|co
+sílfio	nome masculino	[síl]|fi|o
+silfo	nome masculino	[sil]|fo
+silha	nome feminino	[si]|lha
+silhadoiro	nome masculino	si|lha|[doi]|ro
+silhadouro	nome masculino	si|lha|[dou]|ro
+silhal	nome masculino	si|[lhal]
+silhão	nome masculino	si|[lhão]
+silhar	nome masculino	si|[lhar]
+silharia	nome feminino	si|lha|[ri]|a
+silho	nome masculino	[si]|lho
+silhueta	nome feminino	si|lhu|[e]|ta
+silhuetar	verbo	si|lhu|e|[tar]
+sílica	nome feminino	[sí]|li|ca
+silicaluminoso	adjetivo	si|li|ca|lu|mi|[no]|so
+silicatado	adjetivo	si|li|ca|[ta]|do
+silicatização	nome feminino	si|li|ca|ti|za|[ção]
+silicatizar	verbo	si|li|ca|ti|[zar]
+silicato	nome masculino	si|li|[ca]|to
+sílice	nome masculino	[sí]|li|ce
+silicérnio	nome masculino	si|li|[cér]|ni|o
+silícico	adjetivo	si|[lí]|ci|co
+silicícola	adjetivo	si|li|[cí]|co|la
+silicieto	nome masculino	si|li|ci|[e]|to
+silicífero	adjetivo	si|li|[cí]|fe|ro
+silicificação	nome feminino	si|li|ci|fi|ca|[ção]
+silicificar	verbo	si|li|ci|fi|[car]
+silicino	nome masculino	si|li|[ci]|no
+silício	nome masculino	si|[lí]|ci|o
+silicioso	adjetivo	si|li|ci|[o]|so
+silicite	nome feminino	si|li|[ci]|te
+silicoargiloso	adjetivo	si|li|co|ar|gi|[lo]|so
+silicoflagelado	nome masculino	si|li|co|fla|ge|[la]|do
+silicone	nome masculino	si|li|[co]|ne
+silicose	nome feminino	si|li|[co]|se
+silicoso	adjetivo	si|li|[co]|so
+silicótico	adjetivo	si|li|[có]|ti|co
+silícula	nome feminino	si|[lí]|cu|la
+siliculiforme	adjetivo	si|li|cu|li|[for]|me
+siliculose	nome feminino	si|li|cu|[lo]|se
+siliculoso	adjetivo	si|li|cu|[lo]|so
+siligem	nome feminino	si|[li]|gem
+siliginário	nome masculino	si|li|gi|[ná]|ri|o
+siligo	nome masculino	si|[li]|go
+silimanite	nome feminino	si|li|ma|[ni]|te
+silindra	nome feminino	si|[lin]|dra
+silingo	adjetivo	si|[lin]|go
+silingo	nome masculino	si|[lin]|go
+silingórnio	adjetivo	si|lin|[gór]|ni|o
+síliqua	nome feminino	[sí]|li|qua
+siliquiforme	adjetivo	si|li|qui|[for]|me
+siliquoso	adjetivo	si|li|[quo]|so
+sillimanita	nome feminino	sil|li|ma|ni|ta
+silo	nome masculino	[si]|lo
+silo-auto	nome masculino	si|lo-au|to
+silogeu	nome masculino	si|lo|[geu]
+silogismar	verbo	si|lo|gis|[mar]
+silogismo	nome masculino	si|lo|[gis]|mo
+silogisticamente	advérbio	si|lo|gis|ti|ca|[men]|te
+silogístico	adjetivo	si|lo|[gís]|ti|co
+silogizar	verbo	si|lo|gi|[zar]
+silografia	nome feminino	si|lo|gra|[fi]|a
+silográfico	adjetivo	si|lo|[grá]|fi|co
+silógrafo	nome masculino	si|[ló]|gra|fo
+silte	nome masculino	[sil]|te
+siltito	nome masculino	sil|[ti]|to
+siltoso	adjetivo	sil|[to]|so
+silure	adjetivo	si|[lu]|re
+silure	nome masculino	si|[lu]|re
+silure	nome feminino	si|[lu]|re
+siluriano	adjetivo	si|lu|ri|[a]|no
+silúrico	adjetivo	si|[lú]|ri|co
+silúrida	nome masculino	si|[lú]|ri|da
+silúrida	nome masculino	si|[lú]|ri|da
+silurídeo	nome masculino	si|lu|[rí]|de|o
+silurídeo	adjetivo	si|lu|[rí]|de|o
+silurídeo	nome masculino	si|lu|[rí]|de|o
+siluriforme	adjetivo	si|lu|ri|[for]|me
+siluriforme	nome masculino	si|lu|ri|[for]|me
+siluro	adjetivo	si|[lu]|ro
+siluro	nome masculino	si|[lu]|ro
+siluroide	nome masculino	si|lu|[roi]|de

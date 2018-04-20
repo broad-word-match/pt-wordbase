@@ -1,0 +1,100 @@
+tarde	nome feminino	[tar]|de
+tarde	advérbio	[tar]|de
+tarde	nome masculino	[tar]|de
+tardego	adjetivo	tar|[de]|go
+tardeiro	adjetivo	tar|[dei]|ro
+tardeza	nome feminino	tar|[de]|za
+tardiamente	advérbio	tar|di|a|[men]|te
+tardião	adjetivo	tar|di|[ão]
+tardião	nome masculino	tar|di|[ão]
+tardígrado	adjetivo	tar|[dí]|gra|do
+tardígrado	nome masculino	tar|[dí]|gra|do
+tardíloquo	adjetivo	tar|[dí]|lo|quo
+tardíloquo	nome masculino	tar|[dí]|lo|quo
+tardinha	nome feminino	tar|[di]|nha
+tardinheira	nome feminino	tar|di|[nhei]|ra
+tardinheiro	adjetivo	tar|di|[nhei]|ro
+tardinheiro	nome masculino	tar|di|[nhei]|ro
+tardio	adjetivo	tar|[di]|o
+tardívago	adjetivo	tar|[dí]|va|go
+tardo	adjetivo	[tar]|do
+tardo	nome masculino	[tar]|do
+tardonho	adjetivo	tar|[do]|nho
+tardor	nome masculino	tar|[dor]
+tardoz	nome masculino	tar|[doz]
+tarear	verbo	ta|re|[ar]
+tareca	nome feminino	ta|[re]|ca
+tarecada	nome feminino	ta|re|[ca]|da
+tarecagem	nome feminino	ta|re|[ca]|gem
+tarecena	nome feminino	ta|re|[ce]|na
+tareco	nome masculino	ta|[re]|co
+tareco	adjetivo	ta|[re]|co
+tarefa	nome feminino	ta|[re]|fa
+tarefar	verbo	ta|re|[far]
+tarefeira	nome feminino	ta|re|[fei]|ra
+tarefeiro	adjetivo	ta|re|[fei]|ro
+tarefeiro	nome masculino	ta|re|[fei]|ro
+tarega	nome masculino	ta|[re]|ga
+taregicagem	nome feminino	ta|re|gi|[ca]|gem
+tareia	nome feminino	ta|[rei]|a
+tareira	nome feminino	ta|[rei]|ra
+tarela	nome masculino	ta|[re]|la
+tarela	nome feminino	ta|[re]|la
+tarelar	verbo	ta|re|[lar]
+tarelice	nome feminino	ta|re|[li]|ce
+tarelo	nome masculino	ta|[re]|lo
+tarentela	nome feminino	ta|ren|[te]|la
+tarentino	adjetivo	ta|ren|[ti]|no
+tarentino	nome masculino	ta|ren|[ti]|no
+tarentismo	nome masculino	ta|ren|[tis]|mo
+tarêntula	nome feminino	ta|[rên]|tu|la
+tareroqui	nome masculino	ta|re|ro|[qui]
+targana	nome feminino	tar|[ga]|na
+target	nome masculino	[tar]|get
+targiónia	nome feminino	tar|gi|[ó]|ni|a
+targiônia	nome feminino	tar|gi|[ô]|ni|a
+tari	nome masculino	ta|[ri]
+tariana	adjetivo	ta|ri|[a]|na
+tariana	nome masculino	ta|ri|[a]|na
+tarifa	nome feminino	ta|[ri]|fa
+tarifação	nome feminino	ta|ri|fa|[ção]
+tarifar	verbo	ta|ri|[far]
+tarifário	nome masculino	ta|ri|[fá]|ri|o
+tarifário	adjetivo	ta|ri|[fá]|ri|o
+tarim	nome masculino	ta|[rim]
+tarima	nome feminino	ta|[ri]|ma
+tarimba	nome feminino	ta|[rim]|ba
+tarimbado	adjetivo	ta|rim|[ba]|do
+tarimbar	verbo	ta|rim|[bar]
+tarimbecos	nome masculino	ta|rim|[be]|cos
+tarimbeira	nome feminino	ta|rim|[bei]|ra
+tarimbeiro	adjetivo	ta|rim|[bei]|ro
+tarimbeiro	nome masculino	ta|rim|[bei]|ro
+tarinate	adjetivo	ta|ri|[na]|te
+tarinate	nome masculino	ta|ri|[na]|te
+tarinate	nome feminino	ta|ri|[na]|te
+tarioba	nome feminino	ta|ri|[o]|ba
+tariota	nome masculino	ta|ri|[o]|ta
+tariota	nome feminino	ta|ri|[o]|ta
+taririqui	nome masculino	ta|ri|ri|[qui]
+tarja	nome feminino	[tar]|ja
+tarjado	adjetivo	tar|[ja]|do
+tarjão	nome masculino	tar|[jão]
+tarjar	verbo	tar|[jar]
+tarjeta	nome feminino	tar|[je]|ta
+tarlatana	nome feminino	tar|la|[ta]|na
+tármico	adjetivo	[tár]|mi|co
+taro	nome masculino	[ta]|ro
+taró	nome masculino	ta|[ró]
+tarô	nome masculino	ta|[rô]
+taroca	nome feminino	ta|[ro]|ca
+tarocar	verbo	ta|ro|[car]
+taroco	nome masculino	ta|[ro]|co
+tarol	nome masculino	ta|[rol]
+tarola	nome feminino	ta|[ro]|la
+tarola	nome masculino	ta|[ro]|la
+tarolo	nome masculino	ta|[ro]|lo
+taroque	nome masculino	ta|[ro]|que
+tarot	nome masculino	ta|rot
+tarote	nome masculino	ta|[ro]|te
+tarouca	nome feminino	ta|[rou]|ca

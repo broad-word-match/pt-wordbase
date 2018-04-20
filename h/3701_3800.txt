@@ -1,0 +1,100 @@
+homicídio	nome masculino	ho|mi|[cí]|di|o
+homilética	nome feminino	ho|mi|[lé]|ti|ca
+homilético	adjetivo	ho|mi|[lé]|ti|co
+homília	nome feminino	ho|[mí]|li|a
+homilia	nome feminino	ho|mi|[li]|a
+homiliar	verbo	ho|mi|li|[ar]
+homiliário	nome masculino	ho|mi|li|[á]|ri|o
+homiliasta	nome masculino	ho|mi|li|[as]|ta
+homiliasta	nome feminino	ho|mi|li|[as]|ta
+hominal	adjetivo	ho|mi|[nal]
+hominalidade	nome feminino	ho|mi|na|li|[da]|de
+hominícola	nome masculino	ho|mi|[ní]|co|la
+hominícola	nome feminino	ho|mi|[ní]|co|la
+hominicultura	nome feminino	ho|mi|ni|cul|[tu]|ra
+homínida	nome masculino	ho|[mí]|ni|da
+hominídeo	nome masculino	ho|mi|[ní]|de|o
+hominídeo	adjetivo	ho|mi|[ní]|de|o
+hominídeo	nome masculino	ho|mi|[ní]|de|o
+hominívoro	adjetivo	ho|mi|[ní]|vo|ro
+hominização	nome feminino	ho|mi|ni|za|[ção]
+hominizada	nome feminino	ho|mi|ni|[za]|da
+hominizado	adjetivo	ho|mi|ni|[za]|do
+hominizado	nome masculino	ho|mi|ni|[za]|do
+hominizar	verbo	ho|mi|ni|[zar]
+homiziação	nome feminino	ho|mi|zi|a|[ção]
+homiziado	adjetivo	ho|mi|zi|[a]|do
+homiziado	nome masculino	ho|mi|zi|[a]|do
+homiziar	verbo	ho|mi|zi|[ar]
+homizio	nome masculino	ho|mi|[zi]|o
+homo	nome masculino	[ho]|mo
+homocatalexia	nome feminino	ho|mo|ca|ta|le|[xi]|a
+homocentricamente	advérbio	ho|mo|cen|tri|ca|[men]|te
+homocentricidade	nome feminino	ho|mo|cen|tri|ci|[da]|de
+homocêntrico	adjetivo	ho|mo|[cên]|tri|co
+homocentro	nome masculino	ho|mo|[cen]|tro
+homocerco	adjetivo	ho|mo|[cer]|co
+homocíclico	adjetivo	ho|mo|[cí]|cli|co
+homocidário	adjetivo	ho|mo|ci|[dá]|ri|o
+homocromia	nome feminino	ho|mo|cro|[mi]|a
+homocromo	adjetivo	ho|mo|[cro]|mo
+homocrônico	adjetivo	ho|mo|[crô]|ni|co
+homocrónico	adjetivo	ho|mo|[cró]|ni|co
+homócrono	adjetivo	ho|[mó]|cro|no
+homodermo	adjetivo	ho|mo|[der]|mo
+homodermo	nome masculino	ho|mo|[der]|mo
+homodésmico	adjetivo	ho|mo|[dés]|mi|co
+homodinamia	nome feminino	ho|mo|di|na|[mi]|a
+homodinâmico	adjetivo	ho|mo|di|[nâ]|mi|co
+homodonte	adjetivo	ho|mo|[don]|te
+homódromo	adjetivo	ho|[mó]|dro|mo
+homoerótico	nome masculino	ho|mo|e|[ró]|ti|co
+homoerótico	adjetivo	ho|mo|e|[ró]|ti|co
+homofilia	nome feminino	ho|mo|fi|[li]|a
+homofílico	adjetivo	ho|mo|[fí]|li|co
+homofilo	adjetivo	ho|mo|[fi]|lo
+homofobia	nome feminino	ho|mo|fo|[bi]|a
+homofóbico	adjetivo	ho|mo|[fó]|bi|co
+homófobo	nome masculino	ho|[mó]|fo|bo
+homofocal	adjetivo	ho|mo|fo|[cal]
+homofocalidade	nome feminino	ho|mo|fo|ca|li|[da]|de
+homofonamente	advérbio	ho|mo|fo|na|[men]|te
+homofonia	nome feminino	ho|mo|fo|[ni]|a
+homofonicamente	advérbio	ho|mo|fo|ni|ca|[men]|te
+homofônico	adjetivo	ho|mo|[fô]|ni|co
+homofónico	adjetivo	ho|mo|[fó]|ni|co
+homofonismo	nome masculino	ho|mo|fo|[nis]|mo
+homófono	adjetivo	ho|[mó]|fo|no
+homófono	nome masculino	ho|[mó]|fo|no
+homofonógrafo	adjetivo	ho|mo|fo|[nó]|gra|fo
+homofonógrafo	nome masculino	ho|mo|fo|[nó]|gra|fo
+homofonologia	nome feminino	ho|mo|fo|no|lo|[gi]|a
+homofonológico	adjetivo	ho|mo|fo|no|[ló]|gi|co
+homogamia	nome feminino	ho|mo|ga|[mi]|a
+homogâmico	adjetivo	ho|mo|[gâ]|mi|co
+homógamo	adjetivo	ho|[mó]|ga|mo
+homogeneamente	advérbio	ho|mo|ge|ne|a|[men]|te
+homogeneidade	nome feminino	ho|mo|ge|nei|[da]|de
+homogeneização	nome feminino	ho|mo|ge|nei|za|[ção]
+homogeneizado	adjetivo	ho|mo|ge|nei|[za]|do
+homogeneizador	nome masculino	ho|mo|ge|nei|za|[dor]
+homogeneizador	adjetivo	ho|mo|ge|nei|za|[dor]
+homogeneizadora	nome feminino	ho|mo|ge|nei|za|[do]|ra
+homogeneizante	adjetivo	ho|mo|ge|nei|[zan]|te
+homogeneizar	verbo	ho|mo|ge|nei|[zar]
+homogéneo	adjetivo	ho|mo|[gé]|ne|o
+homogêneo	adjetivo	ho|mo|[gê]|ne|o
+homogenesia	nome feminino	ho|mo|ge|ne|[si]|a
+homogenésico	adjetivo	ho|mo|ge|[né]|si|co
+homogenético	adjetivo	ho|mo|ge|[né]|ti|co
+homogenia	nome feminino	ho|mo|ge|[ni]|a
+homogénico	adjetivo	ho|mo|[gé]|ni|co
+homogênico	adjetivo	ho|mo|[gê]|ni|co
+homografia	nome feminino	ho|mo|gra|[fi]|a
+homograficamente	advérbio	ho|mo|gra|fi|ca|[men]|te
+homográfico	adjetivo	ho|mo|[grá]|fi|co
+homógrafo	adjetivo	ho|[mó]|gra|fo
+homógrafo	nome masculino	ho|[mó]|gra|fo
+homoide	adjetivo	ho|[moi]|de
+homolateral	adjetivo	ho|mo|la|te|[ral]
+homolecítico	adjetivo	ho|mo|le|[cí]|ti|co

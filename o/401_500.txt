@@ -1,0 +1,100 @@
+obtusirrostro	adjetivo	ob|tu|sir|[ros]|tro
+obtuso	adjetivo	ob|[tu]|so
+obumbração	nome feminino	o|bum|bra|[ção]
+obumbramento	nome masculino	o|bum|bra|[men]|to
+obumbrante	adjetivo	o|bum|[bran]|te
+obumbrar	verbo	o|bum|[brar]
+obus	nome masculino	o|[bus]
+obuseiro	adjetivo	o|bu|[sei]|ro
+obuseiro	nome masculino	o|bu|[sei]|ro
+obvenção	nome feminino	ob|ven|[ção]
+obverso	nome masculino	ob|[ver]|so
+obviamente	advérbio	ob|vi|a|[men]|te
+obviar	verbo	ob|vi|[ar]
+obviável	adjetivo	ob|vi|[á]|vel
+obviedade	nome feminino	ob|vi|e|[da]|de
+óbvio	adjetivo	[ób]|vi|o
+obvir	verbo	ob|[vir]
+obvolvido	adjetivo	ob|vol|[vi]|do
+oc	nome masculino	[oc]
+oca	nome feminino	[o]|ca
+ocá	nome masculino	o|[cá]
+ocamente	advérbio	o|ca|[men]|te
+ocanheira	nome feminino	o|ca|[nhei]|ra
+ocanheiro	nome masculino	o|ca|[nhei]|ro
+ocanho	nome masculino	o|[ca]|nho
+ocapi	nome masculino	o|ca|[pi]
+ocar	verbo	o|[car]
+ocarina	nome feminino	o|ca|[ri]|na
+ocarinista	nome masculino	o|ca|ri|[nis]|ta
+ocarinista	nome feminino	o|ca|ri|[nis]|ta
+ocaruçu	nome masculino	o|ca|ru|[çu]
+ocasião	nome feminino	o|ca|si|[ão]
+ocasionado	adjetivo	o|ca|si|o|[na]|do
+ocasionador	adjetivo	o|ca|si|o|na|[dor]
+ocasionador	nome masculino	o|ca|si|o|na|[dor]
+ocasionadora	nome feminino	o|ca|si|o|na|[do]|ra
+ocasional	adjetivo	o|ca|si|o|[nal]
+ocasionalidade	nome feminino	o|ca|si|o|na|li|[da]|de
+ocasionalismo	nome masculino	o|ca|si|o|na|[lis]|mo
+ocasionalista	adjetivo	o|ca|si|o|na|[lis]|ta
+ocasionalista	nome masculino	o|ca|si|o|na|[lis]|ta
+ocasionalista	nome feminino	o|ca|si|o|na|[lis]|ta
+ocasionalmente	advérbio	o|ca|si|o|nal|[men]|te
+ocasionar	verbo	o|ca|si|o|[nar]
+ocasionável	adjetivo	o|ca|si|o|[ná]|vel
+ocaso	nome masculino	o|[ca]|so
+occídio	nome masculino	oc|[cí]|di|o
+occíduo	adjetivo	oc|[cí]|du|o
+occipicial	adjetivo	oc|ci|pi|ci|[al]
+occipício	nome masculino	oc|ci|[pí]|ci|o
+occipital	adjetivo	oc|ci|pi|[tal]
+occipital	nome masculino	oc|ci|pi|[tal]
+occipitauricular	adjetivo	oc|ci|pi|tau|ri|cu|[lar]
+occipitofrontal	adjetivo	oc|ci|pi|to|fron|[tal]
+occipitomeníngeo	adjetivo	oc|ci|pi|to|me|[nín]|ge|o
+occipitoparietal	adjetivo	oc|ci|pi|to|pa|ri|e|[tal]
+occipitopétreo	adjetivo	oc|ci|pi|to|[pé]|tre|o
+occipitovertebral	adjetivo	oc|ci|pi|to|ver|te|[bral]
+occipúcio	nome masculino	oc|ci|[pú]|ci|o
+occiput	nome masculino	oc|ci|put
+ócciput	nome masculino	[óc]|ci|put
+occisão	nome feminino	oc|ci|[são]
+occisivo	adjetivo	oc|ci|[si]|vo
+occitânico	nome masculino	oc|ci|[tâ]|ni|co
+occitânico	adjetivo	oc|ci|[tâ]|ni|co
+occitano	adjetivo	oc|ci|[ta]|no
+oceanário	nome masculino	o|ce|a|[ná]|ri|o
+oceanauta	nome masculino	o|ce|a|[nau]|ta
+oceanauta	nome feminino	o|ce|a|[nau]|ta
+oceânea	nome feminino	o|ce|[â]|ne|a
+oceâneo	adjetivo	o|ce|[â]|ne|o
+oceânica	nome feminino	o|ce|[â]|ni|ca
+oceanicidade	nome feminino	o|ce|a|ni|ci|[da]|de
+oceânico	nome masculino	o|ce|[â]|ni|co
+oceânico	adjetivo	o|ce|[â]|ni|co
+oceânide	nome feminino	o|ce|[â]|ni|de
+oceaniense	adjetivo	o|ce|a|ni|[en]|se
+oceaniense	nome masculino	o|ce|a|ni|[en]|se
+oceaniense	nome feminino	o|ce|a|ni|[en]|se
+oceanítide	nome feminino	o|ce|a|[ní]|ti|de
+oceanito	nome masculino	o|ce|a|[ni]|to
+oceano	nome masculino	o|ce|[a]|no
+oceanógrafa	nome feminino	o|ce|a|[nó]|gra|fa
+oceanografia	nome feminino	o|ce|a|no|gra|[fi]|a
+oceanográfico	adjetivo	o|ce|a|no|[grá]|fi|co
+oceanógrafo	nome masculino	o|ce|a|[nó]|gra|fo
+oceanologia	nome feminino	o|ce|a|no|lo|[gi]|a
+oceanológico	adjetivo	o|ce|a|no|[ló]|gi|co
+oceanologista	nome masculino	o|ce|a|no|lo|[gis]|ta
+oceanologista	nome feminino	o|ce|a|no|lo|[gis]|ta
+oceanólogo	nome masculino	o|ce|a|[nó]|lo|go
+ocelado	adjetivo	o|ce|[la]|do
+ocelária	nome feminino	o|ce|[lá]|ri|a
+océleo	adjetivo	o|[cé]|le|o
+ocelífero	adjetivo	o|ce|[lí]|fe|ro
+oceliforme	adjetivo	o|ce|li|[for]|me
+ocelo	nome masculino	o|[ce]|lo
+ocelote	nome masculino	o|ce|[lo]|te
+ochas	nome feminino	[o]|chas
+oche	interjeição	[o]|che

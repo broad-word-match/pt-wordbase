@@ -1,0 +1,100 @@
+cá	nome masculino	[cá]
+cã	nome feminino	[cã]
+cá	advérbio	[cá]
+ca	conjunção	[ca]
+cã	nome masculino	[cã]
+cá-vai	nome masculino	[cá-vai]
+caã	adjetivo	ca|[ã]
+caã	nome masculino	ca|[ã]
+caã	nome feminino	ca|[ã]
+caaba	nome feminino	ca|[a]|ba
+caacambuí	nome masculino	ca|a|cam|bu|[í]
+caacuí	nome feminino	ca|a|cu|[í]
+caaetê	nome masculino	ca|a|e|[tê]
+caaguará	nome feminino	ca|a|gua|[rá]
+caaingá	nome feminino	ca|a|in|[gá]
+caama	nome masculino	ca|[a]|ma
+caamembeca	nome feminino	ca|a|mem|[be]|ca
+caami	nome masculino	ca|a|[mi]
+caaobi	nome masculino	ca|a|o|[bi]
+caapeba	nome feminino	ca|a|[pe]|ba
+caapiá	nome feminino	ca|a|pi|[á]
+caapiá	nome masculino	ca|a|pi|[á]
+caapiá-açu	nome masculino	ca|a|pi|á-a|[çu]
+caapiá-mirim	nome masculino	ca|a|pi|á-mi|[rim]
+caapomonga	nome feminino	ca|a|po|[mon]|ga
+caarina	nome feminino	ca|a|[ri]|na
+caatiguá	nome masculino	ca|a|ti|[guá]
+caatinga	nome feminino	ca|a|[tin]|ga
+caatininga	nome feminino	ca|a|ti|[nin]|ga
+caavurana	nome feminino	ca|a|vu|[ra]|na
+caba	nome feminino	[ca]|ba
+cabaça	nome masculino	ca|[ba]|ça
+cabaça	nome feminino	ca|[ba]|ça
+cabaçada	nome feminino	ca|ba|[ça]|da
+cabaçal	nome masculino	ca|ba|[çal]
+cabação	nome masculino	ca|ba|[ção]
+cabaceira	nome feminino	ca|ba|[cei]|ra
+cabaceiro	nome masculino	ca|ba|[cei]|ro
+cabacinha	nome feminino	ca|ba|[ci]|nha
+cabacinho	nome masculino	ca|ba|[ci]|nho
+cabaço	nome masculino	ca|[ba]|ço
+cabaçu	nome masculino	ca|ba|[çu]
+cabaçuda	nome feminino	ca|ba|[çu]|da
+cabaçudo	adjetivo	ca|ba|[çu]|do
+cabaçudo	nome masculino	ca|ba|[çu]|do
+cabaia	nome feminino	ca|[bai]|a
+cabaíba	adjetivo	ca|ba|[í]|ba
+cabaíba	nome masculino	ca|ba|[í]|ba
+cabaíba	nome feminino	ca|ba|[í]|ba
+cabal	adjetivo	ca|[bal]
+cabala	nome feminino	ca|[ba]|la
+cabala	adjetivo	ca|[ba]|la
+cabala	nome masculino	ca|[ba]|la
+cabalacaxengo	nome masculino	ca|ba|la|ca|[xen]|go
+cabalar	verbo	ca|ba|[lar]
+cabaleta	nome feminino	ca|ba|[le]|ta
+cabalim	nome masculino	ca|ba|[lim]
+cabalino	adjetivo	ca|ba|[li]|no
+cabalista	nome masculino	ca|ba|[lis]|ta
+cabalista	nome feminino	ca|ba|[lis]|ta
+cabalisticamente	advérbio	ca|ba|lis|ti|ca|[men]|te
+cabalístico	adjetivo	ca|ba|[lís]|ti|co
+cabalmente	advérbio	ca|bal|[men]|te
+cabamba	nome feminino	ca|[bam]|ba
+cabamirim	nome feminino	ca|ba|mi|[rim]
+cabana	nome feminino	ca|[ba]|na
+cabanada	nome feminino	ca|ba|[na]|da
+cabanagem	nome feminino	ca|ba|[na]|gem
+cabanal	nome masculino	ca|ba|[nal]
+cabaneira	nome feminino	ca|ba|[nei]|ra
+cabaneiro	nome masculino	ca|ba|[nei]|ro
+cabanejo	nome masculino	ca|ba|[ne]|jo
+cabanel	nome masculino	ca|ba|[nel]
+cabanga	nome feminino	ca|[ban]|ga
+cabanha	nome feminino	ca|[ba]|nha
+cabanil	nome masculino	ca|ba|[nil]
+cabanilho	nome masculino	ca|ba|[ni]|lho
+cabano	nome masculino	ca|[ba]|no
+cabano	adjetivo	ca|[ba]|no
+cabaré	nome masculino	ca|ba|[ré]
+cabaret	nome masculino	ca|ba|ret
+cabareteira	nome feminino	ca|ba|re|[tei]|ra
+cabareteiro	nome masculino	ca|ba|re|[tei]|ro
+cabarro	nome masculino	ca|[bar]|ro
+cabás	nome masculino	ca|[bás]
+cabasita	adjetivo	ca|ba|[si]|ta
+cabasita	nome masculino	ca|ba|[si]|ta
+cabasita	nome feminino	ca|ba|[si]|ta
+cabatã	nome feminino	ca|ba|[tã]
+cabatatu	nome feminino	ca|ba|ta|[tu]
+cabaú	nome masculino	ca|ba|[ú]
+cabaz	nome masculino	ca|[baz]
+cabazada	nome feminino	ca|ba|[za]|da
+cabazeiro	nome masculino	ca|ba|[zei]|ro
+cabe	nome masculino	[ca]|be
+cabear	verbo	ca|be|[ar]
+cabeça	nome masculino	ca|[be]|ça
+cabeça	nome feminino	ca|[be]|ça
+cabeça de abóbora	nome masculino	ca|[be]|ça de a|bó|bo|ra
+cabeça de abóbora	nome feminino	ca|[be]|ça de a|bó|bo|ra

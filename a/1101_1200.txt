@@ -1,0 +1,100 @@
+abolidor	adjetivo	a|bo|li|[dor]
+abolidor	nome masculino	a|bo|li|[dor]
+abolim	nome masculino	a|bo|[lim]
+abolimento	nome masculino	a|bo|li|[men]|to
+abolinar	verbo	a|bo|li|[nar]
+abolir	verbo	a|bo|[lir]
+abolitivo	adjetivo	a|bo|li|[ti]|vo
+abolitório	adjetivo	a|bo|li|[tó]|ri|o
+abolível	adjetivo	a|bo|[lí]|vel
+abolorecer	verbo	a|bo|lo|re|[cer]
+abolorecimento	nome masculino	a|bo|lo|re|ci|[men]|to
+abolorentar	verbo	a|bo|lo|ren|[tar]
+abolório	nome masculino	a|bo|[ló]|ri|o
+abolsado	adjetivo	a|bol|[sa]|do
+abolsar	verbo	a|bol|[sar]
+abomaso	nome masculino	a|bo|[ma]|so
+abombachado	adjetivo	a|bom|ba|[cha]|do
+abominábil	adjetivo	a|bo|mi|[ná]|bil
+abominação	nome feminino	a|bo|mi|na|[ção]
+abominado	adjetivo	a|bo|mi|[na]|do
+abominador	adjetivo	a|bo|mi|na|[dor]
+abominador	nome masculino	a|bo|mi|na|[dor]
+abominando	adjetivo	a|bo|mi|[nan]|do
+abominar	verbo	a|bo|mi|[nar]
+abominatório	adjetivo	a|bo|mi|na|[tó]|ri|o
+abominável	adjetivo	a|bo|mi|[ná]|vel
+abominavelmente	advérbio	a|bo|mi|na|vel|[men]|te
+abomínio	nome masculino	a|bo|[mí]|ni|o
+abominosamente	advérbio	a|bo|mi|no|sa|[men]|te
+abominoso	adjetivo	a|bo|mi|[no]|so
+abonação	nome feminino	a|bo|na|[ção]
+abonadamente	advérbio	a|bo|na|da|[men]|te
+abonado	adjetivo	a|bo|[na]|do
+abonador	adjetivo	a|bo|na|[dor]
+abonador	nome masculino	a|bo|na|[dor]
+abonadora	nome feminino	a|bo|na|[do]|ra
+abonamento	nome masculino	a|bo|na|[men]|to
+abonançado	adjetivo	a|bo|nan|[ça]|do
+abonançador	adjetivo	a|bo|nan|ça|[dor]
+abonançador	nome masculino	a|bo|nan|ça|[dor]
+abonançar	verbo	a|bo|nan|[çar]
+abonar	verbo	a|bo|[nar]
+abonatário	adjetivo	a|bo|na|[tá]|ri|o
+abonatário	nome masculino	a|bo|na|[tá]|ri|o
+abonativamente	advérbio	a|bo|na|ti|va|[men]|te
+abonativo	adjetivo	a|bo|na|[ti]|vo
+abonatoriamente	advérbio	a|bo|na|to|ri|a|[men]|te
+abonatório	adjetivo	a|bo|na|[tó]|ri|o
+abonável	adjetivo	a|bo|[ná]|vel
+abonaxi	nome masculino	a|bo|na|[xi]
+abonda	interjeição	a|[bon]|da
+abondança	nome feminino	a|bon|[dan]|ça
+abondar	verbo	a|bon|[dar]
+abonde	advérbio	a|[bon]|de
+abondo	advérbio	a|[bon]|do
+abonecadamente	advérbio	a|bo|ne|ca|da|[men]|te
+abonecado	adjetivo	a|bo|ne|[ca]|do
+abonecar	verbo	a|bo|ne|[car]
+abono	nome masculino	a|[bo]|no
+aboquejar	verbo	a|bo|que|[jar]
+aboquejo	nome masculino	a|bo|[que]|jo
+aboquilhado	adjetivo	a|bo|qui|[lha]|do
+aboquilhar	verbo	a|bo|qui|[lhar]
+aboral	adjetivo	a|bo|[ral]
+aborbitar	verbo	a|bor|bi|[tar]
+aborbulhado	adjetivo	a|bor|bu|[lha]|do
+aborbulhar	verbo	a|bor|bu|[lhar]
+aborcar	verbo	a|bor|[car]
+aborcionista	adjetivo	a|bor|ci|o|[nis]|ta
+aborcionista	nome masculino	a|bor|ci|o|[nis]|ta
+aborcionista	nome feminino	a|bor|ci|o|[nis]|ta
+abordada	nome feminino	a|bor|[da]|da
+abordado	adjetivo	a|bor|[da]|do
+abordador	adjetivo	a|bor|da|[dor]
+abordador	nome masculino	a|bor|da|[dor]
+abordagem	nome feminino	a|bor|[da]|gem
+abordante	adjetivo	a|bor|[dan]|te
+abordar	verbo	a|bor|[dar]
+abordável	adjetivo	a|bor|[dá]|vel
+abordo	nome masculino	a|[bor]|do
+abordoado	adjetivo	a|bor|do|[a]|do
+abordoar	verbo	a|bor|do|[ar]
+aborigenado	adjetivo	a|bo|ri|ge|[na]|do
+aborígene	adjetivo	a|bo|[rí]|ge|ne
+aborígene	nome masculino	a|bo|[rí]|ge|ne
+aborígene	nome feminino	a|bo|[rí]|ge|ne
+aborletar	verbo	a|bor|le|[tar]
+abornalar	verbo	a|bor|na|[lar]
+aborrascado	adjetivo	a|bor|ras|[ca]|do
+aborrascar	verbo	a|bor|ras|[car]
+aborrecedor	adjetivo	a|bor|re|ce|[dor]
+aborrecedor	nome masculino	a|bor|re|ce|[dor]
+aborrecedora	nome feminino	a|bor|re|ce|[do]|ra
+aborrecer	verbo	a|bor|re|[cer]
+aborrecida	nome feminino	a|bor|re|[ci]|da
+aborrecidamente	advérbio	a|bor|re|ci|da|[men]|te
+aborrecido	nome masculino	a|bor|re|[ci]|do
+aborrecido	adjetivo	a|bor|re|[ci]|do
+aborrecimento	nome masculino	a|bor|re|ci|[men]|to
+aborrecível	adjetivo	a|bor|re|[cí]|vel

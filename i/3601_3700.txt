@@ -1,0 +1,100 @@
+inexpugnábil	adjetivo	i|nex|pug|[ná]|bil
+inexpugnabilidade	nome feminino	i|nex|pug|na|bi|li|[da]|de
+inexpugnado	adjetivo	i|nex|pug|[na]|do
+inexpugnável	adjetivo	i|nex|pug|[ná]|vel
+inextensão	nome feminino	i|nex|ten|[são]
+inextensibilidade	nome feminino	i|nex|ten|si|bi|li|[da]|de
+inextensível	adjetivo	i|nex|ten|[sí]|vel
+inextensivo	adjetivo	i|nex|ten|[si]|vo
+inextenso	adjetivo	i|nex|[ten]|so
+inexterminabilidade	nome feminino	i|nex|ter|mi|na|bi|li|[da]|de
+inexterminável	adjetivo	i|nex|ter|mi|[ná]|vel
+inextinguibilidade	nome feminino	i|nex|tin|gui|bi|li|[da]|de
+inextinguível	adjetivo	i|nex|tin|[guí]|vel
+inextinto	adjetivo	i|nex|[tin]|to
+inextirpabilidade	nome feminino	i|nex|tir|pa|bi|li|[da]|de
+inextirpável	adjetivo	i|nex|tir|[pá]|vel
+inextricabilidade	nome feminino	i|nex|tri|ca|bi|li|[da]|de
+inextricável	adjetivo	i|nex|tri|[cá]|vel
+inextricavelmente	advérbio	i|nex|tri|ca|vel|[men]|te
+infactível	adjetivo	in|fac|[tí]|vel
+infacundo	adjetivo	in|fa|[cun]|do
+infalibilidade	nome feminino	in|fa|li|bi|li|[da]|de
+infalibilismo	nome masculino	in|fa|li|bi|[lis]|mo
+infalibilista	nome masculino	in|fa|li|bi|[lis]|ta
+infalibilista	nome feminino	in|fa|li|bi|[lis]|ta
+infalível	adjetivo	in|fa|[lí]|vel
+infalível	nome feminino	in|fa|[lí]|vel
+infalivelmente	advérbio	in|fa|li|vel|[men]|te
+infalsificável	adjetivo	in|fal|si|fi|[cá]|vel
+infamação	nome feminino	in|fa|ma|[ção]
+infamador	adjetivo	in|fa|ma|[dor]
+infamador	nome masculino	in|fa|ma|[dor]
+infamante	adjetivo	in|fa|[man]|te
+infamar	verbo	in|fa|[mar]
+infamatório	adjetivo	in|fa|ma|[tó]|ri|o
+infamável	adjetivo	in|fa|[má]|vel
+infame	adjetivo	in|[fa]|me
+infame	nome feminino	in|[fa]|me
+infame	nome masculino	in|[fa]|me
+infamemente	advérbio	in|fa|me|[men]|te
+infâmia	nome feminino	in|[fâ]|mi|a
+infanação	nome masculino	in|fa|na|[ção]
+infanção	nome masculino	in|fan|[ção]
+infância	nome feminino	in|[fân]|ci|a
+infando	adjetivo	in|[fan]|do
+infanta	nome feminino	in|[fan]|ta
+infantádigo	nome masculino	in|fan|[tá]|di|go
+infantado	nome masculino	in|fan|[ta]|do
+infantaria	nome feminino	in|fan|ta|[ri]|a
+infantário	nome masculino	in|fan|[tá]|ri|o
+infantático	nome masculino	in|fan|[tá]|ti|co
+infante	nome masculino	in|[fan]|te
+infante	adjetivo	in|[fan]|te
+infanteria	nome feminino	in|fan|te|[ri]|a
+infanticida	nome masculino	in|fan|ti|[ci]|da
+infanticida	adjetivo	in|fan|ti|[ci]|da
+infanticida	nome feminino	in|fan|ti|[ci]|da
+infanticídio	nome masculino	in|fan|ti|[cí]|di|o
+infantil	adjetivo	in|fan|[til]
+infantilidade	nome feminino	in|fan|ti|li|[da]|de
+infantilismo	nome masculino	in|fan|ti|[lis]|mo
+infantilização	nome feminino	in|fan|ti|li|za|[ção]
+infantilizado	adjetivo	in|fan|ti|li|[za]|do
+infantilizar	verbo	in|fan|ti|li|[zar]
+infantilmente	advérbio	in|fan|til|[men]|te
+infantino	adjetivo	in|fan|[ti]|no
+infantismo	nome masculino	in|fan|[tis]|mo
+infantista	adjetivo	in|fan|[tis]|ta
+infantista	nome masculino	in|fan|[tis]|ta
+infantista	nome feminino	in|fan|[tis]|ta
+infantojuvenil	adjetivo	in|fan|to|ju|ve|[nil]
+infartável	adjetivo	in|far|[tá]|vel
+infarto	nome masculino	in|[far]|to
+infatigabilidade	nome feminino	in|fa|ti|ga|bi|li|[da]|de
+infatigável	adjetivo	in|fa|ti|[gá]|vel
+infatigavelmente	advérbio	in|fa|ti|ga|vel|[men]|te
+infatível	adjetivo	in|fa|[tí]|vel
+infaustamente	advérbio	in|faus|ta|[men]|te
+infausto	adjetivo	in|[faus]|to
+infazível	adjetivo	in|fa|[zí]|vel
+infeção	nome feminino	in|fe|[ção]
+infecção	nome feminino	in|fec|[ção]
+infecciologia	nome feminino	in|fec|ci|o|lo|[gi]|a
+infecciologista	adjetivo	in|fec|ci|o|lo|[gis]|ta
+infecciologista	nome masculino	in|fec|ci|o|lo|[gis]|ta
+infecciologista	nome feminino	in|fec|ci|o|lo|[gis]|ta
+infeccionado	adjetivo	in|fec|ci|o|[na]|do
+infeccionar	verbo	in|fec|ci|o|[nar]
+infecciosamente	advérbio	in|fec|ci|o|sa|[men]|te
+infecciosidade	nome feminino	in|fec|ci|o|si|[da]|de
+infeccioso	adjetivo	in|fec|ci|[o]|so
+infeciologia	nome feminino	in|fe|ci|o|lo|[gi]|a
+infeciologista	adjetivo	in|fe|ci|o|lo|[gis]|ta
+infeciologista	nome masculino	in|fe|ci|o|lo|[gis]|ta
+infeciologista	nome feminino	in|fe|ci|o|lo|[gis]|ta
+infecionado	adjetivo	in|fe|ci|o|[na]|do
+infecionar	verbo	in|fe|ci|o|[nar]
+infecioso	adjetivo	in|fe|ci|[o]|so
+infectada	nome feminino	in|fec|[ta]|da
+infectado	adjetivo	in|fec|[ta]|do

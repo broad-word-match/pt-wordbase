@@ -1,0 +1,100 @@
+atitar	verbo	a|ti|[tar]
+atito	nome masculino	a|[ti]|to
+atitude	nome feminino	a|ti|[tu]|de
+ativa	nome feminino	a|[ti]|va
+ativação	nome feminino	a|ti|va|[ção]
+ativado	adjetivo	a|ti|[va]|do
+ativador	adjetivo	a|ti|va|[dor]
+ativador	nome masculino	a|ti|va|[dor]
+ativamente	advérbio	a|ti|va|[men]|te
+ativante	adjetivo	a|ti|[van]|te
+ativar	verbo	a|ti|[var]
+ativável	adjetivo	a|ti|[vá]|vel
+atividade	nome feminino	a|ti|vi|[da]|de
+ativismo	nome masculino	a|ti|[vis]|mo
+ativíssimo	adjetivo	a|ti|[vís]|si|mo
+ativista	adjetivo	a|ti|[vis]|ta
+ativista	nome masculino	a|ti|[vis]|ta
+ativista	nome feminino	a|ti|[vis]|ta
+ativo	adjetivo	a|[ti]|vo
+ativo	nome masculino	a|[ti]|vo
+atlante	nome masculino	a|[tlan]|te
+atlante	adjetivo	a|[tlan]|te
+atlanteu	adjetivo	a|tlan|[teu]
+atlântico	adjetivo	a|[tlân]|ti|co
+atlantismo	nome masculino	a|tlan|[tis]|mo
+atlantista	adjetivo	a|tlan|[tis]|ta
+atlanto-mediterrâneo	nome masculino	a|tlan|to-me|di|ter|[râ]|ne|o
+atlanto-mediterrâneo	adjetivo	a|tlan|to-me|di|ter|[râ]|ne|o
+atlantossáurio	nome masculino	a|tlan|tos|[sáu]|ri|o
+atlas	nome masculino	[a]|tlas
+atleta	adjetivo	a|[tle]|ta
+atleta	nome masculino	a|[tle]|ta
+atleta	nome feminino	a|[tle]|ta
+atlética	nome feminino	a|[tlé]|ti|ca
+atleticamente	advérbio	a|tle|ti|ca|[men]|te
+atlético	adjetivo	a|[tlé]|ti|co
+atletismo	nome masculino	a|tle|[tis]|mo
+atloide	adjetivo	a|[tloi]|de
+atloide	nome masculino	a|[tloi]|de
+atlóteta	nome masculino	a|[tló]|te|ta
+atmiatria	nome feminino	at|mi|a|[tri]|a
+atmiátrico	adjetivo	at|mi|[á]|tri|co
+atmidiatria	nome feminino	at|mi|di|a|[tri]|a
+atmidiátrico	adjetivo	at|mi|di|[á]|tri|co
+atmidométrico	adjetivo	at|mi|do|[mé]|tri|co
+atmidômetro	nome masculino	at|mi|[dô]|me|tro
+atmidómetro	nome masculino	at|mi|[dó]|me|tro
+atmófilo	adjetivo	at|[mó]|fi|lo
+atmólise	nome feminino	at|[mó]|li|se
+atmométrico	adjetivo	at|mo|[mé]|tri|co
+atmômetro	nome masculino	at|[mô]|me|tro
+atmómetro	nome masculino	at|[mó]|me|tro
+atmosfera	nome feminino	at|mos|[fe]|ra
+atmosférico	adjetivo	at|mos|[fé]|ri|co
+atmosferografia	nome feminino	at|mos|fe|ro|gra|[fi]|a
+atmosferográfico	adjetivo	at|mos|fe|ro|[grá]|fi|co
+atmosferologia	nome feminino	at|mos|fe|ro|lo|[gi]|a
+atmosferológico	adjetivo	at|mos|fe|ro|[ló]|gi|co
+ato	nome masculino	[a]|to
+atoa	adjetivo	a|[to]|a
+atoada	nome feminino	a|to|[a]|da
+atoagem	nome feminino	a|to|[a]|gem
+atoalhado	adjetivo	a|to|a|[lha]|do
+atoalhado	nome masculino	a|to|a|[lha]|do
+atoalhar	verbo	a|to|a|[lhar]
+atoamente	advérbio	a|to|a|[men]|te
+atoar	verbo	a|to|[ar]
+atoarda	nome feminino	a|to|[ar]|da
+atobá	nome masculino	a|to|[bá]
+atocaiado	adjetivo	a|to|cai|[a]|do
+atocaiar	verbo	a|to|cai|[ar]
+atocalto	nome masculino	a|to|[cal]|to
+atochado	adjetivo	a|to|[cha]|do
+atochador	nome masculino	a|to|cha|[dor]
+atochador	adjetivo	a|to|cha|[dor]
+atochar	verbo	a|to|[char]
+atocho	nome masculino	a|[to]|cho
+atocia	nome feminino	a|to|[ci]|a
+atócico	adjetivo	a|[tó]|ci|co
+atoiçar	verbo	a|toi|[çar]
+atoicinhado	adjetivo	a|toi|ci|[nha]|do
+atoicinhar	verbo	a|toi|ci|[nhar]
+atol	nome masculino	a|[tol]
+atoladamente	advérbio	a|to|la|da|[men]|te
+atoladeiro	nome masculino	a|to|la|[dei]|ro
+atoladela	nome feminino	a|to|la|[de]|la
+atoladiço	adjetivo	a|to|la|[di]|ço
+atolado	adjetivo	a|to|[la]|do
+atoladoiro	nome masculino	a|to|la|[doi]|ro
+atoladouro	nome masculino	a|to|la|[dou]|ro
+atolambado	adjetivo	a|to|lam|[ba]|do
+atolambar	verbo	a|to|lam|[bar]
+atolamento	nome masculino	a|to|la|[men]|to
+atolar	verbo	a|to|[lar]
+atoldoar	verbo	a|tol|do|[ar]
+atoledo	nome masculino	a|to|[le]|do
+atoleimadamente	advérbio	a|to|lei|ma|da|[men]|te
+atoleimado	adjetivo	a|to|lei|[ma]|do
+atoleimar	verbo	a|to|lei|[mar]
+atoleiro	nome masculino	a|to|[lei]|ro

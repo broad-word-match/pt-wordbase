@@ -1,0 +1,100 @@
+abdominoscópico	adjetivo	ab|do|mi|nos|[có]|pi|co
+abdominoscópio	nome masculino	ab|do|mi|nos|[có]|pi|o
+abdominoso	adjetivo	ab|do|mi|[no]|so
+abdominotorácico	adjetivo	ab|do|mi|no|to|[rá]|ci|co
+abdução	nome feminino	ab|du|[ção]
+abducente	adjetivo	ab|du|[cen]|te
+abdutivo	adjetivo	ab|du|[ti]|vo
+abdutor	nome masculino	ab|du|[tor]
+abdutor	adjetivo	ab|du|[tor]
+abduzir	verbo	ab|du|[zir]
+abduzível	adjetivo	ab|du|[zí]|vel
+abeata	nome masculino	a|be|[a]|ta
+abeata	adjetivo	a|be|[a]|ta
+abeata	nome feminino	a|be|[a]|ta
+abeatadamente	advérbio	a|be|a|ta|da|[men]|te
+abeatado	adjetivo	a|be|a|[ta]|do
+abeatar	verbo	a|be|a|[tar]
+abêbera	nome feminino	a|[bê]|be|ra
+abeberação	nome feminino	a|be|be|ra|[ção]
+abeberado	adjetivo	a|be|be|[ra]|do
+abeberar	verbo	a|be|be|[rar]
+abebereira	nome feminino	a|be|be|[rei]|ra
+abebra	nome feminino	a|[be]|bra
+abecedar	verbo	a|be|ce|[dar]
+abecedária	nome feminino	a|be|ce|[dá]|ri|a
+abecedariamente	advérbio	a|be|ce|da|ri|a|[men]|te
+abecedário	nome masculino	a|be|ce|[dá]|ri|o
+abecedário	adjetivo	a|be|ce|[dá]|ri|o
+abecoinha	nome feminino	a|be|co|[i]|nha
+abécula	nome feminino	a|[bé]|cu|la
+abegão	nome masculino	a|be|[gão]
+abegoa	nome feminino	a|be|[go]|a
+abegoaria	nome feminino	a|be|go|a|[ri]|a
+abegoura	nome feminino	a|be|[gou]|ra
+abeiçar	verbo	a|bei|[çar]
+abeirado	adjetivo	a|bei|[ra]|do
+abeiramento	nome masculino	a|bei|ra|[men]|to
+abeirante	adjetivo	a|bei|[ran]|te
+abeirar	verbo	a|bei|[rar]
+abeiro	nome masculino	a|[bei]|ro
+abeiro	adjetivo	a|[bei]|ro
+abejaruco	nome masculino	a|be|ja|[ru]|co
+abelano	nome masculino	a|be|[la]|no
+abelano	adjetivo	a|be|[la]|no
+abeleirar	verbo	a|be|lei|[rar]
+abelense	adjetivo	a|be|[len]|se
+abelense	nome masculino	a|be|[len]|se
+abelense	nome feminino	a|be|[len]|se
+abelha	nome feminino	a|[be]|lha
+abelha-da-terra	nome feminino	a|be|lha-da-ter|ra
+abelha-flor	nome feminino	a|be|lha-flor
+abelhal	nome masculino	a|be|[lhal]
+abelhamirim	nome feminino	a|be|lha|mi|[rim]
+abelhão	nome masculino	a|be|[lhão]
+abelhar	verbo	a|be|[lhar]
+abelharuco	nome masculino	a|be|lha|[ru]|co
+abelheira	nome feminino	a|be|[lhei]|ra
+abelheiro	nome masculino	a|be|[lhei]|ro
+abelhinha	nome feminino	a|be|[lhi]|nha
+abelhu	adjetivo	a|be|[lhu]
+abelhuco	nome masculino	a|be|[lhu]|co
+abelhuda	nome feminino	a|be|[lhu]|da
+abelhudamente	advérbio	a|be|lhu|da|[men]|te
+abelhudar	verbo	a|be|lhu|[dar]
+abelhudice	nome feminino	a|be|lhu|[di]|ce
+abelhudo	adjetivo	a|be|[lhu]|do
+abelhudo	nome masculino	a|be|[lhu]|do
+abélia	nome feminino	a|[bé]|li|a
+abeliano	adjetivo	a|be|li|[a]|no
+abeliano	nome masculino	a|be|li|[a]|no
+abelidado	adjetivo	a|be|li|[da]|do
+abelidar	verbo	a|be|li|[dar]
+abelinate	adjetivo	a|be|li|[na]|te
+abelinate	nome masculino	a|be|li|[na]|te
+abelinate	nome feminino	a|be|li|[na]|te
+abelmeluco	nome masculino	a|bel|me|[lu]|co
+abelmosco	nome masculino	a|bel|[mos]|co
+abeloira	nome feminino	a|be|[loi]|ra
+abeloura	nome feminino	a|be|[lou]|ra
+abemoladamente	advérbio	a|be|mo|la|da|[men]|te
+abemolado	adjetivo	a|be|mo|[la]|do
+abemolar	verbo	a|be|mo|[lar]
+abencerrage	nome feminino	a|ben|cer|[ra]|ge
+abencerrage	nome masculino	a|ben|cer|[ra]|ge
+abencerragem	nome masculino	a|ben|cer|[ra]|gem
+abencerragem	adjetivo	a|ben|cer|[ra]|gem
+abençoadamente	advérbio	a|ben|ço|a|da|[men]|te
+abençoadeiro	nome masculino	a|ben|ço|a|[dei]|ro
+abençoadeiro	adjetivo	a|ben|ço|a|[dei]|ro
+abençoado	adjetivo	a|ben|ço|[a]|do
+abençoador	adjetivo	a|ben|ço|a|[dor]
+abençoador	nome masculino	a|ben|ço|a|[dor]
+abençoamento	nome masculino	a|ben|ço|a|[men]|to
+abençoante	adjetivo	a|ben|ço|[an]|te
+abençoante	nome masculino	a|ben|ço|[an]|te
+abençoante	nome feminino	a|ben|ço|[an]|te
+abençoar	verbo	a|ben|ço|[ar]
+abençoável	adjetivo	a|ben|ço|[á]|vel
+abendiçoado	adjetivo	a|ben|di|ço|[a]|do
+abendiçoador	adjetivo	a|ben|di|ço|a|[dor]

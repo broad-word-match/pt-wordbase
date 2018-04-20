@@ -1,0 +1,100 @@
+côncano	nome masculino	[côn]|ca|no
+concassivo	adjetivo	con|cas|[si]|vo
+concassor	nome masculino	con|cas|[sor]
+concatenação	nome feminino	con|ca|te|na|[ção]
+concatenador	adjetivo	con|ca|te|na|[dor]
+concatenador	nome masculino	con|ca|te|na|[dor]
+concatenamento	nome masculino	con|ca|te|na|[men]|to
+concatenar	verbo	con|ca|te|[nar]
+concausa	nome feminino	con|[cau]|sa
+concava	nome feminino	con|[ca]|va
+concavar	verbo	con|ca|[var]
+concavidade	nome feminino	con|ca|vi|[da]|de
+concavifoliado	adjetivo	con|ca|vi|fo|li|[a]|do
+côncavo	nome masculino	[côn]|ca|vo
+côncavo	adjetivo	[côn]|ca|vo
+côncavo-côncavo	adjetivo	côn|ca|vo-côn|ca|vo
+côncavo-convexo	adjetivo	côn|ca|vo-con|[ve]|xo
+conceber	verbo	con|ce|[ber]
+concebido	adjetivo	con|ce|[bi]|do
+concebimento	nome masculino	con|ce|bi|[men]|to
+concebível	adjetivo	con|ce|[bí]|vel
+conceção	nome feminino	con|ce|[ção]
+concecional	adjetivo	con|ce|ci|o|[nal]
+concecionário	nome masculino	con|ce|ci|o|[ná]|ri|o
+concecionário	adjetivo	con|ce|ci|o|[ná]|ri|o
+concedente	adjetivo	con|ce|[den]|te
+concedente	nome masculino	con|ce|[den]|te
+concedente	nome feminino	con|ce|[den]|te
+conceder	verbo	con|ce|[der]
+concedido	adjetivo	con|ce|[di]|do
+concedível	adjetivo	con|ce|[dí]|vel
+conceição	nome feminino	con|cei|[ção]
+conceicionista	adjetivo	con|cei|ci|o|[nis]|ta
+conceicionista	nome feminino	con|cei|ci|o|[nis]|ta
+conceiçoense	adjetivo	con|cei|ço|[en]|se
+conceiçoense	nome masculino	con|cei|ço|[en]|se
+conceiçoense	nome feminino	con|cei|ço|[en]|se
+conceitista	nome masculino	con|cei|[tis]|ta
+conceitista	nome feminino	con|cei|[tis]|ta
+conceito	nome masculino	con|[cei]|to
+conceituado	adjetivo	con|cei|tu|[a]|do
+conceitual	adjetivo	con|cei|tu|[al]
+conceitualidade	nome feminino	con|cei|tu|a|li|[da]|de
+conceitualismo	nome masculino	con|cei|tu|a|[lis]|mo
+conceitualista	nome masculino	con|cei|tu|a|[lis]|ta
+conceitualista	nome feminino	con|cei|tu|a|[lis]|ta
+conceitualização	nome feminino	con|cei|tu|a|li|za|[ção]
+conceitualizar	verbo	con|cei|tu|a|li|[zar]
+conceitualizável	adjetivo	con|cei|tu|a|li|[zá]|vel
+conceituar	verbo	con|cei|tu|[ar]
+conceituosamente	advérbio	con|cei|tu|o|sa|[men]|te
+conceituoso	adjetivo	con|cei|tu|[o]|so
+concelebração	nome feminino	con|ce|le|bra|[ção]
+concelebrante	adjetivo	con|ce|le|[bran]|te
+concelebrante	nome masculino	con|ce|le|[bran]|te
+concelebrante	nome feminino	con|ce|le|[bran]|te
+concelebrar	verbo	con|ce|le|[brar]
+concelheiro	nome masculino	con|ce|[lhei]|ro
+concelheiro	adjetivo	con|ce|[lhei]|ro
+concelhia	nome feminino	con|ce|[lhi]|a
+concelhio	adjetivo	con|ce|[lhi]|o
+concelho	nome masculino	con|[ce]|lho
+concento	nome masculino	con|[cen]|to
+concentração	nome feminino	con|cen|tra|[ção]
+concentracionário	adjetivo	con|cen|tra|ci|o|[ná]|ri|o
+concentradamente	advérbio	con|cen|tra|da|[men]|te
+concentrado	adjetivo	con|cen|[tra]|do
+concentrado	nome masculino	con|cen|[tra]|do
+concentrador	adjetivo	con|cen|tra|[dor]
+concentrador	nome masculino	con|cen|tra|[dor]
+concentralização	nome feminino	con|cen|tra|li|za|[ção]
+concentrar	verbo	con|cen|[trar]
+concentrável	adjetivo	con|cen|[trá]|vel
+concentricamente	advérbio	con|cen|tri|ca|[men]|te
+concentricidade	nome feminino	con|cen|tri|ci|[da]|de
+concêntrico	adjetivo	con|[cên]|tri|co
+concentrismo	nome masculino	con|cen|[tris]|mo
+concentrista	nome masculino	con|cen|[tris]|ta
+concentrista	nome feminino	con|cen|[tris]|ta
+concepção	nome feminino	con|cep|[ção]
+concepcional	adjetivo	con|cep|ci|o|[nal]
+concepcionário	adjetivo	con|cep|ci|o|[ná]|ri|o
+concepcionário	nome masculino	con|cep|ci|o|[ná]|ri|o
+conceptaculífero	adjetivo	con|cep|ta|cu|[lí]|fe|ro
+conceptáculo	nome masculino	con|cep|[tá]|cu|lo
+conceptibilidade	nome feminino	con|cep|ti|bi|li|[da]|de
+conceptismo	nome masculino	con|cep|[tis]|mo
+conceptista	adjetivo	con|cep|[tis]|ta
+conceptista	nome masculino	con|cep|[tis]|ta
+conceptista	nome feminino	con|cep|[tis]|ta
+conceptístico	adjetivo	con|cep|[tís]|ti|co
+conceptiva	nome feminino	con|cep|[ti]|va
+conceptível	adjetivo	con|cep|[tí]|vel
+conceptividade	nome feminino	con|cep|ti|vi|[da]|de
+conceptivo	adjetivo	con|cep|[ti]|vo
+conceptual	adjetivo	con|cep|tu|[al]
+conceptualismo	nome masculino	con|cep|tu|a|[lis]|mo
+conceptualista	adjetivo	con|cep|tu|a|[lis]|ta
+conceptualista	nome masculino	con|cep|tu|a|[lis]|ta
+conceptualista	nome feminino	con|cep|tu|a|[lis]|ta

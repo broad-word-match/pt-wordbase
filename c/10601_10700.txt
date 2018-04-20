@@ -1,0 +1,100 @@
+circunstanciativo	adjetivo	cir|cuns|tan|ci|a|[ti]|vo
+circunstante	adjetivo	cir|cuns|[tan]|te
+circunstante	nome masculino	cir|cuns|[tan]|te
+circunstante	nome feminino	cir|cuns|[tan]|te
+circunstar	verbo	cir|cuns|[tar]
+circuntornar	verbo	cir|cun|tor|[nar]
+circunvagante	adjetivo	cir|cun|va|[gan]|te
+circunvagar	verbo	cir|cun|va|[gar]
+circúnvago	adjetivo	cir|[cún]|va|go
+circunvalação	nome feminino	cir|cun|va|la|[ção]
+circunvalar	verbo	cir|cun|va|[lar]
+circunver	verbo	cir|cun|[ver]
+circunvizinhança	nome feminino	cir|cun|vi|zi|[nhan]|ça
+circunvizinhar	verbo	cir|cun|vi|zi|[nhar]
+circunvizinho	adjetivo	cir|cun|vi|[zi]|nho
+circunvoar	verbo	cir|cun|vo|[ar]
+circunvolução	nome feminino	cir|cun|vo|lu|[ção]
+circunvolucionário	adjetivo	cir|cun|vo|lu|ci|o|[ná]|ri|o
+circunvolver	verbo	cir|cun|vol|[ver]
+cirenaica	nome feminino	ci|re|[nai]|ca
+cirenaico	adjetivo	ci|re|[nai]|co
+cirenaico	nome masculino	ci|re|[nai]|co
+cirenaísmo	nome masculino	ci|re|na|[ís]|mo
+cireneia	nome feminino	ci|re|[nei]|a
+cireneu	adjetivo	ci|re|[neu]
+cireneu	nome masculino	ci|re|[neu]
+cirial	nome masculino	ci|ri|[al]
+cirieiro	nome masculino	ci|ri|[ei]|ro
+cirílico	adjetivo	ci|[rí]|li|co
+círio	nome masculino	[cí]|ri|o
+círio-do-rei	nome masculino	cí|ri|o-do-rei
+ciriologia	nome feminino	ci|ri|o|lo|[gi]|a
+ciriológico	adjetivo	ci|ri|o|[ló]|gi|co
+ciriólogo	nome masculino	ci|ri|[ó]|lo|go
+ciririca	nome feminino	ci|ri|[ri]|ca
+cirita	adjetivo	ci|[ri]|ta
+cirita	nome masculino	ci|[ri]|ta
+cirita	nome feminino	ci|[ri]|ta
+círnio	adjetivo	[cír]|ni|o
+círnio	nome masculino	[cír]|ni|o
+ciro	adjetivo	[ci]|ro
+ciro	nome masculino	[ci]|ro
+ciropedia	nome feminino	ci|ro|pe|[di]|a
+cirpo	nome masculino	[cir]|po
+cirresta	adjetivo	cir|[res]|ta
+cirresta	nome masculino	cir|[res]|ta
+cirresta	nome feminino	cir|[res]|ta
+cirrífero	adjetivo	cir|[rí]|fe|ro
+cirriforme	adjetivo	cir|ri|[for]|me
+cirrípede	nome masculino	cir|[rí]|pe|de
+cirrípede	adjetivo	cir|[rí]|pe|de
+cirro	nome masculino	[cir]|ro
+cirro-cúmulo	nome masculino	cir|ro-cú|mu|lo
+cirro-estrato	nome masculino	cir|ro-es|[tra]|to
+cirroide	adjetivo	cir|[roi]|de
+cirrose	nome feminino	cir|[ro]|se
+cirrosidade	nome feminino	cir|ro|si|[da]|de
+cirroso	adjetivo	cir|[ro]|so
+cirrótico	adjetivo	cir|[ró]|ti|co
+cirrótico	nome masculino	cir|[ró]|ti|co
+círsio	nome masculino	[cír]|si|o
+cirsocele	nome feminino	cir|so|[ce]|le
+cirsoftalmia	nome feminino	cir|sof|tal|[mi]|a
+cirsoide	adjetivo	cir|[soi]|de
+cirsônfalo	nome masculino	cir|[sôn]|fa|lo
+cirsotomia	nome feminino	cir|so|to|[mi]|a
+cirsotômico	adjetivo	cir|so|[tô]|mi|co
+cirsotómico	adjetivo	cir|so|[tó]|mi|co
+cirtense	adjetivo	cir|[ten]|se
+cirtense	nome masculino	cir|[ten]|se
+cirtense	nome feminino	cir|[ten]|se
+cirtocefalia	nome feminino	cir|to|ce|fa|[li]|a
+cirtocéfalo	adjetivo	cir|to|[cé]|fa|lo
+cirtocéfalo	nome masculino	cir|to|[cé]|fa|lo
+cirtólito	nome masculino	cir|[tó]|li|to
+cirtometria	nome feminino	cir|to|me|[tri]|a
+cirtométrico	adjetivo	cir|to|[mé]|tri|co
+cirtómetro	nome masculino	cir|[tó]|me|tro
+cirtômetro	nome masculino	cir|[tô]|me|tro
+cirtópode	nome masculino	cir|[tó]|po|de
+cirurgia	nome feminino	ci|rur|[gi]|a
+cirurgiã	nome feminino	ci|rur|gi|[ã]
+cirurgião	nome masculino	ci|rur|gi|[ão]
+cirurgião-mor	nome masculino	ci|rur|gi|ão-mor
+cirurgicamente	advérbio	ci|rur|gi|ca|[men]|te
+cirúrgico	adjetivo	ci|[rúr]|gi|co
+cirúrgico-dentário	adjetivo	ci|rúr|gi|co-den|[tá]|ri|o
+cirzeta	nome feminino	cir|[ze]|ta
+cisalha	nome feminino	ci|[sa]|lha
+cisalhamento	nome masculino	ci|sa|lha|[men]|to
+cisalhar	verbo	ci|sa|[lhar]
+cisalhas	nome feminino	ci|[sa]|lhas
+cisalpino	adjetivo	ci|sal|[pi]|no
+cisandino	adjetivo	ci|san|[di]|no
+cisão	nome feminino	ci|[são]
+cisão-dissolução	nome feminino	ci|são-dis|so|lu|[ção]
+cisão-fusão	nome feminino	ci|são-fu|[são]
+cisar	verbo	ci|[sar]
+cisatlântico	adjetivo	ci|sa|[tlân]|ti|co
+cisbordo	nome masculino	cis|[bor]|do

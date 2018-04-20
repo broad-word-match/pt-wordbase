@@ -1,0 +1,100 @@
+tabulão	nome masculino	ta|bu|[lão]
+tabular	adjetivo	ta|bu|[lar]
+tabular	verbo	ta|bu|[lar]
+tabulário	adjetivo	ta|bu|[lá]|ri|o
+tabulé	nome masculino	ta|bu|[lé]
+tabuleiro	nome masculino	ta|bu|[lei]|ro
+tabuleta	nome feminino	ta|bu|[le]|ta
+tabuliforme	adjetivo	ta|bu|li|[for]|me
+tabulista	nome masculino	ta|bu|[lis]|ta
+tabulista	nome feminino	ta|bu|[lis]|ta
+taburno	nome masculino	ta|[bur]|no
+taça	nome feminino	[ta]|ça
+taca	nome feminino	[ta]|ca
+tacacá	nome masculino	ta|ca|[cá]
+tacaca	nome feminino	ta|[ca]|ca
+tacácea	nome feminino	ta|[cá]|ce|a
+tacada	nome feminino	ta|[ca]|da
+taçada	nome feminino	ta|[ça]|da
+tacamaca	nome feminino	ta|ca|[ma]|ca
+tacamagueiro	nome masculino	ta|ca|ma|[guei]|ro
+tacamaqueiro	nome masculino	ta|ca|ma|[quei]|ro
+tacana	nome feminino	ta|[ca]|na
+tacanhamente	advérbio	ta|ca|nha|[men]|te
+tacanharia	nome feminino	ta|ca|nha|[ri]|a
+tacanhear	verbo	ta|ca|nhe|[ar]
+tacanhez	nome feminino	ta|ca|[nhez]
+tacanheza	nome feminino	ta|ca|[nhe]|za
+tacanhice	nome feminino	ta|ca|[nhi]|ce
+tacanho	adjetivo	ta|[ca]|nho
+tacanho	nome masculino	ta|[ca]|nho
+tacanhuna	adjetivo	ta|ca|[nhu]|na
+tacanhuna	nome masculino	ta|ca|[nhu]|na
+tacanhuna	nome feminino	ta|ca|[nhu]|na
+tacaniça	nome feminino	ta|ca|[ni]|ça
+tacão	nome masculino	ta|[cão]
+tacão	adjetivo	ta|[cão]
+tacape	nome masculino	ta|[ca]|pe
+tacar	verbo	ta|[car]
+tacaré	nome masculino	ta|ca|[ré]
+taceira	nome feminino	ta|[cei]|ra
+taceiro	nome masculino	ta|[cei]|ro
+tacelo	nome masculino	ta|[ce]|lo
+tacha	nome feminino	[ta]|cha
+tachã	nome feminino	ta|[chã]
+tachada	nome feminino	ta|[cha]|da
+tachado	adjetivo	ta|[cha]|do
+tachador	adjetivo	ta|cha|[dor]
+tachador	nome masculino	ta|cha|[dor]
+tachão	nome masculino	ta|[chão]
+tachar	verbo	ta|[char]
+tachável	adjetivo	ta|[chá]|vel
+tachear	verbo	ta|che|[ar]
+tacheiro	nome masculino	ta|[chei]|ro
+tachim	nome masculino	ta|[chim]
+tachinha	nome feminino	ta|[chi]|nha
+tachismo	nome masculino	ta|[chis]|mo
+tachista	adjetivo	ta|[chis]|ta
+tachista	nome masculino	ta|[chis]|ta
+tachista	nome feminino	ta|[chis]|ta
+tacho	nome masculino	[ta]|cho
+tachola	nome feminino	ta|[cho]|la
+tachonar	verbo	ta|cho|[nar]
+taci	nome masculino	ta|[ci]
+tácia	nome feminino	[tá]|ci|a
+taciba	nome feminino	ta|[ci]|ba
+tacibura	nome feminino	ta|ci|[bu]|ra
+tacícula	nome feminino	ta|[cí]|cu|la
+tacicular	adjetivo	ta|ci|cu|[lar]
+tacipitanga	nome feminino	ta|ci|pi|[tan]|ga
+tacitamente	advérbio	ta|ci|ta|[men]|te
+tacitífluo	adjetivo	ta|ci|[tí]|flu|o
+tácito	adjetivo	[tá]|ci|to
+taciturnamente	advérbio	ta|ci|tur|na|[men]|te
+taciturnidade	nome feminino	ta|ci|tur|ni|[da]|de
+taciturno	adjetivo	ta|ci|[tur]|no
+tacle-tacle	nome masculino	ta|cle-ta|cle
+taco	nome masculino	[ta]|co
+tacográfico	adjetivo	ta|co|[grá]|fi|co
+tacógrafo	nome masculino	ta|[có]|gra|fo
+tacoila	nome feminino	ta|[coi]|la
+tacomaré	nome masculino	ta|co|ma|[ré]
+tacometria	nome feminino	ta|co|me|[tri]|a
+tacométrico	adjetivo	ta|co|[mé]|tri|co
+tacómetro	nome masculino	ta|[có]|me|tro
+tacômetro	nome masculino	ta|[cô]|me|tro
+tacsónia	nome feminino	tac|[só]|ni|a
+tacsônia	nome feminino	tac|[sô]|ni|a
+tacteabilidade	nome feminino	tac|te|a|bi|li|[da]|de
+tacteadamente	advérbio	tac|te|a|da|[men]|te
+tacteamento	nome masculino	tac|te|a|[men]|to
+tacteante	adjetivo	tac|te|[an]|te
+tactear	verbo	tac|te|[ar]
+tacteável	adjetivo	tac|te|[á]|vel
+tacteio	nome masculino	tac|[tei]|o
+táctica	nome feminino	[tác]|ti|ca
+tacticamente	advérbio	tac|ti|ca|[men]|te
+táctico	nome masculino	[tác]|ti|co
+táctico	adjetivo	[tác]|ti|co
+tacticografia	nome feminino	tac|ti|co|gra|[fi]|a
+tacticográfico	adjetivo	tac|ti|co|[grá]|fi|co

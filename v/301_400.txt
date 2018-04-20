@@ -1,0 +1,100 @@
+valentaço	adjetivo	va|len|[ta]|ço
+valentaço	nome masculino	va|len|[ta]|ço
+valentão	adjetivo	va|len|[tão]
+valentão	nome masculino	va|len|[tão]
+valente	nome masculino	va|[len]|te
+valente	adjetivo	va|[len]|te
+valente	nome feminino	va|[len]|te
+valentemente	advérbio	va|len|te|[men]|te
+valentia	nome feminino	va|len|[ti]|a
+valentice	nome feminino	va|len|[ti]|ce
+valentínia	nome feminino	va|len|[tí]|ni|a
+valentinianismo	nome masculino	va|len|ti|ni|a|[nis]|mo
+valentiniano	adjetivo	va|len|ti|ni|[a]|no
+valentiniano	nome masculino	va|len|ti|ni|[a]|no
+valentinite	nome feminino	va|len|ti|[ni]|te
+valentino	adjetivo	va|len|[ti]|no
+valentino	nome masculino	va|len|[ti]|no
+valentona	nome feminino	va|len|[to]|na
+valer	verbo	va|[ler]
+valeraldeído	nome masculino	va|le|ral|de|[í]|do
+valerato	nome masculino	va|le|[ra]|to
+valeriana	nome feminino	va|le|ri|[a]|na
+valerianácea	nome feminino	va|le|ri|a|[ná]|ce|a
+valerianáceo	adjetivo	va|le|ri|a|[ná]|ce|o
+valerianato	nome masculino	va|le|ri|a|[na]|to
+valerianela	nome feminino	va|le|ri|a|[ne]|la
+valeriânico	adjetivo	va|le|ri|[â]|ni|co
+valérico	adjetivo	va|[lé]|ri|co
+valeriense	adjetivo	va|le|ri|[en]|se
+valeriense	nome masculino	va|le|ri|[en]|se
+valeriense	nome feminino	va|le|ri|[en]|se
+valerol	nome masculino	va|le|[rol]
+valerolactona	nome feminino	va|le|ro|lac|[to]|na
+valerosamente	advérbio	va|le|ro|sa|[men]|te
+valerosidade	nome feminino	va|le|ro|si|[da]|de
+valeroso	adjetivo	va|le|[ro]|so
+valésia	nome feminino	va|[lé]|si|a
+valesiano	nome masculino	va|le|si|[a]|no
+valeta	nome feminino	va|[le]|ta
+valete	nome masculino	va|[le]|te
+valetudinária	nome feminino	va|le|tu|di|[ná]|ri|a
+valetudinário	adjetivo	va|le|tu|di|[ná]|ri|o
+valetudinário	nome masculino	va|le|tu|di|[ná]|ri|o
+valetudinarismo	nome masculino	va|le|tu|di|na|[ris]|mo
+valeu	adjetivo	va|[leu]
+valeu	nome masculino	va|[leu]
+valga	nome feminino	[val]|ga
+valgo	adjetivo	[val]|go
+valha	nome feminino	[va]|lha
+valhacoito	nome masculino	va|lha|[coi]|to
+valhacouto	nome masculino	va|lha|[cou]|to
+váli	nome masculino	[vá]|li
+valia	nome feminino	va|[li]|a
+valida	nome feminino	va|[li]|da
+validação	nome feminino	va|li|da|[ção]
+validade	nome feminino	va|li|[da]|de
+validamente	advérbio	va|li|da|[men]|te
+validamento	nome masculino	va|li|da|[men]|to
+validar	verbo	va|li|[dar]
+validável	adjetivo	va|li|[dá]|vel
+validez	nome feminino	va|li|[dez]
+validismo	nome masculino	va|li|[dis]|mo
+valido	adjetivo	va|[li]|do
+valido	nome masculino	va|[li]|do
+válido	adjetivo	[vá]|li|do
+valigoto	nome masculino	va|li|[go]|to
+valimba	nome feminino	va|[lim]|ba
+valimento	nome masculino	va|li|[men]|to
+valina	nome feminino	va|[li]|na
+valiosamente	advérbio	va|li|o|sa|[men]|te
+valiosíssimo	adjetivo	va|li|o|[sís]|si|mo
+valioso	adjetivo	va|li|[o]|so
+valise	nome feminino	va|li|se
+valo	nome masculino	[va]|lo
+valoa	nome feminino	va|[lo]|a
+valongueiro	adjetivo	va|lon|[guei]|ro
+valongueiro	nome masculino	va|lon|[guei]|ro
+valonguense	adjetivo	va|lon|[guen]|se
+valonguense	nome masculino	va|lon|[guen]|se
+valonguense	nome feminino	va|lon|[guen]|se
+valónia	nome feminino	va|[ló]|ni|a
+valônia	nome feminino	va|[lô]|ni|a
+valoniácea	nome feminino	va|lo|ni|[á]|ce|a
+valor	nome masculino	va|[lor]
+valor-base	nome masculino	va|lor-ba|se
+valoração	nome feminino	va|lo|ra|[ção]
+valorádia	nome feminino	va|lo|[rá]|di|a
+valorado	adjetivo	va|lo|[ra]|do
+valorar	verbo	va|lo|[rar]
+valorativo	adjetivo	va|lo|ra|[ti]|vo
+valorização	nome feminino	va|lo|ri|za|[ção]
+valorizado	adjetivo	va|lo|ri|[za]|do
+valorizador	adjetivo	va|lo|ri|za|[dor]
+valorizador	nome masculino	va|lo|ri|za|[dor]
+valorizadora	nome feminino	va|lo|ri|za|[do]|ra
+valorizar	verbo	va|lo|ri|[zar]
+valorizável	adjetivo	va|lo|ri|[zá]|vel
+valorosamente	advérbio	va|lo|ro|sa|[men]|te
+valorosidade	nome feminino	va|lo|ro|si|[da]|de
+valoroso	adjetivo	va|lo|[ro]|so

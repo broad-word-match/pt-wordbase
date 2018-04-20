@@ -1,0 +1,100 @@
+surá	nome masculino	su|[rá]
+sural	adjetivo	su|[ral]
+surana	nome feminino	su|[ra]|na
+suranga	nome feminino	su|[ran]|ga
+surangueira	nome feminino	su|ran|[guei]|ra
+surano	adjetivo	su|[ra]|no
+surano	nome masculino	su|[ra]|no
+surça	nome feminino	[sur]|ça
+surcar	verbo	sur|[car]
+súrculo	nome masculino	[súr]|cu|lo
+surculoso	adjetivo	sur|cu|[lo]|so
+surda	nome feminino	[sur]|da
+surda-muda	nome feminino	sur|da-mu|da
+surdamente	advérbio	sur|da|[men]|te
+surdear	verbo	sur|de|[ar]
+surdescente	adjetivo	sur|des|[cen]|te
+surdez	nome feminino	sur|[dez]
+surdimudez	nome feminino	sur|di|mu|[dez]
+surdimutismo	nome masculino	sur|di|mu|[tis]|mo
+surdina	nome feminino	sur|[di]|na
+surdinar	verbo	sur|di|[nar]
+surdir	verbo	sur|[dir]
+surdista	nome masculino	sur|[dis]|ta
+surdista	nome feminino	sur|[dis]|ta
+surdivai	nome masculino	sur|di|[vai]
+surdivai-ferreiro	nome masculino	sur|di|vai-fer|[rei]|ro
+surdivém	nome masculino	sur|di|[vém]
+surdo	adjetivo	[sur]|do
+surdo	nome masculino	[sur]|do
+surdo-mudez	nome feminino	sur|do-mu|[dez]
+surdo-mudo	adjetivo	sur|do-mu|do
+surdo-mudo	nome masculino	sur|do-mu|do
+surelo	nome masculino	su|[re]|lo
+surena	nome masculino	su|[re]|na
+surf	nome masculino	[surf]
+surfar	verbo	sur|[far]
+surfável	adjetivo	sur|[fá]|vel
+surfe	nome masculino	[sur]|fe
+surfer	nome masculino	[sur]|fer
+surfista	nome masculino	sur|[fis]|ta
+surfista	nome feminino	sur|[fis]|ta
+surfístico	adjetivo	sur|[fís]|ti|co
+surgente	adjetivo	sur|[gen]|te
+surgião	nome masculino	sur|gi|[ão]
+surgida	nome feminino	sur|[gi]|da
+surgido	adjetivo	sur|[gi]|do
+surgidoiro	nome masculino	sur|gi|[doi]|ro
+surgidouro	nome masculino	sur|gi|[dou]|ro
+surgimento	nome masculino	sur|gi|[men]|to
+surgir	verbo	sur|[gir]
+surgo	nome masculino	[sur]|go
+suri	adjetivo	su|[ri]
+suriana	nome feminino	su|ri|[a]|na
+suriapano	nome masculino	su|ri|a|[pa]|no
+surim	nome masculino	su|[rim]
+surinamense	adjetivo	su|ri|na|[men]|se
+surinamense	nome masculino	su|ri|na|[men]|se
+surinamense	nome feminino	su|ri|na|[men]|se
+surinamês	adjetivo	su|ri|na|[mês]
+surinamês	nome masculino	su|ri|na|[mês]
+súrio	adjetivo	[sú]|ri|o
+surmenage	nome masculino	sur|me|na|ge
+surnu	nome masculino	sur|[nu]
+suro	adjetivo	[su]|ro
+suropo	nome masculino	su|[ro]|po
+surpreendedor	adjetivo	sur|pre|en|de|[dor]
+surpreendente	adjetivo	sur|pre|en|[den]|te
+surpreendentemente	advérbio	sur|pre|en|den|te|[men]|te
+surpreender	verbo	sur|pre|en|[der]
+surpreendido	adjetivo	sur|pre|en|[di]|do
+surpreendimento	nome masculino	sur|pre|en|di|[men]|to
+surpresa	nome feminino	sur|[pre]|sa
+surpresar	verbo	sur|pre|[sar]
+surpreso	adjetivo	sur|[pre]|so
+surra	nome feminino	[sur]|ra
+surra	nome masculino	[sur]|ra
+surradeira	nome feminino	sur|ra|[dei]|ra
+surradeiro	nome masculino	sur|ra|[dei]|ro
+surrado	adjetivo	sur|[ra]|do
+surrador	adjetivo	sur|ra|[dor]
+surrador	nome masculino	sur|ra|[dor]
+surragem	nome feminino	sur|[ra]|gem
+surraipa	nome feminino	sur|[rai]|pa
+surramento	nome masculino	sur|ra|[men]|to
+surrão	nome masculino	sur|[rão]
+surrar	verbo	sur|[rar]
+surrasco	nome masculino	sur|[ras]|co
+surreal	adjetivo	sur|re|[al]
+surrealismo	nome masculino	sur|re|a|[lis]|mo
+surrealista	nome masculino	sur|re|a|[lis]|ta
+surrealista	adjetivo	sur|re|a|[lis]|ta
+surrealista	nome feminino	sur|re|a|[lis]|ta
+surrealístico	adjetivo	sur|re|a|[lís]|ti|co
+surreira	nome feminino	sur|[rei]|ra
+surrentino	nome masculino	sur|ren|[ti]|no
+surrentino	adjetivo	sur|ren|[ti]|no
+surrento	adjetivo	sur|[ren]|to
+súrria	interjeição	[súr]|ri|a
+surriada	nome feminino	sur|ri|[a]|da
+surriada	interjeição	sur|ri|[a]|da

@@ -1,0 +1,100 @@
+traqueostenose	nome feminino	tra|que|os|te|[no]|se
+traqueostomia	nome feminino	tra|que|os|to|[mi]|a
+traqueostómico	adjetivo	tra|que|os|[tó]|mi|co
+traqueostômico	adjetivo	tra|que|os|[tô]|mi|co
+traqueotomia	nome feminino	tra|que|o|to|[mi]|a
+traqueotómico	adjetivo	tra|que|o|[tó]|mi|co
+traqueotômico	adjetivo	tra|que|o|[tô]|mi|co
+traquete	nome masculino	tra|[que]|te
+traquetina	nome feminino	tra|que|[ti]|na
+traquibérnia	nome feminino	tra|qui|[bér]|ni|a
+traquicardia	nome feminino	tra|qui|car|[di]|a
+traquicardíaco	adjetivo	tra|qui|car|[dí]|a|co
+traquicarpo	adjetivo	tra|qui|[car]|po
+traquicarpo	nome masculino	tra|qui|[car]|po
+traquimedusa	nome feminino	tra|qui|me|[du]|sa
+traquina	adjetivo	tra|[qui]|na
+traquina	nome masculino	tra|[qui]|na
+traquina	nome feminino	tra|[qui]|na
+traquinada	nome feminino	tra|qui|[na]|da
+traquinado	nome masculino	tra|qui|[na]|do
+traquinagem	nome feminino	tra|qui|[na]|gem
+traquinar	verbo	tra|qui|[nar]
+traquinas	adjetivo	tra|[qui]|nas
+traquinas	nome masculino	tra|[qui]|nas
+traquinas	nome feminino	tra|[qui]|nas
+traquinemídeo	nome masculino	tra|qui|ne|[mí]|de|o
+traquinemo	nome masculino	tra|qui|[ne]|mo
+traquinice	nome feminino	tra|qui|[ni]|ce
+traquínida	nome masculino	tra|[quí]|ni|da
+traquinídeo	adjetivo	tra|qui|[ní]|de|o
+traquinídeo	nome masculino	tra|qui|[ní]|de|o
+traquinídeo	nome masculino	tra|qui|[ní]|de|o
+traquínio	adjetivo	tra|[quí]|ni|o
+traquínio	nome masculino	tra|[quí]|ni|o
+traquino	adjetivo	tra|[qui]|no
+traquino	nome masculino	tra|[qui]|no
+traquinote	nome masculino	tra|qui|[no]|te
+traquíola	nome feminino	tra|[quí]|o|la
+traquipterídeo	nome masculino	tra|quip|te|[rí]|de|o
+traquíptero	nome masculino	tra|[quíp]|te|ro
+traquitana	nome feminino	tra|qui|[ta]|na
+traquitana	nome masculino	tra|qui|[ta]|na
+traquitanar	verbo	tra|qui|ta|[nar]
+traquite	nome feminino	tra|[qui]|te
+traquítico	adjetivo	tra|[quí]|ti|co
+traquito	nome masculino	tra|[qui]|to
+traquitoide	adjetivo	tra|qui|[toi]|de
+traquitoporfírico	adjetivo	tra|qui|to|por|[fí]|ri|co
+trás	interjeição	[trás]
+trás	preposição	[trás]
+trás-anteontem	advérbio	trás-an|te|[on]|tem
+trasantontem	advérbio	tra|san|[ton]|tem
+trasbordadura	nome feminino	tras|bor|da|[du]|ra
+trasbordamento	nome masculino	tras|bor|da|[men]|to
+trasbordante	adjetivo	tras|bor|[dan]|te
+trasbordar	verbo	tras|bor|[dar]
+trasbordo	nome masculino	tras|[bor]|do
+trascâmara	nome feminino	tras|[câ]|ma|ra
+trascurar	verbo	tras|cu|[rar]
+traseira	nome feminino	tra|[sei]|ra
+traseiro	nome masculino	tra|[sei]|ro
+traseiro	adjetivo	tra|[sei]|ro
+trasfega	nome feminino	tras|[fe]|ga
+trasfegador	adjetivo	tras|fe|ga|[dor]
+trasfegador	nome masculino	tras|fe|ga|[dor]
+trasfegadura	nome feminino	tras|fe|ga|[du]|ra
+trasfegar	verbo	tras|fe|[gar]
+trasfego	nome masculino	tras|[fe]|go
+trasfegueiro	nome masculino	tras|fe|[guei]|ro
+trasflor	nome masculino	tras|[flor]
+trasfogueiro	nome masculino	tras|fo|[guei]|ro
+trasfoliar	verbo	tras|fo|li|[ar]
+trasga	nome feminino	[tras]|ga
+trasgo	nome masculino	[tras]|go
+trasguear	verbo	tras|gue|[ar]
+trasgueiro	nome masculino	tras|[guei]|ro
+traslação	nome feminino	tras|la|[ção]
+trasladação	nome feminino	tras|la|da|[ção]
+trasladador	adjetivo	tras|la|da|[dor]
+trasladador	nome masculino	tras|la|da|[dor]
+trasladar	verbo	tras|la|[dar]
+trasladável	adjetivo	tras|la|[dá]|vel
+traslado	nome masculino	tras|[la]|do
+traslar	nome masculino	tras|[lar]
+trasmontana	nome feminino	tras|mon|[ta]|na
+trasmontanismo	nome masculino	tras|mon|ta|[nis]|mo
+trasmontano	adjetivo	tras|mon|[ta]|no
+trasmontano	nome masculino	tras|mon|[ta]|no
+trasmontar	verbo	tras|mon|[tar]
+trasmudação	nome feminino	tras|mu|da|[ção]
+trasmudamento	nome masculino	tras|mu|da|[men]|to
+trasmudar	verbo	tras|mu|[dar]
+trasmudável	adjetivo	tras|mu|[dá]|vel
+trasnoitar	verbo	tras|noi|[tar]
+trasorelho	nome masculino	tra|so|[re]|lho
+traspassação	nome feminino	tras|pas|sa|[ção]
+traspassador	adjetivo	tras|pas|sa|[dor]
+traspassador	nome masculino	tras|pas|sa|[dor]
+traspassamento	nome masculino	tras|pas|sa|[men]|to
+traspassar	verbo	tras|pas|[sar]

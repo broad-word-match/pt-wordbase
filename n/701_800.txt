@@ -1,0 +1,100 @@
+nave	nome feminino	[na]|ve
+navegabilidade	nome feminino	na|ve|ga|bi|li|[da]|de
+navegação	nome feminino	na|ve|ga|[ção]
+navegador	adjetivo	na|ve|ga|[dor]
+navegador	nome masculino	na|ve|ga|[dor]
+navegadora	nome feminino	na|ve|ga|[do]|ra
+navegagem	nome feminino	na|ve|[ga]|gem
+navegante	nome masculino	na|ve|[gan]|te
+navegante	adjetivo	na|ve|[gan]|te
+navegante	nome feminino	na|ve|[gan]|te
+navegar	verbo	na|ve|[gar]
+navegável	adjetivo	na|ve|[gá]|vel
+navego	nome masculino	na|[ve]|go
+navelar	verbo	na|ve|[lar]
+navém	nome masculino	na|[vém]
+naveta	nome feminino	na|[ve]|ta
+návia	nome feminino	[ná]|vi|a
+naviarra	nome feminino	na|vi|[ar]|ra
+navicela	nome feminino	na|vi|[ce]|la
+navícula	nome feminino	na|[ví]|cu|la
+navicular	adjetivo	na|vi|cu|[lar]
+naviculário	nome masculino	na|vi|cu|[lá]|ri|o
+naviforme	adjetivo	na|vi|[for]|me
+navífrago	adjetivo	na|[ví]|fra|go
+navigabilidade	nome feminino	na|vi|ga|bi|li|[da]|de
+navígero	adjetivo	na|[ví]|ge|ro
+navimodelismo	nome masculino	na|vi|mo|de|[lis]|mo
+navio	nome masculino	na|[vi]|o
+navio-aeródromo	nome masculino	na|vi|o-a|e|[ró]|dro|mo
+navio-cisterna	nome masculino	na|vi|o-cis|[ter]|na
+navio-escola	nome masculino	na|vi|o-es|[co]|la
+navio-hospital	nome masculino	na|vi|o-hos|pi|[tal]
+navio-mãe	nome masculino	na|vi|o-mãe
+navio-tanque	nome masculino	na|vi|o-tan|que
+navio-varredor	nome masculino	na|vi|o-var|re|[dor]
+navisfério	nome masculino	na|vis|[fé]|ri|o
+naxa	nome feminino	[na]|xa
+náxia	nome feminino	[ná]|xi|a
+náxico	adjetivo	[ná]|xi|co
+náxico	nome masculino	[ná]|xi|co
+náxio	nome masculino	[ná]|xi|o
+nazarena	nome feminino	na|za|[re]|na
+nazareno	adjetivo	na|za|[re]|no
+nazareno	nome masculino	na|za|[re]|no
+nazáreo	adjetivo	na|[zá]|re|o
+nazareu	adjetivo	na|za|[reu]
+nazareu	nome masculino	na|za|[reu]
+nazarita	nome masculino	na|za|[ri]|ta
+nazarita	nome feminino	na|za|[ri]|ta
+nazaritismo	nome masculino	na|za|ri|[tis]|mo
+nazerino	adjetivo	na|ze|[ri]|no
+nazerino	nome masculino	na|ze|[ri]|no
+názi	nome masculino	[ná]|zi
+nazi	nome masculino	na|[zi]
+nazi	adjetivo	na|[zi]
+nazi	nome feminino	na|[zi]
+nazianzeno	adjetivo	na|zi|an|[ze]|no
+nazianzeno	nome masculino	na|zi|an|[ze]|no
+nazifascista	adjetivo	na|zi|fas|[cis]|ta
+nazifascista	nome masculino	na|zi|fas|[cis]|ta
+nazifascista	nome feminino	na|zi|fas|[cis]|ta
+nazificação	nome feminino	na|zi|fi|ca|[ção]
+nazificar	verbo	na|zi|fi|[car]
+názir	nome masculino	[ná]|zir
+nazismo	nome masculino	na|[zis]|mo
+nazista	nome masculino	na|[zis]|ta
+nazista	adjetivo	na|[zis]|ta
+nazista	nome feminino	na|[zis]|ta
+ndala	nome feminino	[nda]|la
+ndando	nome masculino	[ndan]|do
+ndarama	nome feminino	nda|[ra]|ma
+ndzava	nome feminino	[ndza]|va
+nê	nome masculino	[nê]
+neapolitano	adjetivo	ne|a|po|li|[ta]|no
+neapolitano	nome masculino	ne|a|po|li|[ta]|no
+nearómetro	nome masculino	ne|a|[ró]|me|tro
+neartrose	nome feminino	ne|ar|[tro]|se
+nébel	nome masculino	[né]|bel
+neblina	nome feminino	ne|[bli]|na
+neblinar	verbo	ne|bli|[nar]
+neblíneo	adjetivo	ne|[blí]|ne|o
+neblinoso	adjetivo	ne|bli|[no]|so
+nebonzo	nome masculino	ne|[bon]|zo
+nebri	adjetivo	ne|[bri]
+nebri	nome masculino	ne|[bri]
+nébride	nome feminino	[né]|bri|de
+nebrídeo	adjetivo	ne|[brí]|de|o
+nebríida	nome masculino	ne|[brí]|i|da
+nebriídeo	adjetivo	ne|bri|[í]|de|o
+nebriídeo	nome masculino	ne|bri|[í]|de|o
+nebrina	nome feminino	ne|[bri]|na
+nebrinagem	nome feminino	ne|bri|[na]|gem
+nebrinar	verbo	ne|bri|[nar]
+nebrinoso	adjetivo	ne|bri|[no]|so
+nebrite	nome feminino	ne|[bri]|te
+nébula	nome feminino	[né]|bu|la
+nebular	verbo	ne|bu|[lar]
+nebular	adjetivo	ne|bu|[lar]
+nebulento	adjetivo	ne|bu|[len]|to
+nebulitos	nome masculino	ne|bu|[li]|tos

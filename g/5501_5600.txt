@@ -1,0 +1,100 @@
+guisante	nome masculino	gui|[san]|te
+guisantes	nome masculino	gui|[san]|tes
+guisar	verbo	gui|[sar]
+guita	nome feminino	[gui]|ta
+guita	nome masculino	[gui]|ta
+guitarra	nome feminino	gui|[tar]|ra
+guitarrada	nome feminino	gui|tar|[ra]|da
+guitarrear	verbo	gui|tar|re|[ar]
+guitarreiro	nome masculino	gui|tar|[rei]|ro
+guitarréu	nome masculino	gui|tar|[réu]
+guitarrilha	nome feminino	gui|tar|[ri]|lha
+guitarrista	nome masculino	gui|tar|[ris]|ta
+guitarrista	nome feminino	gui|tar|[ris]|ta
+guititiroba	nome feminino	gui|ti|ti|[ro]|ba
+guizalhada	nome feminino	gui|za|[lha]|da
+guizalhante	adjetivo	gui|za|[lhan]|te
+guizalhar	verbo	gui|za|[lhar]
+guizalho	nome masculino	gui|[za]|lho
+guizeira	nome feminino	gui|[zei]|ra
+guizo	nome masculino	[gui]|zo
+guizo-de-cascavel	nome masculino	gui|zo-de-cas|ca|[vel]
+gula	nome feminino	[gu]|la
+gula-mocha	nome feminino	gu|la-mo|cha
+gulache	nome masculino	gu|[la]|che
+gulag	nome masculino	[gu]|lag
+gulaima	nome masculino	gu|[lai]|ma
+gulaima	nome feminino	gu|[lai]|ma
+gulaimar	verbo	gu|lai|[mar]
+gulaimas	nome masculino	gu|[lai]|mas
+gulaimas	nome feminino	gu|[lai]|mas
+gulandim	nome masculino	gu|lan|[dim]
+gulapa	nome feminino	gu|[la]|pa
+gulapão	adjetivo	gu|la|[pão]
+gulapar	verbo	gu|la|[par]
+gulazar	verbo	gu|la|[zar]
+guleima	nome masculino	gu|[lei]|ma
+guleima	nome feminino	gu|[lei]|ma
+guleimar	verbo	gu|lei|[mar]
+guleira	nome feminino	gu|[lei]|ra
+gulherite	nome feminino	gu|lhe|[ri]|te
+gulherite	nome masculino	gu|lhe|[ri]|te
+gulheriteiro	adjetivo	gu|lhe|ri|[tei]|ro
+gulheriteiro	nome masculino	gu|lhe|ri|[tei]|ro
+gulheritice	nome feminino	gu|lhe|ri|[ti]|ce
+gulodice	nome feminino	gu|lo|[di]|ce
+gulosa	nome feminino	gu|[lo]|sa
+gulosamente	advérbio	gu|lo|sa|[men]|te
+gulosar	verbo	gu|lo|[sar]
+guloseima	nome feminino	gu|lo|[sei]|ma
+gulosice	nome feminino	gu|lo|[si]|ce
+gulosina	nome feminino	gu|lo|[si]|na
+gulosinar	verbo	gu|lo|si|[nar]
+gulosinha	nome feminino	gu|lo|[si]|nha
+guloso	adjetivo	gu|[lo]|so
+guloso	nome masculino	gu|[lo]|so
+gulungo	nome masculino	gu|[lun]|go
+gumba	nome masculino	[gum]|ba
+gumba-gumba	nome masculino	gum|ba-gum|ba
+gumbé	nome masculino	gum|[bé]
+gume	nome masculino	[gu]|me
+gúmena	nome feminino	[gú]|me|na
+gumífero	adjetivo	gu|[mí]|fe|ro
+gumite	nome feminino	gu|[mi]|te
+gumoso	adjetivo	gu|[mo]|so
+guna	nome feminino	[gu]|na
+guna	nome masculino	[gu]|na
+guncho	nome masculino	[gun]|cho
+gunda	nome feminino	[gun]|da
+gunda-rupsa	nome feminino	gun|da-rup|sa
+gundeira	nome feminino	gun|[dei]|ra
+gundeiro	nome masculino	gun|[dei]|ro
+gundra	nome feminino	[gun]|dra
+gune	nome masculino	[gu]|ne
+gunfar	verbo	gun|[far]
+gunga	nome feminino	[gun]|ga
+gunga	nome masculino	[gun]|ga
+gungonjila	nome feminino	gun|gon|[ji]|la
+gungunar	verbo	gun|gu|[nar]
+gunigobó	nome masculino	gu|ni|go|[bó]
+gupiara	nome feminino	gu|pi|[a]|ra
+gura	nome feminino	[gu]|ra
+guraíra	nome feminino	gu|ra|[í]|ra
+guratã	nome feminino	gu|ra|[tã]
+gurde	nome masculino	[gur]|de
+gurejuba	nome feminino	gu|re|[ju]|ba
+gureri	nome masculino	gu|re|[ri]
+gurgau	nome masculino	gur|[gau]
+gurguri	nome masculino	gur|gu|[ri]
+guri	nome masculino	gu|[ri]
+guri	nome feminino	gu|[ri]
+guria	nome feminino	gu|[ri]|a
+guriatã	nome masculino	gu|ri|a|[tã]
+guriatã	nome feminino	gu|ri|a|[tã]
+guriba	adjetivo	gu|[ri]|ba
+guriguaçu	nome masculino	gu|ri|gua|[çu]
+gurijuba	nome feminino	gu|ri|[ju]|ba
+gurindiba	nome feminino	gu|rin|[di]|ba
+gurinhém	nome masculino	gu|ri|[nhém]
+guriri	nome masculino	gu|ri|[ri]
+gurita	nome feminino	gu|[ri]|ta

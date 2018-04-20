@@ -1,0 +1,100 @@
+racionalização	nome feminino	ra|ci|o|na|li|za|[ção]
+racionalizado	adjetivo	ra|ci|o|na|li|[za]|do
+racionalizador	adjetivo	ra|ci|o|na|li|za|[dor]
+racionalizador	nome masculino	ra|ci|o|na|li|za|[dor]
+racionalizar	verbo	ra|ci|o|na|li|[zar]
+racionalmente	advérbio	ra|ci|o|nal|[men]|te
+racionamento	nome masculino	ra|ci|o|na|[men]|to
+racionar	verbo	ra|ci|o|[nar]
+racionável	adjetivo	ra|ci|o|[ná]|vel
+racionavelmente	advérbio	ra|ci|o|na|vel|[men]|te
+racioneiro	adjetivo	ra|ci|o|[nei]|ro
+racioneiro	nome masculino	ra|ci|o|[nei]|ro
+racismo	nome masculino	ra|[cis]|mo
+racista	nome masculino	ra|[cis]|ta
+racista	adjetivo	ra|[cis]|ta
+racista	nome feminino	ra|[cis]|ta
+raçoar	verbo	ra|ço|[ar]
+raçoeiro	adjetivo	ra|ço|[ei]|ro
+raçoeiro	nome masculino	ra|ço|[ei]|ro
+raconto	nome masculino	ra|[con]|to
+racose	nome feminino	ra|[co]|se
+rad	nome masculino	[rad]
+rada	nome feminino	[ra]|da
+radameu	adjetivo	ra|da|[meu]
+radameu	nome masculino	ra|da|[meu]
+radão	nome masculino	ra|[dão]
+radar	nome masculino	ra|[dar]
+radarista	nome masculino	ra|da|[ris]|ta
+rádi	nome masculino	[rá]|di
+radiação	nome feminino	ra|di|a|[ção]
+radiado	nome masculino	ra|di|[a]|do
+radiado	adjetivo	ra|di|[a]|do
+radiador	nome masculino	ra|di|a|[dor]
+radiador	adjetivo	ra|di|a|[dor]
+radial	adjetivo	ra|di|[al]
+radial	nome feminino	ra|di|[al]
+radialista	nome masculino	ra|di|a|[lis]|ta
+radialista	nome feminino	ra|di|a|[lis]|ta
+radialmente	advérbio	ra|di|al|[men]|te
+radiância	nome feminino	ra|di|[ân]|ci|a
+radiangiografia	nome feminino	ra|di|an|gi|o|gra|[fi]|a
+radiangiográfico	adjetivo	ra|di|an|gi|o|[grá]|fi|co
+radiano	nome masculino	ra|di|[a]|no
+radiante	adjetivo	ra|di|[an]|te
+radiante	nome masculino	ra|di|[an]|te
+radiantemente	advérbio	ra|di|an|te|[men]|te
+radiar	verbo	ra|di|[ar]
+radiário	nome masculino	ra|di|[á]|ri|o
+radiastronomia	nome feminino	ra|di|as|tro|no|[mi]|a
+radiatifloro	adjetivo	ra|di|a|ti|[flo]|ro
+radiatiforme	adjetivo	ra|di|a|ti|[for]|me
+radiatividade	nome feminino	ra|di|a|ti|vi|[da]|de
+radiativo	adjetivo	ra|di|a|[ti]|vo
+radicação	nome feminino	ra|di|ca|[ção]
+radicado	adjetivo	ra|di|[ca]|do
+radical	nome masculino	ra|di|[cal]
+radical	adjetivo	ra|di|[cal]
+radical	nome feminino	ra|di|[cal]
+radical-socialista	nome masculino	ra|di|cal-so|ci|a|[lis]|ta
+radical-socialista	adjetivo	ra|di|cal-so|ci|a|[lis]|ta
+radical-socialista	nome feminino	ra|di|cal-so|ci|a|[lis]|ta
+radicaleiro	adjetivo	ra|di|ca|[lei]|ro
+radicalismo	nome masculino	ra|di|ca|[lis]|mo
+radicalista	adjetivo	ra|di|ca|[lis]|ta
+radicalista	nome masculino	ra|di|ca|[lis]|ta
+radicalista	nome feminino	ra|di|ca|[lis]|ta
+radicalização	nome feminino	ra|di|ca|li|za|[ção]
+radicalizar	verbo	ra|di|ca|li|[zar]
+radicalmente	advérbio	ra|di|cal|[men]|te
+radicando	adjetivo	ra|di|[can]|do
+radicando	nome masculino	ra|di|[can]|do
+radicante	adjetivo	ra|di|[can]|te
+radicar	verbo	ra|di|[car]
+radicável	adjetivo	ra|di|[cá]|vel
+radicela	nome feminino	ra|di|[ce]|la
+radiciação	nome feminino	ra|di|ci|a|[ção]
+radicícola	adjetivo	ra|di|[cí]|co|la
+radicifloro	adjetivo	ra|di|ci|[flo]|ro
+radiciforme	adjetivo	ra|di|ci|[for]|me
+radicívoro	adjetivo	ra|di|[cí]|vo|ro
+rádico	adjetivo	[rá]|di|co
+radicóforo	nome masculino	ra|di|[có]|fo|ro
+radícola	adjetivo	ra|[dí]|co|la
+radicoso	adjetivo	ra|di|[co]|so
+radicotomia	nome feminino	ra|di|co|to|[mi]|a
+radícula	nome feminino	ra|[dí]|cu|la
+radiculado	adjetivo	ra|di|cu|[la]|do
+radiculado	nome masculino	ra|di|cu|[la]|do
+radiculalgia	nome feminino	ra|di|cu|lal|[gi]|a
+radiculálgico	adjetivo	ra|di|cu|[lál]|gi|co
+radicular	adjetivo	ra|di|cu|[lar]
+radicular	verbo	ra|di|cu|[lar]
+radiculiforme	adjetivo	ra|di|cu|li|[for]|me
+radiculimétrico	adjetivo	ra|di|cu|li|[mé]|tri|co
+radiculímetro	nome masculino	ra|di|cu|[lí]|me|tro
+radiculite	nome feminino	ra|di|cu|[li]|te
+radieléctrico	adjetivo	ra|di|e|[léc]|tri|co
+radielemento	nome masculino	ra|di|e|le|[men]|to
+radieletricidade	nome feminino	ra|di|e|le|tri|ci|[da]|de
+radielétrico	adjetivo	ra|di|e|[lé]|tri|co

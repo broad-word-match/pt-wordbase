@@ -1,0 +1,100 @@
+enegrecer	verbo	e|ne|gre|[cer]
+enegrecido	adjetivo	e|ne|gre|[ci]|do
+enegrecimento	nome masculino	e|ne|gre|ci|[men]|to
+enema	nome masculino	e|[ne]|ma
+enense	nome masculino	e|[nen]|se
+enense	adjetivo	e|[nen]|se
+enense	nome feminino	e|[nen]|se
+êneo	adjetivo	[ê]|ne|o
+éneo	adjetivo	[é]|ne|o
+eneolítico	adjetivo	e|ne|o|[lí]|ti|co
+energética	nome feminino	e|ner|[gé]|ti|ca
+energeticamente	advérbio	e|ner|ge|ti|ca|[men]|te
+energético	adjetivo	e|ner|[gé]|ti|co
+energetismo	nome masculino	e|ner|ge|[tis]|mo
+energia	nome feminino	e|ner|[gi]|a
+energicamente	advérbio	e|ner|gi|ca|[men]|te
+enérgico	adjetivo	e|[nér]|gi|co
+enérgide	nome feminino	e|[nér]|gi|de
+energídio	nome masculino	e|ner|[gí]|di|o
+energista	adjetivo	e|ner|[gis]|ta
+energista	nome masculino	e|ner|[gis]|ta
+energista	nome feminino	e|ner|[gis]|ta
+energização	nome feminino	e|ner|gi|za|[ção]
+energizar	verbo	e|ner|gi|[zar]
+energúmena	nome feminino	e|ner|[gú]|me|na
+energúmeno	nome masculino	e|ner|[gú]|me|no
+enervação	nome feminino	e|ner|va|[ção]
+enervado	adjetivo	e|ner|[va]|do
+enervador	adjetivo	e|ner|va|[dor]
+enervamento	nome masculino	e|ner|va|[men]|to
+enervante	adjetivo	e|ner|[van]|te
+enervar	verbo	e|ner|[var]
+enerve	adjetivo	e|[ner]|ve
+enesgar	verbo	e|nes|[gar]
+enésimo	nome masculino	e|[né]|si|mo
+enésimo	número ordinal	e|[né]|si|mo
+enésimo	adjetivo	e|[né]|si|mo
+enevoado	adjetivo	e|ne|vo|[a]|do
+enevoamento	nome masculino	e|ne|vo|a|[men]|to
+enevoar	verbo	e|ne|vo|[ar]
+enfadadiço	adjetivo	en|fa|da|[di]|ço
+enfadado	adjetivo	en|fa|[da]|do
+enfadamento	nome masculino	en|fa|da|[men]|to
+enfadar	verbo	en|fa|[dar]
+enfado	nome masculino	en|[fa]|do
+enfadonhamente	advérbio	en|fa|do|nha|[men]|te
+enfadonho	adjetivo	en|fa|[do]|nho
+enfadosamente	advérbio	en|fa|do|sa|[men]|te
+enfadoso	adjetivo	en|fa|[do]|so
+enfaixado	adjetivo	en|fai|[xa]|do
+enfaixamento	nome masculino	en|fai|xa|[men]|to
+enfaixar	verbo	en|fai|[xar]
+enfaixe	nome masculino	en|[fai]|xe
+enfanicar	verbo	en|fa|ni|[car]
+enfaramento	nome masculino	en|fa|ra|[men]|to
+enfarar	verbo	en|fa|[rar]
+enfardadeira	nome feminino	en|far|da|[dei]|ra
+enfardado	adjetivo	en|far|[da]|do
+enfardador	adjetivo	en|far|da|[dor]
+enfardador	nome masculino	en|far|da|[dor]
+enfardadora	nome feminino	en|far|da|[do]|ra
+enfardamento	nome masculino	en|far|da|[men]|to
+enfardar	verbo	en|far|[dar]
+enfardelar	verbo	en|far|de|[lar]
+enfarear	verbo	en|fa|re|[ar]
+enfarelar	verbo	en|fa|re|[lar]
+enfarinhadela	nome feminino	en|fa|ri|nha|[de]|la
+enfarinhado	adjetivo	en|fa|ri|[nha]|do
+enfarinhado	nome masculino	en|fa|ri|[nha]|do
+enfarinhamento	nome masculino	en|fa|ri|nha|[men]|to
+enfarinhar	verbo	en|fa|ri|[nhar]
+enfaro	nome masculino	en|[fa]|ro
+enfaroar	verbo	en|fa|ro|[ar]
+enfarpelado	adjetivo	en|far|pe|[la]|do
+enfarpelar	verbo	en|far|pe|[lar]
+enfarrapar	verbo	en|far|ra|[par]
+enfarripado	adjetivo	en|far|ri|[pa]|do
+enfarruscado	adjetivo	en|far|rus|[ca]|do
+enfarruscamento	nome masculino	en|far|rus|ca|[men]|to
+enfarruscar	verbo	en|far|rus|[car]
+enfartação	nome feminino	en|far|ta|[ção]
+enfartado	adjetivo	en|far|[ta]|do
+enfartamento	nome masculino	en|far|ta|[men]|to
+enfartar	verbo	en|far|[tar]
+enfartável	adjetivo	en|far|[tá]|vel
+enfarte	nome masculino	en|[far]|te
+enfasado	adjetivo	en|fa|[sa]|do
+enfasagem	nome masculino	en|fa|[sa]|gem
+enfasamento	nome masculino	en|fa|sa|[men]|to
+enfasar	verbo	en|fa|[sar]
+ênfase	nome feminino	[ên]|fa|se
+enfastiadiço	adjetivo	en|fas|ti|a|[di]|ço
+enfastiado	adjetivo	en|fas|ti|[a]|do
+enfastiador	adjetivo	en|fas|ti|a|[dor]
+enfastiamento	nome masculino	en|fas|ti|a|[men]|to
+enfastiante	adjetivo	en|fas|ti|[an]|te
+enfastiar	verbo	en|fas|ti|[ar]
+enfastioso	adjetivo	en|fas|ti|[o]|so
+enfaticamente	advérbio	en|fa|ti|ca|[men]|te
+enfático	adjetivo	en|[fá]|ti|co

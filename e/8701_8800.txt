@@ -1,0 +1,100 @@
+esfrangalhar	verbo	es|fran|ga|[lhar]
+esfrega	nome feminino	es|[fre]|ga
+esfregação	nome feminino	es|fre|ga|[ção]
+esfregaço	nome masculino	es|fre|[ga]|ço
+esfregada	nome feminino	es|fre|[ga]|da
+esfregadeira	nome feminino	es|fre|ga|[dei]|ra
+esfregadela	nome feminino	es|fre|ga|[de]|la
+esfregado	adjetivo	es|fre|[ga]|do
+esfregado	nome masculino	es|fre|[ga]|do
+esfregador	adjetivo	es|fre|ga|[dor]
+esfregador	nome masculino	es|fre|ga|[dor]
+esfregadura	nome feminino	es|fre|ga|[du]|ra
+esfregalho	nome masculino	es|fre|[ga]|lho
+esfregamento	nome masculino	es|fre|ga|[men]|to
+esfreganço	nome masculino	es|fre|[gan]|ço
+esfregão	nome masculino	es|fre|[gão]
+esfregar	verbo	es|fre|[gar]
+esfregável	adjetivo	es|fre|[gá]|vel
+esfregona	nome feminino	es|fre|[go]|na
+esfregulhar	verbo	es|fre|gu|[lhar]
+esfria	nome masculino	es|[fri]|a
+esfriado	adjetivo	es|fri|[a]|do
+esfriadoiro	nome masculino	es|fri|a|[doi]|ro
+esfriador	adjetivo	es|fri|a|[dor]
+esfriador	nome masculino	es|fri|a|[dor]
+esfriadouro	nome masculino	es|fri|a|[dou]|ro
+esfriamento	nome masculino	es|fri|a|[men]|to
+esfriante	adjetivo	es|fri|[an]|te
+esfriar	verbo	es|fri|[ar]
+esfrolamento	nome masculino	es|fro|la|[men]|to
+esfrolante	adjetivo	es|fro|[lan]|te
+esfrolar	verbo	es|fro|[lar]
+esfugentar	verbo	es|fu|gen|[tar]
+esfulinhar	verbo	es|fu|li|[nhar]
+esfumaçado	adjetivo	es|fu|ma|[ça]|do
+esfumaçamento	nome masculino	es|fu|ma|ça|[men]|to
+esfumação	nome feminino	es|fu|ma|[ção]
+esfumaçar	verbo	es|fu|ma|[çar]
+esfumado	nome masculino	es|fu|[ma]|do
+esfumado	adjetivo	es|fu|[ma]|do
+esfumador	nome masculino	es|fu|ma|[dor]
+esfumar	verbo	es|fu|[mar]
+esfumarar	verbo	es|fu|ma|[rar]
+esfumear	verbo	es|fu|me|[ar]
+esfumilhar	verbo	es|fu|mi|[lhar]
+esfuminhar	verbo	es|fu|mi|[nhar]
+esfuminho	nome masculino	es|fu|[mi]|nho
+esfuracar	verbo	es|fu|ra|[car]
+esfuziada	nome feminino	es|fu|zi|[a]|da
+esfuziante	adjetivo	es|fu|zi|[an]|te
+esfuziantemente	advérbio	es|fu|zi|an|te|[men]|te
+esfuziar	verbo	es|fu|zi|[ar]
+esfuzilar	verbo	es|fu|zi|[lar]
+esfuziote	nome masculino	es|fu|zi|[o]|te
+esgaçado	adjetivo	es|ga|[ça]|do
+esgaçar	verbo	es|ga|[çar]
+esgache	nome masculino	es|[ga]|che
+esgadanhar	verbo	es|ga|da|[nhar]
+esgadelhado	adjetivo	es|ga|de|[lha]|do
+esgadelhar	verbo	es|ga|de|[lhar]
+esgadunhar	verbo	es|ga|du|[nhar]
+esgaiva	nome feminino	es|[gai]|va
+esgaivar	verbo	es|gai|[var]
+esgaivotado	adjetivo	es|gai|vo|[ta]|do
+esgalamido	adjetivo	es|ga|la|[mi]|do
+esgaldripar	verbo	es|gal|dri|[par]
+esgalgado	adjetivo	es|gal|[ga]|do
+esgalgar	verbo	es|gal|[gar]
+esgalha	nome feminino	es|[ga]|lha
+esgalhado	adjetivo	es|ga|[lha]|do
+esgalhar	verbo	es|ga|[lhar]
+esgalheiro	adjetivo	es|ga|[lhei]|ro
+esgalho	nome masculino	es|[ga]|lho
+esgalhudo	nome masculino	es|ga|[lhu]|do
+esgalinhar	verbo	es|ga|li|[nhar]
+esgalmido	adjetivo	es|gal|[mi]|do
+esgana	nome feminino	es|[ga]|na
+esgana-cão	nome masculino	es|ga|na-cão
+esgana-gata	nome feminino	es|ga|na-ga|ta
+esganação	nome feminino	es|ga|na|[ção]
+esganada	nome feminino	es|ga|[na]|da
+esganado	adjetivo	es|ga|[na]|do
+esganado	nome masculino	es|ga|[na]|do
+esganador	adjetivo	es|ga|na|[dor]
+esganador	nome masculino	es|ga|na|[dor]
+esganadura	nome feminino	es|ga|na|[du]|ra
+esganar	verbo	es|ga|[nar]
+esganarelo	nome masculino	es|ga|na|[re]|lo
+esganiçadamente	advérbio	es|ga|ni|ça|da|[men]|te
+esganiçado	adjetivo	es|ga|ni|[ça]|do
+esganiçamento	nome masculino	es|ga|ni|ça|[men]|to
+esganiçar	verbo	es|ga|ni|[çar]
+esganiço	nome masculino	es|ga|[ni]|ço
+esganinho	nome masculino	es|ga|[ni]|nho
+esganitar	verbo	es|ga|ni|[tar]
+esganosa	nome feminino	es|ga|[no]|sa
+esganoso	nome masculino	es|ga|[no]|so
+esganzarado	adjetivo	es|gan|za|[ra]|do
+esgar	nome masculino	es|[gar]
+esgarabulha	nome masculino	es|ga|ra|[bu]|lha

@@ -1,0 +1,100 @@
+antinômico	adjetivo	an|ti|[nô]|mi|co
+antinomismo	nome masculino	an|ti|no|[mis]|mo
+antinomista	adjetivo	an|ti|no|[mis]|ta
+antinomista	nome masculino	an|ti|no|[mis]|ta
+antinomista	nome feminino	an|ti|no|[mis]|ta
+antinoopolitano	adjetivo	an|ti|no|o|po|li|[ta]|no
+antinoopolitano	nome masculino	an|ti|no|o|po|li|[ta]|no
+antinória	nome feminino	an|ti|[nó]|ri|a
+antinuclear	adjetivo	an|ti|nu|cle|[ar]
+antinupcial	adjetivo	an|ti|nup|ci|[al]
+antiobésico	adjetivo	an|ti|o|[bé]|si|co
+antiocidental	adjetivo	an|ti|o|ci|den|[tal]
+antiodontálgico	adjetivo	an|ti|o|don|[tál]|gi|co
+antiofídico	adjetivo	an|ti|o|[fí]|di|co
+antioligárquico	adjetivo	an|ti|o|li|[gár]|qui|co
+antíopa	nome feminino	an|[tí]|o|pa
+antiópio	nome masculino	an|ti|[ó]|pi|o
+antioquena	nome feminino	an|ti|o|[que]|na
+antioqueno	nome masculino	an|ti|o|[que]|no
+antioqueno	adjetivo	an|ti|o|[que]|no
+antioquense	adjetivo	an|ti|o|[quen]|se
+antioquense	nome masculino	an|ti|o|[quen]|se
+antioquense	nome feminino	an|ti|o|[quen]|se
+antioquiana	nome feminino	an|ti|o|qui|[a]|na
+antioquiano	adjetivo	an|ti|o|qui|[a]|no
+antioquiano	nome masculino	an|ti|o|qui|[a]|no
+antiorgástico	adjetivo	an|ti|or|[gás]|ti|co
+antioxidante	nome masculino	an|ti|o|xi|[dan]|te
+antioxidante	adjetivo	an|ti|o|xi|[dan]|te
+antipalustre	adjetivo	an|ti|pa|[lus]|tre
+antipapa	nome masculino	an|ti|[pa]|pa
+antipapado	nome masculino	an|ti|pa|[pa]|do
+antipapal	adjetivo	an|ti|pa|[pal]
+antipapismo	nome masculino	an|ti|pa|[pis]|mo
+antipapista	nome masculino	an|ti|pa|[pis]|ta
+antipapista	nome feminino	an|ti|pa|[pis]|ta
+antipapístico	adjetivo	an|ti|pa|[pís]|ti|co
+antiparalelas	nome feminino	an|ti|pa|ra|[le]|las
+antiparalelismo	nome masculino	an|ti|pa|ra|le|[lis]|mo
+antiparalelo	adjetivo	an|ti|pa|ra|[le]|lo
+antiparalelo	nome masculino	an|ti|pa|ra|[le]|lo
+antiparalítico	adjetivo	an|ti|pa|ra|[lí]|ti|co
+antiparasita	adjetivo	an|ti|pa|ra|[si]|ta
+antiparasita	nome masculino	an|ti|pa|ra|[si]|ta
+antiparasitário	adjetivo	an|ti|pa|ra|si|[tá]|ri|o
+antiparástase	nome feminino	an|ti|pa|[rás]|ta|se
+antiparlamentar	adjetivo	an|ti|par|la|men|[tar]
+antiparlamentarismo	nome masculino	an|ti|par|la|men|ta|[ris]|mo
+antiparlamentarista	nome feminino	an|ti|par|la|men|ta|[ris]|ta
+antiparlamentarista	nome masculino	an|ti|par|la|men|ta|[ris]|ta
+antiparlamentarista	adjetivo	an|ti|par|la|men|ta|[ris]|ta
+antipartícula	nome feminino	an|ti|par|[tí]|cu|la
+antipatário	nome masculino	an|ti|pa|[tá]|ri|o
+antipatia	nome feminino	an|ti|pa|[ti]|a
+antipática	nome feminino	an|ti|[pá]|ti|ca
+antipaticamente	advérbio	an|ti|pa|ti|ca|[men]|te
+antipático	adjetivo	an|ti|[pá]|ti|co
+antipático	nome masculino	an|ti|[pá]|ti|co
+antipatiquíssimo	adjetivo	an|ti|pa|ti|[quís]|si|mo
+antipatizante	adjetivo	an|ti|pa|ti|[zan]|te
+antipatizante	nome masculino	an|ti|pa|ti|[zan]|te
+antipatizante	nome feminino	an|ti|pa|ti|[zan]|te
+antipatizar	verbo	an|ti|pa|ti|[zar]
+antípato	nome masculino	an|[tí]|pa|to
+antipatriota	adjetivo	an|ti|pa|tri|[o]|ta
+antipatriota	nome masculino	an|ti|pa|tri|[o]|ta
+antipatriota	nome feminino	an|ti|pa|tri|[o]|ta
+antipatrioticamente	advérbio	an|ti|pa|tri|o|ti|ca|[men]|te
+antipatriótico	adjetivo	an|ti|pa|tri|[ó]|ti|co
+antipatriotismo	nome masculino	an|ti|pa|tri|o|[tis]|mo
+antipedagógico	adjetivo	an|ti|pe|da|[gó]|gi|co
+antipediculoso	adjetivo	an|ti|pe|di|cu|[lo]|so
+antipelagroso	adjetivo	an|ti|pe|la|[gro]|so
+antipelicular	adjetivo	an|ti|pe|li|cu|[lar]
+antipêndio	nome masculino	an|ti|[pên]|di|o
+antipeptona	nome feminino	an|ti|pep|[to]|na
+antiperiódico	adjetivo	an|ti|pe|ri|[ó]|di|co
+antiperistáltico	adjetivo	an|ti|pe|ris|[tál]|ti|co
+antiperistaltismo	nome masculino	an|ti|pe|ris|tal|[tis]|mo
+antiperístase	nome feminino	an|ti|pe|[rís]|ta|se
+antipessoal	adjetivo	an|ti|pes|so|[al]
+antipestilencial	adjetivo	an|ti|pes|ti|len|ci|[al]
+antipestoso	adjetivo	an|ti|pes|[to]|so
+antipestoso	nome masculino	an|ti|pes|[to]|so
+antipíico	adjetivo	an|ti|[pí]|i|co
+antipiogénico	adjetivo	an|ti|pi|o|[gé]|ni|co
+antipiogênico	adjetivo	an|ti|pi|o|[gê]|ni|co
+antipirético	adjetivo	an|ti|pi|[ré]|ti|co
+antipirético	nome masculino	an|ti|pi|[ré]|ti|co
+antipirina	nome feminino	an|ti|pi|[ri]|na
+antipirinismo	nome masculino	an|ti|pi|ri|[nis]|mo
+antipirótico	adjetivo	an|ti|pi|[ró]|ti|co
+antipirótico	nome masculino	an|ti|pi|[ró]|ti|co
+antiplástico	adjetivo	an|ti|[plás]|ti|co
+antipleurítico	adjetivo	an|ti|pleu|[rí]|ti|co
+antipneumocócico	adjetivo	an|tip|neu|mo|[có]|ci|co
+antipneumónico	adjetivo	an|tip|neu|[mó]|ni|co
+antipneumônico	adjetivo	an|tip|neu|[mô]|ni|co
+antípoda	nome masculino	an|[tí]|po|da
+antípoda	adjetivo	an|[tí]|po|da

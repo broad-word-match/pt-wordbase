@@ -1,0 +1,100 @@
+incumprimento	nome masculino	in|cum|pri|[men]|to
+incunabular	adjetivo	in|cu|na|bu|[lar]
+incunábulo	nome masculino	in|cu|[ná]|bu|lo
+incurabilidade	nome feminino	in|cu|ra|bi|li|[da]|de
+incurável	adjetivo	in|cu|[rá]|vel
+incuravelmente	advérbio	in|cu|ra|vel|[men]|te
+incúria	nome feminino	in|[cú]|ri|a
+incurial	adjetivo	in|cu|ri|[al]
+incurialidade	nome feminino	in|cu|ri|a|li|[da]|de
+incuriosamente	advérbio	in|cu|ri|o|sa|[men]|te
+incuriosidade	nome feminino	in|cu|ri|o|si|[da]|de
+incurioso	adjetivo	in|cu|ri|[o]|so
+incursão	nome feminino	in|cur|[são]
+incursionismo	nome masculino	in|cur|si|o|[nis]|mo
+incursionista	adjetivo	in|cur|si|o|[nis]|ta
+incursionista	nome masculino	in|cur|si|o|[nis]|ta
+incursionista	nome feminino	in|cur|si|o|[nis]|ta
+incurso	adjetivo	in|[cur]|so
+incurso	nome masculino	in|[cur]|so
+incusa	nome feminino	in|[cu]|sa
+incuso	adjetivo	in|[cu]|so
+incutir	verbo	in|cu|[tir]
+inda	advérbio	[in]|da
+indagação	nome feminino	in|da|ga|[ção]
+indagador	adjetivo	in|da|ga|[dor]
+indagador	nome masculino	in|da|ga|[dor]
+indagar	verbo	in|da|[gar]
+indagativo	adjetivo	in|da|ga|[ti]|vo
+indagatório	adjetivo	in|da|ga|[tó]|ri|o
+indagável	adjetivo	in|da|[gá]|vel
+indaiá	nome masculino	in|dai|[á]
+indaiá-açu	nome masculino	in|dai|á-a|[çu]
+indaié	nome masculino	in|dai|[é]
+indébito	adjetivo	in|[dé]|bi|to
+indecência	nome feminino	in|de|[cên]|ci|a
+indecente	adjetivo	in|de|[cen]|te
+indecente	nome feminino	in|de|[cen]|te
+indecente	nome masculino	in|de|[cen]|te
+indecentemente	advérbio	in|de|cen|te|[men]|te
+indecidido	adjetivo	in|de|ci|[di]|do
+indecifrabilidade	nome feminino	in|de|ci|fra|bi|li|[da]|de
+indecifração	nome feminino	in|de|ci|fra|[ção]
+indecifrado	adjetivo	in|de|ci|[fra]|do
+indecifrável	adjetivo	in|de|ci|[frá]|vel
+indecifravelmente	advérbio	in|de|ci|fra|vel|[men]|te
+indecisamente	advérbio	in|de|ci|sa|[men]|te
+indecisão	nome feminino	in|de|ci|[são]
+indecisivo	adjetivo	in|de|ci|[si]|vo
+indeciso	adjetivo	in|de|[ci]|so
+indeclarável	adjetivo	in|de|cla|[rá]|vel
+indeclinabilidade	nome feminino	in|de|cli|na|bi|li|[da]|de
+indeclinável	adjetivo	in|de|cli|[ná]|vel
+indeclinavelmente	advérbio	in|de|cli|na|vel|[men]|te
+indecomponibilidade	nome feminino	in|de|com|po|ni|bi|li|[da]|de
+indecomponível	adjetivo	in|de|com|po|[ní]|vel
+indecomposto	adjetivo	in|de|com|[pos]|to
+indecoro	nome masculino	in|de|[co]|ro
+indecorosamente	advérbio	in|de|co|ro|sa|[men]|te
+indecorosidade	nome feminino	in|de|co|ro|si|[da]|de
+indecoroso	adjetivo	in|de|co|[ro]|so
+indefectibilidade	nome feminino	in|de|fec|ti|bi|li|[da]|de
+indefectível	adjetivo	in|de|fec|[tí]|vel
+indefectivelmente	advérbio	in|de|fec|ti|vel|[men]|te
+indefendível	adjetivo	in|de|fen|[dí]|vel
+indefensabilidade	nome feminino	in|de|fen|sa|bi|li|[da]|de
+indefensável	adjetivo	in|de|fen|[sá]|vel
+indefensibilidade	nome feminino	in|de|fen|si|bi|li|[da]|de
+indefensível	adjetivo	in|de|fen|[sí]|vel
+indefenso	adjetivo	in|de|[fen]|so
+indeferido	adjetivo	in|de|fe|[ri]|do
+indeferimento	nome masculino	in|de|fe|ri|[men]|to
+indeferir	verbo	in|de|fe|[rir]
+indeferível	adjetivo	in|de|fe|[rí]|vel
+indefesa	nome feminino	in|de|[fe]|sa
+indefeso	adjetivo	in|de|[fe]|so
+indefeso	nome masculino	in|de|[fe]|so
+indefessamente	advérbio	in|de|fes|sa|[men]|te
+indefesso	adjetivo	in|de|[fes]|so
+indefetibilidade	nome feminino	in|de|fe|ti|bi|li|[da]|de
+indefetível	adjetivo	in|de|fe|[tí]|vel
+indefetivelmente	advérbio	in|de|fe|ti|vel|[men]|te
+indeficiente	adjetivo	in|de|fi|ci|[en]|te
+indefinição	nome feminino	in|de|fi|ni|[ção]
+indefinidamente	advérbio	in|de|fi|ni|da|[men]|te
+indefinido	adjetivo	in|de|fi|[ni]|do
+indefinido	nome masculino	in|de|fi|[ni]|do
+indefinito	adjetivo	in|de|fi|[ni]|to
+indefinível	adjetivo	in|de|fi|[ní]|vel
+indefinivelmente	advérbio	in|de|fi|ni|vel|[men]|te
+indeformabilidade	nome feminino	in|de|for|ma|bi|li|[da]|de
+indeformado	adjetivo	in|de|for|[ma]|do
+indeformável	adjetivo	in|de|for|[má]|vel
+indefraudável	adjetivo	in|de|frau|[dá]|vel
+indeiscência	nome feminino	in|deis|[cên]|ci|a
+indeiscente	adjetivo	in|deis|[cen]|te
+indelebilidade	nome feminino	in|de|le|bi|li|[da]|de
+indelegável	adjetivo	in|de|le|[gá]|vel
+indelével	adjetivo	in|de|[lé]|vel
+indelevelmente	advérbio	in|de|le|vel|[men]|te
+indeliberação	nome feminino	in|de|li|be|ra|[ção]

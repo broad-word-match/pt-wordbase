@@ -1,0 +1,100 @@
+emulsificar	verbo	e|mul|si|fi|[car]
+emulsificável	adjetivo	e|mul|si|fi|[cá]|vel
+emulsina	nome feminino	e|mul|[si]|na
+emulsionante	adjetivo	e|mul|si|o|[nan]|te
+emulsionante	nome masculino	e|mul|si|o|[nan]|te
+emulsionar	verbo	e|mul|si|o|[nar]
+emulsível	adjetivo	e|mul|[sí]|vel
+emulsivo	adjetivo	e|mul|[si]|vo
+emunctório	adjetivo	e|munc|[tó]|ri|o
+emunctório	nome masculino	e|munc|[tó]|ri|o
+emundação	nome feminino	e|mun|da|[ção]
+emundar	verbo	e|mun|[dar]
+emuralhar	verbo	e|mu|ra|[lhar]
+emurchar	verbo	e|mur|[char]
+emurchecer	verbo	e|mur|che|[cer]
+emurchecido	adjetivo	e|mur|che|[ci]|do
+emurchecimento	nome masculino	e|mur|che|ci|[men]|to
+ena	interjeição	[e]|na
+enaçã	nome feminino	e|na|[çã]
+enadelfia	nome feminino	e|na|del|[fi]|a
+enágua	nome feminino	e|[ná]|gua
+enaipar	verbo	e|nai|[par]
+enálage	nome feminino	e|[ná]|la|ge
+enaliossauro	nome masculino	e|na|li|os|[sau]|ro
+enaltar	verbo	e|nal|[tar]
+enaltecedor	adjetivo	e|nal|te|ce|[dor]
+enaltecedor	nome masculino	e|nal|te|ce|[dor]
+enaltecedora	nome feminino	e|nal|te|ce|[do]|ra
+enaltecer	verbo	e|nal|te|[cer]
+enaltecimento	nome masculino	e|nal|te|ci|[men]|to
+enamorada	nome feminino	e|na|mo|[ra]|da
+enamorado	adjetivo	e|na|mo|[ra]|do
+enamorado	nome masculino	e|na|mo|[ra]|do
+enamoramento	nome masculino	e|na|mo|ra|[men]|to
+enamorar	verbo	e|na|mo|[rar]
+enanciomorfo	adjetivo	e|nan|ci|o|[mor]|fo
+enanciopatia	nome feminino	e|nan|ci|o|pa|[ti]|a
+enanciopático	adjetivo	e|nan|ci|o|[pá]|ti|co
+enanciose	nome feminino	e|nan|ci|[o]|se
+enantal	nome masculino	e|nan|[tal]
+enante	nome feminino	e|[nan]|te
+enantema	nome masculino	e|nan|[te]|ma
+enântico	adjetivo	e|[nân]|ti|co
+enantina	nome feminino	e|nan|[ti]|na
+enantiomórfico	adjetivo	e|nan|ti|o|[mór]|fi|co
+enantiomorfismo	nome masculino	e|nan|ti|o|mor|[fis]|mo
+enantiotrópico	adjetivo	e|nan|ti|o|[tró]|pi|co
+enanto	nome masculino	e|[nan]|to
+enão	nome masculino	e|[não]
+enapupês	nome masculino	e|na|pu|[pês]
+enargia	nome feminino	e|nar|[gi]|a
+enarmonia	nome feminino	e|nar|mo|[ni]|a
+enarmônico	adjetivo	e|nar|[mô]|ni|co
+enarmónico	adjetivo	e|nar|[mó]|ni|co
+enarração	nome feminino	e|nar|ra|[ção]
+enarrar	verbo	e|nar|[rar]
+enartrose	nome feminino	e|nar|[tro]|se
+enastrado	nome masculino	e|nas|[tra]|do
+enastrado	adjetivo	e|nas|[tra]|do
+enastrar	verbo	e|nas|[trar]
+enatar	verbo	e|na|[tar]
+enateiramento	nome masculino	e|na|tei|ra|[men]|to
+enateirar	verbo	e|na|tei|[rar]
+encabadela	nome feminino	en|ca|ba|[de]|la
+encabadoiro	nome masculino	en|ca|ba|[doi]|ro
+encabadouro	nome masculino	en|ca|ba|[dou]|ro
+encabar	verbo	en|ca|[bar]
+encabeçado	adjetivo	en|ca|be|[ça]|do
+encabecador	nome masculino	en|ca|be|ca|[dor]
+encabeçadura	nome feminino	en|ca|be|ça|[du]|ra
+encabeçamento	nome masculino	en|ca|be|ça|[men]|to
+encabeçar	verbo	en|ca|be|[çar]
+encabecear	verbo	en|ca|be|ce|[ar]
+encabeço	nome masculino	en|ca|[be]|ço
+encabeira	nome feminino	en|ca|[bei]|ra
+encabeirar	verbo	en|ca|bei|[rar]
+encabelado	adjetivo	en|ca|be|[la]|do
+encabelado	nome masculino	en|ca|be|[la]|do
+encabelador	nome masculino	en|ca|be|la|[dor]
+encabeladura	nome feminino	en|ca|be|la|[du]|ra
+encabelar	verbo	en|ca|be|[lar]
+encabelizar	verbo	en|ca|be|li|[zar]
+encabrestadura	nome feminino	en|ca|bres|ta|[du]|ra
+encabrestamento	nome masculino	en|ca|bres|ta|[men]|to
+encabrestar	verbo	en|ca|bres|[tar]
+encabritar	verbo	en|ca|bri|[tar]
+encabruado	adjetivo	en|ca|bru|[a]|do
+encabulação	nome feminino	en|ca|bu|la|[ção]
+encabulada	nome feminino	en|ca|bu|[la]|da
+encabulado	adjetivo	en|ca|bu|[la]|do
+encabulado	nome masculino	en|ca|bu|[la]|do
+encabulador	adjetivo	en|ca|bu|la|[dor]
+encabulante	adjetivo	en|ca|bu|[lan]|te
+encabular	verbo	en|ca|bu|[lar]
+encachaçado	adjetivo	en|ca|cha|[ça]|do
+encachar	verbo	en|ca|[char]
+encachiado	adjetivo	en|ca|chi|[a]|do
+encachiar	verbo	en|ca|chi|[ar]
+encacho	nome masculino	en|[ca]|cho
+encachoeirado	adjetivo	en|ca|cho|ei|[ra]|do

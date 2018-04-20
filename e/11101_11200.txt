@@ -1,0 +1,100 @@
+estereotipagem	nome feminino	es|te|re|o|ti|[pa]|gem
+estereotipar	verbo	es|te|re|o|ti|[par]
+estereotipia	nome feminino	es|te|re|o|ti|[pi]|a
+estereotípico	adjetivo	es|te|re|o|[tí]|pi|co
+estereotipista	nome masculino	es|te|re|o|ti|[pis]|ta
+estereotipista	nome feminino	es|te|re|o|ti|[pis]|ta
+estereótipo	nome masculino	es|te|re|[ó]|ti|po
+estereotomia	nome feminino	es|te|re|o|to|[mi]|a
+estereotômico	adjetivo	es|te|re|o|[tô]|mi|co
+estereotómico	adjetivo	es|te|re|o|[tó]|mi|co
+estérido	nome masculino	es|[té]|ri|do
+esterificação	nome feminino	es|te|ri|fi|ca|[ção]
+esterificar	verbo	es|te|ri|fi|[car]
+esterigma	nome masculino	es|te|[rig]|ma
+estéril	adjetivo	es|[té]|ril
+estéril	nome masculino	es|[té]|ril
+estéril	nome feminino	es|[té]|ril
+esterilidade	nome feminino	es|te|ri|li|[da]|de
+esterilização	nome feminino	es|te|ri|li|za|[ção]
+esterilizado	adjetivo	es|te|ri|li|[za]|do
+esterilizador	adjetivo	es|te|ri|li|za|[dor]
+esterilizador	nome masculino	es|te|ri|li|za|[dor]
+esterilizadora	nome feminino	es|te|ri|li|za|[do]|ra
+esterilizante	nome masculino	es|te|ri|li|[zan]|te
+esterilizante	adjetivo	es|te|ri|li|[zan]|te
+esterilizar	verbo	es|te|ri|li|[zar]
+esterilizável	adjetivo	es|te|ri|li|[zá]|vel
+esterilmente	advérbio	es|te|ril|[men]|te
+esterlicado	adjetivo	es|ter|li|[ca]|do
+esterlicar	verbo	es|ter|li|[car]
+esterlim	nome masculino	es|ter|[lim]
+esterlino	adjetivo	es|ter|[li]|no
+esterlino	nome masculino	es|ter|[li]|no
+esterloixo	nome masculino	es|ter|[loi]|xo
+esternal	adjetivo	es|ter|[nal]
+esternalgia	nome feminino	es|ter|nal|[gi]|a
+esternálgico	adjetivo	es|ter|[nál]|gi|co
+estérnebra	nome feminino	es|[tér]|ne|bra
+esternebrado	adjetivo	es|ter|ne|[bra]|do
+esternebral	adjetivo	es|ter|ne|[bral]
+esternídeo	nome masculino	es|ter|[ní]|de|o
+esternídeo	adjetivo	es|ter|[ní]|de|o
+esternite	nome feminino	es|ter|[ni]|te
+esterno	nome masculino	es|[ter]|no
+esternoclavicular	adjetivo	es|ter|no|cla|vi|cu|[lar]
+esternocleidomastóideo	adjetivo	es|ter|no|clei|do|mas|[tói]|de|o
+esternocleidomastóideo	nome masculino	es|ter|no|clei|do|mas|[tói]|de|o
+esternoclidomastóideo	nome masculino	es|ter|no|cli|do|mas|[tói]|de|o
+esternoclidomastóideo	adjetivo	es|ter|no|cli|do|mas|[tói]|de|o
+esternocostal	adjetivo	es|ter|no|cos|[tal]
+esternópago	nome masculino	es|ter|[nó]|pa|go
+esternósquise	nome feminino	es|ter|[nós]|qui|se
+esternoxo	nome masculino	es|ter|[no]|xo
+esternumeral	adjetivo	es|ter|nu|me|[ral]
+esternutação	nome feminino	es|ter|nu|ta|[ção]
+esternutatório	adjetivo	es|ter|nu|ta|[tó]|ri|o
+esternutatório	nome masculino	es|ter|nu|ta|[tó]|ri|o
+esteroide	nome masculino	es|te|[roi]|de
+esteroide	adjetivo	es|te|[roi]|de
+esterol	nome masculino	es|te|[rol]
+esterqueira	nome feminino	es|ter|[quei]|ra
+esterqueiro	nome masculino	es|ter|[quei]|ro
+esterqueiro	adjetivo	es|ter|[quei]|ro
+esterquice	nome feminino	es|ter|[qui]|ce
+esterquilínio	nome masculino	es|ter|qui|[lí]|ni|o
+esterradiano	nome masculino	es|ter|ra|di|[a]|no
+esterradoura	nome feminino	es|ter|ra|[dou]|ra
+esterroada	nome feminino	es|ter|ro|[a]|da
+esterroador	nome masculino	es|ter|ro|a|[dor]
+esterroamento	nome masculino	es|ter|ro|a|[men]|to
+esterroar	verbo	es|ter|ro|[ar]
+estertor	nome masculino	es|ter|[tor]
+estertorar	verbo	es|ter|to|[rar]
+estertoroso	adjetivo	es|ter|to|[ro]|so
+estese	nome feminino	es|[te]|se
+estesia	nome feminino	es|te|[si]|a
+estesiar	verbo	es|te|si|[ar]
+estésico	adjetivo	es|[té]|si|co
+estesicorio	adjetivo	es|te|si|co|[ri]|o
+estesicorio	nome masculino	es|te|si|co|[ri]|o
+estesiografia	nome feminino	es|te|si|o|gra|[fi]|a
+estesiográfico	adjetivo	es|te|si|o|[grá]|fi|co
+estesiologia	nome feminino	es|te|si|o|lo|[gi]|a
+estesiológico	adjetivo	es|te|si|o|[ló]|gi|co
+estesiometria	nome feminino	es|te|si|o|me|[tri]|a
+estesiométrico	adjetivo	es|te|si|o|[mé]|tri|co
+estesiómetro	nome masculino	es|te|si|[ó]|me|tro
+estesiômetro	nome masculino	es|te|si|[ô]|me|tro
+esteso	adjetivo	es|[te]|so
+estesourar	verbo	es|te|sou|[rar]
+esteta	nome masculino	es|[te]|ta
+esteta	nome feminino	es|[te]|ta
+estetacústico	adjetivo	es|te|ta|[cús]|ti|co
+estética	nome feminino	es|[té]|ti|ca
+esteticamente	advérbio	es|te|ti|ca|[men]|te
+esteticismo	nome masculino	es|te|ti|[cis]|mo
+esteticista	nome masculino	es|te|ti|[cis]|ta
+esteticista	adjetivo	es|te|ti|[cis]|ta
+esteticista	nome feminino	es|te|ti|[cis]|ta
+esteticização	nome feminino	es|te|ti|ci|za|[ção]

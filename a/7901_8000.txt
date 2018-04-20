@@ -1,0 +1,100 @@
+alectoromântico	adjetivo	a|lec|to|ro|[mân]|ti|co
+alectoromaquia	nome feminino	a|lec|to|ro|ma|[qui]|a
+alectoromáquico	adjetivo	a|lec|to|ro|[má]|qui|co
+alectriomancia	nome feminino	a|lec|tri|o|man|[ci]|a
+alectriomante	nome masculino	a|lec|tri|o|[man]|te
+alectriomante	nome feminino	a|lec|tri|o|[man]|te
+alectriomântico	adjetivo	a|lec|tri|o|[mân]|ti|co
+aledar	verbo	a|le|[dar]
+alefanginas	nome feminino	a|le|fan|[gi]|nas
+alefriz	nome masculino	a|le|[friz]
+alegacão	nome masculino	a|le|ga|[cão]
+alegação	nome feminino	a|le|ga|[ção]
+alegadamente	advérbio	a|le|ga|da|[men]|te
+alegado	nome masculino	a|le|[ga]|do
+alegado	adjetivo	a|le|[ga]|do
+alegante	adjetivo	a|le|[gan]|te
+alegante	nome masculino	a|le|[gan]|te
+alegante	nome feminino	a|le|[gan]|te
+alegar	verbo	a|le|[gar]
+alegável	adjetivo	a|le|[gá]|vel
+alegoria	nome feminino	a|le|go|[ri]|a
+alegoricamente	advérbio	a|le|go|ri|ca|[men]|te
+alegórico	adjetivo	a|le|[gó]|ri|co
+alegorismo	nome masculino	a|le|go|[ris]|mo
+alegorista	nome masculino	a|le|go|[ris]|ta
+alegorista	nome feminino	a|le|go|[ris]|ta
+alegorístico	adjetivo	a|le|go|[rís]|ti|co
+alegorização	nome feminino	a|le|go|ri|za|[ção]
+alegorizador	adjetivo	a|le|go|ri|za|[dor]
+alegorizador	nome masculino	a|le|go|ri|za|[dor]
+alegorizante	adjetivo	a|le|go|ri|[zan]|te
+alegorizar	verbo	a|le|go|ri|[zar]
+alegra-campo	nome masculino	a|le|gra-cam|po
+alegrador	adjetivo	a|le|gra|[dor]
+alegrador	nome masculino	a|le|gra|[dor]
+alegragem	nome feminino	a|le|[gra]|gem
+alegramento	nome masculino	a|le|gra|[men]|to
+alegrão	nome masculino	a|le|[grão]
+alegrar	verbo	a|le|[grar]
+alegras	nome feminino	a|[le]|gras
+alegrativo	adjetivo	a|le|gra|[ti]|vo
+alegrável	adjetivo	a|le|[grá]|vel
+alegre	adjetivo	a|[le]|gre
+alegremente	advérbio	a|le|gre|[men]|te
+alegrete	adjetivo	a|le|[gre]|te
+alegrete	nome masculino	a|le|[gre]|te
+alegreto	nome masculino	a|le|[gre]|to
+alegria	nome feminino	a|le|[gri]|a
+alegriense	nome feminino	a|le|gri|[en]|se
+alegriense	nome masculino	a|le|gri|[en]|se
+alegriense	adjetivo	a|le|gri|[en]|se
+alegrinho	nome masculino	a|le|[gri]|nho
+alegro	nome masculino	a|[le]|gro
+alegrório	nome masculino	a|le|[gró]|ri|o
+alegrote	adjetivo	a|le|[gro]|te
+aleia	nome feminino	a|[lei]|a
+aleijada	nome feminino	a|lei|[ja]|da
+aleijado	adjetivo	a|lei|[ja]|do
+aleijado	nome masculino	a|lei|[ja]|do
+aleijador	adjetivo	a|lei|ja|[dor]
+aleijador	nome masculino	a|lei|ja|[dor]
+aleijamento	nome masculino	a|lei|ja|[men]|to
+aleijão	nome masculino	a|lei|[jão]
+aleijar	verbo	a|lei|[jar]
+aleirar	verbo	a|lei|[rar]
+aleitação	nome feminino	a|lei|ta|[ção]
+aleitado	adjetivo	a|lei|[ta]|do
+aleitamento	nome masculino	a|lei|ta|[men]|to
+aleitar	verbo	a|lei|[tar]
+aleitativo	adjetivo	a|lei|ta|[ti]|vo
+aleitável	adjetivo	a|lei|[tá]|vel
+aleive	nome masculino	a|[lei]|ve
+aleivosa	nome feminino	a|lei|[vo]|sa
+aleivosamente	advérbio	a|lei|vo|sa|[men]|te
+aleivosia	nome feminino	a|lei|vo|[si]|a
+aleivoso	adjetivo	a|lei|[vo]|so
+aleivoso	nome masculino	a|lei|[vo]|so
+alelarga	nome feminino	a|le|[lar]|ga
+aleli	nome masculino	a|le|[li]
+alelismo	nome masculino	a|le|[lis]|mo
+alelo	nome masculino	a|[le]|lo
+alelomórfico	adjetivo	a|le|lo|[mór]|fi|co
+alelomorfismo	nome masculino	a|le|lo|mor|[fis]|mo
+alelomorfo	nome masculino	a|le|lo|[mor]|fo
+aleluia	nome feminino	a|le|[lui]|a
+aleluia	interjeição	a|le|[lui]|a
+aleluiático	adjetivo	a|le|lui|[á]|ti|co
+aleluítico	adjetivo	a|le|lu|[í]|ti|co
+além	nome masculino	a|[lém]
+além	advérbio	a|[lém]
+além-eras	advérbio	a|lém-e|ras
+além-fronteiras	advérbio	a|lém-fron|[tei]|ras
+além-mar	nome masculino	a|lém-mar
+além-mar	advérbio	a|lém-mar
+além-mundo	advérbio	a|lém-mun|do
+além-mundo	nome masculino	a|lém-mun|do
+além-túmulo	advérbio	a|lém-tú|mu|lo
+além-túmulo	nome masculino	a|lém-tú|mu|lo
+alemã	nome feminino	a|le|[mã]
+alemânica	nome feminino	a|le|[mâ]|ni|ca

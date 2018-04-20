@@ -1,0 +1,100 @@
+descompostura	nome feminino	des|com|pos|[tu]|ra
+descomprazente	adjetivo	des|com|pra|[zen]|te
+descomprazer	verbo	des|com|pra|[zer]
+descompressão	nome feminino	des|com|pres|[são]
+descompressivo	adjetivo	des|com|pres|[si]|vo
+descomprimir	verbo	des|com|pri|[mir]
+descomprometer	verbo	des|com|pro|me|[ter]
+descomprometido	adjetivo	des|com|pro|me|[ti]|do
+descomunal	adjetivo	des|co|mu|[nal]
+descomunalidade	nome feminino	des|co|mu|na|li|[da]|de
+descomunalmente	advérbio	des|co|mu|nal|[men]|te
+descomungar	verbo	des|co|mun|[gar]
+descomunhão	nome feminino	des|co|mu|[nhão]
+desconceito	nome masculino	des|con|[cei]|to
+desconceituação	nome feminino	des|con|cei|tu|a|[ção]
+desconceituar	verbo	des|con|cei|tu|[ar]
+desconceituável	adjetivo	des|con|cei|tu|[á]|vel
+desconcentração	nome feminino	des|con|cen|tra|[ção]
+desconcentrado	adjetivo	des|con|cen|[tra]|do
+desconcentrar	verbo	des|con|cen|[trar]
+desconcentrável	adjetivo	des|con|cen|[trá]|vel
+desconcertadamente	advérbio	des|con|cer|ta|da|[men]|te
+desconcertado	adjetivo	des|con|cer|[ta]|do
+desconcertador	adjetivo	des|con|cer|ta|[dor]
+desconcertador	nome masculino	des|con|cer|ta|[dor]
+desconcertante	adjetivo	des|con|cer|[tan]|te
+desconcertar	verbo	des|con|cer|[tar]
+desconcerto	nome masculino	des|con|[cer]|to
+desconchavadamente	advérbio	des|con|cha|va|da|[men]|te
+desconchavado	adjetivo	des|con|cha|[va]|do
+desconchavar	verbo	des|con|cha|[var]
+desconchavo	nome masculino	des|con|[cha]|vo
+desconchegar	verbo	des|con|che|[gar]
+desconchego	nome masculino	des|con|[che]|go
+desconciliação	nome feminino	des|con|ci|li|a|[ção]
+desconciliar	verbo	des|con|ci|li|[ar]
+desconcordação	nome feminino	des|con|cor|da|[ção]
+desconcordância	nome feminino	des|con|cor|[dân]|ci|a
+desconcordante	adjetivo	des|con|cor|[dan]|te
+desconcordar	verbo	des|con|cor|[dar]
+desconcorde	adjetivo	des|con|[cor]|de
+desconcórdia	nome feminino	des|con|[cór]|di|a
+descondensação	nome feminino	des|con|den|sa|[ção]
+descondensar	verbo	des|con|den|[sar]
+descondicionamento	nome masculino	des|con|di|ci|o|na|[men]|to
+descondicionar	verbo	des|con|di|ci|o|[nar]
+descondizente	adjetivo	des|con|di|[zen]|te
+descondizer	verbo	des|con|di|[zer]
+desconectar	verbo	des|co|nec|[tar]
+desconetar	verbo	des|co|ne|[tar]
+desconexamente	advérbio	des|co|ne|xa|[men]|te
+desconexão	nome feminino	des|co|ne|[xão]
+desconexo	adjetivo	des|co|[ne]|xo
+desconfeito	adjetivo	des|con|[fei]|to
+desconfessar	verbo	des|con|fes|[sar]
+desconfiada	nome feminino	des|con|fi|[a]|da
+desconfiadamente	advérbio	des|con|fi|a|da|[men]|te
+desconfiado	adjetivo	des|con|fi|[a]|do
+desconfiado	nome masculino	des|con|fi|[a]|do
+desconfiança	nome feminino	des|con|fi|[an]|ça
+desconfiante	adjetivo	des|con|fi|[an]|te
+desconfiar	verbo	des|con|fi|[ar]
+desconfiável	adjetivo	des|con|fi|[á]|vel
+desconformar	verbo	des|con|for|[mar]
+desconforme	adjetivo	des|con|[for]|me
+desconformemente	advérbio	des|con|for|me|[men]|te
+desconformidade	nome feminino	des|con|for|mi|[da]|de
+desconfortador	adjetivo	des|con|for|ta|[dor]
+desconfortante	adjetivo	des|con|for|[tan]|te
+desconfortar	verbo	des|con|for|[tar]
+desconfortativo	adjetivo	des|con|for|ta|[ti]|vo
+desconfortável	adjetivo	des|con|for|[tá]|vel
+desconfortavelmente	advérbio	des|con|for|ta|vel|[men]|te
+desconforto	nome masculino	des|con|[for]|to
+desconfranger	verbo	des|con|fran|[ger]
+desconfrangimento	nome masculino	des|con|fran|gi|[men]|to
+desconfrontar	verbo	des|con|fron|[tar]
+desconfundir	verbo	des|con|fun|[dir]
+desconfusão	nome feminino	des|con|fu|[são]
+descongelação	nome feminino	des|con|ge|la|[ção]
+descongelado	adjetivo	des|con|ge|[la]|do
+descongelador	adjetivo	des|con|ge|la|[dor]
+descongelador	nome masculino	des|con|ge|la|[dor]
+descongelamento	nome masculino	des|con|ge|la|[men]|to
+descongelar	verbo	des|con|ge|[lar]
+descongestionador	adjetivo	des|con|ges|ti|o|na|[dor]
+descongestionamento	nome masculino	des|con|ges|ti|o|na|[men]|to
+descongestionante	adjetivo	des|con|ges|ti|o|[nan]|te
+descongestionar	verbo	des|con|ges|ti|o|[nar]
+descongestivo	adjetivo	des|con|ges|[ti]|vo
+desconhecedor	adjetivo	des|co|nhe|ce|[dor]
+desconhecedor	nome masculino	des|co|nhe|ce|[dor]
+desconhecedora	nome feminino	des|co|nhe|ce|[do]|ra
+desconhecer	verbo	des|co|nhe|[cer]
+desconhecida	nome feminino	des|co|nhe|[ci]|da
+desconhecido	adjetivo	des|co|nhe|[ci]|do
+desconhecido	nome masculino	des|co|nhe|[ci]|do
+desconhecimento	nome masculino	des|co|nhe|ci|[men]|to
+desconhecível	adjetivo	des|co|nhe|[cí]|vel
+desconjugar	verbo	des|con|ju|[gar]

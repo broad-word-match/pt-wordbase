@@ -1,0 +1,100 @@
+defumador	adjetivo	de|fu|ma|[dor]
+defumador	nome masculino	de|fu|ma|[dor]
+defumadouro	nome masculino	de|fu|ma|[dou]|ro
+defumadura	nome feminino	de|fu|ma|[du]|ra
+defumar	verbo	de|fu|[mar]
+defunção	nome feminino	de|fun|[ção]
+defunta	nome feminino	de|[fun]|ta
+defunteiro	nome masculino	de|fun|[tei]|ro
+defunteiro	adjetivo	de|fun|[tei]|ro
+defuntismo	nome masculino	de|fun|[tis]|mo
+defuntista	adjetivo	de|fun|[tis]|ta
+defunto	nome masculino	de|[fun]|to
+defunto	adjetivo	de|[fun]|to
+degas	nome masculino	[de]|gas
+degastador	adjetivo	de|gas|ta|[dor]
+degastador	nome masculino	de|gas|ta|[dor]
+degastar	verbo	de|gas|[tar]
+degelador	adjetivo	de|ge|la|[dor]
+degelador	nome masculino	de|ge|la|[dor]
+degelar	verbo	de|ge|[lar]
+degelo	nome masculino	de|[ge]|lo
+degeneração	nome feminino	de|ge|ne|ra|[ção]
+degenerada	nome feminino	de|ge|ne|[ra]|da
+degenerado	adjetivo	de|ge|ne|[ra]|do
+degenerado	nome masculino	de|ge|ne|[ra]|do
+degenerante	adjetivo	de|ge|ne|[ran]|te
+degenerar	verbo	de|ge|ne|[rar]
+degenerativo	adjetivo	de|ge|ne|ra|[ti]|vo
+degenerável	adjetivo	de|ge|ne|[rá]|vel
+degénere	adjetivo	de|[gé]|ne|re
+degênere	adjetivo	de|[gê]|ne|re
+degenerescência	nome feminino	de|ge|ne|res|[cên]|ci|a
+degenerescente	adjetivo	de|ge|ne|res|[cen]|te
+deglabração	nome feminino	de|gla|bra|[ção]
+deglobulização	nome feminino	de|glo|bu|li|za|[ção]
+deglobulizar	verbo	de|glo|bu|li|[zar]
+deglutição	nome feminino	de|glu|ti|[ção]
+deglutinação	nome feminino	de|glu|ti|na|[ção]
+deglutir	verbo	de|glu|[tir]
+degola	nome feminino	de|[go]|la
+degolação	nome feminino	de|go|la|[ção]
+degolado	adjetivo	de|go|[la]|do
+degoladoiro	nome masculino	de|go|la|[doi]|ro
+degolador	adjetivo	de|go|la|[dor]
+degolador	nome masculino	de|go|la|[dor]
+degoladora	nome feminino	de|go|la|[do]|ra
+degoladouro	nome masculino	de|go|la|[dou]|ro
+degoladura	nome feminino	de|go|la|[du]|ra
+degolar	verbo	de|go|[lar]
+degotar	verbo	de|go|[tar]
+degote	nome masculino	de|[go]|te
+degradação	nome feminino	de|gra|da|[ção]
+degradada	nome feminino	de|gra|[da]|da
+degradado	adjetivo	de|gra|[da]|do
+degradado	nome masculino	de|gra|[da]|do
+degradador	nome masculino	de|gra|da|[dor]
+degradador	adjetivo	de|gra|da|[dor]
+degradamento	nome masculino	de|gra|da|[men]|to
+degradante	adjetivo	de|gra|[dan]|te
+degradar	verbo	de|gra|[dar]
+degradável	adjetivo	de|gra|[dá]|vel
+degradê	adjetivo	de|gra|[dê]
+degradé	adjetivo	de|gra|dé
+degradé	nome masculino	de|gra|[dé]
+dégradé	nome masculino	[dé]|gra|dé
+dégradé	adjetivo	dé|gra|[dé]
+degradê	nome masculino	de|gra|[dê]
+degranadeira	nome feminino	de|gra|na|[dei]|ra
+degranar	verbo	de|gra|[nar]
+degrau	nome masculino	de|[grau]
+degredada	nome feminino	de|gre|[da]|da
+degredado	nome masculino	de|gre|[da]|do
+degredado	adjetivo	de|gre|[da]|do
+degredar	verbo	de|gre|[dar]
+degredo	nome masculino	de|[gre]|do
+degressivo	adjetivo	de|gres|[si]|vo
+degringolar	verbo	de|grin|go|[lar]
+deguebo	nome masculino	de|[gue]|bo
+degustabilidade	nome feminino	de|gus|ta|bi|li|[da]|de
+degustação	nome feminino	de|gus|ta|[ção]
+degustado	adjetivo	de|gus|[ta]|do
+degustar	verbo	de|gus|[tar]
+degustável	adjetivo	de|gus|[tá]|vel
+dei	nome masculino	[dei]
+deia	nome feminino	[dei]|a
+deicida	adjetivo	dei|[ci]|da
+deicida	nome masculino	dei|[ci]|da
+deicida	nome feminino	dei|[ci]|da
+deicídio	nome masculino	dei|[cí]|di|o
+deícola	adjetivo	de|[í]|co|la
+deícola	nome masculino	de|[í]|co|la
+deícola	nome feminino	de|[í]|co|la
+dêictico	adjetivo	[dêic]|ti|co
+dêictico	nome masculino	[dêic]|ti|co
+deíctico	adjetivo	de|[íc]|ti|co
+deíctico	nome masculino	de|[íc]|ti|co
+deidade	nome feminino	dei|[da]|de
+deificação	nome feminino	dei|fi|ca|[ção]
+deificado	adjetivo	dei|fi|[ca]|do
+deificador	adjetivo	dei|fi|ca|[dor]

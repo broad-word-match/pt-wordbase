@@ -1,0 +1,100 @@
+esfaqueamento	nome masculino	es|fa|que|a|[men]|to
+esfaquear	verbo	es|fa|que|[ar]
+esfarelado	adjetivo	es|fa|re|[la]|do
+esfarelamento	nome masculino	es|fa|re|la|[men]|to
+esfarelar	verbo	es|fa|re|[lar]
+esfarfalhado	adjetivo	es|far|fa|[lha]|do
+esfarfalhar	verbo	es|far|fa|[lhar]
+esfarinhar	verbo	es|fa|ri|[nhar]
+esfarpadela	nome feminino	es|far|pa|[de]|la
+esfarpar	verbo	es|far|[par]
+esfarpelar	verbo	es|far|pe|[lar]
+esfarrapada	nome feminino	es|far|ra|[pa]|da
+esfarrapadeira	nome feminino	es|far|ra|pa|[dei]|ra
+esfarrapadela	nome feminino	es|far|ra|pa|[de]|la
+esfarrapado	adjetivo	es|far|ra|[pa]|do
+esfarrapado	nome masculino	es|far|ra|[pa]|do
+esfarrapador	nome masculino	es|far|ra|pa|[dor]
+esfarrapamento	nome masculino	es|far|ra|pa|[men]|to
+esfarrapar	verbo	es|far|ra|[par]
+esfarripador	nome masculino	es|far|ri|pa|[dor]
+esfarripar	verbo	es|far|ri|[par]
+esfasamento	nome masculino	es|fa|sa|[men]|to
+esfatiar	verbo	es|fa|ti|[ar]
+esfena	nome feminino	es|[fe]|na
+esfênio	nome masculino	es|[fê]|ni|o
+esfénio	nome masculino	es|[fé]|ni|o
+esfeniscídeo	nome masculino	es|fe|nis|[cí]|de|o
+esfeniscídeo	adjetivo	es|fe|nis|[cí]|de|o
+esfeniscídeo	nome masculino	es|fe|nis|[cí]|de|o
+esfenisciforme	nome masculino	es|fe|nis|ci|[for]|me
+esfenisciforme	adjetivo	es|fe|nis|ci|[for]|me
+esfeno	nome masculino	es|[fe]|no
+esfenocefalia	nome feminino	es|fe|no|ce|fa|[li]|a
+esfenocéfalo	adjetivo	es|fe|no|[cé]|fa|lo
+esfenoedro	nome masculino	es|fe|no|[e]|dro
+esfenoidal	adjetivo	es|fe|noi|[dal]
+esfenoide	adjetivo	es|fe|[noi]|de
+esfenoide	nome masculino	es|fe|[noi]|de
+esfenóideo	adjetivo	es|fe|[nói]|de|o
+esfenoidite	nome feminino	es|fe|noi|[di]|te
+esfenótico	nome masculino	es|fe|[nó]|ti|co
+esfenótribo	nome masculino	es|fe|[nó]|tri|bo
+esfenotripsia	nome feminino	es|fe|no|trip|[si]|a
+esfera	nome feminino	es|[fe]|ra
+esferal	adjetivo	es|fe|[ral]
+esféria	nome feminino	es|[fé]|ri|a
+esferiácea	nome feminino	es|fe|ri|[á]|ce|a
+esferiáceo	adjetivo	es|fe|ri|[á]|ce|o
+esfericamente	advérbio	es|fe|ri|ca|[men]|te
+esfericidade	nome feminino	es|fe|ri|ci|[da]|de
+esférico	adjetivo	es|[fé]|ri|co
+esférico	nome masculino	es|[fé]|ri|co
+esferídeo	nome masculino	es|fe|[rí]|de|o
+esferista	nome masculino	es|fe|[ris]|ta
+esferista	nome feminino	es|fe|[ris]|ta
+esferistério	nome masculino	es|fe|ris|[té]|ri|o
+esferística	nome feminino	es|fe|[rís]|ti|ca
+esferístico	adjetivo	es|fe|[rís]|ti|co
+esferite	nome feminino	es|fe|[ri]|te
+esferoblasto	adjetivo	es|fe|ro|[blas]|to
+esferocéfalo	adjetivo	es|fe|ro|[cé]|fa|lo
+esferócito	nome masculino	es|fe|[ró]|ci|to
+esferocitose	nome feminino	es|fe|ro|ci|[to]|se
+esferográfica	nome feminino	es|fe|ro|[grá]|fi|ca
+esferográfico	adjetivo	es|fe|ro|[grá]|fi|co
+esferoidal	adjetivo	es|fe|roi|[dal]
+esferoide	adjetivo	es|fe|[roi]|de
+esferoide	nome masculino	es|fe|[roi]|de
+esferóideo	adjetivo	es|fe|[rói]|de|o
+esferólito	nome masculino	es|fe|[ró]|li|to
+esferométrico	adjetivo	es|fe|ro|[mé]|tri|co
+esferômetro	nome masculino	es|fe|[rô]|me|tro
+esferómetro	nome masculino	es|fe|[ró]|me|tro
+esferossiderite	nome feminino	es|fe|ros|si|de|[ri]|te
+esferostilbite	nome feminino	es|fe|ros|til|[bi]|te
+esferovite	nome feminino	es|fe|ro|[vi]|te
+esférula	nome feminino	es|[fé]|ru|la
+esfervelho	nome masculino	es|fer|[ve]|lho
+esfervilhador	adjetivo	es|fer|vi|lha|[dor]
+esfervilhar	verbo	es|fer|vi|[lhar]
+esfiada	nome feminino	es|fi|[a]|da
+esfiado	adjetivo	es|fi|[a]|do
+esfiampar	verbo	es|fi|am|[par]
+esfiapar	verbo	es|fi|a|[par]
+esfiar	verbo	es|fi|[ar]
+esfibrar	verbo	es|fi|[brar]
+esfígmico	adjetivo	es|[fíg]|mi|co
+esfigmofone	nome masculino	es|fig|mo|[fo]|ne
+esfigmofonia	nome feminino	es|fig|mo|fo|[ni]|a
+esfigmofônico	adjetivo	es|fig|mo|[fô]|ni|co
+esfigmofónico	adjetivo	es|fig|mo|[fó]|ni|co
+esfigmografia	nome feminino	es|fig|mo|gra|[fi]|a
+esfigmográfico	adjetivo	es|fig|mo|[grá]|fi|co
+esfigmógrafo	nome masculino	es|fig|[mó]|gra|fo
+esfigmograma	nome masculino	es|fig|mo|[gra]|ma
+esfigmologia	nome feminino	es|fig|mo|lo|[gi]|a
+esfigmológico	adjetivo	es|fig|mo|[ló]|gi|co
+esfigmomanometria	nome feminino	es|fig|mo|ma|no|me|[tri]|a
+esfigmomanométrico	adjetivo	es|fig|mo|ma|no|[mé]|tri|co
+esfigmomanómetro	nome masculino	es|fig|mo|ma|[nó]|me|tro

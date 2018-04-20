@@ -1,0 +1,100 @@
+cossairo	nome masculino	cos|[sai]|ro
+cossecante	nome feminino	cos|se|[can]|te
+cossecante	nome feminino	cos|se|[can]|te
+cosseno	nome masculino	cos|[se]|no
+cosseno	nome masculino	cos|[se]|no
+cossieu	adjetivo	cos|si|[eu]
+cossieu	nome masculino	cos|si|[eu]
+cossignatária	nome feminino	cos|sig|na|[tá]|ri|a
+cossignatário	nome masculino	cos|sig|na|[tá]|ri|o
+cóssio	nome masculino	[cós]|si|o
+cosso	nome masculino	[cos]|so
+cossoiro	nome masculino	cos|[soi]|ro
+cossolete	nome masculino	cos|so|[le]|te
+cossoleto	nome masculino	cos|so|[le]|to
+cossouro	nome masculino	cos|[sou]|ro
+costa	nome feminino	[cos]|ta
+costa-marfinense	adjetivo	cos|ta-mar|fi|[nen]|se
+costa-marfinense	nome masculino	cos|ta-mar|fi|[nen]|se
+costa-marfinense	nome feminino	cos|ta-mar|fi|[nen]|se
+costa-ricense	adjetivo	cos|ta-ri|[cen]|se
+costa-ricense	nome masculino	cos|ta-ri|[cen]|se
+costa-ricense	nome feminino	cos|ta-ri|[cen]|se
+costa-riquenha	nome feminino	cos|ta-ri|[que]|nha
+costa-riquenho	nome masculino	cos|ta-ri|[que]|nho
+costa-riquenho	adjetivo	cos|ta-ri|[que]|nho
+costa-riquense	adjetivo	cos|ta-ri|[quen]|se
+costa-riquense	nome masculino	cos|ta-ri|[quen]|se
+costa-riquense	nome feminino	cos|ta-ri|[quen]|se
+costabaixo	nome masculino	cos|ta|[bai]|xo
+costabdominal	adjetivo	cos|tab|do|mi|[nal]
+costada	nome feminino	cos|[ta]|da
+costado	nome masculino	cos|[ta]|do
+costado	adjetivo	cos|[ta]|do
+costal	adjetivo	cos|[tal]
+costal	nome masculino	cos|[tal]
+costaleira	nome feminino	cos|ta|[lei]|ra
+costalgia	nome feminino	cos|tal|[gi]|a
+costálgico	adjetivo	cos|[tál]|gi|co
+costaneira	nome feminino	cos|ta|[nei]|ra
+costaneiro	adjetivo	cos|ta|[nei]|ro
+costaneiro	nome masculino	cos|ta|[nei]|ro
+costarriquenha	nome feminino	cos|tar|ri|[que]|nha
+costeagem	nome feminino	cos|te|[a]|gem
+costeamento	nome masculino	cos|te|a|[men]|to
+costear	verbo	cos|te|[ar]
+costeio	nome masculino	cos|[tei]|o
+costeira	nome feminino	cos|[tei]|ra
+costeiras	nome feminino	cos|[tei]|ras
+costeiro	adjetivo	cos|[tei]|ro
+costela	nome feminino	cos|[te]|la
+costelame	nome masculino	cos|te|[la]|me
+costelão	nome masculino	cos|te|[lão]
+costeleta	nome feminino	cos|te|[le]|ta
+costelo	nome masculino	cos|[te]|lo
+costiforme	adjetivo	cos|ti|[for]|me
+costilha	nome feminino	cos|[ti]|lha
+costilhar	nome masculino	cos|ti|[lhar]
+costilhas	nome feminino	cos|[ti]|lhas
+costo	nome masculino	[cos]|to
+costoabdominal	adjetivo	cos|to|ab|do|mi|[nal]
+costoclavicular	adjetivo	cos|to|cla|vi|cu|[lar]
+costomarsupial	adjetivo	cos|to|mar|su|pi|[al]
+costoscapular	adjetivo	cos|tos|ca|pu|[lar]
+costosternal	adjetivo	cos|tos|ter|[nal]
+costotomia	nome feminino	cos|to|to|[mi]|a
+costótomo	nome masculino	cos|[tó]|to|mo
+costotorácico	adjetivo	cos|to|to|[rá]|ci|co
+costovertebral	adjetivo	cos|to|ver|te|[bral]
+costumadamente	advérbio	cos|tu|ma|da|[men]|te
+costumado	adjetivo	cos|tu|[ma]|do
+costumado	nome masculino	cos|tu|[ma]|do
+costumagem	nome feminino	cos|tu|[ma]|gem
+costumança	nome feminino	cos|tu|[man]|ça
+costumar	verbo	cos|tu|[mar]
+costumário	adjetivo	cos|tu|[má]|ri|o
+costume	nome masculino	cos|[tu]|me
+costumeira	nome feminino	cos|tu|[mei]|ra
+costumeiro	adjetivo	cos|tu|[mei]|ro
+costura	nome feminino	cos|[tu]|ra
+costuradeira	nome feminino	cos|tu|ra|[dei]|ra
+costurado	adjetivo	cos|tu|[ra]|do
+costuragem	nome feminino	cos|tu|[ra]|gem
+costurão	nome masculino	cos|tu|[rão]
+costurar	verbo	cos|tu|[rar]
+costureira	nome feminino	cos|tu|[rei]|ra
+costureiro	nome masculino	cos|tu|[rei]|ro
+costureiro	adjetivo	cos|tu|[rei]|ro
+cota	nome feminino	[co]|ta
+cota	nome masculino	[co]|ta
+cotá-bega	nome masculino	co|tá-be|ga
+cota-parte	nome feminino	co|ta-par|te
+cotação	nome feminino	co|ta|[ção]
+cotada	nome feminino	co|[ta]|da
+cotado	adjetivo	co|[ta]|do
+cotador	adjetivo	co|ta|[dor]
+cotador	nome masculino	co|ta|[dor]
+cotamento	nome masculino	co|ta|[men]|to
+cotangente	nome feminino	co|tan|[gen]|te
+cotangente	nome feminino	co|tan|[gen]|te
+cotanilho	nome masculino	co|ta|[ni]|lho

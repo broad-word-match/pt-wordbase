@@ -1,0 +1,100 @@
+derivante	adjetivo	de|ri|[van]|te
+derivante	nome feminino	de|ri|[van]|te
+derivar	verbo	de|ri|[var]
+derivativo	nome masculino	de|ri|va|[ti]|vo
+derivativo	adjetivo	de|ri|va|[ti]|vo
+derivatório	adjetivo	de|ri|va|[tó]|ri|o
+derivável	adjetivo	de|ri|[vá]|vel
+derma	nome masculino	[der]|ma
+dermabrasão	nome feminino	der|ma|bra|[são]
+dermalgia	nome feminino	der|mal|[gi]|a
+dermáptero	nome masculino	der|[máp]|te|ro
+dermatalgia	nome feminino	der|ma|tal|[gi]|a
+dermatálgico	adjetivo	der|ma|[tál]|gi|co
+dermático	adjetivo	der|[má]|ti|co
+dermatina	nome feminino	der|ma|[ti]|na
+dermatite	nome feminino	der|ma|[ti]|te
+dermatobrânquio	nome masculino	der|ma|to|[brân]|qui|o
+dermatofobia	nome feminino	der|ma|to|fo|[bi]|a
+dermatófobo	adjetivo	der|ma|[tó]|fo|bo
+dermatófobo	nome masculino	der|ma|[tó]|fo|bo
+dermatoglifia	nome feminino	der|ma|to|gli|[fi]|a
+dermatóglifo	nome masculino	der|ma|[tó]|gli|fo
+dermatografia	nome feminino	der|ma|to|gra|[fi]|a
+dermatográfico	adjetivo	der|ma|to|[grá]|fi|co
+dermatógrafo	nome masculino	der|ma|[tó]|gra|fo
+dermatoide	adjetivo	der|ma|[toi]|de
+dermatol	nome masculino	der|ma|[tol]
+dermatólise	nome feminino	der|ma|[tó]|li|se
+dermatolisia	nome feminino	der|ma|to|li|[si]|a
+dermatolítico	adjetivo	der|ma|to|[lí]|ti|co
+dermatologia	nome feminino	der|ma|to|lo|[gi]|a
+dermatológico	adjetivo	der|ma|to|[ló]|gi|co
+dermatologista	nome masculino	der|ma|to|lo|[gis]|ta
+dermatologista	nome feminino	der|ma|to|lo|[gis]|ta
+dermatólogo	nome masculino	der|ma|[tó]|lo|go
+dermatoma	nome masculino	der|ma|[to]|ma
+dermatomicose	nome feminino	der|ma|to|mi|[co]|se
+dermatomiosite	nome feminino	der|ma|to|mi|o|[si]|te
+dermátomo	nome masculino	der|[má]|to|mo
+dermatoneurose	nome feminino	der|ma|to|neu|[ro]|se
+dermatopatia	nome feminino	der|ma|to|pa|[ti]|a
+dermatopático	adjetivo	der|ma|to|[pá]|ti|co
+dermatoplastia	nome feminino	der|ma|to|plas|[ti]|a
+dermatópode	nome masculino	der|ma|[tó]|po|de
+dermatóptero	nome masculino	der|ma|[tóp]|te|ro
+dermatóptero	adjetivo	der|ma|[tóp]|te|ro
+dermatorragia	nome feminino	der|ma|tor|ra|[gi]|a
+dermatorrágico	adjetivo	der|ma|tor|[rá]|gi|co
+dermatorreia	nome feminino	der|ma|tor|[rei]|a
+dermatorreico	adjetivo	der|ma|tor|[rei]|co
+dermatorrinco	nome masculino	der|ma|tor|[rin]|co
+dermatosclerose	nome feminino	der|ma|tos|cle|[ro]|se
+dermatose	nome feminino	der|ma|[to]|se
+dermatoterapia	nome feminino	der|ma|to|te|ra|[pi]|a
+dermatoterápico	adjetivo	der|ma|to|te|[rá]|pi|co
+dermatotomia	nome feminino	der|ma|to|to|[mi]|a
+dermatotômico	adjetivo	der|ma|to|[tô]|mi|co
+dermatotómico	adjetivo	der|ma|to|[tó]|mi|co
+dermatozoário	nome masculino	der|ma|to|zo|[á]|ri|o
+derme	nome feminino	[der]|me
+dermesta	nome masculino	der|[mes]|ta
+dermestídeo	nome masculino	der|mes|[tí]|de|o
+dermestídeo	adjetivo	der|mes|[tí]|de|o
+dérmico	adjetivo	[dér]|mi|co
+dermite	nome feminino	der|[mi]|te
+dermográfico	adjetivo	der|mo|[grá]|fi|co
+dermografismo	nome masculino	der|mo|gra|[fis]|mo
+dermoide	adjetivo	der|[moi]|de
+dermopapilograma	nome masculino	der|mo|pa|pi|lo|[gra]|ma
+dermoprotetor	adjetivo	der|mo|pro|te|[tor]
+dermóptero	nome masculino	der|[móp]|te|ro
+dermoterapia	nome feminino	der|mo|te|ra|[pi]|a
+derodídimo	nome masculino	de|ro|[dí]|di|mo
+derrabado	adjetivo	der|ra|[ba]|do
+derrabanho	nome masculino	der|ra|[ba]|nho
+derrabar	verbo	der|ra|[bar]
+derradeiramente	advérbio	der|ra|dei|ra|[men]|te
+derradeiro	adjetivo	der|ra|[dei]|ro
+derraigar	verbo	der|rai|[gar]
+derrama	nome feminino	der|[ra]|ma
+derramação	nome feminino	der|ra|ma|[ção]
+derramado	adjetivo	der|ra|[ma]|do
+derramador	adjetivo	der|ra|ma|[dor]
+derramador	nome masculino	der|ra|ma|[dor]
+derramamento	nome masculino	der|ra|ma|[men]|to
+derramar	verbo	der|ra|[mar]
+derramável	adjetivo	der|ra|[má]|vel
+derrame	nome masculino	der|[ra]|me
+derrancado	adjetivo	der|ran|[ca]|do
+derrancamento	nome masculino	der|ran|ca|[men]|to
+derrancar	verbo	der|ran|[car]
+derranco	nome masculino	der|[ran]|co
+derrangadeira	nome feminino	der|ran|ga|[dei]|ra
+derranque	nome masculino	der|[ran]|que
+derrapagem	nome feminino	der|ra|[pa]|gem
+derrapante	adjetivo	der|ra|[pan]|te
+derrapar	verbo	der|ra|[par]
+derreadela	nome feminino	der|re|a|[de]|la
+derreado	adjetivo	der|re|[a]|do
+derreador	adjetivo	der|re|a|[dor]

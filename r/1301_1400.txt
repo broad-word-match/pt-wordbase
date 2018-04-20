@@ -1,0 +1,100 @@
+rasteirinha	nome feminino	ras|tei|[ri]|nha
+rasteiro	adjetivo	ras|[tei]|ro
+rasteiro	nome masculino	ras|[tei]|ro
+rastejador	adjetivo	ras|te|ja|[dor]
+rastejador	nome masculino	ras|te|ja|[dor]
+rastejadura	nome feminino	ras|te|ja|[du]|ra
+rastejamento	nome masculino	ras|te|ja|[men]|to
+rastejante	adjetivo	ras|te|[jan]|te
+rastejar	verbo	ras|te|[jar]
+rastejável	adjetivo	ras|te|[já]|vel
+rastejo	nome masculino	ras|[te]|jo
+rastelar	verbo	ras|te|[lar]
+rastelo	nome masculino	ras|[te]|lo
+rastiço	adjetivo	ras|[ti]|ço
+rastilha	nome feminino	ras|[ti]|lha
+rastilhagem	nome feminino	ras|ti|[lha]|gem
+rastilhar	verbo	ras|ti|[lhar]
+rastilho	nome masculino	ras|[ti]|lho
+rastinhar	verbo	ras|ti|[nhar]
+rasto	nome masculino	[ras]|to
+rastolhada	nome feminino	ras|to|[lha]|da
+rastolhar	verbo	ras|to|[lhar]
+rastolhice	nome feminino	ras|to|[lhi]|ce
+rastolho	nome masculino	ras|[to]|lho
+rastra	nome feminino	[ras]|tra
+rastreamento	nome masculino	ras|tre|a|[men]|to
+rastrear	verbo	ras|tre|[ar]
+rastreio	nome masculino	ras|[trei]|o
+rastreiro	adjetivo	ras|[trei]|ro
+rastrejar	verbo	ras|tre|[jar]
+rastrilho	nome masculino	ras|[tri]|lho
+rastro	nome masculino	[ras]|tro
+rasulho	nome masculino	ra|[su]|lho
+rasura	nome feminino	ra|[su]|ra
+rasurado	adjetivo	ra|su|[ra]|do
+rasurar	verbo	ra|su|[rar]
+rata	nome feminino	[ra]|ta
+ratada	nome feminino	ra|[ta]|da
+ratado	adjetivo	ra|[ta]|do
+ratafia	nome feminino	ra|ta|[fi]|a
+ratagem	nome feminino	ra|[ta]|gem
+ratânia	nome feminino	ra|[tâ]|ni|a
+ratanina	nome feminino	ra|ta|[ni]|na
+ratão	adjetivo	ra|[tão]
+ratão	nome masculino	ra|[tão]
+rataplã	nome masculino	ra|ta|[plã]
+rataplão	nome masculino	ra|ta|[plão]
+ratar	verbo	ra|[tar]
+rataria	nome feminino	ra|ta|[ri]|a
+ratatau	nome masculino	ra|ta|[tau]
+ratazana	nome masculino	ra|ta|[za]|na
+ratazana	nome feminino	ra|ta|[za]|na
+ratazana	adjetivo	ra|ta|[za]|na
+ratazanar	verbo	ra|ta|za|[nar]
+rateação	nome feminino	ra|te|a|[ção]
+rateador	adjetivo	ra|te|a|[dor]
+rateador	nome masculino	ra|te|a|[dor]
+rateamento	nome masculino	ra|te|a|[men]|to
+ratear	verbo	ra|te|[ar]
+rateio	nome masculino	ra|[tei]|o
+rateira	nome feminino	ra|[tei]|ra
+rateiro	adjetivo	ra|[tei]|ro
+rateiro	nome masculino	ra|[tei]|ro
+ratel	nome masculino	ra|[tel]
+rati	nome masculino	ra|[ti]
+ratice	nome feminino	ra|[ti]|ce
+raticida	nome masculino	ra|ti|[ci]|da
+raticida	adjetivo	ra|ti|[ci]|da
+raticídio	nome masculino	ra|ti|[cí]|di|o
+ratificação	nome feminino	ra|ti|fi|ca|[ção]
+ratificado	adjetivo	ra|ti|fi|[ca]|do
+ratificador	adjetivo	ra|ti|fi|ca|[dor]
+ratificante	adjetivo	ra|ti|fi|[can]|te
+ratificar	verbo	ra|ti|fi|[car]
+ratificável	adjetivo	ra|ti|fi|[cá]|vel
+ratiforme	nome masculino	ra|ti|[for]|me
+ratiforme	adjetivo	ra|ti|[for]|me
+ratina	nome feminino	ra|[ti]|na
+ratinadora	nome feminino	ra|ti|na|[do]|ra
+ratinar	verbo	ra|ti|[nar]
+rating	nome masculino	[ra]|ting
+ratinha	nome feminino	ra|[ti]|nha
+ratinhador	nome masculino	ra|ti|nha|[dor]
+ratinhar	verbo	ra|ti|[nhar]
+ratinheiro	adjetivo	ra|ti|[nhei]|ro
+ratinheiro	nome masculino	ra|ti|[nhei]|ro
+ratinho	nome masculino	ra|[ti]|nho
+ratinho	adjetivo	ra|[ti]|nho
+ratinho-lavadeiro	nome masculino	[ra]
+ratio	nome masculino	ra|ti|o
+ratita	adjetivo	ra|[ti]|ta
+ratite	adjetivo	ra|[ti]|te
+ratite	nome feminino	ra|[ti]|te
+ratívoro	adjetivo	ra|[tí]|vo|ro
+rato	adjetivo	[ra]|to
+rato	nome masculino	[ra]|to
+rato-almiscareiro	nome masculino	ra|to-al|mis|ca|[rei]|ro
+rato-caseiro	nome masculino	ra|to-ca|[sei]|ro
+rato-catita	nome masculino	ra|to-ca|[ti]|ta
+rato-cego	nome masculino	ra|to-ce|go

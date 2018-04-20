@@ -1,0 +1,100 @@
+vedanta	nome masculino	ve|[dan]|ta
+vedântico	adjetivo	ve|[dân]|ti|co
+vedantismo	nome masculino	ve|dan|[tis]|mo
+vedantista	adjetivo	ve|dan|[tis]|ta
+vedantista	nome masculino	ve|dan|[tis]|ta
+vedantista	nome feminino	ve|dan|[tis]|ta
+vedar	verbo	ve|[dar]
+vedável	adjetivo	ve|[dá]|vel
+vedeta	nome feminino	ve|[de]|ta
+vedete	nome feminino	ve|[de]|te
+vedetismo	nome masculino	ve|de|[tis]|mo
+vediâncio	adjetivo	ve|di|[ân]|ci|o
+vediâncio	nome masculino	ve|di|[ân]|ci|o
+védico	adjetivo	[vé]|di|co
+védico	nome masculino	[vé]|di|co
+vedismo	nome masculino	ve|[dis]|mo
+vedo	nome masculino	[ve]|do
+vedoia	nome masculino	ve|[doi]|a
+vedor	adjetivo	ve|[dor]
+vedor	nome masculino	ve|[dor]
+vedora	nome feminino	ve|[do]|ra
+vedoria	nome feminino	ve|do|[ri]|a
+vedro	nome masculino	[ve]|dro
+vedro	adjetivo	[ve]|dro
+veeira	nome feminino	ve|[ei]|ra
+veeiro	nome masculino	ve|[ei]|ro
+veemência	nome feminino	ve|e|[mên]|ci|a
+veemente	adjetivo	ve|e|[men]|te
+veementemente	advérbio	ve|e|men|te|[men]|te
+veementizar	verbo	ve|e|men|ti|[zar]
+vegado	adjetivo	ve|[ga]|do
+vegan	nome masculino	[ve]|gan
+vegan	adjetivo	[ve]|gan
+vegan	nome feminino	ve|[gan]
+veganismo	nome masculino	ve|ga|[nis]|mo
+veganista	adjetivo	ve|ga|[nis]|ta
+veganista	nome masculino	ve|ga|[nis]|ta
+veganista	nome feminino	ve|ga|[nis]|ta
+vegetabilidade	nome feminino	ve|ge|ta|bi|li|[da]|de
+vegetação	nome feminino	ve|ge|ta|[ção]
+vegetacional	adjetivo	ve|ge|ta|ci|o|[nal]
+vegetal	nome masculino	ve|ge|[tal]
+vegetal	adjetivo	ve|ge|[tal]
+vegetálculo	nome masculino	ve|ge|[tál]|cu|lo
+vegetaliano	adjetivo	ve|ge|ta|li|[a]|no
+vegetaliano	nome masculino	ve|ge|ta|li|[a]|no
+vegetalidade	nome feminino	ve|ge|ta|li|[da]|de
+vegetaliforme	adjetivo	ve|ge|ta|li|[for]|me
+vegetalina	nome feminino	ve|ge|ta|[li]|na
+vegetalino	adjetivo	ve|ge|ta|[li]|no
+vegetalino	nome masculino	ve|ge|ta|[li]|no
+vegetalismo	nome masculino	ve|ge|ta|[lis]|mo
+vegetalista	adjetivo	ve|ge|ta|[lis]|ta
+vegetalista	nome masculino	ve|ge|ta|[lis]|ta
+vegetalista	nome feminino	ve|ge|ta|[lis]|ta
+vegetalização	nome feminino	ve|ge|ta|li|za|[ção]
+vegetalizante	adjetivo	ve|ge|ta|li|[zan]|te
+vegetalizar	verbo	ve|ge|ta|li|[zar]
+vegetante	adjetivo	ve|ge|[tan]|te
+vegetar	verbo	ve|ge|[tar]
+vegetariana	nome feminino	ve|ge|ta|ri|[a]|na
+vegetarianismo	nome masculino	ve|ge|ta|ri|a|[nis]|mo
+vegetarianista	nome masculino	ve|ge|ta|ri|a|[nis]|ta
+vegetarianista	nome feminino	ve|ge|ta|ri|a|[nis]|ta
+vegetariano	adjetivo	ve|ge|ta|ri|[a]|no
+vegetariano	nome masculino	ve|ge|ta|ri|[a]|no
+vegetarismo	nome masculino	ve|ge|ta|[ris]|mo
+vegetarista	adjetivo	ve|ge|ta|[ris]|ta
+vegetarista	nome masculino	ve|ge|ta|[ris]|ta
+vegetarista	nome feminino	ve|ge|ta|[ris]|ta
+vegetativamente	advérbio	ve|ge|ta|ti|va|[men]|te
+vegetativo	adjetivo	ve|ge|ta|[ti]|vo
+vegetável	adjetivo	ve|ge|[tá]|vel
+vegetívoro	adjetivo	ve|ge|[tí]|vo|ro
+végeto	adjetivo	[vé]|ge|to
+végeto-animal	adjetivo	vé|ge|to-a|ni|[mal]
+végeto-mineral	adjetivo	vé|ge|to-mi|ne|[ral]
+veia	nome feminino	[vei]|a
+veiar	verbo	vei|[ar]
+veiculação	nome feminino	vei|cu|la|[ção]
+veiculador	adjetivo	vei|cu|la|[dor]
+veiculador	nome masculino	vei|cu|la|[dor]
+veicular	adjetivo	vei|cu|[lar]
+veicular	verbo	vei|cu|[lar]
+veículo	nome masculino	ve|[í]|cu|lo
+veieira	nome feminino	vei|[ei]|ra
+veientano	adjetivo	vei|en|[ta]|no
+veientano	nome masculino	vei|en|[ta]|no
+veiente	adjetivo	vei|[en]|te
+veiente	nome masculino	vei|[en]|te
+veiente	nome feminino	vei|[en]|te
+veiga	nome feminino	[vei]|ga
+veio	nome masculino	[vei]|o
+veirado	adjetivo	vei|[ra]|do
+veirado	nome masculino	vei|[ra]|do
+veiro	nome masculino	[vei]|ro
+vejentano	adjetivo	ve|jen|[ta]|no
+vejentano	nome masculino	ve|jen|[ta]|no
+vejente	adjetivo	ve|[jen]|te
+vejente	nome masculino	ve|[jen]|te

@@ -1,0 +1,100 @@
+dispensa	nome feminino	dis|[pen]|sa
+dispensabilidade	nome feminino	dis|pen|sa|bi|li|[da]|de
+dispensação	nome feminino	dis|pen|sa|[ção]
+dispensado	adjetivo	dis|pen|[sa]|do
+dispensador	nome masculino	dis|pen|sa|[dor]
+dispensar	verbo	dis|pen|[sar]
+dispensário	nome masculino	dis|pen|[sá]|ri|o
+dispensatário	nome masculino	dis|pen|sa|[tá]|ri|o
+dispensativo	adjetivo	dis|pen|sa|[ti]|vo
+dispensatório	adjetivo	dis|pen|sa|[tó]|ri|o
+dispensatório	nome masculino	dis|pen|sa|[tó]|ri|o
+dispensável	adjetivo	dis|pen|[sá]|vel
+dispensavelmente	advérbio	dis|pen|sa|vel|[men]|te
+dispepsia	nome feminino	dis|pep|[si]|a
+dispéptica	nome feminino	dis|[pép]|ti|ca
+dispéptico	adjetivo	dis|[pép]|ti|co
+dispéptico	nome masculino	dis|[pép]|ti|co
+disperder	verbo	dis|per|[der]
+dispermático	adjetivo	dis|per|[má]|ti|co
+dispermatismo	nome masculino	dis|per|ma|[tis]|mo
+dispermia	nome feminino	dis|per|[mi]|a
+dispérmico	adjetivo	dis|[pér]|mi|co
+dispermo	adjetivo	dis|[per]|mo
+dispersado	adjetivo	dis|per|[sa]|do
+dispersador	adjetivo	dis|per|sa|[dor]
+dispersador	nome masculino	dis|per|sa|[dor]
+dispersamente	advérbio	dis|per|sa|[men]|te
+dispersante	adjetivo	dis|per|[san]|te
+dispersante	nome masculino	dis|per|[san]|te
+dispersão	nome feminino	dis|per|[são]
+dispersar	verbo	dis|per|[sar]
+dispersivamente	advérbio	dis|per|si|va|[men]|te
+dispersividade	nome feminino	dis|per|si|vi|[da]|de
+dispersivo	adjetivo	dis|per|[si]|vo
+disperso	adjetivo	dis|[per]|so
+dispersor	adjetivo	dis|per|[sor]
+displasia	nome feminino	dis|pla|[si]|a
+displásico	adjetivo	dis|[plá]|si|co
+displástico	adjetivo	dis|[plás]|ti|co
+display	nome masculino	dis|play
+displicência	nome feminino	dis|pli|[cên]|ci|a
+displicente	adjetivo	dis|pli|[cen]|te
+displicentemente	advérbio	dis|pli|cen|te|[men]|te
+dispneia	nome feminino	disp|[nei]|a
+dispneico	adjetivo	disp|[nei]|co
+dispneico	nome masculino	disp|[nei]|co
+dispondaico	adjetivo	dis|pon|[dai]|co
+dispondeu	adjetivo	dis|pon|[deu]
+dispondeu	nome masculino	dis|pon|[deu]
+disponente	nome masculino	dis|po|[nen]|te
+disponente	adjetivo	dis|po|[nen]|te
+disponente	nome feminino	dis|po|[nen]|te
+disponibilidade	nome feminino	dis|po|ni|bi|li|[da]|de
+disponibilização	nome feminino	dis|po|ni|bi|li|za|[ção]
+disponibilizar	verbo	dis|po|ni|bi|li|[zar]
+disponível	adjetivo	dis|po|[ní]|vel
+disponível	nome masculino	dis|po|[ní]|vel
+disponível	nome feminino	dis|po|[ní]|vel
+dispor	verbo	dis|[por]
+dispor	nome masculino	dis|[por]
+disposição	nome feminino	dis|po|si|[ção]
+dispositivamente	advérbio	dis|po|si|ti|va|[men]|te
+dispositivo	adjetivo	dis|po|si|[ti]|vo
+dispositivo	nome masculino	dis|po|si|[ti]|vo
+dispositor	adjetivo	dis|po|si|[tor]
+dispositor	nome masculino	dis|po|si|[tor]
+disposto	nome masculino	dis|[pos]|to
+disposto	adjetivo	dis|[pos]|to
+dispraxia	nome feminino	dis|pra|[xi]|a
+disprósio	nome masculino	dis|[pró]|si|o
+disputa	nome feminino	dis|[pu]|ta
+disputação	nome feminino	dis|pu|ta|[ção]
+disputadíssimo	adjetivo	dis|pu|ta|[dís]|si|mo
+disputado	adjetivo	dis|pu|[ta]|do
+disputador	adjetivo	dis|pu|ta|[dor]
+disputador	nome masculino	dis|pu|ta|[dor]
+disputante	adjetivo	dis|pu|[tan]|te
+disputar	verbo	dis|pu|[tar]
+disputativo	adjetivo	dis|pu|ta|[ti]|vo
+disputatório	adjetivo	dis|pu|ta|[tó]|ri|o
+disputável	adjetivo	dis|pu|[tá]|vel
+disquesia	nome feminino	dis|que|[si]|a
+disquete	nome feminino	dis|[que]|te
+disquisição	nome feminino	dis|qui|si|[ção]
+disquisitório	nome masculino	dis|qui|si|[tó]|ri|o
+disritmia	nome feminino	dis|rit|[mi]|a
+disrítmico	adjetivo	dis|[rít]|mi|co
+disrítmico	nome masculino	dis|[rít]|mi|co
+disrupção	nome feminino	dis|rup|[ção]
+dissabor	nome masculino	dis|sa|[bor]
+dissaborear	verbo	dis|sa|bo|re|[ar]
+dissaborido	adjetivo	dis|sa|bo|[ri]|do
+dissaboroso	adjetivo	dis|sa|bo|[ro]|so
+dissacarídeo	nome masculino	dis|sa|ca|[rí]|de|o
+dissacárido	nome masculino	dis|sa|[cá]|ri|do
+dissaco	nome masculino	dis|[sa]|co
+dissaquela	nome feminino	dis|sa|[que]|la
+dissê	nome masculino	dis|[sê]
+dissecação	nome feminino	dis|se|ca|[ção]
+dissecador	adjetivo	dis|se|ca|[dor]

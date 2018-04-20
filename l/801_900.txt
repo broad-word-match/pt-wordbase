@@ -1,0 +1,100 @@
+lantejoula	nome feminino	lan|te|[jou]|la
+lantejoular	verbo	lan|te|jou|[lar]
+lantém	nome masculino	lan|[tém]
+lanterna	nome feminino	lan|[ter]|na
+lanterna-de-aristóteles	nome feminino	lan|ter|na-de-a|ris|[tó]|te|les
+lanterneiro	nome masculino	lan|ter|[nei]|ro
+lanterneta	nome feminino	lan|ter|[ne]|ta
+lanternim	nome masculino	lan|ter|[nim]
+lanterninha	nome masculino	lan|ter|[ni]|nha
+lanterninha	nome feminino	lan|ter|[ni]|nha
+lanternino	nome masculino	lan|ter|[ni]|no
+lanudo	adjetivo	la|[nu]|do
+lanugem	nome feminino	la|[nu]|gem
+lanuginoso	adjetivo	la|nu|gi|[no]|so
+lanvirniano	adjetivo	lan|vir|ni|[a]|no
+lanzoar	verbo	lan|zo|[ar]
+lao	nome masculino	[lao]
+laociana	nome feminino	lao|ci|[a]|na
+laociano	adjetivo	lao|ci|[a]|no
+laociano	nome masculino	lao|ci|[a]|no
+laosiano	nome masculino	lao|si|[a]|no
+laosiano	adjetivo	lao|si|[a]|no
+lapa	nome feminino	[la]|pa
+lapada	nome feminino	la|[pa]|da
+lapalissada	nome feminino	la|pa|lis|[sa]|da
+lapantana	adjetivo	la|pan|[ta]|na
+lapantana	nome masculino	la|pan|[ta]|na
+lapantana	nome feminino	la|pan|[ta]|na
+lapão	nome masculino	la|[pão]
+lapão	adjetivo	la|[pão]
+laparão	nome masculino	la|pa|[rão]
+lapardão	adjetivo	la|par|[dão]
+lapardão	nome masculino	la|par|[dão]
+lapardeiro	adjetivo	la|par|[dei]|ro
+lapardeiro	nome masculino	la|par|[dei]|ro
+lapardo	nome masculino	la|[par]|do
+lapardo	adjetivo	la|[par]|do
+láparo	nome masculino	[lá]|pa|ro
+laparoscopia	nome feminino	la|pa|ros|co|[pi]|a
+laparoscópico	adjetivo	la|pa|ros|[có]|pi|co
+laparoscópio	nome masculino	la|pa|ros|[có]|pi|o
+laparoto	nome masculino	la|pa|[ro]|to
+laparoto	adjetivo	la|pa|[ro]|to
+laparotomia	nome feminino	la|pa|ro|to|[mi]|a
+laparotômico	adjetivo	la|pa|ro|[tô]|mi|co
+laparotómico	adjetivo	la|pa|ro|[tó]|mi|co
+laparotomizar	verbo	la|pa|ro|to|mi|[zar]
+lapedo	nome masculino	la|[pe]|do
+lapeira	nome feminino	la|[pei]|ra
+lapela	nome feminino	la|[pe]|la
+lapiaz	nome masculino	la|pi|[az]
+lápida	nome feminino	[lá]|pi|da
+lapidação	nome feminino	la|pi|da|[ção]
+lapidado	adjetivo	la|pi|[da]|do
+lapidado	nome masculino	la|pi|[da]|do
+lapidador	nome masculino	la|pi|da|[dor]
+lapidadora	nome feminino	la|pi|da|[do]|ra
+lapidagem	nome feminino	la|pi|[da]|gem
+lapidar	adjetivo	la|pi|[dar]
+lapidar	verbo	la|pi|[dar]
+lapidária	nome feminino	la|pi|[dá]|ri|a
+lapidaria	nome feminino	la|pi|da|[ri]|a
+lapidário	nome masculino	la|pi|[dá]|ri|o
+lapidário	adjetivo	la|pi|[dá]|ri|o
+lápide	nome feminino	[lá]|pi|de
+lapídeo	adjetivo	la|[pí]|de|o
+lapidescente	adjetivo	la|pi|des|[cen]|te
+lapidícola	adjetivo	la|pi|[dí]|co|la
+lapidificação	nome feminino	la|pi|di|fi|ca|[ção]
+lapidificar	verbo	la|pi|di|fi|[car]
+lapidífico	adjetivo	la|pi|[dí]|fi|co
+lapidoso	adjetivo	la|pi|[do]|so
+lapiez	nome masculino	la|pi|[ez]
+lapijar	verbo	la|pi|[jar]
+lapili	nome masculino	la|pi|[li]
+lápis	nome masculino	[lá]|pis
+lápis-lazúli	nome masculino	lá|pis-la|[zú]|li
+lápis-tinta	nome masculino	lá|pis-tin|ta
+lapisada	nome feminino	la|pi|[sa]|da
+lapisar	verbo	la|pi|[sar]
+lapiseira	nome feminino	la|pi|[sei]|ra
+laplatense	adjetivo	la|pla|[ten]|se
+laplatense	nome masculino	la|pla|[ten]|se
+laplatense	nome feminino	la|pla|[ten]|se
+lapona	nome feminino	la|[po]|na
+lapónia	nome feminino	la|[pó]|ni|a
+lapónico	adjetivo	la|[pó]|ni|co
+lapónico	nome masculino	la|[pó]|ni|co
+lapónio	adjetivo	la|[pó]|ni|o
+lapónio	nome masculino	la|[pó]|ni|o
+lapônio	adjetivo	la|[pô]|ni|o
+lapônio	nome masculino	la|[pô]|ni|o
+lapouço	nome masculino	la|[pou]|ço
+lapouço	adjetivo	la|[pou]|ço
+lapsana	nome feminino	lap|[sa]|na
+lapso	nome masculino	[lap]|so
+laptop	nome masculino	lap|top
+lapúrdio	adjetivo	la|[púr]|di|o
+lapúrdio	nome masculino	la|[púr]|di|o
+lapuz	nome masculino	la|[puz]

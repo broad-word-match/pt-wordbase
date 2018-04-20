@@ -1,0 +1,100 @@
+vidrador	nome masculino	vi|dra|[dor]
+vidradora	nome feminino	vi|dra|[do]|ra
+vidragem	nome feminino	vi|[dra]|gem
+vidral	nome masculino	vi|[dral]
+vidralhada	nome feminino	vi|dra|[lha]|da
+vidramento	nome masculino	vi|dra|[men]|to
+vidrão	nome masculino	vi|[drão]
+vidrar	verbo	vi|[drar]
+vidraria	nome feminino	vi|dra|[ri]|a
+vidrecome	nome masculino	vi|dre|[co]|me
+vidreira	nome feminino	vi|[drei]|ra
+vidreiro	adjetivo	vi|[drei]|ro
+vidreiro	nome masculino	vi|[drei]|ro
+vidrento	adjetivo	vi|[dren]|to
+vidrilho	nome masculino	vi|[dri]|lho
+vidrinho	nome masculino	vi|[dri]|nho
+vidrino	adjetivo	vi|[dri]|no
+vidrista	nome masculino	vi|[dris]|ta
+vidrista	nome feminino	vi|[dris]|ta
+vidro	nome masculino	[vi]|dro
+vidro de cheiro	nome masculino	[vi]|dro de chei|ro
+vidroso	adjetivo	vi|[dro]|so
+vidual	adjetivo	vi|du|[al]
+viducasse	adjetivo	vi|du|[cas]|se
+viducasse	nome masculino	vi|du|[cas]|se
+viducasse	nome feminino	vi|du|[cas]|se
+vieira	nome feminino	vi|[ei]|ra
+vieirense	nome masculino	vi|ei|[ren]|se
+vieirense	adjetivo	vi|ei|[ren]|se
+vieirense	nome feminino	vi|ei|[ren]|se
+vieirismo	nome masculino	vi|ei|[ris]|mo
+vieirista	adjetivo	vi|ei|[ris]|ta
+vieirista	nome masculino	vi|ei|[ris]|ta
+vieirista	nome feminino	vi|ei|[ris]|ta
+vieiro	nome masculino	vi|[ei]|ro
+viela	nome feminino	vi|[e]|la
+vielo	nome masculino	vi|[e]|lo
+vienense	nome masculino	vi|e|[nen]|se
+vienense	adjetivo	vi|e|[nen]|se
+vienense	nome feminino	vi|e|[nen]|se
+vienês	adjetivo	vi|e|[nês]
+vierina	nome feminino	vi|e|[ri]|na
+viés	nome masculino	vi|[és]
+vietnamense	adjetivo	vi|et|na|[men]|se
+vietnamense	nome masculino	vi|et|na|[men]|se
+vietnamense	nome feminino	vi|et|na|[men]|se
+vietnamês	adjetivo	vi|et|na|[mês]
+vietnamês	nome masculino	vi|et|na|[mês]
+vietnamesa	nome feminino	vi|et|na|[me]|sa
+vietnamiano	adjetivo	vi|et|na|mi|[a]|no
+vietnamiano	nome masculino	vi|et|na|mi|[a]|no
+vietnamita	adjetivo	vi|et|na|[mi]|ta
+vietnamita	nome masculino	vi|et|na|[mi]|ta
+vietnamita	nome feminino	vi|et|na|[mi]|ta
+viga	nome feminino	[vi]|ga
+vigairada	nome feminino	vi|gai|[ra]|da
+vigairaria	nome feminino	vi|gai|ra|[ri]|a
+vigairo	nome masculino	vi|[gai]|ro
+vigamento	nome masculino	vi|ga|[men]|to
+vigar	verbo	vi|[gar]
+vigária	nome feminino	vi|[gá]|ri|a
+vigariaria	nome feminino	vi|ga|ri|a|[ri]|a
+vigariato	nome masculino	vi|ga|ri|[a]|to
+vigarice	nome feminino	vi|ga|[ri]|ce
+vigário	nome masculino	vi|[gá]|ri|o
+vigário-geral	nome masculino	vi|gá|ri|o-ge|ral
+vigarismo	nome masculino	vi|ga|[ris]|mo
+vigarista	nome masculino	vi|ga|[ris]|ta
+vigarista	nome feminino	vi|ga|[ris]|ta
+vigarista	adjetivo	vi|ga|[ris]|ta
+vigarizar	verbo	vi|ga|ri|[zar]
+vigência	nome feminino	vi|[gên]|ci|a
+vigente	adjetivo	vi|[gen]|te
+viger	verbo	vi|[ger]
+vigesimal	adjetivo	vi|ge|si|[mal]
+vigésimo	nome masculino	vi|[gé]|si|mo
+vigésimo	número ordinal	vi|[gé]|si|mo
+vigésimo	número fraccional	vi|[gé]|si|mo
+vigésimo	adjetivo	vi|[gé]|si|mo
+vigia	nome feminino	vi|[gi]|a
+vigia	nome masculino	vi|[gi]|a
+vigiador	adjetivo	vi|gi|a|[dor]
+vigiador	nome masculino	vi|gi|a|[dor]
+vigiante	adjetivo	vi|gi|[an]|te
+vigiar	verbo	vi|gi|[ar]
+vigiável	adjetivo	vi|gi|[á]|vel
+vigieiro	nome masculino	vi|gi|[ei]|ro
+vígil	adjetivo	[ví]|gil
+vigilador	adjetivo	vi|gi|la|[dor]
+vigilador	nome masculino	vi|gi|la|[dor]
+vigilambulismo	nome masculino	vi|gi|lam|bu|[lis]|mo
+vigilâmbulo	adjetivo	vi|gi|[lâm]|bu|lo
+vigilâmbulo	nome masculino	vi|gi|[lâm]|bu|lo
+vigilância	nome feminino	vi|gi|[lân]|ci|a
+vigilante	adjetivo	vi|gi|[lan]|te
+vigilante	nome masculino	vi|gi|[lan]|te
+vigilante	nome feminino	vi|gi|[lan]|te
+vigilantemente	advérbio	vi|gi|lan|te|[men]|te
+vigilar	verbo	vi|gi|[lar]
+vigilenga	nome feminino	vi|gi|[len]|ga

@@ -1,0 +1,100 @@
+laurear	verbo	lau|re|[ar]
+laureio	nome masculino	lau|[rei]|o
+laurel	nome masculino	lau|[rel]
+laurêncio	nome masculino	lau|[rên]|ci|o
+laurêncio	adjetivo	lau|[rên]|ci|o
+laurentina	nome feminino	lau|ren|[ti]|na
+laurentino	nome masculino	lau|ren|[ti]|no
+laurentino	adjetivo	lau|ren|[ti]|no
+láureo	adjetivo	[láu]|re|o
+lauréola	nome feminino	lau|[ré]|o|la
+laurícomo	adjetivo	lau|[rí]|co|mo
+laurífero	adjetivo	lau|[rí]|fe|ro
+laurifólio	adjetivo	lau|ri|[fó]|li|o
+laurígero	adjetivo	lau|[rí]|ge|ro
+lauríneo	adjetivo	lau|[rí]|ne|o
+laurino	adjetivo	lau|[ri]|no
+lausiano	nome masculino	lau|si|[a]|no
+lausiano	adjetivo	lau|si|[a]|no
+lausperene	nome masculino	laus|pe|[re]|ne
+lautamente	advérbio	lau|ta|[men]|te
+lauto	adjetivo	[lau]|to
+lava	nome feminino	[la]|va
+lava-cabeça	nome masculino	la|va-ca|[be]|ça
+lava-cu	nome masculino	la|va-cu
+lava-dente	nome masculino	la|va-den|te
+lava-loiça	nome masculino	la|va-loi|ça
+lava-loiças	nome masculino	la|va-loi|ças
+lava-louça	nome masculino	la|va-lou|ça
+lava-louças	nome masculino	la|va-lou|ças
+lava-pé	nome masculino	la|va-pé
+lava-pés	nome masculino	la|va-pés
+lava-pratos	nome masculino	la|va-pra|tos
+lava-remo	nome masculino	la|va-re|mo
+lavabo	nome masculino	la|[va]|bo
+lavação	nome feminino	la|va|[ção]
+lavacro	nome masculino	la|[va]|cro
+lavada	nome feminino	la|[va]|da
+lavadaria	nome feminino	la|va|da|[ri]|a
+lavadeira	nome feminino	la|va|[dei]|ra
+lavadeiro	nome masculino	la|va|[dei]|ro
+lavadeiro	adjetivo	la|va|[dei]|ro
+lavadela	nome feminino	la|va|[de]|la
+lavadiço	adjetivo	la|va|[di]|ço
+lavado	adjetivo	la|[va]|do
+lavado	nome masculino	la|[va]|do
+lavadoiro	nome masculino	la|va|[doi]|ro
+lavador	nome masculino	la|va|[dor]
+lavador	adjetivo	la|va|[dor]
+lavadora	nome feminino	la|va|[do]|ra
+lavadoura	nome feminino	la|va|[dou]|ra
+lavadouro	adjetivo	la|va|[dou]|ro
+lavadouro	nome masculino	la|va|[dou]|ro
+lavadura	nome feminino	la|va|[du]|ra
+lavagante	nome masculino	la|va|[gan]|te
+lavagem	nome feminino	la|[va]|gem
+lavajado	adjetivo	la|va|[ja]|do
+lavajão	nome masculino	la|va|[jão]
+lavajar	verbo	la|va|[jar]
+lavajo	nome masculino	la|[va]|jo
+lavajola	nome feminino	la|va|[jo]|la
+lavamento	nome masculino	la|va|[men]|to
+lavanco	nome masculino	la|[van]|co
+lavanda	nome feminino	la|[van]|da
+lavandaria	nome feminino	la|van|da|[ri]|a
+lavandeira	nome feminino	la|van|[dei]|ra
+lavandeiro	nome masculino	la|van|[dei]|ro
+lavanderia	nome feminino	la|van|de|[ri]|a
+lavandisca	nome feminino	la|van|[dis]|ca
+lavar	verbo	la|[var]
+lavareda	nome feminino	la|va|[re]|da
+lavático	adjetivo	la|[vá]|ti|co
+lavativo	adjetivo	la|va|[ti]|vo
+lavatório	nome masculino	la|va|[tó]|ri|o
+lavável	adjetivo	la|[vá]|vel
+laverca	nome feminino	la|[ver]|ca
+laverco	nome masculino	la|[ver]|co
+lávico	adjetivo	[lá]|vi|co
+lavoira	nome feminino	la|[voi]|ra
+lavor	nome masculino	la|[vor]
+lavorar	verbo	la|vo|[rar]
+lavoso	adjetivo	la|[vo]|so
+lavoura	nome feminino	la|[vou]|ra
+lavourar	verbo	la|vou|[rar]
+lavra	nome feminino	[la]|vra
+lavrada	nome feminino	la|[vra]|da
+lavradeira	nome feminino	la|vra|[dei]|ra
+lavradeiro	adjetivo	la|vra|[dei]|ro
+lavradio	adjetivo	la|vra|[di]|o
+lavradio	nome masculino	la|vra|[di]|o
+lavrado	adjetivo	la|[vra]|do
+lavrado	nome masculino	la|[vra]|do
+lavrador	nome masculino	la|vra|[dor]
+lavrador	adjetivo	la|vra|[dor]
+lavradora	nome feminino	la|vra|[do]|ra
+lavragem	nome feminino	la|[vra]|gem
+lavramento	nome masculino	la|vra|[men]|to
+lavrante	nome masculino	la|[vran]|te
+lavrante	adjetivo	la|[vran]|te
+lavrante	nome feminino	la|[vran]|te
+lavrar	verbo	la|[vrar]

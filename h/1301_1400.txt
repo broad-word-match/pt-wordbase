@@ -1,0 +1,100 @@
+herbicida	adjetivo	her|bi|[ci]|da
+herbicida	nome masculino	her|bi|[ci]|da
+herbícola	adjetivo	her|[bí]|co|la
+herbífero	adjetivo	her|[bí]|fe|ro
+herbiforme	adjetivo	her|bi|[for]|me
+herbívoro	nome masculino	her|[bí]|vo|ro
+herbívoro	adjetivo	her|[bí]|vo|ro
+herbolária	nome feminino	her|bo|[lá]|ri|a
+herbolário	adjetivo	her|bo|[lá]|ri|o
+herbolário	nome masculino	her|bo|[lá]|ri|o
+herbóreo	adjetivo	her|[bó]|re|o
+herborista	nome masculino	her|bo|[ris]|ta
+herborista	nome feminino	her|bo|[ris]|ta
+herborização	nome feminino	her|bo|ri|za|[ção]
+herborizado	adjetivo	her|bo|ri|[za]|do
+herborizador	adjetivo	her|bo|ri|za|[dor]
+herborizador	nome masculino	her|bo|ri|za|[dor]
+herborizadora	nome feminino	her|bo|ri|za|[do]|ra
+herborizante	adjetivo	her|bo|ri|[zan]|te
+herborizar	verbo	her|bo|ri|[zar]
+herboso	adjetivo	her|[bo]|so
+hercate	adjetivo	her|[ca]|te
+hercate	nome masculino	her|[ca]|te
+hercate	nome feminino	her|[ca]|te
+herciniano	adjetivo	her|ci|ni|[a]|no
+hercínio	adjetivo	her|[cí]|ni|o
+hercotectônica	nome feminino	her|co|tec|[tô]|ni|ca
+hercotectónica	nome feminino	her|co|tec|[tó]|ni|ca
+herculanense	adjetivo	her|cu|la|[nen]|se
+herculanense	nome masculino	her|cu|la|[nen]|se
+herculanense	nome feminino	her|cu|la|[nen]|se
+herculaniano	adjetivo	her|cu|la|ni|[a]|no
+herculano	adjetivo	her|cu|[la]|no
+hercúleo	adjetivo	her|[cú]|le|o
+hércules	nome masculino	[hér]|cu|les
+herdade	nome feminino	her|[da]|de
+herdador	nome masculino	her|da|[dor]
+herdamento	nome masculino	her|da|[men]|to
+herdança	nome feminino	her|[dan]|ça
+herdar	verbo	her|[dar]
+herdável	adjetivo	her|[dá]|vel
+herdeira	nome feminino	her|[dei]|ra
+herdeiro	nome masculino	her|[dei]|ro
+hereditariamente	advérbio	he|re|di|ta|ri|a|[men]|te
+hereditariedade	nome feminino	he|re|di|ta|ri|e|[da]|de
+hereditário	adjetivo	he|re|di|[tá]|ri|o
+heredobiologia	nome feminino	he|re|do|bi|o|lo|[gi]|a
+heredobiológico	adjetivo	he|re|do|bi|o|[ló]|gi|co
+heredobiologista	nome masculino	he|re|do|bi|o|lo|[gis]|ta
+heredobiologista	nome feminino	he|re|do|bi|o|lo|[gis]|ta
+heredobiólogo	nome masculino	he|re|do|bi|[ó]|lo|go
+heredossífilis	nome feminino	he|re|dos|[sí]|fi|lis
+heredossifilítico	adjetivo	he|re|dos|si|fi|[lí]|ti|co
+heredossifilítico	nome masculino	he|re|dos|si|fi|[lí]|ti|co
+herege	adjetivo	he|[re]|ge
+herege	nome masculino	he|[re]|ge
+herege	nome feminino	he|[re]|ge
+heregia	nome feminino	he|re|[gi]|a
+herero	nome masculino	he|[re]|ro
+herero	adjetivo	he|[re]|ro
+herero	nome feminino	he|[re]|ro
+heresia	nome feminino	he|re|[si]|a
+heresiarca	nome masculino	he|re|si|[ar]|ca
+heresiarca	nome feminino	he|re|si|[ar]|ca
+heresiografia	nome feminino	he|re|si|o|gra|[fi]|a
+heresiográfico	adjetivo	he|re|si|o|[grá]|fi|co
+heresiógrafo	nome masculino	he|re|si|[ó]|gra|fo
+heresiologia	nome feminino	he|re|si|o|lo|[gi]|a
+heresiológico	adjetivo	he|re|si|o|[ló]|gi|co
+heresiólogo	nome masculino	he|re|si|[ó]|lo|go
+herética	nome feminino	he|[ré]|ti|ca
+hereticamente	advérbio	he|re|ti|ca|[men]|te
+hereticidade	nome feminino	he|re|ti|ci|[da]|de
+herético	nome masculino	he|[ré]|ti|co
+herético	adjetivo	he|[ré]|ti|co
+heréu	nome masculino	he|[réu]
+herífuga	nome masculino	he|[rí]|fu|ga
+heril	adjetivo	he|[ril]
+herma	nome feminino	[her]|ma
+hermafrodita	adjetivo	her|ma|fro|[di]|ta
+hermafrodita	nome masculino	her|ma|fro|[di]|ta
+hermafrodita	nome feminino	her|ma|fro|[di]|ta
+hermafroditismo	nome masculino	her|ma|fro|di|[tis]|mo
+hermafrodito	adjetivo	her|ma|fro|[di]|to
+hermafrodito	nome masculino	her|ma|fro|[di]|to
+hermatena	nome feminino	her|ma|[te]|na
+hermeneuta	nome masculino	her|me|[neu]|ta
+hermeneuta	nome feminino	her|me|[neu]|ta
+hermenêutica	nome feminino	her|me|[nêu]|ti|ca
+hermenêuticamente	advérbio	her|me|[nêu]|ti|ca|men|te
+hermenêutico	adjetivo	her|me|[nêu]|ti|co
+herméracles	nome masculino	her|[mé]|ra|cles
+hermes	nome masculino	[her]|mes
+hermesianismo	nome masculino	her|me|si|a|[nis]|mo
+hermesiano	adjetivo	her|me|si|[a]|no
+hermeticamente	advérbio	her|me|ti|ca|[men]|te
+hermeticidade	nome feminino	her|me|ti|ci|[da]|de
+hermético	adjetivo	her|[mé]|ti|co
+hermetismo	nome masculino	her|me|[tis]|mo
+hermetista	nome masculino	her|me|[tis]|ta

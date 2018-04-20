@@ -1,0 +1,100 @@
+plutônio	nome masculino	plu|[tô]|ni|o
+plutonismo	nome masculino	plu|to|[nis]|mo
+plutonista	adjetivo	plu|to|[nis]|ta
+plutonista	nome masculino	plu|to|[nis]|ta
+plutonista	nome feminino	plu|to|[nis]|ta
+plutonografia	nome feminino	plu|to|no|gra|[fi]|a
+plutonográfico	adjetivo	plu|to|no|[grá]|fi|co
+plutonomia	nome feminino	plu|to|no|[mi]|a
+plutonômico	adjetivo	plu|to|[nô]|mi|co
+plutonómico	adjetivo	plu|to|[nó]|mi|co
+pluvial	adjetivo	plu|vi|[al]
+pluvial	nome masculino	plu|vi|[al]
+pluviátil	adjetivo	plu|vi|[á]|til
+plúvio	nome masculino	[plú]|vi|o
+pluviógrafo	nome masculino	plu|vi|[ó]|gra|fo
+pluviometria	nome feminino	plu|vi|o|me|[tri]|a
+pluviométrico	adjetivo	plu|vi|o|[mé]|tri|co
+pluviómetro	nome masculino	plu|vi|[ó]|me|tro
+pluviômetro	nome masculino	plu|vi|[ô]|me|tro
+pluvioscópico	adjetivo	plu|vi|os|[có]|pi|co
+pluvioscópio	nome masculino	plu|vi|os|[có]|pi|o
+pluviosidade	nome feminino	plu|vi|o|si|[da]|de
+pluvioso	adjetivo	plu|vi|[o]|so
+pneodinâmica	nome feminino	pne|o|di|[nâ]|mi|ca
+pneodinâmico	adjetivo	pne|o|di|[nâ]|mi|co
+pneometria	nome feminino	pne|o|me|[tri]|a
+pneométrico	adjetivo	pne|o|[mé]|tri|co
+pneómetro	nome masculino	pne|[ó]|me|tro
+pneômetro	nome masculino	pne|[ô]|me|tro
+pneoscópico	adjetivo	pne|os|[có]|pi|co
+pneoscópio	nome masculino	pne|os|[có]|pi|o
+pneu	nome masculino	[pneu]
+pneuma	nome masculino	[pneu]|ma
+pneumartrose	nome feminino	pneu|mar|[tro]|se
+pneumática	nome feminino	pneu|[má]|ti|ca
+pneumaticidade	nome feminino	pneu|ma|ti|ci|[da]|de
+pneumático	nome masculino	pneu|[má]|ti|co
+pneumático	adjetivo	pneu|[má]|ti|co
+pneumatismo	nome masculino	pneu|ma|[tis]|mo
+pneumatista	adjetivo	pneu|ma|[tis]|ta
+pneumatista	nome masculino	pneu|ma|[tis]|ta
+pneumato	nome masculino	pneu|[ma]|to
+pneumatocele	nome feminino	pneu|ma|to|[ce]|le
+pneumatofonia	nome feminino	pneu|ma|to|fo|[ni]|a
+pneumatofônico	adjetivo	pneu|ma|to|[fô]|ni|co
+pneumatofónico	adjetivo	pneu|ma|to|[fó]|ni|co
+pneumatóforo	adjetivo	pneu|ma|[tó]|fo|ro
+pneumatogenia	nome feminino	pneu|ma|to|ge|[ni]|a
+pneumatogénico	adjetivo	pneu|ma|to|[gé]|ni|co
+pneumatogênico	adjetivo	pneu|ma|to|[gê]|ni|co
+pneumatografia	nome feminino	pneu|ma|to|gra|[fi]|a
+pneumatográfico	adjetivo	pneu|ma|to|[grá]|fi|co
+pneumatólise	nome feminino	pneu|ma|[tó]|li|se
+pneumatolítico	adjetivo	pneu|ma|to|[lí]|ti|co
+pneumatologia	nome feminino	pneu|ma|to|lo|[gi]|a
+pneumatológico	adjetivo	pneu|ma|to|[ló]|gi|co
+pneumatologista	nome masculino	pneu|ma|to|lo|[gis]|ta
+pneumatologista	nome feminino	pneu|ma|to|lo|[gis]|ta
+pneumatólogo	nome masculino	pneu|ma|[tó]|lo|go
+pneumatómaco	adjetivo	pneu|ma|[tó]|ma|co
+pneumatómaco	nome masculino	pneu|ma|[tó]|ma|co
+pneumatômaco	adjetivo	pneu|ma|[tô]|ma|co
+pneumatômaco	nome masculino	pneu|ma|[tô]|ma|co
+pneumatométrico	adjetivo	pneu|ma|to|[mé]|tri|co
+pneumatômetro	nome masculino	pneu|ma|[tô]|me|tro
+pneumatómetro	nome masculino	pneu|ma|[tó]|me|tro
+pneumatônfalo	nome masculino	pneu|ma|[tôn]|fa|lo
+pneumatoquímica	nome feminino	pneu|ma|to|[quí]|mi|ca
+pneumatoquímico	adjetivo	pneu|ma|to|[quí]|mi|co
+pneumatose	nome feminino	pneu|ma|[to]|se
+pneumatoterapia	nome feminino	pneu|ma|to|te|ra|[pi]|a
+pneumatoterápico	adjetivo	pneu|ma|to|te|[rá]|pi|co
+pneumectomia	nome feminino	pneu|mec|to|[mi]|a
+pneumectômico	adjetivo	pneu|mec|[tô]|mi|co
+pneumectómico	adjetivo	pneu|mec|[tó]|mi|co
+pneumenterite	nome feminino	pneu|men|te|[ri]|te
+pnêumico	adjetivo	[pnêu]|mi|co
+pneumobrânquio	adjetivo	pneu|mo|[brân]|qui|o
+pneumocele	nome feminino	pneu|mo|[ce]|le
+pneumocisto	nome masculino	pneu|mo|[cis]|to
+pneumocistose	nome feminino	pneu|mo|cis|[to]|se
+pneumococia	nome feminino	pneu|mo|co|[ci]|a
+pneumocócico	adjetivo	pneu|mo|[có]|ci|co
+pneumococo	nome masculino	pneu|mo|[co]|co
+pneumoconiose	nome feminino	pneu|mo|co|ni|[o]|se
+pneumodermo	nome masculino	pneu|mo|[der]|mo
+pneumoflebite	nome feminino	pneu|mo|fle|[bi]|te
+pneumogástrico	adjetivo	pneu|mo|[gás]|tri|co
+pneumografia	nome feminino	pneu|mo|gra|[fi]|a
+pneumográfico	adjetivo	pneu|mo|[grá]|fi|co
+pneumógrafo	nome masculino	pneu|[mó]|gra|fo
+pneumograma	nome masculino	pneu|mo|[gra]|ma
+pneumolitíase	nome feminino	pneu|mo|li|[tí]|a|se
+pneumólito	nome masculino	pneu|[mó]|li|to
+pneumóloga	nome feminino	pneu|[mó]|lo|ga
+pneumologia	nome feminino	pneu|mo|lo|[gi]|a
+pneumológico	adjetivo	pneu|mo|[ló]|gi|co
+pneumologista	nome masculino	pneu|mo|lo|[gis]|ta
+pneumologista	nome feminino	pneu|mo|lo|[gis]|ta
+pneumólogo	nome masculino	pneu|[mó]|lo|go
