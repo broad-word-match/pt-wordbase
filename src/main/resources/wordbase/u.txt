@@ -1,0 +1,1795 @@
+ugerno	adjetivo	u|[ger]|no
+ugerno	nome masculino	u|[ger]|no
+ugolinesco	adjetivo	u|go|li|[nes]|co
+ugolino	adjetivo	u|go|[li]|no
+úgrica	nome feminino	[ú]|gri|ca
+úgrico	adjetivo	[ú]|gri|co
+úgrico	nome masculino	[ú]|gri|co
+ugro	nome masculino	[u]|gro
+ugro	adjetivo	[u]|gro
+ugro-finês	nome masculino	u|gro-fi|[nês]
+ugro-finês	adjetivo	u|gro-fi|[nês]
+ugro-fínico	nome masculino	u|gro-fí|ni|co
+ugro-fínico	adjetivo	u|gro-fí|ni|co
+ugro-finlandês	nome masculino	u|gro-fin|lan|[dês]
+ugro-finlandês	adjetivo	u|gro-fin|lan|[dês]
+uh	interjeição	[uh]
+ui	interjeição	[ui]
+uiara	nome feminino	ui|[a]|ra
+uigure	nome masculino	ui|[gu]|re
+uigúrico	adjetivo	ui|[gú]|ri|co
+uinarana	nome feminino	ui|na|[ra]|na
+uiofilia	nome feminino	ui|o|fi|[li]|a
+uiofobia	nome feminino	ui|o|fo|[bi]|a
+uiqué	nome masculino	ui|[qué]
+uirá	nome masculino	ui|[rá]
+uirachué	nome masculino	ui|ra|chu|[é]
+uiramirim	nome masculino	ui|ra|mi|[rim]
+uirapuru	nome masculino	ui|ra|pu|[ru]
+uirari	nome masculino	ui|ra|[ri]
+uiraúna	nome feminino	ui|ra|[ú]|na
+uiruucotim	nome masculino	ui|ru|u|co|[tim]
+uiruuetê	nome masculino	ui|ru|u|e|[tê]
+uísque	nome masculino	u|[ís]|que
+uíste	nome masculino	u|[ís]|te
+uistiti	nome masculino	uis|ti|[ti]
+uivada	nome feminino	ui|[va]|da
+uivador	adjetivo	ui|va|[dor]
+uivador	nome masculino	ui|va|[dor]
+uivante	adjetivo	ui|[van]|te
+uivar	verbo	ui|[var]
+uivo	nome masculino	[ui]|vo
+uja	nome feminino	[u]|ja
+ujamanta	nome feminino	u|ja|[man]|ta
+uje	nome feminino	[u]|je
+ujem	nome feminino	[u]|jem
+ujica	nome feminino	u|[ji]|ca
+ujo	nome masculino	[u]|jo
+ula	nome feminino	[u]|la
+ulalgia	nome feminino	u|lal|[gi]|a
+ulano	nome masculino	u|[la]|no
+ulatrofia	nome feminino	u|la|tro|[fi]|a
+ulatrófico	adjetivo	u|la|[tró]|fi|co
+úlcera	nome feminino	[úl]|ce|ra
+ulceração	nome feminino	ul|ce|ra|[ção]
+ulcerado	adjetivo	ul|ce|[ra]|do
+ulcerador	adjetivo	ul|ce|ra|[dor]
+ulcerar	verbo	ul|ce|[rar]
+ulcerativo	adjetivo	ul|ce|ra|[ti]|vo
+ulcerável	adjetivo	ul|ce|[rá]|vel
+ulceroide	adjetivo	ul|ce|[roi]|de
+ulceroso	adjetivo	ul|ce|[ro]|so
+ulcoide	adjetivo	ul|[coi]|de
+ulemá	nome masculino	u|le|[má]
+ulema	nome masculino	u|[le]|ma
+ulemba	nome feminino	u|[lem]|ba
+uleritema	nome masculino	u|le|ri|[te]|ma
+ulfilano	adjetivo	ul|fi|[la]|no
+ulicina	nome feminino	u|li|[ci]|na
+ulicite	nome feminino	u|li|[ci]|te
+uliense	adjetivo	u|li|[en]|se
+uliense	nome masculino	u|li|[en]|se
+uliginário	adjetivo	u|li|gi|[ná]|ri|o
+uliginoso	adjetivo	u|li|gi|[no]|so
+ulisseu	adjetivo	u|lis|[seu]
+ulissiponense	adjetivo	u|lis|si|po|[nen]|se
+ulissiponense	nome masculino	u|lis|si|po|[nen]|se
+ulissiponense	nome feminino	u|lis|si|po|[nen]|se
+ulite	nome feminino	u|[li]|te
+ulmácea	nome feminino	ul|[má]|ce|a
+ulmáceo	adjetivo	ul|[má]|ce|o
+ulmanecte	adjetivo	ul|ma|[nec]|te
+ulmanecte	nome masculino	ul|ma|[nec]|te
+ulmanecte	nome feminino	ul|ma|[nec]|te
+ulmarena	nome feminino	ul|ma|[re]|na
+ulmária	nome feminino	ul|[má]|ri|a
+ulmárico	adjetivo	ul|[má]|ri|co
+ulmarina	nome feminino	ul|ma|[ri]|na
+ulmato	nome masculino	ul|[ma]|to
+ulmeira	nome feminino	ul|[mei]|ra
+ulmeiro	nome masculino	ul|[mei]|ro
+úlmico	adjetivo	[úl]|mi|co
+ulmina	nome feminino	ul|[mi]|na
+ulmo	nome masculino	[ul]|mo
+ulna	nome feminino	[ul]|na
+ulnal	adjetivo	ul|[nal]
+ulnar	adjetivo	ul|[nar]
+ulnar	nome masculino	ul|[nar]
+ulnário	adjetivo	ul|[ná]|ri|o
+ulnomanual	adjetivo	ul|no|ma|nu|[al]
+ulo	nome masculino	[u]|lo
+unha-de-cavalo	nome feminino	u|nha-de-ca|[va]|lo
+unha-de-gato	nome feminino	u|nha-de-ga|to
+unha-de-vaca	nome feminino	u|nha-de-va|ca
+unha-de-velha	nome feminino	u|nha-de-ve|lha
+unha-gata	nome feminino	u|nha-ga|ta
+unhaca	nome masculino	u|[nha]|ca
+unhaca	nome feminino	u|[nha]|ca
+unhaço	nome masculino	u|[nha]|ço
+unhada	nome feminino	u|[nha]|da
+unhado	adjetivo	u|[nha]|do
+unhador	adjetivo	u|nha|[dor]
+unhador	nome masculino	u|nha|[dor]
+unhagata	nome feminino	u|nha|[ga]|ta
+unhame	nome masculino	u|[nha]|me
+unhamento	nome masculino	u|nha|[men]|to
+unhante	nome masculino	u|[nhan]|te
+unhão	nome masculino	u|[nhão]
+unhar	verbo	u|[nhar]
+unhas de fome	nome masculino	[u]|nhas de fo|me
+unhas de fome	nome feminino	[u]|nhas de fo|me
+unhata	nome feminino	u|[nha]|ta
+unheira	nome feminino	u|[nhei]|ra
+unheiro	nome masculino	u|[nhei]|ro
+unheirudo	adjetivo	u|nhei|[ru]|do
+unheta	nome feminino	u|[nhe]|ta
+unho	nome masculino	[u]|nho
+unialado	adjetivo	u|ni|a|[la]|do
+uniangular	adjetivo	u|ni|an|gu|[lar]
+unianular	adjetivo	u|ni|a|nu|[lar]
+união	nome feminino	u|ni|[ão]
+uniarticulado	adjetivo	u|ni|ar|ti|cu|[la]|do
+uniata	adjetivo	u|ni|[a]|ta
+uniata	nome masculino	u|ni|[a]|ta
+uniata	nome feminino	u|ni|[a]|ta
+uniaxial	adjetivo	u|ni|a|xi|[al]
+unibranquiado	adjetivo	u|ni|bran|qui|[a]|do
+única	nome feminino	[ú]|ni|ca
+unicamarário	adjetivo	u|ni|ca|ma|[rá]|ri|o
+unicamente	advérbio	u|ni|ca|[men]|te
+unicameral	adjetivo	u|ni|ca|me|[ral]
+unicameralismo	nome masculino	u|ni|ca|me|ra|[lis]|mo
+unicapsular	adjetivo	u|ni|cap|su|[lar]
+unicarpelar	adjetivo	u|ni|car|pe|[lar]
+unicaule	adjetivo	u|ni|[cau]|le
+unicelular	adjetivo	u|ni|ce|lu|[lar]
+unicidade	nome feminino	u|ni|ci|[da]|de
+uniciliar	adjetivo	u|ni|ci|li|[ar]
+unicismo	nome masculino	u|ni|[cis]|mo
+unicista	adjetivo	u|ni|[cis]|ta
+unicista	nome masculino	u|ni|[cis]|ta
+unicista	nome feminino	u|ni|[cis]|ta
+único	adjetivo	[ú]|ni|co
+único	nome masculino	[ú]|ni|co
+unicolor	adjetivo	u|ni|co|[lor]
+unicorne	nome masculino	u|ni|[cor]|ne
+unicorne	adjetivo	u|ni|[cor]|ne
+unicórnio	nome masculino	u|ni|[cór]|ni|o
+unicorpóreo	adjetivo	u|ni|cor|[pó]|re|o
+unicotiledóneo	adjetivo	u|ni|co|ti|le|[dó]|ne|o
+unicotiledôneo	adjetivo	u|ni|co|ti|le|[dô]|ne|o
+unicultor	adjetivo	u|ni|cul|[tor]
+unicultor	nome masculino	u|ni|cul|[tor]
+unicultura	nome feminino	u|ni|cul|[tu]|ra
+unicursal	adjetivo	u|ni|cur|[sal]
+unicúspide	adjetivo	u|ni|[cús]|pi|de
+unidáctilo	adjetivo	u|ni|[dác]|ti|lo
+unidade	nome feminino	u|ni|[da]|de
+unidamente	advérbio	u|ni|da|[men]|te
+unidátilo	adjetivo	u|ni|[dá]|ti|lo
+unidimensional	adjetivo	u|ni|di|men|si|o|[nal]
+unidirecional	adjetivo	u|ni|di|re|ci|o|[nal]
+unido	adjetivo	u|[ni]|do
+uniente	adjetivo	u|ni|[en]|te
+unifacial	adjetivo	u|ni|fa|ci|[al]
+unificação	nome feminino	u|ni|fi|ca|[ção]
+unificado	adjetivo	u|ni|fi|[ca]|do
+unificador	adjetivo	u|ni|fi|ca|[dor]
+unificador	nome masculino	u|ni|fi|ca|[dor]
+unificadora	nome feminino	u|ni|fi|ca|[do]|ra
+unificar	verbo	u|ni|fi|[car]
+unificável	adjetivo	u|ni|fi|[cá]|vel
+unifilar	adjetivo	u|ni|fi|[lar]
+unifloro	adjetivo	u|ni|[flo]|ro
+unifoliado	adjetivo	u|ni|fo|li|[a]|do
+unifólio	adjetivo	u|ni|[fó]|li|o
+uniformador	adjetivo	u|ni|for|ma|[dor]
+uniformar	verbo	u|ni|for|[mar]
+uniforme	nome masculino	u|ni|[for]|me
+uniforme	adjetivo	u|ni|[for]|me
+uniformemente	advérbio	u|ni|for|me|[men]|te
+uniformidade	nome feminino	u|ni|for|mi|[da]|de
+uniformização	nome feminino	u|ni|for|mi|za|[ção]
+uniformizado	adjetivo	u|ni|for|mi|[za]|do
+uniformizador	adjetivo	u|ni|for|mi|za|[dor]
+uniformizador	nome masculino	u|ni|for|mi|za|[dor]
+uniformizadora	nome feminino	u|ni|for|mi|za|[do]|ra
+uniformizar	verbo	u|ni|for|mi|[zar]
+uniformizável	adjetivo	u|ni|for|mi|[zá]|vel
+unígama	nome feminino	u|[ní]|ga|ma
+unigamia	nome feminino	u|ni|ga|[mi]|a
+utopista	adjetivo	u|to|[pis]|ta
+utopista	nome feminino	u|to|[pis]|ta
+utopístico	adjetivo	u|to|[pís]|ti|co
+utota	nome feminino	u|[to]|ta
+utraquismo	nome masculino	u|tra|[quis]|mo
+utraquista	adjetivo	u|tra|[quis]|ta
+utraquista	nome masculino	u|tra|[quis]|ta
+utraquista	nome feminino	u|tra|[quis]|ta
+utrário	nome masculino	u|[trá]|ri|o
+utre	nome masculino	[u]|tre
+utricular	adjetivo	u|tri|cu|[lar]
+utriculária	nome feminino	u|tri|cu|[lá]|ri|a
+utriculariácea	nome feminino	u|tri|cu|la|ri|[á]|ce|a
+utriculariáceo	adjetivo	u|tri|cu|la|ri|[á]|ce|o
+utriculariforme	adjetivo	u|tri|cu|la|ri|[for]|me
+utriculário	nome masculino	u|tri|cu|[lá]|ri|o
+utriculífero	adjetivo	u|tri|cu|[lí]|fe|ro
+utriculiforme	adjetivo	u|tri|cu|li|[for]|me
+utrículo	nome masculino	u|[trí]|cu|lo
+utriculoso	adjetivo	u|tri|cu|[lo]|so
+utriforme	adjetivo	u|tri|[for]|me
+utrígero	adjetivo	u|[trí]|ge|ro
+utu	nome masculino	u|[tu]
+utuaba	nome feminino	u|tu|[a]|ba
+utuapoca	nome feminino	u|tu|a|[po]|ca
+uva	nome feminino	[u]|va
+uva-crespa	nome feminino	u|va-cres|pa
+uva-de-cão	nome feminino	u|va-de-cão
+uva-de-obó	nome feminino	u|va-de-o|[bó]
+uva-de-urso	nome feminino	u|va-de-ur|so
+uva-do-mato	nome feminino	u|va-do-ma|to
+uva-do-monte	nome feminino	u|va-do-mon|te
+uva-espim	nome feminino	u|va-es|[pim]
+uva-ursina	nome feminino	u|va-ur|[si]|na
+uvaça	nome feminino	u|[va]|ça
+uvaçu	nome feminino	u|va|[çu]
+uvacupari	nome masculino	u|va|cu|pa|[ri]
+uvada	nome feminino	u|[va]|da
+uvaia	nome feminino	u|[vai]|a
+uvaieira	nome feminino	u|vai|[ei]|ra
+uval	nome masculino	u|[val]
+uval	adjetivo	u|[val]
+uvala	nome feminino	u|[va]|la
+uvalha	nome feminino	u|[va]|lha
+uvalheira	nome feminino	u|va|[lhei]|ra
+uvapiritica	nome feminino	u|va|pi|ri|[ti]|ca
+uvapurama	nome feminino	u|va|pu|[ra]|ma
+uvária	nome feminino	u|[vá]|ri|a
+uvário	adjetivo	u|[vá]|ri|o
+uvarovite	nome feminino	u|va|ro|[vi]|te
+úvea	nome feminino	[ú]|ve|a
+uveal	adjetivo	u|ve|[al]
+uvedália	nome feminino	u|ve|[dá]|li|a
+uveira	nome feminino	u|[vei]|ra
+uveíta	nome masculino	u|ve|[í]|ta
+uveíte	nome feminino	u|ve|[í]|te
+uviar	verbo	u|vi|[ar]
+úvico	adjetivo	[ú]|vi|co
+úvido	adjetivo	[ú]|vi|do
+uvífero	adjetivo	u|[ví]|fe|ro
+uviforme	adjetivo	u|vi|[for]|me
+uvitato	nome masculino	u|vi|[ta]|to
+uvítico	adjetivo	u|[ví]|ti|co
+úvula	nome feminino	[ú]|vu|la
+uvular	adjetivo	u|vu|[lar]
+uvular	nome feminino	u|vu|[lar]
+uvulária	nome feminino	u|vu|[lá]|ri|a
+uvulariácea	nome feminino	u|vu|la|ri|[á]|ce|a
+uvulário	adjetivo	u|vu|[lá]|ri|o
+uvuliforme	adjetivo	u|vu|li|[for]|me
+uvulite	nome feminino	u|vu|[li]|te
+uxa	nome feminino	[u]|xa
+uxamense	adjetivo	u|xa|[men]|se
+uxamense	nome masculino	u|xa|[men]|se
+uxi	nome masculino	u|[xi]
+uxicrim	adjetivo	u|xi|[crim]
+uxicrim	nome masculino	u|xi|[crim]
+uxicrim	nome feminino	u|xi|[crim]
+uxirana	nome feminino	u|xi|[ra]|na
+uxoriano	adjetivo	u|xo|ri|[a]|no
+uxoricida	adjetivo	u|xo|ri|[ci]|da
+uxoricida	nome masculino	u|xo|ri|[ci]|da
+uxoricida	nome feminino	u|xo|ri|[ci]|da
+uxoricídio	nome masculino	u|xo|ri|[cí]|di|o
+uxório	adjetivo	u|[xó]|ri|o
+uxte	interjeição	[ux]|te
+uzalitano	adjetivo	u|za|li|[ta]|no
+uzalitano	nome masculino	u|za|li|[ta]|no
+uzentino	adjetivo	u|zen|[ti]|no
+uzentino	nome masculino	u|zen|[ti]|no
+uzífur	nome masculino	u|[zí]|fur
+uzífuro	nome masculino	u|[zí]|fu|ro
+uzitense	adjetivo	u|zi|[ten]|se
+uzitense	nome masculino	u|zi|[ten]|se
+uzitense	nome feminino	u|zi|[ten]|se
+usufruto	nome masculino	u|su|[fru]|to
+usufrutuar	verbo	u|su|fru|tu|[ar]
+usufrutuária	nome feminino	u|su|fru|tu|[á]|ri|a
+usufrutuário	adjetivo	u|su|fru|tu|[á]|ri|o
+usufrutuário	nome masculino	u|su|fru|tu|[á]|ri|o
+usufrutueiro	adjetivo	u|su|fru|tu|[ei]|ro
+usura	nome feminino	u|[su]|ra
+usurar	verbo	u|su|[rar]
+usurária	nome feminino	u|su|[rá]|ri|a
+usurariamente	advérbio	u|su|ra|ri|a|[men]|te
+usurário	adjetivo	u|su|[rá]|ri|o
+usurário	nome masculino	u|su|[rá]|ri|o
+usureira	nome feminino	u|su|[rei]|ra
+usureiro	adjetivo	u|su|[rei]|ro
+usureiro	nome masculino	u|su|[rei]|ro
+usurpação	nome feminino	u|sur|pa|[ção]
+usurpador	adjetivo	u|sur|pa|[dor]
+usurpador	nome masculino	u|sur|pa|[dor]
+usurpadora	nome feminino	u|sur|pa|[do]|ra
+usurpar	verbo	u|sur|[par]
+usurpativo	adjetivo	u|sur|pa|[ti]|vo
+usurpatório	adjetivo	u|sur|pa|[tó]|ri|o
+usurpável	adjetivo	u|sur|[pá]|vel
+ut	nome masculino	[ut]
+uta	nome feminino	[u]|ta
+utar	verbo	u|[tar]
+utata	nome feminino	u|[ta]|ta
+utena	nome feminino	u|[te]|na
+utênsil	nome masculino	u|[tên]|sil
+utensilagem	nome feminino	u|ten|si|[la]|gem
+utensiliar	verbo	u|ten|si|li|[ar]
+utensilidade	nome feminino	u|ten|si|li|[da]|de
+utensílio	nome masculino	u|ten|[sí]|li|o
+utente	adjetivo	u|[ten]|te
+utente	nome masculino	u|[ten]|te
+utente	nome feminino	u|[ten]|te
+uteralgia	nome feminino	u|te|ral|[gi]|a
+uterálgico	adjetivo	u|te|[rál]|gi|co
+utérculo	nome masculino	u|[tér]|cu|lo
+uteremia	nome feminino	u|te|re|[mi]|a
+uterémico	adjetivo	u|te|[ré]|mi|co
+uterêmico	adjetivo	u|te|[rê]|mi|co
+uteriforme	adjetivo	u|te|ri|[for]|me
+uterino	adjetivo	u|te|[ri]|no
+uterismo	nome masculino	u|te|[ris]|mo
+uterite	nome feminino	u|te|[ri]|te
+útero	nome masculino	[ú]|te|ro
+uteróceps	nome masculino	u|te|[ró]|ceps
+uterócipe	nome masculino	u|te|[ró]|ci|pe
+uterodinia	nome feminino	u|te|ro|di|[ni]|a
+uterografia	nome feminino	u|te|ro|gra|[fi]|a
+uterolombar	adjetivo	u|te|ro|lom|[bar]
+uterómana	nome feminino	u|te|[ró]|ma|na
+uteromania	nome feminino	u|te|ro|ma|[ni]|a
+uteromaníaca	nome feminino	u|te|ro|ma|[ní]|a|ca
+uteromaníaco	adjetivo	u|te|ro|ma|[ní]|a|co
+uteroplacentário	adjetivo	u|te|ro|pla|cen|[tá]|ri|o
+uterorragia	nome feminino	u|te|ror|ra|[gi]|a
+uterorrágico	adjetivo	u|te|ror|[rá]|gi|co
+uteroscopia	nome feminino	u|te|ros|co|[pi]|a
+uteroscópico	adjetivo	u|te|ros|[có]|pi|co
+uteroscópio	nome masculino	u|te|ros|[có]|pi|o
+uterotomia	nome feminino	u|te|ro|to|[mi]|a
+uterotômico	adjetivo	u|te|ro|[tô]|mi|co
+uterotómico	adjetivo	u|te|ro|[tó]|mi|co
+uterótomo	nome masculino	u|te|[ró]|to|mo
+uterovaginal	adjetivo	u|te|ro|va|gi|[nal]
+uterovariano	adjetivo	u|te|ro|va|ri|[a]|no
+uterovesical	adjetivo	u|te|ro|ve|si|[cal]
+uticense	adjetivo	u|ti|[cen]|se
+uticense	nome masculino	u|ti|[cen]|se
+uticense	nome feminino	u|ti|[cen]|se
+utidorso	adjetivo	u|ti|[dor]|so
+utidorso	nome masculino	u|ti|[dor]|so
+útil	nome masculino	[ú]|til
+útil	adjetivo	[ú]|til
+utilidade	nome feminino	u|ti|li|[da]|de
+utilitária	nome feminino	u|ti|li|[tá]|ri|a
+utilitariamente	advérbio	u|ti|li|ta|ri|a|[men]|te
+utilitário	nome masculino	u|ti|li|[tá]|ri|o
+utilitário	adjetivo	u|ti|li|[tá]|ri|o
+utilitarismo	nome masculino	u|ti|li|ta|[ris]|mo
+utilitarista	adjetivo	u|ti|li|ta|[ris]|ta
+utilitarista	nome masculino	u|ti|li|ta|[ris]|ta
+utilitarista	nome feminino	u|ti|li|ta|[ris]|ta
+utilização	nome feminino	u|ti|li|za|[ção]
+utilizador	adjetivo	u|ti|li|za|[dor]
+utilizador	nome masculino	u|ti|li|za|[dor]
+utilizadora	nome feminino	u|ti|li|za|[do]|ra
+utilizante	adjetivo	u|ti|li|[zan]|te
+utilizante	nome masculino	u|ti|li|[zan]|te
+utilizante	nome feminino	u|ti|li|[zan]|te
+utilizar	verbo	u|ti|li|[zar]
+utilizável	adjetivo	u|ti|li|[zá]|vel
+utilmente	advérbio	u|til|[men]|te
+utopia	nome feminino	u|to|[pi]|a
+utopicamente	advérbio	u|to|pi|ca|[men]|te
+utópico	adjetivo	u|[tó]|pi|co
+utopismo	nome masculino	u|to|[pis]|mo
+utopista	nome masculino	u|to|[pis]|ta
+urro	nome masculino	[ur]|ro
+ursa	nome feminino	[ur]|sa
+ursa-beiçuda	nome feminino	ur|sa-bei|[çu]|da
+ursa-branca	nome feminino	ur|sa-bran|ca
+ursa-de-colar	nome feminino	ur|sa-de-co|[lar]
+ursa-dos-coqueiros	nome feminino	ur|sa-dos-co|[quei]|ros
+ursa-formigueira	nome feminino	ur|sa-for|mi|[guei]|ra
+ursa-malaia	nome feminino	ur|sa-ma|[lai]|a
+ursa-negra	nome feminino	ur|sa-ne|gra
+ursa-parda	nome feminino	ur|sa-par|da
+ursa-polar	nome feminino	ur|sa-po|[lar]
+ursada	nome feminino	ur|[sa]|da
+urselo	nome masculino	ur|[se]|lo
+ursentino	adjetivo	ur|sen|[ti]|no
+ursentino	nome masculino	ur|sen|[ti]|no
+úrsidas	nome masculino	úr|[si]|das
+ursídeo	nome masculino	ur|[sí]|de|o
+ursídeo	nome masculino	ur|[sí]|de|o
+ursídeo	adjetivo	ur|[sí]|de|o
+ursinho	nome masculino	ur|[si]|nho
+ursino	adjetivo	ur|[si]|no
+urso	nome masculino	[ur]|so
+urso	adjetivo	[ur]|so
+urso-beiçudo	nome masculino	ur|so-bei|[çu]|do
+urso-branco	nome masculino	ur|so-bran|co
+urso-d'água-doce	nome masculino	ur|so-d´á|gua-do|ce
+urso-de-colar	nome masculino	ur|so-de-co|[lar]
+urso-dos-coqueiros	nome masculino	ur|so-dos-co|[quei]|ros
+urso-formigueiro	nome masculino	ur|so-for|mi|[guei]|ro
+urso-malaio	nome masculino	ur|so-ma|[lai]|o
+urso-marinho	nome masculino	ur|so-ma|[ri]|nho
+urso-negro	nome masculino	ur|so-ne|gro
+urso-pardo	nome masculino	ur|so-par|do
+urso-polar	nome masculino	ur|so-po|[lar]
+ursulina	nome feminino	ur|su|[li]|na
+ursulina	adjetivo	ur|su|[li]|na
+ursulino	adjetivo	ur|su|[li]|no
+urticação	nome feminino	ur|ti|ca|[ção]
+urticácea	nome feminino	ur|ti|[cá]|ce|a
+urticáceo	adjetivo	ur|ti|[cá]|ce|o
+urticante	adjetivo	ur|ti|[can]|te
+urticar	verbo	ur|ti|[car]
+urticária	nome feminino	ur|ti|[cá]|ri|a
+urticariforme	adjetivo	ur|ti|ca|ri|[for]|me
+urtícea	nome feminino	ur|[tí]|ce|a
+urticifoliado	adjetivo	ur|ti|ci|fo|li|[a]|do
+urticina	nome feminino	ur|ti|[ci]|na
+urtiga	nome feminino	ur|[ti]|ga
+urtiga-branca	nome feminino	ur|ti|ga-bran|ca
+urtiga-de-cipó	nome feminino	ur|ti|ga-de-ci|[pó]
+urtiga-do-mar	nome feminino	ur|ti|ga-do-mar
+urtiga-morta	nome feminino	ur|ti|ga-mor|ta
+urtigação	nome feminino	ur|ti|ga|[ção]
+urtigada	nome feminino	ur|ti|[ga]|da
+urtigal	nome masculino	ur|ti|[gal]
+urtigão	nome masculino	ur|ti|[gão]
+urtigar	verbo	ur|ti|[gar]
+urtigueira	nome feminino	ur|ti|[guei]|ra
+uru	nome masculino	u|[ru]
+uru-mutum	nome masculino	u|ru-mu|[tum]
+uruá	nome masculino	u|ru|[á]
+urubá	nome feminino	u|ru|[bá]
+urubu	nome masculino	u|ru|[bu]
+urubu	nome feminino	u|ru|[bu]
+urubu	adjetivo	u|ru|[bu]
+urubu-caçador	nome masculino	u|ru|bu-ca|ça|[dor]
+urubucaá	nome masculino	u|ru|bu|ca|[á]
+urubupeba	nome masculino	u|ru|bu|[pe]|ba
+urubutinga	nome masculino	u|ru|bu|[tin]|ga
+urubuzinho	nome masculino	u|ru|bu|[zi]|nho
+uruçacanga	nome feminino	u|ru|ça|[can]|ga
+urucari	nome masculino	u|ru|ca|[ri]
+urucatu	nome masculino	u|ru|ca|[tu]
+urucongo	nome masculino	u|ru|[con]|go
+urucu	nome masculino	u|ru|[cu]
+uruçu	nome masculino	u|ru|[çu]
+urucuana	nome feminino	u|ru|cu|[a]|na
+urucubaca	nome feminino	u|ru|cu|[ba]|ca
+uruçuca	nome feminino	u|ru|[çu]|ca
+urucueiro	nome masculino	u|ru|cu|[ei]|ro
+uruçuí	nome masculino	u|ru|çu|[í]
+uruçumirim	nome masculino	u|ru|çu|mi|[rim]
+urucungo	adjetivo	u|ru|[cun]|go
+urucungo	nome masculino	u|ru|[cun]|go
+urucurana	nome feminino	u|ru|cu|[ra]|na
+urucuri	nome masculino	u|ru|cu|[ri]
+urucuuba	nome masculino	u|ru|cu|[u]|ba
+urucuuba	nome feminino	u|ru|cu|[u]|ba
+urucuzeiro	nome masculino	u|ru|cu|[zei]|ro
+uruguaiano	adjetivo	u|ru|guai|[a]|no
+uruguaiano	nome masculino	u|ru|guai|[a]|no
+uruguaio	adjetivo	u|ru|[guai]|o
+uruguaio	nome masculino	u|ru|[guai]|o
+uruiauara	nome feminino	u|rui|au|[a]|ra
+urumbamba	nome feminino	u|rum|[bam]|ba
+urumbeba	nome feminino	u|rum|[be]|ba
+urumbebal	nome masculino	u|rum|be|[bal]
+urunca	adjetivo	u|[run]|ca
+urunca	nome masculino	u|[run]|ca
+urunca	nome feminino	u|[run]|ca
+urjal	nome feminino	ur|[jal]
+urjamanta	nome feminino	ur|ja|[man]|ta
+urje	nome feminino	[ur]|je
+urmada	adjetivo	ur|[ma]|da
+urmana	nome feminino	ur|[ma]|na
+urna	nome feminino	[ur]|na
+urnada	nome feminino	ur|[na]|da
+urnário	nome masculino	ur|[ná]|ri|o
+urnário	adjetivo	ur|[ná]|ri|o
+urnífero	adjetivo	ur|[ní]|fe|ro
+urnígero	adjetivo	ur|[ní]|ge|ro
+úrnula	nome feminino	[úr]|nu|la
+uro	nome masculino	[u]|ro
+urobenzoato	nome masculino	u|ro|ben|zo|[a]|to
+urobenzoico	adjetivo	u|ro|ben|[zoi]|co
+urobilina	nome feminino	u|ro|bi|[li]|na
+urobrânquio	adjetivo	u|ro|[brân]|qui|o
+urocele	nome feminino	u|ro|[ce]|le
+urocianina	nome feminino	u|ro|ci|a|[ni]|na
+urociste	nome feminino	u|ro|[cis]|te
+urocistite	nome feminino	u|ro|cis|[ti]|te
+urocisto	nome feminino	u|ro|[cis]|to
+urocrisia	nome feminino	u|ro|cri|[si]|a
+urocrítico	adjetivo	u|ro|[crí]|ti|co
+urocromo	nome masculino	u|ro|[cro]|mo
+urodelo	nome masculino	u|ro|[de]|lo
+urodelo	adjetivo	u|ro|[de]|lo
+urodiálise	nome feminino	u|ro|di|[á]|li|se
+urodinia	nome feminino	u|ro|di|[ni]|a
+urodínico	adjetivo	u|ro|[dí]|ni|co
+urodonte	nome masculino	u|ro|[don]|te
+urodrimia	nome feminino	u|ro|dri|[mi]|a
+urofilia	nome feminino	u|ro|fi|[li]|a
+urofilo	nome masculino	u|ro|[fi]|lo
+uróforo	nome masculino	u|[ró]|fo|ro
+urogenital	adjetivo	u|ro|ge|ni|[tal]
+urografia	nome feminino	u|ro|gra|[fi]|a
+urográfico	adjetivo	u|ro|[grá]|fi|co
+uroide	adjetivo	u|[roi]|de
+urolítico	adjetivo	u|ro|[lí]|ti|co
+urólito	nome masculino	u|[ró]|li|to
+uróloga	nome feminino	u|[ró]|lo|ga
+urologia	nome feminino	u|ro|lo|[gi]|a
+urológico	adjetivo	u|ro|[ló]|gi|co
+urologista	nome masculino	u|ro|lo|[gis]|ta
+urologista	nome feminino	u|ro|lo|[gis]|ta
+urólogo	nome masculino	u|[ró]|lo|go
+uromancia	nome feminino	u|ro|man|[ci]|a
+uromante	nome masculino	u|ro|[man]|te
+uromante	nome feminino	u|ro|[man]|te
+uromântico	adjetivo	u|ro|[mân]|ti|co
+uromelanina	nome feminino	u|ro|me|la|[ni]|na
+uromelia	nome feminino	u|ro|me|[li]|a
+uromélico	adjetivo	u|ro|[mé]|li|co
+urômelo	nome masculino	u|[rô]|me|lo
+urómelo	nome masculino	u|[ró]|me|lo
+urometria	nome feminino	u|ro|me|[tri]|a
+urométrico	adjetivo	u|ro|[mé]|tri|co
+urómetro	nome masculino	u|[ró]|me|tro
+urômetro	nome masculino	u|[rô]|me|tro
+uronefrose	nome feminino	u|ro|ne|[fro]|se
+uropétalo	nome masculino	u|ro|[pé]|ta|lo
+uropigial	adjetivo	u|ro|pi|gi|[al]
+uropígio	nome masculino	u|ro|[pí]|gi|o
+uropionefrose	nome feminino	u|ro|pi|o|ne|[fro]|se
+uropitina	nome feminino	u|ro|pi|[ti]|na
+uroplania	nome feminino	u|ro|pla|[ni]|a
+urópode	nome masculino	u|[ró]|po|de
+uropódio	nome masculino	u|ro|[pó]|di|o
+uropoese	nome feminino	u|ro|po|[e]|se
+uropoético	adjetivo	u|ro|po|[é]|ti|co
+uropoiese	nome feminino	u|ro|poi|[e]|se
+uropriste	adjetivo	u|ro|[pris]|te
+uróptero	nome masculino	u|[róp]|te|ro
+uroque	nome masculino	u|[ro]|que
+urorragia	nome feminino	u|ror|ra|[gi]|a
+urorrágico	adjetivo	u|ror|[rá]|gi|co
+urorreia	nome feminino	u|ror|[rei]|a
+urorreico	adjetivo	u|ror|[rei]|co
+uroscopia	nome feminino	u|ros|co|[pi]|a
+uroscópico	adjetivo	u|ros|[có]|pi|co
+uróscopo	adjetivo	u|[rós]|co|po
+urose	nome feminino	u|[ro]|se
+urospermo	nome masculino	u|ros|[per]|mo
+urosqueocele	nome feminino	u|ros|que|o|[ce]|le
+urossemiologia	nome feminino	u|ros|se|mi|o|lo|[gi]|a
+urossemiológico	adjetivo	u|ros|se|mi|o|[ló]|gi|co
+urostilo	nome masculino	u|ros|[ti]|lo
+uroterapia	nome feminino	u|ro|te|ra|[pi]|a
+uroterápico	adjetivo	u|ro|te|[rá]|pi|co
+urotoxia	nome feminino	u|ro|to|[xi]|a
+urotóxico	adjetivo	u|ro|[tó]|xi|co
+urotropina	nome feminino	u|ro|tro|[pi]|na
+uroxantina	nome feminino	u|ro|xan|[ti]|na
+urra-boi	nome masculino	ur|ra-boi
+urraca	nome feminino	ur|[ra]|ca
+urrador	adjetivo	ur|ra|[dor]
+urrador	nome masculino	ur|ra|[dor]
+urrante	adjetivo	ur|[ran]|te
+urrar	verbo	ur|[rar]
+ultramoderno	adjetivo	ul|tra|mo|[der]|no
+ultramonárquico	adjetivo	ul|tra|mo|[nár]|qui|co
+ultramonárquico	nome masculino	ul|tra|mo|[nár]|qui|co
+ultramontana	nome feminino	ul|tra|mon|[ta]|na
+ultramontanismo	nome masculino	ul|tra|mon|ta|[nis]|mo
+ultramontanização	nome feminino	ul|tra|mon|ta|ni|za|[ção]
+ultramontanizar	verbo	ul|tra|mon|ta|ni|[zar]
+ultramontano	adjetivo	ul|tra|mon|[ta]|no
+ultramontano	nome masculino	ul|tra|mon|[ta]|no
+ultramundano	adjetivo	ul|tra|mun|[da]|no
+ultranacionalista	nome masculino	ul|tra|na|ci|o|na|[lis]|ta
+ultranacionalista	adjetivo	ul|tra|na|ci|o|na|[lis]|ta
+ultranacionalista	nome feminino	ul|tra|na|ci|o|na|[lis]|ta
+ultranatural	adjetivo	ul|tra|na|tu|[ral]
+ultraoceânico	adjetivo	ul|tra|o|ce|[â]|ni|co
+ultraortodoxo	adjetivo	ul|tra|or|to|[do]|xo
+ultraparadoxal	adjetivo	ul|tra|pa|ra|do|[xal]
+ultrapassado	adjetivo	ul|tra|pas|[sa]|do
+ultrapassagem	nome feminino	ul|tra|pas|[sa]|gem
+ultrapassante	adjetivo	ul|tra|pas|[san]|te
+ultrapassar	verbo	ul|tra|pas|[sar]
+ultrapassável	adjetivo	ul|tra|pas|[sá]|vel
+ultrapasteurizado	adjetivo	ul|tra|pas|teu|ri|[za]|do
+ultraperiférico	adjetivo	ul|tra|pe|ri|[fé]|ri|co
+ultrapressão	nome feminino	ul|tra|pres|[são]
+ultraprovar	verbo	ul|tra|pro|[var]
+ultraquímico	adjetivo	ul|tra|[quí]|mi|co
+ultrarradical	adjetivo	ul|trar|ra|di|[cal]
+ultrarrápido	adjetivo	ul|trar|[rá]|pi|do
+ultrarreação	nome feminino	ul|trar|re|a|[ção]
+ultrarreacionária	nome feminino	ul|trar|re|a|ci|o|[ná]|ri|a
+ultrarreacionário	adjetivo	ul|trar|re|a|ci|o|[ná]|ri|o
+ultrarreacionário	nome masculino	ul|trar|re|a|ci|o|[ná]|ri|o
+ultrarrealismo	nome masculino	ul|trar|re|a|[lis]|mo
+ultrarrealista	adjetivo	ul|trar|re|a|[lis]|ta
+ultrarrealista	nome masculino	ul|trar|re|a|[lis]|ta
+ultrarrealista	nome feminino	ul|trar|re|a|[lis]|ta
+ultrarrevolução	nome feminino	ul|trar|re|vo|lu|[ção]
+ultrarrevolucionária	nome feminino	ul|trar|re|vo|lu|ci|o|[ná]|ri|a
+ultrarrevolucionário	adjetivo	ul|trar|re|vo|lu|ci|o|[ná]|ri|o
+ultrarrevolucionário	nome masculino	ul|trar|re|vo|lu|ci|o|[ná]|ri|o
+ultrarrigoroso	adjetivo	ul|trar|ri|go|[ro]|so
+ultrarromântica	nome feminino	ul|trar|ro|[mân]|ti|ca
+ultrarromântico	adjetivo	ul|trar|ro|[mân]|ti|co
+ultrarromântico	nome masculino	ul|trar|ro|[mân]|ti|co
+ultrarromantismo	nome masculino	ul|trar|ro|man|[tis]|mo
+ultrarromantizar	verbo	ul|trar|ro|man|ti|[zar]
+ultrarroxo	adjetivo	ul|trar|[ro]|xo
+ultrassecreto	adjetivo	ul|tras|se|[cre]|to
+ultrassecular	adjetivo	ul|tras|se|cu|[lar]
+ultrassensível	adjetivo	ul|tras|sen|[sí]|vel
+ultrassofisticado	adjetivo	ul|tras|so|fis|ti|[ca]|do
+ultrassolar	adjetivo	ul|tras|so|[lar]
+ultrassom	nome masculino	ul|[tras]|som
+ultrassônico	adjetivo	ul|tras|[sô]|ni|co
+ultrassónico	adjetivo	ul|tras|[só]|ni|co
+ultrassonografia	nome feminino	ul|tras|so|no|gra|[fi]|a
+ultrassonográfico	adjetivo	ul|tras|so|no|[grá]|fi|co
+ultrassonógrafo	nome masculino	ul|tras|so|[nó]|gra|fo
+ultrassonoro	adjetivo	ul|tras|so|[no]|ro
+ultraterreno	adjetivo	ul|tra|ter|[re]|no
+ultraterrestre	adjetivo	ul|tra|ter|[res]|tre
+ultratumular	adjetivo	ul|tra|tu|mu|[lar]
+ultraveloz	adjetivo	ul|tra|ve|[loz]
+ultravermelho	adjetivo	ul|tra|ver|[me]|lho
+ultravioleta	adjetivo	ul|tra|vi|o|[le]|ta
+ultravioleta	nome masculino	ul|tra|vi|o|[le]|ta
+ultravírus	nome masculino	ul|tra|[ví]|rus
+ultrazodiacal	adjetivo	ul|tra|zo|di|a|[cal]
+ultrice	nome feminino	ul|[tri]|ce
+ultriz	nome feminino	ul|[triz]
+ultrôneo	adjetivo	ul|[trô]|ne|o
+ultróneo	adjetivo	ul|[tró]|ne|o
+úlua	nome feminino	[ú]|lu|a
+ulubrano	adjetivo	u|lu|[bra]|no
+ulubrano	nome masculino	u|lu|[bra]|no
+uluco	nome masculino	u|[lu]|co
+ululação	nome feminino	u|lu|la|[ção]
+ululador	adjetivo	u|lu|la|[dor]
+ululador	nome masculino	u|lu|la|[dor]
+ululante	adjetivo	u|lu|[lan]|te
+ulular	verbo	u|lu|[lar]
+ululato	nome masculino	u|lu|[la]|to
+ululo	nome masculino	u|[lu]|lo
+ulurtino	adjetivo	u|lur|[ti]|no
+ulurtino	nome masculino	u|lur|[ti]|no
+ulva	nome feminino	[ul]|va
+ulvácea	nome feminino	ul|[vá]|ce|a
+ulváceo	adjetivo	ul|[vá]|ce|o
+ulvina	nome feminino	ul|[vi]|na
+um	artigo indefinido	[um]
+um	nome masculino	[um]
+um	adjetivo	[um]
+um	pronome indefinido	[um]
+um	número cardinal	[um]
+uma	artigo indefinido	[u]|ma
+umã	nome masculino	u|[mã]
+umã	nome feminino	u|[mã]
+umação	nome feminino	u|ma|[ção]
+umar	verbo	u|[mar]
+u	advérbio	[u]
+uabaína	nome feminino	u|a|ba|[í]|na
+uaçaçu	nome masculino	u|a|ça|[çu]
+uaçaí	nome masculino	u|a|ça|[í]
+uacapu	nome masculino	u|a|ca|[pu]
+uacapurana	nome feminino	u|a|ca|pu|[ra]|na
+uacarauá	adjetivo	u|a|ca|rau|[á]
+uacarauá	nome masculino	u|a|ca|rau|[á]
+uacarauá	nome feminino	u|a|ca|rau|[á]
+uacari	nome masculino	u|a|ca|[ri]
+uacariguaçu	nome masculino	u|a|ca|ri|gua|[çu]
+uacauã	nome masculino	u|a|cau|[ã]
+uacumã	nome masculino	u|a|cu|[mã]
+uacurau	nome masculino	u|a|cu|[rau]
+uadadá	nome masculino	u|a|da|[dá]
+uai	interjeição	u|[ai]
+uaiá	adjetivo	u|ai|[á]
+uaiá	nome masculino	u|ai|[á]
+uaiá	nome feminino	u|ai|[á]
+uaiapuçá	nome masculino	u|ai|a|pu|[çá]
+uaicima	nome feminino	u|ai|[ci]|ma
+uaieira	nome feminino	u|ai|[ei]|ra
+uaimiri	adjetivo	u|ai|mi|[ri]
+uaimiri	nome masculino	u|ai|mi|[ri]
+uaimiri	nome feminino	u|ai|mi|[ri]
+uainumá	adjetivo	u|ai|nu|[má]
+uainumá	nome masculino	u|ai|nu|[má]
+uainumá	nome feminino	u|ai|nu|[má]
+uaipi	nome masculino	u|ai|[pi]
+uajará	nome masculino	u|a|ja|[rá]
+uajuru	nome masculino	u|a|ju|[ru]
+uala	nome feminino	u|[a]|la
+ualua	nome masculino	u|a|[lu]|a
+ualua	nome feminino	u|a|[lu]|a
+uamami	adjetivo	u|a|ma|[mi]
+uamami	nome masculino	u|a|ma|[mi]
+uamami	nome feminino	u|a|ma|[mi]
+uambé	nome masculino	u|am|[bé]
+uamiri	nome masculino	u|a|mi|[ri]
+uanambé	nome masculino	u|a|nam|[bé]
+uanana	adjetivo	u|a|[na]|na
+uanana	nome masculino	u|a|[na]|na
+uanana	nome feminino	u|a|[na]|na
+uanga	nome masculino	u|[an]|ga
+uanhi	nome masculino	u|a|[nhi]
+uaniá	adjetivo	u|a|ni|[á]
+uaniá	nome masculino	u|a|ni|[á]
+uaniá	nome feminino	u|a|ni|[á]
+uapaca	nome feminino	u|a|[pa]|ca
+uapé	nome masculino	u|a|[pé]
+uapixana	adjetivo	u|a|pi|[xa]|na
+uapixana	nome masculino	u|a|pi|[xa]|na
+uapixana	nome feminino	u|a|pi|[xa]|na
+uapuçá	nome masculino	u|a|pu|[çá]
+uaraicu	adjetivo	u|a|rai|[cu]
+uaraicu	nome masculino	u|a|rai|[cu]
+uaraicu	nome feminino	u|a|rai|[cu]
+uariá	nome masculino	u|a|ri|[á]
+uariquena	adjetivo	u|a|ri|[que]|na
+uariquena	nome masculino	u|a|ri|[que]|na
+uariquena	nome feminino	u|a|ri|[que]|na
+uariquina	nome feminino	u|a|ri|[qui]|na
+uarirama	nome feminino	u|a|ri|[ra]|ma
+uarubé	nome masculino	u|a|ru|[bé]
+uarumã	nome masculino	u|a|ru|[mã]
+uaruremboia	nome feminino	u|a|ru|rem|[boi]|a
+uatapu	nome masculino	u|a|ta|[pu]
+uatite	nome feminino	u|a|[ti]|te
+uaturá	nome masculino	u|a|tu|[rá]
+uau	nome masculino	u|[au]
+uauá	nome masculino	u|au|[á]
+uauaçu	nome masculino	u|au|a|[çu]
+uauçu	nome masculino	u|au|[çu]
+uaupé	adjetivo	u|au|[pé]
+uaupé	nome masculino	u|au|[pé]
+uaupé	nome feminino	u|au|[pé]
+uauri	nome masculino	u|au|[ri]
+ubá	nome feminino	u|[bá]
+ubá	nome masculino	u|[bá]
+ubá-açu	nome masculino	u|bá-a|[çu]
+ubacaba	nome feminino	u|ba|[ca]|ba
+ubacaba	nome masculino	u|ba|[ca]|ba
+ubacaia	nome feminino	u|ba|[cai]|a
+ubaense	nome masculino	u|ba|[en]|se
+ubaense	adjetivo	u|ba|[en]|se
+ubaense	nome feminino	u|ba|[en]|se
+úbaga	nome feminino	[ú]|ba|ga
+ubaia	nome feminino	u|[bai]|a
+ubaia-muxama	nome feminino	u|bai|a-mu|[xa]|ma
+ubaína	nome feminino	u|ba|[í]|na
+ubango	nome masculino	u|[ban]|go
+ubarana	nome masculino	u|ba|[ra]|na
+ubarana	nome feminino	u|ba|[ra]|na
+ubatã	nome masculino	u|ba|[tã]
+ubatubense	adjetivo	u|ba|tu|[ben]|se
+ubatubense	nome masculino	u|ba|tu|[ben]|se
+ubatubense	nome feminino	u|ba|tu|[ben]|se
+uberabense	adjetivo	u|be|ra|[ben]|se
+uberabense	nome masculino	u|be|ra|[ben]|se
+uberabense	nome feminino	u|be|ra|[ben]|se
+uberar	verbo	u|be|[rar]
+uberdade	nome feminino	u|ber|[da]|de
+úbere	adjetivo	[ú]|be|re
+úbere	nome masculino	[ú]|be|re
+uberlandense	adjetivo	u|ber|lan|[den]|se
+uberlandense	nome masculino	u|ber|lan|[den]|se
+uberlandense	nome feminino	u|ber|lan|[den]|se
+uberoso	adjetivo	u|be|[ro]|so
+ubérrimo	adjetivo	u|[bér]|ri|mo
+ubertoso	adjetivo	u|ber|[to]|so
+ubi	nome masculino	u|[bi]
+ubianganga	nome feminino	u|bi|an|[gan]|ga
+ubiguaçu	nome masculino	u|bi|gua|[çu]
+ubim	nome masculino	u|[bim]
+ubim-uaçu	nome masculino	u|bim-u|a|[çu]
+ubimirim	nome masculino	u|bi|mi|[rim]
+ubiquação	nome feminino	u|bi|qua|[ção]
+ubiquamente	advérbio	u|bi|qua|[men]|te
+ubiquidade	nome feminino	u|bi|qui|[da]|de
+ubiquismo	nome masculino	u|bi|[quis]|mo
+ubiquista	nome masculino	u|bi|[quis]|ta
+ubiquista	nome feminino	u|bi|[quis]|ta
+ubiquitário	nome masculino	u|bi|qui|[tá]|ri|o
+ubiquitarismo	nome masculino	u|bi|qui|ta|[ris]|mo
+ubíquo	adjetivo	u|[bí]|quo
+ubiracicá	nome feminino	u|bi|ra|ci|[cá]
+ubirajara	adjetivo	u|bi|ra|[ja]|ra
+ubirajara	nome masculino	u|bi|ra|[ja]|ra
+ubirajara	nome feminino	u|bi|ra|[ja]|ra
+ubiraquá	nome feminino	u|bi|ra|[quá]
+ubirarema	nome feminino	u|bi|ra|[re]|ma
+ubre	nome masculino	[u]|bre
+ubuçu	nome masculino	u|bu|[çu]
+uçá	nome masculino	u|[çá]
+uca	nome feminino	[u]|ca
+uça	nome feminino	[u]|ça
+uçamba	nome feminino	u|[çam]|ba
+uçango	nome masculino	u|[çan]|go
+ucanha	nome feminino	u|[ca]|nha
+ucanheira	nome feminino	u|ca|[nhei]|ra
+ucasse	nome masculino	u|[cas]|se
+uceno	adjetivo	u|[ce]|no
+uceno	nome masculino	u|[ce]|no
+ucha	nome feminino	[u]|cha
+uchão	nome masculino	u|[chão]
+ucharia	nome feminino	u|cha|[ri]|a
+uchote	nome masculino	u|[cho]|te
+ucraniana	nome feminino	u|cra|ni|[a]|na
+ucraniano	adjetivo	u|cra|ni|[a]|no
+ucraniano	nome masculino	u|cra|ni|[a]|no
+ucronia	nome feminino	u|cro|[ni]|a
+ucrônico	adjetivo	u|[crô]|ni|co
+ucrónico	adjetivo	u|[cró]|ni|co
+uçu	adjetivo	u|[çu]
+uçubi	nome masculino	u|çu|[bi]
+ucubu	nome masculino	u|cu|[bu]
+ucué	nome masculino	u|cu|[é]
+ucuí	nome masculino	u|cu|[í]
+ucusso	nome masculino	u|[cus]|so
+ucuuba	nome feminino	u|cu|[u]|ba
+ucuubarana	nome feminino	u|cu|u|ba|[ra]|na
+ucuubeira	nome feminino	u|cu|u|[bei]|ra
+udino	adjetivo	u|[di]|no
+udino	nome masculino	u|[di]|no
+udo	adjetivo	[u]|do
+udometria	nome feminino	u|do|me|[tri]|a
+udométrico	adjetivo	u|do|[mé]|tri|co
+udómetro	nome masculino	u|[dó]|me|tro
+udômetro	nome masculino	u|[dô]|me|tro
+udu	nome masculino	u|[du]
+ué	interjeição	u|[é]
+uê	interjeição	u|[ê]
+uerequena	adjetivo	u|e|re|[que]|na
+uerequena	nome masculino	u|e|re|[que]|na
+uerequena	nome feminino	u|e|re|[que]|na
+uerimá	adjetivo	u|e|ri|[má]
+uerimá	nome masculino	u|e|ri|[má]
+uerimá	nome feminino	u|e|ri|[má]
+uf	interjeição	[uf]
+ufa	interjeição	[u]|fa
+ufa	nome feminino	[u]|fa
+ufanamente	advérbio	u|fa|na|[men]|te
+ufanar	verbo	u|fa|[nar]
+ufania	nome feminino	u|fa|[ni]|a
+ufano	adjetivo	u|[fa]|no
+ufanosamente	advérbio	u|fa|no|sa|[men]|te
+ufanoso	adjetivo	u|fa|[no]|so
+ufólogo	nome masculino	u|[fó]|lo|go
+uga	interjeição	[u]|ga
+ugabe	nome masculino	u|[ga]|be
+ugalha	nome feminino	u|[ga]|lha
+ugalhar	verbo	u|ga|[lhar]
+ugalho	nome masculino	u|[ga]|lho
+ugandense	adjetivo	u|gan|[den]|se
+ugandense	nome masculino	u|gan|[den]|se
+ugandense	nome feminino	u|gan|[den]|se
+ugandês	nome masculino	u|gan|[dês]
+ugandês	adjetivo	u|gan|[dês]
+ugandesa	nome feminino	u|gan|[de]|sa
+ugar	verbo	u|[gar]
+urálio	nome masculino	u|[rá]|li|o
+uralita	nome feminino	u|ra|[li]|ta
+uralite	nome feminino	u|ra|[li]|te
+uralitização	nome feminino	u|ra|li|ti|za|[ção]
+uralo-altaico	adjetivo	u|ra|lo-al|[tai]|co
+uralo-altaico	nome masculino	u|ra|lo-al|[tai]|co
+uranato	nome masculino	u|ra|[na]|to
+uranelídeo	nome masculino	u|ra|ne|[lí]|de|o
+urânia	nome feminino	u|[râ]|ni|a
+uraniar	verbo	u|ra|ni|[ar]
+urânico	adjetivo	u|[râ]|ni|co
+uranídeo	nome masculino	u|ra|[ní]|de|o
+uranídeo	adjetivo	u|ra|[ní]|de|o
+uranilo	nome masculino	u|ra|[ni]|lo
+uranina	nome feminino	u|ra|[ni]|na
+uraninita	nome feminino	u|ra|ni|[ni]|ta
+uraninite	nome feminino	u|ra|ni|[ni]|te
+urânio	nome masculino	u|[râ]|ni|o
+uranioso	adjetivo	u|ra|ni|[o]|so
+uraniscite	nome feminino	u|ra|nis|[ci]|te
+uraniscoplastia	nome feminino	u|ra|nis|co|plas|[ti]|a
+uraniscoplástico	adjetivo	u|ra|nis|co|[plás]|ti|co
+uraniscorrafia	nome feminino	u|ra|nis|cor|ra|[fi]|a
+uraniscorráfico	adjetivo	u|ra|nis|cor|[rá]|fi|co
+uraniscosteoplastia	nome feminino	u|ra|nis|cos|te|o|plas|[ti]|a
+uraniscosteoplástico	adjetivo	u|ra|nis|cos|te|o|[plás]|ti|co
+uranismo	nome masculino	u|ra|[nis]|mo
+uranista	adjetivo	u|ra|[nis]|ta
+uranista	nome masculino	u|ra|[nis]|ta
+uranista	nome feminino	u|ra|[nis]|ta
+uranita	nome feminino	u|ra|[ni]|ta
+uranite	nome feminino	u|ra|[ni]|te
+uranocalcite	nome feminino	u|ra|no|cal|[ci]|te
+uranocircite	nome feminino	u|ra|no|cir|[ci]|te
+uranofânio	nome masculino	u|ra|no|[fâ]|ni|o
+uranófano	nome masculino	u|ra|[nó]|fa|no
+uranognosia	nome feminino	u|ra|nog|no|[si]|a
+uranognóstico	adjetivo	u|ra|nog|[nós]|ti|co
+uranografia	nome feminino	u|ra|no|gra|[fi]|a
+uranográfico	adjetivo	u|ra|no|[grá]|fi|co
+uranógrafo	nome masculino	u|ra|[nó]|gra|fo
+uranólito	nome masculino	u|ra|[nó]|li|to
+uranologia	nome feminino	u|ra|no|lo|[gi]|a
+uranológico	adjetivo	u|ra|no|[ló]|gi|co
+uranologista	nome masculino	u|ra|no|lo|[gis]|ta
+uranologista	nome feminino	u|ra|no|lo|[gis]|ta
+uranólogo	nome masculino	u|ra|[nó]|lo|go
+uranometria	nome feminino	u|ra|no|me|[tri]|a
+uranométrico	adjetivo	u|ra|no|[mé]|tri|co
+uranómetro	nome masculino	u|ra|[nó]|me|tro
+uranômetro	nome masculino	u|ra|[nô]|me|tro
+uranoplastia	nome feminino	u|ra|no|plas|[ti]|a
+uranoplástico	adjetivo	u|ra|no|[plás]|ti|co
+uranopolitano	adjetivo	u|ra|no|po|li|[ta]|no
+uranopolitano	nome masculino	u|ra|no|po|li|[ta]|no
+uranorama	nome masculino	u|ra|no|[ra]|ma
+uranoscopia	nome feminino	u|ra|nos|co|[pi]|a
+uranoscópico	adjetivo	u|ra|nos|[có]|pi|co
+uranosferite	nome feminino	u|ra|nos|fe|[ri]|te
+uranoso	adjetivo	u|ra|[no]|so
+uranotantálio	nome masculino	u|ra|no|tan|[tá]|li|o
+urantera	nome feminino	u|ran|[te]|ra
+urapará	nome masculino	u|ra|pa|[rá]
+urapuru	nome masculino	u|ra|pu|[ru]
+uraquitã	nome masculino	u|ra|qui|[tã]
+urarema	nome feminino	u|ra|[re]|ma
+urária	nome feminino	u|[rá]|ri|a
+uraricu	adjetivo	u|ra|ri|[cu]
+uraricu	nome masculino	u|ra|ri|[cu]
+uraricu	nome feminino	u|ra|ri|[cu]
+urarirana	nome feminino	u|ra|ri|[ra]|na
+uratemia	nome feminino	u|ra|te|[mi]|a
+uratémico	adjetivo	u|ra|[té]|mi|co
+uratêmico	adjetivo	u|ra|[tê]|mi|co
+urato	nome masculino	u|[ra]|to
+uratólise	nome feminino	u|ra|[tó]|li|se
+uratolítico	adjetivo	u|ra|to|[lí]|ti|co
+uratose	nome feminino	u|ra|[to]|se
+uratúria	nome feminino	u|ra|[tú]|ri|a
+uratúrico	adjetivo	u|ra|[tú]|ri|co
+uraúna	nome feminino	u|ra|[ú]|na
+urbana	nome feminino	ur|[ba]|na
+urbanamente	advérbio	ur|ba|na|[men]|te
+urbanate	adjetivo	ur|ba|[na]|te
+urbanate	nome masculino	ur|ba|[na]|te
+urbanate	nome feminino	ur|ba|[na]|te
+urbaniciano	adjetivo	ur|ba|ni|ci|[a]|no
+urbanidade	nome feminino	ur|ba|ni|[da]|de
+urbanismo	nome masculino	ur|ba|[nis]|mo
+urbanista	adjetivo	ur|ba|[nis]|ta
+urbanista	nome masculino	ur|ba|[nis]|ta
+urbanista	nome feminino	ur|ba|[nis]|ta
+urbanística	nome feminino	ur|ba|[nís]|ti|ca
+urbanisticamente	advérbio	ur|ba|nis|ti|ca|[men]|te
+urbanístico	adjetivo	ur|ba|[nís]|ti|co
+urbanita	adjetivo	ur|ba|[ni]|ta
+urbanita	nome masculino	ur|ba|[ni]|ta
+urbanita	nome feminino	ur|ba|[ni]|ta
+urbanização	nome feminino	ur|ba|ni|za|[ção]
+urbanizado	adjetivo	ur|ba|ni|[za]|do
+unitário	adjetivo	u|ni|[tá]|ri|o
+unitarismo	nome masculino	u|ni|ta|[ris]|mo
+unitarista	adjetivo	u|ni|ta|[ris]|ta
+unitarista	nome masculino	u|ni|ta|[ris]|ta
+unitarista	nome feminino	u|ni|ta|[ris]|ta
+unitegumentar	adjetivo	u|ni|te|gu|men|[tar]
+unitivo	adjetivo	u|ni|[ti]|vo
+unitivo	nome masculino	u|ni|[ti]|vo
+unítono	adjetivo	u|[ní]|to|no
+univalência	nome feminino	u|ni|va|[lên]|ci|a
+univalente	adjetivo	u|ni|va|[len]|te
+univalve	adjetivo	u|ni|[val]|ve
+univalvular	adjetivo	u|ni|val|vu|[lar]
+univariante	adjetivo	u|ni|va|ri|[an]|te
+unível	adjetivo	u|[ní]|vel
+univerbação	nome feminino	u|ni|ver|ba|[ção]
+universal	nome masculino	u|ni|ver|[sal]
+universal	adjetivo	u|ni|ver|[sal]
+universalidade	nome feminino	u|ni|ver|sa|li|[da]|de
+universalismo	nome masculino	u|ni|ver|sa|[lis]|mo
+universalista	adjetivo	u|ni|ver|sa|[lis]|ta
+universalista	nome masculino	u|ni|ver|sa|[lis]|ta
+universalista	nome feminino	u|ni|ver|sa|[lis]|ta
+universalização	nome feminino	u|ni|ver|sa|li|za|[ção]
+universalizador	adjetivo	u|ni|ver|sa|li|za|[dor]
+universalizante	adjetivo	u|ni|ver|sa|li|[zan]|te
+universalizar	verbo	u|ni|ver|sa|li|[zar]
+universalizável	adjetivo	u|ni|ver|sa|li|[zá]|vel
+universalmente	advérbio	u|ni|ver|sal|[men]|te
+universidade	nome feminino	u|ni|ver|si|[da]|de
+universitária	nome feminino	u|ni|ver|si|[tá]|ri|a
+universitariamente	advérbio	u|ni|ver|si|ta|ri|a|[men]|te
+universitário	nome masculino	u|ni|ver|si|[tá]|ri|o
+universitário	adjetivo	u|ni|ver|si|[tá]|ri|o
+universitarismo	nome masculino	u|ni|ver|si|ta|[ris]|mo
+universo	nome masculino	u|ni|[ver]|so
+univesicular	adjetivo	u|ni|ve|si|cu|[lar]
+univitelino	adjetivo	u|ni|vi|te|[li]|no
+univocação	nome feminino	u|ni|vo|ca|[ção]
+univocamente	advérbio	u|ni|vo|ca|[men]|te
+univocidade	nome feminino	u|ni|vo|ci|[da]|de
+unívoco	adjetivo	u|[ní]|vo|co
+uno	adjetivo	[u]|no
+unóculo	adjetivo	u|[nó]|cu|lo
+unóculo	nome masculino	u|[nó]|cu|lo
+unta	nome feminino	[un]|ta
+untadela	nome feminino	un|ta|[de]|la
+untador	adjetivo	un|ta|[dor]
+untador	nome masculino	un|ta|[dor]
+untadura	nome feminino	un|ta|[du]|ra
+untanha	nome feminino	un|[ta]|nha
+untar	verbo	un|[tar]
+unteiro	nome masculino	un|[tei]|ro
+untitar	verbo	un|ti|[tar]
+unto	nome masculino	[un]|to
+untório	nome masculino	un|[tó]|ri|o
+untué-de-obó	nome masculino	un|tu|é-de-o|[bó]
+untuém	nome masculino	un|tu|[ém]
+untuosamente	advérbio	un|tu|o|sa|[men]|te
+untuosidade	nome feminino	un|tu|o|si|[da]|de
+untuoso	adjetivo	un|tu|[o]|so
+untura	nome feminino	un|[tu]|ra
+unúmbio	nome masculino	u|[núm]|bi|o
+ununhéxio	nome masculino	u|nu|[nhé]|xi|o
+ununnílio	nome masculino	u|nun|[ní]|li|o
+ununóctio	nome masculino	u|nu|[nóc]|ti|o
+ununquádio	nome masculino	u|nun|[quá]|di|o
+ununúnio	nome masculino	u|nu|[nú]|ni|o
+uolofe	adjetivo	u|o|[lo]|fe
+uolofe	nome masculino	u|o|[lo]|fe
+uolofe	nome feminino	u|o|[lo]|fe
+up-to-date	adjetivo	up-to-da|te
+upa	interjeição	[u]|pa
+upa	nome feminino	[u]|pa
+upanda	nome feminino	u|[pan]|da
+upar	verbo	u|[par]
+upas	nome masculino	[u]|pas
+upgrade	nome masculino	up|gra|de
+upiúba	nome feminino	u|pi|[ú]|ba
+upo	nome masculino	[u]|po
+upúpida	nome masculino	u|[pú]|pi|da
+upupídeo	nome masculino	u|pu|[pí]|de|o
+upupídeo	nome masculino	u|pu|[pí]|de|o
+upupídeo	adjetivo	u|pu|[pí]|de|o
+uqueté	nome masculino	u|que|[té]
+ura	nome feminino	[u]|ra
+uraca	nome feminino	u|[ra]|ca
+uracaçu	nome masculino	u|ra|ca|[çu]
+uracilo	nome masculino	u|ra|[ci]|lo
+uracovesical	adjetivo	u|ra|co|ve|si|[cal]
+uracrasia	nome feminino	u|ra|cra|[si]|a
+uraçu	nome masculino	u|ra|[çu]
+urago	nome masculino	u|[ra]|go
+uraliana	nome feminino	u|ra|li|[a]|na
+uraliano	adjetivo	u|ra|li|[a]|no
+uraliano	nome masculino	u|ra|li|[a]|no
+urálica	nome feminino	u|[rá]|li|ca
+urálico	adjetivo	u|[rá]|li|co
+urálico	nome masculino	u|[rá]|li|co
+urálio	adjetivo	u|[rá]|li|o
+ureterotómico	adjetivo	u|re|te|ro|[tó]|mi|co
+urético	adjetivo	u|[ré]|ti|co
+uretilano	nome masculino	u|re|ti|[la]|no
+uretra	nome feminino	u|[re]|tra
+uretral	adjetivo	u|re|[tral]
+uretralgia	nome feminino	u|re|tral|[gi]|a
+uretrálgico	adjetivo	u|re|[trál]|gi|co
+uretrectomia	nome feminino	u|re|trec|to|[mi]|a
+uretrectômico	adjetivo	u|re|trec|[tô]|mi|co
+uretrectómico	adjetivo	u|re|trec|[tó]|mi|co
+uretrelmíntico	adjetivo	u|re|trel|[mín]|ti|co
+urétrico	adjetivo	u|[ré]|tri|co
+uretrite	nome feminino	u|re|[tri]|te
+uretrocele	nome feminino	u|re|tro|[ce]|le
+uretrocistite	nome feminino	u|re|tro|cis|[ti]|te
+uretrocistografia	nome feminino	u|re|tro|cis|to|gra|[fi]|a
+uretrocistográfico	adjetivo	u|re|tro|cis|to|[grá]|fi|co
+uretrocistotomia	nome feminino	u|re|tro|cis|to|to|[mi]|a
+uretrocistotômico	adjetivo	u|re|tro|cis|to|[tô]|mi|co
+uretrocistotómico	adjetivo	u|re|tro|cis|to|[tó]|mi|co
+uretrodinia	nome feminino	u|re|tro|di|[ni]|a
+uretrofráctico	adjetivo	u|re|tro|[frác]|ti|co
+uretrofrático	adjetivo	u|re|tro|[frá]|ti|co
+uretrofraxia	nome feminino	u|re|tro|fra|[xi]|a
+uretrografia	nome feminino	u|re|tro|gra|[fi]|a
+uretrolitíase	nome feminino	u|re|tro|li|[tí]|a|se
+uretrolítico	adjetivo	u|re|tro|[lí]|ti|co
+uretropíico	adjetivo	u|re|tro|[pí]|i|co
+uretroplastia	nome feminino	u|re|tro|plas|[ti]|a
+uretrorrafia	nome feminino	u|re|tror|ra|[fi]|a
+uretrorráfico	adjetivo	u|re|tror|[rá]|fi|co
+uretrorragia	nome feminino	u|re|tror|ra|[gi]|a
+uretrorrágico	adjetivo	u|re|tror|[rá]|gi|co
+uretrorrectal	adjetivo	u|re|tror|rec|[tal]
+uretrorreia	nome feminino	u|re|tror|[rei]|a
+uretrorreico	adjetivo	u|re|tror|[rei]|co
+uretrorretal	adjetivo	u|re|tror|re|[tal]
+uretroscopia	nome feminino	u|re|tros|co|[pi]|a
+uretroscópico	adjetivo	u|re|tros|[có]|pi|co
+uretroscópio	nome masculino	u|re|tros|[có]|pi|o
+uretroscrotal	adjetivo	u|re|tros|cro|[tal]
+uretrostenia	nome feminino	u|re|tros|te|[ni]|a
+uretrosténico	adjetivo	u|re|tros|[té]|ni|co
+uretrostênico	adjetivo	u|re|tros|[tê]|ni|co
+uretrostenose	nome feminino	u|re|tros|te|[no]|se
+uretrostomia	nome feminino	u|re|tros|to|[mi]|a
+uretrotomia	nome feminino	u|re|tro|to|[mi]|a
+uretrotômico	adjetivo	u|re|tro|[tô]|mi|co
+uretrotómico	adjetivo	u|re|tro|[tó]|mi|co
+uretrótomo	nome masculino	u|re|[tró]|to|mo
+uretrotromboide	adjetivo	u|re|tro|trom|[boi]|de
+uretrovaginal	adjetivo	u|re|tro|va|gi|[nal]
+uretrovesical	adjetivo	u|re|tro|ve|si|[cal]
+urgebão	nome masculino	ur|ge|[bão]
+urgeira	nome feminino	ur|[gei]|ra
+urgemanta	nome feminino	ur|ge|[man]|ta
+urgência	nome feminino	ur|[gên]|ci|a
+urgente	adjetivo	ur|[gen]|te
+urgentemente	advérbio	ur|gen|te|[men]|te
+urgevão	nome masculino	ur|ge|[vão]
+urgir	verbo	ur|[gir]
+urgueira	nome feminino	ur|[guei]|ra
+urgueiral	nome masculino	ur|guei|[ral]
+urguela	nome feminino	ur|[gue]|la
+uri	nome masculino	u|[ri]
+uriate	nome masculino	u|ri|[a]|te
+uriate	adjetivo	u|ri|[a]|te
+uriate	nome feminino	u|ri|[a]|te
+uribaco	nome masculino	u|ri|[ba]|co
+uricana	nome feminino	u|ri|[ca]|na
+uricemia	nome feminino	u|ri|ce|[mi]|a
+uricémico	adjetivo	u|ri|[cé]|mi|co
+uricêmico	adjetivo	u|ri|[cê]|mi|co
+úrico	adjetivo	[ú]|ri|co
+uricopoiese	nome feminino	u|ri|co|poi|[e]|se
+uricosúrico	nome masculino	u|ri|co|[sú]|ri|co
+uricuri	nome masculino	u|ri|cu|[ri]
+uridina	nome feminino	u|ri|[di]|na
+uridrose	nome feminino	u|ri|[dro]|se
+urim	nome masculino	u|[rim]
+urina	nome feminino	u|[ri]|na
+urinação	nome feminino	u|ri|na|[ção]
+urinadeiro	nome masculino	u|ri|na|[dei]|ro
+urinaná	adjetivo	u|ri|na|[ná]
+urinaná	nome masculino	u|ri|na|[ná]
+urinaná	nome feminino	u|ri|na|[ná]
+urinar	verbo	u|ri|[nar]
+urinário	adjetivo	u|ri|[ná]|ri|o
+urinatório	nome masculino	u|ri|na|[tó]|ri|o
+urinífero	adjetivo	u|ri|[ní]|fe|ro
+uriníparo	adjetivo	u|ri|[ní]|pa|ro
+urinol	nome masculino	u|ri|[nol]
+urinoso	adjetivo	u|ri|[no]|so
+urite	adjetivo	u|[ri]|te
+urite	nome masculino	u|[ri]|te
+urite	nome feminino	u|[ri]|te
+uritutu	nome masculino	u|ri|tu|[tu]
+uriunduba	nome feminino	u|ri|un|[du]|ba
+urivi	nome masculino	u|ri|[vi]
+urjal	adjetivo	ur|[jal]
+urbanizador	adjetivo	ur|ba|ni|za|[dor]
+urbanizador	nome masculino	ur|ba|ni|za|[dor]
+urbanizar	verbo	ur|ba|ni|[zar]
+urbanizável	adjetivo	ur|ba|ni|[zá]|vel
+urbano	nome masculino	ur|[ba]|no
+urbano	adjetivo	ur|[ba]|no
+urbe	nome feminino	[ur]|be
+urbeque	nome masculino	ur|[be]|que
+urbícola	adjetivo	ur|[bí]|co|la
+urbícola	nome masculino	ur|[bí]|co|la
+urbícola	nome feminino	ur|[bí]|co|la
+urbígena	adjetivo	ur|[bí]|ge|na
+urbígena	nome masculino	ur|[bí]|ge|na
+urbígena	nome feminino	ur|[bí]|ge|na
+urbinate	adjetivo	ur|bi|[na]|te
+urbinate	nome masculino	ur|bi|[na]|te
+urbinate	nome feminino	ur|bi|[na]|te
+urca	nome feminino	[ur]|ca
+urca	adjetivo	[ur]|ca
+urcaço	adjetivo	ur|[ca]|ço
+urceiforme	adjetivo	ur|cei|[for]|me
+urcela	nome feminino	ur|[ce]|la
+urcéola	nome feminino	ur|[cé]|o|la
+urceolado	adjetivo	ur|ce|o|[la]|do
+urceolar	adjetivo	ur|ce|o|[lar]
+urceolária	nome feminino	ur|ce|o|[lá]|ri|a
+urceolífero	adjetivo	ur|ce|o|[lí]|fe|ro
+urcéolo	nome masculino	ur|[cé]|o|lo
+urchila	nome feminino	ur|[chi]|la
+urchilha	nome feminino	ur|[chi]|lha
+urco	nome masculino	[ur]|co
+urdição	nome feminino	ur|di|[ção]
+urdideira	nome feminino	ur|di|[dei]|ra
+urdido	adjetivo	ur|[di]|do
+urdidor	adjetivo	ur|di|[dor]
+urdidor	nome masculino	ur|di|[dor]
+urdidora	nome feminino	ur|di|[do]|ra
+urdidura	nome feminino	ur|di|[du]|ra
+urdimaças	nome masculino	ur|di|[ma]|ças
+urdimaças	nome feminino	ur|di|[ma]|ças
+urdimalas	nome masculino	ur|di|[ma]|las
+urdimalas	nome feminino	ur|di|[ma]|las
+urdimenta	nome feminino	ur|di|[men]|ta
+urdimento	nome masculino	ur|di|[men]|to
+urdir	verbo	ur|[dir]
+urdível	adjetivo	ur|[dí]|vel
+urdu	nome masculino	ur|[du]
+urdume	nome masculino	ur|[du]|me
+uredem	nome feminino	u|[re]|dem
+uredínea	nome feminino	u|re|[dí]|ne|a
+uredíneo	adjetivo	u|re|[dí]|ne|o
+uredo	nome masculino	u|[re]|do
+uredósporo	nome masculino	u|re|[dós]|po|ro
+urega	nome feminino	u|[re]|ga
+ureia	nome feminino	u|[rei]|a
+ureico	adjetivo	u|[rei]|co
+urélia	nome feminino	u|[ré]|li|a
+uremia	nome feminino	u|re|[mi]|a
+urémico	adjetivo	u|[ré]|mi|co
+urêmico	adjetivo	u|[rê]|mi|co
+urência	nome feminino	u|[rên]|ci|a
+urente	adjetivo	u|[ren]|te
+ureometria	nome feminino	u|re|o|me|[tri]|a
+ureométrico	adjetivo	u|re|o|[mé]|tri|co
+ureómetro	nome masculino	u|re|[ó]|me|tro
+ureômetro	nome masculino	u|re|[ô]|me|tro
+ureopoese	nome feminino	u|re|o|po|[e]|se
+ureopoético	adjetivo	u|re|o|po|[é]|ti|co
+ureritrina	nome feminino	u|re|ri|[tri]|na
+uretalgia	nome feminino	u|re|tal|[gi]|a
+uretálgico	adjetivo	u|re|[tál]|gi|co
+uretano	nome masculino	u|re|[ta]|no
+uréter	nome masculino	u|[ré]|ter
+ureter	nome masculino	u|re|[ter]
+ureteral	adjetivo	u|re|te|[ral]
+ureteralgia	nome feminino	u|re|te|ral|[gi]|a
+ureterálgico	adjetivo	u|re|te|[rál]|gi|co
+ureterectasia	nome feminino	u|re|te|rec|ta|[si]|a
+ureterectático	adjetivo	u|re|te|rec|[tá]|ti|co
+ureterectomia	nome feminino	u|re|te|rec|to|[mi]|a
+ureterectômico	adjetivo	u|re|te|rec|[tô]|mi|co
+ureterectómico	adjetivo	u|re|te|rec|[tó]|mi|co
+ureterenfráctico	adjetivo	u|re|te|ren|[frác]|ti|co
+ureterenfrático	adjetivo	u|re|te|ren|[frá]|ti|co
+ureterenfraxia	nome feminino	u|re|te|ren|fra|[xi]|a
+uretérico	adjetivo	u|re|[té]|ri|co
+ureterite	nome feminino	u|re|te|[ri]|te
+ureteroflegmático	adjetivo	u|re|te|ro|fleg|[má]|ti|co
+ureterografia	nome feminino	u|re|te|ro|gra|[fi]|a
+ureterolitíase	nome feminino	u|re|te|ro|li|[tí]|a|se
+ureterolítico	adjetivo	u|re|te|ro|[lí]|ti|co
+ureteropíico	adjetivo	u|re|te|ro|[pí]|i|co
+ureteroplastia	nome feminino	u|re|te|ro|plas|[ti]|a
+ureterorrafia	nome feminino	u|re|te|ror|ra|[fi]|a
+ureterorráfico	adjetivo	u|re|te|ror|[rá]|fi|co
+ureterorragia	nome feminino	u|re|te|ror|ra|[gi]|a
+ureterorrágico	adjetivo	u|re|te|ror|[rá]|gi|co
+ureterostomático	adjetivo	u|re|te|ros|to|[má]|ti|co
+ureterotomia	nome feminino	u|re|te|ro|to|[mi]|a
+ureterotômico	adjetivo	u|re|te|ro|[tô]|mi|co
+unigâmico	adjetivo	u|ni|[gâ]|mi|co
+unígamo	adjetivo	u|[ní]|ga|mo
+unígamo	nome masculino	u|[ní]|ga|mo
+unigénita	nome feminino	u|ni|[gé]|ni|ta
+unigénito	nome masculino	u|ni|[gé]|ni|to
+unigénito	adjetivo	u|ni|[gé]|ni|to
+unigênito	adjetivo	u|ni|[gê]|ni|to
+unigênito	nome masculino	u|ni|[gê]|ni|to
+unijugado	adjetivo	u|ni|ju|[ga]|do
+uníjugo	adjetivo	u|[ní]|ju|go
+unilabiado	adjetivo	u|ni|la|bi|[a]|do
+unilateral	adjetivo	u|ni|la|te|[ral]
+unilateralidade	nome feminino	u|ni|la|te|ra|li|[da]|de
+unilateralismo	nome masculino	u|ni|la|te|ra|[lis]|mo
+unilateralista	adjetivo	u|ni|la|te|ra|[lis]|ta
+unilateralista	nome masculino	u|ni|la|te|ra|[lis]|ta
+unilateralista	nome feminino	u|ni|la|te|ra|[lis]|ta
+unilateralmente	advérbio	u|ni|la|te|ral|[men]|te
+unilénio	nome masculino	u|ni|[lé]|ni|o
+unilênio	nome masculino	u|ni|[lê]|ni|o
+uniléxio	nome masculino	u|ni|[lé]|xi|o
+unilinear	adjetivo	u|ni|li|ne|[ar]
+unilíngue	adjetivo	u|ni|[lín]|gue
+unilingue	adjetivo	u|ni|[lin]|gue
+unilinguismo	nome masculino	u|ni|lin|[guis]|mo
+uniliteral	adjetivo	u|ni|li|te|[ral]
+unilítero	adjetivo	u|ni|[lí]|te|ro
+unilobado	adjetivo	u|ni|lo|[ba]|do
+unilobulado	adjetivo	u|ni|lo|bu|[la]|do
+unilóctio	nome masculino	u|ni|[lóc]|ti|o
+unilocular	adjetivo	u|ni|lo|cu|[lar]
+uníloquo	adjetivo	u|[ní]|lo|quo
+unilpêntio	nome masculino	u|nil|[pên]|ti|o
+unilquádio	nome masculino	u|nil|[quá]|di|o
+unilséptio	nome masculino	u|nil|[sép]|ti|o
+unimaculado	adjetivo	u|ni|ma|cu|[la]|do
+unimama	nome feminino	u|ni|[ma]|ma
+unimamário	adjetivo	u|ni|ma|[má]|ri|o
+unímano	adjetivo	u|[ní]|ma|no
+unimetalismo	nome masculino	u|ni|me|ta|[lis]|mo
+unimetalista	adjetivo	u|ni|me|ta|[lis]|ta
+unimetalista	nome masculino	u|ni|me|ta|[lis]|ta
+unimetalista	nome feminino	u|ni|me|ta|[lis]|ta
+uninervado	adjetivo	u|ni|ner|[va]|do
+uninérveo	adjetivo	u|ni|[nér]|ve|o
+uninominal	adjetivo	u|ni|no|mi|[nal]
+uninucleado	adjetivo	u|ni|nu|cle|[a]|do
+uninuclear	adjetivo	u|ni|nu|cle|[ar]
+unioculado	adjetivo	u|ni|o|cu|[la]|do
+unionense	adjetivo	u|ni|o|[nen]|se
+unionense	nome masculino	u|ni|o|[nen]|se
+unionense	nome feminino	u|ni|o|[nen]|se
+uniónida	nome masculino	u|ni|[ó]|ni|da
+unionídeo	nome masculino	u|ni|o|[ní]|de|o
+unionídeo	nome masculino	u|ni|o|[ní]|de|o
+unionídeo	adjetivo	u|ni|o|[ní]|de|o
+unionismo	nome masculino	u|ni|o|[nis]|mo
+unionista	nome masculino	u|ni|o|[nis]|ta
+unionista	adjetivo	u|ni|o|[nis]|ta
+unionista	nome feminino	u|ni|o|[nis]|ta
+unionita	adjetivo	u|ni|o|[ni]|ta
+unionita	nome masculino	u|ni|o|[ni]|ta
+unionita	nome feminino	u|ni|o|[ni]|ta
+uniovulado	adjetivo	u|ni|o|vu|[la]|do
+uniovular	adjetivo	u|ni|o|vu|[lar]
+unípara	nome feminino	u|[ní]|pa|ra
+uniparidade	nome feminino	u|ni|pa|ri|[da]|de
+uníparo	adjetivo	u|[ní]|pa|ro
+unipedal	adjetivo	u|ni|pe|[dal]
+unípede	adjetivo	u|[ní]|pe|de
+unipene	adjetivo	u|ni|[pe]|ne
+unipersonal	adjetivo	u|ni|per|so|[nal]
+unipessoal	adjetivo	u|ni|pes|so|[al]
+unipessoalmente	advérbio	u|ni|pes|so|al|[men]|te
+unipétalo	adjetivo	u|ni|[pé]|ta|lo
+unipolar	adjetivo	u|ni|po|[lar]
+unipolaridade	nome feminino	u|ni|po|la|ri|[da]|de
+unipontuado	adjetivo	u|ni|pon|tu|[a]|do
+unir	verbo	u|[nir]
+unirrefringente	adjetivo	u|nir|re|frin|[gen]|te
+unirreme	adjetivo	u|nir|[re]|me
+unirrostro	adjetivo	u|nir|[ros]|tro
+unisex	adjetivo	u|ni|sex
+unispérmico	adjetivo	u|nis|[pér]|mi|co
+unispermo	adjetivo	u|nis|[per]|mo
+unissecular	adjetivo	u|nis|se|cu|[lar]
+unisseriado	adjetivo	u|nis|se|ri|[a]|do
+unissexo	adjetivo	u|nis|[se]|xo
+unissexuado	adjetivo	u|nis|se|xu|[a]|do
+unissexual	adjetivo	u|nis|se|xu|[al]
+unissexualidade	nome feminino	u|nis|se|xu|a|li|[da]|de
+unissexualismo	nome masculino	u|nis|se|xu|a|[lis]|mo
+unissonamente	advérbio	u|nis|so|na|[men]|te
+unissonância	nome feminino	u|nis|so|[nân]|ci|a
+unissonante	adjetivo	u|nis|so|[nan]|te
+uníssono	adjetivo	u|[nís]|so|no
+uníssono	nome masculino	u|[nís]|so|no
+unitária	nome feminino	u|ni|[tá]|ri|a
+unitariamente	advérbio	u|ni|ta|ri|a|[men]|te
+unitário	nome masculino	u|ni|[tá]|ri|o
+ulóboro	nome masculino	u|[ló]|bo|ro
+ulodendro	nome masculino	u|lo|[den]|dro
+ulojanja	nome feminino	u|lo|[jan]|ja
+uloncia	nome feminino	u|lon|[ci]|a
+ulorragia	nome feminino	u|lor|ra|[gi]|a
+ulorrágico	adjetivo	u|lor|[rá]|gi|co
+ulossomo	nome masculino	u|los|[so]|mo
+ulotricácea	nome feminino	u|lo|tri|[cá]|ce|a
+ulotricáceo	adjetivo	u|lo|tri|[cá]|ce|o
+ulótrico	adjetivo	u|[ló]|tri|co
+ulótrico	nome masculino	u|[ló]|tri|co
+ulterior	adjetivo	ul|te|ri|[or]
+ulterioridade	nome feminino	ul|te|ri|o|ri|[da]|de
+ulteriormente	advérbio	ul|te|ri|or|[men]|te
+última	nome feminino	[úl]|ti|ma
+ultimação	nome feminino	ul|ti|ma|[ção]
+ultimado	adjetivo	ul|ti|[ma]|do
+ultimador	nome masculino	ul|ti|ma|[dor]
+ultimamente	advérbio	ul|ti|ma|[men]|te
+ultimar	verbo	ul|ti|[mar]
+últimas	nome feminino	[úl]|ti|mas
+ultimato	nome masculino	ul|ti|[ma]|to
+último	adjetivo	[úl]|ti|mo
+último	nome masculino	[úl]|ti|mo
+ultimogénito	nome masculino	ul|ti|mo|[gé]|ni|to
+ultimogênito	nome masculino	ul|ti|mo|[gê]|ni|to
+ultimogénito	nome feminino	ul|ti|mo|[gé]|ni|to
+ultimogénito	adjetivo	ul|ti|mo|[gé]|ni|to
+ultimogênito	nome feminino	ul|ti|mo|[gê]|ni|to
+ultimogênito	adjetivo	ul|ti|mo|[gê]|ni|to
+ultimogenitura	nome feminino	ul|ti|mo|ge|ni|[tu]|ra
+ulto	adjetivo	[ul]|to
+ultor	adjetivo	ul|[tor]
+ultor	nome masculino	ul|[tor]
+ultra	adjetivo	[ul]|tra
+ultra	nome masculino	[ul]|tra
+ultra	nome feminino	[ul]|tra
+ultra-hiperbólico	adjetivo	ul|tra-hi|per|[bó]|li|co
+ultra-homérico	adjetivo	ul|tra-ho|[mé]|ri|co
+ultra-humano	adjetivo	ul|tra-hu|[ma]|no
+ultrabásico	adjetivo	ul|tra|[bá]|si|co
+ultracentrifugação	nome feminino	ul|tra|cen|tri|fu|ga|[ção]
+ultracentrifugar	verbo	ul|tra|cen|tri|fu|[gar]
+ultracompetente	adjetivo	ul|tra|com|pe|[ten]|te
+ultraconfiança	nome feminino	ul|tra|con|fi|[an]|ça
+ultracongelação	nome feminino	ul|tra|con|ge|la|[ção]
+ultracongelado	adjetivo	ul|tra|con|ge|[la]|do
+ultraconservador	adjetivo	ul|tra|con|ser|va|[dor]
+ultraconservador	nome masculino	ul|tra|con|ser|va|[dor]
+ultraconservadora	nome feminino	ul|tra|con|ser|va|[do]|ra
+ultracorreção	nome feminino	ul|tra|cor|re|[ção]
+ultracorreto	adjetivo	ul|tra|cor|[re]|to
+ultracorrigido	adjetivo	ul|tra|cor|ri|[gi]|do
+ultracurto	adjetivo	ul|tra|[cur]|to
+ultrademocrático	adjetivo	ul|tra|de|mo|[crá]|ti|co
+ultradivino	adjetivo	ul|tra|di|[vi]|no
+ultraesdrúxulo	adjetivo	ul|tra|es|[drú]|xu|lo
+ultraetimológico	adjetivo	ul|tra|e|ti|mo|[ló]|gi|co
+ultraexistência	nome feminino	ul|tra|e|xis|[tên]|ci|a
+ultraexistente	adjetivo	ul|tra|e|xis|[ten]|te
+ultrafabuloso	adjetivo	ul|tra|fa|bu|[lo]|so
+ultrafantástico	adjetivo	ul|tra|fan|[tás]|ti|co
+ultrafiltração	nome feminino	ul|tra|fil|tra|[ção]
+ultrainfernal	adjetivo	ul|tra|in|fer|[nal]
+ultrajado	adjetivo	ul|tra|[ja]|do
+ultrajador	adjetivo	ul|tra|ja|[dor]
+ultrajador	nome masculino	ul|tra|ja|[dor]
+ultrajadora	nome feminino	ul|tra|ja|[do]|ra
+ultrajante	adjetivo	ul|tra|[jan]|te
+ultrajantemente	advérbio	ul|tra|jan|te|[men]|te
+ultrajar	verbo	ul|tra|[jar]
+ultrajável	adjetivo	ul|tra|[já]|vel
+ultraje	nome masculino	ul|[tra]|je
+ultrajosamente	advérbio	ul|tra|jo|sa|[men]|te
+ultrajoso	adjetivo	ul|tra|[jo]|so
+ultrajudicial	adjetivo	ul|tra|ju|di|ci|[al]
+ultraleve	nome masculino	ul|tra|[le]|ve
+ultraleve	adjetivo	ul|tra|[le]|ve
+ultraliberal	adjetivo	ul|tra|li|be|[ral]
+ultraliberal	nome masculino	ul|tra|li|be|[ral]
+ultraliberal	nome feminino	ul|tra|li|be|[ral]
+ultraliberalismo	nome masculino	ul|tra|li|be|ra|[lis]|mo
+ultraliberalmente	advérbio	ul|tra|li|be|ral|[men]|te
+ultralírico	adjetivo	ul|tra|[lí]|ri|co
+ultralongo	adjetivo	ul|tra|[lon]|go
+ultramar	nome masculino	ul|tra|[mar]
+ultramarino	adjetivo	ul|tra|ma|[ri]|no
+ultrametamórfico	adjetivo	ul|tra|me|ta|[mór]|fi|co
+ultrametamorfismo	nome masculino	ul|tra|me|ta|mor|[fis]|mo
+ultramicroscopia	nome feminino	ul|tra|mi|cros|co|[pi]|a
+ultramicroscópico	adjetivo	ul|tra|mi|cros|[có]|pi|co
+ultramicroscópio	nome masculino	ul|tra|mi|cros|[có]|pi|o
+ultramilitarismo	nome masculino	ul|tra|mi|li|ta|[ris]|mo
+ultramilitarista	adjetivo	ul|tra|mi|li|ta|[ris]|ta
+ultramilitarista	nome masculino	ul|tra|mi|li|ta|[ris]|ta
+ultramilitarista	nome feminino	ul|tra|mi|li|ta|[ris]|ta
+ultramodernismo	nome masculino	ul|tra|mo|der|[nis]|mo
+ultramodernista	adjetivo	ul|tra|mo|der|[nis]|ta
+ultramodernista	nome masculino	ul|tra|mo|der|[nis]|ta
+ultramodernista	nome feminino	ul|tra|mo|der|[nis]|ta
+unaiense	nome masculino	u|nai|[en]|se
+unaiense	nome feminino	u|nai|[en]|se
+unamente	advérbio	u|na|[men]|te
+unanimar	verbo	u|na|ni|[mar]
+unânime	adjetivo	u|[nâ]|ni|me
+unanimemente	advérbio	u|na|ni|me|[men]|te
+unanimidade	nome feminino	u|na|ni|mi|[da]|de
+unanimificar	verbo	u|na|ni|mi|fi|[car]
+unanimismo	nome masculino	u|na|ni|[mis]|mo
+unanimista	nome masculino	u|na|ni|[mis]|ta
+unanimista	adjetivo	u|na|ni|[mis]|ta
+unanimista	nome feminino	u|na|ni|[mis]|ta
+unar	verbo	u|[nar]
+unário	adjetivo	u|[ná]|ri|o
+unau	nome masculino	u|[nau]
+unção	nome feminino	un|[ção]
+uncial	adjetivo	un|ci|[al]
+unciário	adjetivo	un|ci|[á]|ri|o
+unciforme	adjetivo	un|ci|[for]|me
+unciforme	nome masculino	un|ci|[for]|me
+uncinado	adjetivo	un|ci|[na]|do
+uncinária	nome feminino	un|ci|[ná]|ri|a
+uncinaríase	nome feminino	un|ci|na|[rí]|a|se
+uncinariose	nome feminino	un|ci|na|ri|[o]|se
+uncíneo	adjetivo	un|[cí]|ne|o
+uncínia	nome feminino	un|[cí]|ni|a
+uncínula	nome feminino	un|[cí]|nu|la
+uncipene	adjetivo	un|ci|[pe]|ne
+uncirrosto	adjetivo	un|cir|[ros]|to
+uncirrostro	nome masculino	un|cir|[ros]|tro
+uncirrostro	adjetivo	un|cir|[ros]|tro
+undabundo	adjetivo	un|da|[bun]|do
+undação	nome feminino	un|da|[ção]
+undalo	nome masculino	un|[da]|lo
+undante	adjetivo	un|[dan]|te
+undecágono	nome masculino	un|de|[cá]|go|no
+undecenal	adjetivo	un|de|ce|[nal]
+undecênviro	nome masculino	un|de|[cên]|vi|ro
+undecimano	nome masculino	un|de|ci|[ma]|no
+undécimo	adjetivo	un|[dé]|ci|mo
+undécimo	nome masculino	un|[dé]|ci|mo
+undécimo	número fraccional	un|[dé]|ci|mo
+undécimo	número ordinal	un|[dé]|ci|mo
+undecirreme	nome feminino	un|de|cir|[re]|me
+undecumano	nome masculino	un|de|cu|[ma]|no
+undécuplo	nome masculino	un|[dé]|cu|plo
+undécuplo	número multiplicativo	un|[dé]|cu|plo
+undécuplo	adjetivo	un|[dé]|cu|plo
+undeira	nome feminino	un|[dei]|ra
+underground	nome masculino	un|der|ground
+underground	adjetivo	un|der|ground
+underwear	nome feminino	un|der|wear
+undevicesimano	nome masculino	un|de|vi|ce|si|[ma]|no
+undícola	adjetivo	un|[dí]|co|la
+undícola	nome masculino	un|[dí]|co|la
+undícola	nome feminino	un|[dí]|co|la
+undífero	adjetivo	un|[dí]|fe|ro
+undiflavo	adjetivo	un|di|[fla]|vo
+undífluo	adjetivo	un|[dí]|flu|o
+undísseco	adjetivo	un|[dís]|se|co
+undíssono	adjetivo	un|[dís]|so|no
+undívago	adjetivo	un|[dí]|va|go
+undo	nome masculino	[un]|do
+undoso	adjetivo	un|[do]|so
+undular	verbo	un|du|[lar]
+undulosamente	advérbio	un|du|lo|sa|[men]|te
+unduloso	adjetivo	un|du|[lo]|so
+unelo	adjetivo	u|[ne]|lo
+unelo	nome masculino	u|[ne]|lo
+ungida	nome feminino	un|[gi]|da
+ungido	adjetivo	un|[gi]|do
+ungido	nome masculino	un|[gi]|do
+ungidouro	nome masculino	un|gi|[dou]|ro
+ungir	verbo	un|[gir]
+ungual	adjetivo	un|[gual]
+unguari	nome masculino	un|gua|[ri]
+ungue	nome masculino	[un]|gue
+ungueal	adjetivo	un|gue|[al]
+unguebe	nome masculino	un|[gue]|be
+unguentáceo	adjetivo	un|guen|[tá]|ce|o
+unguentar	verbo	un|guen|[tar]
+unguentária	nome feminino	un|guen|[tá]|ri|a
+unguentário	adjetivo	un|guen|[tá]|ri|o
+unguentário	nome masculino	un|guen|[tá]|ri|o
+unguento	nome masculino	un|[guen]|to
+ungui	nome masculino	un|[gui]
+unguiculado	adjetivo	un|gui|cu|[la]|do
+unguiculado	nome masculino	un|gui|cu|[la]|do
+unguífero	adjetivo	un|[guí]|fe|ro
+unguiforme	adjetivo	un|gui|[for]|me
+unguinoso	adjetivo	un|gui|[no]|so
+únguis	nome masculino	[ún]|guis
+ungulado	adjetivo	un|gu|[la]|do
+ungulado	nome masculino	un|gu|[la]|do
+ungulígrado	nome masculino	un|gu|[lí]|gra|do
+ungulígrado	adjetivo	un|gu|[lí]|gra|do
+unha	nome feminino	[u]|nha
+unha de fome	nome masculino	[u]|nha de fo|me
+unha-de-asno	nome feminino	u|nha-de-as|no
+unha-de-boi	nome feminino	u|nha-de-boi
+umari	nome masculino	u|ma|[ri]
+umariana	nome feminino	u|ma|ri|[a]|na
+umauá	adjetivo	u|mau|[á]
+umauá	nome masculino	u|mau|[á]
+umauá	nome feminino	u|mau|[á]
+umbala	nome feminino	um|[ba]|la
+umbamba	nome feminino	um|[bam]|ba
+umbanda	nome feminino	um|[ban]|da
+umbanda	nome masculino	um|[ban]|da
+umbaru	nome masculino	um|ba|[ru]
+umbaúba	nome feminino	um|ba|[ú]|ba
+umbela	nome feminino	um|[be]|la
+umbelado	adjetivo	um|be|[la]|do
+umbelífera	nome feminino	um|be|[lí]|fe|ra
+umbelífera	nome feminino	um|be|[lí]|fe|ra
+umbelífero	adjetivo	um|be|[lí]|fe|ro
+umbeliforme	adjetivo	um|be|li|[for]|me
+umbélula	nome feminino	um|[bé]|lu|la
+umbelulária	nome feminino	um|be|lu|[lá]|ri|a
+umbigada	nome feminino	um|bi|[ga]|da
+umbigar	verbo	um|bi|[gar]
+umbigo	nome masculino	um|[bi]|go
+umbigo de freira	nome masculino	um|[bi]|go de frei|ra
+umbigo-de-vénus	nome masculino	um|bi|go-de-vé|nus
+umbigo-de-vênus	nome masculino	um|bi|go-de-vê|nus
+umbigueira	nome feminino	um|bi|[guei]|ra
+umbilicado	adjetivo	um|bi|li|[ca]|do
+umbilical	adjetivo	um|bi|li|[cal]
+umbilicária	nome feminino	um|bi|li|[cá]|ri|a
+umbilico	nome masculino	um|bi|[li]|co
+umbilicococcígeo	adjetivo	um|bi|li|co|coc|[cí]|ge|o
+umbla	nome feminino	[um]|bla
+umblina	nome feminino	um|[bli]|na
+umblo	nome masculino	[um]|blo
+umbo	nome masculino	[um]|bo
+umbola	nome feminino	um|[bo]|la
+umbra	nome feminino	[um]|bra
+umbra	nome masculino	[um]|bra
+umbraculífera	nome feminino	um|bra|cu|[lí]|fe|ra
+umbraculífero	adjetivo	um|bra|cu|[lí]|fe|ro
+umbraculiforme	adjetivo	um|bra|cu|li|[for]|me
+umbráculo	nome masculino	um|[brá]|cu|lo
+umbral	nome masculino	um|[bral]
+umbrânico	adjetivo	um|[brâ]|ni|co
+umbrânico	nome masculino	um|[brâ]|ni|co
+umbrático	adjetivo	um|[brá]|ti|co
+umbratícola	adjetivo	um|bra|[tí]|co|la
+umbrátil	adjetivo	um|[brá]|til
+umbreira	nome feminino	um|[brei]|ra
+umbrela	nome feminino	um|[bre]|la
+umbreta	nome feminino	um|[bre]|ta
+umbria	nome feminino	um|[bri]|a
+úmbrica	nome feminino	[úm]|bri|ca
+úmbrico	adjetivo	[úm]|bri|co
+úmbrico	nome masculino	[úm]|bri|co
+umbrícola	adjetivo	um|[brí]|co|la
+umbrífero	adjetivo	um|[brí]|fe|ro
+umbrina	nome feminino	um|[bri]|na
+úmbrio	nome masculino	[úm]|bri|o
+umbripotente	adjetivo	um|bri|po|[ten]|te
+umbrívago	adjetivo	um|[brí]|va|go
+umbro	nome masculino	[um]|bro
+umbro	adjetivo	[um]|bro
+umbrófilo	adjetivo	um|[bró]|fi|lo
+umbrófobo	adjetivo	um|[bró]|fo|bo
+umbror	nome masculino	um|[bror]
+umbroso	adjetivo	um|[bro]|so
+umbu	nome masculino	um|[bu]
+umbula	nome feminino	um|[bu]|la
+umbundo	nome masculino	um|[bun]|do
+umbundo	adjetivo	um|[bun]|do
+umbuzada	nome feminino	um|bu|[za]|da
+umbuzal	nome masculino	um|bu|[zal]
+umbuzeiro	nome masculino	um|bu|[zei]|ro
+ume	nome masculino	[u]|me
+umectação	nome feminino	u|mec|ta|[ção]
+umectante	adjetivo	u|mec|[tan]|te
+umectar	verbo	u|mec|[tar]
+umedecedor	adjetivo	u|me|de|ce|[dor]
+umedecer	verbo	u|me|de|[cer]
+umedecido	adjetivo	u|me|de|[ci]|do
+umedecimento	nome masculino	u|me|de|ci|[men]|to
+umeral	adjetivo	u|me|[ral]
+umeral	nome masculino	u|me|[ral]
+umerário	adjetivo	u|me|[rá]|ri|o
+úmero	nome masculino	[ú]|me|ro
+umerocubital	adjetivo	u|me|ro|cu|bi|[tal]
+umerorradial	adjetivo	u|me|ror|ra|di|[al]
+umidade	nome feminino	u|mi|[da]|de
+umidificação	nome feminino	u|mi|di|fi|ca|[ção]
+umidificador	nome masculino	u|mi|di|fi|ca|[dor]
+umidificar	verbo	u|mi|di|fi|[car]
+umidífobo	adjetivo	u|mi|[dí]|fo|bo
+úmido	adjetivo	[ú]|mi|do
+umiri	nome masculino	u|mi|[ri]
+umirirana	nome feminino	u|mi|ri|[ra]|na
+umirizal	nome masculino	u|mi|ri|[zal]
+umlaut	nome masculino	um|laut
+umperevu	nome masculino	um|pe|re|[vu]
+unaiense	adjetivo	u|nai|[en]|se
+urupá	adjetivo	u|ru|[pá]
+urupá	nome masculino	u|ru|[pá]
+urupá	nome feminino	u|ru|[pá]
+urupê	nome masculino	u|ru|[pê]
+urupema	nome feminino	u|ru|[pe]|ma
+ururau	nome masculino	u|ru|[rau]
+ururi	nome masculino	u|ru|[ri]
+urutago	nome masculino	u|ru|[ta]|go
+urutau	nome masculino	u|ru|[tau]
+urutaurana	nome masculino	u|ru|tau|[ra]|na
+urutu	nome masculino	u|ru|[tu]
+urutueira	nome feminino	u|ru|tu|[ei]|ra
+urzal	nome masculino	ur|[zal]
+urze	nome feminino	[ur]|ze
+urze-das-camarinhas	nome feminino	ur|ze-das-ca|ma|[ri]|nhas
+urze-das-vassouras	nome feminino	ur|ze-das-vas|[sou]|ras
+urze-de-cheiro	nome feminino	ur|ze-de-chei|ro
+urzedo	nome masculino	ur|[ze]|do
+urzeira	nome feminino	ur|[zei]|ra
+urzeiro	nome masculino	ur|[zei]|ro
+urzela	nome feminino	ur|[ze]|la
+urzelina	nome feminino	ur|ze|[li]|na
+urzibelha	nome feminino	ur|zi|[be]|lha
+usabilidade	nome feminino	u|sa|bi|li|[da]|de
+usadíssimo	adjetivo	u|sa|[dís]|si|mo
+usado	adjetivo	u|[sa]|do
+usagem	nome feminino	u|[sa]|gem
+usagre	nome masculino	u|[sa]|gre
+usai-dela	nome feminino	u|sai-de|la
+usança	nome feminino	u|[san]|ça
+usante	adjetivo	u|[san]|te
+usar	verbo	u|[sar]
+usável	adjetivo	u|[sá]|vel
+usbeque	nome masculino	us|[be]|que
+usbeque	adjetivo	us|[be]|que
+usbeque	nome feminino	us|[be]|que
+usbequistanês	adjetivo	us|be|quis|ta|[nês]
+usbequistanês	nome masculino	us|be|quis|ta|[nês]
+usbequistanesa	nome feminino	us|be|quis|ta|[ne]|sa
+useiro	adjetivo	u|[sei]|ro
+usga	nome feminino	[us]|ga
+usibalco	adjetivo	u|si|[bal]|co
+usibalco	nome masculino	u|si|[bal]|co
+usidicano	adjetivo	u|si|di|[ca]|no
+usidicano	nome masculino	u|si|di|[ca]|no
+usina	nome feminino	u|[si]|na
+usinabilidade	nome feminino	u|si|na|bi|li|[da]|de
+usinagem	nome feminino	u|si|[na]|gem
+usinar	verbo	u|si|[nar]
+usinável	adjetivo	u|si|[ná]|vel
+usineira	nome feminino	u|si|[nei]|ra
+usineiro	adjetivo	u|si|[nei]|ro
+usineiro	nome masculino	u|si|[nei]|ro
+usípete	adjetivo	u|[sí]|pe|te
+usípete	nome masculino	u|[sí]|pe|te
+usípete	nome feminino	u|[sí]|pe|te
+usípio	adjetivo	u|[sí]|pi|o
+usípio	nome masculino	u|[sí]|pi|o
+usitado	adjetivo	u|si|[ta]|do
+usitar	verbo	u|si|[tar]
+usmar	verbo	us|[mar]
+usmeiro	adjetivo	us|[mei]|ro
+úsnea	nome feminino	[ús]|ne|a
+usneácea	nome feminino	us|ne|[á]|ce|a
+uso	nome masculino	[u]|so
+ussa	nome feminino	[us]|sa
+usso	nome masculino	[us]|so
+ússua	nome feminino	[ús]|su|a
+ustão	nome feminino	us|[tão]
+uste	nome masculino	[us]|te
+ustéria	nome feminino	us|[té]|ri|a
+ústia	nome feminino	[ús]|ti|a
+ustilagem	nome feminino	us|ti|[la]|gem
+ustilaginoso	adjetivo	us|ti|la|gi|[no]|so
+ustilago	nome masculino	us|ti|[la]|go
+ustir	verbo	us|[tir]
+usto	adjetivo	[us]|to
+ustório	adjetivo	us|[tó]|ri|o
+ustrina	nome feminino	us|[tri]|na
+ustulação	nome feminino	us|tu|la|[ção]
+ustular	verbo	us|tu|[lar]
+usual	adjetivo	u|su|[al]
+usual	nome masculino	u|su|[al]
+usualidade	nome feminino	u|su|a|li|[da]|de
+usualmente	advérbio	u|su|al|[men]|te
+usuária	nome feminino	u|su|[á]|ri|a
+usuário	nome masculino	u|su|[á]|ri|o
+usuário	adjetivo	u|su|[á]|ri|o
+usucapião	nome feminino	u|su|ca|pi|[ão]
+usucapiente	adjetivo	u|su|ca|pi|[en]|te
+usucapiente	nome masculino	u|su|ca|pi|[en]|te
+usucapiente	nome feminino	u|su|ca|pi|[en]|te
+usucapir	verbo	u|su|ca|[pir]
+usucapto	adjetivo	u|su|[cap]|to
+usufruição	nome feminino	u|su|fru|i|[ção]
+usufruidor	adjetivo	u|su|fru|i|[dor]
+usufruidor	nome masculino	u|su|fru|i|[dor]
+usufruidora	nome feminino	u|su|fru|i|[do]|ra
+usufruir	verbo	u|su|fru|[ir]
+usufruível	adjetivo	u|su|fru|[í]|vel

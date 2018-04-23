@@ -1,0 +1,4235 @@
+vice-diretoria	nome feminino	vi|ce-di|re|to|[ri]|a
+vice-dómino	nome masculino	vi|ce-dó|mi|no
+vice-gerência	nome feminino	vi|ce-ge|[rên]|ci|a
+vice-gerente	nome masculino	vi|ce-ge|[ren]|te
+vice-gerente	nome feminino	vi|ce-ge|[ren]|te
+vice-governador	nome masculino	vi|ce-go|ver|na|[dor]
+vice-governadora	nome feminino	vi|ce-go|ver|na|[do]|ra
+vice-governo	nome masculino	vi|ce-go|[ver]|no
+vice-intendência	nome feminino	vi|ce-in|ten|[dên]|ci|a
+vice-intendente	nome masculino	vi|ce-in|ten|[den]|te
+vice-legação	nome feminino	vi|ce-le|ga|[ção]
+vice-legada	nome feminino	vi|ce-le|[ga]|da
+vice-legado	nome masculino	vi|ce-le|[ga]|do
+vice-líder	nome masculino	vi|ce-lí|der
+vice-marechal	nome masculino	vi|ce-ma|re|[chal]
+vice-marechalato	nome masculino	vi|ce-ma|re|cha|[la]|to
+vice-ministerial	adjetivo	vi|ce-mi|nis|te|ri|[al]
+vice-ministro	nome masculino	vi|ce-mi|[nis]|tro
+vice-mordomia	nome feminino	vi|ce-mor|do|[mi]|a
+vice-mordomo	nome masculino	vi|ce-mor|[do]|mo
+vice-morte	nome feminino	vi|ce-mor|te
+vice-pai	nome masculino	vi|ce-pai
+vice-postulador	nome masculino	vi|ce-pos|tu|la|[dor]
+vice-prefeito	nome masculino	vi|ce-pre|[fei]|to
+vice-prefeitura	nome feminino	vi|ce-pre|fei|[tu]|ra
+vice-presidência	nome feminino	vi|ce-pre|si|[dên]|ci|a
+vice-presidencial	adjetivo	vi|ce-pre|si|den|ci|[al]
+vice-presidente	nome masculino	vi|ce-pre|si|[den]|te
+vice-presidente	nome feminino	vi|ce-pre|si|[den]|te
+vice-pretor	nome masculino	vi|ce-pre|[tor]
+vice-pretoria	nome feminino	vi|ce-pre|to|[ri]|a
+vice-primeiro-ministro	nome masculino	vi|ce-pri|mei|ro-mi|[nis]|tro
+vice-primeiro-ministro	nome feminino	vi|ce-pri|mei|ro-mi|[nis]|tro
+vice-procurador	nome masculino	vi|ce-pro|cu|ra|[dor]
+vice-procurador-geral	nome masculino	vi|ce-pro|cu|ra|dor-ge|[ral]
+vice-provedor	adjetivo	vi|ce-pro|ve|[dor]
+vice-província	nome feminino	vi|ce-pro|[vín]|ci|a
+vice-provincial	nome masculino	vi|ce-pro|vin|ci|[al]
+vice-provincialado	nome masculino	vi|ce-pro|vin|ci|a|[la]|do
+vice-provincialato	nome masculino	vi|ce-pro|vin|ci|a|[la]|to
+vice-questor	nome masculino	vi|ce-ques|[tor]
+vice-questura	nome feminino	vi|ce-ques|[tu]|ra
+vice-rainha	nome feminino	vi|ce-ra|[i]|nha
+vice-real	adjetivo	vi|ce-re|[al]
+vice-realeza	nome feminino	vi|ce-re|a|[le]|za
+vice-regência	nome feminino	vi|ce-re|[gên]|ci|a
+vice-rei	nome masculino	vi|ce-rei
+vice-reinado	nome masculino	vi|ce-rei|[na]|do
+vice-reinar	verbo	vi|ce-rei|[nar]
+vice-reino	nome masculino	vi|ce-rei|no
+vice-reitor	nome masculino	vi|ce-rei|[tor]
+vice-reitora	nome feminino	vi|ce-rei|[to]|ra
+vice-reitorado	nome masculino	vi|ce-rei|to|[ra]|do
+vice-reitoral	adjetivo	vi|ce-rei|to|[ral]
+vice-reitoria	nome feminino	vi|ce-rei|to|[ri]|a
+vice-secretária	nome feminino	vi|ce-se|cre|[tá]|ri|a
+vice-secretariado	nome masculino	vi|ce-se|cre|ta|ri|[a]|do
+vice-secretário	nome masculino	vi|ce-se|cre|[tá]|ri|o
+vice-secretário-geral	nome masculino	vi|ce-se|cre|tá|ri|o-ge|ral
+vice-senescal	nome masculino	vi|ce-se|nes|[cal]
+vice-senescalia	nome feminino	vi|ce-se|nes|ca|[li]|a
+vice-versa	advérbio	vi|ce-ver|sa
+vicedómino	nome masculino	vi|ce|[dó]|mi|no
+vicedômino	nome masculino	vi|ce|[dô]|mi|no
+vicejante	adjetivo	vi|ce|[jan]|te
+vicejar	verbo	vi|ce|[jar]
+vicejo	nome masculino	vi|[ce]|jo
+vicelense	adjetivo	vi|ce|[len]|se
+vicelense	nome masculino	vi|ce|[len]|se
+vicelense	nome feminino	vi|ce|[len]|se
+vicenal	adjetivo	vi|ce|[nal]
+vicenário	nome masculino	vi|ce|[ná]|ri|o
+vicenáro	adjetivo	vi|ce|[ná]|ro
+vicenciano	adjetivo	vi|cen|ci|[a]|no
+vicenciano	nome masculino	vi|cen|ci|[a]|no
+vicénio	nome masculino	vi|[cé]|ni|o
+vicênio	nome masculino	vi|[cê]|ni|o
+vicente	nome masculino	vi|[cen]|te
+vicentes	nome masculino	vi|[cen]|tes
+vicentina	nome feminino	vi|cen|[ti]|na
+vicentino	adjetivo	vi|cen|[ti]|no
+vicentino	nome masculino	vi|cen|[ti]|no
+vicentismo	nome masculino	vi|cen|[tis]|mo
+vicentista	adjetivo	vi|cen|[tis]|ta
+vicentista	nome masculino	vi|cen|[tis]|ta
+vicentista	nome feminino	vi|cen|[tis]|ta
+vicesimal	adjetivo	vi|ce|si|[mal]
+vicesimano	nome masculino	vi|ce|si|[ma]|no
+vicésimo	adjetivo	vi|[cé]|si|mo
+vicésimo	número ordinal	vi|[cé]|si|mo
+vicésimo	nome masculino	vi|[cé]|si|mo
+vicetino	adjetivo	vi|ce|[ti]|no
+vicetino	nome masculino	vi|ce|[ti]|no
+vícia	nome feminino	[ví]|ci|a
+viciação	nome feminino	vi|ci|a|[ção]
+viciada	nome feminino	vi|ci|[a]|da
+viciado	nome masculino	vi|ci|[a]|do
+viciado	adjetivo	vi|ci|[a]|do
+viciador	adjetivo	vi|ci|a|[dor]
+viciador	nome masculino	vi|ci|a|[dor]
+vaguense	nome feminino	va|[guen]|se
+vagueza	nome feminino	va|[gue]|za
+vaguidade	nome feminino	va|gui|[da]|de
+vaguíssimo	adjetivo	va|[guís]|si|mo
+vai-e-vem	nome masculino	[vai-e-vem]
+vai-não-vai	advérbio	[vai-não-vai]
+vai-não-vai	nome masculino	[vai-não-vai]
+vai-te-a-ele	nome masculino	vai-te-a-e|le
+vaia	nome feminino	[vai]|a
+vaiador	adjetivo	vai|a|[dor]
+vaiador	nome masculino	vai|a|[dor]
+vaiar	verbo	vai|[ar]
+vaidade	nome feminino	vai|[da]|de
+vaidosa	nome feminino	vai|[do]|sa
+vaidosamente	advérbio	vai|do|sa|[men]|te
+vaidoso	nome masculino	vai|[do]|so
+vaidoso	adjetivo	vai|[do]|so
+vaidosura	nome feminino	vai|do|[su]|ra
+vaila	nome feminino	[vai]|la
+vaillântia	nome feminino	va|il|[lân]|ti|a
+vaipe	nome feminino	[vai]|pe
+vaiqueno	nome masculino	vai|[que]|no
+vaira	nome feminino	[vai]|ra
+vairão	nome masculino	vai|[rão]
+vaitarreca	interjeição	vai|tar|[re]|ca
+vaivém	nome masculino	vai|[vém]
+vaivode	nome masculino	vai|[vo]|de
+vaivodia	nome feminino	vai|vo|[di]|a
+vaixá	nome masculino	vai|[xá]
+vaixá	nome feminino	vai|[xá]
+vaixiá	nome masculino	vai|xi|[á]
+vaja	nome feminino	[va]|ja
+vajé	nome masculino	va|[jé]
+vala	nome feminino	[va]|la
+valabuá	nome masculino	va|la|bu|[á]
+valada	nome feminino	va|[la]|da
+valadão	nome masculino	va|la|[dão]
+valadeiro	nome masculino	va|la|[dei]|ro
+valadio	adjetivo	va|la|[di]|o
+valado	adjetivo	va|[la]|do
+valado	nome masculino	va|[la]|do
+valador	adjetivo	va|la|[dor]
+valador	nome masculino	va|la|[dor]
+valadora	nome feminino	va|la|[do]|ra
+valadura	nome feminino	va|la|[du]|ra
+valagem	nome feminino	va|[la]|gem
+valanginiano	adjetivo	va|lan|gi|ni|[a]|no
+valão	nome masculino	va|[lão]
+valão	adjetivo	va|[lão]
+valaplé	nome feminino	va|la|[plé]
+valáquia	nome feminino	va|[lá]|qui|a
+valáquico	adjetivo	va|[lá]|qui|co
+valáquico	nome masculino	va|[lá]|qui|co
+valáquio	nome masculino	va|[lá]|qui|o
+valáquio	adjetivo	va|[lá]|qui|o
+valar	verbo	va|[lar]
+valar	adjetivo	va|[lar]
+valboeiro	adjetivo	val|bo|[ei]|ro
+valboeiro	nome masculino	val|bo|[ei]|ro
+valboense	adjetivo	val|bo|[en]|se
+valboense	nome masculino	val|bo|[en]|se
+valboense	nome feminino	val|bo|[en]|se
+valdeiro	adjetivo	val|[dei]|ro
+valdense	nome masculino	val|[den]|se
+valdense	adjetivo	val|[den]|se
+valdense	nome feminino	val|[den]|se
+valdevinos	nome masculino	val|de|[vi]|nos
+valdismo	nome masculino	val|[dis]|mo
+valdista	adjetivo	val|[dis]|ta
+valdista	nome masculino	val|[dis]|ta
+valdista	nome feminino	val|[dis]|ta
+valdo	nome masculino	[val]|do
+valdurão	nome masculino	val|du|[rão]
+vale	nome masculino	[va]|le
+vale-cambrense	nome masculino	va|le-cam|[bren]|se
+vale-cambrense	adjetivo	va|le-cam|[bren]|se
+vale-cambrense	nome feminino	va|le-cam|[bren]|se
+vale-ouro	nome masculino	va|le-ou|ro
+valécula	nome feminino	va|[lé]|cu|la
+valecular	adjetivo	va|le|cu|[lar]
+valedio	adjetivo	va|le|[di]|o
+valedoiro	adjetivo	va|le|[doi]|ro
+valedor	adjetivo	va|le|[dor]
+valedor	nome masculino	va|le|[dor]
+valedora	nome feminino	va|le|[do]|ra
+valedouro	adjetivo	va|le|[dou]|ro
+valeira	nome feminino	va|[lei]|ra
+valeiro	nome masculino	va|[lei]|ro
+valeiro	adjetivo	va|[lei]|ro
+valejo	nome masculino	va|[le]|jo
+valência	nome feminino	va|[lên]|ci|a
+valenciana	nome feminino	va|len|ci|[a]|na
+valencianite	nome feminino	va|len|ci|a|[ni]|te
+valenciano	adjetivo	va|len|ci|[a]|no
+valenciano	nome masculino	va|len|ci|[a]|no
+valencina	nome feminino	va|len|[ci]|na
+valense	adjetivo	va|[len]|se
+valense	nome masculino	va|[len]|se
+valense	nome feminino	va|[len]|se
+valentaça	nome feminino	va|len|[ta]|ça
+vergonha	nome feminino	ver|[go]|nha
+vergonhaça	nome feminino	ver|go|[nha]|ça
+vergonhaço	nome masculino	ver|go|[nha]|ço
+vergonheira	nome feminino	ver|go|[nhei]|ra
+vergonhosa	nome feminino	ver|go|[nho]|sa
+vergonhosamente	advérbio	ver|go|nho|sa|[men]|te
+vergonhoso	adjetivo	ver|go|[nho]|so
+vergôntea	nome feminino	ver|[gôn]|te|a
+vergonteado	adjetivo	ver|gon|te|[a]|do
+vergontear	verbo	ver|gon|te|[ar]
+vergueiro	nome masculino	ver|[guei]|ro
+vergueiro	adjetivo	ver|[guei]|ro
+vergueta	nome feminino	ver|[gue]|ta
+verguinha	nome feminino	ver|[gui]|nha
+verguio	adjetivo	ver|[gui]|o
+verguno	adjetivo	ver|[gu]|no
+verguno	nome masculino	ver|[gu]|no
+veridicamente	advérbio	ve|ri|di|ca|[men]|te
+veridicidade	nome feminino	ve|ri|di|ci|[da]|de
+verídico	adjetivo	ve|[rí]|di|co
+verificabilidade	nome feminino	ve|ri|fi|ca|bi|li|[da]|de
+verificação	nome feminino	ve|ri|fi|ca|[ção]
+verificado	adjetivo	ve|ri|fi|[ca]|do
+verificador	adjetivo	ve|ri|fi|ca|[dor]
+verificador	nome masculino	ve|ri|fi|ca|[dor]
+verificadora	nome feminino	ve|ri|fi|ca|[do]|ra
+verificar	verbo	ve|ri|fi|[car]
+verificativo	adjetivo	ve|ri|fi|ca|[ti]|vo
+verificável	adjetivo	ve|ri|fi|[cá]|vel
+verisímil	adjetivo	ve|ri|[sí]|mil
+verisimilhança	nome feminino	ve|ri|si|mi|[lhan]|ça
+verisimilidade	nome feminino	ve|ri|si|mi|li|[da]|de
+verisimilitude	nome feminino	ve|ri|si|mi|li|[tu]|de
+verisimilmente	advérbio	ve|ri|si|mil|[men]|te
+verismo	nome masculino	ve|[ris]|mo
+verissímil	adjetivo	ve|ris|[sí]|mil
+verissimilidade	nome feminino	ve|ris|si|mi|li|[da]|de
+verissimilitude	nome feminino	ve|ris|si|mi|li|[tu]|de
+verissimilmente	advérbio	ve|ris|si|mil|[men]|te
+verista	adjetivo	ve|[ris]|ta
+verista	nome masculino	ve|[ris]|ta
+verista	nome feminino	ve|[ris]|ta
+verjoeiro	nome masculino	ver|jo|[ei]|ro
+verlete	nome masculino	ver|[le]|te
+verme	nome masculino	[ver]|me
+vermejoilo	adjetivo	ver|me|[joi]|lo
+vermelha	nome feminino	ver|[me]|lha
+vermelhaço	adjetivo	ver|me|[lha]|ço
+vermelhão	nome masculino	ver|me|[lhão]
+vermelhar	verbo	ver|me|[lhar]
+vermelhear	verbo	ver|me|lhe|[ar]
+vermelhecer	verbo	ver|me|lhe|[cer]
+vermelhejar	verbo	ver|me|lhe|[jar]
+vermelhiço	adjetivo	ver|me|[lhi]|ço
+vermelhidão	nome feminino	ver|me|lhi|[dão]
+vermelhinha	nome feminino	ver|me|[lhi]|nha
+vermelhinho	nome masculino	ver|me|[lhi]|nho
+vermelhinho	adjetivo	ver|me|[lhi]|nho
+vermelhíssimo	adjetivo	ver|me|[lhís]|si|mo
+vermelho	adjetivo	ver|[me]|lho
+vermelho	nome masculino	ver|[me]|lho
+vermelho-amarelado	nome masculino	ver|me|lho-a|ma|re|[la]|do
+vermelho-amarelado	adjetivo	ver|me|lho-a|ma|re|[la]|do
+vermelho-claro	nome masculino	ver|me|lho-cla|ro
+vermelho-claro	adjetivo	ver|me|lho-cla|ro
+vermelho-escuro	adjetivo	ver|me|lho-es|[cu]|ro
+vermelho-escuro	nome masculino	ver|me|lho-es|[cu]|ro
+vermelho-púrpura	adjetivo	ver|me|lho-púr|pu|ra
+vermelho-púrpura	nome masculino	ver|me|lho-púr|pu|ra
+vermelhoso	adjetivo	ver|me|[lho]|so
+vermelhuço	adjetivo	ver|me|[lhu]|ço
+vermelhusco	adjetivo	ver|me|[lhus]|co
+vermelhusco	nome masculino	ver|me|[lhus]|co
+vermem	nome masculino	[ver]|mem
+vermicida	adjetivo	ver|mi|[ci]|da
+vermicida	nome masculino	ver|mi|[ci]|da
+vérmico	adjetivo	[vér]|mi|co
+vermiculação	nome feminino	ver|mi|cu|la|[ção]
+vermiculado	adjetivo	ver|mi|cu|[la]|do
+vermicular	adjetivo	ver|mi|cu|[lar]
+vermicular	verbo	ver|mi|cu|[lar]
+vermiculária	nome feminino	ver|mi|cu|[lá]|ri|a
+vermiculita	nome feminino	ver|mi|cu|[li]|ta
+vermiculite	nome feminino	ver|mi|cu|[li]|te
+vermículo	nome masculino	ver|[mí]|cu|lo
+vermiculoso	adjetivo	ver|mi|cu|[lo]|so
+vermiculura	nome feminino	ver|mi|cu|[lu]|ra
+vermídeo	adjetivo	ver|[mí]|de|o
+vermídeo	nome masculino	ver|[mí]|de|o
+vermiforme	adjetivo	ver|mi|[for]|me
+vermífugo	adjetivo	ver|[mí]|fu|go
+vermífugo	nome masculino	ver|[mí]|fu|go
+vermilingue	nome masculino	ver|mi|[lin]|gue
+vermilingue	adjetivo	ver|mi|[lin]|gue
+vermilíngue	adjetivo	ver|mi|[lín]|gue
+vérmina	nome feminino	[vér]|mi|na
+verminação	nome feminino	ver|mi|na|[ção]
+verminado	adjetivo	ver|mi|[na]|do
+verminal	adjetivo	ver|mi|[nal]
+verminar	verbo	ver|mi|[nar]
+variolização	nome feminino	va|ri|o|li|za|[ção]
+variolizar	verbo	va|ri|o|li|[zar]
+varioloide	nome feminino	va|ri|o|[loi]|de
+varioloide	adjetivo	va|ri|o|[loi]|de
+variolose	nome feminino	va|ri|o|[lo]|se
+varioloso	nome masculino	va|ri|o|[lo]|so
+varioloso	adjetivo	va|ri|o|[lo]|so
+variolovacina	nome feminino	va|ri|o|lo|va|[ci]|na
+variolovacinação	nome feminino	va|ri|o|lo|va|ci|na|[ção]
+variómetro	nome masculino	va|ri|[ó]|me|tro
+variômetro	nome masculino	va|ri|[ô]|me|tro
+vários	pronome indefinido	[vá]|ri|os
+variz	nome feminino	va|[riz]
+varja	nome feminino	[var]|ja
+varjão	nome masculino	var|[jão]
+varjota	nome feminino	var|[jo]|ta
+varlete	nome masculino	var|[le]|te
+varli	adjetivo	var|[li]
+varli	nome masculino	var|[li]
+varli	nome feminino	var|[li]
+varloa	nome feminino	var|[lo]|a
+varloas	nome feminino	var|[lo]|as
+varo	adjetivo	[va]|ro
+varola	nome masculino	va|[ro]|la
+varola	nome feminino	va|[ro]|la
+varonia	nome feminino	va|ro|[ni]|a
+varonil	adjetivo	va|ro|[nil]
+varonilidade	nome feminino	va|ro|ni|li|[da]|de
+varonilmente	advérbio	va|ro|nil|[men]|te
+varrão	nome masculino	var|[rão]
+varrasco	nome masculino	var|[ras]|co
+varrasco-do-mar	nome masculino	var|ras|co-do-mar
+varrasquete	nome masculino	var|ras|[que]|te
+varreção	nome feminino	var|re|[ção]
+varredeira	nome feminino	var|re|[dei]|ra
+varredela	nome feminino	var|re|[de]|la
+varredoira	nome feminino	var|re|[doi]|ra
+varredoira	adjetivo	var|re|[doi]|ra
+varredoiro	nome masculino	var|re|[doi]|ro
+varredor	adjetivo	var|re|[dor]
+varredor	nome masculino	var|re|[dor]
+varredora	nome feminino	var|re|[do]|ra
+varredoura	nome feminino	var|re|[dou]|ra
+varredoura	adjetivo	var|re|[dou]|ra
+varredouro	nome masculino	var|re|[dou]|ro
+varredura	nome feminino	var|re|[du]|ra
+varrenhar	verbo	var|re|[nhar]
+varrer	verbo	var|[rer]
+varrição	nome feminino	var|ri|[ção]
+varrida	nome feminino	var|[ri]|da
+varrido	nome masculino	var|[ri]|do
+varrido	adjetivo	var|[ri]|do
+varrimenta	nome feminino	var|ri|[men]|ta
+varriscador	nome masculino	var|ris|ca|[dor]
+varriscadouro	nome masculino	var|ris|ca|[dou]|ro
+varriscar	verbo	var|ris|[car]
+varroeira	nome feminino	var|ro|[ei]|ra
+varroniano	adjetivo	var|ro|ni|[a]|no
+varsoviana	nome feminino	var|so|vi|[a]|na
+varsoviano	adjetivo	var|so|vi|[a]|no
+varsoviano	nome masculino	var|so|vi|[a]|no
+varudo	adjetivo	va|[ru]|do
+varunca	nome masculino	va|[run]|ca
+varvarino	adjetivo	var|va|[ri]|no
+varvarino	nome masculino	var|va|[ri]|no
+varvaro	adjetivo	var|[va]|ro
+varvaro	nome masculino	var|[va]|ro
+varve	nome feminino	[var]|ve
+varvito	nome masculino	var|[vi]|to
+várzea	nome feminino	[vár]|ze|a
+varzedo	nome masculino	var|[ze]|do
+varzeiro	nome masculino	var|[zei]|ro
+varzim	nome masculino	var|[zim]
+varzim	adjetivo	var|[zim]
+varzina	nome feminino	var|[zi]|na
+varzinista	nome masculino	var|zi|[nis]|ta
+varzinista	adjetivo	var|zi|[nis]|ta
+varzinista	nome feminino	var|zi|[nis]|ta
+varzino	adjetivo	var|[zi]|no
+varzino	nome masculino	var|[zi]|no
+vasa	nome feminino	[va]|sa
+vasalado	adjetivo	va|sa|[la]|do
+vasaréu	nome masculino	va|sa|[réu]
+vasário	nome masculino	va|[sá]|ri|o
+vasate	adjetivo	va|[sa]|te
+vasate	nome masculino	va|[sa]|te
+vasate	nome feminino	va|[sa]|te
+vasca	nome feminino	[vas]|ca
+vascão	adjetivo	vas|[cão]
+vascão	nome masculino	vas|[cão]
+vasco	nome masculino	[vas]|co
+vasco	adjetivo	[vas]|co
+vascolejador	adjetivo	vas|co|le|ja|[dor]
+vascolejador	nome masculino	vas|co|le|ja|[dor]
+vascolejamento	nome masculino	vas|co|le|ja|[men]|to
+vascolejar	verbo	vas|co|le|[jar]
+vasconcear	verbo	vas|con|ce|[ar]
+vasconcelense	adjetivo	vas|con|ce|[len]|se
+vasconcelense	nome masculino	vas|con|ce|[len]|se
+vasconcelense	nome feminino	vas|con|ce|[len]|se
+violinista	nome masculino	vi|o|li|[nis]|ta
+violinista	nome feminino	vi|o|li|[nis]|ta
+violinístico	adjetivo	vi|o|li|[nís]|ti|co
+violino	nome masculino	vi|o|[li]|no
+violino	adjetivo	vi|o|[li]|no
+violista	adjetivo	vi|o|[lis]|ta
+violista	nome masculino	vi|o|[lis]|ta
+violista	nome feminino	vi|o|[lis]|ta
+violístico	adjetivo	vi|o|[lís]|ti|co
+violo	nome masculino	vi|[o]|lo
+violoncelista	nome masculino	vi|o|lon|ce|[lis]|ta
+violoncelista	nome feminino	vi|o|lon|ce|[lis]|ta
+violoncelístico	adjetivo	vi|o|lon|ce|[lís]|ti|co
+violoncelo	nome masculino	vi|o|lon|[ce]|lo
+violoncelo	nome feminino	vi|o|lon|[ce]|lo
+violonista	nome masculino	vi|o|lo|[nis]|ta
+violonista	nome feminino	vi|o|lo|[nis]|ta
+violonístico	adjetivo	vi|o|lo|[nís]|ti|co
+viomal	nome masculino	vi|o|[mal]
+vioneira	nome feminino	vi|o|[nei]|ra
+vipe	nome masculino	[vi]|pe
+vipe	nome feminino	[vi]|pe
+vipéreo	adjetivo	vi|[pé]|re|o
+vipérida	nome masculino	vi|[pé]|ri|da
+viperídeo	nome masculino	vi|pe|[rí]|de|o
+viperídeo	adjetivo	vi|pe|[rí]|de|o
+viperídeo	nome masculino	vi|pe|[rí]|de|o
+viperina	nome feminino	vi|pe|[ri]|na
+viperinamente	advérbio	vi|pe|ri|na|[men]|te
+viperino	adjetivo	vi|pe|[ri]|no
+viquingue	adjetivo	vi|[quin]|gue
+viquingue	nome masculino	vi|[quin]|gue
+viquingue	nome feminino	vi|[quin]|gue
+vir	verbo	[vir]
+vira	nome feminino	[vi]|ra
+vira	nome masculino	[vi]|ra
+vira-acento	nome masculino	vi|ra-a|[cen]|to
+vira-bosta	nome masculino	vi|ra-bos|ta
+vira-bucho	nome masculino	vi|ra-bu|cho
+vira-casaca	nome masculino	vi|ra-ca|[sa]|ca
+vira-casaca	nome feminino	vi|ra-ca|[sa]|ca
+vira-casaca	adjetivo	vi|ra-ca|[sa]|ca
+vira-casacas	adjetivo	vi|ra-ca|[sa]|cas
+vira-casacas	nome masculino	vi|ra-ca|[sa]|cas
+vira-casacas	nome feminino	vi|ra-ca|[sa]|cas
+vira-cu	nome masculino	vi|ra-cu
+vira-face	nome feminino	vi|ra-fa|ce
+vira-folhas	nome masculino	vi|ra-fo|lhas
+vira-lata	nome masculino	vi|ra-la|ta
+vira-lata	nome feminino	vi|ra-la|ta
+vira-lata	adjetivo	vi|ra-la|ta
+vira-mexe	nome masculino	vi|ra-me|xe
+vira-mexe	nome feminino	vi|ra-me|xe
+vira-mundo	nome masculino	vi|ra-mun|do
+vira-pedras	nome masculino	vi|ra-pe|dras
+vira-vento	nome masculino	vi|ra-ven|to
+viração	nome feminino	vi|ra|[ção]
+virada	nome feminino	vi|[ra]|da
+viradeira	nome feminino	vi|ra|[dei]|ra
+viradela	nome feminino	vi|ra|[de]|la
+viradinho	nome masculino	vi|ra|[di]|nho
+virado	nome masculino	vi|[ra]|do
+virado	adjetivo	vi|[ra]|do
+virador	nome masculino	vi|ra|[dor]
+virador	adjetivo	vi|ra|[dor]
+viragem	nome feminino	vi|[ra]|gem
+virago	nome feminino	vi|[ra]|go
+virago	nome masculino	vi|[ra]|go
+viral	adjetivo	vi|[ral]
+virama	nome masculino	vi|[ra]|ma
+viramento	nome masculino	vi|ra|[men]|to
+virante	adjetivo	vi|[ran]|te
+virão	nome masculino	vi|[rão]
+virar	verbo	vi|[rar]
+virável	adjetivo	vi|[rá]|vel
+viravolta	nome feminino	vi|ra|[vol]|ta
+viravoltar	verbo	vi|ra|vol|[tar]
+viravoltear	verbo	vi|ra|vol|te|[ar]
+virente	adjetivo	vi|[ren]|te
+virescência	nome feminino	vi|res|[cên]|ci|a
+virescente	adjetivo	vi|res|[cen]|te
+virga	nome feminino	[vir]|ga
+virga-áurea	nome feminino	vir|ga-áu|re|a
+virga-férrea	nome feminino	vir|ga-fér|re|a
+virgação	nome feminino	vir|ga|[ção]
+virgem	adjetivo	[vir]|gem
+virgem	nome masculino	[vir]|gem
+virgem	nome feminino	[vir]|gem
+virgília	nome feminino	vir|[gí]|li|a
+virgilianismo	nome masculino	vir|gi|li|a|[nis]|mo
+virgilianista	adjetivo	vir|gi|li|a|[nis]|ta
+virgilianista	nome masculino	vir|gi|li|a|[nis]|ta
+virgilianista	nome feminino	vir|gi|li|a|[nis]|ta
+virgiliano	adjetivo	vir|gi|li|[a]|no
+virgiliomastige	nome masculino	vir|gi|li|o|mas|[ti]|ge
+virgilismo	nome masculino	vir|gi|[lis]|mo
+virgilista	adjetivo	vir|gi|[lis]|ta
+virgilista	nome masculino	vir|gi|[lis]|ta
+virgilista	nome feminino	vir|gi|[lis]|ta
+virginal	adjetivo	vir|gi|[nal]
+vilipendiadora	nome feminino	vi|li|pen|di|a|[do]|ra
+vilipendiar	verbo	vi|li|pen|di|[ar]
+vilipêndio	nome masculino	vi|li|[pên]|di|o
+vilipendiosamante	advérbio	vi|li|pen|di|o|sa|[man]|te
+vilipendiosamente	advérbio	vi|li|pen|di|o|sa|[men]|te
+vilipendioso	adjetivo	vi|li|pen|di|[o]|so
+vilmente	advérbio	vil|[men]|te
+viló	nome masculino	vi|[ló]
+viloamente	advérbio	vi|lo|a|[men]|te
+vilória	nome feminino	vi|[ló]|ri|a
+vilório	nome masculino	vi|[ló]|ri|o
+vilosidade	nome feminino	vi|lo|si|[da]|de
+viloso	adjetivo	vi|[lo]|so
+vilota	nome feminino	vi|[lo]|ta
+vilta	nome feminino	[vil]|ta
+viltança	nome feminino	vil|[tan]|ça
+viltar	verbo	vil|[tar]
+viltoso	adjetivo	vil|[to]|so
+vílula	nome feminino	[ví]|lu|la
+vim-vim	nome masculino	[vim-vim]
+vima	nome feminino	[vi]|ma
+vimar	verbo	vi|[mar]
+vimaranense	adjetivo	vi|ma|ra|[nen]|se
+vimaranense	nome masculino	vi|ma|ra|[nen]|se
+vimaranense	nome feminino	vi|ma|ra|[nen]|se
+vimba	nome feminino	[vim]|ba
+vime	nome masculino	[vi]|me
+vímea	nome feminino	[ví]|me|a
+vimeiro	nome masculino	vi|[mei]|ro
+vimeiro-amarelo	nome masculino	vi|mei|ro-a|ma|[re]|lo
+vimeiro-branco	nome masculino	vi|mei|ro-bran|co
+vimeiro-francês	nome masculino	vi|mei|ro-fran|[cês]
+vimial	nome masculino	vi|mi|[al]
+vimieiro	nome masculino	vi|mi|[ei]|ro
+viminária	nome feminino	vi|mi|[ná]|ri|a
+vimíneo	adjetivo	vi|[mí]|ne|o
+viminoso	adjetivo	vi|mi|[no]|so
+vimiosense	nome masculino	vi|mi|o|[sen]|se
+vimiosense	adjetivo	vi|mi|o|[sen]|se
+vimiosense	nome feminino	vi|mi|o|[sen]|se
+vimitelária	nome feminino	vi|mi|te|[lá]|ri|a
+vimitelário	adjetivo	vi|mi|te|[lá]|ri|o
+vimitelário	nome masculino	vi|mi|te|[lá]|ri|o
+vimitelaro	adjetivo	vi|mi|te|[la]|ro
+vimitelaro	nome masculino	vi|mi|te|[la]|ro
+vimoso	adjetivo	vi|[mo]|so
+vina	nome feminino	[vi]|na
+vináceo	adjetivo	vi|[ná]|ce|o
+vinagem	nome feminino	vi|[na]|gem
+vinagrada	nome feminino	vi|na|[gra]|da
+vinagrar	verbo	vi|na|[grar]
+vinagre	nome masculino	vi|[na]|gre
+vinagre	adjetivo	vi|[na]|gre
+vinagreira	nome feminino	vi|na|[grei]|ra
+vinagreiro	nome masculino	vi|na|[grei]|ro
+vinagrento	adjetivo	vi|na|[gren]|to
+vinagreta	nome feminino	vi|na|[gre]|ta
+vinagrete	nome masculino	vi|na|[gre]|te
+vinagrinho	nome masculino	vi|na|[gri]|nho
+vinagrista	adjetivo	vi|na|[gris]|ta
+vinagrista	nome masculino	vi|na|[gris]|ta
+vinagrista	nome feminino	vi|na|[gris]|ta
+vinaigrette	nome feminino	vi|nai|gret|te
+vinário	adjetivo	vi|[ná]|ri|o
+vinca	nome feminino	[vin]|ca
+vinca-pervinca	nome feminino	vin|ca-per|[vin]|ca
+vincada	nome feminino	vin|[ca]|da
+vincadamente	advérbio	vin|ca|da|[men]|te
+vincado	adjetivo	vin|[ca]|do
+vincagem	nome feminino	vin|[ca]|gem
+vincar	verbo	vin|[car]
+vincelho	nome masculino	vin|[ce]|lho
+vincendo	adjetivo	vin|[cen]|do
+vincetóxico	nome masculino	vin|ce|[tó]|xi|co
+vincilho	nome masculino	vin|[ci]|lho
+vincípede	adjetivo	vin|[cí]|pe|de
+vincituro	adjetivo	vin|ci|[tu]|ro
+vinco	nome masculino	[vin]|co
+vinculação	nome feminino	vin|cu|la|[ção]
+vinculadamente	advérbio	vin|cu|la|da|[men]|te
+vinculado	adjetivo	vin|cu|[la]|do
+vinculador	adjetivo	vin|cu|la|[dor]
+vinculador	nome masculino	vin|cu|la|[dor]
+vinculadora	nome feminino	vin|cu|la|[do]|ra
+vincular	verbo	vin|cu|[lar]
+vincular	adjetivo	vin|cu|[lar]
+vinculativo	adjetivo	vin|cu|la|[ti]|vo
+vinculatório	adjetivo	vin|cu|la|[tó]|ri|o
+vinculável	adjetivo	vin|cu|[lá]|vel
+vínculo	nome masculino	[vín]|cu|lo
+vinda	nome feminino	[vin]|da
+vindecaá	nome masculino	vin|de|ca|[á]
+vindélico	adjetivo	vin|[dé]|li|co
+vindélico	nome masculino	vin|[dé]|li|co
+vindicação	nome feminino	vin|di|ca|[ção]
+vindicador	adjetivo	vin|di|ca|[dor]
+vindicador	nome masculino	vin|di|ca|[dor]
+vindicadora	nome feminino	vin|di|ca|[do]|ra
+vindicar	verbo	vin|di|[car]
+vindicativamente	advérbio	vin|di|ca|ti|va|[men]|te
+visagra	nome feminino	vi|[sa]|gra
+visante	adjetivo	vi|[san]|te
+visão	nome feminino	vi|[são]
+visão	nome masculino	vi|[são]
+visar	verbo	vi|[sar]
+visavô	nome masculino	vi|sa|[vô]
+visavó	nome feminino	vi|sa|[vó]
+viscácea	nome feminino	vis|[cá]|ce|a
+víscera	nome feminino	[vís]|ce|ra
+visceral	adjetivo	vis|ce|[ral]
+visceralgia	nome feminino	vis|ce|ral|[gi]|a
+viscerálgico	adjetivo	vis|ce|[rál]|gi|co
+visceralidade	nome feminino	vis|ce|ra|li|[da]|de
+visceralismo	nome masculino	vis|ce|ra|[lis]|mo
+visceralmente	advérbio	vis|ce|ral|[men]|te
+viscéreo	adjetivo	vis|[cé]|re|o
+visceropatia	nome feminino	vis|ce|ro|pa|[ti]|a
+visceropático	adjetivo	vis|ce|ro|[pá]|ti|co
+visceroptose	nome feminino	vis|ce|rop|[to]|se
+visceroso	adjetivo	vis|ce|[ro]|so
+viscidez	nome feminino	vis|ci|[dez]
+víscido	adjetivo	[vís]|ci|do
+viscina	nome feminino	vis|[ci]|na
+viscívoro	adjetivo	vis|[cí]|vo|ro
+visco	nome masculino	[vis]|co
+viscoelasticidade	nome feminino	vis|co|e|las|ti|ci|[da]|de
+viscoelástico	adjetivo	vis|co|e|[lás]|ti|co
+viscondado	nome masculino	vis|con|[da]|do
+visconde	nome masculino	vis|[con]|de
+viscondessa	nome feminino	vis|con|[des]|sa
+viscondesso	nome masculino	vis|con|[des]|so
+viscondização	nome feminino	vis|con|di|za|[ção]
+viscondizar	verbo	vis|con|di|[zar]
+viscose	nome feminino	vis|[co]|se
+viscosidade	nome feminino	vis|co|si|[da]|de
+viscosimetria	nome feminino	vis|co|si|me|[tri]|a
+viscosimétrico	adjetivo	vis|co|si|[mé]|tri|co
+viscosímetro	nome masculino	vis|co|[sí]|me|tro
+viscoso	adjetivo	vis|[co]|so
+viseano	adjetivo	vi|se|[a]|no
+viseense	adjetivo	vi|se|[en]|se
+viseense	nome masculino	vi|se|[en]|se
+viseense	nome feminino	vi|se|[en]|se
+viseira	nome feminino	vi|[sei]|ra
+visgar	verbo	vis|[gar]
+visgo	nome masculino	[vis]|go
+visgoso	adjetivo	vis|[go]|so
+visgueiro	nome masculino	vis|[guei]|ro
+visguento	adjetivo	vis|[guen]|to
+visíbil	adjetivo	vi|[sí]|bil
+visibilidade	nome feminino	vi|si|bi|li|[da]|de
+visibilizar	verbo	vi|si|bi|li|[zar]
+visigoda	nome feminino	vi|si|[go]|da
+visigodo	nome masculino	vi|si|[go]|do
+visigodo	adjetivo	vi|si|[go]|do
+visigótico	adjetivo	vi|si|[gó]|ti|co
+visigotismo	nome masculino	vi|si|go|[tis]|mo
+visiométrico	adjetivo	vi|si|o|[mé]|tri|co
+visiómetro	nome masculino	vi|si|[ó]|me|tro
+visiômetro	nome masculino	vi|si|[ô]|me|tro
+visionação	nome feminino	vi|si|o|na|[ção]
+visionamento	nome masculino	vi|si|o|na|[men]|to
+visionante	adjetivo	vi|si|o|[nan]|te
+visionar	verbo	vi|si|o|[nar]
+visionária	nome feminino	vi|si|o|[ná]|ri|a
+visionariamente	advérbio	vi|si|o|na|ri|a|[men]|te
+visionário	adjetivo	vi|si|o|[ná]|ri|o
+visionário	nome masculino	vi|si|o|[ná]|ri|o
+visionarismo	nome masculino	vi|si|o|na|[ris]|mo
+visionável	adjetivo	vi|si|o|[ná]|vel
+visionice	nome feminino	vi|si|o|[ni]|ce
+visionismo	nome masculino	vi|si|o|[nis]|mo
+visita	nome feminino	vi|[si]|ta
+visita-relâmpago	nome feminino	vi|si|ta-re|[lâm]|pa|go
+visita-surpresa	nome feminino	vi|si|ta-sur|[pre]|sa
+visitação	nome feminino	vi|si|ta|[ção]
+visitador	adjetivo	vi|si|ta|[dor]
+visitador	nome masculino	vi|si|ta|[dor]
+visitador-mor	nome masculino	vi|si|ta|dor-mor
+visitadora	nome feminino	vi|si|ta|[do]|ra
+visitandina	nome feminino	vi|si|tan|[di]|na
+visitante	adjetivo	vi|si|[tan]|te
+visitante	nome masculino	vi|si|[tan]|te
+visitante	nome feminino	vi|si|[tan]|te
+visitar	verbo	vi|si|[tar]
+visitável	adjetivo	vi|si|[tá]|vel
+visite	nome feminino	vi|[si]|te
+visiteiro	nome masculino	vi|si|[tei]|ro
+visiva	nome feminino	vi|[si]|va
+visível	adjetivo	vi|[sí]|vel
+visível	nome masculino	vi|[sí]|vel
+visivelmente	advérbio	vi|si|vel|[men]|te
+visivo	adjetivo	vi|[si]|vo
+vislumbrar	verbo	vis|lum|[brar]
+vislumbrável	adjetivo	vis|lum|[brá]|vel
+vislumbre	nome masculino	vis|[lum]|bre
+viso	nome masculino	[vi]|so
+visom	nome masculino	[vi]|som
+vison	nome masculino	vi|son
+visonha	nome feminino	vi|[so]|nha
+vescino	nome masculino	ves|[ci]|no
+vesco	adjetivo	[ves]|co
+vesga	nome feminino	[ves]|ga
+vesgamente	advérbio	ves|ga|[men]|te
+vesgo	adjetivo	[ves]|go
+vesgo	nome masculino	[ves]|go
+vesguear	verbo	ves|gue|[ar]
+vesgueira	nome feminino	ves|[guei]|ra
+vesgueiro	adjetivo	ves|[guei]|ro
+vesguice	nome feminino	ves|[gui]|ce
+vesicação	nome feminino	ve|si|ca|[ção]
+vesical	adjetivo	ve|si|[cal]
+vesicante	adjetivo	ve|si|[can]|te
+vesicante	nome masculino	ve|si|[can]|te
+vesicar	verbo	ve|si|[car]
+vesicária	nome feminino	ve|si|[cá]|ri|a
+vesicatório	nome masculino	ve|si|ca|[tó]|ri|o
+vesicatório	adjetivo	ve|si|ca|[tó]|ri|o
+vesicoprostático	adjetivo	ve|si|co|pros|[tá]|ti|co
+vesicorrectal	adjetivo	ve|si|cor|rec|[tal]
+vesicorretal	adjetivo	ve|si|cor|re|[tal]
+vesicotomia	nome feminino	ve|si|co|to|[mi]|a
+vesicouterino	adjetivo	ve|si|cou|te|[ri]|no
+vesicovaginal	adjetivo	ve|si|co|va|gi|[nal]
+vesícula	nome feminino	ve|[sí]|cu|la
+vesiculação	nome feminino	ve|si|cu|la|[ção]
+vesicular	adjetivo	ve|si|cu|[lar]
+vesicular	verbo	ve|si|cu|[lar]
+vesiculectomia	nome feminino	ve|si|cu|lec|to|[mi]|a
+vesiculífero	adjetivo	ve|si|cu|[lí]|fe|ro
+vesiculiforme	adjetivo	ve|si|cu|li|[for]|me
+vesiculite	nome feminino	ve|si|cu|[li]|te
+vesiculoso	adjetivo	ve|si|cu|[lo]|so
+vesiculotomia	nome feminino	ve|si|cu|lo|to|[mi]|a
+vesicuterino	adjetivo	ve|si|cu|te|[ri]|no
+vesinicate	adjetivo	ve|si|ni|[ca]|te
+vesinicate	nome masculino	ve|si|ni|[ca]|te
+vesinicate	nome feminino	ve|si|ni|[ca]|te
+vesonciense	adjetivo	ve|son|ci|[en]|se
+vesonciense	nome masculino	ve|son|ci|[en]|se
+vesonciense	nome feminino	ve|son|ci|[en]|se
+vespa	nome feminino	[ves]|pa
+vespão	nome masculino	ves|[pão]
+vespeiro	nome masculino	ves|[pei]|ro
+vésper	nome masculino	[vés]|per
+véspera	nome feminino	[vés]|pe|ra
+vesperal	nome masculino	ves|pe|[ral]
+vesperal	adjetivo	ves|pe|[ral]
+vespérias	nome feminino	ves|[pé]|ri|as
+véspero	nome masculino	[vés]|pe|ro
+vespertino	adjetivo	ves|per|[ti]|no
+vespertino	nome masculino	ves|per|[ti]|no
+vespícia	nome feminino	ves|[pí]|ci|a
+véspida	nome masculino	[vés]|pi|da
+vespídeo	adjetivo	ves|[pí]|de|o
+vespídeo	nome masculino	ves|[pí]|de|o
+vespídeo	nome masculino	ves|[pí]|de|o
+vespiforme	adjetivo	ves|pi|[for]|me
+vespilão	nome masculino	ves|pi|[lão]
+vespilheira	nome feminino	ves|pi|[lhei]|ra
+vessada	nome feminino	ves|[sa]|da
+vessadela	nome feminino	ves|sa|[de]|la
+vessadoiro	nome masculino	ves|sa|[doi]|ro
+vessadoiro	adjetivo	ves|sa|[doi]|ro
+vessadouro	nome masculino	ves|sa|[dou]|ro
+vessadouro	adjetivo	ves|sa|[dou]|ro
+vessar	verbo	ves|[sar]
+vessas	nome feminino	[ves]|sas
+vesso	nome masculino	[ves]|so
+vestal	nome feminino	ves|[tal]
+vestal	adjetivo	ves|[tal]
+vestalidade	nome feminino	ves|ta|li|[da]|de
+vestalino	adjetivo	ves|ta|[li]|no
+veste	nome feminino	[ves]|te
+vestefaliano	adjetivo	ves|te|fa|li|[a]|no
+vestefaliano	nome masculino	ves|te|fa|li|[a]|no
+véstia	nome feminino	[vés]|ti|a
+vestiaria	nome feminino	ves|ti|a|[ri]|a
+vestiária	nome feminino	ves|ti|[á]|ri|a
+vestiário	nome masculino	ves|ti|[á]|ri|o
+vestibular	adjetivo	ves|ti|bu|[lar]
+vestibular	nome masculino	ves|ti|bu|[lar]
+vestíbulo	nome masculino	ves|[tí]|bu|lo
+vestideira	nome feminino	ves|ti|[dei]|ra
+vestido	nome masculino	ves|[ti]|do
+vestido	adjetivo	ves|[ti]|do
+vestidura	nome feminino	ves|ti|[du]|ra
+vestigial	adjetivo	ves|ti|gi|[al]
+vestígio	nome masculino	ves|[tí]|gi|o
+vestimenta	nome feminino	ves|ti|[men]|ta
+vestimenteiro	nome masculino	ves|ti|men|[tei]|ro
+vestina	nome feminino	ves|[ti]|na
+vestino	nome masculino	ves|[ti]|no
+vestino	adjetivo	ves|[ti]|no
+vestir	verbo	ves|[tir]
+vestível	adjetivo	ves|[tí]|vel
+vestuário	nome masculino	ves|tu|[á]|ri|o
+vesugo	nome masculino	ve|[su]|go
+vesúnico	nome masculino	ve|[sú]|ni|co
+vesúnico	adjetivo	ve|[sú]|ni|co
+vulpino	adjetivo	vul|[pi]|no
+vulto	nome masculino	[vul]|to
+vultosamente	advérbio	vul|to|sa|[men]|te
+vultoso	adjetivo	vul|[to]|so
+vultuosamente	advérbio	vul|tu|o|sa|[men]|te
+vultuosidade	nome feminino	vul|tu|o|si|[da]|de
+vultuoso	adjetivo	vul|tu|[o]|so
+vultúrida	nome masculino	vul|[tú]|ri|da
+vulturídeo	nome masculino	vul|tu|[rí]|de|o
+vulturídeo	adjetivo	vul|tu|[rí]|de|o
+vulturinamente	advérbio	vul|tu|ri|na|[men]|te
+vulturino	adjetivo	vul|tu|[ri]|no
+vulturno	nome masculino	vul|[tur]|no
+vulva	nome feminino	[vul]|va
+vulvar	adjetivo	vul|[var]
+vulvária	nome feminino	vul|[vá]|ri|a
+vulvário	adjetivo	vul|[vá]|ri|o
+vulvite	nome feminino	vul|[vi]|te
+vulvovaginal	adjetivo	vul|vo|va|gi|[nal]
+vulvovaginite	nome feminino	vul|vo|va|gi|[ni]|te
+vulvuterino	adjetivo	vul|vu|te|[ri]|no
+vunar	verbo	vu|[nar]
+vunda	nome masculino	[vun]|da
+vunje	adjetivo	[vun]|je
+vunvum	nome masculino	vun|[vum]
+vunzar	verbo	vun|[zar]
+vurbana	nome masculino	vur|[ba]|na
+vurmar	verbo	vur|[mar]
+vurmeiro	nome masculino	vur|[mei]|ro
+vurmo	nome masculino	[vur]|mo
+vurmosidade	nome feminino	vur|mo|si|[da]|de
+vurmoso	adjetivo	vur|[mo]|so
+vurtemberguês	adjetivo	vur|tem|ber|[guês]
+vurtemberguês	nome masculino	vur|tem|ber|[guês]
+vuvu	nome masculino	vu|[vu]
+vindicativo	adjetivo	vin|di|ca|[ti]|vo
+víndice	nome masculino	[vín]|di|ce
+víndice	adjetivo	[vín]|di|ce
+víndice	nome feminino	[vín]|di|ce
+vindícia	nome feminino	vin|[dí]|ci|a
+vindiço	adjetivo	vin|[di]|ço
+vindicta	nome feminino	vin|[dic]|ta
+vindima	nome feminino	vin|[di]|ma
+vindimadeira	nome feminino	vin|di|ma|[dei]|ra
+vindimadeiro	adjetivo	vin|di|ma|[dei]|ro
+vindimadeiro	nome masculino	vin|di|ma|[dei]|ro
+vindimado	adjetivo	vin|di|[ma]|do
+vindimador	nome masculino	vin|di|ma|[dor]
+vindimador	adjetivo	vin|di|ma|[dor]
+vindimadora	nome feminino	vin|di|ma|[do]|ra
+vindimadura	nome feminino	vin|di|ma|[du]|ra
+vindimal	adjetivo	vin|di|[mal]
+vindimar	verbo	vin|di|[mar]
+vindimável	adjetivo	vin|di|[má]|vel
+vindimeira	nome feminino	vin|di|[mei]|ra
+vindimeiro	adjetivo	vin|di|[mei]|ro
+vindimeiro	nome masculino	vin|di|[mei]|ro
+vindimo	adjetivo	vin|[di]|mo
+vindimo	nome masculino	vin|[di]|mo
+vindinate	adjetivo	vin|di|[na]|te
+vindinate	nome masculino	vin|di|[na]|te
+vindinate	nome feminino	vin|di|[na]|te
+vindita	nome feminino	vin|[di]|ta
+vindo	adjetivo	[vin]|do
+vindobonense	adjetivo	vin|do|bo|[nen]|se
+vindobonense	nome masculino	vin|do|bo|[nen]|se
+vindobonense	nome feminino	vin|do|bo|[nen]|se
+vindoboniano	adjetivo	vin|do|bo|ni|[a]|no
+vindoira	nome feminino	vin|[doi]|ra
+vindoiro	adjetivo	vin|[doi]|ro
+vindoiro	nome masculino	vin|[doi]|ro
+vindoura	nome feminino	vin|[dou]|ra
+vindouro	nome masculino	vin|[dou]|ro
+vindouro	adjetivo	vin|[dou]|ro
+vínea	nome feminino	[ví]|ne|a
+víneo	adjetivo	[ví]|ne|o
+vinga	nome feminino	[vin]|ga
+vingação	nome feminino	vin|ga|[ção]
+vingador	adjetivo	vin|ga|[dor]
+vingador	nome masculino	vin|ga|[dor]
+vingadora	nome feminino	vin|ga|[do]|ra
+vingança	nome feminino	vin|[gan]|ça
+vingar	verbo	vin|[gar]
+vingativamente	advérbio	vin|ga|ti|va|[men]|te
+vingativo	adjetivo	vin|ga|[ti]|vo
+vingável	adjetivo	vin|[gá]|vel
+vingue	adjetivo	[vin]|gue
+vinha	nome feminino	[vi]|nha
+vinha-d'alhos	nome feminino	vi|nha-d´a|lhos
+vinha-virgem	nome feminino	vi|nha-vir|gem
+vinhaça	nome feminino	vi|[nha]|ça
+vinháceo	adjetivo	vi|[nhá]|ce|o
+vinhaço	nome masculino	vi|[nha]|ço
+vinhádego	nome masculino	vi|[nhá]|de|go
+vinhadeiro	nome masculino	vi|nha|[dei]|ro
+vinhado	nome masculino	vi|[nha]|do
+vinhaense	adjetivo	vi|nha|[en]|se
+vinhaense	nome masculino	vi|nha|[en]|se
+vinhaense	nome feminino	vi|nha|[en]|se
+vinhagem	nome feminino	vi|[nha]|gem
+vinhago	nome masculino	vi|[nha]|go
+vinhal	nome masculino	vi|[nhal]
+vinhalense	adjetivo	vi|nha|[len]|se
+vinhalense	nome masculino	vi|nha|[len]|se
+vinhalense	nome feminino	vi|nha|[len]|se
+vinhame	nome masculino	vi|[nha]|me
+vinhão	nome masculino	vi|[nhão]
+vinharrão	nome masculino	vi|nhar|[rão]
+vinhataria	nome feminino	vi|nha|ta|[ri]|a
+vinhateira	nome feminino	vi|nha|[tei]|ra
+vinhateiro	nome masculino	vi|nha|[tei]|ro
+vinhateiro	adjetivo	vi|nha|[tei]|ro
+vinhático	nome masculino	vi|[nhá]|ti|co
+vinhático-das-ilhas	nome masculino	vi|nhá|ti|co-das-i|lhas
+vinhedo	nome masculino	vi|[nhe]|do
+vinheiro	nome masculino	vi|[nhei]|ro
+vinhento	adjetivo	vi|[nhen]|to
+vinheta	nome feminino	vi|[nhe]|ta
+vinhetagem	nome feminino	vi|nhe|[ta]|gem
+vinhete	nome masculino	vi|[nhe]|te
+vinhetista	nome masculino	vi|nhe|[tis]|ta
+vinhetista	nome feminino	vi|nhe|[tis]|ta
+vinho	nome masculino	[vi]|nho
+vinho de caju	nome masculino	[vi]|nho de ca|ju
+vinho de cheiro	nome masculino	[vi]|nho de chei|ro
+vinho de maçã	nome masculino	[vi]|nho de ma|çã
+vinho de maçãs	nome masculino	[vi]|nho de ma|çãs
+vinho de palma	nome masculino	[vi]|nho de pal|ma
+vinho-judeu	nome masculino	vi|nho-ju|[deu]
+vinho-surdo	nome masculino	vi|nho-sur|do
+vinhoca	nome feminino	vi|[nho]|ca
+vinhoneira	nome feminino	vi|nho|[nei]|ra
+vinhoso	adjetivo	vi|[nho]|so
+vinhoso	nome masculino	vi|[nho]|so
+vinhote	nome masculino	vi|[nho]|te
+vínico	adjetivo	[ví]|ni|co
+vinícola	adjetivo	vi|[ní]|co|la
+vinicolorímetro	nome masculino	vi|ni|co|lo|[rí]|me|tro
+vinicultor	nome masculino	vi|ni|cul|[tor]
+vinicultora	nome feminino	vi|ni|cul|[to]|ra
+vinicultura	nome feminino	vi|ni|cul|[tu]|ra
+vinífera	nome feminino	vi|[ní]|fe|ra
+vinífero	adjetivo	vi|[ní]|fe|ro
+vinificação	nome feminino	vi|ni|fi|ca|[ção]
+vinificador	nome masculino	vi|ni|fi|ca|[dor]
+vinificar	verbo	vi|ni|fi|[car]
+vinil	nome masculino	vi|[nil]
+vinílico	adjetivo	vi|[ní]|li|co
+vinilo	nome masculino	vi|[ni]|lo
+vinolência	nome feminino	vi|no|[lên]|ci|a
+vinolento	adjetivo	vi|no|[len]|to
+vinosidade	nome feminino	vi|no|si|[da]|de
+vinoso	adjetivo	vi|[no]|so
+vintage	nome masculino	vin|ta|ge
+vintaneiro	adjetivo	vin|ta|[nei]|ro
+vintavo	nome masculino	vin|[ta]|vo
+vinte	número cardinal	[vin]|te
+vinte	nome masculino	[vin]|te
+vinte	adjetivo	[vin]|te
+vinte e quatro horas	nome feminino	[vin]|te e qua|tro ho|ras
+vinte-e-um	nome masculino	vin|te-e-um
+vintedozena	nome feminino	vin|te|do|[ze]|na
+vintedozeno	adjetivo	vin|te|do|[ze]|no
+vintém	nome masculino	vin|[tém]
+vintém de Santo Antônio	nome masculino	vin|tém de San|to An|tô|ni|o
+vintém de Santo António	nome masculino	vin|tém de San|to An|tó|ni|o
+vintena	nome feminino	vin|[te]|na
+vintenário	adjetivo	vin|te|[ná]|ri|o
+vintenário	nome masculino	vin|te|[ná]|ri|o
+vinteneira	nome feminino	vin|te|[nei]|ra
+vinteneiro	adjetivo	vin|te|[nei]|ro
+vinteneiro	nome masculino	vin|te|[nei]|ro
+vinténio	nome masculino	vin|[té]|ni|o
+vintênio	nome masculino	vin|[tê]|ni|o
+vinteno	adjetivo	vin|[te]|no
+vinteno	nome masculino	vin|[te]|no
+vintenzinho	nome masculino	vin|ten|[zi]|nho
+vinteocheno	adjetivo	vin|te|o|[che]|no
+vintequatreno	adjetivo	vin|te|qua|[tre]|no
+vintequatria	nome feminino	vin|te|qua|[tri]|a
+vintesseiseno	adjetivo	vin|tes|sei|[se]|no
+vintilho	nome masculino	vin|[ti]|lho
+vintismo	nome masculino	vin|[tis]|mo
+vintista	nome masculino	vin|[tis]|ta
+vintista	adjetivo	vin|[tis]|ta
+vintista	nome feminino	vin|[tis]|ta
+viochene	nome masculino	vi|o|[che]|ne
+viola	nome feminino	vi|[o]|la
+víola	nome feminino	[ví]|o|la
+viola	nome masculino	vi|[o]|la
+viola da terra	nome feminino	vi|[o]|la da ter|ra
+viola de amor	nome feminino	vi|[o]|la de a|mor
+viola de arame	nome feminino	vi|[o]|la de a|ra|me
+viola-d'arco	nome feminino	vi|o|la-d´ar|co
+viola-francesa	nome feminino	vi|o|la-fran|[ce]|sa
+violabilidade	nome feminino	vi|o|la|bi|li|[da]|de
+violação	nome feminino	vi|o|la|[ção]
+violácea	nome feminino	vi|o|[lá]|ce|a
+violáceo	adjetivo	vi|o|[lá]|ce|o
+violada	nome feminino	vi|o|[la]|da
+violado	adjetivo	vi|o|[la]|do
+violador	adjetivo	vi|o|la|[dor]
+violador	nome masculino	vi|o|la|[dor]
+violadora	nome feminino	vi|o|la|[do]|ra
+violal	nome masculino	vi|o|[lal]
+violana	nome feminino	vi|o|[la]|na
+violão	nome masculino	vi|o|[lão]
+violar	verbo	vi|o|[lar]
+violar	nome masculino	vi|o|[lar]
+violaria	nome feminino	vi|o|la|[ri]|a
+violatório	adjetivo	vi|o|la|[tó]|ri|o
+violável	adjetivo	vi|o|[lá]|vel
+viólea	nome feminino	vi|[ó]|le|a
+violeira	nome feminino	vi|o|[lei]|ra
+violeiro	nome masculino	vi|o|[lei]|ro
+violência	nome feminino	vi|o|[lên]|ci|a
+violentado	adjetivo	vi|o|len|[ta]|do
+violentador	adjetivo	vi|o|len|ta|[dor]
+violentador	nome masculino	vi|o|len|ta|[dor]
+violentadora	nome feminino	vi|o|len|ta|[do]|ra
+violentamente	advérbio	vi|o|len|ta|[men]|te
+violentar	verbo	vi|o|len|[tar]
+violentável	adjetivo	vi|o|len|[tá]|vel
+violentíssimo	adjetivo	vi|o|len|[tís]|si|mo
+violento	adjetivo	vi|o|[len]|to
+violeta	nome feminino	vi|o|[le]|ta
+violeta	nome masculino	vi|o|[le]|ta
+violeta	adjetivo	vi|o|[le]|ta
+violeta-do-pará	nome feminino	vi|o|le|ta-do-pa|[rá]
+violeteira	nome feminino	vi|o|le|[tei]|ra
+violetista	nome masculino	vi|o|le|[tis]|ta
+violetista	nome feminino	vi|o|le|[tis]|ta
+viólico	adjetivo	vi|[ó]|li|co
+violina	nome feminino	vi|o|[li]|na
+violinista	adjetivo	vi|o|li|[nis]|ta
+volvocácea	nome feminino	vol|vo|[cá]|ce|a
+volvoce	nome masculino	vol|[vo]|ce
+volvócida	nome masculino	vol|[vó]|ci|da
+volvocídeo	nome masculino	vol|vo|[cí]|de|o
+volvocídeo	adjetivo	vol|vo|[cí]|de|o
+vólvulo	nome masculino	[vól]|vu|lo
+vómer	nome masculino	[vó]|mer
+vômer	nome masculino	[vô]|mer
+vomeriano	adjetivo	vo|me|ri|[a]|no
+vómica	nome feminino	[vó]|mi|ca
+vômica	nome feminino	[vô]|mi|ca
+vomição	nome feminino	vo|mi|[ção]
+vomicina	nome feminino	vo|mi|[ci]|na
+vômico	adjetivo	[vô]|mi|co
+vómico	adjetivo	[vó]|mi|co
+vomífico	adjetivo	vo|[mí]|fi|co
+vomipurgativo	adjetivo	vo|mi|pur|ga|[ti]|vo
+vomitado	adjetivo	vo|mi|[ta]|do
+vomitado	nome masculino	vo|mi|[ta]|do
+vomitador	adjetivo	vo|mi|ta|[dor]
+vomitador	nome masculino	vo|mi|ta|[dor]
+vomitar	verbo	vo|mi|[tar]
+vomitaria	nome feminino	vo|mi|ta|[ri]|a
+vomitável	adjetivo	vo|mi|[tá]|vel
+vomitivo	adjetivo	vo|mi|[ti]|vo
+vomitivo	nome masculino	vo|mi|[ti]|vo
+vómito	nome masculino	[vó]|mi|to
+vômito	nome masculino	[vô]|mi|to
+vómito-negro	nome masculino	vó|mi|to-ne|gro
+vômito-negro	nome masculino	vô|mi|to-ne|gro
+vomitório	nome masculino	vo|mi|[tó]|ri|o
+vomitório	adjetivo	vo|mi|[tó]|ri|o
+vonda	interjeição	[von]|da
+vontade	nome feminino	von|[ta]|de
+vontadinha	nome feminino	von|ta|[di]|nha
+vonvoleiro	nome masculino	von|vo|[lei]|ro
+voo	nome masculino	[vo]|o
+voquísia	nome feminino	vo|[quí]|si|a
+voquisiácea	nome feminino	vo|qui|si|[á]|ce|a
+voquisiáceo	adjetivo	vo|qui|si|[á]|ce|o
+vorá	nome masculino	vo|[rá]
+vorace	adjetivo	vo|[ra]|ce
+voracidade	nome feminino	vo|ra|ci|[da]|de
+voracíssimo	adjetivo	vo|ra|[cís]|si|mo
+voragem	nome feminino	vo|[ra]|gem
+voragica	nome feminino	vo|ra|[gi]|ca
+voraginoso	adjetivo	vo|ra|gi|[no]|so
+voraz	adjetivo	vo|[raz]
+vorazmente	advérbio	vo|raz|[men]|te
+vordense	adjetivo	vor|[den]|se
+vordense	nome masculino	vor|[den]|se
+vordense	nome feminino	vor|[den]|se
+vórmio	nome masculino	[vór]|mi|o
+vortal	nome masculino	vor|[tal]
+vórtice	nome masculino	[vór]|ti|ce
+vorticela	nome feminino	vor|ti|[ce]|la
+vorticidade	nome feminino	vor|ti|ci|[da]|de
+vorticismo	nome masculino	vor|ti|[cis]|mo
+vorticista	adjetivo	vor|ti|[cis]|ta
+vorticoso	adjetivo	vor|ti|[co]|so
+vortilhão	nome masculino	vor|ti|[lhão]
+vortilhonar	verbo	vor|ti|lho|[nar]
+vos	pronome pessoal	vos
+vós	pronome pessoal	[vós]
+voseamento	nome masculino	vo|se|a|[men]|to
+vosear	verbo	vo|se|[ar]
+vosmecê	pronome pessoal	vos|me|[cê]
+vossemecê	pronome pessoal	vos|se|me|[cê]
+vossência	pronome pessoal	vos|[sên]|ci|a
+vosso	artigo possessivo	[vos]|so
+vosso	pronome possessivo	[vos]|so
+votação	nome feminino	vo|ta|[ção]
+votado	adjetivo	vo|[ta]|do
+votante	adjetivo	vo|[tan]|te
+votante	nome masculino	vo|[tan]|te
+votante	nome feminino	vo|[tan]|te
+votar	verbo	vo|[tar]
+votável	adjetivo	vo|[tá]|vel
+vote	interjeição	[vo]|te
+votiaco	nome masculino	vo|ti|[a]|co
+votífero	adjetivo	vo|[tí]|fe|ro
+votismo	nome masculino	vo|[tis]|mo
+votivamente	advérbio	vo|ti|va|[men]|te
+votivo	adjetivo	vo|[ti]|vo
+voto	nome masculino	[vo]|to
+voturo	adjetivo	vo|[tu]|ro
+voturo	nome masculino	vo|[tu]|ro
+voucher	nome masculino	vou|cher
+vouyeurístico	adjetivo	vou|yeu|rís|ti|co
+vouzelense	adjetivo	vou|ze|[len]|se
+vouzelense	nome masculino	vou|ze|[len]|se
+vouzelense	nome feminino	vou|ze|[len]|se
+vovente	adjetivo	vo|[ven]|te
+vovente	nome masculino	vo|[ven]|te
+vovente	nome feminino	vo|[ven]|te
+vovó	nome feminino	vo|[vó]
+vovô	nome masculino	vo|[vô]
+voyeur	nome masculino	voy|eur
+voyeur	nome feminino	voy|eur
+voyeurismo	nome masculino	voy|eu|ris|mo
+verberador	nome masculino	ver|be|ra|[dor]
+verberadora	nome feminino	ver|be|ra|[do]|ra
+verberante	adjetivo	ver|be|[ran]|te
+verberantemente	advérbio	ver|be|ran|te|[men]|te
+verberão	nome masculino	ver|be|[rão]
+verberar	verbo	ver|be|[rar]
+verberativo	adjetivo	ver|be|ra|[ti]|vo
+verberável	adjetivo	ver|be|[rá]|vel
+verbesina	nome feminino	ver|be|[si]|na
+verbetar	verbo	ver|be|[tar]
+verbete	nome masculino	ver|[be]|te
+verbeteiro	nome masculino	ver|be|[tei]|ro
+verbetista	nome masculino	ver|be|[tis]|ta
+verbetista	nome feminino	ver|be|[tis]|ta
+verbiagem	nome feminino	ver|bi|[a]|gem
+verbo	nome masculino	[ver]|bo
+verbo de encher	nome masculino	[ver]|bo de en|cher
+verbomania	nome feminino	ver|bo|ma|[ni]|a
+verbomaníaco	adjetivo	ver|bo|ma|[ní]|a|co
+verbomaníaco	nome masculino	ver|bo|ma|[ní]|a|co
+verbómano	adjetivo	ver|[bó]|ma|no
+verbómano	nome masculino	ver|[bó]|ma|no
+verbômano	adjetivo	ver|[bô]|ma|no
+verbômano	nome masculino	ver|[bô]|ma|no
+verborragia	nome feminino	ver|bor|ra|[gi]|a
+verborrágico	adjetivo	ver|bor|[rá]|gi|co
+verborreia	nome feminino	ver|bor|[rei]|a
+verborreico	adjetivo	ver|bor|[rei]|co
+verbosamente	advérbio	ver|bo|sa|[men]|te
+verbosidade	nome feminino	ver|bo|si|[da]|de
+verboso	adjetivo	ver|[bo]|so
+verça	nome feminino	[ver]|ça
+verça-de-cão	nome feminino	ver|ça-de-cão
+verçudo	adjetivo	ver|[çu]|do
+verdacho	adjetivo	ver|[da]|cho
+verdacho	nome masculino	ver|[da]|cho
+verdade	nome feminino	ver|[da]|de
+verdadeiramente	advérbio	ver|da|dei|ra|[men]|te
+verdadeiro	adjetivo	ver|da|[dei]|ro
+verdadeiro	nome masculino	ver|da|[dei]|ro
+verdasca	nome feminino	ver|[das]|ca
+verdasca	nome masculino	ver|[das]|ca
+verdascada	nome feminino	ver|das|[ca]|da
+verdascar	verbo	ver|das|[car]
+verdasco	nome masculino	ver|[das]|co
+verdasco	adjetivo	ver|[das]|co
+verdasto	adjetivo	ver|[das]|to
+verde	nome masculino	[ver]|de
+verde	adjetivo	[ver]|de
+verde-alface	adjetivo	ver|de-al|[fa]|ce
+verde-alface	nome masculino	ver|de-al|[fa]|ce
+verde-amarelado	nome masculino	ver|de-a|ma|re|[la]|do
+verde-amarelado	adjetivo	ver|de-a|ma|re|[la]|do
+verde-azeitona	adjetivo	ver|de-a|zei|[to]|na
+verde-azeitona	nome masculino	ver|de-a|zei|[to]|na
+verde-azulado	nome masculino	ver|de-a|zu|[la]|do
+verde-azulado	adjetivo	ver|de-a|zu|[la]|do
+verde-bexiga	nome masculino	ver|de-be|[xi]|ga
+verde-bronze	nome masculino	ver|de-bron|ze
+verde-bronze	adjetivo	ver|de-bron|ze
+verde-claro	nome masculino	ver|de-cla|ro
+verde-claro	adjetivo	ver|de-cla|ro
+verde-cré	nome masculino	ver|de-cré
+verde-ervilha	adjetivo	ver|de-er|[vi]|lha
+verde-ervilha	nome masculino	ver|de-er|[vi]|lha
+verde-escuro	adjetivo	ver|de-es|[cu]|ro
+verde-escuro	nome masculino	ver|de-es|[cu]|ro
+verde-esmeralda	adjetivo	ver|de-es|me|[ral]|da
+verde-esmeralda	nome masculino	ver|de-es|me|[ral]|da
+verde-gaio	nome masculino	ver|de-gai|o
+verde-gaio	adjetivo	ver|de-gai|o
+verde-garrafa	adjetivo	ver|de-gar|[ra]|fa
+verde-garrafa	nome masculino	ver|de-gar|[ra]|fa
+verde-limo	nome masculino	ver|de-li|mo
+verde-limo	adjetivo	ver|de-li|mo
+verde-maçã	nome masculino	ver|de-ma|[çã]
+verde-maçã	adjetivo	ver|de-ma|[çã]
+verde-malva	nome masculino	ver|de-mal|va
+verde-malva	adjetivo	ver|de-mal|va
+verde-mar	adjetivo	ver|de-mar
+verde-mar	nome masculino	ver|de-mar
+verde-mau	nome masculino	ver|de-mau
+verde-montanha	nome masculino	ver|de-mon|[ta]|nha
+verde-montanha	adjetivo	ver|de-mon|[ta]|nha
+verde-musgo	nome masculino	ver|de-mus|go
+verde-musgo	adjetivo	ver|de-mus|go
+verde-negro	adjetivo	ver|de-ne|gro
+verde-negro	nome masculino	ver|de-ne|gro
+verde-rubro	adjetivo	ver|de-ru|bro
+verde-salsa	adjetivo	ver|de-sal|sa
+verde-salsa	nome masculino	ver|de-sal|sa
+verde-verdete	nome masculino	ver|de-ver|[de]|te
+verde-verdete	adjetivo	ver|de-ver|[de]|te
+verdeal	nome masculino	ver|de|[al]
+verdeal	adjetivo	ver|de|[al]
+verdear	verbo	ver|de|[ar]
+verdecer	verbo	ver|de|[cer]
+verdegais	nome masculino	ver|de|[gais]
+verdegar	verbo	ver|de|[gar]
+verdegulho	nome masculino	ver|de|[gu]|lho
+viciadora	nome feminino	vi|ci|a|[do]|ra
+viciamento	nome masculino	vi|ci|a|[men]|to
+viciante	adjetivo	vi|ci|[an]|te
+viciar	verbo	vi|ci|[ar]
+viciável	adjetivo	vi|ci|[á]|vel
+vicilino	nome masculino	vi|ci|[li]|no
+vicinal	adjetivo	vi|ci|[nal]
+vicinalidade	nome feminino	vi|ci|na|li|[da]|de
+vício	nome masculino	[ví]|ci|o
+viciosa	nome feminino	vi|ci|[o]|sa
+viciosamente	advérbio	vi|ci|o|sa|[men]|te
+viciosidade	nome feminino	vi|ci|o|si|[da]|de
+vicioso	adjetivo	vi|ci|[o]|so
+vicioso	nome masculino	vi|ci|[o]|so
+vicissitude	nome feminino	vi|cis|si|[tu]|de
+vicissitudinário	adjetivo	vi|cis|si|tu|di|[ná]|ri|o
+viço	nome masculino	[vi]|ço
+vicomagíster	nome masculino	vi|co|ma|[gís]|ter
+viçor	nome masculino	vi|[çor]
+viçosamente	advérbio	vi|ço|sa|[men]|te
+viçoso	adjetivo	vi|[ço]|so
+victovalo	adjetivo	vic|to|[va]|lo
+victovalo	nome masculino	vic|to|[va]|lo
+victrice	adjetivo	vic|[tri]|ce
+victrice	nome feminino	vic|[tri]|ce
+victricense	adjetivo	vic|tri|[cen]|se
+victricense	nome masculino	vic|tri|[cen]|se
+victricense	nome feminino	vic|tri|[cen]|se
+vicunha	nome feminino	vi|[cu]|nha
+vida	nome feminino	[vi]|da
+vidama	nome masculino	vi|[da]|ma
+vidamia	nome feminino	vi|da|[mi]|a
+vidão	nome masculino	vi|[dão]
+vidar	verbo	vi|[dar]
+vidar	nome masculino	vi|[dar]
+vide	nome feminino	[vi]|de
+videar	verbo	vi|de|[ar]
+videasta	nome masculino	vi|de|[as]|ta
+videasta	nome feminino	vi|de|[as]|ta
+videira	nome feminino	vi|[dei]|ra
+videirinho	adjetivo	vi|dei|[ri]|nho
+videirinho	nome masculino	vi|dei|[ri]|nho
+videirismo	nome masculino	vi|dei|[ris]|mo
+videirista	adjetivo	vi|dei|[ris]|ta
+videirista	nome masculino	vi|dei|[ris]|ta
+videirista	nome feminino	vi|dei|[ris]|ta
+videiro	adjetivo	vi|[dei]|ro
+videiro	nome masculino	vi|[dei]|ro
+vidência	nome feminino	vi|[dên]|ci|a
+vidente	adjetivo	vi|[den]|te
+vidente	nome masculino	vi|[den]|te
+vidente	nome feminino	vi|[den]|te
+videntismo	nome masculino	vi|den|[tis]|mo
+vídeo	nome masculino	[ví]|de|o
+vídeo	adjetivo	[ví]|de|o
+videoamador	nome masculino	vi|de|o|a|ma|[dor]
+videoarte	nome feminino	vi|de|o|[ar]|te
+videocassete	nome feminino	vi|de|o|cas|[se]|te
+videoclip	nome masculino	vi|deo|clip
+videoclipe	nome masculino	vi|de|o|[cli]|pe
+videoclube	nome masculino	vi|de|o|[clu]|be
+videoconferência	nome feminino	vi|de|o|con|fe|[rên]|ci|a
+videodisco	nome masculino	vi|de|o|[dis]|co
+videofone	nome masculino	vi|de|o|[fo]|ne
+videofrequência	nome feminino	vi|de|o|fre|[quên]|ci|a
+videogame	nome masculino	vi|deo|ga|me
+videograma	nome masculino	vi|de|o|[gra]|ma
+videogravador	nome masculino	vi|de|o|gra|va|[dor]
+videojogo	nome masculino	vi|de|o|[jo]|go
+videolocadora	nome feminino	vi|de|o|lo|ca|[do]|ra
+videoporteiro	nome masculino	vi|de|o|por|[tei]|ro
+videotape	nome masculino	vi|deo|ta|pe
+videoteca	nome feminino	vi|de|o|[te]|ca
+videotelefone	nome masculino	vi|de|o|te|le|[fo]|ne
+videotex	nome masculino	vi|de|o|[tex]
+videotexto	nome masculino	vi|de|o|[tex]|to
+videotransmissão	nome feminino	vi|de|o|trans|mis|[são]
+videovigilância	nome feminino	vi|de|o|vi|gi|[lân]|ci|a
+videowall	nome masculino	vi|deo|wall
+vidiano	adjetivo	vi|di|[a]|no
+vidigueirense	nome masculino	vi|di|guei|[ren]|se
+vidigueirense	adjetivo	vi|di|guei|[ren]|se
+vidigueirense	nome feminino	vi|di|guei|[ren]|se
+vidinha	nome feminino	vi|[di]|nha
+vido	nome masculino	[vi]|do
+vidoeiro	nome masculino	vi|do|[ei]|ro
+vidonha	nome feminino	vi|[do]|nha
+vidonho	nome masculino	vi|[do]|nho
+vidouro	nome masculino	vi|[dou]|ro
+vidraça	nome feminino	vi|[dra]|ça
+vidração	nome feminino	vi|dra|[ção]
+vidraçaria	nome feminino	vi|dra|ça|[ri]|a
+vidraceira	nome feminino	vi|dra|[cei]|ra
+vidraceiro	nome masculino	vi|dra|[cei]|ro
+vidracento	adjetivo	vi|dra|[cen]|to
+vidracista	nome masculino	vi|dra|[cis]|ta
+vidracista	nome feminino	vi|dra|[cis]|ta
+vidraço	nome masculino	vi|[dra]|ço
+vidrado	adjetivo	vi|[dra]|do
+vidrado	nome masculino	vi|[dra]|do
+venético	nome masculino	ve|[né]|ti|co
+véneto	adjetivo	[vé]|ne|to
+vêneto	adjetivo	[vê]|ne|to
+véneto	nome masculino	[vé]|ne|to
+vêneto	nome masculino	[vê]|ne|to
+venetulano	adjetivo	ve|ne|tu|[la]|no
+venetulano	nome masculino	ve|ne|tu|[la]|no
+venezara	nome masculino	ve|ne|[za]|ra
+veneziana	nome feminino	ve|ne|zi|[a]|na
+veneziano	nome masculino	ve|ne|zi|[a]|no
+veneziano	adjetivo	ve|ne|zi|[a]|no
+venezolana	nome feminino	ve|ne|zo|[la]|na
+venezolano	adjetivo	ve|ne|zo|[la]|no
+venezolano	nome masculino	ve|ne|zo|[la]|no
+venezuelano	adjetivo	ve|ne|zu|e|[la]|no
+venezuelano	nome masculino	ve|ne|zu|e|[la]|no
+vênia	nome feminino	[vê]|ni|a
+vénia	nome feminino	[vé]|ni|a
+veniaga	nome feminino	ve|ni|[a]|ga
+veniagar	verbo	ve|ni|a|[gar]
+venial	adjetivo	ve|ni|[al]
+venialidade	nome feminino	ve|ni|a|li|[da]|de
+venializar	verbo	ve|ni|a|li|[zar]
+venialmente	advérbio	ve|ni|al|[men]|te
+venida	nome feminino	ve|[ni]|da
+venífluo	adjetivo	ve|[ní]|flu|o
+venipunctura	nome feminino	ve|ni|punc|[tu]|ra
+venipuntura	nome feminino	ve|ni|pun|[tu]|ra
+venissecção	nome feminino	ve|nis|sec|[ção]
+veníssimos	nome masculino	ve|[nís]|si|mos
+venomérico	adjetivo	ve|no|[mé]|ri|co
+venómero	nome masculino	ve|[nó]|me|ro
+venômero	nome masculino	ve|[nô]|me|ro
+venonense	adjetivo	ve|no|[nen]|se
+venonense	nome masculino	ve|no|[nen]|se
+venonense	nome feminino	ve|no|[nen]|se
+venonete	adjetivo	ve|no|[ne]|te
+venonete	nome masculino	ve|no|[ne]|te
+venonete	nome feminino	ve|no|[ne]|te
+venosidade	nome feminino	ve|no|si|[da]|de
+venoso	adjetivo	ve|[no]|so
+venoste	adjetivo	ve|[nos]|te
+venoste	nome masculino	ve|[nos]|te
+venoste	nome feminino	ve|[nos]|te
+venta	nome feminino	[ven]|ta
+ventã	nome feminino	ven|[tã]
+ventagem	nome feminino	ven|[ta]|gem
+ventajoso	adjetivo	ven|ta|[jo]|so
+ventana	adjetivo	ven|[ta]|na
+ventana	nome feminino	ven|[ta]|na
+ventana	nome masculino	ven|[ta]|na
+ventanear	verbo	ven|ta|ne|[ar]
+ventaneira	nome feminino	ven|ta|[nei]|ra
+ventaneiro	adjetivo	ven|ta|[nei]|ro
+ventaneiro	nome masculino	ven|ta|[nei]|ro
+ventanejar	verbo	ven|ta|ne|[jar]
+ventania	nome feminino	ven|ta|[ni]|a
+ventanilha	nome feminino	ven|ta|[ni]|lha
+ventanio	adjetivo	ven|ta|[ni]|o
+ventante	adjetivo	ven|[tan]|te
+ventar	verbo	ven|[tar]
+ventarola	nome feminino	ven|ta|[ro]|la
+vente	adjetivo	[ven]|te
+venteada	adjetivo	ven|te|[a]|da
+venteira	nome feminino	ven|[tei]|ra
+ventejar	verbo	ven|te|[jar]
+ventena	adjetivo	ven|[te]|na
+ventena	nome masculino	ven|[te]|na
+ventena	nome feminino	ven|[te]|na
+ventifacto	nome masculino	ven|ti|[fac]|to
+ventifato	nome masculino	ven|ti|[fa]|to
+ventígeno	adjetivo	ven|[tí]|ge|no
+ventilabro	nome masculino	ven|ti|[la]|bro
+ventilação	nome feminino	ven|ti|la|[ção]
+ventilado	adjetivo	ven|ti|[la]|do
+ventilador	nome masculino	ven|ti|la|[dor]
+ventilador	adjetivo	ven|ti|la|[dor]
+ventilante	adjetivo	ven|ti|[lan]|te
+ventilar	verbo	ven|ti|[lar]
+ventilativo	adjetivo	ven|ti|la|[ti]|vo
+ventilável	adjetivo	ven|ti|[lá]|vel
+vento	nome masculino	[ven]|to
+ventoinha	nome feminino	ven|to|[i]|nha
+ventoinhar	verbo	ven|to|i|[nhar]
+ventoirinho	nome masculino	ven|toi|[ri]|nho
+ventoninho	nome masculino	ven|to|[ni]|nho
+ventor	nome masculino	ven|[tor]
+ventosa	nome feminino	ven|[to]|sa
+ventosidade	nome feminino	ven|to|si|[da]|de
+ventoso	adjetivo	ven|[to]|so
+ventrada	nome feminino	ven|[tra]|da
+ventral	adjetivo	ven|[tral]
+ventre	nome masculino	[ven]|tre
+ventrecha	nome feminino	ven|[tre]|cha
+ventricoso	adjetivo	ven|tri|[co]|so
+ventricular	adjetivo	ven|tri|cu|[lar]
+ventriculito	nome masculino	ven|tri|cu|[li]|to
+ventrículo	nome masculino	ven|[trí]|cu|lo
+ventrilavado	adjetivo	ven|tri|la|[va]|do
+ventrilha	nome feminino	ven|[tri]|lha
+volte-face	nome masculino	vol|te-fa|ce
+volteação	nome feminino	vol|te|a|[ção]
+volteada	nome feminino	vol|te|[a]|da
+volteador	adjetivo	vol|te|a|[dor]
+volteador	nome masculino	vol|te|a|[dor]
+volteadura	nome feminino	vol|te|a|[du]|ra
+volteante	adjetivo	vol|te|[an]|te
+voltear	verbo	vol|te|[ar]
+volteio	nome masculino	vol|[tei]|o
+volteiro	adjetivo	vol|[tei]|ro
+volteiro	nome masculino	vol|[tei]|ro
+voltejar	verbo	vol|te|[jar]
+voltimétrico	adjetivo	vol|ti|[mé]|tri|co
+voltímetro	nome masculino	vol|[tí]|me|tro
+voltiniense	adjetivo	vol|ti|ni|[en]|se
+voltiniense	nome masculino	vol|ti|ni|[en]|se
+voltiniense	nome feminino	vol|ti|ni|[en]|se
+vóltio	nome masculino	[vól]|ti|o
+vóltio-ampério	nome masculino	vól|ti|o-am|pé|ri|o
+vóltio-culômbio	nome masculino	vól|ti|o-cu|lôm|bi|o
+voltívolo	adjetivo	vol|[tí]|vo|lo
+voltométrico	adjetivo	vol|to|[mé]|tri|co
+voltômetro	nome masculino	vol|[tô]|me|tro
+voltómetro	nome masculino	vol|[tó]|me|tro
+volturno	nome masculino	vol|[tur]|no
+vóltzia	nome feminino	[vólt]|zi|a
+volúbil	adjetivo	vo|[lú]|bil
+volubilado	adjetivo	vo|lu|bi|[la]|do
+volubilidade	nome feminino	vo|lu|bi|li|[da]|de
+volubilismo	nome masculino	vo|lu|bi|[lis]|mo
+volucre	adjetivo	vo|[lu]|cre
+vólucre	adjetivo	[vó]|lu|cre
+volumaço	nome masculino	vo|lu|[ma]|ço
+volumão	nome masculino	vo|lu|[mão]
+volumar	adjetivo	vo|lu|[mar]
+volumar	verbo	vo|lu|[mar]
+volume	nome masculino	vo|[lu]|me
+volumetria	nome feminino	vo|lu|me|[tri]|a
+volumetricamente	advérbio	vo|lu|me|tri|ca|[men]|te
+volumétrico	adjetivo	vo|lu|[mé]|tri|co
+volúmetro	nome masculino	vo|[lú]|me|tro
+volúmico	adjetivo	vo|[lú]|mi|co
+voluminador	nome masculino	vo|lu|mi|na|[dor]
+voluminoso	adjetivo	vo|lu|mi|[no]|so
+volumosamente	advérbio	vo|lu|mo|sa|[men]|te
+volumoso	adjetivo	vo|lu|[mo]|so
+voluntareza	nome feminino	vo|lun|ta|[re]|za
+voluntária	nome feminino	vo|lun|[tá]|ri|a
+voluntariado	nome masculino	vo|lun|ta|ri|[a]|do
+voluntariamente	advérbio	vo|lun|ta|ri|a|[men]|te
+voluntariar	verbo	vo|lun|ta|ri|[ar]
+voluntariedade	nome feminino	vo|lun|ta|ri|e|[da]|de
+voluntário	nome masculino	vo|lun|[tá]|ri|o
+voluntário	adjetivo	vo|lun|[tá]|ri|o
+voluntariosa	nome feminino	vo|lun|ta|ri|[o]|sa
+voluntariosamente	advérbio	vo|lun|ta|ri|o|sa|[men]|te
+voluntariosidade	nome feminino	vo|lun|ta|ri|o|si|[da]|de
+voluntarioso	adjetivo	vo|lun|ta|ri|[o]|so
+voluntarioso	nome masculino	vo|lun|ta|ri|[o]|so
+voluntarismo	nome masculino	vo|lun|ta|[ris]|mo
+voluntarista	nome masculino	vo|lun|ta|[ris]|ta
+voluntarista	adjetivo	vo|lun|ta|[ris]|ta
+voluntarista	nome feminino	vo|lun|ta|[ris]|ta
+volúpia	nome feminino	vo|[lú]|pi|a
+voluptade	nome feminino	vo|lup|[ta]|de
+voluptuar	verbo	vo|lup|tu|[ar]
+voluptuariamente	advérbio	vo|lup|tu|a|ri|a|[men]|te
+voluptuário	adjetivo	vo|lup|tu|[á]|ri|o
+voluptuosa	nome feminino	vo|lup|tu|[o]|sa
+voluptuosamente	advérbio	vo|lup|tu|o|sa|[men]|te
+voluptuosidade	nome feminino	vo|lup|tu|o|si|[da]|de
+voluptuoso	adjetivo	vo|lup|tu|[o]|so
+voluptuoso	nome masculino	vo|lup|tu|[o]|so
+volúsia	nome feminino	vo|[lú]|si|a
+voluta	nome feminino	vo|[lu]|ta
+volutabro	nome masculino	vo|lu|[ta]|bro
+volutar	verbo	vo|lu|[tar]
+volutear	verbo	vo|lu|te|[ar]
+volutear	nome masculino	vo|lu|te|[ar]
+volutela	nome feminino	vo|lu|[te]|la
+volutita	nome masculino	vo|lu|[ti]|ta
+volutuar	verbo	vo|lu|tu|[ar]
+volutuário	adjetivo	vo|lu|tu|[á]|ri|o
+volutuosa	nome feminino	vo|lu|tu|[o]|sa
+volutuosamente	advérbio	vo|lu|tu|o|sa|[men]|te
+volutuosidade	nome feminino	vo|lu|tu|o|si|[da]|de
+volutuoso	adjetivo	vo|lu|tu|[o]|so
+volutuoso	nome masculino	vo|lu|tu|[o]|so
+volúvel	adjetivo	vo|[lú]|vel
+voluvelmente	advérbio	vo|lu|vel|[men]|te
+volva	nome feminino	[vol]|va
+volváceo	adjetivo	vol|[vá]|ce|o
+volvadeira	nome feminino	vol|va|[dei]|ra
+volvado	adjetivo	vol|[va]|do
+volvedor	nome masculino	vol|ve|[dor]
+volvente	adjetivo	vol|[ven]|te
+volver	verbo	vol|[ver]
+volver	nome masculino	vol|[ver]
+volvido	adjetivo	vol|[vi]|do
+volvo	nome masculino	[vol]|vo
+vencido	nome masculino	ven|[ci]|do
+vencilho	nome masculino	ven|[ci]|lho
+vencimento	nome masculino	ven|ci|[men]|to
+vencimento-base	nome masculino	ven|ci|men|to-ba|se
+vencível	adjetivo	ven|[cí]|vel
+venda	nome feminino	[ven]|da
+venda-novense	adjetivo	ven|da-no|[ven]|se
+venda-novense	nome masculino	ven|da-no|[ven]|se
+venda-novense	nome feminino	ven|da-no|[ven]|se
+vendado	adjetivo	ven|[da]|do
+vendagem	nome feminino	ven|[da]|gem
+vendar	verbo	ven|[dar]
+vendaval	nome masculino	ven|da|[val]
+vendável	adjetivo	ven|[dá]|vel
+vendeana	nome feminino	ven|de|[a]|na
+vendeano	adjetivo	ven|de|[a]|no
+vendeano	nome masculino	ven|de|[a]|no
+vendeano	nome feminino	ven|de|[a]|no
+vendedeira	nome feminino	ven|de|[dei]|ra
+vendedoiro	nome masculino	ven|de|[doi]|ro
+vendedor	adjetivo	ven|de|[dor]
+vendedor	nome masculino	ven|de|[dor]
+vendedora	nome feminino	ven|de|[do]|ra
+vendedouro	nome masculino	ven|de|[dou]|ro
+vendedouro	adjetivo	ven|de|[dou]|ro
+vendeiro	nome masculino	ven|[dei]|ro
+vendemiário	nome masculino	ven|de|mi|[á]|ri|o
+vender	verbo	ven|[der]
+vendeta	nome feminino	ven|[de]|ta
+vendetta	nome feminino	ven|det|ta
+vendíbil	adjetivo	ven|[dí]|bil
+vendição	nome feminino	ven|di|[ção]
+vendiço	adjetivo	ven|[di]|ço
+vendiço	nome masculino	ven|[di]|ço
+vêndico	nome masculino	[vên]|di|co
+vendida	nome feminino	ven|[di]|da
+vendido	adjetivo	ven|[di]|do
+vendido	nome masculino	ven|[di]|do
+vendilhão	nome masculino	ven|di|[lhão]
+vendilhona	nome feminino	ven|di|[lho]|na
+vendima	nome feminino	ven|[di]|ma
+vendimar	verbo	ven|di|[mar]
+vendimento	nome masculino	ven|di|[men]|to
+vendimo	adjetivo	ven|[di]|mo
+vendível	adjetivo	ven|[dí]|vel
+vendola	nome feminino	ven|[do]|la
+vendos	nome masculino	[ven]|dos
+vénedo	adjetivo	[vé]|ne|do
+vénedo	nome masculino	[vé]|ne|do
+vênedo	adjetivo	[vê]|ne|do
+vênedo	nome masculino	[vê]|ne|do
+veneficar	verbo	ve|ne|fi|[car]
+veneficiar	verbo	ve|ne|fi|ci|[ar]
+venefício	nome masculino	ve|ne|[fí]|ci|o
+venéfico	adjetivo	ve|[né]|fi|co
+venena	nome feminino	ve|[ne]|na
+venenífero	adjetivo	ve|ne|[ní]|fe|ro
+veneníparo	adjetivo	ve|ne|[ní]|pa|ro
+veneno	nome masculino	ve|[ne]|no
+venenosamente	advérbio	ve|ne|no|sa|[men]|te
+venenosidade	nome feminino	ve|ne|no|si|[da]|de
+venenoso	adjetivo	ve|ne|[no]|so
+venense	adjetivo	ve|[nen]|se
+venense	nome masculino	ve|[nen]|se
+venense	nome feminino	ve|[nen]|se
+venera	nome feminino	ve|[ne]|ra
+venerabilidade	nome feminino	ve|ne|ra|bi|li|[da]|de
+venerabundo	adjetivo	ve|ne|ra|[bun]|do
+veneração	nome feminino	ve|ne|ra|[ção]
+veneradamente	advérbio	ve|ne|ra|da|[men]|te
+venerado	adjetivo	ve|ne|[ra]|do
+venerador	adjetivo	ve|ne|ra|[dor]
+venerador	nome masculino	ve|ne|ra|[dor]
+veneradora	nome feminino	ve|ne|ra|[do]|ra
+veneralato	nome masculino	ve|ne|ra|[la]|to
+venerando	adjetivo	ve|ne|[ran]|do
+venerar	verbo	ve|ne|[rar]
+venerário	adjetivo	ve|ne|[rá]|ri|o
+venerável	adjetivo	ve|ne|[rá]|vel
+venerável	nome masculino	ve|ne|[rá]|vel
+venerável	nome feminino	ve|ne|[rá]|vel
+veneravelmente	advérbio	ve|ne|ra|vel|[men]|te
+venéreo	adjetivo	ve|[né]|re|o
+venéreo	nome masculino	ve|[né]|re|o
+venereologia	nome feminino	ve|ne|re|o|lo|[gi]|a
+venereológico	adjetivo	ve|ne|re|o|[ló]|gi|co
+venereologista	nome masculino	ve|ne|re|o|lo|[gis]|ta
+venereologista	nome feminino	ve|ne|re|o|lo|[gis]|ta
+venereólogo	nome masculino	ve|ne|re|[ó]|lo|go
+venericárdia	nome feminino	ve|ne|ri|[cár]|di|a
+venérida	nome masculino	ve|[né]|ri|da
+venérida	nome masculino	ve|[né]|ri|da
+venerídeo	adjetivo	ve|ne|[rí]|de|o
+venerídeo	nome masculino	ve|ne|[rí]|de|o
+venerídeo	nome masculino	ve|ne|[rí]|de|o
+venério	nome masculino	ve|[né]|ri|o
+vênero	adjetivo	[vê]|ne|ro
+vénero	adjetivo	[vé]|ne|ro
+veneta	nome feminino	ve|[ne]|ta
+venético	adjetivo	ve|[né]|ti|co
+valpacense	adjetivo	val|pa|[cen]|se
+valpacense	nome masculino	val|pa|[cen]|se
+valpacense	nome feminino	val|pa|[cen]|se
+valquíria	nome feminino	val|[quí]|ri|a
+valsa	nome feminino	[val]|sa
+valsador	adjetivo	val|sa|[dor]
+valsador	nome masculino	val|sa|[dor]
+valsadora	nome feminino	val|sa|[do]|ra
+valsante	adjetivo	val|[san]|te
+valsante	nome masculino	val|[san]|te
+valsante	nome feminino	val|[san]|te
+valsar	verbo	val|[sar]
+valsarina	nome feminino	val|sa|[ri]|na
+valsejar	verbo	val|se|[jar]
+valsista	adjetivo	val|[sis]|ta
+valsista	nome masculino	val|[sis]|ta
+valsista	nome feminino	val|[sis]|ta
+valuma	nome feminino	va|[lu]|ma
+valura	nome feminino	va|[lu]|ra
+valva	nome feminino	[val]|va
+valváceo	adjetivo	val|[vá]|ce|o
+valvar	adjetivo	val|[var]
+valvata	nome feminino	val|[va]|ta
+valvatela	nome feminino	val|va|[te]|la
+valvatídeo	nome masculino	val|va|[tí]|de|o
+valverde	nome masculino	val|[ver]|de
+valvicida	adjetivo	val|vi|[ci]|da
+valviforme	adjetivo	val|vi|[for]|me
+válvula	nome feminino	[vál]|vu|la
+valvulado	adjetivo	val|vu|[la]|do
+valvular	adjetivo	val|vu|[lar]
+valvulina	nome feminino	val|vu|[li]|na
+valvulite	nome feminino	val|vu|[li]|te
+valvuloplastia	nome feminino	val|vu|lo|plas|[ti]|a
+valvuloplástico	adjetivo	val|vu|lo|[plás]|ti|co
+valvuloso	adjetivo	val|vu|[lo]|so
+valvulotomia	nome feminino	val|vu|lo|to|[mi]|a
+valvulotómico	adjetivo	val|vu|lo|[tó]|mi|co
+valvulotômico	adjetivo	val|vu|lo|[tô]|mi|co
+valvulótomo	nome masculino	val|vu|[ló]|to|mo
+vambê	nome masculino	vam|[bê]
+vãmente	advérbio	[vã]|men|te
+vamos-embora	nome masculino	va|mos-em|[bo]|ra
+vamp	nome feminino	[vamp]
+vampe	nome feminino	[vam]|pe
+vampirar	verbo	vam|pi|[rar]
+vampireiro	nome masculino	vam|pi|[rei]|ro
+vampiresa	nome feminino	vam|pi|[re]|sa
+vampírico	adjetivo	vam|[pí]|ri|co
+vampirino	adjetivo	vam|pi|[ri]|no
+vampirismo	nome masculino	vam|pi|[ris]|mo
+vampirizador	adjetivo	vam|pi|ri|za|[dor]
+vampirizador	nome masculino	vam|pi|ri|za|[dor]
+vampirizante	adjetivo	vam|pi|ri|[zan]|te
+vampirizar	verbo	vam|pi|ri|[zar]
+vampiro	nome masculino	vam|[pi]|ro
+vamplegá	nome masculino	vam|ple|[gá]
+van	nome feminino	[van]
+vanadato	nome masculino	va|na|[da]|to
+vanádico	adjetivo	va|[ná]|di|co
+vanadífero	adjetivo	va|na|[dí]|fe|ro
+vanadinita	nome feminino	va|na|di|[ni]|ta
+vanadinite	nome feminino	va|na|di|[ni]|te
+vanádio	nome masculino	va|[ná]|di|o
+vanadioso	adjetivo	va|na|di|[o]|so
+vanadite	nome feminino	va|na|[di]|te
+vanadoso	adjetivo	va|na|[do]|so
+vanaquiá	nome masculino	va|na|qui|[á]
+vanda	nome feminino	[van]|da
+vandácea	nome feminino	van|[dá]|ce|a
+vandáceo	adjetivo	van|[dá]|ce|o
+vândala	nome feminino	[vân]|da|la
+vandalear	verbo	van|da|le|[ar]
+vandalicamente	advérbio	van|da|li|ca|[men]|te
+vandálico	adjetivo	van|[dá]|li|co
+vandalismo	nome masculino	van|da|[lis]|mo
+vandalização	nome feminino	van|da|li|za|[ção]
+vandalizar	verbo	van|da|li|[zar]
+vândalo	nome masculino	[vân]|da|lo
+vândalo	adjetivo	[vân]|da|lo
+vandéllia	nome feminino	van|[dél]|li|a
+vanessa	nome feminino	va|[nes]|sa
+vangana	nome feminino	van|[ga]|na
+vangíone	adjetivo	van|[gí]|o|ne
+vangíone	nome masculino	van|[gí]|o|ne
+vangíone	nome feminino	van|[gí]|o|ne
+vanglória	nome feminino	van|[gló]|ri|a
+vangloriar	verbo	van|glo|ri|[ar]
+vangloriosamente	advérbio	van|glo|ri|o|sa|[men]|te
+vanglorioso	adjetivo	van|glo|ri|[o]|so
+vangor	nome masculino	van|[gor]
+vanguarda	nome feminino	van|[guar]|da
+vanguardear	verbo	van|guar|de|[ar]
+vanguardeiro	adjetivo	van|guar|[dei]|ro
+vanguardeiro	nome masculino	van|guar|[dei]|ro
+vanguardice	nome feminino	van|guar|[di]|ce
+vanguardismo	nome masculino	van|guar|[dis]|mo
+vanguardista	nome masculino	van|guar|[dis]|ta
+vanguardista	adjetivo	van|guar|[dis]|ta
+vanguardista	nome feminino	van|guar|[dis]|ta
+vermineira	nome feminino	ver|mi|[nei]|ra
+verminose	nome feminino	ver|mi|[no]|se
+verminoso	adjetivo	ver|mi|[no]|so
+vermiola	nome feminino	ver|mi|[o]|la
+vérmis	nome masculino	[vér]|mis
+vermívoro	adjetivo	ver|[mí]|vo|ro
+vermizela	nome feminino	ver|mi|[ze]|la
+vermute	nome masculino	ver|[mu]|te
+verna	nome masculino	[ver]|na
+vernação	nome feminino	ver|na|[ção]
+vernaculamente	advérbio	ver|na|cu|la|[men]|te
+vernaculidade	nome feminino	ver|na|cu|li|[da]|de
+vernaculismo	nome masculino	ver|na|cu|[lis]|mo
+vernaculista	nome masculino	ver|na|cu|[lis]|ta
+vernaculista	nome feminino	ver|na|cu|[lis]|ta
+vernaculização	nome feminino	ver|na|cu|li|za|[ção]
+vernaculizador	adjetivo	ver|na|cu|li|za|[dor]
+vernaculizador	nome masculino	ver|na|cu|li|za|[dor]
+vernaculizar	verbo	ver|na|cu|li|[zar]
+vernaculizável	adjetivo	ver|na|cu|li|[zá]|vel
+vernáculo	nome masculino	ver|[ná]|cu|lo
+vernáculo	adjetivo	ver|[ná]|cu|lo
+vernal	adjetivo	ver|[nal]
+vernante	adjetivo	ver|[nan]|te
+vernar	verbo	ver|[nar]
+verne	nome masculino	[ver]|ne
+vérnia	nome feminino	[vér]|ni|a
+vernicífero	adjetivo	ver|ni|[cí]|fe|ro
+vernícomo	adjetivo	ver|[ní]|co|mo
+vernicoso	adjetivo	ver|ni|[co]|so
+vernissage	nome feminino	ver|nis|sa|ge
+verniz	nome masculino	ver|[niz]
+verniz-da-china	nome masculino	ver|niz-da-chi|na
+verniz-do-japão	nome masculino	ver|niz-do-ja|[pão]
+vernizagem	nome feminino	ver|ni|[za]|gem
+vernizar	verbo	ver|ni|[zar]
+vernizeira	nome feminino	ver|ni|[zei]|ra
+verno	adjetivo	[ver]|no
+vernónia	nome feminino	ver|[nó]|ni|a
+vernônia	nome feminino	ver|[nô]|ni|a
+vero	adjetivo	[ve]|ro
+veromânduo	adjetivo	ve|ro|[mân]|du|o
+veromânduo	nome masculino	ve|ro|[mân]|du|o
+veronal	nome masculino	ve|ro|[nal]
+veronense	adjetivo	ve|ro|[nen]|se
+veronense	nome masculino	ve|ro|[nen]|se
+veronense	nome feminino	ve|ro|[nen]|se
+veronês	adjetivo	ve|ro|[nês]
+veronês	nome masculino	ve|ro|[nês]
+veronesa	nome feminino	ve|ro|[ne]|sa
+verónica	nome feminino	ve|[ró]|ni|ca
+verônica	nome feminino	ve|[rô]|ni|ca
+verónica-das-boticas	nome feminino	ve|ró|ni|ca-das-bo|[ti]|cas
+verônica-das-boticas	nome feminino	ve|rô|ni|ca-das-bo|[ti]|cas
+verorola	nome feminino	ve|ro|[ro]|la
+veroscópio	nome masculino	ve|ros|[có]|pi|o
+verosímil	adjetivo	ve|ro|[sí]|mil
+verosimilhança	nome feminino	ve|ro|si|mi|[lhan]|ça
+verosimilhante	adjetivo	ve|ro|si|mi|[lhan]|te
+verosimilidade	nome feminino	ve|ro|si|mi|li|[da]|de
+verosimilitude	nome feminino	ve|ro|si|mi|li|[tu]|de
+verosimilmente	advérbio	ve|ro|si|mil|[men]|te
+verossemelhança	nome feminino	ve|ros|se|me|[lhan]|ça
+verossemelhante	adjetivo	ve|ros|se|me|[lhan]|te
+verossímil	adjetivo	ve|ros|[sí]|mil
+verossimilhança	nome feminino	ve|ros|si|mi|[lhan]|ça
+verossimilhante	adjetivo	ve|ros|si|mi|[lhan]|te
+verossimilidade	nome feminino	ve|ros|si|mi|li|[da]|de
+verossimilitude	nome feminino	ve|ros|si|mi|li|[tu]|de
+verossimilmente	advérbio	ve|ros|si|mil|[men]|te
+verrasco	nome masculino	ver|[ras]|co
+verriculado	adjetivo	ver|ri|cu|[la]|do
+verrículo	nome masculino	ver|[rí]|cu|lo
+verrina	nome feminino	ver|[ri]|na
+verrinar	verbo	ver|ri|[nar]
+verrinário	adjetivo	ver|ri|[ná]|ri|o
+verrineiro	adjetivo	ver|ri|[nei]|ro
+verrineiro	nome masculino	ver|ri|[nei]|ro
+verrinista	nome masculino	ver|ri|[nis]|ta
+verrinista	nome feminino	ver|ri|[nis]|ta
+verrinosamente	advérbio	ver|ri|no|sa|[men]|te
+verrinoso	adjetivo	ver|ri|[no]|so
+verrucal	adjetivo	ver|ru|[cal]
+verrucária	nome feminino	ver|ru|[cá]|ri|a
+verrucífero	adjetivo	ver|ru|[cí]|fe|ro
+verruciforme	adjetivo	ver|ru|ci|[for]|me
+verrucino	adjetivo	ver|ru|[ci]|no
+verrucino	nome masculino	ver|ru|[ci]|no
+verrucosidade	nome feminino	ver|ru|co|si|[da]|de
+verrucoso	adjetivo	ver|ru|[co]|so
+verruculária	nome feminino	ver|ru|cu|[lá]|ri|a
+verruga	nome feminino	ver|[ru]|ga
+verrugoso	adjetivo	ver|ru|[go]|so
+verruguento	adjetivo	ver|ru|[guen]|to
+verruma	nome feminino	ver|[ru]|ma
+verrumante	adjetivo	ver|ru|[man]|te
+verrumão	nome masculino	ver|ru|[mão]
+verrumar	verbo	ver|ru|[mar]
+verrumeiro	nome masculino	ver|ru|[mei]|ro
+versa	nome feminino	[ver]|sa
+viandar	verbo	vi|an|[dar]
+viandeira	nome feminino	vi|an|[dei]|ra
+viandeiro	adjetivo	vi|an|[dei]|ro
+viandeiro	nome masculino	vi|an|[dei]|ro
+vianense	adjetivo	vi|a|[nen]|se
+vianense	nome masculino	vi|a|[nen]|se
+vianense	nome feminino	vi|a|[nen]|se
+vianês	adjetivo	vi|a|[nês]
+vianês	nome masculino	vi|a|[nês]
+vianesa	nome feminino	vi|a|[ne]|sa
+vianinha	nome feminino	vi|a|[ni]|nha
+viante	nome masculino	vi|[an]|te
+viário	adjetivo	vi|[á]|ri|o
+viário	nome masculino	vi|[á]|ri|o
+viasca	nome feminino	vi|[as]|ca
+viaticação	nome feminino	vi|a|ti|ca|[ção]
+viaticar	verbo	vi|a|ti|[car]
+viático	nome masculino	vi|[á]|ti|co
+viatório	adjetivo	vi|a|[tó]|ri|o
+viatura	nome feminino	vi|a|[tu]|ra
+viável	adjetivo	vi|[á]|vel
+viba	nome feminino	[vi]|ba
+vibice	nome feminino	vi|[bi]|ce
+vibinate	adjetivo	vi|bi|[na]|te
+vibinate	nome masculino	vi|bi|[na]|te
+vibinate	nome feminino	vi|bi|[na]|te
+vibonense	adjetivo	vi|bo|[nen]|se
+vibonense	nome masculino	vi|bo|[nen]|se
+vibonense	nome feminino	vi|bo|[nen]|se
+víbora	nome feminino	[ví]|bo|ra
+víbora-cornuda	nome feminino	ví|bo|ra-cor|[nu]|da
+vibordo	nome masculino	vi|[bor]|do
+vibração	nome feminino	vi|bra|[ção]
+vibrador	nome masculino	vi|bra|[dor]
+vibrador	adjetivo	vi|bra|[dor]
+vibrafone	nome masculino	vi|bra|[fo]|ne
+vibrafonista	adjetivo	vi|bra|fo|[nis]|ta
+vibrafonista	nome masculino	vi|bra|fo|[nis]|ta
+vibrafonista	nome feminino	vi|bra|fo|[nis]|ta
+vibrante	nome feminino	vi|[bran]|te
+vibrante	adjetivo	vi|[bran]|te
+vibrantemente	advérbio	vi|bran|te|[men]|te
+vibrar	verbo	vi|[brar]
+vibrátil	adjetivo	vi|[brá]|til
+vibratilidade	nome feminino	vi|bra|ti|li|[da]|de
+vibrato	nome masculino	vi|[bra]|to
+vibratoriamente	advérbio	vi|bra|to|ri|a|[men]|te
+vibratório	adjetivo	vi|bra|[tó]|ri|o
+vibrável	adjetivo	vi|[brá]|vel
+vibrião	nome masculino	vi|bri|[ão]
+vibrioniano	adjetivo	vi|bri|o|ni|[a]|no
+vibrissa	nome feminino	vi|[bris]|sa
+vibrissas	nome feminino	vi|[bris]|sas
+vibroscópico	adjetivo	vi|bros|[có]|pi|co
+vibroscópio	nome masculino	vi|bros|[có]|pi|o
+viburguês	adjetivo	vi|bur|[guês]
+viburguês	nome masculino	vi|bur|[guês]
+viburnácea	nome feminino	vi|bur|[ná]|ce|a
+vibúrnea	nome feminino	vi|[búr]|ne|a
+viburnina	nome feminino	vi|bur|[ni]|na
+viburno	nome masculino	vi|[bur]|no
+vicácia	nome feminino	vi|[cá]|ci|a
+viçar	verbo	vi|[çar]
+vicarial	adjetivo	vi|ca|ri|[al]
+vicariante	adjetivo	vi|ca|ri|[an]|te
+vicariato	nome masculino	vi|ca|ri|[a]|to
+vicariedade	nome feminino	vi|ca|ri|e|[da]|de
+vicário	adjetivo	vi|[cá]|ri|o
+vicário	nome masculino	vi|[cá]|ri|o
+vice-almirantado	nome masculino	vi|ce-al|mi|ran|[ta]|do
+vice-almirante	nome masculino	vi|ce-al|mi|[ran]|te
+vice-almirante	nome feminino	vi|ce-al|mi|[ran]|te
+vice-bailio	nome masculino	vi|ce-bai|[li]|o
+vice-camarlengo	nome masculino	vi|ce-ca|mar|[len]|go
+vice-campeã	nome feminino	vi|ce-cam|pe|[ã]
+vice-campeão	adjetivo	vi|ce-cam|pe|[ão]
+vice-campeão	nome masculino	vi|ce-cam|pe|[ão]
+vice-campeonato	nome masculino	vi|ce-cam|pe|o|[na]|to
+vice-cerimoniário	nome masculino	vi|ce-ce|ri|mo|ni|[á]|ri|o
+vice-chanceler	nome masculino	vi|ce-chan|ce|[ler]
+vice-chanceler	nome feminino	vi|ce-chan|ce|[ler]
+vice-chefe	nome masculino	vi|ce-che|fe
+vice-chefe	nome feminino	vi|ce-che|fe
+vice-chefia	nome feminino	vi|ce-che|[fi]|a
+vice-colector	nome masculino	vi|ce-co|lec|[tor]
+vice-coletor	nome masculino	vi|ce-co|le|[tor]
+vice-comandante	nome masculino	vi|ce-co|man|[dan]|te
+vice-comandante	nome feminino	vi|ce-co|man|[dan]|te
+vice-comissária	nome feminino	vi|ce-co|mis|[sá]|ri|a
+vice-comissariado	nome masculino	vi|ce-co|mis|sa|ri|[a]|do
+vice-comissário	nome masculino	vi|ce-co|mis|[sá]|ri|o
+vice-cônsul	nome masculino	vi|ce-côn|sul
+vice-cônsul	nome feminino	vi|ce-côn|sul
+vice-consulado	nome masculino	vi|ce-con|su|[la]|do
+vice-consular	adjetivo	vi|ce-con|su|[lar]
+vice-consulesa	nome feminino	vi|ce-con|su|[le]|sa
+vice-decano	nome masculino	vi|ce-de|[ca]|no
+vice-direção	nome feminino	vi|ce-di|re|[ção]
+vice-diretor	nome masculino	vi|ce-di|re|[tor]
+vice-diretora	nome feminino	vi|ce-di|re|[to]|ra
+vá-de-viró	interjeição	vá-de-vi|[ró]
+vaabismo	nome masculino	va|a|[bis]|mo
+vaabita	adjetivo	va|a|[bi]|ta
+vaabita	nome masculino	va|a|[bi]|ta
+vaabita	nome feminino	va|a|[bi]|ta
+vaca	nome feminino	[va]|ca
+vaca-fria	nome feminino	va|ca-fri|a
+vaca-loira	nome feminino	va|ca-loi|ra
+vaca-loura	nome feminino	va|ca-lou|ra
+vaca-marinha	nome feminino	va|ca-ma|[ri]|nha
+vacação	nome feminino	va|ca|[ção]
+vacada	nome feminino	va|[ca]|da
+vacagem	nome feminino	va|[ca]|gem
+vacância	nome feminino	va|[cân]|ci|a
+vacante	adjetivo	va|[can]|te
+vacão	nome masculino	va|[cão]
+vacar	verbo	va|[car]
+vacaraí	nome masculino	va|ca|ra|[í]
+vacari	nome masculino	va|ca|[ri]
+vacaria	nome feminino	va|ca|[ri]|a
+vacaril	adjetivo	va|ca|[ril]
+vacaril	nome masculino	va|ca|[ril]
+vacarino	adjetivo	va|ca|[ri]|no
+vacarrona	nome feminino	va|car|[ro]|na
+vacatura	nome feminino	va|ca|[tu]|ra
+vaceu	adjetivo	va|[ceu]
+vaceu	nome masculino	va|[ceu]
+vacilação	nome feminino	va|ci|la|[ção]
+vacilância	nome feminino	va|ci|[lân]|ci|a
+vacilante	adjetivo	va|ci|[lan]|te
+vacilantemente	advérbio	va|ci|lan|te|[men]|te
+vacilar	verbo	va|ci|[lar]
+vacilatório	adjetivo	va|ci|la|[tó]|ri|o
+vacina	nome feminino	va|[ci]|na
+vacinação	nome feminino	va|ci|na|[ção]
+vacinado	adjetivo	va|ci|[na]|do
+vacinador	nome masculino	va|ci|na|[dor]
+vacinador	adjetivo	va|ci|na|[dor]
+vacinadora	nome feminino	va|ci|na|[do]|ra
+vacinal	adjetivo	va|ci|[nal]
+vacinar	verbo	va|ci|[nar]
+vacinável	adjetivo	va|ci|[ná]|vel
+vaciniácea	nome feminino	va|ci|ni|[á]|ce|a
+vaciniáceo	adjetivo	va|ci|ni|[á]|ce|o
+vacínico	adjetivo	va|[cí]|ni|co
+vacinífero	adjetivo	va|ci|[ní]|fe|ro
+vaciniforme	adjetivo	va|ci|ni|[for]|me
+vacínio	nome masculino	va|[cí]|ni|o
+vacinogenia	nome feminino	va|ci|no|ge|[ni]|a
+vacinogênico	adjetivo	va|ci|no|[gê]|ni|co
+vacinogénico	adjetivo	va|ci|no|[gé]|ni|co
+vacinoide	nome feminino	va|ci|[noi]|de
+vacinoide	adjetivo	va|ci|[noi]|de
+vacinostilo	nome masculino	va|ci|nos|[ti]|lo
+vacinoterapia	nome feminino	va|ci|no|te|ra|[pi]|a
+vacinoterápico	adjetivo	va|ci|no|te|[rá]|pi|co
+vacu	nome masculino	va|[cu]
+vacuá	nome masculino	va|cu|[á]
+vacuidade	nome feminino	va|cui|[da]|de
+vacuísmo	nome masculino	va|cu|[ís]|mo
+vacuísta	nome masculino	va|cu|[ís]|ta
+vacuísta	adjetivo	va|cu|[ís]|ta
+vacuísta	nome feminino	va|cu|[ís]|ta
+vacum	adjetivo	va|[cum]
+vacum	nome masculino	va|[cum]
+vácuo	adjetivo	[vá]|cu|o
+vácuo	nome masculino	[vá]|cu|o
+vacuolar	adjetivo	va|cu|o|[lar]
+vacuolização	nome feminino	va|cu|o|li|za|[ção]
+vacuolizado	adjetivo	va|cu|o|li|[za]|do
+vacúolo	nome masculino	va|[cú]|o|lo
+vacuoma	nome masculino	va|cu|[o]|ma
+vacuómetro	nome masculino	va|cu|[ó]|me|tro
+vacuômetro	nome masculino	va|cu|[ô]|me|tro
+vadagaio	nome masculino	va|da|[gai]|o
+vade-mécum	nome masculino	va|de-mé|cum
+vade-retro	interjeição	va|de-re|tro
+vadeação	nome feminino	va|de|a|[ção]
+vadear	verbo	va|de|[ar]
+vadeável	adjetivo	va|de|[á]|vel
+vadeoso	adjetivo	va|de|[o]|so
+vadeu	adjetivo	va|[deu]
+vadeu	nome masculino	va|[deu]
+vadia	nome feminino	va|[di]|a
+vadiação	nome feminino	va|di|a|[ção]
+vadiador	adjetivo	va|di|a|[dor]
+vadiador	nome masculino	va|di|a|[dor]
+vadiagem	nome feminino	va|di|[a]|gem
+vadiamente	advérbio	va|di|a|[men]|te
+vadiante	adjetivo	va|di|[an]|te
+vadiante	nome masculino	va|di|[an]|te
+vadiante	nome feminino	va|di|[an]|te
+vadiar	verbo	va|di|[ar]
+vadiaria	nome feminino	va|di|a|[ri]|a
+vadiice	nome feminino	va|di|[i]|ce
+vadiismo	nome masculino	va|di|[is]|mo
+vadio	nome masculino	va|[di]|o
+vadio	adjetivo	va|[di]|o
+vadiote	nome masculino	va|di|[o]|te
+vadoso	adjetivo	va|[do]|so
+vadroil	nome masculino	va|dro|[il]
+vafrícia	nome feminino	va|[frí]|ci|a
+vafro	adjetivo	[va]|fro
+vaga	nome feminino	[va]|ga
+vaga-lume	nome masculino	va|ga-lu|me
+vagabunda	nome feminino	va|ga|[bun]|da
+vagabundagem	nome feminino	va|ga|bun|[da]|gem
+vagabundar	verbo	va|ga|bun|[dar]
+vagabundeação	nome feminino	va|ga|bun|de|a|[ção]
+vagabundear	verbo	va|ga|bun|de|[ar]
+vagabundo	nome masculino	va|ga|[bun]|do
+vagabundo	adjetivo	va|ga|[bun]|do
+vagação	nome feminino	va|ga|[ção]
+vágado	nome masculino	[vá]|ga|do
+vagalhão	nome masculino	va|ga|[lhão]
+vagamente	advérbio	va|ga|[men]|te
+vagamunda	nome feminino	va|ga|[mun]|da
+vagamundeação	nome feminino	va|ga|mun|de|a|[ção]
+vagamundear	verbo	va|ga|mun|de|[ar]
+vagamundo	adjetivo	va|ga|[mun]|do
+vagamundo	nome masculino	va|ga|[mun]|do
+vaganau	nome masculino	va|ga|[nau]
+vagância	nome feminino	va|[gân]|ci|a
+vaganear	verbo	va|ga|ne|[ar]
+vaganice	nome feminino	va|ga|[ni]|ce
+vagante	nome feminino	va|[gan]|te
+vagante	adjetivo	va|[gan]|te
+vagantio	adjetivo	va|gan|[ti]|o
+vagão	nome masculino	va|[gão]
+vagão-cama	nome masculino	va|gão-ca|ma
+vagão-cisterna	nome masculino	va|gão-cis|[ter]|na
+vagão-restaurante	nome masculino	va|gão-res|tau|[ran]|te
+vagão-tanque	nome masculino	va|gão-tan|que
+vagar	verbo	va|[gar]
+vagar	nome masculino	va|[gar]
+vagarento	adjetivo	va|ga|[ren]|to
+vagareza	nome feminino	va|ga|[re]|za
+vagarosa	nome feminino	va|ga|[ro]|sa
+vagarosamente	advérbio	va|ga|ro|sa|[men]|te
+vagaroso	adjetivo	va|ga|[ro]|so
+vagatura	nome feminino	va|ga|[tu]|ra
+vage	nome feminino	[va]|ge
+vagem	nome feminino	[va]|gem
+vagense	adjetivo	va|[gen]|se
+vagense	nome masculino	va|[gen]|se
+vagense	nome feminino	va|[gen]|se
+vagido	nome masculino	va|[gi]|do
+vagieno	adjetivo	va|gi|[e]|no
+vagieno	nome masculino	va|gi|[e]|no
+vagina	nome feminino	va|[gi]|na
+vaginal	adjetivo	va|gi|[nal]
+vaginalite	nome feminino	va|gi|na|[li]|te
+vaginante	adjetivo	va|gi|[nan]|te
+vaginária	nome feminino	va|gi|[ná]|ri|a
+vaginela	nome feminino	va|gi|[ne]|la
+vaginérveo	adjetivo	va|gi|[nér]|ve|o
+vaginha	nome feminino	va|[gi]|nha
+vaginícola	nome masculino	va|gi|[ní]|co|la
+vaginífero	adjetivo	va|gi|[ní]|fe|ro
+vaginiforme	adjetivo	va|gi|ni|[for]|me
+vagininérveo	adjetivo	va|gi|ni|[nér]|ve|o
+vaginismo	nome masculino	va|gi|[nis]|mo
+vaginite	nome feminino	va|gi|[ni]|te
+vaginodinia	nome feminino	va|gi|no|di|[ni]|a
+vaginolabial	adjetivo	va|gi|no|la|bi|[al]
+vaginoperitoneal	adjetivo	va|gi|no|pe|ri|to|ne|[al]
+vaginorragia	nome feminino	va|gi|nor|ra|[gi]|a
+vaginorrágico	adjetivo	va|gi|nor|[rá]|gi|co
+vaginorrectal	adjetivo	va|gi|nor|rec|[tal]
+vaginorretal	adjetivo	va|gi|nor|re|[tal]
+vaginoscopia	nome feminino	va|gi|nos|co|[pi]|a
+vaginoscópico	adjetivo	va|gi|nos|[có]|pi|co
+vaginoscópio	nome masculino	va|gi|nos|[có]|pi|o
+vaginotomia	nome feminino	va|gi|no|to|[mi]|a
+vaginotómico	adjetivo	va|gi|no|[tó]|mi|co
+vaginotômico	adjetivo	va|gi|no|[tô]|mi|co
+vaginovesical	adjetivo	va|gi|no|ve|si|[cal]
+vaginovulvar	adjetivo	va|gi|no|vul|[var]
+vagínula	nome feminino	va|[gí]|nu|la
+vaginulado	adjetivo	va|gi|nu|[la]|do
+vaginulífero	adjetivo	va|gi|nu|[lí]|fe|ro
+vaginuterino	adjetivo	va|gi|nu|te|[ri]|no
+vagir	verbo	va|[gir]
+vagir	nome masculino	va|[gir]
+vago	adjetivo	[va]|go
+vago	nome masculino	[va]|go
+vagomestre	nome masculino	va|go|[mes]|tre
+vagoneiro	nome masculino	va|go|[nei]|ro
+vagoneta	nome feminino	va|go|[ne]|ta
+vagonete	nome masculino	va|go|[ne]|te
+vagotonia	nome feminino	va|go|to|[ni]|a
+vagueação	nome feminino	va|gue|a|[ção]
+vaguear	verbo	va|gue|[ar]
+vaguedo	nome masculino	va|[gue]|do
+vagueira	nome feminino	va|[guei]|ra
+vagueiro	nome masculino	va|[guei]|ro
+vagueiro	adjetivo	va|[guei]|ro
+vaguejar	verbo	va|gue|[jar]
+vaguense	adjetivo	va|[guen]|se
+vaguense	nome masculino	va|[guen]|se
+voyeurista	adjetivo	voy|eu|ris|ta
+voyeurístico	adjetivo	voy|eu|rís|ti|co
+voz	nome feminino	[voz]
+voz-off	nome feminino	[voz-off]
+vozão	nome masculino	vo|[zão]
+vozaria	nome feminino	vo|za|[ri]|a
+vozeada	nome feminino	vo|ze|[a]|da
+vozeado	adjetivo	vo|ze|[a]|do
+vozeador	adjetivo	vo|ze|a|[dor]
+vozeador	nome masculino	vo|ze|a|[dor]
+vozeamento	nome masculino	vo|ze|a|[men]|to
+vozear	verbo	vo|ze|[ar]
+vozear	nome masculino	vo|ze|[ar]
+vozearia	nome feminino	vo|ze|a|[ri]|a
+vozeio	nome masculino	vo|[zei]|o
+vozeirada	nome feminino	vo|zei|[ra]|da
+vozeirão	nome masculino	vo|zei|[rão]
+vozeirar	verbo	vo|zei|[rar]
+vozeiro	adjetivo	vo|[zei]|ro
+vozeiro	nome masculino	vo|[zei]|ro
+vozeria	nome feminino	vo|ze|[ri]|a
+vozerio	nome masculino	vo|ze|[ri]|o
+vozinha	nome feminino	vo|[zi]|nha
+vrancelhas	nome feminino	vran|[ce]|lhas
+vreia	nome feminino	[vrei]|a
+vriangueme	nome masculino	vri|an|[gue]|me
+vrídi	nome feminino	[vrí]|di
+vridização	nome feminino	vri|di|za|[ção]
+vu	nome masculino	[vu]
+vuanganga	nome feminino	vu|an|[gan]|ga
+vuarame	nome masculino	vu|a|[ra]|me
+vuba	nome feminino	[vu]|ba
+vudu	nome masculino	vu|[du]
+vulcâneo	adjetivo	vul|[câ]|ne|o
+vulcaniano	adjetivo	vul|ca|ni|[a]|no
+vulcanicamente	advérbio	vul|ca|ni|ca|[men]|te
+vulcanicidade	nome feminino	vul|ca|ni|ci|[da]|de
+vulcânico	adjetivo	vul|[câ]|ni|co
+vulcaniforme	adjetivo	vul|ca|ni|[for]|me
+vulcanina	nome feminino	vul|ca|[ni]|na
+vulcanismo	nome masculino	vul|ca|[nis]|mo
+vulcanista	adjetivo	vul|ca|[nis]|ta
+vulcanista	nome masculino	vul|ca|[nis]|ta
+vulcanista	nome feminino	vul|ca|[nis]|ta
+vulcanite	nome feminino	vul|ca|[ni]|te
+vulcanização	nome feminino	vul|ca|ni|za|[ção]
+vulcanizador	nome masculino	vul|ca|ni|za|[dor]
+vulcanizador	adjetivo	vul|ca|ni|za|[dor]
+vulcanizar	verbo	vul|ca|ni|[zar]
+vulcanizável	adjetivo	vul|ca|ni|[zá]|vel
+vulcanóloga	nome feminino	vul|ca|[nó]|lo|ga
+vulcanologia	nome feminino	vul|ca|no|lo|[gi]|a
+vulcanológico	adjetivo	vul|ca|no|[ló]|gi|co
+vulcanologista	nome masculino	vul|ca|no|lo|[gis]|ta
+vulcanologista	nome feminino	vul|ca|no|lo|[gis]|ta
+vulcanólogo	nome masculino	vul|ca|[nó]|lo|go
+vulcão	nome masculino	vul|[cão]
+vulfilano	adjetivo	vul|fi|[la]|no
+vulgacho	nome masculino	vul|[ga]|cho
+vulgar	adjetivo	vul|[gar]
+vulgar	verbo	vul|[gar]
+vulgar	nome masculino	vul|[gar]
+vulgaridade	nome feminino	vul|ga|ri|[da]|de
+vulgarismo	nome masculino	vul|ga|[ris]|mo
+vulgarista	adjetivo	vul|ga|[ris]|ta
+vulgarista	nome masculino	vul|ga|[ris]|ta
+vulgarista	nome feminino	vul|ga|[ris]|ta
+vulgarização	nome feminino	vul|ga|ri|za|[ção]
+vulgarizador	adjetivo	vul|ga|ri|za|[dor]
+vulgarizador	nome masculino	vul|ga|ri|za|[dor]
+vulgarizadora	nome feminino	vul|ga|ri|za|[do]|ra
+vulgarizante	adjetivo	vul|ga|ri|[zan]|te
+vulgarizar	verbo	vul|ga|ri|[zar]
+vulgarizável	adjetivo	vul|ga|ri|[zá]|vel
+vulgarmente	advérbio	vul|gar|[men]|te
+vulgata	nome feminino	vul|[ga]|ta
+vulgiente	adjetivo	vul|gi|[en]|te
+vulgiente	nome masculino	vul|gi|[en]|te
+vulgiente	nome feminino	vul|gi|[en]|te
+vulgívago	adjetivo	vul|[gí]|va|go
+vulgívago	nome masculino	vul|[gí]|va|go
+vulgo	nome masculino	[vul]|go
+vulgocracia	nome feminino	vul|go|cra|[ci]|a
+vulgocrático	adjetivo	vul|go|[crá]|ti|co
+vulnerabilidade	nome feminino	vul|ne|ra|bi|li|[da]|de
+vulnerabilizar	verbo	vul|ne|ra|bi|li|[zar]
+vulneração	nome feminino	vul|ne|ra|[ção]
+vulnerador	adjetivo	vul|ne|ra|[dor]
+vulneral	adjetivo	vul|ne|[ral]
+vulnerante	adjetivo	vul|ne|[ran]|te
+vulnerar	verbo	vul|ne|[rar]
+vulnerária	nome feminino	vul|ne|[rá]|ri|a
+vulnerário	adjetivo	vul|ne|[rá]|ri|o
+vulnerário	nome masculino	vul|ne|[rá]|ri|o
+vulnerativo	adjetivo	vul|ne|ra|[ti]|vo
+vulnerável	adjetivo	vul|ne|[rá]|vel
+vulneravelmente	advérbio	vul|ne|ra|vel|[men]|te
+vulnífico	adjetivo	vul|[ní]|fi|co
+vulpina	nome feminino	vul|[pi]|na
+vulpinite	nome feminino	vul|pi|[ni]|te
+visor	nome masculino	vi|[sor]
+visório	adjetivo	vi|[só]|ri|o
+vispar	verbo	vis|[par]
+víspere	interjeição	[vís]|pe|re
+víspora	nome feminino	[vís]|po|ra
+visporar	verbo	vis|po|[rar]
+visqueira	nome feminino	vis|[quei]|ra
+visqueiro	nome masculino	vis|[quei]|ro
+vissarga	nome masculino	vis|[sar]|ga
+vista	nome feminino	[vis]|ta
+vistão	nome masculino	vis|[tão]
+visto	adjetivo	[vis]|to
+visto	nome masculino	[vis]|to
+visto	preposição	[vis]|to
+vistor	adjetivo	vis|[tor]
+vistor	nome masculino	vis|[tor]
+vistora	nome feminino	vis|[to]|ra
+vistoria	nome feminino	vis|to|[ri]|a
+vistoriador	adjetivo	vis|to|ri|a|[dor]
+vistoriador	nome masculino	vis|to|ri|a|[dor]
+vistoriadora	nome feminino	vis|to|ri|a|[do]|ra
+vistoriar	verbo	vis|to|ri|[ar]
+vistorizar	verbo	vis|to|ri|[zar]
+vistosamente	advérbio	vis|to|sa|[men]|te
+vistoso	adjetivo	vis|[to]|so
+visual	adjetivo	vi|su|[al]
+visual	nome masculino	vi|su|[al]
+visualidade	nome feminino	vi|su|a|li|[da]|de
+visualização	nome feminino	vi|su|a|li|za|[ção]
+visualizar	verbo	vi|su|a|li|[zar]
+visualizável	adjetivo	vi|su|a|li|[zá]|vel
+visualmente	advérbio	vi|su|al|[men]|te
+visvassi	nome masculino	vis|vas|[si]
+vitácea	nome feminino	vi|[tá]|ce|a
+vitáceo	nome masculino	vi|[tá]|ce|o
+vitadínia-das-floristas	nome feminino	vi|ta|dí|ni|a-das-flo|[ris]|tas
+vital	adjetivo	vi|[tal]
+vital	nome masculino	vi|[tal]
+vitaliciamente	advérbio	vi|ta|li|ci|a|[men]|te
+vitaliciedade	nome feminino	vi|ta|li|ci|e|[da]|de
+vitalício	adjetivo	vi|ta|[lí]|ci|o
+vitalidade	nome feminino	vi|ta|li|[da]|de
+vitalífero	adjetivo	vi|ta|[lí]|fe|ro
+vitalina	nome feminino	vi|ta|[li]|na
+vitalismo	nome masculino	vi|ta|[lis]|mo
+vitalista	nome masculino	vi|ta|[lis]|ta
+vitalista	adjetivo	vi|ta|[lis]|ta
+vitalista	nome feminino	vi|ta|[lis]|ta
+vitalização	nome feminino	vi|ta|li|za|[ção]
+vitalizado	adjetivo	vi|ta|li|[za]|do
+vitalizador	adjetivo	vi|ta|li|za|[dor]
+vitalizador	nome masculino	vi|ta|li|za|[dor]
+vitalizadora	nome feminino	vi|ta|li|za|[do]|ra
+vitalizante	adjetivo	vi|ta|li|[zan]|te
+vitalizante	nome masculino	vi|ta|li|[zan]|te
+vitalizante	nome feminino	vi|ta|li|[zan]|te
+vitalizar	verbo	vi|ta|li|[zar]
+vitalizável	adjetivo	vi|ta|li|[zá]|vel
+vitalmente	advérbio	vi|tal|[men]|te
+vitamina	nome feminino	vi|ta|[mi]|na
+vitamina	nome masculino	vi|ta|[mi]|na
+vitaminação	nome feminino	vi|ta|mi|na|[ção]
+vitaminado	adjetivo	vi|ta|mi|[na]|do
+vitaminar	verbo	vi|ta|mi|[nar]
+vitamínico	adjetivo	vi|ta|[mí]|ni|co
+vitaminizar	verbo	vi|ta|mi|ni|[zar]
+vitaminologia	nome feminino	vi|ta|mi|no|lo|[gi]|a
+vitaminose	nome feminino	vi|ta|mi|[no]|se
+vitaminoterapia	nome feminino	vi|ta|mi|no|te|ra|[pi]|a
+vitando	adjetivo	vi|[tan]|do
+vitatório	adjetivo	vi|ta|[tó]|ri|o
+vitável	adjetivo	vi|[tá]|vel
+vitela	nome feminino	vi|[te]|la
+vitelária	nome feminino	vi|te|[lá]|ri|a
+vítele	nome masculino	[ví]|te|le
+viteleira	nome feminino	vi|te|[lei]|ra
+viteleiro	nome masculino	vi|te|[lei]|ro
+vitelense	adjetivo	vi|te|[len]|se
+vitelense	nome masculino	vi|te|[len]|se
+vitelense	nome feminino	vi|te|[len]|se
+viteliano	adjetivo	vi|te|li|[a]|no
+viteliduto	nome masculino	vi|te|li|[du]|to
+vitelífero	adjetivo	vi|te|[lí]|fe|ro
+vitelina	nome feminino	vi|te|[li]|na
+vitelino	adjetivo	vi|te|[li]|no
+vitelo	nome masculino	vi|[te]|lo
+viteloduto	nome masculino	vi|te|lo|[du]|to
+vitelogéneo	adjetivo	vi|te|lo|[gé]|ne|o
+vitelogénese	nome feminino	vi|te|lo|[gé]|ne|se
+vitelogênese	nome feminino	vi|te|lo|[gê]|ne|se
+vitelógeno	adjetivo	vi|te|[ló]|ge|no
+viticácea	nome feminino	vi|ti|[cá]|ce|a
+vitícola	adjetivo	vi|[tí]|co|la
+vitícola	nome masculino	vi|[tí]|co|la
+vitícola	nome feminino	vi|[tí]|co|la
+viticomado	adjetivo	vi|ti|co|[ma]|do
+viticultor	adjetivo	vi|ti|cul|[tor]
+viticultor	nome masculino	vi|ti|cul|[tor]
+viticultora	nome feminino	vi|ti|cul|[to]|ra
+viticultura	nome feminino	vi|ti|cul|[tu]|ra
+vesuviana	nome feminino	ve|su|vi|[a]|na
+vesuvianita	nome feminino	ve|su|vi|a|[ni]|ta
+vesuvianite	nome feminino	ve|su|vi|a|[ni]|te
+vesuviano	adjetivo	ve|su|vi|[a]|no
+vesúvio	nome masculino	ve|[sú]|vi|o
+vetação	nome feminino	ve|ta|[ção]
+vetão	adjetivo	ve|[tão]
+vetão	nome masculino	ve|[tão]
+vetar	verbo	ve|[tar]
+vetativo	adjetivo	ve|ta|[ti]|vo
+vetebralidade	nome feminino	ve|te|bra|li|[da]|de
+veteramento	nome masculino	ve|te|ra|[men]|to
+veterana	nome feminino	ve|te|[ra]|na
+veterania	nome feminino	ve|te|ra|[ni]|a
+veteranice	nome feminino	ve|te|ra|[ni]|ce
+veterano	nome masculino	ve|te|[ra]|no
+veterano	adjetivo	ve|te|[ra]|no
+veterinária	nome feminino	ve|te|ri|[ná]|ri|a
+veterinariamente	advérbio	ve|te|ri|na|ri|a|[men]|te
+veterinário	nome masculino	ve|te|ri|[ná]|ri|o
+veterinário	adjetivo	ve|te|ri|[ná]|ri|o
+vetérrimo	adjetivo	ve|[tér]|ri|mo
+vétio	adjetivo	[vé]|ti|o
+vétio	nome masculino	[vé]|ti|o
+vetiver	nome masculino	ve|ti|[ver]
+veto	nome masculino	[ve]|to
+vetor	nome masculino	ve|[tor]
+vetorial	adjetivo	ve|to|ri|[al]
+vetorizar	verbo	ve|to|ri|[zar]
+vetrice	nome feminino	ve|[tri]|ce
+vetustade	nome feminino	ve|tus|[ta]|de
+vetustamente	advérbio	ve|tus|ta|[men]|te
+vetustez	nome feminino	ve|tus|[tez]
+vetusto	adjetivo	ve|[tus]|to
+véu	nome masculino	[véu]
+veuzinho	nome masculino	veu|[zi]|nho
+vevuia	nome feminino	ve|[vui]|a
+vexação	nome feminino	ve|xa|[ção]
+vexado	adjetivo	ve|[xa]|do
+vexador	adjetivo	ve|xa|[dor]
+vexador	nome masculino	ve|xa|[dor]
+vexadora	nome feminino	ve|xa|[do]|ra
+vexame	nome masculino	ve|[xa]|me
+vexante	adjetivo	ve|[xan]|te
+vexar	verbo	ve|[xar]
+vexativo	adjetivo	ve|xa|[ti]|vo
+vexatoriamente	advérbio	ve|xa|to|ri|a|[men]|te
+vexatório	adjetivo	ve|xa|[tó]|ri|o
+vexilar	adjetivo	ve|xi|[lar]
+vexilária	nome feminino	ve|xi|[lá]|ri|a
+vexilário	nome masculino	ve|xi|[lá]|ri|o
+vexilífero	nome masculino	ve|xi|[lí]|fe|ro
+vexilo	nome masculino	ve|[xi]|lo
+vez	nome feminino	[vez]
+vezada	nome feminino	ve|[za]|da
+vezar	verbo	ve|[zar]
+vezeira	nome feminino	ve|[zei]|ra
+vezeireiro	nome masculino	ve|zei|[rei]|ro
+vezeiro	adjetivo	ve|[zei]|ro
+vezeiro	nome masculino	ve|[zei]|ro
+vezo	nome masculino	[ve]|zo
+via	preposição	[vi]|a
+via	nome feminino	[vi]|a
+via-férrea	nome feminino	vi|a-fér|re|a
+via-sacra	nome feminino	vi|a-sa|cra
+viabilidade	nome feminino	vi|a|bi|li|[da]|de
+viabilização	nome feminino	vi|a|bi|li|za|[ção]
+viabilizar	verbo	vi|a|bi|li|[zar]
+viação	nome feminino	vi|a|[ção]
+viaciense	adjetivo	vi|a|ci|[en]|se
+viaciense	nome masculino	vi|a|ci|[en]|se
+viaciense	nome feminino	vi|a|ci|[en]|se
+viador	nome masculino	vi|a|[dor]
+viaduto	nome masculino	vi|a|[du]|to
+viageira	nome feminino	vi|a|[gei]|ra
+viageiro	nome masculino	vi|a|[gei]|ro
+viageiro	adjetivo	vi|a|[gei]|ro
+viagem	nome feminino	vi|[a]|gem
+viagenzinha	nome feminino	vi|a|gen|[zi]|nha
+viajada	nome feminino	vi|a|[ja]|da
+viajado	adjetivo	vi|a|[ja]|do
+viajador	adjetivo	vi|a|ja|[dor]
+viajador	nome masculino	vi|a|ja|[dor]
+viajante	adjetivo	vi|a|[jan]|te
+viajante	nome masculino	vi|a|[jan]|te
+viajante	nome feminino	vi|a|[jan]|te
+viajar	verbo	vi|a|[jar]
+viajata	nome feminino	vi|a|[ja]|ta
+viajor	nome masculino	vi|a|[jor]
+viajora	nome feminino	vi|a|[jo]|ra
+vial	adjetivo	vi|[al]
+vial	nome masculino	vi|[al]
+viamonense	adjetivo	vi|a|mo|[nen]|se
+viamonense	nome masculino	vi|a|mo|[nen]|se
+viamonense	nome feminino	vi|a|mo|[nen]|se
+viana	nome feminino	vi|[a]|na
+vianda	nome feminino	vi|[an]|da
+viandante	adjetivo	vi|an|[dan]|te
+viandante	nome masculino	vi|an|[dan]|te
+viandante	nome feminino	vi|an|[dan]|te
+vigilengo	nome masculino	vi|gi|[len]|go
+vigília	nome feminino	vi|[gí]|li|a
+vigintivirado	nome masculino	vi|gin|ti|vi|[ra]|do
+vigintiviral	adjetivo	vi|gin|ti|vi|[ral]
+vigintivirato	nome masculino	vi|gin|ti|vi|[ra]|to
+vigintíviro	nome masculino	vi|gin|[tí]|vi|ro
+vigonho	nome masculino	vi|[go]|nho
+vigor	nome masculino	vi|[gor]
+vigorante	adjetivo	vi|go|[ran]|te
+vigorar	verbo	vi|go|[rar]
+vigorite	nome feminino	vi|go|[ri]|te
+vigorizar	verbo	vi|go|ri|[zar]
+vigorosamente	advérbio	vi|go|ro|sa|[men]|te
+vigoroso	adjetivo	vi|go|[ro]|so
+vigota	nome feminino	vi|[go]|ta
+vigote	nome masculino	vi|[go]|te
+viguês	adjetivo	vi|[guês]
+viguês	nome masculino	vi|[guês]
+viking	adjetivo	[vi]|king
+viking	nome masculino	[vi]|king
+viking	nome feminino	[vi]|king
+vil	adjetivo	[vil]
+vil	nome masculino	[vil]
+vil	nome feminino	[vil]
+vila	nome feminino	[vi]|la
+vila-bispense	adjetivo	vi|la-bis|[pen]|se
+vila-bispense	nome masculino	vi|la-bis|[pen]|se
+vila-bispense	nome feminino	vi|la-bis|[pen]|se
+vila-condense	nome masculino	vi|la-con|[den]|se
+vila-condense	adjetivo	vi|la-con|[den]|se
+vila-condense	nome feminino	vi|la-con|[den]|se
+vila-florense	nome masculino	vi|la-flo|[ren]|se
+vila-florense	adjetivo	vi|la-flo|[ren]|se
+vila-florense	nome feminino	vi|la-flo|[ren]|se
+vila-franquense	adjetivo	vi|la-fran|[quen]|se
+vila-franquense	nome masculino	vi|la-fran|[quen]|se
+vila-franquense	nome feminino	vi|la-fran|[quen]|se
+vila-museu	nome feminino	vi|la-mu|[seu]
+vila-novense	adjetivo	vi|la-no|[ven]|se
+vila-novense	nome masculino	vi|la-no|[ven]|se
+vila-novense	nome feminino	vi|la-no|[ven]|se
+vila-portense	adjetivo	vi|la-por|[ten]|se
+vila-portense	nome masculino	vi|la-por|[ten]|se
+vila-portense	nome feminino	vi|la-por|[ten]|se
+vila-realense	adjetivo	vi|la-re|a|[len]|se
+vila-realense	nome masculino	vi|la-re|a|[len]|se
+vila-realense	nome feminino	vi|la-re|a|[len]|se
+vila-regense	nome masculino	vi|la-re|[gen]|se
+vila-regense	adjetivo	vi|la-re|[gen]|se
+vila-regense	nome feminino	vi|la-re|[gen]|se
+vila-riquense	nome masculino	vi|la-ri|[quen]|se
+vila-riquense	adjetivo	vi|la-ri|[quen]|se
+vila-riquense	nome feminino	vi|la-ri|[quen]|se
+vila-verde	nome feminino	vi|la-ver|de
+vila-verdense	adjetivo	vi|la-ver|[den]|se
+vila-verdense	nome masculino	vi|la-ver|[den]|se
+vila-verdense	nome feminino	vi|la-ver|[den]|se
+vila-viçosense	adjetivo	vi|la-vi|ço|[sen]|se
+vila-viçosense	nome masculino	vi|la-vi|ço|[sen]|se
+vila-viçosense	nome feminino	vi|la-vi|ço|[sen]|se
+vilaçorano	nome masculino	vi|la|ço|[ra]|no
+vilaçorano	adjetivo	vi|la|ço|[ra]|no
+vilãmente	advérbio	vi|lã|[men]|te
+vilanaço	adjetivo	vi|la|[na]|ço
+vilanaço	nome masculino	vi|la|[na]|ço
+vilanagem	nome feminino	vi|la|[na]|gem
+vilanaz	adjetivo	vi|la|[naz]
+vilanaz	nome masculino	vi|la|[naz]
+vilanaz	nome feminino	vi|la|[naz]
+vilancete	nome masculino	vi|lan|[ce]|te
+vilancico	nome masculino	vi|lan|[ci]|co
+vilanesco	adjetivo	vi|la|[nes]|co
+vilania	nome feminino	vi|la|[ni]|a
+vilão	adjetivo	vi|[lão]
+vilão	nome masculino	vi|[lão]
+vilar	nome masculino	vi|[lar]
+vilarejo	nome masculino	vi|la|[re]|jo
+vilarelho	nome masculino	vi|la|[re]|lho
+vilarinho	nome masculino	vi|la|[ri]|nho
+vilastro	nome masculino	vi|[las]|tro
+vileco	nome masculino	vi|[le]|co
+vilegiatura	nome feminino	vi|le|gi|a|[tu]|ra
+vilegiaturar	verbo	vi|le|gi|a|tu|[rar]
+vilegiaturista	nome masculino	vi|le|gi|a|tu|[ris]|ta
+vilegiaturista	nome feminino	vi|le|gi|a|tu|[ris]|ta
+vilela	nome feminino	vi|[le]|la
+vilescer	verbo	vi|les|[cer]
+vileta	nome feminino	vi|[le]|ta
+vileza	nome feminino	vi|[le]|za
+vilhancete	nome masculino	vi|lhan|[ce]|te
+vilhancico	nome masculino	vi|lhan|[ci]|co
+vilhanesca	nome feminino	vi|lha|[nes]|ca
+vilicar	verbo	vi|li|[car]
+vílico	nome masculino	[ví]|li|co
+vilificação	nome feminino	vi|li|fi|ca|[ção]
+vilificar	verbo	vi|li|fi|[car]
+vilipendiação	nome feminino	vi|li|pen|di|a|[ção]
+vilipendiado	adjetivo	vi|li|pen|di|[a]|do
+vilipendiador	adjetivo	vi|li|pen|di|a|[dor]
+vilipendiador	nome masculino	vi|li|pen|di|a|[dor]
+vedanta	nome masculino	ve|[dan]|ta
+vedântico	adjetivo	ve|[dân]|ti|co
+vedantismo	nome masculino	ve|dan|[tis]|mo
+vedantista	adjetivo	ve|dan|[tis]|ta
+vedantista	nome masculino	ve|dan|[tis]|ta
+vedantista	nome feminino	ve|dan|[tis]|ta
+vedar	verbo	ve|[dar]
+vedável	adjetivo	ve|[dá]|vel
+vedeta	nome feminino	ve|[de]|ta
+vedete	nome feminino	ve|[de]|te
+vedetismo	nome masculino	ve|de|[tis]|mo
+vediâncio	adjetivo	ve|di|[ân]|ci|o
+vediâncio	nome masculino	ve|di|[ân]|ci|o
+védico	adjetivo	[vé]|di|co
+védico	nome masculino	[vé]|di|co
+vedismo	nome masculino	ve|[dis]|mo
+vedo	nome masculino	[ve]|do
+vedoia	nome masculino	ve|[doi]|a
+vedor	adjetivo	ve|[dor]
+vedor	nome masculino	ve|[dor]
+vedora	nome feminino	ve|[do]|ra
+vedoria	nome feminino	ve|do|[ri]|a
+vedro	nome masculino	[ve]|dro
+vedro	adjetivo	[ve]|dro
+veeira	nome feminino	ve|[ei]|ra
+veeiro	nome masculino	ve|[ei]|ro
+veemência	nome feminino	ve|e|[mên]|ci|a
+veemente	adjetivo	ve|e|[men]|te
+veementemente	advérbio	ve|e|men|te|[men]|te
+veementizar	verbo	ve|e|men|ti|[zar]
+vegado	adjetivo	ve|[ga]|do
+vegan	nome masculino	[ve]|gan
+vegan	adjetivo	[ve]|gan
+vegan	nome feminino	ve|[gan]
+veganismo	nome masculino	ve|ga|[nis]|mo
+veganista	adjetivo	ve|ga|[nis]|ta
+veganista	nome masculino	ve|ga|[nis]|ta
+veganista	nome feminino	ve|ga|[nis]|ta
+vegetabilidade	nome feminino	ve|ge|ta|bi|li|[da]|de
+vegetação	nome feminino	ve|ge|ta|[ção]
+vegetacional	adjetivo	ve|ge|ta|ci|o|[nal]
+vegetal	nome masculino	ve|ge|[tal]
+vegetal	adjetivo	ve|ge|[tal]
+vegetálculo	nome masculino	ve|ge|[tál]|cu|lo
+vegetaliano	adjetivo	ve|ge|ta|li|[a]|no
+vegetaliano	nome masculino	ve|ge|ta|li|[a]|no
+vegetalidade	nome feminino	ve|ge|ta|li|[da]|de
+vegetaliforme	adjetivo	ve|ge|ta|li|[for]|me
+vegetalina	nome feminino	ve|ge|ta|[li]|na
+vegetalino	adjetivo	ve|ge|ta|[li]|no
+vegetalino	nome masculino	ve|ge|ta|[li]|no
+vegetalismo	nome masculino	ve|ge|ta|[lis]|mo
+vegetalista	adjetivo	ve|ge|ta|[lis]|ta
+vegetalista	nome masculino	ve|ge|ta|[lis]|ta
+vegetalista	nome feminino	ve|ge|ta|[lis]|ta
+vegetalização	nome feminino	ve|ge|ta|li|za|[ção]
+vegetalizante	adjetivo	ve|ge|ta|li|[zan]|te
+vegetalizar	verbo	ve|ge|ta|li|[zar]
+vegetante	adjetivo	ve|ge|[tan]|te
+vegetar	verbo	ve|ge|[tar]
+vegetariana	nome feminino	ve|ge|ta|ri|[a]|na
+vegetarianismo	nome masculino	ve|ge|ta|ri|a|[nis]|mo
+vegetarianista	nome masculino	ve|ge|ta|ri|a|[nis]|ta
+vegetarianista	nome feminino	ve|ge|ta|ri|a|[nis]|ta
+vegetariano	adjetivo	ve|ge|ta|ri|[a]|no
+vegetariano	nome masculino	ve|ge|ta|ri|[a]|no
+vegetarismo	nome masculino	ve|ge|ta|[ris]|mo
+vegetarista	adjetivo	ve|ge|ta|[ris]|ta
+vegetarista	nome masculino	ve|ge|ta|[ris]|ta
+vegetarista	nome feminino	ve|ge|ta|[ris]|ta
+vegetativamente	advérbio	ve|ge|ta|ti|va|[men]|te
+vegetativo	adjetivo	ve|ge|ta|[ti]|vo
+vegetável	adjetivo	ve|ge|[tá]|vel
+vegetívoro	adjetivo	ve|ge|[tí]|vo|ro
+végeto	adjetivo	[vé]|ge|to
+végeto-animal	adjetivo	vé|ge|to-a|ni|[mal]
+végeto-mineral	adjetivo	vé|ge|to-mi|ne|[ral]
+veia	nome feminino	[vei]|a
+veiar	verbo	vei|[ar]
+veiculação	nome feminino	vei|cu|la|[ção]
+veiculador	adjetivo	vei|cu|la|[dor]
+veiculador	nome masculino	vei|cu|la|[dor]
+veicular	adjetivo	vei|cu|[lar]
+veicular	verbo	vei|cu|[lar]
+veículo	nome masculino	ve|[í]|cu|lo
+veieira	nome feminino	vei|[ei]|ra
+veientano	adjetivo	vei|en|[ta]|no
+veientano	nome masculino	vei|en|[ta]|no
+veiente	adjetivo	vei|[en]|te
+veiente	nome masculino	vei|[en]|te
+veiente	nome feminino	vei|[en]|te
+veiga	nome feminino	[vei]|ga
+veio	nome masculino	[vei]|o
+veirado	adjetivo	vei|[ra]|do
+veirado	nome masculino	vei|[ra]|do
+veiro	nome masculino	[vei]|ro
+vejentano	adjetivo	ve|jen|[ta]|no
+vejentano	nome masculino	ve|jen|[ta]|no
+vejente	adjetivo	ve|[jen]|te
+vejente	nome masculino	ve|[jen]|te
+virginal	nome masculino	vir|gi|[nal]
+virginalizar	verbo	vir|gi|na|li|[zar]
+virginalmente	advérbio	vir|gi|nal|[men]|te
+virgindade	nome feminino	vir|gin|[da]|de
+virgineamente	advérbio	vir|gi|ne|a|[men]|te
+virgíneo	adjetivo	vir|[gí]|ne|o
+virgínia	nome feminino	vir|[gí]|ni|a
+virginiano	adjetivo	vir|gi|ni|[a]|no
+virginiano	nome masculino	vir|gi|ni|[a]|no
+virginismo	nome masculino	vir|gi|[nis]|mo
+virginizar	verbo	vir|gi|ni|[zar]
+virginopolitano	adjetivo	vir|gi|no|po|li|[ta]|no
+virginopolitano	nome masculino	vir|gi|no|po|li|[ta]|no
+virgloriano	adjetivo	vir|glo|ri|[a]|no
+virgo	nome masculino	[vir]|go
+vírgula	nome feminino	[vír]|gu|la
+virgulação	nome feminino	vir|gu|la|[ção]
+virgular	verbo	vir|gu|[lar]
+virgulária	nome feminino	vir|gu|[lá]|ri|a
+vírgulas-dobradas	nome feminino	vír|gu|las-do|[bra]|das
+virgulofilia	nome feminino	vir|gu|lo|fi|[li]|a
+virgulófilo	adjetivo	vir|gu|[ló]|fi|lo
+virgulófilo	nome masculino	vir|gu|[ló]|fi|lo
+virgulofobia	nome feminino	vir|gu|lo|fo|[bi]|a
+virgulófobo	adjetivo	vir|gu|[ló]|fo|bo
+virgulófobo	nome masculino	vir|gu|[ló]|fo|bo
+virgulosa	nome feminino	vir|gu|[lo]|sa
+virgulta	nome feminino	vir|[gul]|ta
+víria	nome feminino	[ví]|ri|a
+viriático	adjetivo	vi|ri|[á]|ti|co
+viriatino	adjetivo	vi|ri|a|[ti]|no
+viriato	nome masculino	vi|ri|[a]|to
+viricida	adjetivo	vi|ri|[ci]|da
+viricida	nome masculino	vi|ri|[ci]|da
+viricultura	nome feminino	vi|ri|cul|[tu]|ra
+viridante	adjetivo	vi|ri|[dan]|te
+viridário	nome masculino	vi|ri|[dá]|ri|o
+víride	adjetivo	[ví]|ri|de
+viridente	adjetivo	vi|ri|[den]|te
+viridez	nome feminino	vi|ri|[dez]
+viridifloro	adjetivo	vi|ri|di|[flo]|ro
+viridifólio	adjetivo	vi|ri|di|[fó]|li|o
+viridipene	adjetivo	vi|ri|di|[pe]|ne
+viril	nome masculino	vi|[ril]
+viril	adjetivo	vi|[ril]
+virilha	nome feminino	vi|[ri]|lha
+virilidade	nome feminino	vi|ri|li|[da]|de
+virilismo	nome masculino	vi|ri|[lis]|mo
+virilização	nome feminino	vi|ri|li|za|[ção]
+virilizador	adjetivo	vi|ri|li|za|[dor]
+virilizar	verbo	vi|ri|li|[zar]
+virilmente	advérbio	vi|ril|[men]|te
+viripotente	adjetivo	vi|ri|po|[ten]|te
+viro	nome masculino	[vi]|ro
+virol	nome masculino	vi|[rol]
+virola	nome feminino	vi|[ro]|la
+viróloga	nome feminino	vi|[ró]|lo|ga
+virologia	nome feminino	vi|ro|lo|[gi]|a
+virológico	adjetivo	vi|ro|[ló]|gi|co
+virologista	nome masculino	vi|ro|lo|[gis]|ta
+virologista	nome feminino	vi|ro|lo|[gis]|ta
+virólogo	nome masculino	vi|[ró]|lo|go
+viropexia	nome feminino	vi|ro|pe|[xi]|a
+virosca	nome masculino	vi|[ros]|ca
+virose	nome feminino	vi|[ro]|se
+viroso	adjetivo	vi|[ro]|so
+virotaço	nome masculino	vi|ro|[ta]|ço
+virotada	nome feminino	vi|ro|[ta]|da
+virotão	nome masculino	vi|ro|[tão]
+virote	nome masculino	vi|[ro]|te
+viroteiro	nome masculino	vi|ro|[tei]|ro
+virótico	adjetivo	vi|[ró]|ti|co
+virtal	nome masculino	vir|[tal]
+virte	nome masculino	[vir]|te
+virtual	adjetivo	vir|tu|[al]
+virtualidade	nome feminino	vir|tu|a|li|[da]|de
+virtualmente	advérbio	vir|tu|al|[men]|te
+virtude	nome feminino	vir|[tu]|de
+virtuosa	nome feminino	vir|tu|[o]|sa
+virtuosamente	advérbio	vir|tu|o|sa|[men]|te
+virtuose	nome masculino	vir|tu|[o]|se
+virtuose	nome feminino	vir|tu|[o]|se
+virtuosidade	nome feminino	vir|tu|o|si|[da]|de
+virtuosismo	nome masculino	vir|tu|o|[sis]|mo
+virtuosíssimo	adjetivo	vir|tu|o|[sís]|si|mo
+virtuosístico	adjetivo	vir|tu|o|[sís]|ti|co
+virtuoso	nome masculino	vir|tu|[o]|so
+virtuoso	adjetivo	vir|tu|[o]|so
+viruçu	nome masculino	vi|ru|[çu]
+virulência	nome feminino	vi|ru|[lên]|ci|a
+virulentamente	advérbio	vi|ru|len|ta|[men]|te
+virulento	adjetivo	vi|ru|[len]|to
+vírus	nome masculino	[ví]|rus
+viruta	nome feminino	vi|[ru]|ta
+vis-à-vis	advérbio	[vis-à-vis]
+vis-à-vis	preposição	[vis-à-vis]
+visada	nome feminino	vi|[sa]|da
+visado	adjetivo	vi|[sa]|do
+visador	nome masculino	vi|sa|[dor]
+visagem	nome feminino	vi|[sa]|gem
+vizinhada	nome feminino	vi|zi|[nha]|da
+vizinhança	nome feminino	vi|zi|[nhan]|ça
+vizinhante	adjetivo	vi|zi|[nhan]|te
+vizinhar	verbo	vi|zi|[nhar]
+vizinho	nome masculino	vi|[zi]|nho
+vizinho	adjetivo	vi|[zi]|nho
+vizir	nome masculino	vi|[zir]
+vizirado	nome masculino	vi|zi|[ra]|do
+vizirato	nome masculino	vi|zi|[ra]|to
+vizo-real	adjetivo	vi|zo-re|[al]
+vizo-rei	nome masculino	vi|zo-rei
+vizo-reinado	nome masculino	vi|zo-rei|[na]|do
+vizo-reinar	verbo	vi|zo-rei|[nar]
+vlamíngia	nome feminino	vla|[mín]|gi|a
+vo-lo	contração	[vo-lo]
+voa-pé	nome masculino	vo|a-pé
+voacanga	nome feminino	vo|a|[can]|ga
+voaço	nome masculino	vo|[a]|ço
+voadeiras	nome feminino	vo|a|[dei]|ras
+voadoiros	nome masculino	vo|a|[doi]|ros
+voador	adjetivo	vo|a|[dor]
+voador	nome masculino	vo|a|[dor]
+voadora	nome feminino	vo|a|[do]|ra
+voadouros	nome masculino	vo|a|[dou]|ros
+voadura	nome feminino	vo|a|[du]|ra
+voagem	nome feminino	vo|[a]|gem
+voamento	nome masculino	vo|a|[men]|to
+voante	adjetivo	vo|[an]|te
+voar	verbo	vo|[ar]
+voaria	nome feminino	vo|a|[ri]|a
+voaz	adjetivo	vo|[az]
+vobisco	nome masculino	vo|[bis]|co
+voborde	nome masculino	vo|[bor]|de
+vocabular	adjetivo	vo|ca|bu|[lar]
+vocabulário	nome masculino	vo|ca|bu|[lá]|ri|o
+vocabularista	nome masculino	vo|ca|bu|la|[ris]|ta
+vocabularista	nome feminino	vo|ca|bu|la|[ris]|ta
+vocabularístico	adjetivo	vo|ca|bu|la|[rís]|ti|co
+vocabularmente	advérbio	vo|ca|bu|lar|[men]|te
+vocabulista	nome masculino	vo|ca|bu|[lis]|ta
+vocabulista	nome feminino	vo|ca|bu|[lis]|ta
+vocabulização	nome feminino	vo|ca|bu|li|za|[ção]
+vocabulizar	verbo	vo|ca|bu|li|[zar]
+vocábulo	nome masculino	vo|[cá]|bu|lo
+vocação	nome feminino	vo|ca|[ção]
+vocacionado	adjetivo	vo|ca|ci|o|[na]|do
+vocacional	adjetivo	vo|ca|ci|o|[nal]
+vocacionar	verbo	vo|ca|ci|o|[nar]
+vocal	adjetivo	vo|[cal]
+vocalicamente	advérbio	vo|ca|li|ca|[men]|te
+vocálico	adjetivo	vo|[cá]|li|co
+vocalismo	nome masculino	vo|ca|[lis]|mo
+vocalista	nome masculino	vo|ca|[lis]|ta
+vocalista	nome feminino	vo|ca|[lis]|ta
+vocalístico	adjetivo	vo|ca|[lís]|ti|co
+vocalização	nome feminino	vo|ca|li|za|[ção]
+vocalizador	adjetivo	vo|ca|li|za|[dor]
+vocalizador	nome masculino	vo|ca|li|za|[dor]
+vocalizadora	nome feminino	vo|ca|li|za|[do]|ra
+vocalizar	verbo	vo|ca|li|[zar]
+vocalizável	adjetivo	vo|ca|li|[zá]|vel
+vocalizo	nome masculino	vo|ca|[li]|zo
+vocalmente	advérbio	vo|cal|[men]|te
+vocate	adjetivo	vo|[ca]|te
+vocate	nome masculino	vo|[ca]|te
+vocate	nome feminino	vo|[ca]|te
+vocativamente	advérbio	vo|ca|ti|va|[men]|te
+vocativo	adjetivo	vo|ca|[ti]|vo
+vocativo	nome masculino	vo|ca|[ti]|vo
+vocatório	adjetivo	vo|ca|[tó]|ri|o
+você	pronome pessoal	vo|[cê]
+vociferação	nome feminino	vo|ci|fe|ra|[ção]
+vociferador	adjetivo	vo|ci|fe|ra|[dor]
+vociferador	nome masculino	vo|ci|fe|ra|[dor]
+vociferante	adjetivo	vo|ci|fe|[ran]|te
+vociferar	verbo	vo|ci|fe|[rar]
+vocôncio	adjetivo	vo|[côn]|ci|o
+vocôncio	nome masculino	vo|[côn]|ci|o
+voçoroca	nome feminino	vo|ço|[ro]|ca
+voda	nome feminino	[vo]|da
+vodca	nome feminino	[vod]|ca
+vodka	nome feminino	[vod]|ka
+vodo	nome masculino	[vo]|do
+vodu	nome masculino	vo|[du]
+voeira	nome feminino	vo|[ei]|ra
+voejante	adjetivo	vo|e|[jan]|te
+voejar	verbo	vo|e|[jar]
+voejo	nome masculino	vo|[e]|jo
+voga	nome masculino	[vo]|ga
+voga	nome feminino	[vo]|ga
+voga-avante	nome masculino	vo|ga-a|[van]|te
+vogal	adjetivo	vo|[gal]
+vogal	nome masculino	vo|[gal]
+vogal	nome feminino	vo|[gal]
+vogante	adjetivo	vo|[gan]|te
+vogar	verbo	vo|[gar]
+vogélia	nome feminino	vo|[gé]|li|a
+vogue	nome masculino	[vo]|gue
+vogueiro	nome masculino	vo|[guei]|ro
+voice-mail	nome masculino	voi|ce-mail
+voile	nome masculino	[voi]|le
+voivoda	nome masculino	voi|[vo]|da
+voivodia	nome feminino	voi|vo|[di]|a
+volanta	nome feminino	vo|[lan]|ta
+volante	nome masculino	vo|[lan]|te
+volante	adjetivo	vo|[lan]|te
+volante	nome feminino	vo|[lan]|te
+volanteira	nome feminino	vo|lan|[tei]|ra
+volantim	nome masculino	vo|lan|[tim]
+volantina	nome feminino	vo|lan|[ti]|na
+volapé	nome masculino	vo|la|[pé]
+volapuque	nome masculino	vo|la|[pu]|que
+volapuquista	adjetivo	vo|la|pu|[quis]|ta
+volapuquista	nome masculino	vo|la|pu|[quis]|ta
+volapuquista	nome feminino	vo|la|pu|[quis]|ta
+volata	nome feminino	vo|[la]|ta
+volataria	nome feminino	vo|la|ta|[ri]|a
+volateante	adjetivo	vo|la|te|[an]|te
+volatear	verbo	vo|la|te|[ar]
+volaterrano	adjetivo	vo|la|ter|[ra]|no
+volaterrano	nome masculino	vo|la|ter|[ra]|no
+volátil	adjetivo	vo|[lá]|til
+volátil	nome masculino	vo|[lá]|til
+volátil	nome feminino	vo|[lá]|til
+volatilidade	nome feminino	vo|la|ti|li|[da]|de
+volatilização	nome feminino	vo|la|ti|li|za|[ção]
+volatilizante	adjetivo	vo|la|ti|li|[zan]|te
+volatilizar	verbo	vo|la|ti|li|[zar]
+volatilizável	adjetivo	vo|la|ti|li|[zá]|vel
+volatim	nome masculino	vo|la|[tim]
+volatina	nome feminino	vo|la|[ti]|na
+volatório	adjetivo	vo|la|[tó]|ri|o
+volca	adjetivo	[vol]|ca
+volca	nome masculino	[vol]|ca
+volca	nome feminino	[vol]|ca
+volcânico	adjetivo	vol|[câ]|ni|co
+volcentino	adjetivo	vol|cen|[ti]|no
+volcentino	nome masculino	vol|cen|[ti]|no
+volciano	adjetivo	vol|ci|[a]|no
+volciano	nome masculino	vol|ci|[a]|no
+volciente	adjetivo	vol|ci|[en]|te
+volciente	nome masculino	vol|ci|[en]|te
+volciente	nome feminino	vol|ci|[en]|te
+vólei	nome masculino	[vó]|lei
+vôlei	nome masculino	[vô]|lei
+voleibol	nome masculino	vo|lei|[bol]
+voleibolista	adjetivo	vo|lei|bo|[lis]|ta
+voleibolista	nome masculino	vo|lei|bo|[lis]|ta
+voleibolista	nome feminino	vo|lei|bo|[lis]|ta
+volentina	nome feminino	vo|len|[ti]|na
+volframato	nome masculino	vol|fra|[ma]|to
+volfrâmico	adjetivo	vol|[frâ]|mi|co
+volfrâmio	nome masculino	vol|[frâ]|mi|o
+volframista	nome masculino	vol|fra|[mis]|ta
+volframista	nome feminino	vol|fra|[mis]|ta
+volframita	nome feminino	vol|fra|[mi]|ta
+volframite	nome feminino	vol|fra|[mi]|te
+volição	nome feminino	vo|li|[ção]
+volitante	adjetivo	vo|li|[tan]|te
+volitante	nome masculino	vo|li|[tan]|te
+volitar	verbo	vo|li|[tar]
+volitivo	adjetivo	vo|li|[ti]|vo
+volível	adjetivo	vo|[lí]|vel
+volley	nome masculino	[vol]|ley
+volo	nome masculino	[vo]|lo
+volofo	nome masculino	vo|[lo]|fo
+volovã	nome masculino	vo|lo|[vã]
+volsciano	adjetivo	vols|ci|[a]|no
+volsciano	nome masculino	vols|ci|[a]|no
+volsco	adjetivo	[vols]|co
+volsco	nome masculino	[vols]|co
+volt	nome masculino	[volt]
+volt-ampere	nome masculino	volt-am|[pe]|re
+volt-amperímetro	nome masculino	volt-am|pe|[rí]|me|tro
+volta	nome feminino	[vol]|ta
+volta no meio	nome feminino	[vol]|ta no mei|o
+volta no meio	nome masculino	[vol]|ta no mei|o
+volta-aiveca	nome feminino	vol|ta-ai|[ve]|ca
+volta-cara	nome feminino	vol|ta-ca|ra
+volta-face	nome feminino	vol|ta-fa|ce
+volta-redondense	adjetivo	vol|ta-re|don|[den]|se
+volta-redondense	nome masculino	vol|ta-re|don|[den]|se
+volta-redondense	nome feminino	vol|ta-re|don|[den]|se
+voltagem	nome feminino	vol|[ta]|gem
+voltaico	adjetivo	vol|[tai]|co
+voltairianismo	nome masculino	vol|tai|ri|a|[nis]|mo
+voltairianista	nome masculino	vol|tai|ri|a|[nis]|ta
+voltairianista	nome feminino	vol|tai|ri|a|[nis]|ta
+voltairiano	adjetivo	vol|tai|ri|[a]|no
+voltaísmo	nome masculino	vol|ta|[ís]|mo
+voltaíte	nome feminino	vol|ta|[í]|te
+voltaização	nome feminino	vol|tai|za|[ção]
+voltamétrico	adjetivo	vol|ta|[mé]|tri|co
+voltâmetro	nome masculino	vol|[tâ]|me|tro
+voltar	verbo	vol|[tar]
+voltarete	nome masculino	vol|ta|[re]|te
+voltaretista	nome masculino	vol|ta|re|[tis]|ta
+voltaretista	nome feminino	vol|ta|re|[tis]|ta
+voltário	adjetivo	vol|[tá]|ri|o
+volte	nome masculino	[vol]|te
+viúvo	nome masculino	vi|[ú]|vo
+viva	nome masculino	[vi]|va
+viva	interjeição	[vi]|va
+vivaça	nome feminino	vi|[va]|ça
+vivace	adjetivo	vi|[va]|ce
+vivacidade	nome feminino	vi|va|ci|[da]|de
+vivacíssimo	adjetivo	vi|va|[cís]|si|mo
+vivaço	adjetivo	vi|[va]|ço
+vivaço	nome masculino	vi|[va]|ço
+vivalhar	verbo	vi|va|[lhar]
+vivalma	nome feminino	vi|[val]|ma
+vivamente	advérbio	vi|va|[men]|te
+vivandeira	nome feminino	vi|van|[dei]|ra
+vivandeiro	nome masculino	vi|van|[dei]|ro
+vivar	verbo	vi|[var]
+vivaracho	adjetivo	vi|va|[ra]|cho
+vivariense	adjetivo	vi|va|ri|[en]|se
+vivariense	nome masculino	vi|va|ri|[en]|se
+vivariense	nome feminino	vi|va|ri|[en]|se
+vivaz	adjetivo	vi|[vaz]
+vivazmente	advérbio	vi|vaz|[men]|te
+vivedoiro	adjetivo	vi|ve|[doi]|ro
+vivedor	adjetivo	vi|ve|[dor]
+vivedouro	adjetivo	vi|ve|[dou]|ro
+viveirismo	nome masculino	vi|vei|[ris]|mo
+viveirista	nome masculino	vi|vei|[ris]|ta
+viveirista	nome feminino	vi|vei|[ris]|ta
+viveiro	nome masculino	vi|[vei]|ro
+vivença	nome feminino	vi|[ven]|ça
+vivência	nome feminino	vi|[vên]|ci|a
+vivencial	adjetivo	vi|ven|ci|[al]
+vivenciamento	nome masculino	vi|ven|ci|a|[men]|to
+vivenciar	verbo	vi|ven|ci|[ar]
+vivenda	nome feminino	vi|[ven]|da
+vivente	nome masculino	vi|[ven]|te
+vivente	adjetivo	vi|[ven]|te
+vivente	nome feminino	vi|[ven]|te
+viver	verbo	vi|[ver]
+viver	nome masculino	vi|[ver]
+víveres	nome masculino	[ví]|ve|res
+vivérrida	nome masculino	vi|[vér]|ri|da
+viverrídeo	adjetivo	vi|ver|[rí]|de|o
+viverrídeo	nome masculino	vi|ver|[rí]|de|o
+viverrídeo	nome masculino	vi|ver|[rí]|de|o
+viverrino	adjetivo	vi|ver|[ri]|no
+viveza	nome feminino	vi|[ve]|za
+vivi	nome masculino	vi|[vi]
+vivianita	nome feminino	vi|vi|a|[ni]|ta
+vivianite	nome feminino	vi|vi|a|[ni]|te
+vivicombúrio	nome masculino	vi|vi|com|[bú]|ri|o
+vividamente	advérbio	vi|vi|da|[men]|te
+vividez	nome feminino	vi|vi|[dez]
+vívido	adjetivo	[ví]|vi|do
+vivido	adjetivo	vi|[vi]|do
+vivificação	nome feminino	vi|vi|fi|ca|[ção]
+vivificador	adjetivo	vi|vi|fi|ca|[dor]
+vivificador	nome masculino	vi|vi|fi|ca|[dor]
+vivificadora	nome feminino	vi|vi|fi|ca|[do]|ra
+vivificante	adjetivo	vi|vi|fi|[can]|te
+vivificantemente	advérbio	vi|vi|fi|can|te|[men]|te
+vivificar	verbo	vi|vi|fi|[car]
+vivificativo	adjetivo	vi|vi|fi|ca|[ti]|vo
+vivificável	adjetivo	vi|vi|fi|[cá]|vel
+vivífico	adjetivo	vi|[ví]|fi|co
+vivinatalidade	nome feminino	vi|vi|na|ta|li|[da]|de
+viviparidade	nome feminino	vi|vi|pa|ri|[da]|de
+viviparismo	nome masculino	vi|vi|pa|[ris]|mo
+vivíparo	nome masculino	vi|[ví]|pa|ro
+vivíparo	adjetivo	vi|[ví]|pa|ro
+vivisco	adjetivo	vi|[vis]|co
+vivisco	nome masculino	vi|[vis]|co
+vivisseção	nome feminino	vi|vis|se|[ção]
+vivissecção	nome feminino	vi|vis|sec|[ção]
+vivisseccionismo	nome masculino	vi|vis|sec|ci|o|[nis]|mo
+vivisseccionista	nome masculino	vi|vis|sec|ci|o|[nis]|ta
+vivisseccionista	nome feminino	vi|vis|sec|ci|o|[nis]|ta
+vivissecionista	nome masculino	vi|vis|se|ci|o|[nis]|ta
+vivissecionista	nome feminino	vi|vis|se|ci|o|[nis]|ta
+vivissector	nome masculino	vi|vis|sec|[tor]
+vivissectora	nome feminino	vi|vis|sec|[to]|ra
+vivissetor	nome masculino	vi|vis|se|[tor]
+vivissetora	nome feminino	vi|vis|se|[to]|ra
+viviu	nome masculino	vi|[viu]
+vivível	adjetivo	vi|[ví]|vel
+vivo	adjetivo	[vi]|vo
+vivo	nome masculino	[vi]|vo
+vivo-to-dou	nome masculino	vi|vo-to-dou
+vivório	nome masculino	vi|[vó]|ri|o
+vivoteio	nome masculino	vi|vo|[tei]|o
+vívula	nome feminino	[ví]|vu|la
+vivungo	nome masculino	vi|[vun]|go
+vixnuísmo	nome masculino	vix|nu|[ís]|mo
+vixnuísta	nome masculino	vix|nu|[ís]|ta
+vixnuísta	nome feminino	vix|nu|[ís]|ta
+vizelense	nome masculino	vi|ze|[len]|se
+vizelense	adjetivo	vi|ze|[len]|se
+vizelense	nome feminino	vi|ze|[len]|se
+vizindade	nome feminino	vi|zin|[da]|de
+vizindário	nome masculino	vi|zin|[dá]|ri|o
+vizinha	nome feminino	vi|[zi]|nha
+vastar	verbo	vas|[tar]
+vasteza	nome feminino	vas|[te]|za
+vastidão	nome feminino	vas|ti|[dão]
+vastíssimo	adjetivo	vas|[tís]|si|mo
+vasto	adjetivo	[vas]|to
+vastuoso	adjetivo	vas|tu|[o]|so
+vatapá	nome masculino	va|ta|[pá]
+vatapu	nome masculino	va|ta|[pu]
+vate	nome masculino	[va]|te
+vate	nome feminino	[va]|te
+vatel	nome masculino	va|[tel]
+vaticanismo	nome masculino	va|ti|ca|[nis]|mo
+vaticanista	adjetivo	va|ti|ca|[nis]|ta
+vaticanista	nome masculino	va|ti|ca|[nis]|ta
+vaticanista	nome feminino	va|ti|ca|[nis]|ta
+vaticano	adjetivo	va|ti|[ca]|no
+vaticano	nome masculino	va|ti|[ca]|no
+vaticinação	nome feminino	va|ti|ci|na|[ção]
+vaticinador	adjetivo	va|ti|ci|na|[dor]
+vaticinador	nome masculino	va|ti|ci|na|[dor]
+vaticinadora	nome feminino	va|ti|ci|na|[do]|ra
+vaticinante	adjetivo	va|ti|ci|[nan]|te
+vaticinar	verbo	va|ti|ci|[nar]
+vaticinável	adjetivo	va|ti|ci|[ná]|vel
+vaticínio	nome masculino	va|ti|[cí]|ni|o
+vático	adjetivo	[vá]|ti|co
+vatídico	adjetivo	va|[tí]|di|co
+vatinga	nome feminino	va|[tin]|ga
+vátio	nome masculino	[vá]|ti|o
+vátio-hora	nome masculino	vá|ti|o-ho|ra
+vatricoso	adjetivo	va|tri|[co]|so
+vatu	nome masculino	va|[tu]
+vátua	nome masculino	[vá]|tu|a
+vátua	adjetivo	[vá]|tu|a
+vátua	nome feminino	[vá]|tu|a
+vau	nome masculino	[vau]
+vaudeville	nome masculino	vau|de|vil|le
+vauló	nome masculino	vau|[ló]
+vaurá	adjetivo	vau|[rá]
+vaurá	nome masculino	vau|[rá]
+vaurá	nome feminino	vau|[rá]
+vavassalo	nome masculino	va|vas|[sa]|lo
+vavavá	nome masculino	va|va|[vá]
+vavelite	nome feminino	va|ve|[li]|te
+vaza	nome feminino	[va]|za
+vaza-barris	nome masculino	va|za-bar|[ris]
+vazadeira	nome feminino	va|za|[dei]|ra
+vazadiço	adjetivo	va|za|[di]|ço
+vazado	nome masculino	va|[za]|do
+vazado	adjetivo	va|[za]|do
+vazadoiro	nome masculino	va|za|[doi]|ro
+vazador	adjetivo	va|za|[dor]
+vazador	nome masculino	va|za|[dor]
+vazadouro	nome masculino	va|za|[dou]|ro
+vazadura	nome feminino	va|za|[du]|ra
+vazamento	nome masculino	va|za|[men]|to
+vazante	adjetivo	va|[zan]|te
+vazante	nome feminino	va|[zan]|te
+vazanteiro	nome masculino	va|zan|[tei]|ro
+vazão	nome feminino	va|[zão]
+vazar	verbo	va|[zar]
+vazável	adjetivo	va|[zá]|vel
+vazeiro	nome masculino	va|[zei]|ro
+vazia	nome feminino	va|[zi]|a
+vaziador	adjetivo	va|zi|a|[dor]
+vaziador	nome masculino	va|zi|a|[dor]
+vaziamente	advérbio	va|zi|a|[men]|te
+vaziamento	nome masculino	va|zi|a|[men]|to
+vaziar	verbo	va|zi|[ar]
+vazio	nome masculino	va|[zi]|o
+vazio	adjetivo	va|[zi]|o
+vazo	adjetivo	[va]|zo
+vê	nome masculino	[vê]
+vê-lo-emos	nome masculino	vê-lo-e|mos
+veação	nome feminino	ve|a|[ção]
+veada	nome feminino	ve|[a]|da
+veadeiro	nome masculino	ve|a|[dei]|ro
+veadinho	nome masculino	ve|a|[di]|nho
+veado	nome masculino	ve|[a]|do
+veado-almiscareiro	nome masculino	ve|a|do-al|mis|ca|[rei]|ro
+veado-bororó	nome masculino	ve|a|do-bo|ro|[ró]
+veador	nome masculino	ve|a|[dor]
+veamino	adjetivo	ve|a|[mi]|no
+veamino	nome masculino	ve|a|[mi]|no
+vearia	nome feminino	ve|a|[ri]|a
+vectação	nome feminino	vec|ta|[ção]
+vector	nome masculino	vec|[tor]
+vectorial	adjetivo	vec|to|ri|[al]
+vectorizar	verbo	vec|to|ri|[zar]
+vecturião	nome masculino	vec|tu|ri|[ão]
+vecturião	adjetivo	vec|tu|ri|[ão]
+veda	nome feminino	[ve]|da
+veda-luz	nome masculino	ve|da-luz
+vedação	nome feminino	ve|da|[ção]
+vedado	nome masculino	ve|[da]|do
+vedado	adjetivo	ve|[da]|do
+vedador	adjetivo	ve|da|[dor]
+vedador	nome masculino	ve|da|[dor]
+vedalhas	nome feminino	ve|[da]|lhas
+vedália	nome feminino	ve|[dá]|li|a
+velhinha	nome feminino	ve|[lhi]|nha
+velhinho	adjetivo	ve|[lhi]|nho
+velhinho	nome masculino	ve|[lhi]|nho
+velhíssimo	adjetivo	ve|[lhís]|si|mo
+velhito	nome masculino	ve|[lhi]|to
+velho	adjetivo	[ve]|lho
+velho	nome masculino	[ve]|lho
+velhori	adjetivo	ve|lho|[ri]
+velhorro	adjetivo	ve|[lhor]|ro
+velhorro	nome masculino	ve|[lhor]|ro
+velhota	nome feminino	ve|[lho]|ta
+velhote	nome masculino	ve|[lho]|te
+velhote	adjetivo	ve|[lho]|te
+velhusca	nome feminino	ve|[lhus]|ca
+velhusco	adjetivo	ve|[lhus]|co
+velhusco	nome masculino	ve|[lhus]|co
+velhustro	adjetivo	ve|[lhus]|tro
+velhustro	nome masculino	ve|[lhus]|tro
+velicação	nome feminino	ve|li|ca|[ção]
+velicar	verbo	ve|li|[car]
+velicativo	adjetivo	ve|li|ca|[ti]|vo
+velífero	nome masculino	ve|[lí]|fe|ro
+velífero	adjetivo	ve|[lí]|fe|ro
+veliforme	adjetivo	ve|li|[for]|me
+velígero	nome masculino	ve|[lí]|ge|ro
+velígero	adjetivo	ve|[lí]|ge|ro
+velilho	nome masculino	ve|[li]|lho
+velinha	nome feminino	ve|[li]|nha
+velino	nome masculino	ve|[li]|no
+veliocasse	adjetivo	ve|li|o|[cas]|se
+veliocasse	nome masculino	ve|li|o|[cas]|se
+veliocasse	nome feminino	ve|li|o|[cas]|se
+veliqueiro	adjetivo	ve|li|[quei]|ro
+vélite	nome masculino	[vé]|li|te
+veliterno	adjetivo	ve|li|[ter]|no
+veliterno	nome masculino	ve|li|[ter]|no
+velívago	adjetivo	ve|[lí]|va|go
+velívolo	adjetivo	ve|[lí]|vo|lo
+velo	nome masculino	[ve]|lo
+veloce	adjetivo	ve|[lo]|ce
+velocidade	nome feminino	ve|lo|ci|[da]|de
+velocídromo	nome masculino	ve|lo|[cí]|dro|mo
+velocífero	adjetivo	ve|lo|[cí]|fe|ro
+velocígrafo	nome masculino	ve|lo|[cí]|gra|fo
+velocímano	nome masculino	ve|lo|[cí]|ma|no
+velocimétrico	adjetivo	ve|lo|ci|[mé]|tri|co
+velocímetro	nome masculino	ve|lo|[cí]|me|tro
+velocino	nome masculino	ve|lo|[ci]|no
+velocípede	adjetivo	ve|lo|[cí]|pe|de
+velocípede	nome masculino	ve|lo|[cí]|pe|de
+velocipedia	nome feminino	ve|lo|ci|pe|[di]|a
+velocipédico	adjetivo	ve|lo|ci|[pé]|di|co
+velocipedismo	nome masculino	ve|lo|ci|pe|[dis]|mo
+velocipedista	adjetivo	ve|lo|ci|pe|[dis]|ta
+velocipedista	nome masculino	ve|lo|ci|pe|[dis]|ta
+velocipedista	nome feminino	ve|lo|ci|pe|[dis]|ta
+velocíssimo	adjetivo	ve|lo|[cís]|si|mo
+velocista	nome masculino	ve|lo|[cis]|ta
+velocista	nome feminino	ve|lo|[cis]|ta
+velódromo	nome masculino	ve|[ló]|dro|mo
+velório	nome masculino	ve|[ló]|ri|o
+velórios	nome masculino	ve|[ló]|ri|os
+veloso	adjetivo	ve|[lo]|so
+veloz	adjetivo	ve|[loz]
+velozmente	advérbio	ve|loz|[men]|te
+veludado	adjetivo	ve|lu|[da]|do
+veludilho	nome masculino	ve|lu|[di]|lho
+veludíneo	adjetivo	ve|lu|[dí]|ne|o
+veludinha	nome feminino	ve|lu|[di]|nha
+veludinho	nome masculino	ve|lu|[di]|nho
+veludo	nome masculino	ve|[lu]|do
+veludo	adjetivo	ve|[lu]|do
+veludosidade	nome feminino	ve|lu|do|si|[da]|de
+veludoso	adjetivo	ve|lu|[do]|so
+velutina	nome feminino	ve|lu|[ti]|na
+venábulo	nome masculino	ve|[ná]|bu|lo
+venação	nome feminino	ve|na|[ção]
+venado	adjetivo	ve|[na]|do
+venador	nome masculino	ve|na|[dor]
+venafrano	adjetivo	ve|na|[fra]|no
+venafrano	nome masculino	ve|na|[fra]|no
+venal	adjetivo	ve|[nal]
+venaliciário	nome masculino	ve|na|li|ci|[á]|ri|o
+venalidade	nome feminino	ve|na|li|[da]|de
+venalismo	nome masculino	ve|na|[lis]|mo
+venalizar	verbo	ve|na|li|[zar]
+venalmente	advérbio	ve|nal|[men]|te
+venatória	nome feminino	ve|na|[tó]|ri|a
+venatório	adjetivo	ve|na|[tó]|ri|o
+venatura	nome feminino	ve|na|[tu]|ra
+vencedor	nome masculino	ven|ce|[dor]
+vencedor	adjetivo	ven|ce|[dor]
+vencedora	nome feminino	ven|ce|[do]|ra
+vencelha	nome feminino	ven|[ce]|lha
+vencelhar	verbo	ven|ce|[lhar]
+vencelho	nome masculino	ven|[ce]|lho
+vencer	verbo	ven|[cer]
+vencibilidade	nome feminino	ven|ci|bi|li|[da]|de
+vencida	nome feminino	ven|[ci]|da
+vencido	adjetivo	ven|[ci]|do
+vejente	nome feminino	ve|[jen]|te
+vejete	nome masculino	ve|[je]|te
+vela	nome feminino	[ve]|la
+velação	nome feminino	ve|la|[ção]
+velacho	nome masculino	ve|[la]|cho
+velada	nome feminino	ve|[la]|da
+veladamente	advérbio	ve|la|da|[men]|te
+velado	adjetivo	ve|[la]|do
+velador	nome masculino	ve|la|[dor]
+velador	adjetivo	ve|la|[dor]
+veladora	nome feminino	ve|la|[do]|ra
+veladura	nome feminino	ve|la|[du]|ra
+velame	nome masculino	ve|[la]|me
+velame-do-mato	nome masculino	ve|la|me-do-ma|to
+velâmen	nome masculino	ve|[lâ]|men
+velamento	nome masculino	ve|la|[men]|to
+velaminar	adjetivo	ve|la|mi|[nar]
+velança	nome feminino	ve|[lan]|ça
+velante	adjetivo	ve|[lan]|te
+velante	nome masculino	ve|[lan]|te
+velar	verbo	ve|[lar]
+velar	nome feminino	ve|[lar]
+velar	adjetivo	ve|[lar]
+velarina	nome feminino	ve|la|[ri]|na
+velarinho	nome masculino	ve|la|[ri]|nho
+velário	nome masculino	ve|[lá]|ri|o
+velarização	nome feminino	ve|la|ri|za|[ção]
+velarizado	adjetivo	ve|la|ri|[za]|do
+velarizar	verbo	ve|la|ri|[zar]
+velate	adjetivo	ve|[la]|te
+velate	nome masculino	ve|[la]|te
+velate	nome feminino	ve|[la]|te
+velatura	nome feminino	ve|la|[tu]|ra
+velauno	adjetivo	ve|[lau]|no
+velauno	nome masculino	ve|[lau]|no
+velável	adjetivo	ve|[lá]|vel
+velávio	adjetivo	ve|[lá]|vi|o
+velávio	nome masculino	ve|[lá]|vi|o
+velcro	nome masculino	[vel]|cro
+velde	nome masculino	[vel]|de
+vele	nome masculino	[ve]|le
+veleação	nome feminino	ve|le|a|[ção]
+veleador	adjetivo	ve|le|a|[dor]
+veleador	nome masculino	ve|le|a|[dor]
+veleamento	nome masculino	ve|le|a|[men]|to
+velear	verbo	ve|le|[ar]
+veleia	nome feminino	ve|[lei]|a
+veleiano	adjetivo	ve|lei|[a]|no
+veleiate	adjetivo	ve|lei|[a]|te
+veleiate	nome masculino	ve|lei|[a]|te
+veleiate	nome feminino	ve|lei|[a]|te
+veleidade	nome feminino	ve|lei|[da]|de
+veleidoso	adjetivo	ve|lei|[do]|so
+veleira	nome feminino	ve|[lei]|ra
+veleiro	nome masculino	ve|[lei]|ro
+veleiro	adjetivo	ve|[lei]|ro
+veleiro-das-índias	nome masculino	ve|lei|ro-das-ín|di|as
+velejador	adjetivo	ve|le|ja|[dor]
+velejador	nome masculino	ve|le|ja|[dor]
+velejar	verbo	ve|le|[jar]
+velejável	adjetivo	ve|le|[já]|vel
+velenho	nome masculino	ve|[le]|nho
+velense	nome masculino	ve|[len]|se
+velense	adjetivo	ve|[len]|se
+velense	nome feminino	ve|[len]|se
+veleta	nome feminino	ve|[le]|ta
+veletina	nome feminino	ve|le|[ti]|na
+velha	nome feminino	[ve]|lha
+velhaca	nome feminino	ve|[lha]|ca
+velhacada	nome feminino	ve|lha|[ca]|da
+velhacagem	nome feminino	ve|lha|[ca]|gem
+velhacamente	advérbio	ve|lha|ca|[men]|te
+velhacão	nome masculino	ve|lha|[cão]
+velhacar	verbo	ve|lha|[car]
+velhacaria	nome feminino	ve|lha|ca|[ri]|a
+velhaças	nome masculino	ve|[lha]|ças
+velhacaz	nome masculino	ve|lha|[caz]
+velhaco	adjetivo	ve|[lha]|co
+velhaco	nome masculino	ve|[lha]|co
+velhacório	nome masculino	ve|lha|[có]|ri|o
+velhacote	adjetivo	ve|lha|[co]|te
+velhacote	nome masculino	ve|lha|[co]|te
+velhada	nome feminino	ve|[lha]|da
+velhancão	nome masculino	ve|lhan|[cão]
+velhancaria	nome feminino	ve|lhan|ca|[ri]|a
+velhão	adjetivo	ve|[lhão]
+velhão	nome masculino	ve|[lhão]
+velhaqueador	adjetivo	ve|lha|que|a|[dor]
+velhaqueador	nome masculino	ve|lha|que|a|[dor]
+velhaqueadouro	nome masculino	ve|lha|que|a|[dou]|ro
+velhaquear	verbo	ve|lha|que|[ar]
+velhaquesco	adjetivo	ve|lha|[ques]|co
+velhaquete	adjetivo	ve|lha|[que]|te
+velhaquete	nome masculino	ve|lha|[que]|te
+velhaquez	nome feminino	ve|lha|[quez]
+velharaco	nome masculino	ve|lha|[ra]|co
+velharia	nome feminino	ve|lha|[ri]|a
+velhentado	adjetivo	ve|lhen|[ta]|do
+velhez	nome feminino	ve|[lhez]
+velhice	nome feminino	ve|[lhi]|ce
+vidrador	nome masculino	vi|dra|[dor]
+vidradora	nome feminino	vi|dra|[do]|ra
+vidragem	nome feminino	vi|[dra]|gem
+vidral	nome masculino	vi|[dral]
+vidralhada	nome feminino	vi|dra|[lha]|da
+vidramento	nome masculino	vi|dra|[men]|to
+vidrão	nome masculino	vi|[drão]
+vidrar	verbo	vi|[drar]
+vidraria	nome feminino	vi|dra|[ri]|a
+vidrecome	nome masculino	vi|dre|[co]|me
+vidreira	nome feminino	vi|[drei]|ra
+vidreiro	adjetivo	vi|[drei]|ro
+vidreiro	nome masculino	vi|[drei]|ro
+vidrento	adjetivo	vi|[dren]|to
+vidrilho	nome masculino	vi|[dri]|lho
+vidrinho	nome masculino	vi|[dri]|nho
+vidrino	adjetivo	vi|[dri]|no
+vidrista	nome masculino	vi|[dris]|ta
+vidrista	nome feminino	vi|[dris]|ta
+vidro	nome masculino	[vi]|dro
+vidro de cheiro	nome masculino	[vi]|dro de chei|ro
+vidroso	adjetivo	vi|[dro]|so
+vidual	adjetivo	vi|du|[al]
+viducasse	adjetivo	vi|du|[cas]|se
+viducasse	nome masculino	vi|du|[cas]|se
+viducasse	nome feminino	vi|du|[cas]|se
+vieira	nome feminino	vi|[ei]|ra
+vieirense	nome masculino	vi|ei|[ren]|se
+vieirense	adjetivo	vi|ei|[ren]|se
+vieirense	nome feminino	vi|ei|[ren]|se
+vieirismo	nome masculino	vi|ei|[ris]|mo
+vieirista	adjetivo	vi|ei|[ris]|ta
+vieirista	nome masculino	vi|ei|[ris]|ta
+vieirista	nome feminino	vi|ei|[ris]|ta
+vieiro	nome masculino	vi|[ei]|ro
+viela	nome feminino	vi|[e]|la
+vielo	nome masculino	vi|[e]|lo
+vienense	nome masculino	vi|e|[nen]|se
+vienense	adjetivo	vi|e|[nen]|se
+vienense	nome feminino	vi|e|[nen]|se
+vienês	adjetivo	vi|e|[nês]
+vierina	nome feminino	vi|e|[ri]|na
+viés	nome masculino	vi|[és]
+vietnamense	adjetivo	vi|et|na|[men]|se
+vietnamense	nome masculino	vi|et|na|[men]|se
+vietnamense	nome feminino	vi|et|na|[men]|se
+vietnamês	adjetivo	vi|et|na|[mês]
+vietnamês	nome masculino	vi|et|na|[mês]
+vietnamesa	nome feminino	vi|et|na|[me]|sa
+vietnamiano	adjetivo	vi|et|na|mi|[a]|no
+vietnamiano	nome masculino	vi|et|na|mi|[a]|no
+vietnamita	adjetivo	vi|et|na|[mi]|ta
+vietnamita	nome masculino	vi|et|na|[mi]|ta
+vietnamita	nome feminino	vi|et|na|[mi]|ta
+viga	nome feminino	[vi]|ga
+vigairada	nome feminino	vi|gai|[ra]|da
+vigairaria	nome feminino	vi|gai|ra|[ri]|a
+vigairo	nome masculino	vi|[gai]|ro
+vigamento	nome masculino	vi|ga|[men]|to
+vigar	verbo	vi|[gar]
+vigária	nome feminino	vi|[gá]|ri|a
+vigariaria	nome feminino	vi|ga|ri|a|[ri]|a
+vigariato	nome masculino	vi|ga|ri|[a]|to
+vigarice	nome feminino	vi|ga|[ri]|ce
+vigário	nome masculino	vi|[gá]|ri|o
+vigário-geral	nome masculino	vi|gá|ri|o-ge|ral
+vigarismo	nome masculino	vi|ga|[ris]|mo
+vigarista	nome masculino	vi|ga|[ris]|ta
+vigarista	nome feminino	vi|ga|[ris]|ta
+vigarista	adjetivo	vi|ga|[ris]|ta
+vigarizar	verbo	vi|ga|ri|[zar]
+vigência	nome feminino	vi|[gên]|ci|a
+vigente	adjetivo	vi|[gen]|te
+viger	verbo	vi|[ger]
+vigesimal	adjetivo	vi|ge|si|[mal]
+vigésimo	nome masculino	vi|[gé]|si|mo
+vigésimo	número ordinal	vi|[gé]|si|mo
+vigésimo	número fraccional	vi|[gé]|si|mo
+vigésimo	adjetivo	vi|[gé]|si|mo
+vigia	nome feminino	vi|[gi]|a
+vigia	nome masculino	vi|[gi]|a
+vigiador	adjetivo	vi|gi|a|[dor]
+vigiador	nome masculino	vi|gi|a|[dor]
+vigiante	adjetivo	vi|gi|[an]|te
+vigiar	verbo	vi|gi|[ar]
+vigiável	adjetivo	vi|gi|[á]|vel
+vigieiro	nome masculino	vi|gi|[ei]|ro
+vígil	adjetivo	[ví]|gil
+vigilador	adjetivo	vi|gi|la|[dor]
+vigilador	nome masculino	vi|gi|la|[dor]
+vigilambulismo	nome masculino	vi|gi|lam|bu|[lis]|mo
+vigilâmbulo	adjetivo	vi|gi|[lâm]|bu|lo
+vigilâmbulo	nome masculino	vi|gi|[lâm]|bu|lo
+vigilância	nome feminino	vi|gi|[lân]|ci|a
+vigilante	adjetivo	vi|gi|[lan]|te
+vigilante	nome masculino	vi|gi|[lan]|te
+vigilante	nome feminino	vi|gi|[lan]|te
+vigilantemente	advérbio	vi|gi|lan|te|[men]|te
+vigilar	verbo	vi|gi|[lar]
+vigilenga	nome feminino	vi|gi|[len]|ga
+vasconcélia	nome feminino	vas|con|[cé]|li|a
+vasconço	nome masculino	vas|[con]|ço
+vasconço	adjetivo	vas|[con]|ço
+vascongado	nome masculino	vas|con|[ga]|do
+vascongado	adjetivo	vas|con|[ga]|do
+vascoso	adjetivo	vas|[co]|so
+vascuense	adjetivo	vas|cu|[en]|se
+vascuense	nome masculino	vas|cu|[en]|se
+vascuense	nome feminino	vas|cu|[en]|se
+vascular	adjetivo	vas|cu|[lar]
+vascularidade	nome feminino	vas|cu|la|ri|[da]|de
+vascularização	nome feminino	vas|cu|la|ri|za|[ção]
+vascularizar	verbo	vas|cu|la|ri|[zar]
+vasculatura	nome feminino	vas|cu|la|[tu]|ra
+vasculhadeira	nome feminino	vas|cu|lha|[dei]|ra
+vasculhadela	nome feminino	vas|cu|lha|[de]|la
+vasculhador	adjetivo	vas|cu|lha|[dor]
+vasculhador	nome masculino	vas|cu|lha|[dor]
+vasculhadora	nome feminino	vas|cu|lha|[do]|ra
+vasculhar	verbo	vas|cu|[lhar]
+vasculho	nome masculino	vas|[cu]|lho
+vasculite	nome feminino	vas|cu|[li]|te
+vasculizado	adjetivo	vas|cu|li|[za]|do
+vasculoso	adjetivo	vas|cu|[lo]|so
+vasectomia	nome feminino	va|sec|to|[mi]|a
+vasectómico	adjetivo	va|sec|[tó]|mi|co
+vasectômico	adjetivo	va|sec|[tô]|mi|co
+vaseirão	adjetivo	va|sei|[rão]
+vaseirão	nome masculino	va|sei|[rão]
+vaseiro	nome masculino	va|[sei]|ro
+vaseiro	adjetivo	va|[sei]|ro
+vaselina	nome feminino	va|se|[li]|na
+vaselina	nome masculino	va|se|[li]|na
+vaselinar	verbo	va|se|li|[nar]
+vasento	adjetivo	va|[sen]|to
+vasícola	adjetivo	va|[sí]|co|la
+vasícola	nome masculino	va|[sí]|co|la
+vasículo	nome masculino	va|[sí]|cu|lo
+vasiduto	nome masculino	va|si|[du]|to
+vasiforme	adjetivo	va|si|[for]|me
+vasilha	nome feminino	va|[si]|lha
+vasilhame	nome masculino	va|si|[lha]|me
+vaso	nome masculino	[va]|so
+vasoativo	adjetivo	va|so|a|[ti]|vo
+vasoconstrição	nome feminino	va|so|cons|tri|[ção]
+vasoconstritor	adjetivo	va|so|cons|tri|[tor]
+vasoconstritor	nome masculino	va|so|cons|tri|[tor]
+vasodilatação	nome feminino	va|so|di|la|ta|[ção]
+vasodilatador	adjetivo	va|so|di|la|ta|[dor]
+vasodilatador	nome masculino	va|so|di|la|ta|[dor]
+vasogênio	nome masculino	va|so|[gê]|ni|o
+vasogénio	nome masculino	va|so|[gé]|ni|o
+vasomotor	adjetivo	va|so|mo|[tor]
+vasomotricidade	nome feminino	va|so|mo|tri|ci|[da]|de
+vasopressina	nome feminino	va|so|pres|[si]|na
+vasoso	adjetivo	va|[so]|so
+vasostomia	nome feminino	va|sos|to|[mi]|a
+vasotomia	nome feminino	va|so|to|[mi]|a
+vasótribo	nome masculino	va|[só]|tri|bo
+vasotripsia	nome feminino	va|so|trip|[si]|a
+vasotrófico	adjetivo	va|so|[tró]|fi|co
+vasqueiro	adjetivo	vas|[quei]|ro
+vasqueiro	nome masculino	vas|[quei]|ro
+vasquejante	adjetivo	vas|que|[jan]|te
+vasquejar	verbo	vas|que|[jar]
+vasquejo	nome masculino	vas|[que]|jo
+vasquilha	nome feminino	vas|[qui]|lha
+vasquim	nome masculino	vas|[quim]
+vasquinha	nome feminino	vas|[qui]|nha
+vassá	nome masculino	vas|[sá]
+vassala	nome feminino	vas|[sa]|la
+vassalagem	nome feminino	vas|sa|[la]|gem
+vassalar	verbo	vas|sa|[lar]
+vassalo	nome masculino	vas|[sa]|lo
+vassalo	adjetivo	vas|[sa]|lo
+vasseu	adjetivo	vas|[seu]
+vasseu	nome masculino	vas|[seu]
+vassoira	nome feminino	vas|[soi]|ra
+vassoirada	nome feminino	vas|soi|[ra]|da
+vassoirar	verbo	vas|soi|[rar]
+vassoireira	nome feminino	vas|soi|[rei]|ra
+vassoireiro	nome masculino	vas|soi|[rei]|ro
+vassoirinha	nome feminino	vas|soi|[ri]|nha
+vassoiro	nome masculino	vas|[soi]|ro
+vassoura	nome feminino	vas|[sou]|ra
+vassourada	nome feminino	vas|sou|[ra]|da
+vassourar	verbo	vas|sou|[rar]
+vassoureira	nome feminino	vas|sou|[rei]|ra
+vassoureiro	nome masculino	vas|sou|[rei]|ro
+vassourense	nome masculino	vas|sou|[ren]|se
+vassourense	adjetivo	vas|sou|[ren]|se
+vassourense	nome feminino	vas|sou|[ren]|se
+vassourinha	nome feminino	vas|sou|[ri]|nha
+vassouro	nome masculino	vas|[sou]|ro
+vassourudo	adjetivo	vas|sou|[ru]|do
+vasta	nome feminino	[vas]|ta
+vastação	nome feminino	vas|ta|[ção]
+vastador	adjetivo	vas|ta|[dor]
+vastador	nome masculino	vas|ta|[dor]
+vastamente	advérbio	vas|ta|[men]|te
+verdeia	nome feminino	ver|[dei]|a
+verdeio	nome masculino	ver|[dei]|o
+verdeiro	nome masculino	ver|[dei]|ro
+verdejância	nome feminino	ver|de|[jân]|ci|a
+verdejante	adjetivo	ver|de|[jan]|te
+verdejar	verbo	ver|de|[jar]
+verdelha	nome feminino	ver|[de]|lha
+verdelhão	nome masculino	ver|de|[lhão]
+verdelho	nome masculino	ver|[de]|lho
+verdelho	adjetivo	ver|[de]|lho
+verdelinho	nome masculino	ver|de|[li]|nho
+verdenegro	adjetivo	ver|de|[ne]|gro
+verdenegro	nome masculino	ver|de|[ne]|gro
+verdengório	nome masculino	ver|den|[gó]|ri|o
+verdento	adjetivo	ver|[den]|to
+verderol	nome masculino	ver|de|[rol]
+verdete	nome masculino	ver|[de]|te
+verdezelha	nome feminino	ver|de|[ze]|lha
+vérdico	adjetivo	[vér]|di|co
+verdilhão	nome masculino	ver|di|[lhão]
+verdilhento	adjetivo	ver|di|[lhen]|to
+verdilhote	nome masculino	ver|di|[lho]|te
+verdinegro	adjetivo	ver|di|[ne]|gro
+verdinhento	adjetivo	ver|di|[nhen]|to
+verdinzela	nome feminino	ver|din|[ze]|la
+verdisseco	adjetivo	ver|dis|[se]|co
+verdizel	nome masculino	ver|di|[zel]
+verdizela	nome feminino	ver|di|[ze]|la
+verdizela	nome masculino	ver|di|[ze]|la
+verdizelo	nome masculino	ver|di|[ze]|lo
+verdoega	nome feminino	ver|do|[e]|ga
+verdoengo	adjetivo	ver|do|[en]|go
+verdolengo	adjetivo	ver|do|[len]|go
+verdor	nome masculino	ver|[dor]
+verdoso	adjetivo	ver|[do]|so
+verdoso	nome masculino	ver|[do]|so
+verdote	adjetivo	ver|[do]|te
+verdugada	nome feminino	ver|du|[ga]|da
+verdugadim	nome masculino	ver|du|ga|[dim]
+verdugal	nome masculino	ver|du|[gal]
+verdugão	nome masculino	ver|du|[gão]
+verdugo	nome masculino	ver|[du]|go
+verduguilho	nome masculino	ver|du|[gui]|lho
+verdum	nome masculino	ver|[dum]
+verdume	nome masculino	ver|[du]|me
+verdunização	nome feminino	ver|du|ni|za|[ção]
+verdunizar	verbo	ver|du|ni|[zar]
+verdura	nome feminino	ver|[du]|ra
+verdureira	nome feminino	ver|du|[rei]|ra
+verdureiro	nome masculino	ver|du|[rei]|ro
+verdurengo	adjetivo	ver|du|[ren]|go
+verduroso	adjetivo	ver|du|[ro]|so
+vereação	nome feminino	ve|re|a|[ção]
+vereador	nome masculino	ve|re|a|[dor]
+vereadora	nome feminino	ve|re|a|[do]|ra
+vereamento	nome masculino	ve|re|a|[men]|to
+vereança	nome feminino	ve|re|[an]|ça
+verear	verbo	ve|re|[ar]
+verecúndia	nome feminino	ve|re|[cún]|di|a
+verecundo	adjetivo	ve|re|[cun]|do
+vereda	nome feminino	ve|[re]|da
+veredicto	nome masculino	ve|re|[dic]|to
+veredito	nome masculino	ve|re|[di]|to
+vereia	nome feminino	ve|[rei]|a
+verendo	adjetivo	ve|[ren]|do
+vereno	adjetivo	ve|[re]|no
+veretino	adjetivo	ve|re|[ti]|no
+veretino	nome masculino	ve|re|[ti]|no
+verga	nome feminino	[ver]|ga
+verga-áurea	nome feminino	ver|ga-áu|re|a
+verga-de-ouro	nome feminino	ver|ga-de-ou|ro
+vergada	nome feminino	ver|[ga]|da
+vergadiço	adjetivo	ver|ga|[di]|ço
+vergado	adjetivo	ver|[ga]|do
+vergadura	nome feminino	ver|ga|[du]|ra
+vergal	nome masculino	ver|[gal]
+vergalhada	nome feminino	ver|ga|[lha]|da
+vergalhamento	nome masculino	ver|ga|lha|[men]|to
+vergalhão	nome masculino	ver|ga|[lhão]
+vergalhar	verbo	ver|ga|[lhar]
+vergalho	nome masculino	ver|[ga]|lho
+vergame	nome masculino	ver|[ga]|me
+vergamota	nome feminino	ver|ga|[mo]|ta
+vergancha	nome feminino	ver|[gan]|cha
+vergão	nome masculino	ver|[gão]
+vergar	verbo	ver|[gar]
+vergasta	nome feminino	ver|[gas]|ta
+vergastada	nome feminino	ver|gas|[ta]|da
+vergastador	adjetivo	ver|gas|ta|[dor]
+vergastador	nome masculino	ver|gas|ta|[dor]
+vergastão	nome masculino	ver|gas|[tão]
+vergastar	verbo	ver|gas|[tar]
+vergasteiro	nome masculino	ver|gas|[tei]|ro
+vergáurea	nome feminino	ver|[gáu]|re|a
+vergável	adjetivo	ver|[gá]|vel
+vergel	nome masculino	ver|[gel]
+vergência	nome feminino	ver|[gên]|ci|a
+vergestano	adjetivo	ver|ges|[ta]|no
+vergestano	nome masculino	ver|ges|[ta]|no
+vergoada	nome feminino	ver|go|[a]|da
+vitífero	adjetivo	vi|[tí]|fe|ro
+vitiligem	nome feminino	vi|ti|[li]|gem
+vitiligo	nome masculino	vi|ti|[li]|go
+vítima	nome feminino	[ví]|ti|ma
+vitimador	nome masculino	vi|ti|ma|[dor]
+vitimar	verbo	vi|ti|[mar]
+vitimário	nome masculino	vi|ti|[má]|ri|o
+vitimário	adjetivo	vi|ti|[má]|ri|o
+vitimização	nome feminino	vi|ti|mi|za|[ção]
+vitimizar	verbo	vi|ti|mi|[zar]
+vitinga	nome feminino	vi|[tin]|ga
+vitivinícola	adjetivo	vi|ti|vi|[ní]|co|la
+vitivinicultor	nome masculino	vi|ti|vi|ni|cul|[tor]
+vitivinicultor	adjetivo	vi|ti|vi|ni|cul|[tor]
+vitivinicultora	nome feminino	vi|ti|vi|ni|cul|[to]|ra
+vitivinicultura	nome feminino	vi|ti|vi|ni|cul|[tu]|ra
+vito	nome masculino	[vi]|to
+vítor	interjeição	[ví]|tor
+vítor-huguesco	adjetivo	ví|tor-hu|[gues]|co
+vitória	nome feminino	vi|[tó]|ri|a
+vitória-régia	nome feminino	vi|tó|ri|a-ré|gi|a
+vitoriana	nome feminino	vi|to|ri|[a]|na
+vitorianismo	nome masculino	vi|to|ri|a|[nis]|mo
+vitoriano	adjetivo	vi|to|ri|[a]|no
+vitoriano	nome masculino	vi|to|ri|[a]|no
+vitoriar	verbo	vi|to|ri|[ar]
+vitoriense	adjetivo	vi|to|ri|[en]|se
+vitoriense	nome masculino	vi|to|ri|[en]|se
+vitoriense	nome feminino	vi|to|ri|[en]|se
+vitoriosa	nome feminino	vi|to|ri|[o]|sa
+vitoriosamente	advérbio	vi|to|ri|o|sa|[men]|te
+vitorioso	adjetivo	vi|to|ri|[o]|so
+vitorioso	nome masculino	vi|to|ri|[o]|so
+vitral	nome masculino	vi|[tral]
+vitraleiro	nome masculino	vi|tra|[lei]|ro
+vitralista	nome masculino	vi|tra|[lis]|ta
+vitralista	nome feminino	vi|tra|[lis]|ta
+vitralizar	verbo	vi|tra|li|[zar]
+vitre	nome masculino	[vi]|tre
+vítreo	adjetivo	[ví]|tre|o
+vitrescibilidade	nome feminino	vi|tres|ci|bi|li|[da]|de
+vitrescível	adjetivo	vi|tres|[cí]|vel
+vítrice	adjetivo	[ví]|tri|ce
+vítrice	nome feminino	[ví]|tri|ce
+vitrificabilidade	nome feminino	vi|tri|fi|ca|bi|li|[da]|de
+vitrificação	nome feminino	vi|tri|fi|ca|[ção]
+vitrificador	adjetivo	vi|tri|fi|ca|[dor]
+vitrificar	verbo	vi|tri|fi|[car]
+vitrificável	adjetivo	vi|tri|fi|[cá]|vel
+vitrina	nome feminino	vi|[tri]|na
+vitrinário	nome masculino	vi|tri|[ná]|ri|o
+vitrine	nome feminino	vi|[tri]|ne
+vitrinista	adjetivo	vi|tri|[nis]|ta
+vitrinista	nome masculino	vi|tri|[nis]|ta
+vitrinista	nome feminino	vi|tri|[nis]|ta
+vitríola	nome feminino	vi|[trí]|o|la
+vitriolado	adjetivo	vi|tri|o|[la]|do
+vitriolado	nome masculino	vi|tri|o|[la]|do
+vitriolar	verbo	vi|tri|o|[lar]
+vitriólico	adjetivo	vi|tri|[ó]|li|co
+vitriolização	nome feminino	vi|tri|o|li|za|[ção]
+vitriolizar	verbo	vi|tri|o|li|[zar]
+vitríolo	nome masculino	vi|[trí]|o|lo
+vitripene	adjetivo	vi|tri|[pe]|ne
+vitrola	nome feminino	vi|[tro]|la
+vitrola	nome masculino	vi|[tro]|la
+vitrometálico	adjetivo	vi|tro|me|[tá]|li|co
+vitroporfírico	adjetivo	vi|tro|por|[fí]|ri|co
+vitropórfiro	nome masculino	vi|tro|[pór]|fi|ro
+vittadínia	nome feminino	vit|ta|[dí]|ni|a
+vitu	nome masculino	vi|[tu]
+vitualha	nome feminino	vi|tu|[a]|lha
+vitualhar	verbo	vi|tu|a|[lhar]
+vitualhas	nome feminino	vi|tu|[a]|lhas
+vitular	adjetivo	vi|tu|[lar]
+vitulária	adjetivo	vi|tu|[lá]|ri|a
+vitulária	nome feminino	vi|tu|[lá]|ri|a
+vítulo	nome masculino	[ví]|tu|lo
+vituperação	nome feminino	vi|tu|pe|ra|[ção]
+vituperador	adjetivo	vi|tu|pe|ra|[dor]
+vituperador	nome masculino	vi|tu|pe|ra|[dor]
+vituperadora	nome feminino	vi|tu|pe|ra|[do]|ra
+vituperar	verbo	vi|tu|pe|[rar]
+vituperativo	adjetivo	vi|tu|pe|ra|[ti]|vo
+vituperável	adjetivo	vi|tu|pe|[rá]|vel
+vitupério	nome masculino	vi|tu|[pé]|ri|o
+vituperiosamente	advérbio	vi|tu|pe|ri|o|sa|[men]|te
+vituperioso	adjetivo	vi|tu|pe|ri|[o]|so
+vituperosamente	advérbio	vi|tu|pe|ro|sa|[men]|te
+vituperoso	adjetivo	vi|tu|pe|[ro]|so
+viúva	nome feminino	vi|[ú]|va
+viúva-alegre	nome feminino	vi|ú|va-a|[le]|gre
+viuvada	nome feminino	viu|[va]|da
+viuval	adjetivo	viu|[val]
+viuvar	verbo	viu|[var]
+viuvez	nome feminino	viu|[vez]
+viuveza	nome feminino	viu|[ve]|za
+viuvidade	nome feminino	viu|vi|[da]|de
+viuvinha	nome feminino	viu|[vi]|nha
+viúvo	adjetivo	vi|[ú]|vo
+versado	adjetivo	ver|[sa]|do
+versal	adjetivo	ver|[sal]
+versal	nome masculino	ver|[sal]
+versal	nome feminino	ver|[sal]
+versalete	nome masculino	ver|sa|[le]|te
+versalhada	nome feminino	ver|sa|[lha]|da
+versalhês	adjetivo	ver|sa|[lhês]
+versalhês	nome masculino	ver|sa|[lhês]
+versão	nome feminino	ver|[são]
+versar	verbo	ver|[sar]
+versaria	nome feminino	ver|sa|[ri]|a
+versátil	adjetivo	ver|[sá]|til
+versatilidade	nome feminino	ver|sa|ti|li|[da]|de
+versatilmente	advérbio	ver|sa|til|[men]|te
+verseiro	adjetivo	ver|[sei]|ro
+versejador	adjetivo	ver|se|ja|[dor]
+versejador	nome masculino	ver|se|ja|[dor]
+versejadora	nome feminino	ver|se|ja|[do]|ra
+versejadura	nome feminino	ver|se|ja|[du]|ra
+versejar	verbo	ver|se|[jar]
+versejatura	nome feminino	ver|se|ja|[tu]|ra
+versejote	nome masculino	ver|se|[jo]|te
+verseto	nome masculino	ver|[se]|to
+versicolor	adjetivo	ver|si|co|[lor]
+versicorado	adjetivo	ver|si|co|[ra]|do
+versículo	nome masculino	ver|[sí]|cu|lo
+versífero	adjetivo	ver|[sí]|fe|ro
+versificação	nome feminino	ver|si|fi|ca|[ção]
+versificador	adjetivo	ver|si|fi|ca|[dor]
+versificador	nome masculino	ver|si|fi|ca|[dor]
+versificadora	nome feminino	ver|si|fi|ca|[do]|ra
+versificar	verbo	ver|si|fi|[car]
+versificável	adjetivo	ver|si|fi|[cá]|vel
+versífico	adjetivo	ver|[sí]|fi|co
+versilibrismo	nome masculino	ver|si|li|[bris]|mo
+versilibrista	adjetivo	ver|si|li|[bris]|ta
+versilibrista	nome masculino	ver|si|li|[bris]|ta
+versilibrista	nome feminino	ver|si|li|[bris]|ta
+versista	adjetivo	ver|[sis]|ta
+versista	nome masculino	ver|[sis]|ta
+versista	nome feminino	ver|[sis]|ta
+verso	nome masculino	[ver]|so
+versor	nome masculino	ver|[sor]
+versória	nome feminino	ver|[só]|ri|a
+verstá	nome feminino	vers|[tá]
+verste	nome feminino	[vers]|te
+versúcia	nome feminino	ver|[sú]|ci|a
+versudo	adjetivo	ver|[su]|do
+versus	preposição	ver|[sus]
+versuto	adjetivo	ver|[su]|to
+vertalha	nome feminino	ver|[ta]|lha
+vértebra	nome feminino	[vér]|te|bra
+vertebrado	adjetivo	ver|te|[bra]|do
+vertebrado	nome masculino	ver|te|[bra]|do
+vertebral	adjetivo	ver|te|[bral]
+vertebralidade	nome feminino	ver|te|bra|li|[da]|de
+vertebrar	verbo	ver|te|[brar]
+vertebresternal	adjetivo	ver|te|bres|ter|[nal]
+vertebrilíaco	adjetivo	ver|te|bri|[lí]|a|co
+vértebro-ilíaco	adjetivo	vér|te|bro-i|[lí]|a|co
+vertebrocostal	adjetivo	ver|te|bro|cos|[tal]
+vertebropleural	adjetivo	ver|te|bro|pleu|[ral]
+vertebroso	adjetivo	ver|te|[bro]|so
+vertedoiro	nome masculino	ver|te|[doi]|ro
+vertedor	adjetivo	ver|te|[dor]
+vertedor	nome masculino	ver|te|[dor]
+vertedouro	nome masculino	ver|te|[dou]|ro
+vertedura	nome feminino	ver|te|[du]|ra
+vertente	adjetivo	ver|[ten]|te
+vertente	nome feminino	ver|[ten]|te
+verter	verbo	ver|[ter]
+vértex	nome masculino	[vér]|tex
+vertical	nome feminino	ver|ti|[cal]
+vertical	adjetivo	ver|ti|[cal]
+verticalidade	nome feminino	ver|ti|ca|li|[da]|de
+verticalização	nome feminino	ver|ti|ca|li|za|[ção]
+verticalizar	verbo	ver|ti|ca|li|[zar]
+verticalmente	advérbio	ver|ti|cal|[men]|te
+vértice	nome masculino	[vér]|ti|ce
+verticidade	nome feminino	ver|ti|ci|[da]|de
+verticilado	adjetivo	ver|ti|ci|[la]|do
+verticilastro	nome masculino	ver|ti|ci|[las]|tro
+verticilifloro	adjetivo	ver|ti|ci|li|[flo]|ro
+verticilo	nome masculino	ver|ti|[ci]|lo
+vertigem	nome feminino	ver|[ti]|gem
+vertiginosamente	advérbio	ver|ti|gi|no|sa|[men]|te
+vertiginosidade	nome feminino	ver|ti|gi|no|si|[da]|de
+vertiginoso	adjetivo	ver|ti|gi|[no]|so
+vertível	adjetivo	ver|[tí]|vel
+verulano	adjetivo	ve|ru|[la]|no
+verulano	nome masculino	ve|ru|[la]|no
+veruto	nome masculino	ve|[ru]|to
+verve	nome feminino	[ver]|ve
+very-light	nome masculino	ve|ry-light
+vesânia	nome feminino	ve|[sâ]|ni|a
+vesânico	adjetivo	ve|[sâ]|ni|co
+vesano	adjetivo	ve|[sa]|no
+vescelano	adjetivo	ves|ce|[la]|no
+vescelano	nome masculino	ves|ce|[la]|no
+vescino	adjetivo	ves|[ci]|no
+valentaço	adjetivo	va|len|[ta]|ço
+valentaço	nome masculino	va|len|[ta]|ço
+valentão	adjetivo	va|len|[tão]
+valentão	nome masculino	va|len|[tão]
+valente	nome masculino	va|[len]|te
+valente	adjetivo	va|[len]|te
+valente	nome feminino	va|[len]|te
+valentemente	advérbio	va|len|te|[men]|te
+valentia	nome feminino	va|len|[ti]|a
+valentice	nome feminino	va|len|[ti]|ce
+valentínia	nome feminino	va|len|[tí]|ni|a
+valentinianismo	nome masculino	va|len|ti|ni|a|[nis]|mo
+valentiniano	adjetivo	va|len|ti|ni|[a]|no
+valentiniano	nome masculino	va|len|ti|ni|[a]|no
+valentinite	nome feminino	va|len|ti|[ni]|te
+valentino	adjetivo	va|len|[ti]|no
+valentino	nome masculino	va|len|[ti]|no
+valentona	nome feminino	va|len|[to]|na
+valer	verbo	va|[ler]
+valeraldeído	nome masculino	va|le|ral|de|[í]|do
+valerato	nome masculino	va|le|[ra]|to
+valeriana	nome feminino	va|le|ri|[a]|na
+valerianácea	nome feminino	va|le|ri|a|[ná]|ce|a
+valerianáceo	adjetivo	va|le|ri|a|[ná]|ce|o
+valerianato	nome masculino	va|le|ri|a|[na]|to
+valerianela	nome feminino	va|le|ri|a|[ne]|la
+valeriânico	adjetivo	va|le|ri|[â]|ni|co
+valérico	adjetivo	va|[lé]|ri|co
+valeriense	adjetivo	va|le|ri|[en]|se
+valeriense	nome masculino	va|le|ri|[en]|se
+valeriense	nome feminino	va|le|ri|[en]|se
+valerol	nome masculino	va|le|[rol]
+valerolactona	nome feminino	va|le|ro|lac|[to]|na
+valerosamente	advérbio	va|le|ro|sa|[men]|te
+valerosidade	nome feminino	va|le|ro|si|[da]|de
+valeroso	adjetivo	va|le|[ro]|so
+valésia	nome feminino	va|[lé]|si|a
+valesiano	nome masculino	va|le|si|[a]|no
+valeta	nome feminino	va|[le]|ta
+valete	nome masculino	va|[le]|te
+valetudinária	nome feminino	va|le|tu|di|[ná]|ri|a
+valetudinário	adjetivo	va|le|tu|di|[ná]|ri|o
+valetudinário	nome masculino	va|le|tu|di|[ná]|ri|o
+valetudinarismo	nome masculino	va|le|tu|di|na|[ris]|mo
+valeu	adjetivo	va|[leu]
+valeu	nome masculino	va|[leu]
+valga	nome feminino	[val]|ga
+valgo	adjetivo	[val]|go
+valha	nome feminino	[va]|lha
+valhacoito	nome masculino	va|lha|[coi]|to
+valhacouto	nome masculino	va|lha|[cou]|to
+váli	nome masculino	[vá]|li
+valia	nome feminino	va|[li]|a
+valida	nome feminino	va|[li]|da
+validação	nome feminino	va|li|da|[ção]
+validade	nome feminino	va|li|[da]|de
+validamente	advérbio	va|li|da|[men]|te
+validamento	nome masculino	va|li|da|[men]|to
+validar	verbo	va|li|[dar]
+validável	adjetivo	va|li|[dá]|vel
+validez	nome feminino	va|li|[dez]
+validismo	nome masculino	va|li|[dis]|mo
+valido	adjetivo	va|[li]|do
+valido	nome masculino	va|[li]|do
+válido	adjetivo	[vá]|li|do
+valigoto	nome masculino	va|li|[go]|to
+valimba	nome feminino	va|[lim]|ba
+valimento	nome masculino	va|li|[men]|to
+valina	nome feminino	va|[li]|na
+valiosamente	advérbio	va|li|o|sa|[men]|te
+valiosíssimo	adjetivo	va|li|o|[sís]|si|mo
+valioso	adjetivo	va|li|[o]|so
+valise	nome feminino	va|li|se
+valo	nome masculino	[va]|lo
+valoa	nome feminino	va|[lo]|a
+valongueiro	adjetivo	va|lon|[guei]|ro
+valongueiro	nome masculino	va|lon|[guei]|ro
+valonguense	adjetivo	va|lon|[guen]|se
+valonguense	nome masculino	va|lon|[guen]|se
+valonguense	nome feminino	va|lon|[guen]|se
+valónia	nome feminino	va|[ló]|ni|a
+valônia	nome feminino	va|[lô]|ni|a
+valoniácea	nome feminino	va|lo|ni|[á]|ce|a
+valor	nome masculino	va|[lor]
+valor-base	nome masculino	va|lor-ba|se
+valoração	nome feminino	va|lo|ra|[ção]
+valorádia	nome feminino	va|lo|[rá]|di|a
+valorado	adjetivo	va|lo|[ra]|do
+valorar	verbo	va|lo|[rar]
+valorativo	adjetivo	va|lo|ra|[ti]|vo
+valorização	nome feminino	va|lo|ri|za|[ção]
+valorizado	adjetivo	va|lo|ri|[za]|do
+valorizador	adjetivo	va|lo|ri|za|[dor]
+valorizador	nome masculino	va|lo|ri|za|[dor]
+valorizadora	nome feminino	va|lo|ri|za|[do]|ra
+valorizar	verbo	va|lo|ri|[zar]
+valorizável	adjetivo	va|lo|ri|[zá]|vel
+valorosamente	advérbio	va|lo|ro|sa|[men]|te
+valorosidade	nome feminino	va|lo|ro|si|[da]|de
+valoroso	adjetivo	va|lo|[ro]|so
+vardascada	nome feminino	var|das|[ca]|da
+vardascar	verbo	var|das|[car]
+vardeu	adjetivo	var|[deu]
+vardeu	nome masculino	var|[deu]
+várdulo	adjetivo	[vár]|du|lo
+várdulo	nome masculino	[vár]|du|lo
+vareagem	nome feminino	va|re|[a]|gem
+varear	verbo	va|re|[ar]
+varedo	nome masculino	va|[re]|do
+vareio	nome masculino	va|[rei]|o
+vareira	nome feminino	va|[rei]|ra
+vareiro	adjetivo	va|[rei]|ro
+vareiro	nome masculino	va|[rei]|ro
+vareja	nome feminino	va|[re]|ja
+varejador	adjetivo	va|re|ja|[dor]
+varejador	nome masculino	va|re|ja|[dor]
+varejadora	nome feminino	va|re|ja|[do]|ra
+varejadura	nome feminino	va|re|ja|[du]|ra
+varejamento	nome masculino	va|re|ja|[men]|to
+varejão	nome masculino	va|re|[jão]
+varejar	verbo	va|re|[jar]
+varejeira	nome feminino	va|re|[jei]|ra
+varejeiro	adjetivo	va|re|[jei]|ro
+varejista	adjetivo	va|re|[jis]|ta
+varejista	nome masculino	va|re|[jis]|ta
+varejista	nome feminino	va|re|[jis]|ta
+varejo	nome masculino	va|[re]|jo
+varejo	adjetivo	va|[re]|jo
+varejoada	nome feminino	va|re|jo|[a]|da
+varela	adjetivo	va|[re]|la
+varela	nome feminino	va|[re]|la
+varela	nome masculino	va|[re]|la
+vareque	nome masculino	va|[re]|que
+varestilha	nome feminino	va|res|[ti]|lha
+vareta	nome feminino	va|[re]|ta
+varga	nome feminino	[var]|ga
+vargásia	nome feminino	var|[gá]|si|a
+varge	nome feminino	[var]|ge
+várgea	nome feminino	[vár]|ge|a
+vargedo	nome masculino	var|[ge]|do
+vargeiro	nome masculino	var|[gei]|ro
+vargem	nome feminino	[var]|gem
+varginhense	adjetivo	var|gi|[nhen]|se
+varginhense	nome masculino	var|gi|[nhen]|se
+varginhense	nome feminino	var|gi|[nhen]|se
+vargueiro	nome masculino	var|[guei]|ro
+vária	nome feminino	[vá]|ri|a
+variabilidade	nome feminino	va|ri|a|bi|li|[da]|de
+variação	nome feminino	va|ri|a|[ção]
+variadamente	advérbio	va|ri|a|da|[men]|te
+variadeira	nome feminino	va|ri|a|[dei]|ra
+variadíssimo	adjetivo	va|ri|a|[dís]|si|mo
+variado	adjetivo	va|ri|[a]|do
+variagem	nome feminino	va|ri|[a]|gem
+variamente	advérbio	va|ri|a|[men]|te
+variância	nome feminino	va|ri|[ân]|ci|a
+varianela	nome feminino	va|ri|a|[ne]|la
+variante	nome feminino	va|ri|[an]|te
+variante	adjetivo	va|ri|[an]|te
+variar	verbo	va|ri|[ar]
+variável	adjetivo	va|ri|[á]|vel
+variável	nome feminino	va|ri|[á]|vel
+variavelmente	advérbio	va|ri|a|vel|[men]|te
+variaz	nome masculino	va|ri|[az]
+varicela	nome feminino	va|ri|[ce]|la
+varicelar	adjetivo	va|ri|ce|[lar]
+varicelar	verbo	va|ri|ce|[lar]
+variceloide	nome feminino	va|ri|ce|[loi]|de
+variceloide	adjetivo	va|ri|ce|[loi]|de
+varicha	nome feminino	va|[ri]|cha
+variço	adjetivo	va|[ri]|ço
+varicocele	nome feminino	va|ri|co|[ce]|le
+varicose	nome feminino	va|ri|[co]|se
+varicosidade	nome feminino	va|ri|co|si|[da]|de
+varicoso	adjetivo	va|ri|[co]|so
+varícula	nome feminino	va|[rí]|cu|la
+variedade	nome feminino	va|ri|e|[da]|de
+variegação	nome feminino	va|ri|e|ga|[ção]
+variegadamente	advérbio	va|ri|e|ga|da|[men]|te
+variegado	adjetivo	va|ri|e|[ga]|do
+variegar	verbo	va|ri|e|[gar]
+varilha	nome feminino	va|[ri]|lha
+varilongo	adjetivo	va|ri|[lon]|go
+varina	nome feminino	va|[ri]|na
+varinagem	nome feminino	va|ri|[na]|gem
+varinel	nome masculino	va|ri|[nel]
+varinha	nome feminino	va|[ri]|nha
+varinha-de-são-josé	nome feminino	va|ri|nha-de-são-jo|[sé]
+varino	nome masculino	va|[ri]|no
+varino	adjetivo	va|[ri]|no
+vário	adjetivo	[vá]|ri|o
+varíola	nome feminino	va|[rí]|o|la
+variolado	adjetivo	va|ri|o|[la]|do
+variolar	adjetivo	va|ri|o|[lar]
+variolário	adjetivo	va|ri|o|[lá]|ri|o
+variólico	adjetivo	va|ri|[ó]|li|co
+varioliforme	adjetivo	va|ri|o|li|[for]|me
+variolina	nome feminino	va|ri|o|[li]|na
+variolite	nome feminino	va|ri|o|[li]|te
+variolítico	adjetivo	va|ri|o|[lí]|ti|co
+vanguejar	verbo	van|gue|[jar]
+vanidade	nome feminino	va|ni|[da]|de
+vanilácea	nome feminino	va|ni|[lá]|ce|a
+vaniláceo	adjetivo	va|ni|[lá]|ce|o
+vanílico	adjetivo	va|[ní]|li|co
+vanilina	nome feminino	va|ni|[li]|na
+vanilismo	nome masculino	va|ni|[lis]|mo
+vaniloquência	nome feminino	va|ni|lo|[quên]|ci|a
+vaniloquente	adjetivo	va|ni|lo|[quen]|te
+vanilóquio	nome masculino	va|ni|[ló]|qui|o
+vaníloquo	adjetivo	va|[ní]|lo|quo
+vaníssimo	adjetivo	va|[nís]|si|mo
+vantagem	nome feminino	van|[ta]|gem
+vantajosamente	advérbio	van|ta|jo|sa|[men]|te
+vantajoso	adjetivo	van|ta|[jo]|so
+vante	nome feminino	[van]|te
+vanuatuense	nome masculino	va|nu|a|tu|[en]|se
+vanuatuense	adjetivo	va|nu|a|tu|[en]|se
+vanuatuense	nome feminino	va|nu|a|tu|[en]|se
+vanza	nome feminino	[van]|za
+vão	adjetivo	[vão]
+vão	nome masculino	[vão]
+vapa	nome feminino	[va]|pa
+vápido	adjetivo	[vá]|pi|do
+vapixana	adjetivo	va|pi|[xa]|na
+vapixana	nome masculino	va|pi|[xa]|na
+vapixana	nome feminino	va|pi|[xa]|na
+vapor	nome masculino	va|[por]
+vaporação	nome feminino	va|po|ra|[ção]
+vaporada	nome feminino	va|po|[ra]|da
+vaporar	verbo	va|po|[rar]
+vaporário	nome masculino	va|po|[rá]|ri|o
+vaporável	adjetivo	va|po|[rá]|vel
+vapores-rutilantes	nome masculino	va|po|res-ru|ti|[lan]|tes
+vaporífero	adjetivo	va|po|[rí]|fe|ro
+vaporimétrico	adjetivo	va|po|ri|[mé]|tri|co
+vaporímetro	nome masculino	va|po|[rí]|me|tro
+vaporização	nome feminino	va|po|ri|za|[ção]
+vaporizador	nome masculino	va|po|ri|za|[dor]
+vaporizador	adjetivo	va|po|ri|za|[dor]
+vaporizar	verbo	va|po|ri|[zar]
+vaporizável	adjetivo	va|po|ri|[zá]|vel
+vaporosamente	advérbio	va|po|ro|sa|[men]|te
+vaporosidade	nome feminino	va|po|ro|si|[da]|de
+vaporoso	adjetivo	va|po|[ro]|so
+vapuã	nome masculino	va|pu|[ã]
+vapuaçu	nome masculino	va|pu|a|[çu]
+vapular	verbo	va|pu|[lar]
+vaqueanaço	nome masculino	va|que|a|[na]|ço
+vaqueanar	verbo	va|que|a|[nar]
+vaqueano	nome masculino	va|que|[a]|no
+vaqueira	nome feminino	va|[quei]|ra
+vaqueirada	nome feminino	va|quei|[ra]|da
+vaqueirama	nome feminino	va|quei|[ra]|ma
+vaqueirice	nome feminino	va|quei|[ri]|ce
+vaqueiro	nome masculino	va|[quei]|ro
+vaqueiro	adjetivo	va|[quei]|ro
+vaquejada	nome feminino	va|que|[ja]|da
+vaquejador	nome masculino	va|que|ja|[dor]
+vaquejar	verbo	va|que|[jar]
+vaquejo	nome masculino	va|[que]|jo
+vaqueta	nome feminino	va|[que]|ta
+vaquilhona	nome feminino	va|qui|[lho]|na
+vaquinha	nome feminino	va|[qui]|nha
+var	nome masculino	[var]
+vara	nome feminino	[va]|ra
+vara-de-ouro	nome feminino	va|ra-de-ou|ro
+vara-preta	nome feminino	va|ra-pre|ta
+varação	nome feminino	va|ra|[ção]
+varada	nome feminino	va|[ra]|da
+varado	adjetivo	va|[ra]|do
+varado	nome masculino	va|[ra]|do
+varadoiro	nome masculino	va|ra|[doi]|ro
+varador	nome masculino	va|ra|[dor]
+varadouro	nome masculino	va|ra|[dou]|ro
+varago	nome masculino	va|[ra]|go
+varal	nome masculino	va|[ral]
+varame	nome masculino	va|[ra]|me
+varancada	nome feminino	va|ran|[ca]|da
+varanda	nome feminino	va|[ran]|da
+varandado	nome masculino	va|ran|[da]|do
+varandão	nome masculino	va|ran|[dão]
+varandim	nome masculino	va|ran|[dim]
+varanga	nome feminino	va|[ran]|ga
+varangada	nome feminino	va|ran|[ga]|da
+varano	nome masculino	va|[ra]|no
+varante	adjetivo	va|[ran]|te
+varante	nome masculino	va|[ran]|te
+varão	adjetivo	va|[rão]
+varão	nome masculino	va|[rão]
+varapau	nome masculino	va|ra|[pau]
+varar	verbo	va|[rar]
+varatojano	nome masculino	va|ra|to|[ja]|no
+varatojano	adjetivo	va|ra|to|[ja]|no
+varatojo	nome masculino	va|ra|[to]|jo
+varável	adjetivo	va|[rá]|vel
+varciano	adjetivo	var|ci|[a]|no
+varciano	nome masculino	var|ci|[a]|no
+vardasca	nome masculino	var|[das]|ca
+vardasca	nome feminino	var|[das]|ca
+ventrilho	nome masculino	ven|[tri]|lho
+ventríloqua	nome feminino	ven|[trí]|lo|qua
+ventriloquia	nome feminino	ven|tri|lo|[qui]|a
+ventriloquismo	nome masculino	ven|tri|lo|[quis]|mo
+ventriloquista	adjetivo	ven|tri|lo|[quis]|ta
+ventriloquista	nome masculino	ven|tri|lo|[quis]|ta
+ventriloquista	nome feminino	ven|tri|lo|[quis]|ta
+ventríloquo	nome masculino	ven|[trí]|lo|quo
+ventríloquo	adjetivo	ven|[trí]|lo|quo
+ventripotente	adjetivo	ven|tri|po|[ten]|te
+ventrisca	nome feminino	ven|[tris]|ca
+ventrosidade	nome feminino	ven|tro|si|[da]|de
+ventrudo	adjetivo	ven|[tru]|do
+ventrulho	nome masculino	ven|[tru]|lho
+vêntulo	nome masculino	[vên]|tu|lo
+ventura	nome feminino	ven|[tu]|ra
+venturar	verbo	ven|tu|[rar]
+ventureiro	nome masculino	ven|tu|[rei]|ro
+ventureiro	adjetivo	ven|tu|[rei]|ro
+venturina	nome feminino	ven|tu|[ri]|na
+venturo	adjetivo	ven|[tu]|ro
+venturosamente	advérbio	ven|tu|ro|sa|[men]|te
+venturoso	adjetivo	ven|tu|[ro]|so
+ventusa	nome feminino	ven|[tu]|sa
+vénula	nome feminino	[vé]|nu|la
+vênula	nome feminino	[vê]|nu|la
+venulado	adjetivo	ve|nu|[la]|do
+vénus	nome feminino	[vé]|nus
+venusiano	adjetivo	ve|nu|si|[a]|no
+venusino	adjetivo	ve|nu|[si]|no
+venusino	nome masculino	ve|nu|[si]|no
+venúsio	nome masculino	ve|[nú]|si|o
+venustade	nome feminino	ve|nus|[ta]|de
+venustidade	nome feminino	ve|nus|ti|[da]|de
+venusto	adjetivo	ve|[nus]|to
+vepre	nome masculino	[ve]|pre
+vepsa	nome masculino	[vep]|sa
+vequiá	interjeição	ve|qui|[á]
+ver	verbo	[ver]
+ver	nome masculino	[ver]
+ver-o-peso	nome masculino	ver-o-pe|so
+vera-cruzano	nome masculino	ve|ra-cru|[za]|no
+vera-cruzano	adjetivo	ve|ra-cru|[za]|no
+vera-cruzense	nome feminino	ve|ra-cru|[zen]|se
+vera-cruzense	nome masculino	ve|ra-cru|[zen]|se
+vera-cruzense	adjetivo	ve|ra-cru|[zen]|se
+vera-efígie	nome feminino	ve|ra-e|[fí]|gi|e
+veracidade	nome feminino	ve|ra|ci|[da]|de
+veracíssimo	adjetivo	ve|ra|[cís]|si|mo
+veragro	adjetivo	ve|[ra]|gro
+veragro	nome masculino	ve|[ra]|gro
+veramente	advérbio	ve|ra|[men]|te
+veraneante	adjetivo	ve|ra|ne|[an]|te
+veraneante	nome masculino	ve|ra|ne|[an]|te
+veraneante	nome feminino	ve|ra|ne|[an]|te
+veranear	verbo	ve|ra|ne|[ar]
+veranego	adjetivo	ve|ra|[ne]|go
+veraneio	nome masculino	ve|ra|[nei]|o
+veranico	nome masculino	ve|ra|[ni]|co
+veraniço	adjetivo	ve|ra|[ni]|ço
+veranil	adjetivo	ve|ra|[nil]
+veranista	adjetivo	ve|ra|[nis]|ta
+veranista	nome masculino	ve|ra|[nis]|ta
+veranista	nome feminino	ve|ra|[nis]|ta
+veranito	nome masculino	ve|ra|[ni]|to
+veranopolitano	adjetivo	ve|ra|no|po|li|[ta]|no
+veranopolitano	nome masculino	ve|ra|no|po|li|[ta]|no
+verão	nome masculino	ve|[rão]
+verãozinho	nome masculino	ve|[rão]|zi|nho
+veras	nome feminino	[ve]|ras
+verascópio	nome masculino	ve|ras|[có]|pi|o
+veratrácea	nome feminino	ve|ra|[trá]|ce|a
+verátrico	adjetivo	ve|[rá]|tri|co
+veratrina	nome feminino	ve|ra|[tri]|na
+veratrinato	nome masculino	ve|ra|tri|[na]|to
+veratrino	nome masculino	ve|ra|[tri]|no
+veratro	nome masculino	ve|[ra]|tro
+veraz	adjetivo	ve|[raz]
+verba	nome feminino	[ver]|ba
+verbal	adjetivo	ver|[bal]
+verbalismo	nome masculino	ver|ba|[lis]|mo
+verbalista	nome masculino	ver|ba|[lis]|ta
+verbalista	adjetivo	ver|ba|[lis]|ta
+verbalista	nome feminino	ver|ba|[lis]|ta
+verbalisticamente	advérbio	ver|ba|lis|ti|ca|[men]|te
+verbalístico	adjetivo	ver|ba|[lís]|ti|co
+verbalização	nome feminino	ver|ba|li|za|[ção]
+verbalizado	adjetivo	ver|ba|li|[za]|do
+verbalizador	adjetivo	ver|ba|li|za|[dor]
+verbalizador	nome masculino	ver|ba|li|za|[dor]
+verbalizar	verbo	ver|ba|li|[zar]
+verbalmente	advérbio	ver|bal|[men]|te
+verbasco	nome masculino	ver|[bas]|co
+verbena	nome feminino	ver|[be]|na
+verbenácea	nome feminino	ver|be|[ná]|ce|a
+verbenáceo	adjetivo	ver|be|[ná]|ce|o
+verbenado	adjetivo	ver|be|[na]|do
+verbenário	nome masculino	ver|be|[ná]|ri|o
+verberação	nome feminino	ver|be|ra|[ção]
+verberador	adjetivo	ver|be|ra|[dor]

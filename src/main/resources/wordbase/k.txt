@@ -1,0 +1,154 @@
+kabbfússia	nome feminino	kabb|[fús]|si|a
+kabuki	nome masculino	ka|bu|ki
+kafkiana	nome feminino	kaf|ki|[a]|na
+kafkiano	nome masculino	kaf|ki|[a]|no
+kafkiano	adjetivo	kaf|ki|[a]|no
+kalash	nome feminino	ka|lash
+kalashnikov	nome feminino	ka|lash|ni|kov
+kamasutra	nome masculino	ka|ma|su|tra
+kamikaze	nome masculino	[ka]|mi|ka|ze
+kamikaze	adjetivo	[ka]|mi|ka|ze
+kamoka	nome feminino	ka|mo|ka
+kantiana	nome feminino	kan|ti|[a]|na
+kantiano	adjetivo	kan|ti|[a]|no
+kantiano	nome masculino	kan|ti|[a]|no
+kantismo	nome masculino	kan|[tis]|mo
+kantista	nome masculino	kan|[tis]|ta
+kantista	adjetivo	kan|[tis]|ta
+kantista	nome feminino	kan|[tis]|ta
+kanvuanza	nome feminino	kan|vu|an|za
+karaoke	nome masculino	ka|ra|o|ke
+karatê	nome masculino	ka|ra|tê
+karaté	nome masculino	ka|ra|té
+karateca	nome masculino	ka|ra|te|ca
+karateca	nome feminino	ka|ra|te|ca
+karbovanet	nome masculino	kar|bo|va|net
+karma	nome masculino	[kar]|ma
+kart	nome masculino	[kart]
+karting	nome masculino	[kar]|ting
+kartista	nome masculino	kar|[tis]|ta
+kartista	nome feminino	kar|[tis]|ta
+kartódromo	nome masculino	kar|[tó]|dro|mo
+kasba	nome feminino	[kas]|ba
+kassumbular	nome masculino	kas|sum|bu|lar
+kayak	nome masculino	kay|ak
+kazaniano	adjetivo	ka|za|ni|[a]|no
+kcoeléria	nome feminino	kco|e|[lé]|ri|a
+keewatiniano	adjetivo	ke|e|wa|ti|ni|[a]|no
+keffieh	nome masculino	kef|fieh
+kefir	nome masculino	ke|fir
+kelvin	nome masculino	kel|vin
+kelvin	adjetivo	kel|vin
+kendo	nome masculino	[ken]|do
+kennédia	nome feminino	ken|[né]|di|a
+kepléria	nome feminino	ke|plé|ri|a
+kepleriano	adjetivo	ke|ple|ri|a|no
+kernita	nome feminino	ker|ni|ta
+kérria	nome feminino	[kér]|ri|a
+ketchup	nome masculino	[ket]|chup
+keuperiano	adjetivo	keu|pe|ri|[a]|no
+keweenawiano	adjetivo	ke|we|e|na|wi|[a]|no
+keynesianismo	nome masculino	key|ne|si|a|nis|mo
+keyserlinguiano	adjetivo	key|ser|lin|gui|a|no
+kibutz	nome masculino	ki|butz
+kickboxer	nome masculino	kick|bo|xer
+kickboxer	nome feminino	kick|bo|xer
+kickboxing	nome masculino	kick|bo|xing
+kierkegaardiano	adjetivo	kier|ke|gaar|di|a|no
+kierkegaardiano	nome masculino	kier|ke|gaar|di|a|no
+kilim	adjetivo	ki|lim
+kilim	nome masculino	ki|lim
+kilo	nome masculino	[ki]|lo
+kiloampere	nome masculino	ki|lo|am|pe|re
+kilobit	nome masculino	ki|lo|bit
+kilobyte	nome masculino	ki|lo|by|te
+kilocoulomb	nome masculino	ki|lo|cou|lomb
+kilohertz	nome masculino	ki|lo|hertz
+kilojoule	nome masculino	ki|lo|jou|le
+kiloparsec	nome masculino	ki|lo|par|sec
+kilotonelada	nome feminino	ki|lo|to|ne|la|da
+kilovolt	nome masculino	ki|lo|volt
+kilovolt-ampere	nome masculino	ki|lo|volt-am|pe|re
+kilowatt	nome masculino	ki|lo|watt
+kilowatt-hora	nome masculino	ki|lo|watt-ho|ra
+kilt	nome masculino	[kilt]
+kimberlite	nome feminino	kim|ber|[li]|te
+kimberlito	nome masculino	kim|ber|li|to
+kimmeridgiano	adjetivo	kim|me|rid|gi|[a]|no
+kimmerídgico	adjetivo	kim|me|[ríd]|gi|co
+kimono	nome masculino	ki|mo|no
+kina	nome masculino	[ki]|na
+king	nome masculino	[king]
+kip	nome masculino	[kip]
+kirganélia	nome feminino	kir|ga|[né]|li|a
+kiribatiano	adjetivo	ki|ri|ba|ti|a|no
+kiribatiano	nome masculino	ki|ri|ba|ti|a|no
+kiribatino	adjetivo	ki|ri|ba|ti|no
+kiribatino	nome masculino	ki|ri|ba|ti|no
+kírie	nome masculino	[kí]|rie
+kirsch	nome masculino	[kirsch]
+kit	nome masculino	[kit]
+kitchenette	nome feminino	kit|che|net|te
+kitsch	adjetivo	[kitsch]
+kitsch	nome masculino	[kitsch]
+kiwi	nome masculino	ki|wi
+kizomba	nome feminino	ki|zom|ba
+kjökkenmödding	nome masculino	[kjök]|ken|möd|ding
+klaprothina	nome feminino	kla|prot|[hi]|na
+klaprothite	nome feminino	kla|prot|[hi]|te
+klaxon	nome feminino	kla|xon
+kleenex	nome feminino	klee|nex
+klêinia	nome feminino	[klêi]|ni|a
+klipsteinite	nome feminino	klips|tei|[ni]|te
+kneippismo	nome masculino	kneip|[pis]|mo
+kneippista	nome masculino	kneip|[pis]|ta
+kneippista	adjetivo	kneip|pis|ta
+kneippista	nome feminino	kneip|[pis]|ta
+knock-out	nome masculino	[knock-out]
+knock-out	adjetivo	[knock-out]
+knockout	nome masculino	[knoc]|kout
+knockout	adjetivo	[knoc]|kout
+know-how	nome masculino	[know-how]
+knóxia	nome feminino	[knó]|xi|a
+kóchia	nome feminino	[kó]|chi|a
+koelreutéria	nome feminino	ko|el|reu|[té]|ri|a
+kólbia	nome feminino	[kól]|bi|a
+kosovar	nome masculino	ko|so|[var]
+kosovar	adjetivo	ko|so|var
+kosovar	nome feminino	ko|so|var
+kowaitiana	nome feminino	ko|wai|ti|a|na
+kowaitiano	adjetivo	ko|wai|ti|a|no
+kowaitiano	nome masculino	ko|wai|ti|a|no
+koweitiano	adjetivo	ko|wei|ti|a|no
+koweitiano	nome masculino	ko|wei|ti|a|no
+kraft	nome masculino	[kraft]
+kraméria	nome feminino	kra|[mé]|ri|a
+krausismo	nome masculino	krau|[sis]|mo
+krausista	adjetivo	krau|[sis]|ta
+krausista	nome masculino	krau|[sis]|ta
+krausista	nome feminino	krau|[sis]|ta
+kremlin	nome masculino	[krem]|lin
+krill	nome masculino	[krill]
+krípton	nome masculino	[kríp]|ton
+kúmel	nome masculino	[kú]|mel
+kumquat	nome masculino	[kum]|quat
+kuna	nome masculino	[ku]|na
+kung-fu	nome masculino	[kung-fu]
+kunguriano	adjetivo	kun|gu|ri|[a]|no
+kúnthia	nome feminino	[kúnt]|hi|a
+kúntzia	nome feminino	[kúnt]|zi|a
+kurtschatóvio	nome masculino	kurts|cha|tó|vi|o
+kuru	nome masculino	ku|ru
+kuvale	nome masculino	ku|va|le
+kuvale	adjetivo	ku|va|le
+kuwaitiana	nome feminino	ku|wai|ti|a|na
+kuwaitiano	adjetivo	ku|wai|ti|a|no
+kuwaitiano	nome masculino	ku|wai|ti|a|no
+kwacha	nome masculino	[kwa]|cha
+kwamato	adjetivo	kwa|[ma]|to
+kwamato	nome masculino	kwa|[ma]|to
+kwanyama	nome masculino	kwa|nya|ma
+kwanyama	adjetivo	kwa|nya|ma
+kwanza	nome masculino	[kwan]|za
+kwashiorkor	nome masculino	kwas|hior|kor
+kyat	nome masculino	[kyat]

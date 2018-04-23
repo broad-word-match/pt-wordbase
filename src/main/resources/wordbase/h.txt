@@ -1,0 +1,4274 @@
+hilino	nome masculino	hi|[li]|no
+hilo	nome masculino	[hi]|lo
+hilóbata	nome masculino	hi|[ló]|ba|ta
+hilobátida	nome masculino	hi|lo|[bá]|ti|da
+hilobátida	nome masculino	hi|lo|[bá]|ti|da
+hilobatídeo	nome masculino	hi|lo|ba|[tí]|de|o
+hilobatídeo	nome masculino	hi|lo|ba|[tí]|de|o
+hilobatídeo	adjetivo	hi|lo|ba|[tí]|de|o
+hilóbio	nome masculino	hi|[ló]|bi|o
+hilofagia	nome feminino	hi|lo|fa|[gi]|a
+hilófago	adjetivo	hi|[ló]|fa|go
+hilogenia	nome feminino	hi|lo|ge|[ni]|a
+hilogênico	adjetivo	hi|lo|[gê]|ni|co
+hilogénico	adjetivo	hi|lo|[gé]|ni|co
+hilota	nome masculino	hi|[lo]|ta
+hilotismo	nome masculino	hi|lo|[tis]|mo
+hilótomo	nome masculino	hi|[ló]|to|mo
+hilozoico	adjetivo	hi|lo|[zoi]|co
+hilozoísmo	nome masculino	hi|lo|zo|[ís]|mo
+hilozoísta	adjetivo	hi|lo|zo|[ís]|ta
+hilozoísta	nome masculino	hi|lo|zo|[ís]|ta
+hilozoísta	nome feminino	hi|lo|zo|[ís]|ta
+himalaia	nome masculino	hi|ma|[lai]|a
+himalaico	adjetivo	hi|ma|[lai]|co
+himalaíte	nome feminino	hi|ma|la|[í]|te
+himantofilo	nome masculino	hi|man|to|[fi]|lo
+himba	nome feminino	[him]|ba
+hímen	nome masculino	[hí]|men
+himenal	adjetivo	hi|me|[nal]
+himeneu	nome masculino	hi|me|[neu]
+himenial	adjetivo	hi|me|ni|[al]
+himênio	nome masculino	hi|[mê]|ni|o
+himénio	nome masculino	hi|[mé]|ni|o
+himenocarpo	nome masculino	hi|me|no|[car]|po
+himenocarpo	adjetivo	hi|me|no|[car]|po
+himenofilácea	nome feminino	hi|me|no|fi|[lá]|ce|a
+himenóforo	adjetivo	hi|me|[nó]|fo|ro
+himenóforo	nome masculino	hi|me|[nó]|fo|ro
+himenografia	nome feminino	hi|me|no|gra|[fi]|a
+himenográfico	adjetivo	hi|me|no|[grá]|fi|co
+himenógrafo	nome masculino	hi|me|[nó]|gra|fo
+himenoide	adjetivo	hi|me|[noi]|de
+himenologia	nome feminino	hi|me|no|lo|[gi]|a
+himenológico	adjetivo	hi|me|no|[ló]|gi|co
+himenólogo	nome masculino	hi|me|[nó]|lo|go
+himenomicete	nome masculino	hi|me|no|mi|[ce]|te
+himenomicete	adjetivo	hi|me|no|mi|[ce]|te
+himenópode	adjetivo	hi|me|[nó]|po|de
+himenóptero	adjetivo	hi|me|[nóp]|te|ro
+himenóptero	nome masculino	hi|me|[nóp]|te|ro
+himenopterologia	nome feminino	hi|me|nop|te|ro|lo|[gi]|a
+himenopterológico	adjetivo	hi|me|nop|te|ro|[ló]|gi|co
+himenopterólogo	nome masculino	hi|me|nop|te|[ró]|lo|go
+himenorrizo	adjetivo	hi|me|nor|[ri]|zo
+himenotomia	nome feminino	hi|me|no|to|[mi]|a
+himenotômico	adjetivo	hi|me|no|[tô]|mi|co
+himenotómico	adjetivo	hi|me|no|[tó]|mi|co
+himenótomo	nome masculino	hi|me|[nó]|to|mo
+himereu	adjetivo	hi|me|[reu]
+himereu	nome masculino	hi|me|[reu]
+himétio	adjetivo	hi|[mé]|ti|o
+himiárico	adjetivo	hi|mi|[á]|ri|co
+himiárico	nome masculino	hi|mi|[á]|ri|co
+himiarita	adjetivo	hi|mi|a|[ri]|ta
+himiarita	nome masculino	hi|mi|a|[ri]|ta
+himiarita	nome feminino	hi|mi|a|[ri]|ta
+hinário	nome masculino	hi|[ná]|ri|o
+hindi	nome masculino	hin|[di]
+hindu	adjetivo	hin|[du]
+hindu	nome masculino	hin|[du]
+hindu	nome feminino	hin|[du]
+hinduísmo	nome masculino	hin|du|[ís]|mo
+hinduísta	nome masculino	hin|du|[ís]|ta
+hinduísta	adjetivo	hin|du|[ís]|ta
+hinduísta	nome feminino	hin|du|[ís]|ta
+hinduizar	verbo	hin|dui|[zar]
+hindustani	nome masculino	hin|dus|ta|[ni]
+hindustânico	adjetivo	hin|dus|[tâ]|ni|co
+hindustano	nome masculino	hin|dus|[ta]|no
+hinga	adjetivo	[hin]|ga
+hinga	nome masculino	[hin]|ga
+hínico	adjetivo	[hí]|ni|co
+hinista	nome masculino	hi|[nis]|ta
+hinista	nome feminino	hi|[nis]|ta
+hino	nome masculino	[hi]|no
+hinodo	nome masculino	hi|[no]|do
+hinografia	nome feminino	hi|no|gra|[fi]|a
+hinográfico	adjetivo	hi|no|[grá]|fi|co
+hinógrafo	nome masculino	hi|[nó]|gra|fo
+hinologia	nome feminino	hi|no|lo|[gi]|a
+hinológico	adjetivo	hi|no|[ló]|gi|co
+hinologista	nome masculino	hi|no|lo|[gis]|ta
+hinologista	nome feminino	hi|no|lo|[gis]|ta
+hinólogo	nome masculino	hi|[nó]|lo|go
+hiofaríngeo	adjetivo	hi|o|fa|[rín]|ge|o
+hioglosso	nome masculino	hi|o|[glos]|so
+hioide	adjetivo	hi|[oi]|de
+hioide	nome masculino	hi|[oi]|de
+hióideo	adjetivo	hi|[ói]|de|o
+hiomandibular	nome masculino	hi|o|man|di|bu|[lar]
+halômetro	nome masculino	ha|[lô]|me|tro
+haloquímica	nome feminino	ha|lo|[quí]|mi|ca
+haloquímico	adjetivo	ha|lo|[quí]|mi|co
+halorragácea	nome feminino	ha|lor|ra|[gá]|ce|a
+halotecnia	nome masculino	ha|lo|tec|[ni]|a
+halotecnia	nome feminino	ha|lo|tec|[ni]|a
+halotécnico	adjetivo	ha|lo|[téc]|ni|co
+halotriquite	nome feminino	ha|lo|tri|[qui]|te
+haltere	nome masculino	hal|[te]|re
+halterofilia	nome feminino	hal|te|ro|fi|[li]|a
+halterofilismo	nome masculino	hal|te|ro|fi|[lis]|mo
+halterofilista	nome masculino	hal|te|ro|fi|[lis]|ta
+halterofilista	adjetivo	hal|te|ro|fi|[lis]|ta
+halterofilista	nome feminino	hal|te|ro|fi|[lis]|ta
+halterófilo	nome masculino	hal|te|[ró]|fi|lo
+haltícida	nome masculino	hal|[tí]|ci|da
+haltícida	nome masculino	hal|[tí]|ci|da
+halticídeo	nome masculino	hal|ti|[cí]|de|o
+halticídeo	nome masculino	hal|ti|[cí]|de|o
+halticídeo	adjetivo	hal|ti|[cí]|de|o
+háltico	nome masculino	[hál]|ti|co
+halurgia	nome feminino	ha|lur|[gi]|a
+halúrgico	adjetivo	ha|[lúr]|gi|co
+ham-ioc-chong	nome masculino	ham-i|oc-g
+hamada	nome feminino	ha|[ma]|da
+hamadríada	nome feminino	ha|ma|[drí]|a|da
+hamadríade	nome feminino	ha|ma|[drí]|a|de
+hamamelidácea	nome feminino	ha|ma|me|li|[dá]|ce|a
+hamamelidáceo	adjetivo	ha|ma|me|li|[dá]|ce|o
+hamamélide	nome feminino	ha|ma|[mé]|li|de
+hamaxóbio	adjetivo	ha|ma|[xó]|bi|o
+hamaxóbio	nome masculino	ha|ma|[xó]|bi|o
+hamaxofobia	nome feminino	ha|ma|xo|fo|[bi]|a
+hamaxófobo	adjetivo	ha|ma|[xó]|fo|bo
+hamaxófobo	nome masculino	ha|ma|[xó]|fo|bo
+hamburger	nome masculino	ham|bur|ger
+hambúrguer	nome masculino	ham|[búr]|guer
+hamburgueria	nome feminino	ham|bur|gue|[ri]|a
+hamburguês	nome masculino	ham|bur|[guês]
+hamburguês	adjetivo	ham|bur|[guês]
+hamburguesa	nome feminino	ham|bur|[gue]|sa
+hamígero	adjetivo	ha|[mí]|ge|ro
+hamiltónia	nome feminino	ha|mil|[tó]|ni|a
+hamiltônia	nome feminino	ha|mil|[tô]|ni|a
+hamireu	adjetivo	ha|mi|[reu]
+hamireu	nome masculino	ha|mi|[reu]
+hamita	nome masculino	ha|[mi]|ta
+hamita	adjetivo	ha|[mi]|ta
+hamita	nome feminino	ha|[mi]|ta
+hamítico	adjetivo	ha|[mí]|ti|co
+hamlético	adjetivo	ham|[lé]|ti|co
+hamletismo	nome masculino	ham|le|[tis]|mo
+hamoso	adjetivo	ha|[mo]|so
+hamster	nome masculino	[ham]|ster
+hámster	nome masculino	[háms]|ter
+hamular	adjetivo	ha|mu|[lar]
+hâmulo	nome masculino	[hâ]|mu|lo
+handa	adjetivo	[han]|da
+handa	nome feminino	[han]|da
+handebol	nome masculino	han|de|[bol]
+handebolista	nome masculino	han|de|bo|[lis]|ta
+handebolista	nome feminino	han|de|bo|[lis]|ta
+handebolístico	adjetivo	han|de|bo|[lís]|ti|co
+handicap	nome masculino	han|di|cap
+handling	nome masculino	han|dling
+hangar	nome masculino	han|[gar]
+hango	nome masculino	[han]|go
+hangolo	nome masculino	han|[go]|lo
+hanifismo	nome masculino	ha|ni|[fis]|mo
+hanifita	adjetivo	ha|ni|[fi]|ta
+hanifita	nome masculino	ha|ni|[fi]|ta
+hanifita	nome feminino	ha|ni|[fi]|ta
+hanoveriana	nome feminino	ha|no|ve|ri|[a]|na
+hanoveriano	nome masculino	ha|no|ve|ri|[a]|no
+hanoveriano	adjetivo	ha|no|ve|ri|[a]|no
+hansa	nome feminino	[han]|sa
+hanseático	adjetivo	han|se|[á]|ti|co
+hanseniana	nome feminino	han|se|ni|[a]|na
+hanseniano	nome masculino	han|se|ni|[a]|no
+hanseniano	adjetivo	han|se|ni|[a]|no
+hanseníase	nome feminino	han|se|[ní]|a|se
+hantavírus	nome masculino	han|ta|[ví]|rus
+hapalélitro	nome masculino	ha|pa|[lé]|li|tro
+hapálida	nome masculino	ha|[pá]|li|da
+hapálida	adjetivo	ha|[pá]|li|da
+hapálida	nome masculino	ha|[pá]|li|da
+hapalídeo	nome masculino	ha|pa|[lí]|de|o
+hapalídeo	nome masculino	ha|pa|[lí]|de|o
+hapalídeo	adjetivo	ha|pa|[lí]|de|o
+hápax	nome masculino	[há]|pax
+haplanto	nome masculino	ha|[plan]|to
+haplítico	adjetivo	ha|[plí]|ti|co
+haplito	nome masculino	ha|[pli]|to
+haplobionte	adjetivo	ha|plo|bi|[on]|te
+haplócero	nome masculino	ha|[pló]|ce|ro
+haplodáctilo	nome masculino	ha|plo|[dác]|ti|lo
+haplódero	nome masculino	ha|[pló]|de|ro
+haplodiplobionte	adjetivo	ha|plo|di|plo|bi|[on]|te
+haplodiplonte	adjetivo	ha|plo|di|[plon]|te
+haplodonte	adjetivo	ha|plo|[don]|te
+hexastêmone	adjetivo	he|xas|[tê]|mo|ne
+hexastémone	adjetivo	he|xas|[té]|mo|ne
+hexástico	adjetivo	he|[xás]|ti|co
+hexástico	nome masculino	he|[xás]|ti|co
+hexastilo	nome masculino	he|xas|[ti]|lo
+hexátomo	nome masculino	he|[xá]|to|mo
+hexecontálito	nome masculino	he|xe|con|[tá]|li|to
+hexere	nome feminino	he|[xe]|re
+hexileno	nome masculino	he|xi|[le]|no
+hexílico	adjetivo	he|[xí]|li|co
+hexilo	nome masculino	he|[xi]|lo
+héxodo	nome masculino	[hé]|xo|do
+hexodonte	nome masculino	he|xo|[don]|te
+hexoses	nome feminino	he|[xo]|ses
+hexóxido	nome masculino	he|[xó]|xi|do
+hi-fi	nome masculino	[hi-fi]
+hiacintino	adjetivo	hi|a|cin|[ti]|no
+hiacinto	nome masculino	hi|a|[cin]|to
+híade	nome feminino	[hí]|a|de
+hial	adjetivo	hi|[al]
+híala	nome feminino	[hí]|a|la
+hialino	adjetivo	hi|a|[li]|no
+hialita	nome feminino	hi|a|[li]|ta
+hialite	nome feminino	hi|a|[li]|te
+hiálito	nome masculino	hi|[á]|li|to
+hialofânio	nome masculino	hi|a|lo|[fâ]|ni|o
+hialografia	nome feminino	hi|a|lo|gra|[fi]|a
+hialográfico	adjetivo	hi|a|lo|[grá]|fi|co
+hialógrafo	nome masculino	hi|a|[ló]|gra|fo
+hialoide	adjetivo	hi|a|[loi]|de
+hialoide	nome feminino	hi|a|[loi]|de
+hialóideo	adjetivo	hi|a|[lói]|de|o
+hialoidite	nome feminino	hi|a|loi|[di]|te
+hialoplasma	nome masculino	hi|a|lo|[plas]|ma
+hialossiderite	nome feminino	hi|a|los|si|de|[ri]|te
+hialossomo	adjetivo	hi|a|los|[so]|mo
+hialotecnia	nome feminino	hi|a|lo|tec|[ni]|a
+hialotécnico	adjetivo	hi|a|lo|[téc]|ni|co
+hialotipia	nome feminino	hi|a|lo|ti|[pi]|a
+hialurgia	nome feminino	hi|a|lur|[gi]|a
+hialúrgico	adjetivo	hi|a|[lúr]|gi|co
+hiampolitano	adjetivo	hi|am|po|li|[ta]|no
+hiampolitano	nome masculino	hi|am|po|li|[ta]|no
+hiante	adjetivo	hi|[an]|te
+hiante	nome masculino	hi|[an]|te
+hiante	nome feminino	hi|[an]|te
+hiato	nome masculino	hi|[a]|to
+hibernação	nome feminino	hi|ber|na|[ção]
+hibernáculo	nome masculino	hi|ber|[ná]|cu|lo
+hibernal	adjetivo	hi|ber|[nal]
+hibernante	adjetivo	hi|ber|[nan]|te
+hibernar	verbo	hi|ber|[nar]
+hibérnia	nome feminino	hi|[bér]|ni|a
+hibérnico	adjetivo	hi|[bér]|ni|co
+hibérnico	nome masculino	hi|[bér]|ni|co
+hibérnio	nome masculino	hi|[bér]|ni|o
+hibérnio	adjetivo	hi|[bér]|ni|o
+hiberno	adjetivo	hi|[ber]|no
+hibernoso	adjetivo	hi|ber|[no]|so
+hibernoterapia	nome feminino	hi|ber|no|te|ra|[pi]|a
+hibíscea	nome feminino	hi|[bís]|ce|a
+hibisco	nome masculino	hi|[bis]|co
+hibleu	adjetivo	hi|[bleu]
+hibleu	nome masculino	hi|[bleu]
+hibodonte	nome masculino	hi|bo|[don]|te
+hibridação	nome feminino	hi|bri|da|[ção]
+hibridade	nome feminino	hi|bri|[da]|de
+hibridado	adjetivo	hi|bri|[da]|do
+hibridamente	advérbio	hi|bri|da|[men]|te
+hibridar	verbo	hi|bri|[dar]
+hibridez	nome feminino	hi|bri|[dez]
+hibridismo	nome masculino	hi|bri|[dis]|mo
+hibridista	nome masculino	hi|bri|[dis]|ta
+hibridista	nome feminino	hi|bri|[dis]|ta
+hibridização	nome feminino	hi|bri|di|za|[ção]
+hibridizado	adjetivo	hi|bri|di|[za]|do
+hibridizar	verbo	hi|bri|di|[zar]
+hibridizável	adjetivo	hi|bri|di|[zá]|vel
+híbrido	adjetivo	[hí]|bri|do
+híbrido	nome masculino	[hí]|bri|do
+hibridologia	nome feminino	hi|bri|do|lo|[gi]|a
+hibridológico	adjetivo	hi|bri|do|[ló]|gi|co
+hibridoma	nome masculino	hi|bri|[do]|ma
+hicso	adjetivo	[hic]|so
+hicso	nome masculino	[hic]|so
+hidáspico	adjetivo	hi|[dás]|pi|co
+hidático	adjetivo	hi|[dá]|ti|co
+hidátide	nome feminino	hi|[dá]|ti|de
+hidatídico	adjetivo	hi|da|[tí]|di|co
+hidatidina	nome feminino	hi|da|ti|[di]|na
+hidatidocele	nome feminino	hi|da|ti|do|[ce]|le
+hidatidologia	nome feminino	hi|da|ti|do|lo|[gi]|a
+hidatidose	nome feminino	hi|da|ti|[do]|se
+hidatiforme	adjetivo	hi|da|ti|[for]|me
+hidatígero	adjetivo	hi|da|[tí]|ge|ro
+hidatismo	nome masculino	hi|da|[tis]|mo
+hidátodo	nome masculino	hi|[dá]|to|do
+hidatogénico	adjetivo	hi|da|to|[gé]|ni|co
+hidatoide	adjetivo	hi|da|[toi]|de
+hidatologia	nome feminino	hi|da|to|lo|[gi]|a
+helicoide	nome masculino	he|li|[coi]|de
+helicométrico	adjetivo	he|li|co|[mé]|tri|co
+helicómetro	nome masculino	he|li|[có]|me|tro
+helicômetro	nome masculino	he|li|[cô]|me|tro
+helicónia	nome feminino	he|li|[có]|ni|a
+helicônia	nome feminino	he|li|[cô]|ni|a
+heliconiano	adjetivo	he|li|co|ni|[a]|no
+helicónio	adjetivo	he|li|[có]|ni|o
+helicônio	adjetivo	he|li|[cô]|ni|o
+helicópode	adjetivo	he|li|[có]|po|de
+helicóptero	nome masculino	he|li|[cóp]|te|ro
+helicóstego	nome masculino	he|li|[cós]|te|go
+helicotrema	nome masculino	he|li|co|[tre]|ma
+helicriso	nome masculino	he|li|[cri]|so
+helícula	nome feminino	he|[lí]|cu|la
+heligolandês	adjetivo	he|li|go|lan|[dês]
+heligolandês	nome masculino	he|li|go|lan|[dês]
+hélio	nome masculino	[hé]|li|o
+heliocêntrico	adjetivo	he|li|o|[cên]|tri|co
+heliocentrismo	nome masculino	he|li|o|cen|[tris]|mo
+heliocometa	nome masculino	he|li|o|co|[me]|ta
+heliocromia	nome feminino	he|li|o|cro|[mi]|a
+heliocrômico	adjetivo	he|li|o|[crô]|mi|co
+heliocrómico	adjetivo	he|li|o|[cró]|mi|co
+heliodinâmica	nome feminino	he|li|o|di|[nâ]|mi|ca
+heliodinâmico	adjetivo	he|li|o|di|[nâ]|mi|co
+heliodinâmico	nome masculino	he|li|o|di|[nâ]|mi|co
+heliofânio	nome masculino	he|li|o|[fâ]|ni|o
+heliófila	nome feminino	he|li|[ó]|fi|la
+heliofílea	nome feminino	he|li|o|[fí]|le|a
+heliofilia	nome feminino	he|li|o|fi|[li]|a
+heliófilo	adjetivo	he|li|[ó]|fi|lo
+heliófilo	nome masculino	he|li|[ó]|fi|lo
+heliófito	nome masculino	he|li|[ó]|fi|to
+heliofobia	nome feminino	he|li|o|fo|[bi]|a
+heliófobo	adjetivo	he|li|[ó]|fo|bo
+heliófobo	nome masculino	he|li|[ó]|fo|bo
+heliofotométrico	adjetivo	he|li|o|fo|to|[mé]|tri|co
+heliofotômetro	nome masculino	he|li|o|fo|[tô]|me|tro
+heliofotómetro	nome masculino	he|li|o|fo|[tó]|me|tro
+heliófugo	adjetivo	he|li|[ó]|fu|go
+heliogabálico	adjetivo	he|li|o|ga|[bá]|li|co
+heliógeno	adjetivo	he|li|[ó]|ge|no
+heliografia	nome feminino	he|li|o|gra|[fi]|a
+heliográfico	adjetivo	he|li|o|[grá]|fi|co
+heliógrafo	nome masculino	he|li|[ó]|gra|fo
+heliogravador	adjetivo	he|li|o|gra|va|[dor]
+heliogravador	nome masculino	he|li|o|gra|va|[dor]
+heliogravura	nome feminino	he|li|o|gra|[vu]|ra
+heliólatra	adjetivo	he|li|[ó]|la|tra
+heliólatra	nome masculino	he|li|[ó]|la|tra
+heliólatra	nome feminino	he|li|[ó]|la|tra
+heliolatria	nome feminino	he|li|o|la|[tri]|a
+heliolátrico	adjetivo	he|li|o|[lá]|tri|co
+helioloxodromia	nome feminino	he|li|o|lo|xo|dro|[mi]|a
+heliomagnetômetro	nome masculino	he|li|o|mag|ne|[tô]|me|tro
+heliomagnetómetro	nome masculino	he|li|o|mag|ne|[tó]|me|tro
+heliométrico	adjetivo	he|li|o|[mé]|tri|co
+heliômetro	nome masculino	he|li|[ô]|me|tro
+heliómetro	nome masculino	he|li|[ó]|me|tro
+heliomotor	nome masculino	he|li|o|mo|[tor]
+helión	nome masculino	he|li|[ón]
+heliopatia	nome feminino	he|li|o|pa|[ti]|a
+heliopático	adjetivo	he|li|o|[pá]|ti|co
+helioplastia	nome feminino	he|li|o|plas|[ti]|a
+helioplástico	adjetivo	he|li|o|[plás]|ti|co
+heliopolitano	adjetivo	he|li|o|po|li|[ta]|no
+heliopolitano	nome masculino	he|li|o|po|li|[ta]|no
+helioscopia	nome feminino	he|li|os|co|[pi]|a
+helioscópico	adjetivo	he|li|os|[có]|pi|co
+helioscópio	nome masculino	he|li|os|[có]|pi|o
+heliose	nome feminino	he|li|[o]|se
+heliostática	nome feminino	he|li|os|[tá]|ti|ca
+heliostático	adjetivo	he|li|os|[tá]|ti|co
+helióstato	nome masculino	he|li|[ós]|ta|to
+heliotactismo	nome masculino	he|li|o|tac|[tis]|mo
+heliotatismo	nome masculino	he|li|o|ta|[tis]|mo
+heliotecnia	nome feminino	he|li|o|tec|[ni]|a
+heliotécnico	adjetivo	he|li|o|[téc]|ni|co
+helioterapia	nome feminino	he|li|o|te|ra|[pi]|a
+helioterápico	adjetivo	he|li|o|te|[rá]|pi|co
+heliotermométrico	adjetivo	he|li|o|ter|mo|[mé]|tri|co
+heliotermômetro	nome masculino	he|li|o|ter|[mô]|me|tro
+heliotermómetro	nome masculino	he|li|o|ter|[mó]|me|tro
+heliotipia	nome feminino	he|li|o|ti|[pi]|a
+heliotípico	adjetivo	he|li|o|[tí]|pi|co
+heliótipo	nome masculino	he|li|[ó]|ti|po
+heliotropia	nome feminino	he|li|o|tro|[pi]|a
+heliotrópico	adjetivo	he|li|o|[tró]|pi|co
+heliotropina	nome feminino	he|li|o|tro|[pi]|na
+heliotrópio	nome masculino	he|li|o|[tró]|pi|o
+heliotropismo	nome masculino	he|li|o|tro|[pis]|mo
+heliozoário	nome masculino	he|li|o|zo|[á]|ri|o
+heliozoário	adjetivo	he|li|o|zo|[á]|ri|o
+heliporto	nome masculino	he|li|[por]|to
+heliportuário	adjetivo	he|li|por|tu|[á]|ri|o
+helitransportado	adjetivo	he|li|trans|por|[ta]|do
+helitransportar	verbo	he|li|trans|por|[tar]
+helitransporte	nome masculino	he|li|trans|[por]|te
+hélix	nome masculino	[hé]|lix
+hipopotamídeo	nome masculino	hi|po|po|ta|[mí]|de|o
+hipopotamídeo	adjetivo	hi|po|po|ta|[mí]|de|o
+hipopótamo	nome masculino	hi|po|[pó]|ta|mo
+hiporquema	nome masculino	hi|por|[que]|ma
+hiporrino	nome masculino	hi|por|[ri]|no
+hiporritmo	nome masculino	hi|por|[rit]|mo
+hiposcénio	nome masculino	hi|pos|[cé]|ni|o
+hiposcênio	nome masculino	hi|pos|[cê]|ni|o
+hiposfagma	nome masculino	hi|pos|[fag]|ma
+hiposiopese	nome feminino	hi|po|si|o|[pe]|se
+hiposmia	nome feminino	hi|pos|[mi]|a
+hipósmico	adjetivo	hi|[pós]|mi|co
+hipospadia	nome feminino	hi|pos|pa|[di]|a
+hipospádico	adjetivo	hi|pos|[pá]|di|co
+hipóspado	nome masculino	hi|[pós]|pa|do
+hipossalino	adjetivo	hi|pos|sa|[li]|no
+hipossarcose	nome feminino	hi|pos|sar|[co]|se
+hipossecreção	nome feminino	hi|pos|se|cre|[ção]
+hipossensibilização	nome feminino	hi|pos|sen|si|bi|li|za|[ção]
+hipossistolia	nome feminino	hi|pos|sis|to|[li]|a
+hipossistólico	adjetivo	hi|pos|sis|[tó]|li|co
+hipossulfato	nome masculino	hi|pos|sul|[fa]|to
+hipossulfito	nome masculino	hi|pos|sul|[fi]|to
+hipossulfúrico	adjetivo	hi|pos|sul|[fú]|ri|co
+hipossulfuroso	adjetivo	hi|pos|sul|fu|[ro]|so
+hipostafilia	nome feminino	hi|pos|ta|fi|[li]|a
+hipostaminado	adjetivo	hi|pos|ta|mi|[na]|do
+hipostaminia	nome feminino	hi|pos|ta|mi|[ni]|a
+hipóstase	nome feminino	hi|[pós]|ta|se
+hipostasiado	adjetivo	hi|pos|ta|si|[a]|do
+hipostasiar	verbo	hi|pos|ta|si|[ar]
+hipostaticamente	advérbio	hi|pos|ta|ti|ca|[men]|te
+hipostático	adjetivo	hi|pos|[tá]|ti|co
+hipostenia	nome feminino	hi|pos|te|[ni]|a
+hipostênico	adjetivo	hi|pos|[tê]|ni|co
+hiposténico	adjetivo	hi|pos|[té]|ni|co
+hipostenização	nome feminino	hi|pos|te|ni|za|[ção]
+hipostenizante	adjetivo	hi|pos|te|ni|[zan]|te
+hipostenizar	verbo	hi|pos|te|ni|[zar]
+hiposternal	adjetivo	hi|pos|ter|[nal]
+hipostilo	adjetivo	hi|pos|[ti]|lo
+hipostilo	nome masculino	hi|pos|[ti]|lo
+hipóstomo	nome masculino	hi|[pós]|to|mo
+hipóstrofe	nome feminino	hi|[pós]|tro|fe
+hipostroma	nome masculino	hi|pos|[tro]|ma
+hipotáctico	adjetivo	hi|po|[tác]|ti|co
+hipotálamo	nome masculino	hi|po|[tá]|la|mo
+hipotalássico	adjetivo	hi|po|ta|[lás]|si|co
+hipotático	adjetivo	hi|po|[tá]|ti|co
+hipotaxe	nome feminino	hi|po|[ta]|xe
+hipoteca	nome feminino	hi|po|[te]|ca
+hipotecado	adjetivo	hi|po|te|[ca]|do
+hipotecar	verbo	hi|po|te|[car]
+hipotecariamente	advérbio	hi|po|te|ca|ri|a|[men]|te
+hipotecário	adjetivo	hi|po|te|[cá]|ri|o
+hipotecável	adjetivo	hi|po|te|[cá]|vel
+hipotécio	nome masculino	hi|po|[té]|ci|o
+hipotecnia	nome feminino	hi|po|tec|[ni]|a
+hipotécnico	adjetivo	hi|po|[téc]|ni|co
+hipotenar	nome masculino	hi|po|te|[nar]
+hipótenar	nome masculino	hi|[pó]|te|nar
+hipotensa	nome feminino	hi|po|[ten]|sa
+hipotensão	nome feminino	hi|po|ten|[são]
+hipotensivo	adjetivo	hi|po|ten|[si]|vo
+hipotensivo	nome masculino	hi|po|ten|[si]|vo
+hipotenso	adjetivo	hi|po|[ten]|so
+hipotenso	nome masculino	hi|po|[ten]|so
+hipotensor	adjetivo	hi|po|ten|[sor]
+hipotensor	nome masculino	hi|po|ten|[sor]
+hipotenusa	nome feminino	hi|po|te|[nu]|sa
+hipotermal	adjetivo	hi|po|ter|[mal]
+hipotermia	nome feminino	hi|po|ter|[mi]|a
+hipotérmico	adjetivo	hi|po|[tér]|mi|co
+hipótese	nome feminino	hi|[pó]|te|se
+hipoteticamente	advérbio	hi|po|te|ti|ca|[men]|te
+hipotético	adjetivo	hi|po|[té]|ti|co
+hipotético-dedutivo	adjetivo	hi|po|té|ti|co-de|du|[ti]|vo
+hipotimia	nome feminino	hi|po|ti|[mi]|a
+hipotipose	nome feminino	hi|po|ti|[po]|se
+hipotipótico	adjetivo	hi|po|ti|[pó]|ti|co
+hipotireoidismo	nome masculino	hi|po|ti|re|oi|[dis]|mo
+hipotiroidismo	nome masculino	hi|po|ti|roi|[dis]|mo
+hipotomia	nome feminino	hi|po|to|[mi]|a
+hipotômico	adjetivo	hi|po|[tô]|mi|co
+hipotómico	adjetivo	hi|po|[tó]|mi|co
+hipotonia	nome feminino	hi|po|to|[ni]|a
+hipotônico	adjetivo	hi|po|[tô]|ni|co
+hipotónico	adjetivo	hi|po|[tó]|ni|co
+hipótrico	nome masculino	hi|[pó]|tri|co
+hipótrico	adjetivo	hi|[pó]|tri|co
+hipotrofia	nome feminino	hi|po|tro|[fi]|a
+hipotrofiado	adjetivo	hi|po|tro|fi|[a]|do
+hipotrofiar	verbo	hi|po|tro|fi|[ar]
+hipotrófico	adjetivo	hi|po|[tró]|fi|co
+hipovitaminose	nome feminino	hi|po|vi|ta|mi|[no]|se
+hipoxantina	nome feminino	hi|po|xan|[ti]|na
+hipoxantite	nome feminino	hi|po|xan|[ti]|te
+hipoxemia	nome feminino	hi|po|xe|[mi]|a
+hipoxêmico	adjetivo	hi|po|[xê]|mi|co
+hipoxémico	adjetivo	hi|po|[xé]|mi|co
+hipersonoridade	nome feminino	hi|per|so|no|ri|[da]|de
+hipersonoro	adjetivo	hi|per|so|[no]|ro
+hipersplenia	nome feminino	hi|pers|ple|[ni]|a
+hipersplénico	adjetivo	hi|pers|[plé]|ni|co
+hipersplênico	adjetivo	hi|pers|[plê]|ni|co
+hiperstena	nome feminino	hi|pers|[te]|na
+hiperstenia	nome feminino	hi|pers|te|[ni]|a
+hipersténico	adjetivo	hi|pers|[té]|ni|co
+hiperstênico	adjetivo	hi|pers|[tê]|ni|co
+hiperstílico	adjetivo	hi|pers|[tí]|li|co
+hiperstômico	adjetivo	hi|pers|[tô]|mi|co
+hiperstómico	adjetivo	hi|pers|[tó]|mi|co
+hipertelia	nome feminino	hi|per|te|[li]|a
+hipertensa	nome feminino	hi|per|[ten]|sa
+hipertensão	nome feminino	hi|per|ten|[são]
+hipertensivo	nome masculino	hi|per|ten|[si]|vo
+hipertensivo	adjetivo	hi|per|ten|[si]|vo
+hipertenso	adjetivo	hi|per|[ten]|so
+hipertenso	nome masculino	hi|per|[ten]|so
+hipertensor	adjetivo	hi|per|ten|[sor]
+hipertensor	nome masculino	hi|per|ten|[sor]
+hipertermia	nome feminino	hi|per|ter|[mi]|a
+hipertérmico	adjetivo	hi|per|[tér]|mi|co
+hipértese	nome feminino	hi|[pér]|te|se
+hipertexto	nome masculino	hi|per|[tex]|to
+hipertimia	nome feminino	hi|per|ti|[mi]|a
+hipertireoidismo	nome masculino	hi|per|ti|re|oi|[dis]|mo
+hipertírio	nome masculino	hi|per|[tí]|ri|o
+hipértiro	nome masculino	hi|[pér]|ti|ro
+hipertiroidismo	nome masculino	hi|per|ti|roi|[dis]|mo
+hipertonalidade	nome feminino	hi|per|to|na|li|[da]|de
+hipertonia	nome feminino	hi|per|to|[ni]|a
+hipertônico	adjetivo	hi|per|[tô]|ni|co
+hipertónico	adjetivo	hi|per|[tó]|ni|co
+hipértono	adjetivo	hi|[pér]|to|no
+hipertricose	nome feminino	hi|per|tri|[co]|se
+hipertrofia	nome feminino	hi|per|tro|[fi]|a
+hipertrofiado	adjetivo	hi|per|tro|fi|[a]|do
+hipertrofiar	verbo	hi|per|tro|fi|[ar]
+hipertroficamente	advérbio	hi|per|tro|fi|ca|[men]|te
+hipertrófico	adjetivo	hi|per|[tró]|fi|co
+hiperurbanismo	nome masculino	hi|pe|rur|ba|[nis]|mo
+hiperurese	nome feminino	hi|pe|ru|[re]|se
+hipervaidade	nome feminino	hi|per|vai|[da]|de
+hipervaidoso	adjetivo	hi|per|vai|[do]|so
+hiperventilação	nome feminino	hi|per|ven|ti|la|[ção]
+hiperventilado	adjetivo	hi|per|ven|ti|[la]|do
+hiperventilar	verbo	hi|per|ven|ti|[lar]
+hipervitaminose	nome feminino	hi|per|vi|ta|mi|[no]|se
+hipestesia	nome feminino	hi|pes|te|[si]|a
+hipestésico	adjetivo	hi|pes|[té]|si|co
+hipestético	adjetivo	hi|pes|[té]|ti|co
+hipetro	nome masculino	hi|[pe]|tro
+hipeutéctico	adjetivo	hi|peu|[téc]|ti|co
+hipeutético	adjetivo	hi|peu|[té]|ti|co
+hipiatria	nome feminino	hi|pi|a|[tri]|a
+hipiátrica	nome feminino	hi|pi|[á]|tri|ca
+hipiátrico	adjetivo	hi|pi|[á]|tri|co
+hipiatro	nome masculino	hi|pi|[a]|tro
+hipicamente	advérbio	hi|pi|ca|[men]|te
+hípico	adjetivo	[hí]|pi|co
+hipinose	nome feminino	hi|pi|[no]|se
+hípio	nome masculino	[hí]|pi|o
+hipismo	nome masculino	hi|[pis]|mo
+hipnagógico	nome masculino	hip|na|[gó]|gi|co
+hipnagógico	adjetivo	hip|na|[gó]|gi|co
+hipnanestesia	nome feminino	hip|na|nes|te|[si]|a
+hipnanestésico	adjetivo	hip|na|nes|[té]|si|co
+hipniatria	nome feminino	hip|ni|a|[tri]|a
+hipniátrico	adjetivo	hip|ni|[á]|tri|co
+hipniatro	nome masculino	hip|ni|[a]|tro
+hípnico	adjetivo	[híp]|ni|co
+hipnoanálise	nome feminino	hip|no|a|[ná]|li|se
+hipnóbata	nome masculino	hip|[nó]|ba|ta
+hipnóbata	nome feminino	hip|[nó]|ba|ta
+hipnococo	nome masculino	hip|no|[co]|co
+hipnofobia	nome feminino	hip|no|fo|[bi]|a
+hipnófobo	nome masculino	hip|[nó]|fo|bo
+hipnógeno	adjetivo	hip|[nó]|ge|no
+hipnografia	nome feminino	hip|no|gra|[fi]|a
+hipnográfico	adjetivo	hip|no|[grá]|fi|co
+hipnoide	adjetivo	hip|[noi]|de
+hipnolepsia	nome feminino	hip|no|lep|[si]|a
+hipnoléptico	adjetivo	hip|no|[lép]|ti|co
+hipnologia	nome feminino	hip|no|lo|[gi]|a
+hipnológico	adjetivo	hip|no|[ló]|gi|co
+hipnólogo	nome masculino	hip|[nó]|lo|go
+hipnomania	nome feminino	hip|no|ma|[ni]|a
+hipnopatia	nome feminino	hip|no|pa|[ti]|a
+hipnopático	adjetivo	hip|no|[pá]|ti|co
+hipnopedia	nome feminino	hip|no|pe|[di]|a
+hipnose	nome feminino	hip|[no]|se
+hipnosia	nome feminino	hip|no|[si]|a
+hipnoterapia	nome feminino	hip|no|te|ra|[pi]|a
+hipnoterápico	adjetivo	hip|no|te|[rá]|pi|co
+hipnótico	nome masculino	hip|[nó]|ti|co
+hipnótico	adjetivo	hip|[nó]|ti|co
+hipnotismo	nome masculino	hip|no|[tis]|mo
+hipnotista	nome masculino	hip|no|[tis]|ta
+hipnotista	nome feminino	hip|no|[tis]|ta
+hispano-árabe	nome feminino	his|pa|no-á|ra|be
+hispano-luso	adjetivo	his|pa|no-lu|so
+hispano-marroquino	adjetivo	his|pa|no-mar|ro|[qui]|no
+hispano-romano	nome masculino	his|pa|no-ro|[ma]|no
+hispanofilia	nome feminino	his|pa|no|fi|[li]|a
+hispanófilo	adjetivo	his|pa|[nó]|fi|lo
+hispanófilo	nome masculino	his|pa|[nó]|fi|lo
+hispanofobia	nome feminino	his|pa|no|fo|[bi]|a
+hispanófobo	adjetivo	his|pa|[nó]|fo|bo
+hispanófobo	nome masculino	his|pa|[nó]|fo|bo
+hispanologia	nome feminino	his|pa|no|lo|[gi]|a
+hispanológico	adjetivo	his|pa|no|[ló]|gi|co
+hispanólogo	nome masculino	his|pa|[nó]|lo|go
+hispar	verbo	his|[par]
+hispelate	adjetivo	his|pe|[la]|te
+hispelate	nome masculino	his|pe|[la]|te
+hispelate	nome feminino	his|pe|[la]|te
+hispidar	verbo	his|pi|[dar]
+hispidez	nome feminino	his|pi|[dez]
+híspido	adjetivo	[hís]|pi|do
+hissom	adjetivo	[his]|som
+hissom	nome masculino	[his]|som
+hissopada	nome feminino	his|so|[pa]|da
+hissopar	verbo	his|so|[par]
+hissope	nome masculino	his|[so]|pe
+hissopesco	adjetivo	his|so|[pes]|co
+hissopina	nome feminino	his|so|[pi]|na
+hissopo	nome masculino	his|[so]|po
+histamina	nome feminino	his|ta|[mi]|na
+histamínico	adjetivo	his|ta|[mí]|ni|co
+histeralgia	nome feminino	his|te|ral|[gi]|a
+histerálgico	adjetivo	his|te|[rál]|gi|co
+histerandria	nome feminino	his|te|ran|[dri]|a
+histerândria	nome feminino	his|te|[rân]|dri|a
+histerandro	adjetivo	his|te|[ran]|dro
+histeranto	adjetivo	his|te|[ran]|to
+histeranto	nome masculino	his|te|[ran]|to
+histerectomia	nome feminino	his|te|rec|to|[mi]|a
+histerectômico	adjetivo	his|te|rec|[tô]|mi|co
+histerectómico	adjetivo	his|te|rec|[tó]|mi|co
+histerepilepsia	nome feminino	his|te|re|pi|lep|[si]|a
+histerepiléptico	adjetivo	his|te|re|pi|[lép]|ti|co
+histerese	nome feminino	his|te|[re]|se
+histeresimetria	nome feminino	his|te|re|si|me|[tri]|a
+histeresimétrico	adjetivo	his|te|re|si|[mé]|tri|co
+histeresímetro	nome masculino	his|te|re|[sí]|me|tro
+histerético	adjetivo	his|te|[ré]|ti|co
+histeria	nome feminino	his|te|[ri]|a
+histericamente	advérbio	his|te|ri|ca|[men]|te
+histericismo	nome masculino	his|te|ri|[cis]|mo
+histérico	adjetivo	his|[té]|ri|co
+histérico	nome masculino	his|[té]|ri|co
+histeriforme	adjetivo	his|te|ri|[for]|me
+histerismo	nome masculino	his|te|[ris]|mo
+histerite	nome feminino	his|te|[ri]|te
+histerocele	nome feminino	his|te|ro|[ce]|le
+histerocístico	adjetivo	his|te|ro|[cís]|ti|co
+histerocistocele	nome feminino	his|te|ro|cis|to|[ce]|le
+histeroclise	nome feminino	his|te|ro|[cli]|se
+histerofisa	nome feminino	his|te|ro|[fi]|sa
+histeróforo	nome masculino	his|te|[ró]|fo|ro
+histerógeno	adjetivo	his|te|[ró]|ge|no
+histerografia	nome feminino	his|te|ro|gra|[fi]|a
+histerográfico	adjetivo	his|te|ro|[grá]|fi|co
+histerólito	nome masculino	his|te|[ró]|li|to
+histerologia	nome feminino	his|te|ro|lo|[gi]|a
+histerológico	adjetivo	his|te|ro|[ló]|gi|co
+histerólogo	nome masculino	his|te|[ró]|lo|go
+histeroloxia	nome feminino	his|te|ro|lo|[xi]|a
+histeroma	nome masculino	his|te|[ro]|ma
+histeromalacia	nome feminino	his|te|ro|ma|la|[ci]|a
+histerómana	nome feminino	his|te|[ró]|ma|na
+histerômana	nome feminino	his|te|[rô]|ma|na
+histeromania	nome feminino	his|te|ro|ma|[ni]|a
+histerometria	nome feminino	his|te|ro|me|[tri]|a
+histerométrico	adjetivo	his|te|ro|[mé]|tri|co
+histerômetro	nome masculino	his|te|[rô]|me|tro
+histerómetro	nome masculino	his|te|[ró]|me|tro
+histeromioma	nome masculino	his|te|ro|mi|[o]|ma
+histeropatia	nome feminino	his|te|ro|pa|[ti]|a
+histeropéctico	adjetivo	his|te|ro|[péc]|ti|co
+histeropético	adjetivo	his|te|ro|[pé]|ti|co
+histeropexia	nome feminino	his|te|ro|pe|[xi]|a
+histeroptose	nome feminino	his|te|rop|[to]|se
+histerorreia	nome feminino	his|te|ror|[rei]|a
+histerorreico	adjetivo	his|te|ror|[rei]|co
+histeroscopia	nome feminino	his|te|ros|co|[pi]|a
+histeroscópico	adjetivo	his|te|ros|[có]|pi|co
+histeroscópio	nome masculino	his|te|ros|[có]|pi|o
+histerotomia	nome feminino	his|te|ro|to|[mi]|a
+histerotômico	adjetivo	his|te|ro|[tô]|mi|co
+histerotómico	adjetivo	his|te|ro|[tó]|mi|co
+histerótomo	nome masculino	his|te|[ró]|to|mo
+histidina	nome feminino	his|ti|[di]|na
+histo	adjetivo	[his]|to
+histo	nome masculino	[his]|to
+histocompatibilidade	nome feminino	his|to|com|pa|ti|bi|li|[da]|de
+histocompatível	adjetivo	his|to|com|pa|[tí]|vel
+histofisiologia	nome feminino	his|to|fi|si|o|lo|[gi]|a
+histofisiológico	adjetivo	his|to|fi|si|o|[ló]|gi|co
+hidrólito	nome masculino	hi|[dró]|li|to
+hidróloga	nome feminino	hi|[dró]|lo|ga
+hidrologia	nome feminino	hi|dro|lo|[gi]|a
+hidrológico	adjetivo	hi|dro|[ló]|gi|co
+hidrologista	nome masculino	hi|dro|lo|[gis]|ta
+hidrologista	nome feminino	hi|dro|lo|[gis]|ta
+hidrólogo	nome masculino	hi|[dró]|lo|go
+hidroma	nome masculino	hi|[dro]|ma
+hidromancia	nome feminino	hi|dro|man|[ci]|a
+hidromania	nome feminino	hi|dro|ma|[ni]|a
+hidromaníaco	adjetivo	hi|dro|ma|[ní]|a|co
+hidromaníaco	nome masculino	hi|dro|ma|[ní]|a|co
+hidrómano	nome masculino	hi|[dró]|ma|no
+hidrômano	nome masculino	hi|[drô]|ma|no
+hidromante	nome masculino	hi|dro|[man]|te
+hidromante	nome feminino	hi|dro|[man]|te
+hidromântico	nome masculino	hi|dro|[mân]|ti|co
+hidromântico	adjetivo	hi|dro|[mân]|ti|co
+hidromassagem	nome feminino	hi|dro|mas|[sa]|gem
+hidromecânica	nome feminino	hi|dro|me|[câ]|ni|ca
+hidromecânico	adjetivo	hi|dro|me|[câ]|ni|co
+hidromedusa	nome feminino	hi|dro|me|[du]|sa
+hidromel	nome masculino	hi|dro|[mel]
+hidrometeoro	nome masculino	hi|dro|me|te|[o]|ro
+hidrometra	nome feminino	hi|dro|[me]|tra
+hidrometria	nome feminino	hi|dro|me|[tri]|a
+hidrométrico	adjetivo	hi|dro|[mé]|tri|co
+hidrométrida	nome masculino	hi|dro|[mé]|tri|da
+hidrométrida	nome masculino	hi|dro|[mé]|tri|da
+hidrometrídeo	nome masculino	hi|dro|me|[trí]|de|o
+hidrometrídeo	nome masculino	hi|dro|me|[trí]|de|o
+hidrometrídeo	adjetivo	hi|dro|me|[trí]|de|o
+hidrômetro	nome masculino	hi|[drô]|me|tro
+hidrómetro	nome masculino	hi|[dró]|me|tro
+hidromia	nome feminino	hi|dro|[mi]|a
+hidromica	nome feminino	hi|dro|[mi]|ca
+hidromineral	adjetivo	hi|dro|mi|ne|[ral]
+hidromotor	nome masculino	hi|dro|mo|[tor]
+hidronefrose	nome feminino	hi|dro|ne|[fro]|se
+hidronefrótico	adjetivo	hi|dro|ne|[fró]|ti|co
+hidrônfalo	nome masculino	hi|[drôn]|fa|lo
+hidrônio	nome masculino	hi|[drô]|ni|o
+hidrónio	nome masculino	hi|[dró]|ni|o
+hidropata	nome masculino	hi|dro|[pa]|ta
+hidropata	nome feminino	hi|dro|[pa]|ta
+hidropatia	nome feminino	hi|dro|pa|[ti]|a
+hidropático	adjetivo	hi|dro|[pá]|ti|co
+hidropedese	nome feminino	hi|dro|pe|[de]|se
+hidrópico	adjetivo	hi|[dró]|pi|co
+hidrópico	nome masculino	hi|[dró]|pi|co
+hidropirético	adjetivo	hi|dro|pi|[ré]|ti|co
+hidropírico	adjetivo	hi|dro|[pí]|ri|co
+hidropisia	nome feminino	hi|dro|pi|[si]|a
+hidropisina	nome feminino	hi|dro|pi|[si]|na
+hidroplanador	nome masculino	hi|dro|pla|na|[dor]
+hidroplano	nome masculino	hi|dro|[pla]|no
+hidropneumática	nome feminino	hi|drop|neu|[má]|ti|ca
+hidropneumático	adjetivo	hi|drop|neu|[má]|ti|co
+hidropónica	nome feminino	hi|dro|[pó]|ni|ca
+hidropônica	nome feminino	hi|dro|[pô]|ni|ca
+hidropónico	adjetivo	hi|dro|[pó]|ni|co
+hidropônico	adjetivo	hi|dro|[pô]|ni|co
+hidrópota	nome masculino	hi|[dró]|po|ta
+hidrópota	nome feminino	hi|[dró]|po|ta
+hidropúlvis	nome masculino	hi|dro|[púl]|vis
+hidroquinona	nome feminino	hi|dro|qui|[no]|na
+hidroquisto	nome masculino	hi|dro|[quis]|to
+hidrorragia	nome feminino	hi|dror|ra|[gi]|a
+hidrorrágico	adjetivo	hi|dror|[rá]|gi|co
+hidrorreia	nome feminino	hi|dror|[rei]|a
+hidrorreico	adjetivo	hi|dror|[rei]|co
+hidrosadenite	nome feminino	hi|dro|sa|de|[ni]|te
+hidroscopia	nome feminino	hi|dros|co|[pi]|a
+hidroscópico	adjetivo	hi|dros|[có]|pi|co
+hidroscópio	nome masculino	hi|dros|[có]|pi|o
+hidróscopo	nome masculino	hi|[drós]|co|po
+hidrose	nome feminino	hi|[dro]|se
+hidrosfera	nome feminino	hi|dros|[fe]|ra
+hidrosférico	adjetivo	hi|dros|[fé]|ri|co
+hidrospeed	nome masculino	hi|dro|speed
+hidrossácaro	nome masculino	hi|dros|[sá]|ca|ro
+hidrossarcocele	nome feminino	hi|dros|sar|co|[ce]|le
+hidrossáurio	nome masculino	hi|dros|[sáu]|ri|o
+hidrossauro	nome masculino	hi|dros|[sau]|ro
+hidrossilicato	nome masculino	hi|dros|si|li|[ca]|to
+hidrossilicoso	adjetivo	hi|dros|si|li|[co]|so
+hidrossol	nome masculino	hi|dros|[sol]
+hidrossolúvel	adjetivo	hi|dros|so|[lú]|vel
+hidrossulfuroso	adjetivo	hi|dros|sul|fu|[ro]|so
+hidrostática	nome feminino	hi|dros|[tá]|ti|ca
+hidrostático	adjetivo	hi|dros|[tá]|ti|co
+hidróstato	nome masculino	hi|[drós]|ta|to
+hidrotactismo	nome masculino	hi|dro|tac|[tis]|mo
+hidrotatismo	nome masculino	hi|dro|ta|[tis]|mo
+hidrote	nome feminino	hi|[dro]|te
+hidrotecnia	nome feminino	hi|dro|tec|[ni]|a
+hidrotécnico	adjetivo	hi|dro|[téc]|ni|co
+hidroterapeuta	nome masculino	hi|dro|te|ra|[peu]|ta
+hidroterapeuta	nome feminino	hi|dro|te|ra|[peu]|ta
+hidroterapêutica	nome feminino	hi|dro|te|ra|[pêu]|ti|ca
+hipnotístico	adjetivo	hip|no|[tís]|ti|co
+hipnotização	nome feminino	hip|no|ti|za|[ção]
+hipnotizador	nome masculino	hip|no|ti|za|[dor]
+hipnotizante	adjetivo	hip|no|ti|[zan]|te
+hipnotizar	verbo	hip|no|ti|[zar]
+hipnotizável	adjetivo	hip|no|ti|[zá]|vel
+hipoacidez	nome feminino	hi|po|a|ci|[dez]
+hipoacusia	nome feminino	hi|po|a|cu|[si]|a
+hipoacústico	adjetivo	hi|po|a|[cús]|ti|co
+hipoalergénico	adjetivo	hi|po|a|ler|[gé]|ni|co
+hipoalergênico	adjetivo	hi|po|a|ler|[gê]|ni|co
+hipoalérgico	adjetivo	hi|po|a|[lér]|gi|co
+hipoalérgico	nome masculino	hi|po|a|[lér]|gi|co
+hipoalgesia	nome feminino	hi|po|al|ge|[si]|a
+hipoalgésico	adjetivo	hi|po|al|[gé]|si|co
+hipoandrismo	nome masculino	hi|po|an|[dris]|mo
+hipoazotoso	adjetivo	hi|po|a|zo|[to]|so
+hipobaquio	adjetivo	hi|po|ba|[qui]|o
+hipobaquio	nome masculino	hi|po|ba|[qui]|o
+hipoblástico	adjetivo	hi|po|[blás]|ti|co
+hipoblasto	nome masculino	hi|po|[blas]|to
+hipobosco	nome masculino	hi|po|[bos]|co
+hipobrânquio	adjetivo	hi|po|[brân]|qui|o
+hipocalórico	adjetivo	hi|po|ca|[ló]|ri|co
+hipocampo	nome masculino	hi|po|[cam]|po
+hipocapnia	nome feminino	hi|po|cap|[ni]|a
+hipocápnico	adjetivo	hi|po|[cáp]|ni|co
+hipocárpio	nome masculino	hi|po|[cár]|pi|o
+hipocarpo	nome masculino	hi|po|[car]|po
+hipocastanácea	nome feminino	hi|po|cas|ta|[ná]|ce|a
+hipocastanáceo	adjetivo	hi|po|cas|ta|[ná]|ce|o
+hipocausto	nome masculino	hi|po|[caus]|to
+hipocentauro	nome masculino	hi|po|cen|[tau]|ro
+hipocentro	nome masculino	hi|po|[cen]|tro
+hipocicloidal	adjetivo	hi|po|ci|cloi|[dal]
+hipocicloide	nome feminino	hi|po|ci|[cloi]|de
+hipocinesia	nome feminino	hi|po|ci|ne|[si]|a
+hipocinésico	adjetivo	hi|po|ci|[né]|si|co
+hipocinético	adjetivo	hi|po|ci|[né]|ti|co
+hipocístide	nome feminino	hi|po|[cís]|ti|de
+hipoclórico	adjetivo	hi|po|[cló]|ri|co
+hipocloridria	nome feminino	hi|po|clo|ri|[dri]|a
+hipoclorídrico	adjetivo	hi|po|clo|[rí]|dri|co
+hipoclorina	nome feminino	hi|po|clo|[ri]|na
+hipoclorito	nome masculino	hi|po|clo|[ri]|to
+hipocloroso	adjetivo	hi|po|clo|[ro]|so
+hipoclorúria	nome feminino	hi|po|clo|[rú]|ri|a
+hipoclorúrico	adjetivo	hi|po|clo|[rú]|ri|co
+hipocofose	nome feminino	hi|po|co|[fo]|se
+hipocolia	nome feminino	hi|po|co|[li]|a
+hipocólico	adjetivo	hi|po|[có]|li|co
+hipocondria	nome feminino	hi|po|con|[dri]|a
+hipocondríaco	adjetivo	hi|po|con|[drí]|a|co
+hipocondríaco	nome masculino	hi|po|con|[drí]|a|co
+hipocôndrio	nome masculino	hi|po|[côn]|dri|o
+hipocoristicamente	advérbio	hi|po|co|ris|ti|ca|[men]|te
+hipocorístico	adjetivo	hi|po|co|[rís]|ti|co
+hipocorístico	nome masculino	hi|po|co|[rís]|ti|co
+hipocótilo	nome masculino	hi|po|[có]|ti|lo
+hipocraniano	adjetivo	hi|po|cra|ni|[a]|no
+hipocrático	adjetivo	hi|po|[crá]|ti|co
+hipocratismo	nome masculino	hi|po|cra|[tis]|mo
+hipocratista	adjetivo	hi|po|cra|[tis]|ta
+hipocratista	nome masculino	hi|po|cra|[tis]|ta
+hipocratista	nome feminino	hi|po|cra|[tis]|ta
+hipocratístico	adjetivo	hi|po|cra|[tís]|ti|co
+hipocraz	nome masculino	hi|po|[craz]
+hipocrinia	nome feminino	hi|po|cri|[ni]|a
+hipocrínico	adjetivo	hi|po|[crí]|ni|co
+hipocrisia	nome feminino	hi|po|cri|[si]|a
+hipocristalino	adjetivo	hi|po|cris|ta|[li]|no
+hipócrita	adjetivo	hi|[pó]|cri|ta
+hipócrita	nome masculino	hi|[pó]|cri|ta
+hipócrita	nome feminino	hi|[pó]|cri|ta
+hipocritamente	advérbio	hi|po|cri|ta|[men]|te
+hipocromia	nome feminino	hi|po|cro|[mi]|a
+hipocrômico	adjetivo	hi|po|[crô]|mi|co
+hipocrómico	adjetivo	hi|po|[cró]|mi|co
+hipoctônio	adjetivo	hi|poc|[tô]|ni|o
+hipoctónio	adjetivo	hi|poc|[tó]|ni|o
+hipodáctilo	nome masculino	hi|po|[dác]|ti|lo
+hipodátilo	nome masculino	hi|po|[dá]|ti|lo
+hipodermatomia	nome feminino	hi|po|der|ma|to|[mi]|a
+hipoderme	nome feminino	hi|po|[der]|me
+hipodermíase	nome feminino	hi|po|der|[mí]|a|se
+hipodérmico	adjetivo	hi|po|[dér]|mi|co
+hipodermóclise	nome feminino	hi|po|der|[mó]|cli|se
+hipodermoterapia	nome feminino	hi|po|der|mo|te|ra|[pi]|a
+hipodermotomia	nome feminino	hi|po|der|mo|to|[mi]|a
+hipodermotômico	adjetivo	hi|po|der|mo|[tô]|mi|co
+hipodermotómico	adjetivo	hi|po|der|mo|[tó]|mi|co
+hipodipsia	nome feminino	hi|po|dip|[si]|a
+hipodocmíaco	adjetivo	hi|po|doc|[mí]|a|co
+hipodócmio	nome masculino	hi|po|[dóc]|mi|o
+hipodório	adjetivo	hi|po|[dó]|ri|o
+hipodromia	nome feminino	hi|po|dro|[mi]|a
+hipódromo	nome masculino	hi|[pó]|dro|mo
+hipoemia	nome feminino	hi|po|e|[mi]|a
+hipoepatia	nome feminino	hi|po|e|pa|[ti]|a
+hipoestaminado	adjetivo	hi|po|es|ta|mi|[na]|do
+hipoestesia	nome feminino	hi|po|es|te|[si]|a
+hipofagia	nome feminino	hi|po|fa|[gi]|a
+hipófago	adjetivo	hi|[pó]|fa|go
+hipófago	nome masculino	hi|[pó]|fa|go
+hipofaringe	nome feminino	hi|po|fa|[rin]|ge
+hipófase	nome feminino	hi|[pó]|fa|se
+hipofilo	adjetivo	hi|po|[fi]|lo
+hipofisário	adjetivo	hi|po|fi|[sá]|ri|o
+hipófise	nome feminino	hi|[pó]|fi|se
+hipófora	nome feminino	hi|[pó]|fo|ra
+hipoforia	nome feminino	hi|po|fo|[ri]|a
+hipofórico	nome masculino	hi|po|[fó]|ri|co
+hipofórico	adjetivo	hi|po|[fó]|ri|co
+hipofosfato	nome masculino	hi|po|fos|[fa]|to
+hipofosfatúria	nome feminino	hi|po|fos|fa|[tú]|ri|a
+hipofosfatúrico	adjetivo	hi|po|fos|fa|[tú]|ri|co
+hipofosfito	nome masculino	hi|po|fos|[fi]|to
+hipofosfórico	adjetivo	hi|po|fos|[fó]|ri|co
+hipofosforoso	adjetivo	hi|po|fos|fo|[ro]|so
+hipofrígio	adjetivo	hi|po|[frí]|gi|o
+hipoftalmia	nome feminino	hi|pof|tal|[mi]|a
+hipogástrico	adjetivo	hi|po|[gás]|tri|co
+hipogástrio	nome masculino	hi|po|[gás]|tri|o
+hipogastro	nome masculino	hi|po|[gas]|tro
+hipogeico	adjetivo	hi|po|[gei]|co
+hipogenesia	nome feminino	hi|po|ge|ne|[si]|a
+hipogenésico	adjetivo	hi|po|ge|[né]|si|co
+hipogenético	adjetivo	hi|po|ge|[né]|ti|co
+hipógeo	adjetivo	hi|[pó]|ge|o
+hipogeu	adjetivo	hi|po|[geu]
+hipogeu	nome masculino	hi|po|[geu]
+hipoginia	nome feminino	hi|po|gi|[ni]|a
+hipogínico	adjetivo	hi|po|[gí]|ni|co
+hipogínio	adjetivo	hi|po|[gí]|ni|o
+hipoginismo	nome masculino	hi|po|gi|[nis]|mo
+hipógino	adjetivo	hi|[pó]|gi|no
+hipoglicemia	nome feminino	hi|po|gli|ce|[mi]|a
+hipoglicémia	nome feminino	hi|po|gli|[cé]|mi|a
+hipoglicêmico	adjetivo	hi|po|gli|[cê]|mi|co
+hipoglicémico	adjetivo	hi|po|gli|[cé]|mi|co
+hipoglobulia	nome feminino	hi|po|glo|bu|[li]|a
+hipoglossa	nome feminino	hi|po|[glos]|sa
+hipoglosso	nome masculino	hi|po|[glos]|so
+hipoglosso	adjetivo	hi|po|[glos]|so
+hipognatia	nome feminino	hi|pog|na|[ti]|a
+hipógnato	adjetivo	hi|[póg]|na|to
+hipógnato	nome masculino	hi|[póg]|na|to
+hipogonadismo	nome masculino	hi|po|go|na|[dis]|mo
+hipogrifo	nome masculino	hi|po|[gri]|fo
+hipolinfia	nome feminino	hi|po|lin|[fi]|a
+hipolínfico	adjetivo	hi|po|[lín]|fi|co
+hipólito	nome masculino	hi|[pó]|li|to
+hipologia	nome feminino	hi|po|lo|[gi]|a
+hipológico	adjetivo	hi|po|[ló]|gi|co
+hipólogo	nome masculino	hi|[pó]|lo|go
+hipomancia	nome feminino	hi|po|man|[ci]|a
+hipômanes	nome masculino	hi|[pô]|ma|nes
+hipómanes	nome masculino	hi|[pó]|ma|nes
+hipomania	nome feminino	hi|po|ma|[ni]|a
+hipomaníaco	adjetivo	hi|po|ma|[ní]|a|co
+hipomaníaco	nome masculino	hi|po|ma|[ní]|a|co
+hipomânico	adjetivo	hi|po|[mâ]|ni|co
+hipómano	nome masculino	hi|[pó]|ma|no
+hipômano	nome masculino	hi|[pô]|ma|no
+hipomante	nome masculino	hi|po|[man]|te
+hipomante	nome feminino	hi|po|[man]|te
+hipomântico	adjetivo	hi|po|[mân]|ti|co
+hipométrico	adjetivo	hi|po|[mé]|tri|co
+hipómetro	nome masculino	hi|[pó]|me|tro
+hipômetro	nome masculino	hi|[pô]|me|tro
+hipomóclio	nome masculino	hi|po|[mó]|cli|o
+hipomóvel	nome masculino	hi|po|[mó]|vel
+hipomóvel	adjetivo	hi|po|[mó]|vel
+hiponacteu	adjetivo	hi|po|nac|[teu]
+hiponacteu	nome masculino	hi|po|nac|[teu]
+hiponense	nome masculino	hi|po|[nen]|se
+hiponense	adjetivo	hi|po|[nen]|se
+hiponense	nome feminino	hi|po|[nen]|se
+hiponímia	nome feminino	hi|po|[ní]|mi|a
+hipónimo	nome masculino	hi|[pó]|ni|mo
+hipônimo	nome masculino	hi|[pô]|ni|mo
+hipopatologia	nome feminino	hi|po|pa|to|lo|[gi]|a
+hipopatológico	adjetivo	hi|po|pa|to|[ló]|gi|co
+hipopepsia	nome feminino	hi|po|pep|[si]|a
+hipopéptico	adjetivo	hi|po|[pép]|ti|co
+hipopetalia	nome feminino	hi|po|pe|ta|[li]|a
+hipopétalo	adjetivo	hi|po|[pé]|ta|lo
+hipopiese	nome feminino	hi|po|pi|[e]|se
+hipopígio	nome masculino	hi|po|[pí]|gi|o
+hipópio	nome masculino	hi|[pó]|pi|o
+hipópion	nome masculino	hi|[pó]|pi|on
+hipoplasia	nome feminino	hi|po|pla|[si]|a
+hipoplástico	adjetivo	hi|po|[plás]|ti|co
+hipópode	adjetivo	hi|[pó]|po|de
+hipópode	nome masculino	hi|[pó]|po|de
+hipópode	nome feminino	hi|[pó]|po|de
+hipopódio	nome masculino	hi|po|[pó]|di|o
+hipopotâmida	nome masculino	hi|po|po|[tâ]|mi|da
+hipopotâmida	nome masculino	hi|po|po|[tâ]|mi|da
+hipopotamídeo	nome masculino	hi|po|po|ta|[mí]|de|o
+horripilação	nome feminino	hor|ri|pi|la|[ção]
+horripilado	adjetivo	hor|ri|pi|[la]|do
+horripilador	nome masculino	hor|ri|pi|la|[dor]
+horripilante	adjetivo	hor|ri|pi|[lan]|te
+horripilantemente	advérbio	hor|ri|pi|lan|te|[men]|te
+horripilar	verbo	hor|ri|pi|[lar]
+horrissonante	adjetivo	hor|ris|so|[nan]|te
+horríssono	adjetivo	hor|[rís]|so|no
+horristridente	adjetivo	hor|ris|tri|[den]|te
+horritroante	adjetivo	hor|ri|tro|[an]|te
+horrível	adjetivo	hor|[rí]|vel
+horrivelmente	advérbio	hor|ri|vel|[men]|te
+horror	nome masculino	hor|[ror]
+horrorífico	adjetivo	hor|ro|[rí]|fi|co
+horrorizado	adjetivo	hor|ro|ri|[za]|do
+horrorizar	verbo	hor|ro|ri|[zar]
+horrorosamente	advérbio	hor|ro|ro|sa|[men]|te
+horroroso	adjetivo	hor|ro|[ro]|so
+hors-d'oeuvre	nome masculino	hors-d´oeu|vre
+horsa	nome feminino	[hor]|sa
+horseball	nome masculino	hor|se|ball
+horsepower	nome masculino	hor|se|po|wer
+horta	nome feminino	[hor]|ta
+hortaliça	nome feminino	hor|ta|[li]|ça
+hortaliceiro	nome masculino	hor|ta|li|[cei]|ro
+hortaliceiro	adjetivo	hor|ta|li|[cei]|ro
+hortar	verbo	hor|[tar]
+hortativo	adjetivo	hor|ta|[ti]|vo
+hortejar	verbo	hor|te|[jar]
+hortejo	nome masculino	hor|[te]|jo
+hortelã	nome feminino	hor|te|[lã]
+hortelã-de-cheiro	nome feminino	hor|te|lã-de-chei|ro
+hortelã-francesa	nome feminino	hor|te|lã-fran|[ce]|sa
+hortelã-pimenta	nome feminino	hor|te|lã-pi|[men]|ta
+hortelão	nome masculino	hor|te|[lão]
+horteloa	nome feminino	hor|te|[lo]|a
+hortelona	nome feminino	hor|te|[lo]|na
+hortense	adjetivo	hor|[ten]|se
+hortense	nome masculino	hor|[ten]|se
+hortense	nome feminino	hor|[ten]|se
+hortênsia	nome feminino	hor|[tên]|si|a
+hortícola	adjetivo	hor|[tí]|co|la
+horticultar	verbo	hor|ti|cul|[tar]
+horticultor	nome masculino	hor|ti|cul|[tor]
+horticultor	adjetivo	hor|ti|cul|[tor]
+horticultora	nome feminino	hor|ti|cul|[to]|ra
+horticultura	nome feminino	hor|ti|cul|[tu]|ra
+hortifruticultura	nome feminino	hor|ti|fru|ti|cul|[tu]|ra
+hortifrutigranjeiro	adjetivo	hor|ti|fru|ti|gran|[jei]|ro
+hortifrutigranjeiro	nome masculino	hor|ti|fru|ti|gran|[jei]|ro
+horto	nome masculino	[hor]|to
+hortofloricultura	nome feminino	hor|to|flo|ri|cul|[tu]|ra
+hortulana	nome feminino	hor|tu|[la]|na
+hosana	nome masculino	ho|[sa]|na
+hosana	interjeição	ho|[sa]|na
+hosco	adjetivo	[hos]|co
+hósi	nome masculino	[hó]|si
+hospedador	adjetivo	hos|pe|da|[dor]
+hospedador	nome masculino	hos|pe|da|[dor]
+hospedagem	nome feminino	hos|pe|[da]|gem
+hospedal	adjetivo	hos|pe|[dal]
+hospedamento	nome masculino	hos|pe|da|[men]|to
+hospedança	nome feminino	hos|pe|[dan]|ça
+hospedar	verbo	hos|pe|[dar]
+hospedaria	nome feminino	hos|pe|da|[ri]|a
+hospedável	adjetivo	hos|pe|[dá]|vel
+hóspede	nome masculino	[hós]|pe|de
+hóspede	adjetivo	[hós]|pe|de
+hóspede	nome feminino	[hós]|pe|de
+hospedeira	nome feminino	hos|pe|[dei]|ra
+hospedeiro	nome masculino	hos|pe|[dei]|ro
+hospedeiro	adjetivo	hos|pe|[dei]|ro
+hospedoso	adjetivo	hos|pe|[do]|so
+hospício	nome masculino	hos|[pí]|ci|o
+hospitação	nome feminino	hos|pi|ta|[ção]
+hospital	nome masculino	hos|pi|[tal]
+hospitalar	adjetivo	hos|pi|ta|[lar]
+hospitalário	adjetivo	hos|pi|ta|[lá]|ri|o
+hospitalário	nome masculino	hos|pi|ta|[lá]|ri|o
+hospitaleira	nome feminino	hos|pi|ta|[lei]|ra
+hospitaleiramente	advérbio	hos|pi|ta|lei|ra|[men]|te
+hospitaleiro	adjetivo	hos|pi|ta|[lei]|ro
+hospitaleiro	nome masculino	hos|pi|ta|[lei]|ro
+hospitalidade	nome feminino	hos|pi|ta|li|[da]|de
+hospitalização	nome feminino	hos|pi|ta|li|za|[ção]
+hospitalizado	adjetivo	hos|pi|ta|li|[za]|do
+hospitalizar	verbo	hos|pi|ta|li|[zar]
+hospitalizável	adjetivo	hos|pi|ta|li|[zá]|vel
+hospodar	nome masculino	hos|po|[dar]
+hospodarato	nome masculino	hos|po|da|[ra]|to
+hossana	nome masculino	hos|[sa]|na
+hossana	interjeição	hos|[sa]|na
+hóssi	nome masculino	[hós]|si
+hoste	nome feminino	[hos]|te
+hoste	nome masculino	[hos]|te
+hóstia	nome feminino	[hós]|ti|a
+hostiário	nome masculino	hos|ti|[á]|ri|o
+hostil	adjetivo	hos|[til]
+hostilidade	nome feminino	hos|ti|li|[da]|de
+hostilização	nome feminino	hos|ti|li|za|[ção]
+heterogamia	nome feminino	he|te|ro|ga|[mi]|a
+heterogâmico	adjetivo	he|te|ro|[gâ]|mi|co
+heterógamo	adjetivo	he|te|[ró]|ga|mo
+heterogeneamente	advérbio	he|te|ro|ge|ne|a|[men]|te
+heterogeneidade	nome feminino	he|te|ro|ge|nei|[da]|de
+heterogeneização	nome feminino	he|te|ro|ge|nei|za|[ção]
+heterogeneizado	adjetivo	he|te|ro|ge|nei|[za]|do
+heterogeneizador	adjetivo	he|te|ro|ge|nei|za|[dor]
+heterogeneizador	nome masculino	he|te|ro|ge|nei|za|[dor]
+heterogeneizante	adjetivo	he|te|ro|ge|nei|[zan]|te
+heterogeneizar	verbo	he|te|ro|ge|nei|[zar]
+heterogéneo	adjetivo	he|te|ro|[gé]|ne|o
+heterogêneo	adjetivo	he|te|ro|[gê]|ne|o
+heterogênese	nome feminino	he|te|ro|[gê]|ne|se
+heterogénese	nome feminino	he|te|ro|[gé]|ne|se
+heterogenesia	nome feminino	he|te|ro|ge|ne|[si]|a
+heterogenésico	adjetivo	he|te|ro|ge|[né]|si|co
+heterogenético	adjetivo	he|te|ro|ge|[né]|ti|co
+heterogenia	nome feminino	he|te|ro|ge|[ni]|a
+heterogênico	adjetivo	he|te|ro|[gê]|ni|co
+heterogénico	adjetivo	he|te|ro|[gé]|ni|co
+heterógino	adjetivo	he|te|[ró]|gi|no
+heterógino	nome masculino	he|te|[ró]|gi|no
+heterogonia	nome feminino	he|te|ro|go|[ni]|a
+heterógono	adjetivo	he|te|[ró]|go|no
+heteroide	adjetivo	he|te|[roi]|de
+heteroinfeção	nome feminino	he|te|ro|in|fe|[ção]
+heteroinfecção	nome feminino	he|te|ro|in|fec|[ção]
+heterolécito	adjetivo	he|te|ro|[lé]|ci|to
+heterólobo	adjetivo	he|te|[ró]|lo|bo
+heterologia	nome feminino	he|te|ro|lo|[gi]|a
+heterólogo	adjetivo	he|te|[ró]|lo|go
+heterômero	adjetivo	he|te|[rô]|me|ro
+heterómero	nome masculino	he|te|[ró]|me|ro
+heterômero	nome masculino	he|te|[rô]|me|ro
+heterómero	adjetivo	he|te|[ró]|me|ro
+heterometabólico	adjetivo	he|te|ro|me|ta|[bó]|li|co
+heterometria	nome feminino	he|te|ro|me|[tri]|a
+heterométrico	adjetivo	he|te|ro|[mé]|tri|co
+heteromorfia	nome feminino	he|te|ro|mor|[fi]|a
+heteromórfico	adjetivo	he|te|ro|[mór]|fi|co
+heteromorfismo	nome masculino	he|te|ro|mor|[fis]|mo
+heteromorfite	nome feminino	he|te|ro|mor|[fi]|te
+heteromorfo	nome masculino	he|te|ro|[mor]|fo
+heteromorfo	adjetivo	he|te|ro|[mor]|fo
+heteromorfose	nome feminino	he|te|ro|mor|[fo]|se
+heteronímia	nome feminino	he|te|ro|[ní]|mi|a
+heteronímico	adjetivo	he|te|ro|[ní]|mi|co
+heterónimo	adjetivo	he|te|[ró]|ni|mo
+heterônimo	adjetivo	he|te|[rô]|ni|mo
+heterônimo	nome masculino	he|te|[rô]|ni|mo
+heterónimo	nome masculino	he|te|[ró]|ni|mo
+heteronomia	nome feminino	he|te|ro|no|[mi]|a
+heteronômico	adjetivo	he|te|ro|[nô]|mi|co
+heteronómico	adjetivo	he|te|ro|[nó]|mi|co
+heterónomo	adjetivo	he|te|[ró]|no|mo
+heterônomo	adjetivo	he|te|[rô]|no|mo
+heteronuclear	adjetivo	he|te|ro|nu|cle|[ar]
+heteropagia	nome feminino	he|te|ro|pa|[gi]|a
+heterópago	adjetivo	he|te|[ró]|pa|go
+heteropatia	nome feminino	he|te|ro|pa|[ti]|a
+heteropático	adjetivo	he|te|ro|[pá]|ti|co
+heteropétalo	adjetivo	he|te|ro|[pé]|ta|lo
+heteroplasia	nome feminino	he|te|ro|pla|[si]|a
+heteroplásico	adjetivo	he|te|ro|[plá]|si|co
+heteroplasma	nome masculino	he|te|ro|[plas]|ma
+heteroplastia	nome feminino	he|te|ro|plas|[ti]|a
+heteroplástico	adjetivo	he|te|ro|[plás]|ti|co
+heterópode	adjetivo	he|te|[ró]|po|de
+heterópode	nome masculino	he|te|[ró]|po|de
+heteropolar	adjetivo	he|te|ro|po|[lar]
+heteróporo	adjetivo	he|te|[ró]|po|ro
+heteroproteína	nome feminino	he|te|ro|pro|te|[í]|na
+heteróptero	adjetivo	he|te|[róp]|te|ro
+heteróptero	nome masculino	he|te|[róp]|te|ro
+heterorgânico	adjetivo	he|te|ror|[gâ]|ni|co
+heterorréctico	adjetivo	he|te|ror|[réc]|ti|co
+heterorrético	adjetivo	he|te|ror|[ré]|ti|co
+heterorrexia	nome feminino	he|te|ror|re|[xi]|a
+heteróscio	nome masculino	he|te|[rós]|ci|o
+heteróscio	adjetivo	he|te|[rós]|ci|o
+heteroscopia	nome feminino	he|te|ros|co|[pi]|a
+heterósido	nome masculino	he|te|[ró]|si|do
+heterospóreo	adjetivo	he|te|ros|[pó]|re|o
+heterospórico	adjetivo	he|te|ros|[pó]|ri|co
+heterossepsia	nome feminino	he|te|ros|sep|[si]|a
+heterosséptico	adjetivo	he|te|ros|[sép]|ti|co
+heterossético	adjetivo	he|te|ros|[sé]|ti|co
+heterossexual	nome masculino	he|te|ros|se|xu|[al]
+heterossexual	adjetivo	he|te|ros|se|xu|[al]
+heterossexual	nome feminino	he|te|ros|se|xu|[al]
+heterossexualidade	nome feminino	he|te|ros|se|xu|a|li|[da]|de
+heterossilábico	adjetivo	he|te|ros|si|[lá]|bi|co
+heterossomo	adjetivo	he|te|ros|[so]|mo
+heterostilia	nome feminino	he|te|ros|ti|[li]|a
+heterostilo	adjetivo	he|te|ros|[ti]|lo
+heterotáctico	adjetivo	he|te|ro|[tác]|ti|co
+heterotálico	adjetivo	he|te|ro|[tá]|li|co
+heterotalismo	nome masculino	he|te|ro|ta|[lis]|mo
+heterotático	adjetivo	he|te|ro|[tá]|ti|co
+hiosciamina	nome feminino	hi|os|ci|a|[mi]|na
+hioscíamo	nome masculino	hi|os|[cí]|a|mo
+hiosternal	adjetivo	hi|os|ter|[nal]
+hiostílico	adjetivo	hi|os|[tí]|li|co
+hip-hop	nome masculino	[hip-hop]
+hipacusia	nome feminino	hi|pa|cu|[si]|a
+hipacústico	adjetivo	hi|pa|[cús]|ti|co
+hipálage	nome feminino	hi|[pá]|la|ge
+hipalgesia	nome feminino	hi|pal|ge|[si]|a
+hipalgésico	adjetivo	hi|pal|[gé]|si|co
+hipalgia	nome feminino	hi|pal|[gi]|a
+hipálgico	adjetivo	hi|[pál]|gi|co
+hipanto	nome masculino	hi|[pan]|to
+hipantódio	nome masculino	hi|pan|[tó]|di|o
+hipantropia	nome feminino	hi|pan|tro|[pi]|a
+hipantrópico	adjetivo	hi|pan|[tró]|pi|co
+hipantropo	nome masculino	hi|pan|[tro]|po
+hiparca	nome masculino	hi|[par]|ca
+hiparco	nome masculino	hi|[par]|co
+hipargirite	nome feminino	hi|par|gi|[ri]|te
+hiparquia	nome feminino	hi|par|[qui]|a
+hípate	nome feminino	[hí]|pa|te
+hipateu	adjetivo	hi|pa|[teu]
+hipateu	nome masculino	hi|pa|[teu]
+hipazótico	adjetivo	hi|pa|[zó]|ti|co
+hipazotoso	adjetivo	hi|pa|zo|[to]|so
+hipazotúria	nome feminino	hi|pa|zo|[tú]|ri|a
+hipazotúrico	adjetivo	hi|pa|zo|[tú]|ri|co
+hipélafo	nome masculino	hi|[pé]|la|fo
+hipengiofobia	nome feminino	hi|pen|gi|o|fo|[bi]|a
+hipepeno	adjetivo	hi|pe|[pe]|no
+hipepeno	nome masculino	hi|pe|[pe]|no
+híper	nome masculino	[hí]|per
+hiper-hedônico	adjetivo	hi|per-he|[dô]|ni|co
+hiper-hedónico	adjetivo	hi|per-he|[dó]|ni|co
+hiper-hedonismo	nome masculino	hi|per-he|do|[nis]|mo
+hiper-hidrose	nome feminino	hi|per-hi|[dro]|se
+hiper-hidrótico	adjetivo	hi|per-hi|[dró]|ti|co
+hiper-humano	adjetivo	hi|per-hu|[ma]|no
+hiper-rancoroso	adjetivo	hi|per-ran|co|[ro]|so
+hiper-realismo	nome masculino	hi|per-re|a|[lis]|mo
+hiper-realista	nome masculino	hi|per-re|a|[lis]|ta
+hiper-realista	adjetivo	hi|per-re|a|[lis]|ta
+hiper-realista	nome feminino	hi|per-re|a|[lis]|ta
+hiper-requintado	adjetivo	hi|per-re|quin|[ta]|do
+hiper-rugoso	adjetivo	hi|per-ru|[go]|so
+hiperacidez	nome feminino	hi|pe|ra|ci|[dez]
+hiperácido	adjetivo	hi|pe|[rá]|ci|do
+hiperacusia	nome feminino	hi|pe|ra|cu|[si]|a
+hiperacúsia	nome feminino	hi|pe|ra|[cú]|si|a
+hiperacústico	adjetivo	hi|pe|ra|[cús]|ti|co
+hiperafrodisia	nome feminino	hi|pe|ra|fro|di|[si]|a
+hiperafrodisíaco	adjetivo	hi|pe|ra|fro|di|[sí]|a|co
+hiperagressividade	nome feminino	hi|pe|ra|gres|si|vi|[da]|de
+hiperagressivo	adjetivo	hi|pe|ra|gres|[si]|vo
+hiperagudo	adjetivo	hi|pe|ra|[gu]|do
+hiperalbuminose	nome feminino	hi|pe|ral|bu|mi|[no]|se
+hiperalgesia	nome feminino	hi|pe|ral|ge|[si]|a
+hiperalgésico	adjetivo	hi|pe|ral|[gé]|si|co
+hiperalgia	nome feminino	hi|pe|ral|[gi]|a
+hiperálgico	adjetivo	hi|pe|[rál]|gi|co
+hiperalgotimia	nome feminino	hi|pe|ral|go|ti|[mi]|a
+hiperalimentação	nome feminino	hi|pe|ra|li|men|ta|[ção]
+hiperamnésico	adjetivo	hi|pe|ram|[né]|si|co
+hiperamnéstico	adjetivo	hi|pe|ram|[nés]|ti|co
+hiperandrismo	nome masculino	hi|pe|ran|[dris]|mo
+hiperanto	nome masculino	hi|pe|[ran]|to
+hiperão	nome masculino	hi|pe|[rão]
+hiperatividade	nome feminino	hi|pe|ra|ti|vi|[da]|de
+hiperativo	adjetivo	hi|pe|ra|[ti]|vo
+hiperativo	nome masculino	hi|pe|ra|[ti]|vo
+hiperauxese	nome feminino	hi|pe|rau|[xe]|se
+hiperazotúria	nome feminino	hi|pe|ra|zo|[tú]|ri|a
+hiperazotúrico	adjetivo	hi|pe|ra|zo|[tú]|ri|co
+hiperbárico	adjetivo	hi|per|[bá]|ri|co
+hipérbase	nome feminino	hi|[pér]|ba|se
+hipérbato	nome masculino	hi|[pér]|ba|to
+hipérbaton	nome masculino	hi|[pér]|ba|ton
+hiperbibasmo	nome masculino	hi|per|bi|[bas]|mo
+hipérbole	nome feminino	hi|[pér]|bo|le
+hiperbolicamente	advérbio	hi|per|bo|li|ca|[men]|te
+hiperbólico	adjetivo	hi|per|[bó]|li|co
+hiperboliforme	adjetivo	hi|per|bo|li|[for]|me
+hiperbolismo	nome masculino	hi|per|bo|[lis]|mo
+hiperbolização	nome feminino	hi|per|bo|li|za|[ção]
+hiperbolizado	adjetivo	hi|per|bo|li|[za]|do
+hiperbolizante	adjetivo	hi|per|bo|li|[zan]|te
+hiperbolizar	verbo	hi|per|bo|li|[zar]
+hiperbolizável	adjetivo	hi|per|bo|li|[zá]|vel
+hiperboloide	adjetivo	hi|per|bo|[loi]|de
+hiperboloide	nome masculino	hi|per|bo|[loi]|de
+hiperbóreo	adjetivo	hi|per|[bó]|re|o
+hipercalcemia	nome feminino	hi|per|cal|ce|[mi]|a
+hipercalcémico	adjetivo	hi|per|cal|[cé]|mi|co
+hipercalcémico	nome masculino	hi|per|cal|[cé]|mi|co
+hipercalcêmico	adjetivo	hi|per|cal|[cê]|mi|co
+hipercalcêmico	nome masculino	hi|per|cal|[cê]|mi|co
+hipercapnia	nome feminino	hi|per|cap|[ni]|a
+hipercápnico	adjetivo	hi|per|[cáp]|ni|co
+hipercardia	nome feminino	hi|per|car|[di]|a
+hermetista	nome feminino	her|me|[tis]|ta
+hermetístico	adjetivo	her|me|[tís]|ti|co
+hérmia	nome feminino	[hér]|mi|a
+hermiano	adjetivo	her|mi|[a]|no
+hermiano	nome masculino	her|mi|[a]|no
+hermínio	nome masculino	her|[mí]|ni|o
+hermínio	adjetivo	her|[mí]|ni|o
+herminismo	nome masculino	her|mi|[nis]|mo
+herminista	nome masculino	her|mi|[nis]|ta
+herminista	nome feminino	her|mi|[nis]|ta
+hermíone	adjetivo	her|[mí]|o|ne
+hermíone	nome masculino	her|[mí]|o|ne
+hermíone	nome feminino	her|[mí]|o|ne
+hermioneu	adjetivo	her|mi|o|[neu]
+hermioneu	nome masculino	her|mi|o|[neu]
+hermismo	nome masculino	her|[mis]|mo
+hermista	adjetivo	her|[mis]|ta
+hermista	nome masculino	her|[mis]|ta
+hermista	nome feminino	her|[mis]|ta
+hermodáctilo	nome masculino	her|mo|[dác]|ti|lo
+hermogeniano	adjetivo	her|mo|ge|ni|[a]|no
+hermogeniano	nome masculino	her|mo|ge|ni|[a]|no
+hermografia	nome feminino	her|mo|gra|[fi]|a
+hermográfico	adjetivo	her|mo|[grá]|fi|co
+hermógrafo	nome masculino	her|[mó]|gra|fo
+hermopolitano	adjetivo	her|mo|po|li|[ta]|no
+hermopolitano	nome masculino	her|mo|po|li|[ta]|no
+hermúnduro	adjetivo	her|[mún]|du|ro
+hermúnduro	nome masculino	her|[mún]|du|ro
+hernândia	nome feminino	her|[nân]|di|a
+hernandiácea	nome feminino	her|nan|di|[á]|ce|a
+hérnia	nome feminino	[hér]|ni|a
+herniação	nome feminino	her|ni|a|[ção]
+herniada	nome feminino	her|ni|[a]|da
+herniado	adjetivo	her|ni|[a]|do
+herniado	nome masculino	her|ni|[a]|do
+hernial	adjetivo	her|ni|[al]
+herniária	nome feminino	her|ni|[á]|ri|a
+herniário	adjetivo	her|ni|[á]|ri|o
+hérnico	adjetivo	[hér]|ni|co
+hérnico	nome masculino	[hér]|ni|co
+herníola	nome feminino	her|[ní]|o|la
+hernioplastia	nome feminino	her|ni|o|plas|[ti]|a
+herniorrafia	nome feminino	her|ni|or|ra|[fi]|a
+herniosa	nome feminino	her|ni|[o]|sa
+hernioso	adjetivo	her|ni|[o]|so
+hernioso	nome masculino	her|ni|[o]|so
+herniotomia	nome feminino	her|ni|o|to|[mi]|a
+herniotômico	adjetivo	her|ni|o|[tô]|mi|co
+herniotómico	adjetivo	her|ni|o|[tó]|mi|co
+hernutismo	nome masculino	her|nu|[tis]|mo
+hernuto	adjetivo	her|[nu]|to
+hernuto	nome masculino	her|[nu]|to
+herodes	nome masculino	he|[ro]|des
+herodiano	adjetivo	he|ro|di|[a]|no
+herodiano	nome masculino	he|ro|di|[a]|no
+herodoteu	adjetivo	he|ro|do|[teu]
+herói	nome masculino	he|[rói]
+heroicamente	advérbio	he|roi|ca|[men]|te
+heroicidade	nome feminino	he|roi|ci|[da]|de
+heroicizar	verbo	he|roi|ci|[zar]
+heroico	adjetivo	he|[roi]|co
+heroide	nome feminino	he|[roi]|de
+heroificado	adjetivo	he|roi|fi|[ca]|do
+heroificar	verbo	he|roi|fi|[car]
+heroína	nome feminino	he|ro|[í]|na
+heroinómana	nome feminino	he|roi|[nó]|ma|na
+heroinomania	nome feminino	he|roi|no|ma|[ni]|a
+heroinómano	adjetivo	he|roi|[nó]|ma|no
+heroinómano	nome masculino	he|roi|[nó]|ma|no
+heroinômano	adjetivo	he|roi|[nô]|ma|no
+heroinômano	nome masculino	he|roi|[nô]|ma|no
+heroísmo	nome masculino	he|ro|[ís]|mo
+heroístico	adjetivo	he|ro|[ís]|ti|co
+heroo	nome masculino	he|[ro]|o
+heróon	nome masculino	he|[ró]|on
+heroopolitano	adjetivo	he|ro|o|po|li|[ta]|no
+heroopolitano	nome masculino	he|ro|o|po|li|[ta]|no
+herpes	nome masculino	[her]|pes
+herpete	nome masculino	her|[pe]|te
+herpética	nome feminino	her|[pé]|ti|ca
+herpético	nome masculino	her|[pé]|ti|co
+herpético	adjetivo	her|[pé]|ti|co
+herpetiforme	adjetivo	her|pe|ti|[for]|me
+herpetismo	nome masculino	her|pe|[tis]|mo
+herpetografia	nome feminino	her|pe|to|gra|[fi]|a
+herpetográfico	adjetivo	her|pe|to|[grá]|fi|co
+herpetógrafo	nome masculino	her|pe|[tó]|gra|fo
+herpetóloga	nome feminino	her|pe|[tó]|lo|ga
+herpetologia	nome feminino	her|pe|to|lo|[gi]|a
+herpetológico	adjetivo	her|pe|to|[ló]|gi|co
+herpetologista	nome masculino	her|pe|to|lo|[gis]|ta
+herpetologista	nome feminino	her|pe|to|lo|[gis]|ta
+herpetólogo	nome masculino	her|pe|[tó]|lo|go
+hertz	nome masculino	[hertz]
+hertziano	adjetivo	hert|zi|[a]|no
+hérulo	adjetivo	[hé]|ru|lo
+hérulo	nome masculino	[hé]|ru|lo
+herzegóvino	nome masculino	her|ze|[gó]|vi|no
+herzegóvino	adjetivo	her|ze|[gó]|vi|no
+honorificamente	advérbio	ho|no|ri|fi|ca|[men]|te
+honorificar	verbo	ho|no|ri|fi|[car]
+honorificência	nome feminino	ho|no|ri|fi|[cên]|ci|a
+honorificente	adjetivo	ho|no|ri|fi|[cen]|te
+honorífico	adjetivo	ho|no|[rí]|fi|co
+honra	nome feminino	[hon]|ra
+honradamente	advérbio	hon|ra|da|[men]|te
+honradez	nome feminino	hon|ra|[dez]
+honrado	adjetivo	hon|[ra]|do
+honrador	adjetivo	hon|ra|[dor]
+honrador	nome masculino	hon|ra|[dor]
+honrar	verbo	hon|[rar]
+honraria	nome feminino	hon|ra|[ri]|a
+honricas	nome feminino	hon|[ri]|cas
+honrosamente	advérbio	hon|ro|sa|[men]|te
+honroso	adjetivo	hon|[ro]|so
+hooligan	nome masculino	[hoo]|li|gan
+hooligan	nome feminino	[hoo]|li|gan
+hooliganismo	nome masculino	hoo|li|ga|nis|mo
+hoplete	adjetivo	ho|[ple]|te
+hoplete	nome masculino	ho|[ple]|te
+hoplete	nome feminino	ho|[ple]|te
+hoplita	nome masculino	ho|[pli]|ta
+hoplômaco	nome masculino	ho|[plô]|ma|co
+hoplómaco	nome masculino	ho|[pló]|ma|co
+hoplomaquia	nome feminino	ho|plo|ma|[qui]|a
+hóquei	nome masculino	[hó]|quei
+hoquismo	nome masculino	ho|[quis]|mo
+hoquista	nome masculino	ho|[quis]|ta
+hoquista	nome feminino	ho|[quis]|ta
+hora	nome feminino	[ho]|ra
+horacianismo	nome masculino	ho|ra|ci|a|[nis]|mo
+horacianista	adjetivo	ho|ra|ci|a|[nis]|ta
+horacianista	nome masculino	ho|ra|ci|a|[nis]|ta
+horacianista	nome feminino	ho|ra|ci|a|[nis]|ta
+horaciano	adjetivo	ho|ra|ci|[a]|no
+horaciano	nome masculino	ho|ra|ci|[a]|no
+horal	adjetivo	ho|[ral]
+horar	verbo	ho|[rar]
+horário	nome masculino	ho|[rá]|ri|o
+horário	adjetivo	ho|[rá]|ri|o
+horas	nome feminino	[ho]|ras
+horda	nome feminino	[hor]|da
+hordeácea	nome feminino	hor|de|[á]|ce|a
+hordeáceo	adjetivo	hor|de|[á]|ce|o
+hordéea	nome feminino	hor|[dé]|e|a
+hordéolo	nome masculino	hor|[dé]|o|lo
+horesto	adjetivo	ho|[res]|to
+horesto	nome masculino	ho|[res]|to
+horibilíssimo	adjetivo	ho|ri|bi|[lís]|si|mo
+horispício	nome masculino	ho|ris|[pí]|ci|o
+horista	adjetivo	ho|[ris]|ta
+horista	nome masculino	ho|[ris]|ta
+horizontal	adjetivo	ho|ri|zon|[tal]
+horizontal	nome feminino	ho|ri|zon|[tal]
+horizontalidade	nome feminino	ho|ri|zon|ta|li|[da]|de
+horizontalismo	nome masculino	ho|ri|zon|ta|[lis]|mo
+horizontalizar	verbo	ho|ri|zon|ta|li|[zar]
+horizontalmente	advérbio	ho|ri|zon|tal|[men]|te
+horizontar	verbo	ho|ri|zon|[tar]
+horizonte	nome masculino	ho|ri|[zon]|te
+hórmico	adjetivo	[hór]|mi|co
+hormogônio	nome masculino	hor|mo|[gô]|ni|o
+hormogónio	nome masculino	hor|mo|[gó]|ni|o
+hormona	nome feminino	hor|[mo]|na
+hormonal	adjetivo	hor|mo|[nal]
+hormônico	adjetivo	hor|[mô]|ni|co
+hormónico	adjetivo	hor|[mó]|ni|co
+hormônio	nome masculino	hor|[mô]|ni|o
+hormonoterapia	nome feminino	hor|mo|no|te|ra|[pi]|a
+hormonoterápico	adjetivo	hor|mo|no|te|[rá]|pi|co
+hornaveque	nome masculino	hor|na|[ve]|que
+horneblenda	nome feminino	hor|ne|[blen]|da
+horografia	nome feminino	ho|ro|gra|[fi]|a
+horográfico	adjetivo	ho|ro|[grá]|fi|co
+horógrafo	nome masculino	ho|[ró]|gra|fo
+horologial	adjetivo	ho|ro|lo|gi|[al]
+horológio	nome masculino	ho|ro|[ló]|gi|o
+horometria	nome feminino	ho|ro|me|[tri]|a
+horométrico	adjetivo	ho|ro|[mé]|tri|co
+horoptérico	adjetivo	ho|rop|[té]|ri|co
+horoptero	nome masculino	ho|rop|[te]|ro
+horoscopado	adjetivo	ho|ros|co|[pa]|do
+horoscopar	verbo	ho|ros|co|[par]
+horoscopia	nome feminino	ho|ros|co|[pi]|a
+horoscópico	adjetivo	ho|ros|[có]|pi|co
+horoscópio	nome masculino	ho|ros|[có]|pi|o
+horoscopizar	verbo	ho|ros|co|pi|[zar]
+horóscopo	nome masculino	ho|[rós]|co|po
+horrendamente	advérbio	hor|ren|da|[men]|te
+horrendo	adjetivo	hor|[ren]|do
+horrente	adjetivo	hor|[ren]|te
+horríbil	adjetivo	hor|[rí]|bil
+horribilidade	nome feminino	hor|ri|bi|li|[da]|de
+horridamente	advérbio	hor|ri|da|[men]|te
+hórrido	adjetivo	[hór]|ri|do
+horrífero	adjetivo	hor|[rí]|fe|ro
+horrificamente	advérbio	hor|ri|fi|ca|[men]|te
+horrificar	verbo	hor|ri|fi|[car]
+horrífico	adjetivo	hor|[rí]|fi|co
+herbicida	adjetivo	her|bi|[ci]|da
+herbicida	nome masculino	her|bi|[ci]|da
+herbícola	adjetivo	her|[bí]|co|la
+herbífero	adjetivo	her|[bí]|fe|ro
+herbiforme	adjetivo	her|bi|[for]|me
+herbívoro	nome masculino	her|[bí]|vo|ro
+herbívoro	adjetivo	her|[bí]|vo|ro
+herbolária	nome feminino	her|bo|[lá]|ri|a
+herbolário	adjetivo	her|bo|[lá]|ri|o
+herbolário	nome masculino	her|bo|[lá]|ri|o
+herbóreo	adjetivo	her|[bó]|re|o
+herborista	nome masculino	her|bo|[ris]|ta
+herborista	nome feminino	her|bo|[ris]|ta
+herborização	nome feminino	her|bo|ri|za|[ção]
+herborizado	adjetivo	her|bo|ri|[za]|do
+herborizador	adjetivo	her|bo|ri|za|[dor]
+herborizador	nome masculino	her|bo|ri|za|[dor]
+herborizadora	nome feminino	her|bo|ri|za|[do]|ra
+herborizante	adjetivo	her|bo|ri|[zan]|te
+herborizar	verbo	her|bo|ri|[zar]
+herboso	adjetivo	her|[bo]|so
+hercate	adjetivo	her|[ca]|te
+hercate	nome masculino	her|[ca]|te
+hercate	nome feminino	her|[ca]|te
+herciniano	adjetivo	her|ci|ni|[a]|no
+hercínio	adjetivo	her|[cí]|ni|o
+hercotectônica	nome feminino	her|co|tec|[tô]|ni|ca
+hercotectónica	nome feminino	her|co|tec|[tó]|ni|ca
+herculanense	adjetivo	her|cu|la|[nen]|se
+herculanense	nome masculino	her|cu|la|[nen]|se
+herculanense	nome feminino	her|cu|la|[nen]|se
+herculaniano	adjetivo	her|cu|la|ni|[a]|no
+herculano	adjetivo	her|cu|[la]|no
+hercúleo	adjetivo	her|[cú]|le|o
+hércules	nome masculino	[hér]|cu|les
+herdade	nome feminino	her|[da]|de
+herdador	nome masculino	her|da|[dor]
+herdamento	nome masculino	her|da|[men]|to
+herdança	nome feminino	her|[dan]|ça
+herdar	verbo	her|[dar]
+herdável	adjetivo	her|[dá]|vel
+herdeira	nome feminino	her|[dei]|ra
+herdeiro	nome masculino	her|[dei]|ro
+hereditariamente	advérbio	he|re|di|ta|ri|a|[men]|te
+hereditariedade	nome feminino	he|re|di|ta|ri|e|[da]|de
+hereditário	adjetivo	he|re|di|[tá]|ri|o
+heredobiologia	nome feminino	he|re|do|bi|o|lo|[gi]|a
+heredobiológico	adjetivo	he|re|do|bi|o|[ló]|gi|co
+heredobiologista	nome masculino	he|re|do|bi|o|lo|[gis]|ta
+heredobiologista	nome feminino	he|re|do|bi|o|lo|[gis]|ta
+heredobiólogo	nome masculino	he|re|do|bi|[ó]|lo|go
+heredossífilis	nome feminino	he|re|dos|[sí]|fi|lis
+heredossifilítico	adjetivo	he|re|dos|si|fi|[lí]|ti|co
+heredossifilítico	nome masculino	he|re|dos|si|fi|[lí]|ti|co
+herege	adjetivo	he|[re]|ge
+herege	nome masculino	he|[re]|ge
+herege	nome feminino	he|[re]|ge
+heregia	nome feminino	he|re|[gi]|a
+herero	nome masculino	he|[re]|ro
+herero	adjetivo	he|[re]|ro
+herero	nome feminino	he|[re]|ro
+heresia	nome feminino	he|re|[si]|a
+heresiarca	nome masculino	he|re|si|[ar]|ca
+heresiarca	nome feminino	he|re|si|[ar]|ca
+heresiografia	nome feminino	he|re|si|o|gra|[fi]|a
+heresiográfico	adjetivo	he|re|si|o|[grá]|fi|co
+heresiógrafo	nome masculino	he|re|si|[ó]|gra|fo
+heresiologia	nome feminino	he|re|si|o|lo|[gi]|a
+heresiológico	adjetivo	he|re|si|o|[ló]|gi|co
+heresiólogo	nome masculino	he|re|si|[ó]|lo|go
+herética	nome feminino	he|[ré]|ti|ca
+hereticamente	advérbio	he|re|ti|ca|[men]|te
+hereticidade	nome feminino	he|re|ti|ci|[da]|de
+herético	nome masculino	he|[ré]|ti|co
+herético	adjetivo	he|[ré]|ti|co
+heréu	nome masculino	he|[réu]
+herífuga	nome masculino	he|[rí]|fu|ga
+heril	adjetivo	he|[ril]
+herma	nome feminino	[her]|ma
+hermafrodita	adjetivo	her|ma|fro|[di]|ta
+hermafrodita	nome masculino	her|ma|fro|[di]|ta
+hermafrodita	nome feminino	her|ma|fro|[di]|ta
+hermafroditismo	nome masculino	her|ma|fro|di|[tis]|mo
+hermafrodito	adjetivo	her|ma|fro|[di]|to
+hermafrodito	nome masculino	her|ma|fro|[di]|to
+hermatena	nome feminino	her|ma|[te]|na
+hermeneuta	nome masculino	her|me|[neu]|ta
+hermeneuta	nome feminino	her|me|[neu]|ta
+hermenêutica	nome feminino	her|me|[nêu]|ti|ca
+hermenêuticamente	advérbio	her|me|[nêu]|ti|ca|men|te
+hermenêutico	adjetivo	her|me|[nêu]|ti|co
+herméracles	nome masculino	her|[mé]|ra|cles
+hermes	nome masculino	[her]|mes
+hermesianismo	nome masculino	her|me|si|a|[nis]|mo
+hermesiano	adjetivo	her|me|si|[a]|no
+hermeticamente	advérbio	her|me|ti|ca|[men]|te
+hermeticidade	nome feminino	her|me|ti|ci|[da]|de
+hermético	adjetivo	her|[mé]|ti|co
+hermetismo	nome masculino	her|me|[tis]|mo
+hermetista	nome masculino	her|me|[tis]|ta
+harpálida	nome masculino	har|[pá]|li|da
+harpalídeo	nome masculino	har|pa|[lí]|de|o
+harpalídeo	nome masculino	har|pa|[lí]|de|o
+harpalídeo	adjetivo	har|pa|[lí]|de|o
+harpálio	nome masculino	har|[pá]|li|o
+harpalo	nome masculino	har|[pa]|lo
+harpaneta	nome feminino	har|pa|[ne]|ta
+harpar	verbo	har|[par]
+harpear	verbo	har|pe|[ar]
+harpejar	verbo	har|pe|[jar]
+harpejo	nome masculino	har|[pe]|jo
+harpia	nome feminino	har|[pi]|a
+harpista	nome masculino	har|[pis]|ta
+harpista	nome feminino	har|[pis]|ta
+hartite	nome feminino	har|[ti]|te
+hartmanniano	adjetivo	hart|man|ni|[a]|no
+harto	advérbio	[har]|to
+harto	adjetivo	[har]|to
+harude	adjetivo	ha|[ru]|de
+harude	nome masculino	ha|[ru]|de
+harude	nome feminino	ha|[ru]|de
+harveyização	nome feminino	har|ve|y|i|za|[ção]
+harzburguito	nome masculino	harz|bur|[gui]|to
+hássio	nome masculino	[hás]|si|o
+hasta	nome feminino	[has]|ta
+hastado	adjetivo	has|[ta]|do
+hastado	nome masculino	has|[ta]|do
+hastapura	nome feminino	has|ta|[pu]|ra
+hastaria	nome feminino	has|ta|[ri]|a
+hastário	nome masculino	has|[tá]|ri|o
+hastato	adjetivo	has|[ta]|to
+hastato	nome masculino	has|[ta]|to
+haste	nome feminino	[has]|te
+hasteado	adjetivo	has|te|[a]|do
+hasteal	nome masculino	has|te|[al]
+hasteamento	nome masculino	has|te|a|[men]|to
+hastear	verbo	has|te|[ar]
+hastensiano	adjetivo	has|ten|si|[a]|no
+hastensiano	nome masculino	has|ten|si|[a]|no
+hástia	nome feminino	[hás]|ti|a
+hastibranco	adjetivo	has|ti|[bran]|co
+hastifino	adjetivo	has|ti|[fi]|no
+hastifoliado	adjetivo	has|ti|fo|li|[a]|do
+hastifólio	adjetivo	has|ti|[fó]|li|o
+hastiforme	adjetivo	has|ti|[for]|me
+hastil	nome masculino	has|[til]
+hastilha	nome feminino	has|[ti]|lha
+hastilheira	nome feminino	has|ti|[lhei]|ra
+hastim	nome masculino	has|[tim]
+hastiverde	adjetivo	has|ti|[ver]|de
+haúça	nome masculino	ha|[ú]|ça
+haúça	adjetivo	ha|[ú]|ça
+haúça	nome feminino	ha|[ú]|ça
+hauina	nome feminino	hau|[i]|na
+haurir	verbo	hau|[rir]
+haurível	adjetivo	hau|[rí]|vel
+hausmanite	nome feminino	haus|ma|[ni]|te
+haussmannita	nome feminino	hauss|man|[ni]|ta
+haussmannite	nome feminino	hauss|man|[ni]|te
+haustelado	adjetivo	haus|te|[la]|do
+haustelo	nome masculino	haus|[te]|lo
+hausto	nome masculino	[haus]|to
+haustório	nome masculino	haus|[tó]|ri|o
+hauteriviano	adjetivo	hau|te|ri|vi|[a]|no
+havaiana	nome feminino	ha|vai|[a]|na
+havaiano	nome masculino	ha|vai|[a]|no
+havaiano	adjetivo	ha|vai|[a]|no
+havana	adjetivo	ha|[va]|na
+havana	nome feminino	ha|[va]|na
+havaneiro	nome masculino	ha|va|[nei]|ro
+havanês	adjetivo	ha|va|[nês]
+havanês	nome masculino	ha|va|[nês]
+havanesa	nome feminino	ha|va|[ne]|sa
+havano	nome masculino	ha|[va]|no
+havano	adjetivo	ha|[va]|no
+haver	verbo	ha|[ver]
+haver	nome masculino	ha|[ver]
+haveres	nome masculino	ha|[ve]|res
+haxixe	nome masculino	ha|[xi]|xe
+haxixina	nome feminino	ha|xi|[xi]|na
+haxixismo	nome masculino	ha|xi|[xis]|mo
+hazazel	nome masculino	ha|za|[zel]
+hê	nome masculino	[hê]
+headphones	nome masculino	head|pho|nes
+heautognose	nome feminino	heau|to|gno|se
+heautognóstico	adjetivo	he|au|tog|[nós]|ti|co
+heavy-metal	nome masculino	hea|vy-me|tal
+hebdômada	nome feminino	heb|[dô]|ma|da
+hebdómada	nome feminino	heb|[dó]|ma|da
+hebdomadário	adjetivo	heb|do|ma|[dá]|ri|o
+hebdomadário	nome masculino	heb|do|ma|[dá]|ri|o
+hebdómade	nome feminino	heb|[dó]|ma|de
+hebdomático	adjetivo	heb|do|[má]|ti|co
+hebdomecontacometa	adjetivo	heb|do|me|con|ta|co|[me]|ta
+hebdomecontacometa	nome masculino	heb|do|me|con|ta|co|[me]|ta
+hebdomecontacometa	nome feminino	heb|do|me|con|ta|co|[me]|ta
+hebefrenia	nome feminino	he|be|fre|[ni]|a
+hebefrénico	nome masculino	he|be|[fré]|ni|co
+hebefrénico	adjetivo	he|be|[fré]|ni|co
+hebefrênico	adjetivo	he|be|[frê]|ni|co
+hidatológico	adjetivo	hi|da|to|[ló]|gi|co
+hidatoscopia	nome feminino	hi|da|tos|co|[pi]|a
+hidatoscópico	adjetivo	hi|da|tos|[có]|pi|co
+hidátulo	nome masculino	hi|[dá]|tu|lo
+hidnácea	nome feminino	hid|[ná]|ce|a
+hidnocárpio	nome masculino	hid|no|[cár]|pi|o
+hido-hido	nome masculino	hi|do-hi|do
+hidra	nome feminino	[hi]|dra
+hidrácido	nome masculino	hi|[drá]|ci|do
+hidradenite	nome feminino	hi|dra|de|[ni]|te
+hidradenoma	nome masculino	hi|dra|de|[no]|ma
+hidraéreo	adjetivo	hi|dra|[é]|re|o
+hidraeroplano	nome masculino	hi|dra|e|ro|[pla]|no
+hidragogo	adjetivo	hi|dra|[go]|go
+hidragogo	nome masculino	hi|dra|[go]|go
+hidrálcool	nome masculino	hi|[drál]|co|ol
+hidrângea	nome feminino	hi|[drân]|ge|a
+hidrangeácea	nome feminino	hi|dran|ge|[á]|ce|a
+hidranja	nome feminino	hi|[dran]|ja
+hidrante	nome masculino	hi|[dran]|te
+hidrargilita	nome feminino	hi|drar|gi|[li]|ta
+hidrargilite	nome feminino	hi|drar|gi|[li]|te
+hidrargiria	nome feminino	hi|drar|gi|[ri]|a
+hidrargírico	adjetivo	hi|drar|[gí]|ri|co
+hidrargírio	nome masculino	hi|drar|[gí]|ri|o
+hidrargirismo	nome masculino	hi|drar|gi|[ris]|mo
+hidrargirite	nome feminino	hi|drar|gi|[ri]|te
+hidrargirose	nome feminino	hi|drar|gi|[ro]|se
+hidrartro	nome masculino	hi|[drar]|tro
+hidrartrose	nome feminino	hi|drar|[tro]|se
+hidraste	nome feminino	hi|[dras]|te
+hidrástina	nome feminino	hi|[drás]|ti|na
+hidrastinina	nome feminino	hi|dras|ti|[ni]|na
+hidratação	nome feminino	hi|dra|ta|[ção]
+hidratado	adjetivo	hi|dra|[ta]|do
+hidratante	nome masculino	hi|dra|[tan]|te
+hidratante	adjetivo	hi|dra|[tan]|te
+hidratar	verbo	hi|dra|[tar]
+hidratável	adjetivo	hi|dra|[tá]|vel
+hidrático	adjetivo	hi|[drá]|ti|co
+hidrato	nome masculino	hi|[dra]|to
+hidrátodo	nome masculino	hi|[drá]|to|do
+hidráulica	nome feminino	hi|[dráu]|li|ca
+hidraulicamente	advérbio	hi|drau|li|ca|[men]|te
+hidraulicidade	nome feminino	hi|drau|li|ci|[da]|de
+hidráulico	nome masculino	hi|[dráu]|li|co
+hidráulico	adjetivo	hi|[dráu]|li|co
+hidraulo	nome masculino	hi|[drau]|lo
+hidravião	nome masculino	hi|dra|vi|[ão]
+hidrazina	nome feminino	hi|dra|[zi]|na
+hidreléctrico	adjetivo	hi|dre|[léc]|tri|co
+hidrelétrico	adjetivo	hi|dre|[lé]|tri|co
+hidrémese	nome feminino	hi|[dré]|me|se
+hidrêmese	nome feminino	hi|[drê]|me|se
+hidremético	adjetivo	hi|dre|[mé]|ti|co
+hidremia	nome feminino	hi|dre|[mi]|a
+hidrêmico	adjetivo	hi|[drê]|mi|co
+hidrémico	adjetivo	hi|[dré]|mi|co
+hidrencéfalo	nome masculino	hi|dren|[cé]|fa|lo
+hidreto	nome masculino	hi|[dre]|to
+hídria	nome feminino	[hí]|dri|a
+hidriartria	nome feminino	hi|dri|ar|[tri]|a
+hidriatria	nome feminino	hi|dri|a|[tri]|a
+hidriátrico	adjetivo	hi|dri|[á]|tri|co
+hídrico	adjetivo	[hí]|dri|co
+hídrio	nome masculino	[hí]|dri|o
+hidro	nome masculino	[hi]|dro
+hidroaéreo	adjetivo	hi|dro|a|[é]|re|o
+hidroaeródromo	nome masculino	hi|dro|a|e|[ró]|dro|mo
+hidroaeroplano	nome masculino	hi|dro|a|e|ro|[pla]|no
+hidroagrícola	adjetivo	hi|dro|a|[grí]|co|la
+hidroavião	nome masculino	hi|dro|a|vi|[ão]
+hidrobenzénico	adjetivo	hi|dro|ben|[zé]|ni|co
+hidrobenzênico	adjetivo	hi|dro|ben|[zê]|ni|co
+hidrobenzeno	nome masculino	hi|dro|ben|[ze]|no
+hidróbio	adjetivo	hi|[dró]|bi|o
+hidrobiologia	nome feminino	hi|dro|bi|o|lo|[gi]|a
+hidrobiológico	adjetivo	hi|dro|bi|o|[ló]|gi|co
+hidrobrânquio	adjetivo	hi|dro|[brân]|qui|o
+hidrocarbonado	adjetivo	hi|dro|car|bo|[na]|do
+hidrocarbonador	nome masculino	hi|dro|car|bo|na|[dor]
+hidrocarbonato	nome masculino	hi|dro|car|bo|[na]|to
+hidrocarboneto	nome masculino	hi|dro|car|bo|[ne]|to
+hidrocaritácea	nome feminino	hi|dro|ca|ri|[tá]|ce|a
+hidrocaule	nome masculino	hi|dro|[cau]|le
+hidrocéfala	nome feminino	hi|dro|[cé]|fa|la
+hidrocefalia	nome feminino	hi|dro|ce|fa|[li]|a
+hidrocefálico	adjetivo	hi|dro|ce|[fá]|li|co
+hidrocéfalo	adjetivo	hi|dro|[cé]|fa|lo
+hidrocéfalo	nome masculino	hi|dro|[cé]|fa|lo
+hidrocele	nome feminino	hi|dro|[ce]|le
+hidrocélico	adjetivo	hi|dro|[cé]|li|co
+hidrocianato	nome masculino	hi|dro|ci|a|[na]|to
+hidrociânico	adjetivo	hi|dro|ci|[â]|ni|co
+hidrocisto	nome masculino	hi|dro|[cis]|to
+hidroclorato	nome masculino	hi|dro|clo|[ra]|to
+hidroclórico	adjetivo	hi|dro|[cló]|ri|co
+hidrocoraliário	adjetivo	hi|dro|co|ra|li|[á]|ri|o
+hidrocoraliário	nome masculino	hi|dro|co|ra|li|[á]|ri|o
+hidrocóreo	nome masculino	hi|dro|[có]|re|o
+hierosolimita	adjetivo	hi|e|ro|so|li|[mi]|ta
+hierosolimita	nome masculino	hi|e|ro|so|li|[mi]|ta
+hierosolimita	nome feminino	hi|e|ro|so|li|[mi]|ta
+hierosolimitano	adjetivo	hi|e|ro|so|li|mi|[ta]|no
+hierosolimitano	nome masculino	hi|e|ro|so|li|mi|[ta]|no
+hietometria	nome feminino	hi|e|to|me|[tri]|a
+hietométrico	adjetivo	hi|e|to|[mé]|tri|co
+hietômetro	nome masculino	hi|e|[tô]|me|tro
+hietómetro	nome masculino	hi|e|[tó]|me|tro
+hifa	nome feminino	[hi]|fa
+hifema	nome masculino	hi|[fe]|ma
+hifemia	nome feminino	hi|fe|[mi]|a
+hifémico	adjetivo	hi|[fé]|mi|co
+hifêmico	adjetivo	hi|[fê]|mi|co
+hífen	nome masculino	[hí]|fen
+hifenação	nome feminino	hi|fe|na|[ção]
+hifenização	nome feminino	hi|fe|ni|za|[ção]
+hifenizado	adjetivo	hi|fe|ni|[za]|do
+hifenizar	verbo	hi|fe|ni|[zar]
+hifênquima	nome masculino	hi|[fên]|qui|ma
+hiférese	nome feminino	hi|[fé]|re|se
+hiferético	adjetivo	hi|fe|[ré]|ti|co
+hifomicete	nome masculino	hi|fo|mi|[ce]|te
+hifósporo	nome masculino	hi|[fós]|po|ro
+high-tech	adjetivo	[high-tech]
+higidez	nome feminino	hi|gi|[dez]
+hígido	adjetivo	[hí]|gi|do
+higiene	nome feminino	hi|gi|[e]|ne
+higienicamente	advérbio	hi|gi|e|ni|ca|[men]|te
+higiénico	adjetivo	hi|gi|[é]|ni|co
+higiênico	adjetivo	hi|gi|[ê]|ni|co
+higienista	adjetivo	hi|gi|e|[nis]|ta
+higienista	nome masculino	hi|gi|e|[nis]|ta
+higienista	nome feminino	hi|gi|e|[nis]|ta
+higienização	nome feminino	hi|gi|e|ni|za|[ção]
+higienizado	adjetivo	hi|gi|e|ni|[za]|do
+higienizador	adjetivo	hi|gi|e|ni|za|[dor]
+higienizador	nome masculino	hi|gi|e|ni|za|[dor]
+higienizar	verbo	hi|gi|e|ni|[zar]
+higienizável	adjetivo	hi|gi|e|ni|[zá]|vel
+higiologia	nome feminino	hi|gi|o|lo|[gi]|a
+higiológico	adjetivo	hi|gi|o|[ló]|gi|co
+higiostático	adjetivo	hi|gi|os|[tá]|ti|co
+higioterapia	nome feminino	hi|gi|o|te|ra|[pi]|a
+higioterápico	adjetivo	hi|gi|o|te|[rá]|pi|co
+higra	nome feminino	[hi]|gra
+higróbio	adjetivo	hi|[gró]|bi|o
+higrocolírio	nome masculino	hi|gro|co|[lí]|ri|o
+higrofilia	nome feminino	hi|gro|fi|[li]|a
+higrofilite	nome feminino	hi|gro|fi|[li]|te
+higrófilo	adjetivo	hi|[gró]|fi|lo
+higrófito	adjetivo	hi|[gró]|fi|to
+higrofobia	nome feminino	hi|gro|fo|[bi]|a
+higrófobo	adjetivo	hi|[gró]|fo|bo
+higrófobo	nome masculino	hi|[gró]|fo|bo
+higrógrafo	nome masculino	hi|[gró]|gra|fo
+higrologia	nome feminino	hi|gro|lo|[gi]|a
+higrológico	adjetivo	hi|gro|[ló]|gi|co
+higrólogo	nome masculino	hi|[gró]|lo|go
+higroma	nome masculino	hi|[gro]|ma
+higrometria	nome feminino	hi|gro|me|[tri]|a
+higrometricidade	nome feminino	hi|gro|me|tri|ci|[da]|de
+higrométrico	adjetivo	hi|gro|[mé]|tri|co
+higrômetro	nome masculino	hi|[grô]|me|tro
+higrómetro	nome masculino	hi|[gró]|me|tro
+higroscopia	nome feminino	hi|gros|co|[pi]|a
+higroscopicidade	nome feminino	hi|gros|co|pi|ci|[da]|de
+higroscópico	adjetivo	hi|gros|[có]|pi|co
+higroscópio	nome masculino	hi|gros|[có]|pi|o
+higróstato	nome masculino	hi|[grós]|ta|to
+higrotropismo	nome masculino	hi|gro|tro|[pis]|mo
+hilar	adjetivo	hi|[lar]
+hílare	adjetivo	[hí]|la|re
+hilária	nome feminino	hi|[lá]|ri|a
+hilariante	adjetivo	hi|la|ri|[an]|te
+hilariantemente	advérbio	hi|la|ri|an|te|[men]|te
+hilariar	verbo	hi|la|ri|[ar]
+hilaridade	nome feminino	hi|la|ri|[da]|de
+hilário	adjetivo	hi|[lá]|ri|o
+hilarizar	verbo	hi|la|ri|[zar]
+hilaródia	nome feminino	hi|la|[ró]|di|a
+hilarodo	nome masculino	hi|la|[ro]|do
+hilárquico	adjetivo	hi|[lár]|qui|co
+hildebrandismo	nome masculino	hil|de|bran|[dis]|mo
+hildebrandista	adjetivo	hil|de|bran|[dis]|ta
+hildebrandista	nome masculino	hil|de|bran|[dis]|ta
+hildebrandista	nome feminino	hil|de|bran|[dis]|ta
+hilé	nome feminino	hi|[lé]
+hilemorfismo	nome masculino	hi|le|mor|[fis]|mo
+hilética	nome feminino	hi|[lé]|ti|ca
+hilético	adjetivo	hi|[lé]|ti|co
+hileu	adjetivo	hi|[leu]
+hileu	nome masculino	hi|[leu]
+hílida	nome masculino	[hí]|li|da
+hílida	nome masculino	[hí]|li|da
+hilídeo	adjetivo	hi|[lí]|de|o
+hilídeo	nome masculino	hi|[lí]|de|o
+hilídeo	nome masculino	hi|[lí]|de|o
+hilífero	adjetivo	hi|[lí]|fe|ro
+hilífero	nome masculino	hi|[lí]|fe|ro
+hã	interjeição	[hã]
+há	nome masculino	[há]
+há-de-haver	nome masculino	há-de-ha|[ver]
+habanera	nome feminino	ha|ba|[ne]|ra
+habé	adjetivo	ha|[bé]
+habé	nome masculino	ha|[bé]
+habé	nome feminino	ha|[bé]
+habena	nome feminino	ha|[be]|na
+hábia	nome feminino	[há]|bi|a
+hábil	adjetivo	[há]|bil
+habilidade	nome feminino	ha|bi|li|[da]|de
+habilidosa	nome feminino	ha|bi|li|[do]|sa
+habilidosamente	advérbio	ha|bi|li|do|sa|[men]|te
+habilidoso	adjetivo	ha|bi|li|[do]|so
+habilidoso	nome masculino	ha|bi|li|[do]|so
+habilitação	nome feminino	ha|bi|li|ta|[ção]
+habilitado	adjetivo	ha|bi|li|[ta]|do
+habilitador	adjetivo	ha|bi|li|ta|[dor]
+habilitador	nome masculino	ha|bi|li|ta|[dor]
+habilitanço	nome masculino	ha|bi|li|[tan]|ço
+habilitando	adjetivo	ha|bi|li|[tan]|do
+habilitando	nome masculino	ha|bi|li|[tan]|do
+habilitante	adjetivo	ha|bi|li|[tan]|te
+habilitante	nome masculino	ha|bi|li|[tan]|te
+habilitante	nome feminino	ha|bi|li|[tan]|te
+habilitar	verbo	ha|bi|li|[tar]
+habilitável	adjetivo	ha|bi|li|[tá]|vel
+habilmente	advérbio	ha|bil|[men]|te
+habitabilidade	nome feminino	ha|bi|ta|bi|li|[da]|de
+habitação	nome feminino	ha|bi|ta|[ção]
+habitação-modelo	nome feminino	ha|bi|ta|ção-mo|[de]|lo
+habitacional	adjetivo	ha|bi|ta|ci|o|[nal]
+habitáculo	nome masculino	ha|bi|[tá]|cu|lo
+habitado	adjetivo	ha|bi|[ta]|do
+habitador	adjetivo	ha|bi|ta|[dor]
+habitador	nome masculino	ha|bi|ta|[dor]
+habitante	adjetivo	ha|bi|[tan]|te
+habitante	nome masculino	ha|bi|[tan]|te
+habitante	nome feminino	ha|bi|[tan]|te
+habitar	verbo	ha|bi|[tar]
+habitat	nome masculino	ha|bi|tat
+habitável	adjetivo	ha|bi|[tá]|vel
+hábito	nome masculino	[há]|bi|to
+habituação	nome feminino	ha|bi|tu|a|[ção]
+habituado	adjetivo	ha|bi|tu|[a]|do
+habitual	adjetivo	ha|bi|tu|[al]
+habitualidade	nome feminino	ha|bi|tu|a|li|[da]|de
+habitualismo	nome masculino	ha|bi|tu|a|[lis]|mo
+habitualmente	advérbio	ha|bi|tu|al|[men]|te
+habituante	adjetivo	ha|bi|tu|[an]|te
+habituar	verbo	ha|bi|tu|[ar]
+habituável	adjetivo	ha|bi|tu|[á]|vel
+habitude	nome feminino	ha|bi|[tu]|de
+habitudinário	adjetivo	ha|bi|tu|di|[ná]|ri|o
+habitué	nome masculino	ha|bi|tué
+habitus	nome masculino	ha|bi|[tus]
+haca	nome feminino	[ha]|ca
+hacaneia	nome feminino	ha|ca|[nei]|a
+hacata	nome feminino	ha|[ca]|ta
+hacer	nome masculino	ha|[cer]
+hacker	nome masculino	[hac]|ker
+hacker	nome feminino	[hac]|ker
+haco	nome masculino	[ha]|co
+haco	adjetivo	[ha]|co
+hacpólique	nome masculino	hac|[pó]|li|que
+hacube	nome masculino	ha|[cu]|be
+hadoque	nome masculino	ha|[do]|que
+haeckeliano	adjetivo	haec|ke|li|a|no
+hafalgesia	nome feminino	ha|fal|ge|[si]|a
+hafalgésico	adjetivo	ha|fal|[gé]|si|co
+hafiestesímetro	nome masculino	ha|fi|es|te|[sí]|me|tro
+háfnio	nome masculino	[háf]|ni|o
+hafométrico	adjetivo	ha|fo|[mé]|tri|co
+hagiastério	nome masculino	ha|gi|as|[té]|ri|o
+hágibe	nome masculino	[há]|gi|be
+hagiógrafa	nome feminino	ha|gi|[ó]|gra|fa
+hagiografia	nome feminino	ha|gi|o|gra|[fi]|a
+hagiográfico	adjetivo	ha|gi|o|[grá]|fi|co
+hagiografista	nome masculino	ha|gi|o|gra|[fis]|ta
+hagiografista	nome feminino	ha|gi|o|gra|[fis]|ta
+hagiógrafo	nome masculino	ha|gi|[ó]|gra|fo
+hagiolatria	nome feminino	ha|gi|o|la|[tri]|a
+hagiolátrico	adjetivo	ha|gi|o|[lá]|tri|co
+hagióloga	nome feminino	ha|gi|[ó]|lo|ga
+hagiologia	nome feminino	ha|gi|o|lo|[gi]|a
+hagiológico	adjetivo	ha|gi|o|[ló]|gi|co
+hagiológio	nome masculino	ha|gi|o|[ló]|gi|o
+hagiologista	nome masculino	ha|gi|o|lo|[gis]|ta
+hagiologista	nome feminino	ha|gi|o|lo|[gis]|ta
+hagiólogo	nome masculino	ha|gi|[ó]|lo|go
+hagiómaco	nome masculino	ha|gi|[ó]|ma|co
+hagiômaco	nome masculino	ha|gi|[ô]|ma|co
+hagiomaquia	nome feminino	ha|gi|o|ma|[qui]|a
+hagiomáquico	adjetivo	ha|gi|o|[má]|qui|co
+hagionímia	nome feminino	ha|gi|o|[ní]|mi|a
+hagionímico	adjetivo	ha|gi|o|[ní]|mi|co
+hagiônimo	nome masculino	ha|gi|[ô]|ni|mo
+hagiónimo	nome masculino	ha|gi|[ó]|ni|mo
+hagiossemantro	nome masculino	ha|gi|os|se|[man]|tro
+hagiossidero	nome masculino	ha|gi|os|si|[de]|ro
+hagiotoponímia	nome feminino	ha|gi|o|to|po|[ní]|mi|a
+hagiotoponímico	adjetivo	ha|gi|o|to|po|[ní]|mi|co
+hagiotopônimo	nome masculino	ha|gi|o|to|[pô]|ni|mo
+hagiotopónimo	nome masculino	ha|gi|o|to|[pó]|ni|mo
+hahnemanniano	adjetivo	hah|ne|man|ni|[a]|no
+hahnemânnico	adjetivo	hah|ne|[mân]|ni|co
+hahnemannismo	nome masculino	hah|ne|man|[nis]|mo
+hâhnio	nome masculino	[hâh]|ni|o
+haicai	nome masculino	hai|[cai]
+haissúaque	nome masculino	hais|[sú]|a|que
+haitiana	nome feminino	hai|ti|[a]|na
+haitiano	adjetivo	hai|ti|[a]|no
+haitiano	nome masculino	hai|ti|[a]|no
+hájibe	nome masculino	[há]|ji|be
+halação	nome feminino	ha|la|[ção]
+halali	nome masculino	ha|la|[li]
+halentina	nome feminino	ha|len|[ti]|na
+halentino	adjetivo	ha|len|[ti]|no
+halentino	nome masculino	ha|len|[ti]|no
+halésia	nome feminino	ha|[lé]|si|a
+halesino	nome masculino	ha|le|[si]|no
+halesino	adjetivo	ha|le|[si]|no
+halial	adjetivo	ha|li|[al]
+haliárcio	adjetivo	ha|li|[ár]|ci|o
+haliárcio	nome masculino	ha|li|[ár]|ci|o
+halibute	nome masculino	ha|li|[bu]|te
+halicarnassense	adjetivo	ha|li|car|nas|[sen]|se
+halicarnassense	nome masculino	ha|li|car|nas|[sen]|se
+halicarnassense	nome feminino	ha|li|car|nas|[sen]|se
+halicarnássico	adjetivo	ha|li|car|[nás]|si|co
+halicarnássico	nome masculino	ha|li|car|[nás]|si|co
+halicarnássio	adjetivo	ha|li|car|[nás]|si|o
+halicarnássio	nome masculino	ha|li|car|[nás]|si|o
+halicolimbo	nome masculino	ha|li|co|[lim]|bo
+halicôndrio	nome masculino	ha|li|[côn]|dri|o
+halicoráceo	nome masculino	ha|li|co|[rá]|ce|o
+halicto	nome masculino	ha|[lic]|to
+haliêutica	nome feminino	ha|li|[êu]|ti|ca
+haliêutico	adjetivo	ha|li|[êu]|ti|co
+halígona	nome feminino	ha|[lí]|go|na
+halimeda	nome feminino	ha|li|[me]|da
+haliote	nome masculino	ha|li|[o]|te
+haliotídeo	nome masculino	ha|li|o|[tí]|de|o
+haliplancto	nome masculino	ha|li|[planc]|to
+haliplâncton	nome masculino	ha|li|[plânc]|ton
+háliplo	nome masculino	[há]|li|plo
+halipteno	nome masculino	ha|lip|[te]|no
+haliquelidôneo	nome masculino	ha|li|que|li|[dô]|ne|o
+haliquelidóneo	nome masculino	ha|li|que|li|[dó]|ne|o
+haliserno	adjetivo	ha|li|[ser]|no
+haliserno	nome masculino	ha|li|[ser]|no
+halispôngia	nome feminino	ha|lis|[pôn]|gi|a
+halissauro	nome masculino	ha|lis|[sau]|ro
+halita	nome feminino	ha|[li]|ta
+halite	nome feminino	ha|[li]|te
+halitério	nome masculino	ha|li|[té]|ri|o
+hálito	nome masculino	[há]|li|to
+halitose	nome feminino	ha|li|[to]|se
+halizão	nome masculino	ha|li|[zão]
+halizão	adjetivo	ha|li|[zão]
+hall	nome masculino	[hall]
+halloysita	nome feminino	hal|loy|si|ta
+halmirólise	nome feminino	hal|mi|[ró]|li|se
+halo	nome masculino	[ha]|lo
+halóbato	nome masculino	ha|[ló]|ba|to
+halóbio	nome masculino	ha|[ló]|bi|o
+halocalcite	nome feminino	ha|lo|cal|[ci]|te
+halocromia	nome feminino	ha|lo|cro|[mi]|a
+halocrômico	adjetivo	ha|lo|[crô]|mi|co
+halocrómico	adjetivo	ha|lo|[cró]|mi|co
+halófilo	adjetivo	ha|[ló]|fi|lo
+halófito	nome masculino	ha|[ló]|fi|to
+halogenação	nome feminino	ha|lo|ge|na|[ção]
+halogenado	adjetivo	ha|lo|ge|[na]|do
+halogenar	verbo	ha|lo|ge|[nar]
+halogêneo	adjetivo	ha|lo|[gê]|ne|o
+halogêneo	nome masculino	ha|lo|[gê]|ne|o
+halogéneo	nome masculino	ha|lo|[gé]|ne|o
+halogéneo	adjetivo	ha|lo|[gé]|ne|o
+halogeneto	nome masculino	ha|lo|ge|[ne]|to
+halogénico	adjetivo	ha|lo|[gé]|ni|co
+halogênico	adjetivo	ha|lo|[gê]|ni|co
+halogénio	nome masculino	ha|lo|[gé]|ni|o
+halogênio	nome masculino	ha|lo|[gê]|ni|o
+halógeno	adjetivo	ha|[ló]|ge|no
+halografia	nome feminino	ha|lo|gra|[fi]|a
+halográfico	adjetivo	ha|lo|[grá]|fi|co
+halógrafo	nome masculino	ha|[ló]|gra|fo
+haloide	adjetivo	ha|[loi]|de
+haloide	nome masculino	ha|[loi]|de
+haloisite	nome feminino	ha|loi|[si]|te
+halologia	nome feminino	ha|lo|lo|[gi]|a
+halológico	adjetivo	ha|lo|[ló]|gi|co
+halomancia	nome feminino	ha|lo|man|[ci]|a
+halomante	nome masculino	ha|lo|[man]|te
+halomante	nome feminino	ha|lo|[man]|te
+halomântico	adjetivo	ha|lo|[mân]|ti|co
+halometria	nome feminino	ha|lo|me|[tri]|a
+halométrico	adjetivo	ha|lo|[mé]|tri|co
+halómetro	nome masculino	ha|[ló]|me|tro
+hostilizar	verbo	hos|ti|li|[zar]
+hostilmente	advérbio	hos|til|[men]|te
+hot	adjetivo	[hot]
+hote	nome masculino	[ho]|te
+hoteia	nome feminino	ho|[tei]|a
+hotel	nome masculino	ho|[tel]
+hotelaria	nome feminino	ho|te|la|[ri]|a
+hoteleiro	adjetivo	ho|te|[lei]|ro
+hoteleiro	nome masculino	ho|te|[lei]|ro
+hotentote	nome masculino	ho|ten|[to]|te
+hotentote	adjetivo	ho|ten|[to]|te
+hotentote	nome feminino	ho|ten|[to]|te
+hotentotismo	nome masculino	ho|ten|to|[tis]|mo
+hotline	nome masculino	ho|[tli]|ne
+hou	interjeição	[hou]
+hova	adjetivo	[ho]|va
+hova	nome masculino	[ho]|va
+hova	nome feminino	[ho]|va
+hóvea	nome feminino	[hó]|ve|a
+hovercraft	nome masculino	ho|ver|craft
+hoxa	nome feminino	[ho]|xa
+hryvnia	nome feminino	hryv|[ni]|a
+huamba	nome feminino	hu|[am]|ba
+huambe	nome masculino	hu|[am]|be
+huambo	adjetivo	hu|[am]|bo
+huambo	nome masculino	hu|[am]|bo
+hübneriano	adjetivo	hüb|ne|ri|[a]|no
+hübnerita	nome feminino	hüb|ne|ri|ta
+hubnerite	nome feminino	hub|ne|[ri]|te
+hübnerite	nome feminino	hüb|ne|[ri]|te
+hubo	nome masculino	[hu]|bo
+huguenote	nome masculino	hu|gue|[no]|te
+huguenote	adjetivo	hu|gue|[no]|te
+huguenote	nome feminino	hu|gue|[no]|te
+huguesco	adjetivo	hu|[gues]|co
+hui	interjeição	[hui]
+hulha	nome feminino	[hu]|lha
+hulheira	nome feminino	hu|[lhei]|ra
+hulheiro	adjetivo	hu|[lhei]|ro
+hulhífero	adjetivo	hu|[lhí]|fe|ro
+hum	interjeição	[hum]
+humanado	adjetivo	hu|ma|[na]|do
+humanal	adjetivo	hu|ma|[nal]
+humanamente	advérbio	hu|ma|na|[men]|te
+humanar	verbo	hu|ma|[nar]
+humanidade	nome feminino	hu|ma|ni|[da]|de
+humanismo	nome masculino	hu|ma|[nis]|mo
+humanista	nome masculino	hu|ma|[nis]|ta
+humanista	adjetivo	hu|ma|[nis]|ta
+humanista	nome feminino	hu|ma|[nis]|ta
+humanística	nome feminino	hu|ma|[nís]|ti|ca
+humanisticamente	advérbio	hu|ma|nis|ti|ca|[men]|te
+humanístico	adjetivo	hu|ma|[nís]|ti|co
+humanitária	nome feminino	hu|ma|ni|[tá]|ri|a
+humanitariamente	advérbio	hu|ma|ni|ta|ri|a|[men]|te
+humanitário	adjetivo	hu|ma|ni|[tá]|ri|o
+humanitário	nome masculino	hu|ma|ni|[tá]|ri|o
+humanitarismo	nome masculino	hu|ma|ni|ta|[ris]|mo
+humanitarista	nome masculino	hu|ma|ni|ta|[ris]|ta
+humanitarista	adjetivo	hu|ma|ni|ta|[ris]|ta
+humanitarista	nome feminino	hu|ma|ni|ta|[ris]|ta
+humanitarístico	adjetivo	hu|ma|ni|ta|[rís]|ti|co
+humanização	nome feminino	hu|ma|ni|za|[ção]
+humanizado	adjetivo	hu|ma|ni|[za]|do
+humanizador	adjetivo	hu|ma|ni|za|[dor]
+humanizador	nome masculino	hu|ma|ni|za|[dor]
+humanizante	adjetivo	hu|ma|ni|[zan]|te
+humanizar	verbo	hu|ma|ni|[zar]
+humanizável	adjetivo	hu|ma|ni|[zá]|vel
+humano	adjetivo	hu|[ma]|no
+humano	nome masculino	hu|[ma]|no
+humanoide	adjetivo	hu|ma|[noi]|de
+humanoide	nome masculino	hu|ma|[noi]|de
+humanoide	nome feminino	hu|ma|[noi]|de
+humbe	nome masculino	[hum]|be
+humbe	adjetivo	[hum]|be
+humbe	nome feminino	[hum]|be
+humboldtiano	adjetivo	hum|bold|ti|[a]|no
+humboldtite	nome feminino	hum|bold|[ti]|te
+humectação	nome feminino	hu|mec|ta|[ção]
+humectante	adjetivo	hu|mec|[tan]|te
+humectar	verbo	hu|mec|[tar]
+humectativo	adjetivo	hu|mec|ta|[ti]|vo
+humedecedor	adjetivo	hu|me|de|ce|[dor]
+humedecer	verbo	hu|me|de|[cer]
+humedecido	adjetivo	hu|me|de|[ci]|do
+humedecimento	nome masculino	hu|me|de|ci|[men]|to
+humente	adjetivo	hu|[men]|te
+húmico	adjetivo	[hú]|mi|co
+humícola	adjetivo	hu|[mí]|co|la
+humidade	nome feminino	hu|mi|[da]|de
+humidamente	advérbio	hu|mi|da|[men]|te
+humidificação	nome feminino	hu|mi|di|fi|ca|[ção]
+humidificador	nome masculino	hu|mi|di|fi|ca|[dor]
+humidificar	verbo	hu|mi|di|fi|[car]
+humidífobo	adjetivo	hu|mi|[dí]|fo|bo
+humidífugo	adjetivo	hu|mi|[dí]|fu|go
+húmido	adjetivo	[hú]|mi|do
+humífero	adjetivo	hu|[mí]|fe|ro
+humificação	nome feminino	hu|mi|fi|ca|[ção]
+histogéneo	adjetivo	his|to|[gé]|ne|o
+histogêneo	adjetivo	his|to|[gê]|ne|o
+histogênese	nome feminino	his|to|[gê]|ne|se
+histogénese	nome feminino	his|to|[gé]|ne|se
+histogenésico	adjetivo	his|to|ge|[né]|si|co
+histogenético	adjetivo	his|to|ge|[né]|ti|co
+histogenia	nome feminino	his|to|ge|[ni]|a
+histogênico	adjetivo	his|to|[gê]|ni|co
+histogénico	adjetivo	his|to|[gé]|ni|co
+histografia	nome feminino	his|to|gra|[fi]|a
+histográfico	adjetivo	his|to|[grá]|fi|co
+histógrafo	nome masculino	his|[tó]|gra|fo
+histograma	nome masculino	his|to|[gra]|ma
+histólise	nome feminino	his|[tó]|li|se
+histolítico	adjetivo	his|to|[lí]|ti|co
+históloga	nome feminino	his|[tó]|lo|ga
+histologia	nome feminino	his|to|lo|[gi]|a
+histológico	adjetivo	his|to|[ló]|gi|co
+histologista	adjetivo	his|to|lo|[gis]|ta
+histologista	nome masculino	his|to|lo|[gis]|ta
+histologista	nome feminino	his|to|lo|[gis]|ta
+histólogo	nome masculino	his|[tó]|lo|go
+histoma	nome masculino	his|[to]|ma
+histona	nome feminino	his|[to]|na
+histoneurologia	nome feminino	his|to|neu|ro|lo|[gi]|a
+histoneurológico	adjetivo	his|to|neu|ro|[ló]|gi|co
+histoneurologista	nome masculino	his|to|neu|ro|lo|[gis]|ta
+histoneurologista	nome feminino	his|to|neu|ro|lo|[gis]|ta
+histoneurólogo	nome masculino	his|to|neu|[ró]|lo|go
+histonomia	nome feminino	his|to|no|[mi]|a
+histonômico	adjetivo	his|to|[nô]|mi|co
+histonómico	adjetivo	his|to|[nó]|mi|co
+histopatologia	nome feminino	his|to|pa|to|lo|[gi]|a
+histopatológico	adjetivo	his|to|pa|to|[ló]|gi|co
+histoplasma	nome masculino	his|to|[plas]|ma
+histoplasmose	nome feminino	his|to|plas|[mo]|se
+histoquímica	nome feminino	his|to|[quí]|mi|ca
+histoquímico	adjetivo	his|to|[quí]|mi|co
+história	nome feminino	his|[tó]|ri|a
+historiada	nome feminino	his|to|ri|[a]|da
+historiado	adjetivo	his|to|ri|[a]|do
+historiador	nome masculino	his|to|ri|a|[dor]
+historiadora	nome feminino	his|to|ri|a|[do]|ra
+historial	adjetivo	his|to|ri|[al]
+historial	nome masculino	his|to|ri|[al]
+historiar	verbo	his|to|ri|[ar]
+historiável	adjetivo	his|to|ri|[á]|vel
+historicamente	advérbio	his|to|ri|ca|[men]|te
+historicidade	nome feminino	his|to|ri|ci|[da]|de
+historicismo	nome masculino	his|to|ri|[cis]|mo
+historicista	adjetivo	his|to|ri|[cis]|ta
+historicista	nome masculino	his|to|ri|[cis]|ta
+historicista	nome feminino	his|to|ri|[cis]|ta
+historicístico	adjetivo	his|to|ri|[cís]|ti|co
+histórico	adjetivo	his|[tó]|ri|co
+histórico	nome masculino	his|[tó]|ri|co
+histórico-comparativo	adjetivo	his|tó|ri|co-com|pa|ra|[ti]|vo
+histórico-cultural	adjetivo	his|tó|ri|co-cul|tu|[ral]
+histórico-etimológico	adjetivo	his|tó|ri|co-e|ti|mo|[ló]|gi|co
+histórico-filosófico	adjetivo	his|tó|ri|co-fi|lo|[só]|fi|co
+histórico-geográfico	adjetivo	his|tó|ri|co-ge|o|[grá]|fi|co
+histórico-linguístico	adjetivo	his|tó|ri|co-lin|[guís]|ti|co
+histórico-literário	adjetivo	his|tó|ri|co-li|te|[rá]|ri|o
+histórico-natural	adjetivo	his|tó|ri|co-na|tu|[ral]
+histórico-social	adjetivo	his|tó|ri|co-so|ci|[al]
+historieiro	adjetivo	his|to|ri|[ei]|ro
+historiento	adjetivo	his|to|ri|[en]|to
+historieta	nome feminino	his|to|ri|[e]|ta
+historiografia	nome feminino	his|to|ri|o|gra|[fi]|a
+historiográfico	adjetivo	his|to|ri|o|[grá]|fi|co
+historiógrafo	nome masculino	his|to|ri|[ó]|gra|fo
+historíola	nome feminino	his|to|[rí]|o|la
+historiologia	nome feminino	his|to|ri|o|lo|[gi]|a
+historiológico	adjetivo	his|to|ri|o|[ló]|gi|co
+historismo	nome masculino	his|to|[ris]|mo
+historista	adjetivo	his|to|[ris]|ta
+historista	nome masculino	his|to|[ris]|ta
+historista	nome feminino	his|to|[ris]|ta
+historiúncula	nome feminino	his|to|ri|[ún]|cu|la
+historizar	verbo	his|to|ri|[zar]
+histotomia	nome feminino	his|to|to|[mi]|a
+histotômico	adjetivo	his|to|[tô]|mi|co
+histotómico	adjetivo	his|to|[tó]|mi|co
+histotomista	adjetivo	his|to|to|[mis]|ta
+histotomista	nome masculino	his|to|to|[mis]|ta
+histotomista	nome feminino	his|to|to|[mis]|ta
+histótomo	nome masculino	his|[tó]|to|mo
+histótribo	nome masculino	his|[tó]|tri|bo
+histotripsia	nome feminino	his|to|trip|[si]|a
+histotromia	nome feminino	his|to|tro|[mi]|a
+histrião	nome masculino	his|tri|[ão]
+histrícida	nome masculino	his|[trí]|ci|da
+histrícida	nome masculino	his|[trí]|ci|da
+histricídeo	nome masculino	his|tri|[cí]|de|o
+histricídeo	nome masculino	his|tri|[cí]|de|o
+histricídeo	adjetivo	his|tri|[cí]|de|o
+histrionia	nome feminino	his|tri|o|[ni]|a
+histrionicamente	advérbio	his|tri|o|ni|ca|[men]|te
+histrionice	nome feminino	his|tri|o|[ni]|ce
+histriônico	adjetivo	his|tri|[ô]|ni|co
+hidroterapêutico	adjetivo	hi|dro|te|ra|[pêu]|ti|co
+hidroterapia	nome feminino	hi|dro|te|ra|[pi]|a
+hidroterápico	adjetivo	hi|dro|te|[rá]|pi|co
+hidrotermal	adjetivo	hi|dro|ter|[mal]
+hidrotérmico	adjetivo	hi|dro|[tér]|mi|co
+hidrotia	nome feminino	hi|dro|[ti]|a
+hidrótica	nome feminino	hi|[dró]|ti|ca
+hidrótico	adjetivo	hi|[dró]|ti|co
+hidrotimetria	nome feminino	hi|dro|ti|me|[tri]|a
+hidrotimétrico	adjetivo	hi|dro|ti|[mé]|tri|co
+hidrotímetro	nome masculino	hi|dro|[tí]|me|tro
+hidrotipia	nome feminino	hi|dro|ti|[pi]|a
+hidrotípico	adjetivo	hi|dro|[tí]|pi|co
+hidrotomia	nome feminino	hi|dro|to|[mi]|a
+hidrotômico	adjetivo	hi|dro|[tô]|mi|co
+hidrotómico	adjetivo	hi|dro|[tó]|mi|co
+hidrotórax	nome masculino	hi|dro|[tó]|rax
+hidrotrópico	adjetivo	hi|dro|[tró]|pi|co
+hidrotropismo	nome masculino	hi|dro|tro|[pis]|mo
+hidrovia	nome feminino	hi|dro|[vi]|a
+hidroviário	adjetivo	hi|dro|vi|[á]|ri|o
+hidróxido	nome masculino	hi|[dró]|xi|do
+hidroxilamina	nome feminino	hi|dro|xi|la|[mi]|na
+hidroxilião	nome masculino	hi|dro|xi|li|[ão]
+hidroxilo	nome masculino	hi|dro|[xi]|lo
+hidrozincite	nome feminino	hi|dro|zin|[ci]|te
+hidrozoário	nome masculino	hi|dro|zo|[á]|ri|o
+hidrozoário	adjetivo	hi|dro|zo|[á]|ri|o
+hidruntino	adjetivo	hi|drun|[ti]|no
+hidruntino	nome masculino	hi|drun|[ti]|no
+hidrúria	nome feminino	hi|[drú]|ri|a
+hidrúrico	adjetivo	hi|[drú]|ri|co
+hidrúrico	nome masculino	hi|[drú]|ri|co
+hiemação	nome feminino	hi|e|ma|[ção]
+hiemal	adjetivo	hi|e|[mal]
+hiena	nome feminino	hi|[e]|na
+hiénida	nome masculino	hi|[é]|ni|da
+hiênida	nome masculino	hi|[ê]|ni|da
+hienídeo	adjetivo	hi|e|[ní]|de|o
+hienídeo	nome masculino	hi|e|[ní]|de|o
+hienídeo	nome masculino	hi|e|[ní]|de|o
+hierácio	nome masculino	hi|e|[rá]|ci|o
+hieracite	nome feminino	hi|e|ra|[ci]|te
+hierapolitano	adjetivo	hi|e|ra|po|li|[ta]|no
+hierapolitano	nome masculino	hi|e|ra|po|li|[ta]|no
+hierarca	nome masculino	hi|e|[rar]|ca
+hierarquia	nome feminino	hi|e|rar|[qui]|a
+hierarquicamente	advérbio	hi|e|rar|qui|ca|[men]|te
+hierárquico	adjetivo	hi|e|[rár]|qui|co
+hierarquismo	nome masculino	hi|e|rar|[quis]|mo
+hierarquização	nome feminino	hi|e|rar|qui|za|[ção]
+hierarquizado	adjetivo	hi|e|rar|qui|[za]|do
+hierarquizante	adjetivo	hi|e|rar|qui|[zan]|te
+hierarquizar	verbo	hi|e|rar|qui|[zar]
+hierarquizável	adjetivo	hi|e|rar|qui|[zá]|vel
+hierática	nome feminino	hi|e|[rá]|ti|ca
+hieraticamente	advérbio	hi|e|ra|ti|ca|[men]|te
+hierático	adjetivo	hi|e|[rá]|ti|co
+hieratismo	nome masculino	hi|e|ra|[tis]|mo
+hieratizar	verbo	hi|e|ra|ti|[zar]
+hierocracia	nome feminino	hi|e|ro|cra|[ci]|a
+hierodrama	nome masculino	hi|e|ro|[dra]|ma
+hierodramático	adjetivo	hi|e|ro|dra|[má]|ti|co
+hierodulia	nome feminino	hi|e|ro|du|[li]|a
+hierodulo	nome masculino	hi|e|ro|[du]|lo
+hierofanta	nome masculino	hi|e|ro|[fan]|ta
+hierofante	nome masculino	hi|e|ro|[fan]|te
+hierofântico	adjetivo	hi|e|ro|[fân]|ti|co
+hierofântide	nome feminino	hi|e|ro|[fân]|ti|de
+hierogeografia	nome feminino	hi|e|ro|ge|o|gra|[fi]|a
+hieroglífica	nome feminino	hi|e|ro|[glí]|fi|ca
+hieroglífico	adjetivo	hi|e|ro|[glí]|fi|co
+hieróglifo	nome masculino	hi|e|[ró]|gli|fo
+hierografia	nome feminino	hi|e|ro|gra|[fi]|a
+hierográfico	adjetivo	hi|e|ro|[grá]|fi|co
+hierógrafo	nome masculino	hi|e|[ró]|gra|fo
+hierograma	nome masculino	hi|e|ro|[gra]|ma
+hierogramático	adjetivo	hi|e|ro|gra|[má]|ti|co
+hierogramatista	nome masculino	hi|e|ro|gra|ma|[tis]|ta
+hierologia	nome feminino	hi|e|ro|lo|[gi]|a
+hierológico	adjetivo	hi|e|ro|[ló]|gi|co
+hierólogo	nome masculino	hi|e|[ró]|lo|go
+hieromancia	nome feminino	hi|e|ro|man|[ci]|a
+hieromante	nome masculino	hi|e|ro|[man]|te
+hieromante	nome feminino	hi|e|ro|[man]|te
+hieromântico	adjetivo	hi|e|ro|[mân]|ti|co
+hieromnémone	nome masculino	hi|e|rom|[né]|mo|ne
+hieromnêmone	nome masculino	hi|e|rom|[nê]|mo|ne
+hieronica	nome masculino	hi|e|ro|[ni]|ca
+hierônico	adjetivo	hi|e|[rô]|ni|co
+hierónico	adjetivo	hi|e|[ró]|ni|co
+hieronímia	nome feminino	hi|e|ro|[ní]|mi|a
+hieronímico	adjetivo	hi|e|ro|[ní]|mi|co
+hieronimita	nome masculino	hi|e|ro|ni|[mi]|ta
+hieronimita	nome feminino	hi|e|ro|ni|[mi]|ta
+hierônimo	nome masculino	hi|e|[rô]|ni|mo
+hierónimo	nome masculino	hi|e|[ró]|ni|mo
+hieropeu	nome masculino	hi|e|ro|[peu]
+hieroscopia	nome feminino	hi|e|ros|co|[pi]|a
+hieroscópico	adjetivo	hi|e|ros|[có]|pi|co
+hipergenético	adjetivo	hi|per|ge|[né]|ti|co
+hiperginismo	nome masculino	hi|per|gi|[nis]|mo
+hiperglicemia	nome feminino	hi|per|gli|ce|[mi]|a
+hiperglicêmico	adjetivo	hi|per|gli|[cê]|mi|co
+hiperglicémico	adjetivo	hi|per|gli|[cé]|mi|co
+hiperglobulia	nome feminino	hi|per|glo|bu|[li]|a
+hiperglote	nome feminino	hi|per|[glo]|te
+hipericácea	nome feminino	hi|pe|ri|[cá]|ce|a
+hipericáceo	adjetivo	hi|pe|ri|[cá]|ce|o
+hipericão	nome masculino	hi|pe|ri|[cão]
+hipérico	nome masculino	hi|[pé]|ri|co
+hiperidrose	nome feminino	hi|pe|ri|[dro]|se
+hiperinflação	nome feminino	hi|pe|rin|fla|[ção]
+hiperinflacionário	adjetivo	hi|pe|rin|fla|ci|o|[ná]|ri|o
+hiperinose	nome feminino	hi|pe|ri|[no]|se
+hiperintelectualidade	nome feminino	hi|pe|rin|te|lec|tu|a|li|[da]|de
+hiperiodato	nome masculino	hi|pe|ri|o|[da]|to
+hiperiódico	adjetivo	hi|pe|ri|[ó]|di|co
+hiperiônico	adjetivo	hi|pe|ri|[ô]|ni|co
+hiperiónico	adjetivo	hi|pe|ri|[ó]|ni|co
+hiperiônio	adjetivo	hi|pe|ri|[ô]|ni|o
+hiperiónio	adjetivo	hi|pe|ri|[ó]|ni|o
+hiperionismo	nome masculino	hi|pe|ri|o|[nis]|mo
+hiperjônico	adjetivo	hi|per|[jô]|ni|co
+hiperjónico	adjetivo	hi|per|[jó]|ni|co
+hiperjonismo	nome masculino	hi|per|jo|[nis]|mo
+hiperligação	nome feminino	hi|per|li|ga|[ção]
+hiperlinfia	nome feminino	hi|per|lin|[fi]|a
+hiperlínfico	adjetivo	hi|per|[lín]|fi|co
+hiperlipemia	nome feminino	hi|per|li|pe|[mi]|a
+hiperlipêmico	adjetivo	hi|per|li|[pê]|mi|co
+hiperlipémico	adjetivo	hi|per|li|[pé]|mi|co
+hipermastia	nome feminino	hi|per|mas|[ti]|a
+hipermástico	adjetivo	hi|per|[más]|ti|co
+hipermédia	nome masculino	hi|per|[mé]|di|a
+hipermenorreia	nome feminino	hi|per|me|nor|[rei]|a
+hipermercado	nome masculino	hi|per|mer|[ca]|do
+hipermetamorfose	nome feminino	hi|per|me|ta|mor|[fo]|se
+hipermetria	nome feminino	hi|per|me|[tri]|a
+hipermétrico	adjetivo	hi|per|[mé]|tri|co
+hipérmetro	nome masculino	hi|[pér]|me|tro
+hipérmetro	adjetivo	hi|[pér]|me|tro
+hipermetrope	adjetivo	hi|per|me|[tro]|pe
+hipermetrope	nome masculino	hi|per|me|[tro]|pe
+hipermétrope	adjetivo	hi|per|[mé]|tro|pe
+hipermétrope	nome masculino	hi|per|[mé]|tro|pe
+hipermetrope	nome feminino	hi|per|me|[tro]|pe
+hipermetropia	nome feminino	hi|per|me|tro|[pi]|a
+hipermíope	adjetivo	hi|per|[mí]|o|pe
+hipermíope	nome masculino	hi|per|[mí]|o|pe
+hipermíope	nome feminino	hi|per|[mí]|o|pe
+hipermiopia	nome feminino	hi|per|mi|o|[pi]|a
+hipermisticismo	nome masculino	hi|per|mis|ti|[cis]|mo
+hipermístico	adjetivo	hi|per|[mís]|ti|co
+hipermnésia	nome feminino	hi|perm|[né]|si|a
+hipermnesia	nome feminino	hi|perm|ne|[si]|a
+hipermnésico	adjetivo	hi|perm|[né]|si|co
+hipermnéstico	adjetivo	hi|perm|[nés]|ti|co
+hipernefroma	nome masculino	hi|per|ne|[fro]|ma
+hiperneuria	nome feminino	hi|per|neu|[ri]|a
+hiperonímia	nome feminino	hi|pe|ro|[ní]|mi|a
+hiperónimo	nome masculino	hi|pe|[ró]|ni|mo
+hiperônimo	nome masculino	hi|pe|[rô]|ni|mo
+hipérope	adjetivo	hi|[pé]|ro|pe
+hiperope	adjetivo	hi|pe|[ro]|pe
+hiperope	nome masculino	hi|pe|[ro]|pe
+hiperope	nome feminino	hi|pe|[ro]|pe
+hiperopia	nome feminino	hi|pe|ro|[pi]|a
+hiperorexia	nome feminino	hi|pe|ro|re|[xi]|a
+hiperortografismo	nome masculino	hi|pe|ror|to|gra|[fis]|mo
+hiperosmia	nome feminino	hi|pe|ros|[mi]|a
+hiperósmico	adjetivo	hi|pe|[rós]|mi|co
+hiperosteose	nome feminino	hi|pe|ros|te|[o]|se
+hiperóxido	nome masculino	hi|pe|[ró]|xi|do
+hiperpatia	nome masculino	hi|per|pa|[ti]|a
+hiperpepsia	nome feminino	hi|per|pep|[si]|a
+hiperpéptico	adjetivo	hi|per|[pép]|ti|co
+hiperpiese	nome feminino	hi|per|pi|[e]|se
+hiperpigmentado	adjetivo	hi|per|pig|men|[ta]|do
+hiperpirético	adjetivo	hi|per|pi|[ré]|ti|co
+hiperpirético	nome masculino	hi|per|pi|[ré]|ti|co
+hiperpirexia	nome feminino	hi|per|pi|re|[xi]|a
+hiperplasia	nome feminino	hi|per|pla|[si]|a
+hiperplástico	adjetivo	hi|per|[plás]|ti|co
+hiperprodução	nome feminino	hi|per|pro|du|[ção]
+hipersalino	adjetivo	hi|per|sa|[li]|no
+hipersarcoma	nome masculino	hi|per|sar|[co]|ma
+hipersarcose	nome feminino	hi|per|sar|[co]|se
+hipersecreção	nome feminino	hi|per|se|cre|[ção]
+hipersecretor	adjetivo	hi|per|se|cre|[tor]
+hipersecretor	nome masculino	hi|per|se|cre|[tor]
+hipersensibilidade	nome feminino	hi|per|sen|si|bi|li|[da]|de
+hipersensível	adjetivo	hi|per|sen|[sí]|vel
+hipersentimentalidade	nome feminino	hi|per|sen|ti|men|ta|li|[da]|de
+hipersialose	nome feminino	hi|per|si|a|[lo]|se
+hipersistolia	nome feminino	hi|per|sis|to|[li]|a
+hipersistólico	adjetivo	hi|per|sis|[tó]|li|co
+hipersónia	nome feminino	hi|per|[só]|ni|a
+hipersônico	adjetivo	hi|per|[sô]|ni|co
+hipersónico	adjetivo	hi|per|[só]|ni|co
+hemiólio	adjetivo	he|mi|[ó]|li|o
+hemiologia	nome feminino	he|mi|o|lo|[gi]|a
+hemíono	nome masculino	he|[mí]|o|no
+hemiope	adjetivo	he|mi|[o]|pe
+hemiope	nome masculino	he|mi|[o]|pe
+hemiope	nome feminino	he|mi|[o]|pe
+hemiopia	nome feminino	he|mi|o|[pi]|a
+hemiortodoma	nome masculino	he|mi|or|to|[do]|ma
+hemípago	adjetivo	he|[mí]|pa|go
+hemípago	nome masculino	he|[mí]|pa|go
+hemiparesia	nome feminino	he|mi|pa|re|[si]|a
+hemipirâmide	nome feminino	he|mi|pi|[râ]|mi|de
+hemiplegia	nome feminino	he|mi|ple|[gi]|a
+hemiplégica	nome feminino	he|mi|[plé]|gi|ca
+hemiplégico	nome masculino	he|mi|[plé]|gi|co
+hemiplégico	adjetivo	he|mi|[plé]|gi|co
+hemiplexia	nome feminino	he|mi|ple|[xi]|a
+hemiprisma	nome masculino	he|mi|[pris]|ma
+hemiprismático	adjetivo	he|mi|pris|[má]|ti|co
+hemíptero	nome masculino	he|[míp]|te|ro
+hemíptero	adjetivo	he|[míp]|te|ro
+hemisférico	adjetivo	he|mis|[fé]|ri|co
+hemisfério	nome masculino	he|mis|[fé]|ri|o
+hemisferoédrico	adjetivo	he|mis|fe|ro|[é]|dri|co
+hemisferoidal	adjetivo	he|mis|fe|roi|[dal]
+hemisferoide	adjetivo	he|mis|fe|[roi]|de
+hemisferoide	nome masculino	he|mis|fe|[roi]|de
+hemispasmo	nome masculino	he|mis|[pas]|mo
+hemispério	nome masculino	he|mis|[pé]|ri|o
+hemissalamandra	nome feminino	he|mis|sa|la|[man]|dra
+hemissistolia	nome feminino	he|mis|sis|to|[li]|a
+hemissistólico	adjetivo	he|mis|sis|[tó]|li|co
+hemistíquio	nome masculino	he|mis|[tí]|qui|o
+hemitermia	nome feminino	he|mi|ter|[mi]|a
+hemitérmico	adjetivo	he|mi|[tér]|mi|co
+hemítomo	adjetivo	he|[mí]|to|mo
+hemitriteia	nome feminino	he|mi|tri|[tei]|a
+hemitropia	nome feminino	he|mi|tro|[pi]|a
+hemitrópico	adjetivo	he|mi|[tró]|pi|co
+hemítropo	adjetivo	he|[mí]|tro|po
+hemoaglutinação	nome feminino	he|mo|a|glu|ti|na|[ção]
+hemocianina	nome feminino	he|mo|ci|a|[ni]|na
+hemocitometria	nome feminino	he|mo|ci|to|me|[tri]|a
+hemocitómetro	nome masculino	he|mo|ci|[tó]|me|tro
+hemocitômetro	nome masculino	he|mo|ci|[tô]|me|tro
+hemoclasia	nome feminino	he|mo|cla|[si]|a
+hemoclástico	adjetivo	he|mo|[clás]|ti|co
+hemoconcentração	nome feminino	he|mo|con|cen|tra|[ção]
+hemocrinia	nome feminino	he|mo|cri|[ni]|a
+hemocromatose	nome feminino	he|mo|cro|ma|[to]|se
+hemocromatósico	adjetivo	he|mo|cro|ma|[tó]|si|co
+hemocultura	nome feminino	he|mo|cul|[tu]|ra
+hemodiagnóstico	nome masculino	he|mo|di|ag|[nós]|ti|co
+hemodialisada	nome feminino	he|mo|di|a|li|[sa]|da
+hemodialisado	adjetivo	he|mo|di|a|li|[sa]|do
+hemodialisado	nome masculino	he|mo|di|a|li|[sa]|do
+hemodialisador	nome masculino	he|mo|di|a|li|sa|[dor]
+hemodialisar	verbo	he|mo|di|a|li|[sar]
+hemodiálise	nome feminino	he|mo|di|[á]|li|se
+hemodiluição	nome feminino	he|mo|di|lu|i|[ção]
+hemodinâmica	nome feminino	he|mo|di|[nâ]|mi|ca
+hemodinâmico	adjetivo	he|mo|di|[nâ]|mi|co
+hemodinamometria	nome feminino	he|mo|di|na|mo|me|[tri]|a
+hemodinamométrico	adjetivo	he|mo|di|na|mo|[mé]|tri|co
+hemodinamômetro	nome masculino	he|mo|di|na|[mô]|me|tro
+hemodinamómetro	nome masculino	he|mo|di|na|[mó]|me|tro
+hemofilia	nome feminino	he|mo|fi|[li]|a
+hemofílico	nome masculino	he|mo|[fí]|li|co
+hemofílico	adjetivo	he|mo|[fí]|li|co
+hemoflagelado	nome masculino	he|mo|fla|ge|[la]|do
+hemoflagelado	adjetivo	he|mo|fla|ge|[la]|do
+hemofobia	nome feminino	he|mo|fo|[bi]|a
+hemoftalmia	nome feminino	he|mof|tal|[mi]|a
+hemoftalmo	nome masculino	he|mof|[tal]|mo
+hemoglobina	nome feminino	he|mo|glo|[bi]|na
+hemoglobinômetro	nome masculino	he|mo|glo|bi|[nô]|me|tro
+hemoglobinómetro	nome masculino	he|mo|glo|bi|[nó]|me|tro
+hemoglobinopatia	nome feminino	he|mo|glo|bi|no|pa|[ti]|a
+hemoglobinúria	nome feminino	he|mo|glo|bi|[nú]|ri|a
+hemoglobinúrico	adjetivo	he|mo|glo|bi|[nú]|ri|co
+hemograma	nome masculino	he|mo|[gra]|ma
+hemoide	adjetivo	he|[moi]|de
+hemolinfa	nome feminino	he|mo|[lin]|fa
+hemólise	nome feminino	he|[mó]|li|se
+hemolisina	nome feminino	he|mo|li|[si]|na
+hemolítico	adjetivo	he|mo|[lí]|ti|co
+hemométrico	adjetivo	he|mo|[mé]|tri|co
+hemômetro	nome masculino	he|[mô]|me|tro
+hemómetro	nome masculino	he|[mó]|me|tro
+hemônio	nome masculino	he|[mô]|ni|o
+hemônio	adjetivo	he|[mô]|ni|o
+hemónio	adjetivo	he|[mó]|ni|o
+hemónio	nome masculino	he|[mó]|ni|o
+hemopatia	nome feminino	he|mo|pa|[ti]|a
+hemopático	adjetivo	he|mo|[pá]|ti|co
+hemopatologia	nome feminino	he|mo|pa|to|lo|[gi]|a
+hemopatológico	adjetivo	he|mo|pa|to|[ló]|gi|co
+hemopericárdio	nome masculino	he|mo|pe|ri|[cár]|di|o
+hemoperitoneu	nome masculino	he|mo|pe|ri|to|[neu]
+hemoperitônio	nome masculino	he|mo|pe|ri|[tô]|ni|o
+hipoxia	nome feminino	hi|po|[xi]|a
+hipoxídea	nome feminino	hi|po|[xí]|de|a
+hipóxido	nome masculino	hi|[pó]|xi|do
+hipoxílea	nome feminino	hi|po|[xí]|le|a
+hipozeugma	nome masculino	hi|po|[zeug]|ma
+hipozoico	adjetivo	hi|po|[zoi]|co
+hippie	nome masculino	hip|pie
+hippie	adjetivo	hip|pie
+hippie	nome feminino	hip|pie
+hippy	nome masculino	[hip]|py
+hipsalta	adjetivo	hip|[sal]|ta
+hipsalta	nome masculino	hip|[sal]|ta
+hipsalta	nome feminino	hip|[sal]|ta
+hipsobatimetria	nome feminino	hip|so|ba|ti|me|[tri]|a
+hipsobatimétrico	adjetivo	hip|so|ba|ti|[mé]|tri|co
+hipsocefalia	nome feminino	hip|so|ce|fa|[li]|a
+hipsocéfalo	adjetivo	hip|so|[cé]|fa|lo
+hipsografia	nome feminino	hip|so|gra|[fi]|a
+hipsográfico	adjetivo	hip|so|[grá]|fi|co
+hipsometria	nome feminino	hip|so|me|[tri]|a
+hipsométrico	adjetivo	hip|so|[mé]|tri|co
+hipsômetro	nome masculino	hip|[sô]|me|tro
+hipsómetro	nome masculino	hip|[só]|me|tro
+hipural	nome masculino	hi|pu|[ral]
+hipurato	nome masculino	hi|pu|[ra]|to
+hipúria	nome feminino	hi|[pú]|ri|a
+hipúrico	adjetivo	hi|[pú]|ri|co
+hipurina	nome feminino	hi|pu|[ri]|na
+hipurita	nome masculino	hi|pu|[ri]|ta
+hirara	nome feminino	hi|[ra]|ra
+hirarana	nome feminino	hi|ra|[ra]|na
+hircânio	adjetivo	hir|[câ]|ni|o
+hircano	adjetivo	hir|[ca]|no
+hircano	nome masculino	hir|[ca]|no
+hircina	nome feminino	hir|[ci]|na
+hircino	adjetivo	hir|[ci]|no
+hircismo	nome masculino	hir|[cis]|mo
+hirco	nome masculino	[hir]|co
+hircoso	adjetivo	hir|[co]|so
+hirculação	nome feminino	hir|cu|la|[ção]
+hírculo	nome masculino	[hír]|cu|lo
+hiriertermia	nome feminino	hi|ri|er|ter|[mi]|a
+hirino	adjetivo	hi|[ri]|no
+hirino	nome masculino	hi|[ri]|no
+hirirá	nome masculino	hi|ri|[rá]
+hirmo	nome masculino	[hir]|mo
+hirpino	adjetivo	hir|[pi]|no
+hirpino	nome masculino	hir|[pi]|no
+hirpo	adjetivo	[hir]|po
+hirpo	nome masculino	[hir]|po
+hirsutez	nome feminino	hir|su|[tez]
+hirsutismo	nome masculino	hir|su|[tis]|mo
+hirsuto	adjetivo	hir|[su]|to
+hirtamente	advérbio	hir|ta|[men]|te
+hirtar	verbo	hir|[tar]
+hirteza	nome feminino	hir|[te]|za
+hirtímano	adjetivo	hir|[tí]|ma|no
+hirto	adjetivo	[hir]|to
+hirudina	nome feminino	hi|ru|[di]|na
+hirudíneo	nome masculino	hi|ru|[dí]|ne|o
+hirudíneo	adjetivo	hi|ru|[dí]|ne|o
+hirudinicultor	nome masculino	hi|ru|di|ni|cul|[tor]
+hirudinicultura	nome feminino	hi|ru|di|ni|cul|[tu]|ra
+hirundínida	nome masculino	hi|run|[dí]|ni|da
+hirundínida	nome masculino	hi|run|[dí]|ni|da
+hirundinídeo	nome masculino	hi|run|di|[ní]|de|o
+hirundinídeo	adjetivo	hi|run|di|[ní]|de|o
+hirundinídeo	nome masculino	hi|run|di|[ní]|de|o
+hirundino	adjetivo	hi|run|[di]|no
+hispalense	nome masculino	his|pa|[len]|se
+hispalense	adjetivo	his|pa|[len]|se
+hispalense	nome feminino	his|pa|[len]|se
+hispálico	adjetivo	his|[pá]|li|co
+hispana	nome feminino	his|[pa]|na
+hispanicamente	advérbio	his|pa|ni|ca|[men]|te
+hispânico	adjetivo	his|[pâ]|ni|co
+hispânico	nome masculino	his|[pâ]|ni|co
+hispanidade	nome feminino	his|pa|ni|[da]|de
+hispaniense	adjetivo	his|pa|ni|[en]|se
+hispaniense	nome masculino	his|pa|ni|[en]|se
+hispaniense	nome feminino	his|pa|ni|[en]|se
+hispanificação	nome feminino	his|pa|ni|fi|ca|[ção]
+hispanificar	verbo	his|pa|ni|fi|[car]
+hispanismo	nome masculino	his|pa|[nis]|mo
+hispanista	adjetivo	his|pa|[nis]|ta
+hispanista	nome masculino	his|pa|[nis]|ta
+hispanista	nome feminino	his|pa|[nis]|ta
+hispanístico	adjetivo	his|pa|[nís]|ti|co
+hispanizado	adjetivo	his|pa|ni|[za]|do
+hispanizante	adjetivo	his|pa|ni|[zan]|te
+hispanizante	nome masculino	his|pa|ni|[zan]|te
+hispanizante	nome feminino	his|pa|ni|[zan]|te
+hispanizar	verbo	his|pa|ni|[zar]
+hispano	adjetivo	his|[pa]|no
+hispano	nome masculino	his|[pa]|no
+hispano-americana	nome feminino	his|pa|no-a|me|ri|[ca]|na
+hispano-americano	adjetivo	his|pa|no-a|me|ri|[ca]|no
+hispano-americano	nome masculino	his|pa|no-a|me|ri|[ca]|no
+hispano-árabe	adjetivo	his|pa|no-á|ra|be
+hispano-árabe	nome masculino	his|pa|no-á|ra|be
+homicídio	nome masculino	ho|mi|[cí]|di|o
+homilética	nome feminino	ho|mi|[lé]|ti|ca
+homilético	adjetivo	ho|mi|[lé]|ti|co
+homília	nome feminino	ho|[mí]|li|a
+homilia	nome feminino	ho|mi|[li]|a
+homiliar	verbo	ho|mi|li|[ar]
+homiliário	nome masculino	ho|mi|li|[á]|ri|o
+homiliasta	nome masculino	ho|mi|li|[as]|ta
+homiliasta	nome feminino	ho|mi|li|[as]|ta
+hominal	adjetivo	ho|mi|[nal]
+hominalidade	nome feminino	ho|mi|na|li|[da]|de
+hominícola	nome masculino	ho|mi|[ní]|co|la
+hominícola	nome feminino	ho|mi|[ní]|co|la
+hominicultura	nome feminino	ho|mi|ni|cul|[tu]|ra
+homínida	nome masculino	ho|[mí]|ni|da
+hominídeo	nome masculino	ho|mi|[ní]|de|o
+hominídeo	adjetivo	ho|mi|[ní]|de|o
+hominídeo	nome masculino	ho|mi|[ní]|de|o
+hominívoro	adjetivo	ho|mi|[ní]|vo|ro
+hominização	nome feminino	ho|mi|ni|za|[ção]
+hominizada	nome feminino	ho|mi|ni|[za]|da
+hominizado	adjetivo	ho|mi|ni|[za]|do
+hominizado	nome masculino	ho|mi|ni|[za]|do
+hominizar	verbo	ho|mi|ni|[zar]
+homiziação	nome feminino	ho|mi|zi|a|[ção]
+homiziado	adjetivo	ho|mi|zi|[a]|do
+homiziado	nome masculino	ho|mi|zi|[a]|do
+homiziar	verbo	ho|mi|zi|[ar]
+homizio	nome masculino	ho|mi|[zi]|o
+homo	nome masculino	[ho]|mo
+homocatalexia	nome feminino	ho|mo|ca|ta|le|[xi]|a
+homocentricamente	advérbio	ho|mo|cen|tri|ca|[men]|te
+homocentricidade	nome feminino	ho|mo|cen|tri|ci|[da]|de
+homocêntrico	adjetivo	ho|mo|[cên]|tri|co
+homocentro	nome masculino	ho|mo|[cen]|tro
+homocerco	adjetivo	ho|mo|[cer]|co
+homocíclico	adjetivo	ho|mo|[cí]|cli|co
+homocidário	adjetivo	ho|mo|ci|[dá]|ri|o
+homocromia	nome feminino	ho|mo|cro|[mi]|a
+homocromo	adjetivo	ho|mo|[cro]|mo
+homocrônico	adjetivo	ho|mo|[crô]|ni|co
+homocrónico	adjetivo	ho|mo|[cró]|ni|co
+homócrono	adjetivo	ho|[mó]|cro|no
+homodermo	adjetivo	ho|mo|[der]|mo
+homodermo	nome masculino	ho|mo|[der]|mo
+homodésmico	adjetivo	ho|mo|[dés]|mi|co
+homodinamia	nome feminino	ho|mo|di|na|[mi]|a
+homodinâmico	adjetivo	ho|mo|di|[nâ]|mi|co
+homodonte	adjetivo	ho|mo|[don]|te
+homódromo	adjetivo	ho|[mó]|dro|mo
+homoerótico	nome masculino	ho|mo|e|[ró]|ti|co
+homoerótico	adjetivo	ho|mo|e|[ró]|ti|co
+homofilia	nome feminino	ho|mo|fi|[li]|a
+homofílico	adjetivo	ho|mo|[fí]|li|co
+homofilo	adjetivo	ho|mo|[fi]|lo
+homofobia	nome feminino	ho|mo|fo|[bi]|a
+homofóbico	adjetivo	ho|mo|[fó]|bi|co
+homófobo	nome masculino	ho|[mó]|fo|bo
+homofocal	adjetivo	ho|mo|fo|[cal]
+homofocalidade	nome feminino	ho|mo|fo|ca|li|[da]|de
+homofonamente	advérbio	ho|mo|fo|na|[men]|te
+homofonia	nome feminino	ho|mo|fo|[ni]|a
+homofonicamente	advérbio	ho|mo|fo|ni|ca|[men]|te
+homofônico	adjetivo	ho|mo|[fô]|ni|co
+homofónico	adjetivo	ho|mo|[fó]|ni|co
+homofonismo	nome masculino	ho|mo|fo|[nis]|mo
+homófono	adjetivo	ho|[mó]|fo|no
+homófono	nome masculino	ho|[mó]|fo|no
+homofonógrafo	adjetivo	ho|mo|fo|[nó]|gra|fo
+homofonógrafo	nome masculino	ho|mo|fo|[nó]|gra|fo
+homofonologia	nome feminino	ho|mo|fo|no|lo|[gi]|a
+homofonológico	adjetivo	ho|mo|fo|no|[ló]|gi|co
+homogamia	nome feminino	ho|mo|ga|[mi]|a
+homogâmico	adjetivo	ho|mo|[gâ]|mi|co
+homógamo	adjetivo	ho|[mó]|ga|mo
+homogeneamente	advérbio	ho|mo|ge|ne|a|[men]|te
+homogeneidade	nome feminino	ho|mo|ge|nei|[da]|de
+homogeneização	nome feminino	ho|mo|ge|nei|za|[ção]
+homogeneizado	adjetivo	ho|mo|ge|nei|[za]|do
+homogeneizador	nome masculino	ho|mo|ge|nei|za|[dor]
+homogeneizador	adjetivo	ho|mo|ge|nei|za|[dor]
+homogeneizadora	nome feminino	ho|mo|ge|nei|za|[do]|ra
+homogeneizante	adjetivo	ho|mo|ge|nei|[zan]|te
+homogeneizar	verbo	ho|mo|ge|nei|[zar]
+homogéneo	adjetivo	ho|mo|[gé]|ne|o
+homogêneo	adjetivo	ho|mo|[gê]|ne|o
+homogenesia	nome feminino	ho|mo|ge|ne|[si]|a
+homogenésico	adjetivo	ho|mo|ge|[né]|si|co
+homogenético	adjetivo	ho|mo|ge|[né]|ti|co
+homogenia	nome feminino	ho|mo|ge|[ni]|a
+homogénico	adjetivo	ho|mo|[gé]|ni|co
+homogênico	adjetivo	ho|mo|[gê]|ni|co
+homografia	nome feminino	ho|mo|gra|[fi]|a
+homograficamente	advérbio	ho|mo|gra|fi|ca|[men]|te
+homográfico	adjetivo	ho|mo|[grá]|fi|co
+homógrafo	adjetivo	ho|[mó]|gra|fo
+homógrafo	nome masculino	ho|[mó]|gra|fo
+homoide	adjetivo	ho|[moi]|de
+homolateral	adjetivo	ho|mo|la|te|[ral]
+homolecítico	adjetivo	ho|mo|le|[cí]|ti|co
+homolítico	adjetivo	ho|mo|[lí]|ti|co
+homologação	nome feminino	ho|mo|lo|ga|[ção]
+homologado	adjetivo	ho|mo|lo|[ga]|do
+homologar	verbo	ho|mo|lo|[gar]
+homologativo	adjetivo	ho|mo|lo|ga|[ti]|vo
+homologatório	adjetivo	ho|mo|lo|ga|[tó]|ri|o
+homologável	adjetivo	ho|mo|lo|[gá]|vel
+homologia	nome feminino	ho|mo|lo|[gi]|a
+homológico	adjetivo	ho|mo|[ló]|gi|co
+homólogo	adjetivo	ho|[mó]|lo|go
+homomeria	nome feminino	ho|mo|me|[ri]|a
+homomerologia	nome feminino	ho|mo|me|ro|lo|[gi]|a
+homomerológico	adjetivo	ho|mo|me|ro|[ló]|gi|co
+homométrico	adjetivo	ho|mo|[mé]|tri|co
+homomorfismo	nome masculino	ho|mo|mor|[fis]|mo
+homomorfo	adjetivo	ho|mo|[mor]|fo
+homonadense	adjetivo	ho|mo|na|[den]|se
+homonadense	nome masculino	ho|mo|na|[den]|se
+homonadense	nome feminino	ho|mo|na|[den]|se
+homonimamente	advérbio	ho|mo|ni|ma|[men]|te
+homonímia	nome feminino	ho|mo|[ní]|mi|a
+homonimicamente	advérbio	ho|mo|ni|mi|ca|[men]|te
+homonímico	adjetivo	ho|mo|[ní]|mi|co
+homônimo	adjetivo	ho|[mô]|ni|mo
+homônimo	nome masculino	ho|[mô]|ni|mo
+homónimo	adjetivo	ho|[mó]|ni|mo
+homónimo	nome masculino	ho|[mó]|ni|mo
+homonomia	nome feminino	ho|mo|no|[mi]|a
+homonómico	adjetivo	ho|mo|[nó]|mi|co
+homonômico	adjetivo	ho|mo|[nô]|mi|co
+homônomo	adjetivo	ho|[mô]|no|mo
+homónomo	adjetivo	ho|[mó]|no|mo
+homonuclear	adjetivo	ho|mo|nu|cle|[ar]
+homopétalo	adjetivo	ho|mo|[pé]|ta|lo
+homoplasia	nome feminino	ho|mo|pla|[si]|a
+homoplástico	adjetivo	ho|mo|[plás]|ti|co
+homópode	adjetivo	ho|[mó]|po|de
+homópode	nome masculino	ho|[mó]|po|de
+homopolar	adjetivo	ho|mo|po|[lar]
+homóptero	nome masculino	ho|[móp]|te|ro
+homóptero	adjetivo	ho|[móp]|te|ro
+homoptoto	adjetivo	ho|mop|[to]|to
+homoptoto	nome masculino	ho|mop|[to]|to
+homoptóton	adjetivo	ho|mop|[tó]|ton
+homoptóton	nome masculino	ho|mop|[tó]|ton
+homorgânico	adjetivo	ho|mor|[gâ]|ni|co
+homose	nome feminino	ho|[mo]|se
+homosfera	nome feminino	ho|mos|[fe]|ra
+homossexual	nome masculino	ho|mos|se|xu|[al]
+homossexual	adjetivo	ho|mos|se|xu|[al]
+homossexual	nome feminino	ho|mos|se|xu|[al]
+homossexualidade	nome feminino	ho|mos|se|xu|a|li|[da]|de
+homossexualismo	nome masculino	ho|mos|se|xu|a|[lis]|mo
+homotálico	adjetivo	ho|mo|[tá]|li|co
+homotalismo	nome masculino	ho|mo|ta|[lis]|mo
+homotaxia	nome feminino	ho|mo|ta|[xi]|a
+homotermal	adjetivo	ho|mo|ter|[mal]
+homotérmico	adjetivo	ho|mo|[tér]|mi|co
+homotermo	adjetivo	ho|mo|[ter]|mo
+homotesia	nome feminino	ho|mo|te|[si]|a
+homotetia	nome feminino	ho|mo|te|[ti]|a
+homotético	adjetivo	ho|mo|[té]|ti|co
+homotipia	nome feminino	ho|mo|ti|[pi]|a
+homotípico	adjetivo	ho|mo|[tí]|pi|co
+homótipo	adjetivo	ho|[mó]|ti|po
+homótipo	nome masculino	ho|[mó]|ti|po
+homótono	adjetivo	ho|[mó]|to|no
+homotópico	adjetivo	ho|mo|[tó]|pi|co
+homotropia	nome feminino	ho|mo|tro|[pi]|a
+homotrópico	adjetivo	ho|mo|[tró]|pi|co
+homótropo	adjetivo	ho|[mó]|tro|po
+homovalve	adjetivo	ho|mo|[val]|ve
+homozigótico	adjetivo	ho|mo|zi|[gó]|ti|co
+homozigoto	nome masculino	ho|mo|zi|[go]|to
+homum	nome masculino	ho|[mum]
+homuncular	adjetivo	ho|mun|cu|[lar]
+homúnculo	nome masculino	ho|[mún]|cu|lo
+hondurenha	nome feminino	hon|du|[re]|nha
+hondurenho	adjetivo	hon|du|[re]|nho
+hondurenho	nome masculino	hon|du|[re]|nho
+honesta	nome feminino	ho|[nes]|ta
+honestador	adjetivo	ho|nes|ta|[dor]
+honestador	nome masculino	ho|nes|ta|[dor]
+honestamente	advérbio	ho|nes|ta|[men]|te
+honestar	verbo	ho|nes|[tar]
+honestidade	nome feminino	ho|nes|ti|[da]|de
+honestíssimo	adjetivo	ho|nes|[tís]|si|mo
+honestizar	verbo	ho|nes|ti|[zar]
+honesto	adjetivo	ho|[nes]|to
+honesto	nome masculino	ho|[nes]|to
+honga	nome feminino	[hon]|ga
+honor	nome masculino	ho|[nor]
+honorabilidade	nome feminino	ho|no|ra|bi|li|[da]|de
+honorar	verbo	ho|no|[rar]
+honorariamente	advérbio	ho|no|ra|ri|a|[men]|te
+honorário	nome masculino	ho|no|[rá]|ri|o
+honorário	adjetivo	ho|no|[rá]|ri|o
+honorários	nome masculino	ho|no|[rá]|ri|os
+honorável	adjetivo	ho|no|[rá]|vel
+honorificado	adjetivo	ho|no|ri|fi|[ca]|do
+holópode	adjetivo	ho|[ló]|po|de
+holósido	nome masculino	ho|[ló]|si|do
+holósteo	adjetivo	ho|[lós]|te|o
+holóstomo	nome masculino	ho|[lós]|to|mo
+holótipo	nome masculino	ho|[ló]|ti|po
+holotomia	nome feminino	ho|lo|to|[mi]|a
+holotômico	adjetivo	ho|lo|[tô]|mi|co
+holotómico	adjetivo	ho|lo|[tó]|mi|co
+holotônico	adjetivo	ho|lo|[tô]|ni|co
+holotónico	adjetivo	ho|lo|[tó]|ni|co
+holótrico	adjetivo	ho|[ló]|tri|co
+holótrico	nome masculino	ho|[ló]|tri|co
+holotúria	nome feminino	ho|lo|[tú]|ri|a
+holoturídeo	nome masculino	ho|lo|tu|[rí]|de|o
+holoturioide	adjetivo	ho|lo|tu|ri|[oi]|de
+holoturioide	nome masculino	ho|lo|tu|ri|[oi]|de
+holozoico	adjetivo	ho|lo|[zoi]|co
+holozoico	nome masculino	ho|lo|[zoi]|co
+homalocéfalo	nome masculino	ho|ma|lo|[cé]|fa|lo
+homalofilo	adjetivo	ho|ma|lo|[fi]|lo
+homalográfico	adjetivo	ho|ma|lo|[grá]|fi|co
+homalógrafo	nome masculino	ho|ma|[ló]|gra|fo
+homaloidal	adjetivo	ho|ma|loi|[dal]
+homaloide	adjetivo	ho|ma|[loi]|de
+homalópode	adjetivo	ho|ma|[ló]|po|de
+homalópode	nome masculino	ho|ma|[ló]|po|de
+homalóptero	nome masculino	ho|ma|[lóp]|te|ro
+homana	nome masculino	ho|[ma]|na
+homba	nome feminino	[hom]|ba
+hombo	nome masculino	[hom]|bo
+hombridade	nome feminino	hom|bri|[da]|de
+homem	nome masculino	[ho]|mem
+homem	interjeição	[ho]|mem
+homem-bom	nome masculino	ho|mem-bom
+homem-galinha	nome masculino	ho|mem-ga|[li]|nha
+homem-hora	nome masculino	ho|mem-ho|ra
+homem-máquina	nome masculino	ho|mem-má|qui|na
+homem-rã	nome masculino	ho|mem-rã
+homenageada	nome feminino	ho|me|na|ge|[a]|da
+homenageado	adjetivo	ho|me|na|ge|[a]|do
+homenageado	nome masculino	ho|me|na|ge|[a]|do
+homenageador	adjetivo	ho|me|na|ge|a|[dor]
+homenageador	nome masculino	ho|me|na|ge|a|[dor]
+homenageante	adjetivo	ho|me|na|ge|[an]|te
+homenageante	nome masculino	ho|me|na|ge|[an]|te
+homenageante	nome feminino	ho|me|na|ge|[an]|te
+homenagear	verbo	ho|me|na|ge|[ar]
+homenagem	nome feminino	ho|me|[na]|gem
+homenzarrão	nome masculino	ho|men|zar|[rão]
+homenzinho	nome masculino	ho|men|[zi]|nho
+homeocataléctico	adjetivo	ho|me|o|ca|ta|[léc]|ti|co
+homeocatalecto	nome masculino	ho|me|o|ca|ta|[lec]|to
+homeocatalético	adjetivo	ho|me|o|ca|ta|[lé]|ti|co
+homeocataleto	nome masculino	ho|me|o|ca|ta|[le]|to
+homeocatalexia	nome feminino	ho|me|o|ca|ta|le|[xi]|a
+homeografia	nome feminino	ho|me|o|gra|[fi]|a
+homeográfico	adjetivo	ho|me|o|[grá]|fi|co
+homeógrafo	nome masculino	ho|me|[ó]|gra|fo
+homeómere	adjetivo	ho|me|[ó]|me|re
+homeomeria	nome feminino	ho|me|o|me|[ri]|a
+homeômero	adjetivo	ho|me|[ô]|me|ro
+homeómero	adjetivo	ho|me|[ó]|me|ro
+homeomerologia	nome feminino	ho|me|o|me|ro|lo|[gi]|a
+homeomerológico	adjetivo	ho|me|o|me|ro|[ló]|gi|co
+homeomorfismo	nome masculino	ho|me|o|mor|[fis]|mo
+homeomorfo	adjetivo	ho|me|o|[mor]|fo
+homeopata	nome masculino	ho|me|o|[pa]|ta
+homeopata	nome feminino	ho|me|o|[pa]|ta
+homeopatia	nome feminino	ho|me|o|pa|[ti]|a
+homeopático	adjetivo	ho|me|o|[pá]|ti|co
+homeoptoto	nome masculino	ho|me|op|[to]|to
+homeoptoto	adjetivo	ho|me|op|[to]|to
+homeoptóton	adjetivo	ho|me|op|[tó]|ton
+homeoptóton	nome masculino	ho|me|op|[tó]|ton
+homeose	nome feminino	ho|me|[o]|se
+homeostasia	nome feminino	ho|me|os|ta|[si]|a
+homeostático	adjetivo	ho|me|os|[tá]|ti|co
+homeoteleuto	nome masculino	ho|me|o|te|[leu]|to
+homeotelêuton	nome masculino	ho|me|o|te|[lêu]|ton
+homeotermia	nome feminino	ho|me|o|ter|[mi]|a
+homeotérmico	adjetivo	ho|me|o|[tér]|mi|co
+homeotermo	adjetivo	ho|me|o|[ter]|mo
+homeotropia	nome feminino	ho|me|o|tro|[pi]|a
+homeotrópico	adjetivo	ho|me|o|[tró]|pi|co
+homeótropo	adjetivo	ho|me|[ó]|tro|po
+homeozigia	nome feminino	ho|me|o|zi|[gi]|a
+homeozoico	adjetivo	ho|me|o|[zoi]|co
+homericamente	advérbio	ho|me|ri|ca|[men]|te
+homericidade	nome feminino	ho|me|ri|ci|[da]|de
+homericismo	nome masculino	ho|me|ri|[cis]|mo
+homérico	adjetivo	ho|[mé]|ri|co
+homérico	nome masculino	ho|[mé]|ri|co
+homérida	nome masculino	ho|[mé]|ri|da
+homerismo	nome masculino	ho|me|[ris]|mo
+homerização	nome feminino	ho|me|ri|za|[ção]
+homerizar	verbo	ho|me|ri|[zar]
+homessa	interjeição	ho|[mes]|sa
+homicida	adjetivo	ho|mi|[ci]|da
+homicida	nome masculino	ho|mi|[ci]|da
+homicida	nome feminino	ho|mi|[ci]|da
+hematopoiético	adjetivo	he|ma|to|poi|[é]|ti|co
+hematosado	adjetivo	he|ma|to|[sa]|do
+hematosar	verbo	he|ma|to|[sar]
+hematoscopia	nome feminino	he|ma|tos|co|[pi]|a
+hematoscópico	adjetivo	he|ma|tos|[có]|pi|co
+hematoscópio	nome masculino	he|ma|tos|[có]|pi|o
+hematose	nome feminino	he|ma|[to]|se
+hematosina	nome feminino	he|ma|to|[si]|na
+hematospermia	nome feminino	he|ma|tos|per|[mi]|a
+hematospérmico	adjetivo	he|ma|tos|[pér]|mi|co
+hematossepsia	nome feminino	he|ma|tos|sep|[si]|a
+hematosséptico	adjetivo	he|ma|tos|[sép]|ti|co
+hematossético	adjetivo	he|ma|tos|[sé]|ti|co
+hematoxilina	nome feminino	he|ma|to|xi|[li]|na
+hematóxilo	nome masculino	he|ma|[tó]|xi|lo
+hematozoário	adjetivo	he|ma|to|zo|[á]|ri|o
+hematozoário	nome masculino	he|ma|to|zo|[á]|ri|o
+hematúria	nome feminino	he|ma|[tú]|ri|a
+hematúrico	adjetivo	he|ma|[tú]|ri|co
+hematúrico	nome masculino	he|ma|[tú]|ri|co
+hemera	nome feminino	he|[me]|ra
+hemeralope	adjetivo	he|me|ra|[lo]|pe
+hemeralope	nome masculino	he|me|ra|[lo]|pe
+hemeralope	nome feminino	he|me|ra|[lo]|pe
+hemeralopia	nome feminino	he|me|ra|lo|[pi]|a
+hemeralópico	nome masculino	he|me|ra|[ló]|pi|co
+hemeralópico	adjetivo	he|me|ra|[ló]|pi|co
+hemeranopsia	nome feminino	he|me|ra|nop|[si]|a
+hemerobibliografia	nome feminino	he|me|ro|bi|bli|o|gra|[fi]|a
+hemerobibliográfico	adjetivo	he|me|ro|bi|bli|o|[grá]|fi|co
+hemeróbio	nome masculino	he|me|[ró]|bi|o
+hemerocales	nome masculino	he|me|ro|[ca]|les
+hemerocalídea	nome feminino	he|me|ro|ca|[lí]|de|a
+hemeródromo	nome masculino	he|me|[ró]|dro|mo
+hemerografia	nome feminino	he|me|ro|gra|[fi]|a
+hemerográfico	adjetivo	he|me|ro|[grá]|fi|co
+hemerologia	nome feminino	he|me|ro|lo|[gi]|a
+hemerológico	adjetivo	he|me|ro|[ló]|gi|co
+hemerológio	nome masculino	he|me|ro|[ló]|gi|o
+hemerólogo	nome masculino	he|me|[ró]|lo|go
+hemeropata	nome masculino	he|me|ro|[pa]|ta
+hemeropata	nome feminino	he|me|ro|[pa]|ta
+hemeropatia	nome feminino	he|me|ro|pa|[ti]|a
+hemeropático	adjetivo	he|me|ro|[pá]|ti|co
+hemeroteca	nome feminino	he|me|ro|[te]|ca
+hemiacefalia	nome feminino	he|mi|a|ce|fa|[li]|a
+hemiacéfalo	adjetivo	he|mi|a|[cé]|fa|lo
+hemiacéfalo	nome masculino	he|mi|a|[cé]|fa|lo
+hemiagnosia	nome feminino	he|mi|ag|no|[si]|a
+hemialgia	nome feminino	he|mi|al|[gi]|a
+hemiálgico	adjetivo	he|mi|[ál]|gi|co
+hemiambo	nome masculino	he|mi|[am]|bo
+hemianestesia	nome feminino	he|mi|a|nes|te|[si]|a
+hemianopsia	nome feminino	he|mi|a|nop|[si]|a
+hemiascomicete	nome masculino	he|mi|as|co|mi|[ce]|te
+hemiatáctico	adjetivo	he|mi|a|[tác]|ti|co
+hemiatático	adjetivo	he|mi|a|[tá]|ti|co
+hemiataxia	nome feminino	he|mi|a|ta|[xi]|a
+hemiatrofia	nome feminino	he|mi|a|tro|[fi]|a
+hemiatrófico	adjetivo	he|mi|a|[tró]|fi|co
+hemibalismo	nome masculino	he|mi|ba|[lis]|mo
+hemibraquidoma	nome masculino	he|mi|bra|qui|[do]|ma
+hemicarpo	nome masculino	he|mi|[car]|po
+hemicelulose	nome feminino	he|mi|ce|lu|[lo]|se
+hemicíclico	adjetivo	he|mi|[cí]|cli|co
+hemiciclo	nome masculino	he|mi|[ci]|clo
+hemicilíndrico	adjetivo	he|mi|ci|[lín]|dri|co
+hemicilindro	nome masculino	he|mi|ci|[lin]|dro
+hemicordado	nome masculino	he|mi|cor|[da]|do
+hemicrania	nome feminino	he|mi|cra|[ni]|a
+hemicrânico	adjetivo	he|mi|[crâ]|ni|co
+hemicraniectomia	nome feminino	he|mi|cra|ni|ec|to|[mi]|a
+hemicraniectômico	adjetivo	he|mi|cra|ni|ec|[tô]|mi|co
+hemicraniectómico	adjetivo	he|mi|cra|ni|ec|[tó]|mi|co
+hemiedria	nome feminino	he|mi|e|[dri]|a
+hemiédrico	adjetivo	he|mi|[é]|dri|co
+hemiedro	nome masculino	he|mi|[e]|dro
+hemiélitro	nome masculino	he|mi|[é]|li|tro
+hemiencefalia	nome feminino	he|mi|en|ce|fa|[li]|a
+hemiencéfalo	nome masculino	he|mi|en|[cé]|fa|lo
+hemifacial	adjetivo	he|mi|fa|ci|[al]
+hemigamia	nome feminino	he|mi|ga|[mi]|a
+hemigâmico	adjetivo	he|mi|[gâ]|mi|co
+hemilabial	adjetivo	he|mi|la|bi|[al]
+hemimacrodoma	nome masculino	he|mi|ma|cro|[do]|ma
+hemimelia	nome feminino	he|mi|me|[li]|a
+hemímelo	adjetivo	he|[mí]|me|lo
+hemimeróptero	adjetivo	he|mi|me|[róp]|te|ro
+hemimetabólico	adjetivo	he|mi|me|ta|[bó]|li|co
+hemimontano	adjetivo	he|mi|mon|[ta]|no
+hemimontano	nome masculino	he|mi|mon|[ta]|no
+hemimorfia	nome feminino	he|mi|mor|[fi]|a
+hemimórfico	adjetivo	he|mi|[mór]|fi|co
+hemimorfismo	nome masculino	he|mi|mor|[fis]|mo
+hemimorfita	nome feminino	he|mi|mor|[fi]|ta
+hemimorfite	nome feminino	he|mi|mor|[fi]|te
+hemina	nome feminino	he|[mi]|na
+hemióbolo	nome masculino	he|mi|[ó]|bo|lo
+hemioctaedro	nome masculino	he|mi|oc|ta|[e]|dro
+hemiólia	nome feminino	he|mi|[ó]|li|a
+hepatogastrite	nome feminino	he|pa|to|gas|[tri]|te
+hepatografia	nome feminino	he|pa|to|gra|[fi]|a
+hepatográfico	adjetivo	he|pa|to|[grá]|fi|co
+hepatóloga	nome feminino	he|pa|[tó]|lo|ga
+hepatologia	nome feminino	he|pa|to|lo|[gi]|a
+hepatológico	adjetivo	he|pa|to|[ló]|gi|co
+hepatólogo	nome masculino	he|pa|[tó]|lo|go
+hepatoma	nome masculino	he|pa|[to]|ma
+hepatomegalia	nome feminino	he|pa|to|me|ga|[li]|a
+hepatomegálico	adjetivo	he|pa|to|me|[gá]|li|co
+hepatônfalo	nome masculino	he|pa|[tôn]|fa|lo
+hepatopâncreas	nome masculino	he|pa|to|[pân]|cre|as
+hepatopatia	nome feminino	he|pa|to|pa|[ti]|a
+hepatopático	adjetivo	he|pa|to|[pá]|ti|co
+hepatopéctico	adjetivo	he|pa|to|[péc]|ti|co
+hepatopético	adjetivo	he|pa|to|[pé]|ti|co
+hepatopexia	nome feminino	he|pa|to|pe|[xi]|a
+hepatoptose	nome feminino	he|pa|top|[to]|se
+hepatorrafia	nome feminino	he|pa|tor|ra|[fi]|a
+hepatorráfico	adjetivo	he|pa|tor|[rá]|fi|co
+hepatorragia	nome feminino	he|pa|tor|ra|[gi]|a
+hepatorreia	nome feminino	he|pa|tor|[rei]|a
+hepatorreico	adjetivo	he|pa|tor|[rei]|co
+hepatoscopia	nome feminino	he|pa|tos|co|[pi]|a
+hepatoscópico	adjetivo	he|pa|tos|[có]|pi|co
+hepatotectomia	nome feminino	he|pa|to|tec|to|[mi]|a
+hepatoterapia	nome feminino	he|pa|to|te|ra|[pi]|a
+hepatoterápico	adjetivo	he|pa|to|te|[rá]|pi|co
+hepatotomia	nome feminino	he|pa|to|to|[mi]|a
+hepatotómico	adjetivo	he|pa|to|[tó]|mi|co
+hepatotômico	adjetivo	he|pa|to|[tô]|mi|co
+heptacanto	adjetivo	hep|ta|[can]|to
+heptacorde	nome masculino	hep|ta|[cor]|de
+heptacórdio	nome masculino	hep|ta|[cór]|di|o
+heptacordo	nome masculino	hep|ta|[cor]|do
+heptacordo	adjetivo	hep|ta|[cor]|do
+heptadáctilo	adjetivo	hep|ta|[dác]|ti|lo
+heptadátilo	adjetivo	hep|ta|[dá]|ti|lo
+heptaédrico	adjetivo	hep|ta|[é]|dri|co
+heptaedro	nome masculino	hep|ta|[e]|dro
+heptafilo	adjetivo	hep|ta|[fi]|lo
+heptaginia	nome feminino	hep|ta|gi|[ni]|a
+heptagínia	nome feminino	hep|ta|[gí]|ni|a
+heptágino	adjetivo	hep|[tá]|gi|no
+heptagonal	adjetivo	hep|ta|go|[nal]
+heptágono	nome masculino	hep|[tá]|go|no
+heptâmetro	adjetivo	hep|[tâ]|me|tro
+heptâmetro	nome masculino	hep|[tâ]|me|tro
+heptamina	nome feminino	hep|ta|[mi]|na
+heptândria	nome feminino	hep|[tân]|dri|a
+heptandria	nome feminino	hep|tan|[dri]|a
+heptandro	adjetivo	hep|[tan]|dro
+heptanemo	adjetivo	hep|ta|[ne]|mo
+heptano	nome masculino	hep|[ta]|no
+heptapétalo	adjetivo	hep|ta|[pé]|ta|lo
+heptápilo	adjetivo	hep|[tá]|pi|lo
+heptarca	nome masculino	hep|[tar]|ca
+heptarquia	nome feminino	hep|tar|[qui]|a
+heptárquico	adjetivo	hep|[tár]|qui|co
+heptassépalo	adjetivo	hep|tas|[sé]|pa|lo
+heptassilábico	adjetivo	hep|tas|si|[lá]|bi|co
+heptassílabo	adjetivo	hep|tas|[sí]|la|bo
+heptassílabo	nome masculino	hep|tas|[sí]|la|bo
+heptástico	adjetivo	hep|[tás]|ti|co
+heptástico	nome masculino	hep|[tás]|ti|co
+heptateuco	nome masculino	hep|ta|[teu]|co
+heptatlo	nome masculino	hep|[ta]|tlo
+heptátomo	adjetivo	hep|[tá]|to|mo
+héptico	adjetivo	[hép]|ti|co
+heptileno	nome masculino	hep|ti|[le]|no
+heptílico	adjetivo	hep|[tí]|li|co
+heptilo	nome masculino	hep|[ti]|lo
+heptina	nome feminino	hep|[ti]|na
+héptodo	nome masculino	[hép]|to|do
+heptona	nome feminino	hep|[to]|na
+hera	nome feminino	[he]|ra
+hera-terrestre	nome feminino	he|ra-ter|[res]|tre
+heracleense	adjetivo	he|ra|cle|[en]|se
+heracleense	nome masculino	he|ra|cle|[en]|se
+heracleense	nome feminino	he|ra|cle|[en]|se
+heracleu	adjetivo	he|ra|[cleu]
+heraclida	adjetivo	he|ra|[cli]|da
+heraclida	nome masculino	he|ra|[cli]|da
+heraclida	nome feminino	he|ra|[cli]|da
+heraclitiano	adjetivo	he|ra|cli|ti|[a]|no
+heraclítico	adjetivo	he|ra|[clí]|ti|co
+heraclitismo	nome masculino	he|ra|cli|[tis]|mo
+heráldica	nome feminino	he|[rál]|di|ca
+heraldicamente	advérbio	he|ral|di|ca|[men]|te
+heráldico	nome masculino	he|[rál]|di|co
+heráldico	adjetivo	he|[rál]|di|co
+heraldista	nome masculino	he|ral|[dis]|ta
+heraldista	nome feminino	he|ral|[dis]|ta
+heraldo	nome masculino	he|[ral]|do
+heraldoteca	nome feminino	he|ral|do|[te]|ca
+herança	nome feminino	he|[ran]|ça
+herbáceo	adjetivo	her|[bá]|ce|o
+herbanário	nome masculino	her|ba|[ná]|ri|o
+herbário	nome masculino	her|[bá]|ri|o
+herbático	adjetivo	her|[bá]|ti|co
+hemoplástico	adjetivo	he|mo|[plás]|ti|co
+hemoptíico	adjetivo	he|mop|[tí]|i|co
+hemoptise	nome feminino	he|mop|[ti]|se
+hemoptoico	adjetivo	he|mop|[toi]|co
+hemoptoico	nome masculino	he|mop|[toi]|co
+hemorragia	nome feminino	he|mor|ra|[gi]|a
+hemorrágico	adjetivo	he|mor|[rá]|gi|co
+hemorroida	nome feminino	he|mor|[roi]|da
+hemorroidal	adjetivo	he|mor|roi|[dal]
+hemorroidal	nome masculino	he|mor|roi|[dal]
+hemorroidário	adjetivo	he|mor|roi|[dá]|ri|o
+hemorroidário	nome masculino	he|mor|roi|[dá]|ri|o
+hemorroide	nome feminino	he|mor|[roi]|de
+hemorroidectomia	nome feminino	he|mor|roi|dec|to|[mi]|a
+hemorroides	nome feminino	he|mor|[roi]|des
+hemorroidoso	adjetivo	he|mor|roi|[do]|so
+hemorroidoso	nome masculino	he|mor|roi|[do]|so
+hemoscopia	nome feminino	he|mos|co|[pi]|a
+hemospasia	nome feminino	he|mos|pa|[si]|a
+hemospásico	adjetivo	he|mos|[pá]|si|co
+hemospático	adjetivo	he|mos|[pá]|ti|co
+hemospórida	nome masculino	he|mos|[pó]|ri|da
+hemosporídeo	nome masculino	he|mos|po|[rí]|de|o
+hemosporídeo	adjetivo	he|mos|po|[rí]|de|o
+hemossiderina	nome feminino	he|mos|si|de|[ri]|na
+hemossiderose	nome feminino	he|mos|si|de|[ro]|se
+hemóstase	nome feminino	he|[mós]|ta|se
+hemostasia	nome feminino	he|mos|ta|[si]|a
+hemostática	nome feminino	he|mos|[tá]|ti|ca
+hemostático	nome masculino	he|mos|[tá]|ti|co
+hemostático	adjetivo	he|mos|[tá]|ti|co
+hemotéctico	adjetivo	he|mo|[téc]|ti|co
+hemoterapia	nome feminino	he|mo|te|ra|[pi]|a
+hemoterápico	adjetivo	he|mo|te|[rá]|pi|co
+hemotético	adjetivo	he|mo|[té]|ti|co
+hemotexia	nome feminino	he|mo|te|[xi]|a
+hemotórax	nome masculino	he|mo|[tó]|rax
+hemotoxia	nome feminino	he|mo|to|[xi]|a
+hemotóxico	adjetivo	he|mo|[tó]|xi|co
+hemotoxina	nome feminino	he|mo|to|[xi]|na
+hemúlida	nome masculino	he|[mú]|li|da
+hemúlida	nome masculino	he|[mú]|li|da
+hemulídeo	nome masculino	he|mu|[lí]|de|o
+hemulídeo	nome masculino	he|mu|[lí]|de|o
+hemulídeo	adjetivo	he|mu|[lí]|de|o
+hena	nome feminino	[he]|na
+hendecafilo	adjetivo	hen|de|ca|[fi]|lo
+hendecágino	adjetivo	hen|de|[cá]|gi|no
+hendecagonal	adjetivo	hen|de|ca|go|[nal]
+hendecágono	nome masculino	hen|de|[cá]|go|no
+hendecágono	adjetivo	hen|de|[cá]|go|no
+hendecândria	nome feminino	hen|de|[cân]|dri|a
+hendecandria	nome feminino	hen|de|can|[dri]|a
+hendecandro	adjetivo	hen|de|[can]|dro
+hendecassilábico	adjetivo	hen|de|cas|si|[lá]|bi|co
+hendecassílabo	adjetivo	hen|de|cas|[sí]|la|bo
+hendecassílabo	nome masculino	hen|de|cas|[sí]|la|bo
+hendíadis	nome feminino	hen|[dí]|a|dis
+héneto	adjetivo	[hé]|ne|to
+héneto	nome masculino	[hé]|ne|to
+hêneto	adjetivo	[hê]|ne|to
+hêneto	nome masculino	[hê]|ne|to
+heníoco	adjetivo	he|[ní]|o|co
+heníoco	nome masculino	he|[ní]|o|co
+henoteísmo	nome masculino	he|no|te|[ís]|mo
+henoteísta	adjetivo	he|no|te|[ís]|ta
+henoteístico	adjetivo	he|no|te|[ís]|ti|co
+henótico	adjetivo	he|[nó]|ti|co
+hênrio	nome masculino	[hên]|ri|o
+henriquino	adjetivo	hen|ri|[qui]|no
+henry	nome masculino	[hen]|ry
+heortologia	nome feminino	he|or|to|lo|[gi]|a
+heortológico	adjetivo	he|or|to|[ló]|gi|co
+heortonímia	nome feminino	he|or|to|[ní]|mi|a
+heortonímico	adjetivo	he|or|to|[ní]|mi|co
+heortônimo	nome masculino	he|or|[tô]|ni|mo
+heortónimo	nome masculino	he|or|[tó]|ni|mo
+hepa	interjeição	[he]|pa
+hépar	nome masculino	[hé]|par
+heparina	nome feminino	he|pa|[ri]|na
+hepatal	adjetivo	he|pa|[tal]
+hepatalgia	nome feminino	he|pa|tal|[gi]|a
+hepatálgico	adjetivo	he|pa|[tál]|gi|co
+hepatectomia	nome feminino	he|pa|tec|to|[mi]|a
+hepática	nome feminino	he|[pá]|ti|ca
+hepático	nome masculino	he|[pá]|ti|co
+hepático	adjetivo	he|[pá]|ti|co
+hepatintestinal	adjetivo	he|pa|tin|tes|ti|[nal]
+hepatismo	nome masculino	he|pa|[tis]|mo
+hepatita	nome feminino	he|pa|[ti]|ta
+hepatite	nome feminino	he|pa|[ti]|te
+hepatização	nome feminino	he|pa|ti|za|[ção]
+hepatizado	adjetivo	he|pa|ti|[za]|do
+hepatizar	verbo	he|pa|ti|[zar]
+hépato	nome masculino	[hé]|pa|to
+hepatocele	nome feminino	he|pa|to|[ce]|le
+hepatocirrose	nome feminino	he|pa|to|cir|[ro]|se
+hepatocístico	adjetivo	he|pa|to|[cís]|ti|co
+hepatócito	nome masculino	he|pa|[tó]|ci|to
+hepatogástrico	adjetivo	he|pa|to|[gás]|tri|co
+hipercárdico	adjetivo	hi|per|[cár]|di|co
+hipercataléctico	adjetivo	hi|per|ca|ta|[léc]|ti|co
+hipercataléctico	nome masculino	hi|per|ca|ta|[léc]|ti|co
+hipercatalecto	adjetivo	hi|per|ca|ta|[lec]|to
+hipercatalecto	nome masculino	hi|per|ca|ta|[lec]|to
+hipercatalético	adjetivo	hi|per|ca|ta|[lé]|ti|co
+hipercatalético	nome masculino	hi|per|ca|ta|[lé]|ti|co
+hipercataleto	adjetivo	hi|per|ca|ta|[le]|to
+hipercataleto	nome masculino	hi|per|ca|ta|[le]|to
+hipercatarse	nome feminino	hi|per|ca|[tar]|se
+hipercatártico	adjetivo	hi|per|ca|[tár]|ti|co
+hiperceratose	nome feminino	hi|per|ce|ra|[to]|se
+hipercerebração	nome feminino	hi|per|ce|re|bra|[ção]
+hipercíclico	adjetivo	hi|per|[cí]|cli|co
+hiperciclo	nome masculino	hi|per|[ci]|clo
+hipercinesia	nome feminino	hi|per|ci|ne|[si]|a
+hipercinésia	nome feminino	hi|per|ci|[né]|si|a
+hipercinésico	adjetivo	hi|per|ci|[né]|si|co
+hipercinético	adjetivo	hi|per|ci|[né]|ti|co
+hiperclorato	nome masculino	hi|per|clo|[ra]|to
+hiperclórico	adjetivo	hi|per|[cló]|ri|co
+hipercloridria	nome feminino	hi|per|clo|ri|[dri]|a
+hiperclorídrico	adjetivo	hi|per|clo|[rí]|dri|co
+hiperclorúria	nome feminino	hi|per|clo|[rú]|ri|a
+hiperclorúrico	adjetivo	hi|per|clo|[rú]|ri|co
+hipercoagulável	adjetivo	hi|per|co|a|gu|[lá]|vel
+hipercolia	nome feminino	hi|per|co|[li]|a
+hipercólico	adjetivo	hi|per|[có]|li|co
+hipercorreção	nome feminino	hi|per|cor|re|[ção]
+hipercorreto	adjetivo	hi|per|cor|[re]|to
+hipercrinia	nome feminino	hi|per|cri|[ni]|a
+hipercrínico	adjetivo	hi|per|[crí]|ni|co
+hipercrise	nome feminino	hi|per|[cri]|se
+hipercrítica	nome feminino	hi|per|[crí]|ti|ca
+hipercriticamente	advérbio	hi|per|cri|ti|ca|[men]|te
+hipercriticismo	nome masculino	hi|per|cri|ti|[cis]|mo
+hipercrítico	adjetivo	hi|per|[crí]|ti|co
+hipercrítico	nome masculino	hi|per|[crí]|ti|co
+hipercroma	nome masculino	hi|per|[cro]|ma
+hipercromia	nome feminino	hi|per|cro|[mi]|a
+hipercrômico	adjetivo	hi|per|[crô]|mi|co
+hipercrómico	adjetivo	hi|per|[cró]|mi|co
+hipercultura	nome feminino	hi|per|cul|[tu]|ra
+hiperdemia	nome feminino	hi|per|de|[mi]|a
+hiperdiácrise	nome feminino	hi|per|di|[á]|cri|se
+hiperdialéctico	adjetivo	hi|per|di|a|[léc]|ti|co
+hiperdialético	adjetivo	hi|per|di|a|[lé]|ti|co
+hiperdipsia	nome feminino	hi|per|dip|[si]|a
+hiperdórico	adjetivo	hi|per|[dó]|ri|co
+hiperdório	adjetivo	hi|per|[dó]|ri|o
+hiperdorismo	nome masculino	hi|per|do|[ris]|mo
+hiperdramático	adjetivo	hi|per|dra|[má]|ti|co
+hiperdulia	nome feminino	hi|per|du|[li]|a
+hiperdúlico	adjetivo	hi|per|[dú]|li|co
+hiperefidrose	nome feminino	hi|pe|re|fi|[dro]|se
+hiperelíptico	adjetivo	hi|pe|re|[líp]|ti|co
+hiperémese	nome feminino	hi|pe|[ré]|me|se
+hiperêmese	nome feminino	hi|pe|[rê]|me|se
+hiperemético	adjetivo	hi|pe|re|[mé]|ti|co
+hiperemia	nome feminino	hi|pe|re|[mi]|a
+hiperémia	nome feminino	hi|pe|[ré]|mi|a
+hiperemiar	verbo	hi|pe|re|mi|[ar]
+hiperêmico	adjetivo	hi|pe|[rê]|mi|co
+hiperémico	adjetivo	hi|pe|[ré]|mi|co
+hiperemotividade	nome feminino	hi|pe|re|mo|ti|vi|[da]|de
+hiperencefalia	nome feminino	hi|pe|ren|ce|fa|[li]|a
+hiperencéfalo	nome masculino	hi|pe|ren|[cé]|fa|lo
+hiperenterose	nome feminino	hi|pe|ren|te|[ro]|se
+hiperespaço	nome masculino	hi|pe|res|[pa]|ço
+hiperestesia	nome feminino	hi|pe|res|te|[si]|a
+hiperestesiado	adjetivo	hi|pe|res|te|si|[a]|do
+hiperestesiar	verbo	hi|pe|res|te|si|[ar]
+hiperestésico	adjetivo	hi|pe|res|[té]|si|co
+hiperestético	adjetivo	hi|pe|res|[té]|ti|co
+hipereufémico	adjetivo	hi|pe|reu|[fé]|mi|co
+hipereufêmico	adjetivo	hi|pe|reu|[fê]|mi|co
+hipereufemismo	nome masculino	hi|pe|reu|fe|[mis]|mo
+hipereutéctico	adjetivo	hi|pe|reu|[téc]|ti|co
+hipereutético	adjetivo	hi|pe|reu|[té]|ti|co
+hiperexcitabilidade	nome feminino	hi|pe|rex|ci|ta|bi|li|[da]|de
+hiperexcitável	adjetivo	hi|pe|rex|ci|[tá]|vel
+hiperextensão	nome feminino	hi|pe|rex|ten|[são]
+hiperextensibilidade	nome feminino	hi|pe|rex|ten|si|bi|li|[da]|de
+hiperextensível	adjetivo	hi|pe|rex|ten|[sí]|vel
+hiperfagia	nome feminino	hi|per|fa|[gi]|a
+hiperficção	nome feminino	hi|per|fic|[ção]
+hiperfísico	adjetivo	hi|per|[fí]|si|co
+hiperflebose	nome feminino	hi|per|fle|[bo]|se
+hiperflexão	nome feminino	hi|per|fle|[xão]
+hiperflogose	nome feminino	hi|per|flo|[go]|se
+hiperfocal	adjetivo	hi|per|fo|[cal]
+hiperforia	nome feminino	hi|per|fo|[ri]|a
+hiperfórico	adjetivo	hi|per|[fó]|ri|co
+hiperfórico	nome masculino	hi|per|[fó]|ri|co
+hiperfosfatúria	nome feminino	hi|per|fos|fa|[tú]|ri|a
+hiperfosfatúrico	adjetivo	hi|per|fos|fa|[tú]|ri|co
+hiperfrígio	adjetivo	hi|per|[frí]|gi|o
+hiperfunção	nome feminino	hi|per|fun|[ção]
+hipergenesia	nome feminino	hi|per|ge|ne|[si]|a
+hipergenésico	adjetivo	hi|per|ge|[né]|si|co
+helmintagogo	adjetivo	hel|min|ta|[go]|go
+helminte	nome masculino	hel|[min]|te
+helmíntia	nome feminino	hel|[mín]|ti|a
+helmintíase	nome feminino	hel|min|[tí]|a|se
+helminticida	adjetivo	hel|min|ti|[ci]|da
+helminticida	nome masculino	hel|min|ti|[ci]|da
+helmíntico	adjetivo	hel|[mín]|ti|co
+helminto	nome masculino	hel|[min]|to
+helmintoide	adjetivo	hel|min|[toi]|de
+helmintólito	nome masculino	hel|min|[tó]|li|to
+helmintologia	nome feminino	hel|min|to|lo|[gi]|a
+helmintológico	adjetivo	hel|min|to|[ló]|gi|co
+helmintologista	nome masculino	hel|min|to|lo|[gis]|ta
+helmintologista	nome feminino	hel|min|to|lo|[gis]|ta
+helmintólogo	nome masculino	hel|min|[tó]|lo|go
+helócero	adjetivo	he|[ló]|ce|ro
+helófito	nome masculino	he|[ló]|fi|to
+hélope	adjetivo	[hé]|lo|pe
+helope	nome masculino	he|[lo]|pe
+hélope	nome masculino	[hé]|lo|pe
+hélope	nome feminino	[hé]|lo|pe
+helopiano	nome masculino	he|lo|pi|[a]|no
+helopiteco	nome masculino	he|lo|pi|[te]|co
+helosciádio	nome masculino	he|los|ci|[á]|di|o
+helsimburguês	adjetivo	hel|sim|bur|[guês]
+helsimburguês	nome masculino	hel|sim|bur|[guês]
+helsinquiano	adjetivo	hel|sin|qui|[a]|no
+helsinquiano	nome masculino	hel|sin|qui|[a]|no
+helvécia	nome feminino	hel|[vé]|ci|a
+helveciano	adjetivo	hel|ve|ci|[a]|no
+helvécio	nome masculino	hel|[vé]|ci|o
+helvécio	adjetivo	hel|[vé]|ci|o
+helvética	nome feminino	hel|[vé]|ti|ca
+helvético	nome masculino	hel|[vé]|ti|co
+helvético	adjetivo	hel|[vé]|ti|co
+helvetismo	nome masculino	hel|ve|[tis]|mo
+helvidiano	adjetivo	hel|vi|di|[a]|no
+helvidiano	nome masculino	hel|vi|di|[a]|no
+hélvio	adjetivo	[hél]|vi|o
+hélvio	nome masculino	[hél]|vi|o
+hem	interjeição	[hem]
+hemácia	nome feminino	he|[má]|ci|a
+hemaglutinação	nome feminino	he|ma|glu|ti|na|[ção]
+hemagogo	adjetivo	he|ma|[go]|go
+hemagogo	nome masculino	he|ma|[go]|go
+hemal	adjetivo	he|[mal]
+hemalopia	nome feminino	he|ma|lo|[pi]|a
+hemalópico	adjetivo	he|ma|[ló]|pi|co
+hemangioma	nome masculino	he|man|gi|[o]|ma
+hemanto	nome masculino	he|[man]|to
+hemartrose	nome feminino	he|mar|[tro]|se
+hemateína	nome feminino	he|ma|te|[í]|na
+hematêmese	nome feminino	he|ma|[tê]|me|se
+hematémese	nome feminino	he|ma|[té]|me|se
+hematemético	adjetivo	he|ma|te|[mé]|ti|co
+hematia	nome feminino	he|ma|[ti]|a
+hemático	adjetivo	he|[má]|ti|co
+hematidrose	nome feminino	he|ma|ti|[dro]|se
+hematimetria	nome feminino	he|ma|ti|me|[tri]|a
+hematímetro	nome masculino	he|ma|[tí]|me|tro
+hematina	nome feminino	he|ma|[ti]|na
+hematita	nome feminino	he|ma|[ti]|ta
+hematite	nome feminino	he|ma|[ti]|te
+hematóbio	nome masculino	he|ma|[tó]|bi|o
+hematoblasto	nome masculino	he|ma|to|[blas]|to
+hematocarpo	nome masculino	he|ma|to|[car]|po
+hematocarpo	adjetivo	he|ma|to|[car]|po
+hematocele	nome feminino	he|ma|to|[ce]|le
+hematocolpo	nome masculino	he|ma|to|[col]|po
+hematócrito	nome masculino	he|ma|[tó]|cri|to
+hematofagia	nome feminino	he|ma|to|fa|[gi]|a
+hematófago	adjetivo	he|ma|[tó]|fa|go
+hematófago	nome masculino	he|ma|[tó]|fa|go
+hematofilia	nome feminino	he|ma|to|fi|[li]|a
+hematofilo	adjetivo	he|ma|to|[fi]|lo
+hematófilo	adjetivo	he|ma|[tó]|fi|lo
+hematófilo	nome masculino	he|ma|[tó]|fi|lo
+hematofobia	nome feminino	he|ma|to|fo|[bi]|a
+hematófobo	adjetivo	he|ma|[tó]|fo|bo
+hematófobo	nome masculino	he|ma|[tó]|fo|bo
+hematografia	nome feminino	he|ma|to|gra|[fi]|a
+hematográfico	adjetivo	he|ma|to|[grá]|fi|co
+hematógrafo	nome masculino	he|ma|[tó]|gra|fo
+hematoide	adjetivo	he|ma|[toi]|de
+hematólise	nome feminino	he|ma|[tó]|li|se
+hematolítico	adjetivo	he|ma|to|[lí]|ti|co
+hematóloga	nome feminino	he|ma|[tó]|lo|ga
+hematologia	nome feminino	he|ma|to|lo|[gi]|a
+hematológico	adjetivo	he|ma|to|[ló]|gi|co
+hematologista	nome masculino	he|ma|to|lo|[gis]|ta
+hematologista	nome feminino	he|ma|to|lo|[gis]|ta
+hematólogo	nome masculino	he|ma|[tó]|lo|go
+hematoma	nome masculino	he|ma|[to]|ma
+hematometria	nome feminino	he|ma|to|me|[tri]|a
+hematométrio	nome masculino	he|ma|to|[mé]|tri|o
+hematônfalo	nome masculino	he|ma|[tôn]|fa|lo
+hematópode	nome masculino	he|ma|[tó]|po|de
+hematopoese	nome feminino	he|ma|to|po|[e]|se
+hematopoético	adjetivo	he|ma|to|po|[é]|ti|co
+hematopoiese	nome feminino	he|ma|to|poi|[e]|se
+heterotaxia	nome feminino	he|te|ro|ta|[xi]|a
+heterotecnia	nome feminino	he|te|ro|tec|[ni]|a
+heterotécnico	adjetivo	he|te|ro|[téc]|ni|co
+heterotermia	nome feminino	he|te|ro|ter|[mi]|a
+heterotérmico	adjetivo	he|te|ro|[tér]|mi|co
+heterotético	adjetivo	he|te|ro|[té]|ti|co
+heterotipia	nome feminino	he|te|ro|ti|[pi]|a
+heterotípico	adjetivo	he|te|ro|[tí]|pi|co
+heterótipo	adjetivo	he|te|[ró]|ti|po
+heterótomo	adjetivo	he|te|[ró]|to|mo
+heterotopia	nome feminino	he|te|ro|to|[pi]|a
+heterotópico	adjetivo	he|te|ro|[tó]|pi|co
+heterótrico	nome masculino	he|te|[ró]|tri|co
+heterótrico	adjetivo	he|te|[ró]|tri|co
+heterotrófico	adjetivo	he|te|ro|[tró]|fi|co
+heterotropia	nome feminino	he|te|ro|tro|[pi]|a
+heterotrópico	adjetivo	he|te|ro|[tró]|pi|co
+heterótropo	adjetivo	he|te|[ró]|tro|po
+heterovacina	nome feminino	he|te|ro|va|[ci]|na
+heterozigótico	adjetivo	he|te|ro|zi|[gó]|ti|co
+heterozigoto	nome masculino	he|te|ro|zi|[go]|to
+heterozigoto	adjetivo	he|te|ro|zi|[go]|to
+heterozoário	nome masculino	he|te|ro|zo|[á]|ri|o
+heterozoário	adjetivo	he|te|ro|zo|[á]|ri|o
+heteu	adjetivo	he|[teu]
+heteu	nome masculino	he|[teu]
+hética	nome feminino	[hé]|ti|ca
+heticidade	nome feminino	he|ti|ci|[da]|de
+hético	adjetivo	[hé]|ti|co
+hético	nome masculino	[hé]|ti|co
+hétigo	adjetivo	[hé]|ti|go
+hetiguidade	nome feminino	he|ti|gui|[da]|de
+hétman	nome masculino	[hét]|man
+heu	interjeição	[heu]
+heureca	interjeição	heu|[re]|ca
+heurema	nome feminino	heu|[re]|ma
+heurema	nome masculino	heu|[re]|ma
+heuremática	nome feminino	heu|re|[má]|ti|ca
+heuremático	adjetivo	heu|re|[má]|ti|co
+heurética	nome feminino	heu|[ré]|ti|ca
+heurético	adjetivo	heu|[ré]|ti|co
+heurística	nome feminino	heu|[rís]|ti|ca
+heuristicamente	advérbio	heu|ris|ti|ca|[men]|te
+heurístico	adjetivo	heu|[rís]|ti|co
+hévea	nome feminino	[hé]|ve|a
+heveena	nome feminino	he|ve|[e]|na
+hexacampeão	nome masculino	he|xa|cam|pe|[ão]
+hexacampeão	adjetivo	he|xa|cam|pe|[ão]
+hexacanto	adjetivo	he|xa|[can]|to
+hexacêntrico	adjetivo	he|xa|[cên]|tri|co
+hexaciclo	adjetivo	he|xa|[ci]|clo
+hexacorália	nome feminino	he|xa|co|[rá]|li|a
+hexacoraliário	adjetivo	he|xa|co|ra|li|[á]|ri|o
+hexacoraliário	nome masculino	he|xa|co|ra|li|[á]|ri|o
+hexacorde	nome masculino	he|xa|[cor]|de
+hexacórdio	nome masculino	he|xa|[cór]|di|o
+hexacordo	nome masculino	he|xa|[cor]|do
+hexactinelídeo	nome masculino	he|xac|ti|ne|[lí]|de|o
+hexactinelídeo	adjetivo	he|xac|ti|ne|[lí]|de|o
+hexadactilia	nome feminino	he|xa|dac|ti|[li]|a
+hexadáctilo	adjetivo	he|xa|[dác]|ti|lo
+hexadátilo	adjetivo	he|xa|[dá]|ti|lo
+hexaédrico	adjetivo	he|xa|[é]|dri|co
+hexaedro	nome masculino	he|xa|[e]|dro
+hexafilo	adjetivo	he|xa|[fi]|lo
+hexáforo	nome masculino	he|[xá]|fo|ro
+hexaginia	nome feminino	he|xa|gi|[ni]|a
+hexagínia	nome feminino	he|xa|[gí]|ni|a
+hexágino	adjetivo	he|[xá]|gi|no
+hexagonal	adjetivo	he|xa|go|[nal]
+hexágono	nome masculino	he|[xá]|go|no
+hexágono	adjetivo	he|[xá]|go|no
+hexagrama	nome masculino	he|xa|[gra]|ma
+hexalépide	adjetivo	he|xa|[lé]|pi|de
+hexâmero	adjetivo	he|[xâ]|me|ro
+hexametilenotetramina	nome feminino	he|xa|me|ti|le|no|te|tra|[mi]|na
+hexamétrico	adjetivo	he|xa|[mé]|tri|co
+hexâmetro	adjetivo	he|[xâ]|me|tro
+hexâmetro	nome masculino	he|[xâ]|me|tro
+hexamina	nome feminino	he|xa|[mi]|na
+hexândria	nome feminino	he|[xân]|dri|a
+hexandria	nome feminino	he|xan|[dri]|a
+hexandro	adjetivo	he|[xan]|dro
+hexano	nome masculino	he|[xa]|no
+hexantéreo	adjetivo	he|xan|[té]|re|o
+hexaoctaedro	nome masculino	he|xa|oc|ta|[e]|dro
+hexapétalo	adjetivo	he|xa|[pé]|ta|lo
+hexápode	nome masculino	he|[xá]|po|de
+hexápode	adjetivo	he|[xá]|po|de
+hexapodia	nome feminino	he|xa|po|[di]|a
+hexáptero	adjetivo	he|[xáp]|te|ro
+hexaptoto	adjetivo	he|xap|[to]|to
+hexaptoto	nome masculino	he|xap|[to]|to
+hexarquia	nome feminino	he|xar|[qui]|a
+hexáscele	nome masculino	he|[xás]|ce|le
+hexaspermo	adjetivo	he|xas|[per]|mo
+hexassépalo	adjetivo	he|xas|[sé]|pa|lo
+hexassilábico	adjetivo	he|xas|si|[lá]|bi|co
+hexassílabo	adjetivo	he|xas|[sí]|la|bo
+hexassílabo	nome masculino	he|xas|[sí]|la|bo
+histriónico	adjetivo	his|tri|[ó]|ni|co
+histrionismo	nome masculino	his|tri|o|[nis]|mo
+hit	nome masculino	[hit]
+hitita	nome masculino	hi|[ti]|ta
+hitita	nome feminino	hi|[ti]|ta
+hitítico	adjetivo	hi|[tí]|ti|co
+hitítico	nome masculino	hi|[tí]|ti|co
+hitleriana	nome feminino	hi|tle|ri|[a]|na
+hitleriano	nome masculino	hi|tle|ri|[a]|no
+hitleriano	adjetivo	hi|tle|ri|[a]|no
+hitlerismo	nome masculino	hi|tle|[ris]|mo
+hitlerista	adjetivo	hi|tle|[ris]|ta
+hitlerista	nome masculino	hi|tle|[ris]|ta
+hitlerista	nome feminino	hi|tle|[ris]|ta
+hiulco	adjetivo	hi|[ul]|co
+hobby	nome masculino	[hob]|by
+hodiernamente	advérbio	ho|di|er|na|[men]|te
+hodiernidade	nome feminino	ho|di|er|ni|[da]|de
+hodierno	adjetivo	ho|di|[er]|no
+hodografia	nome feminino	ho|do|gra|[fi]|a
+hodográfico	adjetivo	ho|do|[grá]|fi|co
+hodógrafo	nome masculino	ho|[dó]|gra|fo
+hodometria	nome feminino	ho|do|me|[tri]|a
+hodométrico	adjetivo	ho|do|[mé]|tri|co
+hodômetro	nome masculino	ho|[dô]|me|tro
+hodómetro	nome masculino	ho|[dó]|me|tro
+hodoscópio	nome masculino	ho|dos|[có]|pi|o
+hoffmânnico	adjetivo	hoff|[mân]|ni|co
+hoje	advérbio	[ho]|je
+holanda	nome feminino	ho|[lan]|da
+holandês	adjetivo	ho|lan|[dês]
+holandês	nome masculino	ho|lan|[dês]
+holandesa	nome feminino	ho|lan|[de]|sa
+holandilha	nome feminino	ho|lan|[di]|lha
+holandilheiro	nome masculino	ho|lan|di|[lhei]|ro
+holandizar	verbo	ho|lan|di|[zar]
+holantárctico	adjetivo	ho|lan|[tárc]|ti|co
+holantártico	adjetivo	ho|lan|[tár]|ti|co
+holárctico	adjetivo	ho|[lárc]|ti|co
+holding	nome feminino	[hol]|ding
+holicismo	nome masculino	ho|li|[cis]|mo
+holígane	nome masculino	ho|[lí]|ga|ne
+holígane	nome feminino	ho|[lí]|ga|ne
+holiganismo	nome masculino	ho|li|ga|[nis]|mo
+holismo	nome masculino	ho|[lis]|mo
+holístico	adjetivo	ho|[lís]|ti|co
+hollywoodesco	adjetivo	hol|ly|woo|des|co
+holmiense	nome masculino	hol|mi|[en]|se
+holmiense	adjetivo	hol|mi|[en]|se
+holmiense	nome feminino	hol|mi|[en]|se
+hólmio	nome masculino	[hól]|mi|o
+holo	nome masculino	[ho]|lo
+holoblástico	adjetivo	ho|lo|[blás]|ti|co
+holobrânquio	adjetivo	ho|lo|[brân]|qui|o
+holocarpo	adjetivo	ho|lo|[car]|po
+holocarpo	nome masculino	ho|lo|[car]|po
+holocausto	nome masculino	ho|lo|[caus]|to
+holocéfalo	adjetivo	ho|lo|[cé]|fa|lo
+holocéfalo	nome masculino	ho|lo|[cé]|fa|lo
+holocénico	adjetivo	ho|lo|[cé]|ni|co
+holococo	nome masculino	ho|lo|[co]|co
+holocrínico	adjetivo	ho|lo|[crí]|ni|co
+holócrino	adjetivo	ho|[ló]|cri|no
+holocristalino	adjetivo	ho|lo|cris|ta|[li]|no
+holoedria	nome feminino	ho|lo|e|[dri]|a
+holoédrico	adjetivo	ho|lo|[é]|dri|co
+holoedro	nome masculino	ho|lo|[e]|dro
+holoenzima	nome feminino	ho|lo|en|[zi]|ma
+holófita	nome feminino	ho|[ló]|fi|ta
+holofítico	nome masculino	ho|lo|[fí]|ti|co
+holofítico	adjetivo	ho|lo|[fí]|ti|co
+holofote	nome masculino	ho|lo|[fo]|te
+holofótico	adjetivo	ho|lo|[fó]|ti|co
+holófrase	nome feminino	ho|[ló]|fra|se
+holofrástico	adjetivo	ho|lo|[frás]|ti|co
+hologamia	nome feminino	ho|lo|ga|[mi]|a
+hologênese	nome feminino	ho|lo|[gê]|ne|se
+hologénese	nome feminino	ho|lo|[gé]|ne|se
+hologenésico	adjetivo	ho|lo|ge|[né]|si|co
+hologenético	adjetivo	ho|lo|ge|[né]|ti|co
+holografia	nome feminino	ho|lo|gra|[fi]|a
+holográfico	adjetivo	ho|lo|[grá]|fi|co
+hológrafo	adjetivo	ho|[ló]|gra|fo
+hológrafo	nome masculino	ho|[ló]|gra|fo
+holograma	nome masculino	ho|lo|[gra]|ma
+holometabólico	adjetivo	ho|lo|me|ta|[bó]|li|co
+holométrico	adjetivo	ho|lo|[mé]|tri|co
+holômetro	nome masculino	ho|[lô]|me|tro
+holómetro	nome masculino	ho|[ló]|me|tro
+holomórfico	adjetivo	ho|lo|[mór]|fi|co
+holomorfismo	nome masculino	ho|lo|mor|[fis]|mo
+holonímia	nome feminino	ho|lo|[ní]|mi|a
+holónimo	nome masculino	ho|[ló]|ni|mo
+holonomia	nome feminino	ho|lo|no|[mi]|a
+holonómico	adjetivo	ho|lo|[nó]|mi|co
+holonômico	adjetivo	ho|lo|[nô]|mi|co
+holónomo	adjetivo	ho|[ló]|no|mo
+holônomo	adjetivo	ho|[lô]|no|mo
+holopatia	nome feminino	ho|lo|pa|[ti]|a
+holopetalar	adjetivo	ho|lo|pe|ta|[lar]
+hidrocução	nome feminino	hi|dro|cu|[ção]
+hidrocussão	nome feminino	hi|dro|cus|[são]
+hidrodinâmica	nome feminino	hi|dro|di|[nâ]|mi|ca
+hidrodinâmico	adjetivo	hi|dro|di|[nâ]|mi|co
+hidrodinasta	nome masculino	hi|dro|di|[nas]|ta
+hidroeléctrica	nome feminino	hi|dro|e|[léc]|tri|ca
+hidroeléctrico	adjetivo	hi|dro|e|[léc]|tri|co
+hidroelétrica	nome feminino	hi|dro|e|[lé]|tri|ca
+hidroeletricidade	nome feminino	hi|dro|e|le|tri|ci|[da]|de
+hidroelétrico	adjetivo	hi|dro|e|[lé]|tri|co
+hidroextractor	nome masculino	hi|dro|ex|trac|[tor]
+hidroextrator	nome masculino	hi|dro|ex|tra|[tor]
+hidrófana	nome feminino	hi|[dró]|fa|na
+hidrofânio	nome masculino	hi|dro|[fâ]|ni|o
+hidrófano	adjetivo	hi|[dró]|fa|no
+hidrófero	nome masculino	hi|[dró]|fe|ro
+hidrofilácea	nome feminino	hi|dro|fi|[lá]|ce|a
+hidrofiláceo	adjetivo	hi|dro|fi|[lá]|ce|o
+hidrofilia	nome feminino	hi|dro|fi|[li]|a
+hidrofílida	nome masculino	hi|dro|[fí]|li|da
+hidrofílida	nome masculino	hi|dro|[fí]|li|da
+hidrofilídeo	adjetivo	hi|dro|fi|[lí]|de|o
+hidrofilídeo	nome masculino	hi|dro|fi|[lí]|de|o
+hidrofilídeo	nome masculino	hi|dro|fi|[lí]|de|o
+hidrofilite	nome feminino	hi|dro|fi|[li]|te
+hidrófilo	nome masculino	hi|[dró]|fi|lo
+hidrófilo	adjetivo	hi|[dró]|fi|lo
+hidrófito	adjetivo	hi|[dró]|fi|to
+hidrófito	nome masculino	hi|[dró]|fi|to
+hidrofitografia	nome feminino	hi|dro|fi|to|gra|[fi]|a
+hidrofitográfico	adjetivo	hi|dro|fi|to|[grá]|fi|co
+hidrofitógrafo	nome masculino	hi|dro|fi|[tó]|gra|fo
+hidrofitologia	nome feminino	hi|dro|fi|to|lo|[gi]|a
+hidrofitológico	adjetivo	hi|dro|fi|to|[ló]|gi|co
+hidrofitólogo	nome masculino	hi|dro|fi|[tó]|lo|go
+hidroflutuador	nome masculino	hi|dro|flu|tu|a|[dor]
+hidrófoba	nome feminino	hi|[dró]|fo|ba
+hidrofobia	nome feminino	hi|dro|fo|[bi]|a
+hidrofóbico	adjetivo	hi|dro|[fó]|bi|co
+hidrófobo	adjetivo	hi|[dró]|fo|bo
+hidrófobo	nome masculino	hi|[dró]|fo|bo
+hidrofólio	nome masculino	hi|dro|[fó]|li|o
+hidrofone	nome masculino	hi|dro|[fo]|ne
+hidroformação	nome feminino	hi|dro|for|ma|[ção]
+hidróforo	adjetivo	hi|[dró]|fo|ro
+hidróforo	nome masculino	hi|[dró]|fo|ro
+hidrofosfato	nome masculino	hi|dro|fos|[fa]|to
+hidrofráctico	adjetivo	hi|dro|[frác]|ti|co
+hidrofrático	adjetivo	hi|dro|[frá]|ti|co
+hidroftalmia	nome feminino	hi|drof|tal|[mi]|a
+hidroftalmo	nome masculino	hi|drof|[tal]|mo
+hidrófugo	adjetivo	hi|[dró]|fu|go
+hidrogel	nome masculino	hi|dro|[gel]
+hidrogenação	nome feminino	hi|dro|ge|na|[ção]
+hidrogenado	adjetivo	hi|dro|ge|[na]|do
+hidrogenar	verbo	hi|dro|ge|[nar]
+hidrogenia	nome feminino	hi|dro|ge|[ni]|a
+hidrogenião	nome masculino	hi|dro|ge|ni|[ão]
+hidrogênico	adjetivo	hi|dro|[gê]|ni|co
+hidrogénico	adjetivo	hi|dro|[gé]|ni|co
+hidrogênio	nome masculino	hi|dro|[gê]|ni|o
+hidrogénio	nome masculino	hi|dro|[gé]|ni|o
+hidrogeniónico	adjetivo	hi|dro|ge|ni|[ó]|ni|co
+hidrogeniônico	adjetivo	hi|dro|ge|ni|[ô]|ni|co
+hidrogenocarbonato	nome masculino	hi|dro|ge|no|car|bo|[na]|to
+hidrogenossulfato	nome masculino	hi|dro|ge|nos|sul|[fa]|to
+hidrogenossulfito	nome masculino	hi|dro|ge|nos|sul|[fi]|to
+hidrogenossulfureto	nome masculino	hi|dro|ge|nos|sul|fu|[re]|to
+hidrogeologia	nome feminino	hi|dro|ge|o|lo|[gi]|a
+hidrogeológico	adjetivo	hi|dro|ge|o|[ló]|gi|co
+hidrogeologista	nome masculino	hi|dro|ge|o|lo|[gis]|ta
+hidrogeologista	nome feminino	hi|dro|ge|o|lo|[gis]|ta
+hidrogeólogo	nome masculino	hi|dro|ge|[ó]|lo|go
+hidroginástica	nome feminino	hi|dro|gi|[nás]|ti|ca
+hidrognomonia	nome feminino	hi|drog|no|mo|[ni]|a
+hidrognomônico	adjetivo	hi|drog|no|[mô]|ni|co
+hidrognomónico	adjetivo	hi|drog|no|[mó]|ni|co
+hidrognosia	nome feminino	hi|drog|no|[si]|a
+hidrognóstico	adjetivo	hi|drog|[nós]|ti|co
+hidrógono	adjetivo	hi|[dró]|go|no
+hidrógrafa	nome feminino	hi|[dró]|gra|fa
+hidrografia	nome feminino	hi|dro|gra|[fi]|a
+hidrográfico	adjetivo	hi|dro|[grá]|fi|co
+hidrógrafo	nome masculino	hi|[dró]|gra|fo
+hidroide	nome masculino	hi|[droi]|de
+hidroide	adjetivo	hi|[droi]|de
+hidrol	nome masculino	hi|[drol]
+hidrólase	nome feminino	hi|[dró]|la|se
+hidrolato	nome masculino	hi|dro|[la]|to
+hidrólatra	nome masculino	hi|[dró]|la|tra
+hidrólatra	nome feminino	hi|[dró]|la|tra
+hidrolatria	nome feminino	hi|dro|la|[tri]|a
+hidrolátrico	adjetivo	hi|dro|[lá]|tri|co
+hidrolisação	nome feminino	hi|dro|li|sa|[ção]
+hidrolisado	adjetivo	hi|dro|li|[sa]|do
+hidrolisante	adjetivo	hi|dro|li|[san]|te
+hidrolisar	verbo	hi|dro|li|[sar]
+hidrolisável	adjetivo	hi|dro|li|[sá]|vel
+hidrólise	nome feminino	hi|[dró]|li|se
+hidrolítico	adjetivo	hi|dro|[lí]|ti|co
+haplodonte	nome masculino	ha|plo|[don]|te
+haplófase	nome feminino	ha|[pló]|fa|se
+haplofilo	nome masculino	ha|plo|[fi]|lo
+haplografia	nome feminino	ha|plo|gra|[fi]|a
+haplográfico	adjetivo	ha|plo|[grá]|fi|co
+haploide	adjetivo	ha|[ploi]|de
+haploidia	nome feminino	ha|ploi|[di]|a
+haplolalia	nome feminino	ha|plo|la|[li]|a
+haplolálico	adjetivo	ha|plo|[lá]|li|co
+haplologia	nome feminino	ha|plo|lo|[gi]|a
+haplológico	adjetivo	ha|plo|[ló]|gi|co
+haplômero	nome masculino	ha|[plô]|me|ro
+haplómero	nome masculino	ha|[pló]|me|ro
+haplomia	nome feminino	ha|plo|[mi]|a
+haplónomo	adjetivo	ha|[pló]|no|mo
+haplônomo	adjetivo	ha|[plô]|no|mo
+haplonte	adjetivo	ha|[plon]|te
+haplopétalo	adjetivo	ha|plo|[pé]|ta|lo
+haplóstomo	adjetivo	ha|[plós]|to|mo
+haplotomia	nome feminino	ha|plo|to|[mi]|a
+haplotômico	adjetivo	ha|plo|[tô]|mi|co
+haplotómico	adjetivo	ha|plo|[tó]|mi|co
+hapluro	nome masculino	ha|[plu]|ro
+happening	nome masculino	[hap]|pe|ning
+hapteno	nome masculino	hap|[te]|no
+háptico	adjetivo	[háp]|ti|co
+haptoctático	adjetivo	hap|toc|[tá]|ti|co
+haptogéneo	adjetivo	hap|to|[gé]|ne|o
+haptogêneo	adjetivo	hap|to|[gê]|ne|o
+haptógeno	adjetivo	hap|[tó]|ge|no
+haptoglobina	nome feminino	hap|to|glo|[bi]|na
+haptotactismo	nome masculino	hap|to|tac|[tis]|mo
+haptotático	adjetivo	hap|to|[tá]|ti|co
+haptotatismo	nome masculino	hap|to|ta|[tis]|mo
+haptotrópico	adjetivo	hap|to|[tró]|pi|co
+haptotropismo	nome masculino	hap|to|tro|[pis]|mo
+hara-kiri	nome masculino	ha|ra-ki|ri
+haraquíri	nome masculino	ha|ra|[quí]|ri
+haras	nome masculino	[ha]|ras
+hard	adjetivo	[hard]
+hard-core	adjetivo	hard-co|re
+hard-rock	nome masculino	[hard-rock]
+hardware	nome masculino	hard|wa|re
+harém	nome masculino	ha|[rém]
+haríolo	nome masculino	ha|[rí]|o|lo
+hariolomancia	nome feminino	ha|ri|o|lo|man|[ci]|a
+hariolomante	nome masculino	ha|ri|o|lo|[man]|te
+hariolomante	nome feminino	ha|ri|o|lo|[man]|te
+hariolomântico	adjetivo	ha|ri|o|lo|[mân]|ti|co
+harlina	nome feminino	har|[li]|na
+harlo	nome masculino	[har]|lo
+harmala	nome feminino	har|[ma]|la
+harmalina	nome feminino	har|ma|[li]|na
+harmatão	nome masculino	har|ma|[tão]
+harmófano	adjetivo	har|[mó]|fa|no
+harmonia	nome feminino	har|mo|[ni]|a
+harmoníaco	adjetivo	har|mo|[ní]|a|co
+harmónica	adjetivo	har|[mó]|ni|ca
+harmônica	adjetivo	har|[mô]|ni|ca
+harmônica	nome feminino	har|[mô]|ni|ca
+harmónica	nome feminino	har|[mó]|ni|ca
+harmonicamente	advérbio	har|mo|ni|ca|[men]|te
+harmônico	adjetivo	har|[mô]|ni|co
+harmónico	adjetivo	har|[mó]|ni|co
+harmonicorde	nome masculino	har|mo|ni|[cor]|de
+harmônio	nome masculino	har|[mô]|ni|o
+harmónio	nome masculino	har|[mó]|ni|o
+harmoniocordo	nome masculino	har|mo|ni|o|[cor]|do
+harmoniosamente	advérbio	har|mo|ni|o|sa|[men]|te
+harmonioso	adjetivo	har|mo|ni|[o]|so
+harmonista	nome masculino	har|mo|[nis]|ta
+harmonista	nome feminino	har|mo|[nis]|ta
+harmonística	nome feminino	har|mo|[nís]|ti|ca
+harmonístico	adjetivo	har|mo|[nís]|ti|co
+harmônium	nome masculino	har|[mô]|ni|um
+harmónium	nome masculino	har|[mó]|ni|um
+harmonização	nome feminino	har|mo|ni|za|[ção]
+harmonizado	adjetivo	har|mo|ni|[za]|do
+harmonizador	adjetivo	har|mo|ni|za|[dor]
+harmonizador	nome masculino	har|mo|ni|za|[dor]
+harmonizar	verbo	har|mo|ni|[zar]
+harmonizável	adjetivo	har|mo|ni|[zá]|vel
+harmonografia	nome feminino	har|mo|no|gra|[fi]|a
+harmonográfico	adjetivo	har|mo|no|[grá]|fi|co
+harmonógrafo	nome masculino	har|mo|[nó]|gra|fo
+harmonometria	nome feminino	har|mo|no|me|[tri]|a
+harmonométrico	adjetivo	har|mo|no|[mé]|tri|co
+harmonômetro	nome masculino	har|mo|[nô]|me|tro
+harmonómetro	nome masculino	har|mo|[nó]|me|tro
+harmosta	nome masculino	har|[mos]|ta
+harmotómio	nome masculino	har|mo|[tó]|mi|o
+harmotômio	nome masculino	har|mo|[tô]|mi|o
+harmótomo	nome masculino	har|[mó]|to|mo
+harmozeu	adjetivo	har|mo|[zeu]
+harmozeu	nome masculino	har|mo|[zeu]
+harpa	nome feminino	[har]|pa
+harpa-eólia	nome feminino	har|pa-e|[ó]|li|a
+hárpaga	nome feminino	[hár]|pa|ga
+harpagão	nome masculino	har|pa|[gão]
+harpálida	nome masculino	har|[pá]|li|da
+hegelianista	adjetivo	he|ge|li|a|[nis]|ta
+hegelianista	nome masculino	he|ge|li|a|[nis]|ta
+hegelianista	nome feminino	he|ge|li|a|[nis]|ta
+hegelianístico	adjetivo	he|ge|li|a|[nís]|ti|co
+hegeliano	nome masculino	he|ge|li|[a]|no
+hegeliano	adjetivo	he|ge|li|[a]|no
+hegelismo	nome masculino	he|ge|[lis]|mo
+hegemonia	nome feminino	he|ge|mo|[ni]|a
+hegemônico	adjetivo	he|ge|[mô]|ni|co
+hegemónico	adjetivo	he|ge|[mó]|ni|co
+hegemonização	nome feminino	he|ge|mo|ni|za|[ção]
+hegemonizar	verbo	he|ge|mo|ni|[zar]
+hégira	nome feminino	[hé]|gi|ra
+hegúmeno	nome masculino	he|[gú]|me|no
+hein	interjeição	he|[in]
+heládico	adjetivo	he|[lá]|di|co
+heládico	nome masculino	he|[lá]|di|co
+hélas	interjeição	[hé]|las
+helciário	nome masculino	hel|ci|[á]|ri|o
+helcologia	nome feminino	hel|co|lo|[gi]|a
+helcológico	adjetivo	hel|co|[ló]|gi|co
+helcose	nome feminino	hel|[co]|se
+helebórea	nome feminino	he|le|[bó]|re|a
+heleborina	nome feminino	he|le|bo|[ri]|na
+heleborismo	nome masculino	he|le|bo|[ris]|mo
+heleborizar	verbo	he|le|bo|ri|[zar]
+heléboro	nome masculino	he|[lé]|bo|ro
+heléboro-branco	nome masculino	he|lé|bo|ro-bran|co
+helena	nome feminino	he|[le]|na
+helénia	nome feminino	he|[lé]|ni|a
+helênia	nome feminino	he|[lê]|ni|a
+helenicamente	advérbio	he|le|ni|ca|[men]|te
+helenicidade	nome feminino	he|le|ni|ci|[da]|de
+helênico	adjetivo	he|[lê]|ni|co
+helênico	nome masculino	he|[lê]|ni|co
+helénico	adjetivo	he|[lé]|ni|co
+helénico	nome masculino	he|[lé]|ni|co
+helénio	nome masculino	he|[lé]|ni|o
+helênio	nome masculino	he|[lê]|ni|o
+helenismo	nome masculino	he|le|[nis]|mo
+helenista	nome masculino	he|le|[nis]|ta
+helenista	nome feminino	he|le|[nis]|ta
+helenisticamente	advérbio	he|le|nis|ti|ca|[men]|te
+helenístico	adjetivo	he|le|[nís]|ti|co
+helenização	nome feminino	he|le|ni|za|[ção]
+helenizado	adjetivo	he|le|ni|[za]|do
+helenizador	adjetivo	he|le|ni|za|[dor]
+helenizador	nome masculino	he|le|ni|za|[dor]
+helenizante	adjetivo	he|le|ni|[zan]|te
+helenizante	nome masculino	he|le|ni|[zan]|te
+helenizante	nome feminino	he|le|ni|[zan]|te
+helenizar	verbo	he|le|ni|[zar]
+helenizável	adjetivo	he|le|ni|[zá]|vel
+heleno	adjetivo	he|[le]|no
+heleno	nome masculino	he|[le]|no
+heleno-clássico	adjetivo	he|le|no-clás|si|co
+heleno-latino	adjetivo	he|le|no-la|[ti]|no
+helenólatra	adjetivo	he|le|[nó]|la|tra
+helenólatra	nome masculino	he|le|[nó]|la|tra
+helenólatra	nome feminino	he|le|[nó]|la|tra
+helenolatria	nome feminino	he|le|no|la|[tri]|a
+helenolátrico	adjetivo	he|le|no|[lá]|tri|co
+helenopolitano	adjetivo	he|le|no|po|li|[ta]|no
+helenopolitano	nome masculino	he|le|no|po|li|[ta]|no
+helépole	nome feminino	he|[lé]|po|le
+helespôncio	adjetivo	he|les|[pôn]|ci|o
+helespôncio	nome masculino	he|les|[pôn]|ci|o
+helespontíaco	adjetivo	he|les|pon|[tí]|a|co
+helespôntico	adjetivo	he|les|[pôn]|ti|co
+hélia	nome feminino	[hé]|li|a
+helíaco	adjetivo	he|[lí]|a|co
+heliântea	nome feminino	he|li|[ân]|te|a
+heliântemo	nome masculino	he|li|[ân]|te|mo
+heliânteo	adjetivo	he|li|[ân]|te|o
+heliântico	adjetivo	he|li|[ân]|ti|co
+heliantina	nome feminino	he|li|an|[ti]|na
+heliantínea	nome feminino	he|li|an|[tí]|ne|a
+helianto	nome masculino	he|li|[an]|to
+helião	nome masculino	he|li|[ão]
+heliasta	nome masculino	he|li|[as]|ta
+hélice	nome feminino	[hé]|li|ce
+hélice	nome	[hé]|li|ce
+heliceiro	nome masculino	he|li|[cei]|ro
+helícia	nome feminino	he|[lí]|ci|a
+helicicultor	adjetivo	he|li|ci|cul|[tor]
+helicicultor	nome masculino	he|li|ci|cul|[tor]
+helicicultura	nome feminino	he|li|ci|cul|[tu]|ra
+helícida	nome masculino	he|[lí]|ci|da
+helícida	nome masculino	he|[lí]|ci|da
+helicídeo	nome masculino	he|li|[cí]|de|o
+helicídeo	nome masculino	he|li|[cí]|de|o
+helicídeo	adjetivo	he|li|[cí]|de|o
+heliciforme	adjetivo	he|li|ci|[for]|me
+helicina	nome feminino	he|li|[ci]|na
+helicismo	nome masculino	he|li|[cis]|mo
+helicita	nome masculino	he|li|[ci]|ta
+helicográfico	adjetivo	he|li|co|[grá]|fi|co
+helicógrafo	nome masculino	he|li|[có]|gra|fo
+helicoidal	adjetivo	he|li|coi|[dal]
+helicoide	adjetivo	he|li|[coi]|de
+humificado	adjetivo	hu|mi|fi|[ca]|do
+humificar	verbo	hu|mi|fi|[car]
+húmil	adjetivo	[hú]|mil
+humildação	nome feminino	hu|mil|da|[ção]
+humildade	nome feminino	hu|mil|[da]|de
+humildar	verbo	hu|mil|[dar]
+humilde	adjetivo	hu|[mil]|de
+humilde	nome masculino	hu|[mil]|de
+humilde	nome feminino	hu|[mil]|de
+humildemente	advérbio	hu|mil|de|[men]|te
+humildíssimo	adjetivo	hu|mil|[dís]|si|mo
+humildosamente	advérbio	hu|mil|do|sa|[men]|te
+humildoso	adjetivo	hu|mil|[do]|so
+húmile	adjetivo	[hú]|mi|le
+humilhação	nome feminino	hu|mi|lha|[ção]
+humilhado	adjetivo	hu|mi|[lha]|do
+humilhado	nome masculino	hu|mi|[lha]|do
+humilhador	adjetivo	hu|mi|lha|[dor]
+humilhador	nome masculino	hu|mi|lha|[dor]
+humilhante	adjetivo	hu|mi|[lhan]|te
+humilhantemente	advérbio	hu|mi|lhan|te|[men]|te
+humilhar	verbo	hu|mi|[lhar]
+humilhoso	adjetivo	hu|mi|[lho]|so
+humiliação	nome feminino	hu|mi|li|a|[ção]
+humiliante	adjetivo	hu|mi|li|[an]|te
+humílimo	adjetivo	hu|[mí]|li|mo
+humo	nome masculino	[hu]|mo
+humor	nome masculino	hu|[mor]
+humorado	adjetivo	hu|mo|[ra]|do
+humoral	adjetivo	hu|mo|[ral]
+humorismo	nome masculino	hu|mo|[ris]|mo
+humorista	adjetivo	hu|mo|[ris]|ta
+humorista	nome masculino	hu|mo|[ris]|ta
+humorista	nome feminino	hu|mo|[ris]|ta
+humoristicamente	advérbio	hu|mo|ris|ti|ca|[men]|te
+humorístico	adjetivo	hu|mo|[rís]|ti|co
+humorizar	verbo	hu|mo|ri|[zar]
+humoroso	adjetivo	hu|mo|[ro]|so
+humoso	adjetivo	hu|[mo]|so
+humuláceo	adjetivo	hu|mu|[lá]|ce|o
+humulina	nome feminino	hu|mu|[li]|na
+húmulo	nome masculino	[hú]|mu|lo
+húmus	nome masculino	[hú]|mus
+huna	nome feminino	[hu]|na
+húngara	nome feminino	[hún]|ga|ra
+húngaro	nome masculino	[hún]|ga|ro
+húngaro	adjetivo	[hún]|ga|ro
+húngaro-romeno	adjetivo	hún|ga|ro-ro|[me]|no
+húngaro-soviético	adjetivo	hún|ga|ro-so|vi|[é]|ti|co
+hungo	nome masculino	[hun]|go
+huno	adjetivo	[hu]|no
+huno	nome masculino	[hu]|no
+hura	nome feminino	[hu]|ra
+hurão	nome masculino	hu|[rão]
+hurão	adjetivo	hu|[rão]
+huri	nome feminino	hu|[ri]
+huroniano	adjetivo	hu|ro|ni|[a]|no
+hurra	nome masculino	[hur]|ra
+hurra	interjeição	[hur]|ra
+husa	nome feminino	[hu]|sa
+husky	nome masculino	hus|ky
+husma	nome feminino	[hus]|ma
+hússar	nome masculino	[hús]|sar
+hussardo	nome masculino	hus|[sar]|do
+hussita	adjetivo	hus|[si]|ta
+hussita	nome masculino	hus|[si]|ta
+hussita	nome feminino	hus|[si]|ta
+hussitismo	nome masculino	hus|si|[tis]|mo
+hútu	nome masculino	[hú]|tu
+hútu	nome feminino	[hú]|tu
+hútu	adjetivo	[hú]|tu
+huzuarexe	nome masculino	hu|zu|a|[re]|xe
+hydrofoil	nome masculino	hy|dro|foil
+hype	nome masculino	[hy]|pe
+hebefrênico	nome masculino	he|be|[frê]|ni|co
+hebelogia	nome feminino	he|be|lo|[gi]|a
+hebertismo	nome masculino	he|ber|[tis]|mo
+hebertista	nome masculino	he|ber|[tis]|ta
+hebertista	nome feminino	he|ber|[tis]|ta
+hebetação	nome feminino	he|be|ta|[ção]
+hebetamento	nome masculino	he|be|ta|[men]|to
+hebetante	adjetivo	he|be|[tan]|te
+hebetar	verbo	he|be|[tar]
+hebetério	nome masculino	he|be|[té]|ri|o
+hebetismo	nome masculino	he|be|[tis]|mo
+hebraica	nome feminino	he|[brai]|ca
+hebraico	adjetivo	he|[brai]|co
+hebraico	nome masculino	he|[brai]|co
+hebraísmo	nome masculino	he|bra|[ís]|mo
+hebraísta	nome masculino	he|bra|[ís]|ta
+hebraísta	adjetivo	he|bra|[ís]|ta
+hebraísta	nome feminino	he|bra|[ís]|ta
+hebraização	nome feminino	he|brai|za|[ção]
+hebraizado	adjetivo	he|brai|[za]|do
+hebraizante	nome masculino	he|brai|[zan]|te
+hebraizante	adjetivo	he|brai|[zan]|te
+hebraizante	nome feminino	he|brai|[zan]|te
+hebraizar	verbo	he|brai|[zar]
+hebraizável	adjetivo	he|brai|[zá]|vel
+hebreia	nome feminino	he|[brei]|a
+hebreu	adjetivo	he|[breu]
+hebreu	nome masculino	he|[breu]
+hebridense	nome masculino	he|bri|[den]|se
+hebridense	adjetivo	he|bri|[den]|se
+hebridense	nome feminino	he|bri|[den]|se
+hebronita	adjetivo	he|bro|[ni]|ta
+hebronita	nome masculino	he|bro|[ni]|ta
+hebronita	nome feminino	he|bro|[ni]|ta
+hecateia	nome feminino	he|ca|[tei]|a
+hecatésia	nome feminino	he|ca|[té]|si|a
+hecatólito	nome masculino	he|ca|[tó]|li|to
+hecatomba	nome feminino	he|ca|[tom]|ba
+hecatombe	nome feminino	he|ca|[tom]|be
+hecatombeu	adjetivo	he|ca|tom|[beu]
+hecatômpilo	adjetivo	he|ca|[tôm]|pi|lo
+hecatonquiro	adjetivo	he|ca|ton|[qui]|ro
+hecatontarca	nome masculino	he|ca|ton|[tar]|ca
+hecatontarquia	nome feminino	he|ca|ton|tar|[qui]|a
+hecatostilo	nome masculino	he|ca|tos|[ti]|lo
+hecatóstomo	adjetivo	he|ca|[tós]|to|mo
+hectare	nome masculino	hec|[ta]|re
+héctica	nome feminino	[héc]|ti|ca
+hecticidade	nome feminino	hec|ti|ci|[da]|de
+héctico	nome masculino	[héc]|ti|co
+héctico	adjetivo	[héc]|ti|co
+hectoedria	nome feminino	hec|to|e|[dri]|a
+hectoédrico	adjetivo	hec|to|[é]|dri|co
+hectográfico	adjetivo	hec|to|[grá]|fi|co
+hectógrafo	nome masculino	hec|[tó]|gra|fo
+hectograma	nome masculino	hec|to|[gra]|ma
+hectolitro	nome masculino	hec|to|[li]|tro
+hectometrado	adjetivo	hec|to|me|[tra]|do
+hectométrico	adjetivo	hec|to|[mé]|tri|co
+hectómetro	nome masculino	hec|[tó]|me|tro
+hectômetro	nome masculino	hec|[tô]|me|tro
+hectopascal	nome masculino	hec|to|pas|[cal]
+hectopieze	nome masculino	hec|to|pi|[e]|ze
+hectosteno	nome masculino	hec|tos|[te]|no
+hectostere	nome masculino	hec|tos|[te]|re
+hectostéreo	nome masculino	hec|tos|[té]|re|o
+hectovátio	nome masculino	hec|to|[vá]|ti|o
+hectowatt	nome masculino	hec|[to]|watt
+hedenbergita	nome feminino	he|den|ber|[gi]|ta
+hedenberguite	nome feminino	he|den|ber|[gui]|te
+hédera	nome feminino	[hé]|de|ra
+hederácea	nome feminino	he|de|[rá]|ce|a
+hederáceo	adjetivo	he|de|[rá]|ce|o
+hederiforme	adjetivo	he|de|ri|[for]|me
+hederígero	adjetivo	he|de|[rí]|ge|ro
+hederina	nome feminino	he|de|[ri]|na
+hederoso	adjetivo	he|de|[ro]|so
+hedifânio	nome masculino	he|di|[fâ]|ni|o
+hediondamente	advérbio	he|di|on|da|[men]|te
+hediondez	nome feminino	he|di|on|[dez]
+hediondeza	nome feminino	he|di|on|[de]|za
+hediondo	adjetivo	he|di|[on]|do
+hedonal	nome masculino	he|do|[nal]
+hedónica	nome feminino	he|[dó]|ni|ca
+hedônico	adjetivo	he|[dô]|ni|co
+hedónico	adjetivo	he|[dó]|ni|co
+hedónico	nome masculino	he|[dó]|ni|co
+hedônico	nome masculino	he|[dô]|ni|co
+hedonismo	nome masculino	he|do|[nis]|mo
+hedonista	nome masculino	he|do|[nis]|ta
+hedonista	adjetivo	he|do|[nis]|ta
+hedonista	nome feminino	he|do|[nis]|ta
+hedonístico	adjetivo	he|do|[nís]|ti|co
+hedonofobia	nome feminino	he|do|no|fo|[bi]|a
+hedrocele	nome feminino	he|dro|[ce]|le
+hedu	nome masculino	he|[du]
+hedwígia	nome feminino	hed|[wí]|gi|a
+heftemímere	adjetivo	hef|te|[mí]|me|re
+hegeliana	nome feminino	he|ge|li|[a]|na
+hegelianismo	nome masculino	he|ge|li|a|[nis]|mo
+hesicasmo	nome masculino	he|si|[cas]|mo
+hesicasta	nome masculino	he|si|[cas]|ta
+hesiódico	adjetivo	he|si|[ó]|di|co
+hesitação	nome feminino	he|si|ta|[ção]
+hesitante	adjetivo	he|si|[tan]|te
+hesitantemente	advérbio	he|si|tan|te|[men]|te
+hesitar	verbo	he|si|[tar]
+hespéria	nome feminino	hes|[pé]|ri|a
+hespérico	adjetivo	hes|[pé]|ri|co
+hespéride	nome feminino	hes|[pé]|ri|de
+hesperídea	nome feminino	hes|pe|[rí]|de|a
+hesperídeo	adjetivo	hes|pe|[rí]|de|o
+hesperidina	nome feminino	hes|pe|ri|[di]|na
+hesperídio	nome masculino	hes|pe|[rí]|di|o
+hesperíida	nome masculino	hes|pe|[rí]|i|da
+hesperíida	nome masculino	hes|pe|[rí]|i|da
+hesperiídeo	nome masculino	hes|pe|ri|[í]|de|o
+hesperiídeo	adjetivo	hes|pe|ri|[í]|de|o
+hesperiídeo	nome masculino	hes|pe|ri|[í]|de|o
+hespério	adjetivo	hes|[pé]|ri|o
+hessocénico	adjetivo	hes|so|[cé]|ni|co
+hessocênico	adjetivo	hes|so|[cê]|ni|co
+hessoceno	adjetivo	hes|so|[ce]|no
+hessoceno	nome masculino	hes|so|[ce]|no
+hesterno	adjetivo	hes|[ter]|no
+hetangiano	adjetivo	he|tan|gi|[a]|no
+hete	nome masculino	[he]|te
+hétego	adjetivo	[hé]|te|go
+heteguidade	nome feminino	he|te|gui|[da]|de
+hetera	nome feminino	he|[te]|ra
+hetera	nome masculino	he|[te]|ra
+heteradelfia	nome feminino	he|te|ra|del|[fi]|a
+heteradelfo	adjetivo	he|te|ra|[del]|fo
+heteradénico	adjetivo	he|te|ra|[dé]|ni|co
+heteradênico	adjetivo	he|te|ra|[dê]|ni|co
+heteradenoma	nome masculino	he|te|ra|de|[no]|ma
+heteria	nome feminino	he|te|[ri]|a
+heteriarca	nome masculino	he|te|ri|[ar]|ca
+hetérice	nome feminino	he|[té]|ri|ce
+heterismo	nome masculino	he|te|[ris]|mo
+heterista	adjetivo	he|te|[ris]|ta
+hétero	nome masculino	[hé]|te|ro
+hétero	nome feminino	[hé]|te|ro
+hétero	adjetivo	[hé]|te|ro
+heteroavaliação	nome feminino	he|te|ro|a|va|li|a|[ção]
+heterobrânquia	nome feminino	he|te|ro|[brân]|qui|a
+heterobrânquio	adjetivo	he|te|ro|[brân]|qui|o
+heterobrânquio	nome masculino	he|te|ro|[brân]|qui|o
+heterocário	nome masculino	he|te|ro|[cá]|ri|o
+heterocariose	nome feminino	he|te|ro|ca|ri|[o]|se
+heterocariótico	adjetivo	he|te|ro|ca|ri|[ó]|ti|co
+heterocarpo	adjetivo	he|te|ro|[car]|po
+heterocéfalo	adjetivo	he|te|ro|[cé]|fa|lo
+heterocerco	adjetivo	he|te|ro|[cer]|co
+heterócero	nome masculino	he|te|[ró]|ce|ro
+heterocíclico	adjetivo	he|te|ro|[cí]|cli|co
+heterocisto	nome masculino	he|te|ro|[cis]|to
+heteroclamídeo	adjetivo	he|te|ro|cla|[mí]|de|o
+heteróclise	nome feminino	he|te|[ró]|cli|se
+heteroclitamente	advérbio	he|te|ro|cli|ta|[men]|te
+heteroclítico	adjetivo	he|te|ro|[clí]|ti|co
+heteróclito	adjetivo	he|te|[ró]|cli|to
+heterocrania	nome feminino	he|te|ro|cra|[ni]|a
+heterocromatina	nome feminino	he|te|ro|cro|ma|[ti]|na
+heterocromia	nome feminino	he|te|ro|cro|[mi]|a
+heterocromossoma	nome masculino	he|te|ro|cro|mos|[so]|ma
+heterocromossomo	nome masculino	he|te|ro|cro|mos|[so]|mo
+heterocronia	nome feminino	he|te|ro|cro|[ni]|a
+heterócrono	adjetivo	he|te|[ró]|cro|no
+heterodáctilo	adjetivo	he|te|ro|[dác]|ti|lo
+heterodáctilo	nome masculino	he|te|ro|[dác]|ti|lo
+heterodátilo	adjetivo	he|te|ro|[dá]|ti|lo
+heterodátilo	nome masculino	he|te|ro|[dá]|ti|lo
+heterodermo	adjetivo	he|te|ro|[der]|mo
+heterodermo	nome masculino	he|te|ro|[der]|mo
+heterodésmico	adjetivo	he|te|ro|[dés]|mi|co
+heterodimia	nome feminino	he|te|ro|di|[mi]|a
+heteródimo	adjetivo	he|te|[ró]|di|mo
+heterodinâmico	adjetivo	he|te|ro|di|[nâ]|mi|co
+heteródino	adjetivo	he|te|[ró]|di|no
+heteródino	nome masculino	he|te|[ró]|di|no
+heterodonte	adjetivo	he|te|ro|[don]|te
+heterodonte	nome masculino	he|te|ro|[don]|te
+heterodoxa	nome feminino	he|te|ro|[do]|xa
+heterodoxia	nome feminino	he|te|ro|do|[xi]|a
+heterodoxo	adjetivo	he|te|ro|[do]|xo
+heterodoxo	nome masculino	he|te|ro|[do]|xo
+heterodromia	nome feminino	he|te|ro|dro|[mi]|a
+heteródromo	adjetivo	he|te|[ró]|dro|mo
+heterofilia	nome feminino	he|te|ro|fi|[li]|a
+heterofílico	adjetivo	he|te|ro|[fí]|li|co
+heterófilo	adjetivo	he|te|[ró]|fi|lo
+heterofilo	adjetivo	he|te|ro|[fi]|lo
+heterofonia	nome feminino	he|te|ro|fo|[ni]|a
+heterofônico	adjetivo	he|te|ro|[fô]|ni|co
+heterofónico	adjetivo	he|te|ro|[fó]|ni|co
+heteroforia	nome feminino	he|te|ro|fo|[ri]|a
+heteroftalmia	nome feminino	he|te|rof|tal|[mi]|a
+heteroftalmo	adjetivo	he|te|rof|[tal]|mo
+heteroftalmo	nome masculino	he|te|rof|[tal]|mo

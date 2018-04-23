@@ -1,0 +1,1178 @@
+zanzibar	nome feminino	zan|zi|[bar]
+zanzibarita	nome masculino	zan|zi|ba|[ri]|ta
+zanzibarita	adjetivo	zan|zi|ba|[ri]|ta
+zanzibarita	nome feminino	zan|zi|ba|[ri]|ta
+zanzino	nome masculino	zan|[zi]|no
+zanzo	nome masculino	[zan]|zo
+zape	interjeição	[za]|pe
+zape	nome masculino	[za]|pe
+zápete	nome masculino	[zá]|pe|te
+zapetrape	nome masculino	za|pe|[tra]|pe
+zapoteca	adjetivo	za|po|[te]|ca
+zapoteca	nome masculino	za|po|[te]|ca
+zapoteca	nome feminino	za|po|[te]|ca
+zapping	nome masculino	[zap]|ping
+zapupe	nome masculino	za|[pu]|pe
+zaquiano	adjetivo	za|qui|[a]|no
+zarabatana	nome feminino	za|ra|ba|[ta]|na
+zarabatanada	nome feminino	za|ra|ba|ta|[na]|da
+zaracoteia	nome feminino	za|ra|co|[tei]|a
+zaragalhada	nome feminino	za|ra|ga|[lha]|da
+zaragata	nome feminino	za|ra|[ga]|ta
+zaragatar	verbo	za|ra|ga|[tar]
+zaragatear	verbo	za|ra|ga|te|[ar]
+zaragateira	nome feminino	za|ra|ga|[tei]|ra
+zaragateiro	adjetivo	za|ra|ga|[tei]|ro
+zaragateiro	nome masculino	za|ra|ga|[tei]|ro
+zaragatoa	nome feminino	za|ra|ga|[to]|a
+zaragatoadela	nome feminino	za|ra|ga|to|a|[de]|la
+zaragatoar	verbo	za|ra|ga|to|[ar]
+zaragota	nome feminino	za|ra|[go]|ta
+zaralha	adjetivo	za|[ra]|lha
+zaralha	nome feminino	za|[ra]|lha
+zaralhice	nome feminino	za|ra|[lhi]|ce
+zaralho	adjetivo	za|[ra]|lho
+zarambelho	nome masculino	za|ram|[be]|lho
+zarandalha	nome feminino	za|ran|[da]|lha
+zaranga	adjetivo	za|[ran]|ga
+zaranga	nome masculino	za|[ran]|ga
+zaranga	nome feminino	za|[ran]|ga
+zaranguilhar	verbo	za|ran|gui|[lhar]
+zaranza	adjetivo	za|[ran]|za
+zaranza	nome masculino	za|[ran]|za
+zaranza	nome feminino	za|[ran]|za
+zaranzar	verbo	za|ran|[zar]
+zarão	nome masculino	za|[rão]
+zarapelho	nome masculino	za|ra|[pe]|lho
+zarapilheira	nome feminino	za|ra|pi|[lhei]|ra
+zarasca	nome feminino	za|[ras]|ca
+zaravalho	nome masculino	za|ra|[va]|lho
+zarba	nome feminino	[zar]|ba
+zarcão	nome masculino	zar|[cão]
+zarco	adjetivo	[zar]|co
+zarcônio	nome masculino	zar|[cô]|ni|o
+zarcónio	nome masculino	zar|[có]|ni|o
+zaré	adjetivo	za|[ré]
+zarelhar	verbo	za|re|[lhar]
+zarelho	nome masculino	za|[re]|lho
+zareta	adjetivo	za|[re]|ta
+zareta	nome masculino	za|[re]|ta
+zareta	nome feminino	za|[re]|ta
+zargo	adjetivo	[zar]|go
+zargunchada	nome feminino	zar|gun|[cha]|da
+zargunchar	verbo	zar|gun|[char]
+zarguncho	nome masculino	zar|[gun]|cho
+zarigão	nome masculino	za|ri|[gão]
+zaro	nome masculino	[za]|ro
+zaroca	nome feminino	za|[ro]|ca
+zarolha	nome feminino	za|[ro]|lha
+zarolhar	verbo	za|ro|[lhar]
+zarolhice	nome feminino	za|ro|[lhi]|ce
+zarolho	adjetivo	za|[ro]|lho
+zarolho	nome masculino	za|[ro]|lho
+zarona	nome feminino	za|[ro]|na
+zarpar	verbo	zar|[par]
+zarro	adjetivo	[zar]|ro
+zarro	nome masculino	[zar]|ro
+zaruca	adjetivo	za|[ru]|ca
+zaruco	adjetivo	za|[ru]|co
+zarza	nome feminino	[zar]|za
+zarzagitânia	nome feminino	zar|za|gi|[tâ]|ni|a
+zarzuela	nome feminino	zar|zu|[e]|la
+zarzuelista	nome masculino	zar|zu|e|[lis]|ta
+zarzuelista	nome feminino	zar|zu|e|[lis]|ta
+zás	interjeição	[zás]
+zás-catrás	interjeição	zás-ca|[trás]
+zás-trás	interjeição	[zás-trás]
+zau	nome masculino	[zau]
+zavada	adjetivo	za|[va]|da
+zavado	adjetivo	za|[va]|do
+zavaneira	nome feminino	za|va|[nei]|ra
+zavar	verbo	za|[var]
+zavece	adjetivo	za|[ve]|ce
+zavece	nome masculino	za|[ve]|ce
+zavece	nome feminino	za|[ve]|ce
+zavra	nome feminino	[za]|vra
+zazo	nome masculino	[za]|zo
+zé	nome masculino	[zé]
+zê	nome masculino	[zê]
+zé da véstia	nome masculino	zé da vés|ti|a
+zé dos anzois	nome masculino	zé dos an|zois
+zoiatrologia	nome feminino	zoi|a|tro|lo|[gi]|a
+zoiatrológico	adjetivo	zoi|a|tro|[ló]|gi|co
+zoiatrologista	nome masculino	zoi|a|tro|lo|[gis]|ta
+zoiatrologista	nome feminino	zoi|a|tro|lo|[gis]|ta
+zoiatrólogo	nome masculino	zoi|a|[tró]|lo|go
+zoico	adjetivo	[zoi]|co
+zoide	nome masculino	[zoi]|de
+zoide	adjetivo	[zoi]|de
+zoidiofilia	nome feminino	zoi|di|o|fi|[li]|a
+zoidiófilo	adjetivo	zoi|di|[ó]|fi|lo
+zoidiogamia	nome feminino	zoi|di|o|ga|[mi]|a
+zoidiogâmico	adjetivo	zoi|di|o|[gâ]|mi|co
+zoidiógamo	adjetivo	zoi|di|[ó]|ga|mo
+zoidiógamo	nome masculino	zoi|di|[ó]|ga|mo
+zoilismo	nome masculino	zoi|[lis]|mo
+zoilo	nome masculino	[zoi]|lo
+zoina	adjetivo	[zoi]|na
+zoina	nome masculino	[zoi]|na
+zoina	nome feminino	[zoi]|na
+zoiodina	nome feminino	zoi|o|[di]|na
+zoira	nome feminino	[zoi]|ra
+zoirar	verbo	zoi|[rar]
+zoisita	nome feminino	zoi|[si]|ta
+zoisite	nome feminino	zoi|[si]|te
+zoísmo	nome masculino	zo|[ís]|mo
+zola	nome feminino	[zo]|la
+zolaesco	adjetivo	zo|la|[es]|co
+zolaico	adjetivo	zo|[lai]|co
+zolaísmo	nome masculino	zo|la|[ís]|mo
+zolaísta	nome masculino	zo|la|[ís]|ta
+zolaísta	adjetivo	zo|la|[ís]|ta
+zolaísta	nome feminino	zo|la|[ís]|ta
+zolesco	adjetivo	zo|[les]|co
+zoli	nome masculino	zo|[li]
+zolismo	nome masculino	zo|[lis]|mo
+zolista	adjetivo	zo|[lis]|ta
+zolista	nome masculino	zo|[lis]|ta
+zolista	nome feminino	zo|[lis]|ta
+zolulo	nome masculino	zo|[lu]|lo
+zomba	nome feminino	[zom]|ba
+zombadeira	nome feminino	zom|ba|[dei]|ra
+zombador	adjetivo	zom|ba|[dor]
+zombador	nome masculino	zom|ba|[dor]
+zombadora	nome feminino	zom|ba|[do]|ra
+zombar	verbo	zom|[bar]
+zombaria	nome feminino	zom|ba|[ri]|a
+zombatório	adjetivo	zom|ba|[tó]|ri|o
+zombeirão	adjetivo	zom|bei|[rão]
+zombeirão	nome masculino	zom|bei|[rão]
+zombeiro	adjetivo	zom|[bei]|ro
+zombeiro	nome masculino	zom|[bei]|ro
+zombetear	verbo	zom|be|te|[ar]
+zombeteira	nome feminino	zom|be|[tei]|ra
+zombeteiramente	advérbio	zom|be|tei|ra|[men]|te
+zombeteiro	adjetivo	zom|be|[tei]|ro
+zombeteiro	nome masculino	zom|be|[tei]|ro
+zombie	nome masculino	zom|bie
+zombie	nome feminino	zom|[bi]|e
+zomidina	nome feminino	zo|mi|[di]|na
+zomol	nome masculino	zo|[mol]
+zomoterapia	nome feminino	zo|mo|te|ra|[pi]|a
+zomoterápico	adjetivo	zo|mo|te|[rá]|pi|co
+zona	nome feminino	[zo]|na
+zonada	nome feminino	zo|[na]|da
+zonado	adjetivo	zo|[na]|do
+zonal	adjetivo	zo|[nal]
+zonalidade	nome feminino	zo|na|li|[da]|de
+zonamento	nome masculino	zo|na|[men]|to
+zonar	verbo	zo|[nar]
+zonária	adjetivo	zo|[ná]|ri|a
+zonchadura	nome feminino	zon|cha|[du]|ra
+zonchar	verbo	zon|[char]
+zoncho	nome masculino	[zon]|cho
+zondoca	adjetivo	zon|[do]|ca
+zondoca	nome masculino	zon|[do]|ca
+zondoca	nome feminino	zon|[do]|ca
+zoneamento	nome masculino	zo|ne|a|[men]|to
+zonear	verbo	zo|ne|[ar]
+zongo	nome masculino	[zon]|go
+zongola	nome masculino	zon|[go]|la
+zongolar	verbo	zon|go|[lar]
+zoniforme	adjetivo	zo|ni|[for]|me
+zonífugo	adjetivo	zo|[ní]|fu|go
+zonípeto	adjetivo	zo|[ní]|pe|to
+zoníptilo	nome masculino	zo|[níp]|ti|lo
+zontró	nome masculino	zon|[tró]
+zônula	nome feminino	[zô]|nu|la
+zónula	nome feminino	[zó]|nu|la
+zonuro	nome masculino	zo|[nu]|ro
+zonzar	verbo	zon|[zar]
+zonzear	verbo	zon|ze|[ar]
+zonzeira	nome feminino	zon|[zei]|ra
+zonzo	adjetivo	[zon]|zo
+zonzom	nome masculino	[zon]|zom
+zonzonar	verbo	zon|zo|[nar]
+zoo	nome masculino	[zo]|o
+zoobia	nome feminino	zo|o|[bi]|a
+zoóbio	adjetivo	zo|[ó]|bi|o
+zoobiologia	nome feminino	zo|o|bi|o|lo|[gi]|a
+zoobiológico	adjetivo	zo|o|bi|o|[ló]|gi|co
+zenóbia	nome feminino	ze|[nó]|bi|a
+zenoniano	adjetivo	ze|no|ni|[a]|no
+zenónico	adjetivo	ze|[nó]|ni|co
+zenônico	adjetivo	ze|[nô]|ni|co
+zenonismo	nome masculino	ze|no|[nis]|mo
+zenonista	nome masculino	ze|no|[nis]|ta
+zenonista	adjetivo	ze|no|[nis]|ta
+zenonista	nome feminino	ze|no|[nis]|ta
+zenzém	nome masculino	zen|[zém]
+zeófago	adjetivo	ze|[ó]|fa|go
+zeólita	nome feminino	ze|[ó]|li|ta
+zeolite	nome feminino	ze|o|[li]|te
+zeolítico	adjetivo	ze|o|[lí]|ti|co
+zeólito	nome masculino	ze|[ó]|li|to
+zeoscópico	adjetivo	ze|os|[có]|pi|co
+zeoscópio	nome masculino	ze|os|[có]|pi|o
+zepelim	nome masculino	ze|pe|[lim]
+zequel	nome masculino	ze|[quel]
+zerado	adjetivo	ze|[ra]|do
+zerbada	nome feminino	zer|[ba]|da
+zerbo	nome masculino	[zer]|bo
+zerê	adjetivo	ze|[rê]
+zerê	nome masculino	ze|[rê]
+zerê	nome feminino	ze|[rê]
+zerechia	nome feminino	ze|re|[chi]|a
+zeribanda	nome feminino	ze|ri|[ban]|da
+zeribando	nome masculino	ze|ri|[ban]|do
+zerichia	nome feminino	ze|ri|[chi]|a
+zeríntio	adjetivo	ze|[rín]|ti|o
+zeríntio	nome masculino	ze|[rín]|ti|o
+zero	adjetivo	[ze]|ro
+zero	nome masculino	[ze]|ro
+zero	número cardinal	[ze]|ro
+zerovalente	adjetivo	ze|ro|va|[len]|te
+zerumba	nome feminino	ze|[rum]|ba
+zerumbete	nome masculino	ze|rum|[be]|te
+zerzulho	nome masculino	zer|[zu]|lho
+zesto	nome masculino	[zes]|to
+zeta	nome masculino	[ze]|ta
+zetacismo	nome masculino	ze|ta|[cis]|mo
+zetética	nome feminino	ze|[té]|ti|ca
+zetético	adjetivo	ze|[té]|ti|co
+zeugita	nome masculino	zeu|[gi]|ta
+zeugita	nome feminino	zeu|[gi]|ta
+zeugitano	adjetivo	zeu|gi|[ta]|no
+zeugitano	nome masculino	zeu|gi|[ta]|no
+zeugite	nome feminino	zeu|[gi]|te
+zeugma	nome masculino	[zeug]|ma
+zeugmático	adjetivo	zeug|[má]|ti|co
+zeugo	nome masculino	[zeu]|go
+zeugobrânquio	nome masculino	zeu|go|[brân]|qui|o
+zeugóforo	nome masculino	zeu|[gó]|fo|ro
+zeunerite	nome feminino	zeu|ne|[ri]|te
+zeuxite	nome feminino	zeu|[xi]|te
+zevro	nome masculino	[ze]|vro
+zibelina	nome feminino	zi|be|[li]|na
+zibeta	nome feminino	zi|[be]|ta
+zibeta	nome masculino	zi|[be]|ta
+zicha	nome feminino	[zi]|cha
+zichar	verbo	zi|[char]
+zicho	nome masculino	[zi]|cho
+ziga	adjetivo	[zi]|ga
+ziga	nome masculino	[zi]|ga
+ziga	nome feminino	[zi]|ga
+zigena	nome feminino	zi|[ge]|na
+zigenídeo	nome masculino	zi|ge|[ní]|de|o
+zígio	adjetivo	[zí]|gi|o
+zígio	nome masculino	[zí]|gi|o
+zignema	nome masculino	zig|[ne]|ma
+zignémea	nome feminino	zig|[né]|me|a
+zignêmea	nome feminino	zig|[nê]|me|a
+zígnia	nome feminino	[zíg]|ni|a
+zigo	adjetivo	[zi]|go
+zigo	nome masculino	[zi]|go
+zigóbata	nome masculino	zi|[gó]|ba|ta
+zigobrânquio	nome masculino	zi|go|[brân]|qui|o
+zigobrânquio	adjetivo	zi|go|[brân]|qui|o
+zigocardíaco	adjetivo	zi|go|car|[dí]|a|co
+zigócero	adjetivo	zi|[gó]|ce|ro
+zigodactilia	nome feminino	zi|go|dac|ti|[li]|a
+zigodáctilo	adjetivo	zi|go|[dác]|ti|lo
+zigodáctilo	nome masculino	zi|go|[dác]|ti|lo
+zigodátilo	nome masculino	zi|go|[dá]|ti|lo
+zigodátilo	adjetivo	zi|go|[dá]|ti|lo
+zigodonte	adjetivo	zi|go|[don]|te
+zigófase	nome feminino	zi|[gó]|fa|se
+zigofilácea	nome feminino	zi|go|fi|[lá]|ce|a
+zigofiláceo	adjetivo	zi|go|fi|[lá]|ce|o
+zigofílea	nome feminino	zi|go|[fí]|le|a
+zigofilo	nome masculino	zi|go|[fi]|lo
+zigófito	nome masculino	zi|[gó]|fi|to
+zigogâmeta	nome masculino	zi|go|[gâ]|me|ta
+zigoma	nome masculino	zi|[go]|ma
+zigomatauricular	adjetivo	zi|go|ma|tau|ri|cu|[lar]
+zigomático	adjetivo	zi|go|[má]|ti|co
+zigomatolabial	adjetivo	zi|go|ma|to|la|bi|[al]
+zigomatomaxilar	adjetivo	zi|go|ma|to|ma|xi|[lar]
+zigomicetale	nome masculino	zi|go|mi|ce|[ta]|le
+zigomicete	nome masculino	zi|go|mi|[ce]|te
+zigomorfo	adjetivo	zi|go|[mor]|fo
+zá	nome masculino	[zá]
+zabaneira	nome feminino	za|ba|[nei]|ra
+zabdiceno	adjetivo	zab|di|[ce]|no
+zabdiceno	nome masculino	zab|di|[ce]|no
+zabelê	nome masculino	za|be|[lê]
+zabra	nome feminino	[za]|bra
+zabumba	nome masculino	za|[bum]|ba
+zabumbar	verbo	za|bum|[bar]
+zabumbeiro	nome masculino	za|bum|[bei]|ro
+zabumbeiro	adjetivo	za|bum|[bei]|ro
+zaburreira	nome feminino	za|bur|[rei]|ra
+zaburreiro	nome masculino	za|bur|[rei]|ro
+zaburro	nome masculino	za|[bur]|ro
+zaca	nome masculino	[za]|ca
+zacíntio	adjetivo	za|[cín]|ti|o
+zacíntio	nome masculino	za|[cín]|ti|o
+zacinto	nome masculino	za|[cin]|to
+zaco	nome masculino	[za]|co
+zacônico	adjetivo	za|[cô]|ni|co
+zacónico	adjetivo	za|[có]|ni|co
+zacónico	nome masculino	za|[có]|ni|co
+zacônico	nome masculino	za|[cô]|ni|co
+zacum	nome masculino	za|[cum]
+zafarrancho	nome masculino	za|far|[ran]|cho
+zafece	adjetivo	za|[fe]|ce
+zafece	nome masculino	za|[fe]|ce
+zafece	nome feminino	za|[fe]|ce
+zafimeiro	adjetivo	za|fi|[mei]|ro
+zaga	nome feminino	[za]|ga
+zagaia	nome feminino	za|[gai]|a
+zagaiada	nome feminino	za|gai|[a]|da
+zagaiar	verbo	za|gai|[ar]
+zagaieiro	nome masculino	za|gai|[ei]|ro
+zagaio	nome masculino	za|[gai]|o
+zagal	nome masculino	za|[gal]
+zagala	nome feminino	za|[ga]|la
+zagalejo	nome masculino	za|ga|[le]|jo
+zagalete	nome masculino	za|ga|[le]|te
+zagaleto	nome masculino	za|ga|[le]|to
+zagalotada	nome feminino	za|ga|lo|[ta]|da
+zagalote	nome masculino	za|ga|[lo]|te
+zagão	nome masculino	za|[gão]
+zagatai	nome masculino	za|ga|[tai]
+zagaté	nome masculino	za|ga|[té]
+zagor	nome masculino	za|[gor]
+zagorrino	adjetivo	za|gor|[ri]|no
+zagorrino	nome masculino	za|gor|[ri]|no
+zagorro	adjetivo	za|[gor]|ro
+zagorro	nome masculino	za|[gor]|ro
+zagrão	nome masculino	za|[grão]
+zagre	nome masculino	[za]|gre
+zagrebina	nome feminino	za|gre|[bi]|na
+zagrebino	adjetivo	za|gre|[bi]|no
+zagrebino	nome masculino	za|gre|[bi]|no
+zagucho	adjetivo	za|[gu]|cho
+zagueiro	nome masculino	za|[guei]|ro
+zagunchada	nome feminino	za|gun|[cha]|da
+zagunchar	verbo	za|gun|[char]
+zaguncho	nome masculino	za|[gun]|cho
+zãibo	adjetivo	[zãi]|bo
+zaida	nome feminino	[zai]|da
+zaikó	nome masculino	zai|[kó]
+zaina	nome feminino	[zai]|na
+zaine	nome masculino	[zai]|ne
+zaino	nome masculino	[zai]|no
+zaino	adjetivo	[zai]|no
+zaipana	nome masculino	zai|[pa]|na
+zaira	nome feminino	[zai]|ra
+zaire	nome masculino	[zai]|re
+zairense	adjetivo	zai|[ren]|se
+zairense	nome masculino	zai|[ren]|se
+zairense	nome feminino	zai|[ren]|se
+zairota	nome masculino	zai|[ro]|ta
+zairota	nome feminino	zai|[ro]|ta
+zalumar	verbo	za|lu|[mar]
+zama	nome masculino	[za]|ma
+zamacueca	nome feminino	za|ma|cu|[e]|ca
+zamareno	adjetivo	za|ma|[re]|no
+zamareno	nome masculino	za|ma|[re]|no
+zamba	nome feminino	[zam]|ba
+zambaio	adjetivo	zam|[bai]|o
+zambaio	nome masculino	zam|[bai]|o
+zambana	adjetivo	zam|[ba]|na
+zambana	nome masculino	zam|[ba]|na
+zambana	nome feminino	zam|[ba]|na
+zambê	nome masculino	zam|[bê]
+zambeque	nome masculino	zam|[be]|que
+zambeta	adjetivo	zam|[be]|ta
+zambeta	nome masculino	zam|[be]|ta
+zambeziano	adjetivo	zam|be|zi|[a]|no
+zambeziano	nome masculino	zam|be|zi|[a]|no
+zambi	nome masculino	zam|[bi]
+zambiana	nome feminino	zam|bi|[a]|na
+zambiano	adjetivo	zam|bi|[a]|no
+zambiano	nome masculino	zam|bi|[a]|no
+zambiapunga	nome feminino	zam|bi|a|[pun]|ga
+zambo	adjetivo	[zam]|bo
+zambo	nome masculino	[zam]|bo
+zamboa	nome feminino	zam|[bo]|a
+zamboada	nome feminino	zam|bo|[a]|da
+zamboeira	nome feminino	zam|bo|[ei]|ra
+zamborrada	nome feminino	zam|bor|[ra]|da
+zambozino	nome masculino	zam|bo|[zi]|no
+zambra	nome feminino	[zam]|bra
+zambralho	nome masculino	zam|[bra]|lho
+zambro	adjetivo	[zam]|bro
+zambuco	nome masculino	zam|[bu]|co
+zambujal	nome masculino	zam|bu|[jal]
+zambujeira	nome feminino	zam|bu|[jei]|ra
+zambujeiro	nome masculino	zam|bu|[jei]|ro
+zambujo	nome masculino	zam|[bu]|jo
+zambulha	adjetivo	zam|[bu]|lha
+zambulha	nome feminino	zam|[bu]|lha
+zambulheira	nome feminino	zam|bu|[lhei]|ra
+zambulho	nome masculino	zam|[bu]|lho
+zamense	adjetivo	za|[men]|se
+zamense	nome masculino	za|[men]|se
+zamense	nome feminino	za|[men]|se
+zâmia	nome feminino	[zâ]|mi|a
+zamiácea	nome feminino	za|mi|[á]|ce|a
+zampar	verbo	zam|[par]
+zamparina	nome feminino	zam|pa|[ri]|na
+zamparinar	verbo	zam|pa|ri|[nar]
+zamumo	nome masculino	za|[mu]|mo
+zana	nome feminino	[za]|na
+zanaga	adjetivo	za|[na]|ga
+zanaga	nome masculino	za|[na]|ga
+zanaga	nome feminino	za|[na]|ga
+zanago	adjetivo	za|[na]|go
+zanago	nome masculino	za|[na]|go
+zancleu	adjetivo	zan|[cleu]
+zancleu	nome masculino	zan|[cleu]
+zanga	nome feminino	[zan]|ga
+zanga-burrinha	nome feminino	zan|ga-bur|[ri]|nha
+zangado	adjetivo	zan|[ga]|do
+zangador	adjetivo	zan|ga|[dor]
+zangador	nome masculino	zan|ga|[dor]
+zangalhão	nome masculino	zan|ga|[lhão]
+zangalhar	verbo	zan|ga|[lhar]
+zangalho	nome masculino	zan|[ga]|lho
+zangalhona	nome feminino	zan|ga|[lho]|na
+zanganito	nome masculino	zan|ga|[ni]|to
+zângano	nome masculino	[zân]|ga|no
+zangão	adjetivo	zan|[gão]
+zangão	nome masculino	zan|[gão]
+zângão	nome masculino	[zân]|gão
+zangar	verbo	zan|[gar]
+zangaralhão	nome masculino	zan|ga|ra|[lhão]
+zangaralheiro	nome masculino	zan|ga|ra|[lhei]|ro
+zangaralhona	nome feminino	zan|ga|ra|[lho]|na
+zangarelha	nome feminino	zan|ga|[re]|lha
+zangarelhar	verbo	zan|ga|re|[lhar]
+zangarelho	nome masculino	zan|ga|[re]|lho
+zangarilha	nome feminino	zan|ga|[ri]|lha
+zangarilhão	nome masculino	zan|ga|ri|[lhão]
+zangarilhar	verbo	zan|ga|ri|[lhar]
+zangarilheira	nome feminino	zan|ga|ri|[lhei]|ra
+zangarilho	nome masculino	zan|ga|[ri]|lho
+zangarinheiro	nome masculino	zan|ga|ri|[nhei]|ro
+zangarinho	nome masculino	zan|ga|[ri]|nho
+zangarrão	nome masculino	zan|gar|[rão]
+zangarreado	nome masculino	zan|gar|re|[a]|do
+zangarrear	verbo	zan|gar|re|[ar]
+zangarreio	nome masculino	zan|gar|[rei]|o
+zangarreiro	adjetivo	zan|gar|[rei]|ro
+zangarreiro	nome masculino	zan|gar|[rei]|ro
+zangarrilhão	nome masculino	zan|gar|ri|[lhão]
+zangena	adjetivo	zan|[ge]|na
+zangena	nome masculino	zan|[ge]|na
+zangena	nome feminino	zan|[ge]|na
+zango	nome masculino	[zan]|go
+zangonal	nome masculino	zan|go|[nal]
+zangorrear	verbo	zan|gor|re|[ar]
+zangorriana	nome feminino	zan|gor|ri|[a]|na
+zangorrino	nome masculino	zan|gor|[ri]|no
+zangorro	nome masculino	zan|[gor]|ro
+zangrinheiro	nome masculino	zan|gri|[nhei]|ro
+zanguizarra	nome feminino	zan|gui|[zar]|ra
+zangular	verbo	zan|gu|[lar]
+zangurrar	verbo	zan|gur|[rar]
+zangurriana	nome feminino	zan|gur|ri|[a]|na
+zanizo	nome masculino	za|[ni]|zo
+zanoio	adjetivo	za|[noi]|o
+zanoio	nome masculino	za|[noi]|o
+zanolho	adjetivo	za|[no]|lho
+zanolho	nome masculino	za|[no]|lho
+zanoniácea	nome feminino	za|no|ni|[á]|ce|a
+zanquim	nome masculino	zan|[quim]
+zante	nome masculino	[zan]|te
+zântio	nome masculino	[zân]|ti|o
+zantoxilácea	nome feminino	zan|to|xi|[lá]|ce|a
+zantóxilo	nome masculino	zan|[tó]|xi|lo
+zanza	nome feminino	[zan]|za
+zanzador	adjetivo	zan|za|[dor]
+zanzador	nome masculino	zan|za|[dor]
+zanzar	verbo	zan|[zar]
+zânzare	nome masculino	[zân]|za|re
+zanzarilhar	verbo	zan|za|ri|[lhar]
+zanzibar	adjetivo	zan|zi|[bar]
+zanzibar	nome masculino	zan|zi|[bar]
+zootrófico	adjetivo	zo|o|[tró]|fi|co
+zootrópio	nome masculino	zo|o|[tró]|pi|o
+zooxantelas	nome feminino	zo|o|xan|[te]|las
+zooxantina	nome feminino	zo|o|xan|[ti]|na
+zopeiro	adjetivo	zo|[pei]|ro
+zopeiro	nome masculino	zo|[pei]|ro
+zopilote	nome masculino	zo|pi|[lo]|te
+zopissa	nome feminino	zo|[pis]|sa
+zopo	adjetivo	[zo]|po
+zopo	nome masculino	[zo]|po
+zorame	nome masculino	zo|[ra]|me
+zorata	nome feminino	zo|[ra]|ta
+zorate	adjetivo	zo|[ra]|te
+zorate	nome masculino	zo|[ra]|te
+zorate	nome feminino	zo|[ra]|te
+zorato	adjetivo	zo|[ra]|to
+zorato	nome masculino	zo|[ra]|to
+zorilha	nome feminino	zo|[ri]|lha
+zorlito	nome masculino	zor|[li]|to
+zornal	nome masculino	zor|[nal]
+zornão	adjetivo	zor|[não]
+zornar	verbo	zor|[nar]
+zorô	nome masculino	zo|[rô]
+zoroastreu	adjetivo	zo|ro|as|[treu]
+zoroastriano	adjetivo	zo|ro|as|tri|[a]|no
+zoroástrico	adjetivo	zo|ro|[ás]|tri|co
+zoroastrismo	nome masculino	zo|ro|as|[tris]|mo
+zoroastrista	nome masculino	zo|ro|as|[tris]|ta
+zoroastrista	adjetivo	zo|ro|as|[tris]|ta
+zoroastrista	nome feminino	zo|ro|as|[tris]|ta
+zorongo	nome masculino	zo|[ron]|go
+zorra	nome feminino	[zor]|ra
+zorracha	nome feminino	zor|[ra]|cha
+zorragar	verbo	zor|ra|[gar]
+zorrague	nome masculino	zor|[ra]|gue
+zorral	nome masculino	zor|[ral]
+zorrão	adjetivo	zor|[rão]
+zorrão	nome masculino	zor|[rão]
+zorreira	nome feminino	zor|[rei]|ra
+zorreiro	nome masculino	zor|[rei]|ro
+zorreiro	adjetivo	zor|[rei]|ro
+zorrilho	nome masculino	zor|[ri]|lho
+zorro	nome masculino	[zor]|ro
+zortar	verbo	zor|[tar]
+zorzal	nome masculino	zor|[zal]
+zorzaleiro	adjetivo	zor|za|[lei]|ro
+zosímia	nome feminino	zo|[sí]|mi|a
+zósimo	nome masculino	[zó]|si|mo
+zóster	nome masculino	[zós]|ter
+zostera	nome feminino	zos|[te]|ra
+zosterácea	nome feminino	zos|te|[rá]|ce|a
+zostérea	nome feminino	zos|[té]|re|a
+zote	adjetivo	[zo]|te
+zote	nome masculino	[zo]|te
+zote	nome feminino	[zo]|te
+zoteca	nome feminino	zo|[te]|ca
+zotismo	nome masculino	zo|[tis]|mo
+zoupeira	nome feminino	zou|[pei]|ra
+zoupeiro	adjetivo	zou|[pei]|ro
+zoupeiro	nome masculino	zou|[pei]|ro
+zoupo	adjetivo	[zou]|po
+zoupo	nome masculino	[zou]|po
+zoura	nome feminino	[zou]|ra
+zourar	verbo	zou|[rar]
+zouvineira	nome feminino	zou|vi|[nei]|ra
+zouvineiro	adjetivo	zou|vi|[nei]|ro
+zouvineiro	nome masculino	zou|vi|[nei]|ro
+zovo	nome masculino	[zo]|vo
+zuanquinza	nome masculino	zu|an|[quin]|za
+zuaque	nome masculino	zu|[a]|que
+zuarte	nome masculino	zu|[ar]|te
+zuate	nome masculino	zu|[a]|te
+zuavo	nome masculino	zu|[a]|vo
+zuca	nome feminino	[zu]|ca
+zuca	nome masculino	[zu]|ca
+zucar	verbo	zu|[car]
+zuche	nome masculino	[zu]|che
+zuco	adjetivo	[zu]|co
+zuco	nome masculino	[zu]|co
+zuelar	verbo	zu|e|[lar]
+zuído	nome masculino	zu|[í]|do
+zuidoiro	nome masculino	zui|[doi]|ro
+zuidouro	nome masculino	zui|[dou]|ro
+zuinglianismo	nome masculino	zu|in|gli|a|[nis]|mo
+zuingliano	nome masculino	zu|in|gli|[a]|no
+zuir	verbo	zu|[ir]
+zular	verbo	zu|[lar]
+zulo	nome masculino	[zu]|lo
+zulo	adjetivo	[zu]|lo
+zulo	nome feminino	[zu]|lo
+zulu	adjetivo	zu|[lu]
+zulu	nome masculino	zu|[lu]
+zulu	nome feminino	zu|[lu]
+zum	nome masculino	[zum]
+zumba	interjeição	[zum]|ba
+zumbaia	nome feminino	zum|[bai]|a
+zumbaiar	verbo	zum|bai|[ar]
+zumbaieiro	nome masculino	zum|bai|[ei]|ro
+zumbar	verbo	zum|[bar]
+zumbeirar	verbo	zum|bei|[rar]
+zumbi	nome masculino	zum|[bi]
+zumbido	nome masculino	zum|[bi]|do
+zumbidor	adjetivo	zum|bi|[dor]
+zumbidor	nome masculino	zum|bi|[dor]
+zumbir	verbo	zum|[bir]
+zumbo	nome masculino	[zum]|bo
+zumbrar	verbo	zum|[brar]
+zumbrir	verbo	zum|[brir]
+zuna	nome feminino	[zu]|na
+zuncho	adjetivo	[zun]|cho
+zunga	nome feminino	[zun]|ga
+zungão	nome masculino	zun|[gão]
+zungar	verbo	zun|[gar]
+zungato	nome masculino	zun|[ga]|to
+zungo	nome masculino	[zun]|go
+zungu	nome masculino	zun|[gu]
+zungueira	nome feminino	zun|[guei]|ra
+zungueiro	nome masculino	zun|[guei]|ro
+zunida	nome feminino	zu|[ni]|da
+zunideira	nome feminino	zu|ni|[dei]|ra
+zunido	nome masculino	zu|[ni]|do
+zunidor	adjetivo	zu|ni|[dor]
+zunidor	nome masculino	zu|ni|[dor]
+zunimento	nome masculino	zu|ni|[men]|to
+zuninga	nome feminino	zu|[nin]|ga
+zunir	verbo	zu|[nir]
+zunzum	nome masculino	zun|[zum]
+zunzunar	verbo	zun|zu|[nar]
+zupa	interjeição	[zu]|pa
+zupador	adjetivo	zu|pa|[dor]
+zupador	nome masculino	zu|pa|[dor]
+zupar	verbo	zu|[par]
+zúquete	interjeição	[zú]|que|te
+zura	adjetivo	[zu]|ra
+zura	nome masculino	[zu]|ra
+zura	nome feminino	[zu]|ra
+zuraco	adjetivo	zu|[ra]|co
+zuraco	nome masculino	zu|[ra]|co
+zuranti	nome masculino	zu|ran|[ti]
+zuraque	nome masculino	zu|[ra]|que
+zurazo	adjetivo	zu|[ra]|zo
+zurazo	nome masculino	zu|[ra]|zo
+zurbada	nome feminino	zur|[ba]|da
+zurca	nome feminino	[zur]|ca
+zureta	nome masculino	zu|[re]|ta
+zureta	nome feminino	zu|[re]|ta
+zuriquenha	nome feminino	zu|ri|[que]|nha
+zuriquenho	adjetivo	zu|ri|[que]|nho
+zuriquenho	nome masculino	zu|ri|[que]|nho
+zuriquense	adjetivo	zu|ri|[quen]|se
+zuriquense	nome feminino	zu|ri|[quen]|se
+zuriquense	nome masculino	zu|ri|[quen]|se
+zurpa	nome feminino	[zur]|pa
+zurpilhar	verbo	zur|pi|[lhar]
+zurra	nome feminino	[zur]|ra
+zurrada	nome feminino	zur|[ra]|da
+zurrador	adjetivo	zur|ra|[dor]
+zurrador	nome masculino	zur|ra|[dor]
+zurrapa	nome feminino	zur|[ra]|pa
+zurrar	verbo	zur|[rar]
+zurraria	nome feminino	zur|ra|[ri]|a
+zurre	interjeição	[zur]|re
+zurreira	nome feminino	zur|[rei]|ra
+zurro	nome masculino	[zur]|ro
+zuruó	adjetivo	zu|ru|[ó]
+zurvada	nome feminino	zur|[va]|da
+zurvanada	nome feminino	zur|va|[na]|da
+zurza	nome feminino	[zur]|za
+zurzidela	nome feminino	zur|zi|[de]|la
+zurzidor	adjetivo	zur|zi|[dor]
+zurzidor	nome masculino	zur|zi|[dor]
+zurzidora	nome feminino	zur|zi|[do]|ra
+zurzidura	nome feminino	zur|zi|[du]|ra
+zurzir	verbo	zur|[zir]
+zus	interjeição	[zus]
+zus-catatrus	nome masculino	zus-ca|ta|[trus]
+zus-catatrus	interjeição	zus-ca|ta|[trus]
+zuzara	nome feminino	zu|[za]|ra
+zoomancia	nome feminino	zo|o|man|[ci]|a
+zoomania	nome feminino	zo|o|ma|[ni]|a
+zoomaníaco	adjetivo	zo|o|ma|[ní]|a|co
+zoomaníaco	nome masculino	zo|o|ma|[ní]|a|co
+zoómano	nome masculino	zo|[ó]|ma|no
+zoômano	nome masculino	zo|[ô]|ma|no
+zoomante	nome masculino	zo|o|[man]|te
+zoomante	nome feminino	zo|o|[man]|te
+zoomântico	adjetivo	zo|o|[mân]|ti|co
+zoomia	nome feminino	zo|o|[mi]|a
+zoomorfia	nome feminino	zo|o|mor|[fi]|a
+zoomórfico	adjetivo	zo|o|[mór]|fi|co
+zoomorfismo	nome masculino	zo|o|mor|[fis]|mo
+zoomorfite	nome feminino	zo|o|mor|[fi]|te
+zoomorfo	adjetivo	zo|o|[mor]|fo
+zoomorfologia	nome feminino	zo|o|mor|fo|lo|[gi]|a
+zoomorfose	nome feminino	zo|o|mor|[fo]|se
+zoonato	nome masculino	zo|o|[na]|to
+zoônico	adjetivo	zo|[ô]|ni|co
+zoónico	adjetivo	zo|[ó]|ni|co
+zoonímia	nome feminino	zo|o|[ní]|mi|a
+zoonímico	adjetivo	zo|o|[ní]|mi|co
+zoónimo	nome masculino	zo|[ó]|ni|mo
+zoônimo	nome masculino	zo|[ô]|ni|mo
+zoonitado	adjetivo	zo|o|ni|[ta]|do
+zoonito	nome masculino	zo|o|[ni]|to
+zoonomia	nome feminino	zo|o|no|[mi]|a
+zoonómico	adjetivo	zo|o|[nó]|mi|co
+zoonômico	adjetivo	zo|o|[nô]|mi|co
+zoonomista	nome masculino	zo|o|no|[mis]|ta
+zoonomista	nome feminino	zo|o|no|[mis]|ta
+zoónomo	nome masculino	zo|[ó]|no|mo
+zoônomo	nome masculino	zo|[ô]|no|mo
+zoonose	nome feminino	zo|o|[no]|se
+zoonosia	nome feminino	zo|o|no|[si]|a
+zoonosologia	nome feminino	zo|o|no|so|lo|[gi]|a
+zoonosológico	adjetivo	zo|o|no|so|[ló]|gi|co
+zoonosologista	nome masculino	zo|o|no|so|lo|[gis]|ta
+zoonosologista	nome feminino	zo|o|no|so|lo|[gis]|ta
+zoonosólogo	nome masculino	zo|o|no|[só]|lo|go
+zoonte	nome masculino	zo|[on]|te
+zoopaleontologia	nome feminino	zo|o|pa|le|on|to|lo|[gi]|a
+zooparasita	nome masculino	zo|o|pa|ra|[si]|ta
+zooparasito	nome masculino	zo|o|pa|ra|[si]|to
+zoopatologia	nome feminino	zo|o|pa|to|lo|[gi]|a
+zoopatológico	adjetivo	zo|o|pa|to|[ló]|gi|co
+zoopedia	nome feminino	zo|o|pe|[di]|a
+zoopédico	adjetivo	zo|o|[pé]|di|co
+zooplâncto	nome masculino	zo|o|[plânc]|to
+zooplâncton	nome masculino	zo|o|[plânc]|ton
+zooplasma	nome masculino	zo|o|[plas]|ma
+zooplasmático	adjetivo	zo|o|plas|[má]|ti|co
+zooplastia	nome feminino	zo|o|plas|[ti]|a
+zoopolita	adjetivo	zo|o|po|[li]|ta
+zoopónica	nome feminino	zo|o|[pó]|ni|ca
+zoopônica	nome feminino	zo|o|[pô]|ni|ca
+zoopsia	nome feminino	zo|op|[si]|a
+zoopsicologia	nome feminino	zo|op|si|co|lo|[gi]|a
+zoopsicológico	adjetivo	zo|op|si|co|[ló]|gi|co
+zoopsicologista	nome masculino	zo|op|si|co|lo|[gis]|ta
+zoopsicologista	nome feminino	zo|op|si|co|lo|[gis]|ta
+zoopsicólogo	nome masculino	zo|op|si|[có]|lo|go
+zoóptico	adjetivo	zo|[óp]|ti|co
+zooquímica	nome feminino	zo|o|[quí]|mi|ca
+zooquímico	adjetivo	zo|o|[quí]|mi|co
+zoorística	nome feminino	zo|o|[rís]|ti|ca
+zoorístico	adjetivo	zo|o|[rís]|ti|co
+zooscopia	nome feminino	zo|os|co|[pi]|a
+zooscópico	adjetivo	zo|os|[có]|pi|co
+zoose	nome feminino	zo|[o]|se
+zoosperma	nome masculino	zo|os|[per]|ma
+zoospermia	nome feminino	zo|os|per|[mi]|a
+zoosporângio	nome masculino	zo|os|po|[rân]|gi|o
+zoospórico	adjetivo	zo|os|[pó]|ri|co
+zoósporo	nome masculino	zo|[ós]|po|ro
+zoosporocisto	nome masculino	zo|os|po|ro|[cis]|to
+zootáctico	adjetivo	zo|o|[tác]|ti|co
+zootático	adjetivo	zo|o|[tá]|ti|co
+zootaxia	nome feminino	zo|o|ta|[xi]|a
+zootáxico	adjetivo	zo|o|[tá]|xi|co
+zootaxionomia	nome feminino	zo|o|ta|xi|o|no|[mi]|a
+zooteca	nome feminino	zo|o|[te]|ca
+zootecnia	nome feminino	zo|o|tec|[ni]|a
+zootécnica	nome feminino	zo|o|[téc]|ni|ca
+zootécnico	adjetivo	zo|o|[téc]|ni|co
+zootécnico	nome masculino	zo|o|[téc]|ni|co
+zootecnista	nome masculino	zo|o|tec|[nis]|ta
+zootecnista	nome feminino	zo|o|tec|[nis]|ta
+zooterapêutica	nome feminino	zo|o|te|ra|[pêu]|ti|ca
+zooterapêutico	adjetivo	zo|o|te|ra|[pêu]|ti|co
+zooterapia	nome feminino	zo|o|te|ra|[pi]|a
+zooterápico	adjetivo	zo|o|te|[rá]|pi|co
+zoótico	adjetivo	zo|[ó]|ti|co
+zootipólito	nome masculino	zo|o|ti|[pó]|li|to
+zootomia	nome feminino	zo|o|to|[mi]|a
+zootómico	adjetivo	zo|o|[tó]|mi|co
+zootômico	adjetivo	zo|o|[tô]|mi|co
+zootomista	nome masculino	zo|o|to|[mis]|ta
+zootomista	nome feminino	zo|o|to|[mis]|ta
+zootrofia	nome feminino	zo|o|tro|[fi]|a
+zoobiótico	adjetivo	zo|o|bi|[ó]|ti|co
+zoocarpo	nome masculino	zo|o|[car]|po
+zoocecídia	nome feminino	zo|o|ce|[cí]|di|a
+zoociste	nome feminino	zo|o|[cis]|te
+zooclorela	nome feminino	zo|o|clo|[re]|la
+zoococina	nome feminino	zo|o|co|[ci]|na
+zoocorografia	nome feminino	zo|o|co|ro|gra|[fi]|a
+zoocorográfico	adjetivo	zo|o|co|ro|[grá]|fi|co
+zoocresia	nome feminino	zo|o|cre|[si]|a
+zoocréstico	adjetivo	zo|o|[crés]|ti|co
+zoodinâmica	nome feminino	zo|o|di|[nâ]|mi|ca
+zoodomácia	nome feminino	zo|o|do|[má]|ci|a
+zooeléctrico	adjetivo	zo|o|e|[léc]|tri|co
+zooeletricidade	nome feminino	zo|o|e|le|tri|ci|[da]|de
+zooelétrico	adjetivo	zo|o|e|[lé]|tri|co
+zooematina	nome feminino	zo|o|e|ma|[ti]|na
+zooética	nome feminino	zo|o|[é]|ti|ca
+zoófaga	nome feminino	zo|[ó]|fa|ga
+zoofagia	nome feminino	zo|o|fa|[gi]|a
+zoofágico	adjetivo	zo|o|[fá]|gi|co
+zoófago	nome masculino	zo|[ó]|fa|go
+zoófago	adjetivo	zo|[ó]|fa|go
+zoófila	nome feminino	zo|[ó]|fi|la
+zoofilia	nome feminino	zo|o|fi|[li]|a
+zoófilo	adjetivo	zo|[ó]|fi|lo
+zoófilo	nome masculino	zo|[ó]|fi|lo
+zoofitantráceo	adjetivo	zo|o|fi|tan|[trá]|ce|o
+zoofitário	adjetivo	zo|o|fi|[tá]|ri|o
+zoofítico	adjetivo	zo|o|[fí]|ti|co
+zoófito	adjetivo	zo|[ó]|fi|to
+zoófito	nome masculino	zo|[ó]|fi|to
+zoofitografia	nome feminino	zo|o|fi|to|gra|[fi]|a
+zoofitográfico	adjetivo	zo|o|fi|to|[grá]|fi|co
+zoofitógrafo	nome masculino	zo|o|fi|[tó]|gra|fo
+zoofitoide	adjetivo	zo|o|fi|[toi]|de
+zoofitólito	nome masculino	zo|o|fi|[tó]|li|to
+zoofitologia	nome feminino	zo|o|fi|to|lo|[gi]|a
+zoofitológico	adjetivo	zo|o|fi|to|[ló]|gi|co
+zoofitologista	nome masculino	zo|o|fi|to|lo|[gis]|ta
+zoofitologista	nome feminino	zo|o|fi|to|lo|[gis]|ta
+zoofitólogo	nome masculino	zo|o|fi|[tó]|lo|go
+zooflagelado	adjetivo	zo|o|fla|ge|[la]|do
+zooflagelado	nome masculino	zo|o|fla|ge|[la]|do
+zoófoba	nome feminino	zo|[ó]|fo|ba
+zoofobia	nome feminino	zo|o|fo|[bi]|a
+zoófobo	nome masculino	zo|[ó]|fo|bo
+zoófobo	adjetivo	zo|[ó]|fo|bo
+zoofórico	adjetivo	zo|o|[fó]|ri|co
+zoóforo	nome masculino	zo|[ó]|fo|ro
+zoogâmeta	nome masculino	zo|o|[gâ]|me|ta
+zoogamia	nome feminino	zo|o|ga|[mi]|a
+zoógamo	adjetivo	zo|[ó]|ga|mo
+zoogenia	nome feminino	zo|o|ge|[ni]|a
+zoogénico	adjetivo	zo|o|[gé]|ni|co
+zoogênico	adjetivo	zo|o|[gê]|ni|co
+zoogénio	nome masculino	zo|o|[gé]|ni|o
+zoogênio	nome masculino	zo|o|[gê]|ni|o
+zoogeografia	nome feminino	zo|o|ge|o|gra|[fi]|a
+zoogeográfico	adjetivo	zo|o|ge|o|[grá]|fi|co
+zoogeógrafo	nome masculino	zo|o|ge|[ó]|gra|fo
+zoogleia	nome feminino	zo|o|[glei]|a
+zooglifite	nome feminino	zo|o|gli|[fi]|te
+zoogonia	nome feminino	zo|o|go|[ni]|a
+zoógono	adjetivo	zo|[ó]|go|no
+zoografar	verbo	zo|o|gra|[far]
+zoografia	nome feminino	zo|o|gra|[fi]|a
+zoográfico	adjetivo	zo|o|[grá]|fi|co
+zoógrafo	nome masculino	zo|[ó]|gra|fo
+zooiatra	nome masculino	zo|oi|[a]|tra
+zooiatra	nome feminino	zo|oi|[a]|tra
+zooiatria	nome feminino	zo|oi|a|[tri]|a
+zooiátrico	adjetivo	zo|oi|[á]|tri|co
+zooiatro	nome masculino	zo|oi|[a]|tro
+zooiatrologia	nome feminino	zo|oi|a|tro|lo|[gi]|a
+zooiatrológico	adjetivo	zo|oi|a|tro|[ló]|gi|co
+zooiatrologista	nome masculino	zo|oi|a|tro|lo|[gis]|ta
+zooiatrologista	nome feminino	zo|oi|a|tro|lo|[gis]|ta
+zooiatrólogo	nome masculino	zo|oi|a|[tró]|lo|go
+zooide	nome masculino	zo|[oi]|de
+zooide	adjetivo	zo|[oi]|de
+zooiodina	nome feminino	zo|oi|o|[di]|na
+zoólatra	adjetivo	zo|[ó]|la|tra
+zoólatra	nome masculino	zo|[ó]|la|tra
+zoólatra	nome feminino	zo|[ó]|la|tra
+zoolatria	nome feminino	zo|o|la|[tri]|a
+zoolátrico	adjetivo	zo|o|[lá]|tri|co
+zoolítico	adjetivo	zo|o|[lí]|ti|co
+zoolitífero	adjetivo	zo|o|li|[tí]|fe|ro
+zoólito	nome masculino	zo|[ó]|li|to
+zoolitóforo	adjetivo	zo|o|li|[tó]|fo|ro
+zoologia	nome feminino	zo|o|lo|[gi]|a
+zoologicamente	advérbio	zo|o|lo|gi|ca|[men]|te
+zoológico	adjetivo	zo|o|[ló]|gi|co
+zoológico	nome masculino	zo|o|[ló]|gi|co
+zoologista	nome masculino	zo|o|lo|[gis]|ta
+zoologista	nome feminino	zo|o|lo|[gis]|ta
+zoólogo	nome masculino	zo|[ó]|lo|go
+zoom	nome masculino	[zoom]
+zoomagnético	adjetivo	zo|o|mag|[né]|ti|co
+zoomagnetismo	nome masculino	zo|o|mag|ne|[tis]|mo
+zé-cuecas	nome masculino	zé-cu|[e]|cas
+zé-faz-formas	nome masculino	zé-faz-for|mas
+zé-godes	nome masculino	zé-go|des
+zé-goelas	nome masculino	zé-go|[e]|las
+zé-ninguém	nome masculino	zé-nin|[guém]
+zé-pereira	nome masculino	zé-pe|[rei]|ra
+zé-povinho	nome masculino	zé-po|[vi]|nho
+zé-povo	nome masculino	zé-po|vo
+zé-pregos	nome masculino	zé-pre|gos
+zé-prequeté	nome masculino	zé-pre|que|[té]
+zé-quitólis	nome masculino	zé-qui|[tó]|lis
+zebo	nome masculino	[ze]|bo
+zebra	nome feminino	[ze]|bra
+zebrado	nome masculino	ze|[bra]|do
+zebrado	adjetivo	ze|[bra]|do
+zebrainho	nome masculino	ze|bra|[i]|nho
+zebral	adjetivo	ze|[bral]
+zebrar	verbo	ze|[brar]
+zebrário	adjetivo	ze|[brá]|ri|o
+zebre	nome masculino	[ze]|bre
+zebrino	adjetivo	ze|[bri]|no
+zebro	nome masculino	[ze]|bro
+zebroide	nome masculino	ze|[broi]|de
+zebroide	adjetivo	ze|[broi]|de
+zebrum	adjetivo	ze|[brum]
+zebruno	adjetivo	ze|[bru]|no
+zebu	nome masculino	ze|[bu]
+zebu	adjetivo	ze|[bu]
+zebueiro	nome masculino	ze|bu|[ei]|ro
+zebuzeiro	nome masculino	ze|bu|[zei]|ro
+zécora	nome feminino	[zé]|co|ra
+zedoária	nome feminino	ze|do|[á]|ri|a
+zefir	nome masculino	ze|[fir]
+zéfir	nome masculino	[zé]|fir
+zefire	nome masculino	ze|[fi]|re
+zefirino	adjetivo	ze|fi|[ri]|no
+zefírio	adjetivo	ze|[fí]|ri|o
+zefírio	nome masculino	ze|[fí]|ri|o
+zéfiro	nome masculino	[zé]|fi|ro
+zegri	adjetivo	ze|[gri]
+zegri	nome masculino	ze|[gri]
+zegri	nome feminino	ze|[gri]
+zegulo	nome masculino	ze|[gu]|lo
+zeia	nome feminino	[zei]|a
+zeida	nome masculino	[zei]|da
+zeídeo	nome masculino	ze|[í]|de|o
+zeídeo	adjetivo	ze|[í]|de|o
+zeimão	nome masculino	zei|[mão]
+zeína	nome feminino	ze|[í]|na
+zeísmo	nome masculino	ze|[ís]|mo
+zeitgeist	nome masculino	[zeit]|geist
+zekel	nome masculino	ze|kel
+zelação	nome feminino	ze|la|[ção]
+zelador	nome masculino	ze|la|[dor]
+zelador	adjetivo	ze|la|[dor]
+zeladoria	nome feminino	ze|la|do|[ri]|a
+zelandês	nome masculino	ze|lan|[dês]
+zelandês	adjetivo	ze|lan|[dês]
+zelandesa	nome feminino	ze|lan|[de]|sa
+zelante	adjetivo	ze|[lan]|te
+zelar	verbo	ze|[lar]
+zelha	nome feminino	[ze]|lha
+zelo	nome masculino	[ze]|lo
+zelosamente	advérbio	ze|lo|sa|[men]|te
+zelosia	nome feminino	ze|lo|[si]|a
+zeloso	adjetivo	ze|[lo]|so
+zelote	adjetivo	ze|[lo]|te
+zelote	nome masculino	ze|[lo]|te
+zelotipia	nome feminino	ze|lo|ti|[pi]|a
+zelotípico	adjetivo	ze|lo|[tí]|pi|co
+zelotismo	nome masculino	ze|lo|[tis]|mo
+zembro	adjetivo	[zem]|bro
+zemindar	nome masculino	ze|min|[dar]
+zemiobiose	nome feminino	ze|mi|o|bi|[o]|se
+zemiodemia	nome feminino	ze|mi|o|de|[mi]|a
+zen	nome masculino	[zen]
+zen	adjetivo	[zen]
+zenana	nome masculino	ze|[na]|na
+zenana	nome feminino	ze|[na]|na
+zenata	adjetivo	ze|[na]|ta
+zenata	nome masculino	ze|[na]|ta
+zenata	nome feminino	ze|[na]|ta
+zenda	nome masculino	[zen]|da
+zende	nome masculino	[zen]|de
+zendicismo	nome masculino	zen|di|[cis]|mo
+zendicista	nome masculino	zen|di|[cis]|ta
+zendicista	nome feminino	zen|di|[cis]|ta
+zendismo	nome masculino	zen|[dis]|mo
+zendista	nome masculino	zen|[dis]|ta
+zendista	nome feminino	zen|[dis]|ta
+zenéria	nome feminino	ze|[né]|ri|a
+zeneta	nome masculino	ze|[ne]|ta
+zeneta	adjetivo	ze|[ne]|ta
+zeneta	nome feminino	ze|[ne]|ta
+zengue-zengue	nome masculino	zen|gue-zen|gue
+zenha	nome feminino	[ze]|nha
+zenir	verbo	ze|[nir]
+zenital	adjetivo	ze|ni|[tal]
+zénite	nome masculino	[zé]|ni|te
+zênite	nome masculino	[zê]|ni|te
+zincogravar	verbo	zin|co|gra|[var]
+zincogravura	nome feminino	zin|co|gra|[vu]|ra
+zineira	nome feminino	zi|[nei]|ra
+zineto	adjetivo	zi|[ne]|to
+zinga	nome feminino	[zin]|ga
+zingador	adjetivo	zin|ga|[dor]
+zingador	nome masculino	zin|ga|[dor]
+zingamocho	nome masculino	zin|ga|[mo]|cho
+zingar	verbo	zin|[gar]
+zíngara	nome feminino	[zín]|ga|ra
+zingarear	verbo	zin|ga|re|[ar]
+zingarelado	adjetivo	zin|ga|re|[la]|do
+zíngaro	adjetivo	[zín]|ga|ro
+zíngaro	nome masculino	[zín]|ga|ro
+zingiberácea	nome feminino	zin|gi|be|[rá]|ce|a
+zingiberáceo	adjetivo	zin|gi|be|[rá]|ce|o
+zingração	nome feminino	zin|gra|[ção]
+zingrar	verbo	zin|[grar]
+zinguerrear	verbo	zin|guer|re|[ar]
+zinho	nome masculino	[zi]|nho
+zínia	nome feminino	[zí]|ni|a
+zinideira	nome feminino	zi|ni|[dei]|ra
+zinir	verbo	zi|[nir]
+zinote	nome masculino	zi|[no]|te
+zinzilular	verbo	zin|zi|lu|[lar]
+zip	nome masculino	[zip]
+zipada	nome feminino	zi|[pa]|da
+zipar	verbo	zi|[par]
+zipe	nome masculino	[zi]|pe
+zíper	nome masculino	[zí]|per
+zirbal	adjetivo	zir|[bal]
+zirbeiro	nome masculino	zir|[bei]|ro
+zirbo	nome masculino	[zir]|bo
+zircão	nome masculino	zir|[cão]
+zirconato	nome masculino	zir|co|[na]|to
+zircônico	adjetivo	zir|[cô]|ni|co
+zircónico	adjetivo	zir|[có]|ni|co
+zircónio	nome masculino	zir|[có]|ni|o
+zircônio	nome masculino	zir|[cô]|ni|o
+zirconite	nome feminino	zir|co|[ni]|te
+ziriano	adjetivo	zi|ri|[a]|no
+ziriano	nome masculino	zi|ri|[a]|no
+zirneira	nome feminino	zir|[nei]|ra
+zirra-zirra	nome feminino	zir|ra-zir|ra
+zirra-zirra	interjeição	zir|ra-zir|ra
+zirrar	verbo	zir|[rar]
+zirro	nome masculino	[zir]|ro
+zito	nome masculino	[zi]|to
+zitógala	nome feminino	zi|[tó]|ga|la
+zizânia	nome feminino	zi|[zâ]|ni|a
+zizaniar	verbo	zi|za|ni|[ar]
+zizanista	nome masculino	zi|za|[nis]|ta
+zizanista	nome feminino	zi|za|[nis]|ta
+zízia	nome feminino	[zí]|zi|a
+ziziamento	nome masculino	zi|zi|a|[men]|to
+ziziar	verbo	zi|zi|[ar]
+zizifácea	nome feminino	zi|zi|[fá]|ce|a
+zizífico	adjetivo	zi|[zí]|fi|co
+zízifo	nome masculino	[zí]|zi|fo
+zizio	nome masculino	zi|[zi]|o
+zlóti	nome masculino	[zló]|ti
+zloty	nome masculino	[zlo]|ty
+zoa	nome feminino	[zo]|a
+zoada	nome feminino	zo|[a]|da
+zoadeira	nome feminino	zo|a|[dei]|ra
+zoamilia	nome feminino	zo|a|mi|[li]|a
+zoamilina	nome feminino	zo|a|mi|[li]|na
+zoamílio	nome masculino	zo|a|[mí]|li|o
+zoantário	nome masculino	zo|an|[tá]|ri|o
+zoante	adjetivo	zo|[an]|te
+zoanto	nome masculino	zo|[an]|to
+zoantodema	nome feminino	zo|an|to|[de]|ma
+zoantropia	nome feminino	zo|an|tro|[pi]|a
+zoantrópico	adjetivo	zo|an|[tró]|pi|co
+zoantropo	nome masculino	zo|an|[tro]|po
+zoar	verbo	zo|[ar]
+zoarco	nome masculino	zo|[ar]|co
+zoário	nome masculino	zo|[á]|ri|o
+zodiacal	adjetivo	zo|di|a|[cal]
+zoe	nome feminino	[zo]|e
+zoécia	nome feminino	zo|[é]|ci|a
+zoécio	nome masculino	zo|[é]|ci|o
+zoeia	nome feminino	zo|[ei]|a
+zoeira	nome masculino	zo|[ei]|ra
+zoeira	nome feminino	zo|[ei]|ra
+zoela	adjetivo	zo|[e]|la
+zoela	nome masculino	zo|[e]|la
+zoela	nome feminino	zo|[e]|la
+zoeléctrico	adjetivo	zo|e|[léc]|tri|co
+zoeletricidade	nome feminino	zo|e|le|tri|ci|[da]|de
+zoelétrico	adjetivo	zo|e|[lé]|tri|co
+zoematina	nome feminino	zo|e|ma|[ti]|na
+zoética	nome feminino	zo|[é]|ti|ca
+zoga	nome feminino	[zo]|ga
+zogada	nome feminino	zo|[ga]|da
+zoiatra	nome masculino	zoi|[a]|tra
+zoiatra	nome feminino	zoi|[a]|tra
+zoiatria	nome feminino	zoi|a|[tri]|a
+zoiátrico	adjetivo	zoi|[á]|tri|co
+zoiatro	nome masculino	zoi|[a]|tro
+zigonema	nome masculino	zi|go|[ne]|ma
+zigopétalo	nome masculino	zi|go|[pé]|ta|lo
+zigopolitano	adjetivo	zi|go|po|li|[ta]|no
+zigopolitano	nome masculino	zi|go|po|li|[ta]|no
+zigose	nome feminino	zi|[go]|se
+zigospório	nome masculino	zi|gos|[pó]|ri|o
+zigósporo	nome masculino	zi|[gós]|po|ro
+zigóstata	nome masculino	zi|[gós]|ta|ta
+zigotáctico	adjetivo	zi|go|[tác]|ti|co
+zigotactismo	nome masculino	zi|go|tac|[tis]|mo
+zigotático	adjetivo	zi|go|[tá]|ti|co
+zigotatismo	nome masculino	zi|go|ta|[tis]|mo
+zigoteno	adjetivo	zi|go|[te]|no
+zigótico	adjetivo	zi|[gó]|ti|co
+zigoto	nome masculino	zi|[go]|to
+zigotoblasto	nome masculino	zi|go|to|[blas]|to
+zigotómero	nome masculino	zi|go|[tó]|me|ro
+zigrita	adjetivo	zi|[gri]|ta
+zigrita	nome masculino	zi|[gri]|ta
+zigrita	nome feminino	zi|[gri]|ta
+ziguezague	nome masculino	zi|gue|[za]|gue
+ziguezagueante	adjetivo	zi|gue|za|gue|[an]|te
+ziguezaguear	verbo	zi|gue|za|gue|[ar]
+ziguezigue	nome masculino	zi|gue|[zi]|gue
+zigurate	nome masculino	zi|gu|[ra]|te
+zílea	nome feminino	[zí]|le|a
+zilhão	nome masculino	zi|[lhão]
+zilro	nome masculino	[zil]|ro
+zímase	nome feminino	[zí]|ma|se
+zimba	adjetivo	[zim]|ba
+zimba	nome masculino	[zim]|ba
+zimba	nome feminino	[zim]|ba
+zimbabuano	adjetivo	zim|ba|bu|[a]|no
+zimbabuano	nome masculino	zim|ba|bu|[a]|no
+zimbábue	nome masculino	zim|[bá]|bu|e
+zimbabuense	adjetivo	zim|ba|bu|[en]|se
+zimbabuense	nome masculino	zim|ba|bu|[en]|se
+zimbabuense	nome feminino	zim|ba|bu|[en]|se
+zimbabwense	adjetivo	zim|ba|bwen|se
+zimbabwense	nome feminino	zim|ba|bwen|se
+zimbabwense	nome masculino	zim|ba|bwen|se
+zimbabwiana	nome feminino	zim|ba|bwi|a|na
+zimbabwiano	adjetivo	zim|ba|bwi|a|no
+zimbabwiano	nome masculino	zim|ba|bwi|[a]|no
+zimbo	nome masculino	[zim]|bo
+zimbório	nome masculino	zim|[bó]|ri|o
+zimbrada	nome feminino	zim|[bra]|da
+zimbradura	nome feminino	zim|bra|[du]|ra
+zimbral	nome masculino	zim|[bral]
+zimbrão	nome masculino	zim|[brão]
+zimbrar	verbo	zim|[brar]
+zimbreiral	nome masculino	zim|brei|[ral]
+zimbreiro	nome masculino	zim|[brei]|ro
+zimbro	nome masculino	[zim]|bro
+zimbro-rasteiro	nome masculino	zim|bro-ras|[tei]|ro
+zímico	adjetivo	[zí]|mi|co
+zimidrólise	nome feminino	zi|mi|[dró]|li|se
+zimodiagnóstico	nome masculino	zi|mo|di|ag|[nós]|ti|co
+zimóforo	adjetivo	zi|[mó]|fo|ro
+zimogenia	nome feminino	zi|mo|ge|[ni]|a
+zimogénico	adjetivo	zi|mo|[gé]|ni|co
+zimogênico	adjetivo	zi|mo|[gê]|ni|co
+zimogénio	nome masculino	zi|mo|[gé]|ni|o
+zimogênio	nome masculino	zi|mo|[gê]|ni|o
+zimógeno	adjetivo	zi|[mó]|ge|no
+zimologia	nome feminino	zi|mo|lo|[gi]|a
+zimológico	adjetivo	zi|mo|[ló]|gi|co
+zimoma	nome masculino	zi|[mo]|ma
+zimoplasma	nome masculino	zi|mo|[plas]|ma
+zimoproteína	nome feminino	zi|mo|pro|te|[í]|na
+zimoscópico	adjetivo	zi|mos|[có]|pi|co
+zimoscópio	nome masculino	zi|mos|[có]|pi|o
+zimose	nome feminino	zi|[mo]|se
+zimosimetria	nome feminino	zi|mo|si|me|[tri]|a
+zimosimétrico	adjetivo	zi|mo|si|[mé]|tri|co
+zimosímetro	nome masculino	zi|mo|[sí]|me|tro
+zimosiometria	nome feminino	zi|mo|si|o|me|[tri]|a
+zimosiométrico	adjetivo	zi|mo|si|o|[mé]|tri|co
+zimosiómetro	nome masculino	zi|mo|si|[ó]|me|tro
+zimosiômetro	nome masculino	zi|mo|si|[ô]|me|tro
+zimotecnia	nome feminino	zi|mo|tec|[ni]|a
+zimotécnico	adjetivo	zi|mo|[téc]|ni|co
+zimoterapia	nome feminino	zi|mo|te|ra|[pi]|a
+zimótico	adjetivo	zi|[mó]|ti|co
+zina	nome feminino	[zi]|na
+zinabre	nome masculino	zi|[na]|bre
+zincagem	nome feminino	zin|[ca]|gem
+zincaluminite	nome feminino	zin|ca|lu|mi|[ni]|te
+zincar	verbo	zin|[car]
+zincato	nome masculino	zin|[ca]|to
+zíncico	adjetivo	[zín]|ci|co
+zincífero	adjetivo	zin|[cí]|fe|ro
+zincita	nome feminino	zin|[ci]|ta
+zincite	nome feminino	zin|[ci]|te
+zinco	nome masculino	[zin]|co
+zincografar	verbo	zin|co|gra|[far]
+zincografia	nome feminino	zin|co|gra|[fi]|a
+zincográfico	adjetivo	zin|co|[grá]|fi|co
+zincógrafo	nome masculino	zin|[có]|gra|fo
+zincogravador	nome masculino	zin|co|gra|va|[dor]

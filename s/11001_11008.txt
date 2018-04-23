@@ -1,8 +1,0 @@
-sweater	nome feminino	[swea]|ter
-sweatshirt	nome feminino	sweat|shirt
-swedenborgiano	adjetivo	swe|den|bor|gi|[a]|no
-swedenborgismo	nome masculino	swe|den|bor|[gis]|mo
-swedenborgista	adjetivo	swe|den|bor|[gis]|ta
-swedenborgista	nome masculino	swe|den|bor|[gis]|ta
-swedenborgista	nome feminino	swe|den|bor|[gis]|ta
-swing	nome masculino	[swing]

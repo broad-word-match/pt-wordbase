@@ -1,0 +1,4160 @@
+opuscular	adjetivo	o|pus|cu|[lar]
+opúsculo	nome masculino	o|[pús]|cu|lo
+oquê	nome masculino	o|[quê]
+oqueá	nome feminino	o|que|[á]
+oquim	nome masculino	o|[quim]
+oquirópode	nome masculino	o|qui|[ró]|po|de
+ora	advérbio	[o]|ra
+ora	conjunção	[o]|ra
+ora	interjeição	[o]|ra
+oração	nome feminino	o|ra|[ção]
+oracional	adjetivo	o|ra|ci|o|[nal]
+oracionalmente	advérbio	o|ra|ci|o|nal|[men]|te
+oraçoeiro	nome masculino	o|ra|ço|[ei]|ro
+oracular	adjetivo	o|ra|cu|[lar]
+oracular	verbo	o|ra|cu|[lar]
+oracularmente	advérbio	o|ra|cu|lar|[men]|te
+oraculino	adjetivo	o|ra|cu|[li]|no
+oraculizante	adjetivo	o|ra|cu|li|[zan]|te
+oraculizar	verbo	o|ra|cu|li|[zar]
+oráculo	nome masculino	o|[rá]|cu|lo
+orada	nome feminino	o|[ra]|da
+orador	nome masculino	o|ra|[dor]
+oradora	nome feminino	o|ra|[do]|ra
+orago	nome masculino	o|[ra]|go
+oral	adjetivo	o|[ral]
+oral	nome feminino	o|[ral]
+oral	nome masculino	o|[ral]
+oralidade	nome feminino	o|ra|li|[da]|de
+oralização	nome feminino	o|ra|li|za|[ção]
+oralizar	verbo	o|ra|li|[zar]
+oralmente	advérbio	o|ral|[men]|te
+orangino	adjetivo	o|ran|[gi]|no
+orangino	nome masculino	o|ran|[gi]|no
+orangismo	nome masculino	o|ran|[gis]|mo
+orangista	nome masculino	o|ran|[gis]|ta
+orangista	adjetivo	o|ran|[gis]|ta
+orangista	nome feminino	o|ran|[gis]|ta
+orangite	nome feminino	o|ran|[gi]|te
+orangotango	nome masculino	o|ran|go|[tan]|go
+orano	adjetivo	o|[ra]|no
+orano	nome masculino	o|[ra]|no
+orante	adjetivo	o|[ran]|te
+orar	verbo	o|[rar]
+orário	nome masculino	o|[rá]|ri|o
+orata	adjetivo	o|[ra]|ta
+orata	nome masculino	o|[ra]|ta
+orata	nome feminino	o|[ra]|ta
+orate	nome masculino	o|[ra]|te
+orate	nome feminino	o|[ra]|te
+oratelo	adjetivo	o|ra|[te]|lo
+oratelo	nome masculino	o|ra|[te]|lo
+oratória	nome feminino	o|ra|[tó]|ri|a
+oratoriamente	advérbio	o|ra|to|ri|a|[men]|te
+oratoriano	adjetivo	o|ra|to|ri|[a]|no
+oratoriano	nome masculino	o|ra|to|ri|[a]|no
+oratório	adjetivo	o|ra|[tó]|ri|o
+oratório	nome masculino	o|ra|[tó]|ri|o
+orbe	nome masculino	[or]|be
+orbícola	nome masculino	or|[bí]|co|la
+orbícola	adjetivo	or|[bí]|co|la
+orbícula	nome feminino	or|[bí]|cu|la
+orbicular	adjetivo	or|bi|cu|[lar]
+orbicular	nome masculino	or|bi|cu|[lar]
+orbicularmente	advérbio	or|bi|cu|lar|[men]|te
+orbículo	nome masculino	or|[bí]|cu|lo
+orbilha	nome feminino	or|[bi]|lha
+orbilianismo	nome masculino	or|bi|li|a|[nis]|mo
+orbiliano	adjetivo	or|bi|li|[a]|no
+órbita	nome feminino	[ór]|bi|ta
+orbitador	adjetivo	or|bi|ta|[dor]
+orbitador	nome masculino	or|bi|ta|[dor]
+orbital	adjetivo	or|bi|[tal]
+orbital	nome feminino	or|bi|[tal]
+orbitante	adjetivo	or|bi|[tan]|te
+orbitar	verbo	or|bi|[tar]
+orbitário	adjetivo	or|bi|[tá]|ri|o
+orbitelo	adjetivo	or|bi|[te]|lo
+orbivácuo	adjetivo	or|bi|[vá]|cu|o
+orbívago	adjetivo	or|[bí]|va|go
+orbulite	nome feminino	or|bu|[li]|te
+orça	nome feminino	[or]|ça
+orca	nome feminino	[or]|ca
+orçador	adjetivo	or|ça|[dor]
+orçador	nome masculino	or|ça|[dor]
+orçadora	nome feminino	or|ça|[do]|ra
+orçamental	adjetivo	or|ça|men|[tal]
+orçamentar	verbo	or|ça|men|[tar]
+orçamentário	adjetivo	or|ça|men|[tá]|ri|o
+orçamentista	nome masculino	or|ça|men|[tis]|ta
+orçamentista	nome feminino	or|ça|men|[tis]|ta
+orçamentívoro	adjetivo	or|ça|men|[tí]|vo|ro
+orçamento	nome masculino	or|ça|[men]|to
+orçamento-padrão	nome masculino	or|ça|men|to-pa|[drão]
+orçamentologia	nome feminino	or|ça|men|to|lo|[gi]|a
+orçamentológico	adjetivo	or|ça|men|to|[ló]|gi|co
+orçamentologista	nome masculino	or|ça|men|to|lo|[gis]|ta
+orçamentologista	nome feminino	or|ça|men|to|lo|[gis]|ta
+orçamentólogo	nome masculino	or|ça|men|[tó]|lo|go
+orcaneta	nome feminino	or|ca|[ne]|ta
+orcanetina	nome feminino	or|ca|ne|[ti]|na
+obra	nome feminino	[o]|bra
+obra-base	nome feminino	o|bra-ba|se
+obra-córnea	nome feminino	o|bra-cór|ne|a
+obra-prima	nome feminino	o|bra-pri|ma
+obração	nome feminino	o|bra|[ção]
+obrada	nome feminino	o|[bra]|da
+obradeira	nome feminino	o|bra|[dei]|ra
+obrador	adjetivo	o|bra|[dor]
+obrador	nome masculino	o|bra|[dor]
+obradório	nome masculino	o|bra|[dó]|ri|o
+obragem	nome feminino	o|[bra]|gem
+obrante	adjetivo	o|[bran]|te
+obrar	verbo	o|[brar]
+obrável	adjetivo	o|[brá]|vel
+obreeiro	nome masculino	o|bre|[ei]|ro
+obregão	nome masculino	o|bre|[gão]
+obreia	nome feminino	o|[brei]|a
+obreira	nome feminino	o|[brei]|ra
+obreiro	nome masculino	o|[brei]|ro
+obreiro	adjetivo	o|[brei]|ro
+obrejar	verbo	o|bre|[jar]
+obriga	nome feminino	o|[bri]|ga
+obrigação	nome feminino	o|bri|ga|[ção]
+obrigacional	adjetivo	o|bri|ga|ci|o|[nal]
+obrigacionário	nome masculino	o|bri|ga|ci|o|[ná]|ri|o
+obrigacionista	nome masculino	o|bri|ga|ci|o|[nis]|ta
+obrigacionista	nome feminino	o|bri|ga|ci|o|[nis]|ta
+obrigacionista	adjetivo	o|bri|ga|ci|o|[nis]|ta
+obrigadinho	interjeição	o|bri|ga|[di]|nho
+obrigado	adjetivo	o|bri|[ga]|do
+obrigado	interjeição	o|bri|[ga]|do
+obrigador	adjetivo	o|bri|ga|[dor]
+obrigador	nome masculino	o|bri|ga|[dor]
+obrigante	adjetivo	o|bri|[gan]|te
+obrigar	verbo	o|bri|[gar]
+obrigatária	nome feminino	o|bri|ga|[tá]|ri|a
+obrigatário	nome masculino	o|bri|ga|[tá]|ri|o
+obrigatividade	nome feminino	o|bri|ga|ti|vi|[da]|de
+obrigativo	adjetivo	o|bri|ga|[ti]|vo
+obrigatoriamente	advérbio	o|bri|ga|to|ri|a|[men]|te
+obrigatoriedade	nome feminino	o|bri|ga|to|ri|e|[da]|de
+obrigatório	adjetivo	o|bri|ga|[tó]|ri|o
+obrigável	adjetivo	o|bri|[gá]|vel
+obringente	adjetivo	o|brin|[gen]|te
+obscenamente	advérbio	obs|ce|na|[men]|te
+obscenidade	nome feminino	obs|ce|ni|[da]|de
+obscenizar	verbo	obs|ce|ni|[zar]
+obsceno	adjetivo	obs|[ce]|no
+obscuração	nome feminino	obs|cu|ra|[ção]
+obscuramente	advérbio	obs|cu|ra|[men]|te
+obscurante	adjetivo	obs|cu|[ran]|te
+obscurantismo	nome masculino	obs|cu|ran|[tis]|mo
+obscurantista	nome masculino	obs|cu|ran|[tis]|ta
+obscurantista	adjetivo	obs|cu|ran|[tis]|ta
+obscurantista	nome feminino	obs|cu|ran|[tis]|ta
+obscurantizar	verbo	obs|cu|ran|ti|[zar]
+obscurecedor	adjetivo	obs|cu|re|ce|[dor]
+obscurecedor	nome masculino	obs|cu|re|ce|[dor]
+obscurecer	verbo	obs|cu|re|[cer]
+obscurecido	adjetivo	obs|cu|re|[ci]|do
+obscurecimento	nome masculino	obs|cu|re|ci|[men]|to
+obscurecível	adjetivo	obs|cu|re|[cí]|vel
+obscureza	nome feminino	obs|cu|[re]|za
+obscuridade	nome feminino	obs|cu|ri|[da]|de
+obscuro	adjetivo	obs|[cu]|ro
+obsecração	nome feminino	ob|se|cra|[ção]
+obsecrar	verbo	ob|se|[crar]
+obsedar	verbo	ob|se|[dar]
+obsequente	adjetivo	ob|se|[quen]|te
+obsequiador	adjetivo	ob|se|qui|a|[dor]
+obsequiador	nome masculino	ob|se|qui|a|[dor]
+obsequiadora	nome feminino	ob|se|qui|a|[do]|ra
+obsequiar	verbo	ob|se|qui|[ar]
+obséquias	nome feminino	ob|[sé]|qui|as
+obsequiável	adjetivo	ob|se|qui|[á]|vel
+obséquio	nome masculino	ob|[sé]|qui|o
+obsequiosamente	advérbio	ob|se|qui|o|sa|[men]|te
+obsequiosidade	nome feminino	ob|se|qui|o|si|[da]|de
+obsequioso	adjetivo	ob|se|qui|[o]|so
+observação	nome feminino	ob|ser|va|[ção]
+observado	adjetivo	ob|ser|[va]|do
+observador	adjetivo	ob|ser|va|[dor]
+observador	nome masculino	ob|ser|va|[dor]
+observadora	nome feminino	ob|ser|va|[do]|ra
+observância	nome feminino	ob|ser|[vân]|ci|a
+observando	nome masculino	ob|ser|[van]|do
+observante	nome feminino	ob|ser|[van]|te
+observante	adjetivo	ob|ser|[van]|te
+observante	nome masculino	ob|ser|[van]|te
+observantino	adjetivo	ob|ser|van|[ti]|no
+observar	verbo	ob|ser|[var]
+observativo	adjetivo	ob|ser|va|[ti]|vo
+observatório	nome masculino	ob|ser|va|[tó]|ri|o
+observável	adjetivo	ob|ser|[vá]|vel
+observável	nome masculino	ob|ser|[vá]|vel
+obsessa	nome feminino	ob|[ses]|sa
+obsessão	nome feminino	ob|ses|[são]
+obsessiva	nome feminino	ob|ses|[si]|va
+obsessivamente	advérbio	ob|ses|si|va|[men]|te
+obsessivo	adjetivo	ob|ses|[si]|vo
+onfácio	nome masculino	on|[fá]|ci|o
+onfálea	nome feminino	on|[fá]|le|a
+onfalectomia	nome feminino	on|fa|lec|to|[mi]|a
+onfalectômico	adjetivo	on|fa|lec|[tô]|mi|co
+onfalectómico	adjetivo	on|fa|lec|[tó]|mi|co
+onfália	nome feminino	on|[fá]|li|a
+onfalite	nome feminino	on|fa|[li]|te
+onfalocele	nome feminino	on|fa|lo|[ce]|le
+onfalódio	nome masculino	on|fa|[ló]|di|o
+onfalofima	nome masculino	on|fa|lo|[fi]|ma
+onfalomancia	nome feminino	on|fa|lo|man|[ci]|a
+onfalomante	nome masculino	on|fa|lo|[man]|te
+onfalomante	nome feminino	on|fa|lo|[man]|te
+onfalomântico	adjetivo	on|fa|lo|[mân]|ti|co
+onfalomesentérico	adjetivo	on|fa|lo|me|sen|[té]|ri|co
+onfaloncose	nome feminino	on|fa|lon|[co]|se
+onfalópago	nome masculino	on|fa|[ló]|pa|go
+onfalorragia	nome feminino	on|fa|lor|ra|[gi]|a
+onfalorrágico	adjetivo	on|fa|lor|[rá]|gi|co
+onfalosito	nome masculino	on|fa|lo|[si]|to
+onfalotomia	nome feminino	on|fa|lo|to|[mi]|a
+onfalotómico	adjetivo	on|fa|lo|[tó]|mi|co
+onfalotômico	adjetivo	on|fa|lo|[tô]|mi|co
+onfalótribo	nome masculino	on|fa|[ló]|tri|bo
+onfalotripsia	nome feminino	on|fa|lo|trip|[si]|a
+onganda	nome feminino	on|[gan]|da
+onglete	nome masculino	on|[gle]|te
+onguari	nome masculino	on|gua|[ri]
+ônibus	nome masculino	[ô]|ni|bus
+ónibus	nome masculino	[ó]|ni|bus
+onicatrofia	nome feminino	o|ni|ca|tro|[fi]|a
+onicauxe	nome feminino	o|ni|[cau]|xe
+onicofagia	nome feminino	o|ni|co|fa|[gi]|a
+onicófago	adjetivo	o|ni|[có]|fa|go
+onicófago	nome masculino	o|ni|[có]|fa|go
+onicofima	nome masculino	o|ni|co|[fi]|ma
+onicóforo	nome masculino	o|ni|[có]|fo|ro
+onicógena	nome feminino	o|ni|[có]|ge|na
+onicógeno	adjetivo	o|ni|[có]|ge|no
+onicografia	nome feminino	o|ni|co|gra|[fi]|a
+onicográfico	adjetivo	o|ni|co|[grá]|fi|co
+onicógrafo	nome masculino	o|ni|[có]|gra|fo
+onicogripose	nome feminino	o|ni|co|gri|[po]|se
+onicólise	nome feminino	o|ni|[có]|li|se
+onicolor	adjetivo	o|ni|co|[lor]
+onicomancia	nome feminino	o|ni|co|man|[ci]|a
+onicomante	nome masculino	o|ni|co|[man]|te
+onicomante	nome feminino	o|ni|co|[man]|te
+onicomântico	adjetivo	o|ni|co|[mân]|ti|co
+onicomicose	nome feminino	o|ni|co|mi|[co]|se
+onicopatia	nome feminino	o|ni|co|pa|[ti]|a
+onicopático	adjetivo	o|ni|co|[pá]|ti|co
+onicopterígia	nome feminino	o|ni|cop|te|[rí]|gi|a
+onicoptose	nome feminino	o|ni|cop|[to]|se
+onicorrexe	nome feminino	o|ni|cor|[re]|xe
+onicosclerose	nome feminino	o|ni|cos|cle|[ro]|se
+onicose	nome feminino	o|ni|[co]|se
+onicósico	adjetivo	o|ni|[có]|si|co
+onidirecional	adjetivo	o|ni|di|re|ci|o|[nal]
+oniforme	adjetivo	o|ni|[for]|me
+onifulgente	adjetivo	o|ni|ful|[gen]|te
+onigênero	adjetivo	o|ni|[gê]|ne|ro
+onigênero	nome masculino	o|ni|[gê]|ne|ro
+onilingue	adjetivo	o|ni|[lin]|gue
+onímodo	adjetivo	o|[ní]|mo|do
+oniologia	nome feminino	o|ni|o|lo|[gi]|a
+oniológico	adjetivo	o|ni|o|[ló]|gi|co
+oniomania	nome feminino	o|ni|o|ma|[ni]|a
+oniomaníaco	adjetivo	o|ni|o|ma|[ní]|a|co
+oniomaníaco	nome masculino	o|ni|o|ma|[ní]|a|co
+oniómano	nome masculino	o|ni|[ó]|ma|no
+oniômano	nome masculino	o|ni|[ô]|ma|no
+oniparente	adjetivo	o|ni|pa|[ren]|te
+oníparo	adjetivo	o|[ní]|pa|ro
+onipatente	adjetivo	o|ni|pa|[ten]|te
+onipessoal	adjetivo	o|ni|pes|so|[al]
+onipotência	nome feminino	o|ni|po|[tên]|ci|a
+onipotente	adjetivo	o|ni|po|[ten]|te
+onipresença	nome feminino	o|ni|pre|[sen]|ça
+onipresente	adjetivo	o|ni|pre|[sen]|te
+oniquia	nome feminino	o|ni|[qui]|a
+oníquio	nome masculino	o|[ní]|qui|o
+oniquite	nome feminino	o|ni|[qui]|te
+onírico	adjetivo	o|[ní]|ri|co
+onirismo	nome masculino	o|ni|[ris]|mo
+onirocrisia	nome feminino	o|ni|ro|cri|[si]|a
+onirócrita	nome masculino	o|ni|[ró]|cri|ta
+onirócrita	nome feminino	o|ni|[ró]|cri|ta
+onirocrítica	nome feminino	o|ni|ro|[crí]|ti|ca
+onirocrítico	adjetivo	o|ni|ro|[crí]|ti|co
+onirodinia	nome feminino	o|ni|ro|di|[ni]|a
+onirodínico	adjetivo	o|ni|ro|[dí]|ni|co
+onirogmo	nome masculino	o|ni|[rog]|mo
+onirografia	nome feminino	o|ni|ro|gra|[fi]|a
+onirográfico	adjetivo	o|ni|ro|[grá]|fi|co
+onirógrafo	nome masculino	o|ni|[ró]|gra|fo
+onirologia	nome feminino	o|ni|ro|lo|[gi]|a
+onirológico	adjetivo	o|ni|ro|[ló]|gi|co
+onirólogo	nome masculino	o|ni|[ró]|lo|go
+oniromancia	nome feminino	o|ni|ro|man|[ci]|a
+oculístico	adjetivo	o|cu|[lís]|ti|co
+óculo	nome masculino	[ó]|cu|lo
+oculomotor	adjetivo	o|cu|lo|mo|[tor]
+oculomotor	nome masculino	o|cu|lo|mo|[tor]
+oculomusculoso	adjetivo	o|cu|lo|mus|cu|[lo]|so
+oculopalpebral	adjetivo	o|cu|lo|pal|pe|[bral]
+óculos	nome masculino	[ó]|cu|los
+oculoso	adjetivo	o|cu|[lo]|so
+ocultação	nome feminino	o|cul|ta|[ção]
+ocultador	adjetivo	o|cul|ta|[dor]
+ocultador	nome masculino	o|cul|ta|[dor]
+ocultadora	nome feminino	o|cul|ta|[do]|ra
+ocultamente	advérbio	o|cul|ta|[men]|te
+ocultante	adjetivo	o|cul|[tan]|te
+ocultar	verbo	o|cul|[tar]
+ocultas	nome feminino	o|[cul]|tas
+ocultável	adjetivo	o|cul|[tá]|vel
+ocultismo	nome masculino	o|cul|[tis]|mo
+ocultista	nome masculino	o|cul|[tis]|ta
+ocultista	adjetivo	o|cul|[tis]|ta
+ocultista	nome feminino	o|cul|[tis]|ta
+ocultístico	adjetivo	o|cul|[tís]|ti|co
+oculto	adjetivo	o|[cul]|to
+oculto	nome masculino	o|[cul]|to
+ocumba	nome feminino	o|[cum]|ba
+ocupa	nome masculino	o|[cu]|pa
+ocupa	nome feminino	o|[cu]|pa
+ocupação	nome feminino	o|cu|pa|[ção]
+ocupacional	adjetivo	o|cu|pa|ci|o|[nal]
+ocupadamente	advérbio	o|cu|pa|da|[men]|te
+ocupado	adjetivo	o|cu|[pa]|do
+ocupado	nome masculino	o|cu|[pa]|do
+ocupador	adjetivo	o|cu|pa|[dor]
+ocupador	nome masculino	o|cu|pa|[dor]
+ocupadora	nome feminino	o|cu|pa|[do]|ra
+ocupante	nome masculino	o|cu|[pan]|te
+ocupante	adjetivo	o|cu|[pan]|te
+ocupante	nome feminino	o|cu|[pan]|te
+ocupar	verbo	o|cu|[par]
+ocupável	adjetivo	o|cu|[pá]|vel
+ocursar	verbo	o|cur|[sar]
+ocurso	nome masculino	o|[cur]|so
+ocutava	nome masculino	o|cu|[ta]|va
+odalisca	nome feminino	o|da|[lis]|ca
+odaxesmo	nome masculino	o|da|[xes]|mo
+odaxéstico	adjetivo	o|da|[xés]|ti|co
+ode	nome feminino	[o]|de
+odeão	nome masculino	o|de|[ão]
+odemirense	nome masculino	o|de|mi|[ren]|se
+odemirense	adjetivo	o|de|mi|[ren]|se
+odemirense	nome feminino	o|de|mi|[ren]|se
+odéon	nome masculino	o|[dé]|on
+odiar	verbo	o|di|[ar]
+odiável	adjetivo	o|di|[á]|vel
+odiento	adjetivo	o|di|[en]|to
+odínico	adjetivo	o|[dí]|ni|co
+odinofagia	nome feminino	o|di|no|fa|[gi]|a
+ódio	nome masculino	[ó]|di|o
+odiosamente	advérbio	o|di|o|sa|[men]|te
+odiosidade	nome feminino	o|di|o|si|[da]|de
+odioso	nome masculino	o|di|[o]|so
+odioso	adjetivo	o|di|[o]|so
+odisseia	nome feminino	o|dis|[sei]|a
+odisseico	adjetivo	o|dis|[sei]|co
+odista	nome masculino	o|[dis]|ta
+odista	nome feminino	o|[dis]|ta
+odivelense	nome masculino	o|di|ve|[len]|se
+odivelense	adjetivo	o|di|ve|[len]|se
+odivelense	nome feminino	o|di|ve|[len]|se
+odjada	nome feminino	od|[ja]|da
+odô	nome masculino	o|[dô]
+odomanto	adjetivo	o|do|[man]|to
+odomanto	nome masculino	o|do|[man]|to
+odombera	adjetivo	o|dom|[be]|ra
+odombera	nome masculino	o|dom|[be]|ra
+odombera	nome feminino	o|dom|[be]|ra
+odometria	nome feminino	o|do|me|[tri]|a
+odométrico	adjetivo	o|do|[mé]|tri|co
+odómetro	nome masculino	o|[dó]|me|tro
+odômetro	nome masculino	o|[dô]|me|tro
+odonado	nome masculino	o|do|[na]|do
+odonato	nome masculino	o|do|[na]|to
+odonato	adjetivo	o|do|[na]|to
+odontagogo	nome masculino	o|don|ta|[go]|go
+odontagra	nome feminino	o|don|[ta]|gra
+odontalgia	nome feminino	o|don|tal|[gi]|a
+odontálgico	adjetivo	o|don|[tál]|gi|co
+odontíase	nome feminino	o|don|[tí]|a|se
+odontina	nome feminino	o|don|[ti]|na
+odontite	nome feminino	o|don|[ti]|te
+odonto-hemorragia	nome feminino	o|don|to-he|mor|ra|[gi]|a
+odontóbio	nome masculino	o|don|[tó]|bi|o
+odontoblasto	nome masculino	o|don|to|[blas]|to
+odontócero	nome masculino	o|don|[tó]|ce|ro
+odontoceto	nome masculino	o|don|to|[ce]|to
+odontodermo	adjetivo	o|don|to|[der]|mo
+odontodermo	nome masculino	o|don|to|[der]|mo
+odontódero	nome masculino	o|don|[tó]|de|ro
+odontoforínea	nome feminino	o|don|to|fo|[rí]|ne|a
+odontoforíneo	adjetivo	o|don|to|fo|[rí]|ne|o
+ortoepicamente	advérbio	or|to|e|pi|ca|[men]|te
+ortoépico	adjetivo	or|to|[é]|pi|co
+ortofirite	nome feminino	or|to|fi|[ri]|te
+ortófiro	nome masculino	or|[tó]|fi|ro
+ortofonia	nome feminino	or|to|fo|[ni]|a
+ortofonicamente	advérbio	or|to|fo|ni|ca|[men]|te
+ortofônico	adjetivo	or|to|[fô]|ni|co
+ortofónico	adjetivo	or|to|[fó]|ni|co
+ortoforia	nome feminino	or|to|fo|[ri]|a
+ortofórmio	nome masculino	or|to|[fór]|mi|o
+ortofrenia	nome feminino	or|to|fre|[ni]|a
+ortofrénico	adjetivo	or|to|[fré]|ni|co
+ortofrênico	adjetivo	or|to|[frê]|ni|co
+ortogénese	nome feminino	or|to|[gé]|ne|se
+ortogênese	nome feminino	or|to|[gê]|ne|se
+ortogenético	adjetivo	or|to|ge|[né]|ti|co
+ortognaisse	nome masculino	or|tog|[nais]|se
+ortognatia	nome feminino	or|tog|na|[ti]|a
+ortognatismo	nome masculino	or|tog|na|[tis]|mo
+ortógnato	adjetivo	or|[tóg]|na|to
+ortogonal	adjetivo	or|to|go|[nal]
+ortogonalmente	advérbio	or|to|go|nal|[men]|te
+ortógono	adjetivo	or|[tó]|go|no
+ortógrafa	nome feminino	or|[tó]|gra|fa
+ortografar	verbo	or|to|gra|[far]
+ortografia	nome feminino	or|to|gra|[fi]|a
+ortograficamente	advérbio	or|to|gra|fi|ca|[men]|te
+ortográfico	adjetivo	or|to|[grá]|fi|co
+ortografista	nome masculino	or|to|gra|[fis]|ta
+ortografista	nome feminino	or|to|gra|[fis]|ta
+ortógrafo	nome masculino	or|[tó]|gra|fo
+ortoidrogênio	nome masculino	or|toi|dro|[gê]|ni|o
+ortoidrogénio	nome masculino	or|toi|dro|[gé]|ni|o
+ortolexia	nome feminino	or|to|le|[xi]|a
+ortoléxico	adjetivo	or|to|[lé]|xi|co
+ortólito	nome masculino	or|[tó]|li|to
+ortologia	nome feminino	or|to|lo|[gi]|a
+ortológico	adjetivo	or|to|[ló]|gi|co
+ortômega	nome masculino	or|[tô]|me|ga
+ortómega	nome masculino	or|[tó]|me|ga
+ortometamórfico	adjetivo	or|to|me|ta|[mór]|fi|co
+ortometria	nome feminino	or|to|me|[tri]|a
+ortométrico	adjetivo	or|to|[mé]|tri|co
+ortomorfia	nome feminino	or|to|mor|[fi]|a
+ortomórfico	adjetivo	or|to|[mór]|fi|co
+ortomorfismo	nome masculino	or|to|mor|[fis]|mo
+ortoneuróptero	nome masculino	or|to|neu|[róp]|te|ro
+ortonímia	nome feminino	or|to|[ní]|mi|a
+ortonímico	adjetivo	or|to|[ní]|mi|co
+ortônimo	nome masculino	or|[tô]|ni|mo
+ortónimo	nome masculino	or|[tó]|ni|mo
+ortonormado	adjetivo	or|to|nor|[ma]|do
+ortonormal	adjetivo	or|to|nor|[mal]
+ortopantomografia	nome feminino	or|to|pan|to|mo|gra|[fi]|a
+ortopedia	nome feminino	or|to|pe|[di]|a
+ortopédico	adjetivo	or|to|[pé]|di|co
+ortopedista	adjetivo	or|to|pe|[dis]|ta
+ortopedista	nome masculino	or|to|pe|[dis]|ta
+ortopedista	nome feminino	or|to|pe|[dis]|ta
+ortopinacoide	nome masculino	or|to|pi|na|[coi]|de
+ortopneia	nome feminino	or|top|[nei]|a
+ortopnoico	nome masculino	or|top|[noi]|co
+ortopnoico	adjetivo	or|top|[noi]|co
+ortópode	nome masculino	or|[tó]|po|de
+ortopolitano	adjetivo	or|to|po|li|[ta]|no
+ortopolitano	nome masculino	or|to|po|li|[ta]|no
+ortopsicopedia	nome feminino	or|top|si|co|pe|[di]|a
+ortóptero	nome masculino	or|[tóp]|te|ro
+ortóptero	adjetivo	or|[tóp]|te|ro
+ortóptica	nome feminino	or|[tóp]|ti|ca
+ortóptico	adjetivo	or|[tóp]|ti|co
+ortoptista	nome masculino	or|top|[tis]|ta
+ortoptista	nome feminino	or|top|[tis]|ta
+ortoquartzito	nome masculino	or|to|quart|[zi]|to
+ortorrômbico	adjetivo	or|tor|[rôm]|bi|co
+ortóscele	nome masculino	or|[tós]|ce|le
+ortoscópico	adjetivo	or|tos|[có]|pi|co
+ortoscópio	nome masculino	or|tos|[có]|pi|o
+ortose	nome feminino	or|[to]|se
+ortósia	nome feminino	or|[tó]|si|a
+ortósio	nome masculino	or|[tó]|si|o
+ortospermo	adjetivo	or|tos|[per]|mo
+ortossomo	nome masculino	or|tos|[so]|mo
+ortostasia	nome feminino	or|tos|ta|[si]|a
+ortostático	adjetivo	or|tos|[tá]|ti|co
+ortostatismo	nome masculino	or|tos|ta|[tis]|mo
+ortostilo	nome masculino	or|tos|[ti]|lo
+ortóstomo	nome masculino	or|[tós]|to|mo
+ortoteca	nome feminino	or|to|[te]|ca
+ortoterapia	nome feminino	or|to|te|ra|[pi]|a
+ortótese	nome feminino	or|[tó]|te|se
+ortotómico	adjetivo	or|to|[tó]|mi|co
+ortotômico	adjetivo	or|to|[tô]|mi|co
+ortótomo	nome masculino	or|[tó]|to|mo
+ortotônico	adjetivo	or|to|[tô]|ni|co
+ortotónico	adjetivo	or|to|[tó]|ni|co
+ortótono	nome masculino	or|[tó]|to|no
+ortotonúmeno	adjetivo	or|to|to|[nú]|me|no
+ortotrícia	nome feminino	or|to|[trí]|ci|a
+ortotropia	nome feminino	or|to|tro|[pi]|a
+origenista	nome feminino	o|ri|ge|[nis]|ta
+originado	adjetivo	o|ri|gi|[na]|do
+originador	adjetivo	o|ri|gi|na|[dor]
+originador	nome masculino	o|ri|gi|na|[dor]
+originadora	nome feminino	o|ri|gi|na|[do]|ra
+original	adjetivo	o|ri|gi|[nal]
+original	nome masculino	o|ri|gi|[nal]
+original	nome feminino	o|ri|gi|[nal]
+originalidade	nome feminino	o|ri|gi|na|li|[da]|de
+originalíssimo	adjetivo	o|ri|gi|na|[lís]|si|mo
+originalizar	verbo	o|ri|gi|na|li|[zar]
+originalmente	advérbio	o|ri|gi|nal|[men]|te
+originar	verbo	o|ri|gi|[nar]
+originariamente	advérbio	o|ri|gi|na|ri|a|[men]|te
+originário	adjetivo	o|ri|gi|[ná]|ri|o
+originável	adjetivo	o|ri|gi|[ná]|vel
+origma	nome masculino	o|[rig]|ma
+orilha	nome feminino	o|[ri]|lha
+oriólida	nome masculino	o|ri|[ó]|li|da
+oriólida	nome masculino	o|ri|[ó]|li|da
+oriolídeo	adjetivo	o|ri|o|[lí]|de|o
+oriolídeo	nome masculino	o|ri|o|[lí]|de|o
+oriolídeo	nome masculino	o|ri|o|[lí]|de|o
+orita	adjetivo	o|[ri]|ta
+orita	nome masculino	o|[ri]|ta
+orita	nome feminino	o|[ri]|ta
+oritano	adjetivo	o|ri|[ta]|no
+oritano	nome masculino	o|ri|[ta]|no
+oritia	nome feminino	o|ri|[ti]|a
+oriundo	adjetivo	o|ri|[un]|do
+oriundo	nome masculino	o|ri|[un]|do
+órix	nome masculino	[ó]|rix
+orixá	nome masculino	o|ri|[xá]
+orixalá	nome masculino	o|ri|xa|[lá]
+orízea	nome feminino	o|[rí]|ze|a
+orizícola	adjetivo	o|ri|[zí]|co|la
+orizicultor	nome masculino	o|ri|zi|cul|[tor]
+orizicultor	adjetivo	o|ri|zi|cul|[tor]
+orizicultora	nome feminino	o|ri|zi|cul|[to]|ra
+orizicultura	nome feminino	o|ri|zi|cul|[tu]|ra
+oriziforme	adjetivo	o|ri|zi|[for]|me
+orizívoro	adjetivo	o|ri|[zí]|vo|ro
+orizófago	adjetivo	o|ri|[zó]|fa|go
+orizoide	adjetivo	o|ri|[zoi]|de
+orizoídeo	adjetivo	o|ri|zo|[í]|de|o
+orizóideo	adjetivo	o|ri|[zói]|de|o
+orla	nome feminino	[or]|la
+orladeira	nome feminino	or|la|[dei]|ra
+orlado	adjetivo	or|[la]|do
+orlado	nome masculino	or|[la]|do
+orladura	nome feminino	or|la|[du]|ra
+orlar	verbo	or|[lar]
+orleã	nome feminino	or|le|[ã]
+orleanês	nome masculino	or|le|a|[nês]
+orleanês	adjetivo	or|le|a|[nês]
+orleanesa	nome feminino	or|le|a|[ne]|sa
+orleanismo	nome masculino	or|le|a|[nis]|mo
+orleanista	adjetivo	or|le|a|[nis]|ta
+orleanista	nome masculino	or|le|a|[nis]|ta
+orleanista	nome feminino	or|le|a|[nis]|ta
+ormuziano	adjetivo	or|mu|zi|[a]|no
+ormuziano	nome masculino	or|mu|zi|[a]|no
+ornado	adjetivo	or|[na]|do
+ornador	adjetivo	or|na|[dor]
+ornador	nome masculino	or|na|[dor]
+ornamentação	nome feminino	or|na|men|ta|[ção]
+ornamentador	adjetivo	or|na|men|ta|[dor]
+ornamentador	nome masculino	or|na|men|ta|[dor]
+ornamentadora	nome feminino	or|na|men|ta|[do]|ra
+ornamental	adjetivo	or|na|men|[tal]
+ornamentalmente	advérbio	or|na|men|tal|[men]|te
+ornamentar	verbo	or|na|men|[tar]
+ornamentária	nome feminino	or|na|men|[tá]|ri|a
+ornamentável	adjetivo	or|na|men|[tá]|vel
+ornamentista	nome masculino	or|na|men|[tis]|ta
+ornamentista	adjetivo	or|na|men|[tis]|ta
+ornamentista	nome feminino	or|na|men|[tis]|ta
+ornamento	nome masculino	or|na|[men]|to
+ornar	verbo	or|[nar]
+ornatista	adjetivo	or|na|[tis]|ta
+ornatista	nome masculino	or|na|[tis]|ta
+ornatista	nome feminino	or|na|[tis]|ta
+ornato	nome masculino	or|[na]|to
+ornável	adjetivo	or|[ná]|vel
+ornear	verbo	or|ne|[ar]
+orneata	adjetivo	or|ne|[a]|ta
+orneata	nome masculino	or|ne|[a]|ta
+orneata	nome feminino	or|ne|[a]|ta
+orneio	nome masculino	or|[nei]|o
+ornejador	adjetivo	or|ne|ja|[dor]
+ornejador	nome masculino	or|ne|ja|[dor]
+ornejar	verbo	or|ne|[jar]
+ornejo	nome masculino	or|[ne]|jo
+ornis	nome masculino	or|[nis]
+ornitídia	nome feminino	or|ni|[tí]|di|a
+ornitite	nome feminino	or|ni|[ti]|te
+ornitóbia	nome feminino	or|ni|[tó]|bi|a
+ornitóbio	nome masculino	or|ni|[tó]|bi|o
+ornitocéfalo	nome masculino	or|ni|to|[cé]|fa|lo
+ornitodélfio	nome masculino	or|ni|to|[dél]|fi|o
+osmométrico	adjetivo	os|mo|[mé]|tri|co
+osmômetro	nome masculino	os|[mô]|me|tro
+osmómetro	nome masculino	os|[mó]|me|tro
+osmonda	nome feminino	os|[mon]|da
+osmorregulação	nome feminino	os|mor|re|gu|la|[ção]
+osmorregulador	nome masculino	os|mor|re|gu|la|[dor]
+osmorregulador	adjetivo	os|mor|re|gu|la|[dor]
+osmose	nome feminino	os|[mo]|se
+osmoticamente	advérbio	os|mo|ti|ca|[men]|te
+osmótico	adjetivo	os|[mó]|ti|co
+osmozómeo	adjetivo	os|mo|[zó]|me|o
+osmozômeo	adjetivo	os|mo|[zô]|me|o
+osmozomo	nome masculino	os|mo|[zo]|mo
+osmunda	nome feminino	os|[mun]|da
+osmundácea	nome feminino	os|mun|[dá]|ce|a
+osmundáceo	adjetivo	os|mun|[dá]|ce|o
+oso	adjetivo	[o]|so
+oso	nome masculino	[o]|so
+osória	nome feminino	o|[só]|ri|a
+osqueíte	nome feminino	os|que|[í]|te
+osqueocele	nome feminino	os|que|o|[ce]|le
+osqueólito	nome masculino	os|que|[ó]|li|to
+osqueoma	nome masculino	os|que|[o]|ma
+osqueoplastia	nome feminino	os|que|o|plas|[ti]|a
+osqueoplástico	adjetivo	os|que|o|[plás]|ti|co
+ossada	nome feminino	os|[sa]|da
+ossama	nome feminino	os|[sa]|ma
+ossame	nome masculino	os|[sa]|me
+óssame	nome masculino	[ós]|sa|me
+ossamenta	nome feminino	os|sa|[men]|ta
+ossamento	nome masculino	os|sa|[men]|to
+ossaria	nome feminino	os|sa|[ri]|a
+ossário	nome masculino	os|[sá]|ri|o
+ossatura	nome feminino	os|sa|[tu]|ra
+osseína	nome feminino	os|se|[í]|na
+ósseo	adjetivo	[ós]|se|o
+osseta	nome feminino	os|[se]|ta
+osseta	adjetivo	os|[se]|ta
+osseta	nome masculino	os|[se]|ta
+ossiandrianismo	nome masculino	os|si|an|dri|a|[nis]|mo
+ossiandriano	adjetivo	os|si|an|dri|[a]|no
+ossiandriano	nome masculino	os|si|an|dri|[a]|no
+ossianesco	adjetivo	os|si|a|[nes]|co
+ossiânico	adjetivo	os|si|[â]|ni|co
+ossianismo	nome masculino	os|si|a|[nis]|mo
+ossianista	adjetivo	os|si|a|[nis]|ta
+ossianista	nome masculino	os|si|a|[nis]|ta
+ossianista	nome feminino	os|si|a|[nis]|ta
+ossicos	nome masculino	os|[si]|cos
+ossiculado	adjetivo	os|si|cu|[la]|do
+ossicular	adjetivo	os|si|cu|[lar]
+ossículo	nome masculino	os|[sí]|cu|lo
+ossífero	adjetivo	os|[sí]|fe|ro
+ossificação	nome feminino	os|si|fi|ca|[ção]
+ossificado	adjetivo	os|si|fi|[ca]|do
+ossificador	adjetivo	os|si|fi|ca|[dor]
+ossificar	verbo	os|si|fi|[car]
+ossífico	adjetivo	os|[sí]|fi|co
+ossifluência	nome feminino	os|si|flu|[ên]|ci|a
+ossifluente	adjetivo	os|si|flu|[en]|te
+ossiforme	adjetivo	os|si|[for]|me
+ossífraga	nome feminino	os|[sí]|fra|ga
+ossífrago	nome masculino	os|[sí]|fra|go
+ossífrago	adjetivo	os|[sí]|fra|go
+ossinho	nome masculino	os|[si]|nho
+ossívoro	adjetivo	os|[sí]|vo|ro
+osso	nome masculino	[os]|so
+ossobó	nome masculino	os|so|[bó]
+ossobuco	nome masculino	os|so|[bu]|co
+ossuário	nome masculino	os|su|[á]|ri|o
+ossudo	adjetivo	os|[su]|do
+ossuoso	adjetivo	os|su|[o]|so
+ostaga	nome feminino	os|[ta]|ga
+ostagadura	nome feminino	os|ta|ga|[du]|ra
+ostagra	nome feminino	os|[ta]|gra
+oste	nome feminino	[os]|te
+ostealgia	nome feminino	os|te|al|[gi]|a
+osteálgico	adjetivo	os|te|[ál]|gi|co
+osteíde	nome masculino	os|te|[í]|de
+osteína	nome feminino	os|te|[í]|na
+osteíte	nome feminino	os|te|[í]|te
+ostensão	nome feminino	os|ten|[são]
+ostensibilidade	nome feminino	os|ten|si|bi|li|[da]|de
+ostensivamente	advérbio	os|ten|si|va|[men]|te
+ostensível	adjetivo	os|ten|[sí]|vel
+ostensivo	adjetivo	os|ten|[si]|vo
+ostensor	adjetivo	os|ten|[sor]
+ostensor	nome masculino	os|ten|[sor]
+ostensora	nome feminino	os|ten|[so]|ra
+ostensório	adjetivo	os|ten|[só]|ri|o
+ostensório	nome masculino	os|ten|[só]|ri|o
+ostentação	nome feminino	os|ten|ta|[ção]
+ostentador	adjetivo	os|ten|ta|[dor]
+ostentador	nome masculino	os|ten|ta|[dor]
+ostentadora	nome feminino	os|ten|ta|[do]|ra
+ostentar	verbo	os|ten|[tar]
+ostentativo	adjetivo	os|ten|ta|[ti]|vo
+ostentável	adjetivo	os|ten|[tá]|vel
+ostentosamente	advérbio	os|ten|to|sa|[men]|te
+ostentoso	adjetivo	os|ten|[to]|so
+opalina	nome feminino	o|pa|[li]|na
+opalinar	verbo	o|pa|li|[nar]
+opalínida	nome masculino	o|pa|[lí]|ni|da
+opalínida	nome masculino	o|pa|[lí]|ni|da
+opalinidade	nome feminino	o|pa|li|ni|[da]|de
+opalinídeo	nome masculino	o|pa|li|[ní]|de|o
+opalinídeo	adjetivo	o|pa|li|[ní]|de|o
+opalinídeo	nome masculino	o|pa|li|[ní]|de|o
+opalino	adjetivo	o|pa|[li]|no
+opalização	nome feminino	o|pa|li|za|[ção]
+opalizante	adjetivo	o|pa|li|[zan]|te
+opalizar	verbo	o|pa|li|[zar]
+ópalo	nome masculino	[ó]|pa|lo
+opar	verbo	o|[par]
+opatrídeo	adjetivo	o|pa|[trí]|de|o
+opatrídeo	nome masculino	o|pa|[trí]|de|o
+opável	adjetivo	o|[pá]|vel
+opção	nome feminino	op|[ção]
+opcional	adjetivo	op|ci|o|[nal]
+opecíola	nome feminino	o|pe|[cí]|o|la
+open	nome masculino	[o]|pen
+ópera	nome feminino	[ó]|pe|ra
+ópera-rock	nome feminino	ó|pe|ra-rock
+operabilidade	nome feminino	o|pe|ra|bi|li|[da]|de
+operação	nome feminino	o|pe|ra|[ção]
+operacional	adjetivo	o|pe|ra|ci|o|[nal]
+operacionalidade	nome feminino	o|pe|ra|ci|o|na|li|[da]|de
+operacionalização	nome feminino	o|pe|ra|ci|o|na|li|za|[ção]
+operacionalizador	adjetivo	o|pe|ra|ci|o|na|li|za|[dor]
+operacionalizador	nome masculino	o|pe|ra|ci|o|na|li|za|[dor]
+operacionalizar	verbo	o|pe|ra|ci|o|na|li|[zar]
+operada	nome feminino	o|pe|[ra]|da
+operado	adjetivo	o|pe|[ra]|do
+operado	nome masculino	o|pe|[ra]|do
+operador	adjetivo	o|pe|ra|[dor]
+operador	nome masculino	o|pe|ra|[dor]
+operadora	nome feminino	o|pe|ra|[do]|ra
+operagem	nome feminino	o|pe|[ra]|gem
+operante	adjetivo	o|pe|[ran]|te
+operar	verbo	o|pe|[rar]
+operária	nome feminino	o|pe|[rá]|ri|a
+operariado	nome masculino	o|pe|ra|ri|[a]|do
+operário	nome masculino	o|pe|[rá]|ri|o
+operário	adjetivo	o|pe|[rá]|ri|o
+operático	adjetivo	o|pe|[rá]|ti|co
+operativo	adjetivo	o|pe|ra|[ti]|vo
+operatória	nome feminino	o|pe|ra|[tó]|ri|a
+operatoriamente	advérbio	o|pe|ra|to|ri|a|[men]|te
+operatório	adjetivo	o|pe|ra|[tó]|ri|o
+operável	adjetivo	o|pe|[rá]|vel
+operculado	adjetivo	o|per|cu|[la]|do
+opercular	adjetivo	o|per|cu|[lar]
+opercular	nome masculino	o|per|cu|[lar]
+operculária	nome feminino	o|per|cu|[lá]|ri|a
+operculariácea	nome feminino	o|per|cu|la|ri|[á]|ce|a
+operculífero	adjetivo	o|per|cu|[lí]|fe|ro
+operculiforme	adjetivo	o|per|cu|li|[for]|me
+operculina	nome feminino	o|per|cu|[li]|na
+operculita	nome masculino	o|per|cu|[li]|ta
+opérculo	nome masculino	o|[pér]|cu|lo
+opereta	nome feminino	o|pe|[re]|ta
+operetista	nome masculino	o|pe|re|[tis]|ta
+operetista	nome feminino	o|pe|re|[tis]|ta
+operista	nome masculino	o|pe|[ris]|ta
+operista	adjetivo	o|pe|[ris]|ta
+operista	nome feminino	o|pe|[ris]|ta
+operístico	adjetivo	o|pe|[rís]|ti|co
+operosamente	advérbio	o|pe|ro|sa|[men]|te
+operosidade	nome feminino	o|pe|ro|si|[da]|de
+operoso	adjetivo	o|pe|[ro]|so
+operto	nome masculino	o|[per]|to
+opiáceo	adjetivo	o|pi|[á]|ce|o
+opiado	adjetivo	o|pi|[a]|do
+opiado	nome masculino	o|pi|[a]|do
+opiar	verbo	o|pi|[ar]
+opiato	nome masculino	o|pi|[a]|to
+opidano	adjetivo	o|pi|[da]|no
+opidano	nome masculino	o|pi|[da]|no
+ópido	nome masculino	[ó]|pi|do
+opífero	adjetivo	o|[pí]|fe|ro
+opífice	nome masculino	o|[pí]|fi|ce
+opifício	nome masculino	o|pi|[fí]|ci|o
+opilação	nome feminino	o|pi|la|[ção]
+opilante	adjetivo	o|pi|[lan]|te
+opilar	verbo	o|pi|[lar]
+opilativo	adjetivo	o|pi|la|[ti]|vo
+opília	nome feminino	o|[pí]|li|a
+opilião	nome masculino	o|pi|li|[ão]
+opimo	adjetivo	o|[pi]|mo
+opinante	adjetivo	o|pi|[nan]|te
+opinante	nome feminino	o|pi|[nan]|te
+opinante	nome masculino	o|pi|[nan]|te
+opinar	verbo	o|pi|[nar]
+opinário	nome masculino	o|pi|[ná]|ri|o
+opinativo	adjetivo	o|pi|na|[ti]|vo
+opinável	adjetivo	o|pi|[ná]|vel
+opinião	nome feminino	o|pi|ni|[ão]
+opiniática	nome feminino	o|pi|ni|[á]|ti|ca
+opiniaticamente	advérbio	o|pi|ni|a|ti|ca|[men]|te
+opiniaticidade	nome feminino	o|pi|ni|a|ti|ci|[da]|de
+oxitártaro	nome masculino	o|xi|[tár]|ta|ro
+oxiterapia	nome feminino	o|xi|te|ra|[pi]|a
+oxiterápico	adjetivo	o|xi|te|[rá]|pi|co
+oxitócico	adjetivo	o|xi|[tó]|ci|co
+oxitocina	nome feminino	o|xi|to|[ci]|na
+oxítona	nome feminino	o|[xí]|to|na
+oxitonia	nome feminino	o|xi|to|[ni]|a
+oxitônico	adjetivo	o|xi|[tô]|ni|co
+oxitónico	adjetivo	o|xi|[tó]|ni|co
+oxitonização	nome feminino	o|xi|to|ni|za|[ção]
+oxitonizar	verbo	o|xi|to|ni|[zar]
+oxítono	adjetivo	o|[xí]|to|no
+oxítono	nome masculino	o|[xí]|to|no
+oxitriquídeo	nome masculino	o|xi|tri|[quí]|de|o
+oxiúre	nome masculino	o|xi|[ú]|re
+oxiuríase	nome feminino	o|xiu|[rí]|a|se
+oxiúrida	nome masculino	o|xi|[ú]|ri|da
+oxiúrida	nome masculino	o|xi|[ú]|ri|da
+oxiurídeo	nome masculino	o|xiu|[rí]|de|o
+oxiurídeo	adjetivo	o|xiu|[rí]|de|o
+oxiurídeo	nome masculino	o|xiu|[rí]|de|o
+oxiúro	nome masculino	o|xi|[ú]|ro
+oxiurose	nome feminino	o|xiu|[ro]|se
+oxoácido	nome masculino	o|xo|[á]|ci|do
+oxóleo	nome masculino	o|[xó]|le|o
+ozena	nome feminino	o|[ze]|na
+ozênico	adjetivo	o|[zê]|ni|co
+ozénico	adjetivo	o|[zé]|ni|co
+ozenoso	adjetivo	o|ze|[no]|so
+ozenoso	nome masculino	o|ze|[no]|so
+ozocerite	nome feminino	o|zo|ce|[ri]|te
+ozódera	nome feminino	o|[zó]|de|ra
+ozômena	nome feminino	o|[zô]|me|na
+ozómena	nome feminino	o|[zó]|me|na
+ozonador	adjetivo	o|zo|na|[dor]
+ozonador	nome masculino	o|zo|na|[dor]
+ozonar	verbo	o|zo|[nar]
+ozone	nome masculino	o|zo|ne
+ozonificação	nome feminino	o|zo|ni|fi|ca|[ção]
+ozonificar	verbo	o|zo|ni|fi|[car]
+ozônio	nome masculino	o|[zô]|ni|o
+ozónio	nome masculino	o|[zó]|ni|o
+ozonização	nome feminino	o|zo|ni|za|[ção]
+ozonizado	adjetivo	o|zo|ni|[za]|do
+ozonizador	nome masculino	o|zo|ni|za|[dor]
+ozonizar	verbo	o|zo|ni|[zar]
+ozono	nome masculino	o|[zo]|no
+ozonometria	nome feminino	o|zo|no|me|[tri]|a
+ozonométrico	adjetivo	o|zo|no|[mé]|tri|co
+ozonómetro	nome masculino	o|zo|[nó]|me|tro
+ozonômetro	nome masculino	o|zo|[nô]|me|tro
+ozonoscópico	adjetivo	o|zo|nos|[có]|pi|co
+ozonoscópio	nome masculino	o|zo|nos|[có]|pi|o
+ozostomia	nome feminino	o|zos|to|[mi]|a
+ozostômico	adjetivo	o|zos|[tô]|mi|co
+ozostómico	adjetivo	o|zos|[tó]|mi|co
+ozotamno	nome masculino	o|zo|[tam]|no
+ozoterite	nome feminino	o|zo|te|[ri]|te
+ozueu	adjetivo	o|zu|[eu]
+ozueu	nome masculino	o|zu|[eu]
+ornitofilia	nome feminino	or|ni|to|fi|[li]|a
+ornitófilo	nome masculino	or|ni|[tó]|fi|lo
+ornitófilo	adjetivo	or|ni|[tó]|fi|lo
+ornitofone	nome masculino	or|ni|to|[fo]|ne
+ornitofonia	nome feminino	or|ni|to|fo|[ni]|a
+ornitofônico	adjetivo	or|ni|to|[fô]|ni|co
+ornitofónico	adjetivo	or|ni|to|[fó]|ni|co
+ornitógalo	nome masculino	or|ni|[tó]|ga|lo
+ornitógamo	adjetivo	or|ni|[tó]|ga|mo
+ornitoglosso	nome masculino	or|ni|to|[glos]|so
+ornitoide	adjetivo	or|ni|[toi]|de
+ornitoídeo	adjetivo	or|ni|to|[í]|de|o
+ornitóideo	adjetivo	or|ni|[tói]|de|o
+ornitólito	nome masculino	or|ni|[tó]|li|to
+ornitóloga	nome feminino	or|ni|[tó]|lo|ga
+ornitologia	nome feminino	or|ni|to|lo|[gi]|a
+ornitológico	adjetivo	or|ni|to|[ló]|gi|co
+ornitologista	nome masculino	or|ni|to|lo|[gis]|ta
+ornitologista	nome feminino	or|ni|to|lo|[gis]|ta
+ornitólogo	nome masculino	or|ni|[tó]|lo|go
+ornitomancia	nome feminino	or|ni|to|man|[ci]|a
+ornitomania	nome feminino	or|ni|to|ma|[ni]|a
+ornitomaníaco	adjetivo	or|ni|to|ma|[ní]|a|co
+ornitomaníaco	nome masculino	or|ni|to|ma|[ní]|a|co
+ornitómano	nome masculino	or|ni|[tó]|ma|no
+ornitômano	nome masculino	or|ni|[tô]|ma|no
+ornitomante	nome masculino	or|ni|to|[man]|te
+ornitomante	nome feminino	or|ni|to|[man]|te
+ornitomântico	adjetivo	or|ni|to|[mân]|ti|co
+ornitópode	nome masculino	or|ni|[tó]|po|de
+ornitópodes	nome masculino	or|ni|[tó]|po|des
+ornitóptero	nome masculino	or|ni|[tóp]|te|ro
+ornitorrinco	nome masculino	or|ni|tor|[rin]|co
+ornitoscopia	nome feminino	or|ni|tos|co|[pi]|a
+ornitoscópico	adjetivo	or|ni|tos|[có]|pi|co
+ornitóscopo	nome masculino	or|ni|[tós]|co|po
+ornitose	nome feminino	or|ni|[to]|se
+ornitóstomo	nome masculino	or|ni|[tós]|to|mo
+ornitotomia	nome feminino	or|ni|to|to|[mi]|a
+ornitotómico	adjetivo	or|ni|to|[tó]|mi|co
+ornitotômico	adjetivo	or|ni|to|[tô]|mi|co
+ornitotrofia	nome feminino	or|ni|to|tro|[fi]|a
+ornitotrófico	adjetivo	or|ni|to|[tró]|fi|co
+orno	nome masculino	[or]|no
+orobalão	nome masculino	o|ro|ba|[lão]
+orobanca	nome feminino	o|ro|[ban]|ca
+orobancácea	nome feminino	o|ro|ban|[cá]|ce|a
+oróbio	adjetivo	o|[ró]|bi|o
+oróbio	nome masculino	o|[ró]|bi|o
+orobite	nome feminino	o|ro|[bi]|te
+órobo	nome masculino	[ó]|ro|bo
+oroboense	adjetivo	o|ro|bo|[en]|se
+oroboense	nome masculino	o|ro|bo|[en]|se
+oroboense	nome feminino	o|ro|bo|[en]|se
+orofaringe	nome feminino	o|ro|fa|[rin]|ge
+orofaríngeo	adjetivo	o|ro|fa|[rín]|ge|o
+orofeia	nome feminino	o|ro|[fei]|a
+orofilismo	nome masculino	o|ro|fi|[lis]|mo
+orófito	nome masculino	o|[ró]|fi|to
+orogênese	nome feminino	o|ro|[gê]|ne|se
+orogénese	nome feminino	o|ro|[gé]|ne|se
+orogenético	adjetivo	o|ro|ge|[né]|ti|co
+orogenia	nome feminino	o|ro|ge|[ni]|a
+orogênico	adjetivo	o|ro|[gê]|ni|co
+orogénico	adjetivo	o|ro|[gé]|ni|co
+orognosia	nome feminino	o|rog|no|[si]|a
+orognóstico	adjetivo	o|rog|[nós]|ti|co
+orógrafa	nome feminino	o|[ró]|gra|fa
+orografia	nome feminino	o|ro|gra|[fi]|a
+orográfico	adjetivo	o|ro|[grá]|fi|co
+orógrafo	nome masculino	o|[ró]|gra|fo
+oroidrografia	nome feminino	o|roi|dro|gra|[fi]|a
+oroidrográfico	adjetivo	o|roi|dro|[grá]|fi|co
+orologia	nome feminino	o|ro|lo|[gi]|a
+orológico	adjetivo	o|ro|[ló]|gi|co
+orologista	nome masculino	o|ro|lo|[gis]|ta
+orologista	nome feminino	o|ro|lo|[gis]|ta
+orólogo	nome masculino	o|[ró]|lo|go
+orometria	nome feminino	o|ro|me|[tri]|a
+orómetro	nome masculino	o|[ró]|me|tro
+orômetro	nome masculino	o|[rô]|me|tro
+orôncio	nome masculino	o|[rôn]|ci|o
+oroneta	nome feminino	o|ro|[ne]|ta
+oronímia	nome feminino	o|ro|[ní]|mi|a
+orónimo	nome masculino	o|[ró]|ni|mo
+orônimo	nome masculino	o|[rô]|ni|mo
+oronte	adjetivo	o|[ron]|te
+oronte	nome masculino	o|[ron]|te
+oronte	nome feminino	o|[ron]|te
+orópio	adjetivo	o|[ró]|pi|o
+orópio	nome masculino	o|[ró]|pi|o
+orosfera	nome feminino	o|ros|[fe]|ra
+orosférico	adjetivo	o|ros|[fé]|ri|co
+orostra	adjetivo	o|[ros]|tra
+orostra	nome masculino	o|[ros]|tra
+orostra	nome feminino	o|[ros]|tra
+orquéstia	nome feminino	or|[qués]|ti|a
+orquéstica	nome feminino	or|[qués]|ti|ca
+orquestídeo	nome masculino	or|ques|[tí]|de|o
+orquestídeo	adjetivo	or|ques|[tí]|de|o
+orquestídeo	nome masculino	or|ques|[tí]|de|o
+orquestra	nome feminino	or|[ques]|tra
+orquestração	nome feminino	or|ques|tra|[ção]
+orquestrador	nome masculino	or|ques|tra|[dor]
+orquestrador	adjetivo	or|ques|tra|[dor]
+orquestral	adjetivo	or|ques|[tral]
+orquestralmente	advérbio	or|ques|tral|[men]|te
+orquestrar	verbo	or|ques|[trar]
+orquestrável	adjetivo	or|ques|[trá]|vel
+orquestrino	nome masculino	or|ques|[tri]|no
+orquialgia	nome feminino	or|qui|al|[gi]|a
+orquiálgico	adjetivo	or|qui|[ál]|gi|co
+orquidácea	nome feminino	or|qui|[dá]|ce|a
+orquidáceo	adjetivo	or|qui|[dá]|ce|o
+orquidário	nome masculino	or|qui|[dá]|ri|o
+orquídea	nome feminino	or|[quí]|de|a
+orquidifloro	adjetivo	or|qui|di|[flo]|ro
+orquidofilia	nome feminino	or|qui|do|fi|[li]|a
+orquidófilo	adjetivo	or|qui|[dó]|fi|lo
+orquidófilo	nome masculino	or|qui|[dó]|fi|lo
+orquidopexia	nome feminino	or|qui|do|pe|[xi]|a
+orquiectomia	nome feminino	or|qui|ec|to|[mi]|a
+orquiectómico	adjetivo	or|qui|ec|[tó]|mi|co
+orquiectômico	adjetivo	or|qui|ec|[tô]|mi|co
+orquiepididimite	nome feminino	or|qui|e|pi|di|di|[mi]|te
+orquiocele	nome feminino	or|qui|o|[ce]|le
+orquiopéctico	adjetivo	or|qui|o|[péc]|ti|co
+orquiopético	adjetivo	or|qui|o|[pé]|ti|co
+orquiopexia	nome feminino	or|qui|o|pe|[xi]|a
+orquioterapia	nome feminino	or|qui|o|te|ra|[pi]|a
+orquioterápico	adjetivo	or|qui|o|te|[rá]|pi|co
+orquiotomia	nome feminino	or|qui|o|to|[mi]|a
+orquiotômico	adjetivo	or|qui|o|[tô]|mi|co
+orquiotómico	adjetivo	or|qui|o|[tó]|mi|co
+orquiótomo	nome masculino	or|qui|[ó]|to|mo
+orquípeda	nome feminino	or|[quí]|pe|da
+orquita	nome feminino	or|[qui]|ta
+orquite	nome feminino	or|[qui]|te
+orquítico	adjetivo	or|[quí]|ti|co
+orreiro	nome masculino	or|[rei]|ro
+orreta	nome feminino	or|[re]|ta
+orseta	nome feminino	or|[se]|ta
+orsínia	nome feminino	or|[sí]|ni|a
+ortagorisco	nome masculino	or|ta|go|[ris]|co
+ortantera	nome feminino	or|tan|[te]|ra
+ortaptodáctilo	nome masculino	or|tap|to|[dác]|ti|lo
+ortégia	nome feminino	or|[té]|gi|a
+orticonoscópio	nome masculino	or|ti|co|nos|[có]|pi|o
+ortiga	nome feminino	or|[ti]|ga
+ortiga-do-mar	nome feminino	or|ti|ga-do-mar
+ortigão	nome masculino	or|ti|[gão]
+ortigar	verbo	or|ti|[gar]
+ortígio	adjetivo	or|[tí]|gi|o
+ortita	nome feminino	or|[ti]|ta
+ortite	nome feminino	or|[ti]|te
+ortivo	adjetivo	or|[ti]|vo
+orto	nome masculino	[or]|to
+ortobárico	adjetivo	or|to|[bá]|ri|co
+ortobásico	adjetivo	or|to|[bá]|si|co
+ortobiose	nome feminino	or|to|bi|[o]|se
+ortobórico	nome masculino	or|to|[bó]|ri|co
+ortocéfalo	adjetivo	or|to|[cé]|fa|lo
+ortocêntrico	adjetivo	or|to|[cên]|tri|co
+ortocentro	nome masculino	or|to|[cen]|tro
+ortócera	nome feminino	or|[tó]|ce|ra
+ortóclase	nome feminino	or|[tó]|cla|se
+ortoclásio	nome masculino	or|to|[clá]|si|o
+ortocolimbo	nome masculino	or|to|co|[lim]|bo
+ortocolo	nome masculino	or|to|[co]|lo
+ortocólon	nome masculino	or|to|[có]|lon
+ortocromático	adjetivo	or|to|cro|[má]|ti|co
+ortocromatismo	nome masculino	or|to|cro|ma|[tis]|mo
+ortocromatização	nome feminino	or|to|cro|ma|ti|za|[ção]
+ortocromatizar	verbo	or|to|cro|ma|ti|[zar]
+ortodáctilo	adjetivo	or|to|[dác]|ti|lo
+ortodátilo	adjetivo	or|to|[dá]|ti|lo
+ortodiagonal	nome feminino	or|to|di|a|go|[nal]
+ortodoma	nome masculino	or|to|[do]|ma
+ortodonte	adjetivo	or|to|[don]|te
+ortodontia	nome feminino	or|to|don|[ti]|a
+ortodôntico	adjetivo	or|to|[dôn]|ti|co
+ortodontista	nome masculino	or|to|don|[tis]|ta
+ortodontista	nome feminino	or|to|don|[tis]|ta
+ortodontopedia	nome feminino	or|to|don|to|pe|[di]|a
+ortodoro	nome masculino	or|to|[do]|ro
+ortodoxa	nome feminino	or|to|[do]|xa
+ortodoxamente	advérbio	or|to|do|xa|[men]|te
+ortodoxia	nome feminino	or|to|do|[xi]|a
+ortodoxo	adjetivo	or|to|[do]|xo
+ortodoxo	nome masculino	or|to|[do]|xo
+ortodoxografia	nome feminino	or|to|do|xo|gra|[fi]|a
+ortodoxográfico	adjetivo	or|to|do|xo|[grá]|fi|co
+ortodoxógrafo	nome masculino	or|to|do|[xó]|gra|fo
+ortodromia	nome feminino	or|to|dro|[mi]|a
+ortodrómico	adjetivo	or|to|[dró]|mi|co
+ortodrômico	adjetivo	or|to|[drô]|mi|co
+ortoedria	nome feminino	or|to|e|[dri]|a
+ortoédrico	adjetivo	or|to|[é]|dri|co
+ortoépia	nome feminino	or|to|[é]|pi|a
+ortoepia	nome feminino	or|to|e|[pi]|a
+oxicloreto	nome masculino	o|xi|clo|[re]|to
+oxiclórico	adjetivo	o|xi|[cló]|ri|co
+oxicoco	nome masculino	o|xi|[co]|co
+oxicrato	nome masculino	o|xi|[cra]|to
+oxidabilidade	nome feminino	o|xi|da|bi|li|[da]|de
+oxidação	nome feminino	o|xi|da|[ção]
+oxidáctilo	nome masculino	o|xi|[dác]|ti|lo
+oxidado	adjetivo	o|xi|[da]|do
+oxidante	nome masculino	o|xi|[dan]|te
+oxidante	adjetivo	o|xi|[dan]|te
+oxidar	verbo	o|xi|[dar]
+oxídase	nome feminino	o|[xí]|da|se
+oxidase	nome feminino	o|xi|[da]|se
+oxidável	adjetivo	o|xi|[dá]|vel
+oxidimetria	nome feminino	o|xi|di|me|[tri]|a
+oxidina	nome feminino	o|xi|[di]|na
+oxídio	nome masculino	o|[xí]|di|o
+óxido	nome masculino	[ó]|xi|do
+oxidoso	adjetivo	o|xi|[do]|so
+oxídrico	adjetivo	o|[xí]|dri|co
+oxidrilo	nome masculino	o|xi|[dri]|lo
+oxidulado	adjetivo	o|xi|du|[la]|do
+oxidular	verbo	o|xi|du|[lar]
+oxídulo	nome masculino	o|[xí]|du|lo
+oxídulo	adjetivo	o|[xí]|du|lo
+oxiemoglobina	nome feminino	o|xi|e|mo|glo|[bi]|na
+oxietérico	adjetivo	o|xi|e|[té]|ri|co
+oxiflegmasia	nome feminino	o|xi|fleg|ma|[si]|a
+oxiflegmático	adjetivo	o|xi|fleg|[má]|ti|co
+oxifonia	nome feminino	o|xi|fo|[ni]|a
+oxifônico	adjetivo	o|xi|[fô]|ni|co
+oxifónico	adjetivo	o|xi|[fó]|ni|co
+oxígala	nome feminino	o|[xí]|ga|la
+oxigenabilidade	nome feminino	o|xi|ge|na|bi|li|[da]|de
+oxigenação	nome feminino	o|xi|ge|na|[ção]
+oxigenado	adjetivo	o|xi|ge|[na]|do
+oxigenador	adjetivo	o|xi|ge|na|[dor]
+oxigenador	nome masculino	o|xi|ge|na|[dor]
+oxigenante	adjetivo	o|xi|ge|[nan]|te
+oxigenar	verbo	o|xi|ge|[nar]
+oxigenável	adjetivo	o|xi|ge|[ná]|vel
+oxigenífero	adjetivo	o|xi|ge|[ní]|fe|ro
+oxigénio	nome masculino	o|xi|[gé]|ni|o
+oxigênio	nome masculino	o|xi|[gê]|ni|o
+oxigenografia	nome feminino	o|xi|ge|no|gra|[fi]|a
+oxigenográfico	adjetivo	o|xi|ge|no|[grá]|fi|co
+oxigenógrafo	nome masculino	o|xi|ge|[nó]|gra|fo
+oxigeusia	nome feminino	o|xi|geu|[si]|a
+oxigónia	nome feminino	o|xi|[gó]|ni|a
+oxigônia	nome feminino	o|xi|[gô]|ni|a
+oxígono	adjetivo	o|[xí]|go|no
+oxigráfide	nome feminino	o|xi|[grá]|fi|de
+oxiídrico	adjetivo	o|xi|[í]|dri|co
+oxilite	nome feminino	o|xi|[li]|te
+oxilóbio	nome masculino	o|xi|[ló]|bi|o
+oxima	nome feminino	o|[xi]|ma
+oxímaco	nome masculino	o|[xí]|ma|co
+oximalva	nome feminino	o|xi|[mal]|va
+oximanganato	nome masculino	o|xi|man|ga|[na]|to
+oximangânico	adjetivo	o|xi|man|[gâ]|ni|co
+oximel	nome masculino	o|xi|[mel]
+oxímero	nome masculino	o|[xí]|me|ro
+oximetria	nome feminino	o|xi|me|[tri]|a
+oximétrico	adjetivo	o|xi|[mé]|tri|co
+oxímetro	nome masculino	o|[xí]|me|tro
+oximoro	nome masculino	o|xi|[mo]|ro
+oximóron	nome masculino	o|xi|[mó]|ron
+oxina	nome feminino	o|[xi]|na
+oxinganji	nome masculino	o|xin|gan|[ji]
+oxíone	adjetivo	o|[xí]|o|ne
+oxíone	nome masculino	o|[xí]|o|ne
+oxíone	nome feminino	o|[xí]|o|ne
+oxiope	adjetivo	o|xi|[o]|pe
+oxiope	nome masculino	o|xi|[o]|pe
+oxiope	nome feminino	o|xi|[o]|pe
+oxiopia	nome feminino	o|xi|o|[pi]|a
+oxiosfresia	nome feminino	o|xi|os|fre|[si]|a
+oxiosfrésico	adjetivo	o|xi|os|[fré]|si|co
+oxiosfrético	adjetivo	o|xi|os|[fré]|ti|co
+oxiosmia	nome feminino	o|xi|os|[mi]|a
+oxiósmico	adjetivo	o|xi|[ós]|mi|co
+oxipétalo	nome masculino	o|xi|[pé]|ta|lo
+oxipilo	nome masculino	o|xi|[pi]|lo
+oxíptero	nome masculino	o|[xíp]|te|ro
+oxirrânfide	nome feminino	o|xir|[rân]|fi|de
+oxirredução	nome feminino	o|xir|re|du|[ção]
+oxirregmia	nome feminino	o|xir|reg|[mi]|a
+oxirrégmico	adjetivo	o|xir|[rég]|mi|co
+oxirrinco	nome masculino	o|xir|[rin]|co
+oxirrínquio	adjetivo	o|xir|[rín]|qui|o
+oxirrínquio	nome masculino	o|xir|[rín]|qui|o
+oxirródino	nome masculino	o|xir|[ró]|di|no
+oxisfera	nome feminino	o|xis|[fe]|ra
+oxisférico	adjetivo	o|xis|[fé]|ri|co
+oxíspora	nome feminino	o|[xís]|po|ra
+oxissácaro	nome masculino	o|xis|[sá]|ca|ro
+oxissal	nome masculino	o|xis|[sal]
+oxissulfureto	nome masculino	o|xis|sul|fu|[re]|to
+oxistilo	adjetivo	o|xis|[ti]|lo
+oxístomo	nome masculino	o|[xís]|to|mo
+omani	nome feminino	o|ma|[ni]
+omaniano	adjetivo	o|ma|ni|[a]|no
+omaniano	nome masculino	o|ma|ni|[a]|no
+omarismo	nome masculino	o|ma|[ris]|mo
+omarista	adjetivo	o|ma|[ris]|ta
+omarista	nome masculino	o|ma|[ris]|ta
+omarista	nome feminino	o|ma|[ris]|ta
+omaso	nome masculino	o|[ma]|so
+omatídio	nome masculino	o|ma|[tí]|di|o
+omatolampo	nome masculino	o|ma|to|[lam]|po
+omatopleia	nome feminino	o|ma|to|[plei]|a
+ombanda	nome feminino	om|[ban]|da
+ombrear	verbo	om|bre|[ar]
+ombreira	nome feminino	om|[brei]|ra
+ombro	nome masculino	[om]|bro
+ombrofilia	nome feminino	om|bro|fi|[li]|a
+ombrófilo	adjetivo	om|[bró]|fi|lo
+ombrofobia	nome feminino	om|bro|fo|[bi]|a
+ombrófobo	adjetivo	om|[bró]|fo|bo
+ombrometria	nome feminino	om|bro|me|[tri]|a
+ombrométrico	adjetivo	om|bro|[mé]|tri|co
+ombrómetro	nome masculino	om|[bró]|me|tro
+ombrômetro	nome masculino	om|[brô]|me|tro
+ombudsman	nome masculino	om|buds|man
+ómega	nome masculino	[ó]|me|ga
+ômega	nome masculino	[ô]|me|ga
+omeleta	nome feminino	o|me|[le]|ta
+omelete	nome feminino	o|me|[le]|te
+omental	adjetivo	o|men|[tal]
+omento	nome masculino	o|[men]|to
+omertà	nome feminino	o|mer|tà
+omíada	adjetivo	o|[mí]|a|da
+omíada	nome masculino	o|[mí]|a|da
+omíada	nome feminino	o|[mí]|a|da
+ómicro	nome masculino	[ó]|mi|cro
+ómicron	nome masculino	[ó]|mi|cron
+ômicron	nome masculino	[ô]|mi|cron
+ominar	verbo	o|mi|[nar]
+ominosamente	advérbio	o|mi|no|sa|[men]|te
+ominoso	adjetivo	o|mi|[no]|so
+omiométrico	adjetivo	o|mi|o|[mé]|tri|co
+omiômetro	nome masculino	o|mi|[ô]|me|tro
+omiómetro	nome masculino	o|mi|[ó]|me|tro
+omiri	nome masculino	o|mi|[ri]
+omissão	nome feminino	o|mis|[são]
+omissível	adjetivo	o|mis|[sí]|vel
+omisso	adjetivo	o|[mis]|so
+omissor	adjetivo	o|mis|[sor]
+omissório	adjetivo	o|mis|[só]|ri|o
+omitir	verbo	o|mi|[tir]
+omitível	adjetivo	o|mi|[tí]|vel
+omnicolor	adjetivo	om|ni|co|[lor]
+omnicriador	adjetivo	om|ni|cri|a|[dor]
+omnicriador	nome masculino	om|ni|cri|a|[dor]
+omnidirecional	adjetivo	om|ni|di|re|ci|o|[nal]
+omniforme	adjetivo	om|ni|[for]|me
+omnifulgente	adjetivo	om|ni|ful|[gen]|te
+omnigénero	adjetivo	om|ni|[gé]|ne|ro
+omnigênero	nome masculino	om|ni|[gê]|ne|ro
+omnigénero	nome masculino	om|ni|[gé]|ne|ro
+omnigênero	adjetivo	om|ni|[gê]|ne|ro
+omnígeno	adjetivo	om|[ní]|ge|no
+omnilingue	adjetivo	om|ni|[lin]|gue
+omnimodamente	advérbio	om|ni|mo|da|[men]|te
+omnímodo	adjetivo	om|[ní]|mo|do
+omniparente	adjetivo	om|ni|pa|[ren]|te
+omníparo	adjetivo	om|[ní]|pa|ro
+omnipatente	adjetivo	om|ni|pa|[ten]|te
+omnipessoal	adjetivo	om|ni|pes|so|[al]
+omnipotência	nome feminino	om|ni|po|[tên]|ci|a
+omnipotente	adjetivo	om|ni|po|[ten]|te
+omnipotentemente	advérbio	om|ni|po|ten|te|[men]|te
+omnipresença	nome feminino	om|ni|pre|[sen]|ça
+omnipresente	adjetivo	om|ni|pre|[sen]|te
+omnisciência	nome feminino	om|nis|ci|[ên]|ci|a
+omnisciente	adjetivo	om|nis|ci|[en]|te
+omníscio	adjetivo	om|[nís]|ci|o
+omníssono	adjetivo	om|[nís]|so|no
+omnitônico	adjetivo	om|ni|[tô]|ni|co
+omnitónico	adjetivo	om|ni|[tó]|ni|co
+omnividência	nome feminino	om|ni|vi|[dên]|ci|a
+omnividente	adjetivo	om|ni|vi|[den]|te
+omnívomo	adjetivo	om|[ní]|vo|mo
+omnivoridade	nome feminino	om|ni|vo|ri|[da]|de
+omnívoro	adjetivo	om|[ní]|vo|ro
+omoclavicular	adjetivo	o|mo|cla|vi|cu|[lar]
+omocótila	nome feminino	o|mo|[có]|ti|la
+omofagia	nome feminino	o|mo|fa|[gi]|a
+omófago	adjetivo	o|[mó]|fa|go
+omófago	nome masculino	o|[mó]|fa|go
+omóforo	nome masculino	o|[mó]|fo|ro
+omoide	adjetivo	o|[moi]|de
+omoide	nome masculino	o|[moi]|de
+omoplata	nome feminino	o|mo|[pla]|ta
+omoplatoscopia	nome feminino	o|mo|pla|tos|co|[pi]|a
+omoplatoscópico	adjetivo	o|mo|pla|tos|[có]|pi|co
+omosterno	nome masculino	o|mos|[ter]|no
+omotocia	nome feminino	o|mo|to|[ci]|a
+omotraquélio	adjetivo	o|mo|tra|[qué]|li|o
+ompeque	nome masculino	om|[pe]|que
+orçar	verbo	or|[çar]
+orçaz	nome masculino	or|[çaz]
+orcela	nome feminino	or|[ce]|la
+orchata	nome feminino	or|[cha]|ta
+orchata	nome masculino	or|[cha]|ta
+orcina	nome feminino	or|[ci]|na
+orcínio	adjetivo	or|[cí]|ni|o
+orcínio	nome masculino	or|[cí]|ni|o
+orcino	adjetivo	or|[ci]|no
+orcino	nome masculino	or|[ci]|no
+orco	nome masculino	[or]|co
+orcoménico	adjetivo	or|co|[mé]|ni|co
+orcoménico	nome masculino	or|co|[mé]|ni|co
+orcomênico	adjetivo	or|co|[mê]|ni|co
+orcomênico	nome masculino	or|co|[mê]|ni|co
+orcoménio	nome masculino	or|co|[mé]|ni|o
+orcoménio	adjetivo	or|co|[mé]|ni|o
+orcomênio	adjetivo	or|co|[mê]|ni|o
+orcomênio	nome masculino	or|co|[mê]|ni|o
+ordálio	nome masculino	or|[dá]|li|o
+ordeiramente	advérbio	or|dei|ra|[men]|te
+ordeirismo	nome masculino	or|dei|[ris]|mo
+ordeiro	adjetivo	or|[dei]|ro
+ordem	nome feminino	[or]|dem
+ordenação	nome feminino	or|de|na|[ção]
+ordenada	nome feminino	or|de|[na]|da
+ordenadamente	advérbio	or|de|na|da|[men]|te
+ordenado	adjetivo	or|de|[na]|do
+ordenado	nome masculino	or|de|[na]|do
+ordenado-base	nome masculino	or|de|na|do-ba|se
+ordenador	adjetivo	or|de|na|[dor]
+ordenador	nome masculino	or|de|na|[dor]
+ordenadora	nome feminino	or|de|na|[do]|ra
+ordenamento	nome masculino	or|de|na|[men]|to
+ordenança	nome feminino	or|de|[nan]|ça
+ordenar	verbo	or|de|[nar]
+ordenável	adjetivo	or|de|[ná]|vel
+ordenha	nome feminino	or|[de]|nha
+ordenhador	adjetivo	or|de|nha|[dor]
+ordenhador	nome masculino	or|de|nha|[dor]
+ordenhadora	nome feminino	or|de|nha|[do]|ra
+ordenhar	verbo	or|de|[nhar]
+ordenho	nome masculino	or|[de]|nho
+ordinal	nome masculino	or|di|[nal]
+ordinal	adjetivo	or|di|[nal]
+ordinando	adjetivo	or|di|[nan]|do
+ordinando	nome masculino	or|di|[nan]|do
+ordinante	adjetivo	or|di|[nan]|te
+ordinante	nome masculino	or|di|[nan]|te
+ordinante	nome feminino	or|di|[nan]|te
+ordinária	nome feminino	or|di|[ná]|ri|a
+ordinariado	nome masculino	or|di|na|ri|[a]|do
+ordinariamente	advérbio	or|di|na|ri|a|[men]|te
+ordinarice	nome feminino	or|di|na|[ri]|ce
+ordinário	adjetivo	or|di|[ná]|ri|o
+ordinário	nome masculino	or|di|[ná]|ri|o
+ordinarismo	nome masculino	or|di|na|[ris]|mo
+ordinatório	adjetivo	or|di|na|[tó]|ri|o
+ordovice	adjetivo	or|do|[vi]|ce
+ordovice	nome masculino	or|do|[vi]|ce
+ordovice	nome feminino	or|do|[vi]|ce
+ordoviciana	nome feminino	or|do|vi|ci|[a]|na
+ordoviciano	nome masculino	or|do|vi|ci|[a]|no
+ordoviciano	adjetivo	or|do|vi|ci|[a]|no
+ordovícico	adjetivo	or|do|[ví]|ci|co
+ordovício	adjetivo	or|do|[ví]|ci|o
+oréade	nome feminino	o|[ré]|a|de
+orear	verbo	o|re|[ar]
+orega	nome feminino	o|[re]|ga
+orégão	nome masculino	o|[ré]|gão
+oregógeno	adjetivo	o|re|[gó]|ge|no
+orelana	nome feminino	o|re|[la]|na
+orelha	nome feminino	o|[re]|lha
+orelha-de-boi	nome feminino	o|re|lha-de-boi
+orelha-de-cabra	nome feminino	o|re|lha-de-ca|bra
+orelha-de-cão	nome feminino	o|re|lha-de-cão
+orelha-de-gato	nome feminino	o|re|lha-de-ga|to
+orelha-de-lebre	nome feminino	o|re|lha-de-le|bre
+orelha-de-mula	nome feminino	o|re|lha-de-mu|la
+orelha-de-onça	nome feminino	o|re|lha-de-on|ça
+orelha-de-pau	nome feminino	o|re|lha-de-pau
+orelha-de-rato	nome feminino	o|re|lha-de-ra|to
+orelha-de-toupeira	nome feminino	o|re|lha-de-tou|[pei]|ra
+orelha-de-urso	nome feminino	o|re|lha-de-ur|so
+orelha-de-veado	nome feminino	o|re|lha-de-ve|[a]|do
+orelha-redonda	nome masculino	o|re|lha-re|[don]|da
+orelhada	nome feminino	o|re|[lha]|da
+orelhado	adjetivo	o|re|[lha]|do
+orelhado	nome masculino	o|re|[lha]|do
+orelhador	adjetivo	o|re|lha|[dor]
+orelhador	nome masculino	o|re|lha|[dor]
+orelhame	nome masculino	o|re|[lha]|me
+orelhana	nome feminino	o|re|[lha]|na
+orelhano	adjetivo	o|re|[lha]|no
+orelhão	nome masculino	o|re|[lhão]
+orelhar	verbo	o|re|[lhar]
+orelhas de abade	nome feminino	o|[re]|lhas de a|ba|de
+orelhas-de-burro	nome feminino	o|re|lhas-de-bur|ro
+orelheira	nome feminino	o|re|[lhei]|ra
+orelhete	nome masculino	o|re|[lhe]|te
+olho-grosso	nome masculino	o|lho-gros|so
+olho-largo	nome masculino	o|lho-lar|go
+olho-marinho	nome masculino	o|lho-ma|[ri]|nho
+olho-rapado	nome masculino	o|lho-ra|[pa]|do
+olho-roxo	nome masculino	o|lho-ro|xo
+olho-verde	nome masculino	o|lho-ver|de
+olho-vivo	nome masculino	o|lho-vi|vo
+olhudo	nome masculino	o|[lhu]|do
+olhudo	adjetivo	o|[lhu]|do
+olíbano	nome masculino	o|[lí]|ba|no
+oliculano	adjetivo	o|li|cu|[la]|no
+oliculano	nome masculino	o|li|cu|[la]|no
+olifante	nome masculino	o|li|[fan]|te
+oligarca	nome masculino	o|li|[gar]|ca
+oligarca	nome feminino	o|li|[gar]|ca
+oligarquia	nome feminino	o|li|gar|[qui]|a
+oligarquicamente	advérbio	o|li|gar|qui|ca|[men]|te
+oligárquico	adjetivo	o|li|[gár]|qui|co
+oligarquismo	nome masculino	o|li|gar|[quis]|mo
+oligarquização	nome feminino	o|li|gar|qui|za|[ção]
+oligarquizar	verbo	o|li|gar|qui|[zar]
+oligemia	nome feminino	o|li|ge|[mi]|a
+oligémico	adjetivo	o|li|[gé]|mi|co
+oligêmico	adjetivo	o|li|[gê]|mi|co
+oligidria	nome feminino	o|li|gi|[dri]|a
+oligídrico	adjetivo	o|li|[gí]|dri|co
+oligístico	adjetivo	o|li|[gís]|ti|co
+oligisto	nome masculino	o|li|[gis]|to
+oligisto	adjetivo	o|li|[gis]|to
+oligoblenia	nome feminino	o|li|go|ble|[ni]|a
+oligocarpo	nome masculino	o|li|go|[car]|po
+oligocénico	adjetivo	o|li|go|[cé]|ni|co
+oligoceno	adjetivo	o|li|go|[ce]|no
+oligoceno	nome masculino	o|li|go|[ce]|no
+oligócero	nome masculino	o|li|[gó]|ce|ro
+oligocitemia	nome feminino	o|li|go|ci|te|[mi]|a
+oligóclase	nome feminino	o|li|[gó]|cla|se
+oligoclásio	nome masculino	o|li|go|[clá]|si|o
+oligoclaso	nome masculino	o|li|go|[cla]|so
+oligocolia	nome feminino	o|li|go|co|[li]|a
+oligocólico	adjetivo	o|li|go|[có]|li|co
+oligocracia	nome feminino	o|li|go|cra|[ci]|a
+oligocrático	adjetivo	o|li|go|[crá]|ti|co
+oligócrono	adjetivo	o|li|[gó]|cro|no
+oligocronométrico	adjetivo	o|li|go|cro|no|[mé]|tri|co
+oligocronómetro	nome masculino	o|li|go|cro|[nó]|me|tro
+oligocronômetro	nome masculino	o|li|go|cro|[nô]|me|tro
+oligodacria	nome feminino	o|li|go|da|[cri]|a
+oligodipsia	nome feminino	o|li|go|dip|[si]|a
+oligoelemento	nome masculino	o|li|go|e|le|[men]|to
+oligofagia	nome feminino	o|li|go|fa|[gi]|a
+oligófago	adjetivo	o|li|[gó]|fa|go
+oligófago	nome masculino	o|li|[gó]|fa|go
+oligofarmácia	nome feminino	o|li|go|far|[má]|ci|a
+oligofármaco	adjetivo	o|li|go|[fár]|ma|co
+oligofilo	adjetivo	o|li|go|[fi]|lo
+oligofrenia	nome feminino	o|li|go|fre|[ni]|a
+oligofrénica	nome feminino	o|li|go|[fré]|ni|ca
+oligofrênico	adjetivo	o|li|go|[frê]|ni|co
+oligofrênico	nome masculino	o|li|go|[frê]|ni|co
+oligofrénico	nome masculino	o|li|go|[fré]|ni|co
+oligofrénico	adjetivo	o|li|go|[fré]|ni|co
+oligolecítico	adjetivo	o|li|go|le|[cí]|ti|co
+oligolécito	adjetivo	o|li|go|[lé]|ci|to
+oligomania	nome feminino	o|li|go|ma|[ni]|a
+oligomaníaco	adjetivo	o|li|go|ma|[ní]|a|co
+oligomaníaco	nome masculino	o|li|go|ma|[ní]|a|co
+oligómano	nome masculino	o|li|[gó]|ma|no
+oligômano	nome masculino	o|li|[gô]|ma|no
+oligonite	nome feminino	o|li|go|[ni]|te
+oligopionia	nome feminino	o|li|go|pi|o|[ni]|a
+oligópode	nome masculino	o|li|[gó]|po|de
+oligopólio	nome masculino	o|li|go|[pó]|li|o
+oligoposia	nome feminino	o|li|go|po|[si]|a
+oligopsiquia	nome feminino	o|li|gop|si|[qui]|a
+oligopsíquico	adjetivo	o|li|gop|[sí]|qui|co
+oligopsónio	nome masculino	o|li|gop|[só]|ni|o
+oligopsônio	nome masculino	o|li|gop|[sô]|ni|o
+oligoqueta	nome masculino	o|li|go|[que]|ta
+oligoqueta	adjetivo	o|li|go|[que]|ta
+oligoquilia	nome feminino	o|li|go|qui|[li]|a
+oligoquilo	adjetivo	o|li|go|[qui]|lo
+oligospermia	nome feminino	o|li|gos|per|[mi]|a
+oligospermo	adjetivo	o|li|gos|[per]|mo
+oligossacárido	nome masculino	o|li|gos|sa|[cá]|ri|do
+oligossialia	nome feminino	o|li|gos|si|a|[li]|a
+oligossiálico	adjetivo	o|li|gos|si|[á]|li|co
+oligotriquia	nome feminino	o|li|go|tri|[qui]|a
+oligotrofia	nome feminino	o|li|go|tro|[fi]|a
+oligotrófico	adjetivo	o|li|go|[tró]|fi|co
+oliguresia	nome feminino	o|li|gu|re|[si]|a
+oligurético	adjetivo	o|li|gu|[ré]|ti|co
+oligúria	nome feminino	o|li|[gú]|ri|a
+oligúrico	adjetivo	o|li|[gú]|ri|co
+olimpeno	adjetivo	o|lim|[pe]|no
+olimpeno	nome masculino	o|lim|[pe]|no
+olimpíada	nome feminino	o|lim|[pí]|a|da
+olimpíade	nome feminino	o|lim|[pí]|a|de
+olimpiano	adjetivo	o|lim|pi|[a]|no
+olimpicamente	advérbio	o|lim|pi|ca|[men]|te
+ovnilogia	nome feminino	ov|ni|lo|[gi]|a
+ovnilógico	adjetivo	ov|ni|[ló]|gi|co
+ovnilogista	nome masculino	ov|ni|lo|[gis]|ta
+ovnilogista	nome feminino	ov|ni|lo|[gis]|ta
+ovniologia	nome feminino	ov|ni|o|lo|[gi]|a
+ovniologista	nome masculino	ov|ni|o|lo|[gis]|ta
+ovo	nome masculino	[o]|vo
+ovo-de-avestruz	nome masculino	o|vo-de-a|ves|[truz]
+ovoblasto	nome masculino	o|vo|[blas]|to
+ovócito	nome masculino	o|[vó]|ci|to
+ovofagia	nome feminino	o|vo|fa|[gi]|a
+ovogênese	nome feminino	o|vo|[gê]|ne|se
+ovogénese	nome feminino	o|vo|[gé]|ne|se
+ovogenético	adjetivo	o|vo|ge|[né]|ti|co
+ovogenia	nome feminino	o|vo|ge|[ni]|a
+ovogénico	adjetivo	o|vo|[gé]|ni|co
+ovogênico	adjetivo	o|vo|[gê]|ni|co
+ovogónia	nome feminino	o|vo|[gó]|ni|a
+ovogónio	nome masculino	o|vo|[gó]|ni|o
+ovogônio	nome masculino	o|vo|[gô]|ni|o
+ovoide	adjetivo	o|[voi]|de
+ovoide	nome feminino	o|[voi]|de
+ovologia	nome feminino	o|vo|lo|[gi]|a
+ovológico	adjetivo	o|vo|[ló]|gi|co
+ovos-moles	nome masculino	o|vos-mo|les
+ovoscopia	nome feminino	o|vos|co|[pi]|a
+ovoscópico	adjetivo	o|vos|[có]|pi|co
+ovoscópio	nome masculino	o|vos|[có]|pi|o
+ovovíparo	adjetivo	o|vo|[ví]|pa|ro
+ovoviviparidade	nome feminino	o|vo|vi|vi|pa|ri|[da]|de
+ovovivíparo	adjetivo	o|vo|vi|[ví]|pa|ro
+ovovivíparo	nome masculino	o|vo|vi|[ví]|pa|ro
+ovulação	nome feminino	o|vu|la|[ção]
+ovulado	adjetivo	o|vu|[la]|do
+ovulante	adjetivo	o|vu|[lan]|te
+ovulante	nome masculino	o|vu|[lan]|te
+ovulante	nome feminino	o|vu|[lan]|te
+ovular	verbo	o|vu|[lar]
+ovular	adjetivo	o|vu|[lar]
+ovulífero	adjetivo	o|vu|[lí]|fe|ro
+ovuliforme	adjetivo	o|vu|li|[for]|me
+ovulígero	adjetivo	o|vu|[lí]|ge|ro
+óvulo	nome masculino	[ó]|vu|lo
+ovulogénese	nome feminino	o|vu|lo|[gé]|ne|se
+ovulogênese	nome feminino	o|vu|lo|[gê]|ne|se
+owenismo	nome masculino	o|we|[nis]|mo
+owenista	adjetivo	o|we|[nis]|ta
+owenista	nome masculino	o|we|[nis]|ta
+owenista	nome feminino	o|we|[nis]|ta
+oxácido	nome masculino	o|[xá]|ci|do
+oxalá	interjeição	o|xa|[lá]
+oxalato	nome masculino	o|xa|[la]|to
+oxálico	adjetivo	o|[xá]|li|co
+oxálida	nome feminino	o|[xá]|li|da
+oxalidácea	nome feminino	o|xa|li|[dá]|ce|a
+oxalidáceo	adjetivo	o|xa|li|[dá]|ce|o
+oxálide	nome feminino	o|[xá]|li|de
+oxalídrico	adjetivo	o|xa|[lí]|dri|co
+oxalífero	adjetivo	o|xa|[lí]|fe|ro
+oxalma	nome feminino	o|[xal]|ma
+oxalovinato	nome masculino	o|xa|lo|vi|[na]|to
+oxalovínico	adjetivo	o|xa|lo|[ví]|ni|co
+oxaluria	nome feminino	o|xa|lu|[ri]|a
+oxalúria	nome feminino	o|xa|[lú]|ri|a
+oxalúrico	adjetivo	o|xa|[lú]|ri|co
+oxamato	nome masculino	o|xa|[ma]|to
+oxametana	nome feminino	o|xa|me|[ta]|na
+oxametilana	nome feminino	o|xa|me|ti|[la]|na
+oxâmico	adjetivo	o|[xâ]|mi|co
+oxamido	nome masculino	o|xa|[mi]|do
+oxarite	nome feminino	o|xa|[ri]|te
+oxedorredutase	nome feminino	o|xe|dor|re|du|[ta]|se
+oxente	interjeição	o|[xen]|te
+oxeol	nome masculino	o|xe|[ol]
+oxeolato	nome masculino	o|xe|o|[la]|to
+oxeóleo	nome masculino	o|xe|[ó]|le|o
+oxeu	nome masculino	o|[xeu]
+oxfordiano	adjetivo	ox|for|di|[a]|no
+oxfordiano	nome masculino	ox|for|di|[a]|no
+oxiacetilénico	adjetivo	o|xi|a|ce|ti|[lé]|ni|co
+oxiacetilênico	adjetivo	o|xi|a|ce|ti|[lê]|ni|co
+oxiácido	nome masculino	o|xi|[á]|ci|do
+oxiantera	nome feminino	o|xi|an|[te]|ra
+oxianto	nome masculino	o|xi|[an]|to
+oxíbafo	nome masculino	o|[xí]|ba|fo
+oxíbase	nome feminino	o|[xí]|ba|se
+oxibásico	adjetivo	o|xi|[bá]|si|co
+oxibrácteo	adjetivo	o|xi|[brác]|te|o
+oxibrometo	nome masculino	o|xi|bro|[me]|to
+oxibutirato	nome masculino	o|xi|bu|ti|[ra]|to
+oxibutírico	adjetivo	o|xi|bu|[tí]|ri|co
+oxicarbônico	adjetivo	o|xi|car|[bô]|ni|co
+oxicarbónico	adjetivo	o|xi|car|[bó]|ni|co
+oxícedro	nome masculino	o|[xí]|ce|dro
+oxicéfala	nome feminino	o|xi|[cé]|fa|la
+oxicefalia	nome feminino	o|xi|ce|fa|[li]|a
+oxicéfalo	adjetivo	o|xi|[cé]|fa|lo
+oxicéfalo	nome masculino	o|xi|[cé]|fa|lo
+oxícera	nome feminino	o|[xí]|ce|ra
+oxiclorato	nome masculino	o|xi|clo|[ra]|to
+oleossulfúrico	adjetivo	o|le|os|sul|[fú]|ri|co
+oleráceo	adjetivo	o|le|[rá]|ce|o
+olericultor	adjetivo	o|le|ri|cul|[tor]
+olericultor	nome masculino	o|le|ri|cul|[tor]
+olericultura	nome feminino	o|le|ri|cul|[tu]|ra
+oleroso	adjetivo	o|le|[ro]|so
+oleula	nome feminino	o|[leu]|la
+oleulado	adjetivo	o|leu|[la]|do
+olêulico	adjetivo	o|[lêu]|li|co
+olfação	nome feminino	ol|fa|[ção]
+olfacção	nome feminino	ol|fac|[ção]
+olfactar	verbo	ol|fac|[tar]
+olfáctica	nome feminino	ol|[fác]|ti|ca
+olfáctico	adjetivo	ol|[fác]|ti|co
+olfactivamente	advérbio	ol|fac|ti|va|[men]|te
+olfactivo	adjetivo	ol|fac|[ti]|vo
+olfacto	nome masculino	ol|[fac]|to
+olfactometria	nome feminino	ol|fac|to|me|[tri]|a
+olfactométrico	adjetivo	ol|fac|to|[mé]|tri|co
+olfactômetro	nome masculino	ol|fac|[tô]|me|tro
+olfactório	adjetivo	ol|fac|[tó]|ri|o
+olfatar	verbo	ol|fa|[tar]
+olfática	nome feminino	ol|[fá]|ti|ca
+olfático	adjetivo	ol|[fá]|ti|co
+olfativamente	advérbio	ol|fa|ti|va|[men]|te
+olfativo	adjetivo	ol|fa|[ti]|vo
+olfato	nome masculino	ol|[fa]|to
+olfatometria	nome feminino	ol|fa|to|me|[tri]|a
+olfatométrico	adjetivo	ol|fa|to|[mé]|tri|co
+olfatômetro	nome masculino	ol|fa|[tô]|me|tro
+olfatómetro	nome masculino	ol|fa|[tó]|me|tro
+olfatório	adjetivo	ol|fa|[tó]|ri|o
+olga	nome feminino	[ol]|ga
+olha	nome feminino	[o]|lha
+olha-a-água	nome masculino	o|lha-a-á|gua
+olha-podrida	nome feminino	o|lha-po|[dri]|da
+olhada	nome feminino	o|[lha]|da
+olhadela	nome feminino	o|lha|[de]|la
+olhado	nome masculino	o|[lha]|do
+olhado	adjetivo	o|[lha]|do
+olhador	adjetivo	o|lha|[dor]
+olhador	nome masculino	o|lha|[dor]
+olhadura	nome feminino	o|lha|[du]|ra
+olhal	nome masculino	o|[lhal]
+olhalegre	adjetivo	o|lha|[le]|gre
+olhalva	nome feminino	o|[lhal]|va
+olhalvo	adjetivo	o|[lhal]|vo
+olhalvo	nome masculino	o|[lhal]|vo
+olhamento	nome masculino	o|lha|[men]|to
+olhandilhas	nome masculino	o|lhan|[di]|lhas
+olhanense	nome masculino	o|lha|[nen]|se
+olhanense	adjetivo	o|lha|[nen]|se
+olhanense	nome feminino	o|lha|[nen]|se
+olhante	nome masculino	o|[lhan]|te
+olhante	nome feminino	o|[lhan]|te
+olhapim	nome masculino	o|lha|[pim]
+olhar	verbo	o|[lhar]
+olhar	nome masculino	o|[lhar]
+olharapo	nome masculino	o|lha|[ra]|po
+olhe	interjeição	[o]|lhe
+olheira	nome feminino	o|[lhei]|ra
+olheirada	nome feminino	o|lhei|[ra]|da
+olheirado	adjetivo	o|lhei|[ra]|do
+olheirão	nome masculino	o|lhei|[rão]
+olheiras	nome feminino	o|[lhei]|ras
+olheirento	adjetivo	o|lhei|[ren]|to
+olheiro	nome masculino	o|[lhei]|ro
+olhento	adjetivo	o|[lhen]|to
+olhetado	nome masculino	o|lhe|[ta]|do
+olhete	nome masculino	o|[lhe]|te
+olhiagudo	adjetivo	o|lhi|a|[gu]|do
+olhibranco	adjetivo	o|lhi|[bran]|co
+olhica	nome masculino	o|[lhi]|ca
+olhimanco	adjetivo	o|lhi|[man]|co
+olhimanco	nome masculino	o|lhi|[man]|co
+olhinegro	adjetivo	o|lhi|[ne]|gro
+olhinho	nome masculino	o|[lhi]|nho
+olhipreto	adjetivo	o|lhi|[pre]|to
+olhirridente	adjetivo	o|lhir|ri|[den]|te
+olhizaino	adjetivo	o|lhi|[zai]|no
+olhizaino	nome masculino	o|lhi|[zai]|no
+olhizarco	adjetivo	o|lhi|[zar]|co
+olho	nome masculino	[o]|lho
+olho	interjeição	[o]|lho
+olho de mosquito	nome masculino	[o]|lho de mos|qui|to
+olho de sogra	nome masculino	[o]|lho de so|gra
+olho de tigre	nome masculino	[o]|lho de ti|gre
+olho-branco	nome masculino	o|lho-bran|co
+olho-d'água	nome masculino	o|lho-d'á|gua
+olho-de-boi	nome masculino	o|lho-de-boi
+olho-de-cabra	nome masculino	o|lho-de-ca|bra
+olho-de-chede	nome masculino	o|lho-de-che|de
+olho-de-galo	nome masculino	o|lho-de-ga|lo
+olho-de-gato	nome masculino	o|lho-de-ga|to
+olho-de-lebre	nome masculino	o|lho-de-le|bre
+olho-de-mocho	nome masculino	o|lho-de-mo|cho
+olho-de-perdigão	nome masculino	o|lho-de-per|di|[gão]
+olho-de-perdiz	nome masculino	o|lho-de-per|[diz]
+olho-de-pombo	nome masculino	o|lho-de-pom|bo
+olho-de-sapo	nome masculino	o|lho-de-sa|po
+obtusirrostro	adjetivo	ob|tu|sir|[ros]|tro
+obtuso	adjetivo	ob|[tu]|so
+obumbração	nome feminino	o|bum|bra|[ção]
+obumbramento	nome masculino	o|bum|bra|[men]|to
+obumbrante	adjetivo	o|bum|[bran]|te
+obumbrar	verbo	o|bum|[brar]
+obus	nome masculino	o|[bus]
+obuseiro	adjetivo	o|bu|[sei]|ro
+obuseiro	nome masculino	o|bu|[sei]|ro
+obvenção	nome feminino	ob|ven|[ção]
+obverso	nome masculino	ob|[ver]|so
+obviamente	advérbio	ob|vi|a|[men]|te
+obviar	verbo	ob|vi|[ar]
+obviável	adjetivo	ob|vi|[á]|vel
+obviedade	nome feminino	ob|vi|e|[da]|de
+óbvio	adjetivo	[ób]|vi|o
+obvir	verbo	ob|[vir]
+obvolvido	adjetivo	ob|vol|[vi]|do
+oc	nome masculino	[oc]
+oca	nome feminino	[o]|ca
+ocá	nome masculino	o|[cá]
+ocamente	advérbio	o|ca|[men]|te
+ocanheira	nome feminino	o|ca|[nhei]|ra
+ocanheiro	nome masculino	o|ca|[nhei]|ro
+ocanho	nome masculino	o|[ca]|nho
+ocapi	nome masculino	o|ca|[pi]
+ocar	verbo	o|[car]
+ocarina	nome feminino	o|ca|[ri]|na
+ocarinista	nome masculino	o|ca|ri|[nis]|ta
+ocarinista	nome feminino	o|ca|ri|[nis]|ta
+ocaruçu	nome masculino	o|ca|ru|[çu]
+ocasião	nome feminino	o|ca|si|[ão]
+ocasionado	adjetivo	o|ca|si|o|[na]|do
+ocasionador	adjetivo	o|ca|si|o|na|[dor]
+ocasionador	nome masculino	o|ca|si|o|na|[dor]
+ocasionadora	nome feminino	o|ca|si|o|na|[do]|ra
+ocasional	adjetivo	o|ca|si|o|[nal]
+ocasionalidade	nome feminino	o|ca|si|o|na|li|[da]|de
+ocasionalismo	nome masculino	o|ca|si|o|na|[lis]|mo
+ocasionalista	adjetivo	o|ca|si|o|na|[lis]|ta
+ocasionalista	nome masculino	o|ca|si|o|na|[lis]|ta
+ocasionalista	nome feminino	o|ca|si|o|na|[lis]|ta
+ocasionalmente	advérbio	o|ca|si|o|nal|[men]|te
+ocasionar	verbo	o|ca|si|o|[nar]
+ocasionável	adjetivo	o|ca|si|o|[ná]|vel
+ocaso	nome masculino	o|[ca]|so
+occídio	nome masculino	oc|[cí]|di|o
+occíduo	adjetivo	oc|[cí]|du|o
+occipicial	adjetivo	oc|ci|pi|ci|[al]
+occipício	nome masculino	oc|ci|[pí]|ci|o
+occipital	adjetivo	oc|ci|pi|[tal]
+occipital	nome masculino	oc|ci|pi|[tal]
+occipitauricular	adjetivo	oc|ci|pi|tau|ri|cu|[lar]
+occipitofrontal	adjetivo	oc|ci|pi|to|fron|[tal]
+occipitomeníngeo	adjetivo	oc|ci|pi|to|me|[nín]|ge|o
+occipitoparietal	adjetivo	oc|ci|pi|to|pa|ri|e|[tal]
+occipitopétreo	adjetivo	oc|ci|pi|to|[pé]|tre|o
+occipitovertebral	adjetivo	oc|ci|pi|to|ver|te|[bral]
+occipúcio	nome masculino	oc|ci|[pú]|ci|o
+occiput	nome masculino	oc|ci|put
+ócciput	nome masculino	[óc]|ci|put
+occisão	nome feminino	oc|ci|[são]
+occisivo	adjetivo	oc|ci|[si]|vo
+occitânico	nome masculino	oc|ci|[tâ]|ni|co
+occitânico	adjetivo	oc|ci|[tâ]|ni|co
+occitano	adjetivo	oc|ci|[ta]|no
+oceanário	nome masculino	o|ce|a|[ná]|ri|o
+oceanauta	nome masculino	o|ce|a|[nau]|ta
+oceanauta	nome feminino	o|ce|a|[nau]|ta
+oceânea	nome feminino	o|ce|[â]|ne|a
+oceâneo	adjetivo	o|ce|[â]|ne|o
+oceânica	nome feminino	o|ce|[â]|ni|ca
+oceanicidade	nome feminino	o|ce|a|ni|ci|[da]|de
+oceânico	nome masculino	o|ce|[â]|ni|co
+oceânico	adjetivo	o|ce|[â]|ni|co
+oceânide	nome feminino	o|ce|[â]|ni|de
+oceaniense	adjetivo	o|ce|a|ni|[en]|se
+oceaniense	nome masculino	o|ce|a|ni|[en]|se
+oceaniense	nome feminino	o|ce|a|ni|[en]|se
+oceanítide	nome feminino	o|ce|a|[ní]|ti|de
+oceanito	nome masculino	o|ce|a|[ni]|to
+oceano	nome masculino	o|ce|[a]|no
+oceanógrafa	nome feminino	o|ce|a|[nó]|gra|fa
+oceanografia	nome feminino	o|ce|a|no|gra|[fi]|a
+oceanográfico	adjetivo	o|ce|a|no|[grá]|fi|co
+oceanógrafo	nome masculino	o|ce|a|[nó]|gra|fo
+oceanologia	nome feminino	o|ce|a|no|lo|[gi]|a
+oceanológico	adjetivo	o|ce|a|no|[ló]|gi|co
+oceanologista	nome masculino	o|ce|a|no|lo|[gis]|ta
+oceanologista	nome feminino	o|ce|a|no|lo|[gis]|ta
+oceanólogo	nome masculino	o|ce|a|[nó]|lo|go
+ocelado	adjetivo	o|ce|[la]|do
+ocelária	nome feminino	o|ce|[lá]|ri|a
+océleo	adjetivo	o|[cé]|le|o
+ocelífero	adjetivo	o|ce|[lí]|fe|ro
+oceliforme	adjetivo	o|ce|li|[for]|me
+ocelo	nome masculino	o|[ce]|lo
+ocelote	nome masculino	o|ce|[lo]|te
+ochas	nome feminino	[o]|chas
+oche	interjeição	[o]|che
+oniromante	nome masculino	o|ni|ro|[man]|te
+oniromante	nome feminino	o|ni|ro|[man]|te
+oniromântico	adjetivo	o|ni|ro|[mân]|ti|co
+onirópolo	nome masculino	o|ni|[ró]|po|lo
+oniroscopia	nome feminino	o|ni|ros|co|[pi]|a
+oniroscópico	adjetivo	o|ni|ros|[có]|pi|co
+oníscia	nome feminino	o|[nís]|ci|a
+oníscida	nome masculino	o|[nís]|ci|da
+oníscida	nome masculino	o|[nís]|ci|da
+oniscídeo	nome masculino	o|nis|[cí]|de|o
+oniscídeo	adjetivo	o|nis|[cí]|de|o
+oniscídeo	nome masculino	o|nis|[cí]|de|o
+onisciência	nome feminino	o|nis|ci|[ên]|ci|a
+onisciente	adjetivo	o|nis|ci|[en]|te
+onisco	nome masculino	o|[nis]|co
+oniscografia	nome feminino	o|nis|co|gra|[fi]|a
+oniscográfico	adjetivo	o|nis|co|[grá]|fi|co
+onividência	nome feminino	o|ni|vi|[dên]|ci|a
+onividente	adjetivo	o|ni|vi|[den]|te
+onívomo	adjetivo	o|[ní]|vo|mo
+onívoro	adjetivo	o|[ní]|vo|ro
+ônix	nome masculino	[ô]|nix
+ónix	nome masculino	[ó]|nix
+onixe	nome masculino	o|[ni]|xe
+online	adjetivo	on|[li]|ne
+online	advérbio	on|[li]|ne
+onobríquide	nome feminino	o|no|[brí]|qui|de
+onobriquídea	nome feminino	o|no|bri|[quí]|de|a
+onobroma	nome feminino	o|no|[bro]|ma
+onocéfalo	nome masculino	o|no|[cé]|fa|lo
+onocentauro	nome masculino	o|no|cen|[tau]|ro
+onocolo	nome masculino	o|no|[co]|lo
+onocrótalo	nome masculino	o|no|[cró]|ta|lo
+onofrite	nome feminino	o|no|[fri]|te
+onólatra	adjetivo	o|[nó]|la|tra
+onólatra	nome masculino	o|[nó]|la|tra
+onólatra	nome feminino	o|[nó]|la|tra
+onolatria	nome feminino	o|no|la|[tri]|a
+onolátrico	adjetivo	o|no|[lá]|tri|co
+onomancia	nome feminino	o|no|man|[ci]|a
+onomania	nome feminino	o|no|ma|[ni]|a
+onomaníaco	adjetivo	o|no|ma|[ní]|a|co
+onomaníaco	nome masculino	o|no|ma|[ní]|a|co
+onómano	nome masculino	o|[nó]|ma|no
+onômano	nome masculino	o|[nô]|ma|no
+onomasiologia	nome feminino	o|no|ma|si|o|lo|[gi]|a
+onomasiológico	adjetivo	o|no|ma|si|o|[ló]|gi|co
+onomástica	nome feminino	o|no|[más]|ti|ca
+onomasticamente	advérbio	o|no|mas|ti|ca|[men]|te
+onomástico	adjetivo	o|no|[más]|ti|co
+onomástico	nome masculino	o|no|[más]|ti|co
+onomático	adjetivo	o|no|[má]|ti|co
+onomatóloga	nome feminino	o|no|ma|[tó]|lo|ga
+onomatologia	nome feminino	o|no|ma|to|lo|[gi]|a
+onomatológico	adjetivo	o|no|ma|to|[ló]|gi|co
+onomatologista	nome masculino	o|no|ma|to|lo|[gis]|ta
+onomatologista	nome feminino	o|no|ma|to|lo|[gis]|ta
+onomatólogo	nome masculino	o|no|ma|[tó]|lo|go
+onomatomancia	nome feminino	o|no|ma|to|man|[ci]|a
+onomatomania	nome feminino	o|no|ma|to|ma|[ni]|a
+onomatomaníaco	adjetivo	o|no|ma|to|ma|[ní]|a|co
+onomatomaníaco	nome masculino	o|no|ma|to|ma|[ní]|a|co
+onomatómano	nome masculino	o|no|ma|[tó]|ma|no
+onomatômano	nome masculino	o|no|ma|[tô]|ma|no
+onomatomante	nome masculino	o|no|ma|to|[man]|te
+onomatomante	nome feminino	o|no|ma|to|[man]|te
+onomatomântico	adjetivo	o|no|ma|to|[mân]|ti|co
+onomatopaicamente	advérbio	o|no|ma|to|pai|ca|[men]|te
+onomatopaico	adjetivo	o|no|ma|to|[pai]|co
+onomatopeia	nome feminino	o|no|ma|to|[pei]|a
+onomatopeicamente	advérbio	o|no|ma|to|pei|ca|[men]|te
+onomatopeico	adjetivo	o|no|ma|to|[pei]|co
+onomatópico	adjetivo	o|no|ma|[tó]|pi|co
+onomatopoese	nome feminino	o|no|ma|to|po|[e]|se
+onomatopoético	adjetivo	o|no|ma|to|po|[é]|ti|co
+onônide	nome feminino	o|[nô]|ni|de
+onónide	nome feminino	o|[nó]|ni|de
+onopórdio	nome masculino	o|no|[pór]|di|o
+onóscelo	nome masculino	o|[nós]|ce|lo
+onosma	nome masculino	o|[nos]|ma
+onosséride	nome feminino	o|nos|[sé]|ri|de
+onosserídea	nome feminino	o|nos|se|[rí]|de|a
+onotauro	nome masculino	o|no|[tau]|ro
+onotera	nome feminino	o|no|[te]|ra
+onoterácea	nome feminino	o|no|te|[rá]|ce|a
+onoteráceo	adjetivo	o|no|te|[rá]|ce|o
+ontem	advérbio	[on]|tem
+ôntico	nome masculino	[ôn]|ti|co
+ôntico	adjetivo	[ôn]|ti|co
+ontofagia	nome feminino	on|to|fa|[gi]|a
+ontófago	adjetivo	on|[tó]|fa|go
+ontófago	nome masculino	on|[tó]|fa|go
+ontófilo	adjetivo	on|[tó]|fi|lo
+ontófilo	nome masculino	on|[tó]|fi|lo
+ontogénese	nome feminino	on|to|[gé]|ne|se
+ontogênese	nome feminino	on|to|[gê]|ne|se
+ontogenético	adjetivo	on|to|ge|[né]|ti|co
+ontogenia	nome feminino	on|to|ge|[ni]|a
+ontogénico	adjetivo	on|to|[gé]|ni|co
+ontogênico	adjetivo	on|to|[gê]|ni|co
+opresso	adjetivo	o|[pres]|so
+opressor	adjetivo	o|pres|[sor]
+opressor	nome masculino	o|pres|[sor]
+opressora	nome feminino	o|pres|[so]|ra
+opressório	adjetivo	o|pres|[só]|ri|o
+oprimente	adjetivo	o|pri|[men]|te
+oprimida	nome feminino	o|pri|[mi]|da
+oprimido	adjetivo	o|pri|[mi]|do
+oprimido	nome masculino	o|pri|[mi]|do
+oprimir	verbo	o|pri|[mir]
+oprimível	adjetivo	o|pri|[mí]|vel
+opróbrio	nome masculino	o|[pró]|bri|o
+oprobriosamente	advérbio	o|pro|bri|o|sa|[men]|te
+oprobrioso	adjetivo	o|pro|bri|[o]|so
+opsígono	adjetivo	op|[sí]|go|no
+opsimatia	nome feminino	op|si|ma|[ti]|a
+opsimático	adjetivo	op|si|[má]|ti|co
+opsiometria	nome feminino	op|si|o|me|[tri]|a
+opsiométrico	adjetivo	op|si|o|[mé]|tri|co
+opsiómetro	nome masculino	op|si|[ó]|me|tro
+opsiômetro	nome masculino	op|si|[ô]|me|tro
+opsiúria	nome feminino	op|si|[ú]|ri|a
+opsiúrico	adjetivo	op|si|[ú]|ri|co
+opsofagia	nome feminino	op|so|fa|[gi]|a
+opsófago	adjetivo	op|[só]|fa|go
+opsófago	nome masculino	op|[só]|fa|go
+opsologia	nome feminino	op|so|lo|[gi]|a
+opsológico	adjetivo	op|so|[ló]|gi|co
+opsomania	nome feminino	op|so|ma|[ni]|a
+opsomaníaco	adjetivo	op|so|ma|[ní]|a|co
+opsomaníaco	nome masculino	op|so|ma|[ní]|a|co
+opsómano	nome masculino	op|[só]|ma|no
+opsômano	nome masculino	op|[sô]|ma|no
+opsónico	adjetivo	op|[só]|ni|co
+opsônico	adjetivo	op|[sô]|ni|co
+opsonina	nome feminino	op|so|[ni]|na
+optação	nome feminino	op|ta|[ção]
+optante	adjetivo	op|[tan]|te
+optante	nome masculino	op|[tan]|te
+optante	nome feminino	op|[tan]|te
+optar	verbo	op|[tar]
+optativamente	advérbio	op|ta|ti|va|[men]|te
+optativo	adjetivo	op|ta|[ti]|vo
+optativo	nome masculino	op|ta|[ti]|vo
+óptica	nome feminino	[óp]|ti|ca
+opticidade	nome feminino	op|ti|ci|[da]|de
+opticista	adjetivo	op|ti|[cis]|ta
+opticista	nome masculino	op|ti|[cis]|ta
+opticista	nome feminino	op|ti|[cis]|ta
+óptico	nome masculino	[óp]|ti|co
+óptico	adjetivo	[óp]|ti|co
+opticografia	nome feminino	op|ti|co|gra|[fi]|a
+opticográfico	adjetivo	op|ti|co|[grá]|fi|co
+opticógrafo	nome masculino	op|ti|[có]|gra|fo
+opticometria	nome feminino	op|ti|co|me|[tri]|a
+opticométrico	adjetivo	op|ti|co|[mé]|tri|co
+opticómetro	nome masculino	op|ti|[có]|me|tro
+opticômetro	nome masculino	op|ti|[cô]|me|tro
+optimacia	nome feminino	op|ti|ma|[ci]|a
+optimamente	advérbio	op|ti|ma|[men]|te
+optimate	nome masculino	op|ti|[ma]|te
+optimates	nome masculino	op|ti|[ma]|tes
+optimatia	nome feminino	op|ti|ma|[ti]|a
+optimismo	nome masculino	op|ti|[mis]|mo
+optimista	nome masculino	op|ti|[mis]|ta
+optimista	adjetivo	op|ti|[mis]|ta
+optimista	nome feminino	op|ti|[mis]|ta
+optimístico	adjetivo	op|ti|[mís]|ti|co
+optimização	nome feminino	op|ti|mi|za|[ção]
+optimizar	verbo	op|ti|mi|[zar]
+óptimo	adjetivo	[óp]|ti|mo
+óptimo	nome masculino	[óp]|ti|mo
+óptimo	interjeição	[óp]|ti|mo
+optofone	nome masculino	op|to|[fo]|ne
+optografia	nome feminino	op|to|gra|[fi]|a
+optográfico	adjetivo	op|to|[grá]|fi|co
+optógrafo	nome masculino	op|[tó]|gra|fo
+optometria	nome feminino	op|to|me|[tri]|a
+optométrico	adjetivo	op|to|[mé]|tri|co
+optometrista	nome masculino	op|to|me|[tris]|ta
+optometrista	nome feminino	op|to|me|[tris]|ta
+optômetro	nome masculino	op|[tô]|me|tro
+optómetro	nome masculino	op|[tó]|me|tro
+opugnação	nome feminino	o|pug|na|[ção]
+opugnador	adjetivo	o|pug|na|[dor]
+opugnador	nome masculino	o|pug|na|[dor]
+opugnar	verbo	o|pug|[nar]
+opugnável	adjetivo	o|pug|[ná]|vel
+opulência	nome feminino	o|pu|[lên]|ci|a
+opulenta	nome feminino	o|pu|[len]|ta
+opulentamente	advérbio	o|pu|len|ta|[men]|te
+opulentar	verbo	o|pu|len|[tar]
+opulento	adjetivo	o|pu|[len]|to
+opulento	nome masculino	o|pu|[len]|to
+opúncia	nome feminino	o|[pún]|ci|a
+opunciácea	nome feminino	o|pun|ci|[á]|ce|a
+opúncio	adjetivo	o|[pún]|ci|o
+opúncio	nome masculino	o|[pún]|ci|o
+opus	nome masculino	o|[pus]
+opuscular	verbo	o|pus|cu|[lar]
+ó	interjeição	[ó]
+o	artigo definido	o
+o	pronome demostrativo	o
+o	pronome pessoal	o
+oanaçu	nome masculino	o|a|na|[çu]
+oanandi	nome masculino	o|a|nan|[di]
+oanani	nome masculino	o|a|na|[ni]
+oariana	nome feminino	o|a|ri|[a]|na
+oaristo	nome masculino	o|a|[ris]|to
+oasiano	adjetivo	o|a|si|[a]|no
+oasiano	nome masculino	o|a|si|[a]|no
+oásico	adjetivo	o|[á]|si|co
+oásis	nome masculino	o|[á]|sis
+ob-repção	nome feminino	ob-rep|[ção]
+ob-repticiamente	advérbio	ob-rep|ti|ci|a|[men]|te
+ob-reptício	adjetivo	ob-rep|[tí]|ci|o
+ob-rogação	nome feminino	ob-ro|ga|[ção]
+ob-rogar	verbo	ob-ro|[gar]
+obá	nome masculino	o|[bá]
+oba	interjeição	[o]|ba
+oba	nome feminino	[o]|ba
+obarana	nome feminino	o|ba|[ra]|na
+obaudição	nome feminino	o|bau|di|[ção]
+obcecação	nome feminino	ob|ce|ca|[ção]
+obcecada	nome feminino	ob|ce|[ca]|da
+obcecadamente	advérbio	ob|ce|ca|da|[men]|te
+obcecado	adjetivo	ob|ce|[ca]|do
+obcecado	nome masculino	ob|ce|[ca]|do
+obcecador	adjetivo	ob|ce|ca|[dor]
+obcecador	nome masculino	ob|ce|ca|[dor]
+obcecante	adjetivo	ob|ce|[can]|te
+obcecar	verbo	ob|ce|[car]
+obcláveo	adjetivo	ob|[clá]|ve|o
+obcomprimido	adjetivo	ob|com|pri|[mi]|do
+obcônico	adjetivo	ob|[cô]|ni|co
+obcónico	adjetivo	ob|[có]|ni|co
+obcordado	adjetivo	ob|cor|[da]|do
+obcordiforme	adjetivo	ob|cor|di|[for]|me
+obcorrente	adjetivo	ob|cor|[ren]|te
+obdentado	adjetivo	ob|den|[ta]|do
+obdução	nome feminino	ob|du|[ção]
+obducente	adjetivo	ob|du|[cen]|te
+obducto	adjetivo	ob|[duc]|to
+obduração	nome feminino	ob|du|ra|[ção]
+obdurador	adjetivo	ob|du|ra|[dor]
+obdurador	nome masculino	ob|du|ra|[dor]
+obdurar	verbo	ob|du|[rar]
+obduto	adjetivo	ob|[du]|to
+obedecer	verbo	o|be|de|[cer]
+obedecido	adjetivo	o|be|de|[ci]|do
+obediência	nome feminino	o|be|di|[ên]|ci|a
+obediencial	nome masculino	o|be|di|en|ci|[al]
+obediencial	adjetivo	o|be|di|en|ci|[al]
+obediente	adjetivo	o|be|di|[en]|te
+obediente	nome feminino	o|be|di|[en]|te
+obediente	nome masculino	o|be|di|[en]|te
+obedientemente	advérbio	o|be|di|en|te|[men]|te
+obélia	nome feminino	o|[bé]|li|a
+obélio	nome masculino	o|[bé]|li|o
+obélion	nome masculino	o|[bé]|li|on
+obeliscal	adjetivo	o|be|lis|[cal]
+obeliscária	nome feminino	o|be|lis|[cá]|ri|a
+obelisco	nome masculino	o|be|[lis]|co
+obeliscolícnio	nome masculino	o|be|lis|co|[líc]|ni|o
+óbelo	nome masculino	[ó]|be|lo
+oberado	adjetivo	o|be|[ra]|do
+oberar	verbo	o|be|[rar]
+oberónia	nome feminino	o|be|[ró]|ni|a
+oberônia	nome feminino	o|be|[rô]|ni|a
+obesidade	nome feminino	o|be|si|[da]|de
+obesífugo	adjetivo	o|be|[sí]|fu|go
+obeso	adjetivo	o|[be]|so
+obfirmadamente	advérbio	ob|fir|ma|da|[men]|te
+obfirmado	adjetivo	ob|fir|[ma]|do
+obfirmar	verbo	ob|fir|[mar]
+obi	nome masculino	o|[bi]
+óbice	nome masculino	[ó]|bi|ce
+obidense	nome masculino	o|bi|[den]|se
+obidense	adjetivo	o|bi|[den]|se
+obidense	nome feminino	o|bi|[den]|se
+óbito	nome masculino	[ó]|bi|to
+obituário	adjetivo	o|bi|tu|[á]|ri|o
+obituário	nome masculino	o|bi|tu|[á]|ri|o
+objeção	nome feminino	ob|je|[ção]
+objecção	nome feminino	ob|jec|[ção]
+objectado	adjetivo	ob|jec|[ta]|do
+objectal	adjetivo	ob|jec|[tal]
+objectante	adjetivo	ob|jec|[tan]|te
+objectante	nome masculino	ob|jec|[tan]|te
+objectante	nome feminino	ob|jec|[tan]|te
+objectar	verbo	ob|jec|[tar]
+objectável	adjetivo	ob|jec|[tá]|vel
+objectiva	nome feminino	ob|jec|[ti]|va
+objectivação	nome feminino	ob|jec|ti|va|[ção]
+objectivado	adjetivo	ob|jec|ti|[va]|do
+objectivador	adjetivo	ob|jec|ti|va|[dor]
+objectivamente	advérbio	ob|jec|ti|va|[men]|te
+objectivar	verbo	ob|jec|ti|[var]
+objectivável	adjetivo	ob|jec|ti|[vá]|vel
+objectividade	nome feminino	ob|jec|ti|vi|[da]|de
+objectivismo	nome masculino	ob|jec|ti|[vis]|mo
+objectivista	adjetivo	ob|jec|ti|[vis]|ta
+objectivista	nome masculino	ob|jec|ti|[vis]|ta
+objectivista	nome feminino	ob|jec|ti|[vis]|ta
+objectivo	nome masculino	ob|jec|[ti]|vo
+objectivo	adjetivo	ob|jec|[ti]|vo
+objectologia	nome feminino	ob|jec|to|lo|[gi]|a
+objectológico	adjetivo	ob|jec|to|[ló]|gi|co
+objectologista	nome masculino	ob|jec|to|lo|[gis]|ta
+objectologista	nome feminino	ob|jec|to|lo|[gis]|ta
+objectólogo	nome masculino	ob|jec|[tó]|lo|go
+objector	adjetivo	ob|jec|[tor]
+objector	nome masculino	ob|jec|[tor]
+objectora	nome feminino	ob|jec|[to]|ra
+objeito	nome masculino	ob|[jei]|to
+objetado	adjetivo	ob|je|[ta]|do
+objetal	adjetivo	ob|je|[tal]
+objetante	adjetivo	ob|je|[tan]|te
+objetante	nome masculino	ob|je|[tan]|te
+objetante	nome feminino	ob|je|[tan]|te
+objetar	verbo	ob|je|[tar]
+objetável	adjetivo	ob|je|[tá]|vel
+objetiva	nome feminino	ob|je|[ti]|va
+objetivação	nome feminino	ob|je|ti|va|[ção]
+objetivado	adjetivo	ob|je|ti|[va]|do
+objetivador	adjetivo	ob|je|ti|va|[dor]
+objetivamente	advérbio	ob|je|ti|va|[men]|te
+objetivar	verbo	ob|je|ti|[var]
+objetivável	adjetivo	ob|je|ti|[vá]|vel
+objetividade	nome feminino	ob|je|ti|vi|[da]|de
+objetivismo	nome masculino	ob|je|ti|[vis]|mo
+objetivista	adjetivo	ob|je|ti|[vis]|ta
+objetivista	nome masculino	ob|je|ti|[vis]|ta
+objetivista	nome feminino	ob|je|ti|[vis]|ta
+objetivo	adjetivo	ob|je|[ti]|vo
+objetivo	nome masculino	ob|je|[ti]|vo
+objeto	nome masculino	ob|[je]|to
+objetologia	nome feminino	ob|je|to|lo|[gi]|a
+objetológico	adjetivo	ob|je|to|[ló]|gi|co
+objetologista	nome masculino	ob|je|to|lo|[gis]|ta
+objetologista	nome feminino	ob|je|to|lo|[gis]|ta
+objetólogo	nome masculino	ob|je|[tó]|lo|go
+objetor	nome masculino	ob|je|[tor]
+objetor	adjetivo	ob|je|[tor]
+objetora	nome feminino	ob|je|[to]|ra
+objurgação	nome feminino	ob|jur|ga|[ção]
+objurgar	verbo	ob|jur|[gar]
+objurgatória	nome feminino	ob|jur|ga|[tó]|ri|a
+objurgatório	adjetivo	ob|jur|ga|[tó]|ri|o
+oblação	nome feminino	o|bla|[ção]
+oblacionário	nome masculino	o|bla|ci|o|[ná]|ri|o
+oblacionário	adjetivo	o|bla|ci|o|[ná]|ri|o
+oblada	nome feminino	o|[bla]|da
+oblata	nome feminino	o|[bla]|ta
+oblatar	verbo	o|bla|[tar]
+oblativamente	advérbio	o|bla|ti|va|[men]|te
+oblatividade	nome feminino	o|bla|ti|vi|[da]|de
+oblativo	adjetivo	o|bla|[ti]|vo
+oblato	adjetivo	o|[bla]|to
+oblato	nome masculino	o|[bla]|to
+obligulado	adjetivo	o|bli|gu|[la]|do
+obliguliflóreo	adjetivo	o|bli|gu|li|[fló]|re|o
+obliguliforme	adjetivo	o|bli|gu|li|[for]|me
+oblíqua	nome feminino	o|[blí]|qua
+obliquamente	advérbio	o|bli|qua|[men]|te
+obliquângulo	adjetivo	o|bli|[quân]|gu|lo
+obliquar	verbo	o|bli|[quar]
+obliquidade	nome feminino	o|bli|qui|[da]|de
+oblíquo	adjetivo	o|[blí]|quo
+oblíquo	nome masculino	o|[blí]|quo
+obliteração	nome feminino	o|bli|te|ra|[ção]
+obliterado	adjetivo	o|bli|te|[ra]|do
+obliterador	adjetivo	o|bli|te|ra|[dor]
+obliterador	nome masculino	o|bli|te|ra|[dor]
+obliterante	adjetivo	o|bli|te|[ran]|te
+obliterar	verbo	o|bli|te|[rar]
+obliterativo	adjetivo	o|bli|te|ra|[ti]|vo
+obliterável	adjetivo	o|bli|te|[rá]|vel
+oblívio	nome masculino	o|[blí]|vi|o
+oblongado	adjetivo	o|blon|[ga]|do
+oblongifólio	adjetivo	o|blon|gi|[fó]|li|o
+oblongiúsculo	adjetivo	o|blon|gi|[ús]|cu|lo
+oblongo	adjetivo	o|[blon]|go
+obnoxiação	nome feminino	ob|no|xi|a|[ção]
+obnóxio	adjetivo	ob|[nó]|xi|o
+obnubilação	nome feminino	ob|nu|bi|la|[ção]
+obnubilador	adjetivo	ob|nu|bi|la|[dor]
+obnubilante	adjetivo	ob|nu|bi|[lan]|te
+obnubilar	verbo	ob|nu|bi|[lar]
+obô	nome masculino	o|[bô]
+oboé	nome masculino	o|bo|[é]
+oboísta	nome masculino	o|bo|[ís]|ta
+oboísta	nome feminino	o|bo|[ís]|ta
+óbolo	nome masculino	[ó]|bo|lo
+obovado	adjetivo	o|bo|[va]|do
+oboval	adjetivo	o|bo|[val]
+obovalado	adjetivo	o|bo|va|[la]|do
+obóveo	adjetivo	o|[bó]|ve|o
+obovoide	adjetivo	o|bo|[voi]|de
+obpiramidal	adjetivo	ob|pi|ra|mi|[dal]
+osteoarticular	adjetivo	os|te|o|ar|ti|cu|[lar]
+osteoartrite	nome feminino	os|te|o|ar|[tri]|te
+osteoartrítico	adjetivo	os|te|o|ar|[trí]|ti|co
+osteoartrose	nome feminino	os|te|o|ar|[tro]|se
+osteoblasto	nome masculino	os|te|o|[blas]|to
+osteocele	nome feminino	os|te|o|[ce]|le
+osteócito	nome masculino	os|te|[ó]|ci|to
+osteoclasia	nome feminino	os|te|o|cla|[si]|a
+osteoclastia	nome feminino	os|te|o|clas|[ti]|a
+osteoclástico	adjetivo	os|te|o|[clás]|ti|co
+osteoclasto	nome masculino	os|te|o|[clas]|to
+osteocola	nome feminino	os|te|o|[co]|la
+osteocondrite	nome feminino	os|te|o|con|[dri]|te
+ostéocopo	adjetivo	os|[té]|o|co|po
+osteodermo	adjetivo	os|te|o|[der]|mo
+osteodermo	nome masculino	os|te|o|[der]|mo
+osteodinia	nome feminino	os|te|o|di|[ni]|a
+osteodínico	adjetivo	os|te|o|[dí]|ni|co
+osteófago	adjetivo	os|te|[ó]|fa|go
+osteofimia	nome feminino	os|te|o|fi|[mi]|a
+osteofítico	adjetivo	os|te|o|[fí]|ti|co
+osteófito	nome masculino	os|te|[ó]|fi|to
+osteoganoide	nome masculino	os|te|o|ga|[noi]|de
+osteogênese	nome feminino	os|te|o|[gê]|ne|se
+osteogénese	nome feminino	os|te|o|[gé]|ne|se
+osteogenético	adjetivo	os|te|o|ge|[né]|ti|co
+osteogenia	nome feminino	os|te|o|ge|[ni]|a
+osteogênico	adjetivo	os|te|o|[gê]|ni|co
+osteogénico	adjetivo	os|te|o|[gé]|ni|co
+osteoglossídeo	adjetivo	os|te|o|glos|[sí]|de|o
+osteoglossídeo	nome masculino	os|te|o|glos|[sí]|de|o
+osteografia	nome feminino	os|te|o|gra|[fi]|a
+osteográfico	adjetivo	os|te|o|[grá]|fi|co
+osteógrafo	nome masculino	os|te|[ó]|gra|fo
+osteoide	adjetivo	os|te|[oi]|de
+osteólise	nome feminino	os|te|[ó]|li|se
+osteolítico	adjetivo	os|te|o|[lí]|ti|co
+osteólito	nome masculino	os|te|[ó]|li|to
+osteóloga	nome feminino	os|te|[ó]|lo|ga
+osteologia	nome feminino	os|te|o|lo|[gi]|a
+osteológico	adjetivo	os|te|o|[ló]|gi|co
+osteologista	nome masculino	os|te|o|lo|[gis]|ta
+osteologista	nome feminino	os|te|o|lo|[gis]|ta
+osteólogo	nome masculino	os|te|[ó]|lo|go
+osteoma	nome masculino	os|te|[o]|ma
+osteomalacia	nome feminino	os|te|o|ma|la|[ci]|a
+osteomatoso	adjetivo	os|te|o|ma|[to]|so
+osteomérico	adjetivo	os|te|o|[mé]|ri|co
+osteomério	nome masculino	os|te|o|[mé]|ri|o
+osteômero	nome masculino	os|te|[ô]|me|ro
+osteómero	nome masculino	os|te|[ó]|me|ro
+osteometria	nome feminino	os|te|o|me|[tri]|a
+osteométrico	adjetivo	os|te|o|[mé]|tri|co
+osteomielite	nome feminino	os|te|o|mi|e|[li]|te
+osteoncose	nome feminino	os|te|on|[co]|se
+osteonecrose	nome feminino	os|te|o|ne|[cro]|se
+osteopata	nome masculino	os|te|o|[pa]|ta
+osteopata	nome feminino	os|te|o|[pa]|ta
+osteopatia	nome feminino	os|te|o|pa|[ti]|a
+osteopático	adjetivo	os|te|o|[pá]|ti|co
+osteoperiosteíte	nome feminino	os|te|o|pe|ri|os|te|[í]|te
+osteoplasta	nome masculino	os|te|o|[plas]|ta
+osteoplastia	nome feminino	os|te|o|plas|[ti]|a
+osteoplástico	adjetivo	os|te|o|[plás]|ti|co
+osteoplasto	nome masculino	os|te|o|[plas]|to
+osteoporose	nome feminino	os|te|o|po|[ro]|se
+osteoporótico	adjetivo	os|te|o|po|[ró]|ti|co
+osteopsatirose	nome feminino	os|te|op|sa|ti|[ro]|se
+osteosclerose	nome feminino	os|te|os|cle|[ro]|se
+osteose	nome feminino	os|te|[o]|se
+osteospermo	nome masculino	os|te|os|[per]|mo
+osteossarcoma	nome masculino	os|te|os|sar|[co]|ma
+osteossíntese	nome feminino	os|te|os|[sín]|te|se
+osteosteatoma	nome masculino	os|te|os|te|a|[to]|ma
+osteóstomo	adjetivo	os|te|[ós]|to|mo
+osteóstomo	nome masculino	os|te|[ós]|to|mo
+osteoteca	nome feminino	os|te|o|[te]|ca
+osteótilo	nome masculino	os|te|[ó]|ti|lo
+osteotilose	nome feminino	os|te|o|ti|[lo]|se
+osteotomia	nome feminino	os|te|o|to|[mi]|a
+osteotômico	adjetivo	os|te|o|[tô]|mi|co
+osteotómico	adjetivo	os|te|o|[tó]|mi|co
+osteótomo	nome masculino	os|te|[ó]|to|mo
+osteozoário	adjetivo	os|te|o|zo|[á]|ri|o
+osteozoário	nome masculino	os|te|o|zo|[á]|ri|o
+ostíaco	nome masculino	os|[tí]|a|co
+ostíaco	adjetivo	os|[tí]|a|co
+ostiariato	nome masculino	os|ti|a|ri|[a]|to
+ostiário	nome masculino	os|ti|[á]|ri|o
+ostiense	adjetivo	os|ti|[en]|se
+ostiense	nome masculino	os|ti|[en]|se
+ostiense	nome feminino	os|ti|[en]|se
+ostiolado	adjetivo	os|ti|o|[la]|do
+ostíolo	nome masculino	os|[tí]|o|lo
+ostomia	nome feminino	os|to|[mi]|a
+ostomizado	adjetivo	os|to|mi|[za]|do
+ostomizado	nome masculino	os|to|mi|[za]|do
+ostpolitik	nome feminino	ost|po|li|tik
+ostra	nome feminino	[os]|tra
+ostraceiro	nome masculino	os|tra|[cei]|ro
+opiniático	adjetivo	o|pi|ni|[á]|ti|co
+opiniático	nome masculino	o|pi|ni|[á]|ti|co
+opinionário	nome masculino	o|pi|ni|o|[ná]|ri|o
+opiniosa	nome feminino	o|pi|ni|[o]|sa
+opiniosamente	advérbio	o|pi|ni|o|sa|[men]|te
+opinioso	adjetivo	o|pi|ni|[o]|so
+opinioso	nome masculino	o|pi|ni|[o]|so
+ópio	nome masculino	[ó]|pi|o
+opiofagia	nome feminino	o|pi|o|fa|[gi]|a
+opiófago	adjetivo	o|pi|[ó]|fa|go
+opiófago	nome masculino	o|pi|[ó]|fa|go
+opiologia	nome feminino	o|pi|o|lo|[gi]|a
+opiológico	adjetivo	o|pi|o|[ló]|gi|co
+opiólogo	nome masculino	o|pi|[ó]|lo|go
+opiómana	nome feminino	o|pi|[ó]|ma|na
+opiomania	nome feminino	o|pi|o|ma|[ni]|a
+opiomaníaca	nome feminino	o|pi|o|ma|[ní]|a|ca
+opiomaníaco	nome masculino	o|pi|o|ma|[ní]|a|co
+opiomaníaco	adjetivo	o|pi|o|ma|[ní]|a|co
+opiômano	adjetivo	o|pi|[ô]|ma|no
+opiômano	nome masculino	o|pi|[ô]|ma|no
+opiómano	adjetivo	o|pi|[ó]|ma|no
+opiómano	nome masculino	o|pi|[ó]|ma|no
+opiparamente	advérbio	o|pi|pa|ra|[men]|te
+opíparo	adjetivo	o|[pí]|pa|ro
+opístio	nome masculino	o|[pís]|ti|o
+opístion	nome masculino	o|[pís]|ti|on
+opistobrânquio	nome masculino	o|pis|to|[brân]|qui|o
+opistobrânquio	adjetivo	o|pis|to|[brân]|qui|o
+opistocéfalo	nome masculino	o|pis|to|[cé]|fa|lo
+opistocélico	adjetivo	o|pis|to|[cé]|li|co
+opistocifose	nome feminino	o|pis|to|ci|[fo]|se
+opistódomo	nome masculino	o|pis|[tó]|do|mo
+opistogástrico	adjetivo	o|pis|to|[gás]|tri|co
+opistóglifo	nome masculino	o|pis|[tó]|gli|fo
+opistognatismo	nome masculino	o|pis|tog|na|[tis]|mo
+opistógnato	adjetivo	o|pis|[tóg]|na|to
+opistógnato	nome masculino	o|pis|[tóg]|na|to
+opistografia	nome feminino	o|pis|to|gra|[fi]|a
+opistográfico	adjetivo	o|pis|to|[grá]|fi|co
+opistógrafo	adjetivo	o|pis|[tó]|gra|fo
+opistógrafo	nome masculino	o|pis|[tó]|gra|fo
+opistopária	nome feminino	o|pis|to|[pá]|ri|a
+opistótico	nome masculino	o|pis|[tó]|ti|co
+opistotónico	adjetivo	o|pis|to|[tó]|ni|co
+opistotônico	adjetivo	o|pis|to|[tô]|ni|co
+opistótono	nome masculino	o|pis|[tó]|to|no
+opitergino	nome masculino	o|pi|ter|[gi]|no
+opitergino	adjetivo	o|pi|ter|[gi]|no
+opízia	nome feminino	o|[pí]|zi|a
+opobalsameira	nome feminino	o|po|bal|sa|[mei]|ra
+opobálsamo	nome masculino	o|po|[bál]|sa|mo
+opocárpaso	nome masculino	o|po|[cár]|pa|so
+opocefalia	nome feminino	o|po|ce|fa|[li]|a
+opocéfalo	nome masculino	o|po|[cé]|fa|lo
+opodeldoque	nome masculino	o|po|del|[do]|que
+opodídimo	nome masculino	o|po|[dí]|di|mo
+opoente	adjetivo	o|po|[en]|te
+opoente	nome masculino	o|po|[en]|te
+opoente	nome feminino	o|po|[en]|te
+oponente	adjetivo	o|po|[nen]|te
+oponente	nome masculino	o|po|[nen]|te
+oponente	nome feminino	o|po|[nen]|te
+oponibilidade	nome feminino	o|po|ni|bi|li|[da]|de
+oponível	adjetivo	o|po|[ní]|vel
+opopânace	nome masculino	o|po|[pâ]|na|ce
+opópanax	nome masculino	o|[pó]|pa|nax
+opor	verbo	o|[por]
+opórica	nome feminino	o|[pó]|ri|ca
+oportunamente	advérbio	o|por|tu|na|[men]|te
+oportunidade	nome feminino	o|por|tu|ni|[da]|de
+oportunismo	nome masculino	o|por|tu|[nis]|mo
+oportunista	adjetivo	o|por|tu|[nis]|ta
+oportunista	nome masculino	o|por|tu|[nis]|ta
+oportunista	nome feminino	o|por|tu|[nis]|ta
+oportuno	adjetivo	o|por|[tu]|no
+oposição	nome feminino	o|po|si|[ção]
+oposicionismo	nome masculino	o|po|si|ci|o|[nis]|mo
+oposicionista	adjetivo	o|po|si|ci|o|[nis]|ta
+oposicionista	nome masculino	o|po|si|ci|o|[nis]|ta
+oposicionista	nome feminino	o|po|si|ci|o|[nis]|ta
+oposina	nome feminino	o|po|[si]|na
+opositifloro	adjetivo	o|po|si|ti|[flo]|ro
+opositifólio	adjetivo	o|po|si|ti|[fó]|li|o
+opositipétalo	adjetivo	o|po|si|ti|[pé]|ta|lo
+opositivo	adjetivo	o|po|si|[ti]|vo
+opósito	nome masculino	o|[pó]|si|to
+opositor	nome masculino	o|po|si|[tor]
+opositor	adjetivo	o|po|si|[tor]
+opositora	nome feminino	o|po|si|[to]|ra
+opossum	nome masculino	o|pos|[sum]
+opostamente	advérbio	o|pos|ta|[men]|te
+oposto	adjetivo	o|[pos]|to
+oposto	nome masculino	o|[pos]|to
+opoterapia	nome feminino	o|po|te|ra|[pi]|a
+opoterápico	adjetivo	o|po|te|[rá]|pi|co
+opressão	nome feminino	o|pres|[são]
+opressivamente	advérbio	o|pres|si|va|[men]|te
+opressividade	nome feminino	o|pres|si|vi|[da]|de
+opressivo	adjetivo	o|pres|[si]|vo
+organológico	adjetivo	or|ga|no|[ló]|gi|co
+organologista	nome masculino	or|ga|no|lo|[gis]|ta
+organologista	nome feminino	or|ga|no|lo|[gis]|ta
+organólogo	nome masculino	or|ga|[nó]|lo|go
+organometálico	adjetivo	or|ga|no|me|[tá]|li|co
+organonímia	nome feminino	or|ga|no|[ní]|mi|a
+organonímico	adjetivo	or|ga|no|[ní]|mi|co
+organopatia	nome feminino	or|ga|no|pa|[ti]|a
+organopático	adjetivo	or|ga|no|[pá]|ti|co
+organoplastia	nome feminino	or|ga|no|plas|[ti]|a
+organoplástico	adjetivo	or|ga|no|[plás]|ti|co
+organoscopia	nome feminino	or|ga|nos|co|[pi]|a
+organoscópico	adjetivo	or|ga|nos|[có]|pi|co
+organossilícico	adjetivo	or|ga|nos|si|[lí]|ci|co
+organotáctico	adjetivo	or|ga|no|[tác]|ti|co
+organotático	adjetivo	or|ga|no|[tá]|ti|co
+organotaxia	nome feminino	or|ga|no|ta|[xi]|a
+organoterapia	nome feminino	or|ga|no|te|ra|[pi]|a
+organoterápico	adjetivo	or|ga|no|te|[rá]|pi|co
+organsim	nome masculino	or|gan|[sim]
+organsinar	verbo	or|gan|si|[nar]
+organsino	nome masculino	or|gan|[si]|no
+órgão	nome masculino	[ór]|gão
+orgasmo	nome masculino	or|[gas]|mo
+orgástico	adjetivo	or|[gás]|ti|co
+orgenomesco	adjetivo	or|ge|no|[mes]|co
+orgenomesco	nome masculino	or|ge|no|[mes]|co
+orgevão	nome masculino	or|ge|[vão]
+orgia	nome feminino	or|[gi]|a
+orgíaco	adjetivo	or|[gí]|a|co
+orgiasta	nome masculino	or|gi|[as]|ta
+orgiasta	nome feminino	or|gi|[as]|ta
+orgiástico	adjetivo	or|gi|[ás]|ti|co
+orgivão	nome masculino	or|gi|[vão]
+orgulhar	verbo	or|gu|[lhar]
+orgulhecer	verbo	or|gu|lhe|[cer]
+orgulho	nome masculino	or|[gu]|lho
+orgulhosa	nome feminino	or|gu|[lho]|sa
+orgulhosamente	advérbio	or|gu|lho|sa|[men]|te
+orgulhoso	adjetivo	or|gu|[lho]|so
+orgulhoso	nome masculino	or|gu|[lho]|so
+oriá	nome masculino	o|ri|[á]
+oriá	nome feminino	o|ri|[á]
+oríbata	nome masculino	o|[rí]|ba|ta
+oribátida	nome masculino	o|ri|[bá]|ti|da
+oribatídeo	nome masculino	o|ri|ba|[tí]|de|o
+oribatídeo	adjetivo	o|ri|ba|[tí]|de|o
+oribatídeo	nome masculino	o|ri|ba|[tí]|de|o
+oricalcite	nome feminino	o|ri|cal|[ci]|te
+oricalco	nome masculino	o|ri|[cal]|co
+oricino	adjetivo	o|ri|[ci]|no
+oricino	nome masculino	o|ri|[ci]|no
+oricrográfico	adjetivo	o|ri|cro|[grá]|fi|co
+oricterope	nome masculino	o|ric|te|[ro]|pe
+orictogeologia	nome feminino	o|ric|to|ge|o|lo|[gi]|a
+orictogeológico	adjetivo	o|ric|to|ge|o|[ló]|gi|co
+orictognosia	nome feminino	o|ric|tog|no|[si]|a
+orictognosta	nome masculino	o|ric|tog|[nos]|ta
+orictognosta	nome feminino	o|ric|tog|[nos]|ta
+orictognóstico	adjetivo	o|ric|tog|[nós]|ti|co
+orictografia	nome feminino	o|ric|to|gra|[fi]|a
+orictógrafo	nome masculino	o|ric|[tó]|gra|fo
+orictóloga	nome feminino	o|ric|[tó]|lo|ga
+orictologia	nome feminino	o|ric|to|lo|[gi]|a
+orictológico	adjetivo	o|ric|to|[ló]|gi|co
+orictologista	nome masculino	o|ric|to|lo|[gis]|ta
+orictologista	nome feminino	o|ric|to|lo|[gis]|ta
+orictólogo	nome masculino	o|ric|[tó]|lo|go
+orictotecnia	nome feminino	o|ric|to|tec|[ni]|a
+orictotécnico	adjetivo	o|ric|to|[téc]|ni|co
+oridrografia	nome feminino	o|ri|dro|gra|[fi]|a
+oridrográfico	adjetivo	o|ri|dro|[grá]|fi|co
+orientação	nome feminino	o|ri|en|ta|[ção]
+orientado	adjetivo	o|ri|en|[ta]|do
+orientador	nome masculino	o|ri|en|ta|[dor]
+orientador	adjetivo	o|ri|en|ta|[dor]
+orientadora	nome feminino	o|ri|en|ta|[do]|ra
+oriental	nome masculino	o|ri|en|[tal]
+oriental	adjetivo	o|ri|en|[tal]
+oriental	nome feminino	o|ri|en|[tal]
+orientalidade	nome feminino	o|ri|en|ta|li|[da]|de
+orientalismo	nome masculino	o|ri|en|ta|[lis]|mo
+orientalista	nome masculino	o|ri|en|ta|[lis]|ta
+orientalista	nome feminino	o|ri|en|ta|[lis]|ta
+orientalista	adjetivo	o|ri|en|ta|[lis]|ta
+orientalístico	adjetivo	o|ri|en|ta|[lís]|ti|co
+orientalização	nome feminino	o|ri|en|ta|li|za|[ção]
+orientalizar	verbo	o|ri|en|ta|li|[zar]
+orientalmente	advérbio	o|ri|en|tal|[men]|te
+orientando	nome masculino	o|ri|en|[tan]|do
+orientar	verbo	o|ri|en|[tar]
+orientável	adjetivo	o|ri|en|[tá]|vel
+oriente	nome masculino	o|ri|[en]|te
+orifício	nome masculino	o|ri|[fí]|ci|o
+oriflama	nome feminino	o|ri|[fla]|ma
+oriforme	adjetivo	o|ri|[for]|me
+origami	nome masculino	o|ri|ga|[mi]
+origem	nome feminino	o|[ri]|gem
+origenista	adjetivo	o|ri|ge|[nis]|ta
+origenista	nome masculino	o|ri|ge|[nis]|ta
+ofiologista	adjetivo	o|fi|o|lo|[gis]|ta
+ofiologista	nome masculino	o|fi|o|lo|[gis]|ta
+ofiologista	nome feminino	o|fi|o|lo|[gis]|ta
+ofiólogo	nome masculino	o|fi|[ó]|lo|go
+ofiomancia	nome feminino	o|fi|o|man|[ci]|a
+ofiomante	nome masculino	o|fi|o|[man]|te
+ofiomante	nome feminino	o|fi|o|[man]|te
+ofiomântico	adjetivo	o|fi|o|[mân]|ti|co
+ofiomórfico	adjetivo	o|fi|o|[mór]|fi|co
+ofiomorfita	nome masculino	o|fi|o|mor|[fi]|ta
+ofiomorfo	adjetivo	o|fi|o|[mor]|fo
+ofiomorfo	nome masculino	o|fi|o|[mor]|fo
+ofiônique	nome masculino	o|fi|[ô]|ni|que
+ofiónique	nome masculino	o|fi|[ó]|ni|que
+ofíonix	nome masculino	o|[fí]|o|nix
+ofiope	nome masculino	o|fi|[o]|pe
+ofiopogão	nome masculino	o|fi|o|po|[gão]
+ofiopógon	nome masculino	o|fi|o|[pó]|gon
+ofiopogônea	nome feminino	o|fi|o|po|[gô]|ne|a
+ofiopogónea	nome feminino	o|fi|o|po|[gó]|ne|a
+ofiorriza	nome feminino	o|fi|or|[ri]|za
+ofiospermo	nome masculino	o|fi|os|[per]|mo
+ofiossáurio	nome masculino	o|fi|os|[sáu]|ri|o
+ofiossauro	nome masculino	o|fi|os|[sau]|ro
+ofióstomo	nome masculino	o|fi|[ós]|to|mo
+ofióxilo	nome masculino	o|fi|[ó]|xi|lo
+ofita	adjetivo	o|[fi]|ta
+ofita	nome masculino	o|[fi]|ta
+ofita	nome feminino	o|[fi]|ta
+ofite	nome feminino	o|[fi]|te
+ofítico	adjetivo	o|[fí]|ti|co
+ofitina	nome feminino	o|fi|[ti]|na
+ofito	nome masculino	o|[fi]|to
+ofitoso	adjetivo	o|fi|[to]|so
+ofiúrea	nome feminino	o|fi|[ú]|re|a
+ofiurídeo	nome masculino	o|fiu|[rí]|de|o
+ofiúro	adjetivo	o|fi|[ú]|ro
+ofiúro	nome masculino	o|fi|[ú]|ro
+ofiúsa	nome feminino	o|fi|[ú]|sa
+ofó	nome masculino	o|[fó]
+ofrídea	nome feminino	o|[frí]|de|a
+ofriope	nome masculino	o|fri|[o]|pe
+ófris	nome feminino	[ó]|fris
+oftalgia	nome feminino	of|tal|[gi]|a
+oftálgico	adjetivo	of|[tál]|gi|co
+oftalmalgia	nome feminino	of|tal|mal|[gi]|a
+oftalmálgico	adjetivo	of|tal|[mál]|gi|co
+oftalmia	nome feminino	of|tal|[mi]|a
+oftalmiatria	nome feminino	of|tal|mi|a|[tri]|a
+oftalmiátrico	adjetivo	of|tal|mi|[á]|tri|co
+oftalmiatro	nome masculino	of|tal|mi|[a]|tro
+oftálmica	nome feminino	of|[tál]|mi|ca
+oftálmico	nome masculino	of|[tál]|mi|co
+oftálmico	adjetivo	of|[tál]|mi|co
+oftálmio	nome masculino	of|[tál]|mi|o
+oftalmite	nome feminino	of|tal|[mi]|te
+oftalmobiótica	nome feminino	of|tal|mo|bi|[ó]|ti|ca
+oftalmobiótico	adjetivo	of|tal|mo|bi|[ó]|ti|co
+oftalmocele	nome feminino	of|tal|mo|[ce]|le
+oftalmodinia	nome feminino	of|tal|mo|di|[ni]|a
+oftalmodínico	adjetivo	of|tal|mo|[dí]|ni|co
+oftalmógrafa	nome feminino	of|tal|[mó]|gra|fa
+oftalmografia	nome feminino	of|tal|mo|gra|[fi]|a
+oftalmográfico	adjetivo	of|tal|mo|[grá]|fi|co
+oftalmógrafo	nome masculino	of|tal|[mó]|gra|fo
+oftalmólito	nome masculino	of|tal|[mó]|li|to
+oftalmóloga	nome feminino	of|tal|[mó]|lo|ga
+oftalmologia	nome feminino	of|tal|mo|lo|[gi]|a
+oftalmológico	adjetivo	of|tal|mo|[ló]|gi|co
+oftalmologista	nome masculino	of|tal|mo|lo|[gis]|ta
+oftalmologista	nome feminino	of|tal|mo|lo|[gis]|ta
+oftalmólogo	nome masculino	of|tal|[mó]|lo|go
+oftalmomalacia	nome feminino	of|tal|mo|ma|la|[ci]|a
+oftalmometria	nome feminino	of|tal|mo|me|[tri]|a
+oftalmômetro	nome masculino	of|tal|[mô]|me|tro
+oftalmómetro	nome masculino	of|tal|[mó]|me|tro
+oftalmoplastia	nome feminino	of|tal|mo|plas|[ti]|a
+oftalmoplástico	adjetivo	of|tal|mo|[plás]|ti|co
+oftalmoplegia	nome feminino	of|tal|mo|ple|[gi]|a
+oftalmoplégico	adjetivo	of|tal|mo|[plé]|gi|co
+oftalmoptose	nome feminino	of|tal|mop|[to]|se
+oftalmorragia	nome feminino	of|tal|mor|ra|[gi]|a
+oftalmorrágico	adjetivo	of|tal|mor|[rá]|gi|co
+oftalmoscopia	nome feminino	of|tal|mos|co|[pi]|a
+oftalmoscópico	adjetivo	of|tal|mos|[có]|pi|co
+oftalmoscópio	nome masculino	of|tal|mos|[có]|pi|o
+oftalmóstato	nome masculino	of|tal|[mós]|ta|to
+oftalmoteca	nome feminino	of|tal|mo|[te]|ca
+oftalmoterapêutica	nome feminino	of|tal|mo|te|ra|[pêu]|ti|ca
+oftalmoterapêutico	adjetivo	of|tal|mo|te|ra|[pêu]|ti|co
+oftalmoterapia	nome feminino	of|tal|mo|te|ra|[pi]|a
+oftalmoterápico	adjetivo	of|tal|mo|te|[rá]|pi|co
+oftalmotomia	nome feminino	of|tal|mo|to|[mi]|a
+oftalmotômico	adjetivo	of|tal|mo|[tô]|mi|co
+oftalmotómico	adjetivo	of|tal|mo|[tó]|mi|co
+oftalmoxise	nome feminino	of|tal|mo|[xi]|se
+oftalmoxistro	nome masculino	of|tal|mo|[xis]|tro
+ofuscação	nome feminino	o|fus|ca|[ção]
+ofuscado	adjetivo	o|fus|[ca]|do
+ofuscador	adjetivo	o|fus|ca|[dor]
+ortotrópico	adjetivo	or|to|[tró]|pi|co
+ortótropo	adjetivo	or|[tó]|tro|po
+ortroniense	adjetivo	or|tro|ni|[en]|se
+ortroniense	nome masculino	or|tro|ni|[en]|se
+ortroniense	nome feminino	or|tro|ni|[en]|se
+orvalhada	nome feminino	or|va|[lha]|da
+orvalhado	adjetivo	or|va|[lha]|do
+orvalhar	verbo	or|va|[lhar]
+orvalheira	nome feminino	or|va|[lhei]|ra
+orvalheiro	nome masculino	or|va|[lhei]|ro
+orvalhinha	nome feminino	or|va|[lhi]|nha
+orvalho	nome masculino	or|[va]|lho
+orvalho-do-sol	nome masculino	or|va|lho-do-sol
+orvalhoso	adjetivo	or|va|[lho]|so
+orvalhudo	adjetivo	or|va|[lhu]|do
+orwelliano	adjetivo	or|wel|li|a|no
+orzaga	nome feminino	or|[za]|ga
+orzuna	nome feminino	or|[zu]|na
+osca	nome feminino	[os]|ca
+óscar	nome masculino	[ós]|car
+oscarizado	adjetivo	os|ca|ri|[za]|do
+oscidate	adjetivo	os|ci|[da]|te
+oscidate	nome masculino	os|ci|[da]|te
+oscidate	nome feminino	os|ci|[da]|te
+oscilação	nome feminino	os|ci|la|[ção]
+oscilador	adjetivo	os|ci|la|[dor]
+oscilador	nome masculino	os|ci|la|[dor]
+oscilante	adjetivo	os|ci|[lan]|te
+oscilar	verbo	os|ci|[lar]
+oscilária	nome feminino	os|ci|[lá]|ri|a
+oscilatória	nome feminino	os|ci|la|[tó]|ri|a
+oscilatoriácea	nome feminino	os|ci|la|to|ri|[á]|ce|a
+oscilatório	adjetivo	os|ci|la|[tó]|ri|o
+oscilo	nome masculino	os|[ci]|lo
+oscilografia	nome feminino	os|ci|lo|gra|[fi]|a
+oscilográfico	adjetivo	os|ci|lo|[grá]|fi|co
+oscilógrafo	nome masculino	os|ci|[ló]|gra|fo
+oscilômetro	nome masculino	os|ci|[lô]|me|tro
+oscilómetro	nome masculino	os|ci|[ló]|me|tro
+osciloscópico	adjetivo	os|ci|los|[có]|pi|co
+osciloscópio	nome masculino	os|ci|los|[có]|pi|o
+oscitação	nome feminino	os|ci|ta|[ção]
+oscitante	adjetivo	os|ci|[tan]|te
+oscitar	verbo	os|ci|[tar]
+osco	adjetivo	[os]|co
+osco	nome masculino	[os]|co
+osco-úmbrico	adjetivo	os|co-úm|bri|co
+osco-úmbrico	nome masculino	os|co-úm|bri|co
+osculação	nome feminino	os|cu|la|[ção]
+osculador	adjetivo	os|cu|la|[dor]
+osculador	nome masculino	os|cu|la|[dor]
+oscular	verbo	os|cu|[lar]
+osculatório	adjetivo	os|cu|la|[tó]|ri|o
+osculatório	nome masculino	os|cu|la|[tó]|ri|o
+osculatriz	nome feminino	os|cu|la|[triz]
+ósculo	nome masculino	[ós]|cu|lo
+osdroeno	adjetivo	os|dro|[e]|no
+osdroeno	nome masculino	os|dro|[e]|no
+ose	nome feminino	[o]|se
+oseriate	adjetivo	o|se|ri|[a]|te
+oseriate	nome masculino	o|se|ri|[a]|te
+oseriate	nome feminino	o|se|ri|[a]|te
+osfialgia	nome feminino	os|fi|al|[gi]|a
+osfiálgico	adjetivo	os|fi|[ál]|gi|co
+osfiite	nome feminino	os|fi|[i]|te
+osfite	nome feminino	os|[fi]|te
+osfresia	nome feminino	os|fre|[si]|a
+osfrésico	adjetivo	os|[fré]|si|co
+osfresiologia	nome feminino	os|fre|si|o|lo|[gi]|a
+osfresiológico	adjetivo	os|fre|si|o|[ló]|gi|co
+osfresiólogo	nome masculino	os|fre|si|[ó]|lo|go
+osfrético	adjetivo	os|[fré]|ti|co
+osfrômeno	nome masculino	os|[frô]|me|no
+osfrómeno	nome masculino	os|[fró]|me|no
+osga	nome feminino	[os]|ga
+ósido	nome masculino	[ó]|si|do
+osíride	nome feminino	o|[sí]|ri|de
+osirídea	nome feminino	o|si|[rí]|de|a
+osismo	adjetivo	o|[sis]|mo
+osismo	nome masculino	o|[sis]|mo
+osloense	adjetivo	os|lo|[en]|se
+osloense	nome masculino	os|lo|[en]|se
+osloense	nome feminino	os|lo|[en]|se
+osmandi	nome masculino	os|man|[di]
+osmanli	nome masculino	os|man|[li]
+osmanli	nome feminino	os|man|[li]
+osmático	adjetivo	os|[má]|ti|co
+osmazoma	nome feminino	os|ma|[zo]|ma
+osmiato	nome masculino	os|mi|[a]|to
+ósmico	adjetivo	[ós]|mi|co
+osmidrose	nome feminino	os|mi|[dro]|se
+osmidrótico	adjetivo	os|mi|[dró]|ti|co
+ósmio	nome masculino	[ós]|mi|o
+osmioso	adjetivo	os|mi|[o]|so
+osmirídio	nome masculino	os|mi|[rí]|di|o
+osmodermo	nome masculino	os|mo|[der]|mo
+osmologia	nome feminino	os|mo|lo|[gi]|a
+osmológico	adjetivo	os|mo|[ló]|gi|co
+osmólogo	nome masculino	os|[mó]|lo|go
+osmometria	nome feminino	os|mo|me|[tri]|a
+ouriço-marinho	nome masculino	ou|ri|ço-ma|[ri]|nho
+ouricuri	nome masculino	ou|ri|cu|[ri]
+ouricurizeiro	nome masculino	ou|ri|cu|ri|[zei]|ro
+ouriense	nome feminino	ou|ri|[en]|se
+ouriense	nome masculino	ou|ri|[en]|se
+ouriense	adjetivo	ou|ri|[en]|se
+ourincu	nome masculino	ou|rin|[cu]
+ourinque	nome masculino	ou|[rin]|que
+ourique	nome masculino	ou|[ri]|que
+ouriquense	adjetivo	ou|ri|[quen]|se
+ouriquense	nome masculino	ou|ri|[quen]|se
+ouriquense	nome feminino	ou|ri|[quen]|se
+ourives	nome masculino	ou|[ri]|ves
+ourivesaria	nome feminino	ou|ri|ve|sa|[ri]|a
+ouro	nome masculino	[ou]|ro
+ouro-branquense	adjetivo	ou|ro-bran|[quen]|se
+ouro-branquense	nome masculino	ou|ro-bran|[quen]|se
+ouro-branquense	nome feminino	ou|ro-bran|[quen]|se
+ouro-fio	advérbio	ou|ro-fi|o
+ouro-pigmento	nome masculino	ou|ro-pig|[men]|to
+ouro-pretana	nome feminino	ou|ro-pre|[ta]|na
+ouro-pretano	adjetivo	ou|ro-pre|[ta]|no
+ouro-pretano	nome masculino	ou|ro-pre|[ta]|no
+ouro-pretense	adjetivo	ou|ro-pre|[ten]|se
+ouro-pretense	nome masculino	ou|ro-pre|[ten]|se
+ouro-pretense	nome feminino	ou|ro-pre|[ten]|se
+ouropel	nome masculino	ou|ro|[pel]
+ouropeso	nome masculino	ou|ro|[pe]|so
+ouros	nome masculino	[ou]|ros
+ourovale	nome masculino	ou|ro|[va]|le
+ourreta	nome feminino	o|ur|[re]|ta
+ourudo	adjetivo	ou|[ru]|do
+ousadamente	advérbio	ou|sa|da|[men]|te
+ousadia	nome feminino	ou|sa|[di]|a
+ousado	adjetivo	ou|[sa]|do
+ousamento	nome masculino	ou|sa|[men]|to
+ousar	verbo	ou|[sar]
+ousio	nome masculino	ou|[si]|o
+out	advérbio	[out]
+outante	nome masculino	ou|[tan]|te
+outão	nome masculino	ou|[tão]
+outar	verbo	ou|[tar]
+outdoor	nome masculino	out|door
+outeiral	adjetivo	ou|tei|[ral]
+outeirista	nome masculino	ou|tei|[ris]|ta
+outeirista	nome feminino	ou|tei|[ris]|ta
+outeiro	nome masculino	ou|[tei]|ro
+outiva	nome feminino	ou|[ti]|va
+outo	nome masculino	[ou]|to
+outonada	nome feminino	ou|to|[na]|da
+outonal	adjetivo	ou|to|[nal]
+outonar	verbo	ou|to|[nar]
+outonear	verbo	ou|to|ne|[ar]
+outoniço	adjetivo	ou|to|[ni]|ço
+outoniço	nome masculino	ou|to|[ni]|ço
+outono	nome masculino	ou|[to]|no
+outorga	nome feminino	ou|[tor]|ga
+outorgabilidade	nome feminino	ou|tor|ga|bi|li|[da]|de
+outorgado	adjetivo	ou|tor|[ga]|do
+outorgado	nome masculino	ou|tor|[ga]|do
+outorgador	adjetivo	ou|tor|ga|[dor]
+outorgador	nome masculino	ou|tor|ga|[dor]
+outorgadora	nome feminino	ou|tor|ga|[do]|ra
+outorgamento	nome masculino	ou|tor|ga|[men]|to
+outorgante	adjetivo	ou|tor|[gan]|te
+outorgante	nome masculino	ou|tor|[gan]|te
+outorgante	nome feminino	ou|tor|[gan]|te
+outorgar	verbo	ou|tor|[gar]
+outorgável	adjetivo	ou|tor|[gá]|vel
+output	nome masculino	[out]|put
+outrem	pronome indefinido	[ou]|trem
+outro	artigo interrogativo	[ou]|tro
+outro	pronome demostrativo	[ou]|tro
+outro	pronome indefinido	[ou]|tro
+outrora	advérbio	ou|[tro]|ra
+outrossim	advérbio	ou|tros|[sim]
+outsider	nome feminino	out|si|[der]
+outsourcing	nome masculino	out|sour|cing
+outubro	nome masculino	ou|[tu]|bro
+ouvida	nome feminino	ou|[vi]|da
+ouvido	nome masculino	ou|[vi]|do
+ouvidor	nome masculino	ou|vi|[dor]
+ouvidor-geral	nome masculino	ou|vi|dor-ge|[ral]
+ouvidor-mor	nome masculino	ou|vi|dor-mor
+ouvidora	nome feminino	ou|vi|[do]|ra
+ouvidoria	nome feminino	ou|vi|do|[ri]|a
+ouviela	nome feminino	ou|vi|[e]|la
+ouvinte	nome masculino	ou|[vin]|te
+ouvinte	adjetivo	ou|[vin]|te
+ouvinte	nome feminino	ou|[vin]|te
+ouvir	verbo	ou|[vir]
+ova	nome feminino	[o]|va
+ovação	nome feminino	o|va|[ção]
+ovacionar	verbo	o|va|ci|o|[nar]
+ovada	nome feminino	o|[va]|da
+ovado	adjetivo	o|[va]|do
+ovado	nome masculino	o|[va]|do
+oval	adjetivo	o|[val]
+oval	nome feminino	o|[val]
+ovalado	adjetivo	o|va|[la]|do
+ovalar	adjetivo	o|va|[lar]
+ovalar	verbo	o|va|[lar]
+ovalbumina	nome feminino	o|val|bu|[mi]|na
+ovaliforme	adjetivo	o|va|li|[for]|me
+ovalização	nome feminino	o|va|li|za|[ção]
+ovalizar	verbo	o|va|li|[zar]
+óvalo	nome masculino	[ó]|va|lo
+ovambo	nome masculino	o|[vam]|bo
+ovambo	adjetivo	o|[vam]|bo
+ovambo	nome feminino	o|[vam]|bo
+ovampo	nome masculino	o|[vam]|po
+ovampo	nome feminino	o|[vam]|po
+ovampo	adjetivo	o|[vam]|po
+óvano	nome masculino	[ó]|va|no
+ovante	adjetivo	o|[van]|te
+ovantemente	advérbio	o|van|te|[men]|te
+ovar	verbo	o|[var]
+ovarense	nome masculino	o|va|[ren]|se
+ovarense	adjetivo	o|va|[ren]|se
+ovarense	nome feminino	o|va|[ren]|se
+ovariano	adjetivo	o|va|ri|[a]|no
+ovárico	adjetivo	o|[vá]|ri|co
+ovariectomia	nome feminino	o|va|ri|ec|to|[mi]|a
+ovariectômico	adjetivo	o|va|ri|ec|[tô]|mi|co
+ovariectómico	adjetivo	o|va|ri|ec|[tó]|mi|co
+ovarina	nome feminino	o|va|[ri]|na
+ovarino	adjetivo	o|va|[ri]|no
+ovarino	nome masculino	o|va|[ri]|no
+ovário	nome masculino	o|[vá]|ri|o
+ovariocele	nome feminino	o|va|ri|o|[ce]|le
+ovariocélico	adjetivo	o|va|ri|o|[cé]|li|co
+ovarioterapia	nome feminino	o|va|ri|o|te|ra|[pi]|a
+ovarioterápico	adjetivo	o|va|ri|o|te|[rá]|pi|co
+ovariotomia	nome feminino	o|va|ri|o|to|[mi]|a
+ovariotómico	adjetivo	o|va|ri|o|[tó]|mi|co
+ovariotômico	adjetivo	o|va|ri|o|[tô]|mi|co
+ovariotomista	nome masculino	o|va|ri|o|to|[mis]|ta
+ovariotomista	nome feminino	o|va|ri|o|to|[mis]|ta
+ovarismo	nome masculino	o|va|[ris]|mo
+ovarista	adjetivo	o|va|[ris]|ta
+ovarista	nome masculino	o|va|[ris]|ta
+ovarista	nome feminino	o|va|[ris]|ta
+ovarite	nome feminino	o|va|[ri]|te
+oveira	nome feminino	o|[vei]|ra
+oveiro	nome masculino	o|[vei]|ro
+ovelha	nome feminino	o|[ve]|lha
+ovelhada	nome feminino	o|ve|[lha]|da
+ovelheira	nome feminino	o|ve|[lhei]|ra
+ovelheiro	adjetivo	o|ve|[lhei]|ro
+ovelheiro	nome masculino	o|ve|[lhei]|ro
+ovelhum	adjetivo	o|ve|[lhum]
+ovelhuno	adjetivo	o|ve|[lhu]|no
+ovém	nome masculino	o|[vém]
+ovença	nome feminino	o|[ven]|ça
+ovençadura	nome feminino	o|ven|ça|[du]|ra
+ovençal	nome masculino	o|ven|[çal]
+óveo	adjetivo	[ó]|ve|o
+overbooking	nome masculino	o|ver|boo|king
+overdose	nome feminino	o|ver|do|se
+ovetano	adjetivo	o|ve|[ta]|no
+ovetano	nome masculino	o|ve|[ta]|no
+ovetense	nome masculino	o|ve|[ten]|se
+ovetense	adjetivo	o|ve|[ten]|se
+ovetense	nome feminino	o|ve|[ten]|se
+oviário	nome masculino	o|vi|[á]|ri|o
+ovículo	nome masculino	o|[ví]|cu|lo
+ovídeo	nome masculino	o|[ví]|de|o
+ovídeo	adjetivo	o|[ví]|de|o
+ovidianismo	nome masculino	o|vi|di|a|[nis]|mo
+ovidianista	adjetivo	o|vi|di|a|[nis]|ta
+ovidianista	nome masculino	o|vi|di|a|[nis]|ta
+ovidianista	nome feminino	o|vi|di|a|[nis]|ta
+ovidiano	adjetivo	o|vi|di|[a]|no
+oviduto	nome masculino	o|vi|[du]|to
+ovificação	nome feminino	o|vi|fi|ca|[ção]
+ovificar	verbo	o|vi|fi|[car]
+oviforme	adjetivo	o|vi|[for]|me
+ovil	nome masculino	o|[vil]
+ovimbunda	nome feminino	o|vim|[bun]|da
+ovimbundo	nome masculino	o|vim|[bun]|do
+ovimbundo	adjetivo	o|vim|[bun]|do
+ovino	adjetivo	o|[vi]|no
+ovino	nome masculino	o|[vi]|no
+ovinocultor	adjetivo	o|vi|no|cul|[tor]
+ovinocultor	nome masculino	o|vi|no|cul|[tor]
+ovinocultura	nome feminino	o|vi|no|cul|[tu]|ra
+oviparidade	nome feminino	o|vi|pa|ri|[da]|de
+oviparismo	nome masculino	o|vi|pa|[ris]|mo
+ovíparo	adjetivo	o|[ví]|pa|ro
+ovíparo	nome masculino	o|[ví]|pa|ro
+ovipositor	nome masculino	o|vi|po|si|[tor]
+oviscapto	nome masculino	o|vis|[cap]|to
+ovismo	nome masculino	o|[vis]|mo
+ovissaco	nome masculino	o|vis|[sa]|co
+ovista	adjetivo	o|[vis]|ta
+ovista	nome masculino	o|[vis]|ta
+ovista	nome feminino	o|[vis]|ta
+ovívoro	adjetivo	o|[ví]|vo|ro
+óvni	nome masculino	[óv]|ni
+ovni	nome masculino	ov|[ni]
+otocefalia	nome feminino	o|to|ce|fa|[li]|a
+otocéfalo	adjetivo	o|to|[cé]|fa|lo
+otocéfalo	nome masculino	o|to|[cé]|fa|lo
+otociste	nome masculino	o|to|[cis]|te
+otocofose	nome feminino	o|to|co|[fo]|se
+otocónia	nome feminino	o|to|[có]|ni|a
+otocônia	nome feminino	o|to|[cô]|ni|a
+otodinia	nome feminino	o|to|di|[ni]|a
+otodínico	adjetivo	o|to|[dí]|ni|co
+otóforo	nome masculino	o|[tó]|fo|ro
+otografia	nome feminino	o|to|gra|[fi]|a
+otográfico	adjetivo	o|to|[grá]|fi|co
+otolítico	adjetivo	o|to|[lí]|ti|co
+otólito	nome masculino	o|[tó]|li|to
+otologia	nome feminino	o|to|lo|[gi]|a
+otológico	adjetivo	o|to|[ló]|gi|co
+otologista	nome masculino	o|to|lo|[gis]|ta
+otologista	nome feminino	o|to|lo|[gis]|ta
+otomana	nome feminino	o|to|[ma]|na
+otomano	nome masculino	o|to|[ma]|no
+otomano	adjetivo	o|to|[ma]|no
+otomba	nome feminino	o|[tom]|ba
+otombeira	nome feminino	o|tom|[bei]|ra
+otomicetose	nome feminino	o|to|mi|ce|[to]|se
+otomicose	nome feminino	o|to|mi|[co]|se
+otoneurologia	nome feminino	o|to|neu|ro|lo|[gi]|a
+otoniano	adjetivo	o|to|ni|[a]|no
+otopatia	nome feminino	o|to|pa|[ti]|a
+otopático	adjetivo	o|to|[pá]|ti|co
+otopiorreia	nome feminino	o|to|pi|or|[rei]|a
+otopiorreico	adjetivo	o|to|pi|or|[rei]|co
+otoplastia	nome feminino	o|to|plas|[ti]|a
+otoplástico	adjetivo	o|to|[plás]|ti|co
+otorragia	nome feminino	o|tor|ra|[gi]|a
+otorrágico	adjetivo	o|tor|[rá]|gi|co
+otorreia	nome feminino	o|tor|[rei]|a
+otorreico	adjetivo	o|tor|[rei]|co
+otorrino	adjetivo	o|tor|[ri]|no
+otorrino	nome masculino	o|tor|[ri]|no
+otorrino	nome feminino	o|tor|[ri]|no
+otorrinolaringóloga	nome feminino	o|tor|ri|no|la|rin|[gó]|lo|ga
+otorrinolaringologia	nome feminino	o|tor|ri|no|la|rin|go|lo|[gi]|a
+otorrinolaringológico	adjetivo	o|tor|ri|no|la|rin|go|[ló]|gi|co
+otorrinolaringologista	adjetivo	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringologista	nome masculino	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringologista	nome feminino	o|tor|ri|no|la|rin|go|lo|[gis]|ta
+otorrinolaringólogo	nome masculino	o|tor|ri|no|la|rin|[gó]|lo|go
+otosclerose	nome feminino	o|tos|cle|[ro]|se
+otosclerótico	adjetivo	o|tos|cle|[ró]|ti|co
+otoscopia	nome feminino	o|tos|co|[pi]|a
+otoscópico	adjetivo	o|tos|[có]|pi|co
+otoscópio	nome masculino	o|tos|[có]|pi|o
+otostégia	nome feminino	o|tos|[té]|gi|a
+ototerapia	nome feminino	o|to|te|ra|[pi]|a
+ototerápico	adjetivo	o|to|te|[rá]|pi|co
+ototomia	nome feminino	o|to|to|[mi]|a
+ototômico	adjetivo	o|to|[tô]|mi|co
+ototómico	adjetivo	o|to|[tó]|mi|co
+ototóxico	adjetivo	o|to|[tó]|xi|co
+ototóxico	nome masculino	o|to|[tó]|xi|co
+otozamites	nome feminino	o|to|za|[mi]|tes
+otrioneu	adjetivo	o|tri|o|[neu]
+otrioneu	nome masculino	o|tri|o|[neu]
+ou	conjunção	ou
+ouça	nome feminino	[ou]|ça
+oução	nome masculino	ou|[ção]
+ougã	nome masculino	ou|[gã]
+ougado	adjetivo	ou|[ga]|do
+ougar	verbo	ou|[gar]
+ouguiya	nome masculino	ou|guiya
+ouirarema	nome feminino	oui|ra|[re]|ma
+oura	nome feminino	[ou]|ra
+ourado	adjetivo	ou|[ra]|do
+ourama	nome feminino	ou|[ra]|ma
+ouramento	nome masculino	ou|ra|[men]|to
+ourar	verbo	ou|[rar]
+oureça	nome feminino	ou|[re]|ça
+oureense	adjetivo	ou|re|[en]|se
+oureense	nome masculino	ou|re|[en]|se
+oureense	nome feminino	ou|re|[en]|se
+ourégão	nome masculino	ou|[ré]|gão
+ourego	nome masculino	ou|[re]|go
+ourejante	adjetivo	ou|re|[jan]|te
+ourejar	verbo	ou|re|[jar]
+ourela	nome feminino	ou|[re]|la
+ourelado	adjetivo	ou|re|[la]|do
+ourelar	verbo	ou|re|[lar]
+ourelo	nome masculino	ou|[re]|lo
+ourenense	nome masculino	ou|re|[nen]|se
+ourenense	nome feminino	ou|re|[nen]|se
+ourenense	adjetivo	ou|re|[nen]|se
+ouriçado	adjetivo	ou|ri|[ça]|do
+ouriçador	nome masculino	ou|ri|ça|[dor]
+ouriçador	adjetivo	ou|ri|ça|[dor]
+ouriçar	verbo	ou|ri|[çar]
+ouriceira	nome feminino	ou|ri|[cei]|ra
+ouriceiro	nome masculino	ou|ri|[cei]|ro
+ouriço	nome masculino	ou|[ri]|ço
+ouriço-cacheiro	nome masculino	ou|ri|ço-ca|[chei]|ro
+ouriço-do-mar	nome masculino	ou|ri|ço-do-mar
+ofensor	nome masculino	o|fen|[sor]
+ofensora	nome feminino	o|fen|[so]|ra
+oferecedor	adjetivo	o|fe|re|ce|[dor]
+oferecedor	nome masculino	o|fe|re|ce|[dor]
+oferecedora	nome feminino	o|fe|re|ce|[do]|ra
+oferecer	verbo	o|fe|re|[cer]
+oferecido	adjetivo	o|fe|re|[ci]|do
+oferecimento	nome masculino	o|fe|re|ci|[men]|to
+oferenda	nome feminino	o|fe|[ren]|da
+oferendar	verbo	o|fe|ren|[dar]
+oferente	adjetivo	o|fe|[ren]|te
+oferente	nome masculino	o|fe|[ren]|te
+oferente	nome feminino	o|fe|[ren]|te
+oferta	nome feminino	o|[fer]|ta
+ofertamento	nome masculino	o|fer|ta|[men]|to
+ofertante	adjetivo	o|fer|[tan]|te
+ofertante	nome masculino	o|fer|[tan]|te
+ofertante	nome feminino	o|fer|[tan]|te
+ofertar	verbo	o|fer|[tar]
+ofertável	adjetivo	o|fer|[tá]|vel
+oferteira	nome feminino	o|fer|[tei]|ra
+ofertório	nome masculino	o|fer|[tó]|ri|o
+off-line	adjetivo	off-li|ne
+office-boy	nome masculino	of|fi|ce-boy
+offline	advérbio	of|fli|ne
+offline	adjetivo	of|[fli]|ne
+offset	nome masculino	off|set
+offshore	adjetivo	off|sho|re
+offshore	nome masculino	off|sho|re
+ofíase	nome feminino	o|[fí]|a|se
+oficiador	adjetivo	o|fi|ci|a|[dor]
+oficiador	nome masculino	o|fi|ci|a|[dor]
+oficial	nome masculino	o|fi|ci|[al]
+oficial	adjetivo	o|fi|ci|[al]
+oficial	nome feminino	o|fi|ci|[al]
+oficial às ordens	nome masculino	o|fi|ci|al às or|dens
+oficial-de-sala	nome masculino	o|fi|ci|al-de-sa|la
+oficial-mor	nome masculino	o|fi|ci|al-mor
+oficialato	nome masculino	o|fi|ci|a|[la]|to
+oficialidade	nome feminino	o|fi|ci|a|li|[da]|de
+oficialismo	nome masculino	o|fi|ci|a|[lis]|mo
+oficialização	nome feminino	o|fi|ci|a|li|za|[ção]
+oficializado	adjetivo	o|fi|ci|a|li|[za]|do
+oficializador	adjetivo	o|fi|ci|a|li|za|[dor]
+oficializador	nome masculino	o|fi|ci|a|li|za|[dor]
+oficializar	verbo	o|fi|ci|a|li|[zar]
+oficializável	adjetivo	o|fi|ci|a|li|[zá]|vel
+oficialmente	advérbio	o|fi|ci|al|[men]|te
+oficiante	adjetivo	o|fi|ci|[an]|te
+oficiante	nome masculino	o|fi|ci|[an]|te
+oficiante	nome feminino	o|fi|ci|[an]|te
+oficiar	verbo	o|fi|ci|[ar]
+oficina	nome feminino	o|fi|[ci]|na
+oficinal	adjetivo	o|fi|ci|[nal]
+ofício	nome masculino	o|[fí]|ci|o
+oficiosamente	advérbio	o|fi|ci|o|sa|[men]|te
+oficiosidade	nome feminino	o|fi|ci|o|si|[da]|de
+oficioso	adjetivo	o|fi|ci|[o]|so
+oficioso	nome masculino	o|fi|ci|[o]|so
+oficleide	nome masculino	o|fi|[clei]|de
+oficlide	nome masculino	o|fi|[cli]|de
+ofidiário	nome masculino	o|fi|di|[á]|ri|o
+ofídico	adjetivo	o|[fí]|di|co
+ofidídeo	nome masculino	o|fi|[dí]|de|o
+ofídio	nome masculino	o|[fí]|di|o
+ofídio	adjetivo	o|[fí]|di|o
+ofidiofobia	nome feminino	o|fi|di|o|fo|[bi]|a
+ofidismo	nome masculino	o|fi|[dis]|mo
+ofieu	adjetivo	o|fi|[eu]
+ofieu	nome masculino	o|fi|[eu]
+ofiocéfalo	adjetivo	o|fi|o|[cé]|fa|lo
+ofiocéfalo	nome masculino	o|fi|o|[cé]|fa|lo
+ofiodonte	nome masculino	o|fi|o|[don]|te
+ofiofagia	nome feminino	o|fi|o|fa|[gi]|a
+ofiofágico	adjetivo	o|fi|o|[fá]|gi|co
+ofiófago	adjetivo	o|fi|[ó]|fa|go
+ofiófago	nome masculino	o|fi|[ó]|fa|go
+ofiofobia	nome feminino	o|fi|o|fo|[bi]|a
+ofiófobo	adjetivo	o|fi|[ó]|fo|bo
+ofiófobo	nome masculino	o|fi|[ó]|fo|bo
+ofioftalmo	nome masculino	o|fi|of|[tal]|mo
+ofiógene	adjetivo	o|fi|[ó]|ge|ne
+ofiógene	nome masculino	o|fi|[ó]|ge|ne
+ofiógene	nome feminino	o|fi|[ó]|ge|ne
+ofioglossácea	nome feminino	o|fi|o|glos|[sá]|ce|a
+ofioglosso	nome masculino	o|fi|o|[glos]|so
+ofiografia	nome feminino	o|fi|o|gra|[fi]|a
+ofiográfico	adjetivo	o|fi|o|[grá]|fi|co
+ofiógrafo	nome masculino	o|fi|[ó]|gra|fo
+ofioide	adjetivo	o|fi|[oi]|de
+ofióideo	adjetivo	o|fi|[ói]|de|o
+ofiólatra	adjetivo	o|fi|[ó]|la|tra
+ofiólatra	nome masculino	o|fi|[ó]|la|tra
+ofiólatra	nome feminino	o|fi|[ó]|la|tra
+ofiolatria	nome feminino	o|fi|o|la|[tri]|a
+ofiolátrico	adjetivo	o|fi|o|[lá]|tri|co
+ofiolítico	adjetivo	o|fi|o|[lí]|ti|co
+ofiólito	nome masculino	o|fi|[ó]|li|to
+ofiologia	nome feminino	o|fi|o|lo|[gi]|a
+ofiológico	adjetivo	o|fi|o|[ló]|gi|co
+oja	nome feminino	[o]|ja
+ojeriza	nome feminino	o|je|[ri]|za
+ojerizar	verbo	o|je|ri|[zar]
+olá	interjeição	o|[lá]
+ola	nome feminino	[o]|la
+olace	nome masculino	o|[la]|ce
+olácea	nome feminino	o|[lá]|ce|a
+oláceo	adjetivo	o|[lá]|ce|o
+olaeira	nome feminino	o|la|[ei]|ra
+olaia	nome feminino	o|[lai]|a
+olampi	nome masculino	o|lam|[pi]
+olandês	adjetivo	o|lan|[dês]
+olandês	nome masculino	o|lan|[dês]
+olânico	adjetivo	o|[lâ]|ni|co
+olanina	nome feminino	o|la|[ni]|na
+olaré	interjeição	o|la|[ré]
+olaria	nome feminino	o|la|[ri]|a
+olarila	interjeição	o|la|[ri]|la
+olarilolé	interjeição	o|la|ri|lo|[lé]
+olbiopolitano	adjetivo	ol|bi|o|po|li|[ta]|no
+olbiopolitano	nome masculino	ol|bi|o|po|li|[ta]|no
+olciniate	adjetivo	ol|ci|ni|[a]|te
+olciniate	nome masculino	ol|ci|ni|[a]|te
+olciniate	nome feminino	ol|ci|ni|[a]|te
+oldembúrgia	nome feminino	ol|dem|[búr]|gi|a
+oldemburguês	adjetivo	ol|dem|bur|[guês]
+oldemburguês	nome masculino	ol|dem|bur|[guês]
+oldenlândia	nome feminino	ol|den|[lân]|di|a
+olé	interjeição	o|[lé]
+olé	nome masculino	o|[lé]
+oleácea	nome feminino	o|le|[á]|ce|a
+oleáceo	adjetivo	o|le|[á]|ce|o
+oleacidímetro	nome masculino	o|le|a|ci|[dí]|me|tro
+oleadar	verbo	o|le|a|[dar]
+oleado	nome masculino	o|le|[a]|do
+oleado	adjetivo	o|le|[a]|do
+oleaginar	verbo	o|le|a|gi|[nar]
+oleagíneo	adjetivo	o|le|a|[gí]|ne|o
+oleaginosa	nome feminino	o|le|a|gi|[no]|sa
+oleaginoso	adjetivo	o|le|a|gi|[no]|so
+oleandrina	nome feminino	o|le|an|[dri]|na
+oleandro	nome masculino	o|le|[an]|dro
+olear	verbo	o|le|[ar]
+olearia	nome feminino	o|le|a|[ri]|a
+oleastro	nome masculino	o|le|[as]|tro
+oleato	nome masculino	o|le|[a]|to
+olecraniano	adjetivo	o|le|cra|ni|[a]|no
+olecrânio	nome masculino	o|le|[crâ]|ni|o
+olecrano	nome masculino	o|le|[cra]|no
+oleento	adjetivo	o|le|[en]|to
+olefina	nome feminino	o|le|[fi]|na
+oleico	adjetivo	o|[lei]|co
+oleícola	adjetivo	o|le|[í]|co|la
+oleicultor	nome masculino	o|lei|cul|[tor]
+oleicultor	adjetivo	o|lei|cul|[tor]
+oleicultora	nome feminino	o|lei|cul|[to]|ra
+oleicultura	nome feminino	o|lei|cul|[tu]|ra
+oleídeo	adjetivo	o|le|[í]|de|o
+oleídeo	nome masculino	o|le|[í]|de|o
+oleífero	adjetivo	o|le|[í]|fe|ro
+oleificante	adjetivo	o|lei|fi|[can]|te
+oleifoliado	adjetivo	o|lei|fo|li|[a]|do
+oleifólio	adjetivo	o|lei|[fó]|li|o
+oleígeno	adjetivo	o|le|[í]|ge|no
+oleila	nome feminino	o|[lei]|la
+oleína	nome feminino	o|le|[í]|na
+oleira	nome feminino	o|[lei]|ra
+oleirense	adjetivo	o|lei|[ren]|se
+oleirense	nome masculino	o|lei|[ren]|se
+oleirense	nome feminino	o|lei|[ren]|se
+oleiro	nome masculino	o|[lei]|ro
+oleiro	adjetivo	o|[lei]|ro
+olenário	adjetivo	o|le|[ná]|ri|o
+olência	nome feminino	o|[lên]|ci|a
+olente	adjetivo	o|[len]|te
+óleo	nome masculino	[ó]|le|o
+óleo-barão	nome masculino	ó|le|o-ba|rão
+oleoduto	nome masculino	o|le|o|[du]|to
+oleogénese	nome feminino	o|le|o|[gé]|ne|se
+oleografia	nome feminino	o|le|o|gra|[fi]|a
+oleográfico	adjetivo	o|le|o|[grá]|fi|co
+oleogravura	nome feminino	o|le|o|gra|[vu]|ra
+oleol	nome masculino	o|le|[ol]
+oleolado	nome masculino	o|le|o|[la]|do
+oleolatado	adjetivo	o|le|o|la|[ta]|do
+oleolatado	nome masculino	o|le|o|la|[ta]|do
+oleolato	nome masculino	o|le|o|[la]|to
+oleólico	adjetivo	o|le|[ó]|li|co
+oleolito	nome masculino	o|le|o|[li]|to
+oleométrico	adjetivo	o|le|o|[mé]|tri|co
+oleômetro	nome masculino	o|le|[ô]|me|tro
+oleómetro	nome masculino	o|le|[ó]|me|tro
+oleona	nome feminino	o|le|[o]|na
+oleorresina	nome feminino	o|le|or|re|[si]|na
+oleorresinoso	adjetivo	o|le|or|re|si|[no]|so
+oleorricinato	nome masculino	o|le|or|ri|ci|[na]|to
+oleorricínico	adjetivo	o|le|or|ri|[cí]|ni|co
+oleosidade	nome masculino	o|le|o|si|[da]|de
+oleosidade	nome feminino	o|le|o|si|[da]|de
+oleoso	adjetivo	o|le|[o]|so
+ofuscador	nome masculino	o|fus|ca|[dor]
+ofuscamento	nome masculino	o|fus|ca|[men]|to
+ofuscante	adjetivo	o|fus|[can]|te
+ofuscar	verbo	o|fus|[car]
+ofuscável	adjetivo	o|fus|[cá]|vel
+ogano	advérbio	o|[ga]|no
+ogdoedria	nome feminino	og|do|e|[dri]|a
+ogdoédrico	adjetivo	og|do|[é]|dri|co
+ogígio	adjetivo	o|[gí]|gi|o
+ogígio	nome masculino	o|[gí]|gi|o
+ogiva	nome feminino	o|[gi]|va
+ogivado	adjetivo	o|gi|[va]|do
+ogival	adjetivo	o|gi|[val]
+ogivocilíndrico	adjetivo	o|gi|vo|ci|[lín]|dri|co
+ogo	nome masculino	[o]|go
+ogó	nome masculino	o|[gó]
+ogra	nome feminino	[o]|gra
+ogre	nome masculino	[o]|gre
+ogro	nome masculino	[o]|gro
+ogum	nome masculino	o|[gum]
+oh	interjeição	[oh]
+ohm	nome masculino	[ohm]
+ohmímetro	nome masculino	oh|[mí]|me|tro
+ohmómetro	nome masculino	oh|[mó]|me|tro
+ohmômetro	nome masculino	oh|[mô]|me|tro
+oi	interjeição	[oi]
+oiça	nome feminino	[oi]|ça
+oídio	nome masculino	o|[í]|di|o
+oidiomicose	nome feminino	oi|di|o|mi|[co]|se
+oidiomicótico	adjetivo	oi|di|o|mi|[có]|ti|co
+oigar	verbo	oi|[gar]
+oïl	nome masculino	o|[ïl]
+oincá	nome masculino	o|in|[cá]
+oincá	nome feminino	o|in|[cá]
+oincá	adjetivo	o|in|[cá]
+oira	nome feminino	[oi]|ra
+oirama	nome feminino	oi|[ra]|ma
+oiramento	nome masculino	oi|ra|[men]|to
+oirana	nome feminino	oi|[ra]|na
+oirar	verbo	oi|[rar]
+oirega	nome feminino	oi|[re]|ga
+oirejante	adjetivo	oi|re|[jan]|te
+oirejar	verbo	oi|re|[jar]
+oiriçar	verbo	oi|ri|[çar]
+oiriceira	nome feminino	oi|ri|[cei]|ra
+oiriceiro	nome masculino	oi|ri|[cei]|ro
+oiriço	nome masculino	oi|[ri]|ço
+oiriço-cacheiro	nome masculino	oi|ri|ço-ca|[chei]|ro
+oiriço-do-mar	nome masculino	oi|ri|ço-do-mar
+oiriço-marinho	nome masculino	oi|ri|ço-ma|[ri]|nho
+oirincu	nome masculino	oi|rin|[cu]
+oiro	nome masculino	[oi]|ro
+oiro-fio	advérbio	oi|ro-fi|o
+oiro-pigmento	nome masculino	oi|ro-pig|[men]|to
+oiropel	nome masculino	oi|ro|[pel]
+oirovale	nome masculino	oi|ro|[va]|le
+oirudo	adjetivo	oi|[ru]|do
+oitante	nome masculino	oi|[tan]|te
+oitão	nome masculino	oi|[tão]
+oitava	nome feminino	oi|[ta]|va
+oitavado	adjetivo	oi|ta|[va]|do
+oitavado	nome masculino	oi|ta|[va]|do
+oitavanista	adjetivo	oi|ta|va|[nis]|ta
+oitavanista	nome masculino	oi|ta|va|[nis]|ta
+oitavanista	nome feminino	oi|ta|va|[nis]|ta
+oitavão	adjetivo	oi|ta|[vão]
+oitavão	nome masculino	oi|ta|[vão]
+oitavar	verbo	oi|ta|[var]
+oitavário	nome masculino	oi|ta|[vá]|ri|o
+oitaveiro	adjetivo	oi|ta|[vei]|ro
+oitaveiro	nome masculino	oi|ta|[vei]|ro
+oitavina	nome feminino	oi|ta|[vi]|na
+oitavino	nome masculino	oi|ta|[vi]|no
+oitavo	adjetivo	oi|[ta]|vo
+oitavo	nome masculino	oi|[ta]|vo
+oitavo	número fraccional	oi|[ta]|vo
+oitavo	número ordinal	oi|[ta]|vo
+oitavos de final	nome masculino	oi|[ta]|vos de fi|nal
+oiteiral	adjetivo	oi|tei|[ral]
+oiteirista	nome masculino	oi|tei|[ris]|ta
+oiteirista	nome feminino	oi|tei|[ris]|ta
+oiteiro	nome masculino	oi|[tei]|ro
+oitenta	adjetivo	oi|[ten]|ta
+oitenta	número cardinal	oi|[ten]|ta
+oitenta	nome masculino	oi|[ten]|ta
+oitentão	nome masculino	oi|ten|[tão]
+oiti	nome masculino	oi|[ti]
+oiticica	nome feminino	oi|ti|[ci]|ca
+oitiva	nome feminino	oi|[ti]|va
+oitizeiro	nome masculino	oi|ti|[zei]|ro
+oito	adjetivo	[oi]|to
+oito	número cardinal	[oi]|to
+oito	nome masculino	[oi]|to
+oitocentista	nome masculino	oi|to|cen|[tis]|ta
+oitocentista	adjetivo	oi|to|cen|[tis]|ta
+oitocentista	nome feminino	oi|to|cen|[tis]|ta
+oitocentos	nome masculino	oi|to|[cen]|tos
+oitocentos	adjetivo	oi|to|[cen]|tos
+oitocentos	número cardinal	oi|to|[cen]|tos
+ojá	nome masculino	o|[já]
+orelhuda	nome feminino	o|re|[lhu]|da
+orelhudo	adjetivo	o|re|[lhu]|do
+orelhudo	nome masculino	o|re|[lhu]|do
+orélia	nome feminino	o|[ré]|li|a
+orelina	nome feminino	o|re|[li]|na
+oremanau	adjetivo	o|re|ma|[nau]
+oremanau	nome masculino	o|re|ma|[nau]
+oremanau	nome feminino	o|re|ma|[nau]
+oreóbolo	nome masculino	o|re|[ó]|bo|lo
+oreófila	nome feminino	o|re|[ó]|fi|la
+oreóforo	nome masculino	o|re|[ó]|fo|ro
+oreopiteco	nome masculino	o|re|o|pi|[te]|co
+oressa	nome feminino	o|[res]|sa
+oresta	adjetivo	o|[res]|ta
+oresta	nome masculino	o|[res]|ta
+oresta	nome feminino	o|[res]|ta
+oresteu	adjetivo	o|res|[teu]
+oretano	adjetivo	o|re|[ta]|no
+oretano	nome masculino	o|re|[ta]|no
+oreu	adjetivo	o|[reu]
+oreu	nome masculino	o|[reu]
+orexia	nome feminino	o|re|[xi]|a
+orexina	nome feminino	o|re|[xi]|na
+orexomania	nome feminino	o|re|xo|ma|[ni]|a
+órfã	nome feminino	[ór]|fã
+orfanado	nome masculino	or|fa|[na]|do
+orfanar	verbo	or|fa|[nar]
+orfanato	nome masculino	or|fa|[na]|to
+orfandade	nome feminino	or|fan|[da]|de
+orfanologia	nome feminino	or|fa|no|lo|[gi]|a
+orfanológico	adjetivo	or|fa|no|[ló]|gi|co
+orfanotrófio	nome masculino	or|fa|no|[tró]|fi|o
+órfão	nome masculino	[ór]|fão
+órfão	adjetivo	[ór]|fão
+orfeão	nome masculino	or|fe|[ão]
+orfeico	adjetivo	or|[fei]|co
+orfeónico	adjetivo	or|fe|[ó]|ni|co
+orfeônico	adjetivo	or|fe|[ô]|ni|co
+orfeonista	nome masculino	or|fe|o|[nis]|ta
+orfeonista	nome feminino	or|fe|o|[nis]|ta
+orfeonista	adjetivo	or|fe|o|[nis]|ta
+orfeonístico	adjetivo	or|fe|o|[nís]|ti|co
+orfeotelesta	nome masculino	or|fe|o|te|[les]|ta
+órfia	nome feminino	[ór]|fi|a
+órficas	nome feminino	[ór]|fi|cas
+órfico	adjetivo	[ór]|fi|co
+órfico	nome masculino	[ór]|fi|co
+orfindade	nome feminino	or|fin|[da]|de
+orfismo	nome masculino	or|[fis]|mo
+orfista	adjetivo	or|[fis]|ta
+orfista	nome masculino	or|[fis]|ta
+orfista	nome feminino	or|[fis]|ta
+orfístico	adjetivo	or|[fís]|ti|co
+orfneia	nome feminino	orf|[nei]|a
+orgada	nome feminino	or|[ga]|da
+orgadura	nome feminino	or|ga|[du]|ra
+organdi	nome masculino	or|gan|[di]
+organeiro	nome masculino	or|ga|[nei]|ro
+organelo	nome masculino	or|ga|[ne]|lo
+orgânica	nome feminino	or|[gâ]|ni|ca
+organicamente	advérbio	or|ga|ni|ca|[men]|te
+organicismo	nome masculino	or|ga|ni|[cis]|mo
+organicista	nome masculino	or|ga|ni|[cis]|ta
+organicista	adjetivo	or|ga|ni|[cis]|ta
+organicista	nome feminino	or|ga|ni|[cis]|ta
+orgânico	adjetivo	or|[gâ]|ni|co
+organigrama	nome masculino	or|ga|ni|[gra]|ma
+organismo	nome masculino	or|ga|[nis]|mo
+organista	adjetivo	or|ga|[nis]|ta
+organista	nome masculino	or|ga|[nis]|ta
+organista	nome feminino	or|ga|[nis]|ta
+organito	nome masculino	or|ga|[ni]|to
+organização	nome feminino	or|ga|ni|za|[ção]
+organizacional	adjetivo	or|ga|ni|za|ci|o|[nal]
+organizadamente	advérbio	or|ga|ni|za|da|[men]|te
+organizado	adjetivo	or|ga|ni|[za]|do
+organizador	adjetivo	or|ga|ni|za|[dor]
+organizador	nome masculino	or|ga|ni|za|[dor]
+organizadora	nome feminino	or|ga|ni|za|[do]|ra
+organizar	verbo	or|ga|ni|[zar]
+organizativo	adjetivo	or|ga|ni|za|[ti]|vo
+organizável	adjetivo	or|ga|ni|[zá]|vel
+organodinamia	nome feminino	or|ga|no|di|na|[mi]|a
+organodinâmico	adjetivo	or|ga|no|di|[nâ]|mi|co
+organofosfato	nome masculino	or|ga|no|fos|[fa]|to
+organogênese	nome feminino	or|ga|no|[gê]|ne|se
+organogénese	nome feminino	or|ga|no|[gé]|ne|se
+organogenesia	nome feminino	or|ga|no|ge|ne|[si]|a
+organogenésico	adjetivo	or|ga|no|ge|[né]|si|co
+organogenético	adjetivo	or|ga|no|ge|[né]|ti|co
+organogenia	nome feminino	or|ga|no|ge|[ni]|a
+organogénico	adjetivo	or|ga|no|[gé]|ni|co
+organogênico	adjetivo	or|ga|no|[gê]|ni|co
+organografia	nome feminino	or|ga|no|gra|[fi]|a
+organográfico	adjetivo	or|ga|no|[grá]|fi|co
+organograma	nome masculino	or|ga|no|[gra]|ma
+organoide	adjetivo	or|ga|[noi]|de
+organoléptico	adjetivo	or|ga|no|[lép]|ti|co
+organolético	adjetivo	or|ga|no|[lé]|ti|co
+organologia	nome feminino	or|ga|no|lo|[gi]|a
+odontóforo	nome masculino	o|don|[tó]|fo|ro
+odontogénese	nome feminino	o|don|to|[gé]|ne|se
+odontogênese	nome feminino	o|don|to|[gê]|ne|se
+odontogenia	nome feminino	o|don|to|ge|[ni]|a
+odontogênico	adjetivo	o|don|to|[gê]|ni|co
+odontogénico	adjetivo	o|don|to|[gé]|ni|co
+odontoglosso	adjetivo	o|don|to|[glos]|so
+odontoglosso	nome masculino	o|don|to|[glos]|so
+odontógnato	nome masculino	o|don|[tóg]|na|to
+odontografia	nome feminino	o|don|to|gra|[fi]|a
+odontográfico	adjetivo	o|don|to|[grá]|fi|co
+odontograma	nome masculino	o|don|to|[gra]|ma
+odontoide	adjetivo	o|don|[toi]|de
+odontolitíase	nome feminino	o|don|to|li|[tí]|a|se
+odontólito	nome masculino	o|don|[tó]|li|to
+odontólofo	nome masculino	o|don|[tó]|lo|fo
+odontóloga	nome feminino	o|don|[tó]|lo|ga
+odontologia	nome feminino	o|don|to|lo|[gi]|a
+odontológico	adjetivo	o|don|to|[ló]|gi|co
+odontologista	nome masculino	o|don|to|lo|[gis]|ta
+odontologista	nome feminino	o|don|to|lo|[gis]|ta
+odontólogo	nome masculino	o|don|[tó]|lo|go
+odontoma	nome masculino	o|don|[to]|ma
+odontómaco	nome masculino	o|don|[tó]|ma|co
+odontômaco	nome masculino	o|don|[tô]|ma|co
+odontómetro	nome masculino	o|don|[tó]|me|tro
+odontômetro	nome masculino	o|don|[tô]|me|tro
+odontônique	nome masculino	o|don|[tô]|ni|que
+odontónique	nome masculino	o|don|[tó]|ni|que
+odontópetra	nome feminino	o|don|[tó]|pe|tra
+odontópode	nome masculino	o|don|[tó]|po|de
+odontoptéride	nome feminino	o|don|top|[té]|ri|de
+odontórnitas	nome feminino	o|don|[tór]|ni|tas
+odontorragia	nome feminino	o|don|tor|ra|[gi]|a
+odontorrágico	adjetivo	o|don|tor|[rá]|gi|co
+odontorranfo	nome masculino	o|don|tor|[ran]|fo
+odontoscélide	nome feminino	o|don|tos|[cé]|li|de
+odontose	nome feminino	o|don|[to]|se
+odontóstomo	adjetivo	o|don|[tós]|to|mo
+odontotecnia	nome feminino	o|don|to|tec|[ni]|a
+odontotécnico	adjetivo	o|don|to|[téc]|ni|co
+odontótrico	nome masculino	o|don|[tó]|tri|co
+odontoxesta	nome masculino	o|don|to|[xes]|ta
+odor	nome masculino	o|[dor]
+odorante	adjetivo	o|do|[ran]|te
+odorar	verbo	o|do|[rar]
+odorífero	adjetivo	o|do|[rí]|fe|ro
+odorífico	adjetivo	o|do|[rí]|fi|co
+odorifumante	adjetivo	o|do|ri|fu|[man]|te
+odorimetria	nome feminino	o|do|ri|me|[tri]|a
+odorina	nome feminino	o|do|[ri]|na
+odorizador	adjetivo	o|do|ri|za|[dor]
+odorizador	nome masculino	o|do|ri|za|[dor]
+odorizante	adjetivo	o|do|ri|[zan]|te
+odorizar	verbo	o|do|ri|[zar]
+odoroscopia	nome feminino	o|do|ros|co|[pi]|a
+odoroscópico	adjetivo	o|do|ros|[có]|pi|co
+odoróscopo	nome masculino	o|do|[rós]|co|po
+odoroso	adjetivo	o|do|[ro]|so
+odrada	nome feminino	o|[dra]|da
+odraria	nome feminino	o|dra|[ri]|a
+odre	nome masculino	[o]|dre
+odreiro	nome masculino	o|[drei]|ro
+odrísio	adjetivo	o|[drí]|si|o
+odrísio	nome masculino	o|[drí]|si|o
+oeirense	adjetivo	o|ei|[ren]|se
+oeirense	nome masculino	o|ei|[ren]|se
+oeirense	nome feminino	o|ei|[ren]|se
+oena	nome feminino	o|[e]|na
+oersted	nome masculino	[oers]|ted
+oés-noroeste	nome masculino	o|és-no|ro|[es]|te
+oés-noroeste	adjetivo	o|és-no|ro|[es]|te
+oés-sudoeste	adjetivo	o|és-su|do|[es]|te
+oés-sudoeste	nome masculino	o|és-su|do|[es]|te
+oeste	adjetivo	o|[es]|te
+oeste	nome masculino	o|[es]|te
+oestrídeo	nome masculino	o|es|[trí]|de|o
+ofegante	adjetivo	o|fe|[gan]|te
+ofegar	verbo	o|fe|[gar]
+ofego	nome masculino	o|[fe]|go
+ofegoso	adjetivo	o|fe|[go]|so
+ofeguento	adjetivo	o|fe|[guen]|to
+ofélia	nome feminino	o|[fé]|li|a
+ofelimidade	nome feminino	o|fe|li|mi|[da]|de
+ofélimo	adjetivo	o|[fé]|li|mo
+ofendedor	adjetivo	o|fen|de|[dor]
+ofendedor	nome masculino	o|fen|de|[dor]
+ofendedora	nome feminino	o|fen|de|[do]|ra
+ofender	verbo	o|fen|[der]
+ofendículo	nome masculino	o|fen|[dí]|cu|lo
+ofendida	nome feminino	o|fen|[di]|da
+ofendido	nome masculino	o|fen|[di]|do
+ofendido	adjetivo	o|fen|[di]|do
+ofensa	nome feminino	o|[fen]|sa
+ofensão	nome feminino	o|fen|[são]
+ofensiva	nome feminino	o|fen|[si]|va
+ofensivamente	advérbio	o|fen|si|va|[men]|te
+ofensivo	adjetivo	o|fen|[si]|vo
+ofenso	adjetivo	o|[fen]|so
+ofensor	adjetivo	o|fen|[sor]
+omué	nome masculino	o|mu|[é]
+omumbeu	nome masculino	o|mum|[beu]
+on-line	adjetivo	on-li|ne
+onagra	nome feminino	o|[na]|gra
+ónagra	nome feminino	[ó]|na|gra
+ônagra	nome feminino	[ô]|na|gra
+onagrácea	nome feminino	o|na|[grá]|ce|a
+onagráceo	adjetivo	o|na|[grá]|ce|o
+ónagro	nome masculino	[ó]|na|gro
+onagro	nome masculino	o|[na]|gro
+ônagro	nome masculino	[ô]|na|gro
+onanismo	nome masculino	o|na|[nis]|mo
+onanista	adjetivo	o|na|[nis]|ta
+onanista	nome masculino	o|na|[nis]|ta
+onanista	nome feminino	o|na|[nis]|ta
+onanístico	adjetivo	o|na|[nís]|ti|co
+onanizar	verbo	o|na|ni|[zar]
+onça	nome feminino	[on]|ça
+onça	adjetivo	[on]|ça
+onça-pintada	nome feminino	on|ça-pin|[ta]|da
+onceiro	nome masculino	on|[cei]|ro
+oncídia	nome feminino	on|[cí]|di|a
+oncídio	nome masculino	on|[cí]|di|o
+oncocéfalo	nome masculino	on|co|[cé]|fa|lo
+oncódero	nome masculino	on|[có]|de|ro
+oncóforo	nome masculino	on|[có]|fo|ro
+oncogene	nome masculino	on|co|[ge]|ne
+oncogénese	nome feminino	on|co|[gé]|ne|se
+oncogênese	nome feminino	on|co|[gê]|ne|se
+oncogenia	nome feminino	on|co|ge|[ni]|a
+oncogénico	adjetivo	on|co|[gé]|ni|co
+oncogénico	nome masculino	on|co|[gé]|ni|co
+oncogênico	adjetivo	on|co|[gê]|ni|co
+oncogênico	nome masculino	on|co|[gê]|ni|co
+oncografia	nome feminino	on|co|gra|[fi]|a
+oncográfico	adjetivo	on|co|[grá]|fi|co
+oncógrafo	nome masculino	on|[có]|gra|fo
+oncóloga	nome feminino	on|[có]|lo|ga
+oncologia	nome feminino	on|co|lo|[gi]|a
+oncológico	adjetivo	on|co|[ló]|gi|co
+oncologista	nome masculino	on|co|lo|[gis]|ta
+oncologista	nome feminino	on|co|lo|[gis]|ta
+oncólogo	nome masculino	on|[có]|lo|go
+oncose	nome feminino	on|[co]|se
+oncosperma	nome feminino	on|cos|[per]|ma
+oncótico	adjetivo	on|[có]|ti|co
+oncotomia	nome feminino	on|co|to|[mi]|a
+oncotômico	adjetivo	on|co|[tô]|mi|co
+oncotómico	adjetivo	on|co|[tó]|mi|co
+onda	nome feminino	[on]|da
+ondada	nome feminino	on|[da]|da
+ondado	adjetivo	on|[da]|do
+ondagem	nome feminino	on|[da]|gem
+ondala	nome feminino	on|[da]|la
+ondar	verbo	on|[dar]
+ondatra	nome masculino	on|[da]|tra
+onde	pronome relativo	[on]|de
+onde	advérbio	[on]|de
+onde	pronome interrogativo	[on]|de
+ondeado	adjetivo	on|de|[a]|do
+ondeado	nome masculino	on|de|[a]|do
+ondeamento	nome masculino	on|de|a|[men]|to
+ondeante	adjetivo	on|de|[an]|te
+ondear	verbo	on|de|[ar]
+ondeio	nome masculino	on|[dei]|o
+ondeirada	nome feminino	on|dei|[ra]|da
+ondejante	adjetivo	on|de|[jan]|te
+ondejar	verbo	on|de|[jar]
+ondele	nome masculino	on|[de]|le
+ondímetro	nome masculino	on|[dí]|me|tro
+ondina	nome feminino	on|[di]|na
+ondinismo	nome masculino	on|di|[nis]|mo
+ondógrafo	nome masculino	on|[dó]|gra|fo
+ôndula	nome feminino	[ôn]|du|la
+ondulação	nome feminino	on|du|la|[ção]
+ondulado	adjetivo	on|du|[la]|do
+ondulado	nome masculino	on|du|[la]|do
+ondulância	nome feminino	on|du|[lân]|ci|a
+ondulante	adjetivo	on|du|[lan]|te
+ondular	adjetivo	on|du|[lar]
+ondular	verbo	on|du|[lar]
+ondulatoriamente	advérbio	on|du|la|to|ri|a|[men]|te
+ondulatório	adjetivo	on|du|la|[tó]|ri|o
+ondulável	adjetivo	on|du|[lá]|vel
+ondulina	nome feminino	on|du|[li]|na
+ondulosamente	advérbio	on|du|lo|sa|[men]|te
+onduloso	adjetivo	on|du|[lo]|so
+ondurmanês	nome masculino	on|dur|ma|[nês]
+ondurmanês	adjetivo	on|dur|ma|[nês]
+onerado	adjetivo	o|ne|[ra]|do
+onerante	adjetivo	o|ne|[ran]|te
+onerar	verbo	o|ne|[rar]
+onerário	adjetivo	o|ne|[rá]|ri|o
+onerosamente	advérbio	o|ne|ro|sa|[men]|te
+onerosidade	nome feminino	o|ne|ro|si|[da]|de
+oneroso	adjetivo	o|ne|[ro]|so
+onésia	nome feminino	o|[né]|si|a
+onesite	nome feminino	o|ne|[si]|te
+oneta	nome feminino	o|[ne]|ta
+onfacino	adjetivo	on|fa|[ci]|no
+ostráceo	nome masculino	os|[trá]|ce|o
+ostráceo	adjetivo	os|[trá]|ce|o
+ostracino	adjetivo	os|tra|[ci]|no
+ostrácio	nome masculino	os|[trá]|ci|o
+ostracismo	nome masculino	os|tra|[cis]|mo
+ostracista	nome masculino	os|tra|[cis]|ta
+ostracista	nome feminino	os|tra|[cis]|ta
+ostracita	nome feminino	os|tra|[ci]|ta
+ostracita	nome masculino	os|tra|[ci]|ta
+ostracite	nome feminino	os|tra|[ci]|te
+ostracizar	verbo	os|tra|ci|[zar]
+ostracode	nome masculino	os|tra|[co]|de
+ostracódeo	nome masculino	os|tra|[có]|de|o
+ostracodermo	nome masculino	os|tra|co|[der]|mo
+ostracodermos	nome masculino	os|tra|co|[der]|mos
+ostracologia	nome feminino	os|tra|co|lo|[gi]|a
+ostracológico	adjetivo	os|tra|co|[ló]|gi|co
+ostracomorfita	nome masculino	os|tra|co|mor|[fi]|ta
+ostrano	adjetivo	os|[tra]|no
+ostrano	nome masculino	os|[tra]|no
+ostraria	nome feminino	os|tra|[ri]|a
+ostreário	adjetivo	os|tre|[á]|ri|o
+ostreícola	adjetivo	os|tre|[í]|co|la
+ostreicultor	nome masculino	os|trei|cul|[tor]
+ostreicultor	adjetivo	os|trei|cul|[tor]
+ostreicultora	nome feminino	os|trei|cul|[to]|ra
+ostreicultura	nome feminino	os|trei|cul|[tu]|ra
+ostreida	nome masculino	os|[trei]|da
+ostreida	nome masculino	os|[trei]|da
+ostreídeo	nome masculino	os|tre|[í]|de|o
+ostreídeo	nome masculino	os|tre|[í]|de|o
+ostreídeo	adjetivo	os|tre|[í]|de|o
+ostreífero	adjetivo	os|tre|[í]|fe|ro
+ostreiforme	adjetivo	os|trei|[for]|me
+ostreína	nome feminino	os|tre|[í]|na
+ostreira	nome feminino	os|[trei]|ra
+ostreiro	adjetivo	os|[trei]|ro
+ostreiro	nome masculino	os|[trei]|ro
+ostrícola	adjetivo	os|[trí]|co|la
+ostricultor	nome masculino	os|tri|cul|[tor]
+ostricultor	adjetivo	os|tri|cul|[tor]
+ostricultura	nome feminino	os|tri|cul|[tu]|ra
+ostrífero	adjetivo	os|[trí]|fe|ro
+ostrinho	nome masculino	os|[tri]|nho
+ostrino	adjetivo	os|[tri]|no
+ostro	nome masculino	[os]|tro
+ostrogoda	nome feminino	os|tro|[go]|da
+ostrogodo	adjetivo	os|tro|[go]|do
+ostrogodo	nome masculino	os|tro|[go]|do
+ota	interjeição	[o]|ta
+otacústica	nome feminino	o|ta|[cús]|ti|ca
+otacústico	adjetivo	o|ta|[cús]|ti|co
+otalgia	nome feminino	o|tal|[gi]|a
+otálgico	adjetivo	o|[tál]|gi|co
+otantera	nome feminino	o|tan|[te]|ra
+otária	nome feminino	o|[tá]|ri|a
+otaríida	nome masculino	o|ta|[rí]|i|da
+otaríida	nome masculino	o|ta|[rí]|i|da
+otariídeo	nome masculino	o|ta|ri|[í]|de|o
+otariídeo	adjetivo	o|ta|ri|[í]|de|o
+otariídeo	nome masculino	o|ta|ri|[í]|de|o
+otário	nome masculino	o|[tá]|ri|o
+otávia	nome feminino	o|[tá]|vi|a
+otaviano	adjetivo	o|ta|vi|[a]|no
+oteca	nome feminino	o|[te]|ca
+otematoma	nome masculino	o|te|ma|[to]|ma
+otesino	nome masculino	o|te|[si]|no
+otesino	adjetivo	o|te|[si]|no
+otiatria	nome feminino	o|ti|a|[tri]|a
+otiátrico	adjetivo	o|ti|[á]|tri|co
+otiatro	nome masculino	o|ti|[a]|tro
+ótica	nome feminino	[ó]|ti|ca
+oticidade	nome feminino	o|ti|ci|[da]|de
+oticista	adjetivo	o|ti|[cis]|ta
+oticista	nome masculino	o|ti|[cis]|ta
+oticista	nome feminino	o|ti|[cis]|ta
+ótico	adjetivo	[ó]|ti|co
+ótico	nome masculino	[ó]|ti|co
+oticometria	nome feminino	o|ti|co|me|[tri]|a
+oticométrico	adjetivo	o|ti|co|[mé]|tri|co
+oticómetro	nome masculino	o|ti|[có]|me|tro
+otídida	nome masculino	o|[tí]|di|da
+otídida	nome masculino	o|[tí]|di|da
+otidídeo	nome masculino	o|ti|[dí]|de|o
+otidídeo	nome masculino	o|ti|[dí]|de|o
+otidídeo	adjetivo	o|ti|[dí]|de|o
+otimacia	nome feminino	o|ti|ma|[ci]|a
+otimamente	advérbio	o|ti|ma|[men]|te
+otimate	nome masculino	o|ti|[ma]|te
+otimismo	nome masculino	o|ti|[mis]|mo
+otimista	adjetivo	o|ti|[mis]|ta
+otimista	nome masculino	o|ti|[mis]|ta
+otimista	nome feminino	o|ti|[mis]|ta
+otimístico	adjetivo	o|ti|[mís]|ti|co
+otimização	nome feminino	o|ti|mi|za|[ção]
+otimizar	verbo	o|ti|mi|[zar]
+ótimo	adjetivo	[ó]|ti|mo
+ótimo	nome masculino	[ó]|ti|mo
+ótimo	interjeição	[ó]|ti|mo
+otite	nome feminino	o|[ti]|te
+ontogonia	nome feminino	on|to|go|[ni]|a
+ontogônico	adjetivo	on|to|[gô]|ni|co
+ontogónico	adjetivo	on|to|[gó]|ni|co
+ontóloga	nome feminino	on|[tó]|lo|ga
+ontologia	nome feminino	on|to|lo|[gi]|a
+ontologicamente	advérbio	on|to|lo|gi|ca|[men]|te
+ontológico	adjetivo	on|to|[ló]|gi|co
+ontologismo	nome masculino	on|to|lo|[gis]|mo
+ontologismo	nome feminino	on|to|lo|[gis]|mo
+ontologista	nome masculino	on|to|lo|[gis]|ta
+ontologista	nome feminino	on|to|lo|[gis]|ta
+ontólogo	nome masculino	on|[tó]|lo|go
+ônus	nome masculino	[ô]|nus
+ónus	nome masculino	[ó]|nus
+onusiano	adjetivo	o|nu|si|[a]|no
+onusto	adjetivo	o|[nus]|to
+onze	adjetivo	[on]|ze
+onze	nome masculino	[on]|ze
+onze-letras	nome feminino	on|ze-le|tras
+onzena	nome feminino	on|[ze]|na
+onzenar	verbo	on|ze|[nar]
+onzenário	adjetivo	on|ze|[ná]|ri|o
+onzenário	nome masculino	on|ze|[ná]|ri|o
+onzenear	verbo	on|ze|ne|[ar]
+onzeneira	nome feminino	on|ze|[nei]|ra
+onzeneiro	nome masculino	on|ze|[nei]|ro
+onzeneiro	adjetivo	on|ze|[nei]|ro
+onzenice	nome feminino	on|ze|[ni]|ce
+onzeno	adjetivo	on|[ze]|no
+oó	nome masculino	o|[ó]
+ooblasto	nome masculino	o|o|[blas]|to
+oocíano	nome masculino	o|o|[cí]|a|no
+oocitário	adjetivo	o|o|ci|[tá]|ri|o
+oócito	nome masculino	o|[ó]|ci|to
+ooforalgia	nome feminino	o|o|fo|ral|[gi]|a
+ooforálgico	adjetivo	o|o|fo|[rál]|gi|co
+ooforectomia	nome feminino	o|o|fo|rec|to|[mi]|a
+ooforectômico	adjetivo	o|o|fo|rec|[tô]|mi|co
+ooforectómico	adjetivo	o|o|fo|rec|[tó]|mi|co
+ooforite	nome feminino	o|o|fo|[ri]|te
+oóforo	nome masculino	o|[ó]|fo|ro
+oofororrafia	nome feminino	o|o|fo|ror|ra|[fi]|a
+oofororráfico	adjetivo	o|o|fo|ror|[rá]|fi|co
+ooforossalpingectomia	nome feminino	o|o|fo|ros|sal|pin|gec|to|[mi]|a
+ooforossalpingectômico	adjetivo	o|o|fo|ros|sal|pin|gec|[tô]|mi|co
+ooforossalpingectómico	adjetivo	o|o|fo|ros|sal|pin|gec|[tó]|mi|co
+ooforossalpingite	nome feminino	o|o|fo|ros|sal|pin|[gi]|te
+oogamia	nome feminino	o|o|ga|[mi]|a
+oogâmico	adjetivo	o|o|[gâ]|mi|co
+oógamo	adjetivo	o|[ó]|ga|mo
+oogênese	nome feminino	o|o|[gê]|ne|se
+oogénese	nome feminino	o|o|[gé]|ne|se
+oogenético	adjetivo	o|o|ge|[né]|ti|co
+oogenia	nome feminino	o|o|ge|[ni]|a
+oogénico	adjetivo	o|o|[gé]|ni|co
+oogênico	adjetivo	o|o|[gê]|ni|co
+oogónia	nome feminino	o|o|[gó]|ni|a
+oogônia	nome feminino	o|o|[gô]|ni|a
+oogônio	nome masculino	o|o|[gô]|ni|o
+oogónio	nome masculino	o|o|[gó]|ni|o
+oolítico	adjetivo	o|o|[lí]|ti|co
+oólito	nome masculino	o|[ó]|li|to
+oologia	nome feminino	o|o|lo|[gi]|a
+oológico	adjetivo	o|o|[ló]|gi|co
+oomancia	nome feminino	o|o|man|[ci]|a
+oomante	nome masculino	o|o|[man]|te
+oomante	nome feminino	o|o|[man]|te
+oomântico	adjetivo	o|o|[mân]|ti|co
+oometra	nome feminino	o|o|[me]|tra
+oóptero	nome masculino	o|[óp]|te|ro
+ooscopia	nome feminino	o|os|co|[pi]|a
+ooscópico	adjetivo	o|os|[có]|pi|co
+ooscópio	nome masculino	o|os|[có]|pi|o
+oose	nome feminino	o|[o]|se
+oosfera	nome feminino	o|os|[fe]|ra
+oospório	nome masculino	o|os|[pó]|ri|o
+oossomo	nome masculino	o|os|[so]|mo
+ooteca	nome feminino	o|o|[te]|ca
+oótipo	nome masculino	o|[ó]|ti|po
+opa	nome feminino	[o]|pa
+opa	interjeição	[o]|pa
+opaba	nome masculino	o|[pa]|ba
+opacamente	advérbio	o|pa|ca|[men]|te
+opacar	verbo	o|pa|[car]
+opacidade	nome feminino	o|pa|ci|[da]|de
+opacificação	nome feminino	o|pa|ci|fi|ca|[ção]
+opacificado	adjetivo	o|pa|ci|fi|[ca]|do
+opacificar	verbo	o|pa|ci|fi|[car]
+opacimetria	nome feminino	o|pa|ci|me|[tri]|a
+opaco	adjetivo	o|[pa]|co
+opado	adjetivo	o|[pa]|do
+opal	nome masculino	o|[pal]
+opala	nome feminino	o|[pa]|la
+opala	nome masculino	o|[pa]|la
+opala	adjetivo	o|[pa]|la
+opalanda	nome feminino	o|pa|[lan]|da
+opalescência	nome feminino	o|pa|les|[cên]|ci|a
+opalescente	adjetivo	o|pa|les|[cen]|te
+opalescer	verbo	o|pa|les|[cer]
+opalífero	adjetivo	o|pa|[lí]|fe|ro
+obsessivo	nome masculino	ob|ses|[si]|vo
+obsessivo-compulsivo	adjetivo	ob|ses|si|vo-com|pul|[si]|vo
+obsesso	nome masculino	ob|[ses]|so
+obsesso	adjetivo	ob|[ses]|so
+obsessor	adjetivo	ob|ses|[sor]
+obsessor	nome masculino	ob|ses|[sor]
+obsessora	nome feminino	ob|ses|[so]|ra
+obsiana	nome feminino	ob|si|[a]|na
+obsidente	adjetivo	ob|si|[den]|te
+obsidente	nome masculino	ob|si|[den]|te
+obsidente	nome feminino	ob|si|[den]|te
+obsidiana	nome feminino	ob|si|di|[a]|na
+obsidiante	adjetivo	ob|si|di|[an]|te
+obsidiar	verbo	ob|si|di|[ar]
+obsidional	adjetivo	ob|si|di|o|[nal]
+obsignador	nome masculino	ob|sig|na|[dor]
+obsolescência	nome feminino	ob|so|les|[cên]|ci|a
+obsolescente	adjetivo	ob|so|les|[cen]|te
+obsoletismo	nome masculino	ob|so|le|[tis]|mo
+obsoleto	adjetivo	ob|so|[le]|to
+obstaculizar	verbo	obs|ta|cu|li|[zar]
+obstáculo	nome masculino	obs|[tá]|cu|lo
+obstante	adjetivo	obs|[tan]|te
+obstar	verbo	obs|[tar]
+obstativo	adjetivo	obs|ta|[ti]|vo
+obstável	adjetivo	obs|[tá]|vel
+obstetra	nome masculino	obs|[te]|tra
+obstetra	nome feminino	obs|[te]|tra
+obstétrica	nome feminino	obs|[té]|tri|ca
+obstetrical	adjetivo	obs|te|tri|[cal]
+obstetricano	nome masculino	obs|te|tri|[ca]|no
+obstetrícia	nome feminino	obs|te|[trí]|ci|a
+obstetrício	adjetivo	obs|te|[trí]|ci|o
+obstétrico	adjetivo	obs|[té]|tri|co
+obstetriz	nome feminino	obs|te|[triz]
+obstinação	nome feminino	obs|ti|na|[ção]
+obstinada	nome feminino	obs|ti|[na]|da
+obstinadamente	advérbio	obs|ti|na|da|[men]|te
+obstinado	adjetivo	obs|ti|[na]|do
+obstinado	nome masculino	obs|ti|[na]|do
+obstinar	verbo	obs|ti|[nar]
+obstipação	nome feminino	obs|ti|pa|[ção]
+obstipante	adjetivo	obs|ti|[pan]|te
+obstipar	verbo	obs|ti|[par]
+obstipidade	nome feminino	obs|ti|pi|[da]|de
+obstringir	verbo	obs|trin|[gir]
+obstrito	adjetivo	obs|[tri]|to
+obstrução	nome feminino	obs|tru|[ção]
+obstrucionismo	nome masculino	obs|tru|ci|o|[nis]|mo
+obstrucionista	nome masculino	obs|tru|ci|o|[nis]|ta
+obstrucionista	adjetivo	obs|tru|ci|o|[nis]|ta
+obstrucionista	nome feminino	obs|tru|ci|o|[nis]|ta
+obstruente	adjetivo	obs|tru|[en]|te
+obstruído	adjetivo	obs|tru|[í]|do
+obstruir	verbo	obs|tru|[ir]
+obstruível	adjetivo	obs|tru|[í]|vel
+obstrutivo	adjetivo	obs|tru|[ti]|vo
+obstrutor	adjetivo	obs|tru|[tor]
+obstrutor	nome masculino	obs|tru|[tor]
+obstrutora	nome feminino	obs|tru|[to]|ra
+obstupefação	nome feminino	obs|tu|pe|fa|[ção]
+obstupefacto	adjetivo	obs|tu|pe|[fac]|to
+obstupefato	adjetivo	obs|tu|pe|[fa]|to
+obstúpido	adjetivo	obs|[tú]|pi|do
+obsubulado	adjetivo	ob|su|bu|[la]|do
+obsutural	adjetivo	ob|su|tu|[ral]
+obtéctea	nome feminino	ob|[téc]|te|a
+obtemperação	nome feminino	ob|tem|pe|ra|[ção]
+obtemperante	adjetivo	ob|tem|pe|[ran]|te
+obtemperar	verbo	ob|tem|pe|[rar]
+obtenção	nome feminino	ob|ten|[ção]
+obtenível	adjetivo	ob|te|[ní]|vel
+obtentor	adjetivo	ob|ten|[tor]
+obtentor	nome masculino	ob|ten|[tor]
+obter	verbo	ob|[ter]
+obtestação	nome feminino	ob|tes|ta|[ção]
+obtestar	verbo	ob|tes|[tar]
+obtido	adjetivo	ob|[ti]|do
+obtundente	adjetivo	ob|tun|[den]|te
+obtundir	verbo	ob|tun|[dir]
+obturação	nome feminino	ob|tu|ra|[ção]
+obturador	nome masculino	ob|tu|ra|[dor]
+obturador	adjetivo	ob|tu|ra|[dor]
+obturante	adjetivo	ob|tu|[ran]|te
+obturante	nome masculino	ob|tu|[ran]|te
+obturar	verbo	ob|tu|[rar]
+obturável	adjetivo	ob|tu|[rá]|vel
+obturbinado	adjetivo	ob|tur|bi|[na]|do
+obtusado	adjetivo	ob|tu|[sa]|do
+obtusamente	advérbio	ob|tu|sa|[men]|te
+obtusangulado	adjetivo	ob|tu|san|gu|[la]|do
+obtusângulo	adjetivo	ob|tu|[sân]|gu|lo
+obtusão	nome feminino	ob|tu|[são]
+obtusidade	nome feminino	ob|tu|si|[da]|de
+obtusífido	adjetivo	ob|tu|[sí]|fi|do
+obtusifloro	adjetivo	ob|tu|si|[flo]|ro
+obtusifoliado	adjetivo	ob|tu|si|fo|li|[a]|do
+obtusifólio	adjetivo	ob|tu|si|[fó]|li|o
+obtusilíngue	adjetivo	ob|tu|si|[lín]|gue
+obtusilobulado	adjetivo	ob|tu|si|lo|bu|[la]|do
+octeto	nome masculino	oc|[te]|to
+octicista	adjetivo	oc|ti|[cis]|ta
+octil	adjetivo	oc|[til]
+octilhão	nome masculino	oc|ti|[lhão]
+octilhão	adjetivo	oc|ti|[lhão]
+octilião	nome masculino	oc|ti|li|[ão]
+octilião	adjetivo	oc|ti|li|[ão]
+octilo	nome masculino	oc|[ti]|lo
+octingentésimo	número ordinal	oc|tin|gen|[té]|si|mo
+octingentésimo	número fraccional	oc|tin|gen|[té]|si|mo
+octingentésimo	adjetivo	oc|tin|gen|[té]|si|mo
+octingentésimo	nome masculino	oc|tin|gen|[té]|si|mo
+octípede	adjetivo	oc|[tí]|pe|de
+octobléfaro	nome masculino	oc|to|[blé]|fa|ro
+octobótrio	nome masculino	oc|to|[bó]|tri|o
+octocoraliário	nome masculino	oc|to|co|ra|li|[á]|ri|o
+octocórneo	adjetivo	oc|to|[cór]|ne|o
+octodecimal	adjetivo	oc|to|de|ci|[mal]
+octodonte	nome masculino	oc|to|[don]|te
+octodôntida	nome masculino	oc|to|[dôn]|ti|da
+octodontídeo	nome masculino	oc|to|don|[tí]|de|o
+octodontídeo	nome masculino	oc|to|don|[tí]|de|o
+octodontídeo	adjetivo	oc|to|don|[tí]|de|o
+octoduodecimal	adjetivo	oc|to|du|o|de|ci|[mal]
+octófido	adjetivo	oc|[tó]|fi|do
+octofilo	adjetivo	oc|to|[fi]|lo
+octóforo	nome masculino	oc|[tó]|fo|ro
+octógamo	adjetivo	oc|[tó]|ga|mo
+octogenária	nome feminino	oc|to|ge|[ná]|ri|a
+octogenário	adjetivo	oc|to|ge|[ná]|ri|o
+octogenário	nome masculino	oc|to|ge|[ná]|ri|o
+octogésimo	número fraccional	oc|to|[gé]|si|mo
+octogésimo	nome masculino	oc|to|[gé]|si|mo
+octogésimo	número ordinal	oc|to|[gé]|si|mo
+octogésimo	adjetivo	oc|to|[gé]|si|mo
+octoginia	nome feminino	oc|to|gi|[ni]|a
+octogínia	nome feminino	oc|to|[gí]|ni|a
+octogínico	adjetivo	oc|to|[gí]|ni|co
+octógino	adjetivo	oc|[tó]|gi|no
+octoglosso	nome masculino	oc|to|[glos]|so
+octogonal	adjetivo	oc|to|go|[nal]
+octógono	nome masculino	oc|[tó]|go|no
+octógono	adjetivo	oc|[tó]|go|no
+octolépide	adjetivo	oc|to|[lé]|pi|de
+octolíngue	adjetivo	oc|to|[lín]|gue
+octolobulado	adjetivo	oc|to|lo|bu|[la]|do
+octoméria	nome feminino	oc|to|[mé]|ri|a
+octonado	adjetivo	oc|to|[na]|do
+octonário	adjetivo	oc|to|[ná]|ri|o
+octonário	nome masculino	oc|to|[ná]|ri|o
+octopétalo	adjetivo	oc|to|[pé]|ta|lo
+octópode	adjetivo	oc|[tó]|po|de
+octópode	nome masculino	oc|[tó]|po|de
+octopódio	nome masculino	oc|to|[pó]|di|o
+octorreme	adjetivo	oc|tor|[re]|me
+octorreme	nome feminino	oc|tor|[re]|me
+octossecular	adjetivo	oc|tos|se|cu|[lar]
+octossépalo	adjetivo	oc|tos|[sé]|pa|lo
+octossesdecimal	adjetivo	oc|tos|ses|de|ci|[mal]
+octossesvigesimal	adjetivo	oc|tos|ses|vi|ge|si|[mal]
+octossilábico	adjetivo	oc|tos|si|[lá]|bi|co
+octossílabo	adjetivo	oc|tos|[sí]|la|bo
+octossílabo	nome masculino	oc|tos|[sí]|la|bo
+octostêmone	adjetivo	oc|tos|[tê]|mo|ne
+octostémone	adjetivo	oc|tos|[té]|mo|ne
+octostilo	adjetivo	oc|tos|[ti]|lo
+octostilo	nome masculino	oc|tos|[ti]|lo
+octotrigesimal	adjetivo	oc|to|tri|ge|si|[mal]
+octovalve	adjetivo	oc|to|[val]|ve
+octovigesimal	adjetivo	oc|to|vi|ge|si|[mal]
+octovirado	nome masculino	oc|to|vi|[ra]|do
+octovirato	nome masculino	oc|to|vi|[ra]|to
+octóviro	nome masculino	oc|[tó]|vi|ro
+octulano	adjetivo	oc|tu|[la]|no
+octulano	nome masculino	oc|tu|[la]|no
+octuplicar	verbo	oc|tu|pli|[car]
+óctuplo	adjetivo	[óc]|tu|plo
+óctuplo	número multiplicativo	[óc]|tu|plo
+óctuplo	nome masculino	[óc]|tu|plo
+oculação	nome feminino	o|cu|la|[ção]
+oculado	adjetivo	o|cu|[la]|do
+oculado	nome masculino	o|cu|[la]|do
+ocular	nome feminino	o|cu|[lar]
+ocular	adjetivo	o|cu|[lar]
+ocular	verbo	o|cu|[lar]
+ocularidade	nome feminino	o|cu|la|ri|[da]|de
+ocularmente	advérbio	o|cu|lar|[men]|te
+ocúleo	nome masculino	o|[cú]|le|o
+oculífero	adjetivo	o|cu|[lí]|fe|ro
+oculiforme	adjetivo	o|cu|li|[for]|me
+oculina	nome feminino	o|cu|[li]|na
+oculinídeo	nome masculino	o|cu|li|[ní]|de|o
+oculinomancia	nome feminino	o|cu|li|no|man|[ci]|a
+oculinomante	nome masculino	o|cu|li|no|[man]|te
+oculinomante	nome feminino	o|cu|li|no|[man]|te
+oculinomântico	adjetivo	o|cu|li|no|[mân]|ti|co
+oculista	nome masculino	o|cu|[lis]|ta
+oculista	nome feminino	o|cu|[lis]|ta
+oculista	adjetivo	o|cu|[lis]|ta
+oculística	nome feminino	o|cu|[lís]|ti|ca
+ocidental	nome masculino	o|ci|den|[tal]
+ocidental	adjetivo	o|ci|den|[tal]
+ocidental	nome feminino	o|ci|den|[tal]
+ocidentalidade	nome feminino	o|ci|den|ta|li|[da]|de
+ocidentalismo	nome masculino	o|ci|den|ta|[lis]|mo
+ocidentalista	adjetivo	o|ci|den|ta|[lis]|ta
+ocidentalista	nome masculino	o|ci|den|ta|[lis]|ta
+ocidentalista	nome feminino	o|ci|den|ta|[lis]|ta
+ocidentalização	nome feminino	o|ci|den|ta|li|za|[ção]
+ocidentalizado	adjetivo	o|ci|den|ta|li|[za]|do
+ocidentalizar	verbo	o|ci|den|ta|li|[zar]
+ocidentalmente	advérbio	o|ci|den|tal|[men]|te
+ocidente	nome masculino	o|ci|[den]|te
+ocímea	nome feminino	o|[cí]|me|a
+ocimóidea	nome feminino	o|ci|[mói]|de|a
+ócio	nome masculino	[ó]|ci|o
+ociosa	nome feminino	o|ci|[o]|sa
+ociosamente	advérbio	o|ci|o|sa|[men]|te
+ociosidade	nome feminino	o|ci|o|si|[da]|de
+ocioso	adjetivo	o|ci|[o]|so
+ocioso	nome masculino	o|ci|[o]|so
+ocípode	nome masculino	o|[cí]|po|de
+ocíptero	nome masculino	o|[cíp]|te|ro
+ocisão	nome feminino	o|ci|[são]
+ocisivo	adjetivo	o|ci|[si]|vo
+ocitócico	adjetivo	o|ci|[tó]|ci|co
+ocitocina	nome feminino	o|ci|to|[ci]|na
+ocítoe	nome feminino	o|[cí]|to|e
+oclocracia	nome feminino	o|clo|cra|[ci]|a
+oclocrático	adjetivo	o|clo|[crá]|ti|co
+oclofobia	nome feminino	o|clo|fo|[bi]|a
+oclófobo	nome masculino	o|[cló]|fo|bo
+oclófobo	adjetivo	o|[cló]|fo|bo
+oclusão	nome feminino	o|clu|[são]
+oclusiva	nome feminino	o|clu|[si]|va
+oclusivo	adjetivo	o|clu|[si]|vo
+ocluso	adjetivo	o|[clu]|so
+oclusor	adjetivo	o|clu|[sor]
+oclusor	nome masculino	o|clu|[sor]
+ocna	nome feminino	[oc]|na
+ocnácea	nome feminino	oc|[ná]|ce|a
+ocnáceo	adjetivo	oc|[ná]|ce|o
+oco	adjetivo	[o]|co
+oco	nome masculino	[o]|co
+ocoembo	nome masculino	o|co|[em]|bo
+ocorrência	nome feminino	o|cor|[rên]|ci|a
+ocorrente	adjetivo	o|cor|[ren]|te
+ocorrer	verbo	o|cor|[rer]
+ocoteia	nome feminino	o|co|[tei]|a
+ocozol	nome masculino	o|co|[zol]
+ocra	nome feminino	[o]|cra
+ocráceo	adjetivo	o|[crá]|ce|o
+ocrádene	nome masculino	o|[crá]|de|ne
+ocrantácea	nome feminino	o|cran|[tá]|ce|a
+ocrantáceo	adjetivo	o|cran|[tá]|ce|o
+ocranto	nome masculino	o|[cran]|to
+ocre	nome masculino	[o]|cre
+ocre-vermelho	nome masculino	o|cre-ver|[me]|lho
+ócrea	nome feminino	[ó]|cre|a
+ocreoso	adjetivo	o|cre|[o]|so
+ocríase	nome feminino	o|[crí]|a|se
+ocricórneo	adjetivo	o|cri|[cór]|ne|o
+ocriculano	adjetivo	o|cri|cu|[la]|no
+ocriculano	nome masculino	o|cri|cu|[la]|no
+ocrite	nome feminino	o|[cri]|te
+ocrocarpo	nome masculino	o|cro|[car]|po
+ocrocéfalo	adjetivo	o|cro|[cé]|fa|lo
+ocrodermia	nome feminino	o|cro|der|[mi]|a
+ocroíte	nome feminino	o|cro|[í]|te
+ocrólito	nome masculino	o|[cró]|li|to
+ocrópira	nome feminino	o|[cró]|pi|ra
+ocrópode	adjetivo	o|[cró]|po|de
+ocróptero	adjetivo	o|[cróp]|te|ro
+octã	nome feminino	oc|[tã]
+octacordo	adjetivo	oc|ta|[cor]|do
+octacordo	nome masculino	oc|ta|[cor]|do
+octaédrico	adjetivo	oc|ta|[é]|dri|co
+octaedriforme	adjetivo	oc|ta|e|dri|[for]|me
+octaedrita	nome feminino	oc|ta|e|[dri]|ta
+octaedrite	nome feminino	oc|ta|e|[dri]|te
+octaedrítico	adjetivo	oc|ta|e|[drí]|ti|co
+octaedro	nome masculino	oc|ta|[e]|dro
+octaetéride	nome feminino	oc|ta|e|[té]|ri|de
+octâmetro	adjetivo	oc|[tâ]|me|tro
+octâmetro	nome masculino	oc|[tâ]|me|tro
+octamina	nome feminino	oc|ta|[mi]|na
+octana	nome feminino	oc|[ta]|na
+octândria	nome feminino	oc|[tân]|dri|a
+octandria	nome feminino	oc|tan|[dri]|a
+octândrico	adjetivo	oc|[tân]|dri|co
+octandro	adjetivo	oc|[tan]|dro
+octangular	adjetivo	oc|tan|gu|[lar]
+octano	nome masculino	oc|[ta]|no
+octante	nome masculino	oc|[tan]|te
+octantéreo	adjetivo	oc|tan|[té]|re|o
+octantero	adjetivo	oc|tan|[te]|ro
+octávia	nome feminino	oc|[tá]|vi|a
+octaviano	adjetivo	oc|ta|vi|[a]|no
+octeno	nome masculino	oc|[te]|no
+octere	nome feminino	oc|[te]|re
+olímpico	adjetivo	o|[lím]|pi|co
+olímpio	adjetivo	o|[lím]|pi|o
+olimpismo	nome masculino	o|lim|[pis]|mo
+olimpo	nome masculino	o|[lim]|po
+olindense	nome feminino	o|lin|[den]|se
+olindense	nome masculino	o|lin|[den]|se
+olindense	adjetivo	o|lin|[den]|se
+olíntico	adjetivo	o|[lín]|ti|co
+olíntico	nome masculino	o|[lín]|ti|co
+olíntio	adjetivo	o|[lín]|ti|o
+olíntio	nome masculino	o|[lín]|ti|o
+olira	nome feminino	o|[li]|ra
+olírea	nome feminino	o|[lí]|re|a
+olisipófila	nome feminino	o|li|si|[pó]|fi|la
+olisipófilo	nome masculino	o|li|si|[pó]|fi|lo
+olisipófilo	adjetivo	o|li|si|[pó]|fi|lo
+olisipografia	nome feminino	o|li|si|po|gra|[fi]|a
+olisipográfico	adjetivo	o|li|si|po|[grá]|fi|co
+olisipógrafo	nome masculino	o|li|si|[pó]|gra|fo
+olisiponense	adjetivo	o|li|si|po|[nen]|se
+olisiponense	nome masculino	o|li|si|po|[nen]|se
+olisiponense	nome feminino	o|li|si|po|[nen]|se
+olissipófilo	adjetivo	o|lis|si|[pó]|fi|lo
+olissipófilo	nome masculino	o|lis|si|[pó]|fi|lo
+olissipografia	nome feminino	o|lis|si|po|gra|[fi]|a
+olissipográfico	adjetivo	o|lis|si|po|[grá]|fi|co
+olissipógrafo	nome masculino	o|lis|si|[pó]|gra|fo
+olissiponense	nome masculino	o|lis|si|po|[nen]|se
+olissiponense	adjetivo	o|lis|si|po|[nen]|se
+olistero	nome masculino	o|lis|[te]|ro
+olistópode	nome masculino	o|lis|[tó]|po|de
+oliva	nome feminino	o|[li]|va
+oliva	adjetivo	o|[li]|va
+oliva	nome masculino	o|[li]|va
+oliváceo	adjetivo	o|li|[vá]|ce|o
+olival	nome masculino	o|li|[val]
+olivalense	adjetivo	o|li|va|[len]|se
+olivalense	nome masculino	o|li|va|[len]|se
+olivalense	nome feminino	o|li|va|[len]|se
+olivar	adjetivo	o|li|[var]
+olivário	adjetivo	o|li|[vá]|ri|o
+olivedo	nome masculino	o|li|[ve]|do
+oliveira	nome feminino	o|li|[vei]|ra
+oliveira-brava	nome feminino	o|li|vei|ra-bra|va
+oliveira-do-paraíso	nome feminino	o|li|vei|ra-do-pa|ra|[í]|so
+oliveiral	nome masculino	o|li|vei|[ral]
+oliveirense	adjetivo	o|li|vei|[ren]|se
+oliveirense	nome masculino	o|li|vei|[ren]|se
+oliveirense	nome feminino	o|li|vei|[ren]|se
+olivel	nome masculino	o|li|[vel]
+olivençano	nome masculino	o|li|ven|[ça]|no
+olivençano	adjetivo	o|li|ven|[ça]|no
+oliventino	adjetivo	o|li|ven|[ti]|no
+oliventino	nome masculino	o|li|ven|[ti]|no
+olíveo	adjetivo	o|[lí]|ve|o
+olivéria	nome feminino	o|li|[vé]|ri|a
+oliveta	nome feminino	o|li|[ve]|ta
+olivícola	adjetivo	o|li|[ví]|co|la
+olivicultor	nome masculino	o|li|vi|cul|[tor]
+olivicultor	adjetivo	o|li|vi|cul|[tor]
+olivicultora	nome feminino	o|li|vi|cul|[to]|ra
+olivicultura	nome feminino	o|li|vi|cul|[tu]|ra
+olivífero	adjetivo	o|li|[ví]|fe|ro
+oliviforme	adjetivo	o|li|vi|[for]|me
+olivila	nome feminino	o|li|[vi]|la
+olivina	nome feminino	o|li|[vi]|na
+olivínico	adjetivo	o|li|[ví]|ni|co
+olmeca	adjetivo	ol|[me]|ca
+olmeca	nome masculino	ol|[me]|ca
+olmeca	nome feminino	ol|[me]|ca
+olmedal	nome masculino	ol|me|[dal]
+olmédia	nome feminino	ol|[mé]|di|a
+olmedo	nome masculino	ol|[me]|do
+olmeira	nome feminino	ol|[mei]|ra
+olmeiro	nome masculino	ol|[mei]|ro
+olmo	nome masculino	[ol]|mo
+olongo	nome masculino	o|[lon]|go
+oloófrone	nome masculino	o|lo|[ó]|fro|ne
+olor	nome masculino	o|[lor]
+olorado	adjetivo	o|lo|[ra]|do
+olorizar	verbo	o|lo|ri|[zar]
+oloroso	adjetivo	o|lo|[ro]|so
+olvidado	adjetivo	ol|vi|[da]|do
+olvidar	verbo	ol|vi|[dar]
+olvidável	adjetivo	ol|vi|[dá]|vel
+olvido	nome masculino	ol|[vi]|do
+omacefalia	nome feminino	o|ma|ce|fa|[li]|a
+omacefálico	adjetivo	o|ma|ce|[fá]|li|co
+omacéfalo	nome masculino	o|ma|[cé]|fa|lo
+omagra	nome feminino	o|[ma]|gra
+omágua	adjetivo	o|[má]|gua
+omágua	nome masculino	o|[má]|gua
+omágua	nome feminino	o|[má]|gua
+omalgia	nome feminino	o|mal|[gi]|a
+omálgico	adjetivo	o|[mál]|gi|co
+omanense	nome masculino	o|ma|[nen]|se
+omanense	adjetivo	o|ma|[nen]|se
+omanense	nome feminino	o|ma|[nen]|se
+omani	adjetivo	o|ma|[ni]
+omani	nome masculino	o|ma|[ni]
